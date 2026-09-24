@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T16:46:45+00:00",
+"updated": "2026-09-24T16:57:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,70 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "259f1a435fb17e36",
+"title": "PB Fintech crashes, Tata Sons battle and HDFC Bank succession",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0hwVGFhYWhzMWJBRE1BUmxwbFFEcW04ZWRUZl9VbnRKV1JHUFB4NUlrTXB2ZG9jVzcwQWFma1FUNGlJeEM2bHBkM1hCd3A3WjJEZ2VVTnVuWlRUQ1p1YklyVlZzTzFGUGpvOEs3MXNlN3FKbjlxaTFva21vSXMxdjdLZ0RJVFpMRlh5T01VNUpYaTVWVlR1cQ?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-24T16:48:29+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "df8061477a86ebba",
+"title": "Axis Bank readies major customer-connect initiative to mark World Tourism Day",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWWFjeUhITEdpbXlvclNSZWNvczNIdTBlUVZ6VHNFQkFzb19jVE04Q2tFX1pZcU0zV1RzUkx0Mm5aZi1yT3hhZUQ5QXN5T2pyYWtDWTFHSHhLbVpxUnIyMlEtZy1uX1hwNkJ3bWpzWUZPbzJkdU5UdXdFRVdCVjJYQk9mR0VPcm5qQTM2V0w1RDhhNVZrYzBIMHlrMUVUc2p2dXZYRDhGUWNlRFdmNzVpRG56anBlUWJYbTE1M1JKc3ItSVk5Tk5Va25iclRXcTh6elh3R0lUWUlvRV9JOFNvZVVMX3BHZUkyNEFmb0txZkFRWFRFOWtv0gH8AUFVX3lxTE5sLTgzSFJyZjVZSl9oR0ZaeTRKaU1iTTVsX3ZkcFBDRjhpcWpNNmotNm9mZ245VDZGUV9hTHhLRjdGYzJvREpiRWxfVlpCWjFuSU4zZHpXTGxNQWgtUENrZkR2VzYwQ0pWMFd2c1JCUnFXMk81NTd6QWd1ZGs2SVBEYTJpVzFVN2hkT3FESnh5d0lSSzNPclBYOV9Ld0VTOUJlM0ttRUJ5d1dQRS1vWm1WQjgwM2E4T3lUOEd5aExLaHJIcG92UUpwbERrREljVXBNWnNsWDRiN0RSTGZvRDl4NFVXdG1ZSUFNTnNXN2NVRXZWLXdrNGJfNUZLeg?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-24T16:47:24+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cfbb43c7bf45b735",
+"title": "Bajaj Finserv backs Dhinidhi Desinghu, targets four sports for growth",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0pxa2xyMFo1dHViejBFNlZiYnM0d0tyUlROOWNLajZVOWNGdUtuSzNHWGtVRjVGRldiQjlSVXBDMEt4MTFpT2Jndm00SE1HTTI0ci1QSkI0QjlZT01rTG1RUkN4QUk0SzByUnZYU2RPMXhzTGtoZ0I2NXZZeEQyQjk3V3PSAYoBQVVfeXFMUDVYTjgzZmVyQkh0aDY1QTVvZHBkQmk3b3NXOWZERU5JcUZ1bWxqT1BPTVlKS1U5bmRRYVFMNkFYWWV2ODJqTHNrUWtWbTlGa2ZJNU45VVdlc01xLWJEWFFycmtGSXBwN1FITjFiRzdRbk8zYXgzN0NjNlhIZGRNYXFTbkVuNzh4NEtR?oc=5",
+"source": "Indian Sports Home",
+"published": "2026-09-24T16:45:16+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2d5154b063a692db",
+"title": "Adani To Invest Over Rs 1 Lac Crores in WB by 2035",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0NFeU40VDR5a2RxUkIxQXFRVmUxZ0JoT2hJYzhUUUJfUG5XRXZOS2VNYUp2cXFWUFZCS01sb21lVUw5Sk9iTHBKaW0wVmNucFA0RWFJcU51b256ajFJRnY3M2lGeUpaY3g4dTd5TnVwY19iNVdoV3FrcjM3dE84NmdwMksxMlc0ekwtQ2REN1V0MS1XaHFSNjc2c3JkUdIBowFBVV95cUxOWGpNdmIxOWMxbXo3b25hbEp0Y25xR3RXYWVULWNuWWY5SC1IMzdXQXVzb2tfN3JmMVpqTktXN0ttazVmbEVKMnZrMmJRRWc1c1AyRk14SlBXMkthNG5PSjVxczIyOWVSX3I4ZUhCVEJzdjBhSE9qcE80Um5zVGlLX0hUS3FOdHBXV2ZnOFpQd0FtcDRUVS1HdUlscmFmblhSZ1FN?oc=5",
+"source": "Deccan Chronicle",
+"published": "2026-09-24T16:44:10+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "00d31df51e21f89e",
 "title": "India: investigative journalist Ravi Nair denied interim release faces legal harassment over Adani Group investigations",
@@ -1114,6 +1178,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "411f90082c3a6fff",
+"title": "Journalist Ravi Nair gets bail in defamation case filed by Adani Enterprises",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ3kwcE5FdFFXd1ZROGtwai15US00elJyV0p3aS1tYlYwWlZxUlhNRnJOQWZ3TUVnNVBvc2d2blJkQnRDTzhTRE96WGk2dlNUaGdlZTU1ZG56S1E2ZE56akVfQXlocnlzd1Z3Y0t6RDJNRTJFQTc0Tlg2WVNwZFpQNmlpT2Q5bE8xWV9HMUpaTUw5ajdyc3FoOFVvNUg5MDBNSUJYOEJmbjNseXotVS1JQS1WV2hFZnlSejZMUkZrNWszOG1kOXFVZWRFNzBHMEIxTWfSAd8BQVVfeXFMUGdVTXN0Z3hqOEJITllkWU55VUNGbVVVTFFoOS1Pb1ZVdmUteEMtVWFNbDlUUGhVYjhmU3lVWFY5M2t2REdXVFYxMU5RV1hvNFBPNVZfODdOU3F2ZkNCSEdwWFV6d2NRVV9XWGtKZE5tVUszRXJvNHFyMkVmd3hRY2UxSHBlam1iY2QyV1ItZFJ6UThyLUN5WWlPOC1kLXdtSjBEd1V0VEJObU9HWVc5ZUNiWERab1kzSzRQTDM2Q0owUGtBb0dHOHZEWGZXR1VnVS1iRXlPOHFYdTcxZHJvRQ?oc=5",
+"source": "The New Indian Express",
+"published": "2026-09-24T13:50:18+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1c89714ef831b6be",
 "title": "Tech Mahindra and Verato Partner to Build Trusted Data Foundations for Healthcare AI",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM05qS3E0dGZqanRPbDdwNW5pdlN2bEtZa3pfeDNaS1VKNkhHcG5KM0dNaUt1TWtRMUZRUVVLWDlKWkl4RlZ0aXBYX0pvUVBrb1drSlhEc0ZsZ3JmUWliZmdBWlpMMUVBYklrSHBhaG5PSk1lb043TTFpYmdCMmRmZ2RhZlRaZE9KYnBsZC1Sa3JJRUZiQ1QtQm04V2FoQmpoaFJOYkVKd2xSR1I1M2txQWdqNVRJelhXNFRV?oc=5",
@@ -1374,6 +1454,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "740ce44932ec5ea1",
+"title": "Business News | Bajaj Finance Personal Loan Offers Rs. 40,000 to Rs. 55 Lakh with Tenures Up to 108 Months",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYmQ2TFk3U1lyUDQ2MHpxMzIxdVZ6Slp6TzVKWHo3QXQ3YnJUUlJrdHUwbmlRZUlhc2E2Wl9VLUNrNzZ4eGY3dUFUQkJiS1RrRkFTeDY1WHg4QlJMQlN5dnhBRUFXNC1UYjBXUjhyYzlzNU5OYWNpcnV0WHZtdUp4NEJOM0t1N1AwV0RNSGhCNTlucWw0Sm9zRVJJekhwMlI3YW9YVVpBalVBN3Q1d1pxWGhWdXJFSmU4RlctU0dRSnJub3R5bnVfNUtBU2VjWWlsREduOUJxV01CaWdvbGNyNkw0M0F2cmtfaUVZ0gHrAUFVX3lxTE9iZDZMWTdTWXJQNDYwenEzMjF1VnpKWnpPNUpYejdBdDdiclRSUmt0dTBuaVFlSWFzYTZaX1UtQ2s3Nnh4Zjd1QVRCQmJLVGtGQVN4NjVYeDhCUkxCU3l2eEFFQVc0LVRiMFdSOHJjOXM1Tk5hY2lydXRYdm11Sng0Qk4zS3U3UDBXRE1IaEI1OW5xbDRKb3NFUkl6SHAyUjdhb1hVWkFqVUE3dDV3WnFYaFZ1ckVKZThGVy1TR1FKcm5vdHludV81S0FTZWNZaWxER245QnFXTUJpZ29sY3I2TDQzQXZya19pRVk?oc=5",
+"source": "LatestLY",
+"published": "2026-09-24T12:58:29+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1964,6 +2060,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4fa2ae729183cdf1",
+"title": "Maruti Suzuki YL1 sedan could be named as Ciaz, to replace SX4 in India",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRG9YNjZfNzVCUWRqNnFwb0xPNEJYeUJubnl3aVpLUkstN0ZsLVBBY0NWbUMtZjF2Nkhxc0VGbFoxRXQ5ekd4WnJQOXA0dVBnUDM5NWpLanduNFBXejhNT21JU0NDZGZ4aDdKRVFhZGFQczZqRmZpTWxxQjU1aGRvOW1KZm1ka2M2aVVKX3cwMlhFc1NEX2RBT1pyei1LajNIYmFOVE5nazFaQnoyT2o5eTVSZnZWaEdzR1F1cmx3S1AwZ9IBwgFBVV95cUxNRG9YNjZfNzVCUWRqNnFwb0xPNEJYeUJubnl3aVpLUkstN0ZsLVBBY0NWbUMtZjF2Nkhxc0VGbFoxRXQ5ekd4WnJQOXA0dVBnUDM5NWpLanduNFBXejhNT21JU0NDZGZ4aDdKRVFhZGFQczZqRmZpTWxxQjU1aGRvOW1KZm1ka2M2aVVKX3cwMlhFc1NEX2RBT1pyei1LajNIYmFOVE5nazFaQnoyT2o5eTVSZnZWaEdzR1F1cmx3S1AwZw?oc=5",
+"source": "cardekho.com",
+"published": "2026-09-24T11:43:59+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2857,6 +2969,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "3c44452bdb18386f",
+"title": "Renault Kiger vs Maruti Suzuki Fronx : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTExBSmNZY1d0SEt4MVpDNnJHVDc2MjhwU1RvYzc5eTJJQWFLYkJncGlET2RhVG5xSG5WaHVDVnI0V0lpazVFWTRpZGZDVEh5TXRDZkFmYVo4N1dVVlZTVno4Zi1IUnVEOGNHZ0RfMDdITk1OYjdlZTVPejY?oc=5",
+"source": "autoX",
+"published": "2026-09-24T09:59:15+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6844,6 +6972,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f9253731807377e1",
+"title": "Maruti Suzuki Ertiga On Road Price Pathanapuram Sep 2026 - ₹10.79L",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWE1ZSm93aEVlSXc3em02QXo1cThZTXBscWZuTGhlTDcwUmFEZ29GSU4zRUppbHZHY1VJZkt2V0E1MnJLdkFHYVdyZHByOXF2XzA0YmRET1drZ3ZtbVMyOHc4TWJhU2xGV0htMl9NQnFEN2ZKVWNPMnA0TXVOY2JoallPVEdPZw?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T04:23:16+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bb61c94c90b47c57",
 "title": "HDFC Bank Share Price Falls Over 1% In Early Trade: What's Dragging The Stock?",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMU5uelBXX2pBQ0ZnejVGWmdCTy1lX1ZNTmhhZ2Zxb1J0NHNFSXpZMUt6VE0tY3VXdGJhYXI4anRZams2eC14eXFNcnpuTUQwZzR4S0YxUl9sd1RYLXFMZmpGclVoMWJ5YURIWDZ0amhpQmx0eU5sX0RIN19PcWJpci1TTW5FSlJpbE5LSEJJR3J5ZzQ2OGtjUkxFMjNqWkktdzhJYVd2Ri1Halp4OVpLWndJRlpySTdKNUHSAcIBQVVfeXFMT1VPYU9OS0dJRTdMR1N6ZVROM2tnUG5tWG9GUUEzNEJsa2Jkd3Y1YUZPQXJzaXFEWEtudTEzQl9hbXRQQnB5dWhGaGtJV2hqS2VNaGNHZTc5bVl5MndEQ1dFMFZNaU4xWjRJcG1DbHlkeTlVOHMwUWs4WnhQb280SzB2WUdSNXBCT0QyVHdhRXRqLUFUWW03dzBEaWtJdTVicXkxVmxVY0NDWVNObnhRcDRQLWJsTEdrdnFNTjRaejQxSmc?oc=5",
@@ -8340,6 +8484,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "033c66880b1bf7d1",
+"title": "Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tOGU1TFY5eEZXQ0hKeFR0MUNSYkdVX0VGLXhlSHFtNzRZd1UyTHVQNUI5cmI4cjFOdFMtTlNsd2h4WUFEak1BTTRWZ3V5Ymt6d1pqRVlKR212TDJWN2VFWi1rSzE0andENTNsMldmVFU?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T02:22:20+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5c19aef3bcefb760",
 "title": "UltraTech Cement Commissions New 4.6 MTPA Capacity to Reach 204.7 MTPA Domestic Capacity",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWZ1WnkySGxnZFdfUUZldWpwVWxKaERjakVjcUpobXN2c0haekV6RjNqZWhINjQ4Y3loTDluOXBaVk1RWGtEdFBhTFo2VnBrSzh2dWt6Tlk3VUpVSVExbm0yS2hXY2NwSmROc19oY3pvU1VUTzJMWkNKU2xBSzE4S0UtVVh4eFhoaUpQN2hjYjA1cGZjclhhR1JhcnhqdnRTTVFDSWlBNE01VnpuYnZCOTZPYWM?oc=5",
@@ -8666,6 +8826,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4d8de2f9758b83b8",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Naidupeta Sep 2026 - ₹12.25L",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm00bzRaR3lOX3BNVzhhbHA3RTE4WGs1SkpNZ2NySXliSnRQYzRxbjllU0F2cnRqN3FsT3FUcXNUeTFfRk1Qa3NVRDJVMWZJVk1XUlY4WkNJZnQzeXI4Tk5DOExaY2ZvTVBQc1I0S2JBSXIxRm8xTGR4ODYwYjhlS0wxM2tSMUtU?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T00:07:40+00:00",
+"first_seen": "2026-09-24T16:57:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
