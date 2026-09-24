@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T22:56:10+00:00",
+"updated": "2026-09-24T23:16:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,57 @@
 ],
 "items": [
 {
+"id": "6a2baaf8f2cb166a",
+"title": "Dr. Reddy's faces securities fraud probe after Q1 earnings hit by semaglutide batch issues.",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcktlWnRRQ3JPNjhjWmFqR0FZZEJHN3l5UzV4Y2FlV1NhZk8wdXJ3ZHAtV2pTeWtxMGx2Tzl5MGFtZVo3WFJaeUhJZk1uRjlEMXY4c0dEU093N1V0MkRKRVlXcURpVmE0Vkoyb0o2VWI2aU5rRmdjMlV5TVliWGs4bVk1dXduQ01rd2RycTI2UGlzY2NCaFZobkdYWTM?oc=5",
+"source": "Pluang",
+"published": "2026-09-24T22:57:00+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results",
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "5f12f3414fd98079",
+"title": "East must rise, Bengal essential to Indias next growth phase: Gautam Adani",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZoSGNqS2dhNmRxTWZhazV1QVlFc0pQeHJfaDFvTjB3cTA4VE1zTVpjbXRYcGVHOXNwWHJUSldYb2tnWlNHLXN0UFl3QllfZXZhdHgycEpGNEVBOGZoaUxhYVJyZG4tY0o0ei0tWTgtU0VWWEdKcXRuTXowQXM3MUQzWENGR3BtWWRMNXItU0ZBRUlNeHlhcDJzOU9SLXgySDQ1SkVLVdIBqwFBVV95cUxOTERwYU9CcmFMbDVkRFozMC1mY0VvVXBnc3lLMHIwOW5SaUd6VzVZVzdEMlo2UEpXUGh6YlA1UDh5Y3QyWUk5dGZsS1dZdlJsZnBuZlpPcVhwbFR2OFN0RFA2VUZhbjJBdThzMGNyTlZCTEZuNVdzMldXOE5Gdk03V25vejdMWm95QzRaSDVyZW1VZFliQUdaWTdHWk9qc1NVdWhmaG5qNTFia0k?oc=5",
+"source": "Daily Excelsior",
+"published": "2026-09-24T22:56:02+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "6b8b0f7456e00e8d",
+"title": "ONGC Stock And India Oil Plays Worth Watching As Crude Risk Rises",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUVtcUZEZ081ZmdfUjJVZHBwd2pWY18zQUV2QWRmOXBTWTFFdDRFOGhjalNlTWo5Q2Q1QV9jWkg0ZWEzd3o4WlBmdHdldE5FZWUzYTRrT2FwWlJjcm54b1FrNHVPQTFDcFhIbDdLeTRWSTNyb1pkaFpDbnZzMEUxOC1xVUhub1BfQXp6T1RRSzVtaXJlNU1jQUZaSUFjU1cwTmM4RmJFQU5FbEdwV2JUUkctLUJENlBGUk95U29vVjktbEFQeE4wSXY2UnR4WE55WWNZcnN30gHbAUFVX3lxTE1RMEpoWUVQaWc5VVcwQzhhZlh4T2dDcG9TMlQwV0ZMUlNOWGtEYlV5UjloYWhjQTQ2UXBtdkxhOEtlTTJmUnhzbWhiZmVMT1l1S0NNdnA4d00yM1p0MU1PUFI1dGkyX0FYQmdfZkZOS2toOG9laXo2TnZlWVk1b3Jld1o3czNpSGhTMm5rLTJaOVU5Q2dhTGFpUE5oWEs1WkZxeF9HeGYtdWlwZEdoLW1Ebjd5WnBYTDR6NWh2N0xnX2R6Qk00TllHSTFTWXc1Q1BpSDRNZGpWaG9yaw?oc=5",
+"source": "simplywall.st",
+"published": "2026-09-24T22:55:56+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "7c21adb2059d04f4",
 "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY",
 "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRnQ4dGM1cTNJU256eU9ZRHZBTXRnNkZxaWRVb09WUmlESDBSbTR4TFVaMndCbUVpYUJGZHhaYkl0eGkxZTFQS193Z0RmNEhVZHEwbEZlalh0SzBCLTJSdTBXNFNFV0VhcXgxUnJ5VllfbmpTVXI5NU45clJlQnFvR1VJRkhjUlFwZU9URjZZSHEtWjJ5MjdYSzFJWjJYWXRZZzhYV0lXQ29Qa1dTclNSZ044VTBmdHQ5dUFJSjVSd2MzN0I1ZEc3SmxHaTJrN29acTdwa0FBX2c4dC1YbVYyZTZobWVwNDcxbXJNYzhDbDJrOEVseXlHc0k1WkIxVnZUNVE?oc=5",
@@ -476,6 +527,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "52447053f722b046",
+"title": "Maruti Suzuki Baleno Touch Screen Infotainment System Image – Baleno Photos in India",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0ptV3hzWGhnc3lodkFKZUR0UTd6elowY256UFZRT19FVWpORVNLYlNCTWVmS0VDVWpTNXFHR3hJNV9LVXJjYlFnS2dJSGNtU1hmNFh6bjd1TXlfeGpHQmctb2NWd0E4YmljX0VIWEZxS0NYVEx0NkdmOFRSbUdRekhhUzVWbVVOYVNrckMzTzF2RVJ0ZFRlLWFn?oc=5",
+"source": "Autocar India",
+"published": "2026-09-24T22:19:34+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -567,6 +634,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b8a593c22dac49f8",
+"title": "Levi & Korsinsky Urges HDFC Bank Limited (HDB) Shareholders to Act Before Lead Plaintiff Deadline October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnZVaUNITGk1ak5OQ1BxeFVEYlFVV0V0VVlXOVdqd2JZOURXem5WY0ZWU1dvY3FyUmVIX0Q2WldkbGU5TjRhYndPa192NmdiejM5RDBuYXE5N2JSTVowTkRXT213WXhwLU5NcTRBMV9hM1NKejlDTGU4ZmpybGVpMmZIbVdzZEl3Nnp2djhHR3phbWV3MlJFdHlpczB0VDZ3bGpUT3N0dkpXYUJiVWY2SEtFTGU1SkZMaUlsbkRSQVZWR0hhOVZLeWZOeGRsWjYwYnVPQndHMkFrcUh6SXZqMExYV2o?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-09-24T20:20:08+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4270,6 +4353,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b6691f378e19d904",
+"title": "Zero-Debt Defence PSU Stock BEL Falls Despite Rs 1,081 Crore Orders Win; Buy-On-Dips For Rs 530 Target",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa18yY2w3RlVPYWxwcDZxQmZMY2ZGTUtIdWdzMjlHR3BuWUFQTnFEcF9oZDRKd213MlBSamNIMXpSTUFCMVZibkh5YlVCWTlFUC1mLW9FWGtWdUVBak5GZFVMbTdfNVpSbUJfWnNfTWdpMVF1S3d1cGVleUxnWVo3VjVHV0ZGa29ZQ0NIR3NTeVVOajFXWUg1MHFHcm9EOXhrRkZFaFZMWVRhTnBfTHZnMjAzUVVUaVkzMl9rRkM0MDZsUnQxaDRpT3Z4RWcxQWdaYWhTODFlQ3dOQQ?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T09:30:39+00:00",
+"first_seen": "2026-09-24T23:16:43+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
