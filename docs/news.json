@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T17:29:23+00:00",
+"updated": "2026-09-24T17:43:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -698,6 +698,38 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0556c8394ae1dab4",
+"title": "Adani Group delegation meets Suvendu Adhikari",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTk2X19iWEdENFJHQlZqYUNHcDBCU2JjM01EaGFnaWRNUTBQLUV4MHVQdDAtNFpMWHhudkttRnhLbGp6VWs5MzRhbVg5T1dsenJycUEzdDd0eXdzTDV6V2dKQlpOazVHaUhpMUR6ZHhqWmptenJhMmdQWldxUE1CcTFwSGtyRFJtdjJMazFqNGIyZlhYZE5qS2RXX0gzVmZDYUhXNw?oc=5",
+"source": "Prokerala",
+"published": "2026-09-24T15:45:00+00:00",
+"first_seen": "2026-09-24T17:43:33+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6a1d7370c4ef7f6d",
+"title": "WB CM, Gautam Adani lay foundation for 2,000-bed hospital in Kolkata",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2RTdmFLWmY0NHdwREtjUHVoRzN1QkMwR1pGUThKTGxsSXpXbDRaLTVkbE8wekc0YnBjVzFtQlZJa2U1MEItb1BpdlN2YWVSTzVNTjdWYjdnOGxzVHBEX2N6OVpQNkNXZVRVX0M2VFdIcnNpZnVYRVh5YzhUR05iQnlfNnNSNWdpUlYzUTlWSVZ5RFNlWU5Gcm1R?oc=5",
+"source": "Medical Buyer",
+"published": "2026-09-24T15:39:22+00:00",
+"first_seen": "2026-09-24T17:43:33+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3029,6 +3061,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e513910b3126b094",
+"title": "Larsen & Toubro Share Price Today: Valuation and Peer View",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGlWYlBzdjNqOWwtOEtLd0Y0VUZDNWhOTjNKQnp6ZE9zbm8wZXoyZGpjeW02cERyLWlpcDRQQnltb0otQ3lrRWRIMG14VHV5MXU2dTF4RWJEeHlkeS1FSUJUU1VMZ1Q0YnFWaS1RSWFTVGV1ZHJvNzBINnVIckY1cHVla3B0cVU?oc=5",
+"source": "Univest",
+"published": "2026-09-24T10:03:03+00:00",
+"first_seen": "2026-09-24T17:43:33+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8799,6 +8847,22 @@
 "source": "ZigWheels.com",
 "published": "2026-09-24T01:06:11+00:00",
 "first_seen": "2026-09-24T12:25:23+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8addbd81d7e4c34c",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Virajpet Sep 2026 - ₹12.39L",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWZENXRyRWp2cHNDajZONndWRGRVbkZuX082VjlPaGxDTVo5VEU1cFVRaTQ0ZjktS0hnZ3M1dnZadmlWN2JnWjRjZ3RMTks5Zl8wUVBaYzB6Y3BFYTZoQWxLS3Vxd3c4Y0VOV01ZdkdiX0xfYjJHZGpZLVpHUllJcGZlX0xvQmc?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T01:05:48+00:00",
+"first_seen": "2026-09-24T17:43:33+00:00",
 "symbols": [
 "MARUTI"
 ],
