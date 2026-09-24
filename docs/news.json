@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T21:29:45+00:00",
+"updated": "2026-09-24T21:42:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f9ee84772ce473a1",
+"title": "JSW Steel Subsidiary JSW One Platforms Files DRHP for Proposed IPO",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ09iMkY2UEtoZXgxYWhwZlE4d2FvV1hNY1U0Z1VZQnVtV2d1Z3g3UFZxSDhsOHY4QTBOS01hdVV6UkpDQzRQeWI3R1dGWF92NzFyOExIVGdKbURJLTctTWo0clo0VV9Bb2ZJT01lZi10cmZQVGZ6eUVwUW50a0hFMElTS01sU0hmc1NTeHVxVVE0ejRnUkZOTjRTZzJTcXh4bXlGc3h2Qkx3MmFqVjZxY1haVnFMVVg2alE?oc=5",
+"source": "TipRanks",
+"published": "2026-09-24T21:30:05+00:00",
+"first_seen": "2026-09-24T21:42:35+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0f756d9963bd3e9c",
+"title": "ICICI Bank stock draws an INR 2,000 target as profit rises 16 percent",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHJUNXR0NHZLS1RJQS1sN1ZyS2V0YkpVNUVURFVDaDBPN1BUMEMyVVpLOEx1dE42eDR3a3JIZzhiZ2gxNTJyYnBDVGR1ekxFcWNaX1dvLUhMXzJQXzRmazVaenZ3d29KVGpOX2pUaHB0dE8xajlhVTNDR29FU0NVaUQ2RE00M21PbFIyUW9ObzUtdlpMS0FGTkw2anRSWDVBalBGUmZWTFZtTjBDQzlvaU1mZXpsS040ZnpvTGNzTW9PRWJ1UHZB?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-24T21:25:47+00:00",
+"first_seen": "2026-09-24T21:42:35+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
 {
 "id": "ce4cba7ece4be1e9",
 "title": "China Southern Power Grid Energy Efficiency & Clean Energy Co., Ltd. Proposes Profit Distribution for the First Half of 2026",
@@ -1082,6 +1118,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "088dedac37d53cfa",
+"title": "Billionaire Mukesh Ambani's Reliance lines up $1 billion bond sale, its second in three weeks",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0Z0TTdST0pHODVES2ttUk4tNVBlV2NsbXNlUzh5anVHVUotZ0Ryem5kNVFHal9RWVd1TjVLSTI1ZWlNaXFON0NTVEhCeHd6c3J2OGI5ZWsxU21ySTZGak0teS1uMDFEa2VxTlJLLW1lanV0SVM1QVpLRHBrVWtMSEtKWTdHc0F5dUd5MUc3akd6UlQ4ZVg1Nk9ITUFUVDhucy1wbncySkVZN1NzWkhBbFBqOXUwQmI2OFdlODR2ZVBtREZUeDlPZzVNbFhlc2s?oc=5",
+"source": "Billionaires.Africa",
+"published": "2026-09-24T15:30:55+00:00",
+"first_seen": "2026-09-24T21:42:35+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
