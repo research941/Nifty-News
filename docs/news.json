@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T15:19:44+00:00",
+"updated": "2026-09-24T15:33:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "cb16a2de53b868e7",
+"title": "Infosys Stock Crash: IT Giant Hits 6-Year Low As Investor Confidence Takes A Hit",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDBvUVFoRldxSHE3TlZDWHNBLUR0RFBpRDZNWHRiU1hCMHVWQXRoLTlmRFpOczdVRFJoSnRUMmtvdUlEWjU1SEU3b0VtUDlYRzBfY0FIVkRMQVNEdlljRzUtV1ZkRVM3Z1hRbldueXFnZTRNSkQ1bjJPNzhpQWhhYmhKWC1VR1VoYUtHRW5HT2ZsMy04cXA1QksybXpYc2RrRHBzZUJGRDJMd2hMOVhoR3Y4a2lfcmR3WTFLMTd1N1lHR1E0Zi1J?oc=5",
+"source": "Dalal Street Investment Journal",
+"published": "2026-09-24T15:30:44+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "bb799c4980d2e273",
+"title": "Wipro launches CISO Command Centre with CrowdStrike",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3ZDSi03c1VJOTI2bm41UTBjM1ZOMFI4WUZzaG8zakZ1a2U0OUhJZEVVcUxOSUFOSzQySGFIVDNwT183WDhCeWdDeW5BdnYyckk4UzBTSlg3ejlKWEpnUlFrVnRsNU1QeGZleDJGeDVOdjRMNkRSN3prNnFEVnNtMkFvXzYzczlZaWxlZW9zTTJlR3ZrTWNSQWtQQ2NFa3EyTlhZSXJUZ1NScWlFazR1RkdITUFFcEd6OEZEdkVpYw?oc=5",
+"source": "SecurityBrief New Zealand",
+"published": "2026-09-24T15:30:00+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8c04fd720b4a55cc",
+"title": "BEL Flags Off Indigenous 3D CAR Prime Radar at Ghaziabad Facility to Strengthen Defence Capabilities",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01rNEY1WDNzc1UyY3VUS1lxbWJYMG1aN05tSFdrMzg4NmtvbEtwa2F0a0tnYWk2SVBvalNQdjk0VjAtUTFveGhBcmxuZDl1SEpmbzI0emswNjdGZkNHZ3pBM3J4QlB5RndfZkZWdnEzZkNQZHNZdW1ZLWZmOFJnVll0Sm9IcW4yOGxuaW1ONjhyOFp4Y2NsZnRfbkJfSC1OZW1XMkFtN0I?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-24T15:23:03+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "39fc9cc808079a68",
 "title": "Adani Pledges ₹1 Lakh Crore Investment in Bengal, Calls State India's Second Karmabhoomi",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVy1rLWV1R2lDZnhpRWE4SUdvRFBQb0Q4ZXhmVHgySTJlZFFyVE9RVnExMXpSSnlZcUhmZXZ4T0VLRGtSTXhaalhjNzg0RXp4TGt1MjFfRTN3MXBlQUx6cnlkRV9rSldwVmdxVG5RVDRNQ0haaGh0aVRfaGQtcTVUYi15VmY2VUNvUkNpT3pHU2RNZEJ2cDQ4UFpR?oc=5",
@@ -456,6 +504,38 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7bfea183d0b51f61",
+"title": "Is SAP (XTRA:SAP) Undervalued On Its Wipro And Aramco STO360 Launch?",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZW9fR1RhOUZKT0VtRmVQYTRNMUI1NnpyTkN2Y1MxcjZnX0E1a0JrMWhqa1ZWcjVEZkhiZFpvbEtWbW40bmZ4ckVScGlVd1R4bUhIdVVaNmRoZUdES2I3eDFXWEFFaFNBQ2dTRVY2U1hPeDJyWlgySHhUUVd5S05OMDEzbjhRZGhhbkdVdm9mT3ZPalZZdElKMk9GNA?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-24T15:13:31+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "56f198d3b73dea96",
+"title": "Airtel Enhances Mobile Network Around 4 Mumbai Ganpati Pandals During Ganesh Utsav",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2JQOHlwbXJLZlNxVlNkWHo0eUQ4dFZiRTlxOUlSVG1RY3hDN0xSV1FMcVBKVmVRSFlaRXcxdk9ieFFFTGxJMzNRa3JRcmIyUDUyVGVCWDQ2akpsamI1OUJ4dF9pX0sxTTBCV3VyRi1FNnJna1lNcWp5R19IRjQ5bm5wWHh5Vi11SlNqTDJnekh0OVZKcVlWOExTN1dJejFvYUdQcE9NUjdMUXJ4NnhuSjk3Uk9fZFdFTUZhanpB0gHDAUFVX3lxTE9ZdFQyMnN3OEFQck1nbFVrdkViNzVDSVdqbDViSjYxbXUxOWx2MGdxbTdZa2w3OVRDRGFLbDZ6TGRRaTg2dEhlYkhzM2FiT015VU5PYWp3ZkFvMnc1M3FRNUVHa0NnODNLQ3RyUGxKS0NLQVlsNjFad29pdW5BbURpbGFJUUhWajhYZ2RmR3lUQXpTWlJRVUZ0OG41Y01tckF2R25RZHNCZzRrSXljeFJLc18yYkozVVlLX2ZIeU8xLVhsQQ?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-24T15:03:05+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -593,6 +673,38 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "ac59e0de0b7acc61",
+"title": "Bajaj Finance Ltd (NSE: BAJFINANCE) Plans Board Meeting for Capital Raising Options",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3JQcGgwOURxdUhiQnhGTTZ1ak9YMXFGelN6WnRwQVVkMlAyYVVQQk1DU01DUnhVa2FTS2tYTEVERlU0YWpsS2VBNnBOSU5nUjBTbTl2RExHX1YwRkNLRW9oMkpuYUU0X0xSRmZuelVQYURVc2otZ05DZTdMcjNTS3hEREV6NnozcEc5WnNKZzB6UkNKclZlakNuaWhqbWVac3AweGFZWWRtNVpRaTZWWGhSUjlHenl6MnliNERhS2ROME1mVWRtNmpiLUhndHVPd2lOQnV5QTlydTRMVWpEemVn?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T14:18:00+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "be6240db6557b060",
+"title": "Adani Group plans over Rs 1 lakh crore investment in Bengal over next decade: Gautam Adani",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFA1QVptWnBORlpxSlBjNXpYODllcmdqQlFXLWRpNVVCVE5aa3h2SHdUQWF6dzFCUlAyQ1ZkekxSN0xoalQwdzdfMGJNbXpIeU4tdFExQmNnczBveFNwU1Q2ZzkyZnpLbFQxTkhUeUIwNjBHazVYSVhQajE1RHhtLWg3ZXBCeEUyeTFjNlNvMXNrM1dXaGE3alZKQ3RwUWd1QThSektVVmVxbXhIbXhIdXZpdnVMc2g0MmROa1BzOU9oVDQ4eUVLRHExSVBxbGdfR2FDajhVaWVKOG_SAeABQVVfeXFMTXM1Z18xVm5BS0otZV9MNjJwSkRBczJTTnAzam9CTnU4cXdiZEhvLUZmcUhXdnpOQ3Rkalg4dGx1YlhuQlFYQ1lRTFBLRzNCbUZJMUpUUFlBc0ludmJHTlFKV0M2c2JzZ2d0eW4tWmZFY2tNczJnU0VMUWhHX1JOUzdyeVI4NU96dG1XYzR1UW9IdzRndjdHWC1QVDlqM2ljN01kaWRXTC1mQ3pOWGd3S1RyWmhHcmM2NURxSy14NE1yYTFCYUd0TG0xRG1feGFyUTI2SHdHNFJXLTR2eWdnWWw?oc=5",
+"source": "Devdiscourse",
+"published": "2026-09-24T14:11:07+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "ae87130f54039137",
@@ -4556,6 +4668,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b865e1c01667a42e",
+"title": "ICICI Bank (NSE:ICICIBANK) in Focus Amid Private Banking Sector Developments",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFJiVG9xRHZZOFdidlRuS2xfSkFZMEVRbDgzQlVjVXFubE9ScXROOVJzOE53VUpJTFA1U1dtTnk4eXg5UUpxTUxBbW02QVNmMjB4MkxBVncwcUtmTU9VQTgwaWx2MWRsY0cyUFEyODNlc0N0ejlIYTR3ZUhNR0p0Y0Zfa2JNMWlXeHlUZEwyRmhCUVdsQVQ2RjFwOEhLTVdSbDJhN1QtclhZRFd3SlR6eVZhWm9vVkliaGJfdmZDXzRmOFlDd05kQjdRdHBJWElmWU11SWsxdw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T06:59:00+00:00",
+"first_seen": "2026-09-24T15:33:31+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
