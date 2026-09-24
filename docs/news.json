@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T12:49:51+00:00",
+"updated": "2026-09-24T13:00:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,61 @@
 ],
 "items": [
 {
+"id": "be3edf968b00a66f",
+"title": "Tata Motors receives B+ ESG rating with score 75.3 for FY26",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDdOblk3S0JfWktlejJTWnRfQUM4eDZya2NQTE9SYnRVbDlscTVQTmdvOHhBNE1PUWxMV0QwZUJzZC01NEhOc21YOGNnX2VQX0QyeWwwbHNOT0k3NzI1SEFTcUs4VjYwRExBY1czaTNfeFVlMFMtQUR0OWN3ZWNESi02cHQ0TVZWTzkyVjJIckM5c0xldDg4WEFrcjRFNW1WWFBqcUJ0LVhXdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T12:57:48+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "25c468896595cf08",
+"title": "Chainlink’s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOThOU2RyMUVsNVR1YjI1N3VvSVA5RWNRS0VLZGxONUxWTzBFZE9ReXBXMXVoOHlNMmh3X3lSVFNOdG9KTkhrcUtGck5uLVpQNlZ3N21jTEJMUi1CVWstblMxbXozc3RWSTNQUTZqVmhTNm1xSTR1eGR6LTR3X3lUYURXU05GZk1LdS1LTFh2QUplWTRaWTZTSmhoeF9QVU41OGZUZlk4WFlvV0I5X09raFh4QUdzVkdwTUJ1bzhsVUJtSEJLSlpYbTQ2dm4?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-09-24T12:55:00+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
+},
+{
+"id": "d84e8e2420d736a2",
+"title": "Supreme Court Corrects Earlier Order in Bhupendra Surani vs HDFC Bank Case",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjBCYzRKd0phXzAwVEltUGdRYjZ3Q2JQQXVJUU90bjNOd0JEWjcxdU9jRk5JR1NmenM5RlBPbjlvbUxoZUFZOGJVWmE1OVpJVkJfOVpZQTEtMzlRUkhCQTdnX0RTcnA3M2xjb0FLWlJXb2FZR1F4OFBFR3FhUC03ZE45MVdWdlgySkxXMVE2T0RBSzZXTC15a3dkUFUyZEZxOFNOQVVPRnZWT3FTWUhoQ1pmOTM?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-24T12:52:00+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e097dd60a1731c2c",
 "title": "Gnaniai Engages Axis Bank on Enterprise AI at GFF 2026",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0I1bzlYYnh3a0gxQ251T015VjItUU5aUVhHMmlCbzg0ZUlkb293UXpVRE9kS004ZkpTdDE2NGdidzI0d1VqZ0tUZU9sTDRYek9neXI2b1poOUtHWkl4d0pCNDM1NG14bjlXdEZGa2pyRDgxS0dkSFMzQVJNZnU2Y3V1dk1IbkpET0d2dml3N2diYTVFbDVhQkhfVVJHUjFiRkdrMg?oc=5",
@@ -799,6 +854,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7d7aafb1e2ce2b8a",
+"title": "NTPC Pays Final Dividend for FY26, Extends Long-Standing Payout Record",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUJZcXRqN3A0YWl6dlduNTh0TllpRUptQjl2dGFITFpjbGxMeTJVcXJXYUVIM2hibHh6dUI1TEhTbTVKWnhoMERyRFg0OE5OTURwNFlkVE11eS1DWWdNNWw5WHBDazJPQXd3UnVISlpSamptZ05ITlpUNTl4MFd0Z0FLYndGdThqQzY4eHhnS244QmVobVAwMERaQ2g3ekZieV9xMlE5V3BJc2JfNndFU0RDNkxsT1Z6WVFySVZXZGtVOXY4eTdwUERVUQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T11:27:00+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -1193,6 +1266,22 @@
 "Results",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f8682fd085adee38",
+"title": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNamlKVVVNNlhjd040UG0zak5rdzUtd1RYWXZiSURnZ1NZWDdjb2Y2eHRvNUt0cE1KNzRRX1EtNnlLSk9YSWw5cm90VG5qUFNQdl9UQWNzVERXb2dTUDFoRWdiYUZkMnEycTNndFdOakxoQ3JkUFE2ZjVRUjRfMkpEOFFiU1hKamJNTkpaRkRySkRES1ZQOTVRX2NqYXN1QnFiNmxDSVJKMTI5SDNuaU8wbTkzckxuWVJ4NkptOW9hOGxlSkNZdFJTS2V3d3UwbkpGVFFTV1JfZzhYWmp3ZlVSZ0VTRUhGMUdZMlF2eGlZYUFXcng1cGZSX1B5WEI1MUdDcHVhRzNfdmxRVDJSUG1YQ9IBkAJBVV95cUxNamlKVVVNNlhjd040UG0zak5rdzUtd1RYWXZiSURnZ1NZWDdjb2Y2eHRvNUt0cE1KNzRRX1EtNnlLSk9YSWw5cm90VG5qUFNQdl9UQWNzVERXb2dTUDFoRWdiYUZkMnEycTNndFdOakxoQ3JkUFE2ZjVRUjRfMkpEOFFiU1hKamJNTkpaRkRySkRES1ZQOTVRX2NqYXN1QnFiNmxDSVJKMTI5SDNuaU8wbTkzckxuWVJ4NkptOW9hOGxlSkNZdFJTS2V3d3UwbkpGVFFTV1JfZzhYWmp3ZlVSZ0VTRUhGMUdZMlF2eGlZYUFXcng1cGZSX1B5WEI1MUdDcHVhRzNfdmxRVDJSUG1YQw?oc=5",
+"source": "ET Education",
+"published": "2026-09-24T10:36:45+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2190,6 +2279,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1982e471edf41f1e",
+"title": "Buy, Sell Or Hold: Eternal, Swiggy, Nykaa, Paytm, Delhivery — E-Commerce and App Based Aggregator Stocks",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObE81ZWZwNUc4RU1ZT3NFTEFHMkRsdkhmR05vamdubjJLbnBxNU9mYXhSRWRNaGYwV0o5aEdHM3B1aVVlMXllQWtiTjU1dUpwTTBHOHY3WlNiS2J0cFFXdVpKNmpYMjdieUxqMFMyeVg1cm5LcHhZMV9raFFMQmJocHZMWUJRbm0zVGRSQ3JBUlRwZjd3eXJISHJuNTcxNHVMZ3R6RlVQTlRYRjNPbnVV?oc=5",
+"source": "Univest",
+"published": "2026-09-24T08:55:49+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3685,6 +3790,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1727aff4cd9bd715",
+"title": "India's Adani Group to invest $10.4 billion in West Bengal",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVlNFY1RyRE5qTFVvTVdhc2YzcURaZGgzUFRxYWJGVXQwYW1rOHBkcmg2azJobnJqeWFWX1N3M1dxVURqZS1OcndwX3A3X2JTeGV5RUVHZW9pNk5iZHVLLXRVREgtZnpiaXVwRVRTMnJaSHRzdlFucVBnVEctelJndmZ0ZWRjTGd3NzJMajVGNkZ1cDBkdGx6UTZURzhHQllHQU84WWpkamUzdm8wUDRINGZycF9IR0NwVjUxbnlPbnBwdmJQLWNWelVuR013TjVFVXBaN2ZJQjk?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-24T06:52:39+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a067283c5da1b806",
 "title": "Adani Enterprises stock falls 1.65 percent as voting opens",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEQ0SlNPaUQ2cGtVS1ZUNEFKV0JRS0d6ZHZaNWxYeUFnTXd3V29ScnRPbGdWRWJMWkZlRl9OcXo3N3cwZWhfakxVNHhtaHhEVm0zQ2ZFNC1Mak5sbHoxS1cyVmMtWEpnbUxvOGtwemVLaHdZWmlTNGRKaDVncjQ5Qk5xUGw4aWVNWmJaeG1ndkdTMEJfZWJoUC1uQ1dxcTFYUHpmTjFPRzEwU21kdUZwUk9rUjBlbm04?oc=5",
@@ -3891,6 +4012,22 @@
 "source": "Business Standard",
 "published": "2026-09-24T06:41:41+00:00",
 "first_seen": "2026-09-24T12:25:23+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "36f7e8d14f42499e",
+"title": "Maruti Suzuki Ertiga On Road Price Pileru Sep 2026 - ₹10.91L",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMHdmTWxzdEJCWmFSM0pDSkFpb1ZlS083NjZRdEFLMl9nUG04eGd2ZlZEWF9uOUI4bEQ5ZWdVZzFuM3F6VEQtOHAyQ2hTTHR4RnlzNHN2dElIU0NfNkxZTGx3ZmlVUk1LYm1kODJ1MlVtRWdpaUdEbFRrQWxTUQ?oc=5",
+"source": "zigwheels.com",
+"published": "2026-09-24T06:41:10+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -4472,6 +4609,24 @@
 "sentiment": "negative"
 },
 {
+"id": "162964f16bf2b8b5",
+"title": "[Sensex Today] Share Market LIVE Updates: Sensex plunges 659 points, Nifty slips to 23234 as crude oil prices remain high; Bajaj Finance, Axis Bank biggest laggards",
+"link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQYTJFOTBXRV9OZnBKMHQzQWFRZVI3MUF4dE4xSGJVbG9NaEY4a29VZzhNdkFqdnRQbW9YNlBxdHVHQ2hveXNvNDJkQjI0eUtRSWlJNFl3Mkx0bm5FQ3l0UDhvc1hYUlpmZVZNWi1ibXVCLXA2cFR3ZzBTaUVfVklyT044VjZoV255X0dPMmZnZVRVZWVha3dFNHdxMzJQQmlYYlNzcWQyLUlKc0pGTVJwVXFfYloxcWtNa0o3dzg4MHRHdVplaTU3V0N5eHByM0RUcFd3VlFhR0VkUkNxTklrVmJDUnhMa2VjM1JvTHJzOVlGNW14RVVlSUlBMUpUczllOGFFMWJ3ODVmdHY3WTBxNURMdHVGVDJLLUdRQlZybERZWjN3Z1E1YUNRUdIBqwJBVV95cUxQYTJFOTBXRV9OZnBKMHQzQWFRZVI3MUF4dE4xSGJVbG9NaEY4a29VZzhNdkFqdnRQbW9YNlBxdHVHQ2hveXNvNDJkQjI0eUtRSWlJNFl3Mkx0bm5FQ3l0UDhvc1hYUlpmZVZNWi1ibXVCLXA2cFR3ZzBTaUVfVklyT044VjZoV255X0dPMmZnZVRVZWVha3dFNHdxMzJQQmlYYlNzcWQyLUlKc0pGTVJwVXFfYloxcWtNa0o3dzg4MHRHdVplaTU3V0N5eHByM0RUcFd3VlFhR0VkUkNxTklrVmJDUnhMa2VjM1JvTHJzOVlGNW14RVVlSUlBMUpUczllOGFFMWJ3ODVmdHY3WTBxNURMdHVGVDJLLUdRQlZybERZWjN3Z1E1YUNRUQ?oc=5",
+"source": "News24Online",
+"published": "2026-09-24T05:41:30+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"AXISBANK",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj",
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "eea9d4c5880dab82",
 "title": "NTPC Pays INR 3,394 Crore Final Dividend for FY 2025-26, Targets 60 GW Renewable Capacity by 2032",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlMySHY2bi1NRHhFUWVpRmlxaDRrYkRLX2l1YVhYdjRCcWQ2MngzaENfc2Q1Rmx5SmdkdnB3bDY0TlhWNW9tN0lWMVdnT3BQTzgyTHIzQXBieGt3aTE3a3p6bnI0cmtXaTdma0UxaVBiYnA5R2dOX3ZZMmd0MXJxdlo2OGNJbFM4am95QUNzV013OXlleVhJZ3BIVGNIWldoR1BidmFjZ0F2ak5fbE9pQ1UyQ3FNRXUtSzFob2VQV1VWYW8yVHZnbHpsNWU?oc=5",
@@ -4853,6 +5008,24 @@
 "source": "Business Today",
 "published": "2026-09-24T04:46:40+00:00",
 "first_seen": "2026-09-24T12:25:23+00:00",
+"symbols": [
+"BAJFINANCE",
+"LT"
+],
+"groups": [
+"Bajaj",
+"Infra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "aa8bf72822391f30",
+"title": "PB Fintech shares fall 20%; Bajaj Finance, L&T Finance also take hit; here's why",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmZMZFM5Tmt1OXZQdWRrTnRmQ25oZHYxaElMTDF6dV9yUndEdEpCcnhkaUo3SjJrZVQ3QWN4TXlGamVfTXZZWU1mZzB1bm1JWFJKNV9BblNsQ2JUdkxoMXpnWW53UnFZN29oeGgyWC1fME9ZdElzQk90MXlXV3dUWUo0anRPWHZ1YktYd29URHV1MHlKYkFKbjR0X0hqOWxCSWljSzZ0QUlNSnBqM2JwMmpqeTM1RnVObG1tdmFWU2FtZFlFYUZFbnM3QU5tVFFJOGZ2emtzTGMzUnZybDRJ0gHfAUFVX3lxTE9aZkxkUzlOa3U5dlB1ZGtOdGZDbmhkdjFoSUxMMXp1X3JSd0R0SkJyeGRpSjdKMmtlVDdBY3hNeUZqZV9NdllZTWZnMHVubUlYUko1X0FuU2xDYlR2TGgxemdZbndScVk3b2h4aDJYLV8wT1l0SXNCT3QxeVdXd1RZSjRqdE9YdnViS1h3b1REdXUweUpiQUpuNHRfSGo5bEJJaWNLNnRBSU1KcGozYnAyamp5MzVGdU5sbW12YVZTYW1kWUVhRkVuczdBTm1UUUk4ZnZ6a3NMYzNSdnJsNEk?oc=5",
+"source": "Business Today",
+"published": "2026-09-24T04:46:40+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
 "symbols": [
 "BAJFINANCE",
 "LT"
@@ -6176,6 +6349,22 @@
 "first_seen": "2026-09-24T12:49:51+00:00",
 "symbols": [
 "NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c171ee6c77530a16",
+"title": "ONGC Share Price Highlights: ONGC Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-today-live-24-sep-2026/liveblog/134450119.cms",
+"source": "Economic Times",
+"published": "2026-09-24T03:05:04+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"ONGC"
 ],
 "groups": [
 "PSU"
@@ -7619,6 +7808,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bd1d82de207411fa",
+"title": "Maruti Suzuki Eeco On Road Price Vinukonda Sep 2026 - ₹6.53L",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BSjRUMFFOd0VRZkFxQ2dNbE5ZWmFmMlN1ZEZhWC02V1FydGFVbUt6djVwdHNOSXpreF9UUUcyNjNRZ2RGa1NTOTVTdUMxRU9kNDA5NXh3YjdzT0xNR1BuWVZBaVN2Z1U0N1FodF9qNG9sOHBQalNvZzlubnpVVFk?oc=5",
+"source": "zigwheels.com",
+"published": "2026-09-23T18:40:59+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "21caa32ff3f50617",
 "title": "Dr. Himanshu Tagra Promoted to Senior Vice President at HCLTech",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3RGcFMxczJETmNkRjB1a0tvQ1p3WFIyYktJTXFKa0VFZkJkREsxR3NNQ3Q5Nmt1YkprbDhwWXlGMk52cUVZbkFKQ1pPWlkwYlNFeVlteTN6WWVFbnRaWm1qVzZNZTNXSVhjelpyaFJadGNjbE5pUmNITlNEbXZUa0dLXzVEN2I5Tnc?oc=5",
@@ -8268,6 +8473,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "969d15812cd8a6c4",
+"title": "Financial sector has reinforced growth momentum: SBI Chairman C S Setty",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZEhpcm9tQ0I3ZTJ2bGlUTVJVSk1jY0tjWjlxNUI5RUFTQW5qeVJtQ2tGN1M4dFFJZnc5VDRGWDdGcDFHb1d0d2taTVJNLUJHU2VuOG1BbDFmdUpGaWNWZ29oQzVIS0R1ZDV5QVRtRzRYOFJ5U05YMjFyMy1ZTElOdG5KRUswMVptUTUyem8wMTBsNmt3ZEc3VWxUX3NJaEM3Z1RwazkxdVAzNzE3N2pocnQ0Z2xSdDhFSms5ekU0WVVFdmpOQ1JmalY5Z3ZMcnd3T0ZRNUhublRNUdIB3wFBVV95cUxPeTN0ZXdJS1lidE05NllrWnFKZFM1YTFNZ29XNldFdXhFZFgyR3R0alpOVGZBU2FQZWhUZDQyTllGQlNzU3RFUl9Tb2JGOUhCRDFrbmNQWTUyUm9BcXFCandadFlTZGhjSlRHUVRkZ0dmb3BYdDd3S2VJSmVWdDhXQ3RvSVZEYlE5R0NyRHctWGRkeWtEZk8zWjlYc0toUmRFcWdrMDJpWEdtV2JVeWpfWVF3WTVCdGtoZGs5QnVkc3JOSllZTmc2Y1ZhbFM1aGNqQURpX1J6dHdUTnNHd2lV?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-23T15:30:00+00:00",
+"first_seen": "2026-09-24T13:00:20+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
