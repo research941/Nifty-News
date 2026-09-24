@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T17:43:33+00:00",
+"updated": "2026-09-24T17:54:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "3801f4cfe99443a2",
+"title": "Lesson from HDFC Bank contoversy: Boards of companies should not conduct business in haste",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTDhyUFRXQUlLVXRndnVKVjFMdmNxX21KZkhGOGZaR25hejVwVklKN3B0cF9mYm1Jd2FxSEwtUUZJUm1OVkM4ZlNqdFN2Qll3d3BYSUkwakgwNTBVTWhnWk0zMnJjOUp3QXJaSUVfYmRzRU9kVFlHU0JGLVduajJFZjFGMGlsOGh2V1pXZE1LOFoxN0lZVzFCMHRQeU10eDBDTmtDQnNuVVpqMU9HZmdnOHEycy1tOE1OU1hscDdEMXc0eUtwMDJnNEs5a1p1elhhc0lWLXBXOVFMRzYybTZlRU5hRVJKUUtuWUVJVG14RnJoVzJQR0pGatIB_gFBVV95cUxQenpYbmgtRWVTZTRfLWFELTFUc1NXelBseE1ic1F4TV9raV84SGN0X2QyTG1lV0lsLTlnTDdWQ0N6TFZRR2RiQ0VxZEcwejhfcFkySWtEVzRCNzJ1QmhWYVo3Q1dRNHV4VW0wUXM2STkwYkcwQmdKZzA2Qm5YeDBUYzFaNGg5TV8tck5zRjBBVXBBZGIxcEUzanRneUxUTTktamJHWnBzZTRZblA0dWlINWs5U3ZBQ0pPUVlWTTVmTEQ0R1VTdjR5aXhmR29sazBOb3Nlb25NMFowWjNOY0I2aERFMGF1aGJqaTZ0YWtsbmszZ19HR2JIWUZJekZTQQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-24T17:40:00+00:00",
+"first_seen": "2026-09-24T17:54:38+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "3d396cca753acee7",
 "title": "RRB NTPC UG Answer Key 2026 Released: Check Response Sheet, Raise Objections by Sept 30",
@@ -3077,6 +3093,22 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef7f39db10cbd779",
+"title": "Bharti Airtel Share Price Today: down 2.18% to Rs 1,791",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWE5KZ0NZZXlIYVpCaVY1YTU4RlMxRkFKZ2d0OUJFZmpMemN6U3dBTUxSbWo4VGp2RG1oOVVFS2NvWHhGRVJyel9xMXJKSXMxaWowZjMtVm9mampWVHppMThJZW9Rc18xZk5WbjdFWXVjTVJDU2czQmd3RWhXWVJzMzBn?oc=5",
+"source": "Univest",
+"published": "2026-09-24T10:03:03+00:00",
+"first_seen": "2026-09-24T17:54:38+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9592,6 +9624,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d806eb997122ed84",
+"title": "Wipro Limited (WIPRO.NS) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MeVdWQ21kRnZNeUZmZFFNaTUwYVppS3V1SE1hWG5hdGhrR2FXTlVnNnltaHhRRzlKZUgxamN5UzdjNHZ0OTUxRVduZThYTnN3N1JrbDlxUQ?oc=5",
+"source": "ca.finance.yahoo.com",
+"published": "2026-09-23T20:00:25+00:00",
+"first_seen": "2026-09-24T17:54:38+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
