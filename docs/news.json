@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T20:56:50+00:00",
+"updated": "2026-09-24T21:17:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "ce4cba7ece4be1e9",
+"title": "China Southern Power Grid Energy Efficiency & Clean Energy Co., Ltd. Proposes Profit Distribution for the First Half of 2026",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnBDdHNMa2NmdGsyM3ItTDNhRnkzLTFpRHdJa05qeHdHdU9yQWtTYnJONWMtQ3NaREZMWWZxRnFFWjFRQzV4cHYwaUN0SHJlcFhPMzVIeXdxeXJ5U3FOU2pxMm02Z2dGbm5mVUxKZW1QQlN4MWRGZzlhT0Z0Q2R5RnROSDVIcG5uQzZWZ1FQVF9Xb0tzSFV0SEtTUDFtYXFFODhCN0prLXlxT0cyWlNhZWx2LTMwYnE1bjMwNnVLNGpQbm9UeDJSTVNtOWJuc3pVZHhGblg5WXFkT0stQ0MtSkpB?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-24T20:50:25+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "93829b3480daa2d7",
 "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in HDFC Bank Limited of Class Action Lawsuit and Upcoming Deadlines - HDB",
 "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRFktcUFveHdpT0t3LTVyTG5FSklQQ1RjU0hCS0c3NEhxZDZxX2JtT1dxeldjNzZjSFh0Yl9wU1FrbXQxLXdnajk3dkRpbGRMUmh4SEFiVUUtZUprUkx2Vmk4X3dtMkRPLUJGV0FTeVVjSlpiNFNReEtRdl91WWVhXy1UUkIyNlFaYXJPbXRDQUpZVTdxUEg4TzFlNGZWSmZSZTFROU1uc29ObmJuNm43b2loRDdQZWdRR1djbUZaTk9tR0M3UWY4MjcxWWxmQ0dVd1JVLWpfWVpoaVAybTFJTHUzN0FNWFFBbVo5MEtTeHR2b3JJdHFyNC1vLUdpTDFHWjlhTDlGSFRvbDQ1MnRfNWFqSXluZ090bHFCanlBU3gxa1htYjBLeG9LVnN6UHNaVENXMEZ4bw?oc=5",
@@ -459,6 +477,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bdf28a306f6441bc",
+"title": "Gujarat HC affirms Section 80IE deduction for Sun Pharma Sikkim and rejects Revenue’s allocation-based disallowances",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzNBUUVXbDNvVEwtVlA2dmxpUUhRMWtUeEQyMlNvWEpjTU0zQy1uZXVTYXFZZ2gzRlR2LVY3R2tIRHM3OHBReGFBTDJlRGhnZ2VEWXk1S2Q5N1VtaXdBUjBkRFFyaVg1cHA4X09NOXBZWWdPeUpISTRDbDV0TWVvV0VaQjh1MmdZVEdXZnVFTjVWeXMtX1NIWGg3TG9oTGVpWThhUWNoOV8?oc=5",
+"source": "TaxCorp AI",
+"published": "2026-09-24T20:14:27+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -1275,6 +1311,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5b131e598d223880",
+"title": "Why Adani Is Keeping an Eagle Eye on Bengal: All plans, no executed deals or Real Big events comming soon.",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnY4ajlwbGFWOXpwOFZOdTZoS3VxWThsQUpkRC1mX0ZubjlzTGsyVXJSWTlISVFNdFNOenJKV1BCb2NJbExOMUdQTjZXTmdBT29ZMURBaE56VUh0LUd5ZU1jYjJFX182VVRWcllscWIwYzlvVnJ1ak05S0R3T3ZzN1p5VGF4dy1Xa3lkZktZajNoZk84UzFTaXVXSzg1bXVwSTZSck1xS3Y0X3VLREhPbmk4SGFsZmhYRWhXOTVkOUs3TV90ZzNxZUpNOFU4Rmkt?oc=5",
+"source": "IBG News",
+"published": "2026-09-24T15:02:17+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0a36a6b1da845ac7",
 "title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYVdrT1B5QkRKMzIwek14TDMzQkY0RjJKRFFRNk9WQ1dVb1hrMkctYlBJdXBHQTBnaVZDMUY5aUVIWmVUT1dLT0JKeG1JSVAzZ0h1ZUVrWk1MQktoTmFTekEybGlMbWFVUWhueWpJSkRBdnQ3YVRzaTBpVjNaSVVmR3pEby1xMlh5dzBuTlFBSnZTRlF3WFhfVXN0RnRDZWVQV0JNYmloZWc1UWlnMG1jWHFtWTJsa2F3RHdWblM1UklTZnJPZ0REZXlaVzk0MVY0Nk9xbzA2aHJrWWfSAeABQVVfeXFMTUVJc2ZHUXBPR2VueTJUX1RrV082dFNnQ0ItbExPb2Rfbmh5dHRLamYtVzNjN1hKY3JMTkhPdGYtYW1LZmpCWHBfNGpEVXJMQV9WVWItVDFIdHJZM0JwbWRka1I3ZGttbVVJemFZdXN2RTA0Z1NHdEtvMjEwd05CVlZmNkprSkItN1ZxdWF3OEs1MHh4TG1RS3RCeWNMczEzbFZaaEdVWmt5d0VCbHJNX2dQei05NVdFVWFla211a0pzREZ1RU1XSFV2eWRybmNuZUdzN0xQRWhZTU1INl9oSWg?oc=5",
@@ -1673,6 +1725,22 @@
 "Results",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "6757e285ecd95709",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Pathanapuram Sep 2026 - ₹12.12L",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZExsTlU0QXBpN2xhbHpXZENHYjB3ck9rbUlnY3ZDR3JUT3daOHVINmVWYWxvQjAxNlljcU50eVo1R2V5RDljNUVZM2JHcm1zei1LcTJ0X2NoSHNXaV9Bc3dsS29qYW5TNVZva0cyZThPWjRsNFduVU5MaVNSay1hMWlPTzJSWFhadHFVNg?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T13:38:13+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -7541,6 +7609,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "044e4b24a7a6c672",
+"title": "HDB LAWSUIT ALERT: Levi & Korsinsky Notifies HDFC Bank Limited Investors - Lead Plaintiff Deadline October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOG9fLWtfLVNsZlhaUHQxMVBKekJFX210UzBCWHBBRjloMlo0blJVREFSamJacWN1clZ5NGFMVTdUT2NQX3k4RWxlUXhuV2JNWWU1YXBiVVFyS3psdmExTmIwRzNFSFlVbEx5TzNzV3pnUG5ORkxaVV8xak1GRXBTZUVuOG5ja19lMHJKSzkxbUlkNzhUY2VHSXFYZnRoMmtSMjJFT1czODgtaE40RGRMR1ZHWmpYalJCZFRaM1VfZkFFZ0Q4eXlKZTFlSzhtMTZEN214SlRJUkJzSEZZdFZjaGQ5OA?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-09-24T04:44:30+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0d94e528d1b6803b",
 "title": "Why PB Fintech, HDFC Life, ICICI Pru, Max Financial stocks crashed after IRDAI reform",
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ2JDM21wYUp0V25LSmYxeVkxdHhvZGM5UGZSUjZ3cGFiaW1LQ3hUM2pwYUxhR1ZVQkFoVHlxdEVMSWdRVnNzRU43aFdrUV90VVZtblh4eHNXWmJMTFd5RFVxaWhTSVhfTlhpbEtIa0FqQ0JKQ0FuU3NvbkFjekNzQ1RNaUVxUElRMk1jYmVYWndxd3Jvc3FXSUVwSENHV2JTb3dQbHJtU3M4Q2NiQW1FVjlVU1hLbUszV0xtcHc2NHVmb0NXQ0Y1a0VES25ZcFZyWkhJWWl2NEFwNWpqeGJITkZMaE5vSW5UUXJZUdIB8wFBVV95cUxObW5OWXE1VjVkVjIyUDhOcFVRbUkwR0hjWFMtWDNaQ1diWGE5RXJyaVg3NjU2NmpmdWw1NGY1cGlCdlMxcmxtYm1DNkt6TEdxYmRxY3ZLZ3A0OG5xb1p2S3Uyd0xiblVHaFUtUzNfOTliQkk3eFRaU2lGdmY2M3NOMXZBTTFrVU80aVJNWGZmU1RQVzJKbGxzMldDTllidXo2TVhVWjhzTjNZR2hqZ2Z1RnVfWm9KbmxYamJhQmJNejJnQnlVdXppYmdaQ1owaVRHd0RnaDRJWTZMQ0puRElwZXRnNThiZF9RMTA0VFVTYXFWOWM?oc=5",
@@ -9853,6 +9939,22 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "14bcf9a785e6374e",
+"title": "Cipla reports lower emission intensity in FY26 sustainability filing",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0VWaldNdDMydnp2SndNbUZfNDZhYXBSMl9qdFRHeU9QemYzMWNQZkVZZnhDaWk3UjFKUWl4THpxZjNLZDJxWnhxQ1FzME13eE9yVk16dUQ4R1hQblVpa2tGcUJlcGhhc2NnRTl1TzVKUUdrYWtnVXZnWU1CMkZNY3FJcENiSEV6REcwdnZyaHJ2SktwLUdOT2pPdGN5amtZc2g2MmVfblZHV3UyejU1dWtNSzRMX2pFR0RDVzhPN1ZaZ0FKOHc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-23T23:06:59+00:00",
+"first_seen": "2026-09-24T21:17:32+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "2b9928df1d2eeeb2",
