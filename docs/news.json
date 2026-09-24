@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T19:43:04+00:00",
+"updated": "2026-09-24T19:55:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -478,6 +478,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a4396938e95b5a4b",
+"title": "CESTAT Chennai Rules JSW Steel's Rs. 1,61,96,066 Export Duty Refund Claim Valid: Reassessment Triggers Limitation Period",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2ZPc1dWYUJuRExlZXhwVGFES25pWFYwbC1wRVE3UTlydDQ0b3M0R0JUY1RTNTlUa0RrZTlqQ2lfbDR4QkRHUDhPSHVrN3dNbS16NHBMQkdBeGU5enRkVzNraHVTc3BOMi1veTRSMnJkWjhHNXlCN2FHMFdUcE5sTzRHZzk0ODZLeVE0YmRiY1kxX0ItU1A1LUhoZFMxMExoU2ZMWjNpUQ?oc=5",
+"source": "TaxCorp AI",
+"published": "2026-09-24T18:37:49+00:00",
+"first_seen": "2026-09-24T19:55:27+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1304,6 +1320,25 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bf026feaa8e8fef",
+"title": "HUL Q4 Results Alert: Hindustan Unilever Board to Meet On This Date; Big Dividend Announcement Expected",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkVJdVBTdzRKWWNaaHZ1d2pUbTJ0S3NaY0pxdVhKaHBfSUJ3dG1saHZjUy0tUFRmNnduTVJVakV5ZjZrblgtT3ZKN0ZNNk13WHd2bUUtMHF6bjB5VFpDMEpCNUw5X3VUeS16aGQwQkVWVVN0OWtRTFluTjF1YmswUWN2M1pnUV9IYlExZnhWMVZqSWYwb0NySnhXR2FHUVBJMk01cDNXRHNlakFScEtLRXpZN29mQlBvSVFsX3ZxaGNCUWQzcHZIRW1qZmNZUkt6QXBwVldzd1c?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T14:09:06+00:00",
+"first_seen": "2026-09-24T19:55:27+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -2974,6 +3009,38 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "cc2be51c8e33d0fd",
+"title": "Bharti Airtel slips Thursday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNpMlFBRWZmdEJFeWd3SDJVOFlGb29xWENGQTI2NGdYcUJvY3lOb1Bha3ptekFWODY5OTBTLV9ReEFyUnNqYWk5Y0d6R2lDRGtkNUFsQkZVZjRIVktFVXBkeU5GbXdMRHlOZlJ3QlhnSU9waFVsV19sdExua2dySC1fOGRMQm5NRG5mMEJrNG54cHJvdVpXc3BhT3VUSm5zRGRjYnNLX3h2QUhEcTZ0c0V1a21qMW1oLUY2bHEtTjA?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:33:00+00:00",
+"first_seen": "2026-09-24T19:55:27+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "6171ad5dcb97a2c6",
+"title": "Tech Mahindra slides Thursday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWRfMUt2WDFXU1FvcHdDZzVnaElHX01BaDBRNnZWQmVNakVBQV9yT21XdkVmcENCbVRIUXF1Mm5UUmdjSU44YmhId0xPRHJNVUdpLXNPWE1LU3VpY1lWOFRHV290MUZRU0h1aXJkSTBvUjhpQldFMFFLbGxubFlnUnA4Zjc4Y21KaTRSTm9JT29fSlRTQVZodllJZnhLbXZnZ0pTcmNDdnFwU0t1bkwwZVQ5Tjg5VEZqRDJ5RGUya0RPd01qcVpnNUxvMEo?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:33:00+00:00",
+"first_seen": "2026-09-24T19:55:27+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
