@@ -1,0 +1,810 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jupiter Trading Terminal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            background: #050505;
+            color: #fff;
+            overflow: hidden;
+            height: 100vh;
+            touch-action: none;
+        }
+
+        .dashboard {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .dashboard-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 32px;
+            border-bottom: 1px solid #1a1a1a;
+            background: linear-gradient(180deg, #0a0a0a 0%, #050505 100%);
+        }
+
+        .dashboard-header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            background: linear-gradient(90deg, #ff6600, #ffcc66);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .exchange-badge {
+            padding: 4px 12px;
+            background: rgba(255,102,0,0.15);
+            border: 1px solid rgba(255,102,0,0.3);
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #ff6600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            padding: 24px 32px;
+            flex: 1;
+            overflow: auto;
+        }
+
+        @media (max-width: 1200px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .dashboard-tile {
+            min-height: 350px;
+            border-radius: 16px;
+            overflow: hidden;
+            background: #0a0a0a;
+            border: 1px solid #1a1a1a;
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+        }
+
+        .dashboard-tile:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px rgba(255,102,0,0.2);
+            border-color: rgba(255,102,0,0.3);
+        }
+
+        .dashboard-footer {
+            padding: 16px 32px;
+            border-top: 1px solid #1a1a1a;
+            background: #050505;
+        }
+
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.7rem;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .legend-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .controls {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
+        }
+
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #333;
+            transition: .4s;
+            border-radius: 24px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider {
+            background-color: #ff6600;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(26px);
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 10px;
+            background: rgba(0, 255, 136, 0.1);
+            border: 1px solid rgba(0, 255, 136, 0.3);
+            border-radius: 12px;
+            font-size: 0.7rem;
+            color: #00ff88;
+        }
+
+        .loading-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(5, 5, 5, 0.9);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            z-index: 100;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255,102,0,0.2);
+            border-top-color: #ff6600;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <header class="dashboard-header">
+            <h1>🪐 Jupiter Trading Terminal</h1>
+            <div style="display: flex; align-items: center; gap: 20px;">
+                <label class="controls">
+                    <span style="font-size: 0.8rem; color: #888;">Live Data</span>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="liveToggle">
+                        <span class="slider"></span>
+                    </label>
+                </label>
+                <div class="status-badge">
+                    <span style="width: 6px; height: 6px; border-radius: 50%; background: #00ff88; box-shadow: 0 0 6px #00ff88;"></span>
+                    Simulated Market
+                </div>
+            </div>
+            <div class="exchange-badge">Web Demo</div>
+        </header>
+
+        <main class="dashboard-grid" id="dashboardGrid">
+            <!-- Tiles will be generated here -->
+        </main>
+
+        <footer class="dashboard-footer">
+            <div class="legend">
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #ff6600;"></span>
+                    High Volatility
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #00ff88;"></span>
+                    Bullish Trend
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #ff4444;"></span>
+                    Bearish Trend
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #ffcc66;"></span>
+                    High Volume
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Jupiter Trading Visualization Engine
+        // Self-contained implementation for browser demo
+
+        const BG = "#000000";
+        const PERSPECTIVE = 1300;
+        const DEFAULT_COLORS = [
+            "#ff6600", "#ff9933", "#ffcc66",
+            "#e63333", "#cc3333", "#993333",
+            "#cc0000", "#b30000",
+            "#ff0066", "#e6008a"
+        ];
+
+        const DEFAULTS = {
+            showCenter: true,
+            particleCount: 2500,
+            particleSize: 5,
+            colors: DEFAULT_COLORS,
+            outerRadius: 75,
+            tilt: 3.1,
+            tiltSideway: 0,
+            trail: 70,
+            orbitSpeed: 5,
+            pullSpeed: 1.8,
+            performanceMode: false
+        };
+
+        // Hex to RGB conversion
+        function hexToRgb(hex) {
+            let r = 0, g = 0, b = 0;
+            if (!hex) return { r, g, b };
+            if (hex.startsWith("#")) {
+                const h = hex.replace("#", "");
+                if (h.length === 3) {
+                    r = parseInt(h[0]+h[0], 16);
+                    g = parseInt(h[1]+h[1], 16);
+                    b = parseInt(h[2]+h[2], 16);
+                } else if (h.length >= 6) {
+                    r = parseInt(h.substring(0,2), 16);
+                    g = parseInt(h.substring(2,4), 16);
+                    b = parseInt(h.substring(4,6), 16);
+                }
+            }
+            return { r, g, b };
+        }
+
+        // Create Jupiter Visualization Component
+        class JupiterTrading {
+            constructor(container, props = {}) {
+                this.container = container;
+                this.props = { ...DEFAULTS, ...props };
+                this.particles = [];
+                this.lastTime = 0;
+                this.size = { w: 0, h: 0 };
+                this.animationId = 0;
+                this.setup();
+            }
+
+            setup() {
+                this.container.innerHTML = `
+                    <div style="position: relative; width: 100%; height: 100%; background: ${BG}; overflow: hidden;">
+                        <canvas class="bg-canvas" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></canvas>
+                        <canvas class="fg-canvas" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;"></canvas>
+                        <div class="data-overlay" style="position: absolute; top: 8px; right: 8px; display: flex; align-items: center; gap: 8px; padding: 4px 8px; background: rgba(0,0,0,0.7); border-radius: 4px; font-size: 12px; font-family: monospace; color: #fff; pointer-events: none; z-index: 10;">
+                            <span style="width: 6px; height: 6px; border-radius: 50%; background: #00ff88; box-shadow: 0 0 6px #00ff88;"></span>
+                            <span class="connection-status">CONNECTING</span>
+                        </div>
+                        <div class="price-tag" style="position: absolute; top: 8px; left: 12px; color: #ffcc66; font-size: 14px; font-weight: bold; pointer-events: none;">
+                            <span class="symbol-text">SYMBOL</span> • $<span class="price-value">0.00</span> (<span class="change-value">0.00%</span>)
+                        </div>
+                    </div>
+                `;
+
+                this.bgCanvas = this.container.querySelector('.bg-canvas');
+                this.fgCanvas = this.container.querySelector('.fg-canvas');
+                this.overlay = this.container.querySelector('.data-overlay .connection-status');
+                this.symbolEl = this.container.querySelector('.symbol-text');
+                this.priceEl = this.container.querySelector('.price-value');
+                this.changeEl = this.container.querySelector('.change-value');
+
+                this.updateSize();
+
+                window.addEventListener('resize', () => this.updateSize());
+                this.initParticles();
+                this.animate();
+            }
+
+            updateSize() {
+                const rect = this.container.getBoundingClientRect();
+                this.size = { w: Math.max(rect.width, 1), h: Math.max(rect.height, 1) };
+
+                const dpr = Math.min(window.devicePixelRatio || 1, 1.5);
+                [this.bgCanvas, this.fgCanvas].forEach(canvas => {
+                    canvas.width = rect.width * dpr;
+                    canvas.height = rect.height * dpr;
+                    canvas.style.width = `${rect.width}px`;
+                    canvas.style.height = `${rect.height}px`;
+                });
+
+                const ctx = this.bgCanvas.getContext('2d');
+                ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+                const fgCtx = this.fgCanvas.getContext('2d');
+                fgCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+                this.initParticles();
+            }
+
+            initParticles() {
+                const { particleCount, outerRadius, colors } = this.props;
+                const voidRadius = 45;
+                const maxR = this.size.w / 2;
+                const outerRad = voidRadius + (outerRadius/100) * (maxR - voidRadius);
+
+                this.particles = [];
+                for (let i = 0; i < particleCount; i++) {
+                    this.particles.push({
+                        angle: Math.random() * Math.PI * 2,
+                        radius: voidRadius + Math.pow(Math.random(), 1.8) * (outerRad - voidRadius),
+                        height: (Math.random() - 0.5) * 20,
+                        speedOffset: 0.6 + Math.random() * 0.8,
+                        colorIdx: Math.floor(Math.random() * colors.length),
+                    });
+                }
+            }
+
+            updateFromMetrics(metrics) {
+                // Update props based on live metrics
+                this.props.volatility = metrics.volatility;
+                this.props.trendStrength = metrics.trendStrength;
+                this.props.pullSpeed = 1.8 * (1 + metrics.riskScore);
+                this.props.orbitSpeed = 5 * (1 + metrics.volatility);
+
+                if (this.symbolEl) this.symbolEl.textContent = metrics.symbol;
+                if (this.priceEl) this.priceEl.textContent = metrics.price.toFixed(2);
+                if (this.changeEl) {
+                    this.changeEl.textContent = `${metrics.changePercent >= 0 ? '+' : ''}${metrics.changePercent.toFixed(2)}%`;
+                    this.changeEl.style.color = metrics.changePercent >= 0 ? '#00ff88' : '#ff4444';
+                }
+            }
+
+            animate(now = 0) {
+                if (!this.bgCanvas || !this.fgCanvas) return;
+
+                const ctx = this.bgCanvas.getContext('2d');
+                const fgCtx = this.fgCanvas.getContext('2d');
+                if (!ctx || !fgCtx) return;
+
+                const dt = Math.min((now - this.lastTime) / 16.667, 3);
+                this.lastTime = now;
+
+                const w = this.size.w, h = this.size.h;
+                const { voidRadius = 45, outerRadius = 75, tilt = 3.1, tiltSideway = 0, trail = 70, colors = DEFAULT_COLORS } = this.props;
+
+                // Clear with trail effect
+                ctx.globalAlpha = 1;
+                ctx.fillStyle = `rgba(0,0,0,${trail/200})`;
+                ctx.fillRect(0, 0, w, h);
+
+                fgCtx.globalAlpha = 1;
+                fgCtx.fillStyle = `rgba(0,0,0,${trail/300})`;
+                fgCtx.fillRect(0, 0, w, h);
+
+                ctx.globalCompositeOperation = 'source-over';
+                fgCtx.globalCompositeOperation = 'source-over';
+
+                // Calculate derived values
+                const maxR = w / 2;
+                const outerRad = voidRadius + (outerRadius/100) * (maxR - voidRadius);
+                const voidCx = 50; // Centered for demo
+                const voidCy = 55;
+
+                voidCtx_save(ctx);
+                voidCtx_save(fgCtx);
+
+                const tiltRad = (tilt * Math.PI) / 180;
+                const tiltSideRad = (tiltSideway * Math.PI) / 180;
+
+                const bgParticles = [];
+                const fgParticles = [];
+
+                for (let pt of this.particles) {
+                    const speedFactor = Math.sqrt(voidRadius / Math.max(pt.radius, 1));
+                    const localOrbitSpeed = this.props.orbitSpeed * speedFactor * pt.speedOffset;
+                    const localPullSpeed = this.props.pullSpeed * speedFactor * pt.speedOffset;
+
+                    pt.angle += localOrbitSpeed * 0.01 * dt;
+                    pt.radius -= localPullSpeed * dt;
+
+                    if (pt.radius < voidRadius) {
+                        pt.radius = voidRadius + 0.6 * (outerRad - voidRadius) + Math.random() * 0.4 * (outerRad - voidRadius);
+                        pt.angle = Math.random() * Math.PI * 2;
+                        pt.height = (Math.random() - 0.5) * 20;
+                        continue;
+                    }
+
+                    const cosA = Math.cos(pt.angle);
+                    const sinA = Math.sin(pt.angle);
+                    let x = pt.radius * cosA;
+                    let y = pt.height;
+                    let z = pt.radius * sinA;
+
+                    const y1 = y * Math.cos(tiltRad) + z * Math.sin(tiltRad);
+                    const z1 = -y * Math.sin(tiltRad) + z * Math.cos(tiltRad);
+                    const x2 = x * Math.cos(tiltSideRad) - y1 * Math.sin(tiltSideRad);
+                    const y2 = x * Math.sin(tiltSideRad) + y1 * Math.cos(tiltSideRad);
+                    const z2 = z1;
+
+                    const scale = PERSPECTIVE / (PERSPECTIVE + z2);
+                    const sx = voidCx + x2 * scale;
+                    const sy = voidCy + y2 * scale;
+
+                    const margin = 30;
+                    if (sx < -margin || sx > w + margin || sy < -margin || sy > h + margin) continue;
+
+                    const sizeScaled = Math.max(0.2, (this.props.particleSize / 20) * scale);
+                    const depthFactor = Math.max(0.25, 1 - ((z2 + outerRad) / (2 * outerRad)) * 0.5);
+                    const alpha = Math.max(0.2, depthFactor * 0.8);
+                    const color = colors[pt.colorIdx % colors.length];
+
+                    if (z2 >= 0) {
+                        bgParticles.push({x: sx, y: sy, size: sizeScaled, alpha, z: z2, color});
+                    } else {
+                        fgParticles.push({x: sx, y: sy, size: sizeScaled, alpha, z: z2, color});
+                    }
+                }
+
+                // Sort and render
+                bgParticles.sort((a, b) => b.z - a.z);
+                for (let p of bgParticles) {
+                    ctx.globalAlpha = p.alpha;
+                    ctx.fillStyle = p.color;
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+                ctx.globalAlpha = 1;
+
+                // Core rendering
+                if (this.props.showCenter !== false) {
+                    const coreGrad = ctx.createRadialGradient(voidCx, voidCy, 0, voidCx, voidCy, outerRad);
+                    const c0 = hexToRgb(colors[0]);
+                    const c3 = hexToRgb(colors[3]);
+                    coreGrad.addColorStop(0, `rgba(${c0.r},${c0.g},${c0.b},1)`);
+                    coreGrad.addColorStop(0.6, `rgba(${c3.r},${c3.g},${c3.b},0.8)`);
+                    coreGrad.addColorStop(1, `rgba(${c3.r},${c3.g},${c3.b},0.5)`);
+
+                    ctx.fillStyle = coreGrad;
+                    ctx.beginPath();
+                    ctx.arc(voidCx, voidCy, outerRad, 0, Math.PI * 2);
+                    ctx.fill();
+
+                    if (!this.props.performanceMode) {
+                        for (let i = 0; i < 4; i++) {
+                            const bandY = voidCy + ((i - 1) * outerRad * 0.2);
+                            const grad = ctx.createLinearGradient(0, bandY - 4, 0, bandY + 4);
+                            grad.addColorStop(0, "rgba(255,255,255,0.04)");
+                            grad.addColorStop(0.5, "rgba(0,0,0,0.01)");
+                            grad.addColorStop(1, "rgba(255,255,255,0.04)");
+                            ctx.globalAlpha = 0.5;
+                            ctx.fillStyle = grad;
+                            ctx.fillRect(0, bandY - 4, w, 8);
+                        }
+                    }
+                }
+
+                // Foreground particles
+                fgParticles.sort((a, b) => b.z - a.z);
+                for (let p of fgParticles) {
+                    fgCtx.globalAlpha = p.alpha;
+                    fgCtx.fillStyle = p.color;
+                    fgCtx.beginPath();
+                    fgCtx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+                    fgCtx.fill();
+                }
+                fgCtx.globalAlpha = 1;
+
+                this.animationId = requestAnimationFrame(now => this.animate(now));
+
+                function voidCtx_save(ctx) {
+                    // Placeholder for future use
+                }
+            }
+
+            destroy() {
+                if (this.animationId) {
+                    cancelAnimationFrame(this.animationId);
+                }
+            }
+        }
+
+        // Simple market data simulator
+        class MarketSimulator {
+            constructor() {
+                this.symbols = ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT', 'ADAUSDT', 'DOTUSDT'];
+                this.prices = {};
+                this.volatilities = {};
+                this.initializePrices();
+            }
+
+            initializePrices() {
+                const initialPrices = {
+                    'BTCUSDT': 45230.50,
+                    'ETHUSDT': 2845.30,
+                    'SOLUSDT': 98.75,
+                    'XRPUSDT': 2.38,
+                    'ADAUSDT': 0.52,
+                    'DOTUSDT': 5.84
+                };
+
+                for (const symbol of this.symbols) {
+                    this.prices[symbol] = initialPrices[symbol];
+                    this.volatilities[symbol] = 0.2 + Math.random() * 0.3;
+                }
+            }
+
+            updateMetrics(symbol) {
+                if (!this.prices[symbol]) return null;
+
+                // Random walk with volatility clustering
+                const volatility = this.volatilities[symbol];
+                const trendStrength = (Math.random() - 0.5) * 2 * volatility;
+                const priceChange = this.prices[symbol] * 0.001 * (Math.random() - 0.5) * volatility * 10;
+                this.prices[symbol] += priceChange;
+
+                // Occasionally shift volatility
+                if (Math.random() < 0.02) {
+                    this.volatilities[symbol] = Math.max(0.1, Math.min(1.0,
+                        this.volatilities[symbol] + (Math.random() - 0.5) * 0.1
+                    ));
+                }
+
+                return {
+                    symbol,
+                    volatility: Math.abs(this.volatilities[symbol]),
+                    trendStrength,
+                    volumeLevel: Math.random(),
+                    riskScore: Math.random() * 0.7,
+                    price: this.prices[symbol],
+                    change: priceChange,
+                    changePercent: (priceChange / this.prices[symbol]) * 100,
+                    timestamp: Date.now()
+                };
+            }
+
+            getSymbol(index) {
+                return this.symbols[index % this.symbols.length];
+            }
+
+            getSymbols() {
+                return this.symbols.slice();
+            }
+        }
+
+        // Main application
+        class JupiterApp {
+            constructor() {
+                this.simulator = new MarketSimulator();
+                this.jupiterComponents = [];
+                this.liveToggle = document.getElementById('liveToggle');
+                this.isLive = false;
+                this.setupUI();
+                this.init();
+            }
+
+            setupUI() {
+                this.liveToggle.addEventListener('change', (e) => {
+                    this.isLive = e.target.checked;
+                    const statusBadge = document.querySelector('.status-badge');
+                    if (this.isLive) {
+                        statusBadge.innerHTML = '<span style="width:6px;height:6px;border-radius:50%;background:#00ff88;box-shadow:0 0 6px #00ff88;"></span><span>Live Feed</span>';
+                        this.startLiveUpdates();
+                    } else {
+                        statusBadge.innerHTML = '<span style="width:6px;height:6px;border-radius:50%;background:#ffaa00;box-shadow:0 0 6px #ffaa00;"></span><span>Demo Mode</span>';
+                        this.startDemoUpdates();
+                    }
+                });
+            }
+
+            init() {
+                const grid = document.getElementById('dashboardGrid');
+                const symbols = this.simulator.getSymbols();
+
+                // Create loading overlay
+                const loadingOverlay = document.createElement('div');
+                loadingOverlay.className = 'loading-overlay';
+                loadingOverlay.innerHTML = `
+                    <div class="spinner"></div>
+                    <div style="color: #888; font-size: 14px;">Initializing Jupiter System...</div>
+                `;
+                document.body.appendChild(loadingOverlay);
+
+                // Create tiles
+                for (let i = 0; i < symbols.length; i++) {
+                    const tile = document.createElement('div');
+                    tile.className = 'dashboard-tile';
+                    tile.innerHTML = `<div style="width:100%;height:100%;"></div>`;
+                    grid.appendChild(tile);
+
+                    const innerDiv = tile.querySelector('div');
+                    const jupiter = new JupiterTrading(innerDiv, {
+                        particleCount: 2500,
+                        tilt: 3.1,
+                        trail: 70,
+                        orbitSpeed: 5,
+                        pullSpeed: 1.8
+                    });
+
+                    this.jupiterComponents.push({
+                        component: jupiter,
+                        symbol: symbols[i],
+                        element: tile
+                    });
+                }
+
+                // Remove loading overlay after initialization
+                setTimeout(() => {
+                    loadingOverlay.style.opacity = '0';
+                    loadingOverlay.style.transition = 'opacity 0.5s';
+                    setTimeout(() => {
+                        document.body.removeChild(loadingOverlay);
+                    }, 500);
+
+                    // Update overlays
+                    this.updateConnectionStatus('connected');
+                }, 1000);
+
+                this.startDemoUpdates();
+            }
+
+            updateConnectionStatus(status) {
+                const badges = document.querySelectorAll('.connection-status');
+                badges.forEach(badge => {
+                    badge.textContent = status.toUpperCase();
+                    switch(status.toLowerCase()) {
+                        case 'connected':
+                            badge.style.color = '#00ff88';
+                            break;
+                        case 'error':
+                            badge.style.color = '#ff4444';
+                            break;
+                        default:
+                            badge.style.color = '#ffaa00';
+                    }
+                });
+            }
+
+            startDemoUpdates() {
+                if (this.demoInterval) clearInterval(this.demoInterval);
+                this.demoInterval = setInterval(() => {
+                    this.jupiterComponents.forEach((item, index) => {
+                        const symbol = this.simulator.getSymbol(index);
+                        const metrics = this.simulator.updateMetrics(symbol);
+                        if (metrics) {
+                            item.component.updateFromMetrics(metrics);
+                        }
+                    });
+                }, 16); // ~60fps
+            }
+
+            startLiveUpdates() {
+                if (this.liveInterval) clearInterval(this.liveInterval);
+                this.liveInterval = setInterval(() => {
+                    this.jupiterComponents.forEach((item, index) => {
+                        const symbol = this.simulator.getSymbol(index);
+                        const metrics = this.simulator.updateMetrics(symbol);
+                        if (metrics) {
+                            item.component.updateFromMetrics(metrics);
+
+                            // Add some visual flair for live mode
+                            const volatility = metrics.volatility;
+                            item.component.props.tiltSideway =
+                                (Math.sin(Date.now() * 0.0005) * volatility * 15);
+                        }
+                    });
+                }, 16);
+
+                // Simulate occasional market events
+                setTimeout(() => {
+                    if (this.isLive) {
+                        this.showMarketEvent();
+                    }
+                }, 3000 + Math.random() * 4000);
+            }
+
+            showMarketEvent() {
+                const eventTypes = ['Rally', 'Correction', 'Breakout', 'Reversal'];
+                const eventType = eventTypes[Math.floor(Math.random() * eventTypes.length)];
+                const intensifiers = ['Minor', 'Moderate', 'Strong', 'Extreme'];
+                const intensifier = intensifiers[Math.floor(Math.random() * intensifiers.length)];
+
+                // Create notification
+                const notification = document.createElement('div');
+                notification.style.cssText = `
+                    position: fixed;
+                    top: 60px;
+                    right: 32px;
+                    padding: 12px 20px;
+                    background: rgba(255,102,0,0.2);
+                    border: 1px solid #ff6600;
+                    border-radius: 8px;
+                    color: #ffcc66;
+                    font-family: monospace;
+                    font-size: 13px;
+                    z-index: 1000;
+                    box-shadow: 0 4px 20px rgba(255,102,0,0.3);
+                    transform: translateX(400px);
+                    transition: transform 0.3s ease;
+                `;
+                notification.innerHTML = `
+                    <div style="display:flex;align-items:center;gap:8px;">
+                        <span style="width:8px;height:8px;border-radius:50%;background:#ff6600;box-shadow:0 0 6px #ff6600;"></span>
+                        <span>${intensifier} ${eventType}</span>
+                    </div>
+                `;
+                document.body.appendChild(notification);
+
+                setTimeout(() => {
+                    notification.style.transform = 'translateX(0)';
+                }, 10);
+
+                setTimeout(() => {
+                    notification.style.transform = 'translateX(400px)';
+                    setTimeout(() => {
+                        if (document.body.contains(notification)) {
+                            document.body.removeChild(notification);
+                        }
+                    }, 300);
+                }, 3000);
+            }
+
+            destroy() {
+                if (this.demoInterval) clearInterval(this.demoInterval);
+                if (this.liveInterval) clearInterval(this.liveInterval);
+                this.jupiterComponents.forEach(item => item.component.destroy());
+            }
+        }
+
+        // Initialize app when DOM is ready
+        document.addEventListener('DOMContentLoaded', () => {
+            const app = new JupiterApp();
+
+            // Clean up on page unload
+            window.addEventListener('beforeunload', () => {
+                app.destroy();
+            });
+        });
+
+        // Handle mobile responsiveness
+        if ('ontouchstart' in window) {
+            document.body.style.touchAction = 'none';
+        }
+    </script>
+</body>
+</html>
