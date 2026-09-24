@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T19:55:27+00:00",
+"updated": "2026-09-24T20:19:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "d8cac22f96ea5336",
+"title": "Adani, with CM by his side, promises Rs 1 lakh crore investment in Bengal",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYnZBbmU2VGIwbHB0UFJvNXBJb09GX3N6emtQX1J3MWROYW5VZkpPcWtIQllXUldCNG5wNUdINy1UVGxOUm5UMXpIclZMS05nUXJkUWZEdk9YZWxvRS1Wa3hYQXh0NzRYeC1qdGxMal95MzR0SG9kdEYtZVFMOVdfX25uNGV5bkY0YTQyc1h6OGlUbm8zeTFZLTlkYlJQM1BDUExsVElWT1BBUHRNR3hBM0RvamxlQ3NWandaTVNIR0JzdjdodUdNMVZzTVlid01UZFBUeXZRZktUbHFpcE9n0gHkAUFVX3lxTE1La2pTY1ZVU3NCUFVQTFR4YldFVjVEOWJkbDEtdmNIMlQ5N2l6SEtrdzlGVmY3SllfbDJnTS1ub0dzdFktQmVQMFphdlJ2aDJOazJjb29RdkZCVGt1ajN6QnpEb0FINVp3U0puRDBaaVdXcDFEcl9ZSEM0V0d2WnFHN091OXV1Rktpc1NOZHhUUHFiR2VuMVd5Wks5MHN0bDJGVHFrSTFNZGgxVXRPdXJiSEJNdUhPQTJ0aDI2aVdtT1ZjNFFMaUdWOFN0SmVTVjl3cEMyamdHXzFpOFExVTRQYU5TMw?oc=5",
+"source": "The Times of India",
+"published": "2026-09-24T20:04:00+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b75e0c4fe2c8b89d",
+"title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2NSUG9IUzdEel90WDhaNVdwX1NTQ2k5MFdXYWRRS0lndGR5R1NwMXFfV2lnaW1TQVpGM2RfWmViQk1zTWZIcnU5VU1nNlJXZnZpb0wxeWtMWkJ5eGJIa05DYkM3cm10SlRhNlREUHpVaGlaVTZXLTdRZEFaTnRNclJFSjZhbnU3SFQydUlGT3FHeXlQQkhDTQ?oc=5",
+"source": "Chron",
+"published": "2026-09-24T20:01:26+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c8c258d05af4907d",
+"title": "Mahindra & Mahindra, Ideal Motors unveils All-New Bolero MaXX at Motor Show",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUZHODFvX2Rjc1J5MmNYQjluaGYwZHBZa2pfcFBIeU9jaUtMZDFINkpWRWhGcDQ2YTNCVG1GUmVGMWVTLW1EWDViMUx6bjgxazRoWnFnaXZPOTkyZlFNdjVuaGRkdWo3U0d1NTFwZ0hGRkphSEhrT051UnBVbFpNZmtCSk1pV1pqWWc2aklWSTFPNmxjSkZLSDdsZEowN05SMW9IN2R1N21uUTV1RGVnR094d1kwY2RNQlNOUGNtTQ?oc=5",
+"source": "dailynews.lk",
+"published": "2026-09-24T19:55:53+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0891b254d173e13e",
 "title": "Gandhinagar Court Grants Regular Bail To Journalist Ravi Nair In The Adani Defamation Case",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkx4SzFza0pScU5NZ2x0cmtEYU01blNFdHlEck16aFZVMVdpRV9CS1ROX0NRMmxNMXduaDRtejFxT0NhVWc0ZlBzTUg1bjh0WVJOQnUzWi1pdE1YaXlnVkVoNkFyNGYxZ2ZvVXVZaS10Y1JZYTRYdmc3RGZQSG1LVEJFcUJlQkNQbHNhWU40aS1WMFllNnlDZG1FNGRxZVEzRzA5TTcwVERIUHQ1UkE?oc=5",
@@ -547,6 +595,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c744459e6dd495c1",
+"title": "Reliance Industries Limited. . For five years, Reliance Foundation, United Nations in India, Observer Research Foundation have brought ‘India Day’ to the sidelines of the UN General Assembly in New York — creating a platform for leaders, policymakers and c",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkZfc0x6NTZqQTVBUEtscFk5NERoN2RiSXBnRUcxaGVyZXJLZVNNYVhCUE92dlFxN2J4elNvV21fTzlWX1FtX0poS2ZIRnhGNlJFNDFqa21oUmxzVHV1ZzlzQ0t6OUZ4eHozUGZUVU9hSWVEQk1hdjNHSHVuVElsRklTNFFMdndYM3ZESllJQWw1eTR2MGVBSFh5NV9JWFdDd21ib294Qko5bmtEZUtyUkRRN1VDVkFpaElVbzV2RjB0bm1rQXNodktGSEl1bF9hZmJLeno1WlM1RXl0dWJIM0tzb2ZGQ2UzVGNIRg?oc=5",
+"source": "facebook.com",
+"published": "2026-09-24T17:41:24+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3801f4cfe99443a2",
 "title": "Lesson from HDFC Bank contoversy: Boards of companies should not conduct business in haste",
 "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTDhyUFRXQUlLVXRndnVKVjFMdmNxX21KZkhGOGZaR25hejVwVklKN3B0cF9mYm1Jd2FxSEwtUUZJUm1OVkM4ZlNqdFN2Qll3d3BYSUkwakgwNTBVTWhnWk0zMnJjOUp3QXJaSUVfYmRzRU9kVFlHU0JGLVduajJFZjFGMGlsOGh2V1pXZE1LOFoxN0lZVzFCMHRQeU10eDBDTmtDQnNuVVpqMU9HZmdnOHEycy1tOE1OU1hscDdEMXc0eUtwMDJnNEs5a1p1elhhc0lWLXBXOVFMRzYybTZlRU5hRVJKUUtuWUVJVG14RnJoVzJQR0pGatIB_gFBVV95cUxQenpYbmgtRWVTZTRfLWFELTFUc1NXelBseE1ic1F4TV9raV84SGN0X2QyTG1lV0lsLTlnTDdWQ0N6TFZRR2RiQ0VxZEcwejhfcFkySWtEVzRCNzJ1QmhWYVo3Q1dRNHV4VW0wUXM2STkwYkcwQmdKZzA2Qm5YeDBUYzFaNGg5TV8tck5zRjBBVXBBZGIxcEUzanRneUxUTTktamJHWnBzZTRZblA0dWlINWs5U3ZBQ0pPUVlWTTVmTEQ0R1VTdjR5aXhmR29sazBOb3Nlb25NMFowWjNOY0I2aERFMGF1aGJqaTZ0YWtsbmszZ19HR2JIWUZJekZTQQ?oc=5",
@@ -558,6 +622,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0eeece1998d3cf77",
+"title": "Maruti Suzuki commissions first green hydrogen plant at Manesar plant",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2JCblMwLUJOekVVS1VBcEQxZG5RbldDbzZ5RExrMGpqNmlRaDBoUWEyam4yMWg3cmx1U24xeXN5MU9Ba2xyX1VZYVJiYmZlUmI1cTY5T3I2R3lCVmlFa1k5UXNOSk5aQU9JWmF4UmtLd1RQTWs0dGFraEhaOVVSY2VnT0NoUGpMN2MzTWNxQlNJMFdPc24zY3QtVzFkOVc2VFFmbGNxaF9YOFBURzV1UHpPcTY0eTRodEJZ0gHCAUFVX3lxTE9HTmNKVFRzNlowczVsRWhNNW95bHZieThfeW5DS2hjXzFPOGFiSWctZjhOdEl5R1RiWXBXWUx5Mkk2WEs0RllpTnlkbHpTRkQ2YmJ4LS1BTHdZckZvQmxONzFPa1RyZS1oeGxuNVczODNBSVJHd0duamE4VUVkenFWaGdDNzRQRmYxZXZGcm5SMV9JX2pxdDEzdmRZaGdla2N5R1RQaFJtOFI3OXZiQmVpNjJzSndacjNhZWVfclh6OEtB?oc=5",
+"source": "Indian Chemical News",
+"published": "2026-09-24T17:32:15+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3138,6 +3218,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "09bc30f5640361ee",
+"title": "HDFC Bank slides Thursday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0ZtaC01cndqMk9ObmpRQkQ0WWdfTjdzQmtacS02dkJrdmZZVFNvMUlZeUpvZjZtNG9CdzFCdjgtN1BVQjZnWUNlTXh1Vm54Zks3aDQwMjNUaHRtTUFkOW9LNUdjd1NQSklqdHFNc1dhWDhqYmViY19RMjdVTkhmQ1c1MkNYd1lVUDgwa2pRWTY0UjF6bHFLRDN3ZFZwZzFFak1oTmM3dktCWjNLRmZFY3p1UUwxQUNZVmlCdzlibzhYYVlHc0ZB?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:30:00+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "245bd010d5c0eff2",
@@ -8835,6 +8931,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f7ab42dd56ecf4a2",
+"title": "Sun Pharma के शेयर में हल्की बढ़त, ILUMYA के नए arthritis उपयोग की US FDA समीक्षा मंजूरी के बाद।",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDlGVmVIM1d1dVpwNFJGbDgtNlJrOUxmMXNZZjluaWl4S2dkd2hhdHQ1T0dZX29EUFJMbDR6V0c1R3B4WWxhVVZwVWJFOFcxeGdQRHpzX3NIYTFCZkE4X2ZHcDRxMndSSG91NU0wRk5sR1Nzd29sdEwyUGppelZEMHl4N3VTWFlGNHZHRHJXQnhNdkxFVURyVEdHX2NlVUN4VlI5YVc2SXZ0SVZCaUpIdnY3UEpZLWFLTTV0ZFBYOHYxMkJ0LU44NVdxLWtKQQ?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-24T02:57:21+00:00",
+"first_seen": "2026-09-24T20:19:27+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
