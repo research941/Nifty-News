@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T14:34:12+00:00",
+"updated": "2026-09-24T14:48:51+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "65ea891254947711",
+"title": "UltraTech Cement adds 4.6 mtpa fresh capacity",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjlYOGp5X1FDeGIxTzZ0S1hYY1RUTk12R1Y5eDZPSk9ZY3RCYTRuU0cyUmN0ZzBlUHJQS1M1LXdMUnVyXzlPam05V3M0NDZkbGZxM2hfQXkxdFpyTjlNMy1zd3ppN1I2TlQ4c1FyZ1RSU1UzM21tWERGc012bUVOaDNwREZXRkZqN3NwVGxMcUtlWjBVZGJLMWJnQlVvNkZoRGd2U3o5QlVtQzFxU1ExaNIBtwFBVV95cUxOMDZIWENLOHN3MVFtVVc1WjZRWUZWWlFEVXp3MDd4Q3llOW1Dem51bEZRX1VTNFdYLU9tX1dyTjdVc3ZuT2lZTzhsVW1lSXhucGlHak56SndFUlNEaFJOcVlnbHlVZFdTb3Q0V2hyOWl0dlRfaWowVjU0M3dqMEtWLUlNTW1HOXZaUllmRkJZUl9QX1NJVGp0TFE5ZU5STjB3LTVhU1AtYm1lTFBmNndLVWl5YVNqWUU?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-24T14:34:24+00:00",
+"first_seen": "2026-09-24T14:48:51+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ad537bce297d3b46",
+"title": "Maharashtra Bank Holiday Tomorrow, September 25: Are Banks Closed or Open? Check SBI, HDFC, ICICI, PNB, Axis, BoB, Canara & More Services Operating & Closed",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNb1Q2UUNITEc0a3Q0RFREMFh6Nkx4WTdacnVrdTFxTnRDZ18tckpWdUNoMzNJQjhWNDM4MmtxZEk4VWtsM0RrQlRnMlFhZ0c4WEdzdF9qc0Iyano0Z2c0UGFyYk5aVWFaZUJXRngyZHc3VHl3eVFzTERDTWg3cWE1cHRjcUhNT0kydFdlcDEyNVJfdXA3ZXdnWi0yV0VtRzZlUWhoM1pKZGdocFZHMUs3V3VIYWtLNnNJUkxiUkhXZi1NQmNKYWRXbFBfWnZucE1WLTJRLTc5ZHJPU3hDMDUzblp3YWN5elN4VkVLS1RGdmEtQTlyV3FPRkxJSjhXWUpXcUUxSzdqYTJfbC15WTd5T1ptUnM3LXhZajdz0gGgAkFVX3lxTE9EU3c1YmdQY2JDSU95QnJTWVR5aFF5dWZGV1Y2T2xzVndDRnhWQW1YeWcySjdtQTBzajBfOUliMExPUk9JTDdBSDFNOGRCbkZzM0w2MW91eHJ6dDBhenRwYzkwNWs1U2RqU3BYNW9zNC1LR3NUVl9HNENsVkk4em13NXh5eEsxc0NjcUZYcWR3OFMtNFg4V0NKOXRuT3lLQzRaR0k0V1dwYzhyRlhnamI4dXdWTE4tMG1zT0E5SG5Rb3JyR0Z2LWsxVElsTW9sTHpIUjdPMXBReWtxc01id3ItNkc4Z3dCY3VJVXpOOHFWQi1UazVoRjNVSlFPOWdfczJQMTBVMEVkMzZJeldSMHBycEduUGUwUm9xLTJPc3hfeg?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-24T14:33:19+00:00",
+"first_seen": "2026-09-24T14:48:51+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "887b310ca8c63dd9",
 "title": "Adani Group to invest Rs 1 lakh crore across Bengal by 2035",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXUtZ3hjNFlZMDlTbVpZMkZveHdMNWFfX2dCVTFZQXlPQ3ktQUE5QU56WTVTbFNEeFRTR0p2UkZFN3JOWkkxR1ZRb29ZN0ZKNVdFR2J0U01EY29WdWhFeWhlRGFCTTFPR3FPZFlLLUxIQ2JHcC1henBNUmlZZEtZcTRBYXJsQ3JnRmdnS1Q4RQ?oc=5",
@@ -573,6 +605,25 @@
 "Healthcare"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "26365be5e34e0173",
+"title": "L&T Tech Services Q2 results on October 19: Interim dividend also on agenda",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1NpbVVIeHBPbTdzcTNwa0NUZXVYRGh6NDJELUNmTWJHd09VSTRhRHM3UGNEUW82T0ZpODBtdlN6UHdYQWlYWGctRnEtSDZmemt5dDhSUDJrNThsSHNyeG1FVnRnM2NOU20tRUlNWHBLNWVEMTl5N1gxbVlTcmlRY3VrS3B2MExUZGl1T1JUeFdyTlNQSUZUeTI0U0pKNVhmQ2FwaFpJVjR4UlRRSVdXN1Bubk1hTjFaZTFNa1pGWEU0UUNWWmZBRzFsNVlSNGtPRUHSAdgBQVVfeXFMTmVFaGNDS3lSUlcwMTlXVlJDOWJKZ21fSkhLNS1Ya3lXZ09SeE9EODN1UGtGZ19jX25KQ1RQdkpTT0JpY2YxV05Cc1FCZXR1cXY5NDU0Y1EtS3dZX2RYWUR4NnZscW1pcmEwRFJjN1ExeU1DMTVTR1lXX2FKMVRyLWgxXzZyZjVveXU4azd2bzM5aHY2TkRPVVY5bGpoN2p5SzVJZlJaT1BwNm5nQ0lWMWFIOWFZeXhMd1d1T1JyYzdFc2cxaE9kUHliV1hXLTlwUmtVRVFOVVVH?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-24T13:43:52+00:00",
+"first_seen": "2026-09-24T14:48:51+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -1198,6 +1249,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b2e81f1c9356ea11",
+"title": "AEP Ohio planning power grid upgrades in three Ohio counties",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3JqMFVtNjRrUU1YTDRDS25OT0JYd1AwWDBQNHgzU0NCNWs3eDZCOVhjc2c0dy01Ym1RSjNERFhoZThnNjg2STN4U0xyT3BNUDVqZVhDOEpTMzlqWEJEekd5RDBYSEI2R2h6UTlMYkxjMHJRbUphRHVyUG9RODZLc1NnZTR5UDd5NGx1eC1pQzRpbS02RmFDcC1jQ2FLdnRHcWR6bVFiNTFZOXM?oc=5",
+"source": "dailyenergyinsider.com",
+"published": "2026-09-24T11:56:23+00:00",
+"first_seen": "2026-09-24T14:48:51+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "123b729fb4522281",
