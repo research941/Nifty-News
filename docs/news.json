@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T21:17:32+00:00",
+"updated": "2026-09-24T21:29:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -8302,6 +8302,22 @@
 "groups": [
 "HDFC",
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0073f9dd3059ffb7",
+"title": "Maruti Suzuki Baleno Closed Bonnet Image – Baleno Photos in India",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT2JiLXpiZHZpQ212VVlTc2xjX2FnOGdFcnNkRFhjVXB4YkV2c3I0SU5oTXRxVWt0U25HaF9FaHVzSk1ZMzI0NE9NZjZrZGpCNDJod3JlQlZjQ0JuOW5KYVBVNFQzVnNZZ25fcGhkR0E2dFE0d0hXQXZNa2pRQlc1UA?oc=5",
+"source": "Autocar India",
+"published": "2026-09-24T03:47:28+00:00",
+"first_seen": "2026-09-24T21:29:45+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
