@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T23:42:28+00:00",
+"updated": "2026-09-24T23:54:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "55d20811a42fec4b",
+"title": "Bengal govt signs MoU with Adani Enterprises to explore Durga Puja-related cultural initiatives",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMEktY2swcWZqR2JiX1V3QVpBMjFYSnlDSnNHb2dzQy1SVDAyUWx3endTWVNHcGJpTTFBMm5fTk1kdFdueGJBa3ZQdEpxNHFaaTNlcnlncy1jaDBSeTVWVmlMcnFtck1BTmdzYkZmbUFJdk1zQk5QSjdEa2p3YmdsdnJrd2RLMEQ3TkRaS3ZnNzlGRUVkWm1GSUlORTVnQlNERHhkYmtjNVdnWjlCaDRUZFdfd1lLdmRLdndoRFB0NHlIcjAwamgxQnk4SVpUSTh5WXYybHpaeTZlOUp6T1JuWXFqWUluWmhSb2wzQ0doeF9HTFJrYnZWYUdlN3oxUdIBgwJBVV95cUxPNVB5VzhlcGk4TkhxLUVwUHBOTzF6MkFydWtKdHZVdFZxdE5yd2pTdWJxR0lMRU85TlhwMWxZMDdfSVoyZkFqeWI4cmU5MWxicXpELThCc0RhV3dTZ1FTZy0tSmtLeUJ2b0trMkQyRGhHOUtFQzdGRXlwbDJMSEh1ejNnSE1DVWlQSHJYOHFQWWtTUWpzX2R0am9NUkI3ZEQ4NjFpMjVVZ29ZaWFJUUswWkhNLVdVWmtkTTFPZThnOUtxcTVrVEZ2Y2xpVWZNWnRKRnM1WGgwX2RQZnpCMWJpNkdJR29vcU5zSWVVMFNET1d3YnVoZ3Z3VzVVV2phb1V1eXdN?oc=5",
+"source": "Telegraph India",
+"published": "2026-09-24T23:45:10+00:00",
+"first_seen": "2026-09-24T23:54:31+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "6a2baaf8f2cb166a",
 "title": "Dr. Reddy's faces securities fraud probe after Q1 earnings hit by semaglutide batch issues.",
@@ -3156,6 +3172,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "1069f46672cb451f",
+"title": "HDFC Life, ICICI Prudential drop 7% on IRDAI commission rule concerns",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPd0J6bHRvQXNNcEdtV2k0REVvNFpxdHZQOC1aMlo0T0ZMak9RMExQeE1qS2lBQTJQUVkwN01DLWltaGtHbW5rSkZGeWotcmZzeXVoZld1WEZhSWZS?oc=5",
+"source": "motilaloswal.com",
+"published": "2026-09-24T11:11:12+00:00",
+"first_seen": "2026-09-24T23:54:31+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "558540826b0d56a1",
@@ -7438,6 +7470,22 @@
 "sentiment": "negative"
 },
 {
+"id": "29f05d8e63c326cb",
+"title": "TRAI orders Airtel, Jio, Vodafone Idea to launch voice, SMS-only plans for every validity period",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVnVaZUc4ZzZTaFR0TWhUVFlYUE1iWkpzZnNKZ2NxaUhfMldJTUVZOENzdWNIS1RPN19VZjV2QTFrc01MWkRweXl6THJLR21pYnp3WVRwQWw1ZXZLMldMWWUzQTBBbEdpcXpFY1VrNVZkUi03TWF2TlhBb3NTVkF3amNOcnl4MHJYVnNvZ0lSWGY4X2lrYlpQTUJBWlhQbFBVTDk3V2czdlpxYWw0czhmejJ3QTZvYnB5YTNxY3NhTnVJdzhtUVA1UnFtMWotMFYySTNRamYxN3ZqaHMxQXo0bTF0S2NHWjlZNDYzVmJFb2xXbFlmSU12ZWNMSHlxWG9mU0kzbFIzQdIBjAJBVV95cUxOT0Z4QkNJcFNlVUx2ZlZGQzhuTjQ3RUwzczlHd1NJTzhWUWtaaUVkb1QwYkVHMnVUUFc1SGJRdm1oLWpqbGVsREV3dFl3Qnd3OC10eTBQYVhmLXFmWEpOcXI3NF9JRzByY2hXS0RrOGVCdElDR0xOSHk2Z25VUWpWUmdTaDdXLVZrY0oyZkFaV2JjNXJoMHpZdFVNQnZpSk9Lb05zQ0RkdFJ3RmlONzk2bHE5S0ozSnhsb3N3N21MSUU1OVNQaExCNGNwaEV0emE3OXFVT3RPZll4d0FyMEZNOUhDTVhyWjVJZ3U2a2ItUnE4ai0wWGtuT1FYeTY2WU1sSGxZZUFBTVRJMFdK?oc=5",
+"source": "timesofindia.indiatimes.com",
+"published": "2026-09-24T05:40:00+00:00",
+"first_seen": "2026-09-24T23:54:31+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "eea9d4c5880dab82",
 "title": "NTPC Pays INR 3,394 Crore Final Dividend for FY 2025-26, Targets 60 GW Renewable Capacity by 2032",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlMySHY2bi1NRHhFUWVpRmlxaDRrYkRLX2l1YVhYdjRCcWQ2MngzaENfc2Q1Rmx5SmdkdnB3bDY0TlhWNW9tN0lWMVdnT3BQTzgyTHIzQXBieGt3aTE3a3p6bnI0cmtXaTdma0UxaVBiYnA5R2dOX3ZZMmd0MXJxdlo2OGNJbFM4am95QUNzV013OXlleVhJZ3BIVGNIWldoR1BidmFjZ0F2ak5fbE9pQ1UyQ3FNRXUtSzFob2VQV1VWYW8yVHZnbHpsNWU?oc=5",
@@ -8837,6 +8885,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b8b43472a702c1f4",
+"title": "Titan Eyeplus’ Insight into Preventive Eye Care Awareness",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlkzUFBvRGthbEhwMHV3NVpUQ3VFa08yLW10c1J3ZzRpTTdBWkVQWWxzbDZpczRjdkQxTkVnSmcwbFBuTm5BZDVHQkZ6RGFVREFBZU83Vjg3LTN0dWZBbE5LRTZza2RmRlVPelBYZk1ya04tdmRLNERQZ1FNN1FWdEJQNjFDZnNxM2NRdzJSUC0?oc=5",
+"source": "MarkHub24",
+"published": "2026-09-24T03:30:03+00:00",
+"first_seen": "2026-09-24T23:54:31+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c657f5e6a6bbb048",
 "title": "HAL to BEL: Emkay sees up to 26% rally in 4 defence majors targeting Rs 3 lakh cr output by 2029",
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOS0xUmdvWUxyRGRlMzV4QlpHS0VSZXRhZXhZUF9sQjVTS3JBRHczbU1rUXpKSkNMOElqN2ZkMmR4NWlhN3hwVlRfdHdwZGRPbXV4T0N5eFFyWXdnb1FraFNNNHI1N2luUGdZdEJJV2llaEQ3bGZRSlJKTnNxcnlSdkFOU2FvMFNLZlFPZVhwcmRiZ0xka19CQnhjOWhOV01BWFduRWUwZ2V3OW5pRlY5VEF0cTJGMGVmbk9Zb1J5b0U5cVpDdFhPRzN4azhTOEZZYmZ2ZjQyUENhVUNtcGRVVHN30gHiAUFVX3lxTE05LTFSZ29ZTHJEZGUzNXhCWkdLRVJldGFleFlQX2xCNVNLckFEdzNtTWtRekpKQ0w4SWo3ZmQyZHg1aWE3eHBWVF90d3BkZE9tdXhPQ3l4UXJZd2dvUWtoU000cjU3aW5QZ1l0QklXaWVoRDdsZlFKUkpOc3FyeVJ2QU5TYW8wU0tmUU9lWHByZGJnTGRrX0JCeGM5aE5XTUFYV25FZTBnZXc5bmlGVjlUQXRxMkYwZWZuT1lvUnlvRTlxWkN0WE9HM3hrOFM4RlliZnZmNDJQQ2FVQ21wZFVUc3c?oc=5",
@@ -9889,6 +9953,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "f499cfab465c889f",
+"title": "Airtel Money plans LSE listing",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVZGcWtSeHduZkNZY0czUF9lMnFUQi1ETjlJa1ZHLUNaemVCcGZtT0ZYemVUMTlfX2pGQ09QYWQtWGtMeVd1T2NxSFh2QVpsVUJFV1lqcUlmbkptUGNqMVNvMGE5NHdNVHZmUHdkekNwT21rY3NpbHR2bTF0bTQwQmkxT240U1N40gGOAUFVX3lxTE1iMGw0SWVlSVd1UmhUcS14RVdzaEJORGo3UUdCWlQ1alFsTDN3aWhESkdlbFJGYjZsaWVVQjllVHpfVEJPYWZQTE1EOVJJclU1U2dkNnhFZlJJZFlJUmEzTWdpN1ctRVh3cnlCOVQ1VS16YVpER1VHYXlBZ24wUklNc2F2T2J5T2hlTGt4VkE?oc=5",
+"source": "BizzBuzz",
+"published": "2026-09-24T01:06:58+00:00",
+"first_seen": "2026-09-24T23:54:31+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "de6b1664c24484d5",
