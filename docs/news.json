@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T14:19:22+00:00",
+"updated": "2026-09-24T14:34:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "887b310ca8c63dd9",
+"title": "Adani Group to invest Rs 1 lakh crore across Bengal by 2035",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXUtZ3hjNFlZMDlTbVpZMkZveHdMNWFfX2dCVTFZQXlPQ3ktQUE5QU56WTVTbFNEeFRTR0p2UkZFN3JOWkkxR1ZRb29ZN0ZKNVdFR2J0U01EY29WdWhFeWhlRGFCTTFPR3FPZFlLLUxIQ2JHcC1henBNUmlZZEtZcTRBYXJsQ3JnRmdnS1Q4RQ?oc=5",
+"source": "Telangana Today",
+"published": "2026-09-24T14:29:03+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c07374a9faeda94",
+"title": "Reliance Industries stock falls 2.31 percent to a 52-week low",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnlnMmsxejBaUjNYNy1fOGpqekMwNFZ3ZlFMbkZSZlNuOWdoc19VOXFoX2YzQkQ1TDJKS2oyMi1oUmZfajg5OE1JWV9BaExiNU92TndDVmxsTFBFU1hfU0E0TzF5Mm4zeFVoQ0tNOFpzV0Mxbk9MQWhZTldJQXVSamc0bEtmUzFrNUU5aHpITWxaemNDMU5zYjdjNzlBZ3pCbWJJNF9fVUZCR2VvZDBJZjlUdk1IWjZMUE1NTVRReVhpUQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-24T14:24:10+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "ae87130f54039137",
 "title": "HDB DEADLINE: SueWallSt Reminds HDFC Bank Limited Investors of Upcoming Securities Class Action Deadline",
 "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQemNRRHMzcWllS1hHNDBCV1kxNjJhNFlqX1FUNWRqWUtLVGhQVkVkMjY0QVN3TzliYzNDQkFreXRXdGM3R19HcFdzREttVlRjX0VxTWpMeHBab2hERGdRVk9PMGpVNEhCX1lNS1pnOTQ4MllxbVpNeXJWek5OQjAyN181cFpiazlaSmloQkRIMlAyRU9sWW50Tk1VWlR0Tm5pbGhibWlwLUk2ekV0MXVmOVVDUzdDdWVVcm9PUmk5cW9lWTdUcVlRV19qTFBya3V6UnpzR1ZVcnNPdUE0YkxWWmQ3ZFR4M1A3bDdRTERjQlA?oc=5",
@@ -562,6 +594,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "67dee989c3e10362",
+"title": "Journalist Ravi Nair gets bail in Adani defamation case after week in custody",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmoyQVRKaXRTeF9UeTJnWGtwaG9YLU1LTm9MdlQ1d3JJeVRlb0xPak5UNUJwVW50N21wbF85elFxU25PQTZKN05EYlh6V1ctbWNXX1Jac1JMNFBoaXZhMGhobV9OYW8zNVdJNXFoUXFwQjdDMFRPS091SHVpSFVoVTI3aTdnZ0M0WlFyazVEMDJZcDN0RTdaeDlud2F5MG9Lb2l1Z3RMWVh0aUEtX3Y5NVE2REZJb1hnVXhaLS01Z9IBzAFBVV95cUxPWk5VQVJocERBLVY5NWt4TUJ2UDNhanBiMWctcEJpek9uUG9hdnZUNXhOODlqeko1cUI2eWhweXEwdjhPNE5jN1phXzhtRkZlT1g2Q1lwVDRTOVJXM2RWeTV6VU1qeFVWLVVNbTg0TWNjX292QklFMHBkbm5YXzdSNEF5X3JrYnVMM1VvcW5ZUXdiNUMxVlgyQ3hkM2ZPSFhLZkptUzFuM2N5eTlwdXFVZmNCNWsySGdGT1I0aHo4UVB4VE9qX1oxYXhOTmE?oc=5",
+"source": "National Herald",
+"published": "2026-09-24T13:32:53+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "612a3a11a8cb2094",
 "title": "2026 Maruti Suzuki Baleno Facelift Genuine Accessories Price List",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWFOeWJBeW9ibWFCX0lONzROMndUbnpVb1ZMMnZrbTJZZ2FjWDVzajItRHFieE5NU2t3RVhBTlVFWFQ4TG1NQUV4czNVSWhMMEd3MHVkT1NtamNXSDJYUjJ0UjlVeWhoeUo5a0t4N2hTMGw4ckhJNW1LOW0xajJXeWVPVllISVdoZDhTZmJDS2pkMTBYTjZhaGN4dlpvc2VKU2x2V2VpRktkTlBHbU5MeVdXMmFTSXgyaWpmenJwbzZXYmJZ0gHKAUFVX3lxTE9DR09lenBndm5pakN5cDRYcGtiMmpoV1RtOTgtVEpIb2lXQ3V0ZEMwLXVTa1I1VE5RWjBiQmg0MVJ2NlBKdzdRemo5cWJBOVpJUU1tZy1CbFp4NjJ3MkpGY0VrM0t1bEtHOEMza3l2bTNyMVFBRmljbF83TjhCOVJNWGlfNmd2VUxveVBNWjZobWduTGdIMjN6T19YcTJzSEFzaWFzVkZkYmhZLUwyaGpwb3RzMzY3LTNWaGdvNXpURHA3bUZMZDYzQmc?oc=5",
@@ -612,6 +660,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "218235a3ed14d9d2",
+"title": "Adani plans Rs 1 lakh crore investment in Bengal by 2035",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2xmZE5Sa2dDcmwwUjhfZ0ZnM2F6RWdhR2hkZExUSkM3MmFYVWtBc21TWG5XN1FUNjBHMTdTeWxnU29QVWx3MV9ZeVNFaW1RU2V4WEh0d3BxdzBhcjhIQ3RxaS1qWmpuTmRMaVFYYnNhWWd5ZnV1R0szN25idWtmbDV2REFFSnNGa2JQVUpXbWdSVEkyR2NsMDl5MFgzRG1BbUhDQVMwOUo3Y2tURHhiaUdCVzIzQUnSAbwBQVVfeXFMTk5GSDY5NGJKS1cwWGsyajJCZVZBRVpCaGZFZm9ZX24zd3lHdHVPSS11dk1HaWpiX29hS3pZeGlpMFNfWHlEdjVEcTVIdDBGN3U2dmVYaGJ2MEF1VjllNUNVa2Y5V0JvOHJJc1VWU01KODRfbU5PZHhjWmpKbWFiWlY1WWQzTzU5SlF5ZnJwaUpUNU5CTjlPQ1Z6YnVYbm5xNXNUVTJneVFlcUgxWjdZdnZOUDE0TXBlM3VnUFE?oc=5",
+"source": "The Statesman",
+"published": "2026-09-24T13:20:00+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3cbb94bb1c56d972",
 "title": "Chainlink's deal with Infosys covers 1.7B bank accounts but LINK token drops 4% amid unclear benefits.",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlTaEFjcE1LX1dFN2JNcWt4LWtzbFJwQ2xLeGU0c01zWjVMRXZybG5jakhkYUJkZmktR1dSeWVVV2w4MV91QWh5eU5qSHdpdFRuczJRMGg0Smp6emdLM0N4ZXpMRWhTN1hLcFVTbnB0UDdiNzJDTjROb290UVBiTlZ5Q3BZV3ZMQjNBR1l1WXQtTG5GbnE3NzBET1ZadGh6NkNyX0xncw?oc=5",
@@ -644,6 +708,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "277cfb540ec79db7",
+"title": "Maruti Suzuki Starts Green Hydrogen Plant to Cut Factory Emissions",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblNnajBCSkh0TFNmaEt2ZEc5dkVIcWxnSzdwb1piUFhnWEtENzJMbEpqZF9DSGJEUnltZGlUdzhmR1UzQTcydHBhNGJvVWsyckktdUdHZ2FPblBaWUhkanAxUHlRSFpENVBiZnBqcnFFWFptWkVnTmVVdzhycXRIazQ3SEV5R3A2RmM4MVNsX09LZGM?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-24T13:00:26+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "a76f35f5537008cd",
@@ -712,6 +792,24 @@
 "Order/Deal"
 ],
 "sentiment": "negative"
+},
+{
+"id": "01064816030951c0",
+"title": "Journalist Ravi Nair Moves Supreme Court Seeking Release in Adani Defamation Case",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0Nva1JSYXpNUDJuZGV0WVItOUp2eHhoczNaYWZLdHJhWFQyamJ4UWlseWxXdWRhaGl6YVgxMThaN1lTY21pbk50N1ZOSVNxTUJ0aWxaV0FHaGh4U0t4S1Vvc3I0d1V4V3lvZDFXLXVkeW40LTNZRVdJVWxMTzNTWjkzdnhjQmhDaXQ0TE5DS3Fwdw?oc=5",
+"source": "Hindusthan Samachar English",
+"published": "2026-09-24T12:53:06+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "14482a80789439b0",
@@ -1715,6 +1813,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "8c714328a4860ff0",
+"title": "Wipro slips Thursday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUE3TUU3SkhuTFdkd3Q2eGFOZjRNSlBRT2Z0a1FGdWwyNnVsX1BRUWFFQTd5QzYwYWswQzRrMHE5TkxkS2I4US05WmUtaUlnRXBRM1VpWnBpTUxiaVJXS1o3X0NsQnUwMGVEUmhtakhYTWtNQzdMMEdQa1NLYzkwcXY5eUdfdlREVkVONzhwNXJqUmI2eFpoTFpwNE9RUHVQQjE4c0piQTduYzBuOUNpY1VXbTYzdkF5MjNueVJwa1lZQQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:32:00+00:00",
+"first_seen": "2026-09-24T14:34:12+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "4371c09b3f3820e8",
