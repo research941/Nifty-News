@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T18:36:59+00:00",
+"updated": "2026-09-24T18:50:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -775,6 +775,22 @@
 "source": "Livemint",
 "published": "2026-09-24T16:04:03+00:00",
 "first_seen": "2026-09-24T16:19:40+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9813e9538d9a4d7e",
+"title": "Top breakout stocks to buy today: ITC Hotels, RR Kabel, MCX, Texrail, UBL by Sumeet Bagadia | Targets",
+"link": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html",
+"source": "Mint",
+"published": "2026-09-24T16:04:03+00:00",
+"first_seen": "2026-09-24T18:50:00+00:00",
 "symbols": [
 "ITC"
 ],
@@ -3461,6 +3477,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b44ec073f48a6475",
+"title": "Nestle India Share Price Today: Price Fall and Valuation",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjFzR01kaWR2ZHJhekpYbDZicDc2LWs3N2lxdW05Sjk3WjVSVG83QWpRaUlCdTk4YVBUYzE0cXZuTHJJbFUtLVV2OFl2cFl1RmFvWU5JRW54UnhiTjJIcnBFMGJaWnc3ODlQdk9sSlk2N21XOGFJdTVGUl9WQklCNA?oc=5",
+"source": "Univest",
+"published": "2026-09-24T09:49:20+00:00",
+"first_seen": "2026-09-24T18:50:00+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "3f23da956364045d",
 "title": "Meerut Axis Bank currency chest gets 1,323 fake notes worth Rs 4.63 lakh",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmdsYUxmdVdTXzJfUmVTRnZEcElONE9adzVJSTRnWllKd3B3dm9HMEI0UXhhWm12WTl3YXRQRWgwUDBJX0V6ZWZpMnFQUkVjdi1EUi1Tak05aXYwbjI3NkdHU2ZGcE9CN1pOR3RMNFQ3U3lWSGdUWFlyZ0xxZW1yNkZVazdRSmUxbzM1NURNdW96R19sVWs1S2FuaXR0NkJjVjM2WDlRSnZGWnY1bGNOZWNTcTN6ZHRPLXdwS2xCWHF1eG5DZVlxMThVQ3jSAdIBQVVfeXFMTUtzX1BYbXlPa2F6SGRNLWxEMDduY1dTbHhnMjROM2U0dFpVWjMwVWl5U1Bxc0lUZUdhUGNaNU9jQ3JhXzRidzM2dGNLVWd2MDVJa2FERUpFWUtTdVVYcHc4eXFyZ3RvZ1A3N0JpMTY1TW1kOXBRRmJtek4yUXlVTUFtTlUtYlhrakpRY2RDdUsyTDJwUHpzZUxOVUxwSm1iNXFDdUdpREZNZkh3Yi1ZdWVkV2VjMkFzNkdTU1RrS0VFZlFCTUxBbVdjY1o4QTZzSWVR?oc=5",
@@ -3815,6 +3847,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c950912f4129f890",
+"title": "Trent Share Price Falls 2.34%: Key Data",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DR0s4RDRjNGdfWnRaamM1czRLWFNUQk8wNk1jUmMtVW8xdW42MGRnbkVFelZhWDRMY045RWtFWHNUMW8wdThuZ2I3SHJEQ2tMZUFveGZEazNaakdIR1gwS2lYSENEWUJYZl9qeU51aDJsYVB2Y0dn?oc=5",
+"source": "Univest",
+"published": "2026-09-24T09:19:20+00:00",
+"first_seen": "2026-09-24T18:50:00+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "e71cf213041a4a5a",
