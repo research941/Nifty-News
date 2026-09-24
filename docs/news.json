@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T15:33:31+00:00",
+"updated": "2026-09-24T15:46:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "79968c82fe275737",
+"title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors",
+"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPMTV0R0hLRTVSRG5IZmp5TWxEWHVLTEJIZWhJaUFZbEo5QW1DQlU4R3BBcHQ0VFduNnFMcjlmU2ExTDJCamNBNWtrQVFnLUNTWnA0YnFXNF9TekFlZ18xQjBWR3JGMGFoRHV2M3ZBcXlKTTdNTGJkWHlwcE4td3pzNzFpenJJVFNUTDZSY1hjMVFTV1VtbWtqM3lVVXlxaDYxUjNjcWJlT0RuYmNLdmpyQzhmaUtLNUFROEFJNHBaVWpmUU9FT3VIQmY2UzN1czZTckxxOU44eG1tT2dnMFpMTzVuYTdqQmwzV2FzMThQOU5JU1pfLUlqd25zNE1oN2lBdjd6cjZWc3B4ZFFMVEROeXV4bWxVcXU5TWxPaENTUFptRGFCOEJ4VTQxX1pEN2k1VmlrNU9pdEtkNnhCUy14b3hubEQ2LVNmbXptMGdhQkNnMzhET3o2dlRyVnl2dFN3eWUwODFB?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-09-24T15:30:54+00:00",
+"first_seen": "2026-09-24T15:46:54+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "cb16a2de53b868e7",
 "title": "Infosys Stock Crash: IT Giant Hits 6-Year Low As Investor Confidence Takes A Hit",
@@ -1784,6 +1800,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "558540826b0d56a1",
+"title": "Coal India OFS: Maharatna PSU Stock In Green As OFS For Retail Investors Opens Today| All How To Subscribe?",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3Y0cTNWbUhtQmI3MHMtNjE1Uzh0LUYzZW1DWU5lNmdfLTNSSmJmS3pBMXFhdHlaTFVUU3VaSHVFMXJUVVVSb2lDbkFnODNpRjZ5N1pCZFJBMFlIQjlJbFB5MUtFelRTcTJuaHlXMjk3Nlh0dDBhMXcwMFVYTVdISVpPb3VkbFFBdE5rUnh5dUdKUUdsZUtPRDlOTmh6VFZvbjFvRjdZNVBoanhCTE5qNUdIYTZXOF85b3pTQkNGWmQwaURPMlJVU3JGWENPeWUxV3htTl9DMkdxTzQ?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T11:09:41+00:00",
+"first_seen": "2026-09-24T15:46:54+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "fc194eb9c8fa7c8f",
