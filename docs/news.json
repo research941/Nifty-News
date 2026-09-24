@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T20:33:43+00:00",
+"updated": "2026-09-24T20:46:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2969,6 +2969,22 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a2f8d6039209ce25",
+"title": "Biker suffers 'potentially serious injuries' in Stoke-on-Trent smash",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUE4T3h5cWJIX0o2QUFpaEdpZ3NGc05rSHk3ZF9iNzJqTVlKODVGUGYzSWU5U1lDcktWcEwzZUNGZmFIWE1XbU16ZzBuQWlvcHo2WDh0NEExY2pfd21XLVBwcTZ1a0QyUTM4YWdLMGF3LTRwX25HNTN4ZndlRzlsNmhWbUlGX3FjdjVNUDRVaDY0SjJGb3JZWlp6aEZ4bXpOMXJERG5VTFgtOUdI0gGyAUFVX3lxTE5Kb1FZVm1QeTU1VV9TazdlSW5WeWFBR1lGVUh1XzdLZENxenNPQ21ZWUQtOG41R2hFQWVsVTVON2hDT21PRzhVTjVadXZoVGNONUFVMEZZTlNnalZRcFVKY2VPclFaNUlfejlJdVVQN1pmZGM4TXJvVnl0NjRGajRfUTFQTnpmWjBNV3ViaENKTzBXSmEzdUxWcUtRZFNyMWNPOC1jQVJTMGVXeVBzNHhub3c?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-24T10:47:00+00:00",
+"first_seen": "2026-09-24T20:46:29+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
