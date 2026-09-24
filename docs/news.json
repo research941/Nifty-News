@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T17:54:38+00:00",
+"updated": "2026-09-24T18:21:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,7 +441,26 @@
 }
 ],
 "errors": [
-"Business Standard: HTTP Error 403: Forbidden"
+"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
+"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
+"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
+"Google News [SBIN]: HTTP Error 503: Service Unavailable",
+"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
+"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
+"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
+"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
+"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
+"Google News [BSE]: HTTP Error 503: Service Unavailable",
+"Google News [TCS]: HTTP Error 503: Service Unavailable",
+"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
+"Google News [TMPV]: HTTP Error 503: Service Unavailable",
+"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
+"Google News [TITAN]: HTTP Error 503: Service Unavailable",
+"Google News [TRENT]: HTTP Error 503: Service Unavailable"
 ],
 "items": [
 {
