@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T19:16:42+00:00",
+"updated": "2026-09-24T19:28:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "0891b254d173e13e",
+"title": "Gandhinagar Court Grants Regular Bail To Journalist Ravi Nair In The Adani Defamation Case",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkx4SzFza0pScU5NZ2x0cmtEYU01blNFdHlEck16aFZVMVdpRV9CS1ROX0NRMmxNMXduaDRtejFxT0NhVWc0ZlBzTUg1bjh0WVJOQnUzWi1pdE1YaXlnVkVoNkFyNGYxZ2ZvVXVZaS10Y1JZYTRYdmc3RGZQSG1LVEJFcUJlQkNQbHNhWU40aS1WMFllNnlDZG1FNGRxZVEzRzA5TTcwVERIUHQ1UkE?oc=5",
+"source": "LawChakra",
+"published": "2026-09-24T19:21:15+00:00",
+"first_seen": "2026-09-24T19:28:39+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "d28eeedd304f07fa",
 "title": "JSW Steel's subsidiary JSW One Platforms files draft prospectus for IPO",
@@ -1470,6 +1488,22 @@
 "Results",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c46ae8c044388602",
+"title": "NTPC Green Energy Floats BESS Tender for Khavda Solar Project",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFA2QklEN1o2cGZSYTFnSllSV250NWx4MG9xYWtCV05SRG5aWTdIUmloVnpiczh5NDZqVnNoN0FhS3FXenJQdmxhQ0dRc2U5TDlMOXdxVmJiOTJXTFdKdkotVHJ6VVpJeENMZGtJendzMUN1TWhHQ2JLekg4SUkzTjYzYVBrcng0c3BtU2I2WmE?oc=5",
+"source": "mvapulse.com",
+"published": "2026-09-24T13:36:23+00:00",
+"first_seen": "2026-09-24T19:28:39+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
