@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T19:00:01+00:00",
+"updated": "2026-09-24T19:16:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d28eeedd304f07fa",
+"title": "JSW Steel's subsidiary JSW One Platforms files draft prospectus for IPO",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0JxLXU5aGtob2tMcEFMVVF5UnpaZkdCZ3RnS2NJNVlLTDFieEtQVnZLMXJEaEVacGxmRVZIa1NXRzVHWEV4NmNFRzNld3ZtSVczR1lSb09PWVdKbVJxRE0xVU9LMEhhWEVVSlhhVkFiNjRRcUtiY3pxWXFPNFI2akRjOXBwSHV2LXdjbUFSd3hTekJmWkprMnE0VkNGNnF0bnJBMHU3Vi02YUU?oc=5",
+"source": "businessupturn.com",
+"published": "2026-09-24T19:01:32+00:00",
+"first_seen": "2026-09-24T19:16:42+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
 {
 "id": "5aa5a31758fee149",
 "title": "Arvind Subramanian Appointed Independent Director at Axis Bank",
@@ -6919,6 +6937,22 @@
 "Corporate action"
 ],
 "sentiment": "positive"
+},
+{
+"id": "193245d13d6a292d",
+"title": "Steel Piles Market See Incredible Growth 2026-2033 with Key Players like ArcelorMittal, Tata Steel, Nucor Corporation",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3Q4dU1vNkZUaHZLc3RnNkpYczg4elJFSUNmaFluSzRNZzJNWWFZOFZ4bFV1OGpfS3doSGZpYmpyV3JVdnA4VTVLTG5RNXQyc2FYX0pDb2FwOUNqWU1lUkZTbXpqNkJWakNWOUctRUlnYjd0V1pOSnkyaWROVGVKSjRiVV9pOWM2R2NNd2VGVzlyTjhvWlB1cUNnbw?oc=5",
+"source": "openPR.com",
+"published": "2026-09-24T05:17:10+00:00",
+"first_seen": "2026-09-24T19:16:42+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "121a0d5eeaebf32d",
