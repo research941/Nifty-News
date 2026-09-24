@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T14:59:37+00:00",
+"updated": "2026-09-24T15:19:44+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "39fc9cc808079a68",
+"title": "Adani Pledges ₹1 Lakh Crore Investment in Bengal, Calls State India's Second Karmabhoomi",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVy1rLWV1R2lDZnhpRWE4SUdvRFBQb0Q4ZXhmVHgySTJlZFFyVE9RVnExMXpSSnlZcUhmZXZ4T0VLRGtSTXhaalhjNzg0RXp4TGt1MjFfRTN3MXBlQUx6cnlkRV9rSldwVmdxVG5RVDRNQ0haaGh0aVRfaGQtcTVUYi15VmY2VUNvUkNpT3pHU2RNZEJ2cDQ4UFpR?oc=5",
+"source": "Oneindia",
+"published": "2026-09-24T15:13:59+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7169a1c29a3260c3",
+"title": "Apollo Hospitals Expansion Gets New Projects Director for ₹8,600 Crore Plan",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUVCY1FtOG9FSnNvTmxaY0xLUDMtakNaTVRNdTAtZVBud00tZXByV1hVVi1SN2xJa1o1Q3IxRnlaMVhQYVdlUDVEZ0RfMGtGaHFaMG1sNFZzOHBNaWk3Ul84V29veWVEQkxWQWQ3akZmTkhsc2FJVDBhTm1IN2xQb2lHeTRfMS1VYXdSbGRtYUhMVGJ4TzlVNVpwcHFKakVkUE9aVUdNcUo?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-24T15:02:22+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0a36a6b1da845ac7",
+"title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYVdrT1B5QkRKMzIwek14TDMzQkY0RjJKRFFRNk9WQ1dVb1hrMkctYlBJdXBHQTBnaVZDMUY5aUVIWmVUT1dLT0JKeG1JSVAzZ0h1ZUVrWk1MQktoTmFTekEybGlMbWFVUWhueWpJSkRBdnQ3YVRzaTBpVjNaSVVmR3pEby1xMlh5dzBuTlFBSnZTRlF3WFhfVXN0RnRDZWVQV0JNYmloZWc1UWlnMG1jWHFtWTJsa2F3RHdWblM1UklTZnJPZ0REZXlaVzk0MVY0Nk9xbzA2aHJrWWfSAeABQVVfeXFMTUVJc2ZHUXBPR2VueTJUX1RrV082dFNnQ0ItbExPb2Rfbmh5dHRLamYtVzNjN1hKY3JMTkhPdGYtYW1LZmpCWHBfNGpEVXJMQV9WVWItVDFIdHJZM0JwbWRka1I3ZGttbVVJemFZdXN2RTA0Z1NHdEtvMjEwd05CVlZmNkprSkItN1ZxdWF3OEs1MHh4TG1RS3RCeWNMczEzbFZaaEdVWmt5d0VCbHJNX2dQei05NVdFVWFla211a0pzREZ1RU1XSFV2eWRybmNuZUdzN0xQRWhZTU1INl9oSWg?oc=5",
+"source": "The Times of India",
+"published": "2026-09-24T14:59:00+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "65ea891254947711",
 "title": "UltraTech Cement adds 4.6 mtpa fresh capacity",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjlYOGp5X1FDeGIxTzZ0S1hYY1RUTk12R1Y5eDZPSk9ZY3RCYTRuU0cyUmN0ZzBlUHJQS1M1LXdMUnVyXzlPam05V3M0NDZkbGZxM2hfQXkxdFpyTjlNMy1zd3ppN1I2TlQ4c1FyZ1RSU1UzM21tWERGc012bUVOaDNwREZXRkZqN3NwVGxMcUtlWjBVZGJLMWJnQlVvNkZoRGd2U3o5QlVtQzFxU1ExaNIBtwFBVV95cUxOMDZIWENLOHN3MVFtVVc1WjZRWUZWWlFEVXp3MDd4Q3llOW1Dem51bEZRX1VTNFdYLU9tX1dyTjdVc3ZuT2lZTzhsVW1lSXhucGlHak56SndFUlNEaFJOcVlnbHlVZFdTb3Q0V2hyOWl0dlRfaWowVjU0M3dqMEtWLUlNTW1HOXZaUllmRkJZUl9QX1NJVGp0TFE5ZU5STjB3LTVhU1AtYm1lTFBmNndLVWl5YVNqWUU?oc=5",
@@ -475,6 +525,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "eec6976e88ba922e",
+"title": "Bharti Airtel stock falls 1.77 percent despite Q1 growth",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2xTVmR6UktURXZHS2pMNGFLaGlDS3kzcVdPNk9YSGNVdEpBRjNIWU5KOE9tTHhrT3ZVYlo1NGQxUkYyblpXaWdLTVBpdEpzcF9FOTJheVF5MW1GN1p3c2RPekVfOVdmcWxrTjIzaEdYRnhVNktvSmFsanhPQ1E3dUxyd3Q0blN3b1AtRWxnc3h0V2h3M1puQnozYS1kYmxSeTRwd0tVUTBBdUJ6Q04yM0ZEM1JyVklFMk5J?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-24T14:31:20+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
 },
 {
 "id": "887b310ca8c63dd9",
@@ -779,6 +847,22 @@
 "sentiment": "negative"
 },
 {
+"id": "3e0eb273117aa97c",
+"title": "Maruti Suzuki Green Hydrogen Plant at Manesar: Clean Energy Manufacturing Initiative",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXNYNVdBZ0FDSXd6YVZlSGVFTjJjb2d0eGpUTUdadUtnVEVSaEwwN3V4Wk9hRGhsV1FqTEFLTHJpRzk1emdaYmlrWU1DSmxZREtZNE5wdEJaX1RIOGFfb0ozVG04YjdfU1BnR3JWU3NVLXloLVUtRDdWdWdnQkRlMDlad2NNa0R0UFNrMEtCbEhCMmNQd2gwZTlIdVgyVmhJSHJJeTBzekVJa3VHWkVfMHVBeWVjOUhCZEE5UjV3Xy14UjRtVlhlbEtCVmxiQk9jUDVqYXhmeTRXTUFrUWNXUS1acw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T13:15:00+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2679a2b706b6fd79",
 "title": "Jio Financial Services Clarifies Conduct at J.P. Morgan Investor Meet",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQi10ejcxQzNfT0lJaVFteHRWcHlQTVl4X0RMcnZuY1hJMzFRT0x3U0xEN0lwbXpvYlNSY0tKSERRLWhjMm9sWHg5WW9teVoxMW9vOGx1aEtPS1E5T29paG9JOTZiLXp3V1Ftb1ZPbmVJbWV5bU1fNVV0MVJXVzRZZ1RScWxQVHlkYnJoaHV4YldmMDl5UW9iV1loNmpEVEtGUGxaSE5YUnVZbFRhbUk3Sk51ZHFDOGozdHktQg?oc=5",
@@ -809,6 +893,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "d1e1501cdef0013c",
+"title": "Maruti Suzuki Starts Green Hydrogen Plant at Manesar",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblNnajBCSkh0TFNmaEt2ZEc5dkVIcWxnSzdwb1piUFhnWEtENzJMbEpqZF9DSGJEUnltZGlUdzhmR1UzQTcydHBhNGJvVWsyckktdUdHZ2FPblBaWUhkanAxUHlRSFpENVBiZnBqcnFFWFptWkVnTmVVdzhycXRIazQ3SEV5R3A2RmM4MVNsX09LZGM?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-24T13:00:26+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "a76f35f5537008cd",
@@ -2582,6 +2682,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e0f971623565c100",
+"title": "Airtel Money plans debut to provide boost for London stock market",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWtUbVlTU2EzZ2ExazBMNnFFR1A3akp1aFpRejRRY1Z0ZlJScERwN0tway1ZaXdESkFnOEl5Y0R1dG9EZUthMWJUdmhKQVJ5ZURfdUtwN3NIM19FUjF4NGZtb05nX2tnMHVLZG5UQldXZkU4NzhSOTB2cFBnaWd6LVlmRmdoaHZrU2tsT2R5VVRUdGxQX1NGUjRLWG1PZTBlSGtVVHJldm9IVDUweVc1ZmhCQmw?oc=5",
+"source": "Yorkshire Post",
+"published": "2026-09-24T09:29:00+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81ea8f25f8fed59a",
 "title": "HDFC Bank launches five Digital Rupee use cases across retail, corporate payments",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFdnXzY1aEI4Rm9OdXZpS3JFX2pycnNRbU9oU2xJS3hVRUVDek1UaFRNbTlxZlEwamxESXplOWlOWXpRWEhjYU5wVFYyOHhvQ050NGxjaXRBOUIyaE5GXzFTZlpRX0tMdjdOUUtGbkxJR2N1WEp5Rjkwdy1lRmpRRUVIdjNwQWU1X2xWcGpqRHdQajRYNWRVVkpuVmxzcjlkTjhtWjZESlk5eTR4ZGRJUC1oVG1lbWtYUHlF0gHAAUFVX3lxTFBJbjlQZXh0al9hUC1HNFFwVGR5ZnNiU1pBMm1JTk9ZekJSMDFUU3k5SGNMTkdiSnE0SlRGN0NSUWVmdVZ3Ym1NTC1FdXY4eWw5NnBSQnFZdUpoa2FMWXNBMzR1aGY3S3ZfVWoyUEdZVGdnZjhtcVgteXZjNmZNRFNaNlNmc3NQNVJzdWQ5T1cyMG9qNk5xYm9fZlNxaHU2VEVHT0pld0tPNTlsYWRnSVlEMlZIS3AzZVA4RFlmaDBtMQ?oc=5",
@@ -3390,6 +3506,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "cddd517071bacbc8",
+"title": "UltraTech commissions 4.6Mta of cement capacity",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzZVb0E1X25ib0Q2Ry1uWE5yOGtJbUxmdVZaNVNvd3dUS2Y5MHdySnJGbHRIOEhPVXFQT1Q5LWhlY21rQ3Z2aFItUWU5V3N6ZXhwVFkzamlELXJ6cXkxeGNkelg0aUNIOWwyOEkxUUxKN2RrV2JkbEJxMDN0YkpGNnI1Z1l1OFZiQ0d2THdBWEt6cDNwLVVfSA?oc=5",
+"source": "CemNet.com",
+"published": "2026-09-24T08:06:00+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "30502cafa627482f",
 "title": "Bank Nifty, Fin Nifty crash up to 2% as brokerages see earnings hit from IRDAI proposals; Axis Bank, Max Financial top losers- Moneycontrol.com",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHJ3VThnNW9OTjg1TXEtZ2ZrUzI1Vjg2czFNOTQxME5EWG5lSThSQVRnbkdSUzhFVUZ3czR4TlZ2clhrUTZqSkt5WEREUldZYlQ4ZUp4RjBqc1ZQMkczMnRjRkJ3OUlfUGtKMUxJel9qUEp0dkljemZoX0pCS001Zm83dUFOdFhycEl5REN0cE1HRVl4ZHVLZWpxNDhmbW9ZUnpiS0Z6NDZ2eGhnS0VRaEVDU095RDNFcmtkdGZORU1YUkFv?oc=5",
@@ -3881,6 +4013,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7de40ec52149cd6a",
+"title": "Apollo Hospitals, Narendrapur, in association with Anandabazar.com, successfully organised 'LIVEWELL: Live Healthy, Live Better'",
+"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOEkteEc5cVN0ZXRaTEx3bTZWOFB5dnpxNmc3bUdPeUJmZmxhM2FSN05WRzVSY21VWjJoSm9RUlUwTWs1M19fdWhvSkJGNVVvaUJQc2hYZDNCS3RZTUlxc1hkMHI5cmJZemg1R1ljd1Baei11bG9DMVZ5N19hNGdGekVhcXFwb0RLRjV0NEYyNHNCSUJmdlMtd1V1SHpDZDVESnlGMkdIcl9pYVBTVWFfUk5HSTdQZXZFNWNHM0tOeWVqNHl2SXpnTGRLN2YzcGNIQmZRZG9VX0VXM0Z0aDBlTzNuOGQxQXJkUThScXBmd1gtWWhtWXhpVm10T0JRQXREWEtUX2RwcDRrY05pY0V2enN2SkV3UVl1MWhOZNIBnAJBVV95cUxOOEkteEc5cVN0ZXRaTEx3bTZWOFB5dnpxNmc3bUdPeUJmZmxhM2FSN05WRzVSY21VWjJoSm9RUlUwTWs1M19fdWhvSkJGNVVvaUJQc2hYZDNCS3RZTUlxc1hkMHI5cmJZemg1R1ljd1Baei11bG9DMVZ5N19hNGdGekVhcXFwb0RLRjV0NEYyNHNCSUJmdlMtd1V1SHpDZDVESnlGMkdIcl9pYVBTVWFfUk5HSTdQZXZFNWNHM0tOeWVqNHl2SXpnTGRLN2YzcGNIQmZRZG9VX0VXM0Z0aDBlTzNuOGQxQXJkUThScXBmd1gtWWhtWXhpVm10T0JRQXREWEtUX2RwcDRrY05pY0V2enN2SkV3UVl1MWhOZA?oc=5",
+"source": "Telegraph India",
+"published": "2026-09-24T07:34:54+00:00",
+"first_seen": "2026-09-24T15:19:44+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
