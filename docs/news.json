@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T18:50:00+00:00",
+"updated": "2026-09-24T19:00:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -4202,6 +4202,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6db5cf735e896691",
+"title": "Asian Paints Share Price Today down 2.02%: price action",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEpiWWF6c3VGV2t5Uzd4eE9zQkp0S0dNbTZGNFY2dFVFdEw2UGp2ckJ0RDdmVmJEQ0o2Y05DcUt4RGVqNzFjX3JWRTNDV3NQeXJBTVpGMlhpWTdEdG9UWnNaZlo3eVZtWnNHaE9ySjc0WlF6Y2hES2lEd2pyZ0hnVA?oc=5",
+"source": "Univest",
+"published": "2026-09-24T08:49:12+00:00",
+"first_seen": "2026-09-24T19:00:01+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
