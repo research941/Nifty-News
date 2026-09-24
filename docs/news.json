@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T18:21:56+00:00",
+"updated": "2026-09-24T18:36:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,59 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "5aa5a31758fee149",
+"title": "Arvind Subramanian Appointed Independent Director at Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2JIRi1Wa2pGcGhxTy1vNW9wUmJvZGFNay1OVE1VcDVaRTBDTDhCVW1WYmVNa0ZQQXBVODBrUGRiZE1qN1BOakVGaHNVaDJoODFmbFN1TkZfN29vaS1tLUlIaFhmblRFTnhWLXNHS29ZZFhRTzhEQ0QwdG5JSzF6UXdTWjFpdGtGZGc?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-24T18:33:46+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f14ce12a0474f848",
+"title": "Wipro (NYSE:WIT) Sets New 12-Month Low - Here's Why",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2JYN1piUDNNNHk1dE5xTUpteC1GLWRJTGpONGlSMjh6VTRwWDNuZUZfRDhuS2ZaaUk0NlB4TVlQcVVSalR6a01CMjFSY0JHX0s5RlJ0WlZ5bEVOd3JVRzJrTTBDZjJjVDdnalhmUDFOR0Rsckd0YXU4MjhuNjQ5ckY1QkhDVi1vV1ppT1VQeUxncW5Cb0dKam9EbkFXSEhuR0dDbnFxaHFwUQ?oc=5",
+"source": "MarketBeat",
+"published": "2026-09-24T18:16:56+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bd5b1d25d742c2dc",
+"title": "Freshers' AI exposure varies, practical application skills needed: HCLTech's Sundararajan",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlZsM0ItNXEyYmtMc2F2ZFRIWWJheGwwYjFMUFdMOHRoTEdId1FWV3ptZWd4dkRTNmxlbW1ZUkkybDdIZ2FvTncwSWtFdDBjQldyU3kxMkRWdmthb3VQNUJ3SWhlbE9Pci1OSWs5clhqd1hfdU5UZFZxUDFNQkRJMVRZcjgtOXM2dFNPVHlmcmctV25nMDl1Qklzdzl5QnFud2ZCejlmNkJxTTlURmZUNFE2SFdudy03UExOVWVpeHh5MWFEN0VEMVg1TFZBelVfUUZ2Tm9GbTlqSm4wM1Nmei1IVzF6QkJhUjR1bTl3?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-24T18:00:25+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "3801f4cfe99443a2",
 "title": "Lesson from HDFC Bank contoversy: Boards of companies should not conduct business in haste",
@@ -486,6 +517,22 @@
 "source": "telegraphindia.com",
 "published": "2026-09-24T17:16:26+00:00",
 "first_seen": "2026-09-24T17:29:23+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eb3a45f114b74b78",
+"title": "RRB NTPC UG CBT 2 Answer key 2026 Out, Download CEN 07/2025 Response Sheet PDF",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9keFBZWWRybV9EYkVHQ2xZMXVRSmplamVhXzBDb1hHMFRTSXROTXgxc3pBZGJ2QUxVZ0NJRURWWUJJTm96amF4NDBpSUZDdU1hVUJ1UkNiR3ZNZVpkZ1ktRUxaeFNEZXhFYjI0SjlDN3pCRHhOOExad0RDR3U?oc=5",
+"source": "Adda247",
+"published": "2026-09-24T17:07:04+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
 "symbols": [
 "NTPC"
 ],
@@ -674,6 +721,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3cded55bde0e2aa3",
+"title": "Axis Bank Launches Nationwide Tourism & Hospitality Outreach",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTlhTlktTE9OcUMzS2pLYVVYR0lTaEpPcjI2aE4wbERvbEF4SENVOEpiVHBwU0JkZVE1ZFlxTzk5UDg3NEd0SnpHSnlSWlg3OGQzaWVvMF9KbzN1S09ZTUF0NFluY09QOVF2S3IxalBCX3JIYjktU0twZDY1V044b2FGNVlMU0s2NlRKMGJxZDJnMTdGcmdOakhZcFE2ODlySDRLd1k0QklfMXRpZURWbmNXS1bSAbQBQVVfeXFMTWE5YU5ZLUxPTnFDM0tqS2FVWEdJU2hKT3IyNmhOMGxEb2xBeEhDVThKYlRwcFNCZGVRNWRZcU85OVA4NzRHdEp6R0p5UlpYNzhkM2llbzBfSm8zdUtPWU1BdDRZbmNPUDlRdktyMWpQQl9ySGI5LVNLcGQ2NVdOOG9hRjVZTFNLNjZUSjBicWQyZzE3RnJnTmpIWXBRNjg5ckg0S3dZNEJJXzF0aWVEVm5jV0tW?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-24T16:15:42+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "dedde71ca8a27b25",
 "title": "Cipla Global Supply Chain Head Venkata Sai Mungara Moves to Cipla USA Role",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVM5dDFQQTRpOHVWMDlJRkd2M3k2TGgtLUpCeExLYkdxTThRODhBdVppNlFGQ09tU1hVUWxsYldxT0pwbWNYbDQ5SnZBa0FjU1dLbFYydC0zZXM2R0dyVUFaam1XQVJScjg3OFdfcTY5MUFpOEJaeHhwa09Za1VzaXhVUWVob2Z3MmlwdnZHNDZXbTMyLWtfay04S2FJeVlpQmxyd2pMOXYyemFFY0RES0pxYUFCLXU4OGN3LW1XcEpSRGJNcktQY0JR0gHPAUFVX3lxTFBITVVzNDRha1U3aklfQzJVZWduOFJYOXRzTVVIMnNRVUZ3XzhVUGxYc1dmTjFTNjJVN1MwUW1tQlFYenVlV2JmR0FMXzRxczY0VU1QMXJpSWxSYy1WR1Q4M3c0MHVJa2g5dFFsUC1EMFBpdVotWjBIRFVBUkphLVlZeWp6TjJHMjhQZUlmTklWV0Ezc29nSlB0ZGdjVllvUDhQRlU4V2lsMVN5OXpYLUtnTnRpaWpCYmthOXJlTHc1WU5RWEZxOTJsREg3UmpOUQ?oc=5",
@@ -685,6 +748,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e7fa6f3588d3b24a",
+"title": "How Tech Mahindra & AWS Operationalise Agentic AI at Scale",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVFtWnAtSnM1ZndCSWJTN3EyTVpvNU1iOVh5cm9GbVJwRVhsTTN5Um5naDA2Njc5cTBkZHpfVkVZZ2tKTFZKUkZESU5OU24zOXkxc21RWWdfeVUzbHA1eTlyME9wc0hva2hYMFRzdzlueVdxRkU0OXVDZEhDUHFiT01IeklDQXpIdHVlQjF1UDVoYzNjZFJB?oc=5",
+"source": "Technology Magazine",
+"published": "2026-09-24T16:09:07+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1426,6 +1505,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b8cf56932591e1f0",
+"title": "Welcomhotel by ITC Hotels, Dwarka unveils Del One all-day dining destination",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLS1GOXJ0LTQ0RW1IWENwelVkSWtaSnhCN091M0JVUWthdVMzOVRnNDZTUDc4U3E5TXJrR2xwUy1HaW8zUEpab1BEN0tDVDJfN3RnalBZdVZhSnRleVN0SndVTXlhQTFMcXZTSE90UDkwaWZ1NVlZQWRyY19ReUNmSjN4WTk0N2tsME5nTmFtNzhWaWJ6Q1FoVjVnT0tmM20xcVJPTzUxX3ZVUlI0OHhuQmtISWY4S3J4REdxZHZhMTVma3hHSDlaZGdDdHJydlFKSUJPN1BkLVp0SEIxb3NxMDE4cW13a1hpWGfSAeoBQVVfeXFMTy0tRjlydC00NEVtSFhDcHpVZElrWkp4QjdPdTNCVVFrYXVTMzlUZzQ2U1A3OFNxOU1ya0dscFMtR2lvM1BKWm9QRDdLQ1QyXzd0Z2pQWXVWYUp0ZXlTdEp3VU15YUExTHF2U0hPdFA5MGlmdTVZWUFkcmNfUXlDZkozeFk5NDdrbDBOZ05hbTc4VmliekNRaFY1Z09LZjNtMXFST081MV92VVJSNDh4bkJrSElmOEtyeERHcWR2YTE1Zmt4R0g5WmRnQ3RycnZRSklCTzdQZC1adEhCMW9zcTAxOHFtd2tYaVhn?oc=5",
+"source": "ET HospitalityWorld",
+"published": "2026-09-24T13:30:00+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "501e8aa1375e2d2f",
 "title": "Power Grid Corporation Sees Significant Open Interest Surge Amid Mixed Market Signals",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd1BncjR4VlloNUo1SGRxaUU1ZU96YzZ4a2NoMFdwc2xLYWNfSnNSZUU1eTZJZ29NNjBQLTZmSi1oS2ZzMWE2ZExCUHFzUFVtTW5mV185bVdkVGVFS1pGSi1BZlhnazdLVUZ5elRDUEJKQUd6Rlp4aERzYzJVOWhmekMyNGprOU9RWndVT3daeHhucGFOZGNMRVE0QmVuNHpWaGc1R2FlVzVMVktIOHAzUXA1elM0RmR0QXZCUDdiVVJ0Q3VtakZoTzhaMmpyZ2NTUVlEVWZZMHptTms?oc=5",
@@ -1722,6 +1817,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "baf70d52a7f56c9b",
+"title": "ITC institutes probe into Micron over Netlist patents",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWtkR1hORHM1cmFBV2xsbTA2cDVQTlFFMzVxZHhrWldObmc4VmdGWkU0d3U0dkNhbjdxOXVOd2M2dVdfMlhnLXRhTE80bkJ0Zk9yQUdqcUt2NnN3Z2RGMGJvRnAxcmZkOVh3YTNvVGsyeDRZU1gtSlhnRDlXbTlKc3hUMUo1VFdzWU9heElaV0dxRHFuNFdLLUI1eFd6aUJPTGtRZXF1bVQxRGpDZDktcE1wLWI?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-24T12:52:49+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
 },
 {
 "id": "d84e8e2420d736a2",
@@ -2027,6 +2140,25 @@
 ],
 "tags": [
 "Order/Deal",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a7d34a144afe1e47",
+"title": "SBI Mutual Fund IPO: SEBI approves Rs 13,000 crore offer-for-sale listing plan",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk4teWJzV3JHSjUwUjkwaHljMld6XzY1ekp2SmdpUElCcGx5Ny1GXzVlYU1jWDVJVTBvV3ZRR09hTEVXYV9zcllWNmpxYnVIU1BFa3QyeWY2OUdpa09sYkRadVZLREg3Z3dxNzRCanFBTVBYVEVZMXRFSndUVkhNVG5BdEllNk9TSmtETUFFdmZ2YXgzU2FzamMtODNIalhxQVhFTlFpdHhKdVF5TUppczd3?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T12:10:59+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory",
 "Corporate action"
 ],
 "sentiment": "neutral"
@@ -3128,6 +3260,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5e62476a6706cab",
+"title": "Mahindra & Mahindra Share Price: ownership and sector view",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnVkUEhhUjJqNWlkb0VjUWltTjFoV05qQWh6MWk3MGh6bWQwSEF1enEydVU5em83OW1uTE5tbWRfY1h1aU5jX3prc1k2MHR1Ym4tUTdMZW5FNnpYXzE3TXd2VkZEQktQbmlNbFh5U2pfYmxaclFMUWV0ZzFSOWx6dXlSanp5R2wxS0Y0eA?oc=5",
+"source": "Univest",
+"published": "2026-09-24T10:03:03+00:00",
+"first_seen": "2026-09-24T18:36:59+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
