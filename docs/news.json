@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T20:46:29+00:00",
+"updated": "2026-09-24T20:56:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1583,6 +1583,22 @@
 "source": "Hindustan Times",
 "published": "2026-09-24T13:55:51+00:00",
 "first_seen": "2026-09-24T16:19:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c1f689dc5604b8e8",
+"title": "Fake notes with ₹4.63 lakh face value found in Axis Bank currency chest in UP’s Meerut | Hindustan Times",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2sxZ2lrVGFkZy1ESlVuZDdFaFVDMHNhRG1iT2kzMWNkTlV6SklEaVRXM0ZaSjBMOTZYZENSUmt1VUdDaW85RVBLanVkSEFhMHVxbDctUjhLaWVNZjRldkpITU1JRjh6LW5zc3Fnckx0VXRHT1NKcWI5WXJTM2wtXzdlY0JpRGVfdkMxTWw5VDEyR1NBdFAwcG52XzMxcjRYY1Q3QVpoVmpiZ2YyTXhHZEJpMUd4WlN4YlY1UWtOOEQzZ0swaFV6dDFkazZFR1NoZjhua28yeEJmalVTUkRUVmRRVko1dG14bG5fMmx30gHzAUFVX3lxTE92QUhwbHRzcTI5ZGE5a2owdEJxZk5PbmlaYmZYMEZ1LUJrbFdOemRCcmlIME5tNjNsb0V1SXItclNxOUVqNmh1X0dmWjV4Q0ktOFQzdUdrZnZkQjdkZlFXcmxOTW9fbzliYzdHd3BZY3VzSVlxNUdtVnctNmVYTXlGMjFJTUZVMlQzVl82eWR0OGVzNWlCZXFyNi1uMWJVcmU4ZHRGR0VQTFluMzNqTjR1X09RRUtDNGRRUUlTdmVUdy1tS1JmTWRLZXhpVGUzeEM4bTJxb0Fzc3l4UUFlcUVnMTkyM1IzbVRYQUlLQkt1YzZZbw?oc=5",
+"source": "Hindustan Times",
+"published": "2026-09-24T13:55:51+00:00",
+"first_seen": "2026-09-24T20:56:50+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -3240,6 +3256,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "2f2ae4c2b9b8ded6",
+"title": "Nestle India slides Thursday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVjVuY2I1bkhUZ0xJcDRWS3ZVQVl2azRleHJDb2Q3LXhYZGFwR3dwM2UyVzNwc1hsTGZOZHRUajA5UURmT2k0eUVIZ01YMG5UTkpkMl9rallFQ0I2SEhhQWJJU2VtT05lSWF3S1o0YnM0b3ZnSWNJQllVcENlaV9NUW44cXZ0Z3BGXzJROFc5WDdEd1N2VnJvRUNQWGFVNjZrQmtERXVtMTZ2MW0xMFNaZ291Q3kyZ1J4OGNGM1UtazU?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:32:00+00:00",
+"first_seen": "2026-09-24T20:56:50+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "4371c09b3f3820e8",
