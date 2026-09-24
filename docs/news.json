@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T16:19:40+00:00",
+"updated": "2026-09-24T16:34:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "00d31df51e21f89e",
+"title": "India: investigative journalist Ravi Nair denied interim release faces legal harassment over Adani Group investigations",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamtUWlFocFVlOXR5ajBwYWtzYjRteHJfbEppbXY1TWhCakRQbURWRXdIR25TUGE2UUVEdnVacWJyZHkwNXVUYkUwRUl4RmlCUjBBR0FUWHlKYWlhRjV4YnZJQjc5Y2tLdHdZSGlMMXo0OWlwUEYzVHBHdXNWTkFsdGMwQVdMT2twU04tQ0wxSHA2amZ6Q1hlQk1KS3lVeE9wR3VWWWZIZGhzbnVzMGg1cjdaX2NJR28?oc=5",
+"source": "RSF",
+"published": "2026-09-24T16:22:16+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dd0a223512fbc934",
+"title": "Tata Motors stock falls 2.9 percent as Q1 profit rises",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGQxb0llRzVyekQ5ODdIM0VlbENSUlhpX0hxeTJLcWVjVG4tNVUxTDdTX0EwZXoyWmpMbXVHd296U2NLLUFaTFlGNkxZQ1BudFdEaWtmTW5hTGt4bGMxX2RQcXJBYmsycGp3bTZRMXRFYVNsTU1XQkREVmtNY3YtZFpndHJnY1o2TWVCN1o4dDhEVUZwUmZVT1hGMlUzOVBGZVQyd3FrZmlpdl8xd2pTSDBXQQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-24T16:20:49+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0a4ee71fe71af92e",
+"title": "“The East must rise”: Adani says Bengal essential to India’s next growth phase",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONndqX1ViZzVVNWoyTlRzVUpsNFByVnBnTnpub1hESWtLMjcyQnRoTW9LTWpwVkYzSG4xLVVSemNkNTZHeXdCSDlYMnNpMGR1TjA2enRUQUlQcG55RVRTdF9SQ0VKU3B3WjRiblF4QmxLSWJ6RjFaRy1NYnB2WjBhMGI5VHlhS2Z5UWVqTTlzVUJDZ2otM0xBRHZqY3ZkNkpvelA3VXU4ckZFUXl1?oc=5",
+"source": "nenews.in",
+"published": "2026-09-24T16:19:47+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "13f6ac21ee7d4288",
 "title": "Maruti Suzuki commissions green hydrogen plant at Manesar facility",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFpUMUhUNkh2MFVHRjFFWGtoTTdpRVpkQV82WkZkMi1NLTA3R1pIR2U2WWpCLTNaSFpMZmhFV1dYTi00YndLbE9qb1RQTEhscG5ZeUFvbGNKVE5KMENjSmJUWXJlNlRNTkthdWJQY3RGQXdLZlcxSmkyT2NSSVdjMWxKRkppdDdXMk83aU1zNFpuYzJHVFZuY0gycUpuN3N0TlF3UkRwOGxkcGI3bUtEVy1aalk2QmhGUkx2ZEdJUkJHQXVTczdhZThkdWRfUFFWeHhIQzJNSQ?oc=5",
@@ -653,6 +703,22 @@
 "sentiment": "positive"
 },
 {
+"id": "52db4328e4fbb891",
+"title": "Hindalco Industries (NSE:HINDALCO) in Focus as Copper Prices Rise",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXM2bGp5algwTGEzUVRMV2hsSE5OdzlSbjRhQnJ2eFNxWXpUYjItLTgzQlZFZ2hKeERCQW9LdXI1SHVxMzd0SUJtWVJrVHBKc1pXZ04tclpRcmdqcnBoRlo2aFJ3ekprWEcxNGpsVmhoRkEzV0E5ejRfN2lkNWM1OHRuMzNIMUE2RmtoanZ2bDQwSG8zcjZTcUpxRkwzM0ZJczFlNEpiOFNiSXJnbXRZaVZvQnVHMEM1SndIdjVZNlJIZDlYLV95TGFZdw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T15:10:00+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "56f198d3b73dea96",
 "title": "Airtel Enhances Mobile Network Around 4 Mumbai Ganpati Pandals During Ganesh Utsav",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2JQOHlwbXJLZlNxVlNkWHo0eUQ4dFZiRTlxOUlSVG1RY3hDN0xSV1FMcVBKVmVRSFlaRXcxdk9ieFFFTGxJMzNRa3JRcmIyUDUyVGVCWDQ2akpsamI1OUJ4dF9pX0sxTTBCV3VyRi1FNnJna1lNcWp5R19IRjQ5bm5wWHh5Vi11SlNqTDJnekh0OVZKcVlWOExTN1dJejFvYUdQcE9NUjdMUXJ4NnhuSjk3Uk9fZFdFTUZhanpB0gHDAUFVX3lxTE9ZdFQyMnN3OEFQck1nbFVrdkViNzVDSVdqbDViSjYxbXUxOWx2MGdxbTdZa2w3OVRDRGFLbDZ6TGRRaTg2dEhlYkhzM2FiT015VU5PYWp3ZkFvMnc1M3FRNUVHa0NnODNLQ3RyUGxKS0NLQVlsNjFad29pdW5BbURpbGFJUUhWajhYZ2RmR3lUQXpTWlJRVUZ0OG41Y01tckF2R25RZHNCZzRrSXljeFJLc18yYkozVVlLX2ZIeU8xLVhsQQ?oc=5",
@@ -664,6 +730,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2aaf4f6b937822bc",
+"title": "Reliance Industries Ltd (NSE: RELIANCE) Explores Longer-Term Rupee Bond Strategy",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1JEVUtHcTFTU1ZhLV82RmNIZXBwaGMzYmw2T09CVnZZNTd1RkFOeG9VbWp5S3BMNXRBZzBTN2ljdURHUHV4OUlSc2UzR2NFMWowZXdfMVI0bzNmSzRLZ01pUm8xQnFOd3hlXy1OdlBKbVBxS2szUTVYVlRKVnV0MTlseTNCb3doMnNhMmYxcDVja0c4TTlBMF9feFJ3dFgtdVNZQm1FbmtLdVp5aFRfMjN0Z1UzVEZ1RGVyeUFWRmFPaFEyV2xxWkdVUmJtdTl4RUlrcFJ4VU5pOHZp?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-24T15:03:00+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1069,6 +1151,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "252088f53d662331",
+"title": "2026 Maruti Baleno Facelift: Ultimate Buying Guide!",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjZSMnd6eFZONE96OXMtZzlfakc4STNIMl82bWhuS08ycld0SUo2X0hQOEUtMWNaenpFbDZiNXpMYzIxbExfTFIwdG1UZko4MVBRODQ5aVprc3VxNTVxTTdiRTRCVFdYa0pLRGVNOVh3ZW4xVWh2TjFzOGQ3eFhEMVNwQzM2QW1uM0VGTjBEaUJjQ21uLVI3Q01fN294QdIBpgFBVV95cUxOZTNROTNQM0liTV8zZnpSVENLZnRJdTdtd1AzWGdBVzd4d0dYOC1iZV9OMDJXOTFVWHdkZ04wTDFOVTN0RTFUbmFWTHdCMGxEMlBQMkxLbzFqbE5nOTVmc1VWb3R6X2xiREJydlo4c2VORXN6a3RaNE9kX3BhcmxoRjFvcl9KNzRrOWRhdndIWWNWbWF0MkZJbHFCdFNacGw0cnFRalRB?oc=5",
+"source": "cardekho.com",
+"published": "2026-09-24T13:31:00+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ceba766268604314",
 "title": "Upasana Appointed Director – Projects at Apollo Hospitals",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3ZtM2dVT1U2MlJDX193Nmo4bl9JNnF1aTlYQXhvOG1DUndISjk3dEQ0blNnX0NXVW9fUUpLVjhWWFhyNDhqM2lnTVNkQVZDRUNwMUN5cjRvLVVVMXQwNzV0VXpwWUFkOWN2NUd3VDlfVi1sNEFyMU1nSTMxQ3VES2pJSmRSNEk?oc=5",
@@ -1426,6 +1524,22 @@
 "source": "carandbike",
 "published": "2026-09-24T12:41:11+00:00",
 "first_seen": "2026-09-24T12:49:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0793cf13d2bafaad",
+"title": "Maruti Suzuki Ertiga On Road Price Morinda Sep 2026 - ₹10.58L",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yM0YybVF2c0ZEekt0VGJtVHYyTHhUazJEM3lWLV9RSzVaQ0h0dHJDUlZTbmdiLWRpWE00MVEtQVE3em5DdkRNOEZMajdrTlQyaDBaN01FQWdoOXh0RkwyNjFvS2lkaW5TcDlYZHM0aVRnSFBDcGxldEE3bmhsT0E?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T12:40:05+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -4518,6 +4632,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0f2e165358c5a45d",
+"title": "Maruti Suzuki Grand Vitara Front Logo Image – Grand Vitara Photos in India",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTC1oNmwtdC1JOElMVGdRSDE3a0Q1eF9nbTQ2TEw4aTdsUkRpOWNfcVBhbUlMQ3ZKM3Q4ejlQRlhIb0dTaVRxRXd2LXMwUV9JQkhwbHh6OEdqSkhDeVlRM2I5X1EzemV0MzVSVVZiYk95bVdYR2dpYlFFX3dxQVlwUnFJWEY?oc=5",
+"source": "autocarindia.com",
+"published": "2026-09-24T07:27:56+00:00",
+"first_seen": "2026-09-24T16:34:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
