@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T13:00:20+00:00",
+"updated": "2026-09-24T13:20:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "3cbb94bb1c56d972",
+"title": "Chainlink's deal with Infosys covers 1.7B bank accounts but LINK token drops 4% amid unclear benefits.",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlTaEFjcE1LX1dFN2JNcWt4LWtzbFJwQ2xLeGU0c01zWjVMRXZybG5jakhkYUJkZmktR1dSeWVVV2w4MV91QWh5eU5qSHdpdFRuczJRMGg0Smp6emdLM0N4ZXpMRWhTN1hLcFVTbnB0UDdiNzJDTjROb290UVBiTlZ5Q3BZV3ZMQjNBR1l1WXQtTG5GbnE3NzBET1ZadGh6NkNyX0xncw?oc=5",
+"source": "pluang.com",
+"published": "2026-09-24T13:15:33+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
+},
+{
+"id": "2679a2b706b6fd79",
+"title": "Jio Financial Services Clarifies Conduct at J.P. Morgan Investor Meet",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQi10ejcxQzNfT0lJaVFteHRWcHlQTVl4X0RMcnZuY1hJMzFRT0x3U0xEN0lwbXpvYlNSY0tKSERRLWhjMm9sWHg5WW9teVoxMW9vOGx1aEtPS1E5T29paG9JOTZiLXp3V1Ftb1ZPbmVJbWV5bU1fNVV0MVJXVzRZZ1RScWxQVHlkYnJoaHV4YldmMDl5UW9iV1loNmpEVEtGUGxaSE5YUnVZbFRhbUk3Sk51ZHFDOGozdHktQg?oc=5",
+"source": "TipRanks",
+"published": "2026-09-24T13:08:21+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a76f35f5537008cd",
+"title": "Sun Pharma Launches (C)Taro-Methylphenidate ER, the First and Only Bioequivalent to Concerta® with an Osmotic Delivery System",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3VZY0NuYkdwMEZPXzhTVHZhYXI0a0x1SmVNaUtwekFvTzFtcS1fWGZNNkZjQzZTX3VwMk5nT1NxWVlZRW5UQU5rbTdKYzgteEc5RW1RM0xXVXN2Z0Zfc1hDMXc4NU83WldSYjFBUHY0dUJaNjlTT2xiQ3VpRWFGeQ?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-09-24T13:00:00+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "be3edf968b00a66f",
 "title": "Tata Motors receives B+ ESG rating with score 75.3 for FY26",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDdOblk3S0JfWktlejJTWnRfQUM4eDZya2NQTE9SYnRVbDlscTVQTmdvOHhBNE1PUWxMV0QwZUJzZC01NEhOc21YOGNnX2VQX0QyeWwwbHNOT0k3NzI1SEFTcUs4VjYwRExBY1czaTNfeFVlMFMtQUR0OWN3ZWNESi02cHQ0TVZWTzkyVjJIckM5c0xldDg4WEFrcjRFNW1WWFBqcUJ0LVhXdw?oc=5",
@@ -460,6 +510,22 @@
 "tags": [
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4f47824f442ecda5",
+"title": "Maruti Suzuki commissions its first green hydrogen plant in Manesar",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHR5TGdYSTRQaWJORDBmRzVRMHBqdDdiOXQyOE9ETVVVdkF6M0Z0TERJS3Zfa0x1Z0YzcFpaNk9vRW1pcTd6WWc0MDdKZW1LejNfZVFoVHVFMkxULTZrSzRYby1sTnJoTkFnSFg5T2k2bTBWT1RVODNMNjlzYVVHVFVpY2JES3A5cGtPNmVtaEFCSHE2NV9jT3otaUdFSFhaazdpeGJheVdRblVaTV9JMEV0c3NXWUhBTm9tdzF1Y3EzQQ?oc=5",
+"source": "Team-BHP",
+"published": "2026-09-24T12:55:31+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -497,6 +563,38 @@
 "Order/Deal",
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ac629e7ad2d2a5a2",
+"title": "Mahindra & Mahindra Financial Services board approves raising funds up to ₹2,000 crore via NCDs; shares fall 16% YTD",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUmNUVHBpaW56T1pUbFV6Mm5SdGV2cTdJQlRTd3Rkd2JaNkYwSDQwMzFCUGNCbnNaWDk1YzVqdWgxck5TYVNnMW5NQ3hSTjZRNGhUczFRczFXdGhCWHoxLWtXR3A5dlpab0d4Sm13dkxwQi1RR0htMTh0RjlxNk02WndWa0ZMTHpkY0RNWFFEZnpKOG9iS2wybERYMVpmbzR0cDVQVDdrS21CSlBubkNuMTJnX0NpdXp1c3FualZ0ZXB3MUxsbmRDQk91czJaVkJoUWwwMHJia2JkWmJLZXVZbUIwelM2QnFtRUhxeEN5NWs4OXVUSFFRN0ticGdKeWRrVnU2TFp3?oc=5",
+"source": "upstox.com",
+"published": "2026-09-24T12:49:13+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "8858cb3b7ae652d4",
+"title": "Maruti Suzuki Green Hydrogen Plant at Manesar Explained",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0RpRnVNZGhQZHhfSlo3T0FuRlZqMjNYT1lkNUhwV3plVFhHaENXQTh4d1JUTVNEODQ0eDdWVVhhR3FLU05qNWtaMlVUbWFCbTMyMGw5RTF2SHhCQV9qbUhzTFJwbWpjN3lESm9DbEVBWlBDZzhtN2Q5ZmgwNFRwSXVoU1N0ZXFyX2VrZUMxaw?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-24T12:45:52+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -739,6 +837,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "123b729fb4522281",
+"title": "Adani Airports to build capacity ahead of aircraft influx",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnRHck9qSHFLNFhhbHBVelRXRTFPYU9MQmpnWGtJVk1UTEs3VlBkMlpmZjFmUElsV0dKYXJieER4amhiVm92VlZmUFh3alFHbVNhdmdJZFN1R3NBMXlxRXd1MmdVaDRjRU9NZ3dSX2pwTkEzYVFPY2VaM2pWbEFBaVhWTGw1Q0steDJLYm9WOFR3ZnNZR3VLanRIY0xaMjNQOEh3WGppMlBLYWNKRWhzb0Q5UmsyOEZxcldyQzJ5SWFkRzBn0gHLAUFVX3lxTE03NWhGanZWVWtxQ1ozNU1GbFlna1Axd2xTR2lRczBvREFhQWF5dnFyY1lRNE1kSi1xQW1zTHdkQi0yOUkwdm9oUDdDNWxYbTQyX09BSHhBdkc2VkFndE5HVjJmajlBc3ZMQ3NGY2JMem9iUXNDa3VZYTl1STRoUHV2b211ZWMzcUNvVUVad0NtSFNNTG5oR2dNZGFiLXBxWlVCWkdYWFhRYkVybERvMGVFQk9nZ0E3YkMtNVVxbXI5VW5MUkQyRUZuLVVR?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-24T11:53:18+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "357cbb185803374b",
 "title": "Kotak Mahindra Bank stock falls 1.94 percent on NSE",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVdaenNjZTRpWGJIN0F3SGwzQXpETWEwclpSZXFGSE84Q3Q4bXNfc0JTVVpFXy1kblNyWTg2d1JqMUZaWVRPZ3JPU3NYRWF6OE1WeHRJR0l3dE14ZnMxVHMwRmJqQ3RNYVptZmFOdDNvRVcteVRaNmdRNjV3MWw4aW1XaVNfaVpxYUxBTVlWTXJwVkJTSHU0ZlhFZ1JXQnV3RURUZkl4VGpWSHR0TFpn?oc=5",
@@ -761,6 +875,22 @@
 "source": "TheWire.in",
 "published": "2026-09-24T11:50:39+00:00",
 "first_seen": "2026-09-24T12:25:23+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9a430779c767728e",
+"title": "L&T Technology Services, Cognite partner to scale industrial AI solutions",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjNnQ0Mwa3lXNC0wNWI2cTN3SWF5SkRhUmMyOTROcDd2SjZVYXZZY2JhcWpuSkpFSWhpaUVyWFJsOV83Y2xXRHROODc4dXRPRHJhU3RHVzlsMlpSeVdVRkp4TTliU3RyVl94ejJiUkRFcFFDT2hsckxfQ0lMa2xBV1BqMjVBLXlIQm5kd2hUT1dxTEczaWhYaVVQanIxRjMycndGLUJkT1dqdDhwVW56RnhZc241R3JudXV3Sy1WUTlFZ3E1TFJpYXBqcW1YUkNpNVlQcUdnYjZZekxZLUhjRVBYWdIB4wFBVV95cUxQNjNnQ0Mwa3lXNC0wNWI2cTN3SWF5SkRhUmMyOTROcDd2SjZVYXZZY2JhcWpuSkpFSWhpaUVyWFJsOV83Y2xXRHROODc4dXRPRHJhU3RHVzlsMlpSeVdVRkp4TTliU3RyVl94ejJiUkRFcFFDT2hsckxfQ0lMa2xBV1BqMjVBLXlIQm5kd2hUT1dxTEczaWhYaVVQanIxRjMycndGLUJkT1dqdDhwVW56RnhZc241R3JudXV3Sy1WUTlFZ3E1TFJpYXBqcW1YUkNpNVlQcUdnYjZZekxZLUhjRVBYWQ?oc=5",
+"source": "ET Enterprise AI",
+"published": "2026-09-24T11:49:29+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
 "symbols": [
 "LT"
 ],
@@ -1709,6 +1839,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "46678b5e72efd807",
+"title": "Odisha approves Aare Solar’s 10 GWh LFP BESS assembly plant, L&T green energy equipment unit",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNF9qUFhkM3JnTzZ0MmVPSlFYWDVUMXlGR3JrTVdSaEZCTW5RVTV4WjE4T2VKcXBNVzA0QThDSjYxODhFLVVOWktpVFFDOTlYS0ZubkdUUUlGSExkOTIyNlJ6Z2cxZXRmeVYyai1FTlRzWnkwR2R1NmpFNEhYbUc1S2tONmVOa2dWd21IRXdCVGRBTkl6Y1c5T3NXN0R4UXcyNHVHa1FtUWt5cVliNDZOS1BNYlRrcUxVbXFLdGIzY0tIbXVzMU5HaFVXdk0wZ2xq?oc=5",
+"source": "pv-magazine-india.com",
+"published": "2026-09-24T09:50:23+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3098,6 +3244,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a0ae8d359975b116",
+"title": "Maruti Suzuki Commissions 300kW Green Hydrogen Plant In Manesar, Haryana",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUlROUpMNFZXUm43eXBYXy1LWkprS004V25xQnd0YzF0NDNJTHNvTjFDam92c2dmenh4R3ZWUVdvdnBXdHB2TWRGRjZUYm1nUHMwT0R5OUs1VWh4TVc5UjFfRWgtbUo5Mm1EcmxucEpFNmEzN2FYcVc3QU51b1pmaDczNHhZYjFqVW5zQkp4aW4wcWZMdFR2Wnp2S3RGYUF4MFE?oc=5",
+"source": "ACKO Drive",
+"published": "2026-09-24T07:39:35+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4a1e587a40efd408",
 "title": "Maruti Suzuki commissions 300kW green hydrogen plant at Manesar, plans Haryana, Gujarat rollout",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVd0Ry1zYVlmdi1CTm0wVmhOQmJWRERjT3pyQWJPR3FBUWc4amNPWmhwaWRRWnFlRXFjRWVzb3MzMk5NbnB2YnBIR0w2dzdYNHc0T2RHTjhkWWVRa3BMdzVXNG1HT0daeUlhY0hXNnByMDFOZGEzTktzRkdET3ctdmtxUUwyRUVoTm1fcVZuakhVN2ZrbmRJaDhxUWhWMFZURkFkUndCdjRmUDVmTW9HY0JIdVE4Q2ZOcFdBQ0pIeTdxUnJxRGVFYTBIeTAzNHZfbEFNeno2OFVpUU9jc0HSAeMBQVVfeXFMUFg4OHRadXJseHpPMWlMbHd6NXBZUzhvc09Zc1pHbXRoeG56cEdYX0ZTaWFOWktDTzIxQmNGVkxSY19ramJ3c1dyRVpSUWNMTVVEUlZSZHBMcGZka08yM1lkeGtFQlFsRjRkT0RybWdZalhTVFVfaHpDOGJpS3hPdDZFZUNyNG9tY2VVQWNaWFFUMDZzUFBRdzR6ejFxLURNOE5NSERpcWdfMUIzdXI2dDFnd2d4dWE1WXdmNWdZT0FIUmhhQWNTNFpGYkVGdzhJZVFPaEIxeVV3TFM1RnZfNHhEVlk?oc=5",
@@ -3956,6 +4118,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "00ddb37fded8630d",
+"title": "Waaree Energies, NTPC Green, Adani Green: How renewable energy stocks performed on Sept 24",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb2tXUHN1Z09ZTUtmU3YweWdPOFRuYVlad3JDR2hONzBZeHg3bTNGRGVpdkhHSXZ1R3VoN3A3SjdmenZ5ZnZ3RG1YT3NPZC1kQ2NRUlpGUnJiQkx4OVZYWklIUEtRQ3RWSzhIbkxOQ21wMmR0ekVqblk4ck9EUGFiYXg0eTdNVXRhUHd5aW9vYWJUcVBjSjhnN2dTclJqa0tkNVl3WWlfRDFOVXhvcUZjNXFlXzdkcXpnN1l2V3AzTVdZTDRLOTk4TlF0elN3bndHU0dwTVczZXI4OTNlRkE2UzJnbWNOdmdCV3BSUTI4ZzVtRGM?oc=5",
+"source": "upstox.com",
+"published": "2026-09-24T06:47:56+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"ADANIENT",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "360170464883dfb7",
 "title": "Airtel plans IPO, to list on London Stock Exchange",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU16UmV1VUdYUnJSSHo0Y3V2RDMtN2I5ZHVVME8zVWkwa2Z4cXo3anpJeTB4T04tQzVrQ0VWMjFoZGxDQ1R0cFBxS2FHanFhR1lWZlhKWklvQ25zbUFzc3laWDhwRE40RjNzaWU4WHloN2tFQ1pIMnU1NWFRYXlsM3ptUGlNbl9kVHJycUlGSdIBlAFBVV95cUxNaGhVVHY2ZkNyREFyRlhId0FIRGpyZHl3M1R2NnlRRU5zWXgwXzVFcUFUNl80ZDU2MDQ3STQ3WXJVcDlMNWZ6Vy1GNDhZVnNvMzg2Y0Fjdm5UREpYWk5pQ28yU2EyaXdVeVZEcy05WVczSjVpRGdOaTdpZVRxQmVZT0p6Qkh5X2ZidnVhNkRxNy1QVXl4?oc=5",
@@ -4200,6 +4380,24 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "97f9366764f15f8c",
+"title": "Allied Blenders shares surge over 5% after SBI Mutual Fund, Abu Dhabi Investment Authority buy stake",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDR6NmpHd0RrV2pEazlveURwbmt3TnFPZXVJZzdSZmRxXzNnV3Q2bFlQX1ZYYjdRRVBuWWlZS05mRWd3SzU3TXJqRHNyOWdEMXh3dmlvYzYzdXhVdGU5MXY5b2o0TmFNRUJZSUhuMlF4OGVGTzVjTGVMV29hd0duS1JnM2xrdC1pT0J5OVBfRVJ3SjJNYVNtb0pmOGpYUDQtRTVuU0x1UWdHLU1XbWFuREtnQUlaeXE2YVpvUndDLUozbVlZMUpfR1pGLUREMlBNYjBUX1pnVWV6OVJWV09MSWZZNmFMOUZlVlpEU1Rn?oc=5",
+"source": "upstox.com",
+"published": "2026-09-24T06:25:37+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "3d8c1f6cc6d7d7b2",
@@ -7425,6 +7623,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9240e258699b3014",
+"title": "Adani Group announces Rs 1 lakh crore investment plan for West Bengal by 2035",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUhaRDhtX2ZVNktpYkE0dkZzTDhkNE9nNDJHTDU0aUY4dHFxX0NEaUlFSWlfSXl1Z195eTZ5dXpOOHhQVmt6c2hwQUJLYldZTk1BdmtPOGhOWWxHSjc1cFNuMjFPUnp6SF9vbW5RYmg0d2NHQ1Y5cXVBNXhXTEl6VFZHc2dGUGVwTkhpT1JzMnNYOGxMOEFQTnZ3ckhDWFRRVWJTaEFvYlg2ekNXelZGcFpJUnRKWTNWczhkVW9rYThpdjJpb0pUQ1ZGYw?oc=5",
+"source": "Bureaucrats India",
+"published": "2026-09-23T21:30:05+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b3bd15c80ed31373",
 "title": "Adani Ports may sail on FY27 recovery tide",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzE4emNZTkdycXRRNS1UNEVCUno0aFdFY21zdEhiaXllV05rUXhJb3hLQ3F5ZW9Nb092ZmE1SXlEaHBSRzNzTFdrZ1BrNWpHcy03WHdvdnpnRkt0NW82Z1hKUVdaQlNIa2VISThVR1o3SEI1Q3A3UmZoRjQ0TDRiOVVPOVVJU2pCUGhYSTBqRGVoU0FWRDJFOHFXR0dNZDZnUjduMQ?oc=5",
@@ -9230,6 +9444,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "9f7f1612206d7573",
+"title": "Verato, Tech Mahindra Partner to Address Healthcare AI’s Data Issue",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGV2UWJGZE9ZZWItTjVJMjNZSjRVMjNjT0JSM0dvcGFNOGlYeFlUYm55dU1sRnFYTnowVW43U0Q1d1lEazNfVURnbHc1bGQ1NFF3cW5tT2ZyNGkxVnZPUmc0cHFqeUoxT0p2MGFQcm56MDNLekU1V2J4dGxmdWFQdW9zWWZVMDNWOUVVc25FN2NONDRHcnVuUzJoT3h6a3JCeHhzRF9FSQ?oc=5",
+"source": "citybiz",
+"published": "2026-09-23T13:54:29+00:00",
+"first_seen": "2026-09-24T13:20:09+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
