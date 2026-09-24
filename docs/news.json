@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-24T22:18:00+00:00",
+"updated": "2026-09-24T22:30:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "ef09ca1fd4df5a63",
+"title": "London welcomes Airtel Money’s $800m IPO",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHFMUVJ5eXhONDgtZVNfZzlIV19HLXRHWE8yWVA5VEgzSldFU1pMTmVQOXFsUjFKWEUyRDVpcXFHRVFiZXFYMFBmeEFuN05sYmVtajNpam9vNHpqMEM0QUdFNVM3aEVnb1U5UHQtM0lwM2xzSDRmQjlBaDV1MlZCWWprWQ?oc=5",
+"source": "African Capital Markets News",
+"published": "2026-09-24T22:20:24+00:00",
+"first_seen": "2026-09-24T22:30:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
 {
 "id": "e2b6967a4118b08e",
 "title": "Rolls-Royce Adds 18 Trent XWB-97 Engines for Philippine Airlines as Buyback and Dividend Momentum Bu",
