@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T01:42:45+00:00",
+"updated": "2026-09-25T01:54:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "2d108a23c24d5a46",
+"title": "Coal India digs beyond coal into batteries, renewables and critical minerals",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekZNVHBRRklXdkNFREhqTFJVS1pRU19aY1BZTDNCc0syZ2sydmZDLUN2X3N0d3pSdGlFSkFXcEFvdEtNaFZmbmxqdXZVZ0lvdW5XM0djZF9CYWNPMDRqR0Fha3g5cUFwbEljWTBrTWRXeER1SnppdTExZlpWMVcyUjVPY2l5R3ltLVZ0ZVY4X04zdWRmTnF5blZ4aF94MnNOWXNScXJiTzhmS05wMTA0Y0ZFdlYzeGRyRTVnMkVVVXZTQQ?oc=5",
+"source": "IntelliNews",
+"published": "2026-09-25T01:47:11+00:00",
+"first_seen": "2026-09-25T01:54:50+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "9979b5f86e18e592",
 "title": "Stock Picks Today: Coal India, Shriram Finance, PB Fintech, Laurus Labs, And More On Brokerages' Radar",
@@ -901,6 +917,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3b9dc8fff22f2600",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Bhalukpong Sep 2026 - ₹11.12L",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTC1vNHQ5cHJQYlBpcktfMDlmV1BDM2tIV2tvb1VQc2MxS1lmQXJPTmNjMzYycDJ1bnYtemwwYlk0WWFsUDlWeG1XeFZZcWdrVXNfM3lfbW5XR2dnZVhaZXFfbDBWd0xUbkdPMGd3VXBuOEl1TmszTE14VUxJX1RRQUptSUZBbHhNSEE?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T20:19:12+00:00",
+"first_seen": "2026-09-25T01:54:50+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "93829b3480daa2d7",
 "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in HDFC Bank Limited of Class Action Lawsuit and Upcoming Deadlines - HDB",
 "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRFktcUFveHdpT0t3LTVyTG5FSklQQ1RjU0hCS0c3NEhxZDZxX2JtT1dxeldjNzZjSFh0Yl9wU1FrbXQxLXdnajk3dkRpbGRMUmh4SEFiVUUtZUprUkx2Vmk4X3dtMkRPLUJGV0FTeVVjSlpiNFNReEtRdl91WWVhXy1UUkIyNlFaYXJPbXRDQUpZVTdxUEg4TzFlNGZWSmZSZTFROU1uc29ObmJuNm43b2loRDdQZWdRR1djbUZaTk9tR0M3UWY4MjcxWWxmQ0dVd1JVLWpfWVpoaVAybTFJTHUzN0FNWFFBbVo5MEtTeHR2b3JJdHFyNC1vLUdpTDFHWjlhTDlGSFRvbDQ1MnRfNWFqSXluZ090bHFCanlBU3gxa1htYjBLeG9LVnN6UHNaVENXMEZ4bw?oc=5",
@@ -1054,6 +1086,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c50762b9cdff6ad0",
+"title": "Maruti Suzuki Ertiga On Road Price Virajpet Sep 2026 - ₹11.05L",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnNiX3RIa3NNRllYZThjMkNQMjhrLUNnUkoyblNTcmhFWDF3UGhibTIzcFVXSHdsUEpzOVhOaHY3RTNzRWx2cWZhdXZUOFJJWE8wZzc5cExFWkFFVUVCenVadkRZUUtkbEhTc1B4My1ENXNmNlZhTndQa2QwLXlFcw?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T18:45:04+00:00",
+"first_seen": "2026-09-25T01:54:50+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1430,6 +1478,25 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "positive"
+},
+{
+"id": "c34245e5f9a54c33",
+"title": "Wipro Shares Jump Over 3% on $1 Billion Mega Deal With Olam Group; PL Capital Maintains ‘Buy’ Rating",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzF2WnB1cnYwVXhVbjg0VlRuUGR0VFNucVZPanpQVnhNcTRiU2U5a3E3ckhQNXhXQTZOVmo4b1Ixd083eUExMEs5bVNLb3BESmFZdkpGMzNWYjBaejR5dFBFaE93Q1RJczltSWgwTW9yM0pRNEdpNC14ZmNmMFR0eEpIRlNOajJrYzJTZjktVnVVakQwSnFVYUhjaVNneDFqcmRac0tUMzlCVEN4c0pkNF9BbmFQdEJwOHVzb2pIaDloT1QtQTY2VWRUZVdKRkpScEJ4MmZJNA?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T16:18:58+00:00",
+"first_seen": "2026-09-25T01:54:50+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal",
+"Rating"
+],
 "sentiment": "positive"
 },
 {
@@ -5079,6 +5146,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "348b36065ddb0ca8",
+"title": "BSE Share Price - Live NSE: BSE Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T09:03:31+00:00",
+"first_seen": "2026-09-25T01:54:50+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "f3998bd09c50f108",
