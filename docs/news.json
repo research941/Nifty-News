@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T06:18:21+00:00",
+"updated": "2026-09-25T06:39:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,106 @@
 ],
 "items": [
 {
+"id": "487829624bddddc1",
+"title": "Can Coal India’s higher realizations sustain its stock recovery?",
+"link": "https://www.livemint.com/market/mark-to-market/can-coal-indias-higher-realizations-sustain-the-recovery-in-the-stock-11790314767513.html",
+"source": "Mint",
+"published": "2026-09-25T06:35:40+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "f6d2b4665eb8c3e4",
+"title": "Analysts pick Mankind Pharma, Dixon Technologies to buy; bearish on L&T, Pidilite",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZER6RlVkLU5nZ0hmQ3ltY2xyUWw0VTd4c0lIUGYwcTBhd3UyY1RNeHFNajQybzIxWHdtTEIyaS1QWHVXNGV3YVFRUTlLWE9ldG44a3RlM0dqS2tYbEd1RWdyeXVqU0lNT0ZzeGdfMzBiUElCeERRNTdfbExhUERaSVdHMDJqLVMzcnlLYWNCRFU4bkk3b1h2YVkzWEUyNHJsOUh2bkhXS1VaWll2R0Jnay1RR21GSEZLSHpyclFBR1hDYV9DajBaSGlXdkZob3JtNXlZNTdIV2VJbEg1QVI0ZFdpS3NlTUxremhHWEVn0gHuAUFVX3lxTFBkRHpGVWQtTmdnSGZDeW1jbHJRbDRVN3hzSUhQZjBxMGF3dTJjVE14cU1qNDJvMjFYd21MQjJpLVBYdVc0ZXdhUVFROUtYT2V0bjhrdGUzR2pLa1hsR3VFZ3J5dWpTSU1PRnN4Z18zMGJQSUJ4RFE1N19sTGFQRFpJV0cwMmotUzNyeUthY0JEVThuSTdvWHZhWTNYRTI0cmw5SHZuSFdLVVpaWXZHQmdrLVFHbUZIRktIenJyUUFHWENhX0NqMFpIaVd2Rmhvcm01eVk1N0hXZUlsSDVBUjRkV2lLc2VNTGt6aEdYRWc?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T06:32:27+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "6b033957fc3aee4f",
+"title": "ICRA assigns provisional AAA(SO) rating to Bajaj Finance's LAP PTCs",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmRoVnF3c3pzV1F2azI5RjAxcFQ1NVhNMGptQzJ1Mi1VdHVIRFVEcHFoR2c3cHBPeHFpOWY2S05NS2k1VmVfb1ZIUk5SWTZubVdyeHBCSTFDTHJVazZ0RnJBZzNIT25xeVh6Wk1CWnp4b3ZCODJaU2RzM244S0tycGEtMVdKV2h2Mmd0aDJyZ2NpMVRFTzlv?oc=5",
+"source": "Traders Union",
+"published": "2026-09-25T06:25:29+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ce755666ba35f36",
+"title": "Adani Power shares up over 30% in last 6 months - PL Capital sees a further 30% upside - Price target, rationale",
+"link": "https://www.livemint.com/market/stock-market-news/adani-power-shares-up-over-30-in-last-6-months-pl-capital-sees-a-further-30-upside-price-target-rationale-11790315503215.html",
+"source": "Mint",
+"published": "2026-09-25T06:24:52+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fa75a97c18c9a5ab",
+"title": "Maruti Suzuki trades higher on commissioning 300 kW Green Hydrogen electrolyzer plant at Manesar",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRjN6cEplR3RBemZlLV9mMDBPZ0tOS0VGeGhOQzlaMzc1OGF6VFNwUk1Eek5BNXRQOFVGYjA1ZHlvWWthOXhtS1lZZW5mcFNKNkVNUXZFamczb1ZSN0tJbDFFRUZ4anE0TGlPa2Vvd0txY2ZiRDU4UUtYUlZ5ZDdkSDBINDdMejhZOWpabzhqMkYzQTRfRzhhNEdZMUdxN3M2QzlIUFRxZmxtMUJwa0tlMms5ZVVXcTk0RjNmNktUYmx6X3J3NnFheklaNG42SVFEaWdRVEhubkVLX2JBblE?oc=5",
+"source": "Investment Guru India",
+"published": "2026-09-25T06:19:30+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "461653706033e808",
+"title": "Maruti Baleno facelift: Drops a cylinder, gains something bigger",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzV6MjMyVEpBNzdUVUNCNTdVT2hlSUxsMWRZQWROazhkN2NPczJkVHYxcFpEazFJZ2pTYVhBU3IzbEdyMWcybjFoU28zR2NNWUJJdFZjVWd3M2lrVjM4OXVUWWJqRTdUWlFZYWRUcXlsTVJSdjFQcTR6ekFEUlR4ZjZJbVFDSkNQNVFyWWpzMUJicU94QXpXZXNfMmJBeE5WV2tJUS1wdTFoQdIBrwFBVV95cUxNOEgtZE05c250QVg0Zk1oZHVHYUhmMHNQMXdZM0NyeURDQ1NSSmN2eUk0VXd2aTA4WmdXTE5fVlROZklOaW9lY0U3enRVMUc2dFF6VTI3dWozTEtybHFUZThuSHFVNEtab0dfWm5hS0RzOUd2N0luOWZ1N081T190RHR6N2F5YnloNU1OZnN0TkxtVlJsdTNJX05PLUlrVHRtMFhQSzJka0xwM3lnRnhN?oc=5",
+"source": "zeenews.india.com",
+"published": "2026-09-25T06:16:32+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "af1f7643c77c66fc",
 "title": "Maruti Suzuki discloses Suzuki Motor Corp tech strategy briefing details",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0Z5djlYME5OUS1JcVQ2SEttb3NmMkVSWmV4b2R2WmFodzFFdmNGNkVwMEY4V3Q4dFNMWjRmZk91NENyWVRkNmUxTm1EcXRRYl9rMVdrc1d0bzNYZ1g0OXhsMFRidW5NNUlmZ2EzM09maUdOcXlwWlNlQ0c3S2ZKalFHZVllWXI1VWZFNk8xN1VDRkpHTXFSbXY5MTRqOEpabUNOaUxvTmRQZEtNS196STc2Szk1a1R5aEpaQm9R?oc=5",
@@ -513,6 +613,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "ba5651ab4ec7beab",
+"title": "HDFC Bank shares trade flat, Q2 results in focus",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM092QTEzdjlvMjltLTJNRk12bW9VY1VWQjUtdk40aUUxU3BLQWdPZExscmFILVlONUVEOGlrMFVBTmI5SGY5MXlpN3lXbXRveWg0MWUxZkxxSWxfLVlLYXVjaVpUYmFHQlJ3X3IzUG9acGd0cnVXMEVEM3otY2xGRFNrTmptVE5kM09GdFl5UEx0MEpNYmxtWE12S3N1WTZhdmhQOUp4NA?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T05:53:00+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "8ab5f0d0dc914a4d",
 "title": "NTPC Holds Swachhata Hi Sewa 2026 Event with Sports & Tree Plantation in Noida",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUcwTm1OWmNVU2FTcUtiTkpITVRscmMtb2I2cGhzdFFkcllrek80S1dwSnBCZU9lNVExVVMwbmxoNHYzYVp1Vm1aSUJJSkRCcklNQlRKaFVCZkZLYnlZbU1SUUhuVmtTc0NqN1hqMFlfUzFxSGRvUWhpc0llME5zVjZMcmE2OWlOZjlpZWZveWpqc0hlbzQxVnc0SkdObEZsaG9Kdk1kTXZ2VFdqV1hpbg?oc=5",
@@ -526,6 +644,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f2e03deaf8266bad",
+"title": "Moneycontrol Ideas For Profit: Maruti Suzuki | CNBC TV18 - YouTube",
+"link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9zOG42bkcwRVE1eEpYcjc2Y1pzellnS0VLQTduNmdoZUNnekJpMlFVY0NYUlpFV2hoVkZB?oc=5",
+"source": "t.co",
+"published": "2026-09-25T05:49:23+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -578,6 +714,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "216a1e65143637ca",
+"title": "Maruti Suzuki Wagon R Glove Box Image – Wagon R Photos in India",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OUm1PQS1qLTl6ZVV6SHc1MjM3anVHczZuenpCYjkwb0xNazk4MnRYU0U4TkNUcnB0dURONjdOUThqd0hwZ05aTEk0SUV5Z0ViRDBxSVMtOXZlbDJ5WWsyQURBdGVGdGo5WkVVODM0a09EM2QzeGZkZG9aZVU?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T05:36:25+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "e396fbe5fff85d0c",
@@ -986,6 +1138,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "057c8852402054e6",
+"title": "HDFC Bank Stock Update: Shares Edge Lower in Cautious Trade",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFY5MEhuREFLcHR2OGxZVTFETHVsczBCZ0tVVnJScVl0VDV4UVU3RFVWaWhWemt4eXB4MkN1Y1Z4V0pqUFpBMUJJbmdyTmtBSWdtQ05WYjRCZTBVeVhDd3VOYV9zZVZCNHRUVHlYQUEwMlRBSEh0cWI1dWVGZWlzYWVSOGt5RHJiR0MtdmV4Nm5vWHJfN3NLTGFnYXE2ZUFDbEVzSENCdWg1MDDSAbABQVVfeXFMTUdBRnRhMEkyRG1EUEE0RkhGMURRVDlnNmlEVHBpd1IzZF9SeVZJV05ZQXlxUk9aa0RXd3VONXpaX1BHTExrWV9RUU1ySWVzZWdCUGEtSGFTdlkzV0FYcnpGVVFxUFhfNzVaTkozWWthVnk5X01QcHpKZnhJWHVoYXdTeHo2a0N2SnVOc0FWZmVRQjhnRHdqeEFYMmxiYzdKaFRmTkx5OEJNTmVFanZ4Zy0?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T04:21:58+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "3216d0caf2884cd2",
 "title": "State Bank of India Stock Update: Shares Edge Up Amidst Investor Meet",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzB2MXpXbUc2bmVfX2pKNFlFTmpMLTZLMVhpdHFLS2cyRHFYRkhnSEFtNkJIaDBXV0lzRWp3TWpfZFNLcmIzMDRzaXhPdVctdW9oUHc0emd1WmllOTRDalJRTVh3T3hITzEwX0d3VUVoRXlqeHBzRm5uZGk0WWd0TXNWZ3ljMktaQjl2cW5sOVpiY2dXdmlYN00zWm1hcS1uRFdNTVVieVNNblhSSU91ZXdoQ3JJbHRW0gG-AUFVX3lxTE5uLUhSVmIteWp2YTZlUDdoeFA0ZVh3bWFiTzdmdHBLZ2gtUFlqRndfRFR6T1NDLVl5azFTMVVJNmoyWUEtMHBBVTRaUXZ1TWZkRGt1ckJ0OE5JdFdtMlhJcTgxVHdEc0pNczhIemFmN1FZc1lIMHNtOXpIWlV6aUlWNERpeDVfT1JLanZySGRUWm1IcUdHb2xWZW1feXZkWVdRQk5zVXB0Qk80dmJScXhabVlOYTF1c2FMcjIxdGc?oc=5",
@@ -1227,6 +1395,22 @@
 "sentiment": "positive"
 },
 {
+"id": "98109958b602a71c",
+"title": "Asian Paints Share Price Live Updates: Asian Paints gains ground in today's market",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-live-25-sep-2026/liveblog/134474566.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:50:17+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e0b473dd8b1c5e56",
 "title": "Tata Steel Share Price Live Updates: Tata Steel's Current Price and Market Performance",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-25-sep-2026/liveblog/134474505.cms",
@@ -1307,6 +1491,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5817b376c60fd71a",
+"title": "Adani Ent Share Price Live Updates: Adani Ent. News",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-25-sep-2026/liveblog/134474323.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:30:04+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f086beb3501fefe3",
 "title": "M&M Share Price Live Updates: M&M's Market Movement Today",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-25-sep-2026/liveblog/134474231.cms",
@@ -1382,6 +1582,38 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7832ec34b12ecb91",
+"title": "HDFC Life Share Price Live Updates: HDFC Life Experiences Slight Increase Despite Monthly Setback",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-25-sep-2026/liveblog/134474132.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:10:34+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fba212eefeb8f282",
+"title": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Update: Price and Returns",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-25-sep-2026/liveblog/134474128.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:10:18+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1778,6 +2010,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:48:38+00:00",
 "first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3a66fa583cd17b3c",
+"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Price and Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-25-sep-2026/liveblog/134473658.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:48:38+00:00",
+"first_seen": "2026-09-25T06:39:04+00:00",
 "symbols": [
 "TECHM"
 ],
