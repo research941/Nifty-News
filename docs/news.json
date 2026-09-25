@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T12:50:11+00:00",
+"updated": "2026-09-25T13:01:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,12 +445,66 @@
 ],
 "items": [
 {
+"id": "b971d9aa030883d3",
+"title": "ITC Infotech freezes 1.69 crore shares of Happiest Minds",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnRYbnNwSDZ5aEZnZ0NZN0J5d25rcFlVdzU0UlFXbk5nRFgwWEhtVzdWWmI5cmJaZ1ZESmhqUGVnVXJOQ2p5MHRpN1JZTW1FeVVuRnpCbjh2aG9WV3VlYW1kaDB1UE9udWxLUEhHbmxFbHNFMGVGMExxREZNS0J6WUdJT3pjcFE3NVlvdldRZW1odHBQWV9GWFE1cjA1NzQtTlg3TDVsLVZXd2E2UG9Z?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T12:56:39+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e0f845693f1dc21f",
+"title": "BEL Ghaziabad Diploma Apprentice Recruitment 2026 Apply Online",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVE1lSEpXVjBDUEhTc1lIMzJ0WFNybXhBb3pVOVhRX2lneENQbVo2c09UZ3hTZDkwS1dSU1lzT0ZHM0JING0zYVpGYnQtOW9Ob0c0SnpTelJ3MHBKdUhOUUpyaEZqdXRmaC1iMXdkMlI1NVpaeFZlNWhSMEpaU3lNTVFRYlloZw?oc=5",
+"source": "KollegeApply News",
+"published": "2026-09-25T12:54:14+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "176c46c5e3d66414",
 "title": "Market wrap: Axis Bank, Asian Paints, Max Healthcare, Infosys top gainers and losers on Nifty and Sensex o",
 "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbHJoeGJPbm9RZHlmR0wtZ19LOXZFZnNhYTgwVFpxNmcxYmwwTEZIYXROaGZrU29KS2Fta2tGc1RlTTUxUWxVMnRad1RGbkFjMVJIYThfSC1mbW9maVRUN2RyMkNSX3FlTWVxUDJzeElHNkFiS3V4WE5nSjRJN3QyUlVTeWhYOWFpVEFlYXNCc0VKVW9OQzcxSG80WE02M0tfZmk3Vjl1RXgyY2YybW1WckdaRWZfNFNYWmhpT0xFY0Iya3NscXU0eE5QS3BpTk8zd1JQUy1FbFkyYU9lRHl6a3ozY2dkZG81VGRwVGZ2cW5PUHg1UTREQjhRVmI3NURnRUVHakNSWXNQMFNvYnV3bEFR0gGXAkFVX3lxTE9ueUNMYWY0aXAxUkpyTjlUZlNoRG5IVHp1bS1qcHRjMktEaXZES3FNdmFtNThpVWVaOUVNdE91N3NnYzFUNzVQUzZUSS1oR3FuM2MxeXlvTm9hV0lwVkx0ZUltRlJkVkRzTVNMSnY0SzZKbHVEdTJVX25DemZtU1U1LTg0amdlWERqdXZnYTNDS0lHTERzNERfa3BXNHNDZWxER2tpM1lSYWZBZGE1WWhCWmdhVFRpdElDci1VV3BEZG94ZExKSHE3RVlSU0hwZjRPbzVOYS1xUXhBTlEwYTY2MWVUTVZWZGpGREViUGwzckRVaGE5cXJidDRoZG56NXhRa284Q1JzMjMtQ0FOVUI1SjNzSEd4Yw?oc=5",
 "source": "The Economic Times",
 "published": "2026-09-25T12:43:00+00:00",
 "first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK",
+"INFY",
+"MAXHEALTH"
+],
+"groups": [
+"Banks",
+"Consumer",
+"Healthcare",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "36215062bce32738",
+"title": "Market wrap: Axis Bank, Asian Paints, Max Healthcare, Infosys top gainers and losers on Nifty and Sensex on Friday",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-axis-bank-asian-paints-max-healthcare-infosys-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134485432.cms",
+"source": "ET Markets",
+"published": "2026-09-25T12:43:00+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "ASIANPAINT",
 "AXISBANK",
@@ -597,6 +651,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ce4ecb514e2036ca",
+"title": "After PNB case, fake notes found in Axis Bank chest in UP | ₹500, ₹200, ₹100, ₹50 fake notes found | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWJHRzJZbGUwLUxMYTgwUUxiaVRlQmpuQmppdm9jeXFYRUxZU1gzRTg5REFWSjdHT0xONG9LaWdUempkU0hhRk5hczJDeE5GQzB2TURET2ptY2ZDdVlla2RKVFdNa3A1T0dQS1hFR25oMzIzOFFNRlJ4bE1wYzVOTnZSRDZiMWF1M2FBOFN1QTVNekJLSmhEQ1pMbkRzaWVoUi1zZmRuNNIBpwFBVV95cUxQOWJHRzJZbGUwLUxMYTgwUUxiaVRlQmpuQmppdm9jeXFYRUxZU1gzRTg5REFWSjdHT0xONG9LaWdUempkU0hhRk5hczJDeE5GQzB2TURET2ptY2ZDdVlla2RKVFdNa3A1T0dQS1hFR25oMzIzOFFNRlJ4bE1wYzVOTnZSRDZiMWF1M2FBOFN1QTVNekJLSmhEQ1pMbkRzaWVoUi1zZmRuNA?oc=5",
+"source": "Inshorts",
+"published": "2026-09-25T11:36:59+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "357524c6dc5bd5ac",
 "title": "Max Healthcare expands African footprint with launch of fourth office",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTFnU0RjRk1hRnFtdGlrdC1DaDYtX0xFZ0ZseE54elNqT0ZsblBTaHBxNEE5LUZDYkdMcFd2WE1lazRwZzNrOTJ3R0ZSTGRhdlZ0QVp4OEFFRDc2cHJyQjUwUTdGZ3o1LVFlaHNZbDBPZHdsbXU0UmxYeWFFVkNkc3lyTU5CeHUwcWdBWkIwcjd0d3hhaUdLTGJGT1B2VjllTjdNY09rYngwUG5xLU9mdlJMZkxjYlNPNERoa1dWWQ?oc=5",
@@ -704,6 +774,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "35001868419e58c8",
+"title": "UltraTech Cement Adds 4.6 MTPA New Capacity in India",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0ZsZzV2dzFGaDA4Vksya3JTX0puem5KanJOMHdkSGlzeDhjUmZYYzRIdmthR3ZOYk9rWWI5Nkt1dzdYTjV6VXF3cGpsSENITWlQSTJTQTNZbWNRVFpTVkh0amlnRzFiSmtEMjVZOGk3bTJFUHl2WTJFTmI1Q3hseWFoaG9GZ2U4aUE?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T11:15:55+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4257,6 +4343,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "445381fd2c85c2c6",
+"title": "Tata Steel Share Price Highlights: Tata Steel Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-25-sep-2026/liveblog/134474505.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:46:39+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cc90054ccc7810cc",
 "title": "L&T Finance - Negative Breakout: These 8 midcap stocks cross below their 200 DMAs",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUFJRUzlTYnZTSW96dHNiZnRGX21ua2lXY1E0Vjh6TE9ZbUh5bDlEYXdnRlcwZlRUaTVwUlh2X2hGWExiYXUtb1JfR3RXSktYaWNMRVZwR280dzRrbktHM0tIZnVaNElvUXd5aHVOZ09lQk0xSG50YzFsY2phRXhXeVNtSERadzJoZXhpN0lMMXRmbzFJbGppOEpxRWI2NzVDR0VieHNrN0R5VnhLQmF2VWY5WWJPZ0VtSmtfMktjNTB0cUt5VlVrQ2FFSEhod1JGa2ZJVXFYeXVzRnZRM0Vjcks4NkpIUHM?oc=5",
@@ -4356,12 +4458,44 @@
 "sentiment": "neutral"
 },
 {
+"id": "88ea09681012877c",
+"title": "Maruti Suzuki Celerio Console Storage Image – Celerio Photos in India",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0VBb0h1eGZXZGZLZ192ZkNSRkc3aVJ0MFlMeDF4b25zTXJhYXhUYkxGeFdMUU11cU45cUNoNzdKWHNyRmJQSWQwakFXSEszZlQ5b1JibGZ3R2xwM1hFQkpnNXpjdUlzTncyeEZVWFJtM1ktYzJvNWtRYjg5ZlhnZ1hud0Q?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T03:32:43+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5817b376c60fd71a",
 "title": "Adani Ent Share Price Live Updates: Adani Ent. News",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-25-sep-2026/liveblog/134474323.cms",
 "source": "Economic Times",
 "published": "2026-09-25T03:30:04+00:00",
 "first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "43defb0c07b512ce",
+"title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-25-sep-2026/liveblog/134474323.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:30:04+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -4410,6 +4544,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T03:20:24+00:00",
 "first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2fc1459cfa17d7ab",
+"title": "M&M Share Price Highlights: M&M Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-25-sep-2026/liveblog/134474231.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:20:24+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "M&M"
 ],
@@ -4548,6 +4698,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "01551388ae862a66",
+"title": "Wipro Share Price Highlights: Wipro Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134474138.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:11:06+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7832ec34b12ecb91",
 "title": "HDFC Life Share Price Live Updates: HDFC Life Experiences Slight Increase Despite Monthly Setback",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-25-sep-2026/liveblog/134474132.cms",
@@ -4580,6 +4746,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b1f91b8d8f2776fd",
+"title": "HDFC Life Share Price Highlights: HDFC Life Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-25-sep-2026/liveblog/134474132.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:10:34+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fba212eefeb8f282",
 "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Update: Price and Returns",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-25-sep-2026/liveblog/134474128.cms",
@@ -4602,6 +4784,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T03:10:18+00:00",
 "first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "795c0b9351d0473c",
+"title": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-25-sep-2026/liveblog/134474128.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:10:18+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "ICICIBANK"
 ],
@@ -4714,6 +4912,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T03:00:52+00:00",
 "first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "205d2b3a929be0fa",
+"title": "HUL Share Price Highlights: HUL Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-25-sep-2026/liveblog/134473877.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:52+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "HINDUNILVR"
 ],
@@ -4948,6 +5162,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "77bf1fd67221c0d8",
+"title": "TCS Share Price Highlights: TCS Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-25-sep-2026/liveblog/134473815.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:57:35+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b3333012c8d770eb",
 "title": "Sun Pharma Share Price Live Updates: Sun Pharma Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
@@ -4996,6 +5226,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "95d5bd9792169cc5",
+"title": "Sun Pharma Share Price Highlights: Sun Pharma Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:56:22+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3eb359f89bf52090",
 "title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
@@ -5018,6 +5264,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:55:51+00:00",
 "first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b90af0324de973b1",
+"title": "Hindalco Share Price Highlights: Hindalco Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:51+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "HINDALCO"
 ],
@@ -5062,6 +5324,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "f75e6712205d5d14",
+"title": "SBI Life Share Price Highlights: SBI Life Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:35+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "193e263deb0aaf69",
 "title": "HCL Tech Share Price Live Updates: HCL Tech's Current Valuation and Performance Insights",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
@@ -5084,6 +5363,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:55:19+00:00",
 "first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7944a19112917cf5",
+"title": "HCL Tech Share Price Highlights: HCL Tech Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:19+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "HCLTECH"
 ],
@@ -5142,6 +5437,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "219ad50c354d536c",
+"title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:48+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e21721f54594f329",
 "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
@@ -5164,6 +5475,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:51:31+00:00",
 "first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6278525cbece61c2",
+"title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:31+00:00",
+"first_seen": "2026-09-25T13:01:12+00:00",
 "symbols": [
 "DRREDDY"
 ],
