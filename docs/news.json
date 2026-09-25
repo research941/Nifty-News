@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T17:45:14+00:00",
+"updated": "2026-09-25T17:56:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1542,6 +1542,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4ad9eea37ee46098",
+"title": "Tata Aeris vs Maruti Suzuki Dzire: Which Is Best For The Pocket?",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2pwWjhCNmtGaVdTaGwxbGVZcjlIUHVEa3lKcXJ1c2xvUG8yZV9aN3A1NTNOT2RUd2didzYyVi1LRU42YlJIWVBrcEVuUXhzc1lleEcta1c0MlFDUU1aZ3VxemdkMTV1RGtzME9JdXpwLVR6TF9UM3F5WnlRclVReTNiZjc5YmE2V09xWDFjN0RreTNRQmhtclFqZk5OR1B3TnfSAacBQVVfeXFMTXhDOVZhcUwtWDNxMU4zbTk0ZVo3OXM4S3plcEdiY3ZUSW05Vll0NU5WdUZHR0lNek01MnN1anBKUTZIVHBrU19oODRKVUoyb1hvV2ZnQnl4VkZQanlLM3FBY2s3NExJN2pGS3JNeVZYanl1ZmRVSVFaNEFQMU5SeXhlbjk0TXRPVWVwOVA5dEtlUzlwTFVpQm5XZlVlT2gzLTVhczZBbFU?oc=5",
+"source": "ABP Live English",
+"published": "2026-09-25T14:30:10+00:00",
+"first_seen": "2026-09-25T17:56:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4db8b07687c93789",
 "title": "Tata Steel’s Khondbond Iron Mine Wins CII SHE Excellence Award",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanV3dlpIT0JTenh6cVoxVEZPLW01UU5VNDFWOGpmYXVYOU4zejJrd1hhLVN5dGlFM2VVLTNtOWE4VkNKX0FnNkVSRUxXSHBnTkdkUXozTE5YTkJOaERiRXd1Z3kwbXBIN0tRYWFoTU1hTFpCV1RVYUh2b0o0VUg2UDBkUUpzQUhjM1pEazRXUmdmd3dURFA5bE9ucjRUQUJM?oc=5",
@@ -2931,6 +2947,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "1044955679d717d4",
+"title": "Infosys slips Friday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMnRaVDZrTTB5VzNnZTNFYzFka0J3b2s2NG5DVDFkSkswYnFZMlVkb1R6U0luejRfbUhMVi1HX3ViY1N2cHQ4ZXl1bW92SXZ2OWJDSFNMS1dSTjZrT0hOM1g3OVVZc0VrMmZHN3NSM2J5Y0N6OFlGTUExaWcxSmtYOG5YXzRsMG50Ti1RT0ctS0JRRjhTUHdYX3BYVWJMN2NWWk5JUHVtYlgwYVZJTDVzLXFxZXBrMTUzdVN0VDNSRmxMdw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:30:00+00:00",
+"first_seen": "2026-09-25T17:56:25+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "040485cb6a9a9c9a",
@@ -5979,6 +6011,22 @@
 "Infra",
 "Mahindra",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b39a54b8dff49a46",
+"title": "[Link Active] RRB NTPC UG CBT 2 Answer Key 2026 LIVE: Download CEN 07/2025 Response Sheet PDF",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWmZVZzdhTWxZQ1E4SVI0SEo5RlhJVVVVSU9HNklmWXhaYUdQb3d0ZFRiV2lSRGtDMndyQjZmNmcxQXA0U1RFd3VtZklCclJsd3hPOVBqVGphRGY4SXNmUzBEZWRXSFRYTmlid3dpOWZDUW9QZzJ2Tkw0VnZ0Ry1COC1uY21lZWs3NHdaZlFKZnFCZjF3WERqWG9hUzlDeTVPbkFhdlhfbTZlb09YellTOHAwRGxhMTg5WnRxcmVhM1NVMUxjc0dQMmlKUXk3NHUzWnBob29QWDB3alZvWVd5N0VXbU5lVUE?oc=5",
+"source": "Jagran Josh",
+"published": "2026-09-25T04:26:05+00:00",
+"first_seen": "2026-09-25T17:56:25+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
