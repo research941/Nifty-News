@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T22:17:36+00:00",
+"updated": "2026-09-25T22:30:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,27 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "c8ec0d48d66c2f39",
+"title": "ICICI Bank Jumps As Dividend Hopes Fuel Rally",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW1SNUExdUcwNzRkZ1Y2bG5uTEM2TWlvUUo2Z1o4Q3p6T1BIV21idFZpNzViSGxQLW5jdmlTRG5FXzVIcFlGX2VwWDZWb0JhVWNsQmprVjFfbVJWZ0hCRzdra1ZadF9YejlISVVQWGJ3XzlxWXZqaVc1WEcwLUlTTnZmMFB3SjBRNW42eQ?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T21:57:24+00:00",
+"first_seen": "2026-09-25T22:30:11+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "positive"
+},
 {
 "id": "9a97f6d898e07911",
 "title": "Tata Motors focuses on sedan amid mounting cost pressures",
