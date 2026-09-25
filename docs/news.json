@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T12:23:16+00:00",
+"updated": "2026-09-25T12:50:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "176c46c5e3d66414",
+"title": "Market wrap: Axis Bank, Asian Paints, Max Healthcare, Infosys top gainers and losers on Nifty and Sensex o",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbHJoeGJPbm9RZHlmR0wtZ19LOXZFZnNhYTgwVFpxNmcxYmwwTEZIYXROaGZrU29KS2Fta2tGc1RlTTUxUWxVMnRad1RGbkFjMVJIYThfSC1mbW9maVRUN2RyMkNSX3FlTWVxUDJzeElHNkFiS3V4WE5nSjRJN3QyUlVTeWhYOWFpVEFlYXNCc0VKVW9OQzcxSG80WE02M0tfZmk3Vjl1RXgyY2YybW1WckdaRWZfNFNYWmhpT0xFY0Iya3NscXU0eE5QS3BpTk8zd1JQUy1FbFkyYU9lRHl6a3ozY2dkZG81VGRwVGZ2cW5PUHg1UTREQjhRVmI3NURnRUVHakNSWXNQMFNvYnV3bEFR0gGXAkFVX3lxTE9ueUNMYWY0aXAxUkpyTjlUZlNoRG5IVHp1bS1qcHRjMktEaXZES3FNdmFtNThpVWVaOUVNdE91N3NnYzFUNzVQUzZUSS1oR3FuM2MxeXlvTm9hV0lwVkx0ZUltRlJkVkRzTVNMSnY0SzZKbHVEdTJVX25DemZtU1U1LTg0amdlWERqdXZnYTNDS0lHTERzNERfa3BXNHNDZWxER2tpM1lSYWZBZGE1WWhCWmdhVFRpdElDci1VV3BEZG94ZExKSHE3RVlSU0hwZjRPbzVOYS1xUXhBTlEwYTY2MWVUTVZWZGpGREViUGwzckRVaGE5cXJidDRoZG56NXhRa284Q1JzMjMtQ0FOVUI1SjNzSEd4Yw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T12:43:00+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK",
+"INFY",
+"MAXHEALTH"
+],
+"groups": [
+"Banks",
+"Consumer",
+"Healthcare",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "406bbff69c2be693",
+"title": "AirAsia ranks No. 1 among low-cost airlines; IndiGo enters global top 10 - CNBC TV18",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0w1dXNTaEtkY2dnaV9rWklVWkp2cjFpSzhDUmVHb2VhRDROcFNmVWZJM0Z2S0FENTJpZ29LWXE4bjFBY3V6amxiaG13U1FNTV9XSk11YlNaVlVzamgxWnZKTl9IUG40Vm8zU0pUdTd0dXVhVGR6QUxJVDFlZ0dIZElBMFJtVXhMNi1IOTFTN1YwbUxLa0hyMTA3Z005dTJUemxfUVpVNTZBTm5FRnpDd3BHU01zeXlD?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-25T12:40:45+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6704c2b9d7ac4d85",
+"title": "Tata Motors Launches New Aeris Compact Sedan at ₹5.29 Lakh; Check Petrol, CNG and AMT Prices",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6V29nc1o1eHNBRXpzQktGXzdEWXYzSkgweElyOHRKN3owNUo3bXQ0ejk1NWpzR1k5M1NhaXBMc2dUajBfVmdrQkFDNThtTDducmtoZFRuQkwzMjRoOVEtNlZoSjFZWHlMV2xOcDBrcw?oc=5",
+"source": "apacnewsnetwork.com",
+"published": "2026-09-25T12:29:48+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1ff27b82046a5945",
+"title": "Tata Motors Passenger Vehicles mulls further price hikes as commodity costs squeeze margins",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMmp1bzVIMmQzZ3JxWmFsNEZBRHc0bVIyV2tDZEZYRFhJVmNnMWhib0hwdGI2ZnhsQl81VnJSemZFODlIc2hkRHc5Y3BqNHk5WS0tcXJ2NmpFZzN5WXp0OG1GU0ZtNFZqVUhtUDQ4ams5NUhCS1ZuRlNwcUx3dlI1RE1NVHg3OUVsbmpPNUtCeWlXREFJcFRERHhEbHdNcUk4UXNPSy1uYXpFYUVOYXdqSkxFQUVWakRqRWk2NC1LWk9VR2lFMXFBTVNvSGZWdzhuZ0VSVXNla3dxa1BEWG0yeGtmOFE2N0lMWHRTLURmSEHSAfABQVVfeXFMTjJqdW81SDJkM2dycVphbDRGQUR3NG1SMldrQ2RGWERYSVZjZzFoYm9IcHRiNmZ4bEJfNVZyUnpmRTg5SHNoZER3OWNwajR5OVktLXFydjZqRWczeVl6dDhtRlNGbTRWalVIbVA0OGprOTVIQktWbkZTcHFMd3ZSNURNTVR4NzlFbG5qTzVLQnlpV0RBSXBURER4RGx3TXFJOFFzT0stbmF6RWFFTmF3akpMRUFFVmpEakVpNjQtS1pPVUdpRTFxQU1Tb0hmVnc4bmdFUlVzZWt3cWtQRFhtMnhrZjhRNjdJTFh0Uy1EZkhB?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-25T12:27:00+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ee3686304976c2b4",
 "title": "Hyderabad: ITC fraud of Rs 32.28 cr unearthed, company director held",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUJtNVB5c2NBdjZ2SEoxT2pyQTAxalB6Q1BtX0pJcks4SEpfNkE5S2I0VElnNVJVTjVNUWJkcjBYeGJNZDNleU5HV0VBNTd1el9LMExQc0Q1c3B1YUdhVTZwUnh6Y1V5dVJyR1d1cFZqcHFVU2UyV0pkZlhTcnBCNDR2OUdYVlZpSE5pZExCU2JLR2NZQzJ2bHo5ZDhEN0xRbm9aWWNYbU9RREh6OExmdHRYMHpaQ0lEaE1oM29xNFlEd3h6NXg0TkthUWp2Sy1JR3RPSXBtZERHbGUwTEHSAdcBQVVfeXFMTWtlWEVHLThwNHFMcnJheUdQTGxQRVN1U1VRYVEzZmJzZkJlQ2RnZ0JCTUZ6eFJGdWVTY1ppeFhWSW9YTFE0OVI1MUJFX1lLdHJEUnBZQXRYNDhfVjZNS1hkcWFBeFl4b0xKR0RScm1rY1ZNc1J4cEVKRkswSDFZUzZYVS1Kd2pvVUJUV1JaYzNzSzZ6alRwZU1CQVNuemZDaFozSWt1RzlWcUNKR0ZoMXYxRmJfT0tRdkhrVTd2ZGVHYVk5bl9wNnM3dTZrVkVoZDFaZVVhaWc?oc=5",
@@ -511,6 +581,22 @@
 "sentiment": "negative"
 },
 {
+"id": "ffc07f302f66d524",
+"title": "Wipro and CrowdStrike Launch CISO Command Centre for AI-Driven Cyber Risk Management",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUo3RXNlVW82aDhjcmc2MFVpOGNOejZPX19faGd2WW4wbFJKeDk5b1FlaU40YkJPVXcwbEUwNWJBVHpKUTZqQjJvR0psUzcxaTI5cnRwcU1nWElNMmpKQ1o2MHJQc1VYYXZPSkk1U29aUGR0SE1vWjNTcG9ZY0F3VU1uOFRTb0JvSFVGUGtIdFJYY09zZ01WUm9VME1PRDlORjdoZ0ljY3ZQeUwyTUZpZkEzN0tLSEQwczVz?oc=5",
+"source": "konsulteer.com",
+"published": "2026-09-25T11:41:09+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "357524c6dc5bd5ac",
 "title": "Max Healthcare expands African footprint with launch of fourth office",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTFnU0RjRk1hRnFtdGlrdC1DaDYtX0xFZ0ZseE54elNqT0ZsblBTaHBxNEE5LUZDYkdMcFd2WE1lazRwZzNrOTJ3R0ZSTGRhdlZ0QVp4OEFFRDc2cHJyQjUwUTdGZ3o1LVFlaHNZbDBPZHdsbXU0UmxYeWFFVkNkc3lyTU5CeHUwcWdBWkIwcjd0d3hhaUdLTGJGT1B2VjllTjdNY09rYngwUG5xLU9mdlJMZkxjYlNPNERoa1dWWQ?oc=5",
@@ -554,6 +640,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dd72bf299fa224d5",
+"title": "RRB NTPC UG CBT 2 Answer Key 2026 OUT: Check Response Sheet, Objection Deadline and Steps",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tZzJ2WWpqM2pwdi01cVZjR285UUwwcEpCbHZFZVZGZkxxQjAzeDVoX3docUIyeFFKVmRoMmhwM1YzSU5HUUJtVjM3aDE0S3g3cENUUHdaNHJxRXVsTzRZOGJLX1pIV2lqc0JXNDBVUXZsb3Z4endUVDdIYmJFZw?oc=5",
+"source": "PW",
+"published": "2026-09-25T11:24:28+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -653,6 +755,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "ab5759aae53e9629",
+"title": "BMW hit 'number of cars' on Stoke-on-Trent street as teen arrested",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHNiNk9sVWxUQnhxbU4yRW5YT25ES25LSm9DQm10WGV1QkdWZGliTGE4dXZUUmp4XzdPb1ZBZEpIaE1UanlKaU1PSlRGci1ONFlWZUFxTUJjdUVNbG1vVU1LNUhRZ196SkhNY09EUkpJSmE2ZXN2Mzg0dllhb2FfQmF4TlZEMXlMY0tvNWJQTVpCZmFJcTQ1cEpRZ9IBmwFBVV95cUxPbHNiNk9sVWxUQnhxbU4yRW5YT25ES25LSm9DQm10WGV1QkdWZGliTGE4dXZUUmp4XzdPb1ZBZEpIaE1UanlKaU1PSlRGci1ONFlWZUFxTUJjdUVNbG1vVU1LNUhRZ196SkhNY09EUkpJSmE2ZXN2Mzg0dllhb2FfQmF4TlZEMXlMY0tvNWJQTVpCZmFJcTQ1cEpRZw?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-25T11:05:00+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "947064cdcd195e3b",
@@ -881,6 +999,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "caca35a3d3fbfb5e",
+"title": "Hindustan Unilever rallies Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2VXU2F3ODVoeDIwMVVqTkdpNlRoalRFaFR3SERFbVZWWE5jS0ZOaHRUTGRhLTRuRHY1d1hyckc2bXVTTWIya0MwX3ZyenhWTzR4OEtjU1U0dTVBMzJPVUJDR180QnNPSmhuZlVLY0lQNEZZTkhmb2YxQ1hOZkhwb2RVdVRJay1tYi1SU0NUc2xkbWo5YXowSlZ1QUx1ZDNoR0dSS2tQalZHRUVKc2t6MGtSRUpqeHZzNzVkVzZ2Q1U1b3RlaWVubmRpYw?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "040485cb6a9a9c9a",
@@ -1675,6 +1809,24 @@
 "groups": [
 "Consumer",
 "Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "a3198a1abd763a11",
+"title": "[Sensex Today] Share Market Highlights: Sensex ends 315 points higher, Nifty settles at 23140 amid rising crude oil prices; Axis Bank, Asian Paints among top gainers",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamxXRlJjcVN6bUpDZU9PRGRjRl9QN2Z2V1RabzV2QkNyaGdmM3FRWjE2Mk5lVU12TEl4eFgxTGhvMTRud2hnNmJhYkpsN0w0MkoybDNPTDYyMFYybEVseE50UW5ybTVpX0dsRzN2dEdEUEgyYUE5d1ZZd205azdTUEhuUzUxQTBlSE5hRWdNVHNPLXlwdU9aeXhPUFlsV1JDcC1URmRpUUxsbEE4bm9Dc2xCLWZmb0cxUnU3MG16U1pYVW4wcmhhdXFmMlFfX2hVZjlDSWpybE4xc3ZpRW1XZXFuZkxUTXZxVmVwaDRMMEZyVmQ0RVhKa2ZXSjVFNWtCd2ZXTWYzd1NxSGPSAY8CQVVfeXFMTkNpaTZINkVQNk9YNUlXV1FabzlzeEhKUkg5TEhTVnFLdDU2d3pOUnVjTlpwczl5cmhsNkZQMjFaSlFTbkVsSmtOamcwcnFPeEVJa0RkVlpCTWgxTlE1VnN1bFJTYjVEWEJsOGNfdlhuNk4zc0d5UG5YTWd2QUVzYThwcG9neURhdGxTNGxWaWN4SVFBUjNqVWlLNElaMzl2aUEyUXhqRlpmUGJKS096ZHppWUwzbVRQejZuNlZLaTJDUW5tbFpJdWRYS0pMT3hMb0FBQ3JfcEVTNVNjTkFkUDFRM0xoWmp6LU9IdzFleWsyNnV4N3BNUmtIdTROSUQ2ZWRwSi14Ykpob3IwMVl2dw?oc=5",
+"source": "News24Online",
+"published": "2026-09-25T08:56:56+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK"
+],
+"groups": [
+"Banks",
+"Consumer"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -3579,6 +3731,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "f61a2dcce1a4a5a1",
+"title": "Larsen & Toubro Discloses Independent ESG Rating as a ‘Performer’",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVVWSHJSVzdlWVZwTERwbElWSlM3R2xVaHQzSHFubUo2UnVFQ3VWNFd4czRsVndfeWhETzRRalBWelVNb3lDd0kxR0EySkI3dlZ5a3dlWXdiS1E4VmJ0TVhMcmRVZWREMUwtbk1UOC11QVhhQ1JrWmN4aHlib1JEUjlPaXpVR3kwYXllWnctcXZjVDNoVU1xWnRXLTFvSERjN3NLU3VrQ09jUlRBd3RVWldpVQ?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T04:35:35+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "67cab88bfcc6f108",
 "title": "Nifty IT slips over 1%; Infosys, TCS, Wipro lead losses",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGh6SHhRb3JIbThHZ183eVpOazYxdFVXYnl3YTkxbVFYa0E5aUpodXNzazRna2ItNDBhTXB4M04xZ2djYkN5ZFdnb1hfZGI2R0sxUndVSjJCektJYWlmZk5yTXVLR3pJRzBmWWtteW5Ld19zTlJtdVpsbVdyU3VNbFlHSlJJcGdLWHV3TkhrSnRpUTdQTmVoWHlEN1JQUzVkeEoySVo3VDRMTjQ0a1FSNU5zQVE4R2ZITW5XWldDaDA1MENRcVRmRVRxONIB0AFBVV95cUxQMGRBZXF6anJXZ1dTdy1DdTdZa0MxRTBfYzBTN2k2T0tncGlWSG9qWWozUTdMNm1hSDdmX3pJR0MyQkpUcDBTaXQ5R2JrYjRpaUNiUjhoS2FUWERWblFHcXdJSHdXTzVCWk9qZVpISlVQdzctRndWTkxZUHVHMTlCTzc4MF96ZERsbWk5N2hETGh3YjRBanFlQ1FiRU9lcGRXMjlOQXZFN0RnektVMjFaa3lvWFdqSDkzOUFOUkdrc2gxM3NldTlaTlYyMk5kOXJX?oc=5",
@@ -4810,6 +4980,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e00a4f957bca7084",
+"title": "Sun Pharmaceutical Industries Share Price Live Updates: Closure of Trading Window",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:56:22+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3eb359f89bf52090",
 "title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
@@ -5599,6 +5785,24 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "30e70939afacbc0d",
+"title": "Daily Brief Financials: National Stock Exchange, M-DAQ, RBL Bank, HDFC Bank (ADR), Spring Real Estate, Bajaj Finserv , Insurance Australia, Link REIT, Metlife Inc, Chubb and more",
+"link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxObTc5cDRaaU1XZ29uUWlsQm9RVzR6SmhfZWpEd3lQN1dCcjgwYmEzdURFSDUxc215TDE4QUJ0OXoteXM2aTRMcjdQdHRPYm80a2x1aGFHSlBDSFEyRjVEb3dCYW5POTBOcXpwQjZSYlB0UlAyLUx5cElROE1MMnZOR3F3dlNySExRSDRxeEc1OU9ZenlLR3pLRHNmUlRsVVUyeXA5dkpHekRKUjh5YU00anBheHVZX2R6R0t5cWpROFYxbkdiTEVRMkpqaU1LcUpiR1Zwc0FXZHptWXJ3TmlaUjV4aEFiMWpBX1JhSVRqRHRFTVdHOG1wX0RvaFVmUTRlTjdIZWZPeTByeFNWWnYyYTFUUm9GVVVWV3RPekc4dE5wd2xoUHVrMGZtcE8wV3E0MEZ6NDJn?oc=5",
+"source": "Smartkarma",
+"published": "2026-09-25T02:02:04+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"BAJAJFINSV",
+"HDFCBANK"
+],
+"groups": [
+"Bajaj",
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8123,6 +8327,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "7b9e4af880a523cc",
+"title": "'For India's next trillion dollars of growth, the East must rise': Adani eyes Bengal expansion",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzN3SXpMeE5QVVk4SUVEZkh5b1RvUTk4elVHU0pFZmJlNVlFMmtwU2k4MU5JV25oUE1oZzF3dkFBSm5wbEhVNHh2Z0hwbWZLaGVTT3dYRkhDcWo2T09Pdkt2ZzBMM253bDJlUHgxdkNnNGlrQUVMdWdaUll0dUNpLUFDclZFSGRYOEFzUk5SVXMzR1VIVjd6R1FUSFhMNi04SnplN1lIRjNXcFhRWlo0enR1RHozU3RVNElmM2h2Y21CUzNkbFA1bk9jRGtsNGRkX25tUU9GVTJLTVdwX2JqN3BCRTRaZ9IB6wFBVV95cUxOQ2hjUnpNNDhESmI0TVZHTlZOSGRvZWM0ZkVLUUFPNEROanVxYWxwOU9nNmdQcXZIdXRwZTFiNmxScm05ZjVVd2YwQm9jaXZXczVEVGpLUWprVXVZUTVpSnZCTU5VRk9NdjNPdGVDTEJGS1A1R3BMaVdrTTBTYnlSQ0xybGlsdndjUzhZWG92UWdfNTNrVEZBVkcySi00S1B5V1A5SktEX1lJVXFVNEpCYzlUYVktUFFIN3Y4bWc3RkRwR0xKTV9TNGRKeDJMSERVOV9sQnNYX1MwV1IyNXVaNmY3Tkg2TmhZNTY0?oc=5",
+"source": "Telegraph India",
+"published": "2026-09-24T13:32:23+00:00",
+"first_seen": "2026-09-25T12:50:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "612a3a11a8cb2094",
