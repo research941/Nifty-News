@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T09:54:07+00:00",
+"updated": "2026-09-25T10:04:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "eb2e8ea62edcf3bb",
+"title": "Apollo Hospitals Appoints Abhishek Jain as Senior General Manager",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS21KZHJRSUZra0lVODE4VGl5YkJqb2Noc2RDQ3hZclUyT0twS25GVXktRWRtcTlfZVFpc0d0MTZKMTNVa25hT0NaWG5idHhXYXJJZmN1S25pOEZsamlsZkdQMkVXb0dxdV9CNHVyY0hLMmVPWl9wSGJWdXVHZ2N1dWUzdlJqVERUdS1SNVNFSGxOYmxKTDlDRVpxam1SVWVGZHgwNHNhbUNJUQ?oc=5",
+"source": "eHealth Magazine",
+"published": "2026-09-25T09:56:12+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "39b478a194bf769c",
 "title": "State Bank of India offers free online courses on AI, Marketing, Personal Branding, Finance and more | Hindustan Times",
 "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRWlZXzlqZVpNNnQxWkxwY1lTTEZUSXBZZ0tMOGtGVGhVazNnWDc3TDZ2OExQMW1zZEhBb1oxYnk4YTBna1ZEOWJ6NmREOFFOY0Fad2dhNWFlTnVwMEs4dU1STmhHSUpQVzNJeU4wSGdDaDc2cjh0bTkybnFEN3ZaUmUwOHJhRFZMUTZxUUhMRFAwMW0tSXNjRmFndXRRVmg1MU1iZEFKMFRZVHM0a2FVSVRoanlUcUdLR29ncWFFREgzNzM4aVNDWGk0VXBwZ1JEeWdXS185UkswOEFXZC1sYzlaUkltNmU3aUg1SFVJRlHSAfYBQVVfeXFMTWlHY0lSUXRkbDN2S081YjZkU2dUVDIxYVBnQXdad0xUVk43YUliTGtmSU51ODFOWVF2RDBVYTJCaEtEMEF0S3cwX19hMXVkNlNUWV9iMU4xLW9uQUZLMHZHMFJsTTZMZ3ZMOXRaMGxPTnBXeVNoNGVsTDgxcHk1enRuUzhSTGlZUG1YXzBpeDdiVWFaUjZqbzlITm5aS2Joa1BITkZYQjZLMm4zMGFERlBIai1GSklxS3JwWHZSYXgtOFdsSk5xWjl5RXdacmpPVUdYZW9mMm1rLWk3UVlodThzN1k5SVNxSUNxSjQ4OTcyRlFxMXZn?oc=5",
@@ -611,6 +629,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "439d9ec904ca4332",
+"title": "Paramedics assess two men after crash shut Stoke-on-Trent road",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWpfV005SVNfYWpPbUdaZ29rYW9KUGtyS2M4UWIwOXU5Tm1HX3pFNmdTM01Ob05ZMTdmZnpZN25RRnAxSkJZUi1Rdm9DZUZZZjhkVDZWdDA4ZEJtMEZGZTNPUVZ5bDd6UVdDRV9JbS1jVEFQVkM0UWZNOEVjcFJZbHA1ak1aZ2YyODA2c3pDdHJ3MkRGMVZ3dHVSY0F2UdIBowFBVV95cUxQQ3lYSkpJYnNzTW52dGR1UlUxUUVOUGVISldJTkxkRnN1M1o2ampTeDBrTHhJTUJEQmNXci04LU1WV1BXbm9pQU5hLTNJWWI4UElNYzVhNjdmR2ZPQWs3LUxyR282MWZTWi0tUXF4ZG82QTZfbktQTXpKZHBhOXYwSEN1ZUFRMWRVaG1Gd2p4R2dkdXhpR1BhcnVYWWVEMGYweXB3?oc=5",
+"source": "stokesentinel.co.uk",
+"published": "2026-09-25T09:13:00+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "c9017539e4b1b9fe",
@@ -952,6 +986,38 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a46b2294c1d88928",
+"title": "SBI Cards Share Price Fall: Price, Valuation, Peer View",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRi1WYk8wYllBWkFGYV8wZG44U1V0SDZycHZSV2RWZ1YzMWhValBxOEQ3Q1Ytdkk3WXFQOVR2MUlsUGhNaUZQVWdfeVdzc3B5VGhRck1GWVNJUmZpaUhQQWloM3JneHRFbHA2Mzl5VG95ZnpYcmpfWDlwZ2NXRFI4Nl9pQllPam5vWG5jUUNnLUhtWk9RYTN5dg?oc=5",
+"source": "Univest",
+"published": "2026-09-25T08:19:16+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "32d7f2897a12dac1",
+"title": "Tata Consumer Products Share Price at fresh 52-week low",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTI0bWdGMXEzOFY1NjZjSXBPT3FNckJfZDJ4TXNqa1haWHkyYjVHVUpsTjFiWlN1bzRfbkZNNFZ4QXBXcVpUQXoxZkc2RmxwNTFpQTJKNzFXZ3lmbUg3S3NfclFYeTY5S2YxV1JHeWdNYi1aeHdwamVlXzhsYnQ5VlZOSnhybWFpSE9TalRDY2ZWcS0w?oc=5",
+"source": "Univest",
+"published": "2026-09-25T08:18:00+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "cbf5ec7cf4e04b04",
@@ -1844,6 +1910,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "941c2f0bc036a4fa",
+"title": "Adani Power target: Strong earnings despite elevated capex! PL Capital says valuation to sustain",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSVB3VjhubVZBNDNtODVqZUpOZVVqdUVoaTExQVBYeFRFNzI3c092cVlQNWZtWTUyQXBXUFZVWDB1azB4Ym1TY2VjWElaVXljdExqSWRNSGExVTlvNjJ6bElNTjlGVGFJVW1oV1lCZWYyblFGR2Y2MnhZNzRhX084djNtYXlxOTRTWFEyUFZPTjRLamJhUDJRWHh2ejBFcXFmdVlRcDB6YnhrVy1namZIQmdZSFVERGtoWXl1eFMwTWpGa3lZdUJkOUVJTV9tUU1TNFM4NGJnU2EzenZYemJ6MndPd1JManpodE14NXdSZWktVFJK0gH6AUFVX3lxTFBlbFhjMTl6TzExNllRTGg2RmZqRmZOWm1sZDRZQi16emNDaXRoazBBRXJnR2hZcmlaaWxQNVhuYTZpNFRSMkpNMk4tMGdCeFNSVDdYZEYtN3ZkMzNuQlFOQ2ZuN05LcUhXQzYtRTQ4bWdRSFFHcHhCTC1qeUdkNmlZQzJJaTNyM050ZVIwT0xKa1U0eXgyWU8tY0ZRNm5LZXhrQUFuZjRHQVN6MlE2NW9ZTmZFdTB5Z1JNSU1rTUlTT0JSOGRhdFZDOHRjcjRPVTJxaENYSDV5SFNTRV9GNlMzZ0dFeHRZbzdzdFRXYXdBSWx3ekxvS2N2TUE?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T06:02:26+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "0d18c59a3cdbfbe4",
 "title": "Check Credit Score and Understand Credit Health with the Bajaj Finance Credit Pulse Report",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1BLMTVGOW9aUHhJX3o4alpYbDF0dkhDNjFPcHZ2Z283NTZoS084SFZMWUhUU18xUjZXMnhlYno5eXAySEN0LVpfamZfdXpmSHZqejAxZl84aFNRRlhMSy1CekplSlp5QU1XMGwyUDc1UWlBbGVsSnpmMTFlOGFqMWlnbGhsWE9aVlk2X2NpLTlvQXhaZlBpd3ZZaHRDdlFBTWE2NElma3BnOEQ3eVJ0ZFl0b0NSMzNlWTNHM3EwVThSZ3hicGw1QTdXQmtwRmZRSGhlT3RDZ2o?oc=5",
@@ -2455,6 +2539,22 @@
 "sentiment": "positive"
 },
 {
+"id": "b59ac96fb7e1c266",
+"title": "ITC, UNCDF partner to boost access to finance for MSMEs",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFEyZWUybkI4NkNUZEV2cDhDVlQ2QWRKRUh1Rlo4NFZFQTZYZTZhRGc5Q1NzbHZCVURiczB4OUVNZkxKWlVvRU1FSkJyQk5rYlNERGl2Vjc0Q1JnTkhuZ3dUYktlZDFab19mWlRVa3gyYVRiNzBzZmJDVmtyc094V21KV3dnOWs?oc=5",
+"source": "The Guardian Nigeria News",
+"published": "2026-09-25T04:29:00+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fb58e9fb8da87f76",
 "title": "Bharti Airtel stock heads into the open after a 1.77 percent drop",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEZfdWs3MENKek1MS2gtc1djV2xqeElJT3NtY2RaRXdQeDRZaEVtdTltNkstLWtJYV8yR0t3aWgzVGxuYVhqYmNMcURoTDNCMWVHZGxPV3llQjJmdHg4U1RwZXFGdGswaFE5OW9fTUpfN2xDTnIxM3VOSm1xZGh4aFFTSGZlMU10V1lLUjF6ak9rWTlnRjJvOHMtRlZvM3pJWjRDM1N3S0YycXl0eDJHV1dCUlhLV0ZzR21jVjJuVlg?oc=5",
@@ -2963,6 +3063,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T03:20:24+00:00",
 "first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "56b18929e6da6c82",
+"title": "M&M Share Price Live Updates: M&M's Daily and Weekly Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-25-sep-2026/liveblog/134474231.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:20:24+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
 "symbols": [
 "M&M"
 ],
@@ -6615,6 +6731,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5dd2e32272126914",
+"title": "DIGIPUB Calls Ravi Nair’s Continued Imprisonment ‘Deeply Disturbing’ Amid Adani Defamation Case",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdllUdmVRUVZrMlZUY2tZNFFzUUhYMWlmR3hSS21ycUNTazdGZDFYa2Myb2xibERWOXZjcmRGWFBhTXBfMERJV3huWnEzNVNUdG5RVGFWdUYyV3N4bzMwVV9nZVJsRXkzVUVZMlN2RkJoaGl3dEdzV3liYUpWQmEtN3lWTnEtOWlKeVBXaHZMd1NJYkRyNXZUS0V6WDFETlE1b1Rmc1lrRnROVGt6WjBvUmQxdi0wU2NKMWtmWlJUUW1DQmdoZm5qcUFiSdIB0wFBVV95cUxQMDgxTTZQZmx2VURRelQ3ZlV3VE9hN3Jkd29KY3ZMZzFZWkVnVWVYOGJaVkxuZG55U09GNGtMMmFWSUh4LUtyTk1pajhwT052ak9LVTNEblhYczJXWGlzLU9pRTNqYnZlLWNCZHE5cnZ3S3pTVXhtY0hfUjZYZEtKMFhvWEhlaXRZZUNkSWZNU2RHbER3aFltZGVwdW56X08tai1tYm9XbmFVTUxQLVhCUFYxSUtkYWk4c1Fqb3MtYUlPWFRDenREZHh6RWVvcHR6WmVN?oc=5",
+"source": "The Chenab Times",
+"published": "2026-09-24T13:37:51+00:00",
+"first_seen": "2026-09-25T10:04:56+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
