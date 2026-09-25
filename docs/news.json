@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T23:16:25+00:00",
+"updated": "2026-09-25T23:28:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "6215485b737dcd71",
+"title": "HDC Deadline: HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdVdBNDJTUHJLT09vdEhQRHRXLV9pWm5KT2hGT1BBcHIwZGdpYnk2WWpEWnRVdl9mZ1BOMTRDeDhfVWxqSm9tYUEzaE9zNXVHLVRQdGg3QUx1dWFtSWRtRUFIUXR4Sy05SjNxdlUtWkdaWk8zbnNKMVkwUDE3ZTQ1alZvWE5XV0J1NEdKcmtwM3E5dFNnalF4TktBOUtqNkZjVy1QeUNmMmpXeGcxX1dfem1vVUtLcGNYY0VkTWJERHFLTlpEd0Y2R1JMVEt0bXZsc3Ryc0dZWFNLMjM4MmZzOU5nZkU?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-25T23:07:00+00:00",
+"first_seen": "2026-09-25T23:28:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
 {
 "id": "ac42695ab53d4975",
 "title": "Crypto News Today: Bitcoin Defies the Fed, Chainlink Lands Infosys as Pepeto Revives a 150x Pepe Dream",
