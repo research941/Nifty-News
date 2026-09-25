@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T03:59:12+00:00",
+"updated": "2026-09-25T04:15:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,134 @@
 ],
 "items": [
 {
+"id": "eef79f99b5b04f62",
+"title": "Trent Share Price Today (TRENT) | NSE/BSE Live",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma1Y1Vk81cHhIYmtxMHRwUlBBczZJSmkwUHhoVzJOdGdscTE5T1BmNG9Qa1E5ak9ONXQ3T0pTRFVoS0gySGNsM0xES1FBMXltX3VQLUpzaTl1VGlTTkE?oc=5",
+"source": "TechGraph",
+"published": "2026-09-25T04:02:30+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "957f78427ec3d9b2",
+"title": "SENSEX, NIFTY50 edge higher; ICICI Bank, L&T gain, Infosys, TCS fall",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3pLSXpZQjZWeTEwWThGODE3LWljT0pNYXpJY2Q5LTVCbjdfaC1WQ0ZvXzNwd2JBeklUUzl2eU4yLXdxTjRGUU5yNWJJU0RhanRBOE1WaVlwLWI0Zk5uX3d5QzcxT2o3aURaOVc3NUZKbzRvci1seWFDY2RtT3dZWnQySUZYYVF4aGJ2WXN6S21zODB2eEMtbUU5dFhXMzEzX1ZkclExOFVSeUROZ0ZxcDkyOHpKT2cyTHlNQ2ZOTFdmcnRl?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T04:01:38+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"ICICIBANK",
+"INFY",
+"LT",
+"TCS"
+],
+"groups": [
+"Banks",
+"IT",
+"Infra",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "102123d477cf4e1e",
+"title": "Adani Enterprises shares rise after ₹2,498 crore block deal; what investors should know",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV0t5QUtDdk03SmdDLWs1ck81YkFidWg5bkd4NzNET01hVnVqRGlXbGVsNTNiSVEzd2NRRS1SM0s1VmZNbU5Na2YyM294Q005VE5xVm1Tbl9KVW1EWWlMZXZkVi1ick9tbWhkdVlRWGtFU2F3MkhOZXFqMHo3QU5xeUNfbDNWM0tJN3I5YjdXYTZWQUhUeW5PMWdKSEQyWEt0cVVzVG9vbEZvdEY4dTduS1ZteHM4bGlDcTRCWXZZUk9yX2hPcWM5Nndydkx4d3F6ZFdXSjJKaVkta3pB?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T03:55:59+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
+"id": "b437eb39c39b21e5",
+"title": "Bank strike from September 28-30: 8 latest updates for SBI, ICICI, HDFC, PNB and other banks' customers",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV1RhRVlzUnU5dUktbDZxcXZwdFQ0amZ2Rmw1RjRZNGt5UlRTYnNBV21XZFpxZjRFQVpMNjRRNUdwOWpUbm5BT191RkpNeXNLb1hQNlk0OUxwUDJHcFhQYm5SZnlWNFZtQ0pLdlhWd3d3dnlkSXY2NzNDWGF3MHRCOXYzOGJaYUpRNk10dmloLTJJTm1BYTEzUFhGb2xwVENvOW1mNE1veVR5UEotOU9UU3BXWHRJdkJHdjNId0IwVDV6ZHFPMVoyQlozQjBTNUtleVZXOTc2T1k4b0V1Rk5RY256aHhRLW1TdTdpUi0tT3BBNl8xOGhnbEM4X2xQdw?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T03:55:27+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "131bb41e1c653c75",
+"title": "Analysts recommend HDFC Bank, Arvind; see downside in Kotak Mahindra Bank, Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMjEyejExNlNTNFZudVJjekZ4QjB0YzNzbjFIS3IzTWlENWpiWWg4WnlXbFdGRnRndDFRYkxDX0EwcloxTS11R1NNOHlFVG9zak45eTBKeXYwUUktMkNITzUyWk42SHd5MEUwWnJVaC1kYkxsVTRobHVPanktTDRfVjFELTk0eU1GZWU3cnpzaTBQM0hrb084NVVDSzhEVFlHakROYUJpMnBBZVdWb29HOExjbU5YbG5BenZpeU9PMjZyM0xoVlRYYXNfdEhKanZtSDVvbUYtd1lFUzJpWExlTTJXdDN3dE9XV0FEUGpBUXZ6V1dxbkFUbVI1c9IBgAJBVV95cUxQeVRGLTdSZVdVTldGX25QZ3MyYXZPNnhYUnh2VDlzVkZiZzZaTXMtYnY4bklsaHpKTWV3TThEd3dXb3ZwY2FIVkhYOHdCWkx0aUowX0VkMUcwenRWOXllWVFualVPbTNqYXZ4RTJKMEkxZEZ3eERkVEdoZlpNNFdPYUxzcHZFSll2N2FGY2lJSVBucFdUbnFJd3pxNk55YWkwUWNiTEFQN2p5ZGp5UHFOZnp5dzZxNkFwY2Z0NXc1QnN6aTZ5RjRLTzE0V29td184VmpIaFlYMVpaM2JGN2o5NWZZVlNjaTBpR1FqVm9GQ0l2MGZUX1VROTg2OHotU01t?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T03:55:23+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"BAJFINANCE",
+"HDFCBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Bajaj",
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "76b259115155bf90",
+"title": "RRB NTPC Undergraduate CBT 2 Answer Key 2026 Out: Download PDF",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVThwdmZwTXlBTlZQcVVrdjdDU1kzaG0yVFRrTTcyT3I5eUF2anNRWnY3OTBYUXdiRzR0anhRUnVGOUtBQ0VYMGdZb1FtaTZ3TWxjZlByek11YmlBSkZsbUNVd1ZlZ2dadXBES2pETmJMRE5vZ3QwdFB0eDRBZEIzb2xkTlFqTXBkckFxLUdoWl9iZjF4SkFqNjF1OUYyUndWN1F4ZTJuWnc?oc=5",
+"source": "Careers360",
+"published": "2026-09-25T03:53:00+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c7b49b98aedcb795",
+"title": "Adani Enterprises block deal: Rs 2,498 crore shares changed hands; stock gains",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRkE4LUs1bXZwRXFRUWhYeFFtbUFzUE1MRGVJeHZaS24ya0xEblkwRGR1R2RGWVBYRy1jWHI0ZjhMbU1NY3FwMFB6VkNydzQ1RzYzYTVWYUFHMi0zT3B3ajRVSUs5UDhLUkUyTTlDN1R3dzZXMVFsM3JKb2p6WTdTdmpTZEhncEY2Qi1fakI4SWtDVExVWVNGY2lXRWxIUmwtMWRPSE5PakRWQzFtcFhxMGJieXI2S0dkQW1Tc0U0ZGtaZW15R182eGZ5cVFvb1NCbElkWV9JZGR1WXfSAeABQVVfeXFMTUpDamhZRmtBV29hbGFHLUlCT1dRc1VBWkJVNzV5akY1VC1Ea1BJOUxkTVV3Mk56NEZERWV4d0pMTzJWMnVtMEQ1VUU2VnIzYjFNbElqcXhXQktMVGc2ZFlDb2VDS0VSaTNVRzRlS0wyOWYtN2pVd3FLYWdjMEtNN3RWVE1TZm1mRnJJYXlTVWRlbkw5WjBwMXpXUUZhTmZuY1k4bzBfd0RUaE5aUmF5eUNQQ1pMS2J2ejNFU1hJUlpQMjNibEtrTER6UzdONWVZdEdlQzhaTDAxZTZFMXRKQnI?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T03:50:58+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
 "id": "2d31441e63c00083",
 "title": "Bank Holiday Today For Ganesh Visarjan: Are SBI, HDFC, ICICI, Other Banks Shut On September 25? City-Wise List",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGttTVRLSVBfSi1HSnJPUVhVYmVQc3ZETkR4ZktMOW0wQVlWekZrd1dSMkdqOXVubVFiT0RjOXVIZHhZNlExMVFyTU95QWVocFRsZmk5UDFpZ1Vrbkh5MG1VdWY5N1ZGU3dUaUtmVFNTRDdTTnI5dGRNSkZoanRQMWVYNXlrdGg1eHdLdlhuMEJZX0liWWp0NERxM0NVMlZldlJRRW12XzlHWS1xc1VyckFHd3JrUlhTdGxSNnpXSzk1VzZrWlk5NkxvRkFqSG5DaldoVWJDeEkxTkE2?oc=5",
@@ -590,6 +718,70 @@
 "sentiment": "neutral"
 },
 {
+"id": "0bd8f10e4a4488fa",
+"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's closing price analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:51:48+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "926a4d8c3950a940",
+"title": "Tata Consumer Share Price Live Updates: Tata Consumer's stock struggles with negative returns",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-updates-25-sep-2026/liveblog/134473690.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:50:22+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "deccaeae6e642787",
+"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Stock Shows Signs of Weakness",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-25-sep-2026/liveblog/134473658.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:48:38+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3980cc19fc8b4126",
+"title": "Cipla Share Price Live Updates: Cipla Moves Above 100-Day SMA with Positive Momentum",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-25-sep-2026/liveblog/134473645.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:47:49+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "98676fc79e9e784c",
 "title": "IRDAI’s new proposal: Insurance stocks in trouble; HDFC Life and ICICI Pru Life tumble",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0hyaTRUVHJoOC1XVGcxUVF1VWNfZlpTVGgyMFhPNldZVUNMVkdaM0lISWQtamRoaEg1WFBPS0FKZEtaTEhBR1RiTW5KdmhFbDVwajZQalVFd0ZmZ2h6VjNtSzZsMThsUmg1bEIyV2lPVzF4M3l3UW5aUlVhMElRb3ZHeGg1MTdSRDBUNkt3Ym12ZU1kYTJVMDZHM04tbzBlVlNMTHl3Qm83cDIzV0V3TE1QOFotdlhQaFBjUHZ5bVRNOXNjRUdDNkZ3dzZjRGPSAdQBQVVfeXFMT2RmMFl6N25UWDFZN3JUaXFJUzNzbl9fWkVHQTVla24xd1FldkJla0ZGM3A3Uk90SHFkZkY1eGZqbDBkSVZQczhpV3RPczFVbUNKclNhTHlObjBrUWw1blpMdHpVRkU3aHRoWmN0X1NEbVhDSW8tTzhHNWc5ak1BM19LNHY1WDNMMTVIb2dLSkV6cGpKS0pLVHJBUFE2SUtqaDFmN19DcVZEYUJJOUo0T281TjFKQVJDQmRlTWhMcVV2WlA3QTlBT1FvVWdlQ3R6SFl5ZG4?oc=5",
@@ -652,6 +844,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "ba3b5d338efa6bb6",
+"title": "RIL Share Price Live Updates: RIL's stock faces a downturn with three-month returns at -7.19%",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473548.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:40:04+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "e8f95856506c0e91",
@@ -756,6 +964,24 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:08:45+00:00",
 "first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"SBIN",
+"TRENT"
+],
+"groups": [
+"SBI",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "21bee997a68cc20d",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rises over 200 pts, Nifty above 23,100; Trent, SBI top gainers",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:08:45+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
 "symbols": [
 "SBIN",
 "TRENT"
@@ -1387,6 +1613,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2d30ca9181b8e5b3",
+"title": "National Stock Exchange Of India Ltd Share Price Today | BSE Stock Price",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxvOWpOV2lXREE1VThYdUJEdnhYb2pwNDQyYXllUzhHYWJocEFQMmJCWDk2a2MtanJ0OC1CQ3I4cVoxWHVFa0EzZFpFeEZiUXI3R1BiaUtkTVlWTmRRNWlHa2NjNWdodjdMRVBvT0J6dzNJXzFHRHJxa2VWcGY0WVZad0VNS00?oc=5",
+"source": "Dalal Street Investment Journal",
+"published": "2026-09-24T19:34:52+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4553,6 +4795,22 @@
 "sentiment": "negative"
 },
 {
+"id": "fed84ce244686dd6",
+"title": "Mahindra & Mahindra slides Thursday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFMzcjc3ZVlLUFlESlZtV3BpVl8tczRYbDN6a0pzTzRTSHFhTkxTWTdKdkhzRVo4Mm9IRmp3Skxxd0xISlhEVW1xZ0JWR205S0VSZm92WjFyQ3VHSWdpRm9HbzdIYTZiOTlIdU5Pd0d4NGhFRjI5SnhyU1k2MkFHOXhtZnhOVGxhSnZDX0ZlMGltOWtSTllyZG1tZExkMHhISzkyeWg3TWlRdzVkX3hWejM4MWtESk1OQlF0RmdlaXd4R3lrUk5F?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:32:00+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "4371c09b3f3820e8",
 "title": "Kotak Mahindra Bank falls Thursday, underperforms market",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEt1ajRBNXpkQk9QQmFGWG5BbUtyMm5tdnZYVVBWYU1TSEhxamp2Vk1nVXdKRmRBOTBPdlFTMDJEcmFvMnlqODVqa0VwaGVDUVFjeEJWQmtnZlI2LWZvQUtWYzd3RWRWenp2QXdkbnpKVkstekxqUmNnaU9aMjJTZFpYa2IyWW45cHg5a0NVUGFaZTJTMUtrRV85SzhmVExzTFZvLVdYR0x4LW5sRXJJSFE3OFozZVczcDNrV1F1cUNvSjh0OFd5Ng?oc=5",
@@ -7078,6 +7336,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4a65adcce2eb6e0c",
+"title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bURGcnlweERKTnRINldLZmR6b09TWm9SMDUzTkdvUlh3VDVoVGEtdkdFb1JYc2NtWEc1aExJUXJWZmZNc3NCVVhDNHJBNUxLdmVsMTJwZ1NLZWtZR3ZSd0Nhd2h6ZEk2UnJnMXFn?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T07:13:13+00:00",
+"first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
