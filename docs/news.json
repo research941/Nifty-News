@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T21:30:50+00:00",
+"updated": "2026-09-25T21:44:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2248,6 +2248,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d2a59ecefb47addd",
+"title": "PM’s Advisor Tarun Kapoor reviews Coal India’s production, supply performance",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXRIY28zQ3hhd2h2dzhWMFRLTW5vWVIzRUN1YXJ3cnozb0E2UjVzblM1aTBwVWpIenAzemZ4LUxpQmRjR1JwdUl6cVJzWUJKZFdSQXhkcFJoMnVlMUFlbVR0VEJEOENhUkR1bEhQRXJLZUFUNkpzS2RkZy1tdElyN2lBUTY5MWJnUDlOZEdXSnd0NUs0QTVEdUtsMEQ0QUFKU3RrWFFQV3h4eWvSAbgBQVVfeXFMTTJicGkzbVh4eXpLazhKaXRsYkEwSE5FcG9oR052cjJyOXNLemg5QXlhZjBMYmlSczRlVWQwV0JCb0xCcnExVTczbjVYR0p4QjNFamtRTFV2c2M4TEQ2aXZZMDVUNmZ1UXZvUGxibWFlZjdwdmJzYlprcFhOdjd6WkQ2NWs3eEpVSHIyRFN5d29mQVVLaEZPYnFKSkItcjVfOUkydTdTdkVfb1B3N0M0NUx0Yi1IOWRrMQ?oc=5",
+"source": "PSU Watch",
+"published": "2026-09-25T13:22:20+00:00",
+"first_seen": "2026-09-25T21:44:55+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
