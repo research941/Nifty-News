@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T10:21:51+00:00",
+"updated": "2026-09-25T10:35:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "f4287adf6c1115f2",
+"title": "Tata Motors Launches Aeris Compact Sedan At ₹5.29 Lakh, Targets Personal Car Buyers",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ3VKaGZiZ2V0NlJDaUk1THByVTI4dFRxRXFaSmNmMFV5SjNBU1d3YW1JOFNyT21ONTRnWUJybHNRRE9ZbWdIVEdUZUlLQzNfckNpVk5MdXduQm5TdmJFYUdkX3FkZjYyeG5xNXRQX3lVSU5KODJRUlpfRVMwNURWRXdQY0ZQM09xTW1qdVRXak5BUmY0RGV3OTRtMUVyc0pKeTBUWVlDMVM5MVQtNk9UOENKcTFJLUlpaGhCVHdB0gHDAUFVX3lxTFBMYUE3b2lkTU9PR3pzTDNCSGFXME1jdjdfM3AwdW5qZ3UwU2g2SFI0eXQzZU1fTEdFM3gzbXRpWUtWZnNuRl8zeEgzMjdUZ3RQaDYxT2JuWE5ZdHktejZ3aDh4a2dGTlJMcnpLSE8tZjhWSmw2ZVV5ZTRuWGNhbGhkNHNzamRQOXJGN1QwOFVLdmxvZ3dNQVdaOTMzVEhGVHZHX1R5VU91X0NpR0lLQmNsZGxtSFhkdjdULVFERmFEV3dpaw?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-25T10:21:41+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c58b8f01117713d8",
+"title": "SENSEX surges 315 points, NIFTY50 ends above 23,100 led by HDFC Bank, Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSExZWjVHTzZGYlZTR2VwSWlhTTZsYTFMbTlWV0V1SHZBZ2JSNy1UZGF0elYzSVFHNUhVdzJQZmxjRmFBQkNCRjZUb0huQWx4bUhMM0dzbEtDbUZlZ1o4dVRzSVR5LTdlbndTbXRQcjlDNDVMOVpDMnJKVW9uTmlEcmJSNUlvaVBaMGNuWW9ITmhJU0p5Z1ItOXdKSmNpTVZmYV9XZzlMUkJHcU9rejhaSXQzNDN3ZDQtNDA2eTdfbUFJNmRvd1lWQVgwbWZyT0VnQUx3?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T10:19:16+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"AXISBANK",
+"HDFCBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e9ff31392e42f79e",
 "title": "Nifty 50 top losers today, September 25: Max Healthcare, Tata Motors and Infosys lead declines",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPejRFNlI2LURyUThDd2Q4c2lma3VkWTdsalNTMVdHRTNLSVlzd3p4N3B1TXNWLUtpT2haT1VoQnhNeG4tbDRUVXhILWk0LTE2MnJuZkF4TXVzVnVyUVhZUEJtOXoxSEFHd3lPNUZ0MGFFNExOSlZZQUZSMl85N2RETVZydnRXcDlUVDRzanRld3F2QmxtMkVyZ2pvMmR6MUhGdm9PMVlRdUplY2lPalJNQmhCbTRaX1E0dkJNSzRnWTRkU3RRdURHZGx3RDZaSzgzTDJiSUpVYXBLOXN4?oc=5",
@@ -492,6 +526,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "300ef6e51009cccb",
+"title": "Tata Aeris Launched at Rs 5.29 Lakh: Maruti Dzire’s new rival",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFhYR3RqSkw5VTBYUTNqUHNENlZPNFVPUHNILUtEUzJXRFQ3T1UxUVN0dVlBQ1NkNUZrRnpMaG5kSmFVdUwtUmxRNWtvWjM5UGRncVF4cmgzUDVJR3pvQkNuRWJwcndWbXp5ZnVyak5rRjZFNHhLLWdXZGlNTVVoSWNBOGdjQmdENVZOb0tIVldSb2F6NU50NGl5ZVFyWFROM2hRckVCUGJHYnVVUlNjRzRPWEIyU0g3RlpfM1BzUVk4Q2VaVGhhV0stZ9IB0AFBVV95cUxOamZNb1RFRi1VVFhSNXpVNlpjVlZGVDhLWXpyLXZOcU0wSkhJZ3hFNmxNLU5RZEdlSWdvUzUzSXU5ZVM3M0piYzZzUjhUMHlqbDM0dU5scm1mZXl2c3dCNFYyTzVBTDlBc2pkM0c1UGstdXNaNHdYQk51SEQ1bEUzZFdPWTBhaFgwWEJFYW1SMWxfUUc1NHRHblVpQ0FKdEZpcXgyOUp1WUdMbWxBU2xyUUtaTVJJd0tubFpzQjNhblBKeWkwMXBfWDhaM0lLakVz?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T10:07:00+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -681,6 +731,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f47d19d36de17cf6",
+"title": "Bank Strike From September 28-30: What SBI, PNB, Bank Of India And Other Customers Should Know",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUo2UjRzTnF4VEZzUDJLNWppaWxEX0F1RHdLTHEtNXNKQjdCUDk2dm5MQnZQblhYYTE5NVA4Smc1Z21kR3VueloycTd4R3JvX2ZvU0paeWtXM2hDMTZocGNFRVdXX25oRko2MjVMRkd3TGZnT3FBQllQV0EwNUw4UnpTNTQ4enhiT3ZKdlVGdjdNdXV2bURoQXc5bGxENTB6WlN5ZWk1cEltaFBOdmR4RTl1X2xqODMxcW1HRl84S2tldkhEcFJDaXJZd21xZF9sUFdlaWpsZWJQM2drcU1YX9IB4AFBVV95cUxQYUo2UjRzTnF4VEZzUDJLNWppaWxEX0F1RHdLTHEtNXNKQjdCUDk2dm5MQnZQblhYYTE5NVA4Smc1Z21kR3VueloycTd4R3JvX2ZvU0paeWtXM2hDMTZocGNFRVdXX25oRko2MjVMRkd3TGZnT3FBQllQV0EwNUw4UnpTNTQ4enhiT3ZKdlVGdjdNdXV2bURoQXc5bGxENTB6WlN5ZWk1cEltaFBOdmR4RTl1X2xqODMxcW1HRl84S2tldkhEcFJDaXJZd21xZF9sUFdlaWpsZWJQM2drcU1YXw?oc=5",
+"source": "Outlook Money",
+"published": "2026-09-25T09:20:16+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "293707e7b8b3cb27",
 "title": "Tata Group tussle: TMPV is independent, following own strategy, says MD & CEO Shailesh Chandra",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOWYzMUR1MDN0akNnRVBYMWl2STBqMmRmOUZpSzVYVVVQZURheUFGcC1hU0FBWEJERGI4LTN1TDhpMzhIb3RUOVM4MW8xSzRnOEVfSWNFYkp1bzVNUWpCR0RLM0V0X2xqYVJXWFUwZmk3RzBUMzlvTEdhQmg5b3NzR3kxSlRVTHpkSVZzbGZwWmtxZTNfSzgtc01ZenZidUduYVgwTUJWR1g4WmNHV3hPLU4td3h2eXdoVDIxOUp2MHRlMlNyUk84TG1uOEpyeEhmOFlQXzRkSVpZQUVqcTNaV1pTNUpTQdIB6wFBVV95cUxOMU9zMEk1ZTM0R0ZrRE44LWxHclFwYS1jbUVqSzBudGNSTmN6NDBDdXFibDk3UjZYN1dzcTZvWmFvWWxURWg1ZjhwMVppM2dySVVIMXQtUWR4UUN2dHF3SnF1NWh4X1N5WTU1RHV3VWZsWUpMa3djWHZNUVBxQVBaVXFiTy1KdlAwSXY5X19MVGJOTWRrSUFHS1ZPa3pxckMtbVdBMm9zYm5VeFJlSjh1QXFOTmRmSmhMZTladjduVlUtUUN4MG1vXzRWQUJOTERpY3NaaDlHR1NMQ3BiV3RXa0dIbWtLcXRaQWFZ?oc=5",
@@ -830,6 +896,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d1e1d91d560d0cf4",
+"title": "[Sensex Today] Share Market LIVE Updates: Sensex surges 133 points, Nifty trading amid rise in the crude oil prices; Eternal, Trent top gainers",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamxXRlJjcVN6bUpDZU9PRGRjRl9QN2Z2V1RabzV2QkNyaGdmM3FRWjE2Mk5lVU12TEl4eFgxTGhvMTRud2hnNmJhYkpsN0w0MkoybDNPTDYyMFYybEVseE50UW5ybTVpX0dsRzN2dEdEUEgyYUE5d1ZZd205azdTUEhuUzUxQTBlSE5hRWdNVHNPLXlwdU9aeXhPUFlsV1JDcC1URmRpUUxsbEE4bm9Dc2xCLWZmb0cxUnU3MG16U1pYVW4wcmhhdXFmMlFfX2hVZjlDSWpybE4xc3ZpRW1XZXFuZkxUTXZxVmVwaDRMMEZyVmQ0RVhKa2ZXSjVFNWtCd2ZXTWYzd1NxSGPSAY8CQVVfeXFMTkNpaTZINkVQNk9YNUlXV1FabzlzeEhKUkg5TEhTVnFLdDU2d3pOUnVjTlpwczl5cmhsNkZQMjFaSlFTbkVsSmtOamcwcnFPeEVJa0RkVlpCTWgxTlE1VnN1bFJTYjVEWEJsOGNfdlhuNk4zc0d5UG5YTWd2QUVzYThwcG9neURhdGxTNGxWaWN4SVFBUjNqVWlLNElaMzl2aUEyUXhqRlpmUGJKS096ZHppWUwzbVRQejZuNlZLaTJDUW5tbFpJdWRYS0pMT3hMb0FBQ3JfcEVTNVNjTkFkUDFRM0xoWmp6LU9IdzFleWsyNnV4N3BNUmtIdTROSUQ2ZWRwSi14Ykpob3IwMVl2dw?oc=5",
+"source": "News24Online",
+"published": "2026-09-25T08:56:56+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"ETERNAL",
+"TRENT"
+],
+"groups": [
+"Consumer",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "faf768bd3e7e96ee",
@@ -1148,6 +1232,22 @@
 "source": "Autocar Professional",
 "published": "2026-09-25T08:03:24+00:00",
 "first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "75b1f0f484d34330",
+"title": "Tata Motors PV eyes smaller cities to drive Aeris compact sedan demand",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdGpwS2dNb0VEcnZ6TUItTW1KTWR5Y2RNNFlVZTV0ZDNONVFhQnppcEFTSHBkYURFWVJFZWdCUnlSSndyLWFLN3VreHlNTHBkZEliMTdJZTBtXzRMeFRXTDdEYUFnbTVNLVJSdnp0LTY1eU9iX2lCRlZsemVqMnp2TkFJTm5KYUNDWFlZUWh0S25Ub29VUFlhdENJTkJDWU1iZE5MTjg3TTkwREN1SjZaaUpHSkZJU1Z0eE5RaGdscmtLRGRtSjhXMm5YWjY0cXdzY1pwT1lJeGJiRjlxWlY1UDVzVdIB4wFBVV95cUxOdGpwS2dNb0VEcnZ6TUItTW1KTWR5Y2RNNFlVZTV0ZDNONVFhQnppcEFTSHBkYURFWVJFZWdCUnlSSndyLWFLN3VreHlNTHBkZEliMTdJZTBtXzRMeFRXTDdEYUFnbTVNLVJSdnp0LTY1eU9iX2lCRlZsemVqMnp2TkFJTm5KYUNDWFlZUWh0S25Ub29VUFlhdENJTkJDWU1iZE5MTjg3TTkwREN1SjZaaUpHSkZJU1Z0eE5RaGdscmtLRGRtSjhXMm5YWjY0cXdzY1pwT1lJeGJiRjlxWlY1UDVzVQ?oc=5",
+"source": "ET Auto",
+"published": "2026-09-25T08:03:19+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
 "symbols": [
 "TMPV"
 ],
@@ -4926,6 +5026,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "fe1d07f6833b5d8c",
+"title": "Ronak Jain pledges 2 crore shares in Asgard Alcobev to Kotak Bank",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHpxeURTWl9QRlM2dlVtQXpRbU5jQnJ1WmExNWg4cGpJNkU5NE43OWUxLXBycnR5eGluY1JsM1hzTXpyNGJZZGdqWlk4OU1oYnNkQ0FUT3h2YnVlNzJueHJBaHJNcjRJYTF1LU1NUTBiM0JWTEhrN29qeG5DaU1BbjIwX0dXblpwYlNCY1ItVlZTZG5aUlIwaU1lMVMzam9IcGFrV21wdlpGeTJnMFlMUEdtSUFxSmRRVU0xbURqOA?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T21:47:39+00:00",
+"first_seen": "2026-09-25T10:35:14+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
