@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T20:45:01+00:00",
+"updated": "2026-09-25T20:56:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9a97f6d898e07911",
+"title": "Tata Motors focuses on sedan amid mounting cost pressures",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGpCaEtoaG5LanhDQ3BfTzhRZXdOdzE4ZS1INVVyYVpXNk4wQXI3R0RZOHVnZkJDdWs0bGNHNmJVVFhPZmpRQkVwMlVQdjBId0c5MDhfN1FsR0FuUnhoVVhIR1lESG1jWDQ4TUx3UmlhakxuMUNZVng3R0V6TnVZX2VBZGxIT0VjVFhzWm1EbkRuMzhPOWFpeWhGZmhxeEVNTlBfZVVBcTZlcWFZOExnbWZ1Ui12UHNLRkJPOVBmOUhrVXFfbkxTNFBjS2VEY0J2X3fSAdcBQVVfeXFMTTRhYnJ1YnYyak4wbWJYTl9FNnJJNm8wN1FPRmZSbnNINlVBNGROZnROVVA3MVQ3ZzB5T2hUMi0ySG5FWmFxNHBOUzY0MXNtN2dJWGVHWWNyaGtTeFlPLXIxU3dSamx3cFZmMGttX0Z4TTV1VHRTejUzYmc5RUpUenRfNEV6WWhTRmtUSnhQaktlQ2hNWV9ZMUdUa1o1UDFhY1Y2cThLR05yZGpLUDV4STlrVW82MjJfLUpuNkdISTNYSlRiZU13OWFzWG9XSldjcWJ4U09WXzQ?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T20:43:00+00:00",
+"first_seen": "2026-09-25T20:56:13+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "f5edca4951b75575",
 "title": "NTPC pays final dividend of Rs 3,393.83 cr for FY26",
@@ -1156,6 +1172,42 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a8e6c682f3fb5a99",
+"title": "Tata Motors PV (NSE: TMPV) Down 1.54% at ₹290.45: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWh6QlJEVjU2Ui1xSkRPMDM0VFR1Y2Yxd0N0YUwySERDeU9XWnlZTGtjT05aN2dDQkJzaHp1emZNemJhLUI4dFExZHBaODZhaXFqbUZIcXZ6Ny0yQl9QWVpaOHNRQnJHd29xamxTYzVxSThYUENMdTFHMDZ4Zk91RmRfbWZlenp0NzNBRGQ1NmJZS0VfdmtfeTVvOWUybjVFQWdlMkE1ZGFNcDE1cjh2aEYwNnFibFNpS2xONU40Z0JCNm5TR1BDYmpuYmJZVnRNRG81MVgtdmlsOFU?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T20:56:13+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8f0ff218a8062f36",
+"title": "Max Healthcare (NSE: MAXHEALTH) Down 3.06% at ₹1,014.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHIteFA2TVlxdUNNSWp3WnV0SXU2VWZiejladlExYWw5SHJoZkI5cGRZZXV0dXh3RlRHcWJ3dGhSRjd3ZFVJNTNVN2VOclQ4VmxNWnN1UG5wQXBrN3QxX0p1OGpRNlRQLUxRRC1oR3pMck9ZN1REblJGOXRlNmRfVklTVUZDZTZlOXVMWnUwVjBjRkVBcUJLRW1tUzZEQWVfLW1BMWNNNWJwazlocWI3MmtuSGZubVVUazB6b1VjS1lybmtFdEdjUk9jSG0?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T20:56:13+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [
 "Results"
@@ -2974,6 +3026,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "8d73f9e38ac42a69",
+"title": "HDFC Bank Share Hits New Low, M-Cap Drops By Rs 1.10 Lakh Crore, ADR Falls 7.3%; Why This Big Bank Crashed?",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVTR6YXBYMDE1dG9KYl9PbXZXTEt4R0VSUjJ4aGR6dTBCV2NhT0J5aHJOQUlEY2xyaDNhZlM5aHpUczVjYTR1YjVySlR4aWJtSHFsRy1NY085QllUdURQdDJCNjc0R1F1YmxVdWhORTE0Z0g3Z0hKNGRGeW1LYkFuZF80NmdNamNXaDNwRW1aWFh4TUxGY19lbEhLcjZ6REpoQS1uS2pObDlrS1VVOWN2NVY3cFg3cnZvcjdQU2JoRGxaTDVsSzNHRVdNdXd3VnF0ZVZYY3dxLXp1aHUxNkE?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T11:08:47+00:00",
+"first_seen": "2026-09-25T20:56:13+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "83c40f70b67faf8a",
 "title": "Yes Bank to Adani Enterprises: 7 Stocks That Witnessed Massive One-Day Crashes",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeENsbzZ4MGdJVEd6OFZTWGVpZzlwV0R0V25pZWxnb2ZteER2cUFrd1lNbTJramZYaGdMT2hoQXhpeVRLU0pSVmd0eWduYUNYaDNfSjQyX1FRM3dENmZEYUpoVlBKUUFDNUg4aUF0dWx3cklxVWVOYmRJQ2ZzRnBHQmNreGhDS3BlYk5JTjA4TnMtUXZhZTZlVWh5OVZTcWZibkVHTHRxR0V5OTFBN0RGTHJhbTc3REhjR1RDTVdjZDllQQ?oc=5",
@@ -3437,6 +3505,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "ff304f8934ebe613",
+"title": "Dr. Reddy's Laboratories advances Friday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEx1ZXVlWDkwajl4bU53N1pzVUltYkFtc2F3VG44VWhVTVJ0b28wS2ZIVEg5MWVWcTVZc2dLc3Vhd0gza3NnNlZROXRONWFwTzNCTWFXYmZRY3RRbDV5MjZNN25ZWWMzS3VuVF8zNFRrZkNDcVpod012RFBHZlRoWG5KaDdjUXNEcGtwZ3YyeUI0VkU2MW1aN0pGUVg0YUVQT2NteDV4MkpRVG9SaFBSZnR0aTRQWUxMOFM2c2tUS1lnMDNWZFhyZF9hSXlRLXlkRDc2ZQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:30:00+00:00",
+"first_seen": "2026-09-25T20:56:13+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "negative"
