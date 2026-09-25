@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T04:46:01+00:00",
+"updated": "2026-09-25T04:57:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "bea248255e8638fe",
+"title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers",
+"link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdXR6a3BMbFZZc19QNTgtUDN0QjU0REhVZkhXYUZLUzVaWHhwY3FOdE9xWEFZTHBSX2dNZVVTNXJOOVJFaE9wSzBiMWFCanhyZk1JR0RLd2E4S3k5YjM3Z2E3TTNmMUp6Z2tqWjNLLUsybHFpYlJONDctVERIS0E0VmNfOWFmOE81OEduRGZTV0ppOGdOVFNmYVNuZWZKNkVqd0pydXlMUTFVWTRqb0JLb2tCTFFreWdOd2VnTmFpcDhVWTdoTDNhYWpxUk9XSDZpRk4xcW1URUhTeEtmRWxJYlRmbDFGSW9IU0hUZ1RSOG82aU9lbk9OWHRaN09VZ1RjZVVuWC1aNTlLaGJKZ1MtcGpnbU9aOGVmRmVnOE5qdjZkYTFhUjBzN213OTQzRGdZNk1oQy05ZTM1Zw?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-25T04:52:40+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"INFY",
+"TECHM"
+],
+"groups": [
+"IT",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ecd79e8ec6fbad42",
+"title": "ONGC Begins Offshore Data Acquisition Campaign in Western Offshore under Samudra Manthan",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGhEZGVaeXN4RTR6MGxxVGhwU1pZTHI3Y0EzRU0tZVhiQ09oT1NFT0wzdUphdlFZT3dHSWpfQ2Y4Tl82V1RmSzl1M2xjNWY0eXJZMGNtVVIycTU2dklIa1dQcHZtVTR6Q1duT3lJckE2NEY1dW1tdTNwMVJLNk13V3lTVHE5bUdsd0NsYWgwVjRqVTZkZGxZWXlxQjVZOEVvSmZtNE1wZk15d3dqcEFIaTRfVkdHdmJZWmFWa2RJa0Q?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T04:48:00+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f4e35c4911248b2e",
+"title": "Adani Bengal Investment: Rs 1 Lakh Crore Plan Explained",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1ZPbThDVFlPRkp0bTVpUUs5VTBISmliNG5Zdk9oNTZEbEN1bjdTRU5lMUxMeW00RklvN2E4SHpYeFNiQlo0YnhFRklmWjNOYmhLaTFDZnE4bkxsVlQ1ckZZYjZZa3Z2YnZVcHZXWXdvTUJHYzJjZ20xYVZOZGh5Y0NDQ2dZVHFHcnNFRTNmMHhONFFW?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T04:45:56+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "932f82a108301874",
+"title": "Insurance Stocks Crash: PB Fintech, Max Financial, HDFC Life Tumble After IRDAI Proposes Commission Caps",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZm9JQzBHcVpsMmI2S2t3NFpaZU5FbEdLSDkxYmljdnF6QVNOX0hjUVdPTlJHazlPMzd3cDRNaW9nV0NNMjFBQ19SUFNncS1Hc2hQMm9VZ2JzbndKa2V4Uzh1VnN2Yk5iN1ZaemRzR0RDWmxyeGU4bGRQbXhEaXd2VmhPRVdGYmMtOFloWVQ5Q01HR1Qtd2F1cHZzOFhtaXVCQ3lIMFVqdUdTNnpaTWRfUDBSTHBaWXFHYnJUMTgybnJXOGxiZEQtMV9UbzR6SnJjV1BsYjBZVmY?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T04:42:56+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "8bb152a89c17892f",
 "title": "IT sector stocks today, September 25: Oracle Financial falls 4.56%, Aurionpro Solutions down 1.61%, Infosys declines 1.58%",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQXpDTXpBdlBaUmZLNnZ3VElvZloyZXNsbjZYOTVNRW1RTXFmYWtva2tqanZEdlFKUVFNT1RwSDFaY1lON0xnUnVsVk1ZMHhsV1lBZGwwV25MbVRMWE40bTFWQm13ZEdiZ05MYUdWcXR2d1dwWjA3UHBRXzU2X01ZLWV0NEJsQU5pY2NJbnc3TFZGOW1EaVNZa0kzNHM1Rm9NUW1HeV9tOVJJaFdnRU53cnJGSUVORms5R0JYWkFhNXFUNTVsOGpoZEZlYzFlTnk5WU0yOHZsd1c2SzdzOEc0Zi1BZXQ5ZmhRMmw5MlNZc0JNeUo2dU9J?oc=5",
@@ -459,6 +527,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "67cab88bfcc6f108",
+"title": "Nifty IT slips over 1%; Infosys, TCS, Wipro lead losses",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGh6SHhRb3JIbThHZ183eVpOazYxdFVXYnl3YTkxbVFYa0E5aUpodXNzazRna2ItNDBhTXB4M04xZ2djYkN5ZFdnb1hfZGI2R0sxUndVSjJCektJYWlmZk5yTXVLR3pJRzBmWWtteW5Ld19zTlJtdVpsbVdyU3VNbFlHSlJJcGdLWHV3TkhrSnRpUTdQTmVoWHlEN1JQUzVkeEoySVo3VDRMTjQ0a1FSNU5zQVE4R2ZITW5XWldDaDA1MENRcVRmRVRxONIB0AFBVV95cUxQMGRBZXF6anJXZ1dTdy1DdTdZa0MxRTBfYzBTN2k2T0tncGlWSG9qWWozUTdMNm1hSDdmX3pJR0MyQkpUcDBTaXQ5R2JrYjRpaUNiUjhoS2FUWERWblFHcXdJSHdXTzVCWk9qZVpISlVQdzctRndWTkxZUHVHMTlCTzc4MF96ZERsbWk5N2hETGh3YjRBanFlQ1FiRU9lcGRXMjlOQXZFN0RnektVMjFaa3lvWFdqSDkzOUFOUkdrc2gxM3NldTlaTlYyMk5kOXJX?oc=5",
+"source": "ET Now",
+"published": "2026-09-25T04:31:24+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3ca082109d03fba6",
@@ -691,6 +778,22 @@
 "sentiment": "positive"
 },
 {
+"id": "e0b473dd8b1c5e56",
+"title": "Tata Steel Share Price Live Updates: Tata Steel's Current Price and Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-25-sep-2026/liveblog/134474505.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:46:39+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2d31441e63c00083",
 "title": "Bank Holiday Today For Ganesh Visarjan: Are SBI, HDFC, ICICI, Other Banks Shut On September 25? City-Wise List",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGttTVRLSVBfSi1HSnJPUVhVYmVQc3ZETkR4ZktMOW0wQVlWekZrd1dSMkdqOXVubVFiT0RjOXVIZHhZNlExMVFyTU95QWVocFRsZmk5UDFpZ1Vrbkh5MG1VdWY5N1ZGU3dUaUtmVFNTRDdTTnI5dGRNSkZoanRQMWVYNXlrdGg1eHdLdlhuMEJZX0liWWp0NERxM0NVMlZldlJRRW12XzlHWS1xc1VyckFHd3JrUlhTdGxSNnpXSzk1VzZrWlk5NkxvRkFqSG5DaldoVWJDeEkxTkE2?oc=5",
@@ -899,6 +1002,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "4a39f53a9582e511",
+"title": "Coal India Share Price Live Updates: Coal India Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-updates-25-sep-2026/liveblog/134473855.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:00:04+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5a8025605f69c78",
+"title": "Titan Company Share Price Live Updates: Titan Company sees minimal change in stock performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-25-sep-2026/liveblog/134473836.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:58:40+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a48c4051ee200beb",
 "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
@@ -910,6 +1045,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7d2346e8b5659709",
+"title": "TCS Share Price Live Updates: TCS trading at Rs 2075.8, down today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-25-sep-2026/liveblog/134473815.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:57:35+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -964,6 +1115,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "193e263deb0aaf69",
+"title": "HCL Tech Share Price Live Updates: HCL Tech's Current Valuation and Performance Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:55:19+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0bd8f10e4a4488fa",
 "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's closing price analysis",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
@@ -991,6 +1158,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5b6a34eabe81cbf",
+"title": "Hyundai Bayon vs Maruti Suzuki Fronx (2026) - Price, Mileage & Features",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2pDdnZZcWxCLUdBWGNpa2RER192T2gzMHptSmU0NnBCdU9nU2hDSzV3U042UnVYa0oza0R1T3N1bnF1cmU4UlBaM3FSZXFNc2JOS0xfYkVtODFWT3p4RmdQcU8yaEdGY0l5RnZHMVZDSW1IRV9NaFJGN2lqR0JkdWxIUnQ?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T02:51:24+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1236,6 +1419,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "9db081cb6ee2a242",
+"title": "NTPC Share Price Live Updates: NTPC Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-25-sep-2026/liveblog/134473425.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:30:26+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "aa3e590140552a57",
+"title": "Infosys Share Price Live Updates: Infosys Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-updates-25-sep-2026/liveblog/134473418.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:30:10+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5d92ad4fe8dddb58",
 "title": "SBI Share Price Live Updates: SBI's Previous Day Closing Price",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-25-sep-2026/liveblog/134473416.cms",
@@ -1247,6 +1462,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ed1f6ff5e970c6cb",
+"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-25-sep-2026/liveblog/134473417.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:30:08+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1342,6 +1573,24 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:08:45+00:00",
 "first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"SBIN",
+"TRENT"
+],
+"groups": [
+"SBI",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d3a246315b013265",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rises 50 points, Nifty above 23,050; Trent, SBI top gainers",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:08:45+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
 "symbols": [
 "SBIN",
 "TRENT"
@@ -4359,6 +4608,24 @@
 "sentiment": "positive"
 },
 {
+"id": "118aebf64e59b4ca",
+"title": "SBI PO Mains Result 2026 Soon: Check Expected Cut Off, Result Date & Direct Link",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNMFlnT1RHSW9jdUZfMWtYVUVkMm1hX3RhNm9aZW5WcURXMmxWNEJiM3AwWHZ6M1plVG00b2ozcjI4OE42MWNyNDZPd2FRZlNoZ2x1ZHBUR3dSYXdkeFE?oc=5",
+"source": "PW",
+"published": "2026-09-24T11:54:18+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
+{
 "id": "123b729fb4522281",
 "title": "Adani Airports to build capacity ahead of aircraft influx",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnRHck9qSHFLNFhhbHBVelRXRTFPYU9MQmpnWGtJVk1UTEs3VlBkMlpmZjFmUElsV0dKYXJieER4amhiVm92VlZmUFh3alFHbVNhdmdJZFN1R3NBMXlxRXd1MmdVaDRjRU9NZ3dSX2pwTkEzYVFPY2VaM2pWbEFBaVhWTGw1Q0steDJLYm9WOFR3ZnNZR3VLanRIY0xaMjNQOEh3WGppMlBLYWNKRWhzb0Q5UmsyOEZxcldyQzJ5SWFkRzBn0gHLAUFVX3lxTE03NWhGanZWVWtxQ1ozNU1GbFlna1Axd2xTR2lRczBvREFhQWF5dnFyY1lRNE1kSi1xQW1zTHdkQi0yOUkwdm9oUDdDNWxYbTQyX09BSHhBdkc2VkFndE5HVjJmajlBc3ZMQ3NGY2JMem9iUXNDa3VZYTl1STRoUHV2b211ZWMzcUNvVUVad0NtSFNNTG5oR2dNZGFiLXBxWlVCWkdYWFhRYkVybERvMGVFQk9nZ0E3YkMtNVVxbXI5VW5MUkQyRUZuLVVR?oc=5",
@@ -4506,6 +4773,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "704719588debd1d9",
+"title": "SBI Branches to Remain Open on Sunday",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXpxa2lvY1gyM01VY2JDc0lmVXlMNG5kS3RyS0RhR0lvSDFUczVNLW9YbWVGeTAyUTNJTXlsRmVvNDgxR1pPX0FHUUpPcEVnTGFfVWhxSVFtLVZNQTBiSFZsc1VWc3FaWk5mVE1IVzItU3VoYmRMWHJwQjB6Z2haMGd5Yw?oc=5",
+"source": "thekanal.in",
+"published": "2026-09-24T11:35:53+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5262,6 +5545,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "31e46be73f15dcb3",
+"title": "SBI Funds Management Ltd. Share Price Today - SBI Funds Management Ltd. Stock Price Live NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1pkY2dzWENxbjlMaWhnckI3cXR2anJlM1FqRG1WeTYzZXJsUlhvbmdXN3ppclZtNDM4S1hGQVBXQVIyUnY3aXk1U3BiMEVhM1hWc0hMY1JEOENSUUZGZTNpdmt0T1RoSkJaNGZvdmkySGFTM084bDFuLVNfdWFHaGN3aDYtQXR3aGpN?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-24T10:29:00+00:00",
+"first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
