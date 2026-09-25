@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T03:10:51+00:00",
+"updated": "2026-09-25T03:24:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -477,6 +477,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "6cb59c68e15c808e",
+"title": "Power Grid Corp Of India Lines Up A 50 Billion Rupee Bond Sale",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTRGcmxUOVRLRW5qMmNfSVdaT21nd01sdzFNSl9jRDk4bk5BaXhfYXJXSUlOUlZuN1N4V1NGSEdoNDdIeTl5ZzIxZHZ5cmszZVJLQjd6ZFcwbzNONk9QTTZtZUZYcUI2SDBsaXk3UTJDN2ZUTHpGdndoanlOSUhJc0NsZERTWENOMS1RWTk3MWoxSGRNZHc?oc=5",
+"source": "Finimize",
+"published": "2026-09-25T03:02:24+00:00",
+"first_seen": "2026-09-25T03:24:48+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5d9a7c6a210fcfa7",
 "title": "Shriram Finance shares may rise 21% as CLSA maintains Outperform",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0EwOGFXNVhFUklVZWV6dFNQajRqbG1HZXBOcE8ycDNlWDFydmpGQnlONzRBMGw4MmNQLWU5YjlwQmtzWUNVQl9VaGJ2Nk9oaENKb3lDRnVxeHc1aTh3a3hkR29selFMMGdXSkFPUXFOQjAyQWx6eTJWUjVyWXdBbVo5ZkItci1FbXhIUFlZSzNmbXMtWkgtMDBMZU5RU0JhZmlrY1lUeG1rNlczbTBHSjNMUDU2R2tyZDR1ZWZ2aFZCV2ltMkJiLVVDZjFQLURibzlr?oc=5",
@@ -507,6 +523,38 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "98676fc79e9e784c",
+"title": "IRDAI’s new proposal: Insurance stocks in trouble; HDFC Life and ICICI Pru Life tumble",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0hyaTRUVHJoOC1XVGcxUVF1VWNfZlpTVGgyMFhPNldZVUNMVkdaM0lISWQtamRoaEg1WFBPS0FKZEtaTEhBR1RiTW5KdmhFbDVwajZQalVFd0ZmZ2h6VjNtSzZsMThsUmg1bEIyV2lPVzF4M3l3UW5aUlVhMElRb3ZHeGg1MTdSRDBUNkt3Ym12ZU1kYTJVMDZHM04tbzBlVlNMTHl3Qm83cDIzV0V3TE1QOFotdlhQaFBjUHZ5bVRNOXNjRUdDNkZ3dzZjRGPSAdQBQVVfeXFMT2RmMFl6N25UWDFZN3JUaXFJUzNzbl9fWkVHQTVla24xd1FldkJla0ZGM3A3Uk90SHFkZkY1eGZqbDBkSVZQczhpV3RPczFVbUNKclNhTHlObjBrUWw1blpMdHpVRkU3aHRoWmN0X1NEbVhDSW8tTzhHNWc5ak1BM19LNHY1WDNMMTVIb2dLSkV6cGpKS0pLVHJBUFE2SUtqaDFmN19DcVZEYUJJOUo0T281TjFKQVJDQmRlTWhMcVV2WlA3QTlBT1FvVWdlQ3R6SFl5ZG4?oc=5",
+"source": "News9live",
+"published": "2026-09-25T02:46:34+00:00",
+"first_seen": "2026-09-25T03:24:48+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "207c75624d18763e",
+"title": "Bajaj Finserv Ltd Technical Momentum Shifts Amid Market Volatility",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblZybDR3TXNkN0VVZWZvT1h0X1N0VXBlQ0tRcHRaejMtdm16T2dRdXdteThETHJNak9yVWhwN290dU9sZjZQRTFwTUd5bW1QYi1LVkhqcThGbUhiY0ZDNUR0dG94aE52TUU2UHdqNXNvUGEtNGR5TjZuUmN1dlFiUzAxc3V3U3dUbnNjbzdsV2R2MWhDWXFYRTNpQnVveWMyUHNCVjN6c2V4X1VKZl9UU2FtejhOOEpTbUQxN3M4MVY1dw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T02:45:25+00:00",
+"first_seen": "2026-09-25T03:24:48+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "e8f95856506c0e91",
