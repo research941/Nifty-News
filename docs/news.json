@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T19:43:22+00:00",
+"updated": "2026-09-25T19:55:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2001,6 +2001,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "18b2c5f57a3cc94a",
+"title": "HCLTech Appoints Savyasachi Gowda to Lead BFSI Marketing in Europe",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDllZmRfTzc0V3ctQ3lwendKV0QwSldyMHM4ZF9WOGJTeVo3a1cyeVhNdnd2RzlqSXMwMV9uVlVKZWdhYXpkSnlmTGsxamlvb3FIdVJSNThvMkVGU0Q1QmllNGxEQlhraHI2VHk1WkpMTklPZm13Q0xCazB4MWtvaDFjd2R2Q0RQVzEzOFR2NXJKc2FLSnJaM1BFOWt0dG42UjI4?oc=5",
+"source": "konsulteer.com",
+"published": "2026-09-25T13:34:35+00:00",
+"first_seen": "2026-09-25T19:55:39+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "3672f7fd19d48222",
