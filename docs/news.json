@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T07:36:12+00:00",
+"updated": "2026-09-25T07:48:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "ae6734c86a0daeaa",
+"title": "Sudeep Anurag Appointed Director HR Analytics At IndiGo",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFNwa1VYeTBlN2hIenZCZkhBOXdtNEVDVlR0dHIyR2lRbEVFbF9ObkhUd2dfejEwaUNIZDdDd1NLc0xJLXB4SVJ5cldYVVR1SzV6Tzl0TWQybk9yVWh5elQyWUZlMjBTZ21lSng1OVRaU2tFS3JESV8tSXdEQTVGRmpEc3hHal82RmhXdUtHbV9LQ3o5T0hn?oc=5",
+"source": "APAC Media",
+"published": "2026-09-25T07:44:06+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3c7b4ab82bd0469b",
+"title": "YES Bank, Axis Bank: Supreme Court to Hear Forensic Audit Case Plea on Tuesday",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3hPTWZzSF9sSGoyaXFFenQ2dWFlUC1RRnpJY2l1VXRqOGZlVkRaUlJEa2dfZTMzbVo0dDhyRm5LUzR6RVJaUGNlR2NrdDJreDdfWkFieWZnODlndi1SZHNwZ21ZTHhWRldLS2RNd2dCeWlFbkp2bXoxTDVHcjRpVUhWbHhpTlVoVjZ1aUFOSlh5UEljWWlmZ0dtUHJPOW5TTXlMeQ?oc=5",
+"source": "Sahi",
+"published": "2026-09-25T07:38:35+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6fedeee7492b3e8c",
+"title": "Chainlink rises around 8.5% as Infosys partnership and bullish signals drive demand",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONENHTktaS1dEYWZSYUZBZ3laLWZra3FMTElFX29Fc0JGMWJ5dm9SYnNldlcxaFVESkNDR2Z2aW9lQ3VCblRCRkVXV0dXdGJVWjkySENvWkJ2TTN2MjZETF9aZW9hbU1VY2V3RjNRRExqdEg3aTRTMTBYQWV1czYzNThDWllfTnlFci01ZU8xQ3RGa1VqcXFQTFVaTy1mcGJobkVj?oc=5",
+"source": "Traders Union",
+"published": "2026-09-25T07:33:24+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "057bfada55ed7c27",
+"title": "Tata Aeris Launched In India At Rs 5.29 Lakh; Rivals Maruti Suzuki Dzire",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNl9WY3N0SDhoaG5XNXF2T1V5RUhlTzJxVDB6YVpFQ0Q0SkFyS2hRZ2hqamhoR3FUQk1sQ2NRYzE3S2JSS2JSMFE2LU96VlkwNVlpNVlJeElRaWRWNmU3cVkzaFRTOXpvaDRpMDVwRExYdjd3aVB1ZVM5WGI3T0VuMXk4QVAwQUFNTHBpNk1nTTJ6OEVVMDdtNXFlYnFpb3dHeG1zME9fQWlRQdIBsgFBVV95cUxOM2FtWTY4MnJQMXRxWllLbVdmY3hHMkd3bFcyaHpEYVZFaTdpWGJQZTZZNldjU3Z6cGdJdHAwNy03Vm9QRjFLaDFVZEdzcDhMWlVlWHRkOTVLZ2QzaUlLRmtFSUVacmc1VGhBalFVVjMyNllNNVEzOTY5MnkzbzlKUWxQTklVMTNYa3ZIbVppSWh1d3hqU3pLdkRHbnIzYWNGQ2Y1cDk5T3Y2eFBQOWVkVm53?oc=5",
+"source": "ndtv.com",
+"published": "2026-09-25T07:32:32+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d7d4d6fe9d06d517",
 "title": "Arihant Superstructures signs luxury hotel agreement with ITC Hotels",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWhXTE5CTllDajJQdy10aGFSMndmVUR1Y3pXbFJuRllVMHZxenVmYXUxWmZFN3o0SkpqbmVWbkhvODV0cU91NHNkcjBrZ1VWdklvRTl3TzN4UFh1VW5fUW43ek9RdWFESDhEMDI3VmFiQ2drVjFDcmZyTkVPQWR2LWlqM1c5TmozVVI3d05BVjVuYkJlMjE2WU9LRnJ6dHAxMTVfZzlza2FyeVItWlNBQkJnVjRzWk5PVjk4Ng?oc=5",
@@ -508,6 +578,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "00d4834f5fa2abf1",
+"title": "Weeks after PNB case, ₹4.63 lakh in fake currency found in Axis Bank chest in UP's Meerut | Hindustan Times",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2sxZ2lrVGFkZy1ESlVuZDdFaFVDMHNhRG1iT2kzMWNkTlV6SklEaVRXM0ZaSjBMOTZYZENSUmt1VUdDaW85RVBLanVkSEFhMHVxbDctUjhLaWVNZjRldkpITU1JRjh6LW5zc3Fnckx0VXRHT1NKcWI5WXJTM2wtXzdlY0JpRGVfdkMxTWw5VDEyR1NBdFAwcG52XzMxcjRYY1Q3QVpoVmpiZ2YyTXhHZEJpMUd4WlN4YlY1UWtOOEQzZ0swaFV6dDFkazZFR1NoZjhua28yeEJmalVTUkRUVmRRVko1dG14bG5fMmx30gHzAUFVX3lxTE92QUhwbHRzcTI5ZGE5a2owdEJxZk5PbmlaYmZYMEZ1LUJrbFdOemRCcmlIME5tNjNsb0V1SXItclNxOUVqNmh1X0dmWjV4Q0ktOFQzdUdrZnZkQjdkZlFXcmxOTW9fbzliYzdHd3BZY3VzSVlxNUdtVnctNmVYTXlGMjFJTUZVMlQzVl82eWR0OGVzNWlCZXFyNi1uMWJVcmU4ZHRGR0VQTFluMzNqTjR1X09RRUtDNGRRUUlTdmVUdy1tS1JmTWRLZXhpVGUzeEM4bTJxb0Fzc3l4UUFlcUVnMTkyM1IzbVRYQUlLQkt1YzZZbw?oc=5",
+"source": "Hindustan Times",
+"published": "2026-09-25T07:22:29+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -666,6 +752,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48cd198f1d922e78",
+"title": "SBI ATM charges waived during proposed bank strike of September 28-30: What customers need to know",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGxOTENYT1JfVFFnVUJHbFBGdTE2aEVqUFBpbVFYcVFKc0hHWXpvbUh0VnJDZmdfbXYxX1c0QU9yYnRtcXlLVU55RVdkQXZaNlJpaFB4RVpBM2RwMjhRMFpjeUNTMHFqRlNZS1hjVnRicnVNUEZpNC1qU3BDUExsNUtENnliRmRqVE5sSUFJaGRscE5Ndk5HN2lQdmR1Z3lqUFVUVDR2X1hTS183M1h1R1BiSEtLVGlXTXRyc2cxZmt1TzVzeDFldlRGX3k2SUFTRXpOR2NzT014VUVncTN2MnR4dzVxN2NFSmZ4dkNLc1BFdzl2ajRSY3dmZ9IB-wFBVV95cUxPZGxOTENYT1JfVFFnVUJHbFBGdTE2aEVqUFBpbVFYcVFKc0hHWXpvbUh0VnJDZmdfbXYxX1c0QU9yYnRtcXlLVU55RVdkQXZaNlJpaFB4RVpBM2RwMjhRMFpjeUNTMHFqRlNZS1hjVnRicnVNUEZpNC1qU3BDUExsNUtENnliRmRqVE5sSUFJaGRscE5Ndk5HN2lQdmR1Z3lqUFVUVDR2X1hTS183M1h1R1BiSEtLVGlXTXRyc2cxZmt1TzVzeDFldlRGX3k2SUFTRXpOR2NzT014VUVncTN2MnR4dzVxN2NFSmZ4dkNLc1BFdzl2ajRSY3dmZw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T06:41:00+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2967,6 +3069,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "4b2bdde267626b92",
+"title": "Silver lining for UK equity market? Airtel Money targets USD 9 billion London IPO",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkcyQ2xCOFdVSlMtVndVVVYzWmx1VFkwSF9KUUtOYWZ6RkFrTlNMSlJLd0dsdVdPRGhTUndZQVRkSWg0OEtnaTZEOHpCS1dvNXpWeEk0ZEV5QkJUZFlyUzVzX2FMU3B1YzhKa3BmbE5kQ2JQVEc2eTRSN2xBRlB3LVZLeDE1WTVwaGVmTzk5T1JzcFNhaGR2X0tGSGZjc3N5YXdyQVpvVnM3dnZRZFdHMWhjZnJzUDJwbnVZZVlmSQ?oc=5",
+"source": "internationalfinance.com",
+"published": "2026-09-25T01:00:03+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e339f0aa989b6025",
 "title": "Chainlink rises 5.7% as Infosys adopts its tech for banking software, but impact on LINK token unclear.",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVdFNktJWHRfY2JqcTIxUFBNb0c4S3hGQ0VFSEhhVExBZDVYYTdaUk5EQ1VEcjhTSWh1bkVVTElJcGgzYm1kQ3VXSlJxdDdVWmJGZnFJcWwwcWNLaWRWUkd5SlB6S3dQNHVYbm1OUFVhallMOWp1eS1xaFJKN0N0LWhRT21VdEE0ZkVfa3FkTVVjSzhl?oc=5",
@@ -3437,6 +3557,25 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "03588edafb4250b8",
+"title": "RBI approves re-appointment of N. S. Vishwanathan as Axis Bank Chairman",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSXpRQUtZUEUtOVZ0U3NyeHdaRWRIVS1oV2M3RV90Si1NLTdhcS1UbS0taV9QOHlQZ2ZZMU1mR3ZjRlZmLUhncWMyLUFyMnhRMDF1OHVIRGlqeFo2dXBBdGpnLU8zR1VSZEhWMkFCN2lPS2c4Z3dyWlIwT2thb0xWQkRKd2JRYm9YODhoX2p4T2g3ZnBQLUJFdm00cGFlOHhYTHRuY0RQVEhUU01DUFNYMGVtRjFLa2t2YXZuVHJIUFV4SHU3?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T20:34:43+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -6328,6 +6467,22 @@
 "sentiment": "positive"
 },
 {
+"id": "acf513511f3f72f2",
+"title": "Bank's Lien Can't Touch A Widow's Insurance Money: Allahabad HC Orders SBI To Refund Rs 17.29 Lakh Taken For Late Husband's Loan",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWNYOVJqak5XbTJ4VGZyc0VTckVzUEZkbzFFODJ5dHRLanIyVHhNUHBlTndTdHZEbEpJSnYyZS1ZSW9wMmduQXBTeVBNcFh2S1lVbGVRYVVNa1hWSGUxeWczSFNubE5WcmFTNEdFeUVPM2FwS0pfMzlJMl9iRzQwYm0wMGttU2lQU08zeEFiRkt1aEdyVzlwbVNURQ?oc=5",
+"source": "LawChakra",
+"published": "2026-09-24T11:17:12+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b58ef69eb4fdc946",
 "title": "Telangana CM asks officials to procure coal from Coal India for thermal power generation",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkZDMklqanppbWlleGZVV0c4S2JxRUp1QTg2ZzZkeVNobUYtanZQZ1RMZEJtMUxER3ZJWUlZSXJrS1VyUWlKMDl4R0NuRHhUNXppQmJlSG9HaHBJdHJkNklCcG81VEJuWHdqWWN3V0JBeFNmRnNDb3ByWTE5Rk9PcXNVZDFJbUpfU3pveHRiZTVpVGVqcWdHcnh0SGt5Y284THpsYlZJWThkaUZrUkhRMHZ5YS10MGlSLW5HZXRISWQ1ZU9QMFJBNGEtcXZYc0V1S1lFd1d2eEdraU00UUpKdUJsa0lzNE0?oc=5",
@@ -7303,6 +7458,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a5a6f4be3ea94c2a",
+"title": "Maruti Suzuki Fronx vs Mahindra Bolero : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81OHF3UnZRdUNsa3FET1FEdkJiUTJMbW9PbTFyZzdKaXlCMDVtV1EwTW5IWklSSWR1dFJYb001akktRXo1TDdBZEJzandqMXktc0R3UkxObVR4R0dPcGpESmFTSFJQQlNKaDlZaklqSkUtZ1FNMHBrc0VsVWF2M2M?oc=5",
+"source": "autox.com",
+"published": "2026-09-24T09:59:20+00:00",
+"first_seen": "2026-09-25T07:48:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
