@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T00:58:14+00:00",
+"updated": "2026-09-25T01:17:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -493,6 +493,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "f918fbb29f72034d",
+"title": "Airtel Money Targets Up to $9Bn Valuation in London IPO",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelM0a2FEeDhtUTlwVmM2Ni1mbTBjY21KTmRYcmM4RmdFWUFwVmpEWlJDTm1IWmM1RmhadG1kdHY2YkxyNlFzdXpGNEtZMmVRWDJ1MmE3cTRaYzFBN2V1ZllqWUlaRy1LUHVRaXNVbGlzWmNwdld5aGJfSGs1VElWTUFsZ1B0Q0QzS0JrOHZCeks0NWRsXzNPTzV1OUExSFBjcTdhRHZhVEZHbFNLMTdJ?oc=5",
+"source": "Nigeria Communications Week",
+"published": "2026-09-24T23:04:08+00:00",
+"first_seen": "2026-09-25T01:17:05+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "6a2baaf8f2cb166a",
 "title": "Dr. Reddy's faces securities fraud probe after Q1 earnings hit by semaglutide batch issues.",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcktlWnRRQ3JPNjhjWmFqR0FZZEJHN3l5UzV4Y2FlV1NhZk8wdXJ3ZHAtV2pTeWtxMGx2Tzl5MGFtZVo3WFJaeUhJZk1uRjlEMXY4c0dEU093N1V0MkRKRVlXcURpVmE0Vkoyb0o2VWI2aU5rRmdjMlV5TVliWGs4bVk1dXduQ01rd2RycTI2UGlzY2NCaFZobkdYWTM?oc=5",
@@ -640,6 +658,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f103f10af43163ab",
+"title": "HDB DEADLINE NOTICE: ROSEN, LEADING INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
+"link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVDNXY3M4cWp2RmwyWkZLM09pYjVhT3dYZWtwTUZ5Q2pqa3V0Z3hEVG4tOEt3UWZNQ3QzOXFkSUgzMGlzUklRTFBnVllObTktb0JOaFEzS25oQVBoc0FhNkNia2tsR0tqT1gwRmxJNWVwY01FeWZNSzh3ck53cEhUS0V6TkxmemxkRUJJU1RVc3hEQTB4TVNRR3FEYlc3LTVvd2R2Q3dFcXMxNlhhbHNUOUZZdk5zLXJTWVVoYjRaRzZZN3JHV2todTA5U0liYTVBY2NIU3ZQVjF2eThkN3FWWnMyOElOZGVORWtQU2xaeW5HczVFdnp0VmM1Z1phbVg5Z1luRDVtRko3dDNGSmt5eWY2T2RFemJoWXNSSVJMUUVHTllzSkZkNVdNV1NSSG5feDJtRGpOdkxKWGVjN3R0OUhEU2lEaExxQ1JPYUZfSGtFWXVpT3NMZUtfLXp2S2o0Y2FvRA?oc=5",
+"source": "TMX Newsfile",
+"published": "2026-09-24T21:54:00+00:00",
+"first_seen": "2026-09-25T01:17:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
 },
 {
 "id": "d5c5b141f6c99b59",
