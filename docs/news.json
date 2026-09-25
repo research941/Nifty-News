@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T16:34:38+00:00",
+"updated": "2026-09-25T16:48:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "9225fb9234eb6d52",
+"title": "Stoke-on-Trent boxer Nathan Heaney prepares for farewell",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUU9hT0k2OGZaX01Fc3M1UDRnR2F3WThLVHpjV0FWXzVhc0hPZGxabTNja3pRNUJPMGVFdVJkTW1aR1FySTlOU2NqUDdGbzVzYlgzcW5pR3o?oc=5",
+"source": "BBC",
+"published": "2026-09-25T16:29:58+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f349300a43d454a0",
 "title": "SignatureGlobal subsidiaries issue ₹100 crore guarantee to ICICI Bank",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW1GVGcwSTZJLXhORmtveFZNNUduN3dBWXhnZDJiOC1xOU11T3djNkIwT2kyQTI1SVN1Mk9QNTN3RTVlLTBRMmtFdFNNa1p6SmtycFVRR0ZFNklUWUx2Ui1la2lMX3F1TklSQkl3TmRUN0sycG9NMVhub0g3TnBoRHlSa0RYbFllc2U3ZlFYNGlWRUpsRVdVejZielhLeFI2dzFpMmZhN3lrR0VHamlwM21aNFB2R3hzRGx1b2dIWQ?oc=5",
@@ -527,6 +543,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f03fc8090648476c",
+"title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmNCaGlVNWw0RDBTSm50V3QwbUQxRXNJSU82YnJRMWl3NFF4ZHJhZGNnSV9neGFsZ2FrNlU2YXpaMVJQTFE2VW93TlByaTkwMGJuMW1udkFHTHJDUzRtTXl5NnVkSE4zWTFxelYzZFYyVjU5MVdSdVRwSDViVG5uZFU1VDdmaEx4UGxHZVhodlIzZ3U4c0lPUld5OEVtX0o5LUwwYkxXSTNCeUJ6RHZQQ1hUVlNwWWRyWG9XWS1UTGlIQkFLV3VETmRLTk5SbXBaSXMyLXJCem5VbS1IUUE?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T15:40:02+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "cdd251106d542b17",
 "title": "Rashtriya Chemicals awards ₹797 crore ammonia plant revamp order to Larsen & Toubro",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEVJTk5LaUZ0bHl4b3U2RnA4UnRjaW42WWhERlZQYnFGOU03YkF3OC16MkhRZzBNWFhLcTBLLURlb1owWkM5dlVsUEZ3QXV5clBYUHhNOTdfRUt5UEtFTU9hdDhNNVVZTVlZNTZiRkRxeml4aUNVNktJZ2F5SDN6SjVRSmZDTnhrZ05VdlFkY0hMQzF6QmpLRGVqcV82dm1scDVxbmpUMHJjUXpJWUNKekZzZVJ6QS16SnhkQUhWX1c0YXVxQnVQVWJLSzRndDN2MEFkRkFPOGxRVF8zZXBNM2NzVjA1QdIB6wFBVV95cUxNb3N5RmZUMExBcmMyS204ZVgzOVFYa1NoYXptQjdtRzBKRlY0ZGZJQVFSek5uUW9ncFBIemo4QU5Rdlc4UURDLUJMRTdjRkY2ZHFyZWo4ZnlQVmJWNTBGVkljSDJwdzhINkRES2JzTTItel9ZcmIxVktDWGNSS1FMQlZreW9hY2F0eVhiQlZuNVVzOHNKd2ZyTlY5M3loXzYwcTFjZVpmdlNkQ20wbEtNNklicFo4ZktYRXkyWFBsUXJ4RVIwTlVfbGJCcG44VVIxa2dHTGxjenBZZ1prbmpXT2RFQ1FtZWcxWm40?oc=5",
@@ -541,6 +573,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6c30ba8fb7e6f200",
+"title": "Infosys (NSE: INFY) Down 1.41% at ₹1,000.2: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWVyOUNHdV8wOHRLaUNrTUhwRWJZZ0dnY0QwaWdmOXRLb09QdEd3Z1VzUi01RGZnTjhyTU82SUhMSXNTZFJEUWZFSHpkQzh4OWlETU00UnhtRV9RNGpYSnN5bE1qOXhHQm1TaU92VFlZZTVjQUNYQkI4ZHZNbmRDazczdWQ1SkUyZmc3NDdYUEdwdEFUQk01SjNYZzlXVGdsVzZBVkdpSWtPMEVWNlgydGROZGpOOTBVUUdIeg?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -561,6 +611,42 @@
 "sentiment": "neutral"
 },
 {
+"id": "df57d78e9e668f97",
+"title": "Cipla (NSE: CIPLA) Up 0.21% at ₹1,402.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekNWRExiWm5CTGJ2MTc0b2RVRXAtTmYwVExPbzd2d1E2aEFlUEN1b2VxeUdjTGtaT3pibmZDekM1c1JiaGZ3bmpmR3VNdU9SNWQ5Y0M5cGs0aHBMWHdHN01qX0Q3OXdVdXZOakh1S1c2endYRGhOMDdPWXNOZXR6NnRrUmxmUnQtMkZMcTdKN21wZGE1ZnJZUDg1UkV1RU9BUGplVHJISVN0djJrcFpXTmFIMWhZTS1UWGZBVWNQblZvM1Uyck4w?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:28:00+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8b7b4782659ac461",
+"title": "Hindustan Unilever (NSE: HINDUNILVR) at ₹1,935.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaENxYkhWS0NqVlpfNjg2MTJPVFc0T2pkcGh2cC1UQjRpYk51dGFjWkpXUjVteU9NRGttSzBlUlZiLXV2OFcyZ3o2bVB1YTJOdzhNUDQzREVCVUxNSVBPLXM3Qk5aeUVUVklQQ3Y4OWRKdVNRVEVfcjM4YVV6NG5obV9WNDdsUEdSU1hBQk9sT0dPTEhiWGZFNVRHbjFVUEVQM05GWk9iRkRQYktVdXV4ZmdMcUNVckJoYXpkU3FvUHZhSnFUekJzRUJkZGw3OVRrRlJVcUxjX19SZlU?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:28:00+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "00166a8008274f66",
 "title": "Jaguar TCS Racing Extends Partnership as TCS Becomes AI Partner",
 "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0hQM084WERkYXZjMTllOHJNcmZ1Q2VKUnBvcDNIMG9idzZ5TzBsRXBjdVZfQld0ZVlQaEpSUXhaQll3VDdpU0dXZnUtTjZ5aUFTNF95M2ZtTWlCcmVGTl9oejl2ZWdZRXctd2htQWdJSV9uWWtNQUtjZDhubkE3Y3Y2Q3YwSUdZUU54cXVzWXpBY1ZHWk9oUXJDZk5tck10TjdCaFlMNTcyVElpUU9RWHpoR2t0MkxtYjNFcmNTU3JRUlRDeWg4SnRlTkhvUmxOM0s3VERfSU9PYlV6Qmx0QVFJZ3luSmJBc0FfZm9hOEZqVl9EZ0hfWEN0WFdwUG8?oc=5",
@@ -575,6 +661,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "349b29b7c0a72294",
+"title": "Wipro (NSE: WIPRO) Up 0.16% at ₹163.91: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1RnMVQwUV9qUDExcEJhanNBcVp1X0Z5Szc4SzNLR0QwcVJPdkp2akdZQ1RKcFFtUHpMVnhmOFotLUJKY0FUcXpjS0lVd1drclM0TWJtMWMwVVMxQ1hhYmJ3dDJFZXVUcXVjb3lNa2dPZVFtMmdLREV0VnRyR0h2QlZzTGZEUFEwZGJlSFlWcHRhd0J3bE1lX2xtS2tTMm56T3kwQWFsOWpBbzB3ckgzNWtUdWJDZlJlQVdCU0FqeDgzenY2aGRtUG1R?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:25:00+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -681,6 +785,24 @@
 ],
 "groups": [
 "Aditya Birla"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9d00282fdc014b6b",
+"title": "State Bank of India (NSE: SBIN) Up 0.33% at ₹981.70: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHlySHlWMXF4NlpyclJaQXIxS3kzR29MSms1RnA3NmU5Nk8xaFVGb3g2MzFXYkd2VTJzbW5tb2JTZ2RDWUdMekRGak5hR3ZqeHRjZmNWZThmdm8yb2xrS015am1KVDBuZ21qazUxQUhRMlFqMXJpc0N5aUtEX1ViUFVPZDNIMzBRTmFnZ0xWbHZkMHRKRmtTay1mZ0wweC1aeW9CbUgzUExsYmlzS19GeWthVkh5SjdHTHFHRl9OV3UxMXN3bjBvcDVOOFlSNDg?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [
 "Results"
@@ -880,6 +1002,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e3fd48e6475cb873",
+"title": "Rashtriya Chemicals and Fertilizers awards ₹797 Crore contract to Larsen and Toubro",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0FIbGNxU2VfaG85MkViQ0NpN0V1Q0tzRDZ1TlVKTEtsa1BCWWtKWXBva1RoUGp4MC1YYk9aNVhhaHBSREpZZHhYaHlDUFhFOTZ5WlFXMHd4Yk5faHdlUFQ0NWZQR0ZfYWN6a2lDQkhucnhHYVFSbURVSE5CcFhzZ3ZKaWM4R1BWT1lPSElsck9lRXJRMkJJRDBKeFAtcFlwQXM4Y01MNTNlTTlFN29hRHZqV0NPX29IMVg1Q0h2WXlkNGs?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T14:56:07+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "b88419b5ff4abce3",
 "title": "Kotak Mahindra Bank announces scheme of amalgamation for ₹4,156 crore subsidiary",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWZWSVFWZUFyQUxyTDRnaFlHbGRsVUwyNnhUZkdEV2lITDU3SnhraEt1ZHpDb3h0Z1dwdE45eWtGemdGLWRwTG9EYTFtYXJTZndoUG5hNTdaakM0VWdNd1NKZTRfMm1KMW1sTjY5V2Q0ME5IaFlmNWozM2hnNVhIWlByX2JIUXk4LTRaT2ZTeVFFUnRJT0JjQTQ0XzhuNTJlX0tZRUdZa2hqMmtLY0xWVl9uTnZleWJLOFE?oc=5",
@@ -993,6 +1133,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4db8b07687c93789",
+"title": "Tata Steel’s Khondbond Iron Mine Wins CII SHE Excellence Award",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanV3dlpIT0JTenh6cVoxVEZPLW01UU5VNDFWOGpmYXVYOU4zejJrd1hhLVN5dGlFM2VVLTNtOWE4VkNKX0FnNkVSRUxXSHBnTkdkUXozTE5YTkJOaERiRXd1Z3kwbXBIN0tRYWFoTU1hTFpCV1RVYUh2b0o0VUg2UDBkUUpzQUhjM1pEazRXUmdmd3dURFA5bE9ucjRUQUJM?oc=5",
+"source": "India Whispers",
+"published": "2026-09-25T14:30:05+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6f55fd561ceb98e0",
@@ -1482,6 +1638,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "35e6d81dfd6ae944",
+"title": "Rs 1,040 Calls on Infosys Ltd See Heavy Activity — What the Strike Price Tells You",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTdXcDNfbmJsaTh3UTBVZ2JndjZidEpBWVdzV0s4NzROc3psTjJvZ2hNSVZxcFZUSzk4ZUdsUlJDdXlMeFpRNzJFUVdYZnNVWW90cmp3X0FVYlhIWXp0eUpyZGFLVlVuLUNONnZldlJWVi1CR09OcFcyT1VYLUVqTzgyZWdyN19XM3pPOHR5NG83Z1dmc0NQT0kwYm9yU3FhNzh1dUZfMnVZVERrcVprYzB2dXJhZGpDVjVvZGt4eDdXV01pS0I3VmJLTQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T12:37:39+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2387,6 +2559,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "positive"
+},
+{
+"id": "c3ec5c3be1c98d05",
+"title": "Axis Bank Ltd. Surges 3.13% to Day's High of Rs 1224.25 — Outperforms Sector by 2.67 Percentage Points",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTVtaUtpMWhyUV9PcmVjOEtRUTU1WURsTXJYRWxVc3hkbWNkam1YeVlHM3pFV1lDNFVuWXZfdGJpSnNUMjM0T1RMd2cxdFFuUDBGMnh3cGZ2dHJtUmRRNW5XejF4c1MyV05kYU5lYTdHQy02eGhMNVM2cFM4b0lFcFFGby1MYzRqSE9lSEVTcDYxejVfZzlZVUlkVnJfTGFjNU1lT0ZwVUJyVEVhZUM4djdvSVFxM3hfQzVjRg?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T10:18:13+00:00",
+"first_seen": "2026-09-25T16:48:15+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "positive"
 },
 {
