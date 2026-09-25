@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T14:19:51+00:00",
+"updated": "2026-09-25T14:34:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e3aa5bcda5e108a1",
+"title": "Can Cipla's Respiratory Business Offset the US Generics Risks?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFB1V041dU82WTJUcm8tWEtHazB3eFdrb21tZWZldlFDeFNldWMteGxzeVFobXhYRVhIeFIzQ1FGdjJpOHlPQ1dOSURkSGFxWjRYR1U4Rk9VaWRIcDNPaW9XQ0JHcHk0ZVhLYXF1VVJmSHdOQ0NmQXNiWEZBUHlyQWNSdkxLZlhHcnFKZFlIUE5qZzVRTTRxa202TjZUVkxUQ0V6LTJOYmYwQ28?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-25T14:30:37+00:00",
+"first_seen": "2026-09-25T14:34:26+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6f55fd561ceb98e0",
+"title": "Tata Steel extends Dutch green steel pact by five months to March 2027",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSUJ2Z3JpSVhYS0p5Q0Q0S2VmeS1tN05pelBFSmxsdDhVQUtlam82VHIzOUc5dU4yd1JPNS1vRHp3dGRHTkI0UUNzX2ZrS05IZk9zSXhjUmdNWG83MzkyLUI3UTc4Z0dXTFc0czdNQ1lyVXpRdU4xQ0RUWHlPWmNoZk1aUWdXakU1a25pN3lTQWhENXREMXN6OXc1VGRPZy0zN2tQRlRQV1Jpd0hZLTNPSlFBeTdkMzVvUzVSTGxJbHNXWVBmeFVUTXdJYzIyWTI3ZEhVdGdBTUlRcXB1aWVmMkdqZGVaS3hMRnpsVE9hYWpEU1RIOWfSAe8BQVVfeXFMT0RqN3NiZEpnaXl3MkZsNGNqdHNKNlU3b19PdDZPT2loQlZQbXNNWm5ac2tValdaOE1LdzhXWEFWMVNfMGRGd0NLb3BLUndvOUh3YVNxb3BSOTIzLUtVcEZtM2JjUlRCVkFPUTRZc2dReUR5ZVhpWmhUMTdPR2JQSTBqNlpHYllGcVhkaDhpa2xIQ3hFcGZsa2E1ZHVObFh0cFRYOW1QakpBWEFpVmRNQlNpZVJsMkw5ei1UNmVySEdvR09jZG5GeHI2YzlzZWsyRnhYLXBFbkRudHJKdDMxbkViT0R0RnBvNk53UXhMZVk?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T14:23:02+00:00",
+"first_seen": "2026-09-25T14:34:26+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "dbc058f4628eb99b",
 "title": "Dr. Reddy's Laboratories stock trades 21.9 percent below its high",
@@ -4849,6 +4881,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8e7965091f4f5b80",
+"title": "HDFC Bank Limited (HDB) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OR1M3THRtTERvWDhiSGhfemR6Q0xDSUQwMVFpZlNFMWh6LU1FV1RnZGlONW82UTFHVkw3bGtfVkZDRWMtSHVtYzB3QmdXSzJI?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-09-25T03:48:16+00:00",
+"first_seen": "2026-09-25T14:34:26+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
