@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T10:57:55+00:00",
+"updated": "2026-09-25T11:18:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "83c40f70b67faf8a",
+"title": "Yes Bank to Adani Enterprises: 7 Stocks That Witnessed Massive One-Day Crashes",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeENsbzZ4MGdJVEd6OFZTWGVpZzlwV0R0V25pZWxnb2ZteER2cUFrd1lNbTJramZYaGdMT2hoQXhpeVRLU0pSVmd0eWduYUNYaDNfSjQyX1FRM3dENmZEYUpoVlBKUUFDNUg4aUF0dWx3cklxVWVOYmRJQ2ZzRnBHQmNreGhDS3BlYk5JTjA4TnMtUXZhZTZlVWh5OVZTcWZibkVHTHRxR0V5OTFBN0RGTHJhbTc3REhjR1RDTVdjZDllQQ?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-25T11:06:09+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "947064cdcd195e3b",
+"title": "Top Gainers & Losers, September 25, 2026 at 3:30 PM IST: Axis Bank Leads Gainers",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13cGtlU0Jhb2tqZ0tKOXJLTjhSS0I5NWtheFFMZXFjN014clZhal9jQzNqWHI4bHFvNmNvSzd3SC1ha1h0S1d2ZFRWUDA4b1lsXzNyVDZvZXV0ZEJoNTFJS3B2cUFzejIzRDFGaFZVcUc3aFR1MVFhaW9BRVQ?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-25T11:04:50+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "625bf11407999ae9",
+"title": "NTPC Green Invites Bids For 3.3 GWh BESS At Khavda",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb09mNWNpNnJKbVpfRDdlTTVWYkVUZHc5NkpmbTdNRFJibE1QR3hleXR6Y3M3bDA1QW9qbEI1LXFWWTFzVmhseG1GZkFXTkxOcmVmc0hkTWw3OTlqY2lhdkd1aGN6VlVQcGUyUTBsX3k0S1FnLW1DWlRNQlA3SzcwcXNzRDAtQQ?oc=5",
+"source": "taiyangnews.info",
+"published": "2026-09-25T11:02:58+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cdfdf377ff83cb53",
+"title": "HDFC Bank CEO Announcement Live Updates: New MD & CEO appointment expected soon",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzhlUjNpZ1dSLXhYRXF2UWlNUnBBbHFpNGdJZVp0d19tN05MaEdyNmJyTUlpZ1NEbTM0bDJuMi1NRXlBQUVVVHdGR3BZWUp0cVlOUGFrLW9XU0FtT2Z0UER2cFNWYjhKN3FIZGRrTjdlSHFPa2hTNEVrWHBqR0JfOU84VkE2cnZoeU50Q2FldzNEdjluSEV5dnd2dzNYZ2kyYVNCcjB6S1JwbnA2Z3I2Y050bzY5QXljdzZRZ3gtU0czOGpEMU1UajdvSG11ZkhaakZTcG94c25jN1HSAeABQVVfeXFMT2J5MlQ2R1l4T2tBWjJDbC15ekx4T2pHRGtxeTJvbWRhTDc5Ymp4ai1NakxlY0REclRvZS15eXVTdWhvLXI1OENDbkhXa2RrclQ2cFNrSXhNQVNrQ2IzZEJ5U2I3SkJyMG05SnM3bzByc1B3Z3VjbkZRYkU1NXlhYlRiaGRtOXV0dEpWZDJUSnljcThMZlJoUmRIcVlrWkFMWmJjSnRQQnNGUVlIMERpSFVDOG5VcjJmMzQxRTFSNVFQd0NlZTMtRGRXZWd5eDhJVExIbFJQTDlMNjNXd1lBWnI?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T10:59:14+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "151694f96ead120c",
 "title": "Max Healthcare expands Africa footprint with new centre in Tanzania",
 "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcXNOS0VrMDM5OGZvTHFhc19haVM2R0IteGUzbXZPREdaT3FyUXhyajdqZUtfYW9fNTBlamo0SWpRbUhvWkZYUUwtMlNCRGhOVWpROC1kVHpkVm9fNENGaHVJS21rWlh4T1pWV092Y2tkRVNzOXM5VkxQYkxMZE1FTjJXZHk3emV3WUVGQ0txSEdTbk9tOTNUYVVzQVlvUUVRVDZlTUFSYUg3ZlBjWXJ4NUQyb19LdW5WVWpFRXZNeUZ6THk1VkhiS3otTTN3bjNKRnZVSWRMUGtSUGI3UkNZMXFJX3l4UWNrbW1XUnlETTI2Wmw0bXd3btIB_gFBVV95cUxPQVA3Q3B1a19UNldNVmo1V21Ucm1EaUpaWGh4dWJfN3p1Uld2XzRva3VWc1hFcFlvMVhWS2k5aDdUbk1qQlFPRlJ3ZDhiVEU4M3BYN09BS2FMZi1hNXRWbkY4RzFFb2loSmtXeXdkX1BrNm0xVHBrYzN4MVZicHRZQzI1anBkWWhYQnEwVDNWS05PeGtoVEtrV0tXSGVUSTd4dk9hVlNVQ2t6TldZOHlDR2h0NUl5dFVOMnRCUjZNY0dCdVdWMy1NaUhqWm9laWI4VHRhaVZ1R3pXb3ZBbjQ4QTAxa2xxRzhOckRwVXBqWVNBTG56OEdLQVE5MHhSUQ?oc=5",
@@ -509,6 +575,22 @@
 "sentiment": "positive"
 },
 {
+"id": "acfbe82b1830d069",
+"title": "Max Healthcare Expands in Africa with Tanzania Centre",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDQyazZhN2lSQ28zcml1alJaMmZxYzdxUkN1TWtmNXRuTkIwazF2RFNYYUc3UHNhdkNPRG9adWxlTGVTNjFYN3VrNmVmSkhjbVBEVzEzV0ZvT2p3WUFiYmJMcDNRb1gzR0FGaVl5VUZmMDVxT3BnMDdqNGhCQ2VjQUVTcGFDZVlqanUydXlGVmIta1ZVeTZDZlRKZFQxQko1aWxabmtUTHrSAa4BQVVfeXFMTl91QTh1R002LTlHTGNoekNRM2NyR3hKUm1GYl82NmQxTWNqYjcwc1c2Y1V6WVpjN0VyTUVqT1hCdWE1Uy1WYmJENWVWYVJFMm1laXZPS1FpbEYyUkdwSmh6WUo0Wmd2dHVRRDdGVHBpUFRFZWFGRDkxaDFtcGtoX29DVGp1dTZZY2pBZU9oajZRSnR6UW0yRkJZalVSR2dNX1l2Y0VfNUpCb1pockpB?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-25T10:34:04+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bf8793c804d3435e",
 "title": "Tata Motors weighs further car price hikes as commodity costs bite; increases to be gradual",
 "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcjJvWks0dC1ZMy1jNVZVdmpLNjV0Q1NyNXZEeTkyT0swX2ZPU3k3dC15MUtxcExuMVlCcXNyVExMQWJKdDZHYWM0d0l2M0c1YmJEZlM3bnJrQkgtNExoSXFPdmNlQ2x2YXQ2WHo5SlFoYkNUalIyYjdTQXJaajQtRVRhWll2SXRyT0lvdkZ4MEFwU1FMYzFpeDh5VlpaX2xzXzhSZjB6Vmpkek9tQ3Y4bEYxR3FrZEpoeDJPNUFLRVdtdElDaXZVa2tfQ2JDVUZ2WmowLUw4a0tQYjVPUE5PUlRuQmh1Z2UzNVVTemdLZnpVdWlTUUw2VnZxUUnSAYICQVVfeXFMTVRvVXJOZ1JsbU05bzQxTU1vdElUYVMxNlJPNHRtb1N3NFBMTWpQd3NGQ2pRdGFGclFBTEJFTFJTSFRuY2tEZGZiRjVXVjRPazlieHFfU2FLRHVnR3VfY29xNmRfWHpySGVaaXl1WkZXbndJek14VklpVUthVjF3V2M1OTJ2TjB0b29EckVkOW0xM3JrcVRYRzNib1dNRU1LWVRnbklkUkhkYmQ4aG5BWFpZcTFudGFQMjJWX2tfTkdwSDFiNTNCSmhUZ0tQZEtIcEEyVnpmX1U1SnFTVVpuY1ZmQjVVUUdXU2hqQ3FzaHEzQkRkNXZ3S1ZhMDB3XzF5c3dR?oc=5",
@@ -525,6 +607,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "040485cb6a9a9c9a",
+"title": "SBI Waives ATM Charges for 3 Days From September 28 to 30 Ahead of Proposed Bank Strike",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSjdrV1ZQbTd6RDdRMElpbnA5YzVRbzZNZHFSeFNIMGZnNTZ6VXRMVTRZMjhITTJtdW4ya19XRDhCZklwVERyVWQxa3VpTnVINTdPUVh3ZTFQZTVWVHNJQWZTeGhERjQwaFg3am9mQ25ETG52YlcwMjdLQkZUbTJqZ2hpV3o0NTVzQlpfZ1hHYXA4WEtoUGN3bU13NHk1OEVydXN4RnNIOUR0Q1FjR1gyMnVrM3JXbmtwNEdLNV83UlRDSm94WFdiN3kxaVk4YTZYcjJVQdIB1AFBVV95cUxNSjdrV1ZQbTd6RDdRMElpbnA5YzVRbzZNZHFSeFNIMGZnNTZ6VXRMVTRZMjhITTJtdW4ya19XRDhCZklwVERyVWQxa3VpTnVINTdPUVh3ZTFQZTVWVHNJQWZTeGhERjQwaFg3am9mQ25ETG52YlcwMjdLQkZUbTJqZ2hpV3o0NTVzQlpfZ1hHYXA4WEtoUGN3bU13NHk1OEVydXN4RnNIOUR0Q1FjR1gyMnVrM3JXbmtwNEdLNV83UlRDSm94WFdiN3kxaVk4YTZYcjJVQQ?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T10:26:32+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9680d75eadb404c8",
+"title": "August credit card spending growth slows to 5.5%; SBI Cards falls sharply",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1BKRHQyVE9GZ2x0em1OWEtSWDNPdW9rODlMOFI4ZHB6MWUwX2lNemZZZHFXczBNckxPaVFZc2RLZlFsQXJ6bTdPVzVlWHJ5alBwSXU3blFKeXQ1S3ZiMHZfTExPbW9zV3VkLUxJQXhySS0wdkJnWFNHX0FjMWowVGdfUjA3b0JxaFozVWFra2xWUWkzNkxpQVN1ZnRQTjZFNW4xR1pOUTFhRTI4QU1GM0NyelBZQWE2bENtcjRvQ1BCQnBLM1lodFVKd9IB0gFBVV95cUxOMlhSb2EyMnFBWDB1YWI5aklTOFB1UzdrNU1rVzhfMlRmTUVtLTc2Tk85bV9Qa3ptU0ktQ2J1V1J1RGVZaWZITEI0anJFNHJ0VmJXRnc2eU1iY3NCb1IwNVhjVm1ySWwxX05vVHhVU0RTYjUtckNCdlg0cnBDbzZGem5KMV8xTFdGdm1HaHdWdkdFVHVwUTIwSE1ZYTRIUldEbkZrLWpFOWZaZVRNeFdEcnZ4MGQ3Z3lrNDF2MjczV1ctX2RyZmlxeUtkT29aUURPc1E?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-25T10:26:04+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "f4287adf6c1115f2",
 "title": "Tata Motors Launches Aeris Compact Sedan At ₹5.29 Lakh, Targets Personal Car Buyers",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ3VKaGZiZ2V0NlJDaUk1THByVTI4dFRxRXFaSmNmMFV5SjNBU1d3YW1JOFNyT21ONTRnWUJybHNRRE9ZbWdIVEdUZUlLQzNfckNpVk5MdXduQm5TdmJFYUdkX3FkZjYyeG5xNXRQX3lVSU5KODJRUlpfRVMwNURWRXdQY0ZQM09xTW1qdVRXak5BUmY0RGV3OTRtMUVyc0pKeTBUWVlDMVM5MVQtNk9UOENKcTFJLUlpaGhCVHdB0gHDAUFVX3lxTFBMYUE3b2lkTU9PR3pzTDNCSGFXME1jdjdfM3AwdW5qZ3UwU2g2SFI0eXQzZU1fTEdFM3gzbXRpWUtWZnNuRl8zeEgzMjdUZ3RQaDYxT2JuWE5ZdHktejZ3aDh4a2dGTlJMcnpLSE8tZjhWSmw2ZVV5ZTRuWGNhbGhkNHNzamRQOXJGN1QwOFVLdmxvZ3dNQVdaOTMzVEhGVHZHX1R5VU91X0NpR0lLQmNsZGxtSFhkdjdULVFERmFEV3dpaw?oc=5",
@@ -539,6 +653,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "dc650f206bc7e75f",
+"title": "Tata Motors Considers Further Price Hikes Amid Rising Costs",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDRqMG0wM0EtRU9PWU5nQXpxVUd2Z1BzN2MtSUZQZTBNNnJsNzcwb0RYQnM5RzRLTl9nZEwydzctRUJmZEUwaGNFczdhWjFmaU53NGRWMU0tby0yblRibHZCNVVpTXRyaWFjTTJUOElvOFRRMkNvdmNYZTkyWmNkNE9Eb0JKU01jMkNubkNieTl5Nm9JZnZ3NEh0QzVkdHlQMFg2bktFZ1V0U3U3QmFUSg?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-25T10:20:00+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "c58b8f01117713d8",
@@ -842,6 +972,38 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ce3cacfcf02c012f",
+"title": "Bharti Airtel Ltd Sees High-Value Trading Amid Narrow Price Range and Institutional Interest",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZW5Fc0V3b1dyZ25hRmhIZHJNcEI4OF9EMS1KM1gxWWZScW05ZmI5VnFaY1Fub2M0YW5rTTJXeDZIcXVOZWRmZVY4bV9TREg3VUVNQ1FQMjJqTTQtS21nVkdWZkR0VndoVVF3VzZYMF9aTlliQ1A3cmJ6cGJhREgwV2RsWEk1YzRPTWx4ancyclQyREE5bmd5NS1RUFlpN1RBdzZlMk1mSXpyOTAzYk56bUQySE1EeVFqbm54d2RvN0k2UTV1NVRXMjZkeDFFZEhTcEY5dlA4SGtHSjZ1TzVyaFV5TW8?oc=5",
+"source": "marketsmojo.com",
+"published": "2026-09-25T09:31:51+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2ce69fddcf31488a",
+"title": "Bharti Airtel Sees Significant Open Interest Surge Amid Bearish Market Signals",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTJLd2pGb2VVNURkX0tyYzhLT3RBeWdKUEpnaXZYMVEwUElZUmN3MXhhSUY0MkxHOW5oRGtOYzVCdEJCVW52WFFtZU9jZ0NCdUpzMUs5SVg5RDROV2cydDNqRHJndERFajdZM0JkcE5vMzhCYTNqaGlLd3hLaUF3QksyT0tHRGE2M3ItSGpxSTcyMk5YVkJCUU5WOUpqWFV5dk1hNnlSSms2VzRVZXZsTGVwRkU4cGNSM1VId2dpcHJNZjhxcjNDeHJuNDJSQktTeGc?oc=5",
+"source": "marketsmojo.com",
+"published": "2026-09-25T09:31:50+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1178,6 +1340,22 @@
 "sentiment": "negative"
 },
 {
+"id": "3f0949fc871eb009",
+"title": "ICICI Bank Ltd. Technical Momentum Shifts to Mildly Bearish Amid Market Volatility",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSW5QLVo1QnZvUHh4N0pjdXNCZDlDeEYzMF9RSGlBcVVtSUZhdFpZeFI1c0dCM09nUjVSQzJFbzVRSDJwdHU2TXFzOXpITmxhQTI2dUs0dmJjd3pKbU1veWFKZmQ3SFdtWk1yTlZDUDlNeVE5blZ3emVodlkxdGlldXJGZHVtakwzUEdrMWlkczdTN19PamJOMEk0ZUlKY0NjVlA1OUNHNk1acG5sLXZucUhWN1dMM3JrWVVDMzF2djFJZkpFWDg0TjRZZGJoak1DUGpoTXpn?oc=5",
+"source": "marketsmojo.com",
+"published": "2026-09-25T08:38:22+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "f3949bb88badcb6f",
 "title": "RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnJwdTFabU0tZzRJQjVvSXhENFFSYjhCNVdWaWlQT29xSGlzX0tIVkl4cV83aVFwUjlIM1RNS1RfMGY2RWFYRzBUQ2lpb0x3c0swcWx3T3lrVWo5dWUwVWgyY0dzSlpLZHJQZFNRa3RMZThzNlJSN2FlVVp1bVpMSkpqWWwyaHU0WTA3dlh5UWE4dkE5SUlhZHpySjJKMEh4X2E1Z0FHX2x5LW5abGM4RzFMeksxdm9KVUNKd3lRaHJRVUpuc0VDMVN3MzRLWnhGZW440gHYAUFVX3lxTE1sR3NkaEFUc01jeW53ZFNHRVVSeFRMNkloelRHVEs2THJGcFlpNUJNcGFiNkdiWDRCRjV3QnR1YVg5STZBWm9GODJXRnZVQlREei1IaHBkc3BrS0lxZ1RjNVRPX1drcUU4S1VMckxsTHJuQmNHUmpZRVhuV2hqdDdfUGpocDQ2WThTbnNjMmIyTlNjaEFnV1ZVR1N0WGdVSTVIVl9QaVNCYjFLZkNmZHJnR0VWZzkwczZNc2M2ZzBCcWhranNSalUtQk1SeVRIbkN6Sk0weVdkVQ?oc=5",
@@ -1224,6 +1402,24 @@
 "source": "business-standard.com",
 "published": "2026-09-25T08:29:57+00:00",
 "first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "cd3bd367bb91e271",
+"title": "Commodity cost uncertainty bigger worry than price increase: TMPV MD",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXJ6amVzNEJ4THp5ZmdzaWhsclpUVk53TTMxVHJNay1WQUxSYVd2bnVTZEVaWDVCU3lPU1dWc2M4Zi1lN1dGQi03VWFDYVF5Z3dNdHJZMDZmTF9RMjcxNnBuVWF0RUVtOEdyYTNWMVFjUl9tamV0MEluY1RqZzFQU2ZlMUlsQW9HNnA2SWVnc29ndXJQZEJSZGo5VkFqRGpWQlo0cFpsbWhJVkFldGl5eU9uTnF0a1A4aHZwVkFxcnp0TDY0V3J6YVJfd3pEeFljendJ0gHYAUFVX3lxTE1EWW1PNDQ2ZVRfMnhwSXBLdFN3SzZmbGNEQkRlWTJZUlg1b1pDdkdJdkNNR2VXY2Vfd0xGZ2lYY0dPRTRfWkpJTXJySFlvYUtQNlVIUDEzZDhxUFBZaTR1TXJ2SEFDYkdRY2NRRFlFcmZBNkdkTTdnb0ViYmN3bGN6U0lwR3BlaUhFQVBkM2JZU2g1V3YtUkUzb0VQbnN0NFlrQk81SE9OZXRtekRfcTQxV1BBOHFWVmUwbld6OE1ycnVkcUhhN0Fob3liSGtMSVhmR1l5Qndvbw?oc=5",
+"source": "Business Standard",
+"published": "2026-09-25T08:29:57+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
 "symbols": [
 "TMPV"
 ],
@@ -3373,6 +3569,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "1ec73b14a7b393b1",
+"title": "M&M Finance Clears Rs 2,000 Crore NCD Plan; JSW Cement GST Notice",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQkJ3aFBMb0dFdHQ3YzNUdGJxM1MxQ3RLRDlRVEs1QXpiWTBKOXZvTVNidklqVldjRVNQNHVmMS1FZ2JsNks4YXZuSDhrSFRKZThGS05uMEJhdWdXWXpxampRX3lSOUNNbWlkQ3VpMGhCTHlCaGx6SldtdGEzbnRkcThocjI0dU05M2ZCTFgxLTNaOGJJZHBCZVQtNlc5ZlRSM3Bmaks5dHVhMnBsdEZOQWFmdHNYM3BWTll0UzFCdjdXX1lDd0RDc3VVSXFwdlU3a0xST0Ryc2JjWUpRZHhTdHk2bGZjZzFwWWMyRFYwVQ?oc=5",
+"source": "Whalesbook",
+"published": "2026-09-25T03:44:19+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "011fe99f7a626fb3",
 "title": "Adani Ports shares may rise 21% as Jefferies flags Vizhinjam ramp",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3ZNVE96YUVCUU9rbFBmczNxZVBReXFPeHFKaFhpazMtR1BTdXZVc3ZnS19JMk5QdFhscGRTNDBKenpLa0NNUkhBdUFoV1V3WkpyZDlHS2xOMjNFYUFpalRTMFVQX3UxOTVIdzZsTzdjeUNrSjRPTHNKNXc0aXk4OF8ySXl5NzVBQkM3YkNpRng1Sms1NlVnYUp6UFBROFVvalNSb2lGcGhyOElnd3hlR0dRbFdnUXBqSnZRT3RrUXFjS2VXOC0tOVAtQnZVaXZlU2pxeDFNVkRQZw?oc=5",
@@ -4892,6 +5106,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f67541db8e90cbd6",
+"title": "Maruti SX4 diesel launched",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkFrTTVUTFYwYlBFTnFQdFRDeUFvbVRMVXV4bTRQdldyODZBWVF4SF9kU3RxVmlEd21vX3JyeVI3cEJJM3pWajlmLUVLeVY5T0JpbEkteXpTYlVEVXlNV05DSy15UnRmcDBmQlY1Z2lrQ0pSVHhmMWNrSVlhWjNtNll4YWc5d9IBhgFBVV95cUxOYkFrTTVUTFYwYlBFTnFQdFRDeUFvbVRMVXV4bTRQdldyODZBWVF4SF9kU3RxVmlEd21vX3JyeVI3cEJJM3pWajlmLUVLeVY5T0JpbEkteXpTYlVEVXlNV05DSy15UnRmcDBmQlY1Z2lrQ0pSVHhmMWNrSVlhWjNtNll4YWc5dw?oc=5",
+"source": "CarDekho",
+"published": "2026-09-25T01:10:38+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4b2bdde267626b92",
 "title": "Silver lining for UK equity market? Airtel Money targets USD 9 billion London IPO",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkcyQ2xCOFdVSlMtVndVVVYzWmx1VFkwSF9KUUtOYWZ6RkFrTlNMSlJLd0dsdVdPRGhTUndZQVRkSWg0OEtnaTZEOHpCS1dvNXpWeEk0ZEV5QkJUZFlyUzVzX2FMU3B1YzhKa3BmbE5kQ2JQVEc2eTRSN2xBRlB3LVZLeDE1WTVwaGVmTzk5T1JzcFNhaGR2X0tGSGZjc3N5YXdyQVpvVnM3dnZRZFdHMWhjZnJzUDJwbnVZZVlmSQ?oc=5",
@@ -5856,6 +6086,38 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3187b65cdfdf29c9",
+"title": "Maruti Suzuki Ertiga On Road Price Belur Sep 2026 - ₹11.05L",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tWFBSSV9RR3pveXZMUW5kNDB0djJnVzF3Tkd2TWV4UGoyYS1wUkJpYWY2dDRROFExQXVSMk5XSFNwdTVFVlJBRXFHZTJhX3oyVmhaY3lkZmlxS0dxWmN2RDRXX25jTDZxMVctODhIZGtpSjVPM1U2cWRjMVc?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T18:15:05+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d5e5d26705879a8f",
+"title": "Maruti Suzuki Ertiga On Road Price Somwarpet Sep 2026 - ₹11.05L",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJTdnY5elBncEhBSWNIQjlZak1kVTVZVWRfdUtEbjM1NkdHRndpbFdTMmlqNml0MzRkZWJCS0JnQWd0VWxsdGctZFRKZ18za0JoZ2c0YzViMWJ4WFpTOXdNMUdSWThoVGJMZzJDYjVmTHN2MUdpNUM2aUlQZnVldXhB?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T18:15:01+00:00",
+"first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
