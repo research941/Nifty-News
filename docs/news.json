@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T17:30:31+00:00",
+"updated": "2026-09-25T17:45:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "466baa19c9c65c49",
+"title": "13th edition of Wipro Bengaluru Marathon on September 27",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHZPNEJnZ0dDaEM5aml1QXRlMnVsR2hxNTNRaERBbjJxNmVWc01yRm10YmpBbVFwdVozWVZHYlhxUzJRN1ZnemU5U0FodERDYVpiZExrRVdSdG0xNkk2VEMzRk5EMEI5QkFsMkU2eFFCSEdZR0JIRlZaX2pLSTZ2S0Nid0pRMExfWDB0dkFOMVR6dEI5NUJsTlk4WmlqUWhWSTladnAyeXhCMFdJbmFQc2I4LWYtMS1fZENtckdEdEpOLXPSAcoBQVVfeXFMTm0wRTg5c2xaUnlPS3JmVHhuNGZtUVhSb0tPT0QtT1gxcldEellPeXVVdmZfb0cyUlhkRURfcW9ZcTNWWV90ck1Td2cyTV9NVGdYVUhoZVAxR3pXcHg0OTJnYl9UUnNDNnBNS3FlRXA0ZWs1QXdHSm1QUm1tZDJneVJqbXQwY19CVUV5U09HSFlXd1k1OVI1UzR5YU9ob3NXbm1VNEh2WTRDT2tNZDg0LUlaUFB3MUxuMUxScEFkNU9SQUhtemxhN3Uxdw?oc=5",
+"source": "The Hindu",
+"published": "2026-09-25T17:29:17+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fe249f795c9db1eb",
+"title": "American Trailer Manufacturers Coalition: ITC's Final Affirmative Injury Vote Sets Up Relief from Unfairly Traded Trailers from Canada, China, and Mexico",
+"link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOb0FBWHJzV3pZTDMtYmdnRXVab2U3RE84YUZQSHN0TzAzeG9KOXlaYTJyY1NVcWVENG9CTktaLXQxN1dKbE1MMmx6aUJSRzkxcmxSQmlUTjNCNEFGYW1aTF9majZNeHZSZEkySExxUVpsS1FTY2FaYTlabk0tUEtQRjUzdlFDX1pBMmxPVS1LcTFidERTTXhObjRtbThtazl3djdwUUZLWFdocWUwQTVST191TThiRXNFdUc2LWRfejVGVFdqSjNVWjJPYVBpcEZlc1lvQl91TzE3a2ZfTjJxZl9mbGdaTzhaUnE4YjlCcUcwdHVBc2hfN0p4MmxtUnl1Z2Z2WkhkQkptV2ZSVWtxRzdpczFyekowR19jbWJHbG1FWExHQ3IzV2RMYktZeGQzaExDYw?oc=5",
+"source": "Morningstar",
+"published": "2026-09-25T17:25:00+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3dd34effef018dbe",
 "title": "NTPC, EDF Power Solutions join hands to develop low carbon energy projects",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXBKZkZzV0ZpMGh0X2lNdnJyN0lvbUN2My1ERmVCOUZZWTFUX2h2MzRQRkxuSHk5ck9lUkJ5VW1IQzFsNlhqSTgxM0MtU0VpdHN1QVZmeGhsN2pqTjdzdnFVUmdVbWhkakVaNHZYaDVpSThzNWNaSTlzdnlETWhmZ2NTYjJkWV9OTnVlLV9hN2N1R1dDeXI0LVpwVURabGhRN204ZWI5WkF1N2NNbVJGVXhWYmxhLTM1b2tDMEVUWFN1V29ISXfSAcsBQVVfeXFMTjdUTXgwU0xfM1hYN3NYR3dDSzNRTHFhTTd1NVZtdjB3eDI2aV84LWFZQ1FBSldfX0kwQ0R4QWU0T0F3Rjh3bjY2RElhODlPTDBaUWg4UUJacnJGVDluVUQ4YmxDWV9ucmJ0TlgxMWdBdjZOTHdvLWRFdExibE1CQzdEeEFzUExJX2NIR0ZHWDhOWnoyeHNEd1E2el9zN0VSU2dDWmZwRndLa3NCVHUyWVBmS3JUSEFPQzU5NzdrV0VjMVVkU1pqUnVnb3c?oc=5",
@@ -641,6 +673,25 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "54e8dd6d8385ed8d",
+"title": "Adani group entities swap 86 lakh shares of Adani Enterprises in ₹2,498 cr block deal",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjJrSFM3R09QTDU4Nks3YTJZQ1VlNWRtSmNmNnhFUkVmb0UtSnFacnl5QTVrQ3A0R2FXaWhWSU9jVTdDS2g1Ri10ZHNlSEQ5M3Y1YnF1QzA2NUdRRnlBalFiNFNJQkZkcDhyNEVBUnNncmRwMTlqZGd4WFhOd3FLMnpJb0xkMm9Vb2NTMmhCaldiVHljdE1GS1hfZlNraDdfckJrc3N0MUl2M2tVNkRxYk0wSXdicUVtd0ZLV0MwTWJ1cUcyYTlreDFiYTB6d9IB0wFBVV95cUxPTS13ZEZpNTVESW5DY0QtYkFTNnBDU3dnX0xlZlNaSXhwRktramhXYWlzNjJUTXdXZVQ5MENlTmFVZlgyX0daYm1iSmJWN2dxSUdqeTdKMUNUNDczSE9TRThHQUxJOGhCMjFtZUJkMUhjWFRpNTExYmxCa055a1FKb0hBNkNsSVVnX2dNUnloSThiekM3d3ItZ21ha1NrMU5scjdBTGVNNTFyeThWQUN3eDljaDZ0N3A2X1RXTVBuWE9TYnB2Nm5nckU5TlRzNy1zUUw0?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T15:35:13+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -5588,6 +5639,23 @@
 "sentiment": "positive"
 },
 {
+"id": "624b987100da313e",
+"title": "TCI Express - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR3cxa0lfRkZEcVdLQTVmWi1oLWhGSU9qUkJHVklWcVVnVDBUUlZGZW9NVmVOY1FYS3p2ZzhVVmlTM3VXOVlCYncyYXY5NWt2b241c1p1dnVZdEkyOUQzZVRBU0xYZ0gwaHl6T08zYkIzVWJLNktSZ2Iya0FaYTVfYlUzUWx2X0dOZXRuRkJmTEI2VmxPNU5ObTg2eDByNkZXQVVYMlZlZjc4VW03Ujl4NTI1OV9sMUFXY3BaazAxWGlTRGVFMV9KZm5MY0ZSV0dlZWJBOXRyWVN4QTJ1YW1BRkZNYkpOQzRLU3RNcTVmQnB0WFRkV0xTYnF3dG5oT3V5bDdLeG9mRQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T04:56:31+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "c5cfe13b49e8ad5f",
 "title": "JSW Infrastructure - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZDlYdDRDakNHa21HMXZpZm15Q1hlcEt6Ylh2WVJsR1NGaHVuMWNCcWVIU3Z4Nmd3UWR0MEVlU2J2WHUtdEtUb3dRa2ZXaGpVNzdKakN3aExXRzB4R3NQbUNwaG1IUkFtY2pOUkVOLTh0cV8tWGZKRkRwRmZhVmJ3V2NMMy1uYkpueUtZM25QY3N1TUVqRWxncFJaeGdFSGZHSFFCeFFIa3pRSmxtbldNSHl0R1JYMHNJSUZZZ19KQ0cwTWZXSkJPeGdVWm8xLXVOd2x3ZUhZYk84UWJFMUk2aVBGY2JQcjFIaXdXRGVVbUVQQXNSS3JLbU5GdmVRYWFWUEw3SDRNV1NIaWxVci0wcQ?oc=5",
@@ -5639,6 +5707,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "9a99d4dca5c26109",
+"title": "Max Healthcare Institute Share Price News: 2.22% Decline",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOF9ORWZGM0hRVl92cVE1Q283dTRUZHdCa3RLTHpFTVNqMUJjeDJSV2Y3amxqMEc1c3E2MC1mOXJiek9PMTF4UVYyVkZDM1dkWFJBRGVBckZhYURMSXlPVzdmMmNTQ05EeHVUM04zY09CWTk1ZlZxcEh5TlVmSjVhZTdJR2laYl94cDBYQk5vWlo?oc=5",
+"source": "Univest",
+"published": "2026-09-25T04:49:19+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "6cb89fd35b7ecdb6",
@@ -6508,6 +6592,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15b0ce7ff574eb7d",
+"title": "Interglobe Aviation Share Price - Live NSE: INDIGO Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjamxKNHRzV3pMT2NjN2IxVlE3SmI1Rk56SEczNl92RXJ2Z1JQSVZuVzMwdW93MjJUU1JSbHVsUG1oeVBOMFUzOEdRdVQyYU9YV2Q5UFVVYjhIUTlVWGJVUFR6MmNZR3dnLUNRb0JXNA?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T03:23:59+00:00",
+"first_seen": "2026-09-25T17:45:14+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
