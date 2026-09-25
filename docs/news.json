@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T22:55:46+00:00",
+"updated": "2026-09-25T23:16:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "ac42695ab53d4975",
+"title": "Crypto News Today: Bitcoin Defies the Fed, Chainlink Lands Infosys as Pepeto Revives a 150x Pepe Dream",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOU9QamdSRG5Sb3RsYk1rT2g0dGVLeDlEZC1aU2RZV3QxZk12WVlWdmg2LU82TXpudzktamc5enFMMGp5bE1Db0JrcXhMc2JTUWhOTW1xSDBwcnpGaWNPcGNGdkRHZ1NIQkRha2RvUmE4OV9nMWh5YWtzT09QdmgzZ2lrU0hIaHNVU0NMMjhRMnhJaFpuR2ZZ?oc=5",
+"source": "openPR.com",
+"published": "2026-09-25T22:50:00+00:00",
+"first_seen": "2026-09-25T23:16:25+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "7b269d13c1e33e27",
 "title": "ICICI Bank faces material GST demand over minimum balance services",
@@ -6246,6 +6262,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "746c9f9893ce9aaf",
+"title": "East must rise, Bengal essential to India’s next growth phase: Adani",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1dGWVV3MUZxU2l6VElwT3IwWXFsLVl2bGJEWnFrOG9CM0wxWU9IbkluQWFUYVgzaWxmaG8xNkJRWEloWkV1RlZVbHJoaFRUS0FxVEVxbkpuOGZlMnFXNFBGTmgxMndsMkgtZ0cxeEF0V3pfT0JDNEJHd01pUWIwSDJUeURJdW42M1paQXJZeXZLTWc5elE?oc=5",
+"source": "Nagaland Post",
+"published": "2026-09-25T05:21:22+00:00",
+"first_seen": "2026-09-25T23:16:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "9ddfa8cd65d94272",
