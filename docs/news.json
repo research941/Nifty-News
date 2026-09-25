@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T11:31:50+00:00",
+"updated": "2026-09-25T11:45:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "357524c6dc5bd5ac",
+"title": "Max Healthcare expands African footprint with launch of fourth office",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTFnU0RjRk1hRnFtdGlrdC1DaDYtX0xFZ0ZseE54elNqT0ZsblBTaHBxNEE5LUZDYkdMcFd2WE1lazRwZzNrOTJ3R0ZSTGRhdlZ0QVp4OEFFRDc2cHJyQjUwUTdGZ3o1LVFlaHNZbDBPZHdsbXU0UmxYeWFFVkNkc3lyTU5CeHUwcWdBWkIwcjd0d3hhaUdLTGJGT1B2VjllTjdNY09rYngwUG5xLU9mdlJMZkxjYlNPNERoa1dWWQ?oc=5",
+"source": "biospectrumindia.com",
+"published": "2026-09-25T11:31:55+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "457d3879213c1694",
+"title": "Tata Motors Weighs Further Price Hikes As Commodity Costs Pressure Margins",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmZubGhiNE52QXdYQVlxTzFBZC1wLVJoZHBSTElhRUVId3ZpLUl3Q25wcmkydEZYOTRkcVBWcGE0aHYzMXQyQWUtNk9IaURyTGZ0V0UwMG5rQ19pMmVkQmg3UXo5Ui1HNGVQaTFjaFNQYTNTcWN6blJpZ1p6SzVWN25wX01GUHBvN3ZsMzNuNHZnQlg3SlpLaWU3dVZHZlo2aWZfR3V2aThCRlpIbnNqWTA2Q3BCUGlZZXZj0gHDAUFVX3lxTFBoOTVjZTRmVmhYaEM0RVRLTFZUeXhVRXAtTTQ1NEdIdGpkMFZfV3lIWktVZ1RqZ0tYSGlQS2txWjB5MFpuZzAxSk5FMGgyNlpyTVF4MEx0WHNMR3JsS0trbFI2c0psT3NwbWNiMG5vSnEwRzJMTmZtbE5pOGNyRk81YkdxZFZ0WFMzeTYteXFoeGFleGtDeGdrSXBfSi16U2RJaFg5Wk5TVEFLMWNPR3N1MlM1WjFDZ3RYdThNQXF3emtjbw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-25T11:30:26+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9dac3c4e0c18bdfa",
+"title": "Tata Motors Positions New Aeris to Attract Premium Hatchback Buyers",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVJfX3RVeUctcnpRVG13eV9HUWR1WlJtbjZIN3JBajJTWjhJTzFPaFpMSFd3eWNBQ0ZDdmlkNmVMTUx0TlB5Q2ZlNkRtZU1lY21qWS1nYzBrdDdidlNoSTViclJnXy1vdF9jUk1iM0NhclZFbEFqZWZLQU9ZbzhmS0NwNnJLck9kWkVWQ2tXVUM5Q2NUWmN3anc3cXk1cVJQS1Zqa2tIcl_SAbABQVVfeXFMTWo5N0J5T3d5YlFtaGxQbXVJSTg2QzJ5bjJST3FzUWZVakdSUllvZG5VLXFGZ0RjeS1UZFI3MWdSUzJkdlJiai1LZDR3UGVOVWVJU0JXazIzOGNKUGNWVUZIM0ZjSFlKVVU0eE04eEZBcXNOS0E5bU5HWlhxSzdDdzVfZVBKcnRzVUQzcWpQTzkwcUZfTmJ6czItRUtxc0szdkFqYlR4NGNyQ05sWlljcGk?oc=5",
+"source": "autocarpro.in",
+"published": "2026-09-25T11:23:36+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3cc90d2d3ce5783e",
 "title": "Tata Steel stock gets INR 220 target from Motilal Oswal",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODdFcU5KbnBLeFZ5VFl5WFFhVWI0dlBTaF9GdHo3RVVqQVRGbHJGeDVhV3p5UTVnblRYRW5FdDF3NmVhZkpSbnFjQmZ3ZGY1enNwS2NHSVVEVVRaeFZwM3ExeU0zVEk1QVdyNHFJVlpZczIwV1QwSTJ2eHZPTURWem1IM1dXbl9RcmlISnltRWpWa1RGN1hxTGRnUWprN1lwRzdxMGtWXzQ3TzBtNDkyTmxtUmE?oc=5",
@@ -453,6 +501,22 @@
 "first_seen": "2026-09-25T11:31:50+00:00",
 "symbols": [
 "TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e2efe72ec830b5e2",
+"title": "Tata Motors PV weighs further price hikes as commodity costs squeeze margins",
+"link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUHIwOEJsbmZibmN6Zk9XZ3JqWUVWbnFOM0NHellyaE9HeGRHYlhoUUtCd3QwOS01emlCbWtGR29nNTRNME15ZHlhTXB3NERMUmtBRUdDSUgwZE9pc2dvQ2czRmtac2w3NFdOa1lvcm5hUTMtdkYtT0dhTnFLNGpRTjdfdXNHTlJ3X3Y0NUJDS0hXS09uS0ZLU0ZMNFRacjBLZjd2SElmbF9GaDdla0lveHM4SUh4VjBzYmdabU53bTRyRTlfR2FxVXBXaG1GaUtBUlB4aUt2dHVVNEw1Wm44bUFGdlh2VFoxMVJvUTZDMnRYaTc1VlRrYzUtamQ0dEFYTk8zSlJmdWVMZl8zVW4wWDRHUF9tQ1NrbElfdnY1Ml9sZ9IB6wFBVV95cUxOMW5GX0xDQzU0dHBIelRHNktqbW40TE5VbzUyekhoSWsyRFZpMjFLcXNJRXdVMklGQWpUbkxZcjZkNzBvWUFzNDRSSmw2ZnRibWxoS0xZdEtUOThOZTVBMHc4SjRyT2JYWkZoNFZxb1RQdjVGSTFLdW9IWW52cFBhVlNlTklDYndKTkVfYXFIZE52b2pEWkFwdGk2UE5ydXZlU3VMRlBVQzRLcFpITnFXTC1VYmlkM1JvTlp3R3lfRGplbWtEWUJZU2Y5VGpYRDhnT0NNcVBOZlZVUWd5a0ZyeFFQMUJ5eGJkRXE0?oc=5",
+"source": "ET Auto",
+"published": "2026-09-25T11:18:50+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"TMPV"
 ],
 "groups": [
 "Tata"
@@ -574,6 +638,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a4d2f9192b676e00",
+"title": "Maruti Suzuki India Limited (NSE: MARUTI) Production Capacity Expansion Roadmap",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmVreXVyQm5FZklMWW1LVGRuM0p3UTlacU9JUXFFYnFZZGdaQlBJRmpVaTJZa3Q0VXBxOWJsYVVxejBIekRjVHpsdlBHZUFKeS1kY0ZESXkzQ2wyVndFdTN1VnpWN3lrdThNRS1GbHhzZFVVd0h0dWxFajIxQWdfOGpVZTF1ZG9OeXBlTGtZN196SXBFa2RvMnVEdmJaSy0xMm1ST3dwWFBleDdvUUFHU0RxSVc4MndzYS00dm55WHRrT2lWWkJTNF9iZVNOckFaZkxwZkcwQ2ttTDVibXRmQmRoZ0RYUGtD?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T10:54:00+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -877,6 +957,22 @@
 "sentiment": "positive"
 },
 {
+"id": "4fb5647e42bdb7f7",
+"title": "Nifty IT Falls for 6th Day Straight; OFSS, Infosys Drag as Crude, Fed Rate Fears Bite",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kNXVXSTVrVF9xVnZWeVI3YXpLbVBpenBmejVQSDJMb3R0Z1p4T3luSml1bmJidTRwNUJKbjNyc09lMnVtRXhXNC1CYm1rTzFzRi11TENFMGszYkFJUGwwVFBKNGt6VTlqYTZpSzNfSG9qSWJQZGhFUWJ0RQ?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-25T10:07:52+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "300ef6e51009cccb",
 "title": "Tata Aeris Launched at Rs 5.29 Lakh: Maruti Dzire’s new rival",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFhYR3RqSkw5VTBYUTNqUHNENlZPNFVPUHNILUtEUzJXRFQ3T1UxUVN0dVlBQ1NkNUZrRnpMaG5kSmFVdUwtUmxRNWtvWjM5UGRncVF4cmgzUDVJR3pvQkNuRWJwcndWbXp5ZnVyak5rRjZFNHhLLWdXZGlNTVVoSWNBOGdjQmdENVZOb0tIVldSb2F6NU50NGl5ZVFyWFROM2hRckVCUGJHYnVVUlNjRzRPWEIyU0g3RlpfM1BzUVk4Q2VaVGhhV0stZ9IB0AFBVV95cUxOamZNb1RFRi1VVFhSNXpVNlpjVlZGVDhLWXpyLXZOcU0wSkhJZ3hFNmxNLU5RZEdlSWdvUzUzSXU5ZVM3M0piYzZzUjhUMHlqbDM0dU5scm1mZXl2c3dCNFYyTzVBTDlBc2pkM0c1UGstdXNaNHdYQk51SEQ1bEUzZFdPWTBhaFgwWEJFYW1SMWxfUUc1NHRHblVpQ0FKdEZpcXgyOUp1WUdMbWxBU2xyUUtaTVJJd0tubFpzQjNhblBKeWkwMXBfWDhaM0lLakVz?oc=5",
@@ -933,6 +1029,22 @@
 "first_seen": "2026-09-25T10:57:55+00:00",
 "symbols": [
 "AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "27255f5a8f6193e7",
+"title": "ICICI Bank Ltd. Sees Sharp Open Interest Surge Amidst Mixed Market Signals",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzItMFRhWFVwWm1DbXlXUTI1dnNmWEs2cW5WaWd0MkJTeWFHbUU3bEFJMktTajZTSXZXZ21POWI0TzJiQl9UM3UxT2VOMHVNT3VzLUZLdlh1VmFpM1pmRUNHdWszTy1rRm9VMDlFZ2F2QXc4MGlhTmdUdWthb0NqQlNmOV9oaW0tU0dMSmF2am1PbzZBMk8xVVJTSGRLcVo5N19xWFF4dFBYNGN5UXFoaEhidDVGTHowdWh1cXpxN2ZJZE9wUFFpbGdmbw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T09:58:33+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"ICICIBANK"
 ],
 "groups": [
 "Banks"
@@ -1081,6 +1193,22 @@
 "source": "marketsmojo.com",
 "published": "2026-09-25T09:31:51+00:00",
 "first_seen": "2026-09-25T11:18:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b02f73b46be6014",
+"title": "Bharti Airtel Ltd Sees Significant Open Interest Surge Amid Bearish Market Signals",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTmE2aTV2aEJ0d180QXdkb0FPUUdxZ1E2a2s5SUtzOElESnVjNzJrb1RqbzVfTVVBQmtaUExtbmtERUpLME5tYlNCWU1qcWRaVmFmc0tNSmFnOXVRYzJDQy12bWhPS2FwajlzQU5SZGYzOVRubFh1dUR1Wk1HSnd6RG1MVnBhUVZITkdvcV83OFNGRTNsRWJkUkJRdm8xQzJ1bmM4MU1ZdTh0am8wamtMemV4cHF3em5sU1VZbGUwVThOc3N4aDVZOFFRWjN4WG5LUnZiUjZLVQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T09:31:51+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
 "symbols": [
 "BHARTIARTL"
 ],
@@ -1664,6 +1792,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4505ad8483db12f8",
+"title": "Adani Group Plans Over Rs 1 Lakh Crore Investment in Bengal Over Next Decade",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQekIzU2xUdkRZUExSVHQ3YWJmV1ZCblU3ZGZ5dDQwZGhXUW9QdTRQYXZnQlFJcnAzM0U2WXlTMnZUQnFvMXBFSnhKRlJfbGZQbnRXZ2s0QTFNaXczdDF6ZWFjamZLQW1ucU05cjZkWFhacm1xSmZ6WlptWDE0VjVNbXc2RDBjVS1sX2VzRnZILV9nUkl0MFJfSmhlMmVfNDQ5WkZsMzFRcXRyOW05ZWhjYzB6RFkyaHJ2ZERCbm9peVJnYWhmNjlyV1RubWhXNG00YjNYd2pPZ0pGMXM?oc=5",
+"source": "republicworld.com",
+"published": "2026-09-25T08:13:30+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cbf5ec7cf4e04b04",
 "title": "Bajaj Finserv widens sports bet with support for swimmer Dhinidhi Desinghu",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON19OZWllYVZQaW4yQThWMjQ5T3Eza1FNZ3BYVVo5dDl2V2xRVG5ULWE3UzBvQW9CbWZuemp3UHJhVE5hMHBSTWhaSnhlNno0VUlqZlZ5VUtmTHdyYmN1ZENITjQ1blNmT0NyaUd5WmVHa0tHVDE3czMxTHdpNWhYWTdobWpzUEVtR3c3dWdDcnlobXdITmhyZnU1bmxrZWxRcUdvcGEwRlJYbWpWTXhQWEh0dUdick5qTGhzemhGdU9HeWFyd1RGZXVIS1BZUHlablBsblJHYTNJWWl4bmfSAeIBQVVfeXFMT19IdXZTRldicUpZMmFRMHVQa3ZnNG05SDBrczZac3BhWUdaUF8tdDdodUlkY3FGWEkzOHVqWVY2OHJ6Zk9wRk1EZmNQQXBQYnNEZzF5R3VCcDNZV21DY1V3NVJ1Y3pXX3dpNm4xdW9USHhkN1dIR2hzd2ZKeHB2c0RxNnlSOGpLbFZCN2pTNVByLWdGdVoxZjc0LVc5bjdHcHpCM1FYbmRQTXNrdll1dldNWjF5RHVVRHFHN2FCcEJCRXYtM0tZRlZ0RE9JRWEwTE04WVhIZjRLeW1wUDdtYzg1Zw?oc=5",
@@ -1849,6 +1993,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "aaf9b146816c079b",
+"title": "Dzire ZXi On Road Price | Maruti Dzire ZXi Specs & Features",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42N3BiWFJaZ3E0LU9NdURwYkJNa0dBZ0NPakNxRlBEbVBzRUNoUkpqSm5SeWdvSmh2eGx5UmFVblExWUxPYWpVZUhKV19FaE5IX19xSmNFMGZwZV9VZmVqd2ZfYw?oc=5",
+"source": "carwale.com",
+"published": "2026-09-25T07:52:34+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ae4cb5f68d567fc2",
 "title": "Axis Bank Share Price Today: 2.04% rise and key metrics",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1lqUkRoSG1qcTdyX1lCYnBDRjRkSGcwTFR4MzEyS2JmdFoyVTYxUnFEQ0ZqaVdlWkFyb29GWE02SzAwTEFzdGJMbmstZW5IcWt4YXY3MWxTdE52eVpVMGthVEFJS3FoUTZmZndHZ1JTS0JDMVNKUV9yc21zbU1Lektn?oc=5",
@@ -1928,6 +2088,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "e5fa38f7eb01275d",
+"title": "Mindanao power grid recovers, but outage risk remains",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vVTVRSmRmQU5lakZxS1QySVA2SzhCTGtLbFQ3VEpFWi0tNklDdVowY1dmRzNlZmdtX09DLVlMSEZtSzVyZnotWEthRHJhdEpoNGpybkNNeHVoNDlKUmlzVEx1VmZtLUc1RjdlQm9NM0lOc04yLUszNGRCcEtOdw?oc=5",
+"source": "newsline.ph",
+"published": "2026-09-25T07:42:44+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2783,6 +2959,22 @@
 "source": "ndtvprofit.com",
 "published": "2026-09-25T05:36:48+00:00",
 "first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "11d8bac7087984ca",
+"title": "Swiggy Vs Zomato Parent Eternal : Here's Why Motilal Oswal Remains Bullish On The Food-Tech Duopoly",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMy10V3o5bHRLdkFKVm5aa1lNS0ZpejdFUk4yZzlzczVMZDJuWnZyeThMN3BERWctdFRUc3MzbVJvVi12a3lSdFNOd2hGVExMalhueHI5aU5qZ0ZEQUhMUldWcWdCaEpIbTNYTlY3NFZqWEMtWjB3OE04UlQtUmlzelI1cElES0RXbkc1STB6YzQtdEVsN1g0ZDgxYlp0eFpfS0pQVmI4dE5ILWdqaUFSMlVNWUZUMXhoSDh3ek5peHRmY3ltZ0dvb05fclE5ZDNqcFE?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-25T05:36:48+00:00",
+"first_seen": "2026-09-25T11:45:14+00:00",
 "symbols": [
 "ETERNAL"
 ],
