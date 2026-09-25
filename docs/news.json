@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T07:58:18+00:00",
+"updated": "2026-09-25T08:14:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "0ea70d21716d5116",
+"title": "ONGC Launches Western Offshore Data Acquisition Campaign Under Samudra Manthan Initiative",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVMxeU9oNmtka3J5RGsySkZOenhpZHVsTGlKZVJGMWMwMWpnRlM5eTlRNTRYTUIzWUtRMHg3OUVzWENSU2NMcGg4dmVBLXNpYUtRMEVXSEVuRk5VdFplWnZxaVFpeVI0Wi1UdWtUeExpYVI1V0c1XzFMY3BQZ2lldThjOHpJY01JcHZqOGxZVmI4Q2tnUEQ4MmRnSkstVjhnczVmWU5XR1NBSURl?oc=5",
+"source": "indianmasterminds.com",
+"published": "2026-09-25T07:55:56+00:00",
+"first_seen": "2026-09-25T08:14:28+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "cc3af61b9aa68bb2",
 "title": "Tata Motors PV rolls out Aeris at ₹5.29 lakh, bookings open for new compact sedan",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWxQOGEtUlBYNDlGS2QzX0cxVy1MLW5URDdRRFFURzNLc25haWpfaEh6ZmxOVU42NnE1ajNLdW15SWFYLWVNLXc4SGx4UWNieFdnZlV3cVZiY0dUeEdVY0pkSVUwTGtWeXFtSktYNFNQRHdpaUh4U1AwdGlUWFRueUVza1VDeE10VEFNR245SVRwRHFBV01xbnd1cWh5WkRDSkFrTjdXR2JiVlNpOXU4ZlhQaU5yVkhxdGFF0gHIAUFVX3lxTE9TWDd6bnhoMFZZVC1vWlpISjZWX200cUdvRWhEZUJ4QmRHVFRVbjBaV1ZyVmxxUlBveDZxRHVOSVIwc19ZYV8yVmR6Qk84TE5hc0JCelpwc1I2a2s0LTRJNm9PQ2x2MXBObGpRbzdxcERlbEYySnhqOTNMa0pTRDNqNUI0Wm4tM1lMV3dteHRMNmFmU3FTWmxGbnZrbnh0cmpObUxXQ3J4NExYaGt1b3BoUjF5Nzc2cm0wRDlJY0IwOFU4S2UzTTRO?oc=5",
@@ -626,6 +644,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1ad4b8c326703f9a",
+"title": "Bajaj Finance Ltd is Rated Buy by MarketsMOJO",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWklyVkZvSm1QM21senBLWXFMM084a3BnWTFaX3pGUWwwdHpDZ1UtcVF3TzBXSXhoQnNaRXlfbldiMTFUdkd3Tl9jS2V2MmlGdUZDdjhtMlV3MTFwUmxYYzFWTnNDQmZWTFpReUtZUm42Y2J4NXBka2VFaTQ1MHh4OEVTd1RHazNhVy1hc0tOdzRzbjFKSzFadkVJUXRJVjFVXzdWbExtdVpTaEU?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T07:23:49+00:00",
+"first_seen": "2026-09-25T08:14:28+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2352,6 +2386,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "65ced1090e3d8a6a",
+"title": "Titan Company Share Price Live Updates: Titan Company Price Movement Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-25-sep-2026/liveblog/134473836.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:58:40+00:00",
+"first_seen": "2026-09-25T08:14:28+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a48c4051ee200beb",
 "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
@@ -2390,6 +2440,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:57:35+00:00",
 "first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "66e702583dee3e87",
+"title": "TCS Share Price Live Updates: TCS Stock Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-25-sep-2026/liveblog/134473815.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:57:35+00:00",
+"first_seen": "2026-09-25T08:14:28+00:00",
 "symbols": [
 "TCS"
 ],
@@ -2567,6 +2633,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:50:04+00:00",
 "first_seen": "2026-09-25T05:24:33+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3dd93cadf9b3d11f",
+"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Daily Performance Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-25-sep-2026/liveblog/134473681.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:50:04+00:00",
+"first_seen": "2026-09-25T08:14:28+00:00",
 "symbols": [
 "BHARTIARTL"
 ],
