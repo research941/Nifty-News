@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T07:22:40+00:00",
+"updated": "2026-09-25T07:36:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,72 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d7d4d6fe9d06d517",
+"title": "Arihant Superstructures signs luxury hotel agreement with ITC Hotels",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWhXTE5CTllDajJQdy10aGFSMndmVUR1Y3pXbFJuRllVMHZxenVmYXUxWmZFN3o0SkpqbmVWbkhvODV0cU91NHNkcjBrZ1VWdklvRTl3TzN4UFh1VW5fUW43ek9RdWFESDhEMDI3VmFiQ2drVjFDcmZyTkVPQWR2LWlqM1c5TmozVVI3d05BVjVuYkJlMjE2WU9LRnJ6dHAxMTVfZzlza2FyeVItWlNBQkJnVjRzWk5PVjk4Ng?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T07:28:52+00:00",
+"first_seen": "2026-09-25T07:36:12+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9a06976b5b83b4c6",
+"title": "JioStar signs OpenAI, Asian Paints, PhonePe and 12 others for West Indies Tour of India 2026",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnB0QTM4N1oxUlVydVhxZThQNklSaDZKSnZOaEVzT0w5Q1hWMENnLVBNRDJNOUFvZzRjenMtb1R5YTAzeDVJWFJ2N2hXdW9BdVNjdWVDVGd5Tm9rNGRrN19zWG9pUEFUOWNoSmh2ZzV6UkpUTDNMWWRTc2s1aFVsQmkzQ2o4cEoxZEpCWUJfUzRCQmdtMndFY2hhUGZ3T3hsdkNLM29VWmtSRVNYalIwVGpQX0V2aXJjUnFIdkpfSVR2dDR2NDhR0gHHAUFVX3lxTE4ycHRBMzg3WjFSVXJ1WHFlOFA2SVJoNkpKdk5oRXNPTDlDWFYwQ2ctUE1EMk05QW9nNGN6cy1vVHlhMDN4NUlYUnY3aFd1b0F1U2N1ZUNUZ3lOb2s0ZGs3X3NYb2lQQVQ5Y2hKaHZnNXpSSlRMM0xZZFNzazVoVWxCaTNDajhwSjFkSkJZQl9TNEJCZ20yd0VjaGFQZndPeGx2Q0szb1Vaa1JFU1hqUjBUalBfRXZpcmNScUh2Sl9JVHZ0NHY0OFE?oc=5",
+"source": "Social Samosa",
+"published": "2026-09-25T07:28:49+00:00",
+"first_seen": "2026-09-25T07:36:12+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9d077df788a10e6f",
+"title": "Here's why Coal India share price could go up to ₹500 as per Jefferies",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVjYwMlJVT0tuQVhWaVZEbDNwSUtPRlA2d3JDY1otdkU4TlAxd3UybVBLZGRlZXdOcFBJWlo4NDAwa3BxZUJ5Yl9kRkwxM1pSaHdiX2RtblNjQXhzX1NBbVJ0NmVMWC1RUVMtOEFXUEFReTJDS21mNkltSkQ2U1dPN0E5M21XcGw5WHVFT295YkswQnd5VWpRUWMxUzRnZG1GZTVfSnEtcGxFZmVyc3N4V3FOV2w0OFRQVzk0YXE4cy1YRl9mNEJkbS0xS1M1NEU5RV8xZ2F5My1FSU9CN3hqeFRFcmRNaV9k0gHoAUFVX3lxTE9WNjAyUlVPS25BWFZpVkRsM3BJS09GUDZ3ckNjWi12RThOUDF3dTJtUEtkZGVld05wUElaWjg0MDBrcHFlQnliX2RGTDEzWlJod2JfZG1uU2NBeHNfU0FtUnQ2ZUxYLVFRUy04QVdQQVF5MkNLbWY2SW1KRDZTV083QTkzbVdwbDlYdUVPb3liSzBCd3lValFRYzFTNGdkbUZlNV9KcS1wbEVmZXJzc3hXcU5XbDQ4VFBXOTRhcThzLVhGX2Y0QmRtLTFLUzU0RTlFXzFnYXkzLUVJT0I3eGp4VEVyZE1pX2Q?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T07:25:25+00:00",
+"first_seen": "2026-09-25T07:36:12+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "575fe5bb953e7f4d",
+"title": "Adani Defamation Case: Gandhinagar Court Grants Bail To Journalist Ravi Nair, Likely To Be Released...",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcldBOVBBRG5fOTJYY3R2b0xTanRPVHU0aV9ySy0wRFZiQXJ0WklrVDBfb2JfZHB4VVY5YWFYQVBQTnMxcVhDbnZSTzdlZGdRLVQzMm9sMW1Vc1A0UjFqZlgxZTA4YUlISFRlcU9oa3JwRElCZlpFbG41bjlFckJqckR0b2k5RGRqMjZ1SGtrVUtWdW9TcWwzbzBzM2g5MWRKdGNsWHhRWWZXcG1iTGhURUthcmZrbHpCV0Z3c0VVWGZzclZJS29zLUk5WGU3ekNBQVJHN1g2OWlFUE5TeE1QRnBoMl_SAeQBQVVfeXFMTnJXQTlQQURuXzkyWGN0dm9MU2p0T1R1NGlfckstMERWYkFydFpJa1QwX29iX2RweFVWOWFhWEFQUE5zMXFYQ252Uk83ZWRnUS1UMzJvbDFtVXNQNFIxamZYMWUwOGFJSEhUZXFPaGtycERJQmZaRWxuNW45RXJCanJEdG9pOURkajI2dUhra1VLVnVvU3FsM28wczNoOTFkSnRjbFh4UVlmV3BtYkxoVEVLYXJma2x6QldGd3NFVVhmc3JWSUtvcy1JOVhlN3pDQUFSRzdYNjlpRVBOU3hNUEZwaDJf?oc=5",
+"source": "LawBeat",
+"published": "2026-09-25T07:24:40+00:00",
+"first_seen": "2026-09-25T07:36:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "4d8731e798bcbf7c",
 "title": "Maruti Suzuki Launches 300 kW Green Hydrogen Plant in Haryana",
@@ -3692,6 +3758,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "cfa041fd09c3fd32",
+"title": "Watch: Nita and Mukesh Ambani visit Lalbaugcha Raja with granddaughter Aadiya",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1vQjRnVzhGeHF5cEl6QVYzbjQ5cVFFLVBybGN0RlN1M0Y0WkdaemVFYzR3b2s0dmlnZS1PT0FINklwSWJLeHNoaTl3OF9UNzdjZ2V4NURTaXJIbjRaMHJ1dmd4OWhWM2pLenFoRDJnR2tjRkptb1BLSHhOd2dRNXNXZk9tNVVqOFlFQ1hiSWJaTE56SGI1ZVpGN2FaX1dGNXBueHdXWno2cTVUZmtZMTBoNDNCdV9ERDZyOEl2dk9MWjN6bi1Gd3FJOFczcXdid0otSndnM2R1TmPSAeABQVVfeXFMTlpxWnJzSFpBbXdlci1POFRKYUNYZFBxVTVJeUs0WVUwajB0eWZlTWlDLV8yanpOOU5oNWR0ZVRoaHV1YXc3QlFpX1YtMFlaeWVyVGFqRkNMXzhBeFY0WmJ2c3ZiRnBhWjZKWW52bVZhV1Y5blNvdTlqV3o4U1FYQ3NXaV9aR3BTVG5zTmUxOEh3MjE2ZkZLQ3VVcTVneTNJYUU1a2cxVml3NG04eWtodWFDZXM2dDBFUFo2elppVjFSU3BRbFdWd2xKWXlEWVF5Q0ptc203WG1Ia01lWUR3eXY?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-24T18:29:00+00:00",
+"first_seen": "2026-09-25T07:36:12+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
