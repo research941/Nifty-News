@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T22:30:11+00:00",
+"updated": "2026-09-25T22:44:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "a91f9120c539f6e6",
+"title": "HDB FINAL DEADLINE: ROSEN, LEADING TRIAL ATTORNEYS, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
+"link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVElUVlZZRVV1WXBJRDZfSEJiQTVLamFvcEFBOG93enNkbzN3Y2Npalg3dVV3XzVTbldZenktZFRaM2NIN2owYXRERDhrcVZhZTh2dWpLMktmVTJxdkNUVjlGZDlxVGFtbV90c2FhLTRRdHVqRF9kODAzNWlHeThGckpPb2lpQ2RKOHpWRDFoUXdsalBjS3N3MEI4WktabFJUZW84Nm5VNmZFSTZEeEp0LVo5THlDd3VkeXVGUUhia2g4TE5mTGc1YmVVVkUxcU9tdHRKTFpyZzAyUzdXWWNEWGc3Q2RZWDI0c1FkOG8zQ0EwNEdaTVJiQ1pBdXdwbWRhZnVucmJaTnl5NGtURndhdlFtM1RjVHpuQ3R5Z0FJblpTeTZiNTVvN25Fd3Q4ZE0?oc=5",
+"source": "TMX Newsfile",
+"published": "2026-09-25T21:59:00+00:00",
+"first_seen": "2026-09-25T22:44:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "c8ec0d48d66c2f39",
 "title": "ICICI Bank Jumps As Dividend Hopes Fuel Rally",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW1SNUExdUcwNzRkZ1Y2bG5uTEM2TWlvUUo2Z1o4Q3p6T1BIV21idFZpNzViSGxQLW5jdmlTRG5FXzVIcFlGX2VwWDZWb0JhVWNsQmprVjFfbVJWZ0hCRzdra1ZadF9YejlISVVQWGJ3XzlxWXZqaVc1WEcwLUlTTnZmMFB3SjBRNW42eQ?oc=5",
@@ -461,6 +477,22 @@
 "Corporate action"
 ],
 "sentiment": "positive"
+},
+{
+"id": "7d14e2e1a17086c7",
+"title": "Il Volo tickets on sale in New York at Infosys Theater",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkhKUFVreC1WeTZkSWFfbkgxaXVnWjZ4RVBZaE5td3VPZmRiUUZvWWcyODNfaENBUjZHRDZwME9GdUtuSm1XUDJnTmcxTTM5OGxFcmRMZElYVW5RbnhKRVpRRXZWNG9Ea1J5SEtiRjdlVFpybE5EVmEySXloYXlyeGhwUGJNdnRTeDRaODc2RlJTaS1n?oc=5",
+"source": "TicketNews",
+"published": "2026-09-25T20:48:06+00:00",
+"first_seen": "2026-09-25T22:44:04+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9a97f6d898e07911",
@@ -5906,6 +5938,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c60d3eddad7dabe2",
+"title": "CSG Digital Power Grid Research Institute to Rent R&D Facility",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlZXQWVLYmVkLVhMdXk1WnAwblhPUjg5WFhaTlg1RzM2ZjdnRl9DYVpDQ1prcDQwRlR1OU9sTno0VWZqMjgyUUtFUE1SM2s0R2J1ZXpRQXllWEZ5OTFZcnJ4TXNGeHUxZ1ZWMFVqOWdQTDFuRE40VGpYRWVIbTRnY1B0Znp1b0dyOFZsN3lpZkRIWlowMTZCZzg5TExIcUFjUGtsN012bl8wMkFHYVlwdUxtclFQdw?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-25T06:01:30+00:00",
+"first_seen": "2026-09-25T22:44:04+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
