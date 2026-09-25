@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T04:57:14+00:00",
+"updated": "2026-09-25T05:10:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "47e410c4e1771021",
+"title": "Jaswinder Sandhu Appointed COO – Real Estate at Reliance Industries",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDNwQk54ZmZZRVJXd2dzRHlZVUdlZEFlNHRhMVkyY2VtaHo4dWlLZm0tWTlvQkdsaGZVX3dZM2trQXBiRG1IT05nRnVkd2psaWlrSnlxWFhybTZ3azZqc3NnWXhaR0RtRGd1Yk9sY1B4eFlNR3N0SmFkWWhnVzFhVnFBMmhCb1pRS1BPUFpNUHNVbTNa?oc=5",
+"source": "Veloxx media",
+"published": "2026-09-25T05:03:05+00:00",
+"first_seen": "2026-09-25T05:10:09+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "bea248255e8638fe",
 "title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers",
@@ -1339,6 +1357,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7c778922e590a807",
+"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-updates-25-sep-2026/liveblog/134473571.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:40:59+00:00",
+"first_seen": "2026-09-25T05:10:09+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2ba22d32773e81a6",
 "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-live-25-sep-2026/liveblog/134473568.cms",
@@ -1350,6 +1384,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7b8ef02efacef1c7",
+"title": "ITC Share Price Live Updates: ITC Current Trading Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-25-sep-2026/liveblog/134473552.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:40:08+00:00",
+"first_seen": "2026-09-25T05:10:09+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
