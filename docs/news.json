@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T20:30:32+00:00",
+"updated": "2026-09-25T20:45:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -460,6 +460,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ebcbc16e711923f5",
+"title": "NCB signs MoU with UltraTech Cement Limited to strengthen skill development & capacity building in construction sector | Akashvani News",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3AzSHpSQmR3bXFKNmZmbTFKSEZhcW1qS1Z3UzJUdVU2TUN0U0FkWEo5NXJDaFdxTk8yX0ZaWnA1WmljOEtHMXZKMWRhZ0I3MEZqZEFlN2lTRmtmNTNYVUVIUG5wR01OLUFsT3VRckZDU0E3c08xdERXZHRYSzUyLXJ1RXFaSFRCY01KZnZBNy03TVRzVEx3T3k4dmk5dTRTUGRHLUhoZlptNFp1eHhwYWEtcktnZUpNcmtxUzk1OXJydjZ4RG5ESlNEdGtIeW1ESkVIanNiQ0pnUQ?oc=5",
+"source": "News On AIR",
+"published": "2026-09-25T19:12:42+00:00",
+"first_seen": "2026-09-25T20:45:01+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
