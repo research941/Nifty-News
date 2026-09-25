@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T09:12:17+00:00",
+"updated": "2026-09-25T09:28:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,75 @@
 ],
 "items": [
 {
+"id": "293707e7b8b3cb27",
+"title": "Tata Group tussle: TMPV is independent, following own strategy, says MD & CEO Shailesh Chandra",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOWYzMUR1MDN0akNnRVBYMWl2STBqMmRmOUZpSzVYVVVQZURheUFGcC1hU0FBWEJERGI4LTN1TDhpMzhIb3RUOVM4MW8xSzRnOEVfSWNFYkp1bzVNUWpCR0RLM0V0X2xqYVJXWFUwZmk3RzBUMzlvTEdhQmg5b3NzR3kxSlRVTHpkSVZzbGZwWmtxZTNfSzgtc01ZenZidUduYVgwTUJWR1g4WmNHV3hPLU4td3h2eXdoVDIxOUp2MHRlMlNyUk84TG1uOEpyeEhmOFlQXzRkSVpZQUVqcTNaV1pTNUpTQdIB6wFBVV95cUxOMU9zMEk1ZTM0R0ZrRE44LWxHclFwYS1jbUVqSzBudGNSTmN6NDBDdXFibDk3UjZYN1dzcTZvWmFvWWxURWg1ZjhwMVppM2dySVVIMXQtUWR4UUN2dHF3SnF1NWh4X1N5WTU1RHV3VWZsWUpMa3djWHZNUVBxQVBaVXFiTy1KdlAwSXY5X19MVGJOTWRrSUFHS1ZPa3pxckMtbVdBMm9zYm5VeFJlSjh1QXFOTmRmSmhMZTladjduVlUtUUN4MG1vXzRWQUJOTERpY3NaaDlHR1NMQ3BiV3RXa0dIbWtLcXRaQWFZ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-25T09:16:27+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "025058b6d7372db2",
+"title": "Tata Aeris vs Maruti Dzire: Price, Specifications & Features Compared!",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HTGVKZ3o0d3l4V09uVDNlMEY2Yjh0aHZTRWp6cEJsOE9JOWt4M2FGOEdxUUFIcUM2LWVnVkNwLWtfY1hibzctWmhaRnhTaHVIZkx0RzFZQW9sQ0NpTFM2MWJKYTlfSUZuZnFEM0ZSTkF0RzRyVXgyYXl3?oc=5",
+"source": "Cartoq",
+"published": "2026-09-25T09:15:31+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c9017539e4b1b9fe",
+"title": "Adani Power share price jumps after receipt of NCLT nod for merger of 10 wholly owned subsidiaries",
+"link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-jumps-after-receipt-of-nclt-nod-for-merger-of-10-wholly-owned-subsidiaries-11790327103674.html",
+"source": "Mint",
+"published": "2026-09-25T09:11:12+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
+"id": "5698325040218f99",
+"title": "MAX HEALTHCARE INSTITUTE Share Price Today Down 3%",
+"link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQZ0ZxbEhfQVRETlYtN2VFM0dyTmU0dVBHWWFlVEVNekdOZ1lLRkpnVTI5MmY0WkpXaEdxQ3lEZHA3blUxQUZVaTVLQzJOQUNSVjE1WnloTDFLTHYtMjd3YV9Jd0c1TEdnSHpYRm5mQmFtZGtScGtkVGpkb3ZDbTl3MUVwV08yU01La0ZURU16WEVpRGhiYTcwb3RfOWw3Q3VBUHN3YnZnVDlQLTA4SG5hdW80cXEtOTRfeVhVeVpPckNnVTdLOTVTWVFOcnMtRXVnSW5kWlVJZGY0R0l1bjJrOEp6ejhBQ0Y0MjVlTFlVUHlvWlFORU9pQ2x5WEJKb19KWHdKOWtqNzJ4TnRQZUpZMWw1MlBUanBvR0FKMFp6alpkSkd5ZXpJU0Q3TUVnM0pFRVdhdzJyYw?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-25T09:10:00+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2895c6f5ea241c4b",
 "title": "Bharti Airtel stock reports 18.4 percent revenue growth",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0VGV2ZJRTRXTWdZLWVYMzRNc0MxTHVCRG5BSjdpQzBQdFFmQWM2SzZqUncxM1BwbDBESVZFVk9uZVUtS1p0Zy1pbHVmbkhaa0FlQndXNW00VXRSUWFFbi0zWTZRdVRsejJrWERWREd2SHVmaTZ1SkRiSFIyemNXX2VySkJMaWpyVE05eTU0TDdmSjczbDhRcV9TajdRTTBVeF84SnJMNzdwd0FPRGNJWk5GRGRHV05kZGc?oc=5",
@@ -522,6 +591,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fafa155027829bc5",
+"title": "Tata Aeris vs Maruti Suzuki Dzire: Design, Features and Price",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2RiaDdfa0ZjNEhDcVN6X3hNMk1mb3VOdW8tSnJRRVlWcjNKTm1KdlE3NDNaUzhMbnF2azRXOHBtLThFajNfdUkwSW15ZUY3LU5yOUMteVlRdW9Qd0oyaUtRTkdRMUZhOW9rN1N6QklQQWZhMUl1QldlRGZZb3JEQjNHQzJZaVcyamphVlpxQ3VqVjFycURVeUtHWWNWQTA5MTlMeGNR?oc=5",
+"source": "autox.com",
+"published": "2026-09-25T08:53:32+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -683,6 +768,28 @@
 "Management"
 ],
 "sentiment": "positive"
+},
+{
+"id": "5db35a5860776008",
+"title": "Bank Holidays October 2026: SBI, HDFC Bank, ICICI Bank and other lenders to remain shut for up to 11 days — Check RBI list",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOU5HOGl6TEhpdDJqbm11TUlHdmtZd3hVLVo5M0lFWEsxRkxiTFh1M2d0NWtTYk9LTUNuZ3R5S1NfU2U4a0h3QUVOMjZaSnhWTEdXX2w4UVZhLWJ3S09uZEhJWVJyWVY1Wl8xbkY1Zk1Sa2VjeFdkQmdZcFdUU3FxMnVUM3E4NjVzd0kxNGhUTWROd0d0M1FCQVQtQWxJbkN2WGFhRGxEQTBkUS13aUF6bnI4QWRCOUYwcTVucF9xQ1VOVTUwTTBQZG1xSTd0Mk9hd0ZMTFZKNFBkUTNaTmZBWGdKZFZPN2ZWQWxJSUFyazhKdkhwXzhMZHctQ1UteWJOd1VGbjNqTUd6ZGM0a1E?oc=5",
+"source": "Zee Business",
+"published": "2026-09-25T08:04:00+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "03aa1d4ab2a1552b",
@@ -2033,6 +2140,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "f5c38f46bfaf1131",
+"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Current Market Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-today-live-25-sep-2026/liveblog/134475196.cms",
+"source": "Economic Times",
+"published": "2026-09-25T04:30:41+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3ca082109d03fba6",
 "title": "“We Expect EV Penetration To Reach Around 30 Per Cent Over The Next Five Years”- Prashant Chiranjive Jain, Sudeepth Puthumana, L&T Electronic Products & Systems",
 "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTTBteG1GWnJrc3pjY2hyTUNfbkEwRUNBQk9tZjMyNm5fNlFCZmV2MXpQZ1czbXBaOTFhS3dNQnZ5dlhtZjRpN28xRDUweFY4QkI1UGoxdlJNR1ZGeDZQYWdkLTB2T2trcUplR015M0oyTGZVQmtmSFBmZFZUU1JTM1pJSl8wdlFaYjRVMHlybVJuQ20xaWx6cFZ2LUcyZG5wY2hpbWhEOUNaeHNTNzAxUTNMZ2pvcHBzMGhheFpCQmV4Vl9PclYxUTQ0UXRjandkaDBZLWpfWldXMDJFR2kyaUFhTWJ6Z0tYNjNXU0FCQ0FqbWhVUkVHaHJjVmVkdTJVM3pSNEh6c2xYZl9NVHhOX3JGT2tmZWM3ekpQTU5mNGFzS1M5VFlnVlB3bXUxUHdybGZobXBYaWZ4T2JpNklQRW5XMVQ?oc=5",
@@ -2793,6 +2917,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a73c80f448d54da8",
+"title": "HUL Share Price Live Updates: HUL's Daily Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-25-sep-2026/liveblog/134473877.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:52+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bc12847c2d80cfa4",
 "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and SMA Insights",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-25-sep-2026/liveblog/134473863.cms",
@@ -2847,6 +2987,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T03:00:20+00:00",
 "first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3f2d615ad5e7b11f",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Market Movement Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-25-sep-2026/liveblog/134473863.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:20+00:00",
+"first_seen": "2026-09-25T09:28:34+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
