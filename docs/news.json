@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T01:17:05+00:00",
+"updated": "2026-09-25T01:28:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "e339f0aa989b6025",
+"title": "Chainlink rises 5.7% as Infosys adopts its tech for banking software, but impact on LINK token unclear.",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVdFNktJWHRfY2JqcTIxUFBNb0c4S3hGQ0VFSEhhVExBZDVYYTdaUk5EQ1VEcjhTSWh1bkVVTElJcGgzYm1kQ3VXSlJxdDdVWmJGZnFJcWwwcWNLaWRWUkd5SlB6S3dQNHVYbm1OUFVhallMOWp1eS1xaFJKN0N0LWhRT21VdEE0ZkVfa3FkTVVjSzhl?oc=5",
+"source": "Pluang",
+"published": "2026-09-25T00:35:34+00:00",
+"first_seen": "2026-09-25T01:28:38+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "bc5a21f4777e2cba",
 "title": "Chainlink and Infosys: What LINK Holders Check Now",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGNzRaeGM1RjM2MUlhemF6R3lZMjZTamhPT3lvc081Z3Jwd2x1NFctS3J0V0ZubG1FRXJNMFFxbEtpMVI5QVZVdWo0VW9qNEp3NEdUbE1ZbXBpUndoWW9HdGZ2emFsSjZma0l6dm1IbEJabnBsODlveHNuQWJ6UQ?oc=5",
@@ -488,6 +504,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "376a563fa42cdffc",
+"title": "Tech Mahindra, Verato Partner to Strengthen Data Foundations for AI-Driven Healthcare",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVdNc0xpcUtvaXdXak9YTmUza1JBRUR6R295RmlRTzVvT3JvaksweERRdVI4ZHAzZXVKbTRMT0M3WTRQeU9QSUtER01hY2MtWW0xWW9lY0Z0bUwwTGJiLWxITXJRQ1kzNS01V2o1SVVERkpnaXdyN3VfZXFGVG0tSFFNYUhPU3pCa3pyOEZiWll3bHlaNUZHbkpVNDNPUFJ1ek5vc2hFNjNNM0dpenMxZFdUMlc3cm5KbGMzbTkyVmZfS1p6bElJ?oc=5",
+"source": "BioPharma APAC",
+"published": "2026-09-24T23:15:00+00:00",
+"first_seen": "2026-09-25T01:28:38+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -751,6 +783,22 @@
 "sentiment": "positive"
 },
 {
+"id": "3894b72f0992d812",
+"title": "Infosys Ltd. ADR falls Thursday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWS1uaFl3WjBLRm5rbVhRbW9fZzJILVJtYUhXaTgzN0loTlpvSzM5bVdLYkxESUVNWVBoek9PSThzOThGRXhHOVZPRXNsNVNQbnVVY24yakJ6Q2pISkJCU3RBMHlfMjg4bGgyVVpqUFdtZW1qeVVxYzFKUWFtX0VnX0tHanJGc1ZkYkhoLWpuM29TZC1IU245YTJsMGxQUzQzNGxBaWNZSUxCbEZXYjVYdHFKbHl1WkYxUFZrWm54SHhxblVyekU4Qg?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T21:25:00+00:00",
+"first_seen": "2026-09-25T01:28:38+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "9a0d53cea00f7105",
 "title": "HDB UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds HDFC Bank Limited Investors of Securities Class Action Lawsuit Deadline on October 12, 2026",
 "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcWRJSTJTSkRPQzA1ejFuY0xzblp2U3lYem1BOVdoRWFFend2OXJGZVlvNWZsOFoxeFk2MW4wbm80MUV2WGhSbklneFhZTmF6OWdVdk5YRVJWMDhoVzhjYy1lWnVKSkZta19rZVFWT0Z4ZzdlWG0zb3IzTlNaRG15Mnl6aGVyQjljTEdqRmwxbGJKQ085T3pLSFlCc1RpQ1oxMXZzSEtqM05pYlBmRmdGdk9UY2o5NHNyZDVUNDN6Zmltb2liYTFKYnZhd0tUZFQ3bmxlMF9ud0JGS0JMYzBDY2RBQWVIOHRjaXl6bHBBVnpTSTVZOG40eEI4NFFyRXVSa2xHZXZUSmd4X0VjZUpGeWhFS1kxeTJsb2c?oc=5",
@@ -1009,6 +1057,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "d8983f77a3d947f9",
+"title": "HDB SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that HDFC Bank Limited Stockholders with Losses Have Opportunity to Lead Class Action Lawsuit!",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNODdVZ3lCU0RKeGZQQnNlbkNHREJEWDk2dlZnSEtSNzZ1RFctUXRJblY2eGNOTWM2ZU92a1JzMklNbUZiNW14OG5DUmp0Y2p4X2RjUXhkM2M2Rm9aaDNQUzFySGdIdTlob2h6YUxvcHZQdk9odEdtVWhpeV9wbjFKcXdBSWNoRF9XWl9pSkw1OWllSlNSRmIybEtYV1NVRF9jS0dYUnRRWHJzV3EwVWJQTUE1Tk5RMmc2ajRPUGx0SWs5Q1FQa0I4UzZJWFRXRl9uVy12RmJjTVVGcWJVWVByeDNKTzk?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-09-24T18:18:29+00:00",
+"first_seen": "2026-09-25T01:28:38+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "f14ce12a0474f848",
@@ -3256,6 +3322,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "476f057503b980f8",
+"title": "TACH 8-K Filings - Titan Acquisition Corp. SEC 8-K",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoUmlSN2FoSkhwV0JWY253NXhhd1g3VGpaY3lGNkhDYjNXSlJrZ05ENjBicjd1T1k3YURDS1FRa2w3UXYzMmRPTDhEZHRKN3pwOHJYY2lPeTJ5eDJjVmt4QlR3?oc=5",
+"source": "Stock Titan",
+"published": "2026-09-24T11:21:08+00:00",
+"first_seen": "2026-09-25T01:28:38+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "e490a1412903147d",
