@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T11:45:14+00:00",
+"updated": "2026-09-25T11:56:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -657,6 +657,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bdc2af5b0b980a66",
+"title": "SBI offers free online courses on AI, banking, finance, marketing and more: Check details",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanBqMWNqRlZxUzl1eDgtckdvb0RJTmRpOGtRd1otckpfR09TWGFIRHV2V1h2ZzdtS05ldF9vYnZhUmdtQktLekJjTFItaC1yWThzNk5yS2UwWUM4TjlFY3prR3NQbk85UFQzbnhza2YyLU1BS1R0ZEZrT2VaTTVZUUhVb0w2M01jbzNvejJ4UzhDaWlEX2puZW02QjZWSUVHRVVSSi14azI5ZUJRZmEwdE1yWW0wdTZreW5jQU1wQmRGTDlmLU9fQ0hYYWd3aWY1OVdwMHlGNmFQN3RzM295ejNCMHFnTWpnbktWT3g1MTBYZEtqbHo5aHpB0gH6AUFVX3lxTE1qcGoxY2pGVnFTOXV4OC1yR29vRElOZGk4a1F3Wi1ySl9HT1NYYUhEdXZXWHZnN21LTmV0X29idmFSZ21CS0t6QmNMUi1oLXJZOHM2TnJLZTBZQzhOOUVjemtHc1BuTzlQVDNueHNrZjItTUFLVHRkRmtPZVpNNVlRSFVvTDYzTWNvM296MnhTOENpaURfam5lbTZCNlZJRUdFVVJKLXhrMjllQlFmYTB0TXJZbTB1Nmt5bmNBTXBCZEZMOWYtT19DSFhhZ3dpZjU5V3AweUY2YVA3dHMzb3l6M0IwcWdNamduS1ZPeDUxMFhkS2psejloekE?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T10:43:00+00:00",
+"first_seen": "2026-09-25T11:56:05+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "151694f96ead120c",
 "title": "Max Healthcare expands Africa footprint with new centre in Tanzania",
 "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcXNOS0VrMDM5OGZvTHFhc19haVM2R0IteGUzbXZPREdaT3FyUXhyajdqZUtfYW9fNTBlamo0SWpRbUhvWkZYUUwtMlNCRGhOVWpROC1kVHpkVm9fNENGaHVJS21rWlh4T1pWV092Y2tkRVNzOXM5VkxQYkxMZE1FTjJXZHk3emV3WUVGQ0txSEdTbk9tOTNUYVVzQVlvUUVRVDZlTUFSYUg3ZlBjWXJ4NUQyb19LdW5WVWpFRXZNeUZ6THk1VkhiS3otTTN3bjNKRnZVSWRMUGtSUGI3UkNZMXFJX3l4UWNrbW1XUnlETTI2Wmw0bXd3btIB_gFBVV95cUxPQVA3Q3B1a19UNldNVmo1V21Ucm1EaUpaWGh4dWJfN3p1Uld2XzRva3VWc1hFcFlvMVhWS2k5aDdUbk1qQlFPRlJ3ZDhiVEU4M3BYN09BS2FMZi1hNXRWbkY4RzFFb2loSmtXeXdkX1BrNm0xVHBrYzN4MVZicHRZQzI1anBkWWhYQnEwVDNWS05PeGtoVEtrV0tXSGVUSTd4dk9hVlNVQ2t6TldZOHlDR2h0NUl5dFVOMnRCUjZNY0dCdVdWMy1NaUhqWm9laWI4VHRhaVZ1R3pXb3ZBbjQ4QTAxa2xxRzhOckRwVXBqWVNBTG56OEdLQVE5MHhSUQ?oc=5",
@@ -751,6 +767,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c3df6ed0da55f6f5",
+"title": "HCL Technologies rises Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSW10YkpPelN5UFhGbTJkVnBqZERzUnRiZHdmY2FDeU1YX2dtTE1Gei00b1JWbXJ6dldMTmN6S0FoQ01IV2lDZ2hoV0l0ejJjR0dhUE1ETGxMeE5lbThndmpMb3pBOVY0bnM2Q0oxY1BGUVd2SmFRMlJZaVY1YzRYeHBXcTFOUFJSQ3o1WU40TmZVQXFaZHQwUTZYU3ZZM1JXc0Ftb1FZVTM2R05XV1k1QktCRkoySzVLVjloZGdMVU8yMUk0Zm0zWlJkbw?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-25T10:33:00+00:00",
+"first_seen": "2026-09-25T11:56:05+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "040485cb6a9a9c9a",
@@ -1005,6 +1037,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e0d7e64a6da403c1",
+"title": "Mukesh Ambani, Nita Ambani Attend Lalbaugcha Raja Aarti With Family",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenZyQ2tvVjU2NW9IYWFmNG5kN3NaLU5CaUNVWVA3ZE1IUF9ScHpGN29LdkRFbmVQRkZyQkpucjR4eW9yOUdUX3d3aGxkZy1LRFZrMmJ6Q1daeWxOTXd4OEIxNks2by1qbW5EUGU4aGFTWDg5WGFfaUQ4eVhhUHBiTGJWM0hKc29qQWU0OXdBWkxwXy1XME1DdmFsT0ZmdmtFYjRjYlZ0ZTVHTzdGanhFMjRJNUlCQjJXY3MyQkNsU2VlOUJKaldBZGFsa1dJWmVXUWVfc3NpdldJbXQ0NnFqRmlibFrSAeQBQVVfeXFMUHp2ckNrb1Y1NjVvSGFhZjRuZDdzWi1OQmlDVVlQN2RNSFBfUnB6RjdvS3ZERW5lUEZGckJKbnI0eHlvcjlHVF93d2hsZGctS0RWazJiekNXWnlsTk13eDhCMTZLNm8tam1uRFBlOGhhU1g4OVhhX2lEOHlYYVBwYkxiVjNISnNvakFlNDl3QVpMcF8tVzBNQ3ZhbE9GZnZrRWI0Y2JWdGU1R083Rmp4RTI0STVJQkIyV2NzMkJDbFNlZTlCSmpXQWRhbGtXSVplV1FlX3NzaXZXSW10NDZxakZpYmxa?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T10:06:53+00:00",
+"first_seen": "2026-09-25T11:56:05+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "592fb4b7d9512135",
 "title": "Yankees Get Trent Grisham News Ahead of Wild Card Series",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckV1RVhobjl4T2l2bXpidHdkbVQweWtSajR2SVhfTEhWN1FtRlNtbXRSM2NvOGwwRGI1eTZ5WUh4cENJS05JZDRWMWxvdy1SazBvWW5VUUxFNDM5bkZ6S3hZUGlwamxxM2RldjlKTDhQWnVqV3hUUWdPTWsxU043SXB2Qll0V21iMlJ3?oc=5",
@@ -1035,6 +1083,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "0fc5f7ed5b852b73",
+"title": "Bank strike September 28-30: SBI waives ATM charges during strike period",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDZZZWFHTGZJRkxMT1NrMm1YWktLTmJvY2ZfQTFPcThobjdrbl92UFdPQ05qWHpmUTczdGEwQzJHS210dmNEMHNyU1FpUlJ4VnNETDhVM1FGX2FXUkdvWG1RbkFLWHZwV09uQWpianZncElabF95aUVxdVZQeFVHcl84QTBtNnFoamFlWTQ4bFMzQWZ2Ry01akpzX1NBWTdwc3BvbDM1S19DRmdLRWJBUEZ1cHBHYVAwNlJ2V3VEU2gzc3VhbF9RSlhkWG1zN3BHcFFJQTV2a1hDR1NKbXdXSmRBY9IB4wFBVV95cUxPSDZZZWFHTGZJRkxMT1NrMm1YWktLTmJvY2ZfQTFPcThobjdrbl92UFdPQ05qWHpmUTczdGEwQzJHS210dmNEMHNyU1FpUlJ4VnNETDhVM1FGX2FXUkdvWG1RbkFLWHZwV09uQWpianZncElabF95aUVxdVZQeFVHcl84QTBtNnFoamFlWTQ4bFMzQWZ2Ry01akpzX1NBWTdwc3BvbDM1S19DRmdLRWJBUEZ1cHBHYVAwNlJ2V3VEU2gzc3VhbF9RSlhkWG1zN3BHcFFJQTV2a1hDR1NKbXdXSmRBYw?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-25T10:03:46+00:00",
+"first_seen": "2026-09-25T11:56:05+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "27255f5a8f6193e7",
@@ -8395,6 +8459,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "46952ab23e0fa642",
+"title": "15,717 Put Contracts on Infosys Ltd at Rs 1,000 Strike Ahead of 29-Sep Expiry",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSllyb3ROQjA0Qlk1SkJfUi1MZDE0TWFaX0Etbkd6SFl3OG95ZGZmeUtRZGQ4U2hhSjh1UHY4Q1NsWHFtNUtpbDBzbVRxT3BQVmluTFJTZmJEaXRXQnUwa2p2Z1lhNUZTdWthcEtYUHhPdk1qUE9kZi12ZzlnZk9ncUZoTVIweUtZT21mWjBtY1N1WlRjaFhJeFFJaDRGZ0VtQ2h1RURvR2RLaVRQc1c4S3Q5MXBzeGZ1VzdMU1l6OA?oc=5",
+"source": "marketsmojo.com",
+"published": "2026-09-24T12:37:45+00:00",
+"first_seen": "2026-09-25T11:56:05+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
