@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T06:54:06+00:00",
+"updated": "2026-09-25T07:05:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "af2e7f287cae3711",
+"title": "Smytten brings product trials to Wipro Bengaluru Marathon 2026",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlI5amRxMmV6NVVWemJ2ZWJwb1RTZFFxRkw4MEVKZFViZjFfaW5hMWtlRVY3bmExRFUwLTNVN3V3YW5wQWQwZFY5cEctNFVWcHBiaWxVQUhKZDI5dWtaaWJQeGk2ckJTQ2NxNWFHbU9BakgwdnBocTZBTF83ZEpacnRfdE1wT2dkaXlkZlo0Qmp3bjdNLXBJZFRjdlZDeDRRNjhLTW1n?oc=5",
+"source": "afaqs!",
+"published": "2026-09-25T06:56:50+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c69968e0b67b3ac",
+"title": "Bharti Airtel Strengthens Mobile Network in Mumbai for Ganesh Utsav Crowds",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHVZWTdNbmlGbXU2akY2b1Vka1JaX0pKNXlwMWVreWhld0o1ZmQ0UVhoZFhIY19XWENsWUhCWXdnZ3VYa1BhOExFc1FIZ3NHLWhiUnBzNC10cnJBY0Jhbl9YQ21zVlhKZlVXckdhOHcxN1paYlhOZUppaXFwRkkzanhreV8xUGc4TEJDWDdibi1zbktpQ0RMbQ?oc=5",
+"source": "TelecomTalk",
+"published": "2026-09-25T06:55:57+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bc79bdb940a969da",
+"title": "HDFC Bank Allots 18,97,180 Equity Shares on ESOP/RSU Exercise",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDc5M3dCMFhCZmt5NFRRRTlGVXhsR3J6RXBCOHcyRlJtT0lJX1pCWDA4T2NHa1hfWS01bEZxU2ZiOWZOWmxhMnNUaWdGQXo4QVhBb2wwdWpwNGV6UGE0bGJPTjVydlZnaFFuRHJkVG5idDF2R2c5MTJEMEQtaDEwb25mS0JabDV0TVNoX0dpd3pKbGVKWGFLSkRnQUdMUQ?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T06:54:00+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f74bb6349ca9181a",
 "title": "Maruti Suzuki Shares Suzuki Motor’s Technology Strategy Briefing 2026",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlRQRTd1VzNSWHJ2UU1hejFBcV9qQVFGLWdDam9FV0c4YUp5blpIeUVFTTBhMVJXNnlyNUtYQjRKd0Y2SEU3a2xjdHlYVU40UlBIN3VCWDlOcVUxWHRCVDZwcS14a1NrYUViTE1MT1kzdk1XN09UbUdNUUtpMldzYzNCQmxIZFUxaFRFQlQxNnYwaXl1MDctTUtmV1o2d21USkY5TVZENjg?oc=5",
@@ -791,6 +839,24 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7e01ce9c1af981cd",
+"title": "[Sensex Today] Share Market LIVE Updates: Sensex, Nifty trading flat as US bond yields touch highest level since 2004; Eternal, Infosys among top losers",
+"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQ0Z4X0ozcWE0Y0QtWWJlcGhzYlBGYmNLVzZvUWc2a05LZnJpWWJhMmgxR3FYS3pTSDVZNmZ3djZKR2taVWtQVWR2cVZUSDl4WGRjU2FmWlduWXJwNDNhbjM4WEVQSFd1NWRsSVlheERBcHlMLU1xalFqMzBJUHBPMUJxUVBPRGh6eGo3NC1MVXhhcVl0WGE0Qk5VWVNubzNvZEdfSVhhR0pVY2ZjS2FjcmVoZ1p0WHhwZUJkUWxMNDkxMHF5ejE5STdHNmFVUFpNWldrd3BmUDhUM0lBdmF3UWwtYzNiOUlXbHBpdDdjUlEwcnM5WHNoeGFIMG9IM2xCaXl5ODFWWEZxLXh2R2dyc3RYcHcybnfSAZsCQVVfeXFMUEJNZ3REQlNWZ0RScGtrWG56TnB4Sm03dkdWUWVpenAxTEo2WDJuYTd2U0o0dzM1Z2ktT0lhUzJycEthaFJfYXM3S3hMMk85Ry14TDg2eGZzc1c5b3lhSXVnTVc5OU1iSEE0NkFBVFEweXhXUGZrT3V3TzUtcExUbXBBMDNGYWhsQ2JkZzd3VDZoQko3UFNxVHhqWk14aHFsQ1ZGeE9EajE5QlBYa3VXX3JZMDU4X3lhNHVUWS0wVDNJMG1vNXJOY3l4UTVhODZmMUVkWmludnNpbnpUR3B6TEdFbWVUdk1hUlh5S01hY082SjJ3V2VYNkNuY3F1XzE3YXJQZ2ZRUW5CcGhwMHRqZ1MxVXpQLWtObnFlMA?oc=5",
+"source": "News24Online",
+"published": "2026-09-25T05:40:04+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"ETERNAL",
+"INFY"
+],
+"groups": [
+"Consumer",
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1159,6 +1225,24 @@
 "Rating"
 ],
 "sentiment": "negative"
+},
+{
+"id": "ac7159d17dc67a34",
+"title": "Reliance Industries Appoints Jaswinder Sandhu as COO, Real Estate",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEFmcjZzdkM4MVY3aUVtUmpwMHBmQXNhSzZvb0hRVzRmLWhiaG52U21fdzZBbERQaERNVDZDMGhZX0ZIaFdtdlR4cDJJckozRWpqU1E5aVRKc2xzaVNCeVZpVnJKUUFlRGZCNmtQcElhcUxGZjdTRUN6eHZpaFZ5dkhTeEFVSWowSTVJZGhtYmlQMXUtZ1hwN3NGVEZWSnBZSm5DYXhCNlFoQzVkZExiVkR0VmV3NDg?oc=5",
+"source": "Realty Plus Magazine",
+"published": "2026-09-25T04:36:15+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "67cab88bfcc6f108",
@@ -3196,6 +3280,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "0d69e9ec23d96c82",
+"title": "L&T Technology Services promoter declares no encumbrance on 73.57% shares",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHdiYzBHU252Qm5SdWRTaHFVeGt1ZDZ3YUY4MU8xT3JON3FTc3VFb282RnRFdkR1YUNfV2h5Y3ZtNnNoS0F4LWZ1UzlzUVZkVHFnUElKUG5iZ0g4ek12aW9ieW5TNWYzc2xWcDJrU1h3RkVSMlVSczJhYmVDVUtfTWFkWVBiemRtb2RyVkhpMU1YaHlSbjZZY2U2NkRWUFFGYUI1ZFBfNEJ5eUFaMmgweDY5Sm5zZFZESWZhamhjTGoweVBJcU5RMg?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T20:08:40+00:00",
+"first_seen": "2026-09-25T07:05:35+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
