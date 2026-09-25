@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T03:38:33+00:00",
+"updated": "2026-09-25T03:50:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "2d31441e63c00083",
+"title": "Bank Holiday Today For Ganesh Visarjan: Are SBI, HDFC, ICICI, Other Banks Shut On September 25? City-Wise List",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGttTVRLSVBfSi1HSnJPUVhVYmVQc3ZETkR4ZktMOW0wQVlWekZrd1dSMkdqOXVubVFiT0RjOXVIZHhZNlExMVFyTU95QWVocFRsZmk5UDFpZ1Vrbkh5MG1VdWY5N1ZGU3dUaUtmVFNTRDdTTnI5dGRNSkZoanRQMWVYNXlrdGg1eHdLdlhuMEJZX0liWWp0NERxM0NVMlZldlJRRW12XzlHWS1xc1VyckFHd3JrUlhTdGxSNnpXSzk1VzZrWlk5NkxvRkFqSG5DaldoVWJDeEkxTkE2?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T03:41:09+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a979f03dee4d3ced",
+"title": "Untitled StorWhy the Coal India stock is rallying - and is it sustainable?",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNJNU9Ec3o5R3dieXgycnNYejFqRmJUb3NTeUduUlZ4WkNQVjRXd241S0dTbXlsTS00SlJWQ2trVlZfOEF3cU1RQy1Wd1I0Ul9IQm9QcVBYWEFGRTVLblp0OFEtMk1JSWg1MjZ4TkFLR3ItQVM2Z0t1Q2UwcjZGZDJzVk1FWGxxUVQySHRnRU43Q0pTcVBQNDhqTTBWd2RLYnY1dzZHYm9IR1hZTXFjenpFdElCLVJBNHU2cXNWYlE?oc=5",
+"source": "Livemint",
+"published": "2026-09-25T03:38:28+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "541c82b605599315",
+"title": "Wipro shares stuck in bear grip; analysts assess recovery outlook",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPblMwQ2JSdzI4dVRfSFI0UVIzVEZpcHNVNVc5WGV6bUpjZmkyTkVtcHZLVktHT1NSeUdMc3BhX1p0bERScVYwUUpTVm9ScEJISGI5QkxMbXNhYXZoVG5oLXRNbzNEVm83a294R1E1cjloa3lQWXBMTDE4Ymc3U282UUVHQ1Z6Q3lja1REQ1M0aG5jTFlKOGJYU0d0RFlXRjhvcEVpUV9VMkdpMjVZeWQtY2tpcl9QSW5wb1hHeWlFeE5uTFBjVnljSkNDSzA?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T03:34:30+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1585524e235a8209",
 "title": "Adani Investment in Bengal Targets Rs 1 Lakh Crore by 2035",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl90aU13ZXBnSnMzWFN1bEVaWXIybXhXTGlhQUdKVFpCT2F2T0JYRTk1MmtLVjRyN05Sd1VuWUJKV1MxNUFYa3ZMLUMtVWxoWDJvNmV4MDF4S29lSTROSFRJVmc0VHExc0V2RkxNMDRKd2dmWFpzWjlIU2J0cnBVd1EtZ0h1SWdG?oc=5",
@@ -584,6 +632,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e7b0c10dda9a6864",
+"title": "Recruitment for 1,688 undergraduate posts in RRB NTPC: Age limit 33 years, selection without an interview",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzBmMlNNVlRTOFRlXzFWRlBqV2xvME1BaWk5RjM3Rko5SzhNcVEwRGtucUhKS3I4WDNYZUp6WXhodUc0Yk5sUkIySTZrMU5IaXFVbEd3bGlybG93M3BSaGxzdkFCTVZoMHFvUEJnUWV2cGp6R2lpa3lWVWtrTEJaU21vaE5wV0ZCT25lM0NDYnBYQzRHSGNRLWpPb3o0NEJHLUU0eWlabDVVVGRNNWl4YjBXMNIBuAFBVV95cUxPamJaUEV4QkVfbkFmNEJIQTJIOTljZGhVanVaUkpfQWUzaVVXQ3B2UVVjZE82YTFYUnV1LTB0UU5sQ0hvd0ZpUmF4eTdIOHNzRG5WR2RoUHFSbDNwTTVDNFo0WFVxQ0ZRYnk1eTVxd1JlVmZ3aUVnUnJTWTNiLUdqZ2JyQnlVWEcwQW1LbkhNbUpqcjh1T2J4TmptSDdENUt3OFBnUFZVOWMyaG9YR1lrXzhhaGtzNjRv?oc=5",
+"source": "Bhaskar English",
+"published": "2026-09-25T02:30:00+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1247,6 +1311,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "aa879b0ad9d7f208",
+"title": "HDFC Bank Records ₹60.11 Crore Block Trade on NSE",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZERlZGpYRmhJazkzd2hlUGl0OFFWWW9oa2ZxbGg1VU15X0p4NUtuaGJ0VmlISm5wZVI5NXMwZm80czVFREtRakVyMzlzekE1bmdUWmlSUVZrZko0a05rWUVnY1NaT1pMUHZLb1BpWkthOV9CcVlmU1ZqNk95UUNoc19pZzBVcE5aZ1dZblpVaE5ZWmk5WFlkWlJSRGlVbGxUbTlobDBYYWtmT2dhVHc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T19:32:34+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0891b254d173e13e",
 "title": "Gandhinagar Court Grants Regular Bail To Journalist Ravi Nair In The Adani Defamation Case",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkx4SzFza0pScU5NZ2x0cmtEYU01blNFdHlEck16aFZVMVdpRV9CS1ROX0NRMmxNMXduaDRtejFxT0NhVWc0ZlBzTUg1bjh0WVJOQnUzWi1pdE1YaXlnVkVoNkFyNGYxZ2ZvVXVZaS10Y1JZYTRYdmc3RGZQSG1LVEJFcUJlQkNQbHNhWU40aS1WMFllNnlDZG1FNGRxZVEzRzA5TTcwVERIUHQ1UkE?oc=5",
@@ -1262,6 +1342,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8256e5b7103d2eef",
+"title": "IIEST Shibpur, TCS tie-up for AI centre of excellence",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmhtdXJNeWstaTRld0l6c0d2dU13Um1rSkszdld5YXNybllpUHdCbWk3bnA3cUpsSDM5UGV3NUY2TUh2d1NUXzRRaVBBY1RFdFpLMFF5RHlYZnZZdEgzQjl4ekU1N3NsS0hQX3J0UFFZTkhDRzdlYUNVX1l5V2VZUHpndV9US1AxdTlqNXpic0M2c2xvZ05pWlFXZkpsUGd6aFHSAaIBQVVfeXFMT05obXVyTXlrLWk0ZXdJenNHdnVNd1Jta0pLM3ZXeWFzcm5ZaVB3Qm1pN25wN3FKbEgzOVBldzVGNk1IdndTVF80UWlQQWNURXRaSzBReUR5WGZ2WXRIM0I5eHpFNTdzbEtIUF9ydFBRWU5IQ0c3ZWFDVV9ZeVdlWVB6Z3VfVEtQMXU5ajV6YnNDNnNsb2dOaVpRV2ZKbFBnemhR?oc=5",
+"source": "MillenniumPost",
+"published": "2026-09-24T19:03:39+00:00",
+"first_seen": "2026-09-25T03:50:16+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
