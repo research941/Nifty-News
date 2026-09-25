@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T14:48:04+00:00",
+"updated": "2026-09-25T14:58:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,41 @@
 ],
 "items": [
 {
+"id": "f111e03600a8a06e",
+"title": "Repco Home Finance allots ₹75 crore commercial papers to Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW9ob2xqSU9iazYxNTlZYXNoU3JXdmxVWGZ4VXpzUkpXWkwzWkJBeVd6NFRhbktQSUhCcC1MWE5TdnEyakR2SVNoZURqUWtlRDJjOEN3c3l2MS1rVVJKRV9mUjB4Um9MNm01cHdGN2ZRNTZOWUdtWk9iQmpRLU5ZVnhITnkyWTBTcTdNN3hhNWZuaFFqcml2VXdweEM2RC1HajJIMmloZEpjRjViNkZsMTNLc0V0a09kUzFKRVNyUnpyQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T14:53:22+00:00",
+"first_seen": "2026-09-25T14:58:24+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d23735ec799f26a7",
+"title": "Nestle India Q2 Results: Date, Time, Dividend News And More",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmRzVV9RRG1QcmwyX2Z2ZEtnTnlpZGJEX1ZmU3RrTUNfTEtpRG16Z0ZkclVSMGhWV0R5QzA4WnpWdTBDZU0zMnc2QVVxQWpLQXFUSGNSLU45cVNRbTlqaWpfQmdKNGlIUFpWcTdoWmVQRzJ0VmZTdmRTbWJZUThFdnktWGVOYm4xbGU4TDBfdlNFWGpTOGNXNWlMWUY1YXNXbXfSAaoBQVVfeXFMUEsxOTBrWWE4UnVZNWJvQ19KNG43S3ItTUF4MWpRUDJPUU5xWXFYaDlPTGZBT2VRZ25vbmVZcUlGZ0h1Mkg3Y2ZkN1EwMjBsZUJRR0xLU2wtYU1JUzdKdlI5OE56aXMza281UXhfVWxVdXB5aHVqdFloZ01rRkhfVkczSjMzSGRQQk92UUVmZnZWTFRLRFAwSF9WVmMyejJjSHpWQ2kwSjFVcHc?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-25T14:52:08+00:00",
+"first_seen": "2026-09-25T14:58:24+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "b31de3270494d9a0",
 "title": "PM’s Advisor Tarun Kapoor Reviews Coal India’s Production, Supply and Gasification Initiatives",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2FQd0Y3eTF1cjdQNHlHVVZIYXhFZTYydks2d2s0X0pWUUU5T0x6ZEJ4YnpsWHRkSDRPSXNaRU4yMmc1VXFrSktZY2JiWW1heUtvY3g3TVpKOW5CbzNjUEZzdVFMbWNNNjFBNEpHTlljNEVPMUszZjcxaHBUbnJLSUE4SnNqNk9TbmNFNDlINTRsWnRkU0o5WUNUMUl3QUdhNndjZ3JHWm0?oc=5",
@@ -499,6 +534,22 @@
 "source": "The Economic Times",
 "published": "2026-09-25T14:23:02+00:00",
 "first_seen": "2026-09-25T14:34:26+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "58a9a1b0c1194559",
+"title": "Tata Steel Extends Dutch Green Steel Pact for Project",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEw5NmtzdGdudFlnNGVJcjdURG9Zc2ZTX3BJcGF2ck9JQ1dJNTcydzg4ckZBLUd4QWtkOVYxQ0lpYjF1N0lKTFNaRlpFM0wzak55UGw4Vk5nQW0zVTdhS0dnQ1JyV3UyRHUtVmtxTkNEUzNFTUdKLTRheFJ3TjU1b1B6UzBMMnhqWmRFRlVKUzhhaFd2VzFYcGUwWGhLLTd3ZVdpRFk3RHV2SWppdmfSAa4BQVVfeXFMTkhMOTZrc3RnbnRZZzRlSXI3VERvWXNmU19wSXBhdnJPSUNXSTU3Mnc4OHJGQS1HeEFrZDlWMUNJaWIxdTdJSkxTWkZaRTNMM2pOeVBsOFZOZ0FtM1U3YUtHZ0NScld1MkR1LVZrcU5DRFMzRU1HSi00YXhSd041NW9QelMwTDJ4alpkRUZVSlM4YWhXdlcxWHBlMFhoSy03d2VXaURZN0R1dklqaXZn?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-25T14:05:44+00:00",
+"first_seen": "2026-09-25T14:58:24+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -1432,6 +1483,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "972cb7bf8f55ba71",
+"title": "Mahindra & Mahindra Ltd Sees Significant Open Interest Surge Amid Mixed Technical Signals",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZzRJVkhmdXpvZWtTYVA3Zm9zTGh3T3IxNXNiajZsS1duTzV0UnFBeGZNVUo0Z1FoeEZFMERWSXdrQ2piTFRKMmpxbHFzd3Q5azJlYVo5ZVlFVlE2MHN2MkJJN0hBZTFNYy1YQjI3RlVjLUVPRzRSY3l4LVp2ZDdLQ3UxLWNod3k1OF9MNDB2d2p5YmZxOHRxY1hac1VqYURxT3gtbmhGQXNXZExnaUxUM1hZTGdlVjd6bkY2clY2WGJIZ1RSeHh5X0NJSlE1THBxZDdoaml3ZmRlSUI1U1E?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T10:52:09+00:00",
+"first_seen": "2026-09-25T14:58:24+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "0ab4423ed3c68545",
