@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T07:48:40+00:00",
+"updated": "2026-09-25T07:58:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "cc3af61b9aa68bb2",
+"title": "Tata Motors PV rolls out Aeris at ₹5.29 lakh, bookings open for new compact sedan",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWxQOGEtUlBYNDlGS2QzX0cxVy1MLW5URDdRRFFURzNLc25haWpfaEh6ZmxOVU42NnE1ajNLdW15SWFYLWVNLXc4SGx4UWNieFdnZlV3cVZiY0dUeEdVY0pkSVUwTGtWeXFtSktYNFNQRHdpaUh4U1AwdGlUWFRueUVza1VDeE10VEFNR245SVRwRHFBV01xbnd1cWh5WkRDSkFrTjdXR2JiVlNpOXU4ZlhQaU5yVkhxdGFF0gHIAUFVX3lxTE9TWDd6bnhoMFZZVC1vWlpISjZWX200cUdvRWhEZUJ4QmRHVFRVbjBaV1ZyVmxxUlBveDZxRHVOSVIwc19ZYV8yVmR6Qk84TE5hc0JCelpwc1I2a2s0LTRJNm9PQ2x2MXBObGpRbzdxcERlbEYySnhqOTNMa0pTRDNqNUI0Wm4tM1lMV3dteHRMNmFmU3FTWmxGbnZrbnh0cmpObUxXQ3J4NExYaGt1b3BoUjF5Nzc2cm0wRDlJY0IwOFU4S2UzTTRO?oc=5",
+"source": "Fortune India",
+"published": "2026-09-25T07:45:33+00:00",
+"first_seen": "2026-09-25T07:58:18+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ae6734c86a0daeaa",
 "title": "Sudeep Anurag Appointed Director HR Analytics At IndiGo",
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFNwa1VYeTBlN2hIenZCZkhBOXdtNEVDVlR0dHIyR2lRbEVFbF9ObkhUd2dfejEwaUNIZDdDd1NLc0xJLXB4SVJ5cldYVVR1SzV6Tzl0TWQybk9yVWh5elQyWUZlMjBTZ21lSng1OVRaU2tFS3JESV8tSXdEQTVGRmpEc3hHal82RmhXdUtHbV9LQ3o5T0hn?oc=5",
@@ -499,6 +515,22 @@
 "sentiment": "positive"
 },
 {
+"id": "ce3a58c586d73ca6",
+"title": "Maruti Suzuki commissions first green hydrogen plant at Manesar with 300 kW capacity",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0JkRXFyZlB0UXdsLTQ4bFRoeXBPb2FyVFJjRXBJektfZzRUcTdFMWRQX3hkNklXYzI2Y0dURWFwLTBQLXNPVTVaeVJCTHdpWFFWTE5QRG9jSnF1UTNjUW4zeVBpTm15RExNeEs3ZXVkS0ZOdUJ2ZnZqVHhYZW56QzBrYjJZU3VPdmtUSTNRcnJjY2dYZFJNeWRtSjNWWkc2aEhRWXR1dGh0VHNTUjg4QlZ3?oc=5",
+"source": "BioEnergy Times",
+"published": "2026-09-25T07:32:41+00:00",
+"first_seen": "2026-09-25T07:58:18+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "057bfada55ed7c27",
 "title": "Tata Aeris Launched In India At Rs 5.29 Lakh; Rivals Maruti Suzuki Dzire",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNl9WY3N0SDhoaG5XNXF2T1V5RUhlTzJxVDB6YVpFQ0Q0SkFyS2hRZ2hqamhoR3FUQk1sQ2NRYzE3S2JSS2JSMFE2LU96VlkwNVlpNVlJeElRaWRWNmU3cVkzaFRTOXpvaDRpMDVwRExYdjd3aVB1ZVM5WGI3T0VuMXk4QVAwQUFNTHBpNk1nTTJ6OEVVMDdtNXFlYnFpb3dHeG1zME9fQWlRQdIBsgFBVV95cUxOM2FtWTY4MnJQMXRxWllLbVdmY3hHMkd3bFcyaHpEYVZFaTdpWGJQZTZZNldjU3Z6cGdJdHAwNy03Vm9QRjFLaDFVZEdzcDhMWlVlWHRkOTVLZ2QzaUlLRmtFSUVacmc1VGhBalFVVjMyNllNNVEzOTY5MnkzbzlKUWxQTklVMTNYa3ZIbVppSWh1d3hqU3pLdkRHbnIzYWNGQ2Y1cDk5T3Y2eFBQOWVkVm53?oc=5",
@@ -510,6 +542,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fe7fe13423ca958c",
+"title": "HDFC Bank To Issue ESOP Of 19 Lakh Shares To 'Employees' — Key Details Inside",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXFzVXQxb29DWXVNRXUwTHVGaTR3RDNvWkNSVEJtczQtdmJMNGZjc3ROdFlkNHYzMjZ2QXp2ZmNMMEdVa09ZampIazgxU1RTTlZGVThBSWdrc2ZobGt1cnNCRVQ0QTY4OFVhalRYVkowSUVZdG9XWnA2dW5Ddmd3bkpjdVNsMnpnRTdHYXQtUFhkLUNYVFhHRFJsNVk2dWM3a2RSVHZsUE53ZjJXT0tMOEpDR1cwc3JYY0FCRWhkNTdyMUtiVGlEdFNnRFNBdHNkaGlJ0gHbAUFVX3lxTE5UdGc0OGhZc0ZXcjVHRnYzendnUFZCOUhwN3lmWHRvaTBEWWlrbURISU9WSkZuTWZtbmh2cGZJQTI1ZDk4V3Z0cW5lU21LZzR6OFVlMV9vTFVEZ1ZEOHZDaC1kWmFnamlPV1FWXzhSYldsd2FFTE1HUk11SkdGQUNUNjVJcnBNTmxFNHdRUzlheHI4eFdqSk5TN09xVGdVMUgxU093NHd5cG9zaGRwZHdXWllldldZUTFSbXFsNTNuakN5SExJX0lnSmlRX2F1OGJydjJWbTlTTWZUcw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-25T07:30:25+00:00",
+"first_seen": "2026-09-25T07:58:18+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
