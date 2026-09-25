@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T17:17:28+00:00",
+"updated": "2026-09-25T17:30:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -681,6 +681,42 @@
 "sentiment": "neutral"
 },
 {
+"id": "df08ba6eace34ebf",
+"title": "Kotak Mahindra Bank (NSE: KOTAKBANK) at ₹404.00: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ2NEQm9nUWgxbVJjQmF4MGJPNmRMZjhsZEp1RkkzZ3RjZlJuYmxmTnFNUmFfcTNWQVhJbjBNUG5XSUlSVDgzRnZ0dHV0UXNOcExfRHB1RURKelFuWUwtZ3FzamRFVHFldWRwZ2hmdjJjbXp2YzAwcjFCa21UTnYzdE1ob1luLUV0TUhIRXNFYWhBTks2VW5HYmt2OFQwY2pFb2FpQzNMcWFKcWJFR3FpNTBDNGZncGhmS0s1ZVJEbzlySzE0bUx3NHFNb0hydFRoZEhQWm9HQWlzanl1?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fd83901c1365de81",
+"title": "ONGC (NSE: ONGC) Down 1.31% at ₹235.86: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVG9va21BV1lQdGFzUDZ5ZUdQV0YxMmdTY01vb01kSDBEQUJ6eE9ySjN6c0tLdG9QZXEzeUctMHRaOGtGdmUtc1lpRlRCM1BrcGhvQlVnUWZxTTczR190YmtfSXEyb29RR2ZnTVZ5ZW9oTUxVaFgyeU12cFYxY3FQSDFibmdsaDdnZUhFUmxCODROTElCc1pPemVuLV85SmJ5ODdUeXpOVUM1d1hBczdILUFTeEQtblRJOE9KU2RpSzdKX2lua1E2aDFoTVNOclU1Nm1z?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4f376aeb02167331",
 "title": "Adani vs Vedanta Case: NCLAT Rejects Vedanta Appeal, Clears Adani Enterprises’ JAL Takeover Plan",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmZKeHh5cGlNbmtFQzZaNnlGc0lHOW9IamFmTVJUZXZPemdzYTRXNUFhcjdMRklmMmNRSGc1aDlnY01nTlNLU2d2a2tKbzlZTFZrWWJNY0dqSjlReDB2WGNRTzhOaXNXVVJnTkw0a2pZMGwyaHQ3bmhMd0pNT0FnelVSSjlJc3Bla3pVYWVRSVVnWWVlWEpEdHlHZmlKWEtIX2JscFNzVTJkNngxbXhTU3Ywc1NLcWEtWTdvbDdaS2FlWmVoVnpHQURRWHRNNUJDd3prTA?oc=5",
@@ -726,6 +762,60 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3a623b7ec6c2884d",
+"title": "TCS (NSE: TCS) Down 0.31% at ₹2,080.5: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlBPS1BhZ3BLZjlMVDVEcnNxbFZ0ekoxcWRBZlF0SEstMDJEc2NLbXBXV3M1dTIyaGxxcEd2VzEzQkdPeVZWYWFPOEtVREhiSGVtQzgzbVhxZE9rTVdLaU1xXzAyZ1h4WWl5WE9qTG9DZDdiTVRLZ0FWdDdUS2ZsdzlEYWpTRGJ6TkNTOEdXQjZWbWZDNExmRGVacGtQaVhrTF9TUUEzYm0xbUwyRmFtMDdILXF4M2U3TmhyaA?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:28:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "614c0e0506a52ae3",
+"title": "Bharti Airtel (NSE: BHARTIARTL) Down 0.38% at ₹1,789.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT1M3ZUcySUhQSDNZZl9NQmcxd2p2TU5xZkhGbkVlcWhvWTBXVkcxa0RKT1o4NGotMDI1ZGR1ZDhlWHJJX0RHRVduM0xLcXc1d0NDWk01TnNYNDB6VFZRSUF0LUR1MVdCWlpjQWNPUHROUzVsczRHLWtkTWYtMjdLREQ1T3NaQWZCd05UTUVoeXFueE9VNk9MRko4TXhrV1lsOTVHTUt2MVNTMFR1bmRuaDF6Sk9yeEpIcjNXV0t4S1hmaEdDU3VxTGo0VEJvQ0dwclhFeUJRLVBDRk9PVUw1NzFvTFA?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:28:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6f2199abd5977c6b",
+"title": "Eicher Motors (NSE: EICHERMOT) Up 0.26% at ₹7,357.5: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3JpMU83N01xZ2JsZHZJZGNEcHE5TWFjc2hnOUgtRE1lWWpoNlFJeHJjR1hyam5YMmlBV21nRWNGZ1o4aTFxQkdwbEdKNnAtV2ZjY1lYcHlQeFIzV3VBLTlEbG1XOEV0aGJ5UzhPTDBMeDVSYndBWGxSZjV3SncwbTBIZTRYTGZLdXppQTlDNjNnQmhvNUU5NlhuNS02SjMyZFZYbHo4WUJCRWVyREJpTlZyS2JZMTlpRVhjZHg0VzhGRTBfcUZRdDRsMXplN1hKeHV2eVpuRlg?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:28:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
 ],
 "tags": [
 "Results"
@@ -801,6 +891,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "55c90fae75a7a3a6",
+"title": "TCS Q4 Results: Beats Estimates! CC Growth Highest In 7 Quarters, Margins Upbeat; PAT Up 29% QoQ—Full Report",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNTd4LXdSX2ppcnBkaWZTNlFLM1pJcmU4eEVIaTJ4ZWs4OF9FeTlIbEdvRjZSa21jUmJkQm4wS01HM1dWLW9mOFdLNHFGOUN6a25yVVhhbjVuRDByLVZtSDFkdWoyUFZiWWh6Z09MTUhPb1FfUFd0eGtPSFAzQ3g1X2xlNzNMMFYzRlFxYi1wajZhQXF4cnV0VUdLbk5xVkhaQklvMGhSQW1neEhXc3RIMy1obFpfaDBBVjVXcGIzVTlpWWhuRzJZTWlsMjdmUkZOYUJaYmg0bFZCQUtO?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T15:22:31+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "3829b9cfa4c79cd2",
@@ -943,6 +1051,24 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "47eac432c2f35182",
+"title": "UltraTech Cement (NSE: ULTRACEMCO) Up 0.82% at ₹11,147: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2hTZmpPWU5sblNqN2tDR0dRZTA5NzQ3N3JGeG0td3ViY2xsOVNVdHJ5VW5nQzFEUXd1NWpraFJFTzdrQVhJeno5cEFOSmxFTE1VQU0tRzdLYnF3ZGp1blRJVDJleElLZEJvcWQ2YXBxTVpsSWFBc1VlYkNlc3V5cW4xNmxTM2pCZVlnS1BQelFXcGdja2pIVmxvV3ItOVFQTER2NU9vOHVxQVYyWjNIWHd1anByTnNCUWw4b2x3a0tIZzdHRmtzSFY3U20?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [
 "Results"
@@ -1103,6 +1229,24 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "35efcd3c3d3b4b0a",
+"title": "HDFC Life (NSE: HDFCLIFE) Up 0.84% at ₹531.35: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnRhbGc2YjVhUUVNMVdTb3pKTklwV0k1RkhzUUFacWFESUVIMHlSZ1hMSDlwSjZVZVgzdzNOb09SXzVsNGJ4a3ZUel9tYVZwYllCSXRVUnY2dld1V2tYM2U5MXNKdTk0cjVLMHV1djhVUFlONDFKTzdUV0lBNjVtZ244TWpickxINmg3ZlhWaURrOVVvYVp0a0ZiU2hLNVVNeXo2OWxXdXdxdVo0SHVtbkdKM0xqXzA3MEpOaEhyUXo1MTNoNnc4VVVYSzhVTklSNDRYOGxkVGUzRzZ2?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [
 "Results"
@@ -5897,6 +6041,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5530e8d34e3df9db",
+"title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T04:20:10+00:00",
+"first_seen": "2026-09-25T17:30:31+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
