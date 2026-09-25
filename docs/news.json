@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T15:45:37+00:00",
+"updated": "2026-09-25T15:56:02+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -463,6 +463,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "00166a8008274f66",
+"title": "Jaguar TCS Racing Extends Partnership as TCS Becomes AI Partner",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0hQM084WERkYXZjMTllOHJNcmZ1Q2VKUnBvcDNIMG9idzZ5TzBsRXBjdVZfQld0ZVlQaEpSUXhaQll3VDdpU0dXZnUtTjZ5aUFTNF95M2ZtTWlCcmVGTl9oejl2ZWdZRXctd2htQWdJSV9uWWtNQUtjZDhubkE3Y3Y2Q3YwSUdZUU54cXVzWXpBY1ZHWk9oUXJDZk5tck10TjdCaFlMNTcyVElpUU9RWHpoR2t0MkxtYjNFcmNTU3JRUlRDeWg4SnRlTkhvUmxOM0s3VERfSU9PYlV6Qmx0QVFJZ3luSmJBc0FfZm9hOEZqVl9EZ0hfWEN0WFdwUG8?oc=5",
+"source": "Fuel Cells Works",
+"published": "2026-09-25T15:27:00+00:00",
+"first_seen": "2026-09-25T15:56:02+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ed89d40e9299bcab",
 "title": "Tata Steel, Dutch govt extend JLoI for green steel project to 2027",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFFOMG1CWmJ3SGJIQ3NHOVJfbWpVREZKc0FvcFZYa0JfV1hGdFZEUGg1UTFzU3ZEWHA2RFUwWjBxcWk3MUFjaG1yZEVGdVp5Rkw3WUJuRF9vcGNiTWR2c0NMZHJ4R0N0V2VZZHo2QmRSRE9zYS0tbDhka0pyajBIM3ZCRGtjb05nRktGX3FvVVVTV0gzelpkbjF2dzcxSkt1b0tia0JEaW1nekdValJkdzlkclpnT1J5bUVsWWF1UW82aGp3MTQ5aTJKc0ZkZ9IB0wFBVV95cUxOMkM2OG1hcEhmNUhYdmM3blFBSE5WZV9LdEYydmEwdnB3SW41dlZlZkpjT2cwY1dUbFhCVkEyRGpydWFuUWJWQ3hXSFQyWUhCNm1DSEJpN3YzU29mMzdza2V5cG95NVFYei1oU21ZWWt0U3NJdlBHc1gwTzBURWdMandHNi1JY2NIV01WVU9mMnFBWGNLQkJ2M25MQ05LX2RlT3FCb0ZCaTlfd19lbjJSendzaTk1d1FiZ1l2U0JnVzJvOWp3eTJic21yS3NuTF9nTmNz?oc=5",
@@ -669,6 +687,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b88419b5ff4abce3",
+"title": "Kotak Mahindra Bank announces scheme of amalgamation for ₹4,156 crore subsidiary",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWZWSVFWZUFyQUxyTDRnaFlHbGRsVUwyNnhUZkdEV2lITDU3SnhraEt1ZHpDb3h0Z1dwdE45eWtGemdGLWRwTG9EYTFtYXJTZndoUG5hNTdaakM0VWdNd1NKZTRfMm1KMW1sTjY5V2Q0ME5IaFlmNWozM2hnNVhIWlByX2JIUXk4LTRaT2ZTeVFFUnRJT0JjQTQ0XzhuNTJlX0tZRUdZa2hqMmtLY0xWVl9uTnZleWJLOFE?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T14:54:00+00:00",
+"first_seen": "2026-09-25T15:56:02+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1972,6 +2006,22 @@
 "sentiment": "positive"
 },
 {
+"id": "ae8047e92a657a5a",
+"title": "ICICI Bank falls Friday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXNKMEtQZmdxMzRJbHp1TWlIdXJXcDIyQ001RnBmNjFidk0ta1p3R1R2eW5NLWJqbHIzYUNaclEwOFdGOUJ6ZlRKbDNTQ1l4US1UV2daektNNkxYWl8tN255R3ltVS1OR0RQVzZuY0Jxbm16RWZWOElSTjlLNTV5dnhJcHVQRFlKVW53MzRjbHhlRk8xdGFtdjZROG9ROFdzSlFTSmF2QzdFWWV1SXVtcWt2V0J0ZFNMNV9KNFk1Zw?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-25T15:56:02+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "3b0264de2ed80f6a",
 "title": "Kotak Mahindra Bank slides Friday, outperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXU3UXVhdG1JWjAteUs0bHFtaUgzM0JPamstUUE2NnFHOGdILWxZd0ctSWFYUEJXTnViSmdwamZKSVVqZXItVVphN2F1UzFSbmpabnoxZTFSdUV3UVhlMEhwbVpia0UxR3hXQXhIVUxpMGZuU2tSRFBuRFRvWmR6QVdCSEhseHdBU2s4N3RNejE0TFJrS183REhpa29tcy13d3B3aEdUTlZnVVRiRnladXBIN0xnYU5DVTNYVVNPNEZNUGhLWkdfTFBpSVV4MnZH?oc=5",
@@ -1986,6 +2036,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "319b019324db7c4c",
+"title": "Reliance Industries rallies Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1l6ZzJNZnBkSHBIUjBCb2Y2NjZkRTZXZ2xhZ3pjNVhNSXB0ZGF1OFBHbEtIYUlxY2c5WEV1ZXhkTl9ZclRxZ0tVb2hYNGtOVFhJdWNhN0YzQXYwZjJndElPVGtpUkkwbldCMUNPVDdBTEhod1NIODVsQkNVMWlDOEdBZ3g2aFQ5STN4T0VrTElQSDMwZUtKR1Q1bUFVOUQ4TEVvRzBsVEZvMkJaLWVwQnlmSkZYLV93QjNPdnF5LUZaNTByZHZnY05NRXdNNmgtdUE?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-25T10:30:00+00:00",
+"first_seen": "2026-09-25T15:56:02+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "040485cb6a9a9c9a",
@@ -7738,6 +7804,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "8dbd8c5e370400cc",
+"title": "Adani Group Plans Strategic Split Of Jaypee Assets After NCLT Approval",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXo0YXpnSXFJRGhMSUFTajVVVkFXZDhzOC12Z0tvLTdiVC0zX0dDaGc4ZURjZmVIV2F4R0Q4S0NiQWJTdTBmUzY3SWJ0aDZMa0dfZ2dUeHlqVFhkS0NzX0FaV0ZoaUs2N1YxWDNSSWd2MkM2MkxfY01OMGI4SEtpaEtzV2wwVjN0UjVMMkFuVHM0TG5Gek1uM1haUTRMUV81c0RGdkRmRktEbzJnYURTaWJ3eExnSXJZNHdvZHNMc0o4QzBzVGRldUFB?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T21:19:56+00:00",
+"first_seen": "2026-09-25T15:56:02+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory",
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "9a0d53cea00f7105",
