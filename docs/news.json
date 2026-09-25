@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T20:56:13+00:00",
+"updated": "2026-09-25T21:17:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -848,6 +848,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5af6ffad521adf8f",
+"title": "2026-09-25 | HDB INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds Investors of HDFC Bank Limited to Contact the Firm Today! | NYSE:HDB | Press Release",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDZ1NS1yd1BPaXA5YzlZOXNKZjNoSFQ5RWoxM0drZ09SYzFuRXQ3NjExeG5qYmdhRkRHUS1ITHpxLUNkMjlJZkNTOVZhZFRlODY2Mk1PSmxsMFVrV3J6b0pPV0dNM2ZwNURhS0dxNUNCWGRCdldOOHBkTzBlX3l6ZEtvZkxQa21Wd2J4M0cxNnZjRFZXQ0RhTGJFRFZkaWdrU3RmM1EwYkJFdEpDZVlKVnh5TmZ1ZTRxaC1la0hEb253TU1ydFUtVExlOG8tUQ?oc=5",
+"source": "Stockhouse",
+"published": "2026-09-25T17:00:00+00:00",
+"first_seen": "2026-09-25T21:17:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
