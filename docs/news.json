@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T04:15:46+00:00",
+"updated": "2026-09-25T04:31:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,59 @@
 ],
 "items": [
 {
+"id": "e684e3570a70044b",
+"title": "Will Sensex, Nifty rebound after crash? M&M, L&T gain; Tata Motors at 52-week low",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnlGUGQ4ZnQtOG8xREpXajBzT003Mk5EM2s4NXhLTDZqQndwYnZReXk0Ym5iWnU3cmNfX0hRenRBQWFCb3E3RXJCSGt2VVRTZ2FTVE14N1ZBaHNRMzc0SVF3VS1JWmRoVkhNbzQzeUZYUllyT3ktaF9vQU00VDlCbkQtSTM3VGc5eEUzYXZzVm1BNzN5ZWxIdFZZVWR4OWlxR2FEUjR5bzVKUW9yTmFialNwektGbzhx0gG4AUFVX3lxTE9WeUZQZDhmdC04bzFESldqMHNPTTcyTkQzazg1eEtMNmpCd3BidlF5eTRibmJadTdyY19fSFF6dEFBYUJvcTdFckJIa3ZVVFNnYVNUTXg3VkFoc1EzNzRJUXdVLUlaZGhWSE1vNDN5RlhSWXJPeS1oX29BTTRUOUJuRC1JMzdUZzl4RTNhdnNWbUE3M3llbEh0VllVZHg5aXFHYURSNHlvNUpRb3JOYWJqU3B6S0ZvOHE?oc=5",
+"source": "newsdrum.in",
+"published": "2026-09-25T04:26:08+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"LT",
+"M&M",
+"TMPV"
+],
+"groups": [
+"Infra",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7022c4308acd099d",
+"title": "Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOX1NnUGJpeG5TcV9fQWlraUJNZUlQWmJ1Q05hN2t6UzFDc0FZZC1JMjlsSG5KOHV3SzVIZkhmMTE1MHNjU1lKZ1Jwb3piNFJvNlJhN2JZRk5sWm9QZTdHUnF2RjZaTTdfdGVkSmJjcm8yaFN1YmpDODZxU0tja01YM0wwdHU3OW91bzh4OEpuUXNaaEd4UmNDcGg4Y0RGWEJMMUFnZDBpXzRyek4tUi1MWmlvUUMwbTVvekRRc2QyYU5McFgyTURtaDdjemhKZ1NHZHQ1dEJFYUJMR09KbnpjRTUzQVF3elZ1VWg5YmFMVFk2LVJYS1Nz?oc=5",
+"source": "economictimes.com",
+"published": "2026-09-25T04:21:27+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "04fb075e566b706a",
+"title": "Adani Group may Invest 1 L cr in Bengal by 2035",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdKdU9vQ2I0NTNnY3VFVmoxSGl6SkY3a0tMcEkycTRRbmJTN0puVDQ0Wk1NUmNiQ2l5Z3B3MUZxMFF6cERVQjVzbndtUGhBTWY5UTAzVG9YTGl2YTRhVTlSSEk1NUFDT19tYjQ5dnJvTGYzZ3czQUVwSDQ5VkxBZ1Mzb1lUck1RX3lzTlV5ZFJjbnEtMGRDSGtrV0g0ajNEWEZ0U2Jwcw?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T04:17:00+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "eef79f99b5b04f62",
 "title": "Trent Share Price Today (TRENT) | NSE/BSE Live",
 "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma1Y1Vk81cHhIYmtxMHRwUlBBczZJSmkwUHhoVzJOdGdscTE5T1BmNG9Qa1E5ak9ONXQ3T0pTRFVoS0gySGNsM0xES1FBMXltX3VQLUpzaTl1VGlTTkE?oc=5",
@@ -701,6 +754,38 @@
 "sentiment": "positive"
 },
 {
+"id": "bc12847c2d80cfa4",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and SMA Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-25-sep-2026/liveblog/134473863.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:20+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "43466875d2976df3",
+"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Records New 52-Week Low",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473862.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:20+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a14c0c7222e684f5",
 "title": "SBI Life Share Price Live Updates: SBI Life's Market Close",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
@@ -777,6 +862,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fa5441f80f7b98db",
+"title": "L&T Share Price Live Updates: L&T's Current Trading Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-25-sep-2026/liveblog/134473638.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:47:33+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -982,6 +1083,24 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:08:45+00:00",
 "first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"SBIN",
+"TRENT"
+],
+"groups": [
+"SBI",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "697c1cae7fbf3ddc",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex turns negative, Nifty below 23,050; Trent, SBI top gainers",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:08:45+00:00",
+"first_seen": "2026-09-25T04:31:09+00:00",
 "symbols": [
 "SBIN",
 "TRENT"
