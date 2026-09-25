@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T08:46:12+00:00",
+"updated": "2026-09-25T08:57:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,62 @@
 ],
 "items": [
 {
+"id": "b504b4bc8d829ac4",
+"title": "BEL CMD Manoj Jain Honoured with ELCINA Electronics Man of the Year Award 2025–26",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01rNmtOaWpDcHptaENFRnM0eHFNdmU4QmxnZ0dZdnBFNU5CMzlFV1Z0aEpZM1hlQjhOZWhiREViTFN2NHJiMng1WHprV2pFRHhkX1lJeThDRTVmei1tbXBhT3dYQTRqUHNNRThjanJSanJvWmJsR1FRQ3VyM3BBODh3dC1Wdk1FZEdJRloySTUtcnBOVmVwR1hqTEMwUkRyeGstbnlPY1VqcUJEdnJZ?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-25T08:50:57+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f3949bb88badcb6f",
+"title": "RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnJwdTFabU0tZzRJQjVvSXhENFFSYjhCNVdWaWlQT29xSGlzX0tIVkl4cV83aVFwUjlIM1RNS1RfMGY2RWFYRzBUQ2lpb0x3c0swcWx3T3lrVWo5dWUwVWgyY0dzSlpLZHJQZFNRa3RMZThzNlJSN2FlVVp1bVpMSkpqWWwyaHU0WTA3dlh5UWE4dkE5SUlhZHpySjJKMEh4X2E1Z0FHX2x5LW5abGM4RzFMeksxdm9KVUNKd3lRaHJRVUpuc0VDMVN3MzRLWnhGZW440gHYAUFVX3lxTE1sR3NkaEFUc01jeW53ZFNHRVVSeFRMNkloelRHVEs2THJGcFlpNUJNcGFiNkdiWDRCRjV3QnR1YVg5STZBWm9GODJXRnZVQlREei1IaHBkc3BrS0lxZ1RjNVRPX1drcUU4S1VMckxsTHJuQmNHUmpZRVhuV2hqdDdfUGpocDQ2WThTbnNjMmIyTlNjaEFnV1ZVR1N0WGdVSTVIVl9QaVNCYjFLZkNmZHJnR0VWZzkwczZNc2M2ZzBCcWhranNSalUtQk1SeVRIbkN6Sk0weVdkVQ?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-25T08:33:59+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"HINDUNILVR",
+"MARUTI",
+"RELIANCE",
+"TMPV"
+],
+"groups": [
+"Auto",
+"FMCG",
+"Reliance",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0b8eab177ae0c39b",
+"title": "Commodity cost uncertainty bigger worry than increase itself: TMPV MD",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXJ6amVzNEJ4THp5ZmdzaWhsclpUVk53TTMxVHJNay1WQUxSYVd2bnVTZEVaWDVCU3lPU1dWc2M4Zi1lN1dGQi03VWFDYVF5Z3dNdHJZMDZmTF9RMjcxNnBuVWF0RUVtOEdyYTNWMVFjUl9tamV0MEluY1RqZzFQU2ZlMUlsQW9HNnA2SWVnc29ndXJQZEJSZGo5VkFqRGpWQlo0cFpsbWhJVkFldGl5eU9uTnF0a1A4aHZwVkFxcnp0TDY0V3J6YVJfd3pEeFljendJ0gHYAUFVX3lxTE1EWW1PNDQ2ZVRfMnhwSXBLdFN3SzZmbGNEQkRlWTJZUlg1b1pDdkdJdkNNR2VXY2Vfd0xGZ2lYY0dPRTRfWkpJTXJySFlvYUtQNlVIUDEzZDhxUFBZaTR1TXJ2SEFDYkdRY2NRRFlFcmZBNkdkTTdnb0ViYmN3bGN6U0lwR3BlaUhFQVBkM2JZU2g1V3YtUkUzb0VQbnN0NFlrQk81SE9OZXRtekRfcTQxV1BBOHFWVmUwbld6OE1ycnVkcUhhN0Fob3liSGtMSVhmR1l5Qndvbw?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-25T08:29:57+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "09df9823776eefe9",
 "title": "Tata Motors PV is bullish on entry sedans; launches Aeris at Rs 5.29 lakh",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3lvTTI2U2Nvel85cllSV0ZNS2N0bUpFeFN2SzJzWUVNQ1FBenpJbDFYNUlsNVMzQUlBRzBkN2dRRWRYVDdPXzBueDRFaEJ0UVo3T3U3ci05X0dEWGU3VnBWTGh2bFNKUzk0Q0xpMk01Y3JRYVFWa19UejVKYmI4dC1IMDNiektxQzQwYlN1eGN1SVY0SDdVUFdtU1pQNkpyLVNnOGRxbm54cnBvQW05SjNUa0FUWXNZRV9VdlQ0UDQ0R1ByeWlNb19R0gHPAUFVX3lxTE1Hd1BQU2hfRDYyRWhYbTI0ZWRiQm8yNmlTLUw1WG9vS0RNZlA3anRPcUhGRGd5SkZIRUNteUZsUHlvLWxBT3UxUjlqRHF0VzE1N2FxdkZWY01NUGdpWmpicXV2MlRZMFgtcHQ0OWt3eHdJaEtSZnJBNW9DVEVSQmczSHUza0NGd2RTTXo0UGsxc3FsWEFzV1hIY2VfZHdVcHE4WE5BWlVwTzdPZVh1X3RsNkU5enpNUmtqTEk5SXRjbm9rcmJxUFpUZEt5UjlKMA?oc=5",
@@ -511,6 +567,22 @@
 "Management"
 ],
 "sentiment": "positive"
+},
+{
+"id": "ff7c0ee976606e0e",
+"title": "Tata Motors Launches Aeris Compact Sedan, Priced from Rs 5.29 Lakh",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRU1ZRGZDLXZFUlV0dFd1RGQtaFVyYmtaLVpLUzhJTlFBSl90M2IxV0RTRmZPSnZVOGtHTTFIdGNUWjI3MnNXNWwycGFSMEFTOF9YbnRKVFdIZ3k2MEIxZEQ1cS1DZ0VoYnpSRkJMclNtQkdwUUZUWUpuaEU2aE5mWlh0b05XWERiUHBFcWRYZEhvSGgwSUNhZmc3cFh5VkJhVENFTTdIQWFQc2PSAasBQVVfeXFMT0VNWURmQy12RVJVdHRXdURkLWhVcmJrWi1aS1M4SU5RQUpfdDNiMVdEU0ZmT0p2VThrR00xSHRjVFoyNzJzVzVsMnBhUjBBUzhfWG50SlRXSGd5NjBCMWRENXEtQ2dFaGJ6UkZCTHJTbUJHcFFGVFlKbmhFNmhOZlpYdG9OV1hEYlBwRXFkWGRIb0hoMElDYWZnN3BYeVZCYVRDRU03SEFhUHNj?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-25T07:56:47+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0ea70d21716d5116",
@@ -615,6 +687,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "6122f5773c481efb",
+"title": "Gunman runs down Stoke-on-Trent road after pregnant partner hit on head by brick",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0VueXpfb2NhT0NoLXdwUFVLNHVpYnpzVlllYUZEYzBoRWZSc3ZSdlFvVXpJNjJoTkotN0pjcWQwM0thQ3JqdmFRb21NM2lrTWNBM21RQzJLNlZRVk9PZUc2VVBBWThIdjNGNEFNNUlhblFIWVRQdW9McU9tNks4ZUd3U1BtcVRkNVF6MFFXcXhKYXZxM2lBWFpB0gGfAUFVX3lxTE1KWldFYXowWF84OVFHYng1dmFzNWUxUHlwZERUUUgtc3hZdmhkWDNtNC1lUThOaHhROWNNRlgtS2Y3em9yU2pibWV5eHEwVDVDZVlNbk9SQk5CcW5EZzdNaEd3cU52Rkh0OWhMdVZPR2R0Y3F5Z1NtcnBUc183d2Mza1BSNXhpOWl5UW5ibm5CUnE3WEY2Uks3NnhVNzRSNA?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-25T07:33:00+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "04dab5c786af0756",
@@ -922,6 +1010,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bec936516db091b7",
+"title": "Buy, Sell Or Hold: Tata Consumer, Jubilant FoodWorks, Varun Beverages, Bikaji Foods, Devyani — Food Sector Stocks",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1pFX3lLLVpGSnB4ZXlBdXZYaGpzaHBMc09hYmdZcTFDNFBoWlc4N0lYLVc2OWRMbnh3U1NHeng2aThnRmtZYXZhOWg0azliMFJBUjZOM3pnazVFVHUzaGc4SXNXRUgwX1ZBVExtMFBWMkJQaTU4cUpSQVJMdHp3bkJPTjR3TFN3V2hnWWZ2Sk15Q3dNdXBZeTZFUzRuVmZKYjRWSU1ydw?oc=5",
+"source": "univest.in",
+"published": "2026-09-25T06:53:00+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8163,6 +8267,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "990e936bcae954d2",
+"title": "Ambani's Reliance Industries eyes $1 bn debt fundraise",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTlaVXJ6akJZMV9DV2h1NkRIRC1EZVdNU0NNTjFLUjFoNEMzWnNVYlJsTXNGX2pyV0dfUVFxNXoxdXZRVlN3clNacnE5TVZRa2hKS1JJM0xfVkxPUDFmMFFaTGNBT0pGUjFVNEN0MThLYXJfOEc2R3JidmFlLWIyMjl0UUROSEo1U1Jz?oc=5",
+"source": "VCCircle",
+"published": "2026-09-24T09:43:34+00:00",
+"first_seen": "2026-09-25T08:57:25+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
