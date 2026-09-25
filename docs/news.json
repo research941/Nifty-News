@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T10:04:56+00:00",
+"updated": "2026-09-25T10:21:51+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,90 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e9ff31392e42f79e",
+"title": "Nifty 50 top losers today, September 25: Max Healthcare, Tata Motors and Infosys lead declines",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPejRFNlI2LURyUThDd2Q4c2lma3VkWTdsalNTMVdHRTNLSVlzd3p4N3B1TXNWLUtpT2haT1VoQnhNeG4tbDRUVXhILWk0LTE2MnJuZkF4TXVzVnVyUVhZUEJtOXoxSEFHd3lPNUZ0MGFFNExOSlZZQUZSMl85N2RETVZydnRXcDlUVDRzanRld3F2QmxtMkVyZ2pvMmR6MUhGdm9PMVlRdUplY2lPalJNQmhCbTRaX1E0dkJNSzRnWTRkU3RRdURHZGx3RDZaSzgzTDJiSUpVYXBLOXN4?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T10:14:02+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"INFY",
+"MAXHEALTH",
+"TMPV"
+],
+"groups": [
+"Healthcare",
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "7046e3d83ae2a4ea",
+"title": "Maruti Suzuki Victoris AWD automatic: Ownership review after 9000 km",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSm5feTBoM1hoZFFlYXBpZ2dIOWJDaWZSY29KZDY3M0pES1hXdGFfMHU0TzN0LWVIMDhpT0p5QjJXWnk1aHdSN3JYUlI4TWZieVIxN2h0OGstWUMzMmtPdjJfSUk4RmdxU0Fnc0pmcHJ5SGFSMXpJc0RrbFQ2VGJ6bG94VFFNdWljUlZ0REtDVmw1UXprZndxQjFsRWFEd9IBowFBVV95cUxNSGdMMlV6cW53cktnRDhBWm9ENHRJdWJsNFpEbkliR0N0N1JoWThaLUxsQ0pzMlB3LVFqWVpCaVllTmVfNWExU2s1STNmcTVvZ3JnT3lwckhwUWgtWEc4aVd0MlRER2h5VHc5VGhraWFYMWVNMFA3bEVLOGE1clpRZzYwM3RPMmMzWkJvRDZPRTZwU3phVGhVMHVNcXMzTkdka0hZ?oc=5",
+"source": "Team-BHP",
+"published": "2026-09-25T10:13:23+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c2fb65da0441be3d",
+"title": "PM’s Advisor Tarun Kapoor Reviews Coal India; 310 MT Produced So Far in FY",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE5zNkl6UUt0MW0zMDdPVWRMcGYxZGVmdUtQcXJuVGVBRGtWSUgyMDVRVkZ5NGlLOEt4OUJ1cVRWb0Nzem5HeGFYdG93eUtrQzJKdUJMaHA1MjRBQm5WbTk2ZVRrcG1NS3RsVkc3SUx5UGkzeEdiRkduTVNWQkhRT0F1WTJrTFhfVFA4bjZ6VVVjbFA2cmkzXzE4aVM0c3B6YV8wUm1B?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T10:10:00+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a0ed27ae38d04945",
+"title": "Eicher Motors Closes Trading Window Ahead of Upcoming Disclosures",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkhxSU80N3g1YTVvYzJxQlVGSUNKcmFrUURYeTJTYUY1NUJYUzAzQnczdUx2Q0dBdjVCa1pEb2hDTkx1MDJIUXZuYkZrX3ZXSDMzejdZTHpyMzg5TnEwSVpTM1h6TVYzeGJTSjgtMUQyU2NJa3AxSUhFM0pwYVVYaS1DRVBNNG90TDVBMGxLUF9VaU1RSndmU1RWRUxlb19WQmgxSVU3RGJiMWxWck5wQTZTZEpSYWQx?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T10:06:58+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "592fb4b7d9512135",
+"title": "Yankees Get Trent Grisham News Ahead of Wild Card Series",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckV1RVhobjl4T2l2bXpidHdkbVQweWtSajR2SVhfTEhWN1FtRlNtbXRSM2NvOGwwRGI1eTZ5WUh4cENJS05JZDRWMWxvdy1SazBvWW5VUUxFNDM5bkZ6S3hZUGlwamxxM2RldjlKTDhQWnVqV3hUUWdPTWsxU043SXB2Qll0V21iMlJ3?oc=5",
+"source": "heavy.com",
+"published": "2026-09-25T10:06:44+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "eb2e8ea62edcf3bb",
 "title": "Apollo Hospitals Appoints Abhishek Jain as Senior General Manager",
@@ -2791,6 +2875,22 @@
 "sentiment": "positive"
 },
 {
+"id": "9128089dbcca610f",
+"title": "Adani Group announces investment of over Rs 1 lakh crore conglomerate would invest more than Rs 1 lakh crore in West Bengal by in West Bengal by 2035",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGd4cHdsUEoybnJmdjV4WVI5Vjh3elE5ZW9tNXVVWWY5TElVclRKNmphOFNqa19YWnVyVFpkMTEtYVpUc2xvWWlSdTBONFVESWFmbjc5ZGhmTHI0TnFRV3pwcjNnd1JnTzVQSXNqcVFvVWZ0MVMwbkRwMEhrY1Q3MHZJRlM3X296bGhJSzRORkp1WGM?oc=5",
+"source": "Kalimpong News",
+"published": "2026-09-25T04:01:00+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3815b6f0326a098d",
 "title": "Adani Total Gas - Negative Breakout: These 8 midcap stocks cross below their 200 DMAs",
 "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0cyOVVJME9GQ2htd2dPUWVRTmw5VVNrMTliVHlIQjU2UjU5XzduUHJmOFdpaGR2b0lxc3lNMy1ZcVBJZmlJemdNWkxrT3dsUllheVNkcHM4VEZINUlCX3ptVUlhQVVHR2NUZnluY19saHo1SGRjemQ4VWplRHRmalRaSGVrTURVZVNRR0kzQ3I2QkJXMjBiOFJWM3k4bE1rWFZ2TXdzaWtKZ3BIWVZJS2xtSEpqVGFXOGdDcTFyX2R5dHllZy1XOGJFdjk0eUtId2VLU3hYTXFiMWtSRHpnQW4yQmZ5bW5wYUE?oc=5",
@@ -2975,6 +3075,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "011fe99f7a626fb3",
+"title": "Adani Ports shares may rise 21% as Jefferies flags Vizhinjam ramp",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3ZNVE96YUVCUU9rbFBmczNxZVBReXFPeHFKaFhpazMtR1BTdXZVc3ZnS19JMk5QdFhscGRTNDBKenpLa0NNUkhBdUFoV1V3WkpyZDlHS2xOMjNFYUFpalRTMFVQX3UxOTVIdzZsTzdjeUNrSjRPTHNKNXc0aXk4OF8ySXl5NzVBQkM3YkNpRng1Sms1NlVnYUp6UFBROFVvalNSb2lGcGhyOElnd3hlR0dRbFdnUXBqSnZRT3RrUXFjS2VXOC0tOVAtQnZVaXZlU2pxeDFNVkRQZw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T03:41:46+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "2d31441e63c00083",
@@ -3521,6 +3638,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ed257fa15095dd9b",
+"title": "Titan Company Share Price Live Updates: Titan Company Market Movement",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-25-sep-2026/liveblog/134473836.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:58:40+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a48c4051ee200beb",
 "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
@@ -3551,6 +3684,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4717874029ea6a63",
+"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki shares rise slightly",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:57:51+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "7d2346e8b5659709",
@@ -5835,6 +5984,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2fdf8d41abcb8d6c",
+"title": "Maruti Suzuki First Green Hydrogen plant At Manesar Goes Live!",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUd0V2hjbTEtT05GTGZHSHpVVndvOWFlNFlaSmFUSEdLbDh2cGV4eFhCTU5JcWxoVkgwTjZyd2lUdEZ5NVZ6WF8wQURoV1lxaWkwZ1B3R2dZUGJQRGp0czJKVWk1TXMwWkJMYzJ0aWNIWUpLVDRRZkNRazR6dWY0OU14Sjg5c0dSNDhKWnV5eFpFSDA?oc=5",
+"source": "thrustzone.com",
+"published": "2026-09-24T16:09:04+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "621c170e8b864e6b",
 "title": "Sun Pharma’s Biggest Global Bet, Buys Organon in $11.75 Billion Deal; Pharma Stock Surge 7% - Time to Buy?",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSU1PX3B2U0htb3B4NXRmTy1JS1Z1dUdOQmgyT1BWd3ZTTzdkanJaWlFDeHNZQ09uY013SUNjdVk0RjlaeEROdjZJR0hPNk5jYUVsOFVGRVNrT1RaZXRPWlZuR0llRERqYUVZbUhWd3ZWXzlHMkxVUWo4aGd2YzBlWTZYRUZTRmYteVBkTjNFWl9PY0xZRjVaSmFraFA3dEY3cXJCLWdfSUh6WGU5eXNvWlZxSWtqdk9FRlZFblRSU3Q3Y2JCYXI4YllDVXlzTG0zZzFMRUIyUlk?oc=5",
@@ -7732,6 +7897,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "685799e8c693d87d",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Cuncolim Sep 2026 - ₹11.72L",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDA5VlExdVduS2FUcUh2dzBrOXFEdHZqTE51Q3lvTF9USVJyeVhmb2dLNzRybE5zS0k1VVJYQ3dLQWJoaFVYWWVIb2JMbFYxc0FzZ21QWXhUSFdPSktrOE56MmZsdzA3SDRQTG0wb2NoWWpBaEtER0J6T09OYlRCTlk1MTJkbDA?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T11:39:04+00:00",
+"first_seen": "2026-09-25T10:21:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
