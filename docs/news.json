@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T14:34:26+00:00",
+"updated": "2026-09-25T14:48:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "b31de3270494d9a0",
+"title": "PM’s Advisor Tarun Kapoor Reviews Coal India’s Production, Supply and Gasification Initiatives",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2FQd0Y3eTF1cjdQNHlHVVZIYXhFZTYydks2d2s0X0pWUUU5T0x6ZEJ4YnpsWHRkSDRPSXNaRU4yMmc1VXFrSktZY2JiWW1heUtvY3g3TVpKOW5CbzNjUEZzdVFMbWNNNjFBNEpHTlljNEVPMUszZjcxaHBUbnJLSUE4SnNqNk9TbmNFNDlINTRsWnRkU0o5WUNUMUl3QUdhNndjZ3JHWm0?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-25T14:42:15+00:00",
+"first_seen": "2026-09-25T14:48:04+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "07cd0d2c281fa2c3",
+"title": "Adani Power merges 10 subsidiaries into company as restructuring takes effect",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ2U5SV9LT29kWFlUUkVWTFdreVlzTVVocWJCb2FUNDNLYnpPSTI1NFJHdHFZZjBfb3VfS2lxWW4yTXd6RmNsNndJMHc2TXFXS0V2YzFhbXIxVVllWlBrcDh0eUxiQ2FKdnJDYnZ1b3VsN2NfbEtRV1ZsUFcwTDQxRDgxaTBTSG5CLVdLOWJ0aDVDMEhQUmU4a1psU0lqNklvRDJucS1lQ1dPS2wydUhsai02cloyaUhiZjBIV2lBWDdfNU9hQjFhdWFrSnlXTVFSczNwLdIB1AFBVV95cUxNZ2U5SV9LT29kWFlUUkVWTFdreVlzTVVocWJCb2FUNDNLYnpPSTI1NFJHdHFZZjBfb3VfS2lxWW4yTXd6RmNsNndJMHc2TXFXS0V2YzFhbXIxVVllWlBrcDh0eUxiQ2FKdnJDYnZ1b3VsN2NfbEtRV1ZsUFcwTDQxRDgxaTBTSG5CLVdLOWJ0aDVDMEhQUmU4a1psU0lqNklvRDJucS1lQ1dPS2wydUhsai02cloyaUhiZjBIV2lBWDdfNU9hQjFhdWFrSnlXTVFSczNwLQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T14:39:11+00:00",
+"first_seen": "2026-09-25T14:48:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e3aa5bcda5e108a1",
 "title": "Can Cipla's Respiratory Business Offset the US Generics Risks?",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFB1V041dU82WTJUcm8tWEtHazB3eFdrb21tZWZldlFDeFNldWMteGxzeVFobXhYRVhIeFIzQ1FGdjJpOHlPQ1dOSURkSGFxWjRYR1U4Rk9VaWRIcDNPaW9XQ0JHcHk0ZVhLYXF1VVJmSHdOQ0NmQXNiWEZBUHlyQWNSdkxLZlhHcnFKZFlIUE5qZzVRTTRxa202TjZUVkxUQ0V6LTJOYmYwQ28?oc=5",
@@ -472,6 +504,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a4b9834f1a607b55",
+"title": "Priority postpaid 5G plans: Bharti Airtel uses network slicing for faster service at peak times",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjc5TjRhT3NWSGVxdlVPbzVRMFhEaG5OSkpjUlVkc3BJUWxMMjFjNFR4MnZMQWJnT3RjMmg4UWN3U0kwYVFmNDNTWU9OYmVvbUNmdVJFZ1lmREl6dHRuTHluVm1JNm51c09fNEVCUXRIOFVEMGVyZHlpQThTVXlTRzg3d2tMZWRoX2VqN2pVenhiaVZGN09MT2pqQ0J2c1hYWUZzTDR1aWp4blpkejdPUFJRRWx0azVIZlE?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T13:50:44+00:00",
+"first_seen": "2026-09-25T14:48:04+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -972,6 +1020,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "869f13d4e30f050e",
+"title": "Chainlink partnered with Infosys, whose financial services s",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Fc2ZGM0ZHcVdETjFsWFhOLXMwd1hxdkR3aE9RTE9hbUJkMTY3VVd5eUNYcGRqWmlBNWwta21ORDZtTEJpc1FZaE5yLW40ZDhuazdnMzdzVEMzNXJweGxnaE5JVWlTd0x6c3FPS2pMRG1xME0?oc=5",
+"source": "KuCoin",
+"published": "2026-09-25T12:07:21+00:00",
+"first_seen": "2026-09-25T14:48:04+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f8dd0988d0897708",
 "title": "Tata Motors warns commodity costs will pressure margins, signals possible price hike in India",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlpnZ0o5NUhBQWNHeUMwdVlrRlNaZkI5MkttbUZkd0ZKUWI2QXRWNklCMTZqaW14cTQxMHYtandvNDR5dnZNUHVLY2E0X1pKWGFDYVRzUDRQUkNES2xKMjNYN3dVeGxFLWw1cG1BVEsxSzJWMmMySkRaZmpzVmxYd0FobDVvME1uSHZjQ2ROYXJKcEtIZmtHX0Y4VlNZRS1sUlE?oc=5",
@@ -1365,6 +1429,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0ab4423ed3c68545",
+"title": "Rs 960 and Rs 980 Puts Draw Over 18,000 Contracts on Infosys Ltd Ahead of 29-Sep Expiry",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2t3ZkZCTUQ3cmFtemR6M0xiNFdGbThFTTZhYU90R1dGLUJjS1NSNk9lVjdEQ2tYblFoWE1UQUE1Y0lYSVh3ZlZUcVF2NlZUMWt4NHh1V2tHS2Jjd3NvV1EyS0lsS1RhLTdaSjgxR3V6dHlMaDY0MFhLUHpzNW5kNk9Qd3ZWZE4tNWVwSE1pQldqWk4tUHlIbnRDcjk3QlJEMnljb2s4cE5sVnN3RjBybV8wdXgtZXhEdjRoNnY3MzFuam9VZ1FJX2RnSl9ZenpxZkh5R1NxX2hHRzg?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T10:45:17+00:00",
+"first_seen": "2026-09-25T14:48:04+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
