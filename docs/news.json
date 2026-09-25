@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T02:56:23+00:00",
+"updated": "2026-09-25T03:10:51+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,70 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "1585524e235a8209",
+"title": "Adani Investment in Bengal Targets Rs 1 Lakh Crore by 2035",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl90aU13ZXBnSnMzWFN1bEVaWXIybXhXTGlhQUdKVFpCT2F2T0JYRTk1MmtLVjRyN05Sd1VuWUJKV1MxNUFYa3ZMLUMtVWxoWDJvNmV4MDF4S29lSTROSFRJVmc0VHExc0V2RkxNMDRKd2dmWFpzWjlIU2J0cnBVd1EtZ0h1SWdG?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T03:06:22+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "081d8ee6790e80cd",
+"title": "Coal India shares in focus as Jefferies flags 7-day power coal stocks",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1NZcVpRMnV6cl9rSHlXZ0JTRXJ3di1MQmtTM0x2Z2ZZa00xZGVnQk14clpnWW1OXzBfZkhaTmU2M2hMWkYtbzBoQUtFbjhtS2hCWVJ1LUFkY3gwaDV0WHZTUWJxdDJaZWhjWFduVHBWVG92Nm52QTdmbzROUkxTbGRsQ2Nkb3p1d3pDU0pSLVNHTjlDQTRlREE5U1EwYkF1VUJyS0hjOTFjTHI2YkVpb1RaTS1Pc0VnQTBiZU9CdVdndkhIN2Q4MVFYVnI?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T03:02:38+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5d9a7c6a210fcfa7",
+"title": "Shriram Finance shares may rise 21% as CLSA maintains Outperform",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0EwOGFXNVhFUklVZWV6dFNQajRqbG1HZXBOcE8ycDNlWDFydmpGQnlONzRBMGw4MmNQLWU5YjlwQmtzWUNVQl9VaGJ2Nk9oaENKb3lDRnVxeHc1aTh3a3hkR29selFMMGdXSkFPUXFOQjAyQWx6eTJWUjVyWXdBbVo5ZkItci1FbXhIUFlZSzNmbXMtWkgtMDBMZU5RU0JhZmlrY1lUeG1rNlczbTBHSjNMUDU2R2tyZDR1ZWZ2aFZCV2ltMkJiLVVDZjFQLURibzlr?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T03:02:16+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b6482d55453e4568",
+"title": "Maruti Suzuki Shares Near 52 Week Low: With Strong Demand, New Capacity and Improving Margins, Should Investors Track This Stock?",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWkJtakhzcDdwVy1zcmxJQWNPcHZQS2FydDBuNy1UMWhXMDIzQlVDZHo4ZE8wN1pMUFRrSzZOMkRYTzhmYjRJTkVQNTRaRXEwSWhvYnNJazhMTnh5MzlJSHhQMkJNM2k2c2l1MWl6YUpaZUQ3b1Z5djdaUEczc21sbTlZMlhTSndtbEVKdUl3Y3htNFF0MUEwcnAtR3dsemFqaUZTelU0RmNiYUFkZVpnTFBXSVoyVC1aZ3NXMUNQRDVrNEtGX0c5VVNIU3JSbm9DLUN6a0w3Wmhjb25jRGZNRUJYMGxzdmZmQVVoQ1pUSnA2ZnRpUVk0LWFzSC1OS25MYnc?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-25T03:01:37+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "e8f95856506c0e91",
 "title": "Apollo Hospitals, Billion Hearts Beating Foundation And Marsh India Launch Smart Ambulances In Vanagaram.",
@@ -1401,6 +1465,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d62c13ba924afbda",
+"title": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdkJlRjNJZE9HNjlMcXd2U25qbnUtMFhSRXRscVA3UW9nRElrZ0oxTWdEaENMS1J1YWNsU2xUTG9uMV9GZkhaeU0zcmtoV1B1RjA1bExTNE1sNDA?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": "2026-09-24T17:10:31+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "eb3a45f114b74b78",
 "title": "RRB NTPC UG CBT 2 Answer key 2026 Out, Download CEN 07/2025 Response Sheet PDF",
 "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9keFBZWWRybV9EYkVHQ2xZMXVRSmplamVhXzBDb1hHMFRTSXROTXgxc3pBZGJ2QUxVZ0NJRURWWUJJTm96amF4NDBpSUZDdU1hVUJ1UkNiR3ZNZVpkZ1ktRUxaeFNEZXhFYjI0SjlDN3pCRHhOOExad0RDR3U?oc=5",
@@ -1676,6 +1756,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "621c170e8b864e6b",
+"title": "Sun Pharma’s Biggest Global Bet, Buys Organon in $11.75 Billion Deal; Pharma Stock Surge 7% - Time to Buy?",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSU1PX3B2U0htb3B4NXRmTy1JS1Z1dUdOQmgyT1BWd3ZTTzdkanJaWlFDeHNZQ09uY013SUNjdVk0RjlaeEROdjZJR0hPNk5jYUVsOFVGRVNrT1RaZXRPWlZuR0llRERqYUVZbUhWd3ZWXzlHMkxVUWo4aGd2YzBlWTZYRUZTRmYteVBkTjNFWl9PY0xZRjVaSmFraFA3dEY3cXJCLWdfSUh6WGU5eXNvWlZxSWtqdk9FRlZFblRSU3Q3Y2JCYXI4YllDVXlzTG0zZzFMRUIyUlk?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T16:08:06+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "48ea45a1da730dd2",
@@ -3606,6 +3704,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "b58ef69eb4fdc946",
+"title": "Telangana CM asks officials to procure coal from Coal India for thermal power generation",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkZDMklqanppbWlleGZVV0c4S2JxRUp1QTg2ZzZkeVNobUYtanZQZ1RMZEJtMUxER3ZJWUlZSXJrS1VyUWlKMDl4R0NuRHhUNXppQmJlSG9HaHBJdHJkNklCcG81VEJuWHdqWWN3V0JBeFNmRnNDb3ByWTE5Rk9PcXNVZDFJbUpfU3pveHRiZTVpVGVqcWdHcnh0SGt5Y284THpsYlZJWThkaUZrUkhRMHZ5YS10MGlSLW5HZXRISWQ1ZU9QMFJBNGEtcXZYc0V1S1lFd1d2eEdraU00UUpKdUJsa0lzNE0?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-09-24T11:16:26+00:00",
+"first_seen": "2026-09-25T03:10:51+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "f00bb0077f7218ae",
