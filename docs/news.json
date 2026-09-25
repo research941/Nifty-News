@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T22:44:04+00:00",
+"updated": "2026-09-25T22:55:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "7b269d13c1e33e27",
+"title": "ICICI Bank faces material GST demand over minimum balance services",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGJoQktBbzZZS0VSOEdpOEc2ZFBENWdtanZZeENEOWNJQmtLYXRiTF9JLVpPRk9SX2dyRW5qWTltRDBsdVRVRXVuWXIyQlJlbkVOYVduX1Z1R2IxWEhLWkJES3BiZTdDOW04S19LZWNZb2xqZkJ5ODE2aTJRek45d1Vpek05Mk5IZ0RrVE81Y3ZqbThVdTE5ZzVPd0pILXFmRU1XRE92X3A4aXR3UUJOTjZxTHg2bjFtV1E?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T22:43:29+00:00",
+"first_seen": "2026-09-25T22:55:46+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "a91f9120c539f6e6",
 "title": "HDB FINAL DEADLINE: ROSEN, LEADING TRIAL ATTORNEYS, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
@@ -3254,6 +3272,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "3764016bfbcded0b",
+"title": "Tata Consultancy Services Prediction for Monday: 28 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbm1xQTZPM3hMcWJnb1o0WmUtcndUS2RxNXU4NVdVZ1loaGNIX01aWG5uS1NUeEc5OW41eWsza0NGcGtkZTRacE9sd2ZHUWlTYlRTbUFlN1dnckpBMXRXOGJOYjBsWFc5R1IzNWY0a3dpVnRkeGZkWHg5WWdpbDA1M0dpdWl5VjMyYzFmNllGV1JCV3RVSDJXSVBFVWZzcm5teWlxVw?oc=5",
+"source": "univest.in",
+"published": "2026-09-25T10:51:00+00:00",
+"first_seen": "2026-09-25T22:55:46+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "10b4bb039716bcd0",
