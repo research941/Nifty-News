@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T02:30:26+00:00",
+"updated": "2026-09-25T02:43:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "e8f95856506c0e91",
+"title": "Apollo Hospitals, Billion Hearts Beating Foundation And Marsh India Launch Smart Ambulances In Vanagaram.",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHgtaWtfbmZlXzVydkthOHU4VnlrU01MLUFHTHBOMVY1SHp3bFBOTTM0QXZaZDE3ZEdIRE9NeHhraUhiakliZWVNNG45S29EQXFOdXJWdTJNWjRYS09YUnNXUWZhbkJpaEtUaXYwdVUzaDF2d1VWaC0wdHpEY3E3cEJqRVM4bEhDUWpkODhJMDVxcGJGQV9MMWVpQU9rOGR5ZEsxa3NBSzIxMXhvYlBIa0tiZV8tNHYyNEpHcDZ0ODItTmc2dVpmTk1lVDVIeG1zS2c?oc=5",
+"source": "TRIPURA STAR NEWS",
+"published": "2026-09-25T02:38:57+00:00",
+"first_seen": "2026-09-25T02:43:59+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e39cc2315d7ec780",
 "title": "Adani plans over Rs 1 lakh crore investment in West Bengal by 2035",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVg0eTBremtMYlZRMGNKZFRrdWhMc0huQTFIUE5BckkwRkZiV3hWX3lKeW9RWXFuWUtvR2FuT0NLeHZvNXRVTFNyenNzS3VGcDRmUEY0QXk0bGFhLVpRSEhEamFCN1lhanR6RDJUTVpwNm1URUFVcUtINDUzLWN5NURhbVZob0piYzZiWkRkVHd6SXVYOHR1dWFZMkVncjNidTVCcGIyRHE0dFRCbEdnQlFyZlpCRkk?oc=5",
@@ -456,6 +472,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8e8e6adee3494963",
+"title": "Maruti’s Green Hydrogen Plant Signals a New Industrial Energy Shift",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUQzbmh4QlFLS3ZiOE40QXkxMkpDYU02aGdjNndLbW9aYTN6MC1UWV9yZVRZdXJZOW01TnRMUVY2Vk5oc0wzbGhtOVRuMmN0T3pYSFo5N3FQbWtqYjE0SllOTEtVWEJCazQ2X0tiaTR6RVN1UURKanBxdnYxSnJQRVVuVzJ3aktpOHU4eDROQlhRcGs?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T02:18:47+00:00",
+"first_seen": "2026-09-25T02:43:59+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
