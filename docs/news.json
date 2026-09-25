@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T05:38:05+00:00",
+"updated": "2026-09-25T05:50:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "de847ebbb734ad8d",
+"title": "BEL CMD Manoj Jain Named Electronics Man of the Year",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckpkcVNFc1JRTTFyN0l3YzFFTnNvdG9mRkg5QmVXaW4zWlV6Zm5IRmVVUTV3cW9CbElTRHg3eDV4elFLdENDWkpzSHR2UkRMVjAxNk9pdVBVV05sMnd6VGc3dU1WYnlvYl9RazJNdWl3RnFPR05XdVVJYUFKaXZoNktESmo4NXAtVmljY2ZmVV8?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T05:40:00+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7bddcbbc0c961784",
+"title": "Swiggy Vs Eternal: Here's Why Motilal Oswal Remains Bullish On The Food-Tech Duopoly",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjI0WjVnY1RFbzBEc0U5TFlJc0M1SDIzQVNNQ01xdTZ4MDRGSThORUp3dXE4dXl4aHR0el96ZV92ZU9ncThOWkpTY3FJQ2VFbXVRU2Fkd3V1dmhBbVFXMDIyMGthelFncjkwUk9YNjZsZE94aDktcmY1cXVGNHhUa3JRaEoxWVhqLVV0MC1vZlNwRjlseDU5RDBLWWl6YzlYWFJMaDdtV0diWndlZ3B5aTlycXV5RTJNLWNpNktGZ0JrMy1zSS1EbWNQMzdDTmJwVmZFWG96UQ?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-09-25T05:36:48+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e396fbe5fff85d0c",
 "title": "Stock of the day - Reliance Industries Ltd Target Rs. 19 - Religare Broking Ltd",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEhnUUx2eDFHbnlWV0lpZ2VyektDSTI5YUhFNGxwdVcxM2lSWUM4SnBWb2Z0Ry1DUVVBZS1rZmxPRUpTZTN0SXJhcnhjR1VxMjg3UnZyV1BjYVhBNTNUUW4zNlRrOVdUT1REcncxb1dlcndDN0N1T0VPSkNNdUNnMzJxczZNWGIxMHRvMmgwcUxqRWpLcWgtOGN4T3VlV0tacGp4eTUwTlBfVUs0NzhBQ3kyamx4UVJDR3FpaU5qV2F4b3hMWFE?oc=5",
@@ -610,6 +642,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "6cb89fd35b7ecdb6",
+"title": "Concor - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3V6S1FCUEdudy16OENreGE3QTdFdi1VT04yODJDcXNIQnJMQ2JXNFJaX21mc3dBbUczbV9CelNBMGU4d0lNY2M0TEpSUTFxNUhRWEVONmFZZlA1NldkaW4tc1RpMFg1WEVidUI5T1lCQUJ6OGJ1N2FiMGhqcFBnZXFzbFBBU2V1Wl96NnpYTlhFWXI1cTYwa3pEZU1Rd1RFMjlXc2wwYVJoTGRTRFI3T0ZzbC1nOFp2aHdtbUo3Q0UwMEFGMjV2dENiUnpDRm9uUUt4MW5ua1E5NzBwOWNQNFVTMUZOaExJN3o2NXdPclRYWmd5U3dUMXdvRWxkNk9L?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T04:48:25+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "ecd79e8ec6fbad42",
 "title": "ONGC Begins Offshore Data Acquisition Campaign in Western Offshore under Samudra Manthan",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGhEZGVaeXN4RTR6MGxxVGhwU1pZTHI3Y0EzRU0tZVhiQ09oT1NFT0wzdUphdlFZT3dHSWpfQ2Y4Tl82V1RmSzl1M2xjNWY0eXJZMGNtVVIycTU2dklIa1dQcHZtVTR6Q1duT3lJckE2NEY1dW1tdTNwMVJLNk13V3lTVHE5bUdsd0NsYWgwVjRqVTZkZGxZWXlxQjVZOEVvSmZtNE1wZk15d3dqcEFIaTRfVkdHdmJZWmFWa2RJa0Q?oc=5",
@@ -676,6 +725,24 @@
 "sentiment": "negative"
 },
 {
+"id": "8ed798f4045d7629",
+"title": "Mahindra & Mahindra Ltd Faces Bearish Momentum Amid Technical Downgrade",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2ozMUpzanVuT21CbnJHQVozZ3lBZVdmdFV3T2dLZllMTUZieEtzVnBGLWZmWkw1S25HYm94TjlpSnJrTl91ak5HTFpJTThIcTJkYkhuX0UteERObFJpVUdyalZuQWJ5R3paei1IVmRGZUkydWRXUjFlZUJnb1d5aHI5Tkx2SmNrQS1NbjNYb09nbUN0ZmU3aS1JQ2Q0UHNUd1pwNFQ3MkV3UjJVZjJuYUtHN3d4TzNqMFREU0NuME1aRDlhN3c?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T04:37:50+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
 "id": "67cab88bfcc6f108",
 "title": "Nifty IT slips over 1%; Infosys, TCS, Wipro lead losses",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGh6SHhRb3JIbThHZ183eVpOazYxdFVXYnl3YTkxbVFYa0E5aUpodXNzazRna2ItNDBhTXB4M04xZ2djYkN5ZFdnb1hfZGI2R0sxUndVSjJCektJYWlmZk5yTXVLR3pJRzBmWWtteW5Ld19zTlJtdVpsbVdyU3VNbFlHSlJJcGdLWHV3TkhrSnRpUTdQTmVoWHlEN1JQUzVkeEoySVo3VDRMTjQ0a1FSNU5zQVE4R2ZITW5XWldDaDA1MENRcVRmRVRxONIB0AFBVV95cUxQMGRBZXF6anJXZ1dTdy1DdTdZa0MxRTBfYzBTN2k2T0tncGlWSG9qWWozUTdMNm1hSDdmX3pJR0MyQkpUcDBTaXQ5R2JrYjRpaUNiUjhoS2FUWERWblFHcXdJSHdXTzVCWk9qZVpISlVQdzctRndWTkxZUHVHMTlCTzc4MF96ZERsbWk5N2hETGh3YjRBanFlQ1FiRU9lcGRXMjlOQXZFN0RnektVMjFaa3lvWFdqSDkzOUFOUkdrc2gxM3NldTlaTlYyMk5kOXJX?oc=5",
@@ -709,6 +776,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d524a09f85232b4a",
+"title": "[Sensex Today] Share Market LIVE Updates: Sensex recovers 91 points, Nifty at 23075 amid rising tensions between US and Iran; Asian Paints, Axis Bank among top gainers",
+"link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTTRfWHNXbnJqT0NjMVZ1UTBOSWFSYWVVOUlSRlNsei1kRmJta1FjTHExcFh3cldYMGFVYllvS0tPRTlsRXRzWUlsbi1KckpMVURvSkZLX25hYzRPaXB0cEt1dEZwX3pqdEFjdWtQbzkxaVBFU1YtMnVhS0haWDM5aUlUQkY0bTEzVGtoR0VkN2UyM19GcF9HeWxhV0xIa0hEVEU2UlJqMUp3YlFXZDZ3SGJvUWlVTlJMT0E4am8tb21vdWZ0MnQ1RHM1czF2b3gwUVV1RU05TnVtVWg1eEt0M3FaMG9qd0dEazZGaW9LLTYtQnhMVXVDeVFSQnF5NnpOT0tlbUhkWlN1UnZoRUdYRGN5UlhGOV9aaG5MdkdQSTdUZlhwZ1FVRG92bHJzczDSAa8CQVVfeXFMT000X1hzV25yak9DYzFWdVEwTklhUmFlVTlJUkZTbHotZEZibWtRY0xxMXBYd3JXWDBhVWJZb0tLT0U5bEV0c1lJbG4tSnJKTFVEb0pGS19uYWM0T2lwdHBLdXRGcF96anRBY3VrUG85MWlQRVNWLTJ1YUtIWlgzOWlJVEJGNG0xM1RraEdFZDdlMjNfRnBfR3lsYVdMSGtIRFRFNlJSajFKd2JRV2Q2d0hib1FpVU5STE9BOGpvLW9tb3VmdDJ0NURzNXMxdm94MFFVdUVNOU51bVVoNXhLdDNxWjBvandHRGs2RmlvSy02LUJ4TFV1Q3lRUkJxeTZ6Tk9LZW1IZFpTdVJ2aEVHWERjeVJYRjlfWmhuTHZHUEk3VGZYcGdRVURvdmxyc3Mw?oc=5",
+"source": "News24Online",
+"published": "2026-09-25T04:29:56+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK"
+],
+"groups": [
+"Banks",
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "fb58e9fb8da87f76",
@@ -755,6 +840,22 @@
 "first_seen": "2026-09-25T04:46:01+00:00",
 "symbols": [
 "SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3216d0caf2884cd2",
+"title": "State Bank of India Stock Update: Shares Edge Up Amidst Investor Meet",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzB2MXpXbUc2bmVfX2pKNFlFTmpMLTZLMVhpdHFLS2cyRHFYRkhnSEFtNkJIaDBXV0lzRWp3TWpfZFNLcmIzMDRzaXhPdVctdW9oUHc0emd1WmllOTRDalJRTVh3T3hITzEwX0d3VUVoRXlqeHBzRm5uZGk0WWd0TXNWZ3ljMktaQjl2cW5sOVpiY2dXdmlYN00zWm1hcS1uRFdNTVVieVNNblhSSU91ZXdoQ3JJbHRW0gG-AUFVX3lxTE5uLUhSVmIteWp2YTZlUDdoeFA0ZVh3bWFiTzdmdHBLZ2gtUFlqRndfRFR6T1NDLVl5azFTMVVJNmoyWUEtMHBBVTRaUXZ1TWZkRGt1ckJ0OE5JdFdtMlhJcTgxVHdEc0pNczhIemFmN1FZc1lIMHNtOXpIWlV6aUlWNERpeDVfT1JLanZySGRUWm1IcUdHb2xWZW1feXZkWVdRQk5zVXB0Qk80dmJScXhabVlOYTF1c2FMcjIxdGc?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T04:21:57+00:00",
+"first_seen": "2026-09-25T05:50:04+00:00",
+"symbols": [
 "SBIN"
 ],
 "groups": [
