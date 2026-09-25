@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T23:42:55+00:00",
+"updated": "2026-09-25T23:54:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -6552,6 +6552,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "e784f3aeb4b2765d",
+"title": "ITC Hotels closes trading window from October 1 ahead of Q2FY27 results",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVZBb2t3dVpKeUx5NE8yYXdFVkEyemxvU0F0RmQ5bDNRS25hLVRpMXhZZWFPdV82R0NSWWRZa2U3YlRPbTY4Qm1HcEdFaHg1M2I4dzJxdzJja1NmMlBza3pRVlFmNUh1QlBvZFA5SVRfX0NRM3RaaEFyZ25tWjFEUWFUTXBnYnNfQkp3d19GUHZHXzdJQ2RUWVE1TTlKZVByT1lLeXNTNkphQ1VZYXgydDlycFdoblVaMGE2Xw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T04:49:50+00:00",
+"first_seen": "2026-09-25T23:54:36+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
 },
 {
 "id": "9a99d4dca5c26109",
