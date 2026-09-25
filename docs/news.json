@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T08:57:25+00:00",
+"updated": "2026-09-25T09:12:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,122 @@
 ],
 "items": [
 {
+"id": "2895c6f5ea241c4b",
+"title": "Bharti Airtel stock reports 18.4 percent revenue growth",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0VGV2ZJRTRXTWdZLWVYMzRNc0MxTHVCRG5BSjdpQzBQdFFmQWM2SzZqUncxM1BwbDBESVZFVk9uZVUtS1p0Zy1pbHVmbkhaa0FlQndXNW00VXRSUWFFbi0zWTZRdVRsejJrWERWREd2SHVmaTZ1SkRiSFIyemNXX2VySkJMaWpyVE05eTU0TDdmSjczbDhRcV9TajdRTTBVeF84SnJMNzdwd0FPRGNJWk5GRGRHV05kZGc?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T09:03:29+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2eded0c217d1e034",
+"title": "Adani Group debuts at Kolkata’s Durga Puja celebrations",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzhoY0hfY0E4bTFoSWlQM2ZWb0ZfNFhWWFVzUjhNTDFsRXZLTWVJUkxLanVoMFU2aGdROGdjUnAzVHUxR1VsbG12eWhmeVVqQTNiTEpIZDI3bXNCN0YyZnNkaEctYm5JY1J0Qy1hOHBUVU9VckxLZHlWSjU5cmJSZ0ZHYXNMUnhLY1hfSGFUcDFvbU51YnFkTW80RHRMbHVtM05OZWVFOFlicmEtQW44VHhKVUxkMTF6T25j0gHCAUFVX3lxTE5aM1RGYWN6U3dYTGlxbUZqeW42cV9WYWJ3LWZ5VXFLNFRJV09BcmZPU2dXRG1Wb2tQSDY5UXZjQWNzb21iLWFYSFR1NzJZYkxVd21ZSU1MQ3hia1dGc2k1dTdSMzFIeExzUDNtWjlJMmhJbm1ua3VjS0tJbGNCTmlxWmRzaUhyenpZOTVPaFFBbG8zTHRrejRPRnIyV3lidXFkM3FDUW5peWtQUGJyUHFELUJ5TnJnbThmUlRSSk90V2hB?oc=5",
+"source": "The Hindu",
+"published": "2026-09-25T09:02:53+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4f8faf9138241f88",
+"title": "Adani Bengal Investment Plan: What It Means for Infrastructure",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWdmUjVqNmRVZzhya1ZmcXR4aXFoQUx2Y2ppR0d2Y09UbTBoWHV5dEk0R2NBT1BBTkhWU1hvQzV6TzQwLWFUV1pvYko0aG1LSGt5azNOQ0kxWV80OWRUd1R4YjRWaXNEZ0o5ZEZZNUtnZzRCNWFfNVJoNDVjYlBTejdYSmNHOWoyMXBlbVFmMzNsMzlMNUlR?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T09:02:30+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c3cb292b794c3a66",
+"title": "Here's why Coal India share price could go up to ₹500 as per Jefferies - CNBC TV18",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdDM0dVVVOWo5WFVBZURGazFlMkNna21melMwWG5HWG1KamNNLV95QzJPM3lEQlkxYjh3OWQ5VmFuMXExZlgyTWkwNmtsNkI1NXI1NFNqTVZMQlNhaXZVbDFNaFRYSUNIdENSS1F2NFlsMmFieHByejlXd2Q2Y2U4bl92Q3dCa3lpajVMQ1dXWjBhTXpQa3N0aVplV1Bkd2Y5MXBydmtHX0ZjYVEzaFdrcElvSEZDblU?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-25T08:57:03+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "faf768bd3e7e96ee",
+"title": "ITC Eyes Rs 8 Lakh Crore Packaged-Goods Market By 2035; Nutrition, Premiumisation Key To Growth",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTJNd2pUT3IyMEw4SzlPUmlpVE5XTy1sU1R3cXNTakFid1B1cTV4LS02NWFjQTQ2WEpkOHlWMTZoM2JyNXBoa3pldlRYa2xFTnVYS3ZqNUo4ZEx3bC1sXzVGTy1RY2hPbGFBU2NibUpIUGx1ZENmZ21NMGNsa21WWW9hajcwQ1lYRlhJTlVWbTRzUm1tcEhNOGxyY3BDc0xUZDh0dGM4dC02aWh0Y0tDNUIzcjE1eW45WmNrdURvYUhyS0VkVF9mdjJGb3c0NlJHSWRmT0Q4RVRib2QzRldfZ9IB5gFBVV95cUxQamppUlhjSUY2NWZNdjdyQzFCOWZCRWRKd2R1M2hjb3p1YzJBZWFPei1jQ29acHpJRFNPVlZPUnkwWjhNSlpDVldWb1M3QTdwRjdqU0JHOFJ5NDI3RzA1Y0JXa3paNk02SHRpYV9jdTVRSnZ6S0djbDVQWWUwbmt0OXJyQ3ZUX2RFdGZ4bU9FbEhrWEstZ0JVVDlkWndTdDQtZDhlNnV6dGdTaEY3VHowYnppX0VaalB4N0hFSW15RU5ydFNlMXFfOGtGby1JbXlJTVNjQnE0ZGdiMzVneWhDWVVLcXNfZw?oc=5",
+"source": "News18",
+"published": "2026-09-25T08:56:09+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "515ae7089bfff7a3",
+"title": "Pickleball boom comes to Stoke-on-Trent with major new venue",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RTkF3WVZoaVlHZ0RCeEdnalR3MWZKSzNNM2xXeE13QXhpZ2pZS0ZSeFB3Q0Y4S3FEdkZRVFUzaWc4SWRiVDB6NFBhWWRBU0REeXhxVUVlVjdHa1k?oc=5",
+"source": "BBC",
+"published": "2026-09-25T08:51:51+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f782dab872a5695f",
+"title": "Nifty holds 23,000, Sensex up 44 pts; Axis Bank, Asian Paints gain as IT, Pharma drag",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTZFRlF6Q1JYMTNoNTQweWp1SjZLVlNTNUhlNS0xN2tIWHc1LU50XzdVTzdXbmFzTUZLWEhYYmlYRDBzT0lpWlRITG1EWmktMXFtMExKVWJRZ0VjVTM5TVRHNkRZQUhGdVpmYW9qNkRYcW1SemticFZCRjNUOTBkN3hIbDNjdC1pNDlDeDl5RXFjbUNaV3BWeHVjSS1DSW1Md0E3eGtLSXVPWEx5N1JEMl9FdF9vTkhaeWhzdFJwRHk2eWs0ZEN6R1ZiZ2RKeE4yNVpfS2lMeUozOW5RN3fSAeQBQVVfeXFMT2t5OGYyZ01tMDdQclhKbFpDVFp2S3ZST0JLeVRtQlZxWktnUDBiWWJSSVFLWEtkWmVCY2hQaEtobUQ0WDBlY1dBazZheWdxalVmM1pISW82a3JWOE1qMkswSGZvQ3lINE51RjNUUGlFNDA4N3V2RDRmaXdDRDZXaUt2T0RBZ2pwNjNCeTd4UUpMNkQzaG5LUVhkcjVhYkYwQXJrcVNZZXRYWmVUb2pENUQ2eE5zNV9JVHhpeHpFTDc1MzdfLUU1bjVnem4yTHZsYW52STFERGNKSHlvV0VrMUNnSy0x?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-25T08:51:06+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK"
+],
+"groups": [
+"Banks",
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "b504b4bc8d829ac4",
 "title": "BEL CMD Manoj Jain Honoured with ELCINA Electronics Man of the Year Award 2025–26",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01rNmtOaWpDcHptaENFRnM0eHFNdmU4QmxnZ0dZdnBFNU5CMzlFV1Z0aEpZM1hlQjhOZWhiREViTFN2NHJiMng1WHprV2pFRHhkX1lJeThDRTVmei1tbXBhT3dYQTRqUHNNRThjanJSanJvWmJsR1FRQ3VyM3BBODh3dC1Wdk1FZEdJRloySTUtcnBOVmVwR1hqTEMwUkRyeGstbnlPY1VqcUJEdnJZ?oc=5",
@@ -569,6 +685,39 @@
 "sentiment": "positive"
 },
 {
+"id": "03aa1d4ab2a1552b",
+"title": "Tata Motors PV’s EV Penetration Hits 25%, says Demand 3x of Supply",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHRLdC1YSFpYYzI2dGZRR3FoaDFOM2ZPRVhmQWh1ZDdmVTlvN25LbTZUcEJmS3pVRmhKSWlqYWRqSmoyQ3VPLVd6YVVnYXQyN0thSUVoOXZoeG9RdHMzWGtJcUdwSFJZYVlWLVg5YWVHWFNmWHJxRGhkV1RkQXBVakE2V25PX2ZtOEozLWNaT2RpcnlwbGdSTTdmVjZFVWJOdl9oVlpSaDBRVmZ0WWpucGxVUF9aQdIBtgFBVV95cUxOWHRLdC1YSFpYYzI2dGZRR3FoaDFOM2ZPRVhmQWh1ZDdmVTlvN25LbTZUcEJmS3pVRmhKSWlqYWRqSmoyQ3VPLVd6YVVnYXQyN0thSUVoOXZoeG9RdHMzWGtJcUdwSFJZYVlWLVg5YWVHWFNmWHJxRGhkV1RkQXBVakE2V25PX2ZtOEozLWNaT2RpcnlwbGdSTTdmVjZFVWJOdl9oVlpSaDBRVmZ0WWpucGxVUF9aQQ?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-25T08:00:04+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b87c47ab17267db5",
+"title": "PB Fintech to SBI Life: Kotak lists out impact of IRDAI rules for insurers, NBFCs",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWNNTVV3bVA1UkhoaTJEVGRkQ3VhNFB1NnpMVnQzRmE0QkhJbFpMNHp4SFNBSkRTWU1YYTdMc19sbEIxbVliRnN6WjNwLVY4aWZ3amNiaVl5ejhBbUY1MmloVE5RR1YtT1gtcmZJWFJoZUtmVGlhZk93WXJmaTFfNmg1ODMyXzJmd2UyWC12dDBwY1pYaHVCREZFZnN5WjlKdWd2ZzZvSG9hajJYZk9HX1k1LWpoN0NlckdORU1MQm5KSFZMT0JV0gHOAUFVX3lxTFBjSHBhUUE0T1JCT2xVelhGQUh3d2M5di1QUDZQZGRVYm1XRnhXbTBkTTl6a19YUWNiLVJMbGQ3cXRGVm9xZjFqc1lpRTlvdXltYXZKNFIwZ0JoUm45ODQxdGxrTm1udXo3V2tETmYxekdkQ3NfY2hnak5Sc3lZQ2xYcVN1ME5HMzBFV3QyNVg2cnphb3U1b3ByZHlLbTc5N05KdGJtdE1ZTGxsWklJcUlEd0ZybGZabnFFV3QyR3JqaHpLYlZtX2ktNTBfdmh3?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-25T07:57:53+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ff7c0ee976606e0e",
 "title": "Tata Motors Launches Aeris Compact Sedan, Priced from Rs 5.29 Lakh",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRU1ZRGZDLXZFUlV0dFd1RGQtaFVyYmtaLVpLUzhJTlFBSl90M2IxV0RTRmZPSnZVOGtHTTFIdGNUWjI3MnNXNWwycGFSMEFTOF9YbnRKVFdIZ3k2MEIxZEQ1cS1DZ0VoYnpSRkJMclNtQkdwUUZUWUpuaEU2aE5mWlh0b05XWERiUHBFcWRYZEhvSGgwSUNhZmc3cFh5VkJhVENFTTdIQWFQc2PSAasBQVVfeXFMT0VNWURmQy12RVJVdHRXdURkLWhVcmJrWi1aS1M4SU5RQUpfdDNiMVdEU0ZmT0p2VThrR00xSHRjVFoyNzJzVzVsMnBhUjBBUzhfWG50SlRXSGd5NjBCMWRENXEtQ2dFaGJ6UkZCTHJTbUJHcFFGVFlKbmhFNmhOZlpYdG9OV1hEYlBwRXFkWGRIb0hoMElDYWZnN3BYeVZCYVRDRU03SEFhUHNj?oc=5",
@@ -650,6 +799,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "786eac85a81c95de",
+"title": "Airtel flags 98.4 billion spam calls, 4.4 billion spam messages in 2 years of network-level AI protection rollout",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0R4azlCUG5RZHFySDhleS1mZ2FDaWRjUGFVakp3QWEtNmJHbE91RHZhSXdsOU5iQVhDTlp1eFZnY1hLSDlSUmVTQ3pUUWFwOWk4eXkwOVp5cEtwbi1BOE5GX1RzUWlYVV9RSUVKeS1RUlc3d1JndzRPMHRXUkhKdE9zeXpud9IBiwFBVV95cUxQa3BwUnZwd3RlVWtUUmE4czBud1AzbHY3UHYtbFRHQm9hQzhjX0ZQeGpybTMyNHo4R0lVcEZtMG84M2U2eXdyXy1reVhhQkJLWGxwUHhlTTVxRHU3bm5hbTYtWkpRMnpSN0dlX2RPN0xzay1Yal9XRDh3VXoxLU5fVVpBajdEb0kySHZj?oc=5",
+"source": "FoneArena.com",
+"published": "2026-09-25T07:40:05+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1677,6 +1842,23 @@
 "sentiment": "positive"
 },
 {
+"id": "c5cfe13b49e8ad5f",
+"title": "JSW Infrastructure - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZDlYdDRDakNHa21HMXZpZm15Q1hlcEt6Ylh2WVJsR1NGaHVuMWNCcWVIU3Z4Nmd3UWR0MEVlU2J2WHUtdEtUb3dRa2ZXaGpVNzdKakN3aExXRzB4R3NQbUNwaG1IUkFtY2pOUkVOLTh0cV8tWGZKRkRwRmZhVmJ3V2NMMy1uYkpueUtZM25QY3N1TUVqRWxncFJaeGdFSGZHSFFCeFFIa3pRSmxtbldNSHl0R1JYMHNJSUZZZ19KQ0cwTWZXSkJPeGdVWm8xLXVOd2x3ZUhZYk84UWJFMUk2aVBGY2JQcjFIaXdXRGVVbUVQQXNSS3JLbU5GdmVRYWFWUEw3SDRNV1NIaWxVci0wcQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T04:56:06+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "bea248255e8638fe",
 "title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers",
 "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdXR6a3BMbFZZc19QNTgtUDN0QjU0REhVZkhXYUZLUzVaWHhwY3FOdE9xWEFZTHBSX2dNZVVTNXJOOVJFaE9wSzBiMWFCanhyZk1JR0RLd2E4S3k5YjM3Z2E3TTNmMUp6Z2tqWjNLLUsybHFpYlJONDctVERIS0E0VmNfOWFmOE81OEduRGZTV0ppOGdOVFNmYVNuZWZKNkVqd0pydXlMUTFVWTRqb0JLb2tCTFFreWdOd2VnTmFpcDhVWTdoTDNhYWpxUk9XSDZpRk4xcW1URUhTeEtmRWxJYlRmbDFGSW9IU0hUZ1RSOG82aU9lbk9OWHRaN09VZ1RjZVVuWC1aNTlLaGJKZ1MtcGpnbU9aOGVmRmVnOE5qdjZkYTFhUjBzN213OTQzRGdZNk1oQy05ZTM1Zw?oc=5",
@@ -2259,6 +2441,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4930fbe562666dac",
+"title": "Tata Steel Share Price Live Updates: Tata Steel's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-25-sep-2026/liveblog/134474505.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:46:39+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cc90054ccc7810cc",
 "title": "L&T Finance - Negative Breakout: These 8 midcap stocks cross below their 200 DMAs",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUFJRUzlTYnZTSW96dHNiZnRGX21ua2lXY1E0Vjh6TE9ZbUh5bDlEYXdnRlcwZlRUaTVwUlh2X2hGWExiYXUtb1JfR3RXSktYaWNMRVZwR280dzRrbktHM0tIZnVaNElvUXd5aHVOZ09lQk0xSG50YzFsY2phRXhXeVNtSERadzJoZXhpN0lMMXRmbzFJbGppOEpxRWI2NzVDR0VieHNrN0R5VnhLQmF2VWY5WWJPZ0VtSmtfMktjNTB0cUt5VlVrQ2FFSEhod1JGa2ZJVXFYeXVzRnZRM0Vjcks4NkpIUHM?oc=5",
@@ -2473,6 +2671,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T03:10:18+00:00",
 "first_seen": "2026-09-25T06:39:04+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b95181fb78bcad54",
+"title": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-25-sep-2026/liveblog/134474128.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:10:18+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
 "symbols": [
 "ICICIBANK"
 ],
@@ -2771,6 +2985,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "0f6f1a764b7abb37",
+"title": "Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:56:22+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3eb359f89bf52090",
 "title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
@@ -2809,6 +3039,23 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:55:35+00:00",
 "first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0f4203b700d5a85f",
+"title": "SBI Life Share Price Live Updates: SBI Life's Current Valuation",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:35+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
 "symbols": [
 "SBILIFE",
 "SBIN"
@@ -2868,12 +3115,44 @@
 "sentiment": "neutral"
 },
 {
+"id": "f5e5e4c1364c2e90",
+"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's Current Price and Market Dynamics",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:48+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e21721f54594f329",
 "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
 "source": "ET Markets",
 "published": "2026-09-25T02:51:31+00:00",
 "first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d4ed54d414febf2e",
+"title": "Dr Reddys Share Price Live Updates: Current performance of Dr. Reddys",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:31+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
 "symbols": [
 "DRREDDY"
 ],
@@ -2906,6 +3185,22 @@
 "source": "Economic Times",
 "published": "2026-09-25T02:51:14+00:00",
 "first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7af70515b53447c3",
+"title": "Grasim Inds Share Price Live Updates: Grasim Industries experiences a slight price increase",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-25-sep-2026/liveblog/134473703.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:14+00:00",
+"first_seen": "2026-09-25T09:12:17+00:00",
 "symbols": [
 "GRASIM"
 ],
