@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T04:31:09+00:00",
+"updated": "2026-09-25T04:46:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "8bb152a89c17892f",
+"title": "IT sector stocks today, September 25: Oracle Financial falls 4.56%, Aurionpro Solutions down 1.61%, Infosys declines 1.58%",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQXpDTXpBdlBaUmZLNnZ3VElvZloyZXNsbjZYOTVNRW1RTXFmYWtva2tqanZEdlFKUVFNT1RwSDFaY1lON0xnUnVsVk1ZMHhsV1lBZGwwV25MbVRMWE40bTFWQm13ZEdiZ05MYUdWcXR2d1dwWjA3UHBRXzU2X01ZLWV0NEJsQU5pY2NJbnc3TFZGOW1EaVNZa0kzNHM1Rm9NUW1HeV9tOVJJaFdnRU53cnJGSUVORms5R0JYWkFhNXFUNTVsOGpoZEZlYzFlTnk5WU0yOHZsd1c2SzdzOEc0Zi1BZXQ5ZmhRMmw5MlNZc0JNeUo2dU9J?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T04:42:40+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "3ca082109d03fba6",
+"title": "“We Expect EV Penetration To Reach Around 30 Per Cent Over The Next Five Years”- Prashant Chiranjive Jain, Sudeepth Puthumana, L&T Electronic Products & Systems",
+"link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTTBteG1GWnJrc3pjY2hyTUNfbkEwRUNBQk9tZjMyNm5fNlFCZmV2MXpQZ1czbXBaOTFhS3dNQnZ5dlhtZjRpN28xRDUweFY4QkI1UGoxdlJNR1ZGeDZQYWdkLTB2T2trcUplR015M0oyTGZVQmtmSFBmZFZUU1JTM1pJSl8wdlFaYjRVMHlybVJuQ20xaWx6cFZ2LUcyZG5wY2hpbWhEOUNaeHNTNzAxUTNMZ2pvcHBzMGhheFpCQmV4Vl9PclYxUTQ0UXRjandkaDBZLWpfWldXMDJFR2kyaUFhTWJ6Z0tYNjNXU0FCQ0FqbWhVUkVHaHJjVmVkdTJVM3pSNEh6c2xYZl9NVHhOX3JGT2tmZWM3ekpQTU5mNGFzS1M5VFlnVlB3bXUxUHdybGZobXBYaWZ4T2JpNklQRW5XMVQ?oc=5",
+"source": "Electronics For You BUSINESS",
+"published": "2026-09-25T04:30:00+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fb58e9fb8da87f76",
+"title": "Bharti Airtel stock heads into the open after a 1.77 percent drop",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEZfdWs3MENKek1MS2gtc1djV2xqeElJT3NtY2RaRXdQeDRZaEVtdTltNkstLWtJYV8yR0t3aWgzVGxuYVhqYmNMcURoTDNCMWVHZGxPV3llQjJmdHg4U1RwZXFGdGswaFE5OW9fTUpfN2xDTnIxM3VOSm1xZGh4aFFTSGZlMU10V1lLUjF6ak9rWTlnRjJvOHMtRlZvM3pJWjRDM1N3S0YycXl0eDJHV1dCUlhLV0ZzR21jVjJuVlg?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T04:28:09+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "e684e3570a70044b",
 "title": "Will Sensex, Nifty rebound after crash? M&M, L&T gain; Tata Motors at 52-week low",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnlGUGQ4ZnQtOG8xREpXajBzT003Mk5EM2s4NXhLTDZqQndwYnZReXk0Ym5iWnU3cmNfX0hRenRBQWFCb3E3RXJCSGt2VVRTZ2FTVE14N1ZBaHNRMzc0SVF3VS1JWmRoVkhNbzQzeUZYUllyT3ktaF9vQU00VDlCbkQtSTM3VGc5eEUzYXZzVm1BNzN5ZWxIdFZZVWR4OWlxR2FEUjR5bzVKUW9yTmFialNwektGbzhx0gG4AUFVX3lxTE9WeUZQZDhmdC04bzFESldqMHNPTTcyTkQzazg1eEtMNmpCd3BidlF5eTRibmJadTdyY19fSFF6dEFBYUJvcTdFckJIa3ZVVFNnYVNUTXg3VkFoc1EzNzRJUXdVLUlaZGhWSE1vNDN5RlhSWXJPeS1oX29BTTRUOUJuRC1JMzdUZzl4RTNhdnNWbUE3M3llbEh0VllVZHg5aXFHYURSNHlvNUpRb3JOYWJqU3B6S0ZvOHE?oc=5",
@@ -460,6 +508,23 @@
 "Infra",
 "Mahindra",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c1e32bb7f85012b9",
+"title": "IRDAI’s EoM reset: LIC, SBI Life Insurance, New India Assurance within proposed caps; private insurers face wider gap",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMlYxU192eGF4U2pZS2dsTjVySV8zcmlRbnFEZ1BTRW1yam5ySGxFVEpJblF4MTRNMVc3VnZOLTVfVHU2cTR0dWJKeWlPTlZCNVFQTUQxWnh4MGFiWWplS0d2Rlp6T012UVpuaE1kWkQwTXZQWjVKVDRHeXpXSXB4LUZLZDJxOTVfNE04Qk9DVVZrbGFZRUVNbGZvQWRTblpBVkFLOXp3cFN3VkkyQ1o4TWxRTU82dkVHMkxRb1oyN0dIVk1rLThYSmZoUHZhVU9VUzhPN3pRb18yVmh5d3k0ZlI4QmJZZXVuSEFmZEJIZ2VYYU9iRXVBSG4yRV9SYkU?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-25T04:24:29+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -674,6 +739,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "dd297755fa1400bd",
+"title": "Axis Bank Share Price Live Updates: Axis Bank Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-25-sep-2026/liveblog/134474189.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:16:25+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9095bb330d5f271c",
+"title": "Wipro Share Price Live Updates: Wipro Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134474138.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:11:06+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1585524e235a8209",
 "title": "Adani Investment in Bengal Targets Rs 1 Lakh Crore by 2035",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl90aU13ZXBnSnMzWFN1bEVaWXIybXhXTGlhQUdKVFpCT2F2T0JYRTk1MmtLVjRyN05Sd1VuWUJKV1MxNUFYa3ZMLUMtVWxoWDJvNmV4MDF4S29lSTROSFRJVmc0VHExc0V2RkxNMDRKd2dmWFpzWjlIU2J0cnBVd1EtZ0h1SWdG?oc=5",
@@ -754,6 +851,22 @@
 "sentiment": "positive"
 },
 {
+"id": "fd833a17e6f05db8",
+"title": "HUL Share Price Live Updates: HUL Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-25-sep-2026/liveblog/134473877.cms",
+"source": "ET Markets",
+"published": "2026-09-25T03:00:52+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bc12847c2d80cfa4",
 "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and SMA Insights",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-25-sep-2026/liveblog/134473863.cms",
@@ -781,6 +894,54 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a48c4051ee200beb",
+"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:57:51+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b3333012c8d770eb",
+"title": "Sun Pharma Share Price Live Updates: Sun Pharma Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:56:22+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3eb359f89bf52090",
+"title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:55:51+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -814,6 +975,38 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e21721f54594f329",
+"title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:51:31+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5178122190809c5c",
+"title": "Nestle India Share Price Live Updates: Nestle India Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-25-sep-2026/liveblog/134473694.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:50:40+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -883,6 +1076,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b65b11c536672652",
+"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Price Movement",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-25-sep-2026/liveblog/134473639.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:47:33+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "98676fc79e9e784c",
 "title": "IRDAI’s new proposal: Insurance stocks in trouble; HDFC Life and ICICI Pru Life tumble",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0hyaTRUVHJoOC1XVGcxUVF1VWNfZlpTVGgyMFhPNldZVUNMVkdaM0lISWQtamRoaEg1WFBPS0FKZEtaTEhBR1RiTW5KdmhFbDVwajZQalVFd0ZmZ2h6VjNtSzZsMThsUmg1bEIyV2lPVzF4M3l3UW5aUlVhMElRb3ZHeGg1MTdSRDBUNkt3Ym12ZU1kYTJVMDZHM04tbzBlVlNMTHl3Qm83cDIzV0V3TE1QOFotdlhQaFBjUHZ5bVRNOXNjRUdDNkZ3dzZjRGPSAdQBQVVfeXFMT2RmMFl6N25UWDFZN3JUaXFJUzNzbl9fWkVHQTVla24xd1FldkJla0ZGM3A3Uk90SHFkZkY1eGZqbDBkSVZQczhpV3RPczFVbUNKclNhTHlObjBrUWw1blpMdHpVRkU3aHRoWmN0X1NEbVhDSW8tTzhHNWc5ak1BM19LNHY1WDNMMTVIb2dLSkV6cGpKS0pLVHJBUFE2SUtqaDFmN19DcVZEYUJJOUo0T281TjFKQVJDQmRlTWhMcVV2WlA3QTlBT1FvVWdlQ3R6SFl5ZG4?oc=5",
@@ -926,6 +1135,38 @@
 ],
 "groups": [
 "Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0eb5a376ba657885",
+"title": "ONGC Share Price Live Updates: ONGC Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-25-sep-2026/liveblog/134473578.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:41:33+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2ba22d32773e81a6",
+"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-live-25-sep-2026/liveblog/134473568.cms",
+"source": "ET Markets",
+"published": "2026-09-25T02:40:42+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2542,6 +2783,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a47eab29a0d1deda",
+"title": "Movements. Upasana Kamineni to assume charge of director, projects at Apollo Hospitals",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRiZ0RFQ1VCQUEteHZfSFJEclQwLWlBVzZpTl8zZnVlUGNISy1wX25xd3lMcUVGY0h1YUR3RkpBUThkV1UyalRwWGZSRERnSVlqemRmOFdVX1NxdE93cjlENVo2THNXdllUd3BIOUg5QXRxQWZkZ1ZjYkdpVWNybGV5WFRxcXNDLTdQaDNQcmExT01rSFhuUGM0WmF1alRoZTdjbw?oc=5",
+"source": "Medical Buyer",
+"published": "2026-09-24T15:39:22+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "088dedac37d53cfa",
 "title": "Billionaire Mukesh Ambani's Reliance lines up $1 billion bond sale, its second in three weeks",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0Z0TTdST0pHODVES2ttUk4tNVBlV2NsbXNlUzh5anVHVUotZ0Ryem5kNVFHal9RWVd1TjVLSTI1ZWlNaXFON0NTVEhCeHd6c3J2OGI5ZWsxU21ySTZGak0teS1uMDFEa2VxTlJLLW1lanV0SVM1QVpLRHBrVWtMSEtKWTdHc0F5dUd5MUc3akd6UlQ4ZVg1Nk9ITUFUVDhucy1wbncySkVZN1NzWkhBbFBqOXUwQmI2OFdlODR2ZVBtREZUeDlPZzVNbFhlc2s?oc=5",
@@ -3145,6 +3402,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10521b04c49aa52a",
+"title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T13:54:01+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9176,6 +9449,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "feff846294e24dbb",
+"title": "Why is L&T Finance share price down 7% today? Explained",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGZJX01GV0lDVlNDSmxRdTN5QjU0dFpfUWVnWlo1T0daamtPbDZjOFhDWmJmNml6RUJub0JOTllIX1ZoRkRPRG5wTkhyYUp4WDZiUmt1N05FMXZtTm9FTEZxSGVEZjFGOFNyTWh3WXUza1EtNGotdWZMZ2ktYmlERFlBc19mb0wtbXNJUjgtQkNWV2U1UkVzaUo5ZzZISjJCVnVwcQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-24T04:58:45+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "926b3aab5ea1be38",
 "title": "Why PB Fintech, HDFC Life and SBI Life Stocks Are in Focus After IRDAI Insurance Distribution Reform Proposal",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM25HMkgxZmVLUnZYdHM3UzYtV1QzRDdxYU1yRHRXT0VvZWV0YWJGeWh6Vk5CcjNIaGgycWFDdGJJdzBTd1BsLXl0Z1R4dEhwa0lTdUVmbXJ2dlU1Y2E5RldURVd2d1UzY1FVLTh4TWNNTkpuMzNlV1BjSmxlVVA1dXRMZTZEeVNoOEN1RWRwQnFSQ2c?oc=5",
@@ -9209,6 +9498,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e2fd5858a1bdab10",
+"title": "NTPC Receives Crisil ESG Rating of 62 in ‘Strong’ Category Based on Independent Assessment",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkhzNzNKMjM2RzhQRzUwLV9vb3Y3Y0RPdnR6UWpWQmhoVUF6bU9FdkNYaTFKN2pNQ0RSVWN3eVVLZkN5TGFrX3RzVE9ERUlkUVhRVi1mWGZyT196cF9kTmRvelRlTVhkUFF0bzljX0VVaDZvWXA3SUtHM01Rd2lDY0lVNDB1X1dPNWtCamRVUFMxaUNBTkN4N1g3NW56UTBKcEFIeEY5cXVnX0U?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-24T04:53:12+00:00",
+"first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
 },
 {
 "id": "4ea3fc3f1b4f732d",
