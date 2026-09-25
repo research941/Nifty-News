@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T03:50:16+00:00",
+"updated": "2026-09-25T03:59:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -573,6 +573,23 @@
 "sentiment": "positive"
 },
 {
+"id": "a14c0c7222e684f5",
+"title": "SBI Life Share Price Live Updates: SBI Life's Market Close",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:35+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "98676fc79e9e784c",
 "title": "IRDAI’s new proposal: Insurance stocks in trouble; HDFC Life and ICICI Pru Life tumble",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0hyaTRUVHJoOC1XVGcxUVF1VWNfZlpTVGgyMFhPNldZVUNMVkdaM0lISWQtamRoaEg1WFBPS0FKZEtaTEhBR1RiTW5KdmhFbDVwajZQalVFd0ZmZ2h6VjNtSzZsMThsUmg1bEIyV2lPVzF4M3l3UW5aUlVhMElRb3ZHeGg1MTdSRDBUNkt3Ym12ZU1kYTJVMDZHM04tbzBlVlNMTHl3Qm83cDIzV0V3TE1QOFotdlhQaFBjUHZ5bVRNOXNjRUdDNkZ3dzZjRGPSAdQBQVVfeXFMT2RmMFl6N25UWDFZN3JUaXFJUzNzbl9fWkVHQTVla24xd1FldkJla0ZGM3A3Uk90SHFkZkY1eGZqbDBkSVZQczhpV3RPczFVbUNKclNhTHlObjBrUWw1blpMdHpVRkU3aHRoWmN0X1NEbVhDSW8tTzhHNWc5ak1BM19LNHY1WDNMMTVIb2dLSkV6cGpKS0pLVHJBUFE2SUtqaDFmN19DcVZEYUJJOUo0T281TjFKQVJDQmRlTWhMcVV2WlA3QTlBT1FvVWdlQ3R6SFl5ZG4?oc=5",
@@ -605,6 +622,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "1e85be34e5bc0989",
+"title": "JSW Steel Share Price Live Updates: JSW Steel Surpasses 100-Day SMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-25-sep-2026/liveblog/134473582.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:41:49+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef573cb88363ecaf",
+"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services reports a drop in three-month returns.",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473547.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:40:04+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "e8f95856506c0e91",
 "title": "Apollo Hospitals, Billion Hearts Beating Foundation And Marsh India Launch Smart Ambulances In Vanagaram.",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHgtaWtfbmZlXzVydkthOHU4VnlrU01MLUFHTHBOMVY1SHp3bFBOTTM0QXZaZDE3ZEdIRE9NeHhraUhiakliZWVNNG45S29EQXFOdXJWdTJNWjRYS09YUnNXUWZhbkJpaEtUaXYwdVUzaDF2d1VWaC0wdHpEY3E3cEJqRVM4bEhDUWpkODhJMDVxcGJGQV9MMWVpQU9rOGR5ZEsxa3NBSzIxMXhvYlBIa0tiZV8tNHYyNEpHcDZ0ODItTmc2dVpmTk1lVDVIeG1zS2c?oc=5",
@@ -616,6 +665,38 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9df319e22417f359",
+"title": "Power Grid Share Price Live Updates: Power Grid's latest closing figure",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-live-updates-25-sep-2026/liveblog/134473438.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:31:00+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5d92ad4fe8dddb58",
+"title": "SBI Share Price Live Updates: SBI's Previous Day Closing Price",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-25-sep-2026/liveblog/134473416.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:30:08+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -667,6 +748,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "612f4922667d8fa1",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates | Opening Bell: Sensex rises over 100 pts, Nifty above 23,050; Trent, SBI top gainers",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:08:45+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"SBIN",
+"TRENT"
+],
+"groups": [
+"SBI",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "bf0fba60fba2c139",
@@ -1510,6 +1609,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f379871258f428a7",
+"title": "Electric airport passenger coaches added as AISATS inducts new Tata Motors fleet for Delhi and other hubs",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG96MWtzTEREaFMzdTI2dVdWMWxoZ2dJVFNmV1lZRmNQTHVWTzhER2VyT3R3b2Q0SVBtVlZtYzMySXhBcGJLOVdNblZOV2IwdUNTaDVkUXVIVkZJRndEZjI3anJwSUpvcThOeHl5RzFoTW1BN2t5d2ZFUC1lOVJ0T1V6RW1RQndwZUV1SURUY3YzNk1FUXdfZ2hlNmlKbTYxam5uT0VNN3MzRjluMXd3?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-24T18:07:00+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5067,6 +5182,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9f73555bb4af660a",
+"title": "TCS becomes Jaguar TCS Racing’s official AI partner, renews title deal",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOamx6SVpvT0toVjhLN0JZOWZ3Y1hUMm1ILS1OWTNpZHo0WVlIVFI0QXRDNDJBREU0RkN2cV80TDMyT3FPcjRLZzJ6S2toWlN3RGdaUXhaR1Z6NnR6X01jVnJTQ0xkbFExa01yS3dtbDZ2WTRyM3pJMG9xdjdmaGcxS1NJamEzd284VnNYM1UtUXpUTDUyd3lUNDhaSFVMYXFIc3pyX1hZZ0NqbHdydldqa2JUOEZURW5jNXFLSzZDNVlCRTRCSmxKSjZxU0lsUdIBzgFBVV95cUxOamx6SVpvT0toVjhLN0JZOWZ3Y1hUMm1ILS1OWTNpZHo0WVlIVFI0QXRDNDJBREU0RkN2cV80TDMyT3FPcjRLZzJ6S2toWlN3RGdaUXhaR1Z6NnR6X01jVnJTQ0xkbFExa01yS3dtbDZ2WTRyM3pJMG9xdjdmaGcxS1NJamEzd284VnNYM1UtUXpUTDUyd3lUNDhaSFVMYXFIc3pyX1hZZ0NqbHdydldqa2JUOEZURW5jNXFLSzZDNVlCRTRCSmxKSjZxU0lsUQ?oc=5",
+"source": "bestmediainfo.com",
+"published": "2026-09-24T09:41:00+00:00",
+"first_seen": "2026-09-25T03:59:12+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
