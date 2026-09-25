@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T05:59:09+00:00",
+"updated": "2026-09-25T06:18:21+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "af1f7643c77c66fc",
+"title": "Maruti Suzuki discloses Suzuki Motor Corp tech strategy briefing details",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0Z5djlYME5OUS1JcVQ2SEttb3NmMkVSWmV4b2R2WmFodzFFdmNGNkVwMEY4V3Q4dFNMWjRmZk91NENyWVRkNmUxTm1EcXRRYl9rMVdrc1d0bzNYZ1g0OXhsMFRidW5NNUlmZ2EzM09maUdOcXlwWlNlQ0c3S2ZKalFHZVllWXI1VWZFNk8xN1VDRkpHTXFSbXY5MTRqOEpabUNOaUxvTmRQZEtNS196STc2Szk1a1R5aEpaQm9R?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T06:10:53+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d18c59a3cdbfbe4",
+"title": "Check Credit Score and Understand Credit Health with the Bajaj Finance Credit Pulse Report",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1BLMTVGOW9aUHhJX3o4alpYbDF0dkhDNjFPcHZ2Z283NTZoS084SFZMWUhUU18xUjZXMnhlYno5eXAySEN0LVpfamZfdXpmSHZqejAxZl84aFNRRlhMSy1CekplSlp5QU1XMGwyUDc1UWlBbGVsSnpmMTFlOGFqMWlnbGhsWE9aVlk2X2NpLTlvQXhaZlBpd3ZZaHRDdlFBTWE2NElma3BnOEQ3eVJ0ZFl0b0NSMzNlWTNHM3EwVThSZ3hicGw1QTdXQmtwRmZRSGhlT3RDZ2o?oc=5",
+"source": "ANI News",
+"published": "2026-09-25T06:02:00+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "336efe28b113ba6e",
+"title": "JSW One Platforms Files DRHP for IPO; JSW Steel Informs Exchanges",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXJJZGc2V01UZkJNOEtsN2FLZmZReWt1dWZSUlcxMlRXck5JOWIxaWJveldOREJGaFNvUXFFQXI5UGVJXzRNVmdmSnVkaEU1R2xLV0xxbnFRUkloZEN1aVUwem9XLURsRkZhZ2lXa3RpN1hLY0NCNmVndVlJSVExTmNFblk2X2hfUlp3OTB5QmNJLXo4SzdIUU1uOA?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T05:56:00+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "3a23f41e7a52f47d",
 "title": "InterGlobe Aviation stock reports Q1 loss as revenue rises",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWZBUTdlVlVOS1RjczNCb1VvWi1JNU93QS1iNndSdGU5YXh1eG1ZQ2VDWVpRUk5iR0NsblAwb3dFR0VhVkFCTEE0TFZXS09rQU1YZ3dhVFhOVGl4b29xMXV1V24wTzNkMWhrTGM1d203Mld0V0JJS3A2NWZrOGxUQXk4dVFxRlhEM1RTTnNwYkI1RmFBcTIzVGt5d1JzQ3ZZRDJsb1ozamRtQUo2b3Y5VVlPOGVfZHg5?oc=5",
@@ -610,6 +660,22 @@
 "sentiment": "positive"
 },
 {
+"id": "2a58c060305c9a5a",
+"title": "Maruti Suzuki Baleno Headrests Image – Baleno Photos in India",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoa3pLY2tUdFUza2NuN2dGYjFsOXA5WU9wcGVRMTNiQ1ByZmlpTWxjUFphTW9VSkZiVzA4RHlpZUV4YnB5VW5lVC1zRHNkTDNzYmlwQmhpNHNyMHRnOGdUQ1ZWbWl1bmF3MFpvQkNyS01GcmRLbnhwZGx2OA?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T05:09:59+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ae293c66481581cb",
 "title": "From ports to power: Gautam Adani unveils vision for West Bengal; to invest ₹ 1 lakh crore by 2035",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUtFM1Y4TnVkbHNnanh4VG1iWVpDZG5sSndRb1NNa0MzNGRlb1ZSOHRvWWJlV0daWm00cHh3MzJuWmxaWEN6VWFEbFdmbHhRenpXaWxyWWdteE11WWw2UF9ZU19MbzJjMXJ5c1JkYkxjdEJ0M0J5Y3kteDBYeXBobGZJMF9tdE1nOWFXVlJkbTZzaU14cUp3ajhwX1JXaEpsU3ItRGYwRHBsaDQtdmh0NlV1UTFZN0lReWRvbnVxWUhNOWdHS1g1UURWX181cGvSAdQBQVVfeXFMTjRQX3YzeFA4X0x2ai1uSFZzNnpSM3RqZE0zZFdnWWdYallZRjNBNms5VlEyYUVXeWFjMGItOFJWNVY5VHRiR0luMlpCYVYwTlZHX0JpZDRiMG5jTGt6bi05SUpUVkhhT1hXdHVLb0JySDMteFZHblRTUWFXOUV4QjlLQjJsbjBlOXBsZ3hEVHdrTDB4ZzQ5SFhqM1F5QTdwb2VMSnNQeHJTRHRQenNCYmdHZFpiRGlFenNlLWt6eVE5MWVGaVhTT0dBcjR6a0E1TkU3aGY?oc=5",
@@ -693,6 +759,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "7ef24076d3983f78",
+"title": "HDFC Bank’s losing streak and SBI’s dream rally have run their course",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY3BFTl9BQU03dW9PN3FZQ2FRbEg4b3NhZzRnajc3TGNHaVBpaC1jTlJ5Q3Npa1hsRzM2WjZ5V2dpNXdYSlhsY2d4eVZXZ0ZneUtGQVFrX0MzVGpzbmVmQ1FIeWVaWmsxazlZcHBSbHA3VlpJQlhoVEpNNmtiUXRQYWJUTzVYQ0NWTGxwQ1ozTHVMbVNBdkg5aHMtZkNQaWpxWi1EUlVGZE9KOXhTc2hfNmh1STJzWTlnY2dqYnVQNjZNS1hJU1FkYndqSENCb3RWRVNUamlucTRna0pId2lLQzhtd0lhaUhGRDNr?oc=5",
+"source": "the-ken.com",
+"published": "2026-09-25T04:50:26+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6cb89fd35b7ecdb6",
@@ -946,6 +1030,38 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8a0744b2e9a5ef22",
+"title": "Infosys Stock Update: Share Price Slips 1.68% Near 52-Week Low",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGdVc2dEN1NKYW1HY2J0bWZjZmpVX2lqQmhnVjVIaHR1emZvcjEtdVI0cmxoSWM5bGxnQmlmdUc3WXZFemxOMGZwcG9QaGdWVUphLUdtaUdoNk5tckhlWkpPUXdjTmpoSlU0MTFnN1pCRzE2ZHVoeExiOEJHVjg2Rkdod3dnb1VFLVRCOHl5d2d2c2ltS1lfMHZDVU5jVzQ4TzV3aTZ4RV8zWEHSAbABQVVfeXFMUGpLU3AyaTZtWnp0Y3Nnc280TTJQZTlCVlMzUlJnUzhJQXR0QUxTUFpEQTNTRUZuZlY4X1NRUndhLTN5MUkzWjBPS09Mam10NWNGMG1rUWNpUTlQdEZFUGdUQTVrRWxhU0swNlpROWpWa2RZT0VKcE5KZFQwNkxDOVJQWDZha2dPdjJ2UVQtRThPSEFTNml5Z3RGaUNqQ3NwN2dXZ0xLbVRXeEp4TlVjLUE?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T04:20:13+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ff7194a9af918f19",
+"title": "Reliance Industries Stock Update: Share Price Edges Up Amid Debt Plans",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEREa1gzRFROZjhHVDFsYU01cjJ4TFZ5eUs0TUZyZE1ZYzB3NjFoU0NjZzYyVzJvYi1ET1c0SjhGbl9ZQWtodlBPLU5xVkVOcldReXFrU3RoTld2LVk3S3pVVUdIUDR0TVhRMlo4SkxxWlJ0REx2ZGRyQklkSTU0amdMM2FvM3VzeVdyTTZhM2RvR0JlUjRhaWhFLTRuaFBRcmdMRXZtRVd2M0YtMEp3bkU1TzhPOEXSAbwBQVVfeXFMT0RrOG5UVHp3OUVmdVRldnVYdkFKMlVOWXVkb3gwNG9VUHF3cmlZWTdqY3hZNmozU3FoZ1d3Mno0dmNUZHdfNUt0eWRneS1vOGdrc3B3Q2lvY2ZxdWtILVpYRTBCeDU5NTNYbTJiVnlQOWdfeGdZMVd6c0pxYWNKRUF2SWVLcHdST0VkVU8wRm9jYTZZM2p4OTlTT2lJblkwRWxpQ0xVWi1ZQk1CT2JEempzU3dEa0pXQjZDQ2g?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T04:20:12+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1399,6 +1515,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4231e3ef3b6c51e2",
+"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV's Price Movement Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473862.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:20+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4a39f53a9582e511",
 "title": "Coal India Share Price Live Updates: Coal India Market Performance",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-updates-25-sep-2026/liveblog/134473855.cms",
@@ -1662,6 +1794,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:47:49+00:00",
 "first_seen": "2026-09-25T04:15:46+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "81295dbe9a0be0df",
+"title": "Cipla Share Price Live Updates: Cipla's Recent Performance Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-25-sep-2026/liveblog/134473645.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:47:49+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -5612,6 +5760,22 @@
 ],
 "groups": [
 "Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a51c162734aeb8d2",
+"title": "BSE Share Price Today, BSE Stock Price Live NSE/BSE Updates",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVDlZMjZpdlpHN2hKZFBYYkkzSjhjb0pIdWUtVDhwTFVXSG1BdFluQWFzeEpfYng3TVpTX3kwbXM4bHVhMTJiNTU3eDA4M1FNMVFnZlZlZjl6Wll5bEpJYkg5RWkxQXNIa3Nqb2pKa3RheWtDa3hJczdB?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-24T11:00:06+00:00",
+"first_seen": "2026-09-25T06:18:21+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
