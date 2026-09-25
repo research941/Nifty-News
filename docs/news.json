@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T10:47:56+00:00",
+"updated": "2026-09-25T10:57:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -595,6 +595,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "71985eda3f0bdec4",
+"title": "Bank strike from Sept 28-30: SBI waives ATM charges for 3 days, UPI, NEFT, RTGS to work | What customers need to know",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPak5MNThPMlpPOVdsdmpiNG9aRkY2anZrQjdSOGJqTHZxTWYxQXB5OFZRNktoYkRDY2xlRlczYThMeEVNTGYyWGFTRzZmMnFkMm1GUTRaM3lFSWdnNHFMdFFvSVpuVlF3SWhLMDZYVXBnQXFrdmx2Si13T2ZGOTNjdnNkNGpuZDBHa1ZQZXdjNTBVUmFPakVxY3ZOTGFQZk5CVG8tc1Q4LTkzX2xQYWFDZ2xmV3NOTW5nOUxHekxPVkRZUVFORnh2YkREUTNuR3hwd05URGJ5VG9XaGvSAeABQVVfeXFMTXBSWlllWndlRXRMQ1gxSGZVTU1UMHhqd0M5dlJwT3F4ZDVTXzNjc0MyNmQ2dXlIMG4zUUplZllaeGdxUXhmaGdpd3g2cThEOGpEeV95WVdnMjRYRHk2X2dZTE8zQnRvWWdrcE55M3FEV1dlR0JRaE9tdG9ESkphMklKTjBzbHROdElGNjQtYTZKVnNPWENNY2JOdm9NcndxcFMtaVh1VjcxQ3BZd3h4WlVrQjZlZGx4TDhPS2ZPbEk1d2g2M3lnVzZSNjlSbnViTGJVZHJ1aFF5SmZCQ255VTI?oc=5",
+"source": "Livemint",
+"published": "2026-09-25T10:12:41+00:00",
+"first_seen": "2026-09-25T10:57:55+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c2fb65da0441be3d",
 "title": "PM’s Advisor Tarun Kapoor Reviews Coal India; 310 MT Produced So Far in FY",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE5zNkl6UUt0MW0zMDdPVWRMcGYxZGVmdUtQcXJuVGVBRGtWSUgyMDVRVkZ5NGlLOEt4OUJ1cVRWb0Nzem5HeGFYdG93eUtrQzJKdUJMaHA1MjRBQm5WbTk2ZVRrcG1NS3RsVkc3SUx5UGkzeEdiRkduTVNWQkhRT0F1WTJrTFhfVFA4bjZ6VVVjbFA2cmkzXzE4aVM0c3B6YV8wUm1B?oc=5",
@@ -609,6 +625,26 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "cad3a90fe22936db",
+"title": "Nifty 50 top gainers today: Axis Bank, Asian Paints, Mahindra and Mahindra lead market gains",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGNYRTJ2WDIwb0puc25FRjZ3SHVCakY3YkpsTnZZVi1aaU5JZUpyY2JFN0VYLTBPbFVZWmVGcU1jNGpBRFcxejlwWUpMd0xfUlItUUU3aDc0d2tlUEV1NnFrYmlnYjFLaUl0NjZLZ2tqZkYyQXZNQ3V4TE1RQnREQzYybS1Hc2x4RGhCVHZtWnBGTTNiaEg5SU9UQ2ZzZm5NUGRwbkVJck4tLWtONGVVUmVYTUNGVHZmU29EamFGRlo3V2R6OThzOXl5eTEta1Z6U3RoVA?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T10:08:16+00:00",
+"first_seen": "2026-09-25T10:57:55+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK",
+"M&M"
+],
+"groups": [
+"Banks",
+"Consumer",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "300ef6e51009cccb",
@@ -657,6 +693,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f1e54d7fd6d980f4",
+"title": "Sensex ends 315 points higher, Nifty above 23,100; Axis Bank up 3%",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzFwWTZiWVNnYzRtTmJwMHZMTEE5dG04eFpuZXdZSzJsNElheFU4Q3RfOGtvZ3k1ZU9RdXYzRWIxU1JvX0JTWjRTTDA4a2luNVdKMGZQeGFOX0MybnRiSnhRUzZOLW83c3NtclZ0QnNvQlBKZy1hUTZ4WGF1OTA2UmJpRjBKRURFNW5YRmV4RThJeDh3M3hRa3NZLVdXTzZJN000bXB6Njg4Nkh2VmdIUmpmaXNBMFAzYkx1dU1CX0lyUzB0dS0zaVR2dkhRNGt2Vkh1a2l5OEFtdVUzMVNueTNB0gHiAUFVX3lxTFAzMXBZNmJZU2djNG1OYnAwdkxMQTl0bTh4Wm5ld1lLMmw0SWF4VThDdF84a29neTVlT1F1djNFYjFTUm9fQlNaNFNMMDhraW41V0owZlB4YU5fQzJudGJKeFFTNk4tbzdzc21yVnRCc29CUEpnLWFRNnhYYXU5MDZSYmlGMEpFREU1blhGZXhFOEl4OHczeFFrc1ktV1dPNkk3TTRtcHo2ODg2SHZWZ0hSamZpc0EwUDNiTHV1TUJfSXJTMHR1LTNpVHZ2SFE0a3ZWSHVraXk4QW11VTMxU255M0E?oc=5",
+"source": "India Today",
+"published": "2026-09-25T10:04:17+00:00",
+"first_seen": "2026-09-25T10:57:55+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "eb2e8ea62edcf3bb",
@@ -1279,6 +1331,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "48f0b368911f8c2a",
+"title": "Trent Share Price Fall: Price, Valuation and Sector",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VHJFZXZzMHk2eHFSVC1NSVZ6MUlhZHZYRUNYY0VFcHFZT3o3VmZzaFpoTW1XT2lVWGx0TFAyeXVUUnNCZnBhVFB4QzdtU1c3UVpKWFRNZkhEUlA1NzBTTHhVenFQUlNUNTZKMFREMXFpQ0pTcHJB?oc=5",
+"source": "univest.in",
+"published": "2026-09-25T08:19:16+00:00",
+"first_seen": "2026-09-25T10:57:55+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "negative"
