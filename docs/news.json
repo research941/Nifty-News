@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T11:56:05+00:00",
+"updated": "2026-09-25T12:23:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "ee3686304976c2b4",
+"title": "Hyderabad: ITC fraud of Rs 32.28 cr unearthed, company director held",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUJtNVB5c2NBdjZ2SEoxT2pyQTAxalB6Q1BtX0pJcks4SEpfNkE5S2I0VElnNVJVTjVNUWJkcjBYeGJNZDNleU5HV0VBNTd1el9LMExQc0Q1c3B1YUdhVTZwUnh6Y1V5dVJyR1d1cFZqcHFVU2UyV0pkZlhTcnBCNDR2OUdYVlZpSE5pZExCU2JLR2NZQzJ2bHo5ZDhEN0xRbm9aWWNYbU9RREh6OExmdHRYMHpaQ0lEaE1oM29xNFlEd3h6NXg0TkthUWp2Sy1JR3RPSXBtZERHbGUwTEHSAdcBQVVfeXFMTWtlWEVHLThwNHFMcnJheUdQTGxQRVN1U1VRYVEzZmJzZkJlQ2RnZ0JCTUZ6eFJGdWVTY1ppeFhWSW9YTFE0OVI1MUJFX1lLdHJEUnBZQXRYNDhfVjZNS1hkcWFBeFl4b0xKR0RScm1rY1ZNc1J4cEVKRkswSDFZUzZYVS1Kd2pvVUJUV1JaYzNzSzZ6alRwZU1CQVNuemZDaFozSWt1RzlWcUNKR0ZoMXYxRmJfT0tRdkhrVTd2ZGVHYVk5bl9wNnM3dTZrVkVoZDFaZVVhaWc?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T12:12:48+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "99d7133eae3af511",
+"title": "Tata Motors challenges Maruti Dzire in India’s sedan market with the Aeris compact sedan",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldvalNrVFpFcUJvbkZocVNpMVIzaHNBbFJXcEM5R0ZVNVVQTHE3dEpwUGNRVTVBaU9iWG9uWDFpblNPNVVFTGJqNkw4bGtxM2puWnlFSkhuTWtiNndVM3NhX0cwb3JQVDU1dHlNV2RhbkVHMjFYTVpRNEVPSTlDcEh4RnRBS3hQRDhjVnc0c3lTbk9UeFZ2ak9JYUpDNW8?oc=5",
+"source": "Traders Union",
+"published": "2026-09-25T12:09:34+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f8dd0988d0897708",
+"title": "Tata Motors warns commodity costs will pressure margins, signals possible price hike in India",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlpnZ0o5NUhBQWNHeUMwdVlrRlNaZkI5MkttbUZkd0ZKUWI2QXRWNklCMTZqaW14cTQxMHYtandvNDR5dnZNUHVLY2E0X1pKWGFDYVRzUDRQUkNES2xKMjNYN3dVeGxFLWw1cG1BVEsxSzJWMmMySkRaZmpzVmxYd0FobDVvME1uSHZjQ2ROYXJKcEtIZmtHX0Y4VlNZRS1sUlE?oc=5",
+"source": "Traders Union",
+"published": "2026-09-25T11:58:31+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "508fe447a9bec53d",
+"title": "Titan Machinery stock falls 3.06 percent as losses deepen",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE02Z3JGWWdFTklJUk55MDVQdlpSQlZjUVFjbHBFMVRsNnRYUmI1TWtqeXVLbVkzeDhWWS1HblpkTFRJVmM3NnlsUEJENjI3NkN2VWlkMnR4NGMzN2pUUEVDZjliNHZ6ektmTk4yQmtjVWxkOTBxaEpaZFZldXluclFaVUxHY1JrTjRmQmdaaGFaRHlOY215cEhvNS1FS0ZRS3RnOWpqX0hDYmNQSmJrdE96NVIwbjg?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T11:55:58+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "357524c6dc5bd5ac",
 "title": "Max Healthcare expands African footprint with launch of fourth office",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTFnU0RjRk1hRnFtdGlrdC1DaDYtX0xFZ0ZseE54elNqT0ZsblBTaHBxNEE5LUZDYkdMcFd2WE1lazRwZzNrOTJ3R0ZSTGRhdlZ0QVp4OEFFRDc2cHJyQjUwUTdGZ3o1LVFlaHNZbDBPZHdsbXU0UmxYeWFFVkNkc3lyTU5CeHUwcWdBWkIwcjd0d3hhaUdLTGJGT1B2VjllTjdNY09rYngwUG5xLU9mdlJMZkxjYlNPNERoa1dWWQ?oc=5",
@@ -467,6 +533,22 @@
 "source": "NDTV Profit",
 "published": "2026-09-25T11:30:26+00:00",
 "first_seen": "2026-09-25T11:45:14+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2a230521adfe2fef",
+"title": "Tata Motors Warns of More Margin Pressure",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zTXF1bTZPVTA0dkRFOHpSUnR2YVFZU2VXR2U2Y0N5M1VQQlpZNVBNRF9LWWdvYm9JRG9IU3ZpMXVscnZESzliTDdTWW1FMEdXU19TY0JjcFc0OGp3NW5TckkzdFJBN0Z5THhXSGtFb1hWc2xx?oc=5",
+"source": "Unique Times Magazine",
+"published": "2026-09-25T11:30:06+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
 "symbols": [
 "TMPV"
 ],
@@ -785,6 +867,22 @@
 "sentiment": "positive"
 },
 {
+"id": "98f57166cad2f57e",
+"title": "UltraTech Cement climbs Friday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcWo3NUdTSmVGaFc0VzgyVEhpa2djVDBMNEhVbG9nLTR4aVk0ZTdXUWhfamk5a1h3LWZTM2FWM1JEa1l5ZjQ0eW9XSWJ5UFZiSWZJekpHRjlxQkdZZ294UUU4bXRnTkhnWFRBVVFPWVdfU3VDU1FoTnNyc01SSHVJV2tvVGVtMUN4anphbFJPYnF3SFBxbG9OemZYbFMzTGZyZDdCUi1OSDNLYUJuQlhhR0hWQmlrQ0dPV1lHU1RzWGtTVW9PUDlVSA?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-25T10:33:00+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "040485cb6a9a9c9a",
 "title": "SBI Waives ATM Charges for 3 Days From September 28 to 30 Ahead of Proposed Bank Strike",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSjdrV1ZQbTd6RDdRMElpbnA5YzVRbzZNZHFSeFNIMGZnNTZ6VXRMVTRZMjhITTJtdW4ya19XRDhCZklwVERyVWQxa3VpTnVINTdPUVh3ZTFQZTVWVHNJQWZTeGhERjQwaFg3am9mQ25ETG52YlcwMjdLQkZUbTJqZ2hpV3o0NTVzQlpfZ1hHYXA4WEtoUGN3bU13NHk1OEVydXN4RnNIOUR0Q1FjR1gyMnVrM3JXbmtwNEdLNV83UlRDSm94WFdiN3kxaVk4YTZYcjJVQdIB1AFBVV95cUxNSjdrV1ZQbTd6RDdRMElpbnA5YzVRbzZNZHFSeFNIMGZnNTZ6VXRMVTRZMjhITTJtdW4ya19XRDhCZklwVERyVWQxa3VpTnVINTdPUVh3ZTFQZTVWVHNJQWZTeGhERjQwaFg3am9mQ25ETG52YlcwMjdLQkZUbTJqZ2hpV3o0NTVzQlpfZ1hHYXA4WEtoUGN3bU13NHk1OEVydXN4RnNIOUR0Q1FjR1gyMnVrM3JXbmtwNEdLNV83UlRDSm94WFdiN3kxaVk4YTZYcjJVQQ?oc=5",
@@ -815,6 +913,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "85699e84c39ec02d",
+"title": "ONGC Expands Deepwater Exploration With Mahanadi Gas Find",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakNvOGJoZlR6LXphTEhXM2Zvb0RVQUdZU2JJd0I0Rl82M2FmVE54aHA4aVJvbXgyallwSnZrWWZwZUMzTEFoc1lLdEhuTVlWWWVVX2V0ZDlPeFhGY2txQzZubW1mVkZZQldDS3RNdzBOS0lLSzRyVVJpUHc5eUlNOWFTU2VQdHFKSk9VZw?oc=5",
+"source": "usthadian.com",
+"published": "2026-09-25T10:23:26+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "f4287adf6c1115f2",
@@ -919,6 +1033,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "3d3a8a3bf1937023",
+"title": "ICICI Bank Ltd. Sees Sharp Surge in Derivatives Open Interest Amid Mixed Price Action",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOblFIXzZLenlnN2tlN3FFUlR2ZmRieXpjY2ZhRmR3dWswY2lPQ2tqRFJsNEpqZ3VDYWJNb2F6RTkzb19zMHU4a3BmRy1VenNfcmZ2ampXdktwX3piZ0tWRWtQb21wTFB5QXNReVl5X3ZEMm5UQURCOFBySDlma3ZyN24xVUg3NHRQRDZWbTRONjd0SFZEWlZGOTRqREpFb01jMElGM1hqYVFYWGZad19hdVd6dE5hd01qV2VZZHhmZlpoakgzekVrdDM3a3V5V1pjeFBrRXIzc0pIUQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T10:13:30+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "7046e3d83ae2a4ea",
@@ -1096,6 +1226,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "918a0345446e9536",
+"title": "RRB NTPC Recruitment 2026: 3,477 Graduate Railway Jobs, Applications Begin October 8",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdk40M2U1RTlmWlhJRTZJb1lhUVFZaXNtX2VQYXplOGZ3M09rSWQwUDI0bUJxOEZrZG5iQy1tM182Q1NFQm84c0x1blVEbzB0QmV2OUlCQXFNc3pwRUdzMEhEVVNkRF9UWnJTdHk2UVlGcHNVbUJPY05IUzhjSmRxa2tHZnZ1S3NINU9Vc2otLVhFbXM4LVdfbllXLWxwTTREeExqczJ0NWlSeEx1SDVLRjJpRExwVDZjTlp2bjAtR2lJd3VHOTRFd3FNV1JkQUdDbi0yN3g0cw?oc=5",
+"source": "Sakshi Education",
+"published": "2026-09-25T09:59:29+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2034,6 +2180,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eadada0d8ceb3b1b",
+"title": "ICICI Bank Derivatives Open Interest Surges Amid Bearish Price Action",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmlJRUJHNmpYZ1Q0QjBnZmR3bE9lZldSZTNfNzZ2bktDZDY3VkpPekdvTHV4R0todmxuZEJQUEctcjlXdFJodk50bVR4a1JYUzBsMGhyWnpZcVpmdEh4TEZhSWdOUll6S2tzSVVFVWVIOUFmTGJUeXpXb0RBSnhrem1hRkRSRjE3UVpSSkVGSjNtWlM4dHhXSFFDVk1qeXdDR1hvYmxvRVgzRW1TdHFQZXJ3THRTakNkSzBmbmx0b1M0a1NqMHc?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T07:56:26+00:00",
+"first_seen": "2026-09-25T12:23:16+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
