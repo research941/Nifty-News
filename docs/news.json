@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T13:01:12+00:00",
+"updated": "2026-09-25T13:20:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,140 @@
 ],
 "items": [
 {
+"id": "0617863fa86a77b3",
+"title": "Smytten Collaborates with Wipro Bengaluru Marathon 2026 as Product Experience Partner",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlV3UDdvYWVfRVROUjJjeEd1emdUT2ExaVUzSjVLbTBWZHhRTVZ2azJwYWNybXNwYWhMdlZwUThxS1Bkb3M4cHhFWERYVDhVY3d1X2szbkZQRlVKU0thSzBBS1B2ejlTZ19uNVdGLUpfSmtIZVFnUWMwWXBjVTk4bGpGQ2FYWEhCLTIwOUlLVXB0dm11RFHSAZYBQVVfeXFMTVJVd1A3b2FlX0VUTlIyY3hHdXpnVE9hMWlVM0o1S20wVmR4UU1WdmsycGFjcm1zcGFoTHZWcFE4cUtQZG9zOHB4RVhEWFQ4VWN3dV9rM25GUEZVSlNLYUswQUtQdno5U2dfbjVXRi1KX0prSGVRZ1FjMFlwY1U5OGxqRkNhWFhIQi0yMDlJS1VwdHZtdURR?oc=5",
+"source": "Local Samosa",
+"published": "2026-09-25T13:12:38+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "25b67d0d2e158ef5",
+"title": "Rajeev Jain Success Story: How He Built Bajaj Finance's Empire",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SFBDandXMUd5YXhsa1JPQ0hTQ3ZyZDhqSVNtZC1na284ZkRNdVlvUkNYLU5VY0FqQi15clkyVUEzbFRVbHNNdHdOU3VoVFJtTzItaXA3NWpJV0Q2Y0dXc19NZFctdE9qN2c?oc=5",
+"source": "Business Outreach Magazine",
+"published": "2026-09-25T13:11:11+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "83f4292ab51c3298",
+"title": "TCS fixes October 14 record date for second interim dividend",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFEUmlOcVhEdWpTbUZmVzdLQ3l4TDBBaUJLQjBSRk82ajRqdHJVWk1SRkFPdkppY3dKTHc4aFhyaTRLQVBmNk55OG9IdVlOcUZweTk5RFdxZFNGb2FfUTBpVDJZdFE3ZkVVdlJRd1NRWFJYd25LakhiSFc2NzRVUVNoVkFqVkpjZTZ2SXRkclQyOU9LY2NQUWZzWUNOZmNETW95U3NWLVRpTE1wcTJFLU5CSQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T13:09:51+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "cc08e200618dc481",
+"title": "Coming Soon: Maruti's Range Extender Hybrids With 35+ Kmpl Mileage",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjlIbXZPazFjWWdESTktV3R6bzBfZXhaYWswZGNkeU1XdXp2TU9mYm1lRmFqcnFOOUoyeEQ5XzBJdGdiUXd6WDBLQktWbktkMllseXFBcWpoZEg4ZnlPWU1rNkV2VWQ1dFJnSk5NU3NrclllY1BkcXE1QkdZTXRRNE5QR0U3RWc?oc=5",
+"source": "Cartoq",
+"published": "2026-09-25T13:08:48+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2c494d26aa519ad1",
+"title": "Coal India Management Trainee Result 2026 Coming Soon at coalindia.in",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkZmWEg2c0xINjlpSnF5WS1hcnVnZTktTkNKbm9FYVpPRldIenF1SU1VYlN1RHBxazdHZWpuUnpzbURfQ2JpWG5hTG9JUlNXeTdjTnVMMzlwMXkxdEV5ZllnWHNjd3JUc3U4cVY3aDh0enlhdUpzemNaeDdaTzF1QzlpdFRnbW8yV3g4UFhSUU9RWE1hckFNaWI2TjIxLUNGRzhEMg?oc=5",
+"source": "Observer Voice",
+"published": "2026-09-25T13:08:18+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0b6aedc0bdd7066b",
+"title": "One-fourth of cars sold by Tata Motors Passenger Vehicles are now EVs",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzlNQUk2NmpzdUlsejQ0REozMmhOd0QzbjZqdUF4X2JncUZDT0JVMFdSdWlBR0hzN1UyNFItYThzTHRDcXNvM1lzbXVzdWJiempPWXNpS3NMQnlsTjRQOERwT1ZtMGt2Mk1qcHhHeHMzRUk4dnVPS1IyTFFKQjNJRUJId2k2MGhBdngyUzdYMWFOd0pyWHVJYi1ka2JhQktEOE9INGlkaFItWlZBQ2dIWEo4VHQxY0pRN0hBQjJKMTdHOE04QkHSAcsBQVVfeXFMTnhZZmdKZG5UeDBVRmlxYUU0cDRJNG9aV29fYkMyd2NDRkxDMWgzSnMtS1Rland0MjJGY1FXZXBxN2lXdjVxd1FVczFWeWc4RjRoekE2bURrVERQN21LVVJXMHFtSEJJQVVJUEliWWo3RlpDWHJFSlA3Y1ZrT3JYemVhOWZZOVREOEtMMzRWRVBTNnpKQ0pDakRBckdqV0tPcDBBWERxSDJFWDJQSmZ3SjlYcmxBNGJZSXRyZWI2ZzFXMzFxbU45UjNMbFk?oc=5",
+"source": "businesstoday.in",
+"published": "2026-09-25T13:04:50+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ddecc13c94c4c2b1",
+"title": "Tata Aeris vs Maruti Dzire vs Hyundai Aura vs Honda Amaze: Compact Sedans Compared",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUWVrRkZxVjA5Um1tWmtlODA4VFA5Y0dtajZpc3NRREt1TzhCZUFINklZdE9aQzJPSnRLdndUY0x6N2JzUUI2V296d1JfdnF3NXZfV2lWOFV2WGlNV2otbTd2YldPY1ltRUl5Q201ZGJSeWlZTS02OHJicFdnZkU?oc=5",
+"source": "Autopunditz",
+"published": "2026-09-25T13:04:16+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f018831425b6d744",
+"title": "Titan Mining Stock Drops 8.69% as Volatility and Profit-Taking Pressure TSX:TI",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2JoRVRMUzl5cndlSGI5SEs0RGFlZVNfZXZMWWFqVTRFYzNyb1hRUkFqUlRwSElERnJScllPd1REemU3X2dpdmFvbXNfdW4xOHRRcGZtblRJMWFJNlpLWkR3WHUyQUZ1Z01ja3lQaE9UWnl2a1RaMzlLcjlKazl4Vkt3bFd2ZkZ3WDdrUGRQSy0xNUlYakhCRVMxR2dBdXpWckgzN3Nrd0ppZw?oc=5",
+"source": "kalkine.ca",
+"published": "2026-09-25T13:03:00+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
+{
 "id": "b971d9aa030883d3",
 "title": "ITC Infotech freezes 1.69 crore shares of Happiest Minds",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnRYbnNwSDZ5aEZnZ0NZN0J5d25rcFlVdzU0UlFXbk5nRFgwWEhtVzdWWmI5cmJaZ1ZESmhqUGVnVXJOQ2p5MHRpN1JZTW1FeVVuRnpCbjh2aG9WV3VlYW1kaDB1UE9udWxLUEhHbmxFbHNFMGVGMExxREZNS0J6WUdJT3pjcFE3NVlvdldRZW1odHBQWV9GWFE1cjA1NzQtTlg3TDVsLVZXd2E2UG9Z?oc=5",
@@ -635,6 +769,28 @@
 "sentiment": "negative"
 },
 {
+"id": "e23b4e07bb19e341",
+"title": "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWUdTTWs3X1ZIWEpOMHFsTktxcHA3cFFYc2J2TGk0Q0RHZDU5R3c5cWt4dzExb0YxUUhOVmhoZXNrb2kyRjBZLU9nMDluTklIUURlU0dkeE5VWkpDM1FnazZzY1Z0V0ZMRlM5Z1QxZWtIZHFrb1poVnpDOERBVG9SYTlDbDRRWDR6d0JEMEVtWS1RdFJWVlc4VUszLVdraUtlZWtXaDFCVlJ0VWl2WE1HekhyWm03bjBudENKWkMxNlQ1aXlDTjF2RkhQWFVva1JZTmNrRHkyMEE?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T11:41:59+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ffc07f302f66d524",
 "title": "Wipro and CrowdStrike Launch CISO Command Centre for AI-Driven Cyber Risk Management",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUo3RXNlVW82aDhjcmc2MFVpOGNOejZPX19faGd2WW4wbFJKeDk5b1FlaU40YkJPVXcwbEUwNWJBVHpKUTZqQjJvR0psUzcxaTI5cnRwcU1nWElNMmpKQ1o2MHJQc1VYYXZPSkk1U29aUGR0SE1vWjNTcG9ZY0F3VU1uOFRTb0JvSFVGUGtIdFJYY09zZ01WUm9VME1PRDlORjdoZ0ljY3ZQeUwyTUZpZkEzN0tLSEQwczVz?oc=5",
@@ -777,6 +933,26 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "50e40a43dee22110",
+"title": "Top gainers and losers, September 25: Axis Bank climbs 2%, Asian Paints rises over 1%, Max Healthcare falls 3%; check list",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOb0RXXzFEY1EtQy04ZC1QbmpsODFYaTA3blR3ZllLUmI2S2FOVmZOTWlRZUc5Z01WSXhmV0lSLVZQeUtrc3lZTlY5dm9pTUltcURwNFN5dkVsWmhaczAxLUNYb3hYb2h5VDVjU21VQTBqWHVHajc1dV91OFpyTlM3TUZIRGZYR3VIZnVNMy15MkpwUEdvVm1MMFVoZnVLRXRrd3l2LVFFdEpkamhCOU5rQllJU1dtYWJVVkhJVzhuRTZIc0pfU2VnSklWWV9SN0U2blhkZ0N3Zl9XVDgyamZvN0Z4dXRSYWJKV0ZqOEJ6RWZVWUdHZ0UwV1N6TGNzUjVqWl84?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T11:17:28+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"ASIANPAINT",
+"AXISBANK",
+"MAXHEALTH"
+],
+"groups": [
+"Banks",
+"Consumer",
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "35001868419e58c8",
@@ -1101,6 +1277,38 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "207c78148e83e087",
+"title": "Wipro advances Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2ZDbEl6RTlTZGI3RmF2STd4VDMwanowNUhrakxSUXdaSWEwYk9BZkpiWUxPU21aUkVncWV4N1diNEdraWtUaXRuVVBiUU0zekZYT3JsVW1LV1ptRDV0dG9tNmQ4dll1eU1EZ0tnQlZtT1I4U0ZGYnBPM0p6My1rWkU2NDRqZTlfdTNOdTJoUVVyNUFqSzJhOHZNa2E4Q0pMQUdVU1FVaDB1NnM1RDZIMC05NGVXNnA3anVZ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "3b0264de2ed80f6a",
+"title": "Kotak Mahindra Bank slides Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXU3UXVhdG1JWjAteUs0bHFtaUgzM0JPamstUUE2NnFHOGdILWxZd0ctSWFYUEJXTnViSmdwamZKSVVqZXItVVphN2F1UzFSbmpabnoxZTFSdUV3UVhlMEhwbVpia0UxR3hXQXhIVUxpMGZuU2tSRFBuRFRvWmR6QVdCSEhseHdBU2s4N3RNejE0TFJrS183REhpa29tcy13d3B3aEdUTlZnVVRiRnladXBIN0xnYU5DVTNYVVNPNEZNUGhLWkdfTFBpSVV4MnZH?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:30:00+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "040485cb6a9a9c9a",
@@ -2853,6 +3061,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fe24948766d61cc7",
+"title": "Maruti Suzuki Commissions 300 kW Green Hydrogen Electrolyzer Plant at Manesar",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzRfR2ZZc3NrbFB3LTF6cVEzWmloSmthb0J4MlEtczlkMXJjOGstbnJSUWkySDFXT0N4SjBHSUdWRzZscXc4bWFoWVlvOUNBV0cxWW50d2Q0R0JPRXIzMW9aOFNFNjE2SnlwdFJqRmNzWTl5Z1Z6ZWJ0X3FTb3B3dmRLeDE3NVhpay04UlZIaVNqYkF3TVh2NUcydnlpbHhhbDNRaFpsQUotY21iTWpPMGctaHY?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-25T07:17:30+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9640a271e5717550",
 "title": "Bajaj Finserv Backs Young Swimming Talent Dhinidhi Desinghu",
 "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNmFlRl9KRTdLVm5fRlZGT3U5ZWQ4SGIxWGFzM0pjbk92Q3BEeGJfUWZWaExTU3hNdjNoRUQydXNzNUYtUWhWMW5ubU9DOXBTWjlRTnNuTVVvNjJyTVkyS05VMzFub2xuMVVqNnRvWQ?oc=5",
@@ -4306,6 +4530,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a6fb9ae8ca5a5a55",
+"title": "Reliance Industries Share Price: price action at yearly low",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWsyeFhNOHc0TkdrdE82TTVCd1JGbTZUS3VPaERGNTRxZE15ZFM4RnJQUUNKZmstWng3UGdZbU9Ia1gtYS1iVG1OYmJkZXNKdHdGTFFUMDVxU2ZMVHdiVm4tQ1pZazZ4dE55Y0p0NWkxTWh5TDFQTXhWRGh5c09uMTNCYjc0aGRvRlZobTdtMlk?oc=5",
+"source": "Univest",
+"published": "2026-09-25T03:48:00+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6203,6 +6443,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "132811c515d45c38",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Kalwakurthy Sep 2026 - ₹12.25L",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHFZS1A3ZHNQU3hUODFGZjJ1NHA3aFM2LXdFdTJ4OG8yM3IzaVpjMVh4ajEwbE1zMjR0bW1oM1BEOTlteHRsTXVZTHNMUHRLdkE4LTN6bnVPd3RVOW1BZnh3RGNOWm5LcEVWdlladzF5VEsyVFBlOW1ZQ2V3UDVWYWg1OW5iY095dFd3?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-25T01:09:14+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4b2bdde267626b92",
 "title": "Silver lining for UK equity market? Airtel Money targets USD 9 billion London IPO",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkcyQ2xCOFdVSlMtVndVVVYzWmx1VFkwSF9KUUtOYWZ6RkFrTlNMSlJLd0dsdVdPRGhTUndZQVRkSWg0OEtnaTZEOHpCS1dvNXpWeEk0ZEV5QkJUZFlyUzVzX2FMU3B1YzhKa3BmbE5kQ2JQVEc2eTRSN2xBRlB3LVZLeDE1WTVwaGVmTzk5T1JzcFNhaGR2X0tGSGZjc3N5YXdyQVpvVnM3dnZRZFdHMWhjZnJzUDJwbnVZZVlmSQ?oc=5",
@@ -6934,6 +7190,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "642cbc62082d2702",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Sahaswan Sep 2026 - ₹11.72L",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2pJbUtCNkpsQW94UjMtYVdDZk5xT2cwYlNGSXRUSEIzYlp4NDl3aW1xZnFGYk50My1ERHRkMDk3ajdVMlRFX1dwTVYyRXRrX2NQUkk4djRGTnFDeTFxOUFoS2VtSnNzd2tSOXBCSl9qX0RiNWJKMXZOdTNtQjVPNlM1bVdBVUU?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T19:45:55+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2d30ca9181b8e5b3",
 "title": "National Stock Exchange Of India Ltd Share Price Today | BSE Stock Price",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxvOWpOV2lXREE1VThYdUJEdnhYb2pwNDQyYXllUzhHYWJocEFQMmJCWDk2a2MtanJ0OC1CQ3I4cVoxWHVFa0EzZFpFeEZiUXI3R1BiaUtkTVlWTmRRNWlHa2NjNWdodjdMRVBvT0J6dzNJXzFHRHJxa2VWcGY0WVZad0VNS00?oc=5",
@@ -7535,6 +7807,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a2374423cac1d3e5",
+"title": "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14U2I2TUt3bmZGekZ5VXZvNkliTmx0YzZNYVNfWjJuaU41OF9OcjVBaEltdUxaMlNlMl8zMm1QQmUwOS1jMDJHMTFDNHV1SUREWTV6TjVERW83VWR4Z3AyQld5T1N4VkR3cVBZ?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T16:20:59+00:00",
+"first_seen": "2026-09-25T13:20:12+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
