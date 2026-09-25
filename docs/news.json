@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T16:57:08+00:00",
+"updated": "2026-09-25T17:17:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "3dd34effef018dbe",
+"title": "NTPC, EDF Power Solutions join hands to develop low carbon energy projects",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXBKZkZzV0ZpMGh0X2lNdnJyN0lvbUN2My1ERmVCOUZZWTFUX2h2MzRQRkxuSHk5ck9lUkJ5VW1IQzFsNlhqSTgxM0MtU0VpdHN1QVZmeGhsN2pqTjdzdnFVUmdVbWhkakVaNHZYaDVpSThzNWNaSTlzdnlETWhmZ2NTYjJkWV9OTnVlLV9hN2N1R1dDeXI0LVpwVURabGhRN204ZWI5WkF1N2NNbVJGVXhWYmxhLTM1b2tDMEVUWFN1V29ISXfSAcsBQVVfeXFMTjdUTXgwU0xfM1hYN3NYR3dDSzNRTHFhTTd1NVZtdjB3eDI2aV84LWFZQ1FBSldfX0kwQ0R4QWU0T0F3Rjh3bjY2RElhODlPTDBaUWg4UUJacnJGVDluVUQ4YmxDWV9ucmJ0TlgxMWdBdjZOTHdvLWRFdExibE1CQzdEeEFzUExJX2NIR0ZHWDhOWnoyeHNEd1E2el9zN0VSU2dDWmZwRndLa3NCVHUyWVBmS3JUSEFPQzU5NzdrV0VjMVVkU1pqUnVnb3c?oc=5",
+"source": "The Statesman",
+"published": "2026-09-25T16:54:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d0157c6dbb22b9ab",
 "title": "Kotak Mahindra Bank approves merger of two wholly owned subsidiaries",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjZORnZRMHFjSnlKMjFrZGh3Y3RFT0dudmkxc3ZPdnZwQlJGRk5ublR6Q2hscDRSYWkzWXFwTzFqYzc0UXIzSVhKUm1YSnJERkgwekc1ODgxcFUtSnVpQXZQajJuemRPN1dRQ1k0bmhjWGpCRF9wbTUtemVRLWI5Y3pRMEs0eUdhdVNnQzVGU3AwREhWSUxWR2xTSTAxR3V5dFlWS2ZnR0lFbWpmRkhuRGRRamx0Zmp1NHBqdHVvYw?oc=5",
@@ -478,6 +494,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "470d167a1912ada2",
+"title": "Airtel flags 98.4 billion spam calls as digital fraud rises",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWhic2RsMGplTlpvUklUSkxiQjFVdFVNd3ljQmZnUXd5bGpVTlpReFQxdy1nMnBtRExvaVhLWkgzc3RJQlRyTkZTMTd1SUVZWnJ6ZGtzSG4ybjlYRHlybEo5YXJPM2lxd1RMVkFQeDNSLWVCY1U5TWNUSGJlR0gwanRvZlBvajFZOWs3QW53UGRDZw?oc=5",
+"source": "kashmirconvener.com",
+"published": "2026-09-25T16:47:03+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -631,6 +663,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "cc20ec36fb8c9659",
+"title": "Hindalco (NSE: HINDALCO) Down 0.51% at ₹977.00: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHFKWHNIUWlMelNtRjNHbWJ5VHhKRkpoaUw3c1gzNU1KanlWbHJWZjduT19mVXE2aFU1TC11c2R0ZDYwY2RhWm1CVXRteUFydzhQeWwzQU5JUHkwTXQ4cTY0UW9vWWtONTh1R2NOaFJnQ2gzMWppVTFNT3JjTzZoUHdxSUE4cnlwWWk4eERTcm1JV1VGSkozQWRGTmJRUGRJeGZDTERYS0ZKRG1BM0ZjY3VLZmlJd0ViOHpxakxURWxteXlLczVCTVpvSjhkLUdE?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4f376aeb02167331",
 "title": "Adani vs Vedanta Case: NCLAT Rejects Vedanta Appeal, Clears Adani Enterprises’ JAL Takeover Plan",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmZKeHh5cGlNbmtFQzZaNnlGc0lHOW9IamFmTVJUZXZPemdzYTRXNUFhcjdMRklmMmNRSGc1aDlnY01nTlNLU2d2a2tKbzlZTFZrWWJNY0dqSjlReDB2WGNRTzhOaXNXVVJnTkw0a2pZMGwyaHQ3bmhMd0pNT0FnelVSSjlJc3Bla3pVYWVRSVVnWWVlWEpEdHlHZmlKWEtIX2JscFNzVTJkNngxbXhTU3Ywc1NLcWEtWTdvbDdaS2FlWmVoVnpHQURRWHRNNUJDd3prTA?oc=5",
@@ -712,6 +762,24 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c13895f9e80afaa8",
+"title": "Dr. Reddy's (NSE: DRREDDY) Up 0.19% at ₹1,202.7: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMVpTMTZvTVVQa0Z3QkhUejJXN3ZtQlB0RTh1aUQtamxLeEhoR1JlR25vc3AzcjlLd250NjRWLW5sSXZJQml6Q3BMMHdvYnNyd2M3MlJWMld4Z2NicnlzQXRvSklDQjRMejh3SzhzZU02SG11ZzRfeVpObnlPUkxmVXVWU3JpMkxZYWt2SWFjRzZKRnBUYmJuZXBnQzhqZkZueHUzUm4xZk1uQ2JCZUYzb1pHMkZTMEVUS3VielJkZ0xfRG1jcnZnUUdPd2hfN0pnTFRz?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:25:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [
 "Results"
@@ -864,6 +932,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "677b1cb5ba17b0a4",
+"title": "Nestle India (NSE: NESTLEIND) Up 0.57% at ₹1,358.7: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0RVSldIWkhha21pUllqV2ZTSjFSbk9kcURTb1hVRVF3UkhqOEgtMlZNWUd6MFlOV3dtdzVZbXJGRFlicjBCNFNZdDdDVzVUQmdiRkIzeU5YemZ6aHVQOGVRS1hMeW5fYzQ4OGdrT2JuaVFLbnNrbjJFU3YyMXNva2JtNDRFMzZ3MWNpVUJTWTJoY050M21kZHozNE14azdpSnF2VFVhZGpvQW9SM0N1YXpFeS1PbnQ2c2NUWUM1M29SV3NseE42el9SNEJKbVJ6bkJaaXotYzZjMTdoa2ZUbw?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "57dd873128b86865",
 "title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
@@ -981,6 +1067,42 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a5bdb1098f827a6f",
+"title": "Mahindra & Mahindra (NSE: M&M) Up 1.68% at ₹3,032.8: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS09jeWwyYzlXM0g5T2pCME5fVy1HMFZHbkZ6cjctUjIwb2hSQXdNYTBLTzFaX3FXeHpxZ1piNk5NQi1aSWpvZFBibGtKcXNUWmZDcFRDV2U3c0NzOW1hWk1HdC14MUVQNXNETDQwSEczUHY0NUtlQWlMVHJFeElGbHU3RnZia21PVml1MlJ6bG9OdktwYzM0N2lxcjVjUEpPcHhUTHdKQTlGRXJPS0dRaGRGVS05VTBUTzRnMEY4aFg4NEJCTURTbzlTMmdHRFdsUFdBc2NLdWxOX00?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4b1edfa4bc0add24",
+"title": "Asian Paints (NSE: ASIANPAINT) Up 1.48% at ₹2,428.2: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQW9vNjNpQk9YLUF4b05lQWotQmtfTl9NWnBmRTRpSGp2OEE3Z0o3YXl5Tm9EbjV0UWpUMVpsOHFhOUFyeGdEY3lkYUxwcVllc0dUQnllMXdyTlZ0NmdfVTlUX2NlSHlkaXZabWNqVDlrY19STWM1WGpTel96NTVKYlh5QjktNUhSekJpb09NV01BUDZWVVZKeFlqWkVjX3VUNExndlpJMTN1RWd3dmZwWHo0NXJVcFYzU1FqaUpsQk05N3pPQzRZWmw5X2p5bWpleFgtZ2NUbDRxVk1GVkNQZQ?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [
 "Results"
@@ -1236,6 +1358,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "917ce99f71de4b4d",
+"title": "Power Grid Corporation Sees Significant Open Interest Surge Amid Mixed Technical Signals",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXE1SmdTZkw3SExvTlhLRW1JUk5jVXVESnBRRnpTWU4xZW5lU2hXeml4SGhvSEZhSFRxU3Z5d1lrbF9jQVJFOTdyUkRSR253RjlyY245MGEyRUg4ZmVJVldPWHFfMDJ1Y3BHMldfMFc1YmhDRUNRV0JfcUpjQThWTkJPVXJod2tJbXg4TFo2VEZEUjlMbmZYeFN0WERZZ3R5aDl5M1FodVJfSEE5cW8wLWRRNEVwdDJhRzVSNkQ0VUNqelp0cmo4S2N1V0FGNFFSUENlSS05a1UxcEdPZ2ZF?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T14:24:27+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -1744,6 +1882,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8d7213dec60a8c2b",
+"title": "Maruti Suzuki Plans To Make Select ADAS Features Standard Across Lineup",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZYY19oeGxRRlF0RmJEU3pDNHVJcnZkYmo5NC1TNGFGVzE4WEpSb1dXeks1R01EWW9vbkRPRTJLQkJfOVpqMW1uSk1qdWFvWi1YWGc3SE1qYmNfeTVJX2s4aU9OcmtPaS1pQ003SURXcm82SFR2NnQ2Y1ZTVGJsYlBjZkR2TlB6MzVuRm5Mc0daQdIBkgFBVV95cUxOcWZYY19oeGxRRlF0RmJEU3pDNHVJcnZkYmo5NC1TNGFGVzE4WEpSb1dXeks1R01EWW9vbkRPRTJLQkJfOVpqMW1uSk1qdWFvWi1YWGc3SE1qYmNfeTVJX2s4aU9OcmtPaS1pQ003SURXcm82SFR2NnQ2Y1ZTVGJsYlBjZkR2TlB6MzVuRm5Mc0daQQ?oc=5",
+"source": "GaadiFy",
+"published": "2026-09-25T12:37:05+00:00",
+"first_seen": "2026-09-25T17:17:28+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
