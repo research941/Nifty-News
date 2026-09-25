@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T11:18:56+00:00",
+"updated": "2026-09-25T11:31:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "3cc90d2d3ce5783e",
+"title": "Tata Steel stock gets INR 220 target from Motilal Oswal",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODdFcU5KbnBLeFZ5VFl5WFFhVWI0dlBTaF9GdHo3RVVqQVRGbHJGeDVhV3p5UTVnblRYRW5FdDF3NmVhZkpSbnFjQmZ3ZGY1enNwS2NHSVVEVVRaeFZwM3ExeU0zVEk1QVdyNHFJVlpZczIwV1QwSTJ2eHZPTURWem1IM1dXbl9RcmlISnltRWpWa1RGN1hxTGRnUWprN1lwRzdxMGtWXzQ3TzBtNDkyTmxtUmE?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T11:22:07+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d9ce0ebc98ca1ed",
+"title": "Checkout The First Looks Of The New Sedan From Tata Motors",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTNjZ0poRDVmeEJOUjRTOE4xVU0tYS1xSDFuQk45MUtvUUlGUnJBWFF5eGVmMUJRbDlfeTBRR1gzSGxXQW12NWl3RDhCRVE1NzY5QmE3VGkxM2ZvSkkxR1NwS3BENHh2MHY1X0tvWjhLakNyVlI4U0xNOGJ2QUFiZDV2NGxOa1NNcWFzUEE0Zk1iMlVrcDVVX2k5eHJCMHVQRmtuZ01vRE5EbE5JaDEzVk5xNzd5SklSaVdPeWFua3NQMEpUSWExd3l2MVZmMVAt?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T11:10:08+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1110b1b1fe07e7fa",
+"title": "From NSE to Bajaj Finance, Stocks in Focus on D-Street | Stock Market | BSE | NSE",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGNvYW5HZkxKc2lVNjZZMHlvd0JVU2c0cmtYdk50azc1WERWNmdKU1c2dkZJa2dNcnN4NjNlYkczTUl1d1BaRC14OEp5a3VxUjNHUWhveURLeVRoY2U4bkptcGZObmdwcEN6dVNGcmkwYzVSN0hzT2ZMWjZMOWlzRHpnTURwVjBJN21IcHZKZGV1MGJFSTVKaWZUaU5OZkNNS19oV2NIRDBWQ3ZrY3I2Wmh6Q2ZHV1NzSG5wbjh1dkNSWTg0azd1LXlB?oc=5",
+"source": "zeebiz.com",
+"published": "2026-09-25T11:09:01+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "83c40f70b67faf8a",
 "title": "Yes Bank to Adani Enterprises: 7 Stocks That Witnessed Massive One-Day Crashes",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeENsbzZ4MGdJVEd6OFZTWGVpZzlwV0R0V25pZWxnb2ZteER2cUFrd1lNbTJramZYaGdMT2hoQXhpeVRLU0pSVmd0eWduYUNYaDNfSjQyX1FRM3dENmZEYUpoVlBKUUFDNUg4aUF0dWx3cklxVWVOYmRJQ2ZzRnBHQmNreGhDS3BlYk5JTjA4TnMtUXZhZTZlVWh5OVZTcWZibkVHTHRxR0V5OTFBN0RGTHJhbTc3REhjR1RDTVdjZDllQQ?oc=5",
@@ -504,6 +552,24 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9c369a3e79e476e7",
+"title": "Tata Motors PV may take further price hikes as commodity costs pressure margins: MD Shailesh Chandra",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0ROUUxpRDU1eENESDBEdDJDR1Jsd1RGRFN5T1FwNmE0V0VFYXVxbzhlc3dCaGNzb1ZERGhOV3BKeTJjOThhcER5NjkydkVfTExTQ1Q2Q2J1b2xCQ0paRENGc043VEMzTGwyUU9MaFpDXzBXMmZRRHVMLXdyb1NhMmthV1pNYjVTM0ZkZFMtSGhtd1hkcFU1UEViVElvUnc5OGtia1o0RmNoTDhpeE5FTXdWMlp6QdIBwwFBVV95cUxOQkRMcEZycEVNLVduQVpNMVNlOHh2RWdBa0NOUjBmWm1xS1hpeFRLWXYyd0hocEZzRkZ5d3pEN09ORTYyeFZXMFlDNjJwai1COXl4U19VeFZYUFJCUHRoWDNxT0ZtZmI5M2FxVF9paTFydElDLXR6SWhhdXI2UG4zYlF6WWg3TEo3M1F0M0RkNDNxeTRXREdQaTlzVmw5RnRwN2RTSXlRMW5Gei05U2dsSEhJaDVQUzc1STg3T0xSTnE1MFE?oc=5",
+"source": "Fortune India",
+"published": "2026-09-25T10:57:15+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [
 "Management"
@@ -689,6 +755,24 @@
 "sentiment": "positive"
 },
 {
+"id": "11ad89d5d21b6804",
+"title": "Octopus Titan VCT Jumps On Dividend And Liquidity",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGdLRGx4alFOb2xLYm44WldXRlNRbGtuWUVYZHo1QUZaaXEzamVldjYySXVRSWxYUkU5Wk4zdWVtSVBsVUdGSFB0Z2hJblExS252cnB6LU5xdmRDRmJIVTBxazRVdUtoamprY3p4WWZGVUkzeThmM3FuMUtXQkFXZmtHZlZtMGh2dUJlQ211c045QQ?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T10:18:50+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
 "id": "e9ff31392e42f79e",
 "title": "Nifty 50 top losers today, September 25: Max Healthcare, Tata Motors and Infosys lead declines",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPejRFNlI2LURyUThDd2Q4c2lma3VkWTdsalNTMVdHRTNLSVlzd3p4N3B1TXNWLUtpT2haT1VoQnhNeG4tbDRUVXhILWk0LTE2MnJuZkF4TXVzVnVyUVhZUEJtOXoxSEFHd3lPNUZ0MGFFNExOSlZZQUZSMl85N2RETVZydnRXcDlUVDRzanRld3F2QmxtMkVyZ2pvMmR6MUhGdm9PMVlRdUplY2lPalJNQmhCbTRaX1E0dkJNSzRnWTRkU3RRdURHZGx3RDZaSzgzTDJiSUpVYXBLOXN4?oc=5",
@@ -707,6 +791,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "0e6c3b01963d1eba",
+"title": "ICICI Bank Ltd. Sees High Value Trading Amid Narrow Price Range and Institutional Interest",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYVdYWkNnaHJ5Q0tJX0FWQW5Qek1wYmZfbE5BTUZxOVBraUVFUTVMRVFkYnpiUTZ1VkhldlZVYV9iV0VOOGJMQUw2Q2kyYUYtRzRkNDA4UC0tZVR0Q19TZzFVaUYyQWZYWkFpOGhNYXl3QkkzaUZscUJxZXZ1ZjFUbzhMY2R3UXM2QXA1aWNCd25fa0taa1FqbUJkZ05TYlQ3Vk1PUERaTEFadjdhZV9TSDBJZ2JYSERMU1J6enFaa09GXzJBNmluVUZYT0JkUC1PaHBKeVBsNl9HWTNHamN4RA?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-25T10:13:30+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7046e3d83ae2a4ea",
@@ -1599,6 +1699,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d86d8188dd994c7a",
+"title": "Maruti Interior Products Ltd. Upper Circuit: Price and Key Data",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBneGVBbUI5cERlb2gzM1pObjdFcHFteDRIY1NFeGJvanNqaGhOaFBNN1hfOVgzZXZSZHVXLTdIVzJtUnAwaFJvSWRraHlmZkhxaDJ6aDZCZldSNkhVMmdRZUtNYWI4d2RnUTVBdVNJZTlGdFBweDU0by1SdDk?oc=5",
+"source": "Univest",
+"published": "2026-09-25T08:04:00+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4369,6 +4485,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "821097effa1f6881",
+"title": "US DOE announces USD 5.25 bn funding for 31 power grid projects across 26 states",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUlTTzlybVY3bkI1ckNiWmpxRTZZTm5rVFlMZ19DM0tRdkFEQUdkQTRORlhfc1BzTmwwLTVVNXJ5QXVJZ0lhc3NRUXlOR0xkSlFIR3hTcDNnWnZJb2NHcTlYTEJRa1ZvNmR0VXVkMGt3a1YxSElKMXFNV3FZYXlGZTJaZklSVTI1ZFc1clludlJYWi1XdUNnaVV2QnRCUTFPRmRPRWFsQ3M2aEJkZFNseUh1VGd4bm1rQUZGV3hFaDlaQ2JVOGY5a0pB?oc=5",
+"source": "ANI News",
+"published": "2026-09-25T02:52:00+00:00",
+"first_seen": "2026-09-25T11:31:50+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
