@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T09:28:34+00:00",
+"updated": "2026-09-25T09:42:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "77b33cae8eb5df43",
+"title": "ONGC to drill more wells after Mahanadi gas discovery; India to retain 20% ethanol blending: Puri",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3hfblVUbWdVcE5jblhGdV8zT001NGdrM2lCcnFhTFZLOWw4X1Q4YVphaDRyUzBvMkhnTlk2dDN1a3B6SEtHNkdhLVJKWVFjT2ZnN0twVnpwRmVhZ1laQjAyZHJLNWsyTlhxam9JOEJDaXZuRHM0ZlZQZnVXTnJJd2xOMjdXc0lSRG15aU1ERjBTeW9UejJOX0NGc2N1Z2o1Q1JJXzJqZU94VUZtSndNamJ0VFpwM2p5UjVEd0hNQQ?oc=5",
+"source": "BioEnergy Times",
+"published": "2026-09-25T09:30:45+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "adb5a99ec7a0c256",
+"title": "Chainlink Price Prediction: LINK Targets $15 as Infosys Deal Lands",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFxT3ZIalNxbjh1MnZyTXJCSUF6SVgweEhKamNNSmFUNXBWRlBsVUx5ZEdDMmVUX3RIMzc3dEZmM2lCT292aEhCTXQtS252YTlONUhxSy1DSU12b2ZJY28zTXdvWTZ6aFRqU1dkUTBZRmxQa2Fvd3VOUXQ4NWxSbFRLbGVXTG9KelExWkEzZ2c4blE?oc=5",
+"source": "Coin Edition",
+"published": "2026-09-25T09:30:00+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "293707e7b8b3cb27",
 "title": "Tata Group tussle: TMPV is independent, following own strategy, says MD & CEO Shailesh Chandra",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOWYzMUR1MDN0akNnRVBYMWl2STBqMmRmOUZpSzVYVVVQZURheUFGcC1hU0FBWEJERGI4LTN1TDhpMzhIb3RUOVM4MW8xSzRnOEVfSWNFYkp1bzVNUWpCR0RLM0V0X2xqYVJXWFUwZmk3RzBUMzlvTEdhQmg5b3NzR3kxSlRVTHpkSVZzbGZwWmtxZTNfSzgtc01ZenZidUduYVgwTUJWR1g4WmNHV3hPLU4td3h2eXdoVDIxOUp2MHRlMlNyUk84TG1uOEpyeEhmOFlQXzRkSVpZQUVqcTNaV1pTNUpTQdIB6wFBVV95cUxOMU9zMEk1ZTM0R0ZrRE44LWxHclFwYS1jbUVqSzBudGNSTmN6NDBDdXFibDk3UjZYN1dzcTZvWmFvWWxURWg1ZjhwMVppM2dySVVIMXQtUWR4UUN2dHF3SnF1NWh4X1N5WTU1RHV3VWZsWUpMa3djWHZNUVBxQVBaVXFiTy1KdlAwSXY5X19MVGJOTWRrSUFHS1ZPa3pxckMtbVdBMm9zYm5VeFJlSjh1QXFOTmRmSmhMZTladjduVlUtUUN4MG1vXzRWQUJOTERpY3NaaDlHR1NMQ3BiV3RXa0dIbWtLcXRaQWFZ?oc=5",
@@ -770,6 +804,22 @@
 "sentiment": "positive"
 },
 {
+"id": "8309082338f8e597",
+"title": "Mahindra & Mahindra Financial Services (M&MFIN) Share Price falls 2.72% today",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOamZzMkN5WV9aN29YUTVxMW94VmtZbGVid3dLSTJOSWFCaFA0cUFiVWMwX2ZHbmNkMUtBbHY2ajNQX1VRR0xHUlpia0kxNFE0OEpYOUhBTmJvZ1VPbzFQN0tIUkJLeW91dWZaU0taZWZoWmF5Tlg5Vlp5bHBQOHhmSmVDaHRSUDRBNFoweXhXX3ZEQmVwRWtfalgxV1pEMm9HQmlLRURn?oc=5",
+"source": "Univest",
+"published": "2026-09-25T08:19:16+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "5db35a5860776008",
 "title": "Bank Holidays October 2026: SBI, HDFC Bank, ICICI Bank and other lenders to remain shut for up to 11 days — Check RBI list",
 "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOU5HOGl6TEhpdDJqbm11TUlHdmtZd3hVLVo5M0lFWEsxRkxiTFh1M2d0NWtTYk9LTUNuZ3R5S1NfU2U4a0h3QUVOMjZaSnhWTEdXX2w4UVZhLWJ3S09uZEhJWVJyWVY1Wl8xbkY1Zk1Sa2VjeFdkQmdZcFdUU3FxMnVUM3E4NjVzd0kxNGhUTWROd0d0M1FCQVQtQWxJbkN2WGFhRGxEQTBkUS13aUF6bnI4QWRCOUYwcTVucF9xQ1VOVTUwTTBQZG1xSTd0Mk9hd0ZMTFZKNFBkUTNaTmZBWGdKZFZPN2ZWQWxJSUFyazhKdkhwXzhMZHctQ1UteWJOd1VGbjNqTUd6ZGM0a1E?oc=5",
@@ -792,6 +842,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "6f9067b8584372ee",
+"title": "Tata Motors PV Warns of Further Commodity Cost Impact, May Take Additional 3% Hit",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkE1ZkNrNk5YVy1RbjRwZW1EZGlkNHhhWS05ZktOZUxvT3IyV05BWVFLYzh2eld5VDI3b09kMVFyb1ZXc2x5S29lVEozZ2NfbUVuR3lqME0tR0c5X2tTOEdpTEFoNjZ3aVVhVGZfVWhVREJIWDZBRmRleURCRzRQLXlkMFFxcW1lQnRIazlNLWFFSFhURERqVFVQenRBS0U2eEpZeDJpX0EtdkpqMW1oVHkzTlBlRmV5SXdyUXZFZTJCWUHSAcsBQVVfeXFMTlJYa1pEbmRycWlnRkhBOGhlTXhwSDhQUzNjRDIyNktOcHpVa0w0SDhyMEh6V3U2RnozWmY3VlpXUXdhUzJjOExfb2FrTzlQWVl5dUYxWG5BU2Z5YkNyQ202R0EzeElySnpWRFFnbjlWZDlHTXV0Y21zVDdRWTRNVjVuMk5GVWR1NVdrMm13cjJfMW5YQk5aQXB1bVpudzFYVHVBb3JFaFBUalItQWJvRVcxbnV5akxKXzRFeTVSWmpBNnctMGhzazNrZWc?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-25T08:03:24+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b06533dd955b924d",
+"title": "Tata Aeris Launch Price Rs 5.29 Lakh - Over Rs 1 Lakh Lower Than Maruti Dzire",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVU3UnpGbW1zc3U5T21tdUR3S09ZUy1BVy1HVVh2SmU3TGxLYjBUZnBTZzdHQkxtRWxBRERfeXllVFFya1dBQ2pJOVVrT3ZCel9WV0R1US16WDdOTGlENGlCM21zOVRGaFVZNmhTTlV1d2VEZHg0dXBaeTNQNXVqYzZYVlRsN2hRSkV4VDgxR2ZXREllUEVlZ0V3MXd4T3VXQ3BsV2JqYnRWNGM0WC1aMklscnM3TTltT3fSAboBQVVfeXFMT2lVN1J6Rm1tc3N1OU9tbXVEd0tPWVMtQVctR1VYdkplN0xsS2IwVGZwU2c3R0JMbUVsQUREX3l5ZVRRcmtXQUNqSTlVa092QnpfVldEdVEtelg3TkxpRDRpQjNtczlURmhVWTZoU05VdXdlRGR4NHVwWnkzUDV1amM2WFZUbDdoUUpFeFQ4MUdmV0RJZVBFZWdFdzF3eE91V0NwbFdiamJ0VjRjNFgtWjJJbHJzN005bU93?oc=5",
+"source": "RushLane",
+"published": "2026-09-25T08:00:23+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "03aa1d4ab2a1552b",
 "title": "Tata Motors PV’s EV Penetration Hits 25%, says Demand 3x of Supply",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHRLdC1YSFpYYzI2dGZRR3FoaDFOM2ZPRVhmQWh1ZDdmVTlvN25LbTZUcEJmS3pVRmhKSWlqYWRqSmoyQ3VPLVd6YVVnYXQyN0thSUVoOXZoeG9RdHMzWGtJcUdwSFJZYVlWLVg5YWVHWFNmWHJxRGhkV1RkQXBVakE2V25PX2ZtOEozLWNaT2RpcnlwbGdSTTdmVjZFVWJOdl9oVlpSaDBRVmZ0WWpucGxVUF9aQdIBtgFBVV95cUxOWHRLdC1YSFpYYzI2dGZRR3FoaDFOM2ZPRVhmQWh1ZDdmVTlvN25LbTZUcEJmS3pVRmhKSWlqYWRqSmoyQ3VPLVd6YVVnYXQyN0thSUVoOXZoeG9RdHMzWGtJcUdwSFJZYVlWLVg5YWVHWFNmWHJxRGhkV1RkQXBVakE2V25PX2ZtOEozLWNaT2RpcnlwbGdSTTdmVjZFVWJOdl9oVlpSaDBRVmZ0WWpucGxVUF9aQQ?oc=5",
@@ -803,6 +885,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "83375faca5581497",
+"title": "Manager – Program Finance Wipro Foundation, Bangalore",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVRTZGhHS1ppMm9ZMENNanB3amJiejlzWUNPZ2ZZcHJUT0dCZm9FZXBNSm85aUtmaEJPbHR3OHBGMXU1dE84RVpaYjI2MjVyTDFnZHZURkhfdUhFT3Nkb1RZUmVwbjdxaS1kVVUtN3lydzk2blZXZ1hWTnlCbkJxRi1WcTF0Ym5iUUh5enNieHd3dUJXcTdvN0wtSDJRUnFMVF9VMmRZamNEd9IBqgFBVV95cUxNQVRTZGhHS1ppMm9ZMENNanB3amJiejlzWUNPZ2ZZcHJUT0dCZm9FZXBNSm85aUtmaEJPbHR3OHBGMXU1dE84RVpaYjI2MjVyTDFnZHZURkhfdUhFT3Nkb1RZUmVwbjdxaS1kVVUtN3lydzk2blZXZ1hWTnlCbkJxRi1WcTF0Ym5iUUh5enNieHd3dUJXcTdvN0wtSDJRUnFMVF9VMmRZamNEdw?oc=5",
+"source": "India Water Portal",
+"published": "2026-09-25T07:58:46+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7787,6 +7885,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "2d1fb44aab3053ac",
+"title": "Top Gainers & Losers, September 24, 2026 at 3:30 PM IST: Cipla Leads Gainers",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbjFQTm5XQVJFaUJweEpYZmswUXlZWHhjLS1UdHp2bzVheU5jekF4elBfM1hwT2RnYlRIdWhENUJVclhqUklZNTZUWUJQM2prRS1oM3RLenVaR3F5RE5YM2c0ancxRGs3WFZKY29oXzlZSGJCRjFBVDhZWGc?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-24T10:44:30+00:00",
+"first_seen": "2026-09-25T09:42:47+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "38e00713765b0d61",
