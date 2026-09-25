@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T14:58:24+00:00",
+"updated": "2026-09-25T15:19:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "57dd873128b86865",
+"title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T15:15:33+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "3dcd652875f85aa8",
+"title": "Maruti Suzuki Launches Green Hydrogen Plant for Clean Energy",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVkOUMtMHFxNmVKeGpqeGlhT05mbGZHa3lqTEM0TC1ldlV3N3I2LTN6UXlWVkVGT2xxbHB5T0JudEF2WnNidHByamFlSXBfOGhQaXAzVmt5a0hyRUVqR0hlWlo4NWtYY0x0NkcwWjJKZ2F2cm90czRRZmhaTUdyZVVuTDRCeXpnaHpIbjdTYm5ReWpyU2ROckVUQlE5Wk83aGV0bGg2a1hNVUg3RGlFOWdPOXBvZXFHbUxicWdLRFNkZlgxMngyZG42OEY?oc=5",
+"source": "Fuel Cells Works",
+"published": "2026-09-25T15:06:00+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c1066160b24422e8",
+"title": "Airbus detects surface coating issue with A321 neo fuselage; some IndiGo planes see impact",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQTJIMklhLTQyaGRTOTRTVlJiYnBadGF6MFJjWVFFQnI4VUZqS0pxV1F4VUtUWGVqY3Rzay12a1NXX3ZycWhOWHZHUkdfalZJVW5laDZkWFhSd3V5aUE5OXhFQUN4b1g3bG1ObFVqU1kwRUNxeUpIM0hKczRaTGN4Z0NzaGZXYnV1OGVwdXNRRTBhQngwdUxabmk5bVNfT0twSlEyQWJHSTUwZWhLU2JLbHdhdUdDTTM0MDlZb1ZRd1NQRXJYX2V2cDJvOWU1TWZ6N25YNThfUDRRekJtMTJxZ2FtYW40a29WSGZhSkRrM0JBMUxBUlNWZlRRdGpMZVBNcENHY2dVbXZLbDNFSmV2UTBfSnpNM3pUdnFB0gGbAkFVX3lxTE1BMkgySWEtNDJoZFM5NFNWUmJicFp0YXowUmNZUUVCcjhVRmpLSnFXUXhVS1RYZWpjdHNrLXZrU1dfdnJxaE5YdkdSR19qVklVbmVoNmRYWFJ3dXlpQTk5eEVBQ3hvWDdsbU5sVWpTWTBFQ3F5SkgzSEpzNFpMY3hnQ3NoZldidXU4ZXB1c1FFMGFCeDB1TFpuaTltU19PS3BKUTJBYkdJNTBlaEtTYktsd2F1R0NNMzQwOVlvVlF3U1BFclhfZXZwMm85ZTVNZno3blg1OF9QNFF6Qm0xMnFnYW1hbjRrb1ZIZmFKRGszQkExTEFSU1ZmVFF0akxlUE1wQ0djZ1VtdktsM0VKZXZRMF9Kek0zelR2cUE?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T15:04:00+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "344584cdc0536177",
+"title": "Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWlo0OHh3R0pUNDdpcFp1V2duT25fX1FwMlBBVGZDSUdUVGRvVTQzZFFqOVZua2Jna1h2UGw1dUhvSWVuVzFHYzVCeTNYT1lkazctU0dCZVpTWW94UjBHQkE4dlF1elhnbG5ENEJaQ2trdXJxQjJTRHNjZjQ0MkhHaTBidWpxaW9HN2FMV2JnZFRLSnJIWmphRkxyaHlsQnRCUjdraUlrWjJid1MxYnQ3SWEyQVduYXkxX1o2RVBNdWZaVXlQbnZrWkVyWFJ2RWwxbTZNekZkdnJBeTdKcVRPQXp4YkxFc3FINkE2R0piZFRkUdIB9wFBVV95cUxPTDlraUpfd0k2SmdwdERrUGVTQzhmNVZiRVVPbFRpX3hTM3Z4ZkNLMlB0R0FkN2ZNYkRVeGxtY2lIZWRUR0doUENRa0w0cThKSEZaSnExTzBzb1lrenB5WXR0b2ZVSGdIUUZkRnpBMXctdE84bUZpamE4b2FuWTFuUTJyWXU0UmQxX1NPSlFSLS1qaWMxeG5tN2wybkNsUkN0UEJoeGJMdlBmXzUzSWVGRFV4R0lHSUhJOEQwZWVEUko4RVJPdl9ROTRUVHpBSlRxQnpCcTI3X1JjTVJacmpLYjI4TV9ZMlFCV25UYlladjFZbUpMZFFj?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T15:02:22+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "63e4902655d19dcd",
+"title": "Infosys nears July lows, Wipro hits fresh 52-week low",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTjRrMmtaMThSS0lqWWRnd2dmbHlUc0R0QlE3TG1Hd3UzR1Jwbm96Q0FOVVZDSURtTmRLejhodWhDczFUaFlqaTl1WnBVcEw4dFVwUldzR0ota0ZCT1BPZk8wWDRwdkF2bFZ0cVAxZjdoZkhOMVR1aEEtNWNpcnRycHE5TkZYM1BadGpUUHdKVTBXczh3UWtNc3ptMkJhRXNIXzBxaHBXZ21mTnVLQ1RpbHlCbHdOTUszemd30gHCAUFVX3lxTE83Vl9YUFZLM1RWZFlHSnBTRE93UGg2cVM0TElVNERPSElDRFh4Rnp0SmZscS1YTER5S0p2Sl94c0NnM3BWaENscjg3elZhaWR2T0VHSk5XLVE0TGpPb3Y0SVpNVDVGbGNwbEhuelZ0Tm5MWWlKaHlITTJVTjJ6bFNDczJzUGZjaHlaVTdULWdWV1JOMDRUbmVabW90S2poaGNCMEU5TnN2Rl8zTkU2Y2p3UU81ZnJhNEFrTkpEQVd0QTd3?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-25T15:00:31+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f111e03600a8a06e",
 "title": "Repco Home Finance allots ₹75 crore commercial papers to Kotak Mahindra Bank",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW9ob2xqSU9iazYxNTlZYXNoU3JXdmxVWGZ4VXpzUkpXWkwzWkJBeVd6NFRhbktQSUhCcC1MWE5TdnEyakR2SVNoZURqUWtlRDJjOEN3c3l2MS1rVVJKRV9mUjB4Um9MNm01cHdGN2ZRNTZOWUdtWk9iQmpRLU5ZVnhITnkyWTBTcTdNN3hhNWZuaFFqcml2VXdweEM2RC1HajJIMmloZEpjRjViNkZsMTNLc0V0a09kUzFKRVNyUnpyQQ?oc=5",
@@ -507,6 +593,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "92a34476a1a2417d",
+"title": "Forgent Power Solutions (FPS) Capitalizes on the AI Data Center Power Grid Bottleneck",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUC1mN1lCVFFWMEdkNXhMSjBXQ2tfZ2J6NW13WE1vWmtFNFVJNTN6OEhNNEFLQmlIRkxlMVFkODU3R2FYOW02cEVOcTdOZWhQNXZpZXRNcU50SWdhb3dLYV9WdHV6cjFTQnBPTVlBR1dJNDZKdUhYWmFVdkhndDNadEJiNkJtS25mY1ZKY3dTWkJrUGNGZE5wa1VCT21RZDh3Mk9rNjBn?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T14:35:09+00:00",
+"first_seen": "2026-09-25T15:19:53+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
