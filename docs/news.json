@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T07:05:35+00:00",
+"updated": "2026-09-25T07:22:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,70 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "4d8731e798bcbf7c",
+"title": "Maruti Suzuki Launches 300 kW Green Hydrogen Plant in Haryana",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzRfR2ZZc3NrbFB3LTF6cVEzWmloSmthb0J4MlEtczlkMXJjOGstbnJSUWkySDFXT0N4SjBHSUdWRzZscXc4bWFoWVlvOUNBV0cxWW50d2Q0R0JPRXIzMW9aOFNFNjE2SnlwdFJqRmNzWTl5Z1Z6ZWJ0X3FTb3B3dmRLeDE3NVhpay04UlZIaVNqYkF3TVh2NUcydnlpbHhhbDNRaFpsQUotY21iTWpPMGctaHY?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-25T07:17:30+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9640a271e5717550",
+"title": "Bajaj Finserv Backs Young Swimming Talent Dhinidhi Desinghu",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNmFlRl9KRTdLVm5fRlZGT3U5ZWQ4SGIxWGFzM0pjbk92Q3BEeGJfUWZWaExTU3hNdjNoRUQydXNzNUYtUWhWMW5ubU9DOXBTWjlRTnNuTVVvNjJyTVkyS05VMzFub2xuMVVqNnRvWQ?oc=5",
+"source": "LiveChennai",
+"published": "2026-09-25T07:11:54+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "01fac37883823053",
+"title": "Infosys derating: Indian fund managers treating IT stocks as reverse AI trade, says GREED & fear",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVVZqTkhsN096NjFqMTJva19UaUtWQm9MUjN2dFBoNzlBbkxfVUszME9tWmVNeDQzeDA5SkJxYjdqMS1hR1F3Q3ZVUXhTZ0x4RGdJSVAwMEJrUGFlTHVVUFppeDNUT1puai1mMXhoRmZxdFEwR1l2dEVJTlFSTkJUcjJMbWpyZllGUHpGaEVvYlRtMWdtemRBcnhzUjRrd241eTZydGJiT2xlS3FXdHBOeWVvSTVjdy1XYlZ4VFJqeGlvV2RaY3FVT2h0Z1dqbTRPNTZmcVpzQnJQcm4xaFd0aHhOc3ZuM3lQTjFrbWd5eUQ5d9IB9wFBVV95cUxNeFIyaVRVVnVFZ0tVNURfN3FvZmpVajE5VGk4Q0kybHJXNXowQVZNa2RHXzZrLXU1bDVjV0p6QWNCZjAtSHNCcU9DQkp1VEpFYVRwNlpON2J6eDRHM3dpYzJxZmw5MHdOVHZzNDhVY1pDMDZrenVVRXlvQjFxdnA0UXZTY1hnMzZCN2JBSUdDVTNnQ2pCSVpSbVpUZi1DV1NEMnRJSkVZMDE3RUpibngxazdJWDV6OVhvczR2aV9ZWE1Mb2tGNkZ5V1BCNzZERDd3QmFBc0FsNTJUNlZzQV9iSFJNNVdINjhfQ3pnck5uaWFiZmV4eUtF?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T07:07:27+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "90c089a602c0f313",
+"title": "Bangladeshi national works at Chattisgarh NTPC for 19 years; held",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFpXNEJpNkZmeU1uRE92ZmU2TW54Q2dyUFZCOENMTjRGT3hJUndBTzRUcVFRR01aWjQxSzdoVFVheGRvSERnbVRJT29UU3hBaHd1MkdCaURrZFd3UHg3UnlWU1hJWUV1eDVsdkZieVczLWtxdXRabGpHenlUcmNqMDlvYTA2SlJ6QWttWjFpQ3k0MzB2TnFrSnRQelBlQThicW5vNjVKSXh2Qy1IOFB6UmpYWUpFUdIBwwFBVV95cUxNZy04Rk04N2pjd3RqWjlTQ25vMFo4bmltaHpock9LVl8yMTh6ZDVWb1pZZHd4eHRMdDFCTW9MbVZ5a1JXNlMzcDBWYjNrMUpHQ09EN0s2bDFCMGxsY2thX2NNc3h6OWNIUHk1dVdDblVUWkdUQl82Y29kUEhSenIwZ2xmNzVPMEJEbkpsbUpDS3dZXzhEdi1rRFdBbjc0MzRVbFIxbU5IQ2FySVFJLWdyWkRCSUNCd2F6U1JWODZfT2N6UHc?oc=5",
+"source": "newindianexpress.com",
+"published": "2026-09-25T07:04:22+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "af2e7f287cae3711",
 "title": "Smytten brings product trials to Wipro Bengaluru Marathon 2026",
@@ -1334,6 +1398,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fb4da1f3b6aade92",
+"title": "Kotak Mahindra Bank vs IndusInd Bank vs Federal Bank: Comparison",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGk4Y0w5d2xfSDFySUtPbl9fWk16aVFRNDF5VV9saFdZV1k0emo5VE45OVdYcDJjV2N3WlAxMVB2S2xGMzVrOFVoaW81RFFnVThfM3dRY3Z5Znlsc2dhNnlhWXF5QXBtZV9RUnN0VmM3YnMwcThoY3U0ZDd6cjBtb3RLbw?oc=5",
+"source": "Univest",
+"published": "2026-09-25T04:25:00+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c1e32bb7f85012b9",
 "title": "IRDAI’s EoM reset: LIC, SBI Life Insurance, New India Assurance within proposed caps; private insurers face wider gap",
 "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMlYxU192eGF4U2pZS2dsTjVySV8zcmlRbnFEZ1BTRW1yam5ySGxFVEpJblF4MTRNMVc3VnZOLTVfVHU2cTR0dWJKeWlPTlZCNVFQTUQxWnh4MGFiWWplS0d2Rlp6T012UVpuaE1kWkQwTXZQWjVKVDRHeXpXSXB4LUZLZDJxOTVfNE04Qk9DVVZrbGFZRUVNbGZvQWRTblpBVkFLOXp3cFN3VkkyQ1o4TWxRTU82dkVHMkxRb1oyN0dIVk1rLThYSmZoUHZhVU9VUzhPN3pRb18yVmh5d3k0ZlI4QmJZZXVuSEFmZEJIZ2VYYU9iRXVBSG4yRV9SYkU?oc=5",
@@ -1736,6 +1816,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ee6310b8d29c8d01",
+"title": "M&M Share Price Live Updates: M&M's Current Market Price",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-25-sep-2026/liveblog/134474231.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:20:24+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "dd297755fa1400bd",
 "title": "Axis Bank Share Price Live Updates: Axis Bank Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-25-sep-2026/liveblog/134474189.cms",
@@ -1790,6 +1886,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T03:11:06+00:00",
 "first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "08643ace7ed4150b",
+"title": "Wipro Share Price Live Updates: Wipro's Stock Performance Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134474138.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:11:06+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
 "symbols": [
 "WIPRO"
 ],
@@ -1976,6 +2088,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "28739cbad49ccf04",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Recent Market Activity",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-25-sep-2026/liveblog/134473863.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:00:20+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4a39f53a9582e511",
 "title": "Coal India Share Price Live Updates: Coal India Market Performance",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-updates-25-sep-2026/liveblog/134473855.cms",
@@ -2014,6 +2142,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:57:51+00:00",
 "first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cc874870969719d1",
+"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Daily Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-25-sep-2026/liveblog/134473820.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:57:51+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -3158,6 +3302,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "32dc1a557cb1b922",
+"title": "HDFC Bank Limited (HDB) stock price, news, quote and history",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUUVudTU3cTVXcDVNalo5YUp2Z3ZvY1EzcWNUR2Zqb2RQbnA1b1o4RWJid003eXQyZ0YwRnJvT2VaYWZZb05KVl9rYmZnSjZX?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": "2026-09-24T20:57:41+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4741,6 +4901,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ba3d6c5170b3bd59",
+"title": "Axis Bank Engages 15 Global Institutional Investors at CLSA 33rd Investors Forum 2026 in Hong Kong",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTms4Y29RV2tHcy1STTdRelR2Z09KMFVYdUdZTXppRlc3MFlKU0Vrczk2aVhOTmdHU2FvVnBZdldFZnlvMmNvNHVvOTFReHNRdG1Rc2pGV09KN1p3Q2RHWmViZGNTYXUwVzlmUWtJcS11NV91UXp1TmhfUGNnYWE3dEpzc2VHY1B0aXl6QWFjT3o0emctNHRWcHRPbTk4YlBhODdzZGdUbU9mcWcyWERHb0d2dVVYd2JSS2VuUGhMQTNEZEkyLWZZUWVqYkc2Umo2Wmx2QWdrZFp5a21Ra2c?oc=5",
+"source": "Kalkine Media",
+"published": "2026-09-24T14:01:08+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8037,6 +8213,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b3c09b66d85ade8c",
+"title": "Maruti Suzuki Ertiga On Road Price Edakkara Sep 2026 - ₹10.79L",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb09Gajl5WEcxTjNBVDl1OXg0TTJDTzRjMmZtenFQUGNkcUI0YWdNdUdmZFJwUk1MUGZBN1NpeGw2Q242RDBqWUFEM0tIZGVNNW9mQXR5MEZkbXVtcmd4aUN0bXpVYjZhcXhIME40bHpMYzJDRXg3dUdHcmxCMlE4Sg?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-24T08:48:06+00:00",
+"first_seen": "2026-09-25T07:22:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
