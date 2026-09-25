@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T19:28:23+00:00",
+"updated": "2026-09-25T19:43:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -495,6 +495,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d3b41954c2e887b2",
+"title": "Adani Airports Raises $1 Billion to Support Expansion, Ground Handling Growth",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNzYxU3RUc1VJNW1qMWJqNURiWE1mSl9hdW9mNUh4eUxMYmNuZTFGS3puOXBmOVhOTmVkN1hfVllhQklWM3I0VnUtNU11bFJkaU93NUZqSjY4OFUzV1JudnM4ZW5pVVQ1VVFPdWFGRmMyUU9FRGJ4ZUk2NV9vWElRTnplbElzTUlOVXMxTFpNT1I3aTFic3dremd0WlZ1S0JfZTAzWldXdHdjdHhZRnl6ZVhSQnRpNi1PdGNRV2RMbW0wbGpEd21HaFJCUF9EcFBMSzhoQ0JDZzZpSkE1WlRXSmxVN2x2cXdhTE1nMk5ZQXE?oc=5",
+"source": "Aviation Pros",
+"published": "2026-09-25T18:44:39+00:00",
+"first_seen": "2026-09-25T19:43:22+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5b7d2e43105612e7",
 "title": "Maruti starts green hydrogen pilot at Manesar plant",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWJSV1BJTlFuOFEtWkppT195aEY5d1FGYjZrT2pyU3hpc1VCa2NTUGFlUENGYVZPWm9SZWFKMGd1bFNSZ1FZMks2dmktc0h4YXVPMmJTUG9COGVTTm9zRXd6YnRRSFJrZmU2NnlGT3YwVHZsQUZWckxxbUFQWUNYNnFUamlkUGJOM0U2Mmh5UlRoaDlYWGh6SU1MemJUOFZ4UFdGQ2Jvc2dLbGo0X1E2UDE1QjhNZ2RNeWtBT0ZJZFdJOGJS0gHKAUFVX3lxTFA0OEs1WU41dkRUbkxjWTRLS0RHNl8wczNScS1TMnlLOC1FdDJCeGZqUXBKZ3o1TjZWM0gtMS1HekhIR0w4VWVpZHhILXBxeDYzWHFRZjJJeW55MW43ZUVaMXZoSmlYTkdQYVd3bGlOMWdnUS03WEtrcGJwU1VlMjVsSGE0aEZJdXBxUXVZVWltdkg2bWxCRVpzSDd3M1h3dExQdUdZTHJ6R2RTT1piQnNLRHhsbjhlVGlmVHhjcU96Qk11M0syZUlZbUE?oc=5",
@@ -640,6 +656,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bfa1a3f1716b3557",
+"title": "Maruti Suzuki Dzire Front Logo Image – Dzire Photos in India",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kUHZnVnNpcXQwRXVIRWxMWVBLb1AzT1BBZUNxUF9BRUUzNFJwSzNRbVlPaTc5YU53aExfaW5XM0ZpZDJtbDF3a000anMwbkoxMkRtVzVyMVVsM3hZa2JqcHRJRXlvTW5ISk5PU2QtVTVad1dKTFhZbEZYdw?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T17:57:50+00:00",
+"first_seen": "2026-09-25T19:43:22+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5916,6 +5948,25 @@
 "groups": [
 "HDFC",
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b1c0d6cce65856ee",
+"title": "Buy, Sell Or Hold: Bajaj Finance, Bajaj Finserv, Cholamandalam, Shriram Finance, Muthoot Finance — Finance Stocks",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pNMVFWeW9YQ2s3Qk5lTHFaS0FoMXNPX1VjZmg0MndlRWJ6N2V0SUNrR3hzNUVxR193M0ozZzFaaTZfSXh4Y2Z5emYxSk55STN0Y3B1QndISG41bWxGUnlRZFcwOW90OG54N201QXd6eVU4M1BPdFRMdkxhZ0wtYTdCMGg3U2RxQjloYUR0YlNSRi1UVGltejkwekpVNXpwWk8zbk9iWno5Zw?oc=5",
+"source": "Univest",
+"published": "2026-09-25T05:11:00+00:00",
+"first_seen": "2026-09-25T19:43:22+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE",
+"SHRIRAMFIN"
+],
+"groups": [
+"Bajaj",
+"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
