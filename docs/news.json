@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T19:15:59+00:00",
+"updated": "2026-09-25T19:28:23+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f5edca4951b75575",
+"title": "NTPC pays final dividend of Rs 3,393.83 cr for FY26",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1hiRjBVYk0xaC1oNUI2Wjl1dmVlRUZqNEI1NVlyWGVieHIya19RbVl4R2wtU011YU5fcEF4UUpiNkUwQ21CWWdYcnlQdHVYTkdncmpQVmpGSFFaU2pMZzc4dVhGM3M5MW1UNERPSlZPNXMzNDd6ZWZnclRZWnlzUVZRNThNSzh3bG9RUGpBb0RGc2lmQ2pz0gGcAUFVX3lxTE83X0hhMzdUSlRPczltX180c0lIYWxHTm5GVXQ5WFZPVFhvR3VkQ3hqREItdTRqTktjWG5pZXlLRTBYb3kyUlRYRjJsb1NkN1duNzREZWpBZ2l3YXlsbFNjQi15TlltM1c1d2FDenowNFhINWVTU2RZd2d2NGh3NnkwRXZPQ2J1Nm1PLTdrbXVjcjg1SDRwOG51a2o1bQ?oc=5",
+"source": "MillenniumPost",
+"published": "2026-09-25T19:17:24+00:00",
+"first_seen": "2026-09-25T19:28:23+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
 {
 "id": "dcfa9e2e05206098",
 "title": "Tennessee's Trent Grindlinger Could be a Big Riser in the 2027 MLB Draft",
