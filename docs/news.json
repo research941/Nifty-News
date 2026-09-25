@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T05:50:04+00:00",
+"updated": "2026-09-25T05:59:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "3a23f41e7a52f47d",
+"title": "InterGlobe Aviation stock reports Q1 loss as revenue rises",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWZBUTdlVlVOS1RjczNCb1VvWi1JNU93QS1iNndSdGU5YXh1eG1ZQ2VDWVpRUk5iR0NsblAwb3dFR0VhVkFCTEE0TFZXS09rQU1YZ3dhVFhOVGl4b29xMXV1V24wTzNkMWhrTGM1d203Mld0V0JJS3A2NWZrOGxUQXk4dVFxRlhEM1RTTnNwYkI1RmFBcTIzVGt5d1JzQ3ZZRDJsb1ozamRtQUo2b3Y5VVlPOGVfZHg5?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T05:53:45+00:00",
+"first_seen": "2026-09-25T05:59:09+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8ab5f0d0dc914a4d",
+"title": "NTPC Holds Swachhata Hi Sewa 2026 Event with Sports & Tree Plantation in Noida",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUcwTm1OWmNVU2FTcUtiTkpITVRscmMtb2I2cGhzdFFkcllrek80S1dwSnBCZU9lNVExVVMwbmxoNHYzYVp1Vm1aSUJJSkRCcklNQlRKaFVCZkZLYnlZbU1SUUhuVmtTc0NqN1hqMFlfUzFxSGRvUWhpc0llME5zVjZMcmE2OWlOZjlpZWZveWpqc0hlbzQxVnc0SkdObEZsaG9Kdk1kTXZ2VFdqV1hpbg?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T05:51:00+00:00",
+"first_seen": "2026-09-25T05:59:09+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "de847ebbb734ad8d",
 "title": "BEL CMD Manoj Jain Named Electronics Man of the Year",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckpkcVNFc1JRTTFyN0l3YzFFTnNvdG9mRkg5QmVXaW4zWlV6Zm5IRmVVUTV3cW9CbElTRHg3eDV4elFLdENDWkpzSHR2UkRMVjAxNk9pdVBVV05sMnd6VGc3dU1WYnlvYl9RazJNdWl3RnFPR05XdVVJYUFKaXZoNktESmo4NXAtVmljY2ZmVV8?oc=5",
@@ -456,6 +490,25 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e248742275f2898e",
+"title": "SBI Life, Max Fin, HDFC Life, LIC share price targets: IRDAI may need to revisit proposed cap, says Systematix",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaVN2dFB6cDhGejFjUDAtc1pod1NobGx6WE40M29nX1diVXRIbml4WEhmekJPcEpaNGwzaEZiMW9nUlQ4T0dWcjh5NW1BRWhRdWplUHFIT29XS1hmMndUcHVhYmdSSm9yckcxM2NTUjBVZGlvaXhoNFhfSF9ZcVBrekVBN1lYMVV1QnVneVdGa204UWNnYWltbGtwV29laVBLZUJWdENLWExzd3F4aGJNZVNTYllYak1JZWZOdlBaLUpxOHphRmVBaHk4VWRESnlLR2t6aFJ1aGFVT0xIbW9uVy1rYjM3NUJOUDk5YXZTcUt3V1pUc2U2c1ZFQzIxczJCVFVn0gGIAkFVX3lxTE0wa1pKblFPNUl4dF9jN0RLN3BvbkFoTFM5eVpINW5RVjY4WFVPYWpLYTVpdzBTSzVtbXp4Q1VCeGwxUzNDVFpwSTIwZHdNREVLbkdYU29qX2dSVkc5WGdpMHRPRXFPaUJOX3NYMnlSaGtHTkk0REVZYUp6WHR0M0p2a0N4NFV2cTJDVjJPQ1dRZmYyc0FMckU0V0xsVTlSQjBSZk1UMEVJSk5fLTJ2WDV3VEFfN180ZGd3TUU1QjFnZjVobTEyYkMwMEpHbjJCd3FjbFlSQzIxeHFwT2FldGJXb3NsSENjaXJMVWF4X3ZGWUZtZk9DQllJV2Z4aUwzM29KX0Z4alk4TA?oc=5",
+"source": "businesstoday.in",
+"published": "2026-09-25T05:38:23+00:00",
+"first_seen": "2026-09-25T05:59:09+00:00",
+"symbols": [
+"HDFCLIFE",
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1181,6 +1234,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cfcde482dfd543de",
+"title": "Eicher Motors Share Price Live Updates: Eicher Motors Current Market Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134474143.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:11:22+00:00",
+"first_seen": "2026-09-25T05:59:09+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8829,6 +8898,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c4823951dc3ee934",
+"title": "Maruti Suzuki Launches Green Hydrogen Plant at Manesar",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjZBd0thZEVvcklUQWJoWTVraFJOUzFYZGFzQ0hrc3V4aDBZZzl2eXVGU3ZSU1VDUXRKODlsbldfU29NZGJ0RkRmOEpGY0hHOGpnVzdlTG14NjlCeFlnV1hVWGRMU1JBZFdRMmU3Wktua3pnVUZKNkZPTjVkR1VWVWItdHR2MEVnVHozWkJiUDVpeFlvLUJfNzJ0QWVHR240M252T0VYQ1V1dw?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-24T06:57:25+00:00",
+"first_seen": "2026-09-25T05:59:09+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
