@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T03:24:48+00:00",
+"updated": "2026-09-25T03:38:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1229,6 +1229,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "0e3fc22da108c858",
+"title": "HDFC Bank Faces Whistleblower Concerns and RBI Issues Amid Senior Management Exits",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXp0TU9WVjFMaXdhN2tnOC14LUNaNkkwN3ltYzZRbDdDb3pWcmxRcWUtQnNjNUlXeF9vUFZaWEtnQUVkRFF1eUpJUm9JVTBaN3lwYmQ4STdnT3lXWEhZeDlGWWk2ZGF6QVh2b0hISk9rMzF5QkNhcEJLaWpHN0l1S2RZVGUtQlFWVjZzcnVRbTVkYjZMN3NLcjRIRk0wZWhHQ3pWeHBoNy1ncUlENVpqR3lVVDJvSzB4X0ZPMkZNNUkxVXNMUWVPWGJoakRsNjZRRFE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T19:34:39+00:00",
+"first_seen": "2026-09-25T03:38:33+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0891b254d173e13e",
 "title": "Gandhinagar Court Grants Regular Bail To Journalist Ravi Nair In The Adani Defamation Case",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkx4SzFza0pScU5NZ2x0cmtEYU01blNFdHlEck16aFZVMVdpRV9CS1ROX0NRMmxNMXduaDRtejFxT0NhVWc0ZlBzTUg1bjh0WVJOQnUzWi1pdE1YaXlnVkVoNkFyNGYxZ2ZvVXVZaS10Y1JZYTRYdmc3RGZQSG1LVEJFcUJlQkNQbHNhWU40aS1WMFllNnlDZG1FNGRxZVEzRzA5TTcwVERIUHQ1UkE?oc=5",
@@ -1931,6 +1949,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "454d826935ce430a",
+"title": "Upasana Kamineni to assume charge of director, projects at Apollo Hospitals",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRiZ0RFQ1VCQUEteHZfSFJEclQwLWlBVzZpTl8zZnVlUGNISy1wX25xd3lMcUVGY0h1YUR3RkpBUThkV1UyalRwWGZSRERnSVlqemRmOFdVX1NxdE93cjlENVo2THNXdllUd3BIOUg5QXRxQWZkZ1ZjYkdpVWNybGV5WFRxcXNDLTdQaDNQcmExT01rSFhuUGM0WmF1alRoZTdjbw?oc=5",
+"source": "Medical Buyer",
+"published": "2026-09-24T15:39:22+00:00",
+"first_seen": "2026-09-25T03:38:33+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3198,6 +3232,22 @@
 "sentiment": "positive"
 },
 {
+"id": "3606e58766b97020",
+"title": "SBI Share Price - Live NSE: SBIN Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPa0lHTFVCTVBxWVRmVXR6cE5FMDhDc25ublZmbVllcFgyMU0wZF9NZmdZQWVjQmJrd0tPSFN2OUdVRnpfVVBWdDFCMmRPSkZFc1R4cFIyOGdMSmdtNThoam1zNGN6WnFKbGc?oc=5",
+"source": "Upstox",
+"published": "2026-09-24T12:33:54+00:00",
+"first_seen": "2026-09-25T03:38:33+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "54bdd9734252bb3c",
 "title": "Maruti Suzuki Commissions 300kW Green Hydrogen Plant in Manesar: Key Details",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlNHWWI4MjVRS2FpMW9QMzd2MGVPWWE0cDF1UEhXYmhxOUE2QVphZTFWTUJCaGRENWlSS3BrZnlJbzBycVBuc29DcUhScEl2dG44akNkNkVHdnh4R3R0Tk9XYllCdTBTcnJ6RlpHNVA2Q2JSR1ZoeXYwNmlQOW5fNFdpWnl4OXVFZ2M4TWhGNVdLRWlhb3Y2VHhIc04zS0pTX1dPZVZEM1U0c21nOVJBcXVmZmRRM0R6N2tUc3pZMkJ5NVo1MkHSAcsBQVVfeXFMTkZpWmdRdmZ3Y2tvTVhBNm83SkpqeG1sZWhfaWJ5QVdQT0RDbkU0UlJ3TjYzajBtM3dxX3pubDEtTFhvM0RhOVBCcnJQcG1SQWFkQVBjTzlyOXJDUTc5ZnpWY20wTkU0T2VQaHZzVHRxOXdVVGowNFFSeFRRdkNUX2d0OG5WbEV3QU83V2dkcDJlNmlkb3g5eTlJaExjMkJsWUhEUjM0NWdFVGp3cHY3SmUxY2lxVFp2MXlvbFRXSzk4NmJyXzZDZVB6NTA?oc=5",
@@ -4207,6 +4257,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f13cedabca23ef56",
+"title": "Tata Consultancy Services slides Thursday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMVBUNGplWElhdlE3TEhYSExxNU9IekJKZTlrM1NpUnE5Y09QdTF2b2plMWdxOXY5OGRTTHFNYU5WQlVKbVJ4VjFuU1ZrSklhaGpLa2l2d0pZaHZHbHdzTkhuZGk3Zl9OQ19VazBGUmVjTndvT1h2T0Jna0t0cURXZUI1R1pacHg0dnpNendrUm9QaHJxMl9zTGoyQ01rUk5rdjExS0dHNVp5MldaWVVvVTM2R0daR3J5MUJnQ1llVGFnd2ZCLVdMbDFCZlZ6NWZCY2FjUVozWVJ0V2c?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-24T10:33:00+00:00",
+"first_seen": "2026-09-25T03:38:33+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
