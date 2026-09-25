@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T02:43:59+00:00",
+"updated": "2026-09-25T02:56:23+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -538,6 +538,24 @@
 "groups": [
 "Finance",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fad44f6154a8c52e",
+"title": "L&T Finance, Axis Bank, Ujjivan, AU Bank face insurance fee income pressure from IRDAI reforms",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSV9VNmtoeTgyNHQ3U2ZDVERkQzRBOHZpbTZvOFhQeGF5TnNLN28xY2w0YVJLcnA1cDFwSU9LTXhoMklGTjdmUnhERF9zTmZ4eXFGdEdjdmhSbEI0Y0VDaGdNdnFXN2ExaThhcDlGSnZ3eXJ5WWFUTDBoWFJnWHExdEJhNWQ0cGtoZ0ZzcGpxd0tqcFI3bVNEbUlRQlpRTjZ6dzdwRmo0ekFfWnF6Vk1GSmlEQmcwcHRWcTVpSDJtVkhLdjVnRGtUdW1Kc1BJRGNKZ05abmpfRU1UcVlQYnM5OFZUNXpaUdIB6wFBVV95cUxQUm45WGlFZFAtVWY1NGJBZ1d6Q3hTci11ekpiQW5kVF9WMnhGYml0UWdPSFRLNjhpcGkySXNsdVlIRWtaMF93c2xsNTBTWDk5V1dtX296cGd0SUUzOXBTdFZIX1ZDYjNseVBZeG5kLW9RN0gwQmZnLVZIbWhPbUtId3M0MG8yTXNqa1Fwb0dVeGZqdG13WE4yTkJXb09WU2xsOTBlLWdKdUxUN1dEVjRCaG4zaWs4amxKMTJsMWJmQ3JVU05vWkhnaDZOT283NFRVZW5uZVhxTlh5bnR5VWpLeWZuYzlEa0M5aFZN?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-09-25T01:30:00+00:00",
+"first_seen": "2026-09-25T02:56:23+00:00",
+"symbols": [
+"AXISBANK",
+"LT"
+],
+"groups": [
+"Banks",
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1250,6 +1268,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d0de7903bdb8324f",
+"title": "Mahindra & Mahindra attends investor meets in Hong Kong, Mumbai",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXNyZk1MMVhpUlhma1A1TGh6M1dnTFNlTWo4UHNybUNjUWNuV1VncGRfZXp4ZWFKVjhac0FqNGV5Wm5ZalIwRjZGcXV4eElTNldUVHc4YVFyQjJtLWQ0Q2JjcmFRazV1ZlFwRHhvcFhreWZQWVhJM1FsSjlxMUpuWWg2ZzQ3Z2k2OXFoOUxJclBxY2h2Y2dVNHlSdWZUTDU5T2twUkpCODJfTDVYZzd4c1FmbkJVdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T18:10:52+00:00",
+"first_seen": "2026-09-25T02:56:23+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6057,6 +6091,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a14c8ed708b75f1f",
+"title": "Airtel Africa Plans London IPO For Mobile Money Subsidiary",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWt0R0dWbWpiT09FZk05MWEtNXBPU245QzROV2pVOVpXMGJ4MVhlSEhaN2FzSVdhVGF0cW13c0x0MTk2VE9fRlpnMTdOVUFvRVVJY2haMUw4cktFR3YzSGtDSWtHRTNnQ1AxMjQxNFh4WmIzc3lmcHBmZ0lWUDJsbGs0Q2tFbHVjUHJkS0JPVnRwdWFoT2Jz?oc=5",
+"source": "streamlinefeed.co.ke",
+"published": "2026-09-24T07:46:18+00:00",
+"first_seen": "2026-09-25T02:56:23+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
