@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T16:19:45+00:00",
+"updated": "2026-09-25T16:34:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "f349300a43d454a0",
+"title": "SignatureGlobal subsidiaries issue ₹100 crore guarantee to ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW1GVGcwSTZJLXhORmtveFZNNUduN3dBWXhnZDJiOC1xOU11T3djNkIwT2kyQTI1SVN1Mk9QNTN3RTVlLTBRMmtFdFNNa1p6SmtycFVRR0ZFNklUWUx2Ui1la2lMX3F1TklSQkl3TmRUN0sycG9NMVhub0g3TnBoRHlSa0RYbFllc2U3ZlFYNGlWRUpsRVdVejZielhLeFI2dzFpMmZhN3lrR0VHamlwM21aNFB2R3hzRGx1b2dIWQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T16:28:46+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0aa2d79863e5613d",
+"title": "CSIR-NIIST and Tata Consumer Products Ltd to establish Centre of Excellence for Food Fortification in Thiruvananthapuram",
+"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRmFGck92SUxuak1BVGd2TVNiSk9FSDJSLUU0YXRHLXVQSTk5NERwNnJ6dGxKWUVhUFlpWEx0dllRbGJMeDdiWEhUMFRTVDRKeXZvYmd6d3ctQVJBSWpTbVhRaVd1bWNmVTJ6NnRHNEZDN2RnX05aVFRUQzNlTEszQzhMZnZJdUYzQ2gtOUlWSnVITDg2eG8wSEY4bjhpNkxLaGx1VFB1aWMwSnQwTFdVTjdqdHhfa0d0NEJtWERNNk5MYUNlWTFjeExZTHRQeE93WmxlTkY5Tzkza3lEWS1ZNVpORDhVaVVGSVlLV2RScTJjbVgtSlRQSkFMTmtNZ05jcGVEQ1htMUl4M0VRTGF2aUR1Z1HSAZsCQVVfeXFMTUV5UWtfQldsY3hNRllTY1BwM0d4b1pIUDcxYnpIak5uRUo4VkptTWFOemdfbWhsMjNpRFI1dG5Zc3NfOE4wajBjVEZEbFVMcWNmbUJEdHdWUy1MZ2UtWmZzU2o0bE9hOUozRG1GMVk3TGFqSzdhYzd5V2ozdEM2RnNuSzBMbjd2ZVBlV24zdVFUblFfX2E0OTNyb3N4VXhnYWV3aExUOGpHN2dFTkFEeE0tSWNKR2I2ZFR1RmhLbXd1RnU1OXd6d25ka2dmUXZ6bndKd0VZNVd1TzB0dTBPcGQ4MG1yX3gzRmRLTjN1dUdTX3hkWHgzanlYcEJybUNVTFRQdW9MSldJbGJiVy1MZVZmZVBnVzI5aFRmQQ?oc=5",
+"source": "The Hindu",
+"published": "2026-09-25T16:25:30+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f115b082c8b9ce18",
 "title": "Tata Steel, Dutch government extend green steel project deadline by 5 months",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVhWQWo2V0tuT1VOdVM5LXh0Yl9hM1VvZzM2UjJCVmp3YmIyU2psN1FBMXBQTnduTEtWWll2VFY5VkhUbWJETjExOVVpMmpVTGRMSkZXb2xYSFNTSjBEUVpPX0ExUWhxT3F5NGhsYzZ5STlxVDAxUzh5RG02em1yQTJqcnlEaWk5dVRHQVZYT0JYTEtYdk5XOFVqbEdyMUlKQnB5aG1TVUtlRzV2YW5RWkdUZHlHektBdGdwUlhwQnVpbmpab0lTNTBQcHlZdlRq?oc=5",
@@ -510,6 +542,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4f376aeb02167331",
+"title": "Adani vs Vedanta Case: NCLAT Rejects Vedanta Appeal, Clears Adani Enterprises’ JAL Takeover Plan",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmZKeHh5cGlNbmtFQzZaNnlGc0lHOW9IamFmTVJUZXZPemdzYTRXNUFhcjdMRklmMmNRSGc1aDlnY01nTlNLU2d2a2tKbzlZTFZrWWJNY0dqSjlReDB2WGNRTzhOaXNXVVJnTkw0a2pZMGwyaHQ3bmhMd0pNT0FnelVSSjlJc3Bla3pVYWVRSVVnWWVlWEpEdHlHZmlKWEtIX2JscFNzVTJkNngxbXhTU3Ywc1NLcWEtWTdvbDdaS2FlWmVoVnpHQURRWHRNNUJDd3prTA?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-25T15:30:49+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -604,6 +652,42 @@
 "sentiment": "neutral"
 },
 {
+"id": "5012d327f159cbff",
+"title": "Bajaj Finserv (NSE: BAJAJFINSV) Up 0.32% at ₹1,768.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFRwWDhqa0pmR0lVMHdkelVCT3FhbWxFUmJPS3N4SDlNcmotTk02QWo1bllQNl9TX0NLekwydUthaHhiV0JoYURqcHpYRTBDemg0TmZWeXlyTWJfX05HLUtqcWhoMkdlOF9qSUlBb2xDaERpdkV2cWY2TXY0U1BSRTRhVVJIWFhoWFBjTmdzcU5PVVhXWVk2R3RtZWZocmxqSHJlVmFvYl83anhqRFcydlltbDBoY0xCbXBSR0pFRGFHbzNrN2tVV193ZkI5elA2ZmVvUGFvVDNnQVNGSEE?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a3cfbe9415d0362f",
+"title": "Grasim Industries (NSE: GRASIM) Up 0.43% at ₹3,180.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHhZS1JqanlPZTI2ZmpQMkZjY254OHJYQlhjVjI0d0R2SUsyeGEzOXBBVE9mYWlRX19VRGF3Ti13WXozQURHRktZR19xOXoyWDRyUnR2NDZwT18yLXd3bzlXcW10T3lONHRYbGl1WlFsaXg0X1Q1RnQ5dU9BWXptSXhkNjdsNzFmVDZ6YmtFNFJUODlqUG1fRVVkMUJLZmh1UGZBdDlyV01qNWctTjFxWDBEeEdJcEJ1OXZ1VDlJSm1iNWxQQU1VckkzOUpBZm9zZUF3dE1YQQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "57dd873128b86865",
 "title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
@@ -667,6 +751,24 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "78a72d6cadaaa644",
+"title": "Axis Bank (NSE: AXISBANK) Up 2.09% at ₹1,211.3: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWTJFTXpGYmNyRl8yRWl0Nm1xOHdvU2VhUzYyZjZJYmJxaG1ONkNGLXRSZUxybnhQbDJ4SmpNdUYxeFdtUUtWQ3V0V2RtTFFyc3JWTXhITlFROTZpRkZNckJQZ2RLWkRMX2JIbC0xbE9ESjMzdjlnbEtkWHZkbGNvaWRLSXhpYW4zUmRCMGoybW9pYU02dDdfSHIyd0JhbjlVSE5ZcWRzYUFsQkMwRnk4azc3TVN3ZC13d2FuSUNKZW96WkJSSTlKdzJ5WkladnozSGduR3dFT0tjV04zamFJTlln?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [
 "Results"
@@ -2367,6 +2469,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "423a8ac1d7f5591a",
+"title": "ITC Hotels Stock Signals to Watch This Week",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vaXNtQlBVRTBMUUFzRFAxSF9wcTVLR0k5WjlqMlZKNFUzSnhnU2R2a0ZJQlAzOVBhRDdmWTFRck95ckc1aUtvaTBrMERUd3MwN0k4d2plb2FxMTBDdHdBeVhjSVFnbXc2c0x2dUJJaEZvdWVkVHVadFJNZkY?oc=5",
+"source": "univest.in",
+"published": "2026-09-25T10:12:00+00:00",
+"first_seen": "2026-09-25T16:34:38+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
