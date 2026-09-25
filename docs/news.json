@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T16:48:15+00:00",
+"updated": "2026-09-25T16:57:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "d0157c6dbb22b9ab",
+"title": "Kotak Mahindra Bank approves merger of two wholly owned subsidiaries",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjZORnZRMHFjSnlKMjFrZGh3Y3RFT0dudmkxc3ZPdnZwQlJGRk5ublR6Q2hscDRSYWkzWXFwTzFqYzc0UXIzSVhKUm1YSnJERkgwekc1ODgxcFUtSnVpQXZQajJuemRPN1dRQ1k0bmhjWGpCRF9wbTUtemVRLWI5Y3pRMEs0eUdhdVNnQzVGU3AwREhWSUxWR2xTSTAxR3V5dFlWS2ZnR0lFbWpmRkhuRGRRamx0Zmp1NHBqdHVvYw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T16:47:56+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "804ae10b889170b3",
+"title": "Coal India unit SECL selects banks for $800 million Mumbai IPO - Bloomberg",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzh4NXp6bWFnZGM0c1VnMmhYV1BkRFVJelI0X0trd1RzbFNUekNxdFFtYmZIeG9tUmJJenZUWjVodG9IWXRsVVJzOXVQX0FxdVZSSXEtanQ0UlZROFRyVTNnbENjQlMzWloxSVhNSTRlOHZqU0dDVXgyaWZMVFB5bjU0VkI5NExfeHk2OTVuU0tya0N3bnZHemphRGNYdjRyTHQ5eXBUU2FDQXVnVFVOd3pRUmU3ZjBNc25hYzhnTHkwNHBXTVZn?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-25T16:47:32+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9225fb9234eb6d52",
 "title": "Stoke-on-Trent boxer Nathan Heaney prepares for farewell",
 "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUU9hT0k2OGZaX01Fc3M1UDRnR2F3WThLVHpjV0FWXzVhc0hPZGxabTNja3pRNUJPMGVFdVJkTW1aR1FySTlOU2NqUDdGbzVzYlgzcW5pR3o?oc=5",
@@ -810,6 +846,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "062b7b2396c7efd3",
+"title": "Maruti Suzuki (NSE: MARUTI) Up 0.48% at ₹12,047: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONllEOUIyYVZFWU5RM20xRTVqSy1ERkNIbUIzQVFUUENpZ3pIcGJLZFhhdlBIUWtVdG93RmE0ZEV3ZGZJb1pGUUVaVzg5RFR3TXpJWTUzbzJNc0dYa3NYdk42SnpGNlVIYmdXMUl0b2oxT011cC1DMUhDN1JfOWtRZm9DYlVIaVVwdWZJZ3ZtSG9rTjktNU1PUk9mTTdqb2ZfUWVsakxUemVuZV82Z1lpbkVSUk1hV0I5MTVIZnUxV1c3T1RNd0JUeTNmNGxZTFdSeEE?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "57dd873128b86865",
 "title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
@@ -891,6 +945,42 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5b88b9935026ab30",
+"title": "HCL Technologies (NSE: HCLTECH) Up 1.33% at ₹1,260.1: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRU52dHJMVjUtcVBPOHE5V1plQXBLNEw5eFRwWVRTbTVneWlySGU1dkNBVldOZTdiWlRtUW01STJOYkItQ0RSWTBlZ1EzUkFuNWNrWEVPejhvMzRzd1htVl93QkhEVk16czJVZ0ZHSWdwWFhZbFZWNjR6R09sWkFhdWpIM3hxVHljcjk4OTJYSERzTllxUnZBQlRwMXFibEhjbF94SFpveEM2Sm9YdVpFY3c5WC1ZUVc5eTVXS0dmaGgzX2RQRjg2dW4wNHR6Q0VObURobFdUYzNudw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "28e671c1136654a1",
+"title": "Coal India (NSE: COALINDIA) Up 0.77% at ₹425.25: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVp5UUF1RUgwRWNjbW5kWm9uRFdhN3FfZVVaZmxVREJEc2duYkU5a3pLbUJnZk1PUl8tc2ZhUklRcEx4MmZkWV9GVndWdHlvMlY0cUFjOHlWcUQwWjhfbTk3UkxISi1yYi1fSUpmRklnVHZseFB4aDNiTnc3dk1uOC1jQTF5WG5HTXJqbTJ1RlhWZWpRcXVyMWNZbS13Y0NiNG4wbUxxOUpHZDRxQXZhV0VBRnF5RDQxYmVmNGp1YnVkOEVzSTdvOC14THVSNmRVWGhGaGx1ZHdoQQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [
 "Results"
@@ -1707,6 +1797,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "422f4132f19e5072",
+"title": "Lost Money on HDFC Bank Limited (HDB)? Contact Levi & Korsinsky Before October 13, 2026 to Join Class Action",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTREajI1c3hueXJrNEJvVUN4TUhrX0V1bHoxTG1DVFJJMkM5cVRWdUM3X2ZRTmhPR0Y2dlFhUUM3cWR3a1ZXYm1MSWtacUd4NFNmTFVSeVd2c0tMUDJmdm5zTkFqd1BWVE9HWTdWZTlNTG85bGh2NlVtbi0xcDdtTWZjTFR4VUxGNF9PT1lXbjRNR2QtQWxSMWQ1UEt4R0FyVk1NcVlQUi1hekZvalF2c3lUUTdZQVdHaFdVbFllalZ4N3pEVDlRaU50eHFuanVIOE5pNmdJMUhTVHdHT1JXenBVejU?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-09-25T12:26:52+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "651a3c5517f94835",
 "title": "how InvestingPro’s fair value warned of Sun Pharma Advanced’s 48% drop By Investing.com",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkRRRGVpRTh5N1hiUEdJRmRWRjlaZ1FZNU1hZnRiRXZWZDdxb21UNDY1NU5MMUxYN1BMTm9hRVQzZjBCVTFIREZURXAzMUdkdEUxNnkzdmtyMWlnZEd6UDZjdW9HcG1CUzc1Y2N0MUpVRXJiekZsbmJqY2tKR2o3QllaN0tyS2U1SkZjaG1IN0FnRlV0X2d5cWhibllZZDAzX0VsY0NpVl9MbGpZbTNGTF85SFZYVWJIVmFyMUhwNzd0eVk4aWc?oc=5",
@@ -2366,6 +2472,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c7ce78833ea72922",
+"title": "Tech Mahindra rallies Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjlRTnZyZ3NUSTFUdmNRNS1tYmg3YTk2ZUw0RUFoekJPdGs2ZVlteXdfRkhvY2JTVm1sRGNyVGhPS1N1cWdZMXdtLXJtLXAxcXJzMV9FVF82bXBfRjFORDZWb2ZyUXd4dzd1WHlERGNuSGZGTk4tYWZlbDBnQVAtT0tOemdRYnRLaHJ4YkN3S3RWUmtDRzFITjBQWEl5WDVvSnJabnlQcmFVdUZ5aS1PTTdlQ3hhOWk3anpuWno3d091clRKaUZjZV9n?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:33:00+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "caca35a3d3fbfb5e",
 "title": "Hindustan Unilever rallies Friday, outperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2VXU2F3ODVoeDIwMVVqTkdpNlRoalRFaFR3SERFbVZWWE5jS0ZOaHRUTGRhLTRuRHY1d1hyckc2bXVTTWIya0MwX3ZyenhWTzR4OEtjU1U0dTVBMzJPVUJDR180QnNPSmhuZlVLY0lQNEZZTkhmb2YxQ1hOZkhwb2RVdVRJay1tYi1SU0NUc2xkbWo5YXowSlZ1QUx1ZDNoR0dSS2tQalZHRUVKc2t6MGtSRUpqeHZzNzVkVzZ2Q1U1b3RlaWVubmRpYw?oc=5",
@@ -2412,6 +2534,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "8c160e04b148a55a",
+"title": "Nestle India rises Friday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2NZLUhLWlhETkhNS0ZkaHp3WFg2eVFjR0g3WWFhVmU4cG82eG5oc1FoUTZxTXpHQkw3Ml9PaDFQUnphUkdtTTN4d05jM1M0VV9PT3lYN2NXQ2wyU0M1YU5vZTNmN0lXU1g3UFp0NUszR1JyeEVYVUpZRTFnS203dzIzbl9iV0hqOHlCOEZVSDBGQWoyOHZnZnNSalV2dWlBbHIyV2VjYW5aS0dJdm9qd1VOalZzZlRSR1J1U09qVQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "3b0264de2ed80f6a",
@@ -8368,6 +8506,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "325a1438a11e5a02",
+"title": "Reliance Industries meets investors at BofA India Conference 2026",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOW5BTUtzMHNoR01SYUMydkFBekNEWUY0MTlMSUhFdEZlZTRYZlI1SUVNS2FFTkZjOU1zNHljV05vWGJxSUJDV1ZjUzVqRXk5ODRFMWluUFFsLWx5bHZPVHlFem1id1JnNDBqeFZnV01sY1NnZjhMdDhOUnBVTENxMW00eW5PUVpiWDVuQjNyLVZwdUJETnJwQnlOVG5tYVlOb3k0WXIxSUxiVEVWWkNUQ2IyYXBzenltcFdjdVpUSEkzZw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T20:46:58+00:00",
+"first_seen": "2026-09-25T16:57:08+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
