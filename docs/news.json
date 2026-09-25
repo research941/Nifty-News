@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T17:56:25+00:00",
+"updated": "2026-09-25T18:20:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "3872dfc3cb28a819",
+"title": "ICICI Bank receives ₹16.76 Cr GST show cause notice from West Bengal",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHNxV0hUbVJTT3lIclVYWHc5M2x1Tll3ZWlxM3pHOUluZjhXazZWcUwzSy0zcDNJUHRzenZzcEpBSklsd2Q4MEtXVjdSZDZUS1FHbTdtbEJFOC11WXBXTG9BTDFFN1ZiUVBvd3lyY1otN3puN2tycTFFRjd4U0tGWE9WNjNGUFNfSjM1RlZyWHBoOTdrdEMwbFJGc3NlNUZwZUJFaS1yTFlJRTNzQV9DV21lX3dSUjFUdVJz?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T18:15:03+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "16208df244ab6e4e",
+"title": "Centre notifies India’s first mega ports: Adani’s Mundra among four to get new status",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPa0MxWUphRDhsMkVfV2kyejB5ZkdzMWlTX1NCM1dLUm9oa2pRTHkwU3VoQnUtY3VEc3hYT1dfc0h3UC0zczhzc1ZoRW4ydXdwUGUza09pcTlwLTNidnpPRHZpYnd0azBuaUhnTENWTndqb2p6ZkhtQ3Q4Q3Z3ZlpoQmtsYkF0Mmlrd2ZhV2F2TGkwNFlOOXFYbC1kNHBlUzM0dTB4Sm1vRzhITWVQUTVwYnlNWlNTWWNuc3ctOHdRQTM1SnlhVEpTa3UzdHdJOEZidVl4Q2xBd3NaRmItZi1VSGRUNEJOc1VFdGFxWThxaTk1Qmo1RWNjZG9STDRIdlZRaGFFZVNrMlZyb3h6dWfSAZMCQVVfeXFMUFRXQWZ5NGloVXg2UFktQTl0OUVBQVBJcHRtRkM5MzFmWWV4LUpzOHF0OWNnQVVVdmsxYVdfaWN3ZWgwbE9GSFhCUzMxVnpNaFB4cUQ5b3Y2dHhiVks3UXpuZUhXUDJhcW9Qclltc3FTTktWdllaX2VUc09ZWkFydGZYZlI0a3YybmJZejczbk8yQ1B0MWdoSGpERXZvVXdpWGkyZlduV3JLZEVkQlpGb1czeEVLYlJ2NjNiX0NUaTJid2taTE0takhxLUU0YkFmUHgtaG5RV0o2MHJKYkdnR3Q3dkd0MjhyRUVrWUtnZW4wRVIwQ1F6UG5JNTY3SjA1T3RBOUJwQkpXMnY4TDJmX194cDg?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T18:10:45+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3e0fe4d1ad364bab",
+"title": "Adani firm gets approval for ₹1.04 trillion Odisha data centre park",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdUdPNnluNElzQjRYRUpuVDVfNFplakFqMkV6aThLSzZkdFRnSHlfN2M2dVhqbGdFc2FseGdGcWNTUDVEeDJsT2Y3N01KRTA1UjFOWFhnVjBzU1R2SFk1YzllclJUUW5BMUl1QkktQ2NxZW44QWlySFlzd1RkMUxmTWZUX2JKaV9pcjRXa2RDRTFMbUR2dHpCT2FXWC1RSGw0YnVmaW5tRi1WTlVpRTN2RVhqNy10T2NPaV9PQTZ1SDU5UzRTd1pibVRZMXJEQXBlUFhlUdIB1AFBVV95cUxNdUdPNnluNElzQjRYRUpuVDVfNFplakFqMkV6aThLSzZkdFRnSHlfN2M2dVhqbGdFc2FseGdGcWNTUDVEeDJsT2Y3N01KRTA1UjFOWFhnVjBzU1R2SFk1YzllclJUUW5BMUl1QkktQ2NxZW44QWlySFlzd1RkMUxmTWZUX2JKaV9pcjRXa2RDRTFMbUR2dHpCT2FXWC1RSGw0YnVmaW5tRi1WTlVpRTN2RVhqNy10T2NPaV9PQTZ1SDU5UzRTd1pibVRZMXJEQXBlUFhlUQ?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-25T18:00:33+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e3f1adb6fa9897ed",
+"title": "Axis Bank Mobile App (open by Axis Bank): Features and Functionality Review",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGJidVB1alFxR1F5clBFU3VjVzMzQno4QnJFSFhfei1NbGdxQjA3TFlZeHp4bkpqSGlzZWI1QjU4cm90eE8tNmdSbEhhQndLSGt1SF9EU3YyVm5uUkJPOU5McklrZ2tPcC1vbU9TTWFaYlBJM0lWeHBMVXBmWW5ESmxsaWRiWS1RRy1pSXpKUWlBQkJpNFFqd0s5VnB2Um0yb1pIVHEwUWdDOGNZdVdPNUtpUFEteThTdmdCNUJn?oc=5",
+"source": "The Tribune",
+"published": "2026-09-25T17:56:42+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "466baa19c9c65c49",
 "title": "13th edition of Wipro Bengaluru Marathon on September 27",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHZPNEJnZ0dDaEM5aml1QXRlMnVsR2hxNTNRaERBbjJxNmVWc01yRm10YmpBbVFwdVozWVZHYlhxUzJRN1ZnemU5U0FodERDYVpiZExrRVdSdG0xNkk2VEMzRk5EMEI5QkFsMkU2eFFCSEdZR0JIRlZaX2pLSTZ2S0Nid0pRMExfWDB0dkFOMVR6dEI5NUJsTlk4WmlqUWhWSTladnAyeXhCMFdJbmFQc2I4LWYtMS1fZENtckdEdEpOLXPSAcoBQVVfeXFMTm0wRTg5c2xaUnlPS3JmVHhuNGZtUVhSb0tPT0QtT1gxcldEellPeXVVdmZfb0cyUlhkRURfcW9ZcTNWWV90ck1Td2cyTV9NVGdYVUhoZVAxR3pXcHg0OTJnYl9UUnNDNnBNS3FlRXA0ZWs1QXdHSm1QUm1tZDJneVJqbXQwY19CVUV5U09HSFlXd1k1OVI1UzR5YU9ob3NXbm1VNEh2WTRDT2tNZDg0LUlaUFB3MUxuMUxScEFkNU9SQUhtemxhN3Uxdw?oc=5",
@@ -761,6 +827,25 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9a9bf8741d171f00",
+"title": "SBI Life (NSE: SBILIFE) Down 0.74% at ₹1,742.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1dPM3RGVndYV3h5aGttamtmWnRnSlNHUUkwTUJfMUw0anJtZDNFYWpBLVhQcC1uODl0OGJwVGdyZlJFV3ZDR0N1b3ZuTUNfQ0lQMmgtTlFOOG9RQ0ctSW8yNko3a0dFWU9uRmNnbzlFUXBjR21oeXdudnBJbEV1MV93SmU5ZXlWMVl6NUctRi1PVXM4Nk9aZDdlRkgxbWoyMm96NTJZZ081RjczUXFYUHpwWXdSZnJJNnVDTWRSYWMxN3BCbnJqZnN5OUdOdw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T15:31:00+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [
 "Results"
@@ -5369,6 +5454,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "23486d4d27ed3803",
+"title": "Tata Motors Weighs Price Hikes As Commodity Costs Bite",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlhjTHBvVEtnLU0zWUlxT3hNS0c0RDFacVhYRExONWs4MFhneVA4eXY3NGpsenY1VlBNYmhBalFPc0lnelNRSm1hdmxZd1pWWjFISjA3T3c1OWQ0OXZEbUJYak0tSzFzdUljMTNZanZKOTMxVXFZTXB2b3lybUlxN2REZlNtbGV5R0E4?oc=5",
+"source": "Finimize",
+"published": "2026-09-25T05:48:32+00:00",
+"first_seen": "2026-09-25T18:20:17+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
