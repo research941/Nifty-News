@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T18:35:05+00:00",
+"updated": "2026-09-25T18:47:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "5b7d2e43105612e7",
+"title": "Maruti starts green hydrogen pilot at Manesar plant",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWJSV1BJTlFuOFEtWkppT195aEY5d1FGYjZrT2pyU3hpc1VCa2NTUGFlUENGYVZPWm9SZWFKMGd1bFNSZ1FZMks2dmktc0h4YXVPMmJTUG9COGVTTm9zRXd6YnRRSFJrZmU2NnlGT3YwVHZsQUZWckxxbUFQWUNYNnFUamlkUGJOM0U2Mmh5UlRoaDlYWGh6SU1MemJUOFZ4UFdGQ2Jvc2dLbGo0X1E2UDE1QjhNZ2RNeWtBT0ZJZFdJOGJS0gHKAUFVX3lxTFA0OEs1WU41dkRUbkxjWTRLS0RHNl8wczNScS1TMnlLOC1FdDJCeGZqUXBKZ3o1TjZWM0gtMS1HekhIR0w4VWVpZHhILXBxeDYzWHFRZjJJeW55MW43ZUVaMXZoSmlYTkdQYVd3bGlOMWdnUS03WEtrcGJwU1VlMjVsSGE0aEZJdXBxUXVZVWltdkg2bWxCRVpzSDd3M1h3dExQdUdZTHJ6R2RTT1piQnNLRHhsbjhlVGlmVHhjcU96Qk11M0syZUlZbUE?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T18:33:00+00:00",
+"first_seen": "2026-09-25T18:47:54+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "ede4aa575753a4f7",
 "title": "HDFC Bank open on Sunday, September 27 ahead of three-day bank strike",
