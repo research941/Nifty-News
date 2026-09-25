@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T13:20:12+00:00",
+"updated": "2026-09-25T13:34:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "b49afa46b0d3edaa",
+"title": "CSIR NIIST And Tata Consumer Launch CEFIRT",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPclFYOF9wdl9VU1NrRlplNThZcllvX1hiM1BNWkNsaGdjU0FPMGhQbXlZR0F6NUZhYTU0Uk1hMG56aDY5TzVWMFVTalpicURiUHRVMUZ6dmVCemlFSERaYUFIMTc5MWlhX055ZUVBcUZkbGlFWlhsT0lwcEN1c0FxVzFoNUk4TnlYR2NxTlpPLXdVMUdQRldIb1BVampQUDRrak5DODV1UmFPeVBEa3FaZWdPb3VxTW5neFczSnUxblNINndNeElab04wOVYxa3hnRHZMTGdfaGxUV1cwcFRUMk5BRk1jZG9sV2tuNWhrZ3U?oc=5",
+"source": "Passionate In Marketing",
+"published": "2026-09-25T13:26:38+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "928d5f0d74b9032c",
+"title": "ONGC’s Tinku Sengupta Nishcal Wins Women Leadership Award at PIPE-TECH 2026",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU1qTVJMMmxSR2U4N3JqSWF2RWJ2MXFWNExvY0JaU2FSbzJJWWxiMnBVN3RGTkg2OWQ4SGRqeUo3Uk83MEVSdlpmODVmY2xPZzJoZzY1WEZ3TUFGUHRweFpzV1VDdWNNMGp1dkxjUEJsaFZSUlg1UUxVS2dPZHBfZFYwMk5ocThZT1lvWWR3Tko4dF90X3o4M2lJMFZOUTI4ZC1lY3JVMTg?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-25T13:26:00+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "67e4a6696dc6c137",
+"title": "Tata Steel and Dutch government push back sustainability deal deadline",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkZMNmRUM0tBTmIwVk9PNFRvVk9KMlp4U0RVb1ZOR2QzbVlTUnpnZXFheGE3ZDBKNDhaTUlqTldQMTlpVVJVbWhRUDhiNVhjUUhucnU4YzRiaGJMOG9LVC1oYnRXNnl2ckNHQTJHVklMZ2RwLU96YW1WTU4yTTB5WVM0MV9tRlMwVDNVS01xMjZ4TUZtMVBZLWxpQXk?oc=5",
+"source": "NL Times",
+"published": "2026-09-25T13:23:00+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e7244aaecf854355",
+"title": "Rolls-Royce Lands Philippine Airlines Trent Deal as EU Taps It to Lead Hybrid-Electric Research",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONDJBY0d0SFVUaFBNRGVCUXhENl9NSlhzaVNjQ0ZjUFJNQmdfNHBnMm94RDlBdkVIdy1XbE5CdnpKUm9NNDFuTEFpSFdvdGZXdWZ2UGhuR3VxMWZhOHlKVmtDbmVlc0lKY0tUc3RLNTRpZmZMbzFXU0Y4Tno2WmczVWxwSU5lSXhyWEdGWVRCeWVpZWVEbGV1YXNuRW1udlliQ2g1WVltb1UtOHlqSzA3eC1MbERoTnBSelc3c3NRM1hRYmNhU29TVGRRUXFpTGlqZUZCdmhJT0JBQQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-25T13:20:54+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0617863fa86a77b3",
 "title": "Smytten Collaborates with Wipro Bengaluru Marathon 2026 as Product Experience Partner",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlV3UDdvYWVfRVROUjJjeEd1emdUT2ExaVUzSjVLbTBWZHhRTVZ2azJwYWNybXNwYWhMdlZwUThxS1Bkb3M4cHhFWERYVDhVY3d1X2szbkZQRlVKU0thSzBBS1B2ejlTZ19uNVdGLUpfSmtIZVFnUWMwWXBjVTk4bGpGQ2FYWEhCLTIwOUlLVXB0dm11RFHSAZYBQVVfeXFMTVJVd1A3b2FlX0VUTlIyY3hHdXpnVE9hMWlVM0o1S20wVmR4UU1WdmsycGFjcm1zcGFoTHZWcFE4cUtQZG9zOHB4RVhEWFQ4VWN3dV9rM25GUEZVSlNLYUswQUtQdno5U2dfbjVXRi1KX0prSGVRZ1FjMFlwY1U5OGxqRkNhWFhIQi0yMDlJS1VwdHZtdURR?oc=5",
@@ -606,6 +674,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "769ce51ece436bd2",
+"title": "CSIR-NIIST, Tata Consumer Products to set up food fortification centre in Thiruvananthapuram",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVZBaktjVUdLbmgxY19VaTNqZVdiQUtnc1B6dlBIUUF5aGpfQkhNVXVpbm0tSm5ZQ0VsMVI2eV9xM1BQOWtUSWxqRlFmcjB0MkJCcWdUV3FXX1hNVTRTeFFHR0NsSHVESGdPU0NvejJQeXc3bjJjREdRSmhjNkZWTUhvbG5zUjQ1MGhWUTFSek9URGMxaFVrQ2N1X0RIQ0Y5T2ZyZWNFOVNwaUl5NmRRM1RjakpFRTlfVEdGbG5GQjFoY21u0gHKAUFVX3lxTE1RcllreXJ6YS1WZHVnWGowaDNLWUlfUXh6dE95WWVRRkVmeVNNalFFQWpYVEYxTUNJR21GcjdITHU0dGM0Qi1FUXlZc3pCZlE4NkdULTF2NFpFNXpTdmVWU3FZa0pMUmpWanVDdV9OMVNFVmhTM0tkVzJfYk1DSHpMYlFHaEJrUFBpTVZCbVpzVTlXNmJNVUZvb29mamRKMmluYjBWSGdLcTYtajFWVVJFa0JHeFpXY0ZkZ3RLRzlBb2FvYjJzSkRUdWc?oc=5",
+"source": "ThePrint",
+"published": "2026-09-25T12:48:37+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3686,6 +3770,24 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "888cb784ba4717c9",
+"title": "HDFC Bank shares trade flat ahead of Q2 results: What’s happening?",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEdQSHkzN1RrLUZSMUtVMTNocDZFZXVmUUktUWtDajFnRWpWWk1fY0t1b0VYMWo5RWVES2xzbTVsMHRycEdFNG9mY1FlYzkxbnc4WEI5Y1l6Ymp3UEY1Q3M0ekxfNFdSZ1lvd1NjOUg3aDBvMTdTem9vcW4wZWJrOHhCWTVtTlU1dEJ6em5fYWtraUtjeUJ3Z2s5REtQbmR4YTVodzY5ZVFEakNfa2p6UEZzZUJPaXFUM2tNVXlGZnpJaWc20gHLAUFVX3lxTE1TM3Bvc3VLXzBaZ2loTG56bzZDak1oR1Vta05FZldpWTFzOTc0Z0doZnI2VEJHS3FiM2JEQWU0c1lDQ3lyZlpsTlVnQk16UzI0NWV4RVM0MHlva09hMzZlUVRsMXBRbkFBekpBZ0dKZmhNcUFzWi1BSmJlZmlVRjFZTVZoOVpIRFlzRWgwWVY2ODVDVGlvM05uNWhmSk01b3QxdVZxVjRnVkI2LW1QRTF4Y0pCNl9CWDR6VUtHbXJGbGliNHhaQ3ZkSWRJ?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-25T05:33:33+00:00",
+"first_seen": "2026-09-25T13:34:03+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
