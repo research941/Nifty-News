@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T13:34:03+00:00",
+"updated": "2026-09-25T13:47:44+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -801,6 +801,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "dd0dadad3e8c11ca",
+"title": "Adani Enterprises gains 1% after ₹2,498 crore block deal | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYndES056TUJtRlJ2cXR0LUpRckdiM0p0VFNocVNLOTcxRFBZWTRyTHZJRDFwVWhKbTgydkdkN3ZnZlB2SkQ4MUhKd1VfZXBHZ2hVbTFjRUNDMS0zb3BSRXRVUnZzZkFmUk5mXzFNYkx3RXlCRTRfd1E2WE9TY1d4SGZrZWppN25HUC0yZ2N5cG5JQ2VUVlRJZ1dUd1dmTVB4aExVM3l30gGmAUFVX3lxTE5id0RLTnpNQm1GUnZxdHQtSlFyR2IzSnRUU2hxU0s5NzFEUFlZNHJMdklEMXBVaEptODJ2R2Q3dmdmUHZKRDgxSEp3VV9lcEdnaFVtMWNFQ0MxLTNvcFJFdFVSdnNmQWZSTmZfMU1iTHdFeUJFNF93UTZYT1NjV3hIZmtlamk3bkdQLTJnY3lwbklDZVRWVElnV1R3V2ZNUHhoTFUzeXc?oc=5",
+"source": "Inshorts",
+"published": "2026-09-25T12:10:54+00:00",
+"first_seen": "2026-09-25T13:47:44+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
+"sentiment": "positive"
 },
 {
 "id": "99d7133eae3af511",
@@ -3396,6 +3415,24 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "d48cc7bd29083dc3",
+"title": "Analysts pick Bank of Baroda, Coal India, Mankind Pharma, Dixon Technologies to buy; bearish on L&T, Pidilite",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaU5rMGprUG4tWnNUUWxHYi1NSHQyX19lY1V1UVhhNU50LXdIazMyTlcxTHRoOHVLQlVXWlVUVlhLWDVEUlFmSTJHNVRPaXRDZW9JVFhMNjVZS2lTdkdVZUdqczdndmFXNGcxWXF2dWxKbUZKQl80cEhhSnBnQ2I3RXpyWjdKWkFsX3pSblQ3Rm1DZk5HZjYtcUxMbEVOR1ZCZEptV3czRTVkQWVXXzdNYm5lemFLSkJ1eTd3aG8ycHlrdmJtQVpLdTdBZEZZZ1o4S3NXOGtNUmhZZDNuNkFoSy1RTjBTeW4w0gHuAUFVX3lxTFBkRHpGVWQtTmdnSGZDeW1jbHJRbDRVN3hzSUhQZjBxMGF3dTJjVE14cU1qNDJvMjFYd21MQjJpLVBYdVc0ZXdhUVFROUtYT2V0bjhrdGUzR2pLa1hsR3VFZ3J5dWpTSU1PRnN4Z18zMGJQSUJ4RFE1N19sTGFQRFpJV0cwMmotUzNyeUthY0JEVThuSTdvWHZhWTNYRTI0cmw5SHZuSFdLVVpaWXZHQmdrLVFHbUZIRktIenJyUUFHWENhX0NqMFpIaVd2Rmhvcm01eVk1N0hXZUlsSDVBUjRkV2lLc2VNTGt6aEdYRWc?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-25T06:32:27+00:00",
+"first_seen": "2026-09-25T13:47:44+00:00",
+"symbols": [
+"COALINDIA",
+"LT"
+],
+"groups": [
+"Infra",
+"PSU"
 ],
 "tags": [],
 "sentiment": "negative"
