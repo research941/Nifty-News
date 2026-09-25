@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T18:47:54+00:00",
+"updated": "2026-09-25T18:58:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -3036,6 +3036,22 @@
 "sentiment": "positive"
 },
 {
+"id": "55b5f790cbd84cd8",
+"title": "Tata Consultancy Services advances Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFF3bll2d0JURVJhc3EyeGliRTExek9wZFMwZ2dBbGlIMFJjMmJlWVBrcTZNN2RvcVVqNmZQV1BRMDE4UWxXQmFoRC1aUlE5MXpudGZXU2hwVTRjQTlKU3RJbVJEd3ZRLUZ0VS13cnpGekhDYlU1dzZuZkEzNkZmTTVRbUNUTEpSLVgxbzlSR21LcWwydGJHaHE0aFFNcXJKSGQzRDMxbzUtdzZpUXNxdk5scjFRMlRDd2QwQ1FObjZReEwyWmluZFFmTl9UcUtBNU1namNZcENKQkE?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:33:00+00:00",
+"first_seen": "2026-09-25T18:58:07+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "caca35a3d3fbfb5e",
 "title": "Hindustan Unilever rallies Friday, outperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2VXU2F3ODVoeDIwMVVqTkdpNlRoalRFaFR3SERFbVZWWE5jS0ZOaHRUTGRhLTRuRHY1d1hyckc2bXVTTWIya0MwX3ZyenhWTzR4OEtjU1U0dTVBMzJPVUJDR180QnNPSmhuZlVLY0lQNEZZTkhmb2YxQ1hOZkhwb2RVdVRJay1tYi1SU0NUc2xkbWo5YXowSlZ1QUx1ZDNoR0dSS2tQalZHRUVKc2t6MGtSRUpqeHZzNzVkVzZ2Q1U1b3RlaWVubmRpYw?oc=5",
@@ -3608,6 +3624,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1f67d4c63eb33d99",
+"title": "Asian Paints Share Price Today: Price Rise and Fundamentals",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEw2NFF5NVRlcktKM3ZHdHRNeWFNaUdranBJYmhDWGkydHlGZ1hVMzRKU1k3d0Jzc2dhMFFfdzUzMTBoZXg4cTRVSVQ5cE9NME5zMHVxdEVWNHkyY3c5N2FYM3puLTZ0M054MHRaYUw1RVRoR3U1NDUta0ZLNWI4T2R4Y0k2QQ?oc=5",
+"source": "Univest",
+"published": "2026-09-25T09:48:51+00:00",
+"first_seen": "2026-09-25T18:58:07+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "39b478a194bf769c",
