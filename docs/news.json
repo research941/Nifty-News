@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T15:56:02+00:00",
+"updated": "2026-09-25T16:19:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "f115b082c8b9ce18",
+"title": "Tata Steel, Dutch government extend green steel project deadline by 5 months",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVhWQWo2V0tuT1VOdVM5LXh0Yl9hM1VvZzM2UjJCVmp3YmIyU2psN1FBMXBQTnduTEtWWll2VFY5VkhUbWJETjExOVVpMmpVTGRMSkZXb2xYSFNTSjBEUVpPX0ExUWhxT3F5NGhsYzZ5STlxVDAxUzh5RG02em1yQTJqcnlEaWk5dVRHQVZYT0JYTEtYdk5XOFVqbEdyMUlKQnB5aG1TVUtlRzV2YW5RWkdUZHlHektBdGdwUlhwQnVpbmpab0lTNTBQcHlZdlRq?oc=5",
+"source": "Livemint",
+"published": "2026-09-25T16:06:03+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4972524fb2b37216",
+"title": "HDB ALERT: Hagens Berman, National Trial Attorneys, Encourages HDFC Bank Limited (NYSE: HDB) Investors to Contact its Legal Team Regarding Securities Fraud Class Action Lawsuit",
+"link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcHdldFRUTEtxelQzb2ltYzFqdDBzTmRONVpqUW1paF9TOF80Z3JKT3hGNG4wUGpxa3RfWkliX3lVR1p5MmdSUkx6QkpvZm1GbFhXc21oNnd4U1pCZ2o3WmZGNWpfOG5MUEhXMmpQak1TTzFhQ0lPNmhWdnNHN1kyd1pNWHNkeUN2WnhFVWgtdzh0Qll3VlFrSHB5WkwzMWo1N1Z4MDJ0RDFadXFSMUIxRGlqSnhZX2dHQmZpWFM4S3NZSzJqQVpFUV9TUGdrSWJaN2dtZE5zRnZ3a2ZvelllNVRhVGZuUUtoSmdJWklXUWY5WTNEZFZhMEVweUh2WDByc3FMOGFhTC1wYndvOC1GalExZm9SZWxsZTVLVFRzcnFScHFkSURJQTNsSldCMGhxV0JxVDJFdDNLT3lDV2lpeVBNQ0hRaXZ1UkE?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-25T16:04:00+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "6315b9d63c3df8b8",
+"title": "Detected 98.4B spam calls with AI-powered system over 2 years: Airtel",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOGd6MGJPalRrRjhhM3M0N2Jjd0oxNGJrdXRtOW95TGN1Q0NZeFBVcVFldUtTTHo2RmFfZTlSUms3eTBpQUJFMWZ3VGhYcWNvdF9fd3E1TGk4bXpLUk83SGxZbzhwMWhjazR4clRacG1jTnktZUd4bVc4dVQ2OFozaUtDcjUtSFB5SHdDdWNReXZQSS04LXQ0UFdEU1NvQVJVRmo3TWVYV2F6OUEyVmI5bDNKZDdpaHg0d3dQbUY4cjBCU2NGY1B0NUZpSjVKd0hfeWsxWUlfd2xqOUctSVHSAeMBQVVfeXFMUDNQQmYzc2hRRmwxSENyTTVPXzktMjNHdnExN0dUWXE5Z09qUEttSkY2OUZDbU9ua2Z3T2Fvb3EwVmIzQjVtWTg2ZXJXTjN6WURzUUtwNTVHWC1Xdm1sQ3paS3dlZUhUSmJmREdpa24xbkJCNzZHYlBOdktCQ1VvUGZrTXJkbGZkdXYxbWRaRzh0bVhnUWhma3NSZ2JKY3dDR1hSRnIwSzV2a3VnTXJzbGFCRFI1OVJUT3VHOFdLU0lLeEl3Zzg2WFZmaGdHc1F4NXprMld6WThNLTQ2c2l3dDJBdms?oc=5",
+"source": "The Times of India",
+"published": "2026-09-25T15:55:00+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cdd251106d542b17",
 "title": "Rashtriya Chemicals awards ₹797 crore ammonia plant revamp order to Larsen & Toubro",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEVJTk5LaUZ0bHl4b3U2RnA4UnRjaW42WWhERlZQYnFGOU03YkF3OC16MkhRZzBNWFhLcTBLLURlb1owWkM5dlVsUEZ3QXV5clBYUHhNOTdfRUt5UEtFTU9hdDhNNVVZTVlZNTZiRkRxeml4aUNVNktJZ2F5SDN6SjVRSmZDTnhrZ05VdlFkY0hMQzF6QmpLRGVqcV82dm1scDVxbmpUMHJjUXpJWUNKekZzZVJ6QS16SnhkQUhWX1c0YXVxQnVQVWJLSzRndDN2MEFkRkFPOGxRVF8zZXBNM2NzVjA1QdIB6wFBVV95cUxNb3N5RmZUMExBcmMyS204ZVgzOVFYa1NoYXptQjdtRzBKRlY0ZGZJQVFSek5uUW9ncFBIemo4QU5Rdlc4UURDLUJMRTdjRkY2ZHFyZWo4ZnlQVmJWNTBGVkljSDJwdzhINkRES2JzTTItel9ZcmIxVktDWGNSS1FMQlZreW9hY2F0eVhiQlZuNVVzOHNKd2ZyTlY5M3loXzYwcTFjZVpmdlNkQ20wbEtNNklicFo4ZktYRXkyWFBsUXJ4RVIwTlVfbGJCcG44VVIxa2dHTGxjenBZZ1prbmpXT2RFQ1FtZWcxWm40?oc=5",
@@ -536,6 +586,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "56b54c764845c32b",
+"title": "InterGlobe Aviation (NSE: INDIGO) Up 1.19% at ₹4,948.0: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDBMTEx5SkhBU1ZzY0gzbnA2ckdfOFlibVhfUUFMVG51Zk9hazhicE42YWFQQ1VwUWt6YUhBQ0RjakZtTzdwZWduV1Q2ZnJKUW9GUHBVbnZTWmhyNVJzczJBYkZHMkdNUFM2cG5tcVNsVVE3TC1JRFVmYW1XUU5ycnFhQjB1VUxTVHFDMjZEbUdjT0hXcVlqNy1yNm9LNGlUM1oyMmljNWFTNHljQkM3LVdYcmhfMjlBcFBuVk40M3lUWDNEakNJb1R4cUpwaFBvTHZV?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:16:00+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "57dd873128b86865",
 "title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
@@ -584,6 +652,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d74e42e01aac5c35",
+"title": "HDFC Bank (NSE: HDFCBANK) Up 1.26% at ₹738.10: EMA 51, RSI and Q1 Numbers",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3pQSVZXRFY3SnBLb0gtMEV2UmRxUjN5VGdvSWdTaGM5UTNaTEJCRjhSRDFRMmQzNEdjc2psZVB2dzNTLVZ2d05leWNsRWJwSlJBZW9UcUJwY01MQlk1QTBJNkRYc0hGd0dJRXIxVXRHOGx4U2tMNWNCMXphWHFHQmdwaWd4eW8xQU9qMGpRdGVIb1lQR3p5bkJnOXZvUDVmTjRqLVJXNWR1TFJLZFlmenE0S09LazhVWWxBUnFSc1BTWEMzOUIzTQ?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-25T15:12:00+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -818,6 +904,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "38e8e582a9f4d98d",
+"title": "Nationwide bank strike: SBI says no ATM transaction fee from Sep 28-30",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHluQUo0YXQxWnhYMWJTWGRQTEtzRzFBQjZCbkZ5SkE2WUFGdXNfVFhvSXMwTjhfNjJKOEtpaGVSZ0J1TjlZa3lxZnp4NzVrQkxyUzljbGhlOF9FYzQ1dGpVNG5ZTXE3enNWYTJkaEFZaWhjeGVnM2YzaXJSY3JZSVkwSXlVb1RhMkNMUnFOR3RsV2JjbUhQbjdaSzIyMHRpWUtrRXZUcTdoWlRiZmpyM285Zkt5Z2lpcTBCdGVWQmdQanRPdDAydlRYT1ZKUWxvdG95NtIB1AFBVV95cUxOOHluQUo0YXQxWnhYMWJTWGRQTEtzRzFBQjZCbkZ5SkE2WUFGdXNfVFhvSXMwTjhfNjJKOEtpaGVSZ0J1TjlZa3lxZnp4NzVrQkxyUzljbGhlOF9FYzQ1dGpVNG5ZTXE3enNWYTJkaEFZaWhjeGVnM2YzaXJSY3JZSVkwSXlVb1RhMkNMUnFOR3RsV2JjbUhQbjdaSzIyMHRpWUtrRXZUcTdoWlRiZmpyM285Zkt5Z2lpcTBCdGVWQmdQanRPdDAydlRYT1ZKUWxvdG95Ng?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-09-25T14:10:19+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1249,6 +1351,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "b5f8ed096dd5d565",
+"title": "Airtel’s AI flagged 98.4 billion spam calls in two years as telecom networks take on fraud",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNajgyS3pZWk5NWi1maUs2WDN2UFpUN3BJWlBsTFFZVTI2QkgyUXZEcTJrazNQOE1oWk5LUV9Ba0QySUJCRXJFdWdRVm43eUtEajQ2di1kai1TWkYxVjFra19FV25OQTVwa09uaEFCQkdCMzRPVkVEMUxrRUIwMm5WWV8wbmVic24tdzFRRmNqQ1BCSlF0NE94clRHanVXMkRWMU1mQ09EZVlYbTVBemRReXY1R242eGVCSWhGN3EyUllDOTB1cHJj0gHMAUFVX3lxTE1FYXZ6cnRsYXBtbTZ0SlR5Z0Y3NTBBMklwMGRGWmgzWG5nRHlvWExtWnVHY2ZwbDU0azhFaVNSalNnUFFvY1JNa2pPMWJFYnl0NXZWNWhRaWVxT0NqX1VFMVZIbDltNzZBN3RSTGFYTXNmQVJiSGRzLWJPeUxMMTEtX1VfYTJ0MzdNTC1CYmV3N2ROT0hSMzM4VUlXdHgzX3lFYzNmZksxX3RfV1p1REk2cWpVdUM5WHFiOVpucEZYX3Zhamc2V2VNWk4tbQ?oc=5",
+"source": "techlomedia.in",
+"published": "2026-09-25T12:42:06+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "406bbff69c2be693",
@@ -2400,6 +2518,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "95b5a181c51532ba",
+"title": "Asian Paints Plans ~3% Price Hike Starting November 1, 2026 to Offset Rising Costs",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEozT1VKRlVtWGxBNUoweE9YZkVLc3pERF9HQ3JPNWhydzBIVzhWNFEzTFpSNm5MQ1dQU3dNZzJfSll4a3VGRVdZMkY1VFZRcmpPV2tzWU5RWEpNZUg0VTQ2eWpCdUVsdHJqbzM0OFlrdmdjRno3aDFiS3lOalB0WllCTm5IN1lsMnYtNG1YSk9hMkFxWkllaXRhNkJOVGl6RUxncFVEREc?oc=5",
+"source": "Sahi",
+"published": "2026-09-25T10:01:56+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "09c0b439fa84e40c",
@@ -7895,6 +8029,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "1f1208c66ced9bc1",
+"title": "InterGlobe Aviation appoints Kanwal Jeet Singh Bakshi as CHRO",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWVXVU5TRjl6LUVoZ1NET1lKaHVhNUJLLTRqT09RMTJCSWJvZ1lTNFRZV1hPTGxWam5KRlUxZ2x6U2swOUE3QVlUWmxFT3hKdkdhd09rTGxLdzVoU1ZTUTFFX3dsbDUzRHc3ZFFJQTdfT2R6dEJXRDctcS1jbjdIWHc3TEdiNDFrYms5SWxJbU56STR2bno2NjJaSUZWS0YyeEF4T2Y3ODE5ODJCdmpROEo0OXdzbFJaMHc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T20:50:30+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ce4cba7ece4be1e9",
 "title": "China Southern Power Grid Energy Efficiency & Clean Energy Co., Ltd. Proposes Profit Distribution for the First Half of 2026",
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnBDdHNMa2NmdGsyM3ItTDNhRnkzLTFpRHdJa05qeHdHdU9yQWtTYnJONWMtQ3NaREZMWWZxRnFFWjFRQzV4cHYwaUN0SHJlcFhPMzVIeXdxeXJ5U3FOU2pxMm02Z2dGbm5mVUxKZW1QQlN4MWRGZzlhT0Z0Q2R5RnROSDVIcG5uQzZWZ1FQVF9Xb0tzSFV0SEtTUDFtYXFFODhCN0prLXlxT0cyWlNhZWx2LTMwYnE1bjMwNnVLNGpQbm9UeDJSTVNtOWJuc3pVZHhGblg5WXFkT0stQ0MtSkpB?oc=5",
@@ -8605,6 +8757,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c0f0a4af30be5ff1",
+"title": "ONGC to continue drilling after gas discovery in Mahanadi basin: Hardeep Puri",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS09mWHhrX3lNcnpBNDRLS3NVMjg1RXJ4WGxjcWxxUXFtVVpkSy1aS0p2Vzc4b3Y1Y0tBWVQ3cG1vYndlY3JRSjRGNEdDZ18tdGJHQm1fR3p5YnZGcVZzWm9FaFo4bHRuaTFpa3VYRDJVeHVWY3JRYTVRekdSejM0MDljd2MweWlMdjc1NjlNXzNKcGVkQUxheHB3cDFKZ1ZGb2dldWV0WQ?oc=5",
+"source": "prameyanews.com",
+"published": "2026-09-24T16:56:14+00:00",
+"first_seen": "2026-09-25T16:19:45+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
