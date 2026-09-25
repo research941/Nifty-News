@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T15:19:53+00:00",
+"updated": "2026-09-25T15:33:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,45 @@
 ],
 "items": [
 {
+"id": "3829b9cfa4c79cd2",
+"title": "SBI Life faces ₹1.13 crore GST demand for excess ITC claim",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnktTjJSV0w3MEs0dDIzRXhrelRwbExSMWFacDYtZmNEU2t4ZWlya3JkTDg3bmtWV3BWZE1odVZLZmMzSk0yblJGNHNIM2ZTcVpFeHpfZFpzc1kyeXVubTlhcExKN3lZT3J1c201Qkh3SE8xRWhOX3ZSaGJhMTVCMmM0V0hkOFd3ZzVrdEt2Sl9pZkkyNlZtdkM0X19GeVVaVXo2TUJCZkN6S2dj?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T15:19:45+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"ITC",
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"FMCG",
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6f1e6c7c5cd3f47d",
+"title": "ITC closes trading window for employees from October 1 ahead of Q2FY27 results",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmZWenVOQ0JXckNPNE16Q2x1NjRfaDFJanlFUVFjbWR1NWhkcXVibW1GRzFLTkp2b1N1Z0tER3lZcWlsR2p6X1NmTTFYc0ZCQXQxcVpMeFAwZGRIYlJUSi1qT0Q1RjY3QjhsYUxPRnFQTnROXzlXYkpBVjRPUlZTVVVVM2taLTZuNmRSVk5DX0gyYXRBaDFLek15NmtxQ0lISEJkT3dsZGw1clJZek1GSy1OaGJ5OFVld0h5aEREZzQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-25T15:19:43+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "57dd873128b86865",
 "title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
@@ -461,6 +500,76 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "a51a8af8e9c1a9c5",
+"title": "Tata Steel, Dutch Government And Province Of North Holland Extend JLOI For Green Steel Project Until March 1 2027",
+"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQS3Znc2hZWExTbFVuenB5V2FyS1lhYV83MDR3Rm1YdXg1d0o1VmVOOHhpNEI1YUxJZWpTaXN1VFQ4LXZVNVpsa0htbTBpcFpSZUJSVWI0bk9LcmJ2MXZnSHNVZ3lkTXZtNUF1RE14Tnh4LTRFSEx5MDluQWJ6cWZEYndjOElBQzNqaHdtcWQySzB1WVpOUTFGdVlmMXNMRTFfNld1WUtMbHdDdTFYazN3dk9VSHl6V1VDREF4WmZraHpMSHhzbmF6dGlELTRpNzNzUy1Oc1dkQ25aWmpWZno0YnYwcmVWZUYyYTFtR1ZxLTlpNkN3U3ZSbVhUc1diSVZzN0U2cEU2Vm81aUQyZXNj?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T15:14:48+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0675aa123e9e3171",
+"title": "Rashtriya Chemicals And Fertilizers Approves Purchase Order To Larsen And Toubro For 7.97 Billion Rupees",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdDk0Y21ielpiWU9NR1NDVUxxYnJDaUkwNnh4cnJBWFh1bzZCOVc4cDdhT19VQUVGWkt2VFNpUTNteHdJdXh4bUhuT3NkS3JmbkpYWi1KVWx0Z2ZCb2xRaEtKVjNsTl9pQmZlMFF4OXlQeTBPNktGeUIyNUJjdUtFSEdhNHZJQUxZQ2RKUmFiOGxxakdCOHRMbGZJQW1qS0R5c0Z5RVY3NTlLZUJPcjRvZnJCZ3FEYlYzYmtYczZ5M2JJTC10bFRfczRjMHZBdDNjelFSenM5VkU1MkNERThWRFFkMEJKN1RJWXVlaFJlMXNUQWFqeXZzRW9IMHk2VDNxeWRxVA?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T15:14:15+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "dae8f69dc29509e7",
+"title": "Coal India Unit SECL Said to Hire Banks for $800 Million IPO",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1I2dTZvVGdjem1oSzdITGVRY1pKaFNIbHZDemFaM3FBeXdHUERCekhjb0Z5VVlqbGNLbWVreDFDWG5CSVZZSERMVUl0U3VqU1J5ME1YQzF2ODhXaENJLUluOXRLYXk5bWg5TGJ1dlFfQmhlQzF6Ym5zdlBDVTExQTlxMTJlc1d1SVVsYjVLbXBpaHdLUnVLMHJHNU9tYkR6bHd3dHcwQVlia0lhUWI0?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-09-25T15:11:21+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6842c0f2a16da527",
+"title": "Adani Enterprises sees Rs 2,498 crore promoter group share deal",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkZEV3VmWUVmSzlxM2oxUERzY0tnVkxJZmFNWnVzelR6MG11d1pYMmNLbWRJMFBPZEdUX0VISTJoOWR4QTlXQlg0ZmdiTHpqcFh2aTlmSFFmZGNsdDVaaXdSYWVVemVCcUh5MkRUbnJpNGp5Mnc5SUNUcm16TDdZbkJxV1RJLUFRRXF0Y01CSE03YlVIeEdaazVqOS05TzBVUmdHYXp3WmxJcUZ4MVVJ?oc=5",
+"source": "The Federal",
+"published": "2026-09-25T15:07:20+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "3dcd652875f85aa8",
@@ -662,6 +771,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b23251c234c9b6fd",
+"title": "SBI announces ATM charge waiver during bank strike; UPI, NEFT, RTGS services to continue",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0J3N2FIYVBmaWdhckFfYzVtN1ZtLXl5aDRXMGJ0OG1ma2x1VzRKZ3l0RjI3ZE1IdXQwaWxBZUlSc0tuRWV4cTlSYUQ0ZUJwQUxtdWRSUF82YkFiRXFISFNZcDNVQUFPaGJtenhrTHBTTVRGY1NpbWtqTXRkSFhjN3dDRUJPXzk3Wm9JaWxCeHZfdlZSY2xvMlhzcVdoSlo3YjRVQkhDV19xRndhbVBmOXRvYk1kLWt6WGNaUW10NmZNemljWHN6YlNidTJISEJRSDh6S0JqQnBMV05jQWtsRlFR0gHiAUFVX3lxTE1vQnc3YUhhUGZpZ2FyQV9jNW03Vm0teXloNFcwYnQ4bWZrbHVXNEpneXRGMjdkTUh1dDBpbEFlSVJzS25FZXhxOVJhRDRlQnBBTG11ZFJQXzZiQWJFcUhIU1lwM1VBQU9oYm16eGtMcFNNVEZjU2lta2pNdGRIWGM3d0NFQk9fOTdab0lpbEJ4dl92VlJjbG8yWHNxV2hKWjdiNFVCSENXX3FGd2FtUGY5dG9iTWQta3pYY1pRbXQ2Zk16aWNYc3piU2J1MkhIQlFIOHpLQmpCcExXTmNBa2xGUVE?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T13:53:02+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a4b9834f1a607b55",
 "title": "Priority postpaid 5G plans: Bharti Airtel uses network slicing for faster service at peak times",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjc5TjRhT3NWSGVxdlVPbzVRMFhEaG5OSkpjUlVkc3BJUWxMMjFjNFR4MnZMQWJnT3RjMmg4UWN3U0kwYVFmNDNTWU9OYmVvbUNmdVJFZ1lmREl6dHRuTHluVm1JNm51c09fNEVCUXRIOFVEMGVyZHlpQThTVXlTRzg3d2tMZWRoX2VqN2pVenhiaVZGN09MT2pqQ0J2c1hYWUZzTDR1aWp4blpkejdPUFJRRWx0azVIZlE?oc=5",
@@ -692,6 +817,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4c2e89b1f0021b6c",
+"title": "Sensex, Nifty edge higher as ICICI Bank, L&T gain | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREVMdmRsTE0yQVlVZFNoM2NUTkZtdFhPaGRWU2tLTGhFMklqcWlHUjBIUDBkS1V3cnluNjdaOGx5MzRpZDVEaUQweC1pWjIyMFhZLUJoakRsc0Y5U1NrdHZkZE9oTnN3X0NDOHljQVFKWHhDRFh4Qm8tUGVucU9CdjB6Skk1NUlhOFRYSHNlM0ZwQjNKU1BN0gGcAUFVX3lxTE9VOWs2RkZkbEw1WWJsOWQ1dzRzZUNwY042VlNwUWdzQVBYSG9RdUQtQjNDbUdzbzBWbXZlOG1wREhGamhVNDBhT19zTGh6YjhINHh6Yl85X3ZiRVpJNlVBdmNyVXJYX05GZnUzakVoZEVOUkRaVWp0bEZmS2JuNnVtdmdkSDF1MG5PdUdnOV9RM0pwOTdINDlNWlBfcQ?oc=5",
+"source": "Inshorts",
+"published": "2026-09-25T13:38:37+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"ICICIBANK",
+"LT"
+],
+"groups": [
+"Banks",
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "3672f7fd19d48222",
@@ -5298,6 +5441,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "201c86f06b00f45f",
+"title": "Maruti Suzuki Ertiga Tour On Road Price Vinukonda Sep 2026 - ₹12.25L",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjlZaTBqTDlyaWloOHVzXzRxWGkyOThTOFBfZDFVMUJiZFgybmZxNzMwNzRHbFNuNDhFMS1kM3U0cTVITHNZZTJnVU8yT2VzeGppQ3lfb1diLTNoMlVQVGc3b28zRks3TjdMSkVXdHhIYXgwY1J3T2dXcG9pMFBVVjk0c2RCY2pz?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-25T03:35:15+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "541c82b605599315",
 "title": "Wipro shares stuck in bear grip; analysts assess recovery outlook",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPblMwQ2JSdzI4dVRfSFI0UVIzVEZpcHNVNVc5WGV6bUpjZmkyTkVtcHZLVktHT1NSeUdMc3BhX1p0bERScVYwUUpTVm9ScEJISGI5QkxMbXNhYXZoVG5oLXRNbzNEVm83a294R1E1cjloa3lQWXBMTDE4Ymc3U282UUVHQ1Z6Q3lja1REQ1M0aG5jTFlKOGJYU0d0RFlXRjhvcEVpUV9VMkdpMjVZeWQtY2tpcl9QSW5wb1hHeWlFeE5uTFBjVnljSkNDSzA?oc=5",
@@ -7038,6 +7197,22 @@
 "groups": [
 "Banks",
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "21d1cd4968710971",
+"title": "Bajaj Finserv Share Price - Live NSE: BAJAJFINSV Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxM29VSmRHWFNkZnpzOU92cWgwX2ktTEtDcUpRM0dfVFdCd1FxTkI0UVlndjVGeFUtUnhWa05OcXhVZndXNnJmbFNEOTBNdlZhMWRSdFdXd2cyVDJaZkJMbDN3MS1QT2s?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T01:23:46+00:00",
+"first_seen": "2026-09-25T15:33:19+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
