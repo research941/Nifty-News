@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T05:24:33+00:00",
+"updated": "2026-09-25T05:38:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "e396fbe5fff85d0c",
+"title": "Stock of the day - Reliance Industries Ltd Target Rs. 19 - Religare Broking Ltd",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEhnUUx2eDFHbnlWV0lpZ2VyektDSTI5YUhFNGxwdVcxM2lSWUM4SnBWb2Z0Ry1DUVVBZS1rZmxPRUpTZTN0SXJhcnhjR1VxMjg3UnZyV1BjYVhBNTNUUW4zNlRrOVdUT1REcncxb1dlcndDN0N1T0VPSkNNdUNnMzJxczZNWGIxMHRvMmgwcUxqRWpLcWgtOGN4T3VlV0tacGp4eTUwTlBfVUs0NzhBQ3kyamx4UVJDR3FpaU5qV2F4b3hMWFE?oc=5",
+"source": "Investment Guru India",
+"published": "2026-09-25T05:29:46+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "50bc9bec635f97dd",
+"title": "RRB NTPC UG CBT 2 Answer Key 2026 जारी, 30 सितंबर तक दर्ज करें आपत्ति",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52a3hfT3NwUEdYYlZjNUNDOWNBcUw1Q1dqZ1UzdXhzV1M3UE5WVnlBcENDUF94NXBBbTdDSUNEWllnMjBNTUlySVdqdmVkNzBlblFkdlRTandpTWhOSHRONTZlamFmN21uM1dFdjdHVkhfVkhuSDFZSXluODFpZw?oc=5",
+"source": "PW",
+"published": "2026-09-25T05:28:34+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9ddfa8cd65d94272",
 "title": "JSW Steel stock trades 5.59 percent below yearly high",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlgwcVIyaWpsbE1jcXA4LXlJZGVSN1psRllvcjZxMTBCeEhIQzl1SU1PUzdLNEl5a1FPYW9DZTRXWWxzOTVnLV80bUMtQjlrZmVoQ0w1dVBNb19RblhPSjRwSTFXN0cydmJyRF9iZzhTWU10ekZmR1FkaWZlbVZlYnpRVl8zWExNbFJDdmNOcUlOTGVuZDhkckN6bjRyamlBbE5oeHFvVVdjZkc2XzZmTzV3?oc=5",
@@ -749,6 +781,22 @@
 "sentiment": "positive"
 },
 {
+"id": "7c6e81ddfce7f905",
+"title": "Tata Consultancy Services Stock Update: Shares Slip Nearly 1% Amidst Broader Cues",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFFUTC1jNjBGSzQ3UWx5Q1g2UERIOFVhTndSd1duZUgzaFhQT1YxTnBRcjhEYjRQZEdWUXlBSExjSFRYaWxlN3daelFyMlgtdXJkT0EwZHpEU05tNkF6ZVN2OGI4ZWZRN1R5T1JyU3QwVjJKZnBUc3RsSXhLNldCU1NHNURnRExNVWZRVllxNVF2QzlHTTdHYlNVMFNBZmg3MUREUENnUWZneEZYTkdmVUdhVC0zVVdlTGZlTEY1dTVWOGp10gHKAUFVX3lxTFBOMWxZcVlkRWR0NmZFMjJYOEZnS1FqeGlwbVFPeHI4U2ZCOE5ZdmRfQlpRTWNJX2xQQ2Ita0FKZWFjdE1mVndXRW1XMjhqUV92VlViODhOaHF2cnY1SHJvUHVhQ3hpZ1JWWTk2VVM0VjFWMGxHSHhvQm5fWkt0VXFXM2w0bUUxUWdaRERKb3ZwbE5ERlBoeDlfVHVlR3FsOExEaEVGQXgyNWhZYmMyVlpZSW5oS2pERnpJbkd4eURpMVZtVTlEd2JTUlE?oc=5",
+"source": "LatestLY",
+"published": "2026-09-25T04:20:13+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "04fb075e566b706a",
 "title": "Adani Group may Invest 1 L cr in Bengal by 2035",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdKdU9vQ2I0NTNnY3VFVmoxSGl6SkY3a0tMcEkycTRRbmJTN0puVDQ0Wk1NUmNiQ2l5Z3B3MUZxMFF6cERVQjVzbndtUGhBTWY5UTAzVG9YTGl2YTRhVTlSSEk1NUFDT19tYjQ5dnJvTGYzZ3czQUVwSDQ5VkxBZ1Mzb1lUck1RX3lzTlV5ZFJjbnEtMGRDSGtrV0g0ajNEWEZ0U2Jwcw?oc=5",
@@ -984,6 +1032,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f086beb3501fefe3",
+"title": "M&M Share Price Live Updates: M&M's Market Movement Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-25-sep-2026/liveblog/134474231.cms",
+"source": "Economic Times",
+"published": "2026-09-25T03:20:24+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1337,6 +1401,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "094deec1d8ab616c",
+"title": "Grasim Inds Share Price Live Updates: Grasim Industries shows a positive shift in market performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-25-sep-2026/liveblog/134473703.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:51:14+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2282,6 +2362,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ffa2b5f222dc7f0",
+"title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1jS2tHNDMyYXkwUW1HNWVPbV9CQ3R6ZE9ja1ltTjMtQ2RpT3A0QUZLdUN0WGRoSkZ4T2hIZEQzYkVhTFlWaDdfWW9XeWd6MU5DMGEwd2FwV2R6SEg0TEgwVnV4TzB6SENyRzU3WUwxY2lRMzhQM1U1UmN1am1tVGx3VUhpOVhGYTBSTkdjdkd0ckNZaDVwZTVXbTVoVW4xRGpzWXVCZHA4Vl9kSjdBbTJ0aU0?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T20:52:24+00:00",
+"first_seen": "2026-09-25T05:38:05+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
