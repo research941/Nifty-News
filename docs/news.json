@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T00:26:54+00:00",
+"updated": "2026-09-25T00:47:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -7581,6 +7581,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "08771bcfc0384013",
+"title": "Reliance Industries completes BofA Asia Pacific Conference meetings in Hong Kong",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDR4T3J5QmhRMlRqZXdzVDA2Y2J3Y0NDTzg3R050V2d0a1VJazN3RU43MWVqNlRQdEZlQS1TaHFBU0h2dTRFQVRud2lyTHVjX1o0Y1hzTm1ocmpzTWR3bF9yREh6MEppTnpaX0Ewd0lzTGJ1eWJRQ1lRX2syTXBMLUhNWkZ5NzBBZy1TVHVBQTh3aU5CX25ERXJhUmt6N2dPdm5RM1pwQ1lIX1IxZERjano3Y2JDaW1ydXl6dldHQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T05:39:25+00:00",
+"first_seen": "2026-09-25T00:47:59+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
