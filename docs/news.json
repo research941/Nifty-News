@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T18:20:17+00:00",
+"updated": "2026-09-25T18:35:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "ede4aa575753a4f7",
+"title": "HDFC Bank open on Sunday, September 27 ahead of three-day bank strike",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXBBcUJjMU1UaHYtaVpvMTFaLTF4X19HSzkzT0NxRmdLeXQ0bzRndl8wVzc4VG9RbnBfYkRWZGJSdV9KVXlob2g2OWhFemg2bmNyQk43QUpDem5fVkxjWmJNRHdzUlpPbng1ZDlPVFBQSkVlQzljMU1kM2ZfUFF5ZTNfeEpwdlpDY0I0a3VGU0pSamZnREN1UVM4QW5QMExROFFIMU8zT0RwMDVlRWpXeWx4d2tUa25GblI4SndYeFg0WFhGTG1iN2lR?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T18:26:17+00:00",
+"first_seen": "2026-09-25T18:35:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48f718e9398b78f5",
+"title": "ICICI Bank receives GST demand notice for ₹16,75,96,536 under West Bengal tax act",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlc5aVVEcWFMeklLcE56NVZYdjNhdEZ3NWplSGNXdmhPUmxQVU9pSkNrdGY1azI5ODM2NFNlQUo4NXgxWUFaODJsWlU4NWVZMndmOGk3Y1NHY3VkLUpmTUhUZ3Nmc18xSzRoSHgxS3dSdUxVU182YnJISFRCZUNOaGlCUnYwdGlXSXFGVS1wdVRlWEdaWmpCX1BoampKSjZPUFc2N1BFZ3dUUFJxUFp3aWhsalEzRUFrZUM4?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-25T18:21:42+00:00",
+"first_seen": "2026-09-25T18:35:05+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "078049efefd54f22",
+"title": "Reliance Industries Secures Top-Tier AAA Ratings From CARE and CRISIL",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFRkSVBMMnpyRVNaN1dsZW9TMFZUd2JFVTBXV19YZTVGN0xydUExcW8zT2ZQU2NlRE0zQVNtRVk1aGVKZXU1LTZrcTg3N3IwOU4tU2c4NnBYTkFpakQwa0ZjeEFoSVpNdldGdTlaRWpGdFhBSGM2eHJPOV9rVWV5eXJYeDlGam9IU1Ntb1pQaVZpYWo5elFBTXBraWNlQ0xyZTFjYXRlOWl0VVVTZlZNeGNFSm1pWUFxa2d5a1JB?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T18:20:47+00:00",
+"first_seen": "2026-09-25T18:35:05+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "3872dfc3cb28a819",
 "title": "ICICI Bank receives ₹16.76 Cr GST show cause notice from West Bengal",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHNxV0hUbVJTT3lIclVYWHc5M2x1Tll3ZWlxM3pHOUluZjhXazZWcUwzSy0zcDNJUHRzenZzcEpBSklsd2Q4MEtXVjdSZDZUS1FHbTdtbEJFOC11WXBXTG9BTDFFN1ZiUVBvd3lyY1otN3puN2tycTFFRjd4U0tGWE9WNjNGUFNfSjM1RlZyWHBoOTdrdEMwbFJGc3NlNUZwZUJFaS1yTFlJRTNzQV9DV21lX3dSUjFUdVJz?oc=5",
@@ -538,6 +588,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cca80f9c155b21e4",
+"title": "Bank strike from September 28: SBI, Bank of India urge customers to complete key transactions in advance",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSVJ1T0IxbGZMMlFNWkJ5cHI1QTlseUZLS1pfaWt1TXliNVpTdjNjMW5SdVhlMG9WQ2J3SFhtYnlDc1JmYjVSUzNpREZTa0xWOTVfUEhMc19nSWJLcjdwX1NCU1ZGMTMwR1gzNFJUc09JOXdCYkVUd1lyQzlpRFdTZGVkSV9uenZFR1NGUGJXMnZsUDZfWTU5SWFFbFhQeVhNTWpXc29saVhrZGp0RllCUEVVcmJpRjEzNmF0ZmJKQ0pwUzUycEh2WVljSjlEM3JyY01lSWlFeUplUGgxUXRnZEpIeDdlTkxiX2xzX05WSkpxTVVIS2hYcNIB_gFBVV95cUxPekJqdmg4WnBONmFsV1pXdjQ1bGN5V0VfWU9sYTIySVNPeXprQXYtdGRHRFJGVVZwSG1ZNFZjQmZtYTRRNENUN3dXaTE3OHJOa0g2blBTTHdsN2lLTldKaUYtSjVTdVJlMDVpTURqeWlNa052aVcyRldmb04wcmR4c29uc1FQTjhmTklyOVYybnlhYzA4NFV3SVRYZWJKbW43SzRIUWRhYmNGcDhjNnY5TXpGQXR0R0l6S0ZGLXVrbHZOY05Nd2ZVREdJX0s5T3B1d1Uzd3NwNkxLNlBOcDFueXhRQzgxdFNJdTVMajFnNlEwa2pMWWY2QngzRC0yUQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-25T17:22:21+00:00",
+"first_seen": "2026-09-25T18:35:05+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2760,6 +2826,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "10b4bb039716bcd0",
+"title": "Infosys (INFY) Receives a Hold from Wells Fargo",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjBJLTl0TzhzWDZ3bzdjWTUzbmx5SFhTcmVIVEp6OVVDVHRRWk42NGE5OTYxejdYdWVtREozUjJ2XzBDeWlqY0hKVzNNdkZqU3Y1b3d1V1Z6LXhxYVFNaHBiZjBGand6TllhZ3JDcmtwNXFaX0dYT0hCalFtNjFadkpaUGdRUzlWMHZ6WDVkSjB1RjByck1nQ2lCU3JHaE96ZHR5bGhBc3ItU1VxTVhadG93LUwxUUtZNVF1OXV1ZUdBckRPOE1VRW53?oc=5",
+"source": "The Globe and Mail",
+"published": "2026-09-25T10:48:00+00:00",
+"first_seen": "2026-09-25T18:35:05+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0ab4423ed3c68545",
