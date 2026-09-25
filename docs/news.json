@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T20:17:04+00:00",
+"updated": "2026-09-25T20:30:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -559,6 +559,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f99e8a92ea9eb91e",
+"title": "CGST arrests Hyd trader in over ₹32cr fake ITC case",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkVMMnJmUHFJRkQtdXZDc1RrZjBNQmtwak9iOC1LUE9HWG1CNTdnZEV3NTJSX1NtUlNJcHlpZWwxVGhSYzBLSERCbXNvM1NnaDB3NkMxd1lkVTlYQ0JTT3lkWDQ5cC1mTnpfVFVSTC1KZnpfbjVJMjlxcHJ4MndZZHhaYTJuN0NiczUzVVNBRzEtcGJpTG91SWZQYmRhLWVlZlVFWDk4eWpFTVNoUC11bGNYTk4xOEhDS3FzRGRZY2Zxd1pwX1R0YjNWSdIBywFBVV95cUxQMkVMMnJmUHFJRkQtdXZDc1RrZjBNQmtwak9iOC1LUE9HWG1CNTdnZEV3NTJSX1NtUlNJcHlpZWwxVGhSYzBLSERCbXNvM1NnaDB3NkMxd1lkVTlYQ0JTT3lkWDQ5cC1mTnpfVFVSTC1KZnpfbjVJMjlxcHJ4MndZZHhaYTJuN0NiczUzVVNBRzEtcGJpTG91SWZQYmRhLWVlZlVFWDk4eWpFTVNoUC11bGNYTk4xOEhDS3FzRGRZY2Zxd1pwX1R0YjNWSQ?oc=5",
+"source": "timesofindia.indiatimes.com",
+"published": "2026-09-25T18:32:00+00:00",
+"first_seen": "2026-09-25T20:30:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ede4aa575753a4f7",
 "title": "HDFC Bank open on Sunday, September 27 ahead of three-day bank strike",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXBBcUJjMU1UaHYtaVpvMTFaLTF4X19HSzkzT0NxRmdLeXQ0bzRndl8wVzc4VG9RbnBfYkRWZGJSdV9KVXlob2g2OWhFemg2bmNyQk43QUpDem5fVkxjWmJNRHdzUlpPbng1ZDlPVFBQSkVlQzljMU1kM2ZfUFF5ZTNfeEpwdlpDY0I0a3VGU0pSamZnREN1UVM4QW5QMExROFFIMU8zT0RwMDVlRWpXeWx4d2tUa25GblI4SndYeFg0WFhGTG1iN2lR?oc=5",
@@ -604,6 +620,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "94d97b2b88ef458f",
+"title": "NLST Stock Rallies After ITC Patent Action Against MU, SMCI, HPE – Roth Capital Sees Settlement Upside",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkJQWWpSbG9MUFJhb3lMbDFmSkV6cDVnaFFqdkR2dFRHUExweHFmMVZJU2dPSnhJTjltTVpwTlcxVDdJMGpyT0oyWmFQQXVZdVRnX2FSRmdOUGp2ejNEMGdUVnVWOC1JVWN1ekF2bW1TbEt6N3dSaFc4X1BOY2RvSXZjZXg2aW9jMC1od1lET1k2RnVoRGE5TDBYb0UtNzJKekVuaXdHdlU2eXVqQll5T3NrMm1EYU1uWVduVjZmWnllS1ZG?oc=5",
+"source": "Stocktwits",
+"published": "2026-09-25T18:18:25+00:00",
+"first_seen": "2026-09-25T20:30:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -852,6 +884,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7e80def151e3db0a",
+"title": "Maruti Suzuki Wagon R vs Citroen C3 : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CNUZwV0xwYmVGWjIyZTdDUjVjTUxnMTJsLS1UNURRbnhobFVUSk0xMWRPM2UxRWhJWG82eWQ2OFN1dGhnRFhFamZZRGoxVkhuU29lM0dKemd4dmdnZWpkZHZoZnFRR19IYUFsd1pJYVh5bUxCcTgtYm1haw?oc=5",
+"source": "autoX",
+"published": "2026-09-25T16:34:10+00:00",
+"first_seen": "2026-09-25T20:30:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2415,6 +2463,22 @@
 "sentiment": "negative"
 },
 {
+"id": "8b8e88557639435d",
+"title": "₹5.29 लाख की स्टार्टिंग प्राइस में 360° Camera, Ventilated Seats, wireless Charging और Dashcam? 😳 Tata Motors ने लॉन्च की नई Tata Tigor का अपडेटेड अवतार Tata Aeris , जिसे personal buyers को ध्यान में रखकर पेश किया गय",
+"link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOSXNoenVCVnc0ZXp2T290b0Zkdk9TM0hYNTZWNjhPWGNLSjk5Zm40aDJYRGFRMTNIblY1YXYtLXpHNVN6Q0F3bDhTRWZZc3c1QWdrYWN6VU8wdnctYThpbF85c1A4SnlWSi1IS3poOWNuejRITmJXSklSS2hCM2JGc0tpcHp4eGhwUng2cDR4TkQ2VW1WS0JiUnBRbmNmbUJJdUtGLW5vOVZUNGtYeE9GTzczc2pfcFJacnJmTy05QTh0OTJRdEcxZmhqVWxNTG5McWlNQng1cF9vZnNWQzV0c1lpVEJoMUh3X0N3ZXlzQ2d6bVJuWHpfRkIyT1RlX3loWnZTODlJdzQ4aHJRY1RsbVg5RjNxU2M5cUk5Wmh0YXhXX2tRUlM2RHZCVEhmbDNYM2pTd0VCWVd6cGkwSWh5RWNzSTM1R1FDWUU0U01Ba0JpQzJ1RmdGWTh4aFA1bUFIU3o2dXhEaVo0Wm9VUWprcHBScUw0NEkxd2Y4ZUVPM0IwdnlhZDN4UDg3R19fZ0xKUDRIS21ReHFNSWQ1bUN0Z0ZCbElLS0pzTWpzV3hhbVRHeU9XRUJHLUxsRFFrZ0xwZDMxdy1DYTd0WEd2MnZZOTlKODI0QVJRbmlBRzU1Zm5DQkc0SzZLdFdMUlc?oc=5",
+"source": "facebook.com",
+"published": "2026-09-25T12:41:28+00:00",
+"first_seen": "2026-09-25T20:30:32+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "406bbff69c2be693",
 "title": "AirAsia ranks No. 1 among low-cost airlines; IndiGo enters global top 10 - CNBC TV18",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0w1dXNTaEtkY2dnaV9rWklVWkp2cjFpSzhDUmVHb2VhRDROcFNmVWZJM0Z2S0FENTJpZ29LWXE4bjFBY3V6amxiaG13U1FNTV9XSk11YlNaVlVzamgxWnZKTl9IUG40Vm8zU0pUdTd0dXVhVGR6QUxJVDFlZ0dIZElBMFJtVXhMNi1IOTFTN1YwbUxLa0hyMTA3Z005dTJUemxfUVpVNTZBTm5FRnpDd3BHU01zeXlD?oc=5",
@@ -3232,6 +3296,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "528616ca80f4537f",
+"title": "Bharti Airtel falls Friday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamhnQTBlNHA3ckZtSUwyakZnVFU0TUJVTEd3Yl9ZTDhYWEFBMzlOYnlnekk3eWFqaWxzTU93eVdNdVFVTG5kOXJvQVdMOG1iYU9yT0dMeGt5SU5paEZRVVBMWF9ERHJYS0k0ZFh2T2wta0lsc3RBTkFmbU9DaHczZEdjTjNpal9rcWZzMUJXRi12RjFSRWNmMzFfeWV1bl85bDFjMjZVdzI3SHFEcDA0UVFqNV9HakVFVGRhRjRKcDlkOU0?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:33:00+00:00",
+"first_seen": "2026-09-25T20:30:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "caca35a3d3fbfb5e",
