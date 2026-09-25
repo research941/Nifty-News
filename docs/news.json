@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T08:31:22+00:00",
+"updated": "2026-09-25T08:46:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "09df9823776eefe9",
+"title": "Tata Motors PV is bullish on entry sedans; launches Aeris at Rs 5.29 lakh",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3lvTTI2U2Nvel85cllSV0ZNS2N0bUpFeFN2SzJzWUVNQ1FBenpJbDFYNUlsNVMzQUlBRzBkN2dRRWRYVDdPXzBueDRFaEJ0UVo3T3U3ci05X0dEWGU3VnBWTGh2bFNKUzk0Q0xpMk01Y3JRYVFWa19UejVKYmI4dC1IMDNiektxQzQwYlN1eGN1SVY0SDdVUFdtU1pQNkpyLVNnOGRxbm54cnBvQW05SjNUa0FUWXNZRV9VdlQ0UDQ0R1ByeWlNb19R0gHPAUFVX3lxTE1Hd1BQU2hfRDYyRWhYbTI0ZWRiQm8yNmlTLUw1WG9vS0RNZlA3anRPcUhGRGd5SkZIRUNteUZsUHlvLWxBT3UxUjlqRHF0VzE1N2FxdkZWY01NUGdpWmpicXV2MlRZMFgtcHQ0OWt3eHdJaEtSZnJBNW9DVEVSQmczSHUza0NGd2RTTXo0UGsxc3FsWEFzV1hIY2VfZHdVcHE4WE5BWlVwTzdPZVh1X3RsNkU5enpNUmtqTEk5SXRjbm9rcmJxUFpUZEt5UjlKMA?oc=5",
+"source": "Business Today",
+"published": "2026-09-25T08:29:12+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "9c3bba5fc158ce1b",
 "title": "Tech Mahindra inches up on entering into partnership with Verato",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDlMU19yTnZWZWFrSjZVNTl6bmU2NzNCYkdfUFFHeVhzWFN3MUkzamxHWEs3WDN2RWtVNWNRTHkwcmtDVjJlZDZhUzVtb1RQTFVXVjNabi1XUjNIWkxyR3BSNDc4YUdDR1gyWEpULUpKTWFmTGpsMC1feFlzajVoZzhPWktPWmY1b01ic1dqZzR0cUpRNVdwWkJmLTgzMmd2eHR2SllOUldWS3NLSkMtRzNyNA?oc=5",
@@ -461,6 +477,40 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "8acf6a4063c051c0",
+"title": "Chhattisgarh: Suspected Bangladeshi Arrested; In India For 20 Years, Was Working As Elevator Technician At NTPC",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX29jWkNJNU9qdHNDTVhEX3hGYUlKbnAyVDd6QVljMlFCWEFkRWlzYVBadGZGNjZUNzFlOU5RYkg5MHVBLVR1Z19na3hXOFlaelRKVmFaZmc4eWxlcjNMS3lvVDhldEhtaTZtNGRxdzZRYWpOOHR5NVVxNklYVFRkSGRFaFJjXzZZSFNfZ1FqR2tHWWczV00yZzA4OXB0MXJGWm9tSlVfTWhsLVdkWmtBcXloTmNEZnM3WkV4Skd5YUctZGZ1T1pHN3oyVWxOMUFXd0RBUGREM1c3ZlNHZkVHNU83ZmM0QUJDb3RJWmtNQ3bSAfYBQVVfeXFMTl9LRGxxVWtOSkxkUi1EeG9iNldGM2NSN1dsbXZha1pCRDVieG5jRzhRTWc0UjRXaTlYaEZtcWdBU1JNVmlXZnFwZW01cWRaWVR0Ujh0bnhGbVd3ZVFwTUdHQ0lJRzVjTDA3eFdhX1U2N0xKUWZfUnZQa3lPU3lOUHNLTmpycHJxRUduenZsUDhvX1JSWWczY2NCbDdpY1hNSHNTa3Q3ZWhrRTR0Q0U2NHdWQzNTVU01U1o1ZTBDUU53N1lTdnNmcjlBREszTTJpZ0FVS3pDMVVXYkx0QkRBNkxXYnBGM3pVWUMwRFVZcU1xSVdJMFZB?oc=5",
+"source": "etvbharat.com",
+"published": "2026-09-25T08:22:11+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "467dc2680f2a8ed4",
+"title": "Another price hike inevitable due to higher input costs: Tata Motors PV MD Shailesh Chandra",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbzl2Q2FPWk5mTXMwQ2UyU0FNV3drRTRrdV9lRjhYMFEtRmZ6SXU4V1ExbFlpSi1ZckVYa3F0Q25JZ05pQWhPWG5qcWNkX00xUXdYdGNucHRpTTRLd1c2LVQ5dU9lZ1YwcW5JT3FSU25WeFh6UnFnU0UyQTNwLWlobnBlTkdQVGFVZm5LcXJYWTdGOU9Rd2g1TGp0UldQdmk5SEVKQTN1RnVmV1BlYk9BNE9GeUpVdW9aQlNURkx1R1lJcmFQamlzTFFkS3ZEb1pkb3FZdUhQQ0tueFBmT0wwdzVJeUZ3NExXS1lyaHNR?oc=5",
+"source": "thehindubusinessline.com",
+"published": "2026-09-25T08:20:38+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "positive"
 },
 {
 "id": "0ea70d21716d5116",
@@ -565,6 +615,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "04dab5c786af0756",
+"title": "JSW One Platforms files DRHP, plans to raise Rs 3,054 crore; JSW Steel and JSW Cement to sell stake",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3lMWVoyOGE4VVdlNGYtS2JnS0h6eExZVm5zTkhaUUpHbTNTQU9OeFozUEdLNnNaM3k4cENBTEpUSkptbS1RTEl2c3o1eExnZDlfYnhnRjZYc2duZHRqUmlQdFRLeUVEbVBpb25Sb3ZKTUs1SHdMSFhETWMxeWJRREhvWXlXejRKNVJfVUpPeHV1eWNqNmpna3hlNzhUdzV1cGE3dEVPeFlPemlVZVhqd2JGUG9YV1hnX0FKbkQ3WC01R3Vz0gHEAUFVX3lxTE9neUxZWjI4YThVV2U0Zi1LYmdLSHp4TFlWbnNOSFpRSkdtM1NBT054WjNQR0s2c1ozeThwQ0FMSlRKSm1tLVFMSXZzejV4TGdkOV9ieGdGNlhzZ25kdGpSaVB0VEt5RURtUGlvblJvdkpNSzVId0xIWERNYzF5YlFESG9ZeVd6NEo1Ul9VSk94dXV5Y2o2amdreGU3OFR3NXVwYTd0RU94WU96aVVlWGp3YkZQb1hXWGdfQUpuRDdYLTVHdXM?oc=5",
+"source": "ET Now",
+"published": "2026-09-25T07:32:56+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "ce3a58c586d73ca6",
@@ -711,6 +779,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "ec7a73289e44d30f",
+"title": "[Sensex Today] Share Market LIVE Updates: Sensex surges 133 points, Nifty trading at 23071 amid IRDAI's new proposal on insurance; Eternal, Trent top gainers",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVWRRYkxrTDZVcTJJYm1SNnYxOWhqZGU5Y2NqQkRfYnQ1RXg0MHFkdzl2WUxlSDhCRVRQWHZ6eDZ4M1hjQlludV9ZdXdOLVpzeXlVNmRHNGNrRG8xQmJfcnp2eFBLMVMwWXNSSlZkZVVuUml1bWgwZXBpUXN1S0dmVzRwZ2g3MkN2MUl5ZW9mM2ZIU2hqc1JlT2txd3o5SVp5MTFrWmtYS3Z1TkRUQU1CcmZ6aUxqS2ZxcFRBTDFHeF9mZHBIeUVCdGFkQktiX2p3ZDcwWXoxMzBEOXlXMFhySmhJR0gyRlZ0SWc1bXlsdzM3TkhVRTRHbnVyRFEtYXVBTGFVekVWRmdVaGtxdzdMa1pET3RaUHkxbHow0gGfAkFVX3lxTFA0U2Jta0hQd1pRX3FRQ0dBdENvWktrZ1N0TWpzczJoN2lQY2V4bDJlSmVKZ1JESWJDR2lRQzBBRnRyWFRaaDlXMVNOWGI1SmpjclJHbnR6dHRDNXp2LURMYTA0WllWMjJhSjNGcjN0RlFZbTByak9EY0lHZ0FLWXpTZ2dZcG5oMWRsX29OVU9jOW92S3BaMzA2WmREY0M4ZGhadGZhRlNfYWpzUUFuSUxTZ1R2MkkyTmUteEQ4OFFMcmJDelV6N0NSWGNtU1N2Y3kwdUdPWUFhc1ZlNkVfVjF5NnVEbzdRVUwyN1VROVhZaEZCbTlFeGREd24wZkdhU1NwZ1VHMGlDWXI4ZUdMTUtBUnYxRzdwMkNfVjJoTFBF?oc=5",
+"source": "News24Online",
+"published": "2026-09-25T07:22:56+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"ETERNAL",
+"TRENT"
+],
+"groups": [
+"Consumer",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "00d4834f5fa2abf1",
@@ -1468,6 +1554,23 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "808f1f4a64f8acd4",
+"title": "Delhivery - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcTlUMEE4Q3ZTY3h1N1hLLTN4bHlrcHpvWUh4U1M1eW85NVpLU3d2OVJQNTdtQUVZa0M5QnVpcGVuazhORnM3RTFLZ2pZMVNzRGI3RmxDQ1AtcGlBU3N1T3ViUkUzd2NJMUhZTUVKLWloUURRc2xsZU41dm9qRzEydGJDVll2YmJVWFA2LTM1bGVuWXdINmx2NzJjV2VRUl9vamJhaGQ2c3k1OEh0dU5kLXRoSjN1NWdWZmFNdnA5M0VPTFRPbXdQUl95cWpTRllRNHBKSFN5d2s2dTlpSm15a1BLVWFRaWJXLTdnLUJQcW9JNTFlNlktUDhjTVA5ZnE3UE93WQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-25T04:56:31+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "bea248255e8638fe",
@@ -2580,6 +2683,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "71bbb42336eb7856",
+"title": "Hindalco Share Price Live Updates: Hindalco's Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:51+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a14c0c7222e684f5",
 "title": "SBI Life Share Price Live Updates: SBI Life's Market Close",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
@@ -2603,6 +2722,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:55:19+00:00",
 "first_seen": "2026-09-25T04:57:14+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fcd730790512e9c8",
+"title": "HCL Tech Share Price Live Updates: HCL Tech's Performance Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:55:19+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
 "symbols": [
 "HCLTECH"
 ],
@@ -2683,6 +2818,22 @@
 "source": "ET Markets",
 "published": "2026-09-25T02:50:40+00:00",
 "first_seen": "2026-09-25T04:46:01+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9b3ef993205ea3b7",
+"title": "Nestle India Share Price Live Updates: Nestle India Trading Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-25-sep-2026/liveblog/134473694.cms",
+"source": "Economic Times",
+"published": "2026-09-25T02:50:40+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
 "symbols": [
 "NESTLEIND"
 ],
@@ -3630,6 +3781,24 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "b7c584027ccf8f22",
+"title": "Shriram Finance Q1FY27 PAT surges 59.79% on strong NII growth",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZm9SN2xqTDZxT0dXZERTZkM2ZUwyX0RKcWVadFM1am5pdXIwVld4N2VrNzBma0drTTZrVi1DcTZEdTE2OTk4NGpTN3hFUDRlQkdMTHRfUEhYTkhGSVRJblRJOGxIV1dITFNQN05PNFpFWTY2SzVKNHVKY1FoSnBOc081c1RBcjRBN3FreW5GWlc5ZF81MTVFV1pNNGZ0NUlLLUtxd0NJei1yeHNwR09tZHFyWC10dWNGVXNJ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-24T21:42:51+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "e2b6967a4118b08e",
@@ -5389,6 +5558,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1a4b3ce75baa0604",
+"title": "M&M Share Price Today, M&M Stock Price Live NSE/BSE Updates",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzBvSmxhTHZSSG9taDM4UlZ5UTJNajJXQTBzQjFWZVA0LUhrZ0hZQkVrUXRwZGpvd0RHdUlxeTlhY05LRi0xa2Z1cnJGR1RhUTdFZFRHV2pOZHpGR25DUk9zRzJuRXRyWk1lenhZUU9Ha1pqdWNIQnpVX3JoQ0d1bloxSkQ2YmRCVzlOdUliMWRjNTN6MWtuWXV3?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-24T14:00:40+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "52013d0e8ba16e8b",
 "title": "Airtel Money set to file for ‘one of London’s largest IPOs’ in years",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXB0WWhYbDV3QUFHRmZXYjNCS1F0NVRlc1B3WFlIQ2dHelVnTG9UM3lFRzJGamZqX0J0S3RPOHZfTEprWFhIWXRwZGdxb1d3a19rSW90Q1k0VG1pTnlxSzdpOERaRkV5RmhyUFNUWnRoYTlRNTZza2hSNVNucFQwSDBXNFFPSVZfQXR0dE9sVkFWNkRCcm9NMDdfZnByNjg?oc=5",
@@ -6980,6 +7165,24 @@
 "Infra"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6580e4cd451489a4",
+"title": "‘Would you eat it?’ Surat customer asks Blinkit staff after getting mouldy bread; SMC imposes Rs 10,000 fine",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanJSbGtnU3pYbkdIcDVMci10R1lrQ21VRDloVDJDVUlYQi0ydC1WM3F3TTMwOXFOSWlEU2UwTEtGcVVNM3AxenlZRzgyWldac3c1bXVaQzZ6WDdaQnlfVzFJdlZ2cWQ1UG02RS00RFZYSmoxZVF1ZEtFbkdfUV96VExsZUV1c3p5NGQ4WDZvMVA1dlRvejRWUDFnU2NvY0Zaek5zd0NSRENIMXhfb0VzTTh2UklfVS1T?oc=5",
+"source": "Startup Pedia",
+"published": "2026-09-24T10:49:02+00:00",
+"first_seen": "2026-09-25T08:46:12+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
