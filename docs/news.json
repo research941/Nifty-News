@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T13:44:13+00:00",
+"updated": "2026-09-26T13:57:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e1459b2aeab1d512",
+"title": "Tata Aeris vs Maruti Suzuki Dzire: Detailed Comparison",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWhFM0w2N283UFdxcjN2VlZYQ3UtQXlvQzZpU3AxRDk0TVV5dmF2UGdmVE42bDZaZTU5UERGN3o5SHBxU3QyeFV5RjlwajYwSEQwMHpoOGtwNF81WDY1WlFJUXhzbFk1RF9kMlVTZUNlb3NaaUhWR3pIQVdFU2g4bHFwODgzOWhLOXdN?oc=5",
+"source": "carwale.com",
+"published": "2026-09-26T13:50:23+00:00",
+"first_seen": "2026-09-26T13:57:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef10441e4d10e581",
+"title": "Bharti Airtel stock at INR 1,785.40 on September 25, 2026",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlctMkFLaU5JZHlmUmlIQkZ4cXk4MFA0RDk3WWp2X2xWYWg1VkpDT1VuT0VaQUtpdGNzY3M0T0k3QmRHTjcyYXk3MHJmVzZuQXpuaFdURFJkRHd5U2FVSlNEUWdwYmc0TlNhcVNtRC15UHNsQUh6czVlUGRrRU83bzNSM1NYR1JMWU8yM2dCd2d1al9CVHUzSHlob2xrWUFjQmJ5Qm52R1A2ZWUtTGJ2X19pWTQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-26T13:44:31+00:00",
+"first_seen": "2026-09-26T13:57:03+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "79e073ba3dabefe2",
+"title": "Chainlink Price Prediction: LINK Drops After Infosys Deal as AlphaPepe Presale Pushes Past $2.79M",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUliNmhRM2ZBbVNUUy0ycmc0Tlpyd1lIQ0dTNjFXUVV6R0JLenE3MkNwUVFpdnNsTVJ0TkVtdzMzZDhaMjdkd0lqeU1mZ0haVTZNYnVieVB0VVhCbG5WdGRWb0xuUVlKUkFDcEQ3bUV6cW1BSFpDdlNMVGhKVkFLNHdEbS0yOGVDQzhFNjV6Nmx4ME5GVEZvdXg1RQ?oc=5",
+"source": "openPR.com",
+"published": "2026-09-26T13:38:31+00:00",
+"first_seen": "2026-09-26T13:57:03+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
+},
 {
 "id": "51e8c7112f7eea1f",
 "title": "Saurashtra Cement gets ₹2.07 Cr GST notice for excess ITC claim",
