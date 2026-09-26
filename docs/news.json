@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T16:48:01+00:00",
+"updated": "2026-09-26T16:57:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "3d5638d52addf4b4",
+"title": "Sun Pharmaceutical Industries secures shareholder approval for shareholder category reclassification",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3dSVVM5cUQ3eGd4a0Fpdk96N3paMm9ESzNSYTkxN1E5d0dTUml1cjhsQTE1Z0JUVDJicVNqMkdPMmw0V0lKeGpHa0p4cks1cXRUbnFnOWlEZm42SEVjUGgwdHhCRnVtdFdDYTA1dV91U2ltS3FDRDd2d1UxN1NlQnQyS3BYdTEtTDF5bjJWZlIwMzgzbXQwTGRHM1NvX0dUOFYzUmVxMWxYWUR2ek5qSkVIUW5tN0N5MGZwbURTa216ZGh2V3QzZ2JCTVF6YWh1Smw0?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-26T16:56:10+00:00",
+"first_seen": "2026-09-26T16:57:30+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "252c7becad8e77bc",
+"title": "Sun Pharma shareholders approve reclassification of promoters to public category",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNvaXlLa2g3N0JxeXN1YWhWWThTbHZaME8zSEljS182d1djSHVMY2JPTDBlZTNadHA3US1ibzNfUXd3dHF6Vjh5c1Nyc1EwTTJuaGExMjBBVEE0WWM0SHdSOXFWdHdsYklMei1VR2R4MUtLRVR6cF9xUnhDS3hPZFYzNDhUZzZTVDZ3YkZiRkVkSFE5UHR4U0EyZ2ZUM19zanFMYmhGdllRaVlkUXk1Mm9GM2RiVWZlQW1QRy1Wbw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T16:54:33+00:00",
+"first_seen": "2026-09-26T16:57:30+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "732a9fb15eeb3e00",
 "title": "Abu Dhabi T10: Trent Boult, Shimron Hetmyer add international firepower to Emirates Eagles line-up",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTFVEeDRzVUg3TktqWkMyZTVnVk9MQWoxZ2QzaVFBb2NHR2NqYlliTEd5c3lPV0pHVGExTFNUVXNLc1d0TGZYR0FoVkVLMHpvZWIzZW1WN3JCamdwRnZTTVk3SU9LM3N3TWxxbTl5ZWRocWVXWFZsSjVUZFl0WjgwSnA5TzgtZ2ZwZW01RjRvdmd2b0had2tVbU9tOXV2cHZPUVc3LUdKOU9xZExFZkp2SVNzeW04WmYtbDhFOW1SZVk5aDh5dDRrN3hrWDJCZVR6YURBenV4UXZrY3FTZmVtaVYyZ25UbzYzQ01TUkYwckVtT0ZO0gH0AUFVX3lxTE9MVUR4NHNVSDdOS2paQzJlNWdWT0xBajFnZDNpUUFvY0dHY2piWWJMR3lzeU9XSkdUYTFMU1RVc0tzV3RMZlhHQWhWRUswem9lYjNlbVY3ckJqZ3BGdlNNWTdJT0szc3dNbHFtOXllZGhxZVdYVmxKNVRkWXRaODBKcDlPOC1nZnBlbTVGNG92Z3ZvSFp3a1VtT205dXZwdk9RVzctR0o5T3FkTEVmSnZJU3N5bThaZi1sOEU5bVJlWTloOHl0NGs3eGtYMkJlVHphREF6dXhRdmtjcVNmZW1pVjJnblRvNjNDTVNSRjByRW1PRk4?oc=5",
@@ -773,6 +805,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "57e6ef36b895baf8",
+"title": "Univastu wins Rs 23.74 crore L&T order for Mumbai Metro Line 4 CCTV system",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmRwN0YzWnVTdGRscVhxamRVTkc0bkZUVFpRNThVLS1ZbW1MNzZfaTNPdXZiM0lmMmdlT3A5SndlVVQ5UVNwQ0dqbXAxMXloazJVTUN2cEY3R29vUTdYNjdBT0gySEZUWE1LeGNrRWFHcEQ5cGhlbnJzZHVNTndrSzdITUpkeEhub3FMRGR2cDRzeUFULUVoMU9TNmxoLWQzTHdsQ0RtcFVTRzFPeXhlVS1CSXFJam1RdnNsYUZtVQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T12:07:25+00:00",
+"first_seen": "2026-09-26T16:57:30+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "3480093ef018b73b",
