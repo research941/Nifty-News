@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T15:57:47+00:00",
+"updated": "2026-09-26T16:20:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "732a9fb15eeb3e00",
+"title": "Abu Dhabi T10: Trent Boult, Shimron Hetmyer add international firepower to Emirates Eagles line-up",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTFVEeDRzVUg3TktqWkMyZTVnVk9MQWoxZ2QzaVFBb2NHR2NqYlliTEd5c3lPV0pHVGExTFNUVXNLc1d0TGZYR0FoVkVLMHpvZWIzZW1WN3JCamdwRnZTTVk3SU9LM3N3TWxxbTl5ZWRocWVXWFZsSjVUZFl0WjgwSnA5TzgtZ2ZwZW01RjRvdmd2b0had2tVbU9tOXV2cHZPUVc3LUdKOU9xZExFZkp2SVNzeW04WmYtbDhFOW1SZVk5aDh5dDRrN3hrWDJCZVR6YURBenV4UXZrY3FTZmVtaVYyZ25UbzYzQ01TUkYwckVtT0ZO0gH0AUFVX3lxTE9MVUR4NHNVSDdOS2paQzJlNWdWT0xBajFnZDNpUUFvY0dHY2piWWJMR3lzeU9XSkdUYTFMU1RVc0tzV3RMZlhHQWhWRUswem9lYjNlbVY3ckJqZ3BGdlNNWTdJT0szc3dNbHFtOXllZGhxZVdYVmxKNVRkWXRaODBKcDlPOC1nZnBlbTVGNG92Z3ZvSFp3a1VtT205dXZwdk9RVzctR0o5T3FkTEVmSnZJU3N5bThaZi1sOEU5bVJlWTloOHl0NGs3eGtYMkJlVHphREF6dXhRdmtjcVNmZW1pVjJnblRvNjNDTVNSRjByRW1PRk4?oc=5",
+"source": "The Tribune",
+"published": "2026-09-26T16:02:18+00:00",
+"first_seen": "2026-09-26T16:20:33+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "52ff3c08dbfa2630",
+"title": "NTPC-EDF Joint Venture Targets India’s Clean Energy Bottleneck",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFJQSDZkOXNsd1l1MUlpaVhfNVFYYnpzQ1JqVDJQN0V2RW1wemFzV3JzVlprc0Z3bll5UWs3UTVzSmt2MGowdVd0UzhLM3NDNl9NYUxBQkw5NWo0N0ZUbU01dEdfTlhfUGgyai1fMGhnVzdDN1huSGZ4S3dDWVdDUFJIWkFoalREdDNzVw?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-26T15:32:58+00:00",
+"first_seen": "2026-09-26T16:20:33+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "71a6dc3fd5c1cddc",
 "title": "Groundbreaking ceremony for Telangana Stage-II power plant conducted at NTPC Ramagundam",
@@ -1149,6 +1183,22 @@
 "source": "Ommcom News",
 "published": "2026-09-26T10:03:50+00:00",
 "first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "acca2ec8165a08ac",
+"title": "Media 11 Clinches 16th Tata Steel Friendship Cup Football Tournament, Officers 11 Finishes Runners-Up",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWh0WG02SHJZMzdpNklUdlprTmIxZjVuNTJ5Z25OR1BWN09odTFUWC0waG9xQWp2emFWMmhWbTE2RkNpM2ZIUUxyTEFGRFhGa0N0bTJZVUZLMWNDeFhQaUtjTDdUZUp2dm5hTUdIV21PZ2hUTl8wOHB0QUNPaF9STEJmVldXSFdQQUZMRG0td0I5VmNEVU1qNDUya25KMnNvcjdSQ2pkOUdNaExQajBCY0tsMWNQRWdDRHRGb2lVTWZWclh2b29aS05ILVk5aHc?oc=5",
+"source": "Ommcom News",
+"published": "2026-09-26T10:03:50+00:00",
+"first_seen": "2026-09-26T16:20:33+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -2466,6 +2516,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "87ec07c101321bcb",
+"title": "After Mahanadi Coalfields, Coal India readies another arm for IPO; SECL eyes $800 million",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUE9oc1NIWG5KbFAxY0dHTldMVDZKTFYzeHJOSFIxdmdIM0NKWi15MFJPZGk0ZUYxRmlZRWlFM0pKQVd0RVF5eUtiZ0RSa1VqYktoRlFxclI3eDBnd2NkTXlWUkJlMm5ZVV9NWE1zYWxSaUZtbW1jQk5DT19JbHFCQlhUNllLNzVBWmJUV1ZoN0tpdXVwUkdRckwxc0RWZVJPdWFWaDR3Tzl3UURaZk5QV2pWOUVjVVpDcTcxVUNNc3E1cHpIMnVrTFk0OWxmMmxNTDdKY2traXJaX0ltMHIwdFpUYnF0QdIB5gFBVV95cUxPUE9oc1NIWG5KbFAxY0dHTldMVDZKTFYzeHJOSFIxdmdIM0NKWi15MFJPZGk0ZUYxRmlZRWlFM0pKQVd0RVF5eUtiZ0RSa1VqYktoRlFxclI3eDBnd2NkTXlWUkJlMm5ZVV9NWE1zYWxSaUZtbW1jQk5DT19JbHFCQlhUNllLNzVBWmJUV1ZoN0tpdXVwUkdRckwxc0RWZVJPdWFWaDR3Tzl3UURaZk5QV2pWOUVjVVpDcTcxVUNNc3E1cHpIMnVrTFk0OWxmMmxNTDdKY2traXJaX0ltMHIwdFpUYnF0QQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-26T04:56:01+00:00",
+"first_seen": "2026-09-26T16:20:33+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
