@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T07:45:05+00:00",
+"updated": "2026-09-26T07:57:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -472,6 +472,24 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7b142f6757d03103",
+"title": "Adani Global Acquires 50% Stake In Monvarex Aluminium Holding For ₹20.8 Lakh",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREtBeHk2cmo0WGljVzNQQi01UEM5WFVjbEJNUGcxMXlqNTJRVzlyUlFHVnN1VWN4RkgxOEZqS0IzUDZOSy1YdHYzLW83dkFmeUVxQjFFLU5rWHB6NFZsdzlCWWdTQkdTYjQ4RmtYdjZaNEF4R3lvRjIxZEdWb1NyYXg0Z2FPUEN2cU1uYzRJQjNCNmZHNlV0d0J1UEhwLThBM19RM0p2VUNxRHZaODBkU1h0Y1DSAboBQVVfeXFMT25mc19ER21mcTZXV2o4aVFmeFpDN1dhQ1FHNFdTS3BPTDgzd1d3Q3VVaUV5TWVlNzE3bllqV3hWbW1QZUtBS0J1WjdOdW9KNXE0NzYwaHFPS0ZMNHVpNXpRRU9mWjNYQ1ZYZlhyeVY1bnVvNmE5bXNyanh1U1EtaF9fc2hRWk9vWjhPdGhUV1hCRW5WTC00elVSZWdiMWVlUmVLX0w5MGJRZlUyNTFsVVlDWGFLN3BsN3l3?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-26T07:33:10+00:00",
+"first_seen": "2026-09-26T07:57:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [
 "Order/Deal"
@@ -1110,6 +1128,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "c9ea2591e39bc6b0",
+"title": "GSTAT Releases Inaugural E-Journal: Volume I Captures Landmark Rulings on Sections 73/74, ITC, E-Way Bills, Pre-Deposit, Transitional Credit and Anti-Profiteering",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZ1ZkWG1UdWtUVjN2dk5CMjZ5SVNuTEpwMlA5NjBYRFJFT0NKWmQ4TWJ0YlNPb25Ka0p3OGpEazlBUEJaYlh2RExEN3hDd0lvUHQtYU00dE41QnNMdmdna3UxdGZTWVNsMXdIczZvam50V29Oa3VyR2QwNURzYlZmVFIwbmF2SHF2c2ZsZkIyRV9Ec0UyMXdmV2hzNnRPUHR5Mi1DNXBjdGVTcEdDbDA3RXgxaEdVSi1XV2VSRlpFU05VLVdmaWNoT2ZxZldIa3RUbjhrV0l4LTJMRzFYdlY4ZUpWenV5a0I1SEJfRGVRdHNrUy12azRQT3dPX3NiWm44ZEZYSC16a3ZBcVA1MlE?oc=5",
+"source": "A2Z Taxcorp LLP",
+"published": "2026-09-26T04:43:49+00:00",
+"first_seen": "2026-09-26T07:57:19+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "5fbda53ebdce23c5",
@@ -3493,6 +3527,25 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e7b35f3f331aaf8e",
+"title": "Adani Entities Swap 86 Lakh Shares in Rs 2,498 Cr Block Deal",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjZaRzBQV0ZiUmVJWVhZYzlEdXlHd0FKdDdvOGFycHJSa3hrbTJmTkFpZ2V0aFNDNUNWbkhINlZEVmh4OHVlNkVDMG42bUpNdGZ1T2VwRW9tQ0J1dkZuQ1ZlZnhsWEEyRElyemlmTVlxTGJ6ODNXejdCb1BvUlp6a3ZtN3lBbW12aUZFMllSV05xZ2hpelZrNk5MaXRaNnRXTHZTN040U1NRNXlZVGFvSGR1TVNRR3fSAbcBQVVfeXFMUEo2WkcwUFdGYlJlSVlYWWM5RHV5R3dBSnQ3bzhhcnByUmt4a20yZk5BaWdldGhTQzVDVm5ISDZWRFZoeDh1ZTZFQzBuNm1KTXRmdU9lcEVvbUNCdXZGbkNWZWZ4bFhBMkRJcnppZk1ZcUxiejgzV3o3Qm9Qb1Jaemt2bTd5QW1tdmlGRTJZUldOcWdoaXpWazZOTGl0WjZ0V0x2UzdONFNTUTV5WVRhb0hkdU1TUUd3?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-25T14:56:21+00:00",
+"first_seen": "2026-09-26T07:57:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
