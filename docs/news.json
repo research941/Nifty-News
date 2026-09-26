@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T13:31:37+00:00",
+"updated": "2026-09-26T13:44:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2341,6 +2341,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fa28de62793ecaf9",
+"title": "Infosys Ltd is Rated Hold by MarketsMOJO",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWNrakZESVI4R0FKX2k2NzVacXJGVE1yNDNOUWo0WFVicGcwMWVodmoydHhaYlFVVzJkZkEtaXc5Zmp6anJiQWRNVUJhQkxhUWI3RlhNdzNYeXJuUzlPS0RHZndzNS10RWtfSjNncm1sTE44Ul9jWmY2bHdkNHNZLVY5dk1pMlJBbklnMmdKMWNMd0E1Q3hieHMtclRTWnl1X3pCUA?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-26T04:41:45+00:00",
+"first_seen": "2026-09-26T13:44:13+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5fbda53ebdce23c5",
 "title": "NTPC And EDF Join Forces On Low-Carbon Energy, New Venture Sets Sights On Cleaner Power Projects",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDlVSF9uSHRBS0ZLM2gxd1Ftd2Z6QmdYZlprNjhGcHdkZTdpYTNnYWJaazd2TEtkLXY5ckRhc2pKWFpoV2ZpdXBDa3I5NVhFODd4aWF3UWxfZnB5VDF6ejBQMHFBeU1hbVZWSnROSVlYdXRWdXh0dTVGRXJCZy1teE9vVTNrVy01c1ZrODB1ZW5xd2hFYW1ZcUJtWGI4RkNZYkk4TEExdVFwS1NvRGhIblJMc0llSnNRQW15QmNTV0JQOWVmRUdfdjVPdm9xUGlKTVHSAdcBQVVfeXFMUFdfQ2hiV1I4dE11SUU2bUtxZE5mNmFmOVJsbWxvTkVVRWxIbXpOakNTMDJBVVRUQ2hSdk1BT1NiQnpiVERua0k3NU9Cb285WkdBUEhKYWJqN3RjcFVTTDhQbDhhc0Rwdm0tSUFXTkJLa011T2ZxcEZheFpzblV1RHExaE81N19scXFfdDl2aHBYM1Zaemc2QUZKd295WjRhNE1aYjQwam9KajFWendTTjFaNVBtQVpLaWswM2ZfVGpSREtZRXpSc2tYck1YSkxBNVpXbnl6OUE?oc=5",
@@ -4029,6 +4045,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5f15f70d8f134a85",
+"title": "Maruti Suzuki Swift vs Citroen C3 : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MDRQYlBYTzJNbzc5dEdpczNLZDFmZ3hLYmxidGQzRERocTZDTUxEVW03V0x6NkloNUktamxUT25XUTlqVFlNSUMwc1Q0dTNQVUcxaXlaTHBfWVJRVU1KNHd2YnI3V0JaWWU2U0tKeWlVY3MzNm1ZLQ?oc=5",
+"source": "autoX",
+"published": "2026-09-25T16:00:03+00:00",
+"first_seen": "2026-09-26T13:44:13+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
