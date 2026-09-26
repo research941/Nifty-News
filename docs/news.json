@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T07:57:19+00:00",
+"updated": "2026-09-26T08:21:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "c7a35a803bd4bc2f",
+"title": "Gold may rise to USD 5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDJ4eTVyT2pFSDMyVmdPRUNOX2REVUdSWm5Td3JqZldwZFVpR0xtVkV4anRJS2l6TFlrMjUxcnpKSEctR1dEdzlVOTFET3lWVEQ1UmI4WEp6d1RWTjBkZ0prWWNRM3Fla29jZ0lTQ0FpZTBpQmU4TVVEOUxoSGp2ajl1MmhPQ2h2S0tRYkVsOVhRODUtY0FlN3QyZjVkY1ZWeGNUQjQwRk53UXI5UzFIRkdzRTVZQUlXZnJFMlNISHRTdkNrQUpQRHlB?oc=5",
+"source": "ANI News",
+"published": "2026-09-26T08:09:00+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "9c08bd4b134dbe2e",
+"title": "Tata Aeris Variants, Features Detailed For Maruti Suzuki Dzire Rival Buyers",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDlZWWRXemRIc19uVFNFVzh6bVgzbFl2M29KUzRpVmRicVNzSUdndkZ6V3JqYUpVVlNCWVhGdUhURWdXaHNhSnhvbEFMYkNMTHJCcWdiSzZhRHBWWW13WWU3TGp3SWdqMUJFTGhZZlhrTXVrWWhkRU5CRTQyaWxESFZfQXZHVHZJRHg2Q3E1clpFYnl1c0cxTFY1cjJfb0JGZEZUeTJNcHNObER5MFHSAbYBQVVfeXFMTWhCN1cxRmZHaHozalo1OWVzdVh1U0ptdHB6cWI0MElWXzVJeEF0eHZSekZTS25BOGNLVFdzV0ttSHV5ZTFzNG8zUmgyVTA1U3NVaFoxdE1tRWZfUG9HMC1IS0RUZlI2c3RqUndRWEFKLXZ0Q24tT3p1am5JN0U3cU9INjhmM3RycnlFRVdyTzRxeUJOSFZKZVJvcE1HS3N2Z3RMcUtfcTI4SkVwdzVLSjZrdDljVXc?oc=5",
+"source": "NDTV",
+"published": "2026-09-26T08:06:52+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "900e8640a23ee039",
+"title": "NTPC Green starts 81.34 MW solar capacity in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVExTnEyWGZ0c1BvaWNzWkxHOW9neWdhR3d5Vlc2Ynk4OGNNTkFVNGhUZmdCS2hZNlh3bl9aVVJNRUtzZC1qUVVzMDY5SnRZSnd3MjJuTkk1TkJtOHcxaFY3cGJpLWVMSUdrUUMzMVdjZlllZE8wb1B5S1VJZm9pT0JHZnNUbWVWRjNGWHNyV0M4RVRqVGE0LU5nQVRGalZ1QjNiWFFZUFdfX0k?oc=5",
+"source": "solarbytes.info",
+"published": "2026-09-26T07:55:46+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "168bcc238ccc4732",
 "title": "Tata Motors Commercial Vehicles introduces Mr. Surak Shah mascot for Suraksha AMC campaign",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1l1SDUxZXJLeC1rRlIxTS1rWnQ5Zmh2eFdQMlM5QmJlYWczRDIyS1F3N0dMN1lCWE5pUklYQWdjUnRpbHpCNUszS19rSUttSDBaR002SHJnM2FERU1XZXBQZEljOFdPRGRLYWNHQVhXeThlTUt5bzczaHJUTzZTakh6aS1MWWkwZ2E3SFNPV1FBRHpNNGVEWmdBNXczZXhPQ1hvMVc1S3kxSGw4VFUyZ0VCRVl6ajRnVVE?oc=5",
@@ -609,6 +657,22 @@
 "first_seen": "2026-09-26T07:00:26+00:00",
 "symbols": [
 "APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2ac3b19244132bbe",
+"title": "Max Healthcare Deepens India-Africa Healthcare Connect with Tanzania Centre",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlVtX2xGSjVCZlJqeEJVdHNZTXNOaEl1TFB5bDA5N19Ra3Q3eHFRY1RGdlFrSHVpNlVicG50X0N6NUZ0NEtRNTFTdi02LUM1ZVJxVnI1dEVIb0xRVWhycm5YdklBOElsTnB2WWUyY3E4REhnZ3BUWDd0UW1oS0d2cy1MYlc0QzF5TU11N3BaenNibzBxbGh4dXpBNG1HSVRjZG5ZZkdKLW8tUVktR3JB?oc=5",
+"source": "The Indian Practitioner",
+"published": "2026-09-26T06:53:54+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"MAXHEALTH"
 ],
 "groups": [
 "Healthcare"
@@ -1915,6 +1979,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b9068fc0b2758e39",
+"title": "Max Healthcare Share Price - Live NSE: MAXHEALTH Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qeXBHSDBqU0g2OGNBT1gxRkxseGJ3dm5DdFZ0eVZ3bHE1WDZwaDhDVG5BMndNTG9WNkRYUUtBa2s4UlFzMTAtOXNEeE13SkYyWmFybjNvWlJpa1VXQnhXWEtvOFFIVERCX1B4S053?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T22:36:01+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4929,6 +5009,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "829a3d78ca396f18",
+"title": "Infosys Share Price Prediction for Monday, 28 September 2026",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHpiZkNGZEtBU3NFUWVJVHlBNGUwRnBXTmwySnNJRzZtcW5yU0wwWm4zbnBhVkI0cWFEdEJjel8wbFZxbjY2TGhSWnpBcG4wYUVfbVZJeDZrYmFQVXFzM3JNTEx1YnNsX3pzdVRVRUVicmd3bE1lYWxNa05menFBUjhHTm5XTDM5Mnd2WQ?oc=5",
+"source": "Univest",
+"published": "2026-09-25T10:52:00+00:00",
+"first_seen": "2026-09-26T08:21:19+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3764016bfbcded0b",
