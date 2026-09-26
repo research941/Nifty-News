@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T05:57:04+00:00",
+"updated": "2026-09-26T06:24:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,44 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d6290b64790a7329",
+"title": "HCL Tech, Tata Steel, L&T Among Major Companies Behind Odisha’s ₹2.47 Lakh Cr Investment Push Across 15 Districts: Check Areas & Project Details",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNW1WMkNNZ1V5bE1XVkphazJSU3NPNUVhUVprTVdKR2JMQ01MakVHSXd3MVBHQXZvc1ZoTHlwN3RtT3hvWHdoTmRZUDRCc29kXzgyX28xWFNZbGJtYUZGakV1dWtZNzAwMEk2VHlINGZYSHVMZjlDWktHZGJINldaRndLM3dPY25SdnJRNWRDdmYzMl9Lc1BGdFdScHh1Unp6QXFRcm43b1Y0Q3pKOXhWTkZyQjBhT1JhYkRXUEpRaVJ1djItY0VYTGwwdEJ0bi1aZkFzVmlTZFBtMkhzTDFFUnZNcXVmRW4yaXR6YjAxY183d3Vqek56ZU5USXc5eUc0ekVV?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-26T06:20:37+00:00",
+"first_seen": "2026-09-26T06:24:29+00:00",
+"symbols": [
+"HCLTECH",
+"LT",
+"TATASTEEL"
+],
+"groups": [
+"IT",
+"Infra",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0e7b837b20625d34",
+"title": "ICICI Bank Receives ₹16.76 Crore GST Notice from West Bengal",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGtpaW1BX1I0MEY5ei1SREIwcVM0MGNoY0JsR3hsWTlDS1RqZ1UxYTBfczdiX3RFRFR2MDk1R0NiNGJVSVVtdElGT0RlcGIzclJQUGFWQVBqSkNXOE1KTkdZSERUT25RSC1MQjN4MnRUbHVzUlA1MENJR3ZfbG1WVDBsN010c0puZ0hkU0FZT3BuREw3N0NWRzlYYw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-26T06:06:00+00:00",
+"first_seen": "2026-09-26T06:24:29+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "db95282422e84d99",
 "title": "CSIR-NIIST and Tata Consumer Products Ltd. to Establish Centre of Excellence for Food Fortification at Thiruvananthapuram",
@@ -1358,6 +1396,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b7a7acbde91d778",
+"title": "Airtel Blocks 98.4 Billion Spam Calls Amid Rising Digital Fraud",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80QU80d3l0cXpjOXlZSTc2OGhRV0JNSHgteDJYWW5nMko3dzFuN1ZqdjJzemJ3TkVnUDRhWG9DQXFWcXh0VnkyeElTNFM0MUhJem16eWNB?oc=5",
+"source": "PressNote",
+"published": "2026-09-26T00:32:54+00:00",
+"first_seen": "2026-09-26T06:24:29+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6872,6 +6926,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2753ebd86e592004",
+"title": "SBI Clerk Exam Day Guidelines 2026: Check Shift Timings, Important Documents and Other Details",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHZleWxMSUpPT2xWQTlTeGhqdThwOXVTekRhdnc2Y1FJck41QzFoelV1UzJPM25XcWJKMk1hMl9ySTNzcGpBNmVoVE5JUmtIZHNnWW9iWjBzYWhwdHFEOVBxbTBPejltVmVFZU9yNWw3VzQ4OVNTazdNR3RtcmotQmYtY05vd00xeDltU0EzTFprWjloZUVrV0FON2M5WEhqZGRmcmRTOVppcmRLajZqTFRfalFsajZuUGpiNTFJdnV2Mm1xM2VxbV9wRWNIbFBvbDFOazdNb1_SAd8BQVVfeXFMUE1YaElEQnFiQ0kwOUhpcUNnUWZKNXpUYUNwWkgxVzVZVWRTdFNOeFNSQVppRlVXWkNjSDdPYW5ITm1tT1JjdFpZREtrRE1kUzRHdS1seDVYT3ZrMzBkODd0S21vWWk5dE9qRWl5eHdJc1hjN2VlbDJncmp5TndCWVJfUm1ZTlRsVHZrQ2FRbkFvZXJ2WXZVQjlLSXpYU1RqRnNXT2dDUzhhbnJRbTIzWFRrM2VrdXBQUkZZaEM1bmh1NWtXd3VETHF0QXh0OE1QeDFJdzJfUmdMR0VCYUNRVQ?oc=5",
+"source": "Jagran Josh",
+"published": "2026-09-25T06:58:29+00:00",
+"first_seen": "2026-09-26T06:24:29+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
