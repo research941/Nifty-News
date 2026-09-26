@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T09:19:47+00:00",
+"updated": "2026-09-26T09:33:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "df3bcfed3d2ba3dc",
+"title": "Bharti Airtel Flags 98.4 Billion Spam Calls and Blocks 1.62 Million Malicious Links Across India",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3pVTENLVkxDMXRoYk9Kel9XcjlRdGJJbmpsVTZWbGVWeXBfTnQyeGs0WjBFWVh4OElDSkhkUDFVTExrd0Rzb3JBc1l5dVJTbXdsTXFKQnpBaWN1YmVLLWdLazR5ZURXaG80d0JBbEQyT0xhWGdjb1JuZTExT2NHTTE5alNuR0xrVkZPYjdnQ3dDR3BTREg2dWpzUU1WVkVCSEFuTmttaHU0QjBMMnJYdDNOcG9fbWN3RDdoV3RQbWdfck5Y?oc=5",
+"source": "pc-tablet.com",
+"published": "2026-09-26T09:28:51+00:00",
+"first_seen": "2026-09-26T09:33:07+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4d5d4e126b2a538a",
 "title": "NTPC Green Energy Starts 81.34 MW Kalasar Solar Operations, Raising Capacity to 11,058.57 MW",
@@ -1765,6 +1781,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7d125fb49febce29",
+"title": "TCS launches India's first lights-out factory lab in Pune",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEk1aTM2cWdjcHZsbkVpalcxc2tiQ05TQUJ0R1ZJSVNSYjNlM3gwMjEzVXBTQ3pENmdFdmtOZkhkQkt2WDd3SDdZOGVhMW4xcmFrRlQ1Xzc4UkRHNmRVSWFoZFNUOTB2Q1ExZUlKTFMyV2VOTVRpSlhOdXFTR083dUZVN1FzWXczVVZKay10UGdMN2xMNkQ0NGRRNHFUUGp1eXUtTHZWaEV3YXNndEpNU3RMTQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T03:22:13+00:00",
+"first_seen": "2026-09-26T09:33:07+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
