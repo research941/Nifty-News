@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T03:34:32+00:00",
+"updated": "2026-09-26T03:47:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "8c91f34e90be0c21",
+"title": "NTPC, France’s EDF Power Solutions form 50:50 JV to build low-carbon energy projects",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTy0wTE1sQ1ZvdWpoUkVJN3VwOGFMUTd0eWlpemh2V2RMN0x5aHNmeVpkWU5Mc01kUFRNSldXN3hJdmRYQWlnTHFCaDdKM1ZTQWxabXlEY3UyMGhHQUFIV2NjVUVrTkFMTE1JVE1HZDAwQkRraEdBQjBLdHRIWXJvTVowNlE3Qk53NHhaamJrYmtLYW84cTJKR1AyXzFQSnJJZE9HY2dPa0h5WmsyVVpwODVFZG5JXzByaE5EczJ0ZENnTVZSWUtuaTdiN3pNVWhiZ2JnY3NtODlKdlVGUldDMl9BQmzSAeoBQVVfeXFMTmp4TDVZVXd5QWlPa3A4Ym9MTDkzNTRLSlJKYjM5VWRRVUsxZFlnVXhmNjVJSHJaSnpUcVhNanBaRlVlZGRReDlFVGFIYWdWRXA4NFUySnMyaXZ5ckxiZVhQUDZjd2lxNmhfOGpnT1loVmN3WWZhQTZiTGVTdHh4TUlzbUYxTWJzTWlmSHhjV3AzaVZRckd4VF9FRmxpcFdzZmYwUlZELV94OFN0cGExellRRm9EOEtueDg1NnpBLVc0cEFCWEtnSUxPazM3RDRZY2NlVmdtTE9HMVpNWXRYbG1EWXpxYS1KN1hB?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-26T03:35:28+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5f486a60486fe39b",
+"title": "Tata Steel gets more time on Dutch deal as environmental challenges persist",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbl9DZkM3Qi14dURwYnQzSXg2UmdyWnhRbV9WdmFVRTl4ZXQ0X3lLakFCV3dQSU1wbHpuWGpUOUxrZkRkbElvcGdGN2tiV1BVaUgxSGlzc1hISmRuZ3MxU2M4RnhRWWxSVnBVUGlFZFJNZXdIbmFRM3k2SkotdjZlRFlGWjJJbkJzU3VQREVzc2huVUJVVDQ3ZDBvN3JPNno3eW1EYV9xNmNNZVVkMW8yelFFVkxPdWEtR1JPRjNyR2JMUnZheU1Mb005TTHSAdIBQVVfeXFMUF8xWk1VeUZPU0tBRnJqVjlIT3hMVE5GMl9oOXJrVTA1WkFINDFnS2J2OExyUTNJbmRKUUM5OVB0aVRsbGdvZl9VR1VQcVQzLTdIQ0huTFhlRkFhb0tNN0hOcXg3UEx4VzlZRkR1bG1CdEswY1kxOWdaR3VrWTlGdXBPdmwyZkkteGUyNGtYY3Jwb191VEtHNVJSSjVoOXZGamFtZlVOU1NMbkNuQ2dlOVpxM1dfcFEzbWxyaWhjVGlDVE5ON2N4T0J1OVpLWWU0V3NB?oc=5",
+"source": "telegraphindia.com",
+"published": "2026-09-26T03:33:18+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "71636788a6d23b1c",
+"title": "Mahindra Thar OG vs Maruti Suzuki Jimny: What Sets Them Apart",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2pLOE9WNmp3NFZLcHc4TGFDZDhFU21fRVBvZFFjOGlINGdSZ1VVOXB0TU5ULWRjeUprV2VNTEFpemVxcUpkclZfX0lHYW9oRUlyOFpONUNOcUxEYTBWTDZ5TmZDT0gyZ0xwZmpmY2hZSVZlSlUtM2UzRHlGTWlwU0Vkem9CZzREaklLZUlDS0t0QU5HSV8zNjZOUlJxaFN1bUJkR0lHUQ?oc=5",
+"source": "autoX",
+"published": "2026-09-26T03:31:00+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fd12b50dd50f928d",
+"title": "NTPC, EDF arm in 50:50 JV for low-carbon energy infrastructure",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFRSVS1UeXlXUzFkUHpiSUlvbnZ5U1J6dERhdjNRNkM0VHVjNUJ6YUJ6WUhMcmJGblVLWHpyVkVXbV94bndrdDZpX0prbW8wZzFMNjN4ZzR2d25ndjlRV2FqaVlaTWZGX0I2VHgtbzd0ZnRJSXFhOXA2SWJhX0lJdFprSXFzZmFuQzNqSzVMQy1yMFh0V1Z0eE9MdDZxMl9DcEtjSzFfUDZQWnRaZ0dsbi1WTzRVdlZDdDJ4eHJGNi3SAcYBQVVfeXFMTWt6bk1oSmNQT3R3cVZ2VHZPRUVTMEF5TGxMajVJQ1E1VmxEc1ZLZE9fVFVya0Q5c1dwQXNEbUtNcHhxSlBONEpHWWRnczUzTWhmelpHUEJJR2hSYkdHMWM4b0hkTnBTQzRPemtWdjc5MVNQV1JBNWg5T1ZfVmxvdjVWOFRmNjNZd2Ezck5TUWhla2dERUtmeVMzNkkyYm1xempXOElUY2laU1VmLTV2WWFDeWpWVnFFZ1A5THhaWEF3Y0IzY1lR?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-09-26T03:30:28+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9ec81d6621258674",
 "title": "NTPC Green Energy declares commercial operation of 81.34 MW solar project in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWRaZWhLSGVwOS1QNnl5YXZxSkF4T3Npazgxczd0dkhzOFlXc2FMaXU0ZGFRbTNId2docVJxM1loZE16YlJIVU15R01VMFM3V2JoNGR4czBVNWZOZFNDdThBcmZORE9mX2JZakFtSDYtdjV3dkhfZVlLbWRpM0d2a1FRaE8zYnVIazBxS3hwMklqaXhfYktYdG9yYzNjQXBkdmx5c1VXTXp0WGVrWENJQ3ZsOXF5YmRWQmVnM3BteFVPUUFmaGc?oc=5",
@@ -456,6 +526,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8fe6c7eb1bd1b2ad",
+"title": "Tata Aeris Costs ₹1 Lakh Less Than The Maruti Suzuki Dzire: Check Variant-Wise Price Comparison",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUnZwYm1QazdsMWk3bUdsZl9vdVNQa3RNQUlKNnMzUkZOR0VUZnA4TDBwcFNPSl9Ga1dVcndqQllJbGtOSUtKOS1rbmoyWXMtc05MYlQ5X0VIdlFhMlNkTGZ2S2pXU3dzTEJ1cHZsUl9qUW5IZzRPZ3FJZXNjdzhDRWx5T0xUVmxHNTVmdDktWmRsUmdkLVdqQWJIcWlnMl9RMS14Q3dZSkh5WW9xaVlRdlMtTHlUb1RRcG9wTENTOWRMbnYxMEJnaVgtanFfY3RHa3V3cThR0gHcAUFVX3lxTFA2eS1rSGgxVFlicHN2SDdDazJlOWN6MEFCWW54QTNxUGJDU1RIZDlWRWVxTW1jT3RVTHZsRGxnT1VpZExoYk1PYVFBeXhsN3I4NmlvV0FqX3EzLXJDWW05djdMSGhQUm5RUUxrZG9vWTE3M2lVTXdDWU5RTTlkMnlIenVZbWxObzZzNElOdVNfdWx5TkZwM1I4aFB0OWdDWEY0S2RKUWNWNl90R1kxRjhDWW81S3pGMEJKdW9TaHZiNnVQUmY1VkktRld5SDU5MEJneE1oY0NENFZueG4?oc=5",
+"source": "The Daily Jagran",
+"published": "2026-09-26T03:29:00+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -524,6 +610,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6b5981b0feb7a38b",
+"title": "Adani Power Restructures, Merges 10 Units",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWZGX29lSHAwMkVnYnRYOHBVQzg3S2d2eFRMYmxwcTlwWm55elUzT1VFTTd5UWFMd1MyQXB3UndvRWlsSnhTQnk5X3E0ekUwNFRUOHo0ZHlheFNKUWpxQTM0cFRBTmpFaU8wS2lRbWJfUU84ZnNZQjB5bVpBenhPQ2xQcUF4aWs?oc=5",
+"source": "Indianweb2.com",
+"published": "2026-09-26T02:43:00+00:00",
+"first_seen": "2026-09-26T03:47:26+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
