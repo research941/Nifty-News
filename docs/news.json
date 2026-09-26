@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T05:19:00+00:00",
+"updated": "2026-09-26T05:32:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,108 @@
 ],
 "items": [
 {
+"id": "a3e00c17a0a1a084",
+"title": "RCF Places ₹797 Crore Order with L&T for Ammonia Plant Revamp",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnVFT3NldG9hd1JrN1hIUk9fa25Gakp4OVdYVHo2Zkt2S29xTGZzVnNwX0pMRlJUdnZOTGowdVR4eUpLZnNsUFcyQ2hkS3RqeHljMkZUbUNFQXpOLWxaMVI3N2cyUlZqOEViemgxVzFQZXprMm01VzlhWVpFejUxMDB1TDBiYWR6NGxQUHJ4QjBNdFdjVzBCeS1Haw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-26T05:26:00+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d8f775a9e94a7faf",
+"title": "JSW Steel strengthens Kerala presence with 360° Onam campaign",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkdKVGNxWXVJTEkwSVRxZmFyVngzVnZRMGt2X183emh5cnhtY2NwUk5QUGJuRXhyR2Fma0oxZDJtWldhUmJpYVV4eHB1Mjh5Z2V3NXVYM3NCRnpFNmVFczJMTXlkVW1XSW55ZUFXeVY5STdqNVpQVjBucUNaZF81SmJ2SXdpaGp5THFwa09kYkxzNnJZZE5VSFJhLTd5YXdHYjZyVmVVU0U4eldDYnRuYUVXUDkzU1BCTjkxU3VmZlplQVYz?oc=5",
+"source": "Exchange4Media",
+"published": "2026-09-26T05:22:00+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0009e4b7438cb92e",
+"title": "Coal India Subsidiary South Eastern Coalfields Plans Up To $800 Million IPO",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlNMaDdldUM4WDRRVWxKc3Nac1Z4RG1aZmQ2Q2o0aGczUnZybkl1eEtDM0dpVG9wXzhEdTlMU1FnZzlfQlRpeXNRTlVpd2w3OGstWmo2aVJ2Tk1yQXZLcGhfM2hBV3UyajNwTXhyeFA3bWkxejFWTjNIR1BhVUNaMUZpSW9TNk91Smh4MllNMGF1VEVlRXhmOFFkUkdKeFQwd2JLb243RU93T0JQZXBjUWluMGJQd9IBuwFBVV95cUxQV2JlLUxjZjFkZ3FiQXU2M0haaWExSlh4WDUtREotejJERVZUcDdVc1hqVVkzUUJfMDdkLUE3cnZhVThpSWJHZTZmNllJbHRLalg2RmZIYmZtaTJ0MXpaRk9OSWx6UEhfS0lYbzZNTWxtRFVXY3l6bkNKUHJJT05LRURqUE56Z3B0X2xEYmZPREpJcjc4cUhuNFpUVTBhUXY0bDJJQUs5MnFxdHFJNDItMEhZczVnQ1VzblJN?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-26T05:21:11+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d732b6fec1fecdf2",
+"title": "GST Cuts Leave 5-6% Affordability Headroom For Car Buyers, Says Tata Motors' Shailesh Chandra",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnotY1FuRzVTWDN1c19kcnZ0Y3IyeERBMUNPN2Z5NHp5YkppU3o3Y0RzbllVQ2YzVkJadWNpdnZxc1IwSkJnX2FQbldpbXpfNlFZWllMdVQ2SDRFdHdBbE5Ld3pjNFZnSS1aQXBOM2U4RUgzUzVWWUxIT3Z2S3kyYXcxXy1lMlo4YUdPQ05sM3VUOVdORU5FOHBOcHlqMjloeHFHNFZqM3NiRjhkWGhRb0V5ME5xZm56Mi00M3dNRWVkUE9MTkZDVmxHajhjVHlmVEx3Zk81UUpVOGvSAeMBQVVfeXFMT2ZDbS02ZElxQmpaYUstdUw0MFFrY1NPWXVUTTBMTGtSU0pBZXp6R2QxTVBrSGU1a0ZOOFBvLUhUZTNKVE5BSlpXMjBMOTl1TTF0Y2dQcmZqd0tYU0pLbUVDY2dCTVlqSEU2STAzMGZTS2RELV9IVl9ycEJqSlhkQmdlVjMxdFZBRE9GSHFnelBkZGlTQ1VpNFpEWmZDSlFfRzdBdHQ5M3FsMU5CQXZxY0V6YS11N1pjYmJ4aEpRaW4za2lyMGdDRHRDOTRiVlRrakhsMFJrWU1IX2tCb3l3N0tuWkk?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-09-26T05:21:01+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "8236c2c68a677e2c",
+"title": "NTPC Green Energy commissions 81.34 MW solar capacity at Bikaner, Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYkktWENBUktibHZVNUw0c0l5eGtqbklQOWRVaEt1NGtkY2x5VDRnbkNGdTZzNlVnaF8yeHFJSXE3Sjl3SEY1TERIalNRa1lsNDFlQzFnV1J5UlFJZUJJNDJpYm1zc1gtWlNyU3J3ckJUSW0tRUFfdWNwZTdXX1E1a1ZYOU54eERET2Nyc043T3RXUC1jUnF3UTgybndLckw3bUthcVlLajNuZUxRb200RGwyQ2FNRnBHOVlNa2NGNjFmUWU0VEY1Z1d5SjZzQkRfbl9VUDlOdUlxQTNaOVpkeU80RDlGZFBRemQ3Y9IB8gFBVV95cUxNR2pnNG9nZllnejVLcnZKbWdtdVE1U1JUMVR0SmxaWUtYRzc2UjlJX3BZa0ZNc1VTZmFsNk9rQm1SZExJN294TmhXZl85WU9vS1BfUndBVWx2VFczN2FJcDc5U1N6bUpzNDJhYURWOS14VEpaMGV1MGR0VDljRy1fRTN2N2Nvb1ppMmk4bVlZSVFOWURDQjZhN2dsMml5UFNUSFBWeWN3NUU3aHoyd3ZJZHNYb2RTUjlrNWstQjREY2pWdHhzOFkwVTE1RzdDX1ZBMWx4Y1dQbFJEbE1FcE4xZWN4RU5GS2xBWnJuQU9wMVdyZw?oc=5",
+"source": "Business Standard",
+"published": "2026-09-26T05:20:02+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "24b23da4a2636102",
+"title": "CNG Car Sales August 2026: Volumes Cross 1.05 Lakh Units, Maruti Leads With Nearly 70% Share",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblZ2SmhzNWJFVGlkV2RJeFVnTW5aNHVMQzhIQ0xMTTZEWW9VclhTbzVFNkRwdWl6Vjh0VzRxdDFNUC1uZVFjNHhGTnBBbmlYV3hPVTdUSV8yY2ZUVUkzNk9KcmRRQmRhZmV1aFp4T2xkVm01VDlnaS1sTHljZjNacFpORnBaNkVhWHVFNDl3?oc=5",
+"source": "Autopunditz",
+"published": "2026-09-26T05:16:02+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8fafeef1fadb9435",
 "title": "NTPC Green Energy Adds 81.34 MW Solar Capacity in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWdSTlZmVDliZ2NFTjluQmtxTU5ycE1ZTG1xcmZvbUZUTFJKU3hDU2VjU29jcXJCLS1lemRJTEltUzRXQzlOT0hNUjZtVC1XX1FWUnA2blJzbkpLdDk1b2FQZWlGMS1IRG9qak1hMHpiN2k1SllxWE0yWThyank0QUdXdGJpTTBXR1pOdkFlRzF1LThKWkpnU0Jn?oc=5",
@@ -765,6 +867,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f73b67de1f1b1940",
+"title": "CSIR-NIIST, Tata Consumer to set up food fortification centre in Thiruvananthapuram",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVWd4WGxvZF9XREZlZmRfUzVvUmdDeElHT1hHZWxHTmg0RnBYNnc5b0p5bE1JNU9rXzUyRWs0X3F1dm9aVld1ZEcxQ2lRMVlPU2dHMm1zbUV3MWhmM3hpX2RUajlMbFRod3ZyUVZrWERyb2VXSjdSVEdYSmhzYTFyajFMZ2tTX1N4RGdtVWlSXzZjeEFLeGl1dWtkZlhNcHUxZUdEU2M5Z1Z6R3pnenVtMnlicEdZVm5iRDczdU1TTjFOS0lzUHppSEFZZ3cza2JBd21OZWRhbnkwTHhydHlSSTAyNHp6Zld5LXRtQTJQV21NTDEyemRxMUNabjFobkQ3NEN0ZVNPVWZKUdIBigJBVV95cUxOVWd4WGxvZF9XREZlZmRfUzVvUmdDeElHT1hHZWxHTmg0RnBYNnc5b0p5bE1JNU9rXzUyRWs0X3F1dm9aVld1ZEcxQ2lRMVlPU2dHMm1zbUV3MWhmM3hpX2RUajlMbFRod3ZyUVZrWERyb2VXSjdSVEdYSmhzYTFyajFMZ2tTX1N4RGdtVWlSXzZjeEFLeGl1dWtkZlhNcHUxZUdEU2M5Z1Z6R3pnenVtMnlicEdZVm5iRDczdU1TTjFOS0lzUHppSEFZZ3cza2JBd21OZWRhbnkwTHhydHlSSTAyNHp6Zld5LXRtQTJQV21NTDEyemRxMUNabjFobkQ3NEN0ZVNPVWZKUQ?oc=5",
+"source": "ET Retail",
+"published": "2026-09-26T03:27:55+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "517b97b311f0cead",
 "title": "NTPC Green Energy NTPCGREEN Kalasar Solar 81.34 MW COD",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUks1bTBlcWkzX0UzUFlUZDF3X252alUwNmRkVWxIRmlVR0V3OEt2QURfWV9maHNSOGRjbWs0LWdUVzE0ZG5VRFg2aG1NWHZteDZCMGlKNTIxWlp0ZjF3Q3d3aVNVUHU2QzJWSEpoREFMbl9nbC0xRldkeXVTSkpudkU0U0taa0pNVEhJRXB2Y0JBU2JJUU5uNVFGbjhDX2pNYTQ4SzlkYl95cDc2dmY1VGEzVThLWTBWQUJ6NGpYUElHdGp2eWc?oc=5",
@@ -1077,6 +1195,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4eeb41d7a0f217f8",
+"title": "Sun Pharma recalls topical anesthetic, anti-fungal cream in US",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelhmcFd6S3Z0LUQ2TUI3dGVOMmNZeGtNZzBNN3ducjl6R0tEQy1IQ3hPVmhBMTE4Z3N4MXRfVUVYV1FiQzZka0lXRmZkbFp1bHRUa003TG0xQWhLNG9MSlVnd1M1RzRoWmFnaEM1c2Y3WHkxSkkxOHg4YXlpNWt1bGpfYlNlUnBGd2NEV0xkWGVDWVpQYkhUOGw3NjU5Tk1jRUFjeUFUVXJjVjNlV2p6eTYxdXdfR2gwTXBKMl92NFhNZTZ3NVdMS3p4WWEtZGNtNkHSAdcBQVVfeXFMTjBocHBpUzUyUzRHX2R1SWl0QXNTdk5nczEtUkpjNUlpdGxtYXhmbTFRZ3ZfQ0ladnU0cHkxM3p3VWk0ZFpyU3lnZjR1a3lmVnA2UnpxSlNicTdrTnpFMjF0WnpabDVZeGxNQ2wxYTN3TlZrVy1rQ3E3UmFVWThHWnFLaFh4a1g5RnNoSE5WbjBPVExxdW0wcmVpQVFiNGZNeFVsVXJSZWNoLUFtNEdDaUhzSUpFM3FIbllUcUs2dWlRWW1XMlgyY2NuNWxBNU9mZU1OXzJLZU0?oc=5",
+"source": "pharma.economictimes.indiatimes.com",
+"published": "2026-09-26T01:02:07+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8aa002cf65cd1d09",
 "title": "M&MFIN Share Price Today - M&M Financial Services on NSE/BSE",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LbnBjVVRfaWVvbWcwSmt4cDhUNmtnZVhkOGY3VldKRDBXUlVRWTNzVnhGVzNuVExoYWsxa3kzXzdYcmRPY3F3U0tNMFRXSnNEeUs3WXA4OTRFWUZzZ1E2Qk9waE94YkpXUnpyX2xRWXhRX1BCVU04?oc=5",
@@ -1174,6 +1308,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "bea258adc05668bd",
+"title": "RRB NTPC UG CBT 2 Answer Key 2026 (Out), Check Response Sheet Link, Objection Dates & Fee",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclA3N3ZoYk5PMG0wdFlSM3FKVUZZMl9aOXdJNVA0eWNoWml3SVZZV3BKN3pnNWNPSjdqSGhqTDRoT3RadmE2Z2cyVThWVS04SFVxVTRvRmw5cVZ1TWUzRlMySXl2ekZicDdUd1VTbTdwd2tybjYzcGxlMVhFNU1EQ3dOdmkybXcyQk5CLUJYeTFSWjdYQ1h4dVZfUUJ2MXNaS2pXdHpSa2QzOXZBX1dkRw?oc=5",
+"source": "PW",
+"published": "2026-09-25T22:37:06+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4117,6 +4267,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c7c0e67fb31c1e7c",
+"title": "HDFC Bank Prediction for Monday: 28 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQU9TTXhzTHpfX1FVdnpYc0VVZTdoUjR0eExxMHk4T1Z1dDRRLUhJVlpMejhyei1zZWRoY01ZSGVwYVByTW55TUFldXVMRFBWd0dURDZnTkJvRGQ5MHNwU2ZCTDVSdGQ1eVdXS19BbV9iS1lyeVlYeEFpQTByakJUTnlVLWpNNmttQ3FVRmRtdw?oc=5",
+"source": "Univest",
+"published": "2026-09-25T10:50:00+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "10b4bb039716bcd0",
 "title": "Infosys (INFY) Receives a Hold from Wells Fargo",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjBJLTl0TzhzWDZ3bzdjWTUzbmx5SFhTcmVIVEp6OVVDVHRRWk42NGE5OTYxejdYdWVtREozUjJ2XzBDeWlqY0hKVzNNdkZqU3Y1b3d1V1Z6LXhxYVFNaHBiZjBGand6TllhZ3JDcmtwNXFaX0dYT0hCalFtNjFadkpaUGdRUzlWMHZ6WDVkSjB1RjByck1nQ2lCU3JHaE96ZHR5bGhBc3ItU1VxTVhadG93LUwxUUtZNVF1OXV1ZUdBckRPOE1VRW53?oc=5",
@@ -4451,6 +4617,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "cf0a0b56074b843f",
+"title": "Sun Pharmaceutical Industries rises Friday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDNhNFZ3a3dTTVNvTElSckhVY2JhYkhYeWJ6dmVzX1dnZ21BX2NBeHN3anNwQi1BQTRmcEdrYWd6ZWlZOFNPY2tsX1V3OUJIMmREQnhFRkUzWmZyX2RQQk50ZFNQbGZjY2c3NmZDdVlmcFFuLUpKbnhzTmhSOTRacW11NnRFX081LXhBVDR3bjBOb2d0dk1TY1IzTWtOUW15TkQ5ZHJUY0tXazFOMkVLSmltakxBWnNXcVpIbmFrMG01dUdfcDltM2R1SmZhemZsMktWdTlmZEZLZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3b0264de2ed80f6a",
@@ -5457,6 +5639,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "749829d1581fd67e",
+"title": "Adani Group unveils Rs 4,000 crore hospital, Rs 1 lakh crore Bengal investment plan",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDBBQ3kxWklaQ1haeW14OUNfQ0x3V25BWnNKVktKUzZyVkp4dVYxQmxSNjlvV2lxNU4yYTlPcGNhbWRwc2tTZzBKRnVqZldmajhrZDh4ZWpYTkxTQzdETFlFR0xmM1A3LV83LURkR1MtU2dZVWpfUDJvTVJWcDh2bjZMaF94NUJvSkRwVW5WUTV6em1pQ0N4UTFkSUtqOHZROHFyck5KR1FmaFVGT3Q1U0hDaW9jOXpyZlE3Qk5hTXPSAcYBQVVfeXFMUDRhdXNwNFJ4S3ZwSlNQX0tVb094dnRUeXV1TXJOempzTm45UG1rMWRVVHcweG5jN09uaUpzaDI2QTV6U0ctOW9OUU4tUHNzc1ZWU2tQU1JkZXhhZ2czU0pPWERZWkVtVFY2c2gzVFFreVJPdEtWVVpKSFZfcElzVVVNcFg3OWFwSXY1UzNLRW91QnBNclRzS2gwaGlYOGRGY0w3MDRvSTF3U05JZ2Z3Tk5OWmZuN2g4dldBMzAwUlpoNnNDajBB?oc=5",
+"source": "Free Press Kashmir",
+"published": "2026-09-25T08:55:26+00:00",
+"first_seen": "2026-09-26T05:32:39+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
