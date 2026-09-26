@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T02:19:23+00:00",
+"updated": "2026-09-26T02:33:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -540,6 +540,24 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2184979713c1eff0",
+"title": "Five Adani Group Companies Settle Sebi Cases For Rs 1.51 Cr",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDRaYkkwbFBjY2Z2cW1pcXk0ODU2RVFqclZzemM4ZTZqVU9HOTRoRGlhZ2Mta1RnbS0tZG8zYlZrYWlKQ2tlWUk3RVp5MnMzbnNQWkxsUzhXY2twUlFucHNRRUZwM004c0p0UVIwRGhId01qYW9tU0M4SDVNX3V1eGVvNnVIbkVRdFEzY2VndkFQS29UUi03NVY4QndIT0Y3RjZMTlpR?oc=5",
+"source": "BW Businessworld",
+"published": "2026-09-26T01:11:47+00:00",
+"first_seen": "2026-09-26T02:33:27+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
