@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T12:23:41+00:00",
+"updated": "2026-09-26T12:48:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "cc9294b865a08439",
+"title": "Railway Board Opens 3477 Graduate Posts: RRB NTPC 2026 Application Window Now Live",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5uTVBaNGw4S0hleDFiS2hNQzhwMllMbkQ0OHZNbkZ0dHMwUUo1QVJuZG10NVZwV2ZmbmlqTU1jNXpWQVdCb2ptWDJ3WEp2amNqcmVPd09oSGZuSFR6WTZPc3RJd1c4R095VVh1Y25raUNBcFdIUHhQRDVSR0NxYnltVE1RanE0UkwwTDNNVnVPSFV5ME8wNWhkWDlBS0JpZTNlN2p5dkxLbXFhYjdQanJ5NC1DQQ?oc=5",
+"source": "Observer Voice",
+"published": "2026-09-26T12:33:47+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "624ca8266698be1b",
+"title": "Maruti To Gun Blazing With In House Made Hybrid, Turbo Engine And Quicker Launches!",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelpoZFNOaXFVdmlJX3lGOC1fTFdRRHFDTlIxbFZSZUtfUFdFUHcyZHYzOTVxbFFtTVhWN1hMVVJYZFppV29hODhLM1U1eFVqQzhOZjQzb1dUN3ctQzJnelZ0YzRITFJFUnRQZ0VCMWJtUk9QNDNCREo1NFl2OVZmU0Q4a1gyREZwdnJ3cnRWbUNUWWVNWHl3OTZBS19YZHhYS1k0eXRnMldFdWVMQ1E?oc=5",
+"source": "Thrust Zone",
+"published": "2026-09-26T12:31:56+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "acb0270e582c7dea",
+"title": "Railway Recruitment Boards NTPC Graduate Notification 2026: 3,477 Posts, Apply From October 8",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblo2N0dwUmFjY0tYZkQySTdrTFgwbzBsSDNEc0d2OVdDQ1pyMFJsX1RFTkRTb0std1h4dGFzcDR3bnZidlV0Zk8xb285WnNMU2NjTWlwdU1iUTNRa0x1cUhNUFNtc19qcHIxTV9UWGdycm9vdHYycDVPMlJtSnhUSkt2QVdVRldkQU1saUJyMnBSakJZc2hyeVdJdXljVUhCMTdLU0dYekVxUm9jZGpsd0s3d3ZiNmp2UnZjQlRTWl9KTmlfT1lqT2J30gHSAUFVX3lxTFByeDBER1plZmN3WWs1cHZ1V1dpa2NDeGJnQmozZ2FpN245cFl5RVNuVFdmc1Mxb0dITElsS0NqMGVUWnA3ZHpiSVc3TzI2S0k3T2pManJZcHFQOTZTc3BCWnpaQnpKNzYySzBSN05zWXM3VFhfNEJQMHFiVFVSMmt4a2w0cV9jR1U4em0wMUJiR1hLSU4zektXNmFDTkJMZHJaNHU5WXUxNGxMMFNfLXpBYTVPOFNncUxKbDh3UFlxeHJ2cEU0YzFKZTVnbkQ5eGhXZw?oc=5",
+"source": "NDTV",
+"published": "2026-09-26T12:07:33+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "778c4f41ce5a9678",
 "title": "POWERGRID Approves ₹10,000 Crore Unsecured Rupee Term Loan from State Bank of India",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUJQRkRRR3JDUnpHQ2F6WnJteUlybHRfMUVtVGFVYlRzcHBBRkttSWVvWVBxa3M0VU9iTmxPazFJWkJiOEo4NVFBWXVPSTN6eVhfWWZUX0dwSG9tZ1JVQTc2WnJtN2pUb3ViWkxLbENtZE5SdVhRS3ZhZXdNZkMwUlAyLVNjdkF1MEVpalNZLTdieTNrNzYxZFJtUS04WWVsSjF3?oc=5",
@@ -504,6 +552,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "98b4d2455bcae04c",
+"title": "Trent Brown Takes Positive Step Forward Ahead of Week 3 Against Colts",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlLSml0c3B1V0NnNEJ2LTVFaTVUb3Q2VnpIdGNNZE1CX1NXWktqcWxKS21jMHMzUGRISV9iQ0FDaXFBeVVuZ0h0NU1iVTBXYkF6Skd2MUJyb05ONVY0eXROTmhjSzJrQ3MwTWlJUjlBN2FLSjBCWV9WSk1FQWV0T3NPcFY4VFZrN283Wjl4YlpnNG1RUVZMcklDZEFGNjVsWEpWSzdZRWdSVVhnZnV4RnFKOC0?oc=5",
+"source": "roundtable.io",
+"published": "2026-09-26T11:28:57+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1395,6 +1459,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "eddadab0d3889bac",
+"title": "Apollo Hospitals Expands Advanced Life Support SMART Ambulance Network to Vanagaram",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTzVBak1hWUN6RVJlWTMyZElHdUI2OVpNRUtWZE13NEN3YmVUcUgzUW1MZHBUNjRhMkZWS3UzelQ5eklQMFZuN29WX3FIc0NfQU1UaGZDWUFTWUpGSnlnQTE4dnNvaXd5NDduNUpIeWpIWHpQd3lIcEZHNkY1cGRIeTlqRW1pRkI4WTBuT0NZMmlIUHdMQ2t5anRfejgtQTlDcjRXcWhUYTcybndpdmVaYkI5MVI0S2JJalRvYWJVc194NTVkZ1NmMU9PVnZrWUE?oc=5",
+"source": "Apollo Hospitals",
+"published": "2026-09-26T07:18:10+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2587,6 +2667,24 @@
 "sentiment": "positive"
 },
 {
+"id": "e38cbc740d508199",
+"title": "Dr Reddy's Q1FY27 revenue falls to ₹8,071 Cr on semaglutide hit",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXVGb3Y3SWx0VmFfb0ZwWkJ6bHY3MmVjUUg4TGphQllvVU14MDg3dFVJTEVmLU5hQ3FmMjZPVTEwdUJRVl9SN3drNVRMRGNrRjIwb0poVmR0US1WYXA3Wk1Hdk9ZZlpoeVRGcFBsa0lzOTBHM1lMQnFZd3pUYVVpMndVN0JocURkblpoNGJUWXUyRXdtMFBZR2N4WU5ocjFaejdlaC1LR3JoOHZudkg5ZXhnU1drSGFjaW9MMDd0V0pENjZwTlE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T02:23:03+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
+{
 "id": "ab13444a1532a0b8",
 "title": "Jamkash Vehicleades Kashmir re-launches Maruti Suzuki Eeco Cargo",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FxNS1TSnVlbnE3R0pSZU1UMjdKT1hVLXI4NzJIRFhOLS1EaE1ZNTVuNThGOXV5eEdnZDZIamZXWDczd2NQQ0N4M05WT0NFa2YzUHVfX0tJMWVZYnhlWVlrUVo1QWFsWGR3b0tBRnhPTERsY1lQZFVYaDhoRzIwU0dkazZ1U3Znd2hGV3NBMmR4akdLMzVSYUkzMGYwNTBxVG9EeA?oc=5",
@@ -2911,6 +3009,22 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "d7cf942a46376cfc",
+"title": "Titan International to Divest ITM Undercarriage Business",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUdQR3Y4blhqQVo4WEIxQ2dPeGdObk9UMnVWOEJsRThESU83Ulk1bUF0bUg2UDZlM2l4UzVsXzBvTGhoOHc2X2drMDVyRml2NGkwUFQwR3BKcWhQRUxpcG9vWEpSRTFSU01CRVNRUGxDbkxoTUhYckpxcGtxdFp6VTJjWEp1VDhfdy1RZ1l2dm0xWjdKOS1NUFk5OWFDWXp1cWozeEZyZk1VUzh3?oc=5",
+"source": "TipRanks",
+"published": "2026-09-25T23:03:35+00:00",
+"first_seen": "2026-09-26T12:48:38+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "ac42695ab53d4975",
