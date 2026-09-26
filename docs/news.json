@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T01:32:02+00:00",
+"updated": "2026-09-26T01:45:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8101db2b32292500",
+"title": "Airtel Announces Amazon Prime Lite with Select Wi-Fi Plans: Details",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXFra0o3aXk0UldXbjBoZnV0NVRNdFBOdmJnMnVQT3hlLVhaaVZ3aVgtUGZGbmVOUEdVcVFwbW1aaklKRFFlWDgwT2R2MWVTRUFPejAyZnV5dnFJNnBYVzl6VEdLMy1sODByZDMwdnpRRXVQdV91QU1XNy1VOG5wcDN3?oc=5",
+"source": "TelecomTalk",
+"published": "2026-09-26T01:32:15+00:00",
+"first_seen": "2026-09-26T01:45:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "38b6c48bdd32577d",
+"title": "ONGC’s Tinku Sengupta Nishcal Wins Women Leadership Award – Pipeline & Gas Industry at PIPE-TECH 2026",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFpGTXBTQUtYbnA4SXlVV2tjcVdHUU1hM2xQUjZfa3hIX0tfQVRuNGpJa0RZX0J4ZHJnNWp1LWR6Q1k5d25yV2JuamJVdXNPX2J6clc4M0YwX3hlX3dPOWF3dGlNZGxMWktEYjhqYll4Zi1VSk1YVTQ0VkFkYjM5T3FfRVRXSDZYMjB3VUM2WDlXQkNhNERiWmJRUHRaanh2UXBId0hhX2ZzWElY?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-26T01:30:00+00:00",
+"first_seen": "2026-09-26T01:45:28+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "2f5572cb5920786c",
 "title": "Maruti Suzuki S-Presso Front Door Handle Image – S-Presso Photos in India",
@@ -6632,6 +6664,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "fc331de50253c931",
+"title": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T04:50:14+00:00",
+"first_seen": "2026-09-26T01:45:28+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "e784f3aeb4b2765d",
