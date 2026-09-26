@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T13:18:29+00:00",
+"updated": "2026-09-26T13:31:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "51e8c7112f7eea1f",
+"title": "Saurashtra Cement gets ₹2.07 Cr GST notice for excess ITC claim",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTVCSF96bG9MXzRIV3lMN3BEZ1JzSVBUVzJySmRMbXdObktmSWVwejRlV09zNTh0MDdEODZsQm1qTUdzSHZjbUtfUDBwdFlOcmJlcW5lRS14TG11RjZBR3kxenZ1V18xcFJLV1FZWjdFMjBNVVNKSmo5RGEwMU0ydm1uMTgtTjdiYWl1WGNrcFRidUg1VWFyTU1WUXRSNXhtOWlfeUV1eXgxVGFxQWJ2M0JBbHotdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T13:19:36+00:00",
+"first_seen": "2026-09-26T13:31:37+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "ccea99ed9b76e823",
 "title": "RRB NTPC CBAT Admit Card 2026 Out for Graduate Level, Download Hall Ticket",
@@ -1355,6 +1373,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bbe18971f811a88a",
+"title": "NTPC, EDF Power Solutions India form 50:50 JV for pumped storage, hydropower projects",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHNnR3Q4ZG41NTVnb1V2MVRCR3pZTXF4bFM1NVFmd0hEYU5lZGRFWHU4aEpVR29rSld6RndnUE5fYlROU3RyRzBIbXFKYlhlbHFpd1o5RTJOWERNSEN6dE5ZbktDTVFlVkV4OUE1SUZfbnhZSmhEUkV1WDJISzFDLWpaNEFBc09BMDl2SWRZRGd2VmtQdWJlc0NGaEJPNDh4S2FDT3N1SE9vNlc3LVBpUENyX3pVNzRtWnpGRGl0Ty1HcG5xclY0YTNSYmdrS0F6UVpaRWFVc1lyTHJpaXJxctIB5gFBVV95cUxOUzVCT3dvTFNaRXoySWtpV2NCNmJUSzBFMEQ4X3c4eHNYZ3lIUVhZN3JqMjJWcXR5Z0wtYlJkbWlzVm5ldFM2N2t2MHdpSE1Gcks2aVdMRGRqRHBwUVhnTURvMVRjdUo1elpZcWJ5MXJTUm1sYkRmZUhzblZWY2l5TUpMU21QM3FuSVlzNk9jd21pelN0bmM3Wkg5Sm9GOU5TVWhvNzVDeDkxSllYSTFROHhxMTZSbDRtbl9SeDNXZm56ZmlnSTYwOFNoOG1oNTdqNVBBLUY0TlhCX1djaTJWSzR2bTFaUQ?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-09-26T08:11:18+00:00",
+"first_seen": "2026-09-26T13:31:37+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
