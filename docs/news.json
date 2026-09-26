@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T06:24:29+00:00",
+"updated": "2026-09-26T06:49:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "e9e0d887d0e2758b",
+"title": "Tata Motors Passenger signals further price hikes",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05EQi01eElJNmNBY0dTd1lfT1lZajlYRDlvakd5bjFXUnZFYjd6TXpvUGVadmZDVkhZalJHZUlBb2RVbVdmQ0FwNXMtQTF3SWVaQjZXc1JndkYzMGlzSkNZa0xhdkR4MnQwQ1djTGk3US1CVlBLY0QyUEtkQTNSY0lPV2lBZTlVS3E0eQ?oc=5",
+"source": "Adgully.com",
+"published": "2026-09-26T06:42:00+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a72b751f72ac905c",
+"title": "Greed and Fear index: BEL, Adani Energy to Eternal | Chris Wood's Jefferies India portfolio has 22 stocks for long term",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObS1aX0NDZy1Ld3ctQnlnemk1MDlwTFZ1ZXNhMDU1SnZROUgwV1lHdkFVTV9QZ05BVDFQZGNMblNTU0RxMEtoZDZ1NFdsTEVjb3VlNk0tTHU1Uzg3Tmx0V0JsalF1Sjh2eS1uRk5KS1NUSEduUG1QR2lFeFFvS0cyckJnbzFBN0FSN3J5UEN4cFotWW4yS0Z2dmZGcnk5TkxQejBka2x4SHh6ejdEMkVxaFVwWmZqdmpoNEQyUXF2ckFvZFlhd2hJUGpmT0VUdDVFMFhyNDdmTllGdU9sZGdfekhTVk1tejdHLVd2N3Jpc2ZueEhGalZlU1RrLUhXaWxjRGxYbTJSOVViYVR4N2w4Y1N30gGXAkFVX3lxTE5JZzZ4V2NiSFNObk8tQjVBaDFSVHZnLXZUTjctV3NVMlRSSXB6WldOWWQ0a0NkWU8wWV9VRklnYS1XdGZUQzVtTWw5amxMaWVPSGhDMFVHZ3dOdWtCZDBqbXBtVlhYQ2RxSWI3d1UxdjNpX0toUnZFa3MzUDQxcnlEU2lmbTR3ZWRDTHNicWQ5ZU01NjJFYkdEaHIxelIwalhZT0ZxQUoxaXEycTNfSXFYXzQ4LWsxXzdSVmNyV3JZd1FBXzQ4MFdvZDRGYlc1MEljYV90Y1hrMEx1OU9Ca1VIZEtUeWRvaFB6S2tLYWxxWmdJWnhYbjhSb1c0UVU3WDBuYmI1OEd2RWQ5UGl6UkZQY3lFQWVXcw?oc=5",
+"source": "Livemint",
+"published": "2026-09-26T06:33:26+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"ADANIENT",
+"BEL",
+"ETERNAL"
+],
+"groups": [
+"Adani",
+"Consumer",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "22062359d3b28b4b",
+"title": "100 New Maruti Brezza SUVs Delivered On A Single Day In A Single City [Video]",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1loaUNBYUtDNDktODg0bjhuc09nWWVwbmFNN1hlMUZHeW5aQVo3Si1EMHdicGtyWXZ0MWdCT08wR0JJV1pOQy1JN1hqZ1Bvb3laWGNvZGQzbk9GOXNpNnBVNmtCRHVWT2NwbXdyMDc5ZmdYRFFRbTRSVi13NXNacFpaLVd3SEpvRzM1VlR3QmVuaDVv?oc=5",
+"source": "Cartoq",
+"published": "2026-09-26T06:24:14+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d6290b64790a7329",
 "title": "HCL Tech, Tata Steel, L&T Among Major Companies Behind Odisha’s ₹2.47 Lakh Cr Investment Push Across 15 Districts: Check Areas & Project Details",
 "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNW1WMkNNZ1V5bE1XVkphazJSU3NPNUVhUVprTVdKR2JMQ01MakVHSXd3MVBHQXZvc1ZoTHlwN3RtT3hvWHdoTmRZUDRCc29kXzgyX28xWFNZbGJtYUZGakV1dWtZNzAwMEk2VHlINGZYSHVMZjlDWktHZGJINldaRndLM3dPY25SdnJRNWRDdmYzMl9Lc1BGdFdScHh1Unp6QXFRcm43b1Y0Q3pKOXhWTkZyQjBhT1JhYkRXUEpRaVJ1djItY0VYTGwwdEJ0bi1aZkFzVmlTZFBtMkhzTDFFUnZNcXVmRW4yaXR6YjAxY183d3Vqek56ZU5USXc5eUc0ekVV?oc=5",
@@ -619,6 +671,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "041eb4df5f7e299a",
+"title": "Bank strike: Will ICICI Bank, HDFC Bank, Axis Bank and IndusInd Bank remain open?",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbW9YSHlXbnRKZDlpR3JtMmhWRjh3eUZXaDcwdk5BN1pDSldLSDRNd2EtSnQ5UjBnNWI4dmh0Wjc4eEFoUFp3S1J0VW94YmZUNzBybm54Qm81RVpDS2dieXZCOFhTNW1XQVR3QjdGbXlnSWc4S1RrVjdGN1hIeFdvRTZ3czZSWmQ1OHhVWmh4YTEwdVdfREd3QWRVT1lJU09vekNYa0dJS3pUN1RTRzRIYWVPc1djcE9INWtEcnZlX3E0N2xzV3JveS1VRHhjVFlBWU1ZdtIB4gFBVV95cUxPZ05HRzVIYmN6T3Y1N2VMYWZVV1hTQXQyRUhNLW1XN19DVDh0LXZtNmJJWFpFRlZOam90VDlCOVU0YXF6UlVfY250YktTTlBCX3NxUnVLWHFIcFplTjZkN1cxTmNDajRWTndkYWJrOHVkUW4xZjNHTV9NWDBWSnNtWnJrVmFITXFZa2hQenl1bk53aWxpNGdVc0taY3ZOSTQyZ2ZaVFRRNExpZUZsemJNNnNvM3pXdjVNUWY4NDZWd1laZmRYX1M0a3RkWjBHXzh2ZjJIckdZVHpOZ3ktX1Y5cllR?oc=5",
+"source": "Fortune India",
+"published": "2026-09-26T05:33:50+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"AXISBANK",
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9f9300196b2f742c",
 "title": "Maruti Suzuki Fronx Facelift Launch Expected Soon: Level 2 ADAS, Ventilated Seats, And More Expected",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGJiZmxQTGhjZF9SY3AwSWFRaDk0d1d6ZVNWeUppVXVXcU1JTmZ6NF84ZW0yVGVSNlR5MVZNOWdiOW9FTWJXLVR2SC1UanI1Yy1wdXZ3d3JReE1NY0lQMTFOZ1ZjbjN6RDRyU0V6TmxsU1ZETXo0RlFyZHczWHJGa0Zya2JuNVF3MlR2WEVTNHlfdEd3bTB5ZExKTFlVRjNCMFRRR0dsQzE1cUdTc3J6SjBnN3ZMLU5iUXZtNDhaakZZWkxYTWRKRnNsa2hHOFZOS0dHMHVnLTRoUVRybGVQdtIB5wFBVV95cUxQU0hqSU4yNi1HdF9NdlFhMTdZbHgtaTB6UzRWT3lEcFptb3VwMjFINm5sMlRVZXlXVW5EWmg1T3RXZkxOR1NLMWREOHA3eEttempTM243V2h0T3k0bEtQdDJCbVoybXlyMFhwVjJTQWZqQ1lLM1FCMHluRFdZZzVUek5UQnZoajJKZkgwZkZiY25YTXVQUnhaLTZmNkZBNjBvNUgtb1RNQ19ROWF5RTY4djBfOVYwajFDNlg4eHVDakdUdzMwbVFOV2FuZ09jazkyY1BPVm1EazV6X2tNX3RIYTh6WDdINEk?oc=5",
@@ -630,6 +701,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "089a48d7d81c6750",
+"title": "SBI Waives ATM Charges During 3-Day Bank Strike From September 28",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1hFa2FBNExNQlBIbEs5aDRwZ0VuQkFTUlVVVmNxSjRWY0ZRYUhRUVB1TThESGtaaEdhWVNkWThlVDkzWFZBLTZFNHRIa3Vmbi1LVWdmYi0xV3VlZW1uLVppaEtwOGp4aVVsVEVCOG9xbHNvYVhJam14cGNod2VLSlFhVmh1Z0N2N096Y2ZGYy16LXNCY1JXS2QySUlkMl9nTGpUa3dnSll6aGw2OEI4alQtRmF5cUdZNFJKVnN2c9IBvwFBVV95cUxPQ1hFa2FBNExNQlBIbEs5aDRwZ0VuQkFTUlVVVmNxSjRWY0ZRYUhRUVB1TThESGtaaEdhWVNkWThlVDkzWFZBLTZFNHRIa3Vmbi1LVWdmYi0xV3VlZW1uLVppaEtwOGp4aVVsVEVCOG9xbHNvYVhJam14cGNod2VLSlFhVmh1Z0N2N096Y2ZGYy16LXNCY1JXS2QySUlkMl9nTGpUa3dnSll6aGw2OEI4alQtRmF5cUdZNFJKVnN2cw?oc=5",
+"source": "ETV Bharat",
+"published": "2026-09-26T05:28:20+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -764,6 +851,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ed2711545f6f0629",
+"title": "Eicher Motors Ltd is Rated Buy by MarketsMOJO",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPell4SW1hQlFORUhKMndSSTRnN3liMFhQMXZndFVneWd3OVFXenhsZ2tzMDFzX05wWlZDVzhVUFFmTllYVXJvMHJOZFZ0R2tFSkFrYUo0Ujh6SkhlM09ZdS1hay1SazdodlRwZXVfWkJuOHh1WkNRMUhjb0tOWmJuZFNOSkMwck1PTlpqUFpNbVUyallMdDFSeGVsOERpMkt1eXk3RHFLcnNVc0k?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-26T04:54:17+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5626,6 +5729,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b6c7c68cbced5b9d",
+"title": "Adani Bengal Investment: What the Rs 1 Lakh Crore Pledge Means",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXBkei1hTmhNSEVfclV0VEY1SjBNNzJFemhzX0M5cGpnV1dEaWZGY1dCQVVfbEpCandTTGlyU3kwNmhlNU9GR0gtR1BuR1hRRS1oNzRFQ1NoZFJDZUM3M0QzRl9SVWdmaThsd1VxRXgxaEtjU29SbjhMY1Q5VU8tQTdiVDNRSTZhNWxzRmRBRQ?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-25T09:22:41+00:00",
+"first_seen": "2026-09-26T06:49:13+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
