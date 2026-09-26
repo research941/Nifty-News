@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T07:32:35+00:00",
+"updated": "2026-09-26T07:45:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "168bcc238ccc4732",
+"title": "Tata Motors Commercial Vehicles introduces Mr. Surak Shah mascot for Suraksha AMC campaign",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1l1SDUxZXJLeC1rRlIxTS1rWnQ5Zmh2eFdQMlM5QmJlYWczRDIyS1F3N0dMN1lCWE5pUklYQWdjUnRpbHpCNUszS19rSUttSDBaR002SHJnM2FERU1XZXBQZEljOFdPRGRLYWNHQVhXeThlTUt5bzczaHJUTzZTakh6aS1MWWkwZ2E3SFNPV1FBRHpNNGVEWmdBNXczZXhPQ1hvMVc1S3kxSGw4VFUyZ0VCRVl6ajRnVVE?oc=5",
+"source": "MediaNews4U",
+"published": "2026-09-26T07:35:41+00:00",
+"first_seen": "2026-09-26T07:45:05+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "918f46bbca9089ec",
+"title": "NTPC-EDF Form JV for Low-Carbon Energy Projects",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGJFMGVacmY1QXNTN0xial9BUVl4dW5UVVJFbDlVTTFnV2c3N2dsbUx0dlgyUDJPNkVRVE0wSlN1Z3JNWlFpZXkxZ2NNQURwRzZveV9QUTBSSmlYSW5YRzdnVkc2QTFMSjI2aDItVG9zZ285U2FrTUJ6WHJLWGU1RGFpLUVTWWEzeVZhbDlSdl9ha3h1V2paUWxwR0VtTW1mR1BmRkpYazUyZ0k?oc=5",
+"source": "english.dainikjagranmpcg.com",
+"published": "2026-09-26T07:33:18+00:00",
+"first_seen": "2026-09-26T07:45:05+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "373d8617fcacda75",
+"title": "Adani Enterprises Arm Buys 50% Stake in Monvarex Aluminium Holding RSC Ltd",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUY2cjY2ZlhySGNUV0RFSGttek1aZS1wNXBhRUp2X1FBdVAtcm53VGRVdHo0RXpIeFRycWRWbDFndnNZUlRCcFpId2xORXdvUFFqdGljaXAtSmZmdUFkMERFWTRvME1LTmY5MDJoOUJMVHpOTmpHbFF0c3pXYWlWNnZqUXBseUJ5QWJXdlVKeWYzUEdMNkF4LVB4Y09rZUljNnNaM1hWQ1c?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-26T07:30:00+00:00",
+"first_seen": "2026-09-26T07:45:05+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "b410f7e433b50d1f",
 "title": "Adani Enterprises' subsidiary acquires 50% stake in Monvarex Aluminium for USD 25,000",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDh1emZTOG5fUm42VFE5bEVraXAxR2hFQ2xqd0pFeHQzNGFoV0VhR0JqU0kxdXdMQjloNVZQR29qNk4zdDVkN0lMQ2RqdHJ4MXJWQ0tlV0g2bnM0XzF6NlVJaHNCNjJ4Q0FjT3ZzSWdrR0dxU2hWZm8yd0hFRUdHN3hYZ3VxWDFsaXhSdVhRWHhnUmpoQ0RPMndaWTZYam15b3E5d0VVTFZJU3c3OGVNMFlqZl85ZFhNUDlnTw?oc=5",
@@ -594,6 +646,22 @@
 "Adani",
 "Consumer",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "545122327b71376c",
+"title": "Tata Aeris vs Maruti Suzuki Dzire vs Hyundai Aura: Which one is right for you? Check price, features and mileage",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMGJ2U2tnMkZLb3czZkZ6c1RxdEpLVzBWcUlGVFdQcFc4VFZiMTRQMzhpeDV5VThoTEtYblI4V09ndWNndVgxWDlJb2xNb1ljdm9yX0pCWHh6UlpfMjBab2p3WTZZLWVsUV9lakxKVjdUdmJtMWJ2TENKU2hnQnBiWmhQQnJ6Q2hOcm1rTnVMQnowU1dfZmh1TEtNRmh4OWVoNHpKaW5CeVlGemo4V2ZUQ0FxSlV1MVdkbGkzY2pVZ1g1VnVZSFV3VkpXUHlIek5DaXBSYlA5c215bWlhQVpxctIB5AFBVV95cUxObnVfcDBIcXgtdlZlYXFXRk5oVElHRU5sNGlRd1k3NTZ5MnZxNHJqXzRtcWJNbGRWMXRsNjRxdkJpYVcwQ1g1ZmduM05udVA4Q3FGV3lja3dtYWY4YmZxM2g2clV1VXprMmJabXc2aXNBT0JOMURNNF9uT0o0bmRSVy1Kem1TdjF5d093RENUeVFSdEo1MlA1Mmo5ODFUVDVwVUVjbEZBQmNmLXdpYmJWQnhic0tpU0RvdTN5SU9pRnVSLXdnY0JiREk1WHNZa253VVFPRWl0bF9yclk2YW9ITko2N0Y?oc=5",
+"source": "News24Online",
+"published": "2026-09-26T06:29:31+00:00",
+"first_seen": "2026-09-26T07:45:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1665,6 +1733,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "083669325415c1fe",
+"title": "Tata Motors Launches Aeris Sedan Starting at 5.29 Lakh Rupees",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUtzcTdMWnR6bGphTWRKOWVDNTJ1WW13cWFMaWJsaTIzWk5mUFZWcjc1bnNGTnVzNThsajNja3UxZEhxSmdkTXlOenJKY3VUV2ZJelVzZmJwY2ZZSmhKVmF5MkNnZ3pEV3lEOTVmdFgxZVdpRnRZa1V1a2hNX0xrdnlOR2U1ZTVhVE4ydllwdi11NFBoMDZwUnFqUzFfTGtGSXpWMGFEdVhYWDhXcnd4X1JhWdIBuAFBVV95cUxPTldMd0hCWTNyNFQzV2VXN2RxZWxZTWd0WkMxeUota2JlTXgtMVhTWlNMc3FEWEZBblZuRVRhY21HdWRPQzJsYUVJa0VBbVZyOUhpWnFTM2ZRREVhdGNaTUFJRF96TVoyN2ZCdkd3X0Q4UEZIdXFWNk12bUpSWFRvRm9fOEpyMUd5U1Y0cU9fUkwtZU1MU1ItQ3htREF3VWJfLUVlMmV4VE1IRThBU2ZsdmZwT0lvaE1Z?oc=5",
+"source": "illustrated Daily News",
+"published": "2026-09-26T00:55:11+00:00",
+"first_seen": "2026-09-26T07:45:05+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
