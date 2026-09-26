@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T02:58:06+00:00",
+"updated": "2026-09-26T03:19:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "fe44de31a5c8d4d0",
+"title": "Stocks to buy under ₹200: Tata Steel, South Bank, Castrol by Mehul Kothari of Anand Rathi | Target, SL, market outlook",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbXYxMFBjLWJ3b0tKRHhodnlOdm5XakFrYUd0NVdfbWpITjdkYjgzd3h5NGdKVWowODRfbnFJZTZCRGQ2THJEY19YOXoyTXRLTDZqM3pma1lvZlFsMjU3c1Q1NXNZVEcwY0xHQnZqOGZpa0JqYnFES19uRkM5dUlWeVVBa0l4T25oc0l0UWxySTh2YjJhN05DdmJTbEw5LXBXLVBBamdsQk55UlIyUmgwZnJRUHVGOVZGRHdkNE1OaXlRZk9pelhESTRTVXZiNTVCRE1NcFQtWHNBMXFfS084d1BsbDA2QU9FSnJ2MkdHLTBjY0wyRmJwZW9jSU50dTlHRzc1MGhpb3hYZnYyUWtQddIBlgJBVV95cUxOaDk1NU1UUUJWUDJCNkl5Q1J6SVBCbGduakszbzhVNnJWSnU5Z1E4V1JVOTE5bGluZldJamRXdl9YMkpyWGh3Z2thRmpYOUNnS29hYUZoUDA1aGJhV0lOdGdPVHVic0dOM1FOTTRJUUlCOUtxVk1WVWpuc2ltbEo3TDVnWjlRZzJRQWpLUFZuaWNUcVBqRDVnSDRFNEVGNFFWTUtfVlF0d1pLUnVIWU5IYlpJY1ZmYmFMaEZ3VEpxWUlNVHp5Mkk1eDVsVUhGU096UEdrRGJBSzVmTXUyQnF3aHQxcElaeUxGN3Uzc2pqUFA5X1FTcmxnTlpoMkwySXprRnNBWXByZVVFeXV2c1BKTS1UcUtXQQ?oc=5",
+"source": "Livemint",
+"published": "2026-09-26T03:03:17+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef83ec72305b6e63",
+"title": "NTPC, EDF form joint venture to develop low-carbon energy projects",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGtHVV96OEFmX0ZqZk54SmczVzdmOTVKRTVDY3dzdUxJdXpSaEhUeVRtNjJEMjZZQTVxTWpJQXVnOXZ3Wk5pY3ZLbUgtUjhUZm5CRUZjeUp1Tjc5UzJEWXBENS0yb01JTDdHMXhSd1VtU19KcGRwUk9fdm8yblVhNUZxRG5sVTFKenBoMEhtNHZocWdRZUNLWW5Mc3MxX0FHMlhCNVNfYzU5T1FYMkHSAbIBQVVfeXFMTXV0emlwVnBqMGJpelhBVkM1cEZacWJCaXZYbk51NC1kUFUyd0JnclNsQXdzdDYzU0ZFdkpFWDRwa1JLVXpoeE5ERE1PcXZxOEgyS3RhcUNWNzVQZ25NMS1uOXhfWVFfNFNxcW4zdUozcjNRTlNKNC1DMldWWXpDV3FyQlhlVG5rTjJJMWpvYXlwQVlabjlOR0owUFlGSDU0WVoxZ2xEOXY5bEV1S19oZzdsZw?oc=5",
+"source": "tribuneindia.com",
+"published": "2026-09-26T03:02:29+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "adbc5732658e220e",
+"title": "​Airtel Flags 98.4 Billion Spam Calls Amid Surge in Digital Fraud Cases",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxNnNVekhZcjZsMGdLcXo4dVRJXzRRVERvR2F4bVYwX0ZXTGlmbzZVTGh4MWhHVFJOLUl3Mk95akliYkxLTmx6SXZsM3VKd1VTYTRRWTgweUVZYW5UamZ1ZlhxT1VaWUJCR0FNMXRGWWNCMmdIOUZaZQ?oc=5",
+"source": "The420.in",
+"published": "2026-09-26T02:58:56+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7f82d28b844e38e6",
 "title": "Micron's Triple Test: A 277% Rally, a $100 Billion Backlog, and a Patent Case at the ITC",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWs1LXBiYkp1a2JKWWxsblNBMUJjUzZCZUxEQTQ5dHh2eUVTa3VCckkyc3hyV2VoWmVJX2gxM3BOU0h3aGtnTlYxcDNRcmkxVFNocmtrX3ljV1dwem5nV3h6MERrcnlnZXFhZnN2a291MVd1OC02azh2YjFRUWdnVDdtZk1CbUo3UVROdl9qV0NfVHNUVWlSQUZpR182VVI4bWt4bU11Z0lUZE13dE05RU8wb2ZQU2JZVnJPMUwyUDNXcU5uV1NjQzdtcGdxSTNsVkdjR0FXSQ?oc=5",
@@ -459,6 +509,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "ab13444a1532a0b8",
+"title": "Jamkash Vehicleades Kashmir re-launches Maruti Suzuki Eeco Cargo",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FxNS1TSnVlbnE3R0pSZU1UMjdKT1hVLXI4NzJIRFhOLS1EaE1ZNTVuNThGOXV5eEdnZDZIamZXWDczd2NQQ0N4M05WT0NFa2YzUHVfX0tJMWVZYnhlWVlrUVo1QWFsWGR3b0tBRnhPTERsY1lQZFVYaDhoRzIwU0dkazZ1U3Znd2hGV3NBMmR4akdLMzVSYUkzMGYwNTBxVG9EeA?oc=5",
+"source": "Kashmir Reader",
+"published": "2026-09-26T02:19:27+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "b63db0830fdadedb",
@@ -3856,6 +3922,22 @@
 "sentiment": "positive"
 },
 {
+"id": "0d102c8eb9c5351d",
+"title": "Mahindra & Mahindra advances Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDNDTDFGYjlMcVdpWnlUNGpGQkl1T0lEMjktV0Mwb3AzMVJVSzZWbHg4WWMzNTlrUkJfcTlXRTIyNFVnY0xmNkhrYnJCUWl4MTRyRXdNTnhoaTJsM3JXTkFiTGxrNjhLdVRKZFhaeEN1Vy1IS1Y5b0NFcXFPbTFJUWR4bXZIYWY1WXJBb2NpR2tLczVXZUhvNXQ0d1FxRUR4alpjR0thS1lGYl9BNzFqU2tFeHFaZDg0dU83aThKajhndE5VMkIweEw3WQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "3b0264de2ed80f6a",
 "title": "Kotak Mahindra Bank slides Friday, outperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXU3UXVhdG1JWjAteUs0bHFtaUgzM0JPamstUUE2NnFHOGdILWxZd0ctSWFYUEJXTnViSmdwamZKSVVqZXItVVphN2F1UzFSbmpabnoxZTFSdUV3UVhlMEhwbVpia0UxR3hXQXhIVUxpMGZuU2tSRFBuRFRvWmR6QVdCSEhseHdBU2s4N3RNejE0TFJrS183REhpa29tcy13d3B3aEdUTlZnVVRiRnladXBIN0xnYU5DVTNYVVNPNEZNUGhLWkdfTFBpSVV4MnZH?oc=5",
@@ -5069,6 +5151,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "e20a5992adfd599d",
+"title": "Mahindra & Mahindra Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 25 September 2026",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDBBX08wbGhsSThwd0Q4azRtZUJIbld3RExib1hZZmZlNm9panpHaXk3WlR0S0xEekxRWFBVYXVTUzAxSnd1ZlZFZkpRaUk1TU10S3RyUFk0Rnc4N0xYWkZScWJxemNBOXRvYW5OM2ZVRGFqOVBaUFdSVGRmVTlrd1RING9aa1dhQVhtWmJR?oc=5",
+"source": "ET Now",
+"published": "2026-09-25T08:25:15+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9c3bba5fc158ce1b",
@@ -7348,6 +7446,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8fa00b8697ebc4be",
+"title": "Bombay High Court Partly Allows Writ Petition of Hindustan Unilever Against Industrial Court's Stay of Domestic Enquiry. Employee Granted Right to Engage Lawyer in Enquiry When Employer's Representative is Legally Trained Under Model Standing Orders.",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54SVZOUi1QV1FKSVRldDdBZUswV01QN2llRmswakV2TFRBRjZxM3FpbEFqWFhmTXN1VnNMUlJuY0hKb2syWkJiYjRyeTNLQUpDcEVOaWNDdS1hN0hiRXVXOFAtQjIyUQ?oc=5",
+"source": "Lawtext",
+"published": "2026-09-25T04:11:20+00:00",
+"first_seen": "2026-09-26T03:19:56+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
