@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T01:57:55+00:00",
+"updated": "2026-09-26T02:19:23+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "b63db0830fdadedb",
+"title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, 26 September",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeTdGTEllQXhZM29iaVdLOUlrVXprN0xmb0VLSGpIajJPS2VHb2s3X0R4aU9oNW9xdDdTVUNOa0lXOFktempxZ3FyTExZejdXT0RQaHVINUc1UDZxSS1HOExzMHY0NjJnYzAxUFBBcDdCVUxZeC1zOUNKXzlPYkpFcm9ObDgzQjJCOWx5QkxDcFJqRm15Zk5CZmxRMUljbFVTMEZFNnlxQTRzMldRSDE1ajZITlMwdDBmNWJucWxDS2VnaWRvQnJBUlBhaWRwT1JqVXZCcnFQR2NXdEJ1ME92MVZvTEpCM2E5anduNU9HQk1ZV09LWXfSAfsBQVVfeXFMTUR3WVZHTGNoZHRFaC00bmpuOHhnWkhMMWY2QW9nNHlHdnRrRk5FWTVSNzQxalBsYmJYRC1tQlJkYlE1TkpyaVhydGpVRVdoRUx5RDk2SUVjZS05RG1BOFVuVmtzTVdTNW9tMWtwa05UVUgwWklMRWJJTnRTcjVSUVhadURZWkRVOWhqZWJUYnFPenQxd3d3bEh3dWVSeWxQODJORXlXWnQtRjFHYklxREZLcUtEY0ZEa3R3bnM1VnVJWXZPS0p1T3dGYmNPSTZpdU9kX18yUW9Db0ZHWkFYeDh1YUVmeS00UDFRMWpRSmRPNDBHSXBKb053anM?oc=5",
+"source": "Livemint",
+"published": "2026-09-26T02:04:40+00:00",
+"first_seen": "2026-09-26T02:19:23+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "95a28d1c3b361767",
+"title": "HDFC Bank Limited Securities Fraud Class Action Result of Deceptive Interest Payments and Approximately 4% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
+"link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWlMyWXJMdXp5bXB5dkI1ZXg3VTBsOUZ0eXJVM3hLWU1EQ2JkUUl6Sy1aek5saUQyTzB6UkZWMi1xTElxT3hlYnFfWHNkU1AtUDhSN3NvSWk2VTlTcTJDUVNpdFpadElzV1BkX3M4SkdyOUhKS1FMY1ppX0hiRWRXQkVFUWkwZlJPdlcwaFhDUTRVaGpnUnlsTlpDWmdJVzk1M2xBZDdiaFZ1THdoeE00U21TY3BrZGMxbWwxcHYyTF82WFl3dk5iNTBxTUMySDZwWENlVGVVNDRDWkItZGtKT25DT1Y5WVVCN2FFN0tJUURIUFhHUU4teVRFMXJDbUYxTFZ6MnpEZGtzMlNpUzYzdnNrYlRqQ2xpUHV1cW1HaUU0am13T204VlZoajROVWRWTDlMZm5LdXhpN1lIZUhKY3ZHSDZMQk5GX0VoNC01NWdONFJxNjE4a05n?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-26T02:00:00+00:00",
+"first_seen": "2026-09-26T02:19:23+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
 {
 "id": "8101db2b32292500",
 "title": "Airtel Announces Amazon Prime Lite with Select Wi-Fi Plans: Details",
@@ -1611,6 +1645,22 @@
 "source": "Business Standard",
 "published": "2026-09-25T15:23:42+00:00",
 "first_seen": "2026-09-25T15:45:37+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "669c1c01a0f06e89",
+"title": "Tata Steel, Dutch govt extend joint letter of intent for decarbonisation",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFFOMG1CWmJ3SGJIQ3NHOVJfbWpVREZKc0FvcFZYa0JfV1hGdFZEUGg1UTFzU3ZEWHA2RFUwWjBxcWk3MUFjaG1yZEVGdVp5Rkw3WUJuRF9vcGNiTWR2c0NMZHJ4R0N0V2VZZHo2QmRSRE9zYS0tbDhka0pyajBIM3ZCRGtjb05nRktGX3FvVVVTV0gzelpkbjF2dzcxSkt1b0tia0JEaW1nekdValJkdzlkclpnT1J5bUVsWWF1UW82aGp3MTQ5aTJKc0ZkZ9IB0wFBVV95cUxOMkM2OG1hcEhmNUhYdmM3blFBSE5WZV9LdEYydmEwdnB3SW41dlZlZkpjT2cwY1dUbFhCVkEyRGpydWFuUWJWQ3hXSFQyWUhCNm1DSEJpN3YzU29mMzdza2V5cG95NVFYei1oU21ZWWt0U3NJdlBHc1gwTzBURWdMandHNi1JY2NIV01WVU9mMnFBWGNLQkJ2M25MQ05LX2RlT3FCb0ZCaTlfd19lbjJSendzaTk1d1FiZ1l2U0JnVzJvOWp3eTJic21yS3NuTF9nTmNz?oc=5",
+"source": "Business Standard",
+"published": "2026-09-25T15:23:13+00:00",
+"first_seen": "2026-09-26T02:19:23+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -6019,6 +6069,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "217874bb4614561d",
+"title": "IT stocks decline for sixth day; OFSS and Infosys among biggest losers",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zOXViekxaRk90Q3B3VWRNeUMyZEd4Y2ttbjNwMGdJWmtsTlZHQmdQQnVnSF9UbF93ZnNJZjFjSXA0NENLWUE1THJRRTRFbkdWYkxTLUd5R2E?oc=5",
+"source": "Motilal Oswal",
+"published": "2026-09-25T06:25:39+00:00",
+"first_seen": "2026-09-26T02:19:23+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "6b033957fc3aee4f",
