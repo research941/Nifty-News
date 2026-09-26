@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T14:45:45+00:00",
+"updated": "2026-09-26T14:57:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "8812a0d171233b8d",
+"title": "NTPC, EDF Power Solutions Ink 50:50 JV Pact for Renewable Energy, Storage Projects",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDh6UDREWUF5LWgtTFVaYzBvTWdBb290a1FwaHZjR3NnZ1lQeDh0NlBlWkRfaFZwa21fN0k1T29LVk9YbWZ4dUNjcnNUMWVlR3cwbWt0Um1uREFhMGhndVZmekFBX3NOemhjMUhNR21jSE1YQzA5N1FtS1RHdUpnSnZBRXd4QQ?oc=5",
+"source": "APAC Media",
+"published": "2026-09-26T14:46:47+00:00",
+"first_seen": "2026-09-26T14:57:32+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4fda000d4f09c49c",
 "title": "NTPC group commercial capacity reaches 90,222 MW after new solar addition",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDlubHRIaWdrTGNkMjlfcDE3MFZFR0J5TmN2cS1CaDFrOFR1ZHhtb09BRDBtQ2xRZjRKRFNPSkhxcUVTOWtRcE5oTWVhNmxzQVZkay1TdEY4REhLaTVHdHZONmhVMnZEUmo4SUQ5ZjVLZVZGZi1yQ1VLTkpkZlNjdmdsMDBJc0E3QU00OTIxMEpGdGRNZVNuTWZNLVJSd09iRFJwTWtLVmZlSFFLajZXa1pQRVhYQkFJa1NsN2FIZTU?oc=5",
@@ -525,6 +543,22 @@
 "Order/Deal"
 ],
 "sentiment": "negative"
+},
+{
+"id": "b7e1fa1962d243fc",
+"title": "RRB NTPC Recruitment 2026: 3,477 Graduate Vacancies, Application Date, Eligibility, Selection Process and",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWWJlSWFXZkc4ZzNuSVBMVEx2ZUE5YzA0TEJxZ2VYU2drd0hCNjVwV25tVUFQMzhWWHJtc0lyV1hac2taOEM3MUw3OWQzOWpWSVZRVmRPZW1jZmdpbk1mUEVSbUUtUXA2RWRzQU1CUlloX2pjY040MVpaYVE0N1BNSjRPVU5HUXFhSTR4MEcxUFFFdFN3Q2FOZzZCdEx1LWhHQ3dMR0NjSjBGOUpxX2xvWW9ZaEkzT3EyYTNJYkRXMlkyTm52dlFnWXczWkJkMmc4MGc4STVuUnNEVVUwOWVZTGwyYWlTeVUtZUl2OTAyS0diWThsMTR0NdIB-AFBVV95cUxNWWJlSWFXZkc4ZzNuSVBMVEx2ZUE5YzA0TEJxZ2VYU2drd0hCNjVwV25tVUFQMzhWWHJtc0lyV1hac2taOEM3MUw3OWQzOWpWSVZRVmRPZW1jZmdpbk1mUEVSbUUtUXA2RWRzQU1CUlloX2pjY040MVpaYVE0N1BNSjRPVU5HUXFhSTR4MEcxUFFFdFN3Q2FOZzZCdEx1LWhHQ3dMR0NjSjBGOUpxX2xvWW9ZaEkzT3EyYTNJYkRXMlkyTm52dlFnWXczWkJkMmc4MGc4STVuUnNEVVUwOWVZTGwyYWlTeVUtZUl2OTAyS0diWThsMTR0NQ?oc=5",
+"source": "LatestLY",
+"published": "2026-09-26T13:24:08+00:00",
+"first_seen": "2026-09-26T14:57:32+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "51e8c7112f7eea1f",
