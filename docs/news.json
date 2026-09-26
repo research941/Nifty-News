@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T16:57:30+00:00",
+"updated": "2026-09-26T17:18:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -477,6 +477,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "d59c5c0d75e382a2",
+"title": "PB Fintech, HDFC Life, SBI Life: What IRDAI Caps Mean",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcEtuZXVrVDBRbWxOdG1ER3pHM21LS1RzdzdETEpDYmJDVE9UMWZ5bkdfLWliX2xWSlJ0NmI0Ml9meEtnWGJVVmhJMFpHVGNuOWMxelFRSHF0cWFuV29BODFOZ2pCRU5uOFJYT1BPOWdvUm1vV21uRklLWU41MHBqaU1fMkxEMy13UldQTndkTGNpZGZQVzdUamw5cXl0ZVJobmJsWVl0VmVyVm5uZ1pnYjVZRV91S3N0RVJRVXBVN0ZmTm1Va25CU0tncGRsYnN4NEhGQ29DcUtTVkNVV2hwc1Q5dVRpQdIB7AFBVV95cUxQRHNlQjExX25sc1I5MFVYNEtnWk5RN1pWQjJERXpFamQ4Y0tnRWVjQ2JTRHZ5LU5ieDBZcTM2TGtWQU8yQTh2TV9mMTAwRVJLUzJkSjI5YV9Bb1NRd3Q5b2FQc2hfSHpzSlZIdEt2Y2R4YURsZkNRLVdPYVJPWnlQSVBBcXJCYmlJSXZEblE5ZU5JSjl4ajhoQ2FHaUJjcURoaW5uWGQyNC1rWllWOUNWSC1sYXdMUWJsS2hZRTlfUXZQXzFvcHJVdzhqb21EWVN2MlBqdnFLU1kxUS1GV2xzbEY5Z2xaTVphenl2ag?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-26T16:46:24+00:00",
+"first_seen": "2026-09-26T17:18:28+00:00",
+"symbols": [
+"HDFCLIFE",
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "732a9fb15eeb3e00",
 "title": "Abu Dhabi T10: Trent Boult, Shimron Hetmyer add international firepower to Emirates Eagles line-up",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTFVEeDRzVUg3TktqWkMyZTVnVk9MQWoxZ2QzaVFBb2NHR2NqYlliTEd5c3lPV0pHVGExTFNUVXNLc1d0TGZYR0FoVkVLMHpvZWIzZW1WN3JCamdwRnZTTVk3SU9LM3N3TWxxbTl5ZWRocWVXWFZsSjVUZFl0WjgwSnA5TzgtZ2ZwZW01RjRvdmd2b0had2tVbU9tOXV2cHZPUVc3LUdKOU9xZExFZkp2SVNzeW04WmYtbDhFOW1SZVk5aDh5dDRrN3hrWDJCZVR6YURBenV4UXZrY3FTZmVtaVYyZ25UbzYzQ01TUkYwckVtT0ZO0gH0AUFVX3lxTE9MVUR4NHNVSDdOS2paQzJlNWdWT0xBajFnZDNpUUFvY0dHY2piWWJMR3lzeU9XSkdUYTFMU1RVc0tzV3RMZlhHQWhWRUswem9lYjNlbVY3ckJqZ3BGdlNNWTdJT0szc3dNbHFtOXllZGhxZVdYVmxKNVRkWXRaODBKcDlPOC1nZnBlbTVGNG92Z3ZvSFp3a1VtT205dXZwdk9RVzctR0o5T3FkTEVmSnZJU3N5bThaZi1sOEU5bVJlWTloOHl0NGs3eGtYMkJlVHphREF6dXhRdmtjcVNmZW1pVjJnblRvNjNDTVNSRjByRW1PRk4?oc=5",
@@ -508,6 +527,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "be846d51ec4f945c",
+"title": "Tata Aeris Launch: ₹5.29 लाख में Tata की नई Sedan! Aeris में क्या-क्या मिलेगा? Tata Aeris Launch: Tata Motors ने नई compact sedan Tata Aeris को ₹5.29 लाख की introductory ex-showroom price पर लॉन्च किया है। Aeris, Tigor की जगह",
+"link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPZlQ5V09rQWR4RXRjTVY1T3lxTXg0WlY1ZHBULVVDRmFMd0ZYTUxXaks5Wmp2VEZwY3FQWUI3SXlDa0VHM194WUVEZWJ6MXJUMjA3cWczNGptYlpoeVZYQzVkVW4zQUZDWEdKMXBaSUNldW9qZGhRR1Qya1NPaVR6NzhCVlRaenRHY1J6N3hXNThqUjl2UXZyREdSdjZ0UTNDMHJlVUdiaE1pUV9id09NOEVrblV2ZUhYUC1lVGJlY05RTHZqTjVYT0luNHFUNGltNDlHa1pRV0Rfb0RDazZ1eXRhSmctQ2lCYldhT3p5NmI2UzhhTmRFdWlhWm14NmpfeUdsX2J0bXlDSUhxZk1HanNNdVIweTJwZlBjU2Zoc2NoTWMxZjV0SGdJNldDakhpY29iSHFScy10VjhhV2FjWmFIU3pWRnhCMUZNUmNGUDBqTk05N0gxd2FyQlNuRk9CVHRDRnNqSzYxd0NtdlVMZmJHREJYMVktT0dDYVdiM0xPaVhlRG56cVB4cnhPaXgwMk9EU1FJY09mOHlhZzB2YnQ0Y0FOMGR5Y2VpaUx6dWpramxTNWJCRWp2NVR3OXEtS2NzaEk0ekV0NVpnVC01QXZDenVMcXZULWV0RWloR3pZelBjb0hpZjFxZW9MajlWMkhZMzZwaGQ3emFmT0tpMnln?oc=5",
+"source": "facebook.com",
+"published": "2026-09-26T15:24:17+00:00",
+"first_seen": "2026-09-26T17:18:28+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4073,6 +4108,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "92b26d8c98cb2d1a",
+"title": "Coal India unit SECL selects banks for $800 million Mumbai IPO - Bloomberg By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWdCcWJRaEFEMHdVOXJoTmpjdjFURENad1VSWW54VGdnN19Sd2dYUFA1WUtCNVZ5U3lMQzRqelVyYV8xNU9wYmpvQWY3RGVSTE1qbVZHQmtCSUZpWGd1N1luLWdzSTZnazVTQlhPRlhKWnZULWtLQkpLN1NhcGFSbEdrTVh4UFNKS2tORDhyWFRENXNIcnczalFSdG9qVC1JZkdxOGVYSjVHYlhoUDlsQ3JHWklva0pEa0RyM0hLZ1I5NjZXWmZv?oc=5",
+"source": "Investing.com South Africa",
+"published": "2026-09-25T17:59:45+00:00",
+"first_seen": "2026-09-26T17:18:28+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
