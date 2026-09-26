@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T05:45:36+00:00",
+"updated": "2026-09-26T05:57:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,142 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "db95282422e84d99",
+"title": "CSIR-NIIST and Tata Consumer Products Ltd. to Establish Centre of Excellence for Food Fortification at Thiruvananthapuram",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYkl1Yl9iUnZ3Vkk2THoyX2otZlBQZjgxc3VmVTl3elVwNVROYUVIZ3VfZUxMYlVYd1FXYVowZzg2RzFiOXVuZHZ1ODh5bVBXNmE4MV9TTHA4MC00ZE8xVkYzX08taDJTSlUyYXlXc2NoblhMNWIySEE3VlRJaFlpSHJDaUhwbkRUcHBKLVZJdWd5R0dzLUlMSUdiaXNTTTI4czZGUk9LaUpWaGFrLV9lZkoyeHZabWNZRUltTC1RNUFfYzEtQ0FRbXVSOHFkOUdlTlZRM2l2b3hfQ0pfT0ZObmpiNk83dHVCR0hGZEtvSjZNTmdYWXc?oc=5",
+"source": "businessnewsthisweek.com",
+"published": "2026-09-26T05:51:42+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a77e9bdfd886f3f8",
+"title": "Maruti Suzuki Commissions 300 kW Green Hydrogen Plant",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2MzWEhtTTN3QmNES1pEVlJ6bWt6cGFyLVJoVkdRNmZXTVlWTHh1OC1CQjBkNVRzWkNZXzFiaE1fekN6Qk5vR3VqOS1QeVk3bFZ3UFVPTkRFTUtmd2xGUTA1VkM1SDFmejJRVUR4YjFoRVFJYUdvRVZLSjNSYl9OOE9aMVBaOFZmckZZY3RvZGxtWFdVSU1SNzRDTEVCbmRsY0xPLWZ0QVRILTZWZGlHdElUeGlYOWRSNDZvcUUta0R0dTAtRWlac3RRVHNMajEyWmR5T0JMTTA?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:49:08+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6914d84c070aafe3",
+"title": "NTPC Pays Rs. 33.94 bn Final Dividend for FY26",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEpBTExTNlBIQzVKUmczTF91d2g1WDk4OXBJb0V5MmUyMW15bG82OVdPRlN4R0RLYl95Wnp0V2JjNGRmX1FWczhOemE1WjZGdlZ6YUduNU9oNld0clZWZGVhSU5rdGI1anZWN3JfdEU4b2s1NmFsWkF1NGRJcG5LQ2Q3ZC1wb09yMVF3REVHU0hkdy1BcGJVcG9oVlA5RU1vOWx3eTQ1WFloTDVOTGdZZFlJT2xXS01BRFcxa2d1ekpQVDJoMV9ILWVfR1NaR1U?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:47:22+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e8fa22db63ee9a6f",
+"title": "NTPC, Adani Power Get Nod for Nuclear Studies in Odisha",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGdKZXRkb1lwdEtKVTltYno3bno2RWEyLU5seWJSbGlYWmUyRDBhcTRBRUxicm5GVnZ2bEI0MVEyV3RiWlBlODZLTVNDd0ZoQkhFZjhrQ3dsZVdpS2JRbmRrWWplRWxYOEs3U3pFUXVRQTRzdHZIZ0lrR3M4RzM2R3o1QTBrM1I0RWI2TzZlQWRDR194dDN1b1IzVDMzamFEMGJFbS02NDEyazUtaVF5eVB4NjV0OG00SXhTT3k1V0ludmdTREFsdGlxSTdFbklWQmdhZEl0dkxKQQ?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:47:22+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"ADANIENT",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c6085667e8e28ebe",
+"title": "Vikran Engineering Wins Rs. 1.54 bn Power Grid Order",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGREc1dQWFFVU2NnNFM2RkV6QnV2dHdVTE5wenU4QnhyVHNxYTlwRFpPMHVSX1l5TUZQOGpWMVA2NTBoRlM4ejhoV1RTN1U1ZHE1RDJYekxZbGQ2dFpIalhzZ094ZnFvRUVKbWlXRFJ5S1FlZ3NMYnVwODdsY1Bzalk0cl9nZTdGR0xlbEY2dDZLb3dIQUxkT3pTbGkyTm1CWmtqRzh6T2Rub3lKdHlOaFh1R0Zad18zRjhmMnh6WExzVHE5dzJKQjI5QjJGSFdJQUNYY2w5QQ?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:47:22+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "a9d79b991ad49ffd",
+"title": "Power Grid Acquires Barmer HVDC Power Transmission Project",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmFmaHNZeWdTS2VMaTZLQTdmVnVpTFVXd2NiLUpUMUZlVUV0Qk5XMjJOZWhHUDN1a1hyWkdIQ1pOWllybUpxUmxZZ1hNdWJ0RmpvWkNpQnUzaUFJZ2dvb2ZXb2lzMFByMVhYZHRXeHJGVmF0bzJDQzBYc3pRNFJnTzd3RU5WMVE4eVRsNGNIN29GQ0ltZUpidmRQVnhUdGdvTTBIaXcwQXg4bGV2ZDE4eGJ3T1JwYUtCV005bG05VWF4NWVGUEhuTVdnY2Izc3JpVlZaNEptUEk0alRLX2Rr?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:47:22+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b918a70449989a2c",
+"title": "NTPC Issues 400 MWh BESS Tender After GR Infraprojects Termination",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFNMX2dhOWdkREFMN2M1WnZMTWsyd0RoOE9VeFZHVmhfM2pTSGhaM3luT080UW10MEszUW9JSmFXTHREaW5LblprQ2FvUTNOemV2UWhER29YejFIRGNoOExma21CWXN1MTVkdnZibDhHUE5rdjVLWFVza1ZQNlhHRlluYkdNbFg5R280M3dGQ195alJfbml2SE1sQTRHV0YxMmtvMmhBbWNUR3N1OE5SZlFDMlAtY3FaSURGMjVZU1hOWHFBZ0otSjlCM2x6UXlJSmpGU1lfSE1pODY5eXNnOTRMM1FZektWYWc?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:46:31+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f87553d0eacbefe7",
+"title": "Telangana to Procure Coal from Mahanadi Coalfields and Coal India",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVMwN2JrMmRiUkZEQTNmYm8xNlVfbmxRT0ZzZDVHUWNGMWUxVVlMeEhOb1l6VTVFRWlpa0tfaS1xeXVVRlhqVXpBSjlyVi1FUTlqRVAxUmJMMC1PLV9IeVh4N25fUUhaa3F5T2RSRlJCSG1kRExZOFZPZGkzbVMtSEhwMm00eWx0bDFwXzJabWd6RWNiNDIwR2RjZHlqUV8tVW1vTThUWUhvempOa3VrN3ZxMnFTellKNlBMcl9NeXVJZWR5X0x1Y2FpU3RVM1J6WXdFLS1LUnNuUQ?oc=5",
+"source": "Construction World",
+"published": "2026-09-26T05:45:32+00:00",
+"first_seen": "2026-09-26T05:57:04+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "9f9300196b2f742c",
 "title": "Maruti Suzuki Fronx Facelift Launch Expected Soon: Level 2 ADAS, Ventilated Seats, And More Expected",
