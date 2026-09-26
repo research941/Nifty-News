@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T08:35:38+00:00",
+"updated": "2026-09-26T08:48:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,86 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "cc85cc124e347f13",
+"title": "NTPC Green Energy Commissions 81.34 MW Kalasar Solar Project in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFZBMF81R3lSdHktalo2dHE4WjRMdzZGTmpYWWpaT0V4QlVBLUFGeE4ycF9Bcm05RlVzcm9JYmlCMTJrazNZOUxxS1BxV1ZBMmFUT0pyQTZoRUdKOFc5T1MxSEdtZTNKVFQwLTQ4ZW9rTFFKdTNvTk5QUVZoV2FHTFpRNTJfSFJKbi1Da21OTWt1QTZoNVUwb2ptWkNsRHZodE00?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-26T08:44:26+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fdced28f57c2a2b3",
+"title": "Maruti Suzuki's New Direct Injection Turbo-Petrol Engine Coming Soon",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlRQU3cwRzhIV08xVVBXUU02Um5vellZd0c2SkhSekEzZnNZVzNidlk2Sk9mODFvLTA1blNPbnJOWTBuUF9xVzdVN19Ubm82bVNEdEdQLUp4TDBEOS1Ldmp4R0FtYmlxWTFGcTM1THp3bXd2MjhreHhHWTg1ajQ4bQ?oc=5",
+"source": "Cartoq",
+"published": "2026-09-26T08:44:14+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c6d317668620257b",
+"title": "Maruti WagonR Facelift Spotted Again With New Headlamps: What's Changing?",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckIxWjVHbk1XWTNNaC1fdEhYRGtmbkNnamdaTVJKTjFCYUV1X3BWQlkyUnNMSjJjdjYxLTZLQVlFeHU1dkVjSGpTdjhLV0ZCc2hsakdURGE0SzY0NHJWVTNwZmQxSnl0N0tKUGlzRnBGVUVlR3M1dnU4ZXBwY0Mzby00ODdvVHdxWlk3bmRFSG9hMjdFVXlBTlVrdXh5R1RCenBsbnR4eUtUV2VIY0FZOWJXcldZbXZRQlVtSk5TM1lFSnNrXy1HNEZRTdIB0AFBVV95cUxOQS1kR2kzZXJLLWY3WGIteGw5SE40U2ZBd3NyZVA2SDF1NVVYWnkzMFE0bVBic25fLWJzckJ6em5ubDZFcHI1akkwQ2tPc1FaemxweVlTdTB4LTFQcGhsNTlETDlDOE9MTnRfTmNxYUs1VW5Gc2lGbWtZRDlVQkd2RVZfejB0Uy1UbmRkU1hRVFppdWZZZlNETjZlUmZtSElGQkE3YmVpT2g2RUN5UXhfRlNiclNkVmJjS09zbms0U09WTnFDdzJLQjYzZ0g2dEdD?oc=5",
+"source": "Times Now",
+"published": "2026-09-26T08:37:00+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b3928a6096388154",
+"title": "Gold may rise to $5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXRzUnZIRkJ5ZkVxSkQ2UlZnbkczZVQzS0E3eTUtV20wcjJ4REJlVjAtRUtCZ0Z3UVF2cFFEbjNQekdKZE1YRzRNbGhjV3VKemR5ejNUUXg1VnVDTTBrTmhDNHQ1OUNjSUE1OHREYmctS05VSmxxYzJmb3FxYXdJRmtBaUhvTWNRS2ItOGFVczRKUjRNbldXblo2NC1SM2ZGT0d5WlNaUjlJM1VxM0NLQzh5VHNFRkdVRVJuQTRNSDVzaUtKNWdRdHFpb0FmWklVQVFFNFBxTVVyU3E4Z1HSAeQBQVVfeXFMTkYzQXQtektLaWZOeWNTY3VUdnhPYmlSbHhlZHhCR0FQLXZRUjRWUE5vM2VMdUpPWnZEeVB0Y1RqSVNqbmRNeExmWG15MVlWR2dPMS03T0NPMFgxV0l6SW9vbk5kMl9uajRaOGFkejk4ZkhHcUtKamtxejVKTUtLb2xFRUhsUDRMLXFBQl9IX3FxSTV1SDc2NXRfRE1weEFpaEoxQUxucXhSWTlOYUYxSzRxYXk3VzNvRFhvSnlLZDk2OGV3aTFFMjN5TU5BZXpoVFZOaVZaYlh3b0NETWFBcmRYZXIx?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-26T08:34:26+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "8a881e6efae82a45",
+"title": "2026 Tata Aeris Vs Maruti Dzire: How Different Are These Two Compact Sedans?",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVFjVG9HZUlJR2RJbmdWYmNoVGFmeDdld0VPVEI1aDloQzJNX2NFRUx4VXhsUTNQOGhDcHY1NnplWVVUVHUxNjU4a1U2Tl9FdjZMaXJXSGxMNmFPRUtzY1MyU0NBcXE3LXNwOHlfWmY1em5vQWs0TElTSFRIUWFYdW1aMXAtbUtCaGhvdmczQlRnTHQwd0dOS25DZDFHTDE5cFRIR0pWU05PUDVjdll0enhoX2hsOHhqdi11b1pFU3E3dFhR0gHMAUFVX3lxTE45d2pLVUE1OUhxUHFXNm95R0Z0QnVKZXJaTmNrNFJqS2J5UVp6S2xVUU5ZUDRoZVhiRGxBRWhQQ3kxVE11dEE5LTFVQnE5RUh4UHFmTEg2ejRobGY1RmFtME9uaVVfMU5sM0pLbExoOTJIY19lRl9zQkR3R0VyTnJmRnFDUXhaU3lpRGMyQk1qbE1KakdwUlU1andQaW43ZDNrV1ZJY0tUZ3F2UFpJd3FfVnFKUm1BOWVra3ZsbGVBcDY4d004MG9lSWpXRA?oc=5",
+"source": "CarDekho",
+"published": "2026-09-26T08:30:00+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "da8125d564b6667d",
 "title": "Video | Tata Motors May Hike Passenger Vehicle Prices Further Amid Commodity Cost Pressure",
@@ -1690,6 +1770,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fe678f32d159d804",
+"title": "Adani Power revises disclosure for pledge of Jaiprakash Power shares",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHV4WWV4RVhtOWxpajRleTliSUp2Yy1XMHlPUEdxd05pT0p4blExVDlHQTVWOFJ6ZDcxa2E5ckhndDUtVzd6MVVzTTZ4aC1MR3lBSEJMbmVEN0JoTndwd19pVkJzdEhscU1EbXVWS3Q0MGl1QXVWRWJ5VUxXQTh2WnkwN29CR0RHcl9oeEI0bjFlbFltVmxmaGd5Q3dnd3I0SDRVU2p6YzNwZ1Q0b1V6VkxZYktFNlJEX3BvR0d3UTRWbWc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T02:17:26+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b63db0830fdadedb",
 "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, 26 September",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeTdGTEllQXhZM29iaVdLOUlrVXprN0xmb0VLSGpIajJPS2VHb2s3X0R4aU9oNW9xdDdTVUNOa0lXOFktempxZ3FyTExZejdXT0RQaHVINUc1UDZxSS1HOExzMHY0NjJnYzAxUFBBcDdCVUxZeC1zOUNKXzlPYkpFcm9ObDgzQjJCOWx5QkxDcFJqRm15Zk5CZmxRMUljbFVTMEZFNnlxQTRzMldRSDE1ajZITlMwdDBmNWJucWxDS2VnaWRvQnJBUlBhaWRwT1JqVXZCcnFQR2NXdEJ1ME92MVZvTEpCM2E5anduNU9HQk1ZV09LWXfSAfsBQVVfeXFMTUR3WVZHTGNoZHRFaC00bmpuOHhnWkhMMWY2QW9nNHlHdnRrRk5FWTVSNzQxalBsYmJYRC1tQlJkYlE1TkpyaVhydGpVRVdoRUx5RDk2SUVjZS05RG1BOFVuVmtzTVdTNW9tMWtwa05UVUgwWklMRWJJTnRTcjVSUVhadURZWkRVOWhqZWJUYnFPenQxd3d3bEh3dWVSeWxQODJORXlXWnQtRjFHYklxREZLcUtEY0ZEa3R3bnM1VnVJWXZPS0p1T3dGYmNPSTZpdU9kX18yUW9Db0ZHWkFYeDh1YUVmeS00UDFRMWpRSmRPNDBHSXBKb053anM?oc=5",
@@ -2368,6 +2464,24 @@
 "source": "etnownews.com",
 "published": "2026-09-25T18:05:15+00:00",
 "first_seen": "2026-09-25T19:15:59+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "17f89e0525ba5ab3",
+"title": "Kotak Mahindra Bank board approves merger of KMIL with KAAML; 7:6 share swap ratio set",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOek1kaUl5N0lRMEo2WlhMck9wOHNRSFg3WUpmVlJzdEt0MEZGUDJvaFVOQTB0M1ljUEJXbUJBb3NhTlBwalJXT21jbk9zUFhfUGtjaWREd2dHYXlqX2JVaFpaUlhpNFFrY2xPb21sWnlGa3hWZWxzVF8zZHM4MVc2S1VZVGZjU2pmOWt2UWlNNUxmOHVSd1dnZ1FLX1M3ZFVFXzRfMVhabG53cFlsRWNILWhiQjNfbTFiMWZJVTN0am1KbzdXR25ISEVrTUw1d0lPQ2fSAdcBQVVfeXFMTUE0WVpHUnF4WUxzZFBZc1M4TEUwQkJiOVppcjI5b1ptT1lNX2oxdlFtT1VaNTYtQ0J3Wmd0WFFRcU45dlBPaU0wVVRSTkdtZUw1cFphNGZvU0lXOUx1dXZNbElubkZCeEV5Vy10V2xLdW00WGZCeTdrcWNEWmhqZjNLLTZlQk4xRkZyMXRSN1U5emk0V0F6Rm1xUE9tUk5zenFlTlo5VXVUem16ZFRDS25GQlJkREpUYUV2NEZOblNaNW9JRVRQOXVvd2ZCRWQzaUJQUGpXZEk?oc=5",
+"source": "etnownews.com",
+"published": "2026-09-25T18:05:15+00:00",
+"first_seen": "2026-09-26T08:48:37+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
