@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T02:46:18+00:00",
+"updated": "2026-09-26T02:58:06+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -527,6 +527,22 @@
 "sentiment": "positive"
 },
 {
+"id": "49c440c95eb41f5b",
+"title": "Tata Steel to Jindal Steel: Key stocks poised to gain as domestic steel prices surge up to 24%",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN1MzZFJjbWlHdVktTmdnMVhQRTZUWFNpbDdWV0ZtNXRWUjlMOG1uaUoyZGpBaGZtYnhnQ0JsdE40V0w4LVVCcEtUVTJ0bTgzdDVGaDRvMjRuVjR0T2h6aEViamt6QWF4cGVocGYyOWV2eHA3OUphRXhTTzgtUlBERkN3YzM3RS1MUm1hS0RTUjRVSi1ySHdwWHYyZUFyZ0hNNDdTbTJ1NkplTWxfNkNYTU9BNVF1Mllmc01BaG0ySi1FbGg2WjdzQ2xLZ1Z6cjZIZ3BIdjlQRGzSAd8BQVVfeXFMTnZtVnh6SEJnMDlLU2drQk9WMXdqbUo4ZUVPZEZiX29ZU1FRLXNoX0xoTkNJMUVtZTlUQS12TnRuTEFJM0tNMVlFcGw2ZV9Ga2c3dldJbHRvc3RpTHRqS3JtdTVIeVRsZGwxQ0Z0MTRqU0I2cHNQOEpjZlVNZ1hFTWo0U1NBM3ZxUkllWk4yM0VqenI3cEkyRGxqeU9VWDBpbkFLUmFfWW5PRi1BOXloU0RYbnZ4VHF2NHlJcEVaRFFldklSeGxWaXg5OEhSNGZmSGRoZnVzTmhJbU43RU40TQ?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-26T01:30:00+00:00",
+"first_seen": "2026-09-26T02:58:06+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "56fb6b0a2881c775",
 "title": "Airtel flags 98.4 billion spam calls amid surge in digital fraud",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmJMT2V5dmFjS3RTcUhGcjFSeFJub1FpMUNHRUtxTHlYRVRXbkJvb2dBS0JIWXk5UVV4eEhBLXYwQWdUSHlPaG9yRVdxZUI5Mk5LcUV6bHdWZXZCTmt3S3paM2gzOFI1UFVpRXVfUTlWdjUzanE1SVhwN3dVV0lEZUd1N2VKNkVwOWJkNXVEZ0RfZ0RjQ2E5RFVnMFF5UmZjOTd1ZkMzQS1DREMya0NIOS1R0gG3AUFVX3lxTE1LbmRMUGZzMVNKaDFyS3B1V3dxSWZzRG9wdlN4MEFOcFVxMFdIM0dQR2RkVHJkZzZmOTctdE1kRUgyV3hsb1RLZmFkY2djZ1pnbGROVG9MTGZsNkF5aENiQ0NqWTN5N3otbTBsd1RtS1lfRzVyMTNBR3QwZF9DM0JLZFFSUUpjNnp1cHJZcENNNnA4alVvUFFxckpOQm9PTWtySmJUcTNadnRHSTIzYmJNQlNyTkFIUQ?oc=5",
@@ -583,6 +599,22 @@
 "source": "Autocar India",
 "published": "2026-09-26T00:14:34+00:00",
 "first_seen": "2026-09-26T01:32:02+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "35b60c9e01bc0e8a",
+"title": "Maruti Suzuki Dzire Roof Interior Image – Dzire Photos in India",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZTmwzTHB0ZmJ6S3ZYQ2lwcHFFRUhBZU0tWTloZVRJQk9SUFBzTTVzTThGOGw5ZWFpODJMQlA1YzFOOUZGTmRGdUV0bkNtSGZHNXd5MXRkZlZScHhkdnhtNWlLWVc4WHk1cGhyWmRGb1FpVExRdzF3bXAycGpGS3c?oc=5",
+"source": "Autocar India",
+"published": "2026-09-25T23:57:17+00:00",
+"first_seen": "2026-09-26T02:58:06+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -4895,6 +4927,24 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a84e5dc07e7e6b01",
+"title": "Chainlink Price Forecast: Extends rally on rising ETF inflows, bullish derivatives and Infosys deal",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVC1sTnZtdzZrRVlockM5VHRjSi1TNjkzTk5KeVRxakZyV2sxU05uNi02eG5QY0N4R3VaUmtxa2U4VUhadkFWWF9IN3I0Um9mM253dm5VbWwtdEN2RHNxTDFNVnl0bjFsdVU3SFNoN3JRdE9nS0JoSkhtRklVdWw4ZmNFN2o5dkVJcEVvTE40UkwzcHVYZjZ2dGxaYnhTLVh3cURVcXJWakhYVXJCS0JKVUZwdHdqb3NXWjAweTQ4RDh2Y1Myb3hCNmFNWHJlUVVDbk1TWXRmSklUcDZmT0kwQVFGQmprYWl6c3RNLW5yQ0ptZjNORFNaWGp3?oc=5",
+"source": "tmgm.com",
+"published": "2026-09-25T08:41:52+00:00",
+"first_seen": "2026-09-26T02:58:06+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "263b8cedac561b6d",
