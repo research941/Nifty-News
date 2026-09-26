@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T17:45:06+00:00",
+"updated": "2026-09-26T17:57:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "4bd5c3e862f3e374",
+"title": "NTPC, EDF Power Solutions India form joint venture for pumped storage; hydro and renewable energy project",
+"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR0pLQXNZczdPaHF5cVZ1elpWaWlCbWlFcXNXc2hpRDFTRmV1ckp0U09XUTNuMFhwUFFwQmZjdlBZVEhYRnVUWkFfcEFycFRjRlJTdTV5R3UtRmVwYTNUa05uZjYxM2l6b25ndFNLT3VvdnRYcGcwZ3V5R0V4QmZkNEtXX1ZGRk9UUXIzWW5KdnhaZ0ZrcUF2bEMzLTI2S3Z2SEctbmx2N25jN2dneDZtREM5UVdCVVRwNldEQ0xxYmpoNmlPYXpPaG8tTXltQWxRNkdQX0NRcnFaTHVTMENSTEpNTXZ4SmVvU1NqNklkdUFSaHN6RTNzV1FJYkY2SUY4bEswbFNMVmJuVGdWWnFmSFBlRkt3YTdhNHfSAZ8CQVVfeXFMTkd3NVc1N2dPZDZPNnhfTm1Tbk9RbDBiU0NUZ0FrM3BuYzdYSzlQWk05amVJdHRlaUd3XzhtT3BFb3NJREllWDV3MFdqYVh1SXFVLXk3aWZPbmVCdy13d09ZZW92RVNfWHVIeW5DWWItalhEbEdZcWlITXduUFhwdnFSajN3SWtCbFRLczBiTnpDVlVpcnRFM1VZVC0zUHFFN3J1SFFadXNSMTEzQnppTGloc2pFRV9ZMDFRczRzeVVLclVsMS1YRFRiY1hXNG9RQl95TGYwSnlFQ0k3b2x3cFUwbm5CaV9qZklQZXRIR1d0Z1ZmUzNMMERGQ1dVaXpEMm52TWNZd3dBcG93QkFKcWtHYndFZ25ReE5oVmFVVEk?oc=5",
+"source": "The Times of India",
+"published": "2026-09-26T17:50:00+00:00",
+"first_seen": "2026-09-26T17:57:08+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "3d5638d52addf4b4",
 "title": "Sun Pharmaceutical Industries secures shareholder approval for shareholder category reclassification",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3dSVVM5cUQ3eGd4a0Fpdk96N3paMm9ESzNSYTkxN1E5d0dTUml1cjhsQTE1Z0JUVDJicVNqMkdPMmw0V0lKeGpHa0p4cks1cXRUbnFnOWlEZm42SEVjUGgwdHhCRnVtdFdDYTA1dV91U2ltS3FDRDd2d1UxN1NlQnQyS3BYdTEtTDF5bjJWZlIwMzgzbXQwTGRHM1NvX0dUOFYzUmVxMWxYWUR2ek5qSkVIUW5tN0N5MGZwbURTa216ZGh2V3QzZ2JCTVF6YWh1Smw0?oc=5",
@@ -504,6 +522,22 @@
 "first_seen": "2026-09-26T16:20:33+00:00",
 "symbols": [
 "TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2963ba3cec7311d3",
+"title": "IIEST Shibpur, TCS sign MoU to establish Centre of Excellence in Artificial Intelligence",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzNzdUUwX2VpZVA4X0V3V0lzSlQ3N3ZQZlFERjVqVzJfZjE2WG5vOS1vSFh6dkJuN3lwTUVFVGJNQUpLSHdoR1hodHpUSF91ZWdIem0tSllSc1hIRXg4MW9hVXJ4ZEtjdjloeEFkRWFocDhfdlBVLVV5dFlBN2JfQUlNYnVUbnlHT2Y4VjV3Z3BybXhiZHY5WFU3UUVjdGFhUC00YXVpbV80SG9DNWlzT0o2b2c2TFcxb2ZOY1ptVWJXT1BpTUZCYnYyRzBqNzVlbmo4U3YxX2pLUjZ2cGtF0gHkAUFVX3lxTE9vRGllQ3dCbXR1dlM5cFl0UmRoYktyb201bEd4Vk1oVFNRMkpLQ3RkdWdkRnRENW5IcG9EOUl1c0dmdE1XLVlJd29KbXMwZHdaUnBXZF92S09LZGZQdFp4dlEyUFg0QThuaDJzcVhEVVVJOG52c0hOZWhreWNRTXpvNDZqMEtzR09kdFAwRTczeUY1NFpLNTNiYlRJalFlWWhiU1ZTYUhHeXd1STI3NTRnOU1TTkRwNUFxdGdiRUc0cUNuSmpJMC1jZmxsc0NrdTNBX0N1NWxaRnhYdmlKTHppWGNISw?oc=5",
+"source": "telegraphindia.com",
+"published": "2026-09-26T15:36:10+00:00",
+"first_seen": "2026-09-26T17:57:08+00:00",
+"symbols": [
+"TCS"
 ],
 "groups": [
 "Tata"
