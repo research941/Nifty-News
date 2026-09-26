@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T03:47:26+00:00",
+"updated": "2026-09-26T03:57:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "a69ba440ef0f3e40",
+"title": "6 CNG AMT Cars: Maruti Dzire To Tata Aeris",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdjhSazluWEpjRGJXSVQzc2tENWk5elNFRmVaRW14MjBMdkRscS1idEdJZXlGWm1fd3VocmhKbU11VDZoR0JlT1o2S1RadTJrNUdMZUNPdjdmZFhTSktleWJud0pTSlZ4VjlfdEdvOWVieEwyV1pCZA?oc=5",
+"source": "cartoq.com",
+"published": "2026-09-26T03:54:14+00:00",
+"first_seen": "2026-09-26T03:57:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8c91f34e90be0c21",
 "title": "NTPC, France’s EDF Power Solutions form 50:50 JV to build low-carbon energy projects",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTy0wTE1sQ1ZvdWpoUkVJN3VwOGFMUTd0eWlpemh2V2RMN0x5aHNmeVpkWU5Mc01kUFRNSldXN3hJdmRYQWlnTHFCaDdKM1ZTQWxabXlEY3UyMGhHQUFIV2NjVUVrTkFMTE1JVE1HZDAwQkRraEdBQjBLdHRIWXJvTVowNlE3Qk53NHhaamJrYmtLYW84cTJKR1AyXzFQSnJJZE9HY2dPa0h5WmsyVVpwODVFZG5JXzByaE5EczJ0ZENnTVZSWUtuaTdiN3pNVWhiZ2JnY3NtODlKdlVGUldDMl9BQmzSAeoBQVVfeXFMTmp4TDVZVXd5QWlPa3A4Ym9MTDkzNTRLSlJKYjM5VWRRVUsxZFlnVXhmNjVJSHJaSnpUcVhNanBaRlVlZGRReDlFVGFIYWdWRXA4NFUySnMyaXZ5ckxiZVhQUDZjd2lxNmhfOGpnT1loVmN3WWZhQTZiTGVTdHh4TUlzbUYxTWJzTWlmSHhjV3AzaVZRckd4VF9FRmxpcFdzZmYwUlZELV94OFN0cGExellRRm9EOEtueDg1NnpBLVc0cEFCWEtnSUxPazM3RDRZY2NlVmdtTE9HMVpNWXRYbG1EWXpxYS1KN1hB?oc=5",
@@ -526,6 +542,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "497c1cadfba31315",
+"title": "Airtel IQ: Bharti Airtel's Communications Platform as a Service (CPaaS) Model",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenhZdS1NRW9XSmt6dWJtdDMwaS1nd0ZnUU0tbHlTdHJpdkd3Z2pkTE9vLUtRVUhLYndmRkFzZUs2WVFWNGlhelFfeHY2UmExNXd1ZnowN3hBeC1qYmgzVE1BeUp1QURfSHVCZlZrZFFvZ2FjTHVyZ0pLZmk0S1BnUW5yUTdxS1hZOWdueV8ycW5nYm5aUnliUnZmMzNESWRUeUYybHhSQVE?oc=5",
+"source": "markhub24.com",
+"published": "2026-09-26T03:29:36+00:00",
+"first_seen": "2026-09-26T03:57:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4101,6 +4133,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "e59abcd5ab8553e3",
+"title": "Larsen & Toubro rises Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0pYWXE0OTVmeVZndGZNWHNqLThBd04tcmpBZEQ3M0ZvaXNfVTJlYXZFdFJHLWZPVVNHczlfcTJTT0tOd2FhU3JLYzFtQXJRLXVZenJVcnc1cTM3RGxYdmpkd0NSSXdkQ2Y5MUZ2aVVHcUs5YnB1ZEpOcUJUR1M2djZWQ1kwSHZsZmhJVk1qSXMzQ3FQaXg5c0NnTG5QOTVUTVR5bTRaNURJa3owTW1NZWxFOEdYV1RwbFlvYVd3bWNFdw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-26T03:57:32+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "positive"
