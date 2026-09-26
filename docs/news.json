@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T10:19:04+00:00",
+"updated": "2026-09-26T10:32:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "defc8338801e244e",
+"title": "HCLTech Named Leader in Everest Group PLM Services Assessment",
+"link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9zOU44T1dkb2FXZmF4RGZsZDVRdkJzZnlDc01jT2xOcEozTFkzc0x4ak96djJvWUVzWG0w?oc=5",
+"source": "t.co",
+"published": "2026-09-26T10:28:58+00:00",
+"first_seen": "2026-09-26T10:32:57+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6bf92dd38d858d15",
 "title": "RRB NTPC Graduate Recruitment 2026: Short Notice Out For 3477 Vacancies, Check Details Here",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1pzVGl6MVBrYk1veDZWbG5IWEh2OXVNcEdkS2REZnFIOWt1bVlLY2VfblA1ZXBJV21BWlI4UE1iMmJGYk45RktHSlhUM2UwSU1SUUtDb1Vsd21BVEtndnVQMVFSMXRRUjV5QjkwRWJfcUY1MW82Q3ZKakpDSU0wNklmYzN6b3hVZVhOY3VtR0xHalh3bFAzTktzVTRvbm9NaTZCUmp2VGxVeWxYNFRWVkoxZ1N0eEtTM3R6T3ZxTzV1UmV1UjRaZjdJNHBUZ3ZhZGsya2hxWDBDNzdJeFk4QtIB5wFBVV95cUxPZ09fbFM1V3RPVFBlRmRjajRHUzhtRlpESFJFREdfT21EWmZEMGRtTUxOYU8zMk50Z0hvTDdRd2dhd1BjVlM0RFRWX05heUU2ejU0T25NeENOckN2c3VIbjJHbmJLdFVhYTV0M2Q0SXFsNHpiZEhfOVdpaTlYTzFsbkhzNkxXbzJYWGRaemUxaUF5cGJ0cFhLa0NZNlZrM3VVNjNlcE9OYWpxYzljaldLSFc2NWZFOWoxY3N4NEZfOTRvelBBWHBwWUM4Yk5aWXpaUU4xaDFKbG1tV2NaOGVHN0FuQnFLS0E?oc=5",
@@ -481,6 +497,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "86f6cc7d5f8f8c67",
+"title": "NTPC, EDF Power Solutions India form 50-50 partnership for renewables",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEVrcklkY3NnalNVOXZwdEtud3A4Qllnb3ZELU92QkMzYU5LSzZJYzY0OExPT2l0aUlvZVNzQk1tLXlyQ3lYclY0YnE3cWgybUQ3ODE4R3FsLVE4cmh4SDRwQTY5NnJIcmdaR1VidWV6MFZxUktiQ3NDYnZFYmZGNVhMdm9qbnNvUS1CYkM5czdLTVpXWXZjcDlRS0lsTWhuNWxicU14R3p2V29ZWUZHQXhLbGNJLU0?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-26T10:09:07+00:00",
+"first_seen": "2026-09-26T10:32:57+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "779e79141f4f9c97",
 "title": "Media 11 Clinches 16th Tata Steel Friendship Cup Football Tournament, Officers 11 Finish Runners-Up",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWh0WG02SHJZMzdpNklUdlprTmIxZjVuNTJ5Z25OR1BWN09odTFUWC0waG9xQWp2emFWMmhWbTE2RkNpM2ZIUUxyTEFGRFhGa0N0bTJZVUZLMWNDeFhQaUtjTDdUZUp2dm5hTUdIV21PZ2hUTl8wOHB0QUNPaF9STEJmVldXSFdQQUZMRG0td0I5VmNEVU1qNDUya25KMnNvcjdSQ2pkOUdNaExQajBCY0tsMWNQRWdDRHRGb2lVTWZWclh2b29aS05ILVk5aHc?oc=5",
@@ -492,6 +526,38 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6a55ec715adc120e",
+"title": "Adani Arm Gets Odisha Nod For Rs 1.04 Lakh Cr Data Centre Park",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0dKYjZRWmY0Q3JLVEJWbVEtMkk1aHY2NkFOUnNXUzRfVFZUZXE3ZFplYUx1X2JEcU9aRkdjRm9VeFdpZFA4MG9IRXRjdDludUw4cFVnWGpEbEZockRnRzdONFlza1hpanlhWXZNbHRHWlJkVENyanNfczMydEVuZU1lbUJwRWtFc2xtbDFTRmRaaVdhMVhmbC1CYV8wczNMTUh0Qk1NOG84UFVUaDA1VlZweGhURG1hbXh3?oc=5",
+"source": "TradingView",
+"published": "2026-09-26T10:01:05+00:00",
+"first_seen": "2026-09-26T10:32:57+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d76edd2961f023b",
+"title": "NTPC Mining Limited (NML) EET Recruitment 2027 Through GATE 2027 - Notification, Eligibility, Apply Online",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWxrMW1zN2Nwd3kxdDNUVmlNQk5BRTBUemlpQUJFbWZqdHdWRlFNN25FSzhFZUtlRVR4bkNrMXlpbHRnLWFQcEIyUmxIMDA2MWRkNEhRd2REVElkYkdlcW8tZWU5S3B1aEdLRm5LM3oyWGNydGUtUi1uVDVlM0NtZld6b3dyaHVQQU5FcHI1UHlUQ0NIR1VOOFN1ajZOaGRtcDBqM0pfR09mZw?oc=5",
+"source": "FreeJobAlert.Com",
+"published": "2026-09-26T09:56:04+00:00",
+"first_seen": "2026-09-26T10:32:57+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -510,6 +576,24 @@
 "Consumer"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "21a52fe8db9b444f",
+"title": "NTPC-EDF Joint Venture Targets India’s Clean Energy Capacity Push",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjU4MWhJQUQ5a1JOT1FKYkFrQU1JVm84SWpseHJKM2ZZdDNuY2FzSWp6SnQzdEdENlVxVmRQZGFpNXJJNkxwZ01tdmRZOElUM1U2ZmtiejJxZ09uZF9xS0FaQnZ6ejhnSktweEY5RXExZENVUVpXTEUwM1RaZjc1RXlCa1VHbVg4dVRZZnlxaUU?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-26T09:40:06+00:00",
+"first_seen": "2026-09-26T10:32:57+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
