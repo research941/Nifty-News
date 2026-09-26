@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T05:32:39+00:00",
+"updated": "2026-09-26T05:45:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9f9300196b2f742c",
+"title": "Maruti Suzuki Fronx Facelift Launch Expected Soon: Level 2 ADAS, Ventilated Seats, And More Expected",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGJiZmxQTGhjZF9SY3AwSWFRaDk0d1d6ZVNWeUppVXVXcU1JTmZ6NF84ZW0yVGVSNlR5MVZNOWdiOW9FTWJXLVR2SC1UanI1Yy1wdXZ3d3JReE1NY0lQMTFOZ1ZjbjN6RDRyU0V6TmxsU1ZETXo0RlFyZHczWHJGa0Zya2JuNVF3MlR2WEVTNHlfdEd3bTB5ZExKTFlVRjNCMFRRR0dsQzE1cUdTc3J6SjBnN3ZMLU5iUXZtNDhaakZZWkxYTWRKRnNsa2hHOFZOS0dHMHVnLTRoUVRybGVQdtIB5wFBVV95cUxQU0hqSU4yNi1HdF9NdlFhMTdZbHgtaTB6UzRWT3lEcFptb3VwMjFINm5sMlRVZXlXVW5EWmg1T3RXZkxOR1NLMWREOHA3eEttempTM243V2h0T3k0bEtQdDJCbVoybXlyMFhwVjJTQWZqQ1lLM1FCMHluRFdZZzVUek5UQnZoajJKZkgwZkZiY25YTXVQUnhaLTZmNkZBNjBvNUgtb1RNQ19ROWF5RTY4djBfOVYwajFDNlg4eHVDakdUdzMwbVFOV2FuZ09jazkyY1BPVm1EazV6X2tNX3RIYTh6WDdINEk?oc=5",
+"source": "The Daily Jagran",
+"published": "2026-09-26T05:29:00+00:00",
+"first_seen": "2026-09-26T05:45:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "a3e00c17a0a1a084",
 "title": "RCF Places ₹797 Crore Order with L&T for Ammonia Plant Revamp",
@@ -5406,6 +5422,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b77a8ece33e76d1f",
+"title": "SBI customer? You can make free ATM withdrawals during 3-day bank strike",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTXp4LVZZQXBTWVBDckxQZ2xwajIwMjRmWXY3bllPQXZNQzQ3Y19vb2FXVkJlZHBYTVZLckx5YzBUdjlHbnZXbTBBNkN4QUFQMXg4Q3NrcXF5RWJuNUlpN3ZwSW1ZaVNSLUVubEhtOThnVFhSQWw2X0NDdWpCTGZlZFZFbDZzU1lMY3IwNF9YTFN3VUM4eTZGamlZOXZGeFlyQzZHS0FRZ0hRQlZUR1ZXT294NE9ONnNvWDRZTC01TFcxcnhyNzVnX29Kam0wSWdSZ3pTZVFoY0NodFU?oc=5",
+"source": "Upstox",
+"published": "2026-09-25T09:23:57+00:00",
+"first_seen": "2026-09-26T05:45:36+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
