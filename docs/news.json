@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T01:45:28+00:00",
+"updated": "2026-09-26T01:57:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -475,6 +475,38 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "56fb6b0a2881c775",
+"title": "Airtel flags 98.4 billion spam calls amid surge in digital fraud",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmJMT2V5dmFjS3RTcUhGcjFSeFJub1FpMUNHRUtxTHlYRVRXbkJvb2dBS0JIWXk5UVV4eEhBLXYwQWdUSHlPaG9yRVdxZUI5Mk5LcUV6bHdWZXZCTmt3S3paM2gzOFI1UFVpRXVfUTlWdjUzanE1SVhwN3dVV0lEZUd1N2VKNkVwOWJkNXVEZ0RfZ0RjQ2E5RFVnMFF5UmZjOTd1ZkMzQS1DREMya0NIOS1R0gG3AUFVX3lxTE1LbmRMUGZzMVNKaDFyS3B1V3dxSWZzRG9wdlN4MEFOcFVxMFdIM0dQR2RkVHJkZzZmOTctdE1kRUgyV3hsb1RLZmFkY2djZ1pnbGROVG9MTGZsNkF5aENiQ0NqWTN5N3otbTBsd1RtS1lfRzVyMTNBR3QwZF9DM0JLZFFSUUpjNnp1cHJZcENNNnA4alVvUFFxckpOQm9PTWtySmJUcTNadnRHSTIzYmJNQlNyTkFIUQ?oc=5",
+"source": "Greater Kashmir",
+"published": "2026-09-26T01:22:20+00:00",
+"first_seen": "2026-09-26T01:57:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "55d7e34e18f65c53",
+"title": "Jamkash Vehicleades re-launches Maruti Suzuki Eeco Cargo",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGRycTU0TmpIS2xScUYyMUdEX3VWeU0wY2lkVHdINDZyRDEyZks3VWFuVzRHcFRHYlJKLXJtVGRndTlUUXNiVkJ6NHZrZjlkZzM0aUptLWlBS01kMllSNzBJQmEyVXBLa0xKSDkzX2xnUXdrcnlpdFlXeHJ1YncyZnFHUDNOdnNVV09iMVRuWjR4dnNuc0NKbl9DZURFZnlzVWRIck4wYm3SAa4BQVVfeXFMUEI3d1dZemtJNDl6ZFQtbHpwZTRudnpvSktBcWtFb0V2ZzN5M1JzZjNqZC10eTI4Unl4S2hkNEV4dEZCeEFUREtkOFNxdnlFNmwzTGhScVQ0aWRqcl91RU1IMnYybWczX1I4Ui1ZOWxRdE1talo3eVBxc1BZRXlMUHV0UTAwZnE2VUl4WkZHaV9wUEdkR09fZk1ZMHJ4SVhtWVJSV1lFOVh4Tl9uWWVR?oc=5",
+"source": "Greater Kashmir",
+"published": "2026-09-26T01:21:28+00:00",
+"first_seen": "2026-09-26T01:57:55+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "2f5572cb5920786c",
