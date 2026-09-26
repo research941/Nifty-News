@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T09:33:07+00:00",
+"updated": "2026-09-26T09:45:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "e3e75a853e46355b",
+"title": "SBI Life Insurance Receives GST Demand Order of Rs 1.13 Crore",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnlCQWlwSDZna1l2TUFXNDR6c1NxTmhKM2tRSlQyU3NWS0h4aXRoQzFDZWxsWFNaaHpjb0NJc3JfMVR2d1NlYTkwNFJUM1lnaW9KOURSb3I3N0hRcE41Uk44S0hrYThxbmU0UnU1SGFHc2JobWUtWHhFZjNrZlpUYWFLdTI3RGktWGxQbl91Mk5BNThSLU5pVENQa2wwdw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-26T09:38:00+00:00",
+"first_seen": "2026-09-26T09:45:24+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1148b47565c22db0",
+"title": "Tata Steel Friendship Cup 2026: Media 11 Wins, Odisha CM Honours Hockey Stars",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzVfcnZicGhKQkhVUWhOMXdsT2VoU0J5SWdsZEdfLUswNC1Hdzdla1JvQ09HSnNPejlwQVdna0NkSVVuZFVUbDR6elZudFE2QWVjV2NrX1g2a0toa0pyd0xmUnhXLUh1OFpWN2tYVHdCWFBRdklrQzNQN0tkaW1fTGM2OThWMS1nMEdmdlg4dlNZcm5oTVI5ZkowaWlJQnVEQWc?oc=5",
+"source": "Pragativadi",
+"published": "2026-09-26T09:37:24+00:00",
+"first_seen": "2026-09-26T09:45:24+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "df3bcfed3d2ba3dc",
 "title": "Bharti Airtel Flags 98.4 Billion Spam Calls and Blocks 1.62 Million Malicious Links Across India",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3pVTENLVkxDMXRoYk9Kel9XcjlRdGJJbmpsVTZWbGVWeXBfTnQyeGs0WjBFWVh4OElDSkhkUDFVTExrd0Rzb3JBc1l5dVJTbXdsTXFKQnpBaWN1YmVLLWdLazR5ZURXaG80d0JBbEQyT0xhWGdjb1JuZTExT2NHTTE5alNuR0xrVkZPYjdnQ3dDR3BTREg2dWpzUU1WVkVCSEFuTmttaHU0QjBMMnJYdDNOcG9fbWN3RDdoV3RQbWdfck5Y?oc=5",
@@ -522,6 +558,25 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c2c3203259b722cd",
+"title": "Bonus + Split + Buyback + Dividends: TCS, Dabur, BHEL, Kotak, MRF, 3M India; 96 Stocks Ex-Date From July 13-17",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOUxUTTJuQ09tOVNZUVdMcmhISDlTSXNrWFBsakk2MHZ3UFRsX0xvRzJ5SG5MTmN4enVpUXZVUGl6VGRuaS04cE1TakVaUU9jcnhra3BGZy1Db3dyXzJrVHdHX3ZWV3c5bzFjMjhFRzh0ZVRVWUx6blZJVGZLQlhxRC16eUtKM3NKTXVORmFEVkZkVktlenF0RExrMzhEeG9TVkpRVURzSy1yM1RSTndNekJ0X3NfNmdCYTZ1aXUxdmtpd3hxYmlKQnlsaS1MbjZaYjE2N0FHMzNrNzZoLTZESUh2UEtWdGY1WUthNF9B?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-26T08:53:36+00:00",
+"first_seen": "2026-09-26T09:45:24+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
