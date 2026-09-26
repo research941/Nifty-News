@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T16:34:45+00:00",
+"updated": "2026-09-26T16:48:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2111,6 +2111,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "60d01913a1e62379",
+"title": "Bombay High Court Quashes Criminal Complaints Against Bharti Airtel for Lack of Sanction Under Section 197 CrPC — Public Servant Protection Extended to Employees of Municipal Corporation Acting in Discharge of Official Duty. Employees of Municipal Co",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQ2g1bkhiQVFqbVNqUkltNHdYejBjcGJwTWtDWE10ZC1Tb0gtNzNoSXBZQ0FUc3NtWG95RHBfT2lfM1hFZE15dXJiNXdGaHBHVU1wSFNLT1FHTXRRQjRRR1hTUlJDdw?oc=5",
+"source": "Lawtext",
+"published": "2026-09-26T06:11:34+00:00",
+"first_seen": "2026-09-26T16:48:01+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
