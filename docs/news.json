@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T18:47:36+00:00",
+"updated": "2026-09-26T18:58:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "27b2c234053d81a9",
+"title": "Energy: Govt. enters talks on regional power grid",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MSHhGdzUwa2IzY3h5S1Vxa2cwcDhrQnk3UzBBNVhveU11akhRTGdSV2M4T21Sa290RU0xM0VSSVJZQjY4c25RUDF1OFpIb09paDlyVC1uRTRrYkYxckNHZmJJRTB5dw?oc=5",
+"source": "The Morning",
+"published": "2026-09-26T18:42:26+00:00",
+"first_seen": "2026-09-26T18:58:36+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4bd5c3e862f3e374",
 "title": "NTPC, EDF Power Solutions India form joint venture for pumped storage; hydro and renewable energy project",
 "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR0pLQXNZczdPaHF5cVZ1elpWaWlCbWlFcXNXc2hpRDFTRmV1ckp0U09XUTNuMFhwUFFwQmZjdlBZVEhYRnVUWkFfcEFycFRjRlJTdTV5R3UtRmVwYTNUa05uZjYxM2l6b25ndFNLT3VvdnRYcGcwZ3V5R0V4QmZkNEtXX1ZGRk9UUXIzWW5KdnhaZ0ZrcUF2bEMzLTI2S3Z2SEctbmx2N25jN2dneDZtREM5UVdCVVRwNldEQ0xxYmpoNmlPYXpPaG8tTXltQWxRNkdQX0NRcnFaTHVTMENSTEpNTXZ4SmVvU1NqNklkdUFSaHN6RTNzV1FJYkY2SUY4bEswbFNMVmJuVGdWWnFmSFBlRkt3YTdhNHfSAZ8CQVVfeXFMTkd3NVc1N2dPZDZPNnhfTm1Tbk9RbDBiU0NUZ0FrM3BuYzdYSzlQWk05amVJdHRlaUd3XzhtT3BFb3NJREllWDV3MFdqYVh1SXFVLXk3aWZPbmVCdy13d09ZZW92RVNfWHVIeW5DWWItalhEbEdZcWlITXduUFhwdnFSajN3SWtCbFRLczBiTnpDVlVpcnRFM1VZVC0zUHFFN3J1SFFadXNSMTEzQnppTGloc2pFRV9ZMDFRczRzeVVLclVsMS1YRFRiY1hXNG9RQl95TGYwSnlFQ0k3b2x3cFUwbm5CaV9qZklQZXRIR1d0Z1ZmUzNMMERGQ1dVaXpEMm52TWNZd3dBcG93QkFKcWtHYndFZ25ReE5oVmFVVEk?oc=5",
@@ -460,6 +476,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8822e801762e9483",
+"title": "Deadline Extended for Tata Steel’s Green Steel Agreement in the Netherlands",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN0VvbXZmVzUyVXFkOUtKVE1VdGdORXVBWEc2NmZLV0xmUS1PRkFCdUhoNkxDOUFXQWpFczhqTi11S204aS1zeEw2NkZEMGZ3WDdpeDNySlliQzRKR3lnRVZ5cDkzTmhNUFZuakhKX0dhWUZ4eXVkLS1pcWtQZmQ5Y0VWNThOWVFGcGkycTRlNkxoTHhERXBnY2VvdUZLRFVhV0UyZmFILTFRX3dXVDVmaQ?oc=5",
+"source": "SteelRadar",
+"published": "2026-09-26T17:21:15+00:00",
+"first_seen": "2026-09-26T18:58:36+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -511,6 +543,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "927a225e93ce0e74",
+"title": "NTPC and France’s EDF form equal JV for low-carbon energy projects",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0dXZzbzNIeGhkSUJUakxkNTlQb3MydFVEMWpNQUFiamcyMXU5ZHFDZnFrTW40Q1FsRzRWT25Td2RWVXpiRHRjUzI5Y1ZMSGo3M3pGN2RYVkVnOGc?oc=5",
+"source": "Motilal Oswal",
+"published": "2026-09-26T16:23:09+00:00",
+"first_seen": "2026-09-26T18:58:36+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1479,6 +1529,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "aee6c8656925a31f",
+"title": "ATM Charges Waived During Bank Strike: SBI, PNB & More",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXROVHlLWUQtenFseWNtUnhjT1lFbk5qdm5oXzA0S1cxd1o0cUVzWnlZNkxGcGpweEZTV2NSRDZlX09rdEl1UE9PdnlBZlA4QnhSWUU0S2lqNmpvM0hzbUVJd2dITERHU3lnRDFBcElabWtIaHlNUjJBQnlKLUdEeWZXWVhuZw?oc=5",
+"source": "seepositive.in",
+"published": "2026-09-26T09:30:00+00:00",
+"first_seen": "2026-09-26T18:58:36+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2589,6 +2655,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "01cd88e2143964b1",
+"title": "Hurun Rich List 2026: Gautam Adani Reclaims Top Spot",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYThKRnU4TEdQX0Zwa08taXhSMk5iZklva1pHZ09OR3ZxWkVaMVNOZThxWWoxeWlGMktxVW9jMEM3ZlBaVmtWclc4bkJBeU16aEJBZE9KV0FNTEVnV0syVnV5dzZ1ZHdyZ0M1ZHJVcndCSGRvb0VaSTBxMmNXR2UxbUIzNnJEMkY0T3FyNHZpZHB2YThuNE1CLXEtVk9BMXRTRzVUTHRjNXRuZzJqeHRDeg?oc=5",
+"source": "Dainik Jagran MP CG",
+"published": "2026-09-26T05:15:46+00:00",
+"first_seen": "2026-09-26T18:58:36+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
