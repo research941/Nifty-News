@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T03:57:32+00:00",
+"updated": "2026-09-26T04:19:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "8d8688f9bfec5347",
+"title": "Aeris, Tata's New Car Is Rs 1 Lakh Cheaper Than Maruti Dezire: Rs 5.29 Lakh",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFMxa1RZRmlULW8ya1dfcUtiUERTa0k5bUw4ejYydlZ3dG9pQXJzdGxHcExZNTE5eWFLVXRoekR4WjdoTU1HZW1yUENjS0Vna2M4a0phdkdVaDkyUDhmZHVNalJ6c0hXUXdGaUdkLUloSVprU1lBbnNTVTNNb1p4WDBSbHBMSkExU1JvTWJLbU16Ul9NYV81R1hhUGNSZw?oc=5",
+"source": "Trak.in",
+"published": "2026-09-26T04:16:55+00:00",
+"first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a69ba440ef0f3e40",
 "title": "6 CNG AMT Cars: Maruti Dzire To Tata Aeris",
 "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdjhSazluWEpjRGJXSVQzc2tENWk5elNFRmVaRW14MjBMdkRscS1idEdJZXlGWm1fd3VocmhKbU11VDZoR0JlT1o2S1RadTJrNUdMZUNPdjdmZFhTSktleWJud0pTSlZ4VjlfdEdvOWVieEwyV1pCZA?oc=5",
@@ -642,6 +658,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bcd913dc14f8c3c0",
+"title": "Raise objections by September 30 for RRB: NTPC undergraduate CBT answer key released; ₹50 fee per question",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTBQQlNqREs0cm1fMzlpUDByMHZ0cTJJX0phOWFfMHpOSEtIbkJwWHFBSzFxX3FHT2pEbFJGYXducGtFMTd6T3lNTmhBYnpuMWY1d0J6eVQ1RWJoRlhRdWdGVWM2alhLMDdWRjc0X3pjMWRxbzBvTkVqUnNuVDVsa2dZSy0xS25iMGhjWmJLRW1GenJTaVJHRGI0ZmIyZ0U1MGlSak90clZUcXplRHZfQXRRb1ppaXZ2UEdQZEZKQlY4aGN2Wk9udXh2ONIB0AFBVV95cUxQY1hJS08zcmtvXzRXbTdfRmFQLU9IWnh2bzVwOVVxcEpPUFFWdXZ3eWRlMGRLWHVlUWx1Z2d2Y3hMSTBRR1VWdzJfcWlFd0t4UDA5YzJjTW9SZEFpVVF3TlhJRjdrTlM0ZnkxNUdzbG16LWdqc3hwQV9RUU5HZXNHRkZKVWFydW40OHJDODRBMG9iSlRwUHNOMzN3V0hsMHBfeVlieXM4THdmOVJRd1N4dzhxWVJFVlp0VHF2YUlVSTFQaFlGR3lMakYzOVJTblJn?oc=5",
+"source": "bhaskarenglish.in",
+"published": "2026-09-26T02:44:48+00:00",
+"first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1415,6 +1447,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "48db1f82d4dc6eb8",
+"title": "Infosys drops below ₹1,000, Wipro hits ₹161.66 yearly low",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJNLV9pQ3FCZEdfZVlHSFBoTGYwZEJTY1hnb1hWMFFWWmlRSFRNWV9uRGVHNkl1cVQ0d0c2MlB5aWd6c1hiUTdpN1o3YjlHUkVLRWo1RWFhazhDeDdvTU1henh2S014V2FMcE9EX2tyQXc2LU82QW1VWXliT2psX0s0ME1KWVF2MEpKM2ZUelN4VGFXNmJzdmtvTVFWdUFrZ3c3YlhGYw?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-25T16:59:35+00:00",
+"first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "3dd34effef018dbe",
@@ -4154,6 +4203,22 @@
 "sentiment": "positive"
 },
 {
+"id": "6b4c9677a6f86da4",
+"title": "Asian Paints (India) climbs Friday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOalI5QzI0T2FTdzN4N2xDYl94WmpYeFJiM2dOWlpad0VabDFkOXV6SGUtRFdTcFQ4Z0xVTHVCZHV2eHF3UkhLVmVrNnJoSUh1RGxzUVh3SVUxSC16LUxDa0dzdlcwOTZuU05SSy1WWG5obDJlSUFNSXZjdktpdzBicG5kZVhBV2MzSjFwWjJleURvc1NKdTVzUGJfbnExSjR4WHUxZ283ZUJRN2tLQUxBdzhMOUVqMEdwOFkxRmUxdzFNVVNpSDdWSmE5NFdQVXc?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:32:00+00:00",
+"first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "3b0264de2ed80f6a",
 "title": "Kotak Mahindra Bank slides Friday, outperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXU3UXVhdG1JWjAteUs0bHFtaUgzM0JPamstUUE2NnFHOGdILWxZd0ctSWFYUEJXTnViSmdwamZKSVVqZXItVVphN2F1UzFSbmpabnoxZTFSdUV3UVhlMEhwbVpia0UxR3hXQXhIVUxpMGZuU2tSRFBuRFRvWmR6QVdCSEhseHdBU2s4N3RNejE0TFJrS183REhpa29tcy13d3B3aEdUTlZnVVRiRnladXBIN0xnYU5DVTNYVVNPNEZNUGhLWkdfTFBpSVV4MnZH?oc=5",
@@ -6269,6 +6334,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5ecf89d450757bdd",
+"title": "HDFC Bank ESOP Share Allotment: 18,97,180 Shares Issued",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXJibGdvQ005NFQwem5QcDc2ZXFMczRFT29zUXdTdXNiRHpMLTBMaVl2YTlKTGszUHp4N25PSGdBaXhDMEJCdk9Vc1I4QnVacnJ4dUNEeE9JTXhVSnJobUh5b0RuUnRPbTBtQnpfaHdSY1BSZHV6cjZQQS1iWTdxT3hDbDA2T0wyb19ET3RoaXZmNS1SYTRGV0VrUk1GWk90MmMwbFczQ2F6N0N6YlNuX2J4RTFDMTZ5dkZTbU5pT0owNFlkRUE?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-25T06:49:00+00:00",
+"first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
