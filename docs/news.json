@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-25T23:54:36+00:00",
+"updated": "2026-09-26T00:25:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1344,6 +1344,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f0fcbf1203010999",
+"title": "Did You Lose Money on HDFC Bank Limited (HDB)? Levi & Korsinsky Urges Investors to Act Before October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1ozbi1TY1dvZnZVcHB6OUlVaWdlTWwxQklDUElqOWJBbHNhckhHVGxsOGNYTGlaeFd4X295NDNQLXlUcjlQSlhfZGV3TUd6UUVCRllwalFNamg3ZXpsTnZDTG41c3VmYW1oeFVGd2ZjQ1NWcFRJY2dwZE1NRkVGVDU4VkpzZ0FQd210dXV6LUxUelpGWmFSVXl5b2FFQlpITFdUYUtOZjB3ZzZMMVdkX3FCOGM2X0hSakVYZGN0bTE5TVJkNjkxVDMycm1vU1FnWlJiSnhleXk2eFZGblVsTzBtcDE?oc=5",
+"source": "accessnewswire.com",
+"published": "2026-09-25T15:30:40+00:00",
+"first_seen": "2026-09-26T00:25:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3674,6 +3690,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "0dee77d973584e8d",
+"title": "HDFC Bank rises Friday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWF1cFlycE9ubU1EbDVBZFlqY0VJSHd2OU1WazU5YlZxTWJHVW5yYmVVZXZqYVhQMW5DM2tUTmVKWnVQNVRLck9mRzhwRnVMWkxnRVFKSlVaZzh4Y3lHMTFvLUFvQjR3YmRFT3FzZklxTG45TGlJby11YjEyNDAwUGttZzVaQUVBRXBWUnJnQUg5eGx2ZkE3eWJxTmtYU0I1dHp1NEpVNzk5LXVuVzlwYXNDQUlRUQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-25T10:30:00+00:00",
+"first_seen": "2026-09-26T00:25:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "040485cb6a9a9c9a",
