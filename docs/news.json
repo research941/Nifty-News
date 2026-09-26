@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T10:45:33+00:00",
+"updated": "2026-09-26T10:57:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "20f7cc4337f8ad58",
+"title": "Bank Strike September 28-30: Will Banks Open on Sunday, September 27? Check SBI, HDFC, ICICI, Axis, PSU Bank Services, RBI Approval and Customer Advisory",
+"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZ3V5WjVacVZERGI3UUFVMl9Va21oV25JMWJKSDd4ZlpLclZDQzRlZHctLTg2cldPeWRpX3cyLVlwZ2FkTVVxOVlWSFIwamp2Z1o0Z2EwTVN1NVRPcVFrdkx0WDU0RU9JN0lYRFlLcXdEUjhCQ01XZGkyUHR2S1ExZTJoa3JlU2NGZ1I4OTJUMXUxU2dxTUI1aTIzeTl0cTI2S1I2Qko5VDg5OTkwemp2UEdpZEN4cktuMVlRUThVdXRxcnM3QmdUb2hBdkEzeldYNWttQVBKcnVBY3pwcFdPUmduMXN6ajUyUGdSYjUyNFRwUll2UldYTk9VX3VFaFdHZHpVZ0wya3JDYmZLR1N3MzN5cXh2czVuSmfSAZ8CQVVfeXFMUDBmQU5rMVExVWNibXFRY3F4RVc5UGJ2R3c2VFZRUDJnR3NtZnJDRFU5aF9nX25oSXNFOXdpUzdnWUthcmNtcWlULTlJMEtSbUhzY1BlaFJueWFhUllMVm5qT011c0t3cG90WkVTYXZLUFBZUm1yVzgyUjAxN0xwa3dqQktELW9QUFA5Vl9YZEE0cmJvYVJGN1ZpNUk5RzZWWmVVNVhkWlIwMHk1Ym5Bay1MRWpYVjNTY3JiWS1ndWNFc2Jvb0ttZU94OTlJcEFuREFBNVpGaTdSdnNzVHVzb2tOeEhxamdDdnh6c2J2cjUtS1ZYVG9qV0ZmSnhzdHNMbEI2Y0htbTNsU0xTWnBqa1NBM19VZk5IX2psdDR5Ylk?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-26T10:50:25+00:00",
+"first_seen": "2026-09-26T10:57:07+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "52b3ec900b5dd059",
+"title": "Why NTPC has joined hands with France's EDF",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0lYd216SzBKSmlHSkZmWGpWbHFCQkRxSXVCZkotZHZkSEhxUUdqUm1ETDNYc2FuTF96RlR4aHktaDhrVDRQZUtIYTc2Yk80YjN6ZGJHQW8xdnJGTFAtMHRiQkZWTmRQVTFUcjF0ZG1EcXc4YktLSWc5VXg0eXJuUEc1NFZ1cVZ5M0RYeWNHLTA5NEdXTC02OHMtczRhQ0xtbWU0UTYwcWxCX2s0a2Rr?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-26T10:50:16+00:00",
+"first_seen": "2026-09-26T10:57:07+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "05f499cd1a390a31",
 "title": "Adani Enterprises Subsidiary Buys 50% Monvarex Aluminium Holding Stake For $25,000",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWh2UGMzYkxyT3I0cHV1ODNFcENxaGhIYTB6Q0VQX00xQUpuYndvcVE3NW1oY1JjSGxQSFZLT1JyQ3ctdXkyQ3pLTlZKb3NUUDlidm1LMWJsZFRkYlZ2aEpmVmlwTzZWb0NNT2NrU1JTbkFnemlidDI1ajRNcGpnWm5jejM1WGdoMnZuUm1VOVJyRmE4cjRuNUlGeTVGbkNmU2hpd2dSSHVOUQ?oc=5",
@@ -474,6 +508,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1a386686da806f5e",
+"title": "Adani Group Unit Gets Nod For Rs 1.04 Lakh Cr Data Centre Park In Odisha",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTd1WHcycHJxb0pnNWlCenE2WGFzdDIxSVZ5cm9Eb3ZiRkZPM3h0WHNhZjlCeF9EQWRUN0ZtUGVBZlpWQVBfZzU2ZktOempwbTBPRVQzYWduZjBIU1JTR0tEZ3NrX3ZYNmdZRXpOUmZpX3B3dlNpaFNTMWlqWDVzakxZNTJIdXBkUVBfV1J4ZDJ4aGRhNXgwWWg0a3l3SElEeGJrVFlsdWg3WlhjZG9KNHNkckJmRHUtT0FMdmJ5NDhTcGFUTFlGTA?oc=5",
+"source": "TradingView",
+"published": "2026-09-26T10:31:32+00:00",
+"first_seen": "2026-09-26T10:57:07+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1711,6 +1761,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7792ad326e1e4c89",
+"title": "Driver: 'I've lived in six UK cities and Stoke-on-Trent has worst roads ever'",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhiRzNFLUk2UHJ3TXUtbWN3bkk1d3M0WDVheGswSjlwbENxeGQteC0yUVlfMk9HRm5DajdnWWlwS2VadGYwTlAyeDh6RmdZM2FyTXczVHp1UDltcnBGVnZtSzZwQ2NyVW10S1ZNaTJWS0ZSeDB3U09uUXd6V1NENUdyWm0xalBBQjhFWUlkbExlVlU?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-26T05:00:00+00:00",
+"first_seen": "2026-09-26T10:57:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2f9377e0e1c37d53",
 "title": "Khaitan & Co advises Reliance Industries on ₹12,000 crore NCD issuance",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEpxV1E1SUN4ZGE4U3FZV3pyRUdHUlY3TzBuUm8tOGoybG5MS181bEQ0N25scGx3bG5jR3c0RExwcGMxcGpNS2t2Qy1PWExQUTJDRU1peVRETHVGampyNGg4VXNtakxKRS1UV0wxbHpILUFGNnU4QUFuQmlaVkRvM182RmF0NWc3SkI5MzlJZXdnd2xSdzRNQzdQUDRyaE5LYm9UblNPNktVWEJyX2VuVFVqNmFUUdIBwwFBVV95cUxNRHhHRzNxcXdGVUdvZVhTeVNFRkJUZkJDY0RRRUl3ZjBVc0piekxNREp2Y1JjRkN0eFhxa055ZWdzUzcyeTE0M2w2NTI4WFBteHBjWXUwM3pGZ2o3bXpheGIta21CWjl6M0RnWW5CZi05SUZrTUluWXY4QWZqamJtUU4zQmo5TXIyN3F0czNxSmxPeHFJMGw1ZXE4SW9yTVg3WEY5YzB1ZzE1T2h3NDJpUmJ1ZHdzTTIyQmUwUEtkTXpiaWM?oc=5",
@@ -2730,6 +2796,22 @@
 ],
 "groups": [
 "Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7027f3e80363df15",
+"title": "Stoke-on-Trent prostate screening event attended by 500 men",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CSThGNW5hNHJhMXZkOEd0SGJLYjJYTlpWdlk1VkI3YWNHNU5QWV9GUXU1clh0bTZlY1Fqdk1JOTExYTd2MGNSNFV2YUJ3VzF0OHBKOURnUXMyM0E?oc=5",
+"source": "BBC",
+"published": "2026-09-25T19:04:24+00:00",
+"first_seen": "2026-09-26T10:57:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
