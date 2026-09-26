@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T08:58:53+00:00",
+"updated": "2026-09-26T09:19:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,70 @@
 ],
 "items": [
 {
+"id": "4d5d4e126b2a538a",
+"title": "NTPC Green Energy Starts 81.34 MW Kalasar Solar Operations, Raising Capacity to 11,058.57 MW",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2R2a1RmRzRkdGZtVlFFNnpuLVlid2ktclpaSGZzTFlyYnNsdWFzRTFIbHhzNGdaYW1sX2pMNV9veTVscHV2WURDN19JM1hKRmRHMm1ZbWxtd1FrcjhMVzFPaDktR09TZjY5LXFfUXJ4SFptbGZudGU2aDlpRjNZbTkzTnVNWDd0TmFkalhoSm4wTGFLY2l1dkQ0cjZxaTFicHNrMkIySi1VMkFfejZ0WVYyal9LVXc4?oc=5",
+"source": "Sahi",
+"published": "2026-09-26T09:14:53+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c1d6ee5e5d4c2a7",
+"title": "Tata Motors Passenger Vehicles weighs further price hikes amid cost pressure",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObVpHcHVTeVNaX3Z1dmozOF93Q2x6RmdkUGt0Mzc4OHhTaE4xM1A3Wm5KMDROX1NSbWxqSk1hbGdGajBGdEREQmdmc1NTd0lxMHgtMTc2UFpienozZWdxNnkxUnhkeEtiaEM4ZGFuZlh0Z0RNaFVsVjJmRTJDZVZRQ2hwYTRmM2ZPTWJqWDBQNC14OEJkWFlxYS1vSkVCSWV6ZzhiWTVTMlBOZGpQWld3?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-09-26T09:04:45+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0568f631d1540688",
+"title": "NTPC, EDF sign pact to develop renewable energy projects in India",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObW9qclNDd0piSDdMWHdhRXdBVmRpdWNMTXdvUVVySFB0aWctNVN4cjhJZk9MY05vNVdqN1gwV3hBSzAyV3FCZFVRMDVaVmtOWUk0cHhUbVFFSVBwZk92a09DeFg2RDJ6SkExODBST1NhVUMwdWVJS2NWTmNsMVgwUlhHZk9GNWJ6YXdweUNDMkg0VXI2VnFWWG9kSzhKN0VaeFZEdzBKdk95dmR1NklKSXhnZkFOMl9QdlAyMk00dm5zb2VoU285SDRndzQ4MmNGYmNZZdIB2gFBVV95cUxQNndFTTJhWGFaekZES2dzRzJWOGozT01Hb1B1Ym0yVmo1SU51VXJZeDZCQ2ZfTWlhbExFSkJFTUJWLTYtTnY0M1BYQzUtQVRjS2ZYaWJKNThjLWtlMndNYWFGdXFDTEVzZm5QRkJJRjNqUzlKLUtUUE9zUjE0WTMyaE4xTkJzbUw0Nkt4T01kNWlxTVd4cXczUUNPelpOdzJZd2JPT0pSMVVBQTZ6bHpVSC15bUdqMHBPTVRWMmxsYTVUdlFQMWQtTXYyTUhFcUY2WnpGV2FOSnIzZw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-26T09:04:33+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "845c6a34ea8112c8",
+"title": "Tata Motors PV: No concern over Tata Sons-Trusts tussle we are listed company",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEFqRVNaQnl3cFdIM0VFX2dnd3dDX2VZMzdOci1mMFlpLWRsRFFNVml1Y0dQNTZZLS1MaGlCMDFVZGFKRUNmU1MtcnkzMGhHSzdKazBZUXdoU0lzWlJqTjZuaTY1NnlydjBMRHZ6RHVMUmJVeDVXLWRaUlg4azNWUkszWksxUmRoZWwyNjVLVGFuX2RPWmM0eXM4UVNqNlZNU1ZoakNtTC1VWHRjN0hFRmxyTUstNklvaFBpQ1kyZGFXeUtvdEdpVnRpM3BfbEh10gHTAUFVX3lxTFB5d0s1eUNzYmJhX0JiMmNyX0Q5MUo4WmVyV2JtWFFKX1VyTDVMTVdQVVp1blk5R0E2TzdEdjdfWjN4NzNRNDFWOGJGLVZ2Q2RHSS04QkxlME5uMzFuYzR5ZnhjU3FqMFBhcUdydTlsVFMtTXZKa1lHODJRWFBLeDlyWlNMRkdfSkkxRjZQcWZONUdFcHFLNktxLUlyd25wQ1duRlI0WjcyV21JLS01dF9laFRZanFuelJnSEdXTGVPd0QtU21sN1Brb245VkY3VUMzeHM?oc=5",
+"source": "Rediff",
+"published": "2026-09-26T08:58:29+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cc85cc124e347f13",
 "title": "NTPC Green Energy Commissions 81.34 MW Kalasar Solar Project in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFZBMF81R3lSdHktalo2dHE4WjRMdzZGTmpYWWpaT0V4QlVBLUFGeE4ycF9Bcm05RlVzcm9JYmlCMTJrazNZOUxxS1BxV1ZBMmFUT0pyQTZoRUdKOFc5T1MxSEdtZTNKVFQwLTQ4ZW9rTFFKdTNvTk5QUVZoV2FHTFpRNTJfSFJKbi1Da21OTWt1QTZoNVUwb2ptWkNsRHZodE00?oc=5",
@@ -541,6 +605,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7378b91878deccd3",
+"title": "SBI Saturday Branch Opening Proposal Sparks Social Media Debate of 'Toxic Work Culture'",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXBwQjFMMmJuWnVHdHRFYUpYeDducEhibTBqcFdlSnBvQU9zcVhCZ0Nqdkh2ZVg2TGdMXzBsckNHTVZIc0N6alNoWmNFUzkyYlpKQUdPendZbU9wYzdpWUgxNkJCMXptTktPTHhoVnEtZHVhT1JXOFRSZnk5NzRzMWlUTU9UdkxKUVNTUmVqSVdRLURMNGRyVzJnVW5WakxFaDB5RmpWWWtjUUhsSEZhd2VOYnNMVlFXcXh0Vm1ZWHZETW8?oc=5",
+"source": "thekanal.in",
+"published": "2026-09-26T08:20:57+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c7a35a803bd4bc2f",
 "title": "Gold may rise to USD 5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDJ4eTVyT2pFSDMyVmdPRUNOX2REVUdSWm5Td3JqZldwZFVpR0xtVkV4anRJS2l6TFlrMjUxcnpKSEctR1dEdzlVOTFET3lWVEQ1UmI4WEp6d1RWTjBkZ0prWWNRM3Fla29jZ0lTQ0FpZTBpQmU4TVVEOUxoSGp2ajl1MmhPQ2h2S0tRYkVsOVhRODUtY0FlN3QyZjVkY1ZWeGNUQjQwRk53UXI5UzFIRkdzRTVZQUlXZnJFMlNISHRTdkNrQUpQRHlB?oc=5",
@@ -568,6 +648,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1ab9981f84a0601",
+"title": "ATM Charges Waived During Bank Strike: What SBI, PNB And Other Public Sector Bank Customers Get",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9iczhqN3J0UmxTNjBmWlhYQmhWX0JfeHdQODk0RjFrMmRqdk4tLXU5SXFqalhkdmM3WDFGZ0NCMjZjdXFSd2taTFo2NkZscWFRbjgxOW9sREhTcjZkRXRSV3prRXZEZTNRbnBYTWpHS0QxMWJBUUZwdnNXMjJ4TG96akZDUGk4aUVWeU5wYlZVbmo1YlN4MUd2aWR4UkFFWHJ4ZFctclpRSlhFWjRubndyVXR2cUtDR0NZZ3B0S3FkNkhvRks1WV96SmEzOWVGNDktNnZjSFHSAdgBQVVfeXFMTW5vYnM4ajdydFJsUzYwZlpYWEJoVl9CX3h3UDg5NEYxazJkanZOLS11OUlxampYZHZjN1gxRmdDQjI2Y3VxUndrWkxaNjZGbHFhUW44MTlvbERIU3I2ZEV0Uld6a0V2RGUzUW5wWE1qR0tEMTFiQVFGcHZzVzIyeExvempGQ1BpOGlFVnlOcGJWVW5qNWJTeDFHdmlkeFJBRVhyeGRXLXJaUUpYRVo0bm53clV0dnFLQ0dDWWdwdEtxZDZIb0ZLNVlfekphMzllRjQ5LTZ2Y0hR?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-26T07:57:40+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -701,6 +797,24 @@
 "source": "scanx.trade",
 "published": "2026-09-26T07:21:26+00:00",
 "first_seen": "2026-09-26T07:32:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "74c414f580b5fc11",
+"title": "Adani Enterprises (NSE:ADANIENT): Did AGL Acquire 50% Stake in Monvarex Aluminium?",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVBxS2w1U1l0R1RmMFEyRzNNRFFBVXhFd3JrM0djdzFNOU12VDR0b0ZreWFoZlNmQkt2TzI2aTF0c0ZQUXFIcnA4RFJGWFJqbTQ3NWxoOURkZHFwR3RTT3dIaE1lWGlSTy1RS1R4ZjNvb0I3ZTJmNFJ6T0hBSkx6VlBCUFRicERZT1BrcHRlTkNNeEl6dHlta1cwMElGSlFkRUd3eWFiOFFxQ1Z4NXR3TU8yRzdCMjNScjNNbHo0MnV6Zw?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-26T07:18:00+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -1070,6 +1184,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c9561e24cc1dd2a2",
+"title": "Weekly market wrap: NIFTY50, SENSEX falls for 7th consecutive week; Infosys, Bharti Airtel, others drag losses",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTzFkM05pMU5YQy1jcVVSbWtXSXVrRW80UzU0U3ZDYXhwQ3J0NmJmMFNDMTVuWW9IMEp4T0NWalg0TGl0MEtaQzQzeTRpNzZ5MHY4cjYxcXV3Sk4tZ3l1dTQybzJXakhSVUFyX2RtSTM1QTRwVi1nNGZXdkpfSlZUUTkwcVViYzkzai1uaFk3eS1xVlg0b2stQl94eGdza01BLU4wLTd4MmNBUDNKQzJURXNPQV9oYk5GdTNwSnlSal9Xb2V0ak9KZkRBM0VmcjROSGdSMjg4TS1fOU9iNzdFUi1JU3lvRndla3JHbmZSZUJGSnBoeUJyLQ?oc=5",
+"source": "Upstox",
+"published": "2026-09-26T05:30:08+00:00",
+"first_seen": "2026-09-26T09:19:47+00:00",
+"symbols": [
+"BHARTIARTL",
+"INFY"
+],
+"groups": [
+"IT",
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "9f9300196b2f742c",
