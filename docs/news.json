@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T08:21:19+00:00",
+"updated": "2026-09-26T08:35:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "da8125d564b6667d",
+"title": "Video | Tata Motors May Hike Passenger Vehicle Prices Further Amid Commodity Cost Pressure",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYkxhdVBPdHFWSmQ5YTNpQjJMQUt4bWhnU3RlVFNockpiTWY0c1QwOFMyeXNTLW9RLS1vTThNZm0tamsxNlk5OF9UQ29hcFZrSGFScU9aY2RiMTBDbmZlSmJxWUwwNG1SUTE1SURwU1JSNGhTQzIyYy1JWXN5U1E0UzZVSWVqQ0pWZGtlbGJIbWliZk9STGg4UXpReVk4Rllld0JjYzZ0RkV5YTRycTBnNlM0TVpJT2toblA3dXlQTEh1SnE2RkR5VDAxRUxSQQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-26T08:22:27+00:00",
+"first_seen": "2026-09-26T08:35:38+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c7a35a803bd4bc2f",
 "title": "Gold may rise to USD 5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDJ4eTVyT2pFSDMyVmdPRUNOX2REVUdSWm5Td3JqZldwZFVpR0xtVkV4anRJS2l6TFlrMjUxcnpKSEctR1dEdzlVOTFET3lWVEQ1UmI4WEp6d1RWTjBkZ0prWWNRM3Fla29jZ0lTQ0FpZTBpQmU4TVVEOUxoSGp2ajl1MmhPQ2h2S0tRYkVsOVhRODUtY0FlN3QyZjVkY1ZWeGNUQjQwRk53UXI5UzFIRkdzRTVZQUlXZnJFMlNISHRTdkNrQUpQRHlB?oc=5",
@@ -490,6 +506,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6ccd0396f534b393",
+"title": "NTPC, EDF Power form joint venture to develop low-carbon energy projects | Details here",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3dCSmV2QXI2SWNpQ0hOeHAyQThSZ29mVkFHbkI2RUVUQ0tlTktPMjZocFFPNXc1d3dSbVVnLXdnZU9JYlZiWHFmOHl6MzluM2pfUHFrQzNOQ1p2TFUxa2RHN2V3djZjVVpTQmJkWFJkUDNzQWV4UDdzNXRfZHRsQnhidG5EUThqNTRjaHRqcXU2QlZqSkluemRfNzI1blY5UUZrZGtJOXpuY20tb0ZVeW4xa0ZwYzFzbU9xUzlUMjdzc2ZJeFRfREdhaEMxU0Rrdm5wVmRRTklodF9OYnVrcDd30gHiAUFVX3lxTE1vd0JKZXZBcjZJY2lDSE54cDJBOFJnb2ZWQUduQjZFRVRDS2VOS08yNmhwUU81dzV3d1JtVWctd2dlT0liVmJYcWY4eXozOW4zal9QcWtDM05DWnZMVTFrZEc3ZXd2NmNVWlNCYmRYUmRQM3NBZXhQN3M1dF9kdGxCeGJ0bkRROGo1NGNodGpxdTZCVmpKSW56ZF83MjVuVjlRRmtka0k5em5jbS1vRlV5bjFrRnBjMXNtT3FTOVQyN3NzZkl4VF9ER2FoQzFTRGt2bnBWZFFOSWh0X05idWtwN3c?oc=5",
+"source": "Livemint",
+"published": "2026-09-26T07:40:05+00:00",
+"first_seen": "2026-09-26T08:35:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
