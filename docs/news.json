@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T12:48:38+00:00",
+"updated": "2026-09-26T12:59:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "ccea99ed9b76e823",
+"title": "RRB NTPC CBAT Admit Card 2026 Out for Graduate Level, Download Hall Ticket",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0alZvR0ZOS1JhMEJiUnBVV1FSekpQQTh2M2tqVkhFYng0bWw1NzBhdWFUSzIyS3pFc084a3BpOUpFeGJNWDdNNktBOVphaE9IOTU5Szl1QUdhOHBLazZON3pzaTBqWm5yeGpyb1FHVlEzSEtJd0U0?oc=5",
+"source": "Adda247",
+"published": "2026-09-26T12:51:38+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8bef53463e93005e",
+"title": "Power Grid Declared Successful Bidder For ₹430.67 Cr Maharashtra Transmission System",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXd4M0NnVlZSMkw5Q3RuZ21xbl9MaHV5VVFqakJpajBIanNSd09sOHBkMWNtc1ljVDhLV0ZnUVg5NVAyYWVSaXk4RnQtNWhtRlBRbkRqWThKZ0t2TjJHbWRvcS1UVndOdGo1dHQ4Z2F4c2NxTzlfWmJkemUwU2ZHX042UUdJS1d4UDNvTFFUcFdxb21FN0w3V21nUDRGRFBRT2R5SzE4QlQ2dGUtUmc?oc=5",
+"source": "Sahi",
+"published": "2026-09-26T12:50:16+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8d6a9cff8cf8f0c8",
+"title": "Fake notes in Axis Bank chest: Meerut SSP hands over probe to crime branch | Hindustan Times",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLTZ0RDNwd2VtZG5TVDFtaXZuNzU4bGUtaldjYS05SENpR2VzQ3M2bWpqNW1QYkRPbUk0REVFZzA0Ylg3cjRkd1ZCLVFwbFIxdWltU1hUb3ZhenpKeGw0RGZXOXdzTS1QZDFXdHluQmlmVHZnMDNwWmpERDZ0YTVIcXlhSUdCVmFFSGVUT196SGdma3JjOThFcE9jZ0MxQ3c1MmdpcFlXZUVxNXdiaDBoQVM0bmhiRzJSVldvSFVtUHhGWW5wY2dTcEVnZXRNUkF3RWFpMkpvY3FTNlU2MVHSAeMBQVVfeXFMTnAtN3VZNFNDZFg4a1owWHh2eVViT1RPSjF5YVRjUTdaaGx3M0JxdWtkZVlUZUlUQkxfdkF4UERxdjdET0Y5N1ZJT2JraXRPVXh1LW5aaUVoamFkbFA2NXFTMHpESS0zZ1hBdC1jcThmU3FDamx4el90dDNyQVpFeTNFWm5ndEFWWDlkQWRFZlJZeE1xaFlQYk0tYVdvc0JpQ210aC0tdjMwbmtJRGtJZ3BxWkFqX28xb1JpUTBiUmx3SF9YVm56OUFickxFVGJ6eWl4dGFwZUt1aU5FSGIwZ2RRSDg?oc=5",
+"source": "Hindustan Times",
+"published": "2026-09-26T12:44:31+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
 "id": "cc9294b865a08439",
 "title": "Railway Board Opens 3477 Graduate Posts: RRB NTPC 2026 Application Window Now Live",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5uTVBaNGw4S0hleDFiS2hNQzhwMllMbkQ0OHZNbkZ0dHMwUUo1QVJuZG10NVZwV2ZmbmlqTU1jNXpWQVdCb2ptWDJ3WEp2amNqcmVPd09oSGZuSFR6WTZPc3RJd1c4R095VVh1Y25raUNBcFdIUHhQRDVSR0NxYnltVE1RanE0UkwwTDNNVnVPSFV5ME8wNWhkWDlBS0JpZTNlN2p5dkxLbXFhYjdQanJ5NC1DQQ?oc=5",
@@ -488,6 +538,24 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3480093ef018b73b",
+"title": "Power Grid board approves ₹10,000 crore unsecured loan from SBI",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2xiOHVrUm1Cd0p4ZUQ5bFoxbEVMTVJkSTVEOFBXeDRpMDhDWTFZZm5NclhnSTAtSGx2NFlzRHVxWmFVSU0zTUk5MGRZUGdTYmhpajJKUkVLb0hiN2s2b0FtcDBFTmVNdjRSQVpCUHBLdGZEUWhMZkNDTmptakc1eXJlamJlaHB3dVV0TENXQjE1c0NoZXZ5UUlJZG9oUWZtRnVCVkJ0TWxPRmpfX2JPWW1JM3lzdmVYcUQ4?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T12:04:30+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"POWERGRID",
+"SBIN"
+],
+"groups": [
+"PSU",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -611,6 +679,22 @@
 "source": "daily-sun.com",
 "published": "2026-09-26T11:19:49+00:00",
 "first_seen": "2026-09-26T11:57:22+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "823a6f8fa513032d",
+"title": "Odisha clears Rs 1.04 lakh crore Adani Group data centre park in Cuttack’s Naraj",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2dycjAtUHJ2OG1iM0NfNzA3RHFiQVBJNjVlODBDX1lnUmRjUzh4VE1qTmRZLXlhUjlFdnJhVWI3OFZ3NDgxdzJ1MzJVOG5wX21aS2FVMHI5ZG80Y0pySlZZNFlpWVNNempleUF6TGNDbnMyaHhjUlR4QVdydnlscjBMUFJpUDJucW5PM21aRHVSUVpsWEJfVnloMHZFdFpsak5mMVVjNnhVYkFoNWZPRlVWa2Jtc3VKblHSAboBQVVfeXFMT0NncnIwLVBydjhtYjNDXzcwN0RxYkFQSTY1ZTgwQ19ZZ1JkY1M4eFRNak5kWS15YVI5RXZyYVViNzhWdzQ4MXcydTMyVThucF9tWkthVTByOWRvNGNKckpWWTRZaVlTTXpqZXlBekxjQ25zMmh4Y1JUeEFXcnZ5bHIwTFBSaVAybnFuTzNtWkR1UlFabFhCX1Z5aDB2RXRabGpOZjFVYzZ4VWJBaDVmT0ZVVmtibXN1Sm5R?oc=5",
+"source": "OdishaTv",
+"published": "2026-09-26T11:17:19+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -940,6 +1024,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "df7c820c71ac866e",
+"title": "Maruti Fronx Base Model Price and EMI: How Much Will You Pay With ₹1 Lakh Down Payment?",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcUIwU1VuOG1TMzJNejJoekpxaGtrS0gtMFh1OE5MWnVQS2NZQXY1LVBZcklKRjlrQ1k5c2FlbmdvX3lFSjNHSUl5VThBcnZQLUNvQnlHd09WZWY0VkM3bER3cUw5anU5NFdYLUNRdmdETnlYVlA2ZzFJUmdpc0Y4ZG5FaVp4NF8welhYa0M3dDlKOE1jQzBNUklESEQwU0hiN3hWRnJGemJvS21mSmg3aWd1X05UNUdhWW9WbmJOaWc3ZTdyVk9IRnlQaEp2YTY1YnJJ0gHTAUFVX3lxTE9xQjBTVW44bVMzMk16Mmh6SnFoa2tLSC0wWHU4TkxadVBLY1lBdjUtUFlySUpGOWtDWTlzYWVuZ29feUVKM0dJSXlVOEFydlAtQ29CeUd3T1ZlZjRWQzdsRHdxTDlqdTk0V1gtQ1F2Z0ROeVhWUDZnMUlSZ2lzRjhkbkVpWng0XzB6WFhrQzd0OUo4TWNDME1SSURIRDBTSGI3eFZGckZ6Ym9LbWZKaDdpZ3VfTlQ1R2FZb1ZuYk5pZzdlN3JWT0hGeVBoSnZhNjVickk?oc=5",
+"source": "Sangri Today",
+"published": "2026-09-26T09:40:05+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2546,6 +2646,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2bacc82671b0b017",
+"title": "Asian Paints Sounds Cautious as West Asia Tensions Add Fresh Demand Risks",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3BUcEc3OGRDR09sZFVPTU5HRy1FX0RrZXdmQUYtWklkZzZ5X3llTWIyNUMzaC16Zjdmb3dmellDSkd5aUstekxxVUk5TWtPSkNzT0JBUU1nSS14am5yVXFwZUxFbUhjZ2x6UVl6WTUxd3BhVVdEOWhPemFGZ2RJWHg2aWZwSEZzdWtha0tqcGFNU3NmT3ZGcUpleGN4ekowNHdxaUozbUZnNm9rbkxBOHBpcTdrTGpIU0R6cm9UQjNfVm12Y0xIc0hB?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T03:14:22+00:00",
+"first_seen": "2026-09-26T12:59:14+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
