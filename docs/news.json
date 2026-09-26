@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T03:19:56+00:00",
+"updated": "2026-09-26T03:34:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "9ec81d6621258674",
+"title": "NTPC Green Energy declares commercial operation of 81.34 MW solar project in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWRaZWhLSGVwOS1QNnl5YXZxSkF4T3Npazgxczd0dkhzOFlXc2FMaXU0ZGFRbTNId2docVJxM1loZE16YlJIVU15R01VMFM3V2JoNGR4czBVNWZOZFNDdThBcmZORE9mX2JZakFtSDYtdjV3dkhfZVlLbWRpM0d2a1FRaE8zYnVIazBxS3hwMklqaXhfYktYdG9yYzNjQXBkdmx5c1VXTXp0WGVrWENJQ3ZsOXF5YmRWQmVnM3BteFVPUUFmaGc?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-26T03:30:25+00:00",
+"first_seen": "2026-09-26T03:34:32+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5dd45fda53fb49d1",
+"title": "Bank Holiday On September 26: Are SBI, HDFC Bank And ICICI Branches Open Or Closed Today?",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1qamMtcmNjNHUwamF3OVBFSjNldF84Vnl5QlQtN1NNTzdTdnFuZXNCSHRPZGk5eFhEZVgyUWFBWnhBNnhxZi1tTm1yU1hYbUVYWWRsX3lpMl9kb2lhTGdvSjBUX1NaNkFoTERvRllfeHlxblBuNlVhQVFlQlkxdGpteUw5U3dIN3Foc0RNem10TTRRT0VGdFduazktck1EdmJ6cWpwLVo3N1FOSkxKTjZkU0FHaVItMi1hVFBMZlljQldvT1Aw0gHPAUFVX3lxTFB0TjZyMHFyZE1CRlJINkNUM1prMHpLa1g4c05ZMVZhNDVzUjRrVTViOTA5aEJpRi1rQU1CUHdUb25lRmNjNHQyTi1tcTA4dlFTUWxvNWlmOU93NTNRWWltZkZyOWRqWUxGOGZ2Y2d3d01rSlJmaE0zZ2dpekFtazVlNndhYWYtQUthRXNvZ3dKcGhQVzQtMzJCZHRaV2IxZ21LUmJUaHVlUGZBelV4S3ctV2x3enMybTNpV0I0cXhBSWItaWd6U0E5Z0R2YzRyTQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-26T03:27:59+00:00",
+"first_seen": "2026-09-26T03:34:32+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fe44de31a5c8d4d0",
 "title": "Stocks to buy under ₹200: Tata Steel, South Bank, Castrol by Mehul Kothari of Anand Rathi | Target, SL, market outlook",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbXYxMFBjLWJ3b0tKRHhodnlOdm5XakFrYUd0NVdfbWpITjdkYjgzd3h5NGdKVWowODRfbnFJZTZCRGQ2THJEY19YOXoyTXRLTDZqM3pma1lvZlFsMjU3c1Q1NXNZVEcwY0xHQnZqOGZpa0JqYnFES19uRkM5dUlWeVVBa0l4T25oc0l0UWxySTh2YjJhN05DdmJTbEw5LXBXLVBBamdsQk55UlIyUmgwZnJRUHVGOVZGRHdkNE1OaXlRZk9pelhESTRTVXZiNTVCRE1NcFQtWHNBMXFfS084d1BsbDA2QU9FSnJ2MkdHLTBjY0wyRmJwZW9jSU50dTlHRzc1MGhpb3hYZnYyUWtQddIBlgJBVV95cUxOaDk1NU1UUUJWUDJCNkl5Q1J6SVBCbGduakszbzhVNnJWSnU5Z1E4V1JVOTE5bGluZldJamRXdl9YMkpyWGh3Z2thRmpYOUNnS29hYUZoUDA1aGJhV0lOdGdPVHVic0dOM1FOTTRJUUlCOUtxVk1WVWpuc2ltbEo3TDVnWjlRZzJRQWpLUFZuaWNUcVBqRDVnSDRFNEVGNFFWTUtfVlF0d1pLUnVIWU5IYlpJY1ZmYmFMaEZ3VEpxWUlNVHp5Mkk1eDVsVUhGU096UEdrRGJBSzVmTXUyQnF3aHQxcElaeUxGN3Uzc2pqUFA5X1FTcmxnTlpoMkwySXprRnNBWXByZVVFeXV2c1BKTS1UcUtXQQ?oc=5",
@@ -561,6 +595,22 @@
 "sentiment": "negative"
 },
 {
+"id": "0c89f6b158a9f898",
+"title": "Airtel says AI-powered spam detection solution flags 98.4 bn calls, 4.4 bn messages in two years of launch",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdnN2RHVyV3FrdERzN2hsSDdRT0pFT2hHb05KNmVSVjdpeW0yMDZpUF9wVTZNUDdBQkdxYVhIZUo2NExlLWtiNVg0aDc4OW5NUFZzNHo3TDBoMlozT2NZOEVScTVJZmo4ZmhOUHlDTWVNQi1FM3Ftc2hjU3BxeUdrS0NvRDRLTm9NQmtzNzhLbHZOVUk0eXZZaG5odF9ydFE4NXpCTXJ0WTFfaXppMzc5SkZMR0FpMm1qY29RZHU4YlZuSTNzWTJXa2lxNGpIQXVPa3Fzc2xuOU5GOHEzQzVfdkJUclhaMmVjanNvNURkb1BtQjhwVGMxaXlscFM0ZU5EZkFSZNIBigJBVV95cUxNYmJib2xrMzlQdVhpZWpiX2VBeHJkWHVMVHlpcmZabXNmOWpSZFBGbnlPZ3lhbERtd3c0RE1jaGpiVnNVeldJUmY0TWxna2w5MkZIcGpQeU5wV0RiRWdIMnhDV0NxRHA4UFp6T2ZpeU9yTXRWWVNRbTNOWmVfUER1MW1QOGpSdXRUNnFMdkE0bk12TUNPR0RzTDU2QzE2TmNyZzJaZy1kZHpYOFZCdmpacElfNndtOWxkek1yem00UTUyOWxZUC1PUTlGb2UzS0NCUGlSd0tjaEIxQ3RodThqQU56Znh1SXR0RlJ2bGozd0tRVjhnQm11N2JSbTFMcFZTREhyNjVSMWRiQQ?oc=5",
+"source": "ET Telecom",
+"published": "2026-09-26T01:51:58+00:00",
+"first_seen": "2026-09-26T03:34:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8101db2b32292500",
 "title": "Airtel Announces Amazon Prime Lite with Select Wi-Fi Plans: Details",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXFra0o3aXk0UldXbjBoZnV0NVRNdFBOdmJnMnVQT3hlLVhaaVZ3aVgtUGZGbmVOUEdVcVFwbW1aaklKRFFlWDgwT2R2MWVTRUFPejAyZnV5dnFJNnBYVzl6VEdLMy1sODByZDMwdnpRRXVQdV91QU1XNy1VOG5wcDN3?oc=5",
@@ -656,6 +706,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8aa002cf65cd1d09",
+"title": "M&MFIN Share Price Today - M&M Financial Services on NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LbnBjVVRfaWVvbWcwSmt4cDhUNmtnZVhkOGY3VldKRDBXUlVRWTNzVnhGVzNuVExoYWsxa3kzXzdYcmRPY3F3U0tNMFRXSnNEeUs3WXA4OTRFWUZzZ1E2Qk9waE94YkpXUnpyX2xRWXhRX1BCVU04?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-26T00:22:17+00:00",
+"first_seen": "2026-09-26T03:34:32+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
