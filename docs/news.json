@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T17:18:28+00:00",
+"updated": "2026-09-26T17:33:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1240,6 +1240,24 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "aa045e305a9f5f72",
+"title": "Infosys Q1 Results: Cons PAT Rises 12% YoY To Rs 7,769 Crore, But Cuts FY27 CC Revenue Growth Guidance",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUnpEWFJkTWd3WkEyS2lfZlh0LWVqZzZacTVUbHRXdE92Y2xVRk1UenB2TlVLbVV3a3JoZlpLcFBhUXFweXM5ODRVWTgzaGNNX3lPd0hkbUtBd08yUDJDRzFxSU9RNjVXeVVKNFhnU21fS2NCY2VLcGVhemNiN05DT3VhdGlLRTBPRUl0U3JldVVXNzRNVWUyVEJmaGV6S3dEOVQ2ZHcxSi1seEVRMkEyWk1nOTJTMkpuaXhSMm04T1Rha21xWVlsOUdPUmtCdGZ3ZVNlT3p1R2locm8?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-26T10:09:18+00:00",
+"first_seen": "2026-09-26T17:33:01+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
