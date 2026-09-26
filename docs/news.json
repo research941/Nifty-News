@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T09:57:31+00:00",
+"updated": "2026-09-26T10:19:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "6bf92dd38d858d15",
+"title": "RRB NTPC Graduate Recruitment 2026: Short Notice Out For 3477 Vacancies, Check Details Here",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1pzVGl6MVBrYk1veDZWbG5IWEh2OXVNcEdkS2REZnFIOWt1bVlLY2VfblA1ZXBJV21BWlI4UE1iMmJGYk45RktHSlhUM2UwSU1SUUtDb1Vsd21BVEtndnVQMVFSMXRRUjV5QjkwRWJfcUY1MW82Q3ZKakpDSU0wNklmYzN6b3hVZVhOY3VtR0xHalh3bFAzTktzVTRvbm9NaTZCUmp2VGxVeWxYNFRWVkoxZ1N0eEtTM3R6T3ZxTzV1UmV1UjRaZjdJNHBUZ3ZhZGsya2hxWDBDNzdJeFk4QtIB5wFBVV95cUxPZ09fbFM1V3RPVFBlRmRjajRHUzhtRlpESFJFREdfT21EWmZEMGRtTUxOYU8zMk50Z0hvTDdRd2dhd1BjVlM0RFRWX05heUU2ejU0T25NeENOckN2c3VIbjJHbmJLdFVhYTV0M2Q0SXFsNHpiZEhfOVdpaTlYTzFsbkhzNkxXbzJYWGRaemUxaUF5cGJ0cFhLa0NZNlZrM3VVNjNlcE9OYWpxYzljaldLSFc2NWZFOWoxY3N4NEZfOTRvelBBWHBwWUM4Yk5aWXpaUU4xaDFKbG1tV2NaOGVHN0FuQnFLS0E?oc=5",
+"source": "Jagran Josh",
+"published": "2026-09-26T10:10:38+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "95fb51539c492d9d",
+"title": "Airtel Money: The IPO That Reveals India’s Edge in Africa",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHIwVTZmYmxXUENGaTVPNzFrRjVVa182ajY3WnlwS0hKd0FaUnhpdnZQMkpYcktnWHVlelFDVGJPeUYyUENJQ3FyRnFOUGo3OEJHaWFtZTl0QUlESGNaWXlGcU8za0RGRzNYMWNCbEVudmI1TTFxcFFOamo3bE5XeV9hRlNpUW5pdVE?oc=5",
+"source": "Frontier India",
+"published": "2026-09-26T10:09:52+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "779e79141f4f9c97",
+"title": "Media 11 Clinches 16th Tata Steel Friendship Cup Football Tournament, Officers 11 Finish Runners-Up",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWh0WG02SHJZMzdpNklUdlprTmIxZjVuNTJ5Z25OR1BWN09odTFUWC0waG9xQWp2emFWMmhWbTE2RkNpM2ZIUUxyTEFGRFhGa0N0bTJZVUZLMWNDeFhQaUtjTDdUZUp2dm5hTUdIV21PZ2hUTl8wOHB0QUNPaF9STEJmVldXSFdQQUZMRG0td0I5VmNEVU1qNDUya25KMnNvcjdSQ2pkOUdNaExQajBCY0tsMWNQRWdDRHRGb2lVTWZWclh2b29aS05ILVk5aHc?oc=5",
+"source": "Ommcom News",
+"published": "2026-09-26T10:03:50+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cbacd31fce65f1ac",
 "title": "Sudeep Anurag Joins IndiGo as Director – HR Analytics and Transformation",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUt2QXNweUxCdUM3TktnS0wzNFRkNGhVTG1OdVJJY193Q3dRQlZyTGpuVkJEYVRRUGJXY0JkNG1EbWJVR3dwOXh2cFRnRVFqYnBvY0YxR3hQbzl0eW9KNmRjcHVhSFB3MGlJOXhhdFdmVFJkX3RVWVBjNjg1NmRQYXF3SzE3Qmx0anJINnhIdkx1QlRs?oc=5",
@@ -497,6 +549,24 @@
 "sentiment": "positive"
 },
 {
+"id": "204ceedd0015c443",
+"title": "NTPC-EDF JV Targets India’s Next Wave of Pumped Storage Projects",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkRaT3NYWlRTQW1EMWpmYVBwTTFGNFJIdDZUeHBuZ3ZQR0VNLVQyekVQZFR2ajB6TXp3cHRkTC1Yd2dwR1RFeDRWSE5udGpkSXBsOVUxOHlzSTFuUWtwQThJZlBLN1NMbDcxUTNobTVUUDVxRHhhNk41YnA5ejZNTFpYVThQZGx0d1dJb25fbw?oc=5",
+"source": "urbanacres.in",
+"published": "2026-09-26T09:31:18+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "df3bcfed3d2ba3dc",
 "title": "Bharti Airtel Flags 98.4 Billion Spam Calls and Blocks 1.62 Million Malicious Links Across India",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3pVTENLVkxDMXRoYk9Kel9XcjlRdGJJbmpsVTZWbGVWeXBfTnQyeGs0WjBFWVh4OElDSkhkUDFVTExrd0Rzb3JBc1l5dVJTbXdsTXFKQnpBaWN1YmVLLWdLazR5ZURXaG80d0JBbEQyT0xhWGdjb1JuZTExT2NHTTE5alNuR0xrVkZPYjdnQ3dDR3BTREg2dWpzUU1WVkVCSEFuTmttaHU0QjBMMnJYdDNOcG9fbWN3RDdoV3RQbWdfck5Y?oc=5",
@@ -526,6 +596,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e9207ccd19678eaa",
+"title": "NTPC, EDF form JV firm as India & France explore deepening engagement in clean energy",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ09xbE41cVVHMXhkSl9rUXpiSnFYbm11dW1HTlFLTklYclBKeGs2ei00amcwLUxwYnJlLS1yNjRLX0lDZUkwQVFIQjUtNXFDejBOZVo1VXNLOE5SZUNZMVptd2hZWE1ndUJ0N2lwendXVkhzaUo3TmZpMk01NG0xeW9sUnV3SThRaFZhc1F5WGYxYmJDSEU5c3dQSnhlQ0d5WkFCcXpwVXRNeGRKSnM5QnV6dWhZd1h6NFJRcFpwX0VXU2FMMWs0Uk9pUnlQZHhYVWJxTXZkOGtsSGd3ejJYdjFuVdIB6gFBVV95cUxPN0ozMzJ6NlFoeTVyb2s0MXFvQUluY0xCbFdGcW41OHdXT0w3N3BpeGZDeGNsY0MwcHpvTUpsV2xBcUctZ2JFOW5NdUtTdF9maWhOd2d4Z2NNWDMxR3lsamtIZGF6NHA3OU1yQ0ROUXFVSVBISFFkdEZBTG5QUThXMEU2aW16NzIzWXFVcFlicWIyQUlVeFQ1NklpVk5NQ19QNWRmazFkZUFpWE1DUi1BUXlFcS1lNlpWRmpXNm01aWJXNWlCbDY5YWhkaUJzMzVJNlhpT2g2ejJIaW15eHhGd0FZMWU4UnFrbHc?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-26T09:10:06+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -593,6 +681,22 @@
 "Order/Deal",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1ecfaf55e8dd3df0",
+"title": "Senior Citizen Special FD Rates: SBI vs Bank of Baroda vs Canara Bank vs PNB - What will be maturity amount on Rs 3 lakh, Rs 5 lakh and Rs 10 lakh deposits?",
+"link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOWG1LMmo5a285cEx6c0NmaEZORHpnb19DYWJ3eUNCdW5jUFlRNGJCWVJzX0JRUHp4WExBUTJBNWpNTThEM1Z4VDB6MXhKbnVVSy1KMFI2dUFEdTlNelJUVnprUlZRdFJYUmhTbmVxb3VTVWpsdlFPc2JzYW1Ra3RfVC00WGN4UUJDWjhacGE5ZnRUU004MS1tclZscXltbEVGRTZ3YnJYWGlnLXc2b25OQkpRZDByU19oR2VSSXRGNWw3WjRUdExLaUZFUWNaQUkyVVZUY3U5V25fakJCNFNJSEFZeDVrTktDTFhDWjU4QV9kMW9QMk1pTG1qaGh3VmlrenlDdFdvcjFBSU5RYjhXYUZ6ZjlLb2JHRjVsTWp6UWg1TFFNNDZaVTZRazdFN0RZeEtZTmNqVWx4blVJ0gG8AkFVX3lxTE5YbUsyajlrbzlwTHpzQ2ZoRk5EemdvX0NhYnd5Q0J1bmNQWVE0YkJZUnNfQlFQenhYTEFRMkE1ak1NOEQzVnhUMHoxeEpudVVLLUowUjZ1QUR1OU16UlRWemtSVlF0UlhSaFNuZXFvdVNVamx2UU9zYnNhbVFrdF9ULTRYY3hRQkNaOFpwYTlmdFRTTTgxLW1yVmxxeW1sRUZFNndiclhYaWctdzZvbk5CSlFkMHJTX2hHZVJJdEY1bDdaNFR0TEtpRkVRY1pBSTJVVlRjdTlXbl9qQkI0U0lIQVl4NWtOS0NMWENaNThBX2Qxb1AyTWlMbWpoaHdWaWt6eUN0V29yMUFJTlFiOFdhRnpmOUtvYkdGNWxNanpRaDVMUU00NlpVNlFrN0U3RFl4S1lOY2pVbHhuVUk?oc=5",
+"source": "etnownews.com",
+"published": "2026-09-26T08:52:23+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -671,6 +775,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dea5875a1d13d54f",
+"title": "AI-driven retail operations with TCS and ServiceNow",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnVZUVFnTXZzUHBDWHI1X3FxRmlUMC1WQUJKTkRpX1dHblZZbzNYRllEejJrUkRVeUVqSk43UjNhLV92OGw2a0E2YW1kWFJIMEFhMDg3TVNWeGZxSWttWnRqbE1jcnFOT045M24tSmc5cUZuY1RwR283OTg3TnlRTGlGUHF6SFMxdWVmX1JpLTNOTW5FVmZSRTQ5M0Y1bDRMcVhscnpDYVhPZw?oc=5",
+"source": "Tata Consultancy Services",
+"published": "2026-09-26T08:26:18+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1457,6 +1577,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c6aee7c285366c5a",
+"title": "Power Grid approves ₹5,000-crore bond mobilization",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVlFeUh5MGFHVEJVM1dCajI3WkExREplbk8zRmh3Y3Z5aTVRRG1nX0NzUlNvMVZzcWFDYU1jYzFDTlEtNDBkRWJFQU1lTHU2Nmh6OTRQc0d1dktaWWJYTVRWVFdzMkNBRTZYQ3FlWVp2NnM5RlMzODIwUnY5N3ZoVGw1ekpNZjdlQXJFcmRiTzFCUQ?oc=5",
+"source": "Whispers in the Corridors",
+"published": "2026-09-26T05:03:35+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2f9377e0e1c37d53",
 "title": "Khaitan & Co advises Reliance Industries on ₹12,000 crore NCD issuance",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEpxV1E1SUN4ZGE4U3FZV3pyRUdHUlY3TzBuUm8tOGoybG5MS181bEQ0N25scGx3bG5jR3c0RExwcGMxcGpNS2t2Qy1PWExQUTJDRU1peVRETHVGampyNGg4VXNtakxKRS1UV0wxbHpILUFGNnU4QUFuQmlaVkRvM182RmF0NWc3SkI5MzlJZXdnd2xSdzRNQzdQUDRyaE5LYm9UblNPNktVWEJyX2VuVFVqNmFUUdIBwwFBVV95cUxNRHhHRzNxcXdGVUdvZVhTeVNFRkJUZkJDY0RRRUl3ZjBVc0piekxNREp2Y1JjRkN0eFhxa055ZWdzUzcyeTE0M2w2NTI4WFBteHBjWXUwM3pGZ2o3bXpheGIta21CWjl6M0RnWW5CZi05SUZrTUluWXY4QWZqamJtUU4zQmo5TXIyN3F0czNxSmxPeHFJMGw1ZXE4SW9yTVg3WEY5YzB1ZzE1T2h3NDJpUmJ1ZHdzTTIyQmUwUEtkTXpiaWM?oc=5",
@@ -1565,6 +1701,22 @@
 "source": "Trak.in",
 "published": "2026-09-26T04:16:55+00:00",
 "first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8f7b5162a4141936",
+"title": "Aeris, Tata's New Car Is Rs 1 Lakh Cheaper Than Maruti Dzire: Rs 5.29 Lakh",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFMxa1RZRmlULW8ya1dfcUtiUERTa0k5bUw4ejYydlZ3dG9pQXJzdGxHcExZNTE5eWFLVXRoekR4WjdoTU1HZW1yUENjS0Vna2M4a0phdkdVaDkyUDhmZHVNalJ6c0hXUXdGaUdkLUloSVprU1lBbnNTVTNNb1p4WDBSbHBMSkExU1JvTWJLbU16Ul9NYV81R1hhUGNSZw?oc=5",
+"source": "trak.in",
+"published": "2026-09-26T04:16:55+00:00",
+"first_seen": "2026-09-26T10:19:04+00:00",
 "symbols": [
 "MARUTI"
 ],
