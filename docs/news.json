@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T00:49:48+00:00",
+"updated": "2026-09-26T01:00:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2072,6 +2072,22 @@
 "Results",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "6ffe31b2d0558f8e",
+"title": "Lalbaugcha Raja: Anant Ambani performs Sashtang Namaskar, Mukesh Ambani carries granddaughter, Nita Ambani applies tilak",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORndoY0VzNWFMSzN1ekF0bUdFRWp1VHFhU0hBNFBGWDV3SnJXNUt5eXA0U3BpcjBpWXI3NElTQVhQWGRQZWVHc01mQm8ydHFBSmx6THk5a0pmMFY3VGliaHZwMW4zSnh2OEtFT01JMU1sZDJFam9zZnBUR1lHN3I0NGxOOTJnejR3dldpY1RUdUFELUlpOE5mYk5waTR3QWl6ZXF5RFlKZy01QTFJWlhGb2RGMlIyZldJNjMzV2hDTWY2X2h2OUZTMw?oc=5",
+"source": "IBTimes India",
+"published": "2026-09-25T14:49:49+00:00",
+"first_seen": "2026-09-26T01:00:13+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
