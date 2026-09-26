@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T21:57:21+00:00",
+"updated": "2026-09-26T22:19:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "0223931d8fd5415f",
+"title": "Maruti Suzuki Grand Vitara On Road Price Idar Sep 2026 - ₹12.74L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2JtUlhJeGZZWXhfRmVCX25GaG9TcGs4d2JMS2pqTDBpS29fTktmMG1PTUJpdnNWa0xYcjdlUV9ONWxlbmRhY216alZwMkU5Vk90YXJ1WGRsQ0pITE42dFFQNlduSGo1UG1BQkIyTzJ1Y2FVeXRnSGRIUUNNRHBPalRpaw?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-26T21:28:28+00:00",
+"first_seen": "2026-09-26T22:19:07+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "0015d194d35d0665",
 "title": "Defence Minister cleared order to protect vigilance officers, but BEL was not bothered: RTI",
@@ -3447,6 +3463,22 @@
 "source": "bhaskarenglish.in",
 "published": "2026-09-26T02:44:48+00:00",
 "first_seen": "2026-09-26T04:19:53+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "18ffa92cbbfb8a26",
+"title": "Raise objections by September 30, says RRB: NTPC Undergraduate CBT answer key released; ₹50 fee per question",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTBQQlNqREs0cm1fMzlpUDByMHZ0cTJJX0phOWFfMHpOSEtIbkJwWHFBSzFxX3FHT2pEbFJGYXducGtFMTd6T3lNTmhBYnpuMWY1d0J6eVQ1RWJoRlhRdWdGVWM2alhLMDdWRjc0X3pjMWRxbzBvTkVqUnNuVDVsa2dZSy0xS25iMGhjWmJLRW1GenJTaVJHRGI0ZmIyZ0U1MGlSak90clZUcXplRHZfQXRRb1ppaXZ2UEdQZEZKQlY4aGN2Wk9udXh2ONIB0AFBVV95cUxQY1hJS08zcmtvXzRXbTdfRmFQLU9IWnh2bzVwOVVxcEpPUFFWdXZ3eWRlMGRLWHVlUWx1Z2d2Y3hMSTBRR1VWdzJfcWlFd0t4UDA5YzJjTW9SZEFpVVF3TlhJRjdrTlM0ZnkxNUdzbG16LWdqc3hwQV9RUU5HZXNHRkZKVWFydW40OHJDODRBMG9iSlRwUHNOMzN3V0hsMHBfeVlieXM4THdmOVJRd1N4dzhxWVJFVlp0VHF2YUlVSTFQaFlGR3lMakYzOVJTblJn?oc=5",
+"source": "Bhaskar English",
+"published": "2026-09-26T02:44:48+00:00",
+"first_seen": "2026-09-26T22:19:07+00:00",
 "symbols": [
 "NTPC"
 ],
