@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-26T15:47:05+00:00",
+"updated": "2026-09-26T15:57:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -525,6 +525,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "03328537b1d18c8b",
+"title": "Media XI Wins 16th Tata Steel Friendship Cup Football Tournament 2026",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1hxYjQtb3FCRS14eVkya0lSN19qWjJZVmxPY29remo1R3d2N1U2dzFEdldrYjR1MHF0NHBWZXhuX0drMXNoUnl2NGVBbFQzQ3dPaFV6ZFBmaHZ2S1hNd0NyOFhTRXJIb1ZGZVJfTEQ5QzQySmFPeXBIaGRKRmFEXzhDWDdKT3BDVm5jeTBmbFZWNGpLZGxOSHIzRnM1ZVhkMVlrdS00eHc1UFJGT21PetIBtgFBVV95cUxNOUdIZlJYUXRReGdKTVBiYUVOcWNiM0JONXNBWnFicFFIY0ZaN2gyT3JRWm9NM1ZhRFMzWFBmamFIc25OTTM4Zk9pS3JTQWoyN0xCbTE3SFRMTTZnNXAwcEQ0cWZZNUpETEZRYUNTVk0xbFpNcjQwSE1KbHVMMklLOHpkdEpLQmttY0tRZEZJY1lyYjA1Tk43ZV95SEZQVDBrejluZ0ZaZHhXSVBDcXBaU2huODFodw?oc=5",
+"source": "sambadenglish.com",
+"published": "2026-09-26T14:09:51+00:00",
+"first_seen": "2026-09-26T15:57:47+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "668b13ebd0ac3490",
@@ -1374,6 +1390,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "08fcc4584d2e8c66",
+"title": "NTPC and EDF Sign 50:50 JV to Build India’s Pumped Storage Grid",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1VjQjU4VzlFSUU0LWNRaUQ1aG5Fd3hzRExIRjZFc0Y4cUtzd1RYWFFDWjdoX3BpQ0FIemRmUldaZ0JrMmxHS3kxd1M3Zkp4VGdfSDJvSVJ6NmJWa1phMEtlOVBwNVdXZy11VmVGSVQ0VHJOR2NLMHNPdWhxbHdScFV0a1U2ZHc2S0dXSGhEa1FQQ19zbFE?oc=5",
+"source": "Discovery Alert",
+"published": "2026-09-26T08:58:05+00:00",
+"first_seen": "2026-09-26T15:57:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
