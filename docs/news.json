@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T04:59:04+00:00",
+"updated": "2026-09-27T05:19:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "408075eeef38f2cc",
+"title": "SBI chief manager jailed in Mysore for Rs 61.57 lakh misuse",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1VNc2c5STF4N2NobnlaQzBFWTVKanBNSjNzeWdEcGlWN2NfUFA4cUZ0eUZnUldNclNpNmN6ZDZSV1VRTFZ1RHZYNkhtME9pdGtHcjJNUEd5WWdvdEh0YXVKazZZRDR5XzFxSTByUlI2NE51cml4OF9RYUdpTFdVZVNwRVh6RjJBYTczSHpZTkFCT1p5QXlR?oc=5",
+"source": "newskarnataka.com",
+"published": "2026-09-27T04:58:04+00:00",
+"first_seen": "2026-09-27T05:19:12+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "677638b437e5949a",
 "title": "RBU partners with Bajaj Auto Foundation to launch BEST Centre for Advanced Engineering Skills",
