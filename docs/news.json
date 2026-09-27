@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T04:49:07+00:00",
+"updated": "2026-09-27T04:59:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,7 +441,6 @@
 }
 ],
 "errors": [
-"Economic Times: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
