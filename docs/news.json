@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T23:31:53+00:00",
+"updated": "2026-09-27T23:44:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "34a8387ed0897ce9",
+"title": "49ers top Cardinals to reach 3-0, but lose Mike Evans, Trent Williams to injuries",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSll5STlHZjlfcWVpbEpxeDg2X2w3SjhJQXdleTB0Q0NBenB1VzdkdC02b1pHN0NUYVZMeTRiYkJjSFljaGhqeWtNU3NhNXBoajJhMlZMcnJVY2JNUHRjSTYzMG01aTEyaGFNYl9Jd0VYN3dnWGJKRXBEcnl1MHBRVmlITzNkNU8tck9LaktxeEhEazVidVRKWGthaw?oc=5",
+"source": "The New York Times",
+"published": "2026-09-27T23:23:12+00:00",
+"first_seen": "2026-09-27T23:44:14+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4db1e950e697d304",
 "title": "HDB FINAL DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
