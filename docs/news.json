@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T22:57:25+00:00",
+"updated": "2026-09-27T23:18:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "4db1e950e697d304",
+"title": "HDB FINAL DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
+"link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNVVZVTXZ2eHo0dFJXUHdsYU1Kd1FSOGtaZ293emhLd1daWXdZMjRvb2dMWG9vd3BjV0hqZy1tcl9jRzJpTFhtdXNBblFSSlFmcVdESTU2cHlnS3VBSWJrRUZOMXVSb01SZ0ktRWpZWHFhazRrS1dxNzJWd3NrV2FvNXhiMGdXd0RreHlsQmFvX3VMN19kdUJ1ZTlGSkJMajFaUUM4SDJybmkzeHNVVVNyQzB3Z2JXMWVDRG1jMC1oUUF6Y3V4a1pob0NTR2hVNkNINHVpYWRZUXp3S3hZSms1cGg0bVBidkVnck5GVWhFbzM1UkhBa3BDYmk5emN1TERyYWRhb3RiUndyR2VoazB5cUVOZ0ZkRHhTWmJCMjVQcm5GMEtxTXUtTlp5QzVlbWtqRFlFREo2OEFzZFBwZVJr?oc=5",
+"source": "TMX Newsfile",
+"published": "2026-09-27T22:05:00+00:00",
+"first_seen": "2026-09-27T23:18:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "ebfe9f40cbeb1110",
 "title": "19,000 take part in Spirit of Wipro Run in Bengaluru",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBmYkVkaUxJVE85Mjd4VlBHYklkcVFmM3A5M0swNkN4Yzloa0VSZUFRRElzNk9xbjV6Qk9pWkprbzhlVVMwdDk1SEZReUV4VXJSRU1NSWItUnFRZDRRS2hFQkVJdk8wekdyVjNvTS1mb1BBa2JEQ2tteTQxS2o5X3djSHYzS0x3ZU9POGluanFxcnFZaUc5eHFDa3JJcTVmTlBhNlp0dE0tbXlta3FlRXhYekg?oc=5",
@@ -622,6 +638,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0b0ddf7e68ad3aed",
+"title": "Maruti Suzuki inaugurates Kharkhoda plant with ₹35,000 crore investment",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUxQclYyWWRsNE1ZTVZfVGZmQWhJTWxwWUlDS3N3VmlrUjd6VzVET0tyN0hkdHhvaGN6WVNudEg0SXk5UEhkM0ZYTTJGS3JVWnMwb1VVUzQ4QjZ6NDNBYnVQeWZ2SGFnWlVubDRDaFJSVjJBbUVEVEV5bkF1N1lvOUp2d1pwdW1wbl9WZTcxaXR6NXpiVEd1VzZwM1lWeDBmdlpwM3NnNFNwY0ZzRXJrNDhaN0ozRkpBaGd1cWtsQV9nRVRqejU0V1RR?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T17:24:10+00:00",
+"first_seen": "2026-09-27T23:18:35+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
