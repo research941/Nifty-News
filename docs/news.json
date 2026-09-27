@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T00:28:41+00:00",
+"updated": "2026-09-27T00:50:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "07469d3c109122b5",
+"title": "AI Power Grid Costs Spark Global Fairness Debate",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1BQX09zV3pVZmVwSzJqOXNjYVRrQ053X3Zvd1htdHVTTE10NkZIZ1Rmdk1IUHFwcGJjaEI0ZFZnQ0JybWNZWDJINkg0ZjN1YzgybmZna19BMHhtYW9yRHd4QkNmdEJ3THRTTzR2N1YxQWRpSzlxYy1QeGk4QjhsRTBiNzBaMmZHV3dnYmVn?oc=5",
+"source": "chosun.com",
+"published": "2026-09-27T00:31:41+00:00",
+"first_seen": "2026-09-27T00:50:34+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "aaee2da65e92dd85",
 "title": "HDB DEADLINE ALERT: ROSEN, SKILLED INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
@@ -2618,6 +2634,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "0fbb81d1bbbc6561",
+"title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+"source": "Upstox",
+"published": "2026-09-26T05:46:32+00:00",
+"first_seen": "2026-09-27T00:50:34+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
