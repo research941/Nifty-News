@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T08:48:36+00:00",
+"updated": "2026-09-27T08:58:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "0b1ddfb5fa28c7b0",
+"title": "NTPC Green Energy Ltd arm commissions 81.34 MW of Kalasar Solar Energy Project",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5SUU0Mm9vbUsxbUtUeWZyUGE0YnJWX00zaENQN01HbEI4dkkyYXZuWHJNMEVqZHBIbFRocEFVakpQeXVDbXRHWWtKanprdURXSGtjMWJob19zbi1pOTV3?oc=5",
+"source": "EquityBulls",
+"published": "2026-09-27T08:49:41+00:00",
+"first_seen": "2026-09-27T08:58:52+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "287b23ece1b3621f",
 "title": "APSEZ's Dhamra Port Becomes India's First Fully Renewable-Powered Large Private Multi-Cargo Port",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0RqUmR6bl9JanBVTjZpQmFjMjhVcFlUQUw0eUlBU0RpeXkySndEcm5rQzFDZ3NuQWpMZ1ZGbHpXcU81WEhpWVJ0M2JqVHdRRDIxWWFnSGIwd0RWRkU5eGlVWEFNNy1la3MxODUtdzlUZTV5bUtfQjZjQ1ZYUERSdHBndUFLRWE1V2VhQ1laeHBvRkVOSHc2ZmxudHB3bFU?oc=5",
@@ -506,6 +522,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b46e7954bd498f06",
+"title": "Infosys Prediction for Tomorrow: 28 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVd5aEhaX3E0eHViblp3eUdKX2RKY1hFQTdfQmxKaUlYZ1RvM0tIWXI4R19xalJYdkhmSjNHeGg1NnNWSUU0SlAwYzRsR0dMeU5UU0RqMjFPb0VHcXNNTE01NGNQWU44bDRvT0x0UTBsbGNIUUVhaTBpdmZ4ZktyLXpzRlh0UDRaWEZDdFBLTXNNbzhoUzdjQQ?oc=5",
+"source": "Univest",
+"published": "2026-09-27T08:13:10+00:00",
+"first_seen": "2026-09-27T08:58:52+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -908,6 +940,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5f2729db2620e03",
+"title": "HDFC Bank Prediction for Tomorrow: 28 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmhlZXVQVXRCNDVVc3hWbERhNWVHalQyZFJTVkhYcXpEbnRiM041UDVJd3YwQmFaMEpzampTN3FmQl8taWdBcFN1U05NeWgtWmVJX0ljelFUekR5VVRYRFdEb0ZvV1RxYWYxZGlQNmFyTndnLWtPbEpMVldRbGQ4OTFNOFVYWmdfOFJZWG5ndGJpazZQWHVEcC1wUQ?oc=5",
+"source": "Univest",
+"published": "2026-09-27T04:57:51+00:00",
+"first_seen": "2026-09-27T08:58:52+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
