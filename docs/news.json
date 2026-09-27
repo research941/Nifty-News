@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T10:33:37+00:00",
+"updated": "2026-09-27T10:45:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -581,6 +581,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c6f0cbbec3eaba5c",
+"title": "LCC Projects Secures ₹70.35 Crore Civil Work Contracts from Reliance Industries for Kutch RE Project",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FTnBlVDJ1aWloeVUzenJUMkx1S3c4LTFraUxiSE9rTHM4STQtSjBrcWNndk02ZnNERXZrUi00ZVg3d0tKeTAzaHdGNUlMVDJzaXQ4N3Jzby1BUzF1WldV?oc=5",
+"source": "EquityBulls",
+"published": "2026-09-27T08:59:16+00:00",
+"first_seen": "2026-09-27T10:45:57+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "8d7618c7c9b0e5e5",
 "title": "Maruti Suzuki e Vitara vs Toyota Urban Cruiser Ebella: Which Badge-Engineered EV Should You Buy?",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVVNsYjFnWXZhM2d4anBXVWVTMk1CWWoyRlh4S09RbmZaU3ZZSk1lbi16SURvMHpMaVVGeUtFblZMZW54Y2NDNUpHbkdiaHl2bkxnblNtM05EazdzUXhGMlZqTUJuU3MwOWpZZ2pjS2c2WVBrNWtMMGZYUHhYSzVaWWl2dzh4XzEzSHVySzFGdFhNNjFGajVNbVVRczhoMUVWTzZvZ2l1T3BFQVplcEljOHRCZ3BNaHp3b1BGNjNoeDlaZjhESElxZ9IB0AFBVV95cUxQMzVueF9QSTFkUk5URjh1RUdab09pUzVsNHp1Z0Z1OUNFOFVfeVpNM0M3enU5a1QxT3JMMTBybzNTenZlVXBQN2J1ckZVNVVJM2UtcWthdzhDdHFMR2hldTRKYzU5dDJLc1FXQVFVNmd0bEZmZXVzQ1hsVDV4N0M0bzhKSFdQclFKeFNleGhwbWJyU3lTS2tGVFhQUzI4MXZBU0E1UC1yRHUwMGxxXzB4UXFzd2gzRmJyNk83eEpUQ3dkNndWR0hUY2Rlc3NMbGk0?oc=5",
@@ -842,6 +858,25 @@
 "tags": [
 "Order/Deal",
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b16a44399ae0fcb8",
+"title": "SEBI Settles Disclosure & Governance Violation Proceedings Against 5 Adani Group Entities for Over ₹1.5 Cr [Read Order]",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQODhmeTVKdkYtemY3RVBGWnZZT0hNMnZkYWRJN0VsREJ2ZUtJWnQyRDgya2E1cXRpWlJ6WkwzYzk5b3duVGxJSmlLZXY1dWxqTUdzMkcxckg5bExEQXI1ekx6TGJyWUdaWWtLUjBpalBYUUJ5T1pNZFN2WHlxbUFLcHVLUHd1eE82Vzd3ZXItTjJUd0x5NDdONUFLN0FxUXcxczhqN1M3cXluYTVIUXFrbFcwZktrMlFIeFMyN3ptb3JLbmRPLWp2Nl9GcW4tQlFsSmJqSnZ4MTFBNDhiNnc?oc=5",
+"source": "Taxscan",
+"published": "2026-09-27T07:10:22+00:00",
+"first_seen": "2026-09-27T10:45:57+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
 ],
 "sentiment": "neutral"
 },
@@ -2260,6 +2295,22 @@
 ],
 "groups": [
 "PSU",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2e22fa555cbbcc46",
+"title": "Bank strike from September 28-30: SBI, PNB, Union Bank waive ATM charges for 3 days",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlRwcFppa1ZKclFtZjdnZlVDcU0wdHJwRF9EX0QwcWwtR0hxTkhNSlhZNDJDSUNzY2x3X09nODdONkwtR2Z2N0FXMENkSkV4T1FOYnZEMTh5YjVMUzJpd2I0ZWhXSk5rYktDTFVZbjFTR0Yxem40NkNKa0JEOVRoZ2RiYW5wZXkxZW0zQnNuSW5CWDZNMENqYm1tOUMtWjRDelhBQTJaU2VnSEZYbVJtM2oxaFotZUtFQ2dqM3EyMGxSa0lzTEc1ZlV6amhOeXJR0gHWAUFVX3lxTE5WQmpwemRaVWFISlFCNzQwVmV1eE5nTDU2VDNwMWt1LUpKYUxIaVExUjNhZWt0a3JGcW5pYjdEdEgxLWNUTGJncEdrQVQzV3BZTjlJRHotd0wyUVIxeFlmODhROWlObUdqMEpKQXF4cHNic0ZZdmhWelJtS1BOaXBBT3NvWFZ5d3poRG9UanY4aEJhNmRNWE02Umk3Q3YyTDUyNGNmQUpYdEVYODV1SUFObVJtMnpFUWQtOTJMdjNISUdON2VPYTJWQmY4enkzYVh6Yy1zWlE?oc=5",
+"source": "cnbctv18.com",
+"published": "2026-09-26T12:00:51+00:00",
+"first_seen": "2026-09-27T10:45:57+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
 "SBI"
 ],
 "tags": [],
