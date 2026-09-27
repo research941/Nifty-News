@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T19:18:03+00:00",
+"updated": "2026-09-27T19:30:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -729,6 +729,24 @@
 "sentiment": "positive"
 },
 {
+"id": "c4d46e660bf50bc6",
+"title": "Tata Consumer profit rises 29% to ₹427 crore as growth businesses surge",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMFdXNGw5emthRDByUWlTNVZWX3BMWGRVOFBzTWVSbU5OTHMxVndUSmxxa2cyczQ2NF9mbnY4RWpnMzlabTc0WTVtTXdpbU1YSWZTNzZiX0gycl9zaFFEb1pELWVLd0dOTzg3Tk5hZjNZMG5WdkE3QldPSnFycjBYY2JqYk5zM1l3ejhqSzE5MlpyT19wNUJTaHl1WGtldG9YVDhiX3FoNkhfZ0VUNVVqNFMyRW9Fc21ZTkpPV3JDaERsR3FGMFEzMHhfbkdpNWxlVnNWVFh2RFVRRlAtYlpRZVhSVQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T13:51:07+00:00",
+"first_seen": "2026-09-27T19:30:52+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "3bbda6773b03304a",
 "title": "Bank strike tomorrow: Full list of banks facing work disruption; will HDFC Bank, Axis Bank, SBI, PNB & ICI",
 "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdUhlZ3UzcnYtNERYZWs4b2lHUDdXWUtweTZDTHVvbjBLeUxkd3NfUmFKUWJGT1B6VXJ4YUp1U2d0OUZCUEl1dmFWbExqdWdxQ2c2a1pWa0ZSdmMweENQOFRJWFJXWFpaOXZVZUNTaWtmZnRLOXROUS1mU2pVeDZYRHIxd2FfVnBtQlEzeUl3bnM2VmlVdEJ5a1NINF9aN0pqQzV1dlFDUHlOOXpGOTZpaXc4aFQtZGJGc2h2LTBYZzZRdTJ6TXJFNWVLTmhyT1VRdTVjTjJ6Zk94MEN2SS1jc2RSaXBERFRQWENOdTAtR1JzQTJhX3lZejFEWVhLVG5QbGVlV29SeTBxdy1JSEQwS29ieGxCQTDSAZwCQVVfeXFMT2owaXR6Ql9JN1g3WUxKRW9QX3ExOVdScTBfTl82dnBzTUYwRUNTa29fdERyV2hSN2dDUkdBcWx4WFdyYXgzUkplYldTR1Q1TW9xQ0ZTc29SbkkyX2xRMWJpTG5qNGxOYTZ6U0JnWXB3ZTRVNGpjaDNheDc1alY4ckxlb3d2UUZQVTE5TS1wTEFzNU00N3V5MlQ3aWdzaHRLZEJtQW1IUG9UUS1qMHVNVDJYbHIxX2NCRURyVkZxTWVzYm9CeFA4QWYxQVRLckNTRENNZ3pzbzlPelRRTlZGbUFBcU9SQ0tFM0tOdVIwQmlIcXl3YTJlS2JoYURlMktxYmI0R1RWZVNpYnhRY1NBZ0lCSmFKcjZ3ai1NcXY?oc=5",
@@ -768,6 +786,40 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "9adf6d93f143e00d",
+"title": "Bank strike latest news: Will banks remain open on September 28? What SBI, PNB, Bank of India, Indian Bank",
+"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdUhlZ3UzcnYtNERYZWs4b2lHUDdXWUtweTZDTHVvbjBLeUxkd3NfUmFKUWJGT1B6VXJ4YUp1U2d0OUZCUEl1dmFWbExqdWdxQ2c2a1pWa0ZSdmMweENQOFRJWFJXWFpaOXZVZUNTaWtmZnRLOXROUS1mU2pVeDZYRHIxd2FfVnBtQlEzeUl3bnM2VmlVdEJ5a1NINF9aN0pqQzV1dlFDUHlOOXpGOTZpaXc4aFQtZGJGc2h2LTBYZzZRdTJ6TXJFNWVLTmhyT1VRdTVjTjJ6Zk94MEN2SS1jc2RSaXBERFRQWENOdTAtR1JzQTJhX3lZejFEWVhLVG5QbGVlV29SeTBxdy1JSEQwS29ieGxCQTDSAZwCQVVfeXFMT2owaXR6Ql9JN1g3WUxKRW9QX3ExOVdScTBfTl82dnBzTUYwRUNTa29fdERyV2hSN2dDUkdBcWx4WFdyYXgzUkplYldTR1Q1TW9xQ0ZTc29SbkkyX2xRMWJpTG5qNGxOYTZ6U0JnWXB3ZTRVNGpjaDNheDc1alY4ckxlb3d2UUZQVTE5TS1wTEFzNU00N3V5MlQ3aWdzaHRLZEJtQW1IUG9UUS1qMHVNVDJYbHIxX2NCRURyVkZxTWVzYm9CeFA4QWYxQVRLckNTRENNZ3pzbzlPelRRTlZGbUFBcU9SQ0tFM0tOdVIwQmlIcXl3YTJlS2JoYURlMktxYmI0R1RWZVNpYnhRY1NBZ0lCSmFKcjZ3ai1NcXY?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T13:39:43+00:00",
+"first_seen": "2026-09-27T19:30:52+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a0cb93738481fed4",
+"title": "ITC Hotels FY26 Net Profit Rises 29% to ₹821 Cr",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR3dQdHhNZFZJZkY0YXNGSkRxM3VwTVFFd1h4dEIxbGRwOGNhZ05KZmpEbnNXMHlKWGtWUU9RU21uVk9JMi1SaWd1NWVmLUZIeFByeDlZTngzVlBQSGdhX0VQRWpNdUhEY0xLUkZSZmZfUHRpRkc5V29IQ1lxbUZXTDZZRVBHaFQyTnVpMW1BOENHN2NTSHU0SG9VUkt0SzVyMUpjY25rTkdWRnVZVXVmVVBZd2F1Njl4Q1R5N1VnUDR2NlpHVzJxT05NdTVzdWM5emdWd1c3YzZIRUl3REFVSW55RkRtLTRFWTlWbGR3cXlUNDVCRGY5R3NhRQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T13:35:01+00:00",
+"first_seen": "2026-09-27T19:30:52+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "d2091690043b0ed8",
@@ -924,6 +976,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "39a74abd6189cf04",
+"title": "Bank Q4 Result Mixed Bag: IndusInd, IDFC First Rally 4%, Axis Bank Falls 4%: What Investors Must Know",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlFBT1ZlcF8tYVZGWDQwbUdscFFxejNMQ1ItcF9hU1g5TGpPdmpYcnlZRGlLVjRqenItMWxjQnU2eGdTZDhSTXFsbDdYckxFSmhvUV8tcHk4NTBYTkI5ZlJkVkx6Y1Q4S3ZBWUI5dWxpLU0zUnhEYjExLXlLaUtFalVXZER4MVZqNEtmdXAzSktJMFZSb0dGOFMzb3FMYTZVV2FqWlQwbnRfTGJuenRSbWg1NGdhNjBZdzBaWGJscDZOMEJqOVI0dmtZMl93Y3EwcUpXNA?oc=5",
+"source": "goodreturns.in",
+"published": "2026-09-27T12:33:23+00:00",
+"first_seen": "2026-09-27T19:30:52+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "36ff88affaec6d19",
 "title": "Infosys to move one-third of workforce into specialist roles",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2RaZGZTRzZ4VGZzY0pnNXlZME9QeWFkOHNPT0JIWWZUY3gyQURQSmVZRFliaDBvclRDSkRGMGxUNWtZMUZ5NlZ0NzFJUVN3Zld1NkxXMWw1TDlwaW9YLURfVEtzV1ZQdnlSR3kwZEhzNkRpcUtsVGVTdE5KZHhWUjhNM0d0dDNlXzd3SnRVY3BmV01PaXV3RFBMUEVncmxFZnQ0LTFoMzZmc28tVFE?oc=5",
@@ -971,6 +1041,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "81124748c0d8d8f8",
+"title": "Adani Enterprises Corrects Defence Subsidiary Share Purchase Agreement Date To February 28",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmpQcjM5ZXBiMWcwdGpjZHAyQktnX1hIaDAyMkVZb3NaSXBhX0N5WTZYTUFrSVVNWGlhN2I3eUx3VU5IUG4wbWVLWC1USzBudTFHeVl4VTFQSlowWjJtRGZ6dDFGb0VTWVpCX0lla1RNakQwN2oyTTBuOUV5WDJFVk1WZVBTd2FFVWxicjNLM2xmcFgxUXluSTZMVnhfeU5pTXBFZWhILVI0U2JOb1ROSi02TE9MN1YyY2xOXw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:57:56+00:00",
+"first_seen": "2026-09-27T19:30:52+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
