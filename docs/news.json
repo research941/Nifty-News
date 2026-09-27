@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T17:32:06+00:00",
+"updated": "2026-09-27T17:44:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "3c6369f141698cb8",
+"title": "TNPCB tells NGT Sun Pharma did not implement proposed expansion in Chengalpattu",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDBsWXVkcFdNb3JFdUo1Mjg3aVIwbXZBRlBIVEFXUjF3aVcxYk5IcGVSSi0wdU5WNDJkVWVLTWZiT1F1dlEtTkpzak8ybzhyTHh2MWZNc19JVllNTHJmTUE1VnFaRlJtMFlxc3hub3oybE10U0pGQW9vMk94OUtBXzVCeEFvOEhhdmFXZVlWbmd6SXVKalNkNnVLNG84aS0zbS1oRHJqbE1qOXNSMzZOT3V3VTNrSXNHMkFhODYtLVF6eGhtRmhNZE9iM1o5ZkhDZjhyVXNxbDRwTTBu0gHjAUFVX3lxTE0weHRBYWxyOGtKbDYwVkNPbU5sN3kxYXMzWTYzbF82LWtUNnpqMjAxOEJlMlEzd1FtWE92Y1pfX0trTmR3MDRmclBTLTJGZE93cnU1MHhIV3NQdFpUcjBlTDMzdlVyZzBnbHIwaFNZaDNJNWsxanFLb0tvYl80c09sd29FS2xfVXpNYUZqMTc3dGltaEV0WkMzQUF6NWF1dlVTN1M1cDhJZVNMVjVVLUdXemRMYjlYNDJhWGFsWmJjSWJ1VmJONFRwTHM5V19oeS1zVjJlMUhJc0s1MGRQWkJNYVlZ?oc=5",
+"source": "The Hindu",
+"published": "2026-09-27T17:30:46+00:00",
+"first_seen": "2026-09-27T17:44:31+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f5479a9e1f7e9054",
 "title": "State Bank of India, Bangladesh holds annual risk conference",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUlhN2xIY3piRFlSd2w0Y3lZYUtnLXM5b2J5OW5EMHgxQVg0QVFMYXFfcm95OFBmOGc5NUMtSjBoM0pnUGxlX25XTGpxRlN4MmNCWHRwTHV3Zkt6alhqMklpQWN4bzE5aHdpM2NTeFJjOWxocVVIX0tPcDM4SUk5b1JOWnE3RFV3cmJmdVVmMEE2bmFxRzk5LUlEQkppWkpkcFE?oc=5",
@@ -788,6 +804,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5910badd739958c5",
+"title": "Reliance Industries seeks nod for ₹1.45 lakh crore RPTs and new business",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzV0bnNBRGVqOWVYX0ZXdjQyVUF1dlVpaDVfQVBfQWpXejBHZ29ETUZPTFQyWjZUUERVbU5XcWZMMUh5V216RFR0aFA1NUI4NFd1Q0E4NHdqVm1VNGNzYWNHeXlzUWZaeEt5NTdXX3prajdaUElRclgyX2YtN1NZNllUYURNQmhDWkZXemtJcHJCcmtCVGVpSUhraGdySW5KTEstRHNqTzRxblpuTTBwcldGWQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T12:21:39+00:00",
+"first_seen": "2026-09-27T17:44:31+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "09cc112291de8207",
 "title": "State Bank of India Shuts Trading Window Ahead of September Quarter Results",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE1DdEdaTE9FRmJpbnlocUlfejJzVWhOcU1qSm9LbXZndEcwYUN6MFBkNndmTjlScVM5ZHNraUloZjBqSDQ1cERSTlAyQXZ6UVRUUDZpeGxuS2I5UnFleG5FeUNFUEt0RVRYTlZtUFpqakRYbTUzMWk3N1I0TTVSaU1KamgxSUJBdkZoNGNORER1RGpZZkJlMVhLcjA0WTlfWi15U2ktTnVsTWxPVGhaRmlKLUx6MDFpYmJFVlMzU3Y4SE9GOFE?oc=5",
@@ -1047,6 +1079,24 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "51e8cdbd3e3bfee9",
+"title": "Coal India Limited Board Meeting Set for April 27, 2026 to Consider Q4FY26 Results",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVRJd21TS1JMMG9PeEpZSU1ldEhkZmRyQmdTWlZIVk5GcXRneFlqbXpzSVUwVmNyN2JQNENMV0hmcGFOU191bWRraV9vbWpHX2tpZGh0alIyVHBxUXVCTGsyY2FjdXRkdTRkaUE3ZXVxNDFQdjhMc3FTQl9mWDVNdVdralNINGhJN1NCbUNGSFlzc0lGUFpTb3ZIVjE5ZExDc2I1TkNFcExPTGpYMVY1dk9aaUs?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:05:16+00:00",
+"first_seen": "2026-09-27T17:44:31+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [
 "Results"
