@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T11:19:22+00:00",
+"updated": "2026-09-27T11:33:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "cfe80be71bfd4a40",
+"title": "Nestle India responds after customer alleges finding worms in Maggi packet",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVi1WcTdsRC1NSF9kZkhpU3RyMWkycmZHQ3hVTkxiNnlsdklMb0RLdG1zaEE0QXRTR3pzZTFkYUdlYlZvU0dQcTFOMDVqYTBTd2VWRXYwTkN2WU45ZjltZElPNGFmbFlEbFZGNG5WLVpyeVBuM29JMUdSTnpyVHZWVVNwMTBydmF5bWJad1R1VTFXS3NvQnBZVjFxVm90ZGNrYVg2STQ2am11cWRkbUZz?oc=5",
+"source": "IANS LIVE",
+"published": "2026-09-27T11:29:00+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7a3a45209fe31a31",
+"title": "Embraer selects Mahindra for IAF transport aircraft bid, partners with Adani for commercial jets",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3RjMGlQUzVnVkZnd24yV0RlOW1oemJJR0hSRTBsYWdjMXE1anF1NXRONWhNYkNQSlptWVU3UHBWMy1nS0NNVFRQYXMtYktTRzFsTjZjckJFMVZLTHVJckJkZmhZWEpRbUYxNGpoT1d6T0FwdEI2am1XYzQtQmRaODFkTHh5QkxGMGFfZlJnR0kzV0N3NzFwbHdIN2ZSZnh5MG96YVI3MGlXcDlUdUV1cFZmX0luOXctY3NDUXp3Z0hvekpfT2Qw?oc=5",
+"source": "The News Mill",
+"published": "2026-09-27T11:22:11+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "71895a60f6ea119c",
+"title": "Embraer says Mahindra will be its partner for IAF’s 60 transport plane tender, to partner with Adani for commercial planes",
+"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVGZmcm1hMktIQTVtemRnUEkyMWxPLXVyeVZfTjlpb283bE5EdDJJVHd5U2FnZTNhZGE0dWNKTHl5UnhhRnJVWm9CRlBZZXM0VXFpbWNZTG1zeGdsaXBydll2cGhIbUdlWmRLWm5TN2I1VzFiYTdXeWlhYmxOekRranlidGc0bzlLSVRMeDFEVllaeEFsSmFoZVVVYkN5QnZaS3gtaVBjUmswSUV0LTd6aTRpQ2VoMjNZcFdaS250Q1YzTGU3MDBJclg2OGJJQ2g4bU1RcURfekFTazZITnFqWndUYkdqZTh4SXlURUNldzN0NUhERTBfcU40aXd6ZjN4UnJ6RXJ4UEJ4QkNuMVBOX3pGRmZTd00?oc=5",
+"source": "ANI News",
+"published": "2026-09-27T11:15:00+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "935387f6eca57538",
+"title": "Micron Braces for September 30 Earnings as Taiwan Strike Vote and ITC Patent Case Converge",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY01yRzVLS0lpQVpBUEczN1FFYzFPZEZGNjhBUjh3eUZ6dXNrYXQ0Ny0ySTE0TV9ka3p4S1ZkR0xvLXZMYnZTd2I3cGpmT25GNDlqb0MzQW9Xa1o0bl9QcUo0d0xwYjFUN2owUS1MU09JLXpkLS1JQjlYWFBGX3hLd29PWHN4eFN2SkF5RWJJZV95dHZxX1M5a3RKWXFXcHFfWV81RTI3N0NEV3JXTl9IQlk2ZG82TTZZWDF5NDUxbGgxOGY5LUljTUl6TXVIbnVYQmJRQUF0Zm0?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-09-27T11:11:07+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d2fd73656ce88501",
 "title": "Karthik Krishnamurthy Appointed Global CEO of Wipro Aerospace",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbE1GcTVUQVF0OTZYRmN4d1JlLU5obFIyOEdrVkhtWTRmX1RKSGhVcUlHOTRxV0VJcjBYNHRlblVmSm90bjA3T3RRV1ZiYzBsNktYak9yczh3NDBWd2lTeUhsYW5vcVROSmJwUVo5R1A2OHVFdkczZmFzaDlhT1hjRWpsYTEwY1Vm?oc=5",
@@ -631,6 +697,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "b3f81309f3961497",
+"title": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPVUo5WUViSG9TSFl3MFhJU0pGZlJTaWItRUhsR29aTFI0V1NHaFZyR0xHMHc0blBaZzh5eDU4T2IyMm9ZTS1McURGemhRM2NnUzRoV2xlM0xJRUV4emFZQg?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T09:24:28+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4e8349f15ae1963b",
+"title": "SBI Clerk Prelims Admit Card 2026 Out, Check Direct Hall Ticket Link & Steps to Download",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQU9jb056R0RiUENvT0cxMTNhUWM4dUpuS1FUTmtCemI1aVZuc1J5REFJYkhLTUhsbG9RNjhkVVpTdDFKRHpBNFdldmtHMUJsVktVZmVYdzBmRHRJeE9iUTZBN2ZVZFUxM3RxZGdZZW1pQ2RvS1E?oc=5",
+"source": "PW",
+"published": "2026-09-27T09:12:03+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c6f0cbbec3eaba5c",
 "title": "LCC Projects Secures ₹70.35 Crore Civil Work Contracts from Reliance Industries for Kutch RE Project",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FTnBlVDJ1aWloeVUzenJUMkx1S3c4LTFraUxiSE9rTHM4STQtSjBrcWNndk02ZnNERXZrUi00ZVg3d0tKeTAzaHdGNUlMVDJzaXQ4N3Jzby1BUzF1WldV?oc=5",
@@ -661,6 +759,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "0f783d1b0126bc43",
+"title": "Mahindra & Mahindra weighs SUV price hike as commodity costs rise",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZG5VQlljVnh4TjRLNEFSZ1FvdHRnVnhjdXMwWjBCQTNSdWtmQlpDM0JVTWdfT2pfYzFvaE90MVlqS0t6cG9jVno2elBZSURfZUg1U2NkYzhheG1QbGlzYS0xT0lINHczOU55QTJ1bTlRM2kyX2ZjWGotUVllbHRRRl9kbVc5bE1JN25fYURpeVpvaExCWjNxWHhUb0l0SF9lVWZvbDFrVHdHSEw0U1BBODlyaTFOVE9fTHBwQ3R1bGpma0phcktZ0gHHAUFVX3lxTE5kblVCWWNWeHhONEs0QVJnUW90dGdWeGN1czBaMEJBM1J1a2ZCWkMzQlVNZ19Pal9jMW9oT3QxWWpLS3pwb2NWejZ6UFlJRF9lSDVTY2RjOGF4bVBsaXNhLTFPSUg0dzM5TnlBMnVtOVEzaTJfZmNYai1RWWVsdFFGX2RtVzlsTUk3bl9hRGl5Wm9oTEJaM3FYeFRvSXRIX2VVZm9sMWtUd0dITDRTUEE4OXJpMU5UT19McHBDdHVsamZrSmFyS1k?oc=5",
+"source": "Rediff",
+"published": "2026-09-27T08:52:02+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "0b1ddfb5fa28c7b0",
@@ -1680,6 +1794,26 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "90ea350fd0256a5b",
+"title": "Maruti Suzuki vs M&M vs Tata Motors: Auto Stocks में किसमें बड़ा मौका? | Share Market",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc0x2VXFQQ0xyVm1fSGY4OUZIMzc1dGFBQ0NlTVlnWUFxc2k5Y2pVSjRmQnNOMEJENFlHeG1SWTQydWZGT25nZ0tCU1pMTGRmeEEtOTFLTFo5RHpnRk9fdU5UOFRCNnhkaDlRUFhVX05sTnZ3eW9KNmo0ek9sbmY3NV9LOUVVcTJuQmphZEprSzcyZjRfeG9rUjFwWXI1X0R4VDVmRzFKS0l0TDhiWGZuakNfWlJwX0FTT2gwMGZBbHpmZzEwajh1a1pldW9IR0R2cmVDc19hdmU?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-26T23:27:00+00:00",
+"first_seen": "2026-09-27T11:33:25+00:00",
+"symbols": [
+"M&M",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Mahindra",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
