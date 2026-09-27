@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T16:58:40+00:00",
+"updated": "2026-09-27T17:18:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -904,6 +904,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "0c235ab88514a966",
+"title": "L&T Sets June 5 for 81st AGM; Final Dividend ₹38",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ01hakktODlKa0pKbFdUSnpjWkZBNXVIM2hOTUZyd2s0MG52aEdaeG9wbnFrMTI1OW5jTVpyWUZxdEhxek1PRnFwS3FrTnhqVU5EdmZfTDZSOGVQNXIteG5LNlFSYUJKLWhRZGJGdzBqX1ZYOWtmb0NPZzZtaUpEUWtKa0RseWFQbHBlOXpRUVRCbEFkYVp1cm5Qa3FIcFI1UTdLQU9Hb1NOWVFnQ3UxUWRCS0JCcmRqbVBKLVVSTkZNS0Z6T0xid3piUzVPR0pvblBCbTlTSEJxR19KdDJndzdyVUI?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:31:45+00:00",
+"first_seen": "2026-09-27T17:18:17+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "05ab15e55127ddfd",
 "title": "Embraer says Mahindra will be its partner for IAF's 60 transport plane tender, to partner with Adani for c",
 "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPblNSWV9idEZ6U0pQTVp1Z0hVQmVIRVA2cUowZ3d2TEZCM29GUHc0S3hNV0NubkJwV1BUbjEwdWZRZFRkejg2SmYxa0E0OVhNSFJRd1FGR2dJZnNjX2d4dkp3bGNndVFucWpFbElZcGJ5c3ljMl83b0hXMFV2UXFBd09haFNOUjN0c1drdEdDVW9EbUtnd0hnX01OY09qeV9BNy1TeVcza2FzRDhfS255b3V4bXFTTTlESFBBbjdtNGtjdmNGbDI2cW5YMDZrV1FzRkE3QVRLZ1ZCZk52TzByVHI5YjhlR2xLbmktanFCeWtzQ05pazJjbU1hQ1BjSlNJM19xUEZZR2xBSWowVl9Malg2Sm1XZ9IBmwJBVV95cUxQeGFHaHpMZDhLaHE3dVFjeFdGTnBwWTNvOVVWWVVucDlXN1QxREYxdVV1OU0xak9KQTV5TTF6Rm0yUHdfbjd5NHZ0OU4ycGV4TXdKc1FtX2NKT0J0YmZmQW9MVDRPNk14T2U0YkVJdXV1ME5CTWJZOEVfYnZVNXhXd2JYNFBTbEY4c2RyVi1OTFJhUmNlTkJRQ2twLWVkTFg1cFo5TURIUGdIVzE1NzdWT19ZSDE2WlVnVmFHWDhlYnEtTkZxZU5QWGdkOHlzZjFWQ2ZIX2tUdl9MdUl1cURPYi1sTVBabnh5THNDMGJJamhsZkwxLW1OaFNBNFNjZ0dqUl9EcnVMbjZZanlDYWlDcGJpaXJOOVJtdW1z?oc=5",
@@ -1116,6 +1134,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "3d4c4ebc2c6819ea",
+"title": "Coal India Limited Secures Rs 400 Crore Contract for 320 MWh BESS Plant from GRIDCO Limited",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdVM5VTMtdkI2WWpSc0pzQ3psMjI5UnlHZzVMMWZ4WmNzTGdQX3NaX0VTRFgwOGV4RlZjZk5wLWpXTXEySDZOSU5hc21lSElTREZzRUNTajFuWWN0ZDdmakNLc2I3UlRfdlpGbnJiWllQczkxNDJURFRNRHZEY2JyRHV4RFNjdEdWUHFGVmJwUnFBckhXc1pBRWVUaEYyWkdleS1ZVktQa1ZpTTJHam4zbnptRWpPa0t4YXJHVHJvUkhGSmtOMWpKdWJXSm5sUTlLRzVscmhzWl9DM2l6czVfNHBR?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T10:41:53+00:00",
+"first_seen": "2026-09-27T17:18:17+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "74ca8a688924b2e0",
@@ -1644,6 +1680,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9dad99eddc162eba",
+"title": "RRB NTPC Graduate CBAT Admit Card 2026: आरआरबी एनटीपीसी ग्रेजुएट एडमिट कार्ड जारी, जानें डाउनलोड करने के आसान स्टेप्स",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcFZGNXJvZGpWSV8zTWcya2pPdW5reFRROE1vcFJyamE2NWhkWTRsdXBkVEkyMWNfTTVBQkJLeVg5R0pNOHdBNUxsNHVGakFsOS1zYlJ3VmQxSWRMRWtPd2trTkFzZUh4NFZLYzJNcEFTdlZVTHFod0k0aWdhcjUzbHcxZWlQVThLaUpaUWdac0N6azJGYkgwMGFEdXAtdzVSOGRLQUtsOENwNWlYbGlKZHQ0Nm5wMHBjSnAzZUF1NWx3YVZzU21FYkxJOEJrQ2xBVXJ0MWx4TXhqYWxFellzcFhBYTZYeVNwa0HSAfABQVVfeXFMTXdQam9adFRud1E2WTZIRzF2TXQ0dm9HbmtjeFNvekkteDkzOWZCM1p2QlpTeXlDdjJ3ODAtMVIwUUd4WXE3SXV2WDZNaGZwZ3pEV1ZHOFoybjZuREx0VnVVaXNEX2cxRTFZV2RyUU9lR2tDSjFSZlhwc1JYcTA2VXgtcDYySTNzZDNvZkFUa1RLZ3d4clpvSk9RSFI1aTV0TjByNkhVVkFmVkNCbkpSZGl3VVVhYWVfbmRSbGdnZW9Mc2I3cjhwOW1GbGpNcHBzcDVDQ0tYUVZvSU5rbmk4RGdkbnpCQ3BlTHY1YUN6eFJN?oc=5",
+"source": "Jagran Josh",
+"published": "2026-09-27T07:44:49+00:00",
+"first_seen": "2026-09-27T17:18:17+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4e45bed528d7f3df",
 "title": "Cochin Shipyard, Voltas, BEL, Tata Steel, Axis Bank, Vedanta Aluminium: Top stocks to buy | Target, SL by Ganesh Dongre",
 "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUWVNMzNGS3VPelFWNUh5RGRTUzJHR0ozV1h3V0tXeHhKNGlROTZWLU1iRlMtd2FSNnIxUlBuUXFFdEJjNkp5bTMyQ3pkejN0LVA5VS1kT1VzdWNDeEZUTkQzUGdOMm5odU5Fck5XdHBaa0NFOExadVZhT0NkdDc1aHd5bzdQMWJ3aE51MHBxSUs2REJqU2tON1hhd2g4YllCR3E5ZzJ2QWVPclZ4dW50bWpCaG5IVWlaaWlDMkNkNXRTcDlvcE10bXZtQWQ0RzZkRlpYd2tvbnRsNE1MV1Z1NmRjVjFHbHNGQnNRLUVxUGw3ZC1jc1dVdDFfNEZhemQ1N1V1RENOOFpkWEd50gGSAkFVX3lxTE1FN2g5ZC1NdjBGb0RQNVU2aE5tbDd5YnRRamtpQ21wNHhYNEhGNWJvRk5RSGs4Wkh0SWJ4b3pEU05jZV9oN3BOaURBejJMQWlneTZIRXRaTFRsMF9QZUhkLVZBaDRSa3lKa24tR0NFd3hXamUyYUU1Q0lRMlNzRnRHLVFVRWZCS3BsS2lIQVNPdlV1dzItZmpzRnJFc2dqc2VxN194WTlRQ0g5aVUzQjdFeEZZVzZsejR1Nmd6ZmZQclowbElyUVpLWHNCai1HY3NJZ2F1eHcwUHI4TTFlc3FtUmMtMFZTQXBNMVBxdGVkblNQY2dfekFaaFNIcEhTRVpvc1ZucUYwYjZqT0RPQkR4N0E?oc=5",
@@ -2117,6 +2169,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ff6bc5f84e38092b",
+"title": "JSW Steel Board Meeting Scheduled for May 14, 2026 to Review Q4FY26 Results",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHVuZnl2Zm9SVTRRdjRtNmlhNlE2eEdyWVBKandaWE5vc0F6VVhMTTFsT0VwUm04UGFiUUpfUkdyNExSb25LY096eHRQd25sVndTOUxRZEVHN0ZjeEVPeE9xMEFNQWVfRkgzMExjclptejBDMnFjaklGT3JmOXVZYzN1Nl93UEg0Nm9uV1R3VWlkVU1oSTlhal9FT1BENTh3TzBkcUZqN0I?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:44:21+00:00",
+"first_seen": "2026-09-27T17:18:17+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
