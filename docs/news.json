@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T03:36:02+00:00",
+"updated": "2026-09-27T03:49:41+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "96d1ef72d65b9818",
+"title": "He failed Python once while working at ONGC; how Kaushal Prajapati earned an IIT Madras degree and switch",
+"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPOUFLX2xSWFVCeHRyUTVZLWtrMU8yclI0Y2FyaUZSOEVRY2ltTUtQOTlwSVFGUEhrSUtueVY4dTBjUkhmUFRLcmc5b3Zpa2w5U2Q3SXVoWXg0eHZNdmdsbVphX2NSUDg3Q0FqQTQ4bUw1SFRZNW9wWUF6STBmYlJaWThSWkE3YU1VMlFZOThJbS1DUlN2MElBX2UzclZNajZpZkhNQWMyTGFfM2pTWWFxOE1RemZuM0phdFpFLVR6RWlPRUR1clIyNjNzXzVYUkdiM3JiRFJEcDhVdG9mY00yUjBBSVNZWnlyRXMxOTZ5RmJVbGFsVGN0Z1ZkTkFELVF3aGdsMHVIeVkxakEyVnlFeGFvQTJiblhna2lFVdIBogJBVV95cUxNNndUcXVndUVaUWp4MDE5U3dOaHQ5S1ZMc21lc0lvNktWRlVSbVA2UXRrSjY4aDJtbEx0NGdZWEc1WXhWUVRGYWIxX0I3N3pyd0FZb3dEMzMyZW0wTzgzanZEdGFhVjhiWVdNN3FNUkZiQkp4RE00U3hSY3FSZEF5ektzRllzRXYxek5VaklnMVJ5MkxSRHh0UEptMTRMZ2Y2NE5wU0UwWDU4M0hUOWNaLUtWem1Tc0N1R2lQY0RHR0d2Q3Uzdm0tYjhJQzJxWGtYRFVfNnhBSFR0ZFRzcXJIbDBFT2RrY0hGNzhSeV9VQlpDb284UG5WVjFVMUI4ekVhYUFPQlVSZXJOWUt5cVNSaEpESTU5d24ydWpHVk1YYVNTQQ?oc=5",
+"source": "The Times of India",
+"published": "2026-09-27T03:09:00+00:00",
+"first_seen": "2026-09-27T03:49:41+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9d279360ea1c1a1f",
+"title": "IHC–Adani Plan $25 Billion Investment Across 14 Projects In Odisha",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjVGZVZ4dzliUS13blpvZm4zNXV5UWg4RElHRG8tRXBESEZ2bEZEVnNMdGY0eGl2eWRGcEhFWjFnWk81REgtNnRHa2FPT0p5bTBfbDV3cWFaX3dqZDJhUF9jWjE4cUloS3ZJSHNIZmNzbWstMldVTWRPZmhLeWpZY0hpUXo1THBYRG5KZGt1UWdpUWoxVkRrVUgzdTBsazhPUkE?oc=5",
+"source": "megaproject.com",
+"published": "2026-09-27T02:55:23+00:00",
+"first_seen": "2026-09-27T03:49:41+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "6066bfd1a361a5e5",
 "title": "Bank holidays this week: Strike, national holiday — SBI, HDFC, ICICI, PNB closed for at least 1 day from Sept 28-Oct 4",
