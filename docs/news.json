@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T10:45:57+00:00",
+"updated": "2026-09-27T10:57:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -727,6 +727,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a6df5f82a037e1cd",
+"title": "NTPC Green Energy - 9 midcap stocks with over 50% YoY sales growth",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1ZDRLR2FnSk02RE5yaXFzTkprcTZhdzM2bm0wNERzRW40ZmthMlBZUkUtLXNJaVRKLXdiamRMTEZULWI1X3dfTEw2QlN1UVlCeFliRl9FRjFRVXpORjVVMThGeTBrVVVuYXE1cWFocGNYWnFXMTJFUno2UmN2ME4xMXdiTjBkSzFhWXB3RU9KRmRXZUpNZjJFR19tUXlaR3RBbU1YempLTWthVWRiYmcwLURoa3dIQXl4V3R4UzJuVENuT3U5UGgzc2RzSW9a?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T08:02:07+00:00",
+"first_seen": "2026-09-27T10:57:17+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a58c06f8f55fa4d4",
 "title": "Axis Bank plans 12,500 campus hires, redeploys staff amid AI push",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmhWelJ4QmtJYTdCTnhFSGo1ZDMzQnktZU5iMmZNYTE2TjZsTGp1LVY2OXdveVpGdnd4X0RybTJFWUdtWlNkNUlsTEdBaktOVGtYS3QxLXAtUGJaVDVwM1gzZTZnQXNDNnd6Nm9NX3BHb2tHZWRHZ3RNVi1aczVJd2o0c0RJNmhKX0NveGZqRmRtRzlsek9Yek42MHVpZzA4cVJlaFI3TEtDQ3NMalo4TTNoOXRDUjJlYjdUbWJLaEdRbUZwY2VXc3JB0gHPAUFVX3lxTFBwUks2NjRFVEoyNHg0NVIyX2syOFpMSGNRdmQ2a1B4cWthZlFUUTkxSFd2V1lzVEZOX0tlX1lObW1Ibkk2YVA3TGMwdkdrQkNQdGJDTTUxSV9CV192ZWRuSFE0WGk3SnFES2E3TV9kUVpsQnBBTHkwWExRMnBtVEZQQzlKaHpRVWowMHUzVGthTTBYX01kQ083MnRid2RodHpKMzRzRkppMkhoSTQtOHFfRTNYa2tRUzFEenNvYU1aZElUeXVRb1hjQWl0cVF3QQ?oc=5",
@@ -1113,6 +1129,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d2814a1fe9e58983",
+"title": "Jio Financial Services Q1FY27 net profit rises 156% YoY",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFFSR0RNbzJWR1MtZEI0U25CVHhNVm9uR1BsWXZBNWd2NnRobS03M1UwTDNqU2tWc2Ita1hhU2xYZEVrbm01ZzJBXzZQYkgxQWxfS1dZWUF1SU40RWhtNGZaQ0g4TkN5ZmFFRWRhMnBzRWw4d1hJWFVKTHZ4bl9wMldzMEdJVGRKaWgycm94YXVIWWJDNEdsS25yMG1vdGUxdjFYVklQNzdJZ2hHRFV1LW9FRDctNS1XU1pr?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:48:32+00:00",
+"first_seen": "2026-09-27T10:57:17+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "57853ed3da3a927e",
