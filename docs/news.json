@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T13:32:46+00:00",
+"updated": "2026-09-27T13:45:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "3bbda6773b03304a",
+"title": "Bank strike tomorrow: Full list of banks facing work disruption; will HDFC Bank, Axis Bank, SBI, PNB & ICI",
+"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdUhlZ3UzcnYtNERYZWs4b2lHUDdXWUtweTZDTHVvbjBLeUxkd3NfUmFKUWJGT1B6VXJ4YUp1U2d0OUZCUEl1dmFWbExqdWdxQ2c2a1pWa0ZSdmMweENQOFRJWFJXWFpaOXZVZUNTaWtmZnRLOXROUS1mU2pVeDZYRHIxd2FfVnBtQlEzeUl3bnM2VmlVdEJ5a1NINF9aN0pqQzV1dlFDUHlOOXpGOTZpaXc4aFQtZGJGc2h2LTBYZzZRdTJ6TXJFNWVLTmhyT1VRdTVjTjJ6Zk94MEN2SS1jc2RSaXBERFRQWENOdTAtR1JzQTJhX3lZejFEWVhLVG5QbGVlV29SeTBxdy1JSEQwS29ieGxCQTDSAZwCQVVfeXFMT2owaXR6Ql9JN1g3WUxKRW9QX3ExOVdScTBfTl82dnBzTUYwRUNTa29fdERyV2hSN2dDUkdBcWx4WFdyYXgzUkplYldTR1Q1TW9xQ0ZTc29SbkkyX2xRMWJpTG5qNGxOYTZ6U0JnWXB3ZTRVNGpjaDNheDc1alY4ckxlb3d2UUZQVTE5TS1wTEFzNU00N3V5MlQ3aWdzaHRLZEJtQW1IUG9UUS1qMHVNVDJYbHIxX2NCRURyVkZxTWVzYm9CeFA4QWYxQVRLckNTRENNZ3pzbzlPelRRTlZGbUFBcU9SQ0tFM0tOdVIwQmlIcXl3YTJlS2JoYURlMktxYmI0R1RWZVNpYnhRY1NBZ0lCSmFKcjZ3ai1NcXY?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T13:39:43+00:00",
+"first_seen": "2026-09-27T13:45:38+00:00",
+"symbols": [
+"AXISBANK",
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d2091690043b0ed8",
+"title": "UltraTech commissions 4.6 MTPA cement capacity",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakdXQW9BQnRUSDVoWlY2S2NkZmE3TGM5RGh1LXZPREFVSG93dEpaQjNrbHZROWlvZkpvYzQyU053N1RoZ1JQUGdXc29RZXU4WkIzQlBwckFTV0RMR21rNkIxa1o5UHNiNjREVnMweko5SC1WZ2FuZTcwYmhIMi1kczc0TlJzd1RBUFhhWVliRQ?oc=5",
+"source": "Manufacturing Today India",
+"published": "2026-09-27T13:33:13+00:00",
+"first_seen": "2026-09-27T13:45:38+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4a34bb9b1e641120",
 "title": "SECL IPO: Coal India’s Next Big Listing Could Raise $800 Million",
@@ -1693,6 +1729,22 @@
 "sentiment": "positive"
 },
 {
+"id": "a55772a0d2e82598",
+"title": "TCS launches unit to help enterprises build AI-native GCCs",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVXWTQzeHEwREM0NmJrWnpFdkc2QTVOa194bWtkbUVOcHg0dW80T3I1S3VjdTVaTm55b1pjaksxZk5tX0dpZzRMTDFWa0JXQTVmTmJTZnQ5UTdoRlR1Mk1lRDlRUTRyRTh3M2xLbUhtNlljVjJYQkh6aVJvcElLQ0ZnYjZOeFQ0am5mQmJ4WS1HMlFEM1RtMnVrcDUzMjgxc1d2REhaZEU1VDNUYm4yVjlnV19uQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:44:47+00:00",
+"first_seen": "2026-09-27T13:45:38+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "57853ed3da3a927e",
 "title": "A little health, a lot of heart: Apollo Hospitals’ LiveWell brings wellness closer to home",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeGFaM3h6VUNVZXo3dDcxZ2psNy1JeXhuc2o1ekpQemhIeEtUYjVzUVBIcmV5bGVpQm5QTEM0WUt6TFA2cTV2Yy1TRmhXdXpNVVI4YXd5bm40Zkowd1luVVphUkp1OEU5dHlCelZ3YzRZWUN0MjZHUFZrZEJSWlpZMWdZNXNwdzExeHpueEZDRjZiX0xYN1huWWxOQnFGZzhVcExhYndPby03WkROWEJBZmZZR3BNLWd4Y25SWFdFbEZJQjZ5OThBUXEyYTBfOTFndl83dzVuWWZlV1k1amw1OGIxNlRHSkR2aXhxcE1NcDc5Z2l2MlHSAfsBQVVfeXFMT3N0QVJNY3FwajRxRkZaNWNmQTBxQ0hMc2VBWnBIMkdjbi04OUpTSGtMSmhtY1Y1bjNGQmZtOUtpOHZ2X0VZZk54TEF6cmhneGx6VkltUjd6ZXM0UlhDWFBabnYtbHJ1R18wWUNRU0NBMjlTc2RyY1hlX0dPelRmZmZZNDFyT2tzSmxuYWtKdmxVVGxGU2Z1bVRBWXFGbTViWFZ1X0cyTW5UZGY3bXpjTXZUQ2RFQkFxU1pPb2xIUXowLTJ5VW1TeW5WZTlZdnpjTU9wLUNJanRSS2ZLUFNaeWxTcW9Fek81NVlqSHl4aW5HWERVbXdXVmRqeGs?oc=5",
@@ -1818,6 +1870,24 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bd6975a0c39f2be3",
+"title": "Axis Bank appoints Rajeev Mantri as CFO effective Sep 28, 2026",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTlkRTFCOVRoVkhMMnVmWVFhQzFkbGZkbmdNX19jVnc5SkJkdGJScHM4ZHBfdEZRREdKM043aUUxTXh1b09QV3Jtd1pFZ1RnZ0h1WjRPbTlOSWJjRkhfb3BDbThueFZnZ2Z3Y1o1ZzhuMldKY3B4eXRESTBTbTJZMnBGQjRlcDZ1dUxpUnJiQkEzQVRmTkNZVHplWmhRd1VYYXJVZkNUYTc1VWVzbU1ybGttZWFMNXNCekE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:20:08+00:00",
+"first_seen": "2026-09-27T13:45:38+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [
 "Management"
@@ -2009,6 +2079,22 @@
 "source": "The Times of India",
 "published": "2026-09-27T03:09:00+00:00",
 "first_seen": "2026-09-27T03:49:41+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0ca23459d13d80c9",
+"title": "ONGC spuds first deepwater well in Mahanadi Basin for energy security",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZvbGxidFBpTmhPb21YR0FaY0tnTWxRUWdNVkZfQzBlVGFpakdGRElxWkZqSU9ucDZNUVk3NUU3SVpyS3R2eDRrd1YwdnowUUtEM0lOOGFjUmc3OGRDZUJBOXdmeDB2eUhRQ242ZnlvM1BwOU50WHk0VElpT3ZMRF9HX3lFQzdwenJrNnVwNk1fd0lubVBmOUtSc1ozV2lIT3J4dzgzalJRQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T03:05:01+00:00",
+"first_seen": "2026-09-27T13:45:38+00:00",
 "symbols": [
 "ONGC"
 ],
