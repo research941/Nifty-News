@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T04:20:25+00:00",
+"updated": "2026-09-27T04:35:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "6a57c1fd693240b6",
+"title": "Infosys to Turn 33% Workforce into Specialists",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3g2TmV1c1dPVmxjNE11NjVSNFFDcDAzeWVXSV9LZjBEZkVuOHVDd1hLcDRFRmhhTmlSWEpKVXAxYmpvNHRtSzZ0OUpTS0Z2S2ZfRDF4bjU5NUtnczViMldqbl9BNERIY3NJX21HQk5jLVhqb2tXOW5QQzhHU1U5ZFdYN1YyYll1Vm1oUjBBYV9CbVN2RW9jdUd3SVdBcHJtd3p3Yw?oc=5",
+"source": "TradingView",
+"published": "2026-09-27T04:12:00+00:00",
+"first_seen": "2026-09-27T04:35:39+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "43c028c40882bff4",
 "title": "G. Kishan Reddy to Review Coal India Operations in Kolkata",
 "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5heDVjQ25IVzN1TmJsS2g1WE1xYWpQQ2s5VXZBVkJFdms0WDY4TG1YajJocUNmaTBRLVI4Nnc4R0FBU1ZOak1lNFdzcUNqelNzWDduOF94WVlzcGF2MG1rWmlUdW4tZy02cVR2NEVoajJYdlZ3?oc=5",
@@ -456,6 +472,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0b36c26a2503c68d",
+"title": "HDFC Life joins the microdrama rush as India’s 100M-viewer short-form storytelling economy expands",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb3hlZ2JCZXoyZU0xNVlvQmNSemZYaVFqNnhKUTRuVzUxbkZ1aW5OOEFETHViSmVXaktvOHhZQm1rYTlMMmZHMmZBWmx2cVk2TFNPcUNwTUlqSUlGcnRxa3psbFpfZTVlRTNjbWNYeFoxSXpOd3FHYk5ia0EwdE5xaG9DNWYteG04Y08tMEdrMTgyZ0hoZi14eTIwMlYtZlVvTlY0WERJVzNEYUtxWkthQkIwV2NGQk9rVnRRamJtekQ3WEHSAcMBQVVfeXFMUG94ZWdiQmV6MmVNMTVZb0JjUnpmWGlRajZ4SlE0blc1MW5GdWluTjhBREx1YkplV2pLbzh4WUJta2E5TDJmRzJmQVpsdnFZNkxTT3FDcE1JaklJRnJ0cWt6bGxaX2U1ZUUzY21jWHhaMUl6TndxR2JOYmtBMHROcWhvQzVmLXhtOGNPLTBHazE4MmdIaGYteHkyMDJWLWZVb05WNFhESVczRGFLcVpLYUJCMFdjRkJPa1Z0UWpibXpEN1hB?oc=5",
+"source": "Storyboard18",
+"published": "2026-09-27T04:02:05+00:00",
+"first_seen": "2026-09-27T04:35:39+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
