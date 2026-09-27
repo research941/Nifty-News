@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T13:19:09+00:00",
+"updated": "2026-09-27T13:32:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -463,6 +463,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "6170ba91eb050de6",
+"title": "Chainlink Price Prediction Heats Up After Infosys Deal, While Pepeto Quietly Builds a 100x Case",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDhMQ1JVbVVhdTRnd21wY3JTeGFZc3hIaF9MMXBLd1BKNEdmbF9wSzFvSjNXTXloVWJ0WnFkTWxHcUhDcXo1cXIxYlZQX3hKUDg1OTJOYWN4bVFjQ0dwZTJUODJHUXFQSkozMWVJTmJETWxRU2xOb2hpenNPZW02Zk81RGVfR0NTbW1mVll0aE5qY19zRkFVa0RNVjk?oc=5",
+"source": "openPR.com",
+"published": "2026-09-27T13:00:18+00:00",
+"first_seen": "2026-09-27T13:32:46+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9eb62816abf52718",
 "title": "Nestle India addresses claims of worms found in Maggi noodles packet",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnJXcDRzNzJodFZyLWZEaDJXc2hFT1JvV1hTMFhIVWFFWE12MkdPRWZRS0pwcmNOckQxQVZfVmFiUnRHVDdTUlo3NnR1YkpwR0ZfOXNtOXRwdHJSc19lcTJvQUt2Szl5Mk4waUhDTU5ublpaa2wtVEtDRnNGMnVoQWhoNlRoTFJNZGJmY1JnNkphZVV3ME1qRVp3QQ?oc=5",
@@ -653,6 +671,22 @@
 "first_seen": "2026-09-27T11:33:25+00:00",
 "symbols": [
 "NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "70079a9bccf4fed1",
+"title": "ITC’s Aashirvaad dairy push: Why the FMCG giant is betting big on Bihar, Bengal, Jharkhand",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclFGbGNSU2cyRjZOeFhsYnhWQWM3Y0RFaUk5ZVBOYnRaUVd5VEh6Sk8wb18tVlhveUN0SERHNDl5RWFXakdQNFQ3dUMtSzFydXZjYkIzU0R2R2wtSWtVcm9GUU4yWHZyYTA5aWo4bjlsMk5ZZmlEQTU4SWh2T0VzSm5BbExDMmhfa2VSZ2NsZTZVZjlfd1BJY0ZsSHY3YnNFZ3Y5bDNYdkFwTG5OTG1ycG5qZl9qMGZlQXdaMmJJNE5FTkczSDdGUGJQdlRMYm9s0gHWAUFVX3lxTE55ZFFWaG1vQlgtd1pmZGJWdkZCVVo0ckplSWduMUZoZmRLekJVQlcyeHVHcThLc2R3TEdRUTNTODhYZHVFZ0lITHJOcEp2bXV2RmpEWDF1NVFGeHAzOHJXQktBNXhfSzB1OFExOFdYcTdScGVBaVg4NkRQMTVqRVlweUt3eTJMNmx2SFF4aExwU0RPaDlWb2ZoTVZqWUpYSVFELUZVWmJUWS1NeU1oVjZyLTVRblp2eUpBVDN5ODllRUdHRGpvNjRhN0J2VklITjdVazAwRVE?oc=5",
+"source": "etnownews.com",
+"published": "2026-09-27T11:27:23+00:00",
+"first_seen": "2026-09-27T13:32:46+00:00",
+"symbols": [
+"ITC"
 ],
 "groups": [
 "FMCG"
