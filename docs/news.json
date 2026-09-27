@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T18:22:34+00:00",
+"updated": "2026-09-27T18:47:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,58 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "afed9bb3185204df",
+"title": "3-day bank strike deferred: What happened during union body meet? Will SBI, HDFC Bank now remain open 5 days a week?",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdVVqVjR2Sk44RDJqZUVPamhtX1VzVG92cmc2eU9ORjlyT2g2YjBNNHRJSkRGdVMyV1JjWmUxaUNrR1ZTUXAyaWpsb09sbnZOdENSckZwNFRxclVCYVU2Z3FnY2RHMkpWNHpuN1RVRUpaejFIOHBKNmdvb0FYc2xucS1QN1hJN2k3MExVZHFaZlUwTU84NV83bTNSVGlGX0hhWVhYdWJRZTdUOXk0Nm5zZ2RtM3FXbGFDNzhSZ29sTDNjR28tWFlBVE93WWJIaW12Z3o3eEV4ZHlnV0xpYV83VzZiSkFxb1NQSG5CUkFCdG8xa2hR0gH6AUFVX3lxTE1GVTNoeHM0WTdrVHByR2FKRWlFekYtQ29aWU9RY1VzeHZaczhKRmUzLWk1SExUVEFkUWNaMlQ2Uk5Ddms5cXZEenRfZWZob3l0MW9rX2ZUbEVkcWVyTzVaMFdwXzljT0lPQWRvZE4xUVJGMDhhdDlmSlI1TTAyaFRkWDJxbmNZTnl2VnFiLTBOZk5LSE9uX0JyTGp0WFl5ck44MkxLa0ZEakphZlFiRWdFTmFyZ0E4a0NIMld5WHkxZkNqWlNqQ28xR0RGamRNdTRDejFNNjQ5UnFPOWRGbGZQam4weHgwVEt5QjNUM2RwbUphSFhUbE1tY3c?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T18:41:55+00:00",
+"first_seen": "2026-09-27T18:47:27+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "befdb9dd4be77344",
+"title": "Over 45,000 participate in 13th edition of Wipro Bengaluru Marathon",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1I4WC1hc3g2QWpTc2NreWdnVG1LNnRrX1k1T3dRd05lNV9UTndOTWVhcFNVTDBOWnpvd2tzc1F6S3ZyeGtxS1hUMi1wUmhZR3k5ZlF3dWlsNF9uOGZqRGdlckEzc19nbkpJZGR5UEFOcXBjY1lmYXJ1MVBFVmFHN0JvZHhUbWRFZWoyMXo0ME5wWXJuMjY3Y29HZmVhaF8tWWNNTDQ5OWRCMlZjdXJyM0lVaWtVcDF4N1pHM2lqXzlIem9UQTJlUVdXX0dDbGxa0gHXAUFVX3lxTFBpaTl1YzlWU0ZWd0hMSTFSM0dBN285SWh0VlVUZFVybHZxeUNETEhleWc2eG5TMmN3ODR3WGotck9EZk1MRU9ycTRBLVZuaVhkYjVfWTZCNkZ2aExna2o4R2NHM014WnA1Nkl5R1ByNDM1TzBDV3R0MHlpRjJKTHMzU2RSY1EwR1p5bGZSRS1FY19xLW13Rll6eHlIUlJSM2dNLXBvSW40LXhpRFZoZENJb1ZsNGtVV0tOdElZb0pFWDdtYmZ6RVVZdFZGTkpGSnBCNExzdndB?oc=5",
+"source": "The Hindu",
+"published": "2026-09-27T18:30:37+00:00",
+"first_seen": "2026-09-27T18:47:27+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2e5ad513c17ba485",
+"title": "3-day bank strike deferred after bank union body meet: Will SBI, HDFC Bank remain open on Monday, 28 September?",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQR1ZGWjFnSjA2NEsteHNtYlBIRnpESnhvM19nT0pwTlVialpUR3BzajVzUGtaZ0NxdVFtRXEtSFc5V3NZM3NmaTlZZDJvVWxmQ0loOF95RlMwS1FwTElHOVlQNm9NTGhqLUI4V0lrQW1lMENIZlNvMVdlU2JnUF93ZVpUVUotRDNuLUtOU0JocHdSdE1OOGNaZEgwcElxbU1idVdIdzRCVktRUTEwXzdHVDhfb0VWZTJEU3RGS2hBdkFvOVlmOGNGSXZyT3pfTkEtQnBTRW1ZUVQzM1FWX2xVVGtoMUhxMy1uR3dWTVJ5TlFmTHBzZUdKNmowWTlXdUt5SG94Z9IBigJBVV95cUxQMGVmSXFTZGE2bWhna1NNVm14WXlEZlV3UkY4MUhweDhpZ1V2SjhuTGZFVUEyWlJrSmZkMHpMdFFjNXNtT2hxZGVuWWlfcEF0dmU1ZHNKU3gtdjlTRUp2OWktVF9odDI0MW15d2xfNnB6ekJuTGVRdV8zcWhTLTBnSXdFaXNoZlF5TmxQTFZ5ajRVUi1kejV3bUxUOW5YZWZTakx0UFdnUTBia0JGM1NVVjhKLTNfX1FBdFFiSmJmVENCQlppejlja1duQ2VkNGtqUWxQTmdkT0FHUDQ0dGU3TUZidEM5aVR1Y29FRk5tUHNaNWxNZDJQaXM1QjBEZFExTWttVHJxSHdidw?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T18:23:36+00:00",
+"first_seen": "2026-09-27T18:47:27+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "3c6369f141698cb8",
 "title": "TNPCB tells NGT Sun Pharma did not implement proposed expansion in Chengalpattu",
