@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T15:57:11+00:00",
+"updated": "2026-09-27T16:20:49+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f5479a9e1f7e9054",
+"title": "State Bank of India, Bangladesh holds annual risk conference",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUlhN2xIY3piRFlSd2w0Y3lZYUtnLXM5b2J5OW5EMHgxQVg0QVFMYXFfcm95OFBmOGc5NUMtSjBoM0pnUGxlX25XTGpxRlN4MmNCWHRwTHV3Zkt6alhqMklpQWN4bzE5aHdpM2NTeFJjOWxocVVIX0tPcDM4SUk5b1JOWnE3RFV3cmJmdVVmMEE2bmFxRzk5LUlEQkppWkpkcFE?oc=5",
+"source": "The Financial Express",
+"published": "2026-09-27T16:05:31+00:00",
+"first_seen": "2026-09-27T16:20:49+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5654a3da6dd1d42c",
+"title": "APSEZ’s Dhamra Port goes fully renewable, first among large private multi-cargo ports",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFRCbGV1RVNabHVoczlkWEhERjZvV1FvRnRKMTRpdW1QN2pGSDBocml5QzRYWUg1SjlKNFJyaHFmTUJhdjFoQmlNRkZpQWFQS3hJVGxlVlo1Vi1aYktUQ1hiaF9EZzFBd216WUFoOUVCYW1VdHNGOGI2c05EdVJWMVd0QlA3dC1EV2stdUtlVWkzQTRoNVkwNVRwR2hSRERJRnBZODJZUC1xWEtzZHRtaEdWT21TdVlrdS1TWQ?oc=5",
+"source": "Northeast Live",
+"published": "2026-09-27T15:28:28+00:00",
+"first_seen": "2026-09-27T16:20:49+00:00",
+"symbols": [
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4802dcf5faa149f2",
 "title": "World Tourism Day: Odisha signs MoUs with SBI, ASI, Kayaking Association to boost homestays, adventure, heritage tourism",
@@ -1766,6 +1798,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "9649ed7310c2276c",
+"title": "Digital first, customer first and nation always SBI's growth mantra, says Chairman",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTZ5UWJHTUdVeWV0UDJSdzlfcnlqMU92OGZ3WHBXdnVLaE4tOGdKM0xMd2VEWWNYT3dHTXFIZGhzWXJGX2VaZUhrOUdtMVgwcmRlMS03Rms5a2VOU3Bza0hQSDVsaWx4YWZWRVdJYV93UGlzLVJzSEwtZF84QWFCNGNFaWdmN1U5Nzc3UWhPWGtWbldBNU9fTXozOFJUa3c1eEJ2QnhlOUkyM2tPX05XSllfMU9WQTFVajFLY9IBygFBVV95cUxNbDVGaE5UU19OLUNfek5JQ0tWN0FCRU5fY3E1aG1hMm9PMi12bFMwTDFlb2xTcUY0cGsxREd2eFJQTFMyMWpHTFplckxGSnhjWjZHUzNQTTNKOWhsR1VyZzhORW9hNlRkRHFCcUR5MnVDTGQ4ZWE2dXVRWDFCVlJOUzRlM1RpQlZhd280dlY0U1JVZlRRMzVGVDlwSi1QeVd0dGJSLWl0dFhRck5pOEJyVHg2eFdldktnU1ZmS0I2LWhHdTVqV3d0MmNn?oc=5",
+"source": "Metro Vaartha",
+"published": "2026-09-27T06:23:17+00:00",
+"first_seen": "2026-09-27T16:20:49+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "24b8cffdf8421206",
