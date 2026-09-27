@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T17:18:17+00:00",
+"updated": "2026-09-27T17:32:06+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1386,6 +1386,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "832c78c60a7ddb40",
+"title": "L&T, Rashtriya Chemicals shares in focus as board awards ₹797 crore ammonia plant revamp deal to cut energy costs",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWV96UVRVTlJPeDRGNEFrVmxLVExJcVU1TDQydVVmRzNLX2UxZkh6aXpVaXRkSmR0Y29yMmpLU09WTDE1ZGF6emIyempyWnBDTVNPV3Y4TVZlMGc5QzZaUVBHRzM0c3l6eGE2UUdCQ2JZMVdRbWh5SHNod3dUR2pyNi0wcnhabWd0UXVkVkFVRXZsdEIxSV8tU09MbTlhaWMtaXk2TU9RRncwYkRHdmw0S2ttdVdDRElEN3hsV1lDLXlnQk5iQVVsQ1BIYzJGRkpHamR5ZkRlSFB0VEFjeGRNcjRXd1dKVVg1SDI4WHhMeUhoeEg1a2tnMF9ZVUtEQ0swbjZGaw?oc=5",
+"source": "upstox.com",
+"published": "2026-09-27T09:10:38+00:00",
+"first_seen": "2026-09-27T17:32:06+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
 },
 {
 "id": "c6f0cbbec3eaba5c",
