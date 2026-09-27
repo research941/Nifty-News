@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T20:46:10+00:00",
+"updated": "2026-09-27T20:57:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -640,6 +640,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d977346ee4da482",
+"title": "SBI developing GIFT City specific products for NRI customers, says Chairman Setty",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUNaYzZRX3lRU0xwN2luOVB0S1E5TENCMlZTZV9zd01ESVUyRFNaSzE4WkR4SVhjS2ZPdm0tb095VnUxR2JhWi1qYWh1WF96b1VDZkVpcTZMOGdtTlZ4ZVY1T3dxaU4tRkhwdU1WYk83ckl4TGxSMDFWVnlNWEprQ083aVF6b2NOeHhyeVNBaVhrZTlBNm5hSGxCWmRZT29HNkx3RDVPcW5pSTJZa1lHTHFxbTFIWGtjdThCd1lPUk0tVnZkN2pFTG94aTVQdVFsOVlCMTk0NF8zX1N5WjQ1VW56YTN0ZllXZkHSAfABQVVfeXFMUGdldGpLZmI2RXVaU3ZRUDVQSXFHNXhGTFZCeDRkVWM3RzluU0l4ZHo0LUNJdVZtTTF6ZTRHWXZVLS0zOGhhLUpJekE0b29nc05ZN1VIRjJtSTNvcjU3a01tUXFZTUN2RXlLNHRCSXhjeFBncEljWkNhQ3YxU3NWUVgxMzZJdkpVV3pxb2kyQUo4NWF0RFpSbU5BR0x3Q1IySnZDSHBQUTVqVkQzQ0Q3WXJKUUU3cHdiaGhHWVNFNzc5TnlxakdRUFlNby1tUnkzWk9TUWpDdzdLUlZweWVTZ2tnZjBwRW9LX3lBLTJWM1h1?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-27T15:40:34+00:00",
+"first_seen": "2026-09-27T20:57:18+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
