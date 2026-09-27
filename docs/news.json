@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T19:43:46+00:00",
+"updated": "2026-09-27T19:57:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -525,6 +525,22 @@
 ],
 "groups": [
 "HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "380b222ff743b3db",
+"title": "Tourism inks pact with SBI, ASI, kayaking body",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWp4LUdLSGxIVFdweTI3enc3VVpST0pEaGtORGxzakZpVmhIal92MW5NZjRDalV6NjBuaGl3NkNmYVA2M0tZbTZYS3oyNGFuRkk3cTU0b1c4NXlIQ2hINU5fVDROZ1VONmF4b0FUcXRjV0taNi02UGtSSDhHUV9qQllKSndfWEk1SDkxLW8zTHUyRGd5blBSRG9GWmYxUUZJQlMwbnNmSzgtd2tWY3otVFhjYXluc3lpZnFPOGlGQlU1SWJZRnfSAcYBQVVfeXFMT3VqeC1HS0hsSFRXcHkyN3p3N1VaUk9KRGhrTkRsc2pGaVZoSGpfdjFuTWY0Q2pVejYwbmhpdzZDZmFQNjNLWW02WEt6MjRhbkZJN3E1NG9XODV5SENoSDVOX1Q0TmdVTjZheG9BVHF0Y1dLWjYtNlBrUkg4R1FfakJZSkp3X1hJNUg5MS1vM0x1MkRneW5QUkRvRlpmMVFGSUJTMG5zZks4LXdrVmN6LVRYY2F5bnN5aWZxTzhpRkJVNUliWUZ3?oc=5",
+"source": "The Times of India",
+"published": "2026-09-27T18:10:00+00:00",
+"first_seen": "2026-09-27T19:57:37+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
 "SBI"
 ],
 "tags": [],
