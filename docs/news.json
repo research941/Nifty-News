@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T20:20:20+00:00",
+"updated": "2026-09-27T20:33:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -849,6 +849,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "238ba17a2d5c30bd",
+"title": "NCLT admits L&T Realty arrangement petition",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUU3RzNqYjkxTWhyTThQb2VCaTJBRkc4c2RnckFLSklvMWRUWTk4NDNvX0U4dnBUb2d4dVBwOFJVQkZOdnR1SUpOWTF1RERnMC1SaHZpekdJNmRERW50ek5IaUdXem90VkhzaXZZcjh0ZTF4dUZoWnRyTjdNalJGbWdsRW94WlNkOFBQeXBDZHNEU29oZXdZR0phOUpTeXdfYnc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T13:35:10+00:00",
+"first_seen": "2026-09-27T20:33:25+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
