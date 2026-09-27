@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T07:33:42+00:00",
+"updated": "2026-09-27T07:46:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,26 @@
 ],
 "items": [
 {
+"id": "4e45bed528d7f3df",
+"title": "Cochin Shipyard, Voltas, BEL, Tata Steel, Axis Bank, Vedanta Aluminium: Top stocks to buy | Target, SL by Ganesh Dongre",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUWVNMzNGS3VPelFWNUh5RGRTUzJHR0ozV1h3V0tXeHhKNGlROTZWLU1iRlMtd2FSNnIxUlBuUXFFdEJjNkp5bTMyQ3pkejN0LVA5VS1kT1VzdWNDeEZUTkQzUGdOMm5odU5Fck5XdHBaa0NFOExadVZhT0NkdDc1aHd5bzdQMWJ3aE51MHBxSUs2REJqU2tON1hhd2g4YllCR3E5ZzJ2QWVPclZ4dW50bWpCaG5IVWlaaWlDMkNkNXRTcDlvcE10bXZtQWQ0RzZkRlpYd2tvbnRsNE1MV1Z1NmRjVjFHbHNGQnNRLUVxUGw3ZC1jc1dVdDFfNEZhemQ1N1V1RENOOFpkWEd50gGSAkFVX3lxTE1FN2g5ZC1NdjBGb0RQNVU2aE5tbDd5YnRRamtpQ21wNHhYNEhGNWJvRk5RSGs4Wkh0SWJ4b3pEU05jZV9oN3BOaURBejJMQWlneTZIRXRaTFRsMF9QZUhkLVZBaDRSa3lKa24tR0NFd3hXamUyYUU1Q0lRMlNzRnRHLVFVRWZCS3BsS2lIQVNPdlV1dzItZmpzRnJFc2dqc2VxN194WTlRQ0g5aVUzQjdFeEZZVzZsejR1Nmd6ZmZQclowbElyUVpLWHNCai1HY3NJZ2F1eHcwUHI4TTFlc3FtUmMtMFZTQXBNMVBxdGVkblNQY2dfekFaaFNIcEhTRVpvc1ZucUYwYjZqT0RPQkR4N0E?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T07:41:48+00:00",
+"first_seen": "2026-09-27T07:46:45+00:00",
+"symbols": [
+"AXISBANK",
+"BEL",
+"TATASTEEL"
+],
+"groups": [
+"Banks",
+"PSU",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "933b022ce9dadf82",
 "title": "SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns in 3 years. Check details",
 "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWlBNelBncEpWQTJReU9jMk03UXNuMThtWm02X1JGU0JmX3ZsQkZUWUxfd2tsNHA2MG55NHNRNmFrME9wVFI0VzNhUW1ielV2SldyZlJobGt5dXhPRUUyanJzNVJVMEhXcVU0bjQ0Y21YV2YtaXIxeTJGUFc1QWhEVkFFZThYX2M0SHNKbFl2a2ZmTXNjTzBSUWFXRnZldF9lMG9Yd1phSktUNTFQTHBQQkVWMVJ5MDExUHo4bE0za3NCZEw3MTR6bkpxbG9xSlh0dHU2ME1WM1ZIYV9Kd2ZrSG9HR0k5NGFyN1BiU2JMYmlER01WNDZTVkdoRVpsd050ZktHam1HYjU?oc=5",
@@ -508,6 +528,24 @@
 "Mahindra"
 ],
 "tags": [],
+"sentiment": "positive"
+},
+{
+"id": "a39b8b948a5c3a3d",
+"title": "Lcc Projects wins Rs 70.35 crore order from Reliance Industries for Kutch substation works",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlhKY3ZHM1dhT1VLVmFMSG5TdUpmbldCbW56eDlPTVY4VVc3b25YbHQ5cWNBV0k0SnZDSi1PazRHNU95MHdxNkJQUkVUOXUzXzlDWjVTam1LVmhyd3FDa0FuWnJZZFV3TVNUWWJwaUZDWElXX3JId0l2X0pHNl9kYkUyd3c2UHdqdDVOWk9FSzhMaUFTRTV5NkFiZGc2bE9kZXVCWFJXcFFRODZXS0VHZTQtMXgtOEd1?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T06:24:10+00:00",
+"first_seen": "2026-09-27T07:46:45+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "positive"
 },
 {
@@ -581,6 +619,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ba631fa4f011bb0b",
+"title": "APSEZ’s Dhamra Port shifts entire power consumption to renewable electricity",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdGJ0V0JwU19ya2h0bGZxbWpmdmt6Nm1RQmJJY21OUVl4bUFzeG9acHBfb09XcVN4WThXN0FVTnd2eWQ0R3pnUGNkMG5BN2hvbWFhX09VNDltQXFtbHQxWVpNYkx0NVV4UXFxV2xNaHhRV1dFSFFBZ05NdUFZVXRKbTVib1hlTFRDV2ZNUWk1dmVxVF9VTzJwQWxPcHpfUG5pVlk1RWktN1RldnVtVzc2dmw4bGRlTERWclFpOVNDUnZtbzhwT2lIU3FkM09VVHBpVXdWTG1HZm4wc1o4RE5RWXFIZlVmbk3SAecBQVVfeXFMUHRidFdCcFNfcmtodGxmcW1qZnZrejZtUUJiSWNtTlFZeG1Bc3hvWnBwX29PV3FTeFk4VzdBVU53dnlkNEd6Z1BjZDBuQTdob21hYV9PVTQ5bUFxbWx0MVlaTWJMdDVVeFFxcVdsTWh4UVdXRUhRQWdOTXVBWVV0Sm01Ym9YZUxUQ1dmTVFpNXZlcVRfVU8ycEFsT3B6X1BuaVZZNUVpLTdUZXZ1bVc3NnZsOGxkZUxEVnJRaTlTQ1J2bW84cE9pSFNxZDNPVVRwaVV3VkxtR2ZuMHNaOEROUVlxSGZVZm5N?oc=5",
+"source": "ET Infra",
+"published": "2026-09-27T06:10:02+00:00",
+"first_seen": "2026-09-27T07:46:45+00:00",
+"symbols": [
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ee718f0d5941b937",
 "title": "RRB NTPC Graduate Admit Card 2026 Out: Download CBAT Hall Ticket PDF- Direct Link Here",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORW1Rc0NWQV90RWVUTkV1Zm94Q1dYV19SXy1rWDBHQ0VxWDVLdk1IcGRqM1RHaG13aHpPQWxBaEp6Zl9uUUdOTGRVM3B6STVWeEpZaE5Ia01kT01nTG8xN1hySTQtcHdDZjdJajdKS2c3NF9mUERmRHZCUTh6UUM2bjlHZVVSd1NoMWhjMDRIejhiMEZyMlR2VmdTWXctcWM3VUpzU20zNWVkRHl4d3gxMzFac1czWVI3c2lUVGdYcElfdnp3S2RpdWpJal9BQdIB1AFBVV95cUxPeDBhc2doeE1SbWJDR0E0NkpROUpUR0w1eDFZU2ZTTFR2b2ZqWDFCZHlfbWxYQVJtTGVvUDZBVkJJQlN0bklmWG9ZQVNrblRreU56Zl96WGRlenB0ZDBPUm4zNlljQkVnd3FuVm81T1Z4LU90YzI4ZV93Z1J2VWlWMTBTNGFrZnZwbHVYRVNsa21Vb2pFSVlYLWJFVnFPbF9jeWhYbmlSYVMyWnpqWFltcVhJb2EyZmxSOVg2azVoX3RVSlJHNHlGZDhrYzYxY0ZzVFQyYQ?oc=5",
@@ -640,6 +694,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "57853ed3da3a927e",
+"title": "A little health, a lot of heart: Apollo Hospitals’ LiveWell brings wellness closer to home",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeGFaM3h6VUNVZXo3dDcxZ2psNy1JeXhuc2o1ekpQemhIeEtUYjVzUVBIcmV5bGVpQm5QTEM0WUt6TFA2cTV2Yy1TRmhXdXpNVVI4YXd5bm40Zkowd1luVVphUkp1OEU5dHlCelZ3YzRZWUN0MjZHUFZrZEJSWlpZMWdZNXNwdzExeHpueEZDRjZiX0xYN1huWWxOQnFGZzhVcExhYndPby03WkROWEJBZmZZR3BNLWd4Y25SWFdFbEZJQjZ5OThBUXEyYTBfOTFndl83dzVuWWZlV1k1amw1OGIxNlRHSkR2aXhxcE1NcDc5Z2l2MlHSAfsBQVVfeXFMT3N0QVJNY3FwajRxRkZaNWNmQTBxQ0hMc2VBWnBIMkdjbi04OUpTSGtMSmhtY1Y1bjNGQmZtOUtpOHZ2X0VZZk54TEF6cmhneGx6VkltUjd6ZXM0UlhDWFBabnYtbHJ1R18wWUNRU0NBMjlTc2RyY1hlX0dPelRmZmZZNDFyT2tzSmxuYWtKdmxVVGxGU2Z1bVRBWXFGbTViWFZ1X0cyTW5UZGY3bXpjTXZUQ2RFQkFxU1pPb2xIUXowLTJ5VW1TeW5WZTlZdnpjTU9wLUNJanRSS2ZLUFNaeWxTcW9Fek81NVlqSHl4aW5HWERVbXdXVmRqeGs?oc=5",
+"source": "Telegraph India",
+"published": "2026-09-27T05:43:10+00:00",
+"first_seen": "2026-09-27T07:46:45+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
