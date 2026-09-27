@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T11:57:20+00:00",
+"updated": "2026-09-27T12:24:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "36ff88affaec6d19",
+"title": "Infosys to move one-third of workforce into specialist roles",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2RaZGZTRzZ4VGZzY0pnNXlZME9QeWFkOHNPT0JIWWZUY3gyQURQSmVZRFliaDBvclRDSkRGMGxUNWtZMUZ5NlZ0NzFJUVN3Zld1NkxXMWw1TDlwaW9YLURfVEtzV1ZQdnlSR3kwZEhzNkRpcUtsVGVTdE5KZHhWUjhNM0d0dDNlXzd3SnRVY3BmV01PaXV3RFBMUEVncmxFZnQ0LTFoMzZmc28tVFE?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-27T12:22:11+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "09cc112291de8207",
+"title": "State Bank of India Shuts Trading Window Ahead of September Quarter Results",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE1DdEdaTE9FRmJpbnlocUlfejJzVWhOcU1qSm9LbXZndEcwYUN6MFBkNndmTjlScVM5ZHNraUloZjBqSDQ1cERSTlAyQXZ6UVRUUDZpeGxuS2I5UnFleG5FeUNFUEt0RVRYTlZtUFpqakRYbTUzMWk3N1I0TTVSaU1KamgxSUJBdkZoNGNORER1RGpZZkJlMVhLcjA0WTlfWi15U2ktTnVsTWxPVGhaRmlKLUx6MDFpYmJFVlMzU3Y4SE9GOFE?oc=5",
+"source": "TipRanks",
+"published": "2026-09-27T11:58:54+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "6b3d2e0d11328f3b",
 "title": "Infosys to build 6,000 frontier engineers as it shifts workforce",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnBCeUQ1cE1KbUppWVJsbnZ4QWJWYUlKeG1DRXBpWE9VX1pLeDVMbGlCcVFUanNXbWc3VjJXSWtlVDdlekc3VEpMYm1uMHVNLVRjNkJGejRSb3JqOENPenA5alVPaEhvdVFzNG44RFgycVlmYWVTdVVzbVFFS01maDhFRWJ5WXZuUnU4V1ZjY2pSNF9tdmx0c1BqWlFrYkUxak9LM1ZLWms3Rk50ZWhDbQ?oc=5",
@@ -456,6 +490,56 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5e7275775fdb04f0",
+"title": "Nestle India Reacts To Viral Video Claiming Worms Were Found In Maggi Packet",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDBSVG9Lb0k1LU0zWGwwVF82eGo1Y2xYWkc4VlJxUmhvczRMT1lSYjhFWU5rNEtMakYtQXNYOTJ6dDRrdjFHbUZaRXNDaklnVGFyUWhlTVhNLXBKZ1BoS0JXdE1DcWZ3VDZDTzcweDBPcXQ1RHYxUFBzOGtBdGNBMUNtYjFhQmEwVHdUMkZiMWxYYmhYRkhaT283VnQyNnpFTXRIOVFXQWRQcUFPS2pLTNIBuAFBVV95cUxQOWhxTmh4UE9LOXZHeTEzUTNYOVVpdW1sVDh1cURDMnh6cTFqWXZlTWQ3aFlsdHVvTHBhVHpJOG1FRGhyajg2SGExUHJEcEdMVU5VNkFYN3UzQmtraE5INWNGLUNoRVJYTDBPU0VscVJ1a1JhZ1FKck5qcjBCRXFodXZfT1E1ZVh4RzhLSmVVczFjQkNfdGQ1Ym9hN2FxUkk4UjBTOUxMNWx5aDJYbl9vY1FuNlVqeHRC?oc=5",
+"source": "ndtv.com",
+"published": "2026-09-27T11:52:38+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2f00b6f5a5fc7d89",
+"title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2pPcHFPLUNWajFDaTVLc1dNaW9DbFZLSVdYelUzbm1wWFJEVlk5c2tuS2R3SDAzTzNwMnhyMmdDck84b3hPZzludDh0Ymk4aFBndENRVW53T0t3MlNDRmpPU1RYaDRrUHVMRXVKWC0tQmxRZ0E0VHFLUEZfSjZGLU10aWQ0dEJKZ1ZNanpWOENYb2NxRnNRLUZxMlRJTy1WSWJLc3djNUlzZm5xSkhKOHhJRDV6ek9pVUpSQlNBSklYQS00alBFMF92aw?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-27T11:40:03+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
+"id": "05ab15e55127ddfd",
+"title": "Embraer says Mahindra will be its partner for IAF's 60 transport plane tender, to partner with Adani for c",
+"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPblNSWV9idEZ6U0pQTVp1Z0hVQmVIRVA2cUowZ3d2TEZCM29GUHc0S3hNV0NubkJwV1BUbjEwdWZRZFRkejg2SmYxa0E0OVhNSFJRd1FGR2dJZnNjX2d4dkp3bGNndVFucWpFbElZcGJ5c3ljMl83b0hXMFV2UXFBd09haFNOUjN0c1drdEdDVW9EbUtnd0hnX01OY09qeV9BNy1TeVcza2FzRDhfS255b3V4bXFTTTlESFBBbjdtNGtjdmNGbDI2cW5YMDZrV1FzRkE3QVRLZ1ZCZk52TzByVHI5YjhlR2xLbmktanFCeWtzQ05pazJjbU1hQ1BjSlNJM19xUEZZR2xBSWowVl9Malg2Sm1XZ9IBmwJBVV95cUxQeGFHaHpMZDhLaHE3dVFjeFdGTnBwWTNvOVVWWVVucDlXN1QxREYxdVV1OU0xak9KQTV5TTF6Rm0yUHdfbjd5NHZ0OU4ycGV4TXdKc1FtX2NKT0J0YmZmQW9MVDRPNk14T2U0YkVJdXV1ME5CTWJZOEVfYnZVNXhXd2JYNFBTbEY4c2RyVi1OTFJhUmNlTkJRQ2twLWVkTFg1cFo5TURIUGdIVzE1NzdWT19ZSDE2WlVnVmFHWDhlYnEtTkZxZU5QWGdkOHlzZjFWQ2ZIX2tUdl9MdUl1cURPYi1sTVBabnh5THNDMGJJamhsZkwxLW1OaFNBNFNjZ0dqUl9EcnVMbjZZanlDYWlDcGJpaXJOOVJtdW1z?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T11:30:12+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -577,6 +661,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b69ffe4731c8798c",
+"title": "Maruti Suzuki Grand Vitara On Road Price Vikasnagar Sep 2026 - ₹12.90L",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWJlNlZXOThTQ29LN243cmY4VXlkQ1BiMnowM3RxdlZKNnRCLU9Yc09oeEdnWXlUWm9MX1FsSllpNkJuOVZqbm9UMFVIMGdubVNzU0w1RFZJR0JsamZ0VnZlMk8tUnJNUzQ5T1MzdXNnMDhESVB3X0lKWUs4eUR5aVNsWjN1Q0JMSkRR?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-27T10:49:44+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "74ca8a688924b2e0",
 "title": "'Can't Comment On Authenticity': Nestle India Responds After Insects Reportedly Found In Maggi",
 "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWlaTm8xTUNQTE8xNHlxLVVJenBWbDRpLWpCTTEwZnVfSjFyUFU5NTdFRjMyeS1zcEZncnM1NWVybE5yVS1XYVd6QVdGQ3IzaXFBTUlsSTJrdTVfWk5pTTV4SExVSnBMX254TUNIRV9JWDlIMUt5NGVIRmsxSnN5aDR6STd5UWE3b0UwQVNrV1VyLXZhTVQ5QTZybnp0UmY0TkhGbndFbXZ2QXV2N2I4LXM2LUNmSWc2amg3SVhobzNsNFdmYUpVMnY1NDN4ZFY5THN4MXVnX1dnS2xIMGt5dFV5X0lFY2VMMk5KQXNPZ9IB9wFBVV95cUxOUHRxS1lKWGV6MjdveVVFcFVQMGJHeTFIZ1h5WjNDODFQQjR5U000ZXlzSGlSNDZaSzlxQnc1Yk9zcE1nR1hWenZyQzd1dlR1bUFuZlFEbTlkTTZpR1Z0eHpMV3FKOUlLSUVBUG5MSl8yVVFRU25sUUdSS1FvbFlvSEJ5S1NvRTBka3E5b0h5WUQ2ZlFyN1N1UHpOMzNoRWhVQ0swSEVDWFlfaUVzNnlkWXdXelB5enJxYmFnXzdES29QVkRsT1RvM2NCcmJ3LVFlcmM1WEVJZE9PMlF3c0x1amJrWnNadXYza2VPbThhSVdxSmotTGxF?oc=5",
@@ -622,6 +722,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e8cac977fd7f1db0",
+"title": "WACKER establishes Global Capability Center in India with HCLTech",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTBFZXFhcndkd1pXQ1haaUNoSmxjcFRiQS1rVkFUMlFPRC1Hd2VYdlU3TlMyQVpvdmxIRi1RVndmRHo5a1Z6dF9xQllhV0xzZld5NDdTRzRJZzZPMlBDdmp5TFRscmpLRTU5dExHWFV3d0k3bklnY0hzeGQxckloX3RaajVLWldYbnVyT3ZiV3l3UVlwemhLVnpsRnZJYVVDRkxJbVp0MmpwSldKWGFsRWlGZ1ZSbFNld1NN0gG7AUFVX3lxTE9JMEVlcWFyd2R3WldDWFppQ2hKbGNwVGJBLWtWQVQyUU9ELUd3ZVh2VTdOUzJBWm92bEhGLVFWd2ZEejlrVnp0X3FCWWFXTHNmV3k0N1NHNElnNk8yUEN2anlMVGxyaktFNTl0TEdYVXd3STduSWdjSHN4ZDFySWhfdFpqNUtaV1hudXJPdmJXeXdRWXB6aEtWemxGdklhVUNGTEltWnQyanBKV0pYYWxFaUZnVlJsU2V3U00?oc=5",
+"source": "Indian Chemical News",
+"published": "2026-09-27T10:15:53+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -807,6 +923,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "6796b37e56835ecd",
+"title": "PyroGenesis Secures Final Acceptance from Tata Steel for Large-Scale Hydrogen Project",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVGtManktSS1KTEZPN0xydkw3WGVsYVFiZWpwTmlKNVdvRTNQZGtxd1RBUXNzeDlsdGhKQUhmQjlybDlZLWhGV0tyVXEzZmJwaDNSQmtYVFpnSlhGRU92dHB0ZlBGQjREbWN6LTN5UEhLd0R6c3Z6WDlGOWFYMUJGQUpyanNCamp2YjFNaktocU5jdjROblUwckdPcHVRWmY1SjA4YlMzWEw0NlduSHQzMW5zeUtKbVJxSFhid00xZ0kwZnFiZ0NZNnZMal9RNTVkdjVn?oc=5",
+"source": "TipRanks",
+"published": "2026-09-27T08:52:51+00:00",
+"first_seen": "2026-09-27T12:24:34+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "0f783d1b0126bc43",
