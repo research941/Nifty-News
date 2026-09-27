@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T04:35:39+00:00",
+"updated": "2026-09-27T04:49:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,9 +441,26 @@
 }
 ],
 "errors": [
+"Economic Times: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "677638b437e5949a",
+"title": "RBU partners with Bajaj Auto Foundation to launch BEST Centre for Advanced Engineering Skills",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSnFPaUlpQzJpajROeHVDVEp3NjdmSnV2MDBmdC12S3BNdzVWZXZJbDBmR3ZrUXF2cXVwanRKSndzd1JRenllaWJtd0NHYUZBX293dkcwaGVaVUlDMFIyNzVOVkdXRWdLc0ppVU5QRWI5T1ltdmRZWHo3elZPLVNPT3dwOWU5NHFoOWlnRDV6dV8xdGlmeENsRVRhaEZpSjM2ZkVlNnJtYUJ4UkR3aGhHcWJ2Mmc2akd3QUZ0T2JvazJOR2lUY2RCLWpfT01uOWFNa2p5MGR3WXVhdw?oc=5",
+"source": "thehitavada.com",
+"published": "2026-09-27T04:35:32+00:00",
+"first_seen": "2026-09-27T04:49:07+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "6a57c1fd693240b6",
 "title": "Infosys to Turn 33% Workforce into Specialists",
@@ -767,6 +784,25 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8a8c26c8f696d1d4",
+"title": "SpaceX IPO: Wall Street Titan BlackRock Reportedly Orders Massive $5B Stake",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanB6NDRNeTBWVEQwbjNxMjlaLVdHcFBDVXA3bzFmeUVHcl9GcWJqeXpSLVU1NVQtVG9lQ245VHhybE8yVHV2ZWxYRVRCS3hTbmdlUTYwS0VXNXpxMi1SV3R2b044SFdhdHVTU2dGbTJsNFU0R3VMb2NrUWtZcVVtQ3pNc2tfNGVQb0lSUGVlVUxsTU1USE41UGh0blpHN2FkYVhXODlLOE5oOFBweWxsQ0NldVNpN2hydUcxYlhHbEl0VjlZNkpKQTZJWmU2SDdDbkhiWHFMYw?oc=5",
+"source": "Stocktwits",
+"published": "2026-09-26T18:58:22+00:00",
+"first_seen": "2026-09-27T04:49:07+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
