@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T13:00:03+00:00",
+"updated": "2026-09-27T13:19:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "4a34bb9b1e641120",
+"title": "SECL IPO: Coal India’s Next Big Listing Could Raise $800 Million",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybXZvdWFyOWxCUHk1UjFjaXZFMlBZSFJrU0sxazh0ZEJ6dEh3bmJvQnIxNG56OGo1VGVEejc3ZUJvTlpSd1NlTUF1Z2ROMlgyWWdLMWgxMF8yMk9FeXFFMV9velg3ejlIY2YtUDJqSmU5R0xhS1hIR3Z1SGg?oc=5",
+"source": "Indian PSU",
+"published": "2026-09-27T13:14:28+00:00",
+"first_seen": "2026-09-27T13:19:09+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9eb62816abf52718",
 "title": "Nestle India addresses claims of worms found in Maggi noodles packet",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnJXcDRzNzJodFZyLWZEaDJXc2hFT1JvV1hTMFhIVWFFWE12MkdPRWZRS0pwcmNOckQxQVZfVmFiUnRHVDdTUlo3NnR1YkpwR0ZfOXNtOXRwdHJSc19lcTJvQUt2Szl5Mk4waUhDTU5ublpaa2wtVEtDRnNGMnVoQWhoNlRoTFJNZGJmY1JnNkphZVV3ME1qRVp3QQ?oc=5",
@@ -458,6 +476,24 @@
 "FMCG"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "71c53ffd29d59b0c",
+"title": "Chainlink (LINK) Lands Infosys Deal but AlphaPepe Buyers Want to Get In Before the Big Partnerships Make Headlines",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVlBZjVZX25UbzFBT0w0UFJhTmVLWjA1bU8xcVRxVXExb1VYZ0lPc0ZTVzRvTzN3Z19UaWp3OWl0d01pSFlRWXNwS1hTSTZKTUEtVTRkMC1LNUhlaW9wWi1uSURGVGQ2ZnA0Z25nZHhrOHZULVo5UDhyeVRORlpmbVRtMmc4N05kUklwNVMzQXNUSHZ6NXpaNGlNcw?oc=5",
+"source": "openPR.com",
+"published": "2026-09-27T12:52:52+00:00",
+"first_seen": "2026-09-27T13:19:09+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1634,6 +1670,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a5ab65f6e2b2fec5",
+"title": "ICICI Bank Allots 699,237 Equity Shares Under Employee Stock Option Scheme-2000",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWRrX3B4eGNsMUhTZ1M4R0pGak41NEZGQUgwSnR5a0dUWjRXMkZscGstWWFKN0gxX1BRRjhMSjQ4WE9maWdCbFdidzFQbUZUWFRxVVRXTEZ3T015ZFVpaFptTEl0N3V4ZjYya3hNNVctdTlTRnl4RXNlR0l4eFdoY0MyTlVNYnlLWVpRYm8zTU5TVmhNQzYzZFpyekFOaUtoUjRhckhKSmpBX1FUX1E0N1lnc2VPTkJOZzI3WFZ2WWI0Zl9EZkRadVREcGIxWXEtYjVrbg?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:43:08+00:00",
+"first_seen": "2026-09-27T13:19:09+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
