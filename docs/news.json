@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T09:57:06+00:00",
+"updated": "2026-09-27T10:19:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9754462c9cf14902",
+"title": "2026 Tata Aeris vs Maruti Dzire: Price, Features, Engine Compared",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZ9IBjwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZw?oc=5",
+"source": "Gaadiwaadi.com",
+"published": "2026-09-27T10:07:13+00:00",
+"first_seen": "2026-09-27T10:19:27+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c3c1915460e4177d",
+"title": "Siddharth Sawant Appointed Director – Human Resources and Head of HR, Ready-to-Drink Business at Tata Consumer Products",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHJRQ2hSNlVKMExUQ01Eb0M2SHFYdGVrdEttck15U0FWTGdseG9CYmNlRDVVbm9zR1RVUVB3Mk9TT3BWQ2FZM1BPMFFHVEthZHNiMmEwLTRPYm1La281UkN1SlV1eVpaN2hhSXFabkdlUVJtS2RvTGNRYVdSUkdJdTJwUmJiRWJYU1JXMC1hWWNNVEdBLWFlbnN3VV9fZXhQY3JGUXFpNk1wLWU4NGp1TU9RMDgzUVpwMnh3Mm05Q1htUERzaTJYckJOVUJIT1RLOEE?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-27T09:57:17+00:00",
+"first_seen": "2026-09-27T10:19:27+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "914a391c7da640ac",
 "title": "Bharti Airtel Says It Blocked 1.62 Million Malicious Links Across Mobile and Wi-Fi Networks",
@@ -1285,6 +1319,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "de3d82f1ab89260f",
+"title": "Stocks to watch for September 28: SAIL, Adani Power, Rashtriya Chemicals and more",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFB1RHFYQ2RGb2NjZHBZdVVGNW5VUG1RODVKaWJ3clowOTBqZDZlVFZCYldmYlMyd3c3S2hibi05X2d2dmltX1Y5bjdYalkyM0FMZ2I3b0J1UGZrbl9wS1RsXzBVbnlqVHVaZE1KTlFHWXBDdHlrbU9pQmZjUFJhV04xX3ZfLUpoTk1qZTFWd1FRMzkxNC1QVUFPVlUxLUNuOWJHSDJVV1U1LXRENm1aYlBCOFBVTm1nVFI1VjhsRy1KR0FrYl9aa0Vn0gHPAUFVX3lxTE1OWHduZmptcDVydlFvUHpBbWI2X0V3clROUklYckgtcTZ5Wmc0Y3doaHZ6Z0tDNG16U2hxYTZUVF93YlNHelBpU3E0Sl9QUU41TlVzX1p0T0swOVA5TzR0RUpSeHd5WTN3ZG1vXzB3dWtyLUVKaTU0UWJ1ajIxSWhZbUtBem55aFgyUmowN0lnakRrUVl4ZEE2Q0ZHcnZudFFqaWllc3pHVVFwdENVX3AwMldtUFhnOVVWZkdLMFFlRnJNQjlod1VQbWpSVWdMaw?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-27T03:00:28+00:00",
+"first_seen": "2026-09-27T10:19:27+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
