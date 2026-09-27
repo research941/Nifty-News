@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T17:57:07+00:00",
+"updated": "2026-09-27T18:22:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -456,6 +456,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7b541e1d1c9135ef",
+"title": "NineDot opens 20 MW Bronx battery site to power 20,000 homes, boost New York’s power grid",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10eEhBckg3WVJCOUZGNmUwY2RqZmdSNEhYMmJYVkVqUlVRakgyVk16dW1QNVR5cllrNF9xNU5sTV9PMkFvU1lyc1BFQmJPY1R2My1ocnB5MmFNdDlpMGphajRDS3k5RmxrU1lkeUg5cjl5WjJ2S3ZlZ3h4SQ?oc=5",
+"source": "Interesting Engineering",
+"published": "2026-09-27T16:55:00+00:00",
+"first_seen": "2026-09-27T18:22:34+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1350,6 +1366,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "58f13eab1b732568",
+"title": "Tech Mahindra confirms dispatch of 39th AGM notice",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGRUWUduUW4xZEhnM1p6YXk2b3U5RWllOUM1UnRhMEVoZ1dsU1lmamtDdWxYaWNnNUU1LXFmY0o5MTRjTXpmOGhUYllrbXFtTy1ueU9XdEJZNGg5ZVlSTDdoX2pXSGhMY0dLZW9TT1k5MUtCNmlaT0o4NUVOTUw4a0o0dGw0NlhBbnEzbDRRR29RZ0JVUVVjOGg3and6LW9EMTRFVjdrT05VSzBqbjhTZzUxVWY4NkZRejRtamIwYlFmX1RIUEg0MHFNSEY5LXI1dXdiTDNPSWc5cUJMVmpZak5uZzNYWGhQZTJxdnc0clM4dEU?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T09:56:09+00:00",
+"first_seen": "2026-09-27T18:22:34+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Regulatory"
 ],
 "sentiment": "neutral"
 },
