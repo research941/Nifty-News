@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T01:19:04+00:00",
+"updated": "2026-09-27T01:33:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "4da8c3dc8d76dad4",
+"title": "7 New Maruti And Toyota SUVs For India: Next-Gen Fortuner To 7 Seat Grand Vitara",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fWHYzZkhjWmV5anFWM2M3Ymp2cGNJZjM5WHk3TTJ5QVJBYy0wMGY0Z0ZTQ0FTdDNOd2tpUkV3RFdDdXV4aXVuQ3pYVndkX3hWVnB4ODdad0FxaVJraVJ0UG0tT3VLRjNTMkNkZVY5THc4aXVfbmRGNlJvY1Z4dw?oc=5",
+"source": "Cartoq",
+"published": "2026-09-27T01:19:33+00:00",
+"first_seen": "2026-09-27T01:33:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "07469d3c109122b5",
 "title": "AI Power Grid Costs Spark Global Fairness Debate",
