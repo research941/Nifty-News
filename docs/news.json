@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T10:19:27+00:00",
+"updated": "2026-09-27T10:33:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "15c26c15fbb06fa1",
+"title": "TCS vs Infosys: Which IT Stock Has Cut More Jobs Since AI Took Off?",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcm9yeWtqU0JfbGktWVVHcDFRQlk3WDlYS1RZWVdOa1p2NENWRXQ4eWRGU1VRLXhxczRpU2oyTkozaWpuemFTQzlkRGJudTNjNG85b1dEckY4NjRxZF9MZ1BCdTV6czhfSWlzUmRzOWNSdmk3Z1lRQmVoZnFNZnJqUGItN0VzZi1WRzNweDdFaE5zSlpfZEJnM0RRNE1KX2YtT0ZUQUdqRlRpSW5UYWM2ekZn?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-27T10:30:38+00:00",
+"first_seen": "2026-09-27T10:33:37+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "302d71bb59f39ae6",
+"title": "Bank strike from Monday, Sept 28: SBI, PNB, BoB and other PSBs waive ATM charges; what about HDFC, ICICI, Axis? What's open, what's closed?",
+"link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNM3FNX3o4aEJMVXFZNENMSVZmOWMwdGJiQ2JUbTZiMVl6dVRCaWViMHI0eXJxeUlsaHdrek9ZUFM1RUI2TFFEdmViOGpkcHBFdjRZUGhTdk1yZmFRUXZPZDNMZFkzVEZmR1lFZVpFOThjQ09MemxpUk9TajlBWkd0Sk9VQzhZbjFhWklNYkNCYWU4Y2RLZl9uUWozYzFqelI2N0poYWtudlhDanpkcm1lb1kwZlk1XzlTU2hGRnQ4XzUtZEZvZ0NuTXZRbDFNaGR3YVhiTHBfX19KdDd6ZmVfTkpXU2hfUmFjaHNnYU50Q1hicFhpd0xwSi1TYWJjdUlGazYxcU0wUXphUnp2VGpfM21Ca25GaGMxY1RLZ3dNVnN5SDNmem1Bblp3?oc=5",
+"source": "Upstox",
+"published": "2026-09-27T10:21:35+00:00",
+"first_seen": "2026-09-27T10:33:37+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9754462c9cf14902",
 "title": "2026 Tata Aeris vs Maruti Dzire: Price, Features, Engine Compared",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZ9IBjwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZw?oc=5",
@@ -772,6 +806,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0aacdec410134c30",
+"title": "Tata Motors aims to pull premium-hatch buyers into sedans with new Aeris: Vivek Srivatsa",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGVsWHFIMlplU1JfSFB4aHZlV0RuNlo2eHk1eGdNM2l4WS1KVVU3RzVqQ2NlS2pSSkdSc19EbUhSSUJ2OHkxd2Y3eS0tMEc0VmxqVkJha2dlZEdLMkRUS080ZjVjZEdab2VSWDFMRjRCdlBMb2pFX2ozN0M0a2xETG5xUHRfLTRqQkJCZHJkdVRwUlBPQmJmU2hRamlGS1k5R0pYWWpSS1MtcmFBU3BLbHlucDY1R01ZNlU1UdIBwgFBVV95cUxOT2EyekNYeURyMEFGYjRQbHExWUJ3bm1wMThvS1lKV2Nydk9xU2ZBM1cwNDQ0WXpHWmNvLUlFNXdhdEVxdFJvODFVNDdjY1UtYnFua2o5eW1WUjA4ZzNjNS1lek1uVWZ1Z09EWHBUbl9MNmxCVC0yV3JjZ0hvcGpiYlc0OTVQSGNPT1hieXp2R0szeEpud3F2OTA1RGhwNjY5LURQNk0yaTc4U3JuWnFrSWtIR0RyQWZqcENvLVJRa0d4QQ?oc=5",
+"source": "ET Auto",
+"published": "2026-09-27T07:18:50+00:00",
+"first_seen": "2026-09-27T10:33:37+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1240,6 +1290,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "99e3f49f8f9aaa9a",
+"title": "DMIHER to be Adani Institute of Higher Education and Research, gets UGC nod",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWplZG95Ukt1TzJkMEFaV0pfanI5MVdKeWZWWnZmR3JwV2VVYXhKYXhNM2JTZ0h4SVBkSWxwMmdTMUFZMjR2enBqVHRLY0pyRTZNUS1jWDJUdkpydW9CdHE3a3R5NWozNlctVlE0Tmh3RHByYWd5SmFreUlpMXlyVWszN05sblRuVVhHekV2V2J6ZGNHdVROS29TQnN3R0tLMXVXQUFvTkJla2RKRjM0TmRIOWFDeTZCNzUxcV8xUkE?oc=5",
+"source": "thehitavada.com",
+"published": "2026-09-27T04:25:32+00:00",
+"first_seen": "2026-09-27T10:33:37+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6a57c1fd693240b6",
