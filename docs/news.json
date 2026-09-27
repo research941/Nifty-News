@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T08:35:29+00:00",
+"updated": "2026-09-27T08:48:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "287b23ece1b3621f",
+"title": "APSEZ's Dhamra Port Becomes India's First Fully Renewable-Powered Large Private Multi-Cargo Port",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0RqUmR6bl9JanBVTjZpQmFjMjhVcFlUQUw0eUlBU0RpeXkySndEcm5rQzFDZ3NuQWpMZ1ZGbHpXcU81WEhpWVJ0M2JqVHdRRDIxWWFnSGIwd0RWRkU5eGlVWEFNNy1la3MxODUtdzlUZTV5bUtfQjZjQ1ZYUERSdHBndUFLRWE1V2VhQ1laeHBvRkVOSHc2ZmxudHB3bFU?oc=5",
+"source": "Oneindia",
+"published": "2026-09-27T08:40:02+00:00",
+"first_seen": "2026-09-27T08:48:36+00:00",
+"symbols": [
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "542ff5df73eddff2",
+"title": "Rashtriya Chemicals and Fertilizers Limited (RCF) Approves ₹797 Crore Purchase Order Placement with Larsen & Toubro",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80TDByQVRPbzRQV2NlRjFrNTN6V0M1ZEFaazdYY3piS1ZReGVteDBlT1ViLWNRZmdqWWQ4cUk0VHQyRDVLSEtJVGJHT0JyQTFzWEFxTmx4MnF2NHhEQ3dj?oc=5",
+"source": "EquityBulls",
+"published": "2026-09-27T08:39:09+00:00",
+"first_seen": "2026-09-27T08:48:36+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fff4aeb9aeceaae6",
+"title": "Tata Motors PV eyes 15% market share soon, targets 20% by FY31",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZENwbFFld215NVdBN0RmcUZ0UnFjSkF6SERnc2s5NGcyOS1yaW13cUR6N3EwMXFUMUVOd21iZzhzTWxCbUFPLWtEMEpicWFXNVA2QlNmZGRIOVFMNVNEeWNRX0FHOXNQb2JQUXhSQTVxSk5UeVFxNy0ybmVqX3VULUhFc3pSZW9DX3RJX3hnQ0JLb1JMSEp1dWdHOWNZbllfN3pydHJuUUg3YXhkS0M3WTI2dWI0UkHSAbcBQVVfeXFMT2RDcGxRZXdteTVXQTdEZnFGdFJxY0pBekhEZ3NrOTRnMjktcmltd3FEejdxMDFxVDFFTndtYmc4c01sQm1BTy1rRDBKYnFhVzVQNkJTZmRkSDlRTDVTRHljUV9BRzlzUG9iUFF4UkE1cUpOVHlRcTctMm5lal91VC1IRXN6UmVvQ190SV94Z0NCS29STEhKdXVnRzljWW5ZXzd6cnRyblFIN2F4ZEtDN1kyNnViNFJB?oc=5",
+"source": "Storyboard18",
+"published": "2026-09-27T08:31:01+00:00",
+"first_seen": "2026-09-27T08:48:36+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "eca215e1db6c038d",
 "title": "ITC expands dairy business in East India, bets on value-added products",
@@ -1928,6 +1978,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "77cbe401ca1e2b3c",
+"title": "ATM Charges Waived During Sept 28-30 Bank Strike: SBI, PNB And Other Customers Get Relief",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFNSVXlDYU1aZ2haM0t1S2hoeHFoSzE0ZjJSVFpteWFDYnJTVnRDMXVKVi15UEtjQlN3RkJjUWxQYWY5MXZOV0I0cFVpMFRrVFYtWm15R1Qzcl93al9rVS1BM25wUmZpTkNFTmpjTi1OTWQyeVhqb0pubVlRVm9RajZpRy1rTWQ1NWI2MGk5X3ZBWjRLRlBSYWl2SDhMdzNLakYwOHQ0V2pEa0xrTEZUU2tR?oc=5",
+"source": "Goemkarponn",
+"published": "2026-09-26T11:25:09+00:00",
+"first_seen": "2026-09-27T08:48:36+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
