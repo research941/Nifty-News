@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T09:47:03+00:00",
+"updated": "2026-09-27T09:57:06+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "914a391c7da640ac",
+"title": "Bharti Airtel Says It Blocked 1.62 Million Malicious Links Across Mobile and Wi-Fi Networks",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmxpYXlNYW1adXBZc2ZWMmd5TVRlYlhhU01rb211UlNnbFRFWXFHdjFOc1lJVzJVZTJrTHpXcVUwZkVGSFZOWW52XzZWbVRlQkRUNXVZX2JCVFYxU0Y1Q1ppMWxrdk1HdkRjZVVocUlqR1hQNkVKbFFFLXlITmtYdEo5NFl2clU5akNTcTdsNA?oc=5",
+"source": "TelecomTalk",
+"published": "2026-09-27T09:44:31+00:00",
+"first_seen": "2026-09-27T09:57:06+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "090eb6aa305cc2af",
 "title": "Maruti Suzuki WagonR Facelift Launch This Year: Check Expected Features And Specs",
@@ -1052,6 +1068,22 @@
 "source": "business-standard.com",
 "published": "2026-09-27T05:25:15+00:00",
 "first_seen": "2026-09-27T05:46:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10c448b8df41b5ce",
+"title": "Adani’s Dhamra Port runs fully on renewable power",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaktWOV9BeUo2dnhYdVRFX3FWbk02Y2Exb1hiOE8xdXB1SE9wR1pNb3V5cW5sc1RGTHhvS1dkVG1RM1k4eUxkTTQwNWQya21ZcURuZXR4ZnFlemNwRnpGRVBMM1lBRDFETEN2T2pwV05EYTFqbTMtNFNxMjI3bHVlc28xQy04Qk1MVUlIVDJhUFBNREp2YWNPOUZBVlJSVDZVOFg0QXRTazR1Z0tOZXVFcGFwaG90YmVKQ2xvUjhxaWNNczFMNlHSAcYBQVVfeXFMTWpLVjlfQXlKNnZ4WHVURV9xVm5NNmNhMW9YYjhPMXVwdUhPcEdaTW91eXFubHNURkx4b0tXZFRtUTNZOHlMZE00MDVkMmttWXFEbmV0eGZxZXpjcEZ6RkVQTDNZQUQxRExDdk9qcFdORGExam0zLTRTcTIyN2x1ZXNvMUMtOEJNTFVJSFQyYVBQTURKdmFjTzlGQVZSUlQ2VThYNEF0U2s0dWdLTmV1RXBhcGhvdGJlSkNsb1I4cWljTXMxTDZR?oc=5",
+"source": "ET Manufacturing",
+"published": "2026-09-27T05:22:53+00:00",
+"first_seen": "2026-09-27T09:57:06+00:00",
 "symbols": [
 "ADANIENT"
 ],
