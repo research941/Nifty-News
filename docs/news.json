@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T19:57:37+00:00",
+"updated": "2026-09-27T20:20:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "ebfe9f40cbeb1110",
+"title": "19,000 take part in Spirit of Wipro Run in Bengaluru",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBmYkVkaUxJVE85Mjd4VlBHYklkcVFmM3A5M0swNkN4Yzloa0VSZUFRRElzNk9xbjV6Qk9pWkprbzhlVVMwdDk1SEZReUV4VXJSRU1NSWItUnFRZDRRS2hFQkVJdk8wekdyVjNvTS1mb1BBa2JEQ2tteTQxS2o5X3djSHYzS0x3ZU9POGluanFxcnFZaUc5eHFDa3JJcTVmTlBhNlp0dE0tbXlta3FlRXhYekg?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-27T20:09:43+00:00",
+"first_seen": "2026-09-27T20:20:20+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "bacee8aa70d6bedb",
 "title": "Inadequate water, congestion on route mars Wipro Bengaluru Marathon",
@@ -1135,6 +1151,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1beb8ef9116567cd",
+"title": "Infosys files Q1FY27 consolidated and standalone auditor reports",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGJvY091aTlqRjlXbXJ1b0xaLUh0NFFYYWwtSy1tOHJIMXUtUXdZYTdCYXFVbm1Za21KSzRDWHhLVzZFLUZTclk4LUJubXRqaEhjVGVjZEVnTUJjdDdHTEdveENuUHZadmRtNDVqb3lLZ0dacDJfU085SUhKVWp0SXloTEZMdGtWV1RpSThLS3NweGJEeVpJSHhGdlA5Z1FjOXZpMk1Ud2J1enNvQmh0T19CVVdXYXQ0X3RRT29SeUFxdnB5cXc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:48:42+00:00",
+"first_seen": "2026-09-27T20:20:20+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
