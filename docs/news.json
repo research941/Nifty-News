@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T12:24:34+00:00",
+"updated": "2026-09-27T12:49:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "936fe4d50fbaea9f",
+"title": "Titan bets on premium watches as automatic business scales five-fold",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTA3akZ4VmtZcHVwNTNIVzlBRXd3b1JMbDJ4TUcyNUMyQlE3U2xqNE9CZXhvMHBpQXRJR1BaOWRMQnZhb29Xb19NQTJpYlNXOU9MM2ExR0tBdExSZUpnTUx6NGVXMW9YY2I3R2tlVFFNQ0F0R3VDdE9xZU5Oc0tvSzhfTFNuVVFDMllSTFBqaGh4RENlYXNGb3FqelZ6WG1SSVFxRFJQVUJpMHpPZVdmSHQ0Z3ltU3BzYTIycXRCYUtLUlNneUdOeDNxeG9ZamRk0gHXAUFVX3lxTE54dm1mRWN0UXRuQk5GMkxTRWRtRmZvMlZSODJnbEZOaUdSVmNIVjlQZ1lER0tfVmlFbm1NX1ZseFROOFlGandFcUNJQjcyZ3BJbWNRT3EyemhNQk12cklsR21CdTRBTnh3VjBwWGphcjlaelBJVThiZUdzSG1JanRPSnE5eGdwU21sWFUtRS1lYlFoWDYzTnRURzJ4TV9JS3pucHBOaHZoWXo5LXlnZVVsWUlQXy1nTGlteVBQNzR4UjVITFBobThDYjRrQ3p1VTNlU2pTakUw?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-27T12:41:06+00:00",
+"first_seen": "2026-09-27T12:49:47+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "36ff88affaec6d19",
 "title": "Infosys to move one-third of workforce into specialist roles",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2RaZGZTRzZ4VGZzY0pnNXlZME9QeWFkOHNPT0JIWWZUY3gyQURQSmVZRFliaDBvclRDSkRGMGxUNWtZMUZ5NlZ0NzFJUVN3Zld1NkxXMWw1TDlwaW9YLURfVEtzV1ZQdnlSR3kwZEhzNkRpcUtsVGVTdE5KZHhWUjhNM0d0dDNlXzd3SnRVY3BmV01PaXV3RFBMUEVncmxFZnQ0LTFoMzZmc28tVFE?oc=5",
@@ -527,6 +543,22 @@
 "Rating"
 ],
 "sentiment": "negative"
+},
+{
+"id": "8a83396498e2ad91",
+"title": "NTPC, EDF TIE UP ON LOW-CARBON PROJECTS | The Business Guardian - newspaper",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXNEc1RVY3BOU0V2WmZpRHBmUzJvVWVVSDBjQXI3eGllWUoybG5ITVk4WGhVT2F2UmlyLW9fbVBham15SFFBVXVJMzZSMkZ4clZ0NVFvTGE0bktZN2RUTGZmcmJuWUhUTkJfUXVwR3lsUkg3VE9UV1FrUV9oQVpETWJOT0FPMWltaGdyTnF3NXFkdmxMcG8zQk5Bby0zaDhDLTVZ?oc=5",
+"source": "magzter.com",
+"published": "2026-09-27T11:38:33+00:00",
+"first_seen": "2026-09-27T12:49:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "05ab15e55127ddfd",
