@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T14:57:27+00:00",
+"updated": "2026-09-27T15:19:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "4802dcf5faa149f2",
+"title": "World Tourism Day: Odisha signs MoUs with SBI, ASI, Kayaking Association to boost homestays, adventure, heritage tourism",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVmZieFBRM0dnNjFYWm5TZHlpelBIRTQ0M0NpSFRKUUZObV82X2lGaGdrVTJiTE0wZXlVZzJTQjFRMUhGMllfLXdTSmk0V0dzdFBQRVNxTVl3N3d4TlhySWFZWWpQcXVESHpaTVVZdllVaGxsR2Z4aGprWVJTVVJ2VC1WekJwOEdzalZSYXUxZUJLOHB4WmZOeXVzNk9YX0M4VXFFdndMM29lQ1pQY29GSzFPNmZEZ09YRUdVelRxY2ZyMXROWVpBdzVnVExJNzhVSWpJZF90UnRaRm5ReHVxRTM3eHZsaTNVSDBHZEJLMEdEV0tGTm5CV3JhZnQyUE16MHfSAYcCQVVfeXFMTzFULS1UaXZOWng2dXFmNXkyWGEwSDk0LWFkTTlCeGduazNUclFhMmpRaTB6U1phaTJObEU0cmVleWR5Tk1FMjY5R2ExZldDamdNemVBd01fX0pES2pnbGFYWnBDcWtoYkM5WU1sRmtUeEF4VzNfeVB5LTBRLU1tVTk5dmlXR1Npc0RJX1UtczVXQzZ5RDd2bmRMSktwSEpfVDVyVzVubklLcnVrNWtwMVBlSDllalI1WEQxbDR0b1JxR0NzbENJX1dXODdUWmdHSDhKZ195RDV3cDh5MlFDTDM3REgtT0xqMVdqVEU0RjdScUdSVUtxV3FTZWtvSWZsSUd1ellMNXc?oc=5",
+"source": "The Statesman",
+"published": "2026-09-27T14:45:00+00:00",
+"first_seen": "2026-09-27T15:19:34+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "9548c3def3ea80ff",
 "title": "BITS Pilani team dominates Hyderabad round of NTPC Electron Quiz",
@@ -1036,6 +1052,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ae0e3e395c1b619d",
+"title": "ITC expands dairy business in East India, bets on branded milk, value-added products",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGpuOXdVMURBNzBUMmpIUUJCTkN0TnAxcXRMUmhkaERDR3UwVlpxdDVhSWxGaHJGcmRheHJQMWh5VndNTldTSVZ0cElnTUlnTE9KTWgzN3RRb1pNaGxzOVlWZ1VNSHg3bE1KcGp1SlExcklnOWFuMnFCZXR2SFVmQ1JWbkdfVmtJb0tDLW5nUUM4MHY4eldSS3hPblNBUnZOODExaWNKdGJZRExhRnNFTWJuZWcxUFRXOWlSOWZrZ2VDSXhjbFhOTTBEaTJhNzRCeVBOeE5JLWJPeVVkaGFVZzBWTFVhVVM1UXNPbl9XS2kwSDdpVFhmTXlDb9IB-wFBVV95cUxNRGpuOXdVMURBNzBUMmpIUUJCTkN0TnAxcXRMUmhkaERDR3UwVlpxdDVhSWxGaHJGcmRheHJQMWh5VndNTldTSVZ0cElnTUlnTE9KTWgzN3RRb1pNaGxzOVlWZ1VNSHg3bE1KcGp1SlExcklnOWFuMnFCZXR2SFVmQ1JWbkdfVmtJb0tDLW5nUUM4MHY4eldSS3hPblNBUnZOODExaWNKdGJZRExhRnNFTWJuZWcxUFRXOWlSOWZrZ2VDSXhjbFhOTTBEaTJhNzRCeVBOeE5JLWJPeVVkaGFVZzBWTFVhVVM1UXNPbl9XS2kwSDdpVFhmTXlDbw?oc=5",
+"source": "ET Manufacturing",
+"published": "2026-09-27T10:09:10+00:00",
+"first_seen": "2026-09-27T15:19:34+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9754462c9cf14902",
 "title": "2026 Tata Aeris vs Maruti Dzire: Price, Features, Engine Compared",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZ9IBjwFBVV95cUxPVzk3R2FfUEFyakJ6Zk9kQlZBV2x4VWJVdVhlVzB4OEVmLUxpYTZwLXJQZE1Rek51MU9XTmVQcV8zZTRkbGU0Nnlqc2hCWTdQdUNtb2M5TFZTdlN1QUN3ME5CX21ZN0s3Z3NDTnhnbmpySFBkVnpoRlFwV3VmdFZkcUhpNXVYa3oxY2liTkVkZw?oc=5",
@@ -1504,6 +1536,22 @@
 "source": "The Economic Times",
 "published": "2026-09-27T07:28:52+00:00",
 "first_seen": "2026-09-27T07:33:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "357ec201f7e074dd",
+"title": "POWERGRID Board Approves ₹10,000 Crore Unsecured Rupee Term Loan from State Bank of India",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDZyYmp1OXZlaUc0d3Q5emRXUEo4bkg0UUJaeFlyZlVBSWpNb1B0QV9mVW9DRmRtMkhOdEhPSjg5OHhXbk1PMXo0ejZhN3NWM1hJQ2hVa1VYdVhaaE92bUZPMVByZExEQzhZQ2R0cnpRQmcxM0Vnb21uZE9vM05ETnJwdEQzRnlnQ0hsSlF4aEFfX0puX1RzNW1wY3oySlA0VGhEVXdRZEpENF96YjQxUV94enYzaUlldktaMGc5UlFRcThxT3Bmck85bHnSAcwBQVVfeXFMUGQ2cmJqdTl2ZWlHNHd0OXpkV1BKOG5INFFCWnhZcmZVQUlqTW9QdEFfZlVvQ0ZkbTJITnRIT0o4OTh4V25NTzF6NHo2YTdzVjNYSUNoVWtVWHVYWmhPdm1GTzFQcmRMREM4WUNkdHJ6UUJnMTNFZ29tbmRPbzNORE5ycHREM0Z5Z0NIbEpReGhBX19Kbl9UczVtcGN6MkpQNFRoRFV3UWRKRDRfemI0MVFfeHp2M2lJZXZLWjBnOVJRUXE4cU9wZnJPOWx5?oc=5",
+"source": "psuindia.com",
+"published": "2026-09-27T07:23:46+00:00",
+"first_seen": "2026-09-27T15:19:34+00:00",
 "symbols": [
 "SBIN"
 ],
