@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T05:46:19+00:00",
+"updated": "2026-09-27T05:57:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "57caf35af1b60950",
+"title": "Adani's Dhamra Port becomes India’s first large private multi-cargo port to run fully on renewable electri",
+"link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOWVkyUEpfX2JULVdiY0JkaGdqQnV2QVBVTmNBLUNpQ2lBRE5XaTEtWjUzVUp3MjNZVnlOYzhJVXRyVGZfWkRzc2RncElnR3REeTQ5UzRSWFhqVWZ2ZGhad1ZudkVRT1NlWXh5QWNLMU90MDlaa0hSSDhET1FaZHN3SWd0YlJpaEZGN1V4RmRWMkJHUXFSYzJ4elRlamEtRDllMjBkdWJuenRvVFZ2OXVMRlhqY0pqZ3RLbnZONTlYWlBwN3lsWFdaM3JTQTRZeWNRUjFBcEp0dEJmcDc5SzFPbzJNSnhHeG9BWThlSmJudHNSakZZUlJ4amdZUUhUZzcwNjRqdXBxQWl1dnc5bzVqcGpjaHRKTEpLc3FYOUExbE1na1RnbldyYzlQUWQyUzBl0gG2AkFVX3lxTE1DQ2pFOE1CcVA1cDFTWklwYW05U3A5Yno2djRTdWNUYlN3R1htMEFHQXdfZ0h5dzkzcmd4ZFd6U0lLXzRhVXNOUzVtNWMzcmRIYmRfazA4bUo4UG9xV2xyTUpGNDNlR2V4RTNMbmFQU01fcmZaaWJGbE94bmdLcmZoTVZrX2ZkSThnbzNSRUN2QmJWZjFYOExacHZ1MXllelduYjVOdXZHY2VCZTZRTnJjNlNHam0tNnAxeXA5SVl2RVZrYlFVdk1qYld2NHB6bW1scm9IeGZSTTZ0UWFvWG9YTFRSMXppeE1wOHRrczZGOWw3NzdaRV9nMGEtSjdrcHZmOFp0SEZjcGZPRG9EU0J3ODJDN2Z2LTRZX3VHZ2dkeEI0OWRfV285ZWR0Ry10NW42allJZlE?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T05:48:41+00:00",
+"first_seen": "2026-09-27T05:57:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "96a729f1d0739607",
 "title": "New Maruti Hybrid Cars To Offer EV-Like Driving With Petrol Backup",
