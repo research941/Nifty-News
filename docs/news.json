@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T22:34:46+00:00",
+"updated": "2026-09-27T22:47:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -558,6 +558,22 @@
 "groups": [
 "HDFC",
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a87d8ac7fc38b796",
+"title": "Jaguar Land Rover Dealership Now in Pune",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFJLSktGMXp3V18wZVFTak8wM05ucTFzMzZlWXQ1cFZEUlBXZXhiWGFrRm5mX20xU2g2UkQyNzBlMjNaMHNzeUJLODdXaFRLWHQ5b3FQS19CNlBlVFFtOWZlTXh3SEdFM3duNGVGLU1yMTJ1RjZrR2c2a3MtNGxsZTI4U2FwZFZFcTFyNVJXOUTSAZgBQVVfeXFMTnF2U2RfVkVwYm02d0R2WWlKWnotNnpTcXVGSnpaeDJBQ3dUa0JrZHVNYXpsY2Y3bWl3alNjQTJzd3prbjc0TTgwbFg5Uko1dTN4NXBRbWd3SW84S0tDMUVaenF6a0FpQ3cweDAwUUFybjBkQXNTQjhpbGt2ekpJYkxTeXNsdC1vUEVZaXJiZ1VaTHpONGpiYW0?oc=5",
+"source": "CarDekho",
+"published": "2026-09-27T18:10:39+00:00",
+"first_seen": "2026-09-27T22:47:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2087,6 +2103,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9a7866b3898e3ebd",
+"title": "Bombay High Court Allows Leave to Combine Infringement and Passing Off Causes of Action in UltraTech Trade Marks Case. The court held that under Clause 14 of the Letters Patent, a plaintiff can combine infringement and passing off claims when both aris",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VSUQ4WHVVN21TY2JnVXhRXzI2VVRlNjVmRXJrLUd3ZlJuUXpWNGZ0aDlTQXExTTFZQXNla1dkRW1qaTRlbTRJejRnclprVVc5dW1fREt1Q0x2aGI3NWQ1Y1NoUmRqTzhM?oc=5",
+"source": "Lawtext",
+"published": "2026-09-27T08:02:35+00:00",
+"first_seen": "2026-09-27T22:47:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
