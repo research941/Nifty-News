@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T16:48:29+00:00",
+"updated": "2026-09-27T16:58:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -451,6 +451,22 @@
 "source": "The Financial Express",
 "published": "2026-09-27T16:05:31+00:00",
 "first_seen": "2026-09-27T16:20:49+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e341f047aba495d0",
+"title": "SBI ATM rules change from October 1: Salary account holders to get fewer free transactions at other bank ATMs - Details",
+"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOczRrM1BUamtDM2g3bGo0RGRLems1V2JWbnIzdTNlNFJqOGFHVGRFcFB5Z0tlR3FDYkpBTndrQUFxTEdRanI2X2pCY2hjZll6M0RuUVYtSTk2VnQ3REw5czJwbU8tVm9SeEd1QklKdEVIX29KWmdEZ2tWeFBHamJPMENGSnA0bmdXbEdpNTRXSzlSeWdOX3QwQ0g1a2JPOGFUUWRkN2N6aFJBVzBUTUUyVEJZM1pIbTZIcUtnaTlueUdka1pUM3pBY2RxZmV6YlE3aDNZWkw5enlXTFc3OU5xcU5HUUxtZ3JyQWV3eEdTZkhqcUFVLWY2M2kzZ1RLbEp0dnl0YXNTSS1FRV9wS3JFdUYwSzlOd9IBmwJBVV95cUxQS2VjdXVOemsyY19HX0xPNzZEeUdIQmZhRDFGQ3NXakhIQ0lTc2xGOFVtYm9UU284ZzJhU2Rvbi05RW82S3RoMnA3X2xaOUhJZER5TTE0S3J6ZnpheWdTX29pSW5wbXBRYlRhZkJzeGo0MVBfal8zOUV3STdxbTEyYTRWbllqczZEVElRUzNIdy0xNDV0WHBBSk1NOEtZazFBYTBCNXNzZFVnSlZEQXZDZ1d0THZmaTFfUkhya05XZ2sySEhBY1U3aUYxbDg4bFdfT3BhbDlUVTZDOGdUbVVZd2dKLXlFVkdwNXd1WGFLbEJpODB1Q2VxMFZLUGdfQnBSSXJLTGluRjlvZng2RGxVdzR5cWhhSGFHbjlN?oc=5",
+"source": "ET Now",
+"published": "2026-09-27T15:35:56+00:00",
+"first_seen": "2026-09-27T16:58:40+00:00",
 "symbols": [
 "SBIN"
 ],
