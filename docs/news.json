@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T13:57:13+00:00",
+"updated": "2026-09-27T14:19:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8a75e4ffe1d37897",
+"title": "Trent McDuffie, Patrick Surtain headline Sunday Night Football matchup",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUwwR3p5QjNVX3VoaWExUDg1dlBwSkY5ektua204QW5RczRQLXhwU3V5aVpqVDJNLU5zbGxoZlk2VFhDbGpVRGI0RkE3M2lIM1Vnak9kNGRFMXBGLVo1ck45YW9GTUJLcGpxNDU3TjBwMFN2aGxMZGhjNkE2OTBET1ExVmxQc1RFRDNFek9aajBKaDdmdTBYemdhTUp2c2hkbEhmaThZZzd2bzFQUnpYN0N4dkE5Wmh3VjJQcnJXNkNkcG9CbGk0?oc=5",
+"source": "turfshowtimes.com",
+"published": "2026-09-27T14:15:00+00:00",
+"first_seen": "2026-09-27T14:19:11+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ba409d145288b4d1",
+"title": "Chainlink Price Prediction: LINK Revisits $14 After Infosys Deal as Remittix Targets Its $0.46 Final Stage",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQ1dILXZEeHlGeVJTT3hUUXhHV3JDOGd5ckhaaEJnUXZMVkE2d3pwOTY4MHZnM2w3UmtmQzlhNTh4SDhpSGdTc1M2eUdTekh4LTZZdjFUUTAzRVRzS1lsMUNoYXA2QzNBTVQzdXZsTFJFdVEzYzVCM3V4aVE4dzFTdFJUMkF4RWhkcmFUN2RlR2RaU25UREtMbE9sYXBONnRXY2ZXcFk1MHNWNDB0cDV6UUt4VFIzNm1xZ2xEU2ZiYzRCUEdoTF9yM0dDY21LQ2xPS1FFVGk4UmhnNHdhUmJWaGY2cFV1Q0E0allSd0FUUkZ5WjJGZ2FwcFV5N2M2dFk4THc?oc=5",
+"source": "StreetInsider",
+"published": "2026-09-27T14:00:38+00:00",
+"first_seen": "2026-09-27T14:19:11+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "3bbda6773b03304a",
 "title": "Bank strike tomorrow: Full list of banks facing work disruption; will HDFC Bank, Axis Bank, SBI, PNB & ICI",
@@ -1241,6 +1275,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "397178b2f8e0af93",
+"title": "Adani Power Reschedules Q4FY26 Earnings Conference Call to April 30, 2026",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3h2WGZ0ZXBPM2E4bU5WNmt6ZF9sN2dUV2xoSnh0S1VFVnlpSkZFalFGLVN6em5xdHJtd04xVTlGNG10dkJQWWhsRTB2bUJOZnkxM2VGSUVoTEtCMGUtLUlQVlVfd095SnJjT0RuZzB5TVRWNUlBQ0plSldsSmhMN3pyVU9acTloaHprTnFkZ0pUU0RjV0xrN1NDTDBNbUFDcVd4MVlZdDRRbk5ETkUwTlJhc2hZQmE2THhKbWtjbC1HVC0zcVM5azg4Mm9odzZCbGc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T08:36:17+00:00",
+"first_seen": "2026-09-27T14:19:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
