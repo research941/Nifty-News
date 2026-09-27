@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T06:50:05+00:00",
+"updated": "2026-09-27T07:01:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d5f22bc6ae308a3c",
+"title": "Mahindra & Mahindra weighs SUV price hike amid rising commodity costs",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzJIQ3lZbFBCVHZ4YlZkXzlaQnBTX0MyRWYwMEdTTWx0c3FySVhMcGUtQ3RUNHdTOG4xb3dEV3puamZtblE3SGw1Wm1oNWFVVDVVdEFFamtoSnVVQ1hYOUJiRGRHTy1MLUROQW5aYjBka21zNXp5b1I2V1pUUEFLT2lLWGp2Xy1wa2d4OHFJdVZ6Wkt0R2pEc1JkSHZ3bTRnSEhPRWdsam1BU0xJWks5UWRGYTd2Z3d2RkV0bUlnNzFIbWFvRVFlXzln0gHQAUFVX3lxTE9UVGdUTGRxMVZ2VGQ0TWIyZTRSZzY5b2FQOWEzV0NoUHZob0lSbkJBLUROWWt4OFFPZDNEWXp3d0poRkpvbEdBeEh1V2FsZnB3MUxoRWZ5UDJHczNtQnpCbWFreVZCSXNFRXdkV3J4dzJPNUlDdWxJTXRLUVFlZUp4YllUS2hzMkZaT3RRZzF6MUxKWG5aYzdyRHUtdEpLWk9zWW82NkliTW14UVl4TURxZWk4LUJReFU3NTYwM0NBU2lEWHplSExSLXJadlJXcGw?oc=5",
+"source": "The Hindu",
+"published": "2026-09-27T06:48:13+00:00",
+"first_seen": "2026-09-27T07:01:08+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "dc8c60b1b43ecae6",
 "title": "B. Sairam’s Coal India Reset: From Production Giant to Technology-Driven Energy Powerhouse",
