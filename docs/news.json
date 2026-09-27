@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T02:20:42+00:00",
+"updated": "2026-09-27T02:35:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "6066bfd1a361a5e5",
+"title": "Bank holidays this week: Strike, national holiday — SBI, HDFC, ICICI, PNB closed for at least 1 day from Sept 28-Oct 4",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzBvYzA2RGJDQ2lHNnVVQkNYcjNBN2RObWdjRVEwdGJYcDNyYV92c0M1d0ZvckFQV2gwUlE5eWJjQjJZVExCRlh5YmllQWtuR1pMcUI0MFAyV1J6MGtfc3RNVFpBbXZlWll0NnVHTl9LRzFyQ3dIS0pLN2NQMm4zOFRteU9mNEd1dndQN003OVQ1blR6RFo4Z1pUbWZRb0NTNnU3c1p1bGxHcjY4VHVZc01HOHNjQ0VCb1NBZXhHekRVX1A3Q0lnZ0IwYVNFWWJqQUk0NUs0cGgydVV5WDRmeHNjOE9pa3NYc2VLaGlfUVFnSjUxeUlSM0FZazRVdUVQYnI00gGIAkFVX3lxTFB4TXdRWk5fWE5NYVdud1BNZHpkbWU1R28zNktKaGVid0pCczhKbE8yZ2N6aXB5MXdDcm4wLVFFeWhTdWdVMDZJU3k2ekRPVVhoZ0toUTBJOEV5eDl6bDJMb2p1bkkwT1dvcDJLOFBCbmZkc3lRRXM5YS1TUHN0cXVuaUVYdXdYMVFfbWs3YmlEbmhYQ1UwdXBJTEozSW9PNnZrR3JBYmp4OUV5Z3hheU12VHBXaUNUZ2JKSXl3amEwazFZdGk5NE81OHQySl9Vc1hNZzFEYUotT1BJVzhucFJZcWdDSF9rdGQ2OGNtTWNQQV9zcl9DLWhHYUo1QkIyVWRqOS1rbE5DNw?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T02:25:29+00:00",
+"first_seen": "2026-09-27T02:35:30+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5989d46b3a436718",
 "title": "BMC turns to L&T to fix Coastal Road CCTV blackout | Mumbai news",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkFkaUx1R3BpLWxsdloxcV9Fd0k1VXdGaFp4X1RkbFdPd01pUDVSWHRNVzV1Qk1iZFNMMWpORGVSd3pGNWVFWGxpQ0R5Q05UeGZiN0psY19fNVU3TUdYcjd6cnFZWU1ROF9lT19abnlzLVpiQjhreFpmZVpUcWpaa0V0d0IwVDc3aDdMNXVVY3VfMlJZZGIxOXBXbkNSeTBJbnd3ZkdhRHFxZFc1TVJLMDl1R0MwOGhvczJseDV30gHDAUFVX3lxTE5KaHFuZEhvRDJJV1pLNm1VUXhTVUE3Tm5TNHluS2tzTm1NeGVVOHlKWWR0eGF5MkhYT1JNYWlxaVlvRVhxMTFpTjdacTA2dWw3a1JMV2hyQWJ0cFZoX196Yzd4SlNJVDVPWXQ3WnBjanc2LVB1ZjQ2cWFRVXpvLXQwZUQwbkV5SDVZajdlUmtMNXRDTm9veDFjNWJuckVHbWthd20wYjdTR0RORXpVZFJOSHVsMHhqbXRJMmpXQzNJZlZhNA?oc=5",
@@ -499,6 +515,22 @@
 "source": "Cartoq",
 "published": "2026-09-27T01:19:33+00:00",
 "first_seen": "2026-09-27T01:33:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b1a298f8ddabe740",
+"title": "Tata Aeris vs Maruti Suzuki Dzire vs Honda Amaze: Monthly EMI comparison",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2dnUjR3QzczejdaMHNyTS02NVd0b0hBQzdfOGwtdmFpQXR5R2FUMjJLRGRreV9RS2x6QnV3T2EyeDVVUkIwcXowakV5T2tWSHA3am1STm01Yi0wSENudnJuSG9hcFRqaTZxMXhLMll3aEVEZWdBM2pXeE9VVzJKWEhFMEVYNklNSlhrUS1RdzlVZ1hsMTN5anVNMGJKaFh2WEZHTS1xejk5MFVBaXpyLWdpTUhEb20xRFF5UnJZQmRiUXloWTV6RlYwb2xiNk82QUxj0gHTAUFVX3lxTE5LZ2dSNHdDNzN6N1owc3JNLTY1V3RvSEFDN184bC12YWlBdHlHYVQyMktEZGt5X1FLbHpCdXdPYTJ4NVVSQjBxejBqRXlPa1ZIcDdqbVJObTViLTBIQ252cm5Ib2FwVGppNnExeEsyWXdoRURlZ0Ezald4T1VXMkpYSEUwRVg2SU1KWGtRLVF3OVVnWGwxM3lqdU0wYkpoWHZYRkdNLXF6OTkwVUFpenItZ2lNSERvbTFEUXlScllCZGJReWhZNXpGVjBvbGI2TzZBTGM?oc=5",
+"source": "HT Auto",
+"published": "2026-09-27T00:36:58+00:00",
+"first_seen": "2026-09-27T02:35:30+00:00",
 "symbols": [
 "MARUTI"
 ],
