@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T16:35:25+00:00",
+"updated": "2026-09-27T16:48:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1081,6 +1081,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ea8f2282e5e548d5",
+"title": "HCL Technologies Files BRSR, Schedules 34th AGM on August 12, 2026",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYXF3bU1DSTNNMlR6VEk5TDIyNVdHYUhxVndQRVNBVVB2ZTBWT3k3bmNKZGQtbVRBOGVKRXdWTWF2aDJRNzZ4R3R2czJaSlZFWU5oMHBOQi13MGJMOVFOWU9rMXk2ZmJISXk3bFJ5bENRamN4WXU5MUlXNTFVMG51cnQxVFRNNEJrNGI2VjNuVkRiazU4V0xTdENfdjk4M1BQRDFnX0NUMmpaS00tWng3SGVrRFZXdktGcXNDYzlWN2tqRnh2X1pxSVhXV0c5X3Y4VUtnbk9DTmY4aWpT?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T10:49:02+00:00",
+"first_seen": "2026-09-27T16:48:29+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
