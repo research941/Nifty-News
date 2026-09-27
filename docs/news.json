@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T09:34:03+00:00",
+"updated": "2026-09-27T09:47:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,12 +445,46 @@
 ],
 "items": [
 {
+"id": "090eb6aa305cc2af",
+"title": "Maruti Suzuki WagonR Facelift Launch This Year: Check Expected Features And Specs",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFhna2RjQWxfcF9KQmdLNGtVUUdNX1d2X2MxempodmgtT2VpRkxhS3Y1SU1kMFZkc0c3bFhWM0dRY3lmS2hiMWtFOC1lUUdfb01NYnFxMUZ4bGhwX1IyWS1iS1BPQkJJbERJc1FmYVFuWE5OLXRLZlR5bVhTdkZkb2NJTW1DVlJ4cm10WjY5dmNqd21yV2VRRm16dFRYNlRneDRkYWUxZkdfOUpid3E3WE9CUVpSVFV3bW5vOFJrVEVwbThZdkZ4UTln0gHQAUFVX3lxTFA5SWEybUM2ckdENjZ5RW5iaEtncVQ3Y01OTmNlTmx0U1B1akRSbm14U1hMeHNMNVgxbmwzWmg2Y1J4WlJtd014VmFldFBWeDE0TmxBVklpcV9ibGJ3bmVzSHlzWWhiNkFxSTJyemlkOHZQRzdSd0tvdUhwNWdROW91dm9yYm9MejlnRUVZeWpBdTlNQVBUckI2Tk9ldEVtRWtPVlYtTHVFTXlRSUZEc0hQYWlHa0hqSWtacUVmU1JJa2pxdkM4VDliR1BSMXdDbU4?oc=5",
+"source": "The Daily Jagran",
+"published": "2026-09-27T09:29:00+00:00",
+"first_seen": "2026-09-27T09:47:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8845726aab0c6147",
 "title": "Top stocks to watch on Monday, 28 Sept and why: Adani Power, SAIL, BCCL, Power Grid, Cupid in focus - Full list here",
 "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSHplbnpzNVNfZGY0LTA2WUU2ZkNFZzUtbFFsZ0hVWFFkR3hONmZYVEFIM1NTNWliTDhpUjBEUHVGN1RPM25aWm1VMTlpUm9uQUNOZU80anRHN1A2Y0N5SG9NYlp0aG1DRzVKZUlQdEhxOGlrUWRfbk1MVy1IZjR1M0VCVDVtWDFwREhYa2R0WmVSc0pST3ZWYXhFZUNaS3FaRzFWbzlsZk0xT25URTlXckpxWGFkZloxbTZ5WXY4UGUwbFVEQllBNjJQM0loVllxcmM2eTI1N2JiQTZsV3N1SnpyV002dmlJSy1Ydm9aX2kxVTQxQUUyODlVTnpBU1pKZC1id29tUTlXZ9IBjwJBVV95cUxQVTFYbDB6YjlzdGtqNUZSekhxWmtZMVR2c054X1FjRzlpRUUtaW4zWFBocERNSDVjeUJRWE55SVJHVGVvWXJrYTVxNnRyOFVjQ2lKV2NPbWhCZUVqbnZ5SS1PVmxlVlV4aXd0bDBEdks3M1liakZRb2Z5VEs4aWRjNXk5azZiNTVxakpIa3F2T0g3d3M3RzVmTkE5bjZMVzVuY09IQi1DTWdiWVJra0MxbENHVVEwNFpMeXQwY0hGTXd6QzhXMDBtN0FCd0Q1QmdDdGtXYURMOE9GaVVBS2otSTFOMjJSeEJQWnJVdUZzNWVaMEhSa1FRUkJXUzZOX1N1aUlJclNzVmtzWW5KTVVZ?oc=5",
 "source": "Livemint",
 "published": "2026-09-27T09:27:07+00:00",
 "first_seen": "2026-09-27T09:34:03+00:00",
+"symbols": [
+"ADANIENT",
+"POWERGRID"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c532860788db8807",
+"title": "Top stocks in focus tomorrow. Why Adani Power, SAIL, BCCL, Power Grid, Cupid, KPI must be on radar - List for Mon 28 Sep",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSHplbnpzNVNfZGY0LTA2WUU2ZkNFZzUtbFFsZ0hVWFFkR3hONmZYVEFIM1NTNWliTDhpUjBEUHVGN1RPM25aWm1VMTlpUm9uQUNOZU80anRHN1A2Y0N5SG9NYlp0aG1DRzVKZUlQdEhxOGlrUWRfbk1MVy1IZjR1M0VCVDVtWDFwREhYa2R0WmVSc0pST3ZWYXhFZUNaS3FaRzFWbzlsZk0xT25URTlXckpxWGFkZloxbTZ5WXY4UGUwbFVEQllBNjJQM0loVllxcmM2eTI1N2JiQTZsV3N1SnpyV002dmlJSy1Ydm9aX2kxVTQxQUUyODlVTnpBU1pKZC1id29tUTlXZ9IBjwJBVV95cUxQVTFYbDB6YjlzdGtqNUZSekhxWmtZMVR2c054X1FjRzlpRUUtaW4zWFBocERNSDVjeUJRWE55SVJHVGVvWXJrYTVxNnRyOFVjQ2lKV2NPbWhCZUVqbnZ5SS1PVmxlVlV4aXd0bDBEdks3M1liakZRb2Z5VEs4aWRjNXk5azZiNTVxakpIa3F2T0g3d3M3RzVmTkE5bjZMVzVuY09IQi1DTWdiWVJra0MxbENHVVEwNFpMeXQwY0hGTXd6QzhXMDBtN0FCd0Q1QmdDdGtXYURMOE9GaVVBS2otSTFOMjJSeEJQWnJVdUZzNWVaMEhSa1FRUkJXUzZOX1N1aUlJclNzVmtzWW5KTVVZ?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T09:27:07+00:00",
+"first_seen": "2026-09-27T09:47:03+00:00",
 "symbols": [
 "ADANIENT",
 "POWERGRID"
@@ -973,6 +1007,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e0e2d90cba065b70",
+"title": "Hindalco Industries Ltd is Rated Buy",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnZRbi1KZy1YY2c4Uk9CcDBwNmNqcFB5RGNRSTQ4UDA1MERVRnNFZ0ZvUW1VVTF3RlRpYVBVam1tTzJLSmlwLWlaSkptVEQ3Y0V6VHdCa2JGNXJTZkhGbnVjVFRIVkl1VUNJc3M4Mzc3U25lMnlPc3E3S0VYYk1QZHB0TmdORGphSTRVdWUtdS1rOWtIcDlVamQ0Yl9mem8?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-27T05:36:58+00:00",
+"first_seen": "2026-09-27T09:47:03+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
