@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T05:33:24+00:00",
+"updated": "2026-09-27T05:46:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "96a729f1d0739607",
+"title": "New Maruti Hybrid Cars To Offer EV-Like Driving With Petrol Backup",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWZPZ0pkeGRBRm15YVYxWEgzdHBwQ3NaRXJuZURjOTdTYUtna2NrVTlsakxXd2k3WXpMNkdMVXVGQWM5aEhQUUs1RnRXZ2FzZVZoaWZ4VXEyZGU5cjNRRGhxNlNWd25OZ3pxOV83WGV3bm1vd2xVRTdmWE5QZF9tUW9WUGRvQjVNbW9BeVBYY2lYU1FhOTduVzB4MmtaVnV0VnEwMTZJMVUzNUE?oc=5",
+"source": "India Car News",
+"published": "2026-09-27T05:40:01+00:00",
+"first_seen": "2026-09-27T05:46:19+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1ced04542e8e9dd",
+"title": "SBI business could touch Rs 200 lakh crore by 2030 on current growth: Chairman CS Setty",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdEZ0RzdWNE9iQTRJUHZGQU05LWthajRpeFNoV3VITWZHR1c3d0FFSGZhSVc3UG9PVllJclh3dTVoclREblJHTW9fLWVpcEpEV2lQdklZV3VWT2R1Q3dMSnF4U1F4Z2tOdU5NcVZ2cHlfRjdxRzRCU1VIQlhrN2VSZ3F2MlJHc2JKeV84YVBsREcwUE9HU1VlUkdqMlRZWF95SmtpdDhIOWd0QnBLVFZUZnhYYVFJa1hQQVpTYU9iRElqZmVPR0pUbks3UUtYcDJ6OVgxMHl3T0NfRGNOdFHSAeMBQVVfeXFMTTFlMkdQa2xhWnk3SmJjamRFbmc1bkdfNEUxMlZXSW1Va1RXRXVtb1VoRk1MT2FMMWhwUTFIZTRRU0RLV2NrNlF5eER3YlBkWkVRMDJteTdOYlljMVduY0ZQbkRqY0lFcU9CSGNCWTh1NDNuWTJfdGtPY3lFN3lFdmlxbkY2M3c2NkZjQTlwdkJHTENuU0NGM09NWFJKaVFtN0Nnb1pZLVlkeGR2d2tQRDY4N0c4cXR3QXRod202TTIyVkNWNkxmdG1BVmktanZCWjhONnozSGFrMXJTbHJuWU40eFU?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-27T05:33:45+00:00",
+"first_seen": "2026-09-27T05:46:19+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "54ddf22a757082bf",
+"title": "Adani's Dhamra Port becomes India's first private port on renewable power",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQblp4cXpYbFJQamJDQ3lSU0gxVnNzNmJtRkxsdVRRRGpVenNRYThJQ1JaUmMtRFdqb2tYYkdqR3l1ZHloWG1DZmp3MzRkVmQtVi1uMDBBM1Zfc3ZQVTBxRlcxUm9jVlpQcG1CV3FhU1JsSS0ydnJhSTNCdVFoR1FBNzJaVGU1N25pb2NXcHlXZzBUemhwaEs3UVZCb2tQR29renVWRVdfYTRvZW5kcUZfR1NLcnhHcUs4Sng1NmxaU1FmMk5hcmtUeHRXWW9FX3g1akJqaG5IZGPSAd4BQVVfeXFMTUlMcjgtS2RveW5JVU9QbmMzY3RiMG9nT3JUSElyZ1VXc3M0b1p1bjJKZmFiQW5hYVdOSFhfSlc4anlPT2hoSEN5Y3FqcVJFdGhqa2xOOGFHTzlFS05raTZqc2NyU0hxcG1NTnM5NzU3Uy1hX0pvYXNubW8zZlNkZjd2a1dGR1RjQWhQNGxRZjI4emhER1VkWjRCQkJhZzFhS1lVZ253WE85cEZIajlLRi03bnM3UmhuYWM3dG1PeFB2ZlBGa2hvM3lSTlJlaHVQT0drMHFaVjBNMU9KOWtn?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-27T05:25:15+00:00",
+"first_seen": "2026-09-27T05:46:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "a4c51e4331419552",
 "title": "Digital first, customer first, nation always SBI's growth mantra: Chairman",
