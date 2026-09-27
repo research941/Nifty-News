@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T16:20:49+00:00",
+"updated": "2026-09-27T16:35:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -458,6 +458,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "50a58023b234bfd8",
+"title": "HDFC Bank CEO's to-do list in coming weeks: Growth, Casa, investor trust",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjVydHNTN0paVE15dWRka3JfbjFjZGdwZXNhNVhvWkJqTXl0NC0wTzVUR2t5Vy1jR0FpRGxjRU5PWkNZVmRqd3ZYZHNObHk4VmF3dE01ckVhTi1maGtHdFg2aWtZaV9KaUhoN2FtbWgweDFUcEtDbjk5R2hJU3FMMlFPR0IyLXFwQVhtWjk2N1BrSkhOMlpENHE3SUE3WmU1Yl9wRERicWs5ZmMzQ0ZYR0lHZkZQcmY3V1JrTVc3SnltaUo2RkpnTy1jSC1xSXJJUnFCNWZfbWxKQjVa0gHcAUFVX3lxTE9mNXJ0c1M3SlpUTXl1ZGRrcl9uMWNkZ3Blc2E1WG9aQmpNeXQ0LTBPNVRHa3lXLWNHQWlEbGNFTk9aQ1lWZGp3dlhkc05seThWYXd0TTVyRWFOLWZoa0d0WDZpa1lpX0ppSGg3YW1taDB4MVRwS0NuOTlHaElTcUwyUU9HQjItcXBBWG1aOTY3UGtKSE4yWkQ0cTdJQTdaZTViX3BERGJxazlmYzNDRlhHSUdmRlByZjdXUmtNVzdKeW1pSjZGSmdPLWNILXFJcklScUI1Zl9tbEpCNVo?oc=5",
+"source": "Business Standard",
+"published": "2026-09-27T15:29:21+00:00",
+"first_seen": "2026-09-27T16:35:25+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -929,6 +947,40 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8fc235c6b661f9ea",
+"title": "Adani Enterprises promoter group confirms no encumbrance on shares for FY26",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEE2SU1qR3Y2TkZhUDU3RFU1Y1lIbTAwZXQ1LVVsV29jcTdMRDdpbWVTeGZlWGRBdmJjVk5zOTlPam5meXpRaDZ1VUM0cnlnS2VXR1NlTGFuUmVzN1NsUWFGdmd5dWx6Mi03M19YTWtqbkE2NTZlNDEyYzZtSG9MaGlPclB0eklPYnpObEJHZ19FUkZ0WkdpMGJBcnJsR1A0dnVwckw2UU5sVTlfZGdYUFRDQU1MSy1LRW91WGx6NDFKMHNIWHJ1Q245VEU?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:19:52+00:00",
+"first_seen": "2026-09-27T16:35:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "60b4c7a3e26d393b",
+"title": "Smiti Holding pledges 4.03 Cr Asian Paints shares to Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JoTVVIZ0dCOHVWRzVQSnhTOXRyczNLdExiSlRVTHN0ci1UQXNnUUdVZndDbEJmMloyTUxrQWV6VWwtMVhZLU5GeDRFSlFSMXdSbWF6TUI0ZkxiZVpSb1JheEhNWU01M3RsanFBMUVqOVU0N1V5OGRzYmFuQ2YtWm5xYnpxV3A5c0FZVHJZb09sTks2UWtjMkxkZmhRZ3o2ZkJlTzRTckdaNXhUZGpLMTduUVBSdzI4VnBwaVdyYms?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:17:27+00:00",
+"first_seen": "2026-09-27T16:35:25+00:00",
+"symbols": [
+"ASIANPAINT",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj",
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
