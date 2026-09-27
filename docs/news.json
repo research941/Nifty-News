@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T12:49:47+00:00",
+"updated": "2026-09-27T13:00:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9eb62816abf52718",
+"title": "Nestle India addresses claims of worms found in Maggi noodles packet",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnJXcDRzNzJodFZyLWZEaDJXc2hFT1JvV1hTMFhIVWFFWE12MkdPRWZRS0pwcmNOckQxQVZfVmFiUnRHVDdTUlo3NnR1YkpwR0ZfOXNtOXRwdHJSc19lcTJvQUt2Szl5Mk4waUhDTU5ublpaa2wtVEtDRnNGMnVoQWhoNlRoTFJNZGJmY1JnNkphZVV3ME1qRVp3QQ?oc=5",
+"source": "ibtimes.co.in",
+"published": "2026-09-27T12:53:15+00:00",
+"first_seen": "2026-09-27T13:00:03+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d81a74ec67045a6",
+"title": "Embraer partners with Mahindra for IAF’s 60 transport plane tender, teams up with Adani for commercial planes",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSXRSak1TTjlxWlpBOE9YbmVmTXhUc2JINlZGRE1FbE1oaGdNVmYtcl9ZZnZnMkw3WXpPdUxkV2tnQktTLV9rbkwwVUJLbzNMQkVNcVZ4R1VESXFUN29ZWG5KdGQ4el9wVG5kR2lhcUIwTEotQ0tNX3VEU1ZKcTA1MEcwVmsxTHh1b0JBa0xkRk5OaEJ4YUlEbUp6Uko1LW92YjVnUzk5ZkJmbFlibEwtaGFDSTVVNWxmNTFqT1Z4S3RxeXI1N2R6UkphaENMdENQWndrRUExZXpVT0cwdXk0aml0WjhoVFd0dEJPZ0JXa1JMX2JFaDE5OXljeW7SAYICQVVfeXFMT2p2TXZIVi1lTXpmZlMzclFsRHhub1d6TGdHVy1ZdThSbDd4TmpydHpHaWE5YkJuLThhUzZZd2hpQUltQXFNM2lwTlNISUxPWnAtRHhuUUtQeFYtOGNUVDh6Z2NhcEhSWU1lN2NGZWx6bmNmblBabzZic0kwNlZQZ2NtT2xDNC1ScUhKdWIzVjBQUEhYVVdZVXlGYVBTSU11aFAzSWdUU2tZbkpkRVAzLTc1S0luMWZXcnRLOGljbzRUU3FWTWhzd1J0R29UaXI2RnAxME02M3BSb25nRHBJZmw0MjhvX2VZQl9UakhYWXhOQ1RjTGM4VUhmTnFsNFFGWThR?oc=5",
+"source": "Livemint",
+"published": "2026-09-27T12:52:28+00:00",
+"first_seen": "2026-09-27T13:00:03+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "936fe4d50fbaea9f",
 "title": "Titan bets on premium watches as automatic business scales five-fold",
@@ -1355,6 +1387,24 @@
 "sentiment": "positive"
 },
 {
+"id": "b48542f7455e1051",
+"title": "Maruti Suzuki sets AGM date, record date for final dividend",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGdjakJacXBGSFVUZmhzbzlNMHN5M3BuQ3pKWXU5R2hfN21IZ3N5MWluSzY2blNlQk1zTHhDVnRvbGFjdllPb1ZRVGU5ZlA3SVJmYlFWNHpjalNRbjBVX3VEQ3NWSEFMWm9lbWFmbEM3azE3eGx2NXcxdDZDMjV0SkY4c1B3c3pqYUktaUhXaFQzVWlqNU5uQTFzelFiTnpUNDJlaE9rcGJiVTk5QUttRVRoNlc0Zw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T06:40:40+00:00",
+"first_seen": "2026-09-27T13:00:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "fb8d2bd0b496c6f9",
 "title": "ONGC sees new avenues for gas exploration at Amraghat in Assam’s Cachar",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxfb2ZXVGVYcUlnRXBNME1DZVM1T1dvVDRUbnFPbGc2UVg5dWw3UjNmMmo5SGt4YmM4Wmp1dzA0aXdpNGlMcWczNVpvRDFQTWxQVnRMUXdHVG9PanpGWmNpZWxBYjQwVzJNR0xJN2hFVlJBeTE0dUdXd3NjVUp0c3dtUERsTzZXX1FuNkNrU1dzZXJtaEhzdHkzUTZrWFE4WVJ5WUxubzJKbTRXYjRCTDU5al85aTktd0FZb081LTFjSHdwa3Y0VdIBzgFBVV95cUxNT1NBMWhrdUhxa2gwVE1JeFdCci1Hbkc2cHJSWUFYQzc3SHRSOXE5NmdmdktGNGpyN1lObWNyalFTN3VsZ2swOS1BVkJyTEhYYzFIM1JHbmFXMENQY0tXOE1Da3VUUzBnQUVNcHBxX29nQjNGQnB3MGhOT1ctVHhRdk4waUF5cHlTenhHb0x5VUt4S2lWQ2hFYkVBR01tZGxtZ2NCaTRqREh3V3hLU0s3OHcxdld3Rnh1Y1poRjVjbjFRWGZGcmxtb2twb2QxUQ?oc=5",
@@ -1521,6 +1571,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "93183548be6b8c68",
+"title": "Kotak Mahindra Bank FY2025-26 Annual Report: Consolidated Balance Sheet Crosses ₹10 Lakh Crore",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRU53VzhqUlQ0dThYbW5aWnNKbmNXenI0NkR4UkRwT3FzYjhtaEpITXIxdzhBMTNreUI4QjRjVVhSWTBNNklBaEFvaVFtbjlNYkZici1yMXcxTjlwMDlHaXRlcjZwRGU3Zl9ja29yRG5hU0s1WWgtMndKdE55MDNpTVNyYS15U3FWcmpMQ2ZaSGplSGg2UlFKb19XLUFxZDZiN1dxa0tBckxKNUNVZzRnRjNWbl9MaHdYSE5rcEt2NnN0dw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:53:06+00:00",
+"first_seen": "2026-09-27T13:00:03+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "57caf35af1b60950",
@@ -1880,6 +1946,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "161b62c0eb831ff6",
+"title": "Coal India board to meet on July 27 to review Q1FY27 results",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlh1TWZZOFp1S0xhenZvbENBa3hyVU8ycTM1S0RSUjJvX1BXLXp1UjBMalNrT0ZfYmR0U21NZGlBMGdBNWEtUl9pbDJMa0IxLU9CN2k0dUUzTm80SF9Ed1lzTER5N2tjb1dpZlJGUGZ5a21OdW1YdnR3elk0SldSTjB4dkpabkRGNmtQa1lhQ3N2VFZteTIwbTRMak5tbjlYaDVySHJBSHpKdl9qWlRwVzNERFZSN0tmb21Cd3A5ZGw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T02:57:00+00:00",
+"first_seen": "2026-09-27T13:00:03+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
