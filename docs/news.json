@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T14:19:11+00:00",
+"updated": "2026-09-27T14:33:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9548c3def3ea80ff",
+"title": "BITS Pilani team dominates Hyderabad round of NTPC Electron Quiz",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFZqajlVZU5UdHV5N3VwNU1OTzJIYVFkRDlCbnlyRTZnVkU5VTVhZGI5LS1WLURxM01UWDR6SXQ2NnR1bGxMTG5sV0YycXV3aXZvWjBTNXZEREJobkN1T18xdzhDT0RYcmRFU25scHhyN0thNzhCaWZaWnBac1hyekdydjRodVYyR0RuSlpuZ2I1NDFBaXZfT3czSzJnYi1la0tRQXZFckNTY3RhNW9oSlJORG92blpDRktTcU5VNnpmWE5YN05iOGRna9IB0gFBVV95cUxPaDQ4cDlxdTRvUE9ONFhqUXBCWXdXZE9ILS1ITHJqSFQxX3JqYjVvZ1pyd0FhNmhURDZlUEs1aEV2YXp6X3dLLUJQMVBSaFgwYlJJaDNRdlB6RXZndi1WakNpWEVBeVRsdlIxRzZGZy15RmsyUU9lN2QwQURFWndMZnhlQldUaXd2eGdCLU9BZ3V6MS03R010aVE2Tmx0aVNrcDZ3Y0pXOWxidzdIVUs5NGtIbEp1cDNhbE5laFUxNk92Z3B5cDlVb3d0ZWVob0trblE?oc=5",
+"source": "thehindu.com",
+"published": "2026-09-27T14:23:34+00:00",
+"first_seen": "2026-09-27T14:33:22+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "8a75e4ffe1d37897",
 "title": "Trent McDuffie, Patrick Surtain headline Sunday Night Football matchup",
@@ -1862,6 +1878,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6f50f34e57be97ff",
+"title": "SEBI Warns ICICI Bank for FPI Fund Repatriation Before Lock-in Period Ends",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd09jQ2tfbkdaQXRFTXRYOE9SNmdwdzMxbnB3bnVvN1YxMlYtVlNLT3hsQXpvSEQzX2s5bVZTTTRlSm1IVFJQcWZYQ3RjTHNtZlQzR21IV1NqYVpqNDV5OUYtR1c0ejMyakc2VUpVRGthdWNrTVhQWnhxLWZpYy1XUl9TSmE0SUk1RnhFbmxwWDQxWDg1bHVlZTAxWHpOdlZ1c2lXV3UxOHRmNEpPUVJrb2pLTTE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T05:40:47+00:00",
+"first_seen": "2026-09-27T14:33:22+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
