@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T07:19:52+00:00",
+"updated": "2026-09-27T07:33:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "933b022ce9dadf82",
+"title": "SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns in 3 years. Check details",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWlBNelBncEpWQTJReU9jMk03UXNuMThtWm02X1JGU0JmX3ZsQkZUWUxfd2tsNHA2MG55NHNRNmFrME9wVFI0VzNhUW1ielV2SldyZlJobGt5dXhPRUUyanJzNVJVMEhXcVU0bjQ0Y21YV2YtaXIxeTJGUFc1QWhEVkFFZThYX2M0SHNKbFl2a2ZmTXNjTzBSUWFXRnZldF9lMG9Yd1phSktUNTFQTHBQQkVWMVJ5MDExUHo4bE0za3NCZEw3MTR6bkpxbG9xSlh0dHU2ME1WM1ZIYV9Kd2ZrSG9HR0k5NGFyN1BiU2JMYmlER01WNDZTVkdoRVpsd050ZktHam1HYjU?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T07:28:52+00:00",
+"first_seen": "2026-09-27T07:33:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "7e11be53c2003449",
 "title": "Bank Holiday Tomorrow, September 28: Are SBI, HDFC, ICICI, PNB, Axis & Kotak Branches Open or Closed Due to Bank Strike 2026? Check State-Wise List of Banks Closure, Online Banking & ATM Services",
@@ -1502,6 +1518,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "679792b380945565",
+"title": "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CYnNoLXBwRzBIX3NScHRjbHFWcnRYOXZZblBIa29EV3hsLUg5aW84Qkw5aEx4c2JXSmNKYWxodmIzT2pDM1J6N2pxM1d0dTAwRmpzcWxLM1Q2ZWk3UUVldXVXYw?oc=5",
+"source": "Upstox",
+"published": "2026-09-26T12:58:23+00:00",
+"first_seen": "2026-09-27T07:33:42+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
