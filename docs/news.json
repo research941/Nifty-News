@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T14:33:22+00:00",
+"updated": "2026-09-27T14:45:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -504,6 +504,27 @@
 "symbols": [
 "AXISBANK",
 "HDFCBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "397a7bd626f95115",
+"title": "Bank strike tomorrow: Full list of banks facing work disruption; will HDFC Bank, Axis Bank, SBI, PNB & ICICI Bank remain closed?",
+"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdUhlZ3UzcnYtNERYZWs4b2lHUDdXWUtweTZDTHVvbjBLeUxkd3NfUmFKUWJGT1B6VXJ4YUp1U2d0OUZCUEl1dmFWbExqdWdxQ2c2a1pWa0ZSdmMweENQOFRJWFJXWFpaOXZVZUNTaWtmZnRLOXROUS1mU2pVeDZYRHIxd2FfVnBtQlEzeUl3bnM2VmlVdEJ5a1NINF9aN0pqQzV1dlFDUHlOOXpGOTZpaXc4aFQtZGJGc2h2LTBYZzZRdTJ6TXJFNWVLTmhyT1VRdTVjTjJ6Zk94MEN2SS1jc2RSaXBERFRQWENOdTAtR1JzQTJhX3lZejFEWVhLVG5QbGVlV29SeTBxdy1JSEQwS29ieGxCQTA?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T13:39:43+00:00",
+"first_seen": "2026-09-27T14:45:48+00:00",
+"symbols": [
+"AXISBANK",
+"HDFCBANK",
+"ICICIBANK",
 "SBIN"
 ],
 "groups": [
