@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T10:57:17+00:00",
+"updated": "2026-09-27T11:19:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "d2fd73656ce88501",
+"title": "Karthik Krishnamurthy Appointed Global CEO of Wipro Aerospace",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbE1GcTVUQVF0OTZYRmN4d1JlLU5obFIyOEdrVkhtWTRmX1RKSGhVcUlHOTRxV0VJcjBYNHRlblVmSm90bjA3T3RRV1ZiYzBsNktYak9yczh3NDBWd2lTeUhsYW5vcVROSmJwUVo5R1A2OHVFdkczZmFzaDlhT1hjRWpsYTEwY1Vm?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-27T11:03:23+00:00",
+"first_seen": "2026-09-27T11:19:22+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "27b072b87c13e562",
+"title": "Infosys to move up to one-third workforce into specialist roles",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXBVZldrWlFHMkVXVVBSSkJqLWt1ZlpCWl9BMXluX2pCckZjV1ZyZUs1bTZVNVR0NG9GVmdaalctYUVjdHVsMlY4bG9NTFhBUlFXbVRCcWRZWWoxak5DNE9xSmxDaGFvT0pYYVZ0YlpWR083OU8xdmtHUDN6ZzF6cXpzWkNNQ3lMamg2UlRScjFEM3ZoZ2g0dGNDaXloSTFTX0p3YkpEdkpLZXZfMHJyVTV1bE5zaGlqWG10LXItNFlvR1hBQlo5azJ3UHdIMlk2bkJjT2tn0gHbAUFVX3lxTE52RVIwZVk1ZXlCLTlfd2RYRF8wX3dBSzhuX0d2WHVaME9WZ1RrS29Ka3BhbnRkbE8wQXlPOWh4RG95a0NYRUxtdTF0TVMtdHpZUlB1Z0ZXYkt4RFZ4ZnhVcDJtWEE2SkJ2eGs1TmNNQ3diNjUwRDh2UVZPUmZUNTRLeDJZSEJmSGVacU0wZGtkaFotREZtRVJkdDU1RTM5VFVaQXltNUdGRkNycEZsTFQ3YktXRUZOYmxFUnFaeGZESGR2Q04yanZiRWc3UlRnRnZkQjByZmlQaUxmWQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T11:01:02+00:00",
+"first_seen": "2026-09-27T11:19:22+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "09214dd1353c14cd",
+"title": "Why Thomas Tuchel is still ignoring Trent Alexander-Arnold as his England exile closes in on 500 days - and how he could have made all the difference against Spain, writes KIERAN GILL",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnBabHNWdjdBeWhVVS0wUldIX0c4UDNwRDhHeFNINVVMeXdxWk9hNGFUREVnOEhFZk4wc3VpX1Y3Tkx6ZTlhaEpLX0VSU2pOTVZnUjFuSFp3TlltX3hEVUFuSTYwOTdidjczZngwb1JmbFNTWjkzSFBPR1pOY3NhbUNWM0dPTGZlVDRzUEFTVUROeW81UV90UF9qbmlRSGx6elVWb3o4UzNWckXSAbABQVVfeXFMUE9McGRGd3dlb0h1YXd3ZG9NeTFYRWFtc19scmhCeFE2VGtSejB6Z0pjMjRGV0RnZjl0b0xiTWR6eXg3aW15T1FtTHhxc3FEMnNBSnB5d1NuaGhscmRGYWF0Zk55ZUJNUTVvSnVqQUJ6NW9iT0ZRdmcwSl8zWTNSV0ZUeFlOTnFLOEpYd0hkTzEzQ1Iyb0dZMlc1WHNOTXNOZU9KaW1UN1VTM2J3U0QyLTE?oc=5",
+"source": "Daily Mail",
+"published": "2026-09-27T11:00:46+00:00",
+"first_seen": "2026-09-27T11:19:22+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "15c26c15fbb06fa1",
 "title": "TCS vs Infosys: Which IT Stock Has Cut More Jobs Since AI Took Off?",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcm9yeWtqU0JfbGktWVVHcDFRQlk3WDlYS1RZWVdOa1p2NENWRXQ4eWRGU1VRLXhxczRpU2oyTkozaWpuemFTQzlkRGJudTNjNG85b1dEckY4NjRxZF9MZ1BCdTV6czhfSWlzUmRzOWNSdmk3Z1lRQmVoZnFNZnJqUGItN0VzZi1WRzNweDdFaE5zSlpfZEJnM0RRNE1KX2YtT0ZUQUdqRlRpSW5UYWM2ekZn?oc=5",
@@ -624,6 +674,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "931c82e62e27779c",
+"title": "ITC expands dairy play in East India, bets on branded milk",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWR6dzk3dnRhdFVhT29lSVhFWjlxYTk2SXRieEN5MFdzd2hNUXhlX2JWSmV2UnQ1V29tb0tGcG83bFFnZ3Njd0lacG1hOXR0UFVVZWRNS3pEaXRnSXJWbUo3dlZNemJ5UXQtVDQtbWMtVGpXR1BocnFucGlHUzJrNUVGU004UHJYWlprcHFKa0hPNmlnbTljbU1mdmtDeDJOb21yelIwM1lhUmhWcnBITTFLbFZrSzZGMW1YTFN1N19Bd09XakVscGQzdnBqZUVPVWhfd0dyazR3THfSAdsBQVVfeXFMTkVkenc5N3Z0YXRVYU9vZUlYRVo5cWE5Nkl0YnhDeTBXc3doTVF4ZV9iVkpldlJ0NVdvbW9LRnBvN2xRZ2dzY3dJWnBtYTl0dFBVVWVkTUt6RGl0Z0lyVm1KN3ZWTXpieVF0LVQ0LW1jLVRqV0dQaHJxbnBpR1MyazVFRlNNOFByWFpaa3BxSmtITzZpZ205Y21NZnZrQ3gyTm9tcnpSMDNZYVJoVnJwSE0xS2xWa0s2RjFtWExTdTdfQXdPV2pFbHBkM3ZwamVFT1VoX3dHcms0d0x3?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-27T08:46:00+00:00",
+"first_seen": "2026-09-27T11:19:22+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
