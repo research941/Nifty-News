@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T11:45:44+00:00",
+"updated": "2026-09-27T11:57:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,25 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "6b3d2e0d11328f3b",
+"title": "Infosys to build 6,000 frontier engineers as it shifts workforce",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnBCeUQ1cE1KbUppWVJsbnZ4QWJWYUlKeG1DRXBpWE9VX1pLeDVMbGlCcVFUanNXbWc3VjJXSWtlVDdlekc3VEpMYm1uMHVNLVRjNkJGejRSb3JqOENPenA5alVPaEhvdVFzNG44RFgycVlmYWVTdVVzbVFFS01maDhFRWJ5WXZuUnU4V1ZjY2pSNF9tdmx0c1BqWlFrYkUxak9LM1ZLWms3Rk50ZWhDbQ?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-27T11:56:13+00:00",
+"first_seen": "2026-09-27T11:57:20+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "cfe80be71bfd4a40",
 "title": "Nestle India responds after customer alleges finding worms in Maggi packet",
@@ -575,6 +572,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "74ca8a688924b2e0",
+"title": "'Can't Comment On Authenticity': Nestle India Responds After Insects Reportedly Found In Maggi",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWlaTm8xTUNQTE8xNHlxLVVJenBWbDRpLWpCTTEwZnVfSjFyUFU5NTdFRjMyeS1zcEZncnM1NWVybE5yVS1XYVd6QVdGQ3IzaXFBTUlsSTJrdTVfWk5pTTV4SExVSnBMX254TUNIRV9JWDlIMUt5NGVIRmsxSnN5aDR6STd5UWE3b0UwQVNrV1VyLXZhTVQ5QTZybnp0UmY0TkhGbndFbXZ2QXV2N2I4LXM2LUNmSWc2amg3SVhobzNsNFdmYUpVMnY1NDN4ZFY5THN4MXVnX1dnS2xIMGt5dFV5X0lFY2VMMk5KQXNPZ9IB9wFBVV95cUxOUHRxS1lKWGV6MjdveVVFcFVQMGJHeTFIZ1h5WjNDODFQQjR5U000ZXlzSGlSNDZaSzlxQnc1Yk9zcE1nR1hWenZyQzd1dlR1bUFuZlFEbTlkTTZpR1Z0eHpMV3FKOUlLSUVBUG5MSl8yVVFRU25sUUdSS1FvbFlvSEJ5S1NvRTBka3E5b0h5WUQ2ZlFyN1N1UHpOMzNoRWhVQ0swSEVDWFlfaUVzNnlkWXdXelB5enJxYmFnXzdES29QVkRsT1RvM2NCcmJ3LVFlcmM1WEVJZE9PMlF3c0x1amJrWnNadXYza2VPbThhSVdxSmotTGxF?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-27T10:41:40+00:00",
+"first_seen": "2026-09-27T11:57:20+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -775,6 +788,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6e24c6f08efc1c48",
+"title": "Media XI Clinches Tata Steel Friendship Cup In Thrilling Encounter",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnpoWVFTTi1uYnNYU0YwaWtWQVlyUUoydHB3STdqNDdGYUhYcVZlTF9mU3FNNklPZllUSi1UbmdQTUNvTDRFa09xV0xXX0x3OV84WW1TRXV5aGV2a3NhN05RTnNRRXVNRlZiM0ZXMzBZWjNnT1hQemZvRi1Xb3BzLTJMaXVFSW41QldQbkJ0TG9sNlB0ckE?oc=5",
+"source": "OdishaBytes",
+"published": "2026-09-27T08:55:19+00:00",
+"first_seen": "2026-09-27T11:57:20+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1127,6 +1156,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "91c610803c1424c3",
+"title": "HDFC Life files BRSR for FY 2025-26",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmNna3hmMGhZbjlRSWVQZjMzUDRzNURmQi1sSm9vb05raW53U214c0Q0ZDhUa2dHSFpTSXQ3SzJMY1VibHRhTjdIQW5DdWJkbW5vMWRNYzFBNkpBenBkZTQyQjBSRlBmczdxMm9PTUtmQ3FxZllpbkRWX2FydDkzYTRZMlBfZFZDRXlvMDgzLVdxWUxpU1Nj?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T06:52:40+00:00",
+"first_seen": "2026-09-27T11:57:20+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
