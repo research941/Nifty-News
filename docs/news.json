@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T14:45:48+00:00",
+"updated": "2026-09-27T14:57:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -785,6 +785,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eb883986196d159f",
+"title": "Tata Motors and Hella India to organise apprenticeship and placement drive on Sept 30 at Govt ITI, Lucknow",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYV9mX2VDOFRBczJlZzd3dk1kZFpLVUV3SHZ0cTE0d042ZzQxaTNtR3dVa0l5M1U1bHU2UENLaS10ZXZfNDVQV1U1NWFfc0trSGxQOHNMTU85eld5SkNNRHRZcmw2cTQwcm1DNFc0c2ZaTGpFYWxZaUFndWhsYkpjczhsZHFSSWhoaHFKeUZZc3Q?oc=5",
+"source": "Hindusthan Samachar English",
+"published": "2026-09-27T11:35:03+00:00",
+"first_seen": "2026-09-27T14:57:27+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1817,6 +1833,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "283fdc37a15d3e90",
+"title": "Tata Motors PV eyes 15% market share soon, targets 20% by FY31: MD",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSW5VV0I4VEVZdFRCU1FjVkVkb2E4TC1uTzRZWjA4bDBqZXNJZ21oNFVCUWxPb1RWaUI1THptcjRXcUdCc2JGa19hdHhpSHVJcEV0Y2ZOLVZSbVAxckkydjFrNmJpOER2UW83aTZwSGNVckVpZnJOYVdHOE55NmNidDM5SU1DVm1HREhzb1NoenFXWUR4TmFRVXFhMWxaV05fNUU3VDliWWEzMHhlTW5CMjR4RExRci1LR3gybFItWGlEYjVEMjk2TE1ac9IB0AFBVV95cUxQVGF3dUtIVG1BZDliTkJYbVA5OFIxdHFaYkExRnlCV1Axb1IwYUZobzZXY3Vsa0UxQmJxSk9sQTY5SUFEX1Iyb0tmTTdFVFk5N2s0bDEtbkh6bURKTVcyeFZYUzZPcklETEk1X0MxemdoX1lmdmdjcC1pa25FdmZZWnBIMjhXT0pELUw0VTdqWFFnZVpwQmRvVmstRzB6UU44UWxjY0J0dmcxOWRlX1RydW9QVmZUTktwemFFVDlkZkNoby1IeFpMM2JGM0FSZVVZ?oc=5",
+"source": "Business Standard",
+"published": "2026-09-27T05:50:06+00:00",
+"first_seen": "2026-09-27T14:57:27+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
