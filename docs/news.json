@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T23:44:14+00:00",
+"updated": "2026-09-27T23:57:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -461,6 +461,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2f732f54e821d674",
+"title": "Mike Evans, Trent Williams Carted Off in Cardinals vs 49ers Week 3 Battle",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOURtZDJZMzVTRjdsR1p4Y0xtZkp2NWcxemZjTnJlZ2lBOUxoaFU2dThMN3JyRHNqRVQzUy1ZWkRuUXlZeVJWRjk0c0tjV1p1SVNMX0xzV2V6M0pGOTVnZms3cTZEM1ZTTWN5aFVCSkF6ODRnYnVJc3pWbi1mRnlZTFh4VElVQjM1T0NER2t1TW4xWm43Z1V1RkRHV2ZWVThiZGZSMFkyRkViT0hrdUJlNVJYMjV6TUJnM0hiMEZsNktKOGRi?oc=5",
+"source": "Sports Illustrated",
+"published": "2026-09-27T22:15:20+00:00",
+"first_seen": "2026-09-27T23:57:26+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4db1e950e697d304",
 "title": "HDB FINAL DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
 "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNVVZVTXZ2eHo0dFJXUHdsYU1Kd1FSOGtaZ293emhLd1daWXdZMjRvb2dMWG9vd3BjV0hqZy1tcl9jRzJpTFhtdXNBblFSSlFmcVdESTU2cHlnS3VBSWJrRUZOMXVSb01SZ0ktRWpZWHFhazRrS1dxNzJWd3NrV2FvNXhiMGdXd0RreHlsQmFvX3VMN19kdUJ1ZTlGSkJMajFaUUM4SDJybmkzeHNVVVNyQzB3Z2JXMWVDRG1jMC1oUUF6Y3V4a1pob0NTR2hVNkNINHVpYWRZUXp3S3hZSms1cGg0bVBidkVnck5GVWhFbzM1UkhBa3BDYmk5emN1TERyYWRhb3RiUndyR2VoazB5cUVOZ0ZkRHhTWmJCMjVQcm5GMEtxTXUtTlp5QzVlbWtqRFlFREo2OEFzZFBwZVJr?oc=5",
@@ -641,6 +657,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "5c76b83919dfd08d",
+"title": "HDFC Bank reports 5% profit rise in Q1FY27 amid margin pressure",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0RhM0FvekJQenFZd24tMXpnUTZjX1hCNVUzNVM0VlB1UHlkSUU4RFFmUXZ2aXRMLVlNZng0UEh1VU9BSmIxc3NxMy1SSHYxaUd2X2Y0bmJHaHVDdEw1ZE5JbmtUQWVJb2hLa2xaUGJNY2hXZ3RCMkRjbW1sclJUanlTMENoWVBVcXBmbXhYemJ5MzFCQnlwY1cyWmpWbzBWZGdMMEF3dnlHdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T17:52:32+00:00",
+"first_seen": "2026-09-27T23:57:26+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "ab60bc7686559a22",
