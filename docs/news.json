@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T01:56:23+00:00",
+"updated": "2026-09-28T02:18:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,9 +441,44 @@
 }
 ],
 "errors": [
-"Business Standard: HTTP Error 403: Forbidden"
+"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
+"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
+"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
+"Google News [SBIN]: HTTP Error 503: Service Unavailable",
+"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
+"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
+"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
+"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
+"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
+"Google News [BSE]: HTTP Error 503: Service Unavailable",
+"Google News [TCS]: HTTP Error 503: Service Unavailable",
+"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
+"Google News [TMPV]: HTTP Error 503: Service Unavailable",
+"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
+"Google News [TITAN]: HTTP Error 503: Service Unavailable",
+"Google News [TRENT]: HTTP Error 503: Service Unavailable"
 ],
 "items": [
+{
+"id": "85e4680f121832c0",
+"title": "Top stocks in focus today: Investors must watch Power Grid, Cupid, SAIL shares on Monday, 28 Sept | Triggers",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-today-investors-must-watch-power-grid-cupid-sail-shares-on-monday-28-sept-triggers-11790558892670.html",
+"source": "Mint",
+"published": "2026-09-28T02:04:57+00:00",
+"first_seen": "2026-09-28T02:18:46+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "6ce34e38000cf4b9",
 "title": "Wipro Bengaluru Marathon: Participants run 10 km without water, call it ‘absolute disaster’ | Trending",
