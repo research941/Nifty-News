@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T19:01:24+00:00",
+"updated": "2026-09-28T19:18:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,113 @@
 ],
 "items": [
 {
+"id": "593648841e7e24c1",
+"title": "Adani Ports settles SEBI listing violation probe for ₹37 lakh",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjA0VmtJWW4tSFFRVUFCQ1BzckFyUjBLQm1nNnBZbkg3SThnbzFnbjZHTHhvay0zbWNDVENLR0FCZ3ZfS1FERFRwbVF6ZkIyQVlYX2hIWUJ2NjQ1SWZUZldLMmZPaG1ISVJSeVQ4TEF2aWRrUHJNYVV3LXFteFdXSVE3NmZqYnFqYVJmdENmYnVFNm5nZHJWSEFjYUtzbHFTSGFXODlXRFJZNFB5MzJqaWE5bw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T19:11:06+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory",
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
+"id": "8db8152ffbc75fa1",
+"title": "Jio gains 2.40 mn mobile users in Aug, Airtel 2.11 mn: TRAI data",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkZfaXRDUzdKMUdrRWJUaXRHcHpHMm9TXy1EbUdreUV0bnlZTUtTM0paZnFMZVpwNksydGtiTUpXb3pNbFlVN3MtdzVuQXAxcDQ4bUFobGl6X256R005WE5HdUN2aThpdVpZQ1FuOEI4QkFybXdsSjZoUlo4Y3BWZW9CaVVrWHVIU2RqXzBrNk0waG85OVJOX3J6bHJMWFMxbk9CZ2VpSzY0QdIBrwFBVV95cUxNWHRCQXBxbENUQ0d5Y3ZBTXdObjY2MWF4eV9JYU41dXlIRE81SnkzQjFNOE9lTVIwRGx1WG03bmI4MXBmcTVZcndVSWp5Y3dhLXFYS2RJY2M5eGpYbC1JSlY5Y1QzX3c1c3cwSUJ6QmVyamxYejNDRTkwbU5KZ2hyOXhCVERFNFJmVjVtWktZQzdDamZMbmtOTlE1V0ZDY3dCNkFxTk1LNlVXNW1qSVZz?oc=5",
+"source": "MillenniumPost",
+"published": "2026-09-28T19:09:10+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1521a30036294060",
+"title": "Adani Ports settles SEBI proceedings with INR 37,05,000 payment",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3BmRkhiY0F5cE51UmpLMy1meGJ6ekY4SzdZaWc2bUxZWWhrSWFyTkpSTDZMcVpBNmRsWFZra2ZJY3c2cWFIc2h0ZHo2OWQ5US1qamQ0WkFGTzlDNmMxNlRWVmI5OFNOTEo5NnlfU3Zjbk53V1hia1FkZ1BoeGVlRGl4S0JXV0hYZ2xfYnlJdmVRM2lMWHBvRTM4MHk5eDhKRlE?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T19:06:31+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f6444d7f85537791",
+"title": "Adani Group Cleared Of Minimum Public Shareholding Violation Charges",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2tYWUhEallLal84V3Z6VlNXNkpmOVVLTFVlclh6dnp3b3RuUFJDazlxZU5YdElHblo2UTRVVURyNnVHc3RpWFo2ak0zbV9vdnh3MHJrWEoyUzV2TlJqR09jMzRkVkpkcEoyZTh4eXdqZUNMRnRLQ2ExVHpyaU5QOThkU21MTzMtZFdMcHAxd25xc3JUdXRuOWsxTENkY3RIcjZmU3U0QXcwU2JYS2fSAbYBQVVfeXFMUDk2QnFOa0VaOVRmUTBKYjdXMXZMVkVlVG8wQVZJZXNMRTRXamdFLVVIQ0l3WmlQVGxzVGdnNlJqeGVpUzBOWXB2ak1vemNaRzY2QURudXJkbU5jX3UtWmQ5eVFoOFhoVHQyM1hHbVF5YnhaTTlaLUpJVnBMeEpycGxmdk9pVExxQ1RJbEt0NHI4WG1DdE9yVFluU3VvTS1EZWl5QlVRUGM2R19kZmdXVWdweFowc1E?oc=5",
+"source": "NDTV",
+"published": "2026-09-28T19:01:56+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a27a6c80814f499a",
+"title": "HCLTech arm HCLSoftware to acquire Croatia-based Robotiq.ai for 9 million euro",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzNZb1Z3cWl5dk10LTZNXzBkbkdGSW4tclRyd3NJUnpwaE5lUkw4MkNzMFFZTW9NcDJxVG1oajRQV3MtY2ZjUnpGSXFScE9iUTNHcUdZbU5JY2VYX1g1ZkoxdndnQm12LVFWXzcyT19OZG9WV0VSMzNualVIRl8xOTlKWHNRQTR0SXlNYXg2c2NjX284TVByVjI3YVJZUnpMX3ZIcXYtNllzbFBFRzhSUnFIbmN0UzM3LU5tSNIBwgFBVV95cUxNemxMeEt2OFYtYS1UYV9udDZ1X05LbmdNa3pWcm1scTFpam14ODNWSGtPQnVNdFNfZ3MyTEdVQUFPN0Z4S1NoTXAyRHB4andrQWRyU0ZlazBqbkU0cEJlUGlsM1VwbE9YQVoxd1N1TUl2Z1ZLSVdXcWpwVmVSQVQ2Q2FnZU5LRXpuNU1RQkN3aTNYX0paV0dDTFp6X2lmdEc4TGN2TkZLNlc5VENzaURHemtRRWVrU2xUVXJnUFpxZklGdw?oc=5",
+"source": "ABP Live English",
+"published": "2026-09-28T19:00:01+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a136fb6503badb40",
+"title": "HCLTech Expands Automation Capabilities With Robotiq.ai Acquisition",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1pGb1N3SS1jdlVrSlZ2ZmRkRHV0U3hvd09nTDlZckVxLVQ0em80RktqWWIxWnE5U0VCU0pZYWxEZFh1VC1OTlNWemZGOGxxcUFLV3A1aFFmZkJRSElQWDR3UGNCUzdhX2UweHhkc3QtbUZpOUdnd09aSngtdFVOUjVRaV9IWndSY2QyYUp3TXd1NkhwR2hOX3A3RTN0MFNBZDNr0gGmAUFVX3lxTE5iMllPbkpGd1J1Nlk4R2RuRUlzdnBzNVVpWUhSN0FlRWtMLVg3OXVQblo0OHhVZWxQb053SnctS2JBV2xZcWZNWlo5SkdKUFBqODhmZG85ZXU5bjJmZmVpUW5SYVZTb3lKNUd4UjhJYURNY0RUTVlZR3pheXY0Yk1IM253TE4tdUh6LThCNDRqZWtyU2NZX1BIMUx6eGMxd1BScHdqSlE?oc=5",
+"source": "rediff.com",
+"published": "2026-09-28T18:54:40+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ca4f6e0e8f05fd8a",
 "title": "Jio leads India’s August mobile subscriber additions, Airtel close behind: TRAI",
 "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0JOeFNMandWek1IaFhkc0J2TVdKNGZsd3R0aHY2ZVdTTWtpNlFFT1ZrWlIyRzRLUS1Yd21DMjBSakUwNS1fTVRPaUJtQUdiTG9DZ0xvWlk1Y1doVWt0WmhMazVvUkdCNHVTQ1F2cVloMjBLWmdXMFR3dW52T3c5R1NmdTFmS1BrOExCcGpZWUxFeVY1akl6LVNIZVRGYU1iTzNYZnR5dnVkVGxmRXJSRmQzUGRHeHUzU0JTUmhkT3lILTJPVXpPNlJPZ1FMWW83M1FXd2xoTC1DWVhfTFlidU9NbDBKVHc5NUZfbVZmSTBQSWJtZVVGVS1zMVNwd9IB9wFBVV95cUxPMVluNElHdWROcl9KZi1tZ09TaGVRNlgxdWtWbm5LZkw1WVd1bnEyZDRrckpaWmJsQWZvalAzbkU0Q1JkSXJrU3VpeHc2Z3B5YnZfZm1pX2Jndk1nYW1TbGJLV3hXd0h2aEVIZ3VQLWVkXzJOUWRNNW8zZ1Z2cFg2Y0Rxbjk1cTI5OWhqYmRFMDJKenp2Yk9XaTNfS1lqWFZxRWtrd2RTRm52bnktVTdvRDRqTk5jdGdWMkN3WFBHd3dCajBoU0ctdEtMd2U5NUU1QzlJQXpvVkRGQmZ0a2VwSGlQVFI2R2xDVzJBSUlBUWVaX1RYRDFN?oc=5",
@@ -610,6 +717,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "d2613a5bc12d6e60",
+"title": "Adani shareholding case: Sebi says charges against Vinod Adani not proved; 2 individuals fined ₹20 lakh each",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazBxOExRYWxtUm1HeHdwYWJfYWRvRkw3aTJndHlQanJsNzR0SmVaMU9sWnlnRjVTTUlsZnpMUTZ0OVlabXF5RUVjdDdZSWhVYTJJc1dhckY5QXVvNnUyQnZGSmo0LUtWbF9NbUhWck0zWC1fdXNCOFhONkY2V290UXJrY2VhbmoyNTNFVDFlMWJBc1MtVnBDMEVZUktQdW40M19VbkxhS0lqSVNidTlNQkRKOFVoaGEzSzRIVURFVDJhM3hDanc2OG9GbkE3dTJzZWFCRlVHYXlqUDM4X1NDUjdUMmtIcVB2YkE1eWZ1XzbSAfABQVVfeXFMTmswcThMUWFsbVJtR3h3cGFiX2Fkb0ZMN2kyZ3R5UGpybDc0dEplWjFPbFp5Z0Y1U01JbGZ6TFE2dDlZWm1xeUVFY3Q3WUloVWEySXNXYXJGOUF1bzZ1MkJ2RkpqNC1LVmxfTW1IVnJNM1gtX3VzQjhYTjZGNldvdFFya2NlYW5qMjUzRVQxZTFiQXNTLVZwQzBFWVJLUHVuNDNfVW5MYUtJaklTYnU5TUJESjhVaGhhM0s0SFVERVQyYTN4Q2p3NjhvRm5BN3Uyc2VhQkZVR2F5alAzOF9TQ1I3VDJrSHFQdmJBNXlmdV82?oc=5",
+"source": "Fortune India",
+"published": "2026-09-28T17:39:26+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "6802a8cf9fc7bee4",
 "title": "Apollo Hospitals Puts Bengaluru’s Auto Drivers’ Heart Health in Focus.",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXhqS1g1OS1uQXRWaFlwUzB2aGdaU2pXWWxaemN1MlFuS3lIZFo3VlQ1dUV5d1ktRTNXamZKakRfSy1zUEUxZXJ4RWlydTloNnV0NDBqWTd3TkNXX3N4Q3pyZmdzRTV0MFVhQmxubS1teGJEY2U0VFFnRnV5ak1FZC1TcEV1dkl6bmdZTWhMMDN2aHR6NnhWZlVoNTdxMl9RN2c?oc=5",
@@ -621,6 +746,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a9223c9e10828440",
+"title": "Bharti Airtel Sees Sharp Open Interest Surge Amidst Bearish Price Action",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1ZtXzJvSHFhbHdHcmJOQWhPaG9Oamh4aUlhbzFsSWo2ZDYtS3FvNV8zT2Rpd281M0taSTVFSlp5TUpwNmxzLVJ1VGR4VEtkZzJqaXFiT2NweVhzV2lJZEFNYW9JbEhfQU5DeWZmMlNGd2Rtd1JfenRGaEVQUndoNllvdzVXRXk2MGV4MjVxMU9sU2ZfR184bnlveG4xc1piMzdyUld0c3B0Y3RnMElyS2NpbHpOcERGY2phNW9UaHUxcjNjdEVxbUVR?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-28T17:33:17+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -675,6 +816,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c9f38a999a62d784",
+"title": "Tata Motors unit buys 26% in Hyderabad e-mobility firm to bolster electric bus operations",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnlTS3JOMWxwWUJVZU1JeUpUMUFrdlFkTXZlcnRMTVdnU2psWjdKU0RjMFlRM29tbVlzaDlLYTIzSUxaT1lmc0VBWXJnNGRNbGEwQmN2MHU3S1J2RndUNm5ISDVGMmoyV2pmbkhsU1ZJc3Myc3FuRUs0bGtMcGM4NE84bklFU1g5c2xORE5LbmhELW0xUjBLTEtLbF9YS01CMnZVRWhvTXliWloxMks5TzlpR1NKR1dwZVpneUFpMHpJUzJrNnlHRTRPR25YXzhjX2lFMGZmTQ?oc=5",
+"source": "TipRanks",
+"published": "2026-09-28T17:19:50+00:00",
+"first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
