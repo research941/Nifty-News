@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T17:32:47+00:00",
+"updated": "2026-09-28T17:46:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "77448094abedf73a",
+"title": "India regulator allows Adani, four group firms to settle public-float violations case",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
+"source": "Reuters",
+"published": "2026-09-28T17:40:26+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6802a8cf9fc7bee4",
+"title": "Apollo Hospitals Puts Bengaluru’s Auto Drivers’ Heart Health in Focus.",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXhqS1g1OS1uQXRWaFlwUzB2aGdaU2pXWWxaemN1MlFuS3lIZFo3VlQ1dUV5d1ktRTNXamZKakRfSy1zUEUxZXJ4RWlydTloNnV0NDBqWTd3TkNXX3N4Q3pyZmdzRTV0MFVhQmxubS1teGJEY2U0VFFnRnV5ak1FZC1TcEV1dkl6bmdZTWhMMDN2aHR6NnhWZlVoNTdxMl9RN2c?oc=5",
+"source": "TRIPURA STAR NEWS",
+"published": "2026-09-28T17:36:00+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "28537feba01a95bd",
 "title": "NTPC Talcher Kaniha resonated with laughter , Hindi Pakhwada 2026 concluded with great pomp",
 "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZnkzc0EwT0NTeHRwLS13NmdqMFUwZ0FaWlFlc0JLTG9aOTdZb1lXZnpSNUFyQi1zNV9qSldRVl83YW1rdS1OYm8yVURLejRDeU15QTZqeTgzS0ZUaVFkSnZBZmNta25WT3c3S3ROYXlaQ2w0NHFlUQ?oc=5",
@@ -632,6 +664,62 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "277ea31a75bc9d0d",
+"title": "Adani Group, Gautam Adani Settle MPS Non-Compliance with Sebi",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZWYzNEa3dRaW1FZzRVUHBYeFk1QTlmZWtGZE1UclBsYkpXSEdYZHJuRThPSmItek5kVnpBVGFLNmRoSk8tREVVVlZEaWc3YmZYcHJQSmFxRGlvN1FmR0s2aEVBUWVlNVQ2ZThtSENDcmZYNjQtMmNYX2RkN25lOGlGZS1uSXdVdmdaS3phcjBwUGNCYWxDazhqcnlLajc3bXgyc2tqMWROMVJtN01LY0pB0gG3AUFVX3lxTFBQTlFhLTdCQlVMSk1ZWDdqUlh3Mkh2Q2x3WHhsU21DRThuXzlWMXRyOFo2akZFOUJNdzlKRlpmRm50TzUtOFZfRzVYQXVVMUlLYndyNzRzRGZ4Q0RJNndEM29lZlkzZm04SFZDY3ZLZTV5aEE5VV9wMlZXUmVtR3hINzhkeDZXbllTVmFiTHlUZmpMRUU5WHdGdk5NX1ZDOGd2d3ZrTC16di1IUFF4NGRxeTdHZjBLQQ?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-28T16:40:16+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fc17aa2d0e9c8206",
+"title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXNDbWtlZ0tuTVQyQTFBRS0tenNlcHJhSjZncjVYUlFDVjJCQ3lwcmQzYTVqQnV0b2VxLWljTVlNREQxV3JBbm5QcFVLeFlqeHVxbHUxbDB2cTNTbHoyOVJBOWoxaU10anNpeHVNMXQ4SFplUnFaakJCY1ZhTVNSS0xNVkYxaFlvVjZFbGNtZVhPS0ZyZDFFWWx4ek5qZVNMRGU0S2RJbG9Ud0RQZVFOY1BaTE1FSXlZZHdlYnA1MWl3MTFX?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T16:38:35+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7692ff701bb924d8",
+"title": "ITC acquires full ownership of Yoga Bar for Rs 645 crore",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXlodG0tR3pTSElVTmxtbjBBclRtRm5EQWR1OHNQUUlKVWc1T1pfNGxEbjRGWl84V3JDMEJOUUFTX1NJc3ZReGFITEEzWHE2ODRRallaaHhYNzA4SmJsQjZjVmMxNEVTaHo4cmRSOWttOG9SRHBZXzZ0bXplQ0RGMmtxODU3NEtldFNLTVN1b051NlhSOVV3bFlmampvUkFlbGJWNkFtT29hM0lwc29UQkJfN1pNdHfSAbcBQVVfeXFMTkl5aHRtLUd6U0hJVU5sbW4wQXJUbUZuREFkdThzUFFJSlVnNU9aXzRsRG40RlpfOFdyQzBCTlFBU19TSXN2UXhhSExBM1hxNjg0UWpZWmh4WDcwOEpibEI2Y1ZjMTRFU2h6OHJkUjlrbThvUkRwWV82dG16ZUNERjJrcTg1NzRLZXRTS01TdW9OdTZYUjlVd2xZZmpqb1JBZWxiVjZBbU9vYTNJcHNvVEJCXzdaTXR3?oc=5",
+"source": "StoryBoard 18",
+"published": "2026-09-28T16:28:51+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [
 "Order/Deal"
@@ -851,6 +939,24 @@
 "source": "Business Standard",
 "published": "2026-09-28T15:28:57+00:00",
 "first_seen": "2026-09-28T15:37:18+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "382d6cdfebf4abda",
+"title": "Gautam Adani, 4 group companies settle matter with Sebi on MPS norms",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN2V6clJSSzZyYTZOckdwdlljUWpQdXVZUmhvY1dic1RIcGRnNldmLW9laWhjb3VvM3hFcUVLUmhQUkRlWVdiMEl5c1V6c2E3anBQZnZ5TUNDMENkNVpDZnhKLUlRYzBzSk1ZenFDWHdZSV9aMTJJeU1TN3dCd2JyTS1GNEI4NmpvSjBaX09LeUJuRlF1WjRyVk9NbkdObFlkdWFsQmVoR2xaV2o2N0VYbkVEaVVsNHpPX1NUZWNCYzdGaVZEZVp6MGkxTWpGNTjSAdQBQVVfeXFMTnByX0VSRU93aXlHRHlGeW91ZE81NGtscDZiX0pqc3pwTkVCZndrZnVaSURVLVVVWFd4MnptU0dPR1FvXzlEMlNoVUhubjF3XzlNbVhCXzkwRUEwRDRueHU4NGRja1JXRm9IRXNkRUdoQ00xVWQxaE00ZU0tZjNzOXNRdkc4WGpla3NfLTYzYmJPdzZFREZLRkk4MkdxUmZLVlczXzNaUHVwZmhQbTlMYnY4NnVMVjVsdjdYXzlfS2ZDLTFIRUFnUkhyb2F2aDZpZ0hDRzU?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T15:28:57+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -1373,6 +1479,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "10e3f7299e0541c3",
+"title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
+"source": "indianpharmapost.com",
+"published": "2026-09-28T14:09:03+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3164,6 +3286,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ea61c728ecedc191",
+"title": "ITC Hotels Share Price Falls 2.07%: Price Action Review",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sQUpKb0ZDcDhHMmJ4SUsteWFzRDdZMmRfdW4ycTJjZ2hGa2J5VENqanFoTkc1WURUUGRoaUJvVnN2UldNQTZyMlk5YlpvdE5wX1AtQUJBYzkzMVE2TjM0UFFlR2FELU9xQUw3d3Y5UUswdDhkbjhuYVJ4WFhPQQ?oc=5",
+"source": "Univest",
+"published": "2026-09-28T09:53:29+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "5c10d42e78517bd8",
 "title": "UltraTech Cement Achieves 100% Green Energy in Chhattisgarh",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1RNendSd2xITl9TYUNkazlrRzB5LW5Td3pZeTM2a3Y1Z3hQcTRzOXhvcHlQNGFBcUpJTmYtcThINXQ5TTlaX2ljRDJHbjkxZC1xeHFzT1A1WHpsdHRaVnc5N05fd2FQSXdweHJLWExwS2tCS0N5MmxGYTdmTG9xd1ByekRBN0xJUV9UTUtTNlExU0ctNVlBSnhqNHRsSm5QaFhvekpFNm9oMzZpSGNOdGpoY0JXWDNIcXc?oc=5",
@@ -3364,6 +3502,22 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "90cec1b660b9e08c",
+"title": "ONGC Share Price Fall: Fundamentals and Peer Comparison",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcF9Ea042SkNabGphQldkUWNqeE1mQjJSalVra3A0eGZQOVZTNVZQUTd2MFRBbXNpaXZ4R0ZuSnUtLXVpYlRaQnJidmFRY3hJVHNOU05OS1YzWlZkczlHNzVNQVZURWxrdjhNN2NMVnZBbFZ4Rlg5eXN5ZDdSTXJmMHAwak1YMUI2d29tY0Z1dlV2UXR6Vm5FeC1B?oc=5",
+"source": "Univest",
+"published": "2026-09-28T09:23:24+00:00",
+"first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "e8485edeb3ae4c31",
