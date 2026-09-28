@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T19:32:41+00:00",
+"updated": "2026-09-28T19:46:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -602,6 +602,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "eeeb49874321f4b9",
+"title": "Gautam Adani, 4 Adani Group firms settle SEBI minimum public shareholding case for Rs 1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOHVPNGJrc0RwMFVmTkJud1ZlOUhnNTVEbEFLajA4eDhtRDZ3UUNRd2JZZ002MzRKekRuMll0QXJTcmMwaWJRaFY0WUp6Tk1ndjA5eFY3UWVaM0dwZzlQbEpyTi1tblN0cWJfOU1PaVIzcXAyUHp2Yi1WQXlvM3RKMlljNEVIV296Z0hvV1FqNFBCSFd4c1lFRWI2cnV2U2o0N08ydEJsZGJ1cEZfVjRHb1J6cWZnTVV1N09sdGxyQlBsZkFXZTIydEhSMzNxM1ExX0xLMU51V2d3OUVMOFJ5N2c3YVRTM0Rs0gHoAUFVX3lxTE84dU80YmtzRHAwVWZOQm53VmU5SGc1NURsQUtqMDh4OG1ENndRQ1F3YllnTTYzNEp6RG4yWXRBclNyYzBpYlFoVjRZSnpOTWd2MDl4VjdRZVozR3BnOVBsSnJOLW1uU3RxYl85TU9pUjNxcDJQenZiLVZBeW8zdEoyWWM0RUhXb3pnSG9XUWo0UEJIV3hzWUVFYjZydXZTajQ3TzJ0QmxkYnVwRl9WNEdvUnpxZmdNVXU3T2x0bHJCUGxmQVdlMjJ0SFIzM3EzUTFfTEsxTnVXZ3c5RUw4Unk3ZzdhVFMzRGw?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T18:25:08+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "98bf442c917a0ff2",
 "title": "ONGC director's big push for E20 petrol: Can cut imports, boost India's self-reliance",
 "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcy1PbHdWTFFMSU15VDdSdE5UNElCRzhJcXk3WXp6ampPdmZUT1N6OVVteW9NZUw1SUFsd2J5UVJHcUw5TFBuS1ItZFMtOURRcTRnNUFSOXFqRmdmWEYzLWpxVS1IUFV1emZ6Rk1BMjhqaGhobHdXR3VYVUtwSzVqc00yb2d0SGJ5eC1hRkViOXNaYlVHMTFlaXk3aFNFYlVhSzFmS2VVOG0yM1VORHJJQVpNeUJuUHBtc1NjdkJjTER3cnZqUWFZbXZnRVlpMlRaRWJ5TU51cFl4VHBuRFQ2ZW44b1N4T25xcFh1eUF1VTDSAfABQVVfeXFMTXMtT2x3VkxRTElNeVQ3UnROVDRJQkc4SXF5N1l6empqT3ZmVE9TejlVbXlvTWVMNUlBbHdieVFSR3FMOUxQbktSLWRTLTlEUXE0ZzVBUjlxakZnZlhGMy1qcVUtSFBVdXpmekZNQTI4amhoaGx3V0d1WFVLcEs1anNNMm9ndEhieXgtYUZFYjlzWmJVRzExZWl5N2hTRWJVYUsxZktlVThtMjNVTkRySUFaTXlCblBwbXNTY3ZCY0xEd3J2alFhWW12Z0VZaTJUWkVieU1OdXBZeFRwbkRUNmVuOG9TeE9ucXBYdXlBdVUw?oc=5",
@@ -885,6 +903,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "de7418a8740ca8b8",
+"title": "84 pc wealth firms need operating model reset for AI, under 10 pc ready: HCLTech study",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1FiWmdzYTQ1Qmo3RFlqVEh3ZEdlb18yQkNqQi1CSTZSZ01Nd0s2NEhqbTc0NmlYRTFhUFh1czUyR1NPLV9mSHl1YTRMUnkzTXpMaXZXNEJaYnVBTVoyaXFURGx1dlhxbTdLaTlVSm9GLXMzTGhhNEhpQmtZcXVNWXlaQTJwQmFqVWZlZUowWW1SN2VzZG5NckNNZmRWMEd0cDR4cWEwRHFTdFl3M3Y1bjY1Y2Rna0Zsbkh0cUVxLVdBTVdmanZNRkk2NjJlT2lqMEh1TDh4SQ?oc=5",
+"source": "Dinamalar",
+"published": "2026-09-28T17:20:50+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c9f38a999a62d784",
 "title": "Tata Motors unit buys 26% in Hyderabad e-mobility firm to bolster electric bus operations",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnlTS3JOMWxwWUJVZU1JeUpUMUFrdlFkTXZlcnRMTVdnU2psWjdKU0RjMFlRM29tbVlzaDlLYTIzSUxaT1lmc0VBWXJnNGRNbGEwQmN2MHU3S1J2RndUNm5ISDVGMmoyV2pmbkhsU1ZJc3Myc3FuRUs0bGtMcGM4NE84bklFU1g5c2xORE5LbmhELW0xUjBLTEtLbF9YS01CMnZVRWhvTXliWloxMks5TzlpR1NKR1dwZVpneUFpMHpJUzJrNnlHRTRPR25YXzhjX2lFMGZmTQ?oc=5",
@@ -1013,6 +1047,24 @@
 "source": "thehindu.com",
 "published": "2026-09-28T16:51:20+00:00",
 "first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f83c0d6cdf521c8e",
+"title": "Gautam Adani, 4 group companies settle shareholding norm violation case with Sebi for Rs 1.48 cr",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzcwQTNNVHNQTHYtWEQyXzdfNUd0NXdmaDJEa2dTaGVuN0syQWZENFNZbURTUEd6RW9RSjJIRFRWYWI0ZjNkdWdDemJSUlhpeGs3ZjdFZGthTnEtRTVzYk02Q0FESlA4Y2ppUkNwRy03NFdvaHlpa05PcFhkdFZZaVNnLVRKZnRUekh5cWRmVy1sRnZiVkFBOENuVkJSWjduaElWNWk4UGUtd2c0S3BuSTRDQ2pHRktFMGEyWUxCLVcwQ0l4dVZYNHFNN2jSAdIBQVVfeXFMT2ZKUTVqTDhhZzBnaU94N09fNkJFM2s5cTJ1eVNtOVozX05TRXBnUUhwQ1huQVJzV0otT3NFTmRsTU1yamVvSF9fOVNkTUlBNVR6aDF5QnU2akNQU3NxLVlEVHR4ZENKUmxMX3hvcnFEUEVfaVBWOC0yT0RJakZOSUMyTTRVa0lidkRnRlY2UXh3aTY0dFpzWklnNnhaN0c0NGZUTzdpdXhsbE5RUDZBNm4tcERtU0dLNHV2RkpUYzc1ZktYaTVvbnMtSlBZTEE4YjV3?oc=5",
+"source": "ThePrint",
+"published": "2026-09-28T16:48:07+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -1205,6 +1257,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "8ebbae9f394b307d",
+"title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5",
+"source": "goodreturns.in",
+"published": "2026-09-28T16:27:06+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d08a7d7658b672c4",
 "title": "U.S. prepares duties following ITC trailer injury determination",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEF6dHFVZms3Z0hlcmR1LXZ0eWJiVnlOUVNyR3J6aTVndkhzdVpnNkxsaDRVUmNwdUhwY19haldGVE54ekJSVUh2VUFVSEZTSVdhSUVhNW14ZnZrbXJTLThIcXlaQ01RZGdEQVU5eGxWSGJsSXU3cDVraTYzMUk3MXo5VEM2ZzFXeFdqempXa0JYaDM1Z1d6d3ljeGxhMUk1U2o4YV9UaXQ4NjQtQ3doeDViZnZveUJpcjJHM1RIOERvM291a0NxaFVKQzZpX05INUE?oc=5",
@@ -1331,6 +1401,22 @@
 "source": "thecsruniverse.com",
 "published": "2026-09-28T15:48:00+00:00",
 "first_seen": "2026-09-28T17:57:50+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bc11478d00533d3",
+"title": "UltraTech’s Kukurdih Unit Achieves 100% Green Power Use",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC14bll6QWhhS1pRQXFxMWlRM2FpX1VaZy1VWTI5enYySmdTeDEzcHZlYmc2NHJ4ek5zTmotTU1zanBvSElWM2l6THBVXzJGUkp4TWZmcl9KU3ZzZzY5MVZBRmFrUjlVV0syVWNRMWJMSmhZUVpZc0FIWkN0dFhYYnA1OFU3bVBKUXJjNTNnUTJNemgx?oc=5",
+"source": "The CSR Universe",
+"published": "2026-09-28T15:48:00+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
 "symbols": [
 "ULTRACEMCO"
 ],
@@ -4132,6 +4218,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e8014b4ab37340bd",
+"title": "Panchkula municipal FDR discrepancies: Haryana vigilance arrests two in Kotak Mahindra Bank case",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3VYdElLN1dTMkRHRjI4QzNxcDhYNEh2TUZsXzhEREhQMEJFTFJuM0xXU1dqSWJTOGpxTVg5ZWFWaDJjamNTb2FDcTJxZS1RYm9SRGVNcFY4aHFNQ2R6N1g1YVZkb1hqSnVWWVF3M2JuVWVXNzVpeVBUMzJUTUtzc2tjQm5GR1NGNDlmWnNxVGE1d2paakFTNTNwcEV4SmI4TmNPNXhjSWRycjRzQ0J2U24zQy0?oc=5",
+"source": "goodreturns.in",
+"published": "2026-09-28T09:17:16+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2cb71e3bf93f52d4",
 "title": "RRB NTPC Graduate CBAT Admit Card 2026 Out, Download Call Letter Link Active",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnpuOEwzMkhJd3Jyci1KNFRONGFDRnhlYnAwaUNqcUlfX3E2ZmdMeDR4Z0l4Sm1wWi1IYTRIMzdVekhXazcwVkd6NEhRWjlsVERfYnpES0hTZmNMa2otdlZUbkN0ZXdFYWJhelE1TWpPam5EbEJ1MVN0WDJ4MmwwbVB3?oc=5",
@@ -4438,6 +4540,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a92c9b0563b54e28",
+"title": "Join Class Action to Recover Losses from HDFC Bank Limited (HDB) - Contact Levi & Korsinsky Before October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUW4zYmZ6dWUwcTI4c0xPdXduemxKUkQxMl9NeWN6QllpdTJ1TE9ZN1pjVEdfRUI4Vm96aXZKU0pDVldwTzJ5OWNXYWpYZFk5cENoRWJrbDNlSUJXbTBxVXpFZmtUMVZOSTFnc3ltUTZQY0ZhaEtKdUhwbFVXWTFBeXF2bTg3UXRMNVppZXA0OFBRblJjdlNIeXctVVNGYWlZcTdlaXZwbnZOaFFCN2k1RlhjaUxzMDBXckVxTjZ3Tmx4UTl4Y19VMUZXdE80enJKZXlRUUh4VUIzeElxWXJFektSakQ?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-09-28T08:26:11+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b81e3b9185024fb4",
 "title": "Jefferies sees 27% rise in HDFC Bank in bull case; what's driving optimism?",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
@@ -4470,6 +4588,25 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "f71fa27342021d1f",
+"title": "BSE Share Price Falls 2% as SEBI Weighs Self-Listing Panel",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRzE1RWJCWlVBcTIwOFlLQnRoMG1xc1pWMHZpa1RhQ2Q4OExRMkROclhoczZvVU9CMkRXXy1vQkU4VGJnNm4xT0luMU5nNjN3RlF5M0VRSVFnMGc5RVFac1JXenJoVWFrMUgw?oc=5",
+"source": "Univest",
+"published": "2026-09-28T08:20:00+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Regulatory",
+"Corporate action"
+],
+"sentiment": "negative"
 },
 {
 "id": "9e154eeb8e2b5966",
@@ -6022,6 +6159,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9fc42ad3e76dd498",
+"title": "Mahindra & Mahindra strengthens EV portfolio with Mahindra Udo launch",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUhQWGFCN0w3SHU2dURxVWljdGQwblUtTkdIZ2NaZjZ4V3pWV25HYm05Mnp6eDZ1NTJZeDlHOUx6X19FR01PYWJVd3ZfNDZtZHFXbHFrZzFBWXZaNTdUS2tzX2djeVNFcDlCSnd2VXVnblBrbHBnc1psbnZyUFBWTFZscGhTZ2Vmb0pjb2RZaVhpcFBuZVRXUS1WbWlSa3ZEWnU0X2ZQTGw?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-28T05:15:23+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9072,6 +9225,22 @@
 "groups": [
 "Adani",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "04eb1549ed37e8aa",
+"title": "Kotak Mahindra Bank to integrate Kotak Mahindra Investments' operations from April 2026",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWl6QV92WW94NTFURnB3TTBhYkFOd0YzWWJwa2FRQ3p6ZzdyRzd4QVJhNTZweGM3Nmh4OXBGUm9BS2NZYzZHMjZoV3ZRbE51Y2hmb3RSalZFSEltYzE0QzhVUUNCLVVGQzVYQS1CMmp6WDkxaDQycXdUUHZrcUtFXzlCVmZxM0tHRnFKQWZTMXI5Z0JRb0ZiejVzdGY5UGxDV3hsczhjX25IZ3lpNGFtSVBrWExjeVhuUS03V0JFUjE?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T01:29:11+00:00",
+"first_seen": "2026-09-28T19:46:35+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
