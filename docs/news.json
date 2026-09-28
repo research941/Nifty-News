@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T22:18:24+00:00",
+"updated": "2026-09-28T22:31:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d9a8799616421514",
+"title": "98% of wealth firms are pursuing AI, but fewer than 7% are building agentic AI: HCLTech study",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUJDZFJTNzg2V0phOUFVOGZqQk1BOVJIbUlJQ3hSTWJIQ2l3V3BGY3R2NGxrWEI0YVBxZTYxSHdBZHdiTlRkd2xqYXNPbUJqOGd1MXRfQll5SzR1R2RkZW9aM0g4VVNOSWRwclNpYjVQM09zRXJMOUp0bWwxWTV0djNlWUJWdkMzYnZMTTlIZldTcm9RUG5qc0x4VVgtQlh0T3JQUkx3WGU2NklwNjNjdG5IalROOXhHMGlqR3VUOGpJaFVINkpIRTV4SWh6ckRMOFRuNGxVWEx4ckx2ODl5VEVUMTU2d1hFNjZtRm9fTXhSV3Q5UmFDaElicjA4TG5zVTVUZDF3M0TSAY4CQVVfeXFMUFRKWm9zakF1RFBuU2V3ODNvOGhSMEJjSlVpRWJ0MkhObXM0LS1jZldnZUR5bzFQWUJGc3lvSG5iR3dGMXdpaUpmWmdPWXh1N1NlQzRPakM5Nlo1OVRjaDRzWmlJdlU0NkFkZ2NmRDFrME4yY2pGeEk4V1h1X3JMdWZPaXNqTThkN0RjLThSLWdpUXlORVdaT21NRkx6TjVmZ3dDOWtfMUQzeVRkeHdxTkRGTjBnUFl6SW5IY192dHRtVjFKNG9pNTIwaFlFRDNWVkNkWkxqdEw1YmYwWWM1amdIRG5HTjV3QWxiOTFJQUotVFJJX1llMjVldUpGOEZpRDN2MndWQ0dZbzJIWXZR?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T22:05:01+00:00",
+"first_seen": "2026-09-28T22:31:09+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "2b8ba960db6666d3",
 "title": "SEBI Settlement Order Eases Regulatory Overhang for Adani Ports",
