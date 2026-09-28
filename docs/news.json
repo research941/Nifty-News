@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T12:25:36+00:00",
+"updated": "2026-09-28T12:52:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,88 @@
 ],
 "items": [
 {
+"id": "8f69695959abc1ba",
+"title": "SC Registrar Issues Directions in ONGC-Related SLPs, Matters Listed for November 5",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hoVm1ndWZsYTc4RGhPMVlGWjZxN2NacHpUUFZRMlNKM2pBN0Z3cXZSNS1YSVNEbVM5SnJpNERPaHBzc1JMZnlGSmxkMHNUZG5xM3JZOXE3VEJrRlhiTnZOV2ljVkF4eWV0T2YxcHVOd0ktdmREWWdPYXp5MHdmdk9BN2ZKdHc5SUtqcUpjenRaYkJrdkdEcnViTnFIUktzTUpiX3F0cGFpdDdmU195eXhBODViRkxlVTRHUzRn?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-28T12:49:00+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b073de5ef74d8ca1",
+"title": "Maruti Suzuki India CCI hearing adjourned to November 2, 2026",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2lYcTN2OXYtdWJKN3hjbTBvNFFDM1ZBM1BhV0JoNkptZzctWWpiekZ0Vk9GU0NvNDdKaUVrSTBJeWFrcmxsTTgtdFpfUkZURHZ4ck9YNFhqbU5tX2R4NDN2Y1Y5YWtBOXl5R2RJTEZIemtESGhkVE0tVGtaZ2RBWTFFZzhEOHRRaDUxSmFJRmhhYkI4dm9abzNPYUltNks5YWlHQjhDeEZFdUxJSHVmYm1MUDA?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T12:30:54+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d4b762535c3782e2",
+"title": "Exclusive: \"So L&T Doesn't Lose Heart\" - Defence Secretary On Fast-Tracking Zorawar Light Tank",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckNXZkNPUC05SDhCT3BCSnJSSW5Oam90LTd3dWVUWHRVb3U3aEVZeEZHdktzMDJTekxaZHFzV0lzNFdjWDZWYnRnemVWeTlnVWVJZ1g3NVpQdXVnSVM0bGkyYnNhMG5BMUJ1eElSYWtxUHJxX3FiYUtrLV92UVNPM1IxU1gzZ3R0VDJTNWh4eDJnbDRpMmJISVIzSmhUeHY1LUZRYko3NDNtdHVOLXNDaFhqVmY4RGY3RzE4U2pSNHNBR09lRnpkONIB0AFBVV95cUxPdElxVUlFMUp2TFRoSzVWV0tTOUR4WW5YaGZUS2JwOG5IZWl4d2hOQnYtVjBlTExnRzdjRzhnc19sTVlsUVpLeHUzamIyM0oyT051dWNELWtIaHdoQTg0VG1xTEhiU0xNdUlPc016NjJ2UVFNZ050bE1HTGVmWks3eXo1V1Z6Wm5makM2d2ZfdjJabm9aeHBwaEpwZy1QTlV2SjBkUUcySlJMc3JScUtacWM5VXM3UEhkSlYxT3NlSnN2LVhWQXcxVUtLbnJueTB1?oc=5",
+"source": "NDTV",
+"published": "2026-09-28T12:29:12+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "851a063318d80374",
+"title": "Over 1,100 participate in Spirit of Wipro Run in Coimbatore",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVV5T1NwS1lRWmdUUXc4OU1TeWVqV0l3MktQWnJlZXBrV3VGM2tDaFJIMzBVN29CNmdMdU4wdnBVRkZlcjRfUXFpTk53c1lQNEtwWjBfcFl1eWYxN1VONjlRTmc1eWRFMGFNWFNITTdrcUE5Q0kyZHRZNGtTTE5IVFN3am9Ja3IwWE5XNVpYRU1UTjFfRUtLU0dmRHF0OWoxMkltREdmekNMUnA5WmktSlJ6T0U0a1B1aGdOWmV1eGJzRVRk0gHLAUFVX3lxTE5qdldhZU1aU0tHUGpmM2IzNXI1S1JwVmFOVmNzU3M5QWtJWkxYemhybUJoQ3BPdDJOZG9kSVVvaGJGZy1XQVE4Y2wzMzVZSXN5RkEzNThWV2NlbjlDM3lSUzUwYXRtcTc2Y1ZacmFDN09QQnljY2ZOUlozX0IxS1hrMXRpWUs5a1k4VWpfQVc0bVcwT1lCUlp3QjdfU2Ztcks1OEFUa2J5c0I5NzJMeFgzaXphWEo5SmQ5UkJXTEt1SEdmVklxNkJLaXk0?oc=5",
+"source": "The Hindu",
+"published": "2026-09-28T12:24:16+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "973136b3ec95c123",
+"title": "Rallyist Phoebe Avoids Crashing Her Maruti Suzuki Gypsy During Rally Of Himalayas: Video",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWhJOEU1UmJaVTZLVWU3MzZXazR5RTJRSXZsRGxmNTNkNlRPNktFVXFjUGtzMElhUG1OR1NCMWJLV0VMS05FMWlKUTVaZ1VacXIzM3ZaVlVNZnRyay1tY2RPZDNoak9BRmxQN1dmLVR4bjBPZmI5YUxQbFZsaXRUNnRDdG0zdUlrWXZYcHZDbGFrMjBjYmtiUUNIN05hR3kwc2p1bG82U3ltYkJQY0IyUjJKdkxYQWlSeDhVMlcyNNIBxwFBVV95cUxOYlpoOHhGSVF1d2o4WkxYRzJYS2ZZenVnbjVFUkNrdzJfRUdSMnFIU1ZsSnU1RTBIUkkwaUVKejlWZHZyUzFwWkQ5NzN5WHhxVjlMS0drQlFqZldzUlJ1TEZFZFBDMlhHOUFNQ0V1NkFqRF82bmxnUTBIbEpWV21HeV9pN0NtM0RySWRjRVFtXzR3Z0hwUGRwQlllLWJldHJzQWp4V3BNenNqZ2dzZmpCRlNKeFA4N29ibktZd09XM2ppaGo4M3JZ?oc=5",
+"source": "NDTV",
+"published": "2026-09-28T12:23:37+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1492a6ca26a6df5e",
 "title": "Govt vs private banks dividend comparison: SBI, HDFC, ICICI, PNB, BoB, Axis, Canara - Which bank tops the yield chart?",
 "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNnJYX1AxRUZlZlFnOWx0UXBIZVZiS2dGRldGQ1BFaDkyZFdQYlh5S0xtM0lRdFlEakJVVlhjRGJrSVMwSFNTVW90MlVjaEI5elZDRTZpNG5vVzlzRHVWa21Wd3h1U2tzLThOOHU1RWdUcWk1a0dDMlk3eFAzZEl2ZUJ1NTExaGp2NVNYemZlX09NaWw1aUlsZGtCbE9WT1N0SjhKQ1VfZjMxQnRYT3J5RDRCS21lMUhFcmxrS1J2bW9UaTYwY1JrRHNmWllJTlJQNDlsdEhtQ2M5NzhqS2s0UVNMR2RkeFkzdzRKZ3c5cWlWSzZDZXZUMVpvZ3kydVlxcXFGMW11ZEpaUdIBjwJBVV95cUxQT1ZOandvOUhzOERQRjVxeGpEMzFMRDlkX2hVTnNlTTBKZ2dqeHBxM1pCR3RueDA4Tm85M1Q1T1A5MlE0cU94ZFJkSXd0bVlZMnRFU2dLaUM1LU5WSFQyVmZOSHo5TnRVOXE1aVRHMy12bGEwbTZBdXBOWk8wdTJldjA2eVFSOG9xeWs3ZDMwZGIwM1dfQmFMNWxiZnFFVVpUdXFDaEFEVVJnV0hNUkd0T1k5NkhJa1B0b2RUaEdqYmZIZmJwVkRzOEJfY1JidEQ3RDEtdDFOdkVaY19JRmx0Yzl6LUIzYlcwa0V1cTNkWkRaT3F0dkFPM21ySUtjZF9TWlNLakpkMWxvaFVxVUY0?oc=5",
@@ -577,6 +659,48 @@
 "sentiment": "neutral"
 },
 {
+"id": "6cec0173b449cb80",
+"title": "Vodafone Idea, Paytm, MCX, RIL, Infosys, TCS, Zydus Life, Sona BLW, Radico Khaitan: Expert shares technical view - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3R5aE51MGw5TDVISVRrS1BrTUVhS0dDTjEwcW9FZ1lZTUdlV3RaZml3T180QkZ1d1RIbXdSV2Y2T3NZSWZqWFNybk1OTjhpSEdhVFFSZkR4V2lCQVhOZjlIR2QtQTFlV3FYNndySk9qcllZSElQZnl3eWtqYUlCTFoxQ0pGWnVaZWl0Z2N3aXUzR0prZ3h0WWxYWFpyLWN1TmFZelRzdklKUjlrQ1VRaVplYnlkYmVCblRLZXBqY1RJSGtlbERHLUlaNDdZYnpWNzdLNE8wT1BRYXFCMlMxelZuOTRyZXI4?oc=5",
+"source": "indiaipo.in",
+"published": "2026-09-28T11:57:58+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"INFY",
+"RELIANCE",
+"TCS"
+],
+"groups": [
+"IT",
+"Reliance",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b7b57b93d4cb4fdf",
+"title": "TCS, Infosys, HCL Tech, TechM, Wipro, LTM: Check fresh targets for top IT stocks ahead of Q2 results - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGNLZExVMkdlekJUTXFtSmJXblJDX3JtcXRFSVNHS3NhWEJVeTRVdzZuc241bHdmSUp4WTczUUV5Y0xCdWpjdUVVZkV4Vl9qQXhYNHQ2TFV5b256YmdDV3doanBHMmVST1lscjVvYjBpQlZoVEJfSUVDMXF5SUZHM1dVQm5HM0hVRTB4bmVzZkRWU1ZaeVczNU9QNHNOcW00UDhnYlB6U3NNWWdMWmhGLXBtQlc1bDhOb2dRQUxTcWkxRHhRcVVxYjVnbDZQYkdZcENwYS1mbXJxdmN1?oc=5",
+"source": "indiaipo.in",
+"published": "2026-09-28T11:57:58+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "40027c328c507a14",
 "title": "Why HDFC Bank, TVS Motor shares are top picks amid ongoing correction",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0dQcjJHNjBjcm9QREVBUm5vX2tjdThUSlV2aDJHOGxRR0lKMGdiN0pPTjdkMm1uWlFXMFR0Q2xDbGc5NlVpNi1XNTduaE1lRV9aeWVtMGdsVGRQQzZ4QndVUWV2bDdya0ZVM2V3ZlpseFJLT0JyYmp4ZmxkSkdocExfYnFHLU5YRFpONkdRLWNWWmNSRnlWWS1kaVVTVGRYX0QteGtLanJ5QkJmLWhHbTEwQUV0WUNsN0FucXllN3hXTzhqd3J3TWNpNEtiTDd4REHSAdcBQVVfeXFMT1p2eGNianNXZnJuMkhDWkpUTnBjNloxcGhWWXk2TWpPSmVrbzJsdXpoeXRlOUY4d3VXajdZdzBBMmVlZnY0bWV4MWZkaVZqSFB3bGN5QWV3aUZPSFBBMGdIOVJ5ajlwdnVoN0pOLTVCRWh4N2YtOUJvdFJZRDZxZjU3c2tvR2d2Y0dEWHBLQ3A3RDhLN2dIQnoyRThSMDhzMFBWVzB5TWpyYTFGZ2JYWExpOWlHX1RtdlNHV21wb3FkaFJXY0x0RFEtakhfOWhTdUJrOEdHY2M?oc=5",
@@ -620,6 +744,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "765a097eb9ea8f37",
+"title": "Tata Steel shares lag peers over three months; is European business weakness priced in?",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUzJwTjB5RjJHd0VCNjh1bVItNjdCYW1QdWhDdmRoeVlpWk5ROTB3TWNEUGhkQWtJUjdWTVU5clp1bFJYQllFalZlYnJKYnFmREUxeGZBMTUxSG9mRTFFcE0xa1lMZ081eU5OR2psN01hbWdnTUt2R3Uydi1HSHZPUlc2aWU5RkJvQmtDMExLSTJVVEZybDR5bms0czhCTHI2RFpCLUZpMkstSEl3WHR6cjdhZXN6N1M0ZnJOWUVveDlPaWtWRDBLcjNRZEpQNWZkS3VDUjVyN2pFbFNzTnV4TFRlZkxMZ2VIUGRsWXhn0gHuAUFVX3lxTFBTMnBOMHlGMkd3RUI2OHVtUi02N0JhbVB1aEN2ZGh5WWlaTlE5MHdNY0RQaGRBa0lSN1ZNVTlyWnVsUlhCWUVqVmVickpicWZERTF4ZkExNTFIb2ZFMUVwTTFrWUxnTzV5Tk5Hamw3TWFtZ2dNS3ZHdTJ2LUdIdk9SVzZpZTlGQm9Ca0MwTEtJMlVURnJsNHluazRzOEJMcjZEWkItRmkySy1ISXdYdHpyN2Flc3o3UzRmck5ZRW94OU9pa1ZEMEtyM1FkSlA1ZmRLdUNSNXI3akVsU3NOdXhMVGVmTExnZUhQZGxZeGc?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T11:39:45+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -752,6 +892,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5d160502ebf6d815",
+"title": "Power Stocks to Buy: 7 top picks by Jefferies with up to 60% upside — NTPC, JSW Energy & others",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmhXX0hRaERPU3BLZEc5MndwN3Myd2Z5V2hIczE0U09kUUYyaUh5ZEQ2ZS1pbjJIUkhReC12bVJHY1NDOWdzR0p6QVE3UUZJNUs0Y3VNdGxhWXVlUURIajFkSzVCOGk2THdCdnpnYWtOMWhUNC10T296aGRFLUFEOHNlVnVMVXJUVm0tbWgxZklRUFlvbW1WUGg2dzRVdE1mQklQcDgxNnhlbXBxRXhNelAxLTgwWk41cU11a0ZWZGs1bWNSOVpxZHhXd2d4UmdjLW9yeFVR?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T11:01:00+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -977,6 +1133,22 @@
 "sentiment": "positive"
 },
 {
+"id": "0ae35cc8bbcac961",
+"title": "Hindustan Unilever slides Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "0362149007c7d589",
 "title": "Tata Aeris या Maruti Swift Dzire: कौन सी कार है असली 'से-डॉन'? | The Lallantop",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXRKWVg0NEhGbHBtb1pKTHFibDhKcXpWc2RLUFpINnZfa2FXT3dfaUpNRTRleDdOZUpDd1V2ZHI4MkdmQ2h3WUxwMzdESW42cGs2TEJkRl96U0VGWFdFbl93cFRxa29lZVdNS1V1UFk4TS1ONGRzUkZPVXpJd1ZGQWZ3cEZBcy15T3VvU0s0dElaRS1EWjZpTnVHV1NFeGNKWHc2OXpuTWRlcnNRQVg2bzM2ZVRNWG4zQ2NuZ0pB0gHDAUFVX3lxTE1LdHcyT3BmWTNnMGt4cVB4djhDUzhBd2FiSWxDcjBEZzdOWksyaFRYd2xIaXFQdVVzS09xaXphLXFZMHZ1eFd6VjlWRDhFM2xCMlhKelJYckx6cFN6eTNaRDB3T05iQzR3Z3BzZHJQMG1kd1V0anBDU1NqNFozLXdHeGFqaFZyZWU4MWZXMWJodkViTFJRNDZZMkZpbWliRERXOHRMbDNiN01ocWxtQnpzb3IyeEctcExYUGp3VnloU05Ddw?oc=5",
@@ -1070,6 +1242,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "191e94a2436d28d4",
+"title": "Tata Steel has received Odisha state-level approval to establish a 7 m",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUd5bmxQcHBaVGRrVFU0S3lUREF2T1c5RkdpSlhHckpxWmhPYVF1enpEM1o1M1Jsazg3REJocTBrXzRjSl96c1BodnJabEdzNjE0UWtJS2dUZDBmODUwSUk1UktGeEJ0Z1NlajIzVUxvaklEenBfdVBpUWpkUUhXY2ItWnN4NFU4NGNhblRTNE51TkdrYUZyQVRpWUwxQkU1UW1jaXlub1hkWnVjVkhjQVR6YWN6SWR0a1RNYVJyNXRqTF9hQzJWaFdOU2dZdVpzRnpkSEd2MA?oc=5",
+"source": "Shanghai Metals Market",
+"published": "2026-09-28T10:17:00+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4324,6 +4512,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "de21cf46a124c0db",
+"title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:35:05+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "27daab200fac43c1",
 "title": "Sun Pharma signs exclusive licensing agreement with LIB Therapeutics Inc.",
 "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNek8tbGZ2TDdXOHliVDEyZmtRQ3I5MWwxay0xRDQ2eXZ4WE16MThreG9aNWpuSFFqeXlTdjBmd1ZFRHFDTWpSRFdkZEdjVmh4OVN0M2xTWUl1cmZsbHhOeG9QVXUydEk1aGpwck5WeWdKWnpsaHpyZnZoLXA0dkZnZGw1eUVCem5UdVQxWlRxTTgwRVVZNUhKdDVpZFAybVl0TmRWZXZ2T0NVZ2RjYWxGQnVxTzNRVGJEd3JLMjA5MEZ3M1pmUXNOR3FsSGNWTzNRTFRsSXZQb0VvRk1RYUw4X1N0bzE4a25ENFHSAe8BQVVfeXFMTVBTR095LUZic3p5SVhhRERjdG5ONXJsMzluU21seEF6RGYwZW11UkxuV2F2by1qUlJNcmJQSHU5UVJNTU1CS0RHMW5OREFtQl9aMEg0NmFpcm5yQTRHdzFrUVV6czEyVmdmc1hCXzJpaXkxd3hCUzNDeDE1U21Mc3JZRzZGWGFfZUd6YjhwaGM1UmRBUzlpdFIwUGY1QkZoYjB6MFhGbkdWNVUzOGhfYVRSYnhCeXk0VDI0MHZpVk5ObW83NXpXakZzUXdkblhndkRQNHZMYUtGMlN2aGRjbjlvb1lUQlBUZl9EaVpfZnM?oc=5",
@@ -4825,6 +5029,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "76c6d5e93b036450",
+"title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:04+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81ff45743b5f2446",
 "title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
@@ -4975,6 +5195,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7ebcbf0d979a7aa3",
+"title": "Grasim Inds Share Price Highlights: Grasim Inds. Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:56:39+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d749e38b8405d92b",
 "title": "Nestle India Share Price Live Updates: Nestle India Market Analysis",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
@@ -4997,6 +5233,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:56:07+00:00",
 "first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a7f6184f8a862cb0",
+"title": "Nestle India Share Price Highlights: Nestle India Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:56:07+00:00",
+"first_seen": "2026-09-28T12:52:45+00:00",
 "symbols": [
 "NESTLEIND"
 ],
