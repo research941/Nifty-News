@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T23:30:46+00:00",
+"updated": "2026-09-28T23:44:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "1b34016dbaf5451c",
+"title": "Stock Radar: HDFC Bank stock breaks out from upper trendline of falling wedge formation; time to buy after",
+"link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeHJRWUNTajljUWt0YmN5cFdPMVFGTDFmUGF2cVVKRU5OdGFWVUNTSFdHVy14SmtqUWdMUEJyZDZpMklZX3Y0VURGdkF1V2V2Q1hBeVBlckY0TEdsbWlfU3VsdGVTdnRKeEMxMWJlOU0yX0F4VlpFNldQSTNnQ2F6WmNjaTRLQThfLWpvMFpVSUNSaEd1MUR3ZjJSTkhlVl9zb2t2VEFMUjhVZk83SUJSX1ZfdmRyVlkwZnYtS1Qzc09ITFVmRUU5aDREMjY1VkVHRjNibmplcXA1NjVENGppb29zQlVnWllSV0N2SGhjSFliQUFfbGFENVVucDc4aEpsdFBkU2FMZUNsdXJhb2Y4ZTNtci1hT0w1YmoyY0RB0gGjAkFVX3lxTE9vQTFWcFFCYjFVYVRMa3EwTkQ2cjRQSVpncU5hamZJc012TFJFc2RFYTZiRXhOQjRKeUFxTUQ5dnFsallKT0VPUWJkNmNpTmZRLV82VnZIa0xGXy1iSGgxWW51cVlLYTZtbnloQk1kdU5HT2ZILWdqQ3k3T3Y3UFJ3M1R5U0w4NmtLMHNoaS16SVBuNzR0dWhmbXU2Q2tvNEFhQTJ6Y2p6S1laV01zSFo0V0RxR0FiaGhRTWt1dTVlUUJOV2Z5OExheFo2S0RlUFM2RHBsWXQ5YWtoc1VMZFppVVdKVWhIb0FuV0tUaDQ1NFR3UUZ3NXQ2ZEdUMHpqeGRSOWJxMjhyYy11UDE4bEQxLWU5cE0xRUpCclFGMG55Xy01TQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T23:30:00+00:00",
+"first_seen": "2026-09-28T23:44:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "d9a8799616421514",
 "title": "98% of wealth firms are pursuing AI, but fewer than 7% are building agentic AI: HCLTech study",
@@ -1953,6 +1969,24 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b33260d3a970ea9c",
+"title": "Top Solar Companies in India in 2026: Adani, NTPC, ReNew, Tata Power, JSW, Avaada and ACME",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3VZbnRhdnNyOFZVNWh6cmt2T19YSG1nT0NadDBUQmI1QzA3RnNuYjQwV2lQRHBzVW53V0RhV0FuWFhPUWhpbnB6OV96cFN5QnNVLU5HQ05zay1vOFhJZ1Q4bmhuWjVlWmM4RlhLWDdlRGdVLUs4X3hTdWUzQlNYZzJtQ2xtY3JZWmhTZ2VfVnV2b3N0V01uMERmWlFtVFVVQjUtYjNjOTRUZXpkMjBCQkE2cDJnX1hldzhUMUEtaw?oc=5",
+"source": "GreentechLead",
+"published": "2026-09-28T15:00:25+00:00",
+"first_seen": "2026-09-28T23:44:53+00:00",
+"symbols": [
+"ADANIENT",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
