@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T16:48:10+00:00",
+"updated": "2026-09-28T16:59:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,60 @@
 ],
 "items": [
 {
+"id": "0b8e0029584f23c5",
+"title": "Sebi finds no evidence Vinod Adani controlled FPIs, drops Adani MPS case",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGVEeWRUVXFRa3VtTGdjSEZOb0hZeHYxU3hzbG84QXUtMEtEemJPUTljanVUOGJfU29fVVVKZXNHMndmbDdHMjFvZlhEbTlQZk1vR2pyaVRELThmT0hab1VHWlNtM1pKMmNZQ1VnbDFETjVwN2Uyc1p2SlhCVVlEdFo0TnAtZjF0cnMwd212eHVzQTBEOXhUbkFucnZ5d2ZTSlhfSUhZWGtFMEYxMC01cDRnU0NCOHl5TTAyeUJyRHZaRERLNlYtWkhaZmhEazV3Qm15Q9IB2gFBVV95cUxQS1dTbmVRQVhyYjAzUFJqSGNwMnI4R0VRazU4Y1lRWlRqTjZUbVlkMno0LV84NDkybUwtVFY5VjI0cTg1R0tGYjRfOGhLOTNGQlRqZ3NfTWFyRHloSXVUVTNPNS1EbXdMUTJiOFNTcGtRRU0xZmRGYmdZZk1rTVNaXzQteUE0VUFkdFNwdjVxX0ZIT1RkRDFsZThmSUZ5WkhQcTFidHREVC02TWNnLXF3aUhieE92UmgzVGg4WmtzRGUtYVJBT2FfQTZKOWlFSDdtTzE4WlNNakRjUQ?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T16:45:38+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "7c912b915d20cea2",
+"title": "Adani Group firms settle SEBI case for Rs 1.48 crore over alleged MPS violations",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeThtM25qZVM1QmJscGdQOFotN2VPQlJlWDlOeGdSQ2ZnRVBOZlJQN2VNc0Q4Y01ScFhkVUxvYU9wZEFvUHBQbmFJejJRWG9nMVF3RXpoYl9GaHpMRjFVM0JLUllMSlhySUdpT3BBcU9vb1k4bUc2RURGZWZYTGFGZG1JNndzTS1lNG9OZFFPNVdVWmFqNFBnRWRuRUh4N3AwQzJoT0I0dmFhNmxmbmFXa05Pc2Z3cndfYUsxY3EtU19FcmJidFNzYTJJN1BfV3dmWU4zT3pVTTZITDJ2bVlvT2NmbznSAeoBQVVfeXFMTWowa2dkd1c1SV9lRExNdTNlSC1TaHZCUDRvRTc5cmRxZ25ZdUhEcWZJU3pBRXNDOVZGZlo2WU1SN08xbWdMcjJsQXU3MTdxQkRBQ25NTHMwZkozaDRLTkQ0cW1JYW9Vcl8wcW9neUxqVXptcUExdlRQXzNhSFVoZjJoOUwycG4xZVpzSkFYakRKMDdWOXFLaGRvQ2NMV0hwUHVMWmhSZnJQNU94b3BZbi1RZlE2QWRMVFlXbk1Cb0tFbXhDXzhDZ1dhN3VPMUdiamJubzQ5YzJ2UkhpanBZUXNwMDdIM1pRbUNR?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T16:45:14+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4f36c9081d03b492",
+"title": "HCLTech software unit acquires European firm Robotiq AI for 9 million euros",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjg0eVdtWXVkcmt4WE1TbEp3SlhxQ1pVOEZiX0s3aWpYM2NsMmpnUU5nVmtud1lyRHZkZGFRSGpnV01tSC1xbGszN0RRYnNuVHVJOWhPSzlsVFltNC10MF9nenVodjdBdTJjVy1sRG90UDFSSWluaG9BeHlnWElyZFctQVp1c0VLaWd2UTVGekJQenRYMUFRN1Y1dU0xdTRyV2VNS2d4bDgzaFFGRTM1MU5feVBXMGNxM0o4T3JURFpxUjFHMEs5ZV9KZEc4b0huMVpxXzU0Uk56UUZGb1VqM3pHTnRUZ9IB6wFBVV95cUxQQkJKOUhhZ1FacUV2WFJQQTczUkphZkloSmprb3dBV3U2TmJpa3otY2Y3OVZVVjZlcVlvRnFNQWktUXVwa2t3X3Y2a29KVHEtajJ3am9MU2JLN3pVcFdGZnQ5c3dCSG1aTDhLa1hUS1QwM3JtM3lXWHVtajJzOHctTDdHNWVycGRsMmg3UEpQelNwRVZCNDJaRko1LWhvX2xCemJMTFA0Tzl5ZUROcUV0bThrdmZXdVFQZk1rb3NYRGtRWVJ2VUtfS09fTXNoN05nSWtSZkZWN2t3eGpzQkIycjlNSDRmc3E5NkM0?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T16:44:27+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c4388f5321d5403c",
 "title": "NTPC and EDF form clean energy JV",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVndjaEp0Nm43NXQxQm1ySjU2c0Q2enNDRTNaMkJva1N1REtkNUtEZGlWZVpLWG1uenJHMy04ZXlmU1lkakpXMHdVQXYta2Z0c3VYSlJBUHk4UW8zUXRzNFo1ejRCNGdCMURxU045MElQNUFtM3hSek05OUR5TUtxTw?oc=5",
@@ -563,6 +617,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "422f824f711681b4",
+"title": "ITC takes full control of Yoga Bar in $67M deal",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcC02aXdLaXhqNlgxVnczNkVxOFlZZFJNbHlVYzNBbWxFblRXOVFPc2VJNUluZzU2U3Q5dzUwRTM4cWxJX1ZiUGN3UkRjYzBGQ2swUGRvdFk5UFVIUGRSN24wV00tNFYxNlRWdkZ2X2NQWWZ4TGlhY25sUTdqNGxuZS1USEMwTlE?oc=5",
+"source": "Dealroom.co",
+"published": "2026-09-28T15:45:25+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "8c397c1b760afb19",
 "title": "Sun Pharma inks pact with LIB Therapeutics to sell LDL-C drug",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDRfNi13QjlaYlpkdlFzX2lpbFhrQUNmaFNFLTlneDFqWkhKR29wbzNzSkwzQ1ViN203MldsWWloeE1pZWkyNG9FTVppQS1QVXV3VDF6NE9qOXNNdnpNYU9VdTBMY2ZjX1ZFdGpab3J1TVRuclJRdlBROVBlamh5aGs2V0FCZXYybHdvV3lIWHZXM0VvVUVhVHNydGh2SW5OYkFjbkV4cXFlSjQ4OUlpLUh6MzVET0NuNDZvSEFTRXA1QdIByAFBVV95cUxPeFQ4YnNaVTZOaTZfSWU3S2hMTUR1ZG1EX2pMSVpyQWN0c1daakRpNDRrN09oaDcxd0tmdnBYWm9JemZlXzNoYk1jTWF0aTFqZE5mT2JKV1Zqal9mTE9SWGZnXzR6Tkx3cklua3pXX1k3YWRQYUI0REFYZWo2QWhvd1VZQ1p5dmF1Wk0zTTdlV0R1dG5paFN1dTV5YkVHVTdtTzgwN1FSbkRIc2FDV0pMc1dsQWJreE9LUWdmOWNCSWVPeHlHMzllOQ?oc=5",
@@ -650,6 +722,22 @@
 "Order/Deal",
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5a96cae0ba1a9f59",
+"title": "Sun Pharma Gets Lerodalcibep Rights Outside The US And China - Newz Daddy",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHFDSllBM3VOeW40WGVOd2tBQTc1dFctd3pYMTZDdWhwRkxqQUxscUlfeFZxaGhBTFd4bUhGaTBmREpTWkNYUVR4MWpkV2VFTmJ0U2xoT25HT0M1VzNyV3BydzdkRjRnUkRJNTdwa0RlemJzN0NOS2xrNl9IUEtTT0NUdF8zdzVhOG1aMlQ5bHHSAZgBQVVfeXFMTzJkZWFLUllTWEktWWtCOWxQb3BfYk1Nc2FSZ1pPUnN3TFlfUnNwbXQtQmVRR0gxUEdVZ1lvSW5UNzNDcHNPdjN1OEQ4eE1hek1ISzMyUGpJMXhseGNGSVg4bmxieTJmS0kxbnRwTnBlVzdqZ3BNclJTOEN2cTdNQVpxdnBLUWpCR0VXZFVoT2FHdFVYMXJRZUE?oc=5",
+"source": "Newz Daddy",
+"published": "2026-09-28T15:26:16+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -847,6 +935,40 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a21517aa1cd3bae1",
+"title": "Green Energy Stocks Defy Market Crash Amid Iran-US War: Why Are NTPC Green, KPI, JSW, Adani and Suzlon Rising?",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0dyc3BxcGNhbzRzTnp0TS1lSGs1ZU9RQldXaEJRQ05pMkN0QndXOFFldkRYbi13cmhSdVFMaWIzOUtFN2tSMGczWE1HU2tEX0xtc2ZnR3lyMl9veWdpOEZUcTJUM1QyS0ExTHBpM3VqbEVLTndNZ3hjUl9VS0tvbUVDUzhKV25QUnZrbzYybUVNT0IzVmQ3N0N0Y1ZWaXFfVTZNUTFBUlVETTlQQ2VQZENuaEtQYk5WSG5MZUtmb0RVWUNZVi1kYXotbDZKcklqLXNxa21uYkU?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T14:35:01+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"ADANIENT",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2a30a1070cbfba56",
+"title": "Kaplan Fox Encourages Investors of HDFC Bank Limited (NYSE: HDB) to Contact the Firm to Learn About Their Legal Rights",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcXFXeGphZUU3NnhteTMxMDRrNlBRRGw5WG96Z0ZrNDdIbExaeFhXMVFIUVFSOVU3YUJCLXVtdFRyaTFHVkwwTVRNbEk4dzUyNzRob3oxXzhxczV4LUZmVVpueExYXzdDQTlYTF94MlhJa3g1NWJhLXVCOHV1ZzRxcmVPVU5FTHZNVUlXc09Hd2x3eDFuTG5ZU0JRQkhpTE0ydFVZVjlnNUhOSzV2MFhWLW5PeHdOaFhqQjl3Z1lQWnhFZk50WWtxWUltM0pxYnFtSmU2QVM0aVkxSnNzaEwzMEdfLV9YOXAxQ2l2d2REQWFheU1WOFE?oc=5",
+"source": "Barchart.com",
+"published": "2026-09-28T14:35:00+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2159,6 +2281,38 @@
 "Auto",
 "FMCG",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fde3b7a7debc4f63",
+"title": "Tata Consultancy Services Prediction for Tomorrow: 29 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3JWbW9nQWctUmcyZzdVX09YWTQ1Y1EyRXB2eGU3Y19Fbml5Vi1LWXJLQmphbll0d3dudVVJeFZoeFd1SGs3bzEwZ1poUW5sV3dxaTR4b2lKYWNjWTBuejk0cGJhMEt4T0pEaW1rS2JJNUVzN0REbHh5S1h2anZfcXVWOGlVRy1CeWI2UmtRbw?oc=5",
+"source": "Univest",
+"published": "2026-09-28T10:49:00+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4d36e300c40fd838",
+"title": "Infosys Prediction for Tomorrow: 29 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wVEJYYm9KRXpTLTFlUU9Ock9aNUNwYTRhU2l3R2JZY28wYWpBcm1tT3F5aFZSblgzQlZUTkJjVjhRSDYxbDZyaHBJMG5pb0hlQXlEdnEtaHc1cF9aWWZlTUdfcmZNTjRkQ2JYaDlRUW5sSzFEeXJn?oc=5",
+"source": "Univest",
+"published": "2026-09-28T10:49:00+00:00",
+"first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
