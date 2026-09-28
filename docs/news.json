@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T07:20:22+00:00",
+"updated": "2026-09-28T07:36:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "2ad9d782d26ed333",
+"title": "NTPC Green Energy Launches 81.34 MW Solar Project in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFHWjRmTWN2bmFwdU9yUEF0Q1RuaWJ4cm91T1NoN05pRDRyYWVVOFNYaWEwMjhEZ2htQnNBXzhiOVNCelQyMnpFTkZJNHZWenJrelM4aFhWaWR4SHFnZGwzck9Nc21FNDdwRC1WWDlyMmV4eE0yZHZFbEJCSlBYeG5faE4weVdpcDZvb1FWU3loZ09rd2R5VEpfbEhQWVlLQVRGdS1mMmJzWjNMNmZvWjFLNVpDQnQzdGhYVDRFLWJaU0Q0Zmt0Qg?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-28T07:21:45+00:00",
+"first_seen": "2026-09-28T07:36:19+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ae6697fcc35b0d00",
+"title": "Sun Pharma and LIB Therapeutics sign global licensing deal for cholesterol drug lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUN5ei1rdjhBMGV1ZzF0ZDNiYm5vOXN4WFoxRjVOSXFYWUlqRFNVWHlRbEU1VkhCbE04MFpIZ1p5LXNuelp6dHJJeEVzX0hoQ3JlQVJhUFhicGpxRUxVSHg0OGFzQW8zdEdvRHk2RkJDWXpMM1UwUGFOYlBKT1hXY3FaLXc2QWNkRHVZMzBzOUREOFFnQWdyQVo0X2psbWR0bks5SUZvRFgtWTYxc19IbUVoWWZOU3R3SFk4M3BLQVh3Qk1a?oc=5",
+"source": "Dealroom.co",
+"published": "2026-09-28T07:18:45+00:00",
+"first_seen": "2026-09-28T07:36:19+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "f022a6f8efc8f4b6",
 "title": "stockinsights it index reliance hdfc icici bank strategy",
@@ -1703,6 +1737,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "ee7fd311b0fd3cdc",
+"title": "BSE Share Price News: price fall and valuation review",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42NXRJVjVVZUJETXp3RjVBRy1KekFHWU1ETEtxSThYYjhrYUs0c1NZUzVMUzVqMG50d2JDMGdja2RQX3dCNTN5dGlsdnRzQm1DbzV0M095c0xpVGtfX2xJVGRLbXJqS2FqWGVLX01Vd1lpM0p1?oc=5",
+"source": "Univest",
+"published": "2026-09-28T04:24:34+00:00",
+"first_seen": "2026-09-28T07:36:19+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "5478c87c67ba8aa4",
