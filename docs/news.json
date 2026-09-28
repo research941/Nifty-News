@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T10:47:14+00:00",
+"updated": "2026-09-28T10:58:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -479,6 +479,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "5e930d144066158d",
+"title": "Top gainers and losers, September 28: Tata Motors PV, AEL, Jio Financials tumble 3%; Dr. Reddy’s up 2%",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUFlOSlloZ3h0RG5PX3NPX012ekFueVg5emxHV1h2OUJlN2hfeVMzLUdnalZNaUpSVnZBUVRjMEZQYmN4LVZUVFpWdl9KUnhXMmxRYkJDd3Fkbmx2TW9TUVFVN2VvZnFCVUdUTTJUWXptUEJzQmpfdXhSbzEzZno4cWlUSHFON2o2SlB5bWFWSjhsMnV5YVJRT1VIZDlyM1E1X3NkN05ZamRyQWJUdVZ5VUdUb2dFdGFEQnVJVnFfelNBWFB3c0RpRjRpLTljOWdNb2loTmpJN2N4NHpuSlhJR2ZYTU90ekxN?oc=5",
+"source": "Upstox",
+"published": "2026-09-28T10:44:36+00:00",
+"first_seen": "2026-09-28T10:58:29+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "430f4f99ba34f0f6",
+"title": "Volume Gainers, September 28, 2026 at 3:30 PM IST: Bajaj Finserv BSE Top 10 Banks ETF Leads Volume Jump",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3R2R4RkgxM1hrQzEwcVlFX2o3dGpvdnFTY1labE5HN1lwRW1UU1Q2M2l2ZTZMbl93RHBMZWRoVnpBSFZCWmxxaWczZWFSQy04LVkxMTk1clFiQ3p5eVlYcHNTOERDRmVGRVRrVnY3cXp0UmZ6Zmww?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-28T10:41:00+00:00",
+"first_seen": "2026-09-28T10:58:29+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "0e90b2aa22a1f7e2",
 "title": "Adani Power vs Jaiprakash Power Ventures vs Tata Power: Which stock to buy amid soaring demand ahead of festival season?",
 "link": "https://www.livemint.com/market/stock-market-news/adani-power-vs-jaiprakash-power-ventures-vs-tata-power-which-stock-to-buy-amid-soaring-demand-ahead-of-festival-season-11790584872429.html",
@@ -572,6 +604,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "205bdc7d7d485c99",
+"title": "'I wish scientists were mobbed in this country': Eternal's Deepinder Goyal introduces Temple researchers",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1lvemN5N1JNclBJaGNNanpQTkJLMS1xc2p4RjVueDRBZzBqdjB3WC1yZ0FvTXV3anhJdjkycmVJSzZsdjhOTzJWLXB5bmhVN3pZRkxjQ2ZYNUNaelJFeGVsMkpBcFRGMGI4b0FMeldONzhVRFdIX0hHZVlOWngyUElQLW5OYnpxZC1zY2FzRDlqXzFqN1JVNENGdl9Bb3NlMVZhS0FoZUsxNnlwVW5KUEV3ZGRKV0dnOWRBU3FuSk5aR0NQQlJGOFl5UlRpajQxaEgyWEYwS05ORUJxbHdUY1B3OXpLRmI0YjdLLV9YeGtCUdIB8gFBVV95cUxPQ1lvemN5N1JNclBJaGNNanpQTkJLMS1xc2p4RjVueDRBZzBqdjB3WC1yZ0FvTXV3anhJdjkycmVJSzZsdjhOTzJWLXB5bmhVN3pZRkxjQ2ZYNUNaelJFeGVsMkpBcFRGMGI4b0FMeldONzhVRFdIX0hHZVlOWngyUElQLW5OYnpxZC1zY2FzRDlqXzFqN1JVNENGdl9Bb3NlMVZhS0FoZUsxNnlwVW5KUEV3ZGRKV0dnOWRBU3FuSk5aR0NQQlJGOFl5UlRpajQxaEgyWEYwS05ORUJxbHdUY1B3OXpLRmI0YjdLLV9YeGtCUQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T10:15:09+00:00",
+"first_seen": "2026-09-28T10:58:29+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -827,6 +875,25 @@
 "Pharma"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "97102d4508ea5c65",
+"title": "Adani Acquisitions: ₹1 Lakh Crore Deals, Raipur EBITDA Up 11x",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHpMRmJjeXNPMUl2RzVOLXZGaVhXVExzVzVkSUY1b0hudVU3N0FnN3phWk51MUxqS2RDY0xGYzhhaVRuVHhLVGZXSkFNbWg4WnBra2pSVXNyeFF3WDlBcktCa21VbjJWX3ZQTFdFdkxVNzhkWFhHa2dHczNwazdEUW1hWGtLQjg?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-28T09:27:43+00:00",
+"first_seen": "2026-09-28T10:58:29+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results",
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
