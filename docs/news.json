@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T11:19:36+00:00",
+"updated": "2026-09-28T11:35:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "9fd6cd04e05095d4",
+"title": "Infosys Plans to Move Up To 33% Workforce for Specialist AI Roles: Report",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGVIbzZKZ3NZbE9kUkZtZEQxUE5aUjJKbXIwMTE1Nk9hMl9yZVo1RElydUZSWVIxMW10aURUcGd4RTd5dmtGWU5xTUVRMzN5TnFCdGZEcXk4aE9ZVmYwSmtpZG91eVh2OGtMa3Rzc2hPZTIyZC1iVDhoY1k3Vmo4VXF5OHhXUENDV2s1bUxDR0RKV1FEVGI5NlZPSDYwQUVHNUpZcGdTOWdsY3B1R3c?oc=5",
+"source": "analyticsindiamag.com",
+"published": "2026-09-28T11:28:37+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "559de54216ccfe89",
 "title": "Maruti Suzuki launches AMT CNG Swift Dzire Baleno starting ₹7.92L",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFBpNzRuV0FCVHMwcDUtMGMzbVN0T3A2NEwyTW1BeWpGaXczcWFWY1FxTmNmT3NHRlFHWVFXaEFILWU2Y2VHQjRvaDQzellCRnJzRHFkbkZoR05nb015WnFfbmxVbkNPSEpNMmUyX2RFSUU0Tnh0dHZlWmh5TDF1QkJlQXpoLUZ6bmI0dWliVmZTYW9rSWw0MF9iYTZtRzVQSHB5bGNySVVZWlFsLXc?oc=5",
@@ -488,6 +504,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c60ff51f163eb22c",
+"title": "Man pleads not guilty to murdering woman in Stoke-on-Trent",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FQUtndENTODFkVmNKOVY4bVE5bFZMdHRBX3IzcnhBZjA3RE1Xb25PQjFWXzhlbnhjOF9GRHVTTWExNzh6NGtJak1UWGxfVkxiS2F3V2ljMGRGbUE?oc=5",
+"source": "bbc.com",
+"published": "2026-09-28T11:15:17+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2565,6 +2597,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "01371178c0640f8f",
+"title": "Shriram Finance shares may rise 22% as JPMorgan flags MUFG effect",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXhkN1pBckE0NzIyUVdiUVl3ckFnN2hFZGV4ckFIMnNVMkRPc1ZBc3FPSmZXRjEzQ2RKU2dKRWY2MWhDT0o0V2ZhM0QyT0lDQzlla3o1ZHJVWWhmZjh0bzUzMl9CZm96Tko0U1kwQUF4bGRMMjNaVjFsVjcwNjktMkFCVHNYRGt5LVF5Z0h0SFhUeUNXbXNwenNRM1IyMTRfZjF5UGVxUWYzUk9tdW1EQTRsOTFFVk5EQ0NxZlF3NmNnXzI4T3piMEMxbXpPMnhM?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T05:39:02+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "abee3653ad32eb79",
 "title": "HDFC Bank shares fall 2% as banking stocks decline amid market slump",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhoVXNlTjFOazdxZHVDS3RCUDFIcERSMGRxX2tPXzItc2xmcjdWNWVWcVFnbTYxZTZwYXRZeDdRaHFxTFktMW85SDNoOVpnY2VYQVQwTGlSNEpvMnJacTlRcWNqVnB3aENrRnlHR2dNUHJPMWltRVZfWXZJNDhLWHJ3ODZubHlVa2x4bjAyWnpLNWNqa0VEQ1NIUDM2QlhCU2xaTHJ2eHVzUGRtTldmZUNqN3otZlN0VXY1dE42TDVWVHZaT21oUTQ2NUxTTnhpMjd3SUtPYzA4SFZyaUhR0gHmAUFVX3lxTE5YbjRjc1ZwbXJBclpBd2RPbE1ScGxiTUVpQjRRdGNndDl0SjNRLTY2aDZOcVlLV19DQkNyRVYxQUZ0SnhZWnA3UDRGQU9pdTNHalljejVfQk5ZTmxnVmJJRDhURndXb18xVVlLcVdjZmJQYlhwN1NyVVBCcm9iTGtDRzVvNjZxR09lVHFvRElHOTdDM05Od1BJWk44eVNnakw2U3hiWGlHaEZPNG9XOEZTc3N2YXBCZjRILXdEeUNmNFlGNFlUMjhlWmR0YzF3d0ZPQ1RFS3FhX0hLWHZXNVZ1MWd0SUl3?oc=5",
@@ -2758,6 +2806,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ced2b151f17b8d64",
+"title": "Power Grid Recruitment Through GATE 2027: Dates, Eligibility & Jobs",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkpMQkZaWTRGZXAtZUxqOHJ5MFVhM0dSRTBTOFR0endWSjhiaEVrUGpMc0h4R3Q0a1RuSkZ5LUNMd0JpNWRsV0FyZW1GZllkR2pCSHlhWlYtbDNNOHFpbWV1UE96V0NDYmhyLUJSdDB5Qkd2X0JqRzhReVVjVFVPZTIxNVd5QQ?oc=5",
+"source": "Careers360",
+"published": "2026-09-28T05:19:00+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4101,6 +4165,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "725e38a1ef91f0f0",
+"title": "Dr Reddy's shares may rise 45% as Nomura flags biologics milestones",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTBHQjRLdUh4OGRqWmVXS2ZIMXlXeVJIQS0wVnNuVU1CcGdLOVRaQW5Ma0FUQUVYQlh6LVZfUWVyY2xGZjN5Z0lGNXp3T3hjM1gwak91d0Rka2ZfcXhVazhDTWpEVG5jMDZhMzk0Rk5uWHhHSFNGTWhGZFRLWTR5WGc2ZU1zcXc4b2pPM1VQWDRQNFNRQ1d4U1huLWM4U3NyU2lOUUprc3l0SjNSdV9DekN2N2tuZ0V4ZTdNNjk1LVBFYzJGZEh3?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T03:07:03+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "c0c89dae021facd0",
@@ -5898,6 +5978,22 @@
 ],
 "groups": [
 "PSU",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "879de4b6701502b0",
+"title": "49ers top Cardinals to reach 3-0, but lose Mike Evans, Trent Williams to injuries - The Athletic",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSll5STlHZjlfcWVpbEpxeDg2X2w3SjhJQXdleTB0Q0NBenB1VzdkdC02b1pHN0NUYVZMeTRiYkJjSFljaGhqeWtNU3NhNXBoajJhMlZMcnJVY2JNUHRjSTYzMG01aTEyaGFNYl9Jd0VYN3dnWGJKRXBEcnl1MHBRVmlITzNkNU8tck9LaktxeEhEazVidVRKWGthaw?oc=5",
+"source": "nytimes.com",
+"published": "2026-09-27T23:54:39+00:00",
+"first_seen": "2026-09-28T11:35:46+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
 "Tata"
 ],
 "tags": [],
