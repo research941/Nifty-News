@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T13:36:50+00:00",
+"updated": "2026-09-28T13:52:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,54 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "67967c6cae8a4425",
+"title": "NTPC NML Recruitment 2027 Out: Check GATE 2027 Eligibility & Selection Process",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wa3dmaGNQeUdxemJpTVM5NWlKQnd5b2l0aGdzTGE3YVlmVVVjVERSemJPb0FmbTdmbWFBbVc3RFJXVnlLbVEwTXdRemhwei0zc2tjb3diaktJR2NMOXgxSk4wUG8zaGs?oc=5",
+"source": "PW",
+"published": "2026-09-28T13:45:31+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b0381c5a4a617e2",
+"title": "NTPC Green Seeks Qualified Coordinating Agency for Its Solar Projects",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS29qS0xuM3VvTjdyaGhINTJRcVdFd2hQZjVzRk5DQVRucVNRYThPRk04R29xdzY0VV9Lb3F6OEtXY1dMci05R0ZDNEhQMXpjak1mWFBOU2hfbVJwdFhEQml6UDlGMENxaWRSX1M2d2lHRnZHSjJ2NGZnRzI1eldPRndYaWowTnBvOVFFOTg5cTVJX2c?oc=5",
+"source": "Mercomindia.com",
+"published": "2026-09-28T13:41:04+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "90f217e2168bd379",
+"title": "India adds 5.5 million mobile users in August; Jio, Airtel drive bulk of gains: TRAI",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYl82QXBLbW50VW10MGM0aEUtbGZTOTlpbVdzMi0wVk55Rk5WVDRVNnZZdDBHVktsSVVjdXF5Vk01eFNNRzB2eWFkY3BqVTB4VC1kdWZseDFtYnNab1lQMFFyTTJrUzFLZ2wtMWRrNWg5WjdDY1RTMTZjUkd2aU5JT3l2Y2F1T0doN0RJejM1WWpaaFBPb0RaTTVIUFphUjB5ZFpZUEgybzE0MVRoclhWNFF5QkJXam5GQmg3WmQ0Nk9jOHFuX2xJaDBPNkxKOTVQMGRWdFdScGVyaUJFbFZscFRBeGZsTkJhMURwNFpNR1Z0MmgyQ3Bfc9IB_gFBVV95cUxOVXhsamV1aTdHallpQXN4OXJmZmRjcE1lU3haemVHbkc4Q01KRVB4dVdaM1lwMDVFdWotUy03bGplZGZxcV8ydkRxYnRFREtuYm5LZGJHWmdVWWxPNGx5S0pkaEhKbTdlOFFkZU4xVVd2aktpVjR6T2c3YXNVc0dubzd3ZzlmZVFoLVFlYkM2WXI2UXZlalI3cUQyRm9MbENfM01oT21JSS12UVh5ZU5ZYmFDOFJhNXVFdUtTMC1QRFh0aWh6RG1vZkdMZWZRc2V0R1QzQmgtQjU3dXp3eFFTOVRDQVM2SHJ1TldXVXBmTGl2ZmxLZWlEV2tfbGs3Zw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T13:39:00+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "43d9f34630c519ac",
 "title": "Adani Green to HAL: 10 Sector Stocks Trading at a Discount of Up to 59% From Their All-Time Highs",
@@ -1428,6 +1476,22 @@
 "sentiment": "positive"
 },
 {
+"id": "f0b91b2e24a3c6ca",
+"title": "Axis Bank falls Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVV9Oa1Y0eXFGN2lqMmdGNDBBckxOMVZxMHpBT1ktdV9iZTZQM1gyTXcteURXSHN1T0V1R0U0WXRMNzlDaklLUFBMTVFMSXM2YzdDOUZxY1lDSVJ3dlBZZmZ3MjdDOWJvdzR4YVZ6eXllS2pTV3BtdWZWLWlpNkM2Y21GTUl1MFFkS1UxWGFCaXJhS1lFVmtITXl0djBRWDlld1Zrdg?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0ae35cc8bbcac961",
 "title": "Hindustan Unilever slides Monday, underperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
@@ -1672,6 +1736,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "447bab7306fac713",
+"title": "Lilly widens lead over Sun Pharma in anti-baldness contest with paediatric approval",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV1pvc3h5MlJCQ1NJdzNkTHZKQ0s3M1B3M0V6R0NNcHVKVnpxSEdpZUJDNzlmV2NvTEp6WlJxQ0poZmd1VEFYX1ZJcWNZN2JhUk1MOFVCOE9vc2EySk5Nd1dJTndTSmJUVlVoQUd0QjdNX1l6d25Ea3AzUkxwTS04endiLXlOWnp4M1RtZHgxYzRMN01LQ2FQb2hHOFdXTEk4QnJXeDVwWWJHUTB2MHdya1o3V19fSWY0QTc2TUxzMEhuajBEejlnVmlkbUdMb2lmSGthbkVCUzRZLWVZX2NUcnhWV2NUZnA5MWpfaldKQVIxemhRTDlTcjhHNk5sNmphMVZ6U9IBhAJBVV95cUxPV1pvc3h5MlJCQ1NJdzNkTHZKQ0s3M1B3M0V6R0NNcHVKVnpxSEdpZUJDNzlmV2NvTEp6WlJxQ0poZmd1VEFYX1ZJcWNZN2JhUk1MOFVCOE9vc2EySk5Nd1dJTndTSmJUVlVoQUd0QjdNX1l6d25Ea3AzUkxwTS04endiLXlOWnp4M1RtZHgxYzRMN01LQ2FQb2hHOFdXTEk4QnJXeDVwWWJHUTB2MHdya1o3V19fSWY0QTc2TUxzMEhuajBEejlnVmlkbUdMb2lmSGthbkVCUzRZLWVZX2NUcnhWV2NUZnA5MWpfaldKQVIxemhRTDlTcjhHNk5sNmphMVZ6Uw?oc=5",
+"source": "ETPharma.com",
+"published": "2026-09-28T10:08:11+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "4555ecdc98d1de26",
@@ -2827,6 +2907,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "82abc01aaea82a6d",
+"title": "Sun Pharma steps into PCSK9 arena with LIB Therapeutics’ monthly-shot",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaEdHQTRzZGs5NzNjR3ljMm81WU1SSjhzSFMxX0xIem9yTjdHZjZTdFo0SUNmYWJselBHTWNwUWZSQmRWal9udF9pQi16cVVxRkpoMmxOT1hXLVdNNTZBRFhWZXk5RGNHbGpqU3BfenEzVEN3OXprc095S1BkYmJBRGctbUlxbHdTNXo1ejl1QU1FRUdWS2plZndlLW96RmJ6d3RnQy1HR2xaZ1NxRUdvNTVPcjFRek1BQnJtVENVNGg4VWdCbUZ4YnZLRXE0SHJFN3NCVk42azBVZy02aGw3OWxJSFpLZ9IB5gFBVV95cUxNaEdHQTRzZGs5NzNjR3ljMm81WU1SSjhzSFMxX0xIem9yTjdHZjZTdFo0SUNmYWJselBHTWNwUWZSQmRWal9udF9pQi16cVVxRkpoMmxOT1hXLVdNNTZBRFhWZXk5RGNHbGpqU3BfenEzVEN3OXprc095S1BkYmJBRGctbUlxbHdTNXo1ejl1QU1FRUdWS2plZndlLW96RmJ6d3RnQy1HR2xaZ1NxRUdvNTVPcjFRek1BQnJtVENVNGg4VWdCbUZ4YnZLRXE0SHJFN3NCVk42azBVZy02aGw3OWxJSFpLZw?oc=5",
+"source": "ETPharma.com",
+"published": "2026-09-28T07:06:02+00:00",
+"first_seen": "2026-09-28T13:52:52+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
