@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T00:27:34+00:00",
+"updated": "2026-09-28T00:50:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "9684b3b8679bd98f",
+"title": "Stocks in news: Adani Power, SAIL, BCCL, SAIL, Cupid and CleanMax Enviro",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbzNKX0VTTVhSMlp6ajhkZ1BCbHctT3M3OEs4VG9OWHRYZ0lwbGRHczZWZElNaDRfMXlfZnVfYmlUVE12SmlZMDNBTXBIQTZWMTdWYXQ5Y3ZFdFVfbjJNODVEQy16OHZyR0p6VFRnVjdRR3E3aTVRd01Bc3ZWbzNqLV9yYTU4WjdNQnU3MHpFc0Fob0dPcml4T29CaU1TUGlqMU00VEpTLVB3T3dmUy04dHFENVp6Nld6S0s2ZmUwWXB0bGphUEVvZWNMbkZMVjdLRjBKQXdpVFfSAd4BQVVfeXFMUDZwMTdLZmdzclNBRFl1QUNDQmlzRWlUeWwzM2ROYzgzbjJMQ09tR3ROUVRrNlBGMmpDQ2RhZlJSNXlUMHlTcTdHaVRkaHJBckczd0h5MGxkTFpaLUY3NUEzcnpRNDRBTFZON3A5cVlJNjJMOFhNb25nTDZXSEppZGhYQnNFZXhKeUw1Ukg1eWdlTTAtd0ZQeWgyZkFReF9kQ1l3dnlyUU9XWHdJUldnN3dHUldQbGYya3hhTjdPTHF5emdwRTlHMExpTjdwWDdhOG5aeHYtbEpnMVZtM2Rn?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T00:30:00+00:00",
+"first_seen": "2026-09-28T00:50:54+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6566e8208b4fdaad",
 "title": "Mukesh Ambani’s Reliance Plans $1 Billion Bond Sale Ahead of RBI Decision",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeV9lbGdyQnMwVUpJLWxUT2ZVZUVCVndaX0p5Tkg1dmVxaFczbHJna1N0WWdyZjBnUUhwcWZMTlVLN1gwN1lsMTl2WjlzQzB4YzlNeHl1UWxuN1E2WmJNS1lxeVo5aTdWc1VUYW1naUNjWUx6amlZc28weGFaNFFkZVY4NDlvbmQyUE05eTVZOVQ2djlFcmo0Vm92aTNBcHZTd25ESUVBdw?oc=5",
@@ -460,6 +476,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a084b82217660ffb",
+"title": "India has 391 dollar billionaires: Meet the 10 richest — Adani tops Ambani",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hMeElqblE5UnQxcHc0eU85RllJZlEzMjRPS3NIQkFkdENMc2NYcGtJOXctc2F1SE1zaVFXVU9MZlB5Q1hLejNOaUtkMjlPdExobnR4N3QxNVRibWJfd09vNXVteTRqb3otbmlfVEtBWWNTb1dxU2JGNHgtaUxqVjBEWVZOZEpTSzNRMnY3aUh2RXhydm5VRnotamRsSE05XzFwb2xfQjBJQ09zNW92LVhMU3NtdW5taWV1ZG5B?oc=5",
+"source": "gulfnews.com",
+"published": "2026-09-28T00:21:00+00:00",
+"first_seen": "2026-09-28T00:50:54+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
