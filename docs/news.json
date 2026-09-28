@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T15:59:05+00:00",
+"updated": "2026-09-28T16:22:23+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "f20dc0562bf7507c",
+"title": "ITC acquires remaining shares of Sproutlife, making Yoga Bar owner wholly owned",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2ZkX3haTFh4WXRGdkU5bWVKVjNJUFMyNGgtUmNpQUJmUDVtWjRobTlWS2RkOE9zTlM1S2Q4S09kQ2NpOEhUcllmWFhEVFpfdGRjb21ETUxIcE9oejJodDc5OE51UEdQcnlWRGVsUFhiamRsOVJvX2JkVTh5UTJVYjloWjNlVURSX21oQ2tMSUQ2NzB2U1oxUlQ5OU11MFBNRGdnTzNHa2xrU3JLZjRkUEh6eTBWS3ZSMGc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T16:19:37+00:00",
+"first_seen": "2026-09-28T16:22:23+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a19be9c1ccb1a92f",
+"title": "Sun Pharma and LIB Therapeutics ink global licensing agreement for lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWt0eE1jOG5veWxBb01uYnN6QUVmbFdRWDhnNTMxLUItRFFVMk94Ung0bTJ0cFBVT3RwMGt0YTN2R2FXclNoMkVRMnlvSXlZM3QwZVJUSzRIaVBIZ0lKZ05tV2tKWThySHNBa2x5ZnYweEllcWJUVXF2Ny15bEtFb3poUkZKbWplUTlhQ3l0NmdjM1J2WDdvWnB6ajQ2SnF2ZDBBZEZyeU1vZlFHTzNaaFdrVEp5dTZ6ei1CNklxRHd1NGR1ZlVKZHo3VQ?oc=5",
+"source": "BioSpectrum India",
+"published": "2026-09-28T16:04:19+00:00",
+"first_seen": "2026-09-28T16:22:23+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "397bbe87e7f93cc2",
 "title": "SEBI allows Adani, four group firms to settle public-float violations",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjdjNUhPc2xFU3NNOFNEbHMwZ0NndVhTX1J0N2dFdDBjOGRoY3FkQmFMNTJUQUpIZjd1WFhBVnlIeVVIRmhpQ1ZYWGZEYVYzSDc0Wk9PTFBSdkxXSm1qeG91aTI4UEg5ak1CTUZPamMzVnQzMThmOXZOdmFkV1dmaVpfd2RsNU1uQzBhNzhKRmRYUGV2em9wVk50ejNuOXMtMjdGZUUyQ1pFMEhNU2JRQVRCaUI?oc=5",
@@ -580,6 +614,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "081a65353cc60ff7",
+"title": "India's market regulator allows Adani, four group firms to settle public-float violations",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
+"source": "Reuters",
+"published": "2026-09-28T15:17:46+00:00",
+"first_seen": "2026-09-28T16:22:23+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2044,6 +2094,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f7e7a5ff1a1f8fb4",
+"title": "HDFC Bank Prediction for Tomorrow: 29 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wNm02VVVENXBQZV91RnBVVHNyemdFbnFWeWgyMzhGOTBoSWxoT05idDNCaDkxTXFnSTdrdktiaUdSUlItZjBDa1pGNVl6S0VRUkxTODFqczdZQkRxcmJVdlM3SktJaktKc0VkSU54R1NMRlp2Qm1WWFpR?oc=5",
+"source": "Univest",
+"published": "2026-09-28T10:48:00+00:00",
+"first_seen": "2026-09-28T16:22:23+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "44e8d1dbbdaafd3a",
 "title": "Sonu Infratech wins Rs 0.8 crore work order from Reliance Industries for civil maintenance",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVZPSV9XMWJsTXJrdENFM19Yb2xWaEpoUnhLcUo0VzZFM0ZqQ2pxaXQyUG9TR2U0TDZ5Nm9PXzVJbHVOUUh1RzNrbUxpblBXVHZXZm02LXR2cm92MnJ5YThDUXFIOFJVcE5sOUZiVFZDbzJSbXlMaE9SZkJTTmpKRXFFQUVNaFpuSFZxMWZHLTY3dGFyYU9KOG9KdjF3NVdFc0E2eXdaVnNmdlB5bmpMYWNMMEJJVW5IdGw1VWJJZmpnZzd6?oc=5",
@@ -2224,6 +2290,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b8be4270b17cb3d0",
+"title": "Bharti Airtel slips Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHNZWnVGZTVpVncwM01lZl9FbndjUGJqQ2ZqV1FfenRuNGlqN2I0bWkweE5BSmtPZFBfeldaelZ4VVdPSWFGanpHQlNVWXN5VXpIQkFvQlpYbkI1ekhMZEJWWXpud1lZcU9PWWlnU1lNSWFvanlZZm01TC1tSnJjM2M3TkRFMmcweTR5MWhXQ0otV1RxU1Y1TUJhZWJjLThHM09FRmxVX0VLSVJmNTlJaGhUVFZFZHVLZGVVUjlhSXVUazQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-28T16:22:23+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "0ae35cc8bbcac961",
