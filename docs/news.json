@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T02:47:07+00:00",
+"updated": "2026-09-28T02:58:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -461,6 +461,28 @@
 "sentiment": "neutral"
 },
 {
+"id": "b6fe9ed8772db217",
+"title": "Stocks to watch today: SAIL, ITC, Petronet LNG, M&M, Tata Steel, NTPC",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUxWLTlJMnl1dHlFQzRqT0Jmck42NW45emVKYVVmTXJIZXpTSGh4cXJ1bmpUaVZIb3ZxR0pVTUV2NU84d3dYQThQTHRQSWtCX1FjaFhQRy1XVzU5YjlfNFZJOWIzTFhlVURoZkc4OEVnTnRrUWd5SXlaVF95Vl8zSFRSLXFOSHBpTXY4NklFRFp6SzFTOTkxTkdRanNSNjJ1RXBXUnBPSVVrOWlUSUN1SGVtd3BIdzRGWUI1TGl0UjEyTmdldUlFNEJR0gHPAUFVX3lxTFBDbkJfdEY1MHV5QVhEOF9yVFNtMG42cXhqNjktNDFLbUJFX0VtdmdaWnk2YzRJUGNMbUYzQm5QSkpUUWtjVm5leGpxLXVRZTVSY2I1a3ZfemJ5UTBJTFotOHJJWGI1WHRoWlkySGxaQ0NaRHVjQ1NKUnhMemFHLVBmc1ItQnU0aVZPUG5sdWxvbFV5NG1qdkpxMm1VbFVSY2c3dl9OYzNkRFBUVnp4eHBHSVlsbTZJQkdhNXRmNDd3TWhITkFaMkJkckZXZ0xCRQ?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T02:39:47+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"ITC",
+"M&M",
+"NTPC",
+"TATASTEEL"
+],
+"groups": [
+"FMCG",
+"Mahindra",
+"PSU",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e7b13e54064dd806",
 "title": "ICICI Bank shares may rise 33% as Citi maintains Buy at ₹1,770",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1FwMEY0WUppbE1LWGxESHA1OEhQRVJpN0lYOUtDUFc0MVBpN3FXMHQ3eFZraUVmSWpiT1hLNzFVM0pYdGxveDhHZEFxMk82a2Q0emlFamhIaXRIUE9FMFNJYUFGdzdieVJpc3NzUFZOZ1R0VUhBRE5ER0tsMGtEUmRnY1BfVEZEaU1JeGM1emxGbFpqTUlBYlFSUkVCaDRiVGxSaVNOeW95MFZsQlVfRXk3eEg2YVZIblVvM3A4eVdnRHR1eUVKMGtpRkVYOTVDa2Ew?oc=5",
@@ -536,6 +558,24 @@
 "ADANIENT",
 "ADANIPORTS",
 "COALINDIA",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "154e9d454ec1730f",
+"title": "Monday's Focus: Two Dozen Stocks, Including NMDC, Adani Power, NTPC Green, Sedemac, Aditya Infotech, TVS Motor, and Chemplast",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTEdPeDBVR2pseTVveGprMUxoTHRQWGVSeFBhUmRCMExRRnlpejFMTkhyRXE5amoyZG1Cek1xMDREWWUwM3ZxR0o0T0RXaExtcHBiM0pocVkwREh3SHpkRFZ1T0Z5dW1iSzBFMHBOcXROcUNoamViVWEzUWNfYzdTbGphc0NHcm1YaFdoTlBKUjhadjRlckdURExZWk1PY1FVV2xUVFhZSXY1NmJMbzZqRElld3pvbDZ3aC1OSm13dlRZa09kUlE3S1lJckJad0tBZUpPQkdQQjJaUHhNX0JRNXFlWElKaHB1SjROYjBGSk12Tjl5VWc?oc=5",
+"source": "intellectia.ai",
+"published": "2026-09-28T02:28:07+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"ADANIENT",
 "NTPC"
 ],
 "groups": [
@@ -813,6 +853,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c840953db8cb9272",
+"title": "Maruti Suzuki mulls assembling SUV Grand Vitara by next year in India",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUt0YzlFNTZSQ01LWEkwc3JxbEZwZ1Y4emw1YTVwX3BVM2FKNU5TdGVTVFdIRHVOcEt4ajc0Q2Y2MDdCdzR6SEdoVmFzOUhtNHg5LVNZbk1kdUZ3SkhxUTlnWnVManFmT0c4U2ZHdnNqUndLXzRwc3I3SlUzTzNtUlo1Zmh2NnhhVkV3NE9RandfbWxidFdabGFnMmtHdkhqM3pkYWJoQmVFY1JrbFlXTFg2M2djcGvSAb8BQVVfeXFMTVpzNU0yZ3hLSlFpM25xb1pwWGhLc0N6NDNuT0FhYVpHcFdBSkZ1RmFXQlRiWjl5cEI3VUZxbXFQdnI0QzM3MDNsU1FfX2pfTkhEWU1aUW5ZVm1RTlhsaEhZeE15emdvOXpBNlVqNDZlRk5iVWpYZklqU2dzX19oU25DY3kwMTdJcEFtU01TMk1RNGhPWTlIQVZHcGxaMURXWVMta1J5aXRUaVQxYk9rYUlNNFFLNEw1b0c5OEFoYVU?oc=5",
+"source": "CarDekho",
+"published": "2026-09-27T23:05:21+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1098,6 +1154,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "762278b9b18e7fa1",
+"title": "Sun Pharma FY26 net profit rises 5% to ₹114,794 million",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNazBaR2RnZkxMV2tUZUxyV2hVbWNyNHczMFNNM2pJQVczekVDN1JrWEVkRG9pTGhhc3NzbDQxMXBpUFh4R09uQldHakI5VmtSamdtTFVhTkJkN3pPbE5UM3hmcDNic2ZzNGlqSHk3VU9pZUJnb1h6LWpueHhHVUh6c3ZfR011bE8tNzVSSnlwMVdIbTI0ZTlabW5pLUZ4ejU4NmpKTHdmQVZfX0R2dWFhdFFUWVNwWGZrbFQ5c3ZiMm1pa1YyQ2VOdzAtUGY1c1IyU1BGZVk2UUJtMDhNWVZVb0d3?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T16:53:54+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "dabbcda4fa7e75af",
 "title": "Infosys to build 6,000-strong frontier engineers team | Tap to know more | Inshorts",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlBNUVFQdWJyUTBQOG5NZmUtQmJOcDZ4Rkc4Q1lKUHZOeWhFQ19ELTdoOU1jVUFzOFNfVHhoT1h5UFRTTVZWQnd2bmdXQkhVVU9GU3QtckRTVVQ0TmFHUTM4a1NoUDE2ajZYUnUybjRlamRHeFBHay0xUGFwS3pyb0FGMFAyclBIU2NVUmxxa3MtdkNBOEJqcF9zcm93SGRHSHfSAaIBQVVfeXFMTUpQTVFRUHViclEwUDhuTWZlLUJiTnA2eEZHOENZSlB2TnloRUNfRC03aDlNY1VBczhTX1R4aE9YeVBUU01WVkJ3dm5nV0JIVVVPRlN0LXJEU1VUNE5hR1EzOGtTaFAxNmo2WFJ1Mm40ZWpkR3hQR2stMVBhcEt6cm9BRjBQMnJQSFNjVVJscWtzLXZDQThCanBfc3Jvd0hkR0h3?oc=5",
@@ -1248,6 +1322,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e3f8f38c0a93aea2",
+"title": "Tata Motors fixes June 12 record date for ₹4.00 FY26 dividend",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1F0QnMzVWMzSktzN2pNb0d2VlNibHFQejhSRGhfdEk4V0ZTQnJTOHg3NEhVOWlXblBLeWJmVjBnYTRWMVZNdjEwUTc2Y2F2TWNDcmVYd0ZLT01TRGdFSFJDRjdqWmRQaW4wRWtnRGQ3UFlnM29adGVqVVhKUEpmUndXbHFJMFB6QWFQMEdubWk3SU5uVVQ5eFdabDZZLXJzajhDRnd2TkMyMENfNkIyNHl0aUdkRWVsNmZ1UEN3?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T14:35:58+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "a49153013bc1ca31",
 "title": "Bajaj Finserv Q1FY27: Lending AUM surges, insurance premiums grow",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2lDR3p6WF80dmdWejZZazY0R0FNX0FQLWNEaHVEN0U4d01qSXNMM1JzT0xTa1ctOTFwTUppck1hUExhR01SX00wQVFoN0hrU0drVVlYbHlOMlV5cVhXby11QU9tYTJiWHNodmh0ZHo4MlQ1Q3RJQzNMMmxWZ3hIMk5uVlF3bHdENVBDNnhma2tJUFJnZVk0WkFTSnhLMS1BQjBQSWpqdmVBa0hPdWJick5kLXJiVTQ?oc=5",
@@ -1294,6 +1386,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a328ec527e1663e2",
+"title": "Modern Engineering Secures ₹60 Crore Infrastructure Contract from Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZHo1MjdaMWVNa0dUc3Z0NlJfNGFfNXF2V3E0YWRHM1VzdksyU0FXZi0xcnVpbUJNVWhYSXlHRmVhOENaZndQQ0ltMXZkOHBsZHB3T2RzdVFDdUdXaXIyR3RXVS00dlhKbTZtM2wxdzNLcWNJODJyc2NyZTczT2F5ZzhjOTJwaFIyTkk0UzVaRWtIM1ViWHBkQ2RONGhYZlQxR3lkaGlUUFdKcWg1a2VpSUJuWm1UNG9CZTFJTElkSVhRXzZVRk1QYVh5Q09SU2MzRzBZZWtJaW8?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T14:09:02+00:00",
+"first_seen": "2026-09-28T02:58:04+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "ba409d145288b4d1",
