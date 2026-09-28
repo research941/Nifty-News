@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T08:23:49+00:00",
+"updated": "2026-09-28T08:39:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "1dada7f9311d9c9b",
+"title": "Tata Steel Colors recognised at the 20th CII Eastern Region SHE Excellence Awards",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3cxQVpCbG1aYnU0aDNnbVNYdVlnRDNheE9NM1FsZ2dwM0Z5WWFQd3p6TEJ4Z1ZuU1I1d3hvazlyTmU5bWpING1YTjU2MU5fMF9ONTFmWE9tUFl5bkdNQkFKeHpyYUF1cklQVDJsZksyS2M5Y2h0SE1JNHFTREFXWkpBd2x2XzRIQmVMeElJZ2FIX3NxYlZnclpmNGs4Z0piZEJHNXEtVGlDbHhVV1hfeVNBTDdLOU5tNnJSdGIyMFhTUQ?oc=5",
+"source": "businessnewsthisweek.com",
+"published": "2026-09-28T08:37:39+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "399a539fcea3bcc8",
+"title": "Sun Pharma and LIB Therapeutics announce global licensing agreement for lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHVncW1XRlJxcG82eVJDYWUzbjZuNHJOWm9pUkU1T3FnUHlMdzRremtQYnpxcEtnN3NBN0NNc200NnRxZVNNTVpMOE5GU2tKLXJzTVdCY0xvNm1leGl5ZWlnTVdSQlBsS250QjM4ZFJTeTBEN3I3UkNzY2swaU1heHllV0Y2ZEFyWVgwRkQ4N2ExYWpsYUtEVkxZNDIwOExJX1dOSjUxVkRFZmdjZXFicUs0U1ZTbWcxRWlLXzRnYmZiWXZjTXJnTWZOZjlmRUFjQ0E?oc=5",
+"source": "BioSpectrum India",
+"published": "2026-09-28T08:33:30+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ee1ddf9c9fad9c8d",
+"title": "Hatsun Agro partners with Odisha govt, SBI to launch Go-Dhan initiative",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmF6UGc4eGg2T1VNMldlTVZoSG1vdnRkX0EtUDEyMHlCeE1DN2VNTUlvX0RRUkJ1MjVWMDhjTksyM3RXZEVuRjA0NXNwaUp6M0tNVVJaQ2Fuc21xZjljTlREVFFFWVpUaV9ad0tKZmM5SU1VVkZfdE90dTZuWVYyd215cjE2U3lVYlBDV0RLTEhBSFpZdUJyLTJRS0paV0dFZi1ISDhqOWV1NmZ3dlFBTmdhTS1aLVgyOXcw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T08:27:38+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a55a47fcc94d2747",
+"title": "HDFC Bank's rerating hinges on CEO transition and execution: Jefferies",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T08:24:13+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9e154eeb8e2b5966",
 "title": "HDFC Bank CEO appointment nears: Jefferies sees 3 execution triggers that could drive rerating",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQXZaeFVVUnAzclliRzBLMEM1TU5ZcDJLbnpJMF9IZVpuRGNUa2xrTTljMGZLV1QtV3pDa2ZLQmtkbGRoVjVCb2ZPSlp5dmJpbGpzSnlVaVRmRUpIVUV4Z2xxdzROR2tUQzh3V0pHUFc0NVV5ZjVTX0lsNVRDb2poZndVZXh0U3BjUy1YUW5ub196Ym54dFA5QjB0UTY3V0JXVFpzMUY4c21WeGlWcVVMdmtCNFp6ZzkyV2xRVE82YlYtbDNtSFk0cVhjYTV2MjYtYnppM29QaTVMQ05oQ3c?oc=5",
@@ -874,6 +940,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fb8ca83f123217fc",
+"title": "Sun Pharmaceutical Industries Limited (NSE:SUNPHARMA) Secures Lerodalcibep Rights Across Global Markets",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYk5RZ0VzUjZQYWd6UkhBMXRObnNySFI5Rksxc3dxT3N4VUhsdWZyclhDbHo1Zmo2TnlZY2Nxa0dhaXhuUHYtZThpaThKelgzVUJfd1FibFY4NXk3OWh3TldPQjBaRDAzOTZVNVQ2SS1vczloYmZWclhIT2tjQjN5dllNMGF4aGxGM0VTOVdkcUN5NW9ZUkNvdW9Eb0JlYlRNbUxNVzhGYjR6Vll3NmcyeC1JRU9URDliT1BFaUM4dGhFYTVZV0VObURMb2hjNi1wMThYdzBxVlc5a010ZjRyYkk0QVJoVUlrQnRTRnJkWXlaUQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-28T06:47:00+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "3c7ea33e191245f1",
 "title": "Tata Motors launches Aeris at ₹5.29 lakh, targets 7.5 lakh-plus annual vehicle sales, EVs remain in focus",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMl91M0hELS1NSFVwYjBCcUtEUTF6Zi1CVWozSEVfSGR4Q04zNzBVTVUwTEZ5bGpXdGtZZzFNWWctZl9RSWlZZlB4RzU2Z1VRV2ZMQzJkdmdHUTdqYUxrZWJVT1lYbFFteG9GRnpNN254eWxab0U4Mmdlb3MtS3VMNUx4TUk3c2N2U2JjV0E1bzRxeEFKQ3pQWFotVUZKc01tX2FReHdyTjZQUGpHZ2Zic1N3dkpRVzVDUjFNV0RzeEt4QnRRWDM1RnpWODdHOGtlOGxocWxLX2FqdzFVYjF4MHcyVjBscUZ6Nmc4dVpmbnJRWHRVX2M0?oc=5",
@@ -1062,6 +1144,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "ee88070b6e48d61d",
+"title": "ICICI Bank Faces ₹768.6 Crore GST Demand; Says Will Contest Through Legal Routes",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeEJ1SW9ZYVZaMVN5M2hpamRnMWxtZDB2SGl2YmNUMWNzTk9TZ3VUSW8zenk1cVUySFRUVlltZXZzSGw2eXZQT2o1ZWhYeWJOUkVmNjdFeEMzYUVHd3NQbHpVYk95cWtvTHRENTRXeU1OeEUtXzkyb3htWXlJdGJoSGRuX1NxMy1CZ043dURFYWNtbVpJR0lFVzRJQ3g5UGh0UW14NWR0VElycXk4TzczRmxn?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-28T06:15:18+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "2af0a0a09515f6d6",
@@ -2450,6 +2550,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "35f8c758939027ce",
+"title": "TNPCB Says Sun Pharma Didn’t Expand as Proposed in Chengalpattu",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1NRYXd2X2hTVkZ3WTl0cjZkelVpODZ6SjRhTnJyRUtKSEVndk90eEs2RWFMRW5HSkFuVmJMQVNRb3czbkR2Qk9TSEtMU0l4UnV4eE9sYm1PajMyUFo2V0hyRUN0azBvZVM5NkhBRkljQXJvczlRUzBaWG5kRk1GWUNHYmtmUW9QNTJsR0RyeW81T3pjLXVsSUY2cXlKM01pSzBDQdIBpAFBVV95cUxPU1NRYXd2X2hTVkZ3WTl0cjZkelVpODZ6SjRhTnJyRUtKSEVndk90eEs2RWFMRW5HSkFuVmJMQVNRb3czbkR2Qk9TSEtMU0l4UnV4eE9sYm1PajMyUFo2V0hyRUN0azBvZVM5NkhBRkljQXJvczlRUzBaWG5kRk1GWUNHYmtmUW9QNTJsR0RyeW81T3pjLXVsSUY2cXlKM01pSzBDQQ?oc=5",
+"source": "Chennaionline",
+"published": "2026-09-28T03:54:56+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c7cf7362d62411c1",
 "title": "Shrikant Chouhan recommends buying Torrent Pharma, selling Bharti Airtel",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlFKY1UwTUhabTlWY0tDLVV0UVRGZHM5RlBVWUVOYWNBTDZ2Y0RyelZZNXhUdFBqY3dGaXotS0NjajBqelAtVDFrRDBhdXR4NW91U1VueDVRcmg2VDQ2dHRlZXVHYTJiM3Vrc2RUQXhpbV9YUXM2c0ZWZ284bWVNcGU2cm5zNUNHdDlqNHcxWG85X0RlOUN6LWotY0VManB2SEhIdi1Yc216MmpRREUxR9IBtgFBVV95cUxQc0lfR0lzeVk1R3RCeXdWeVlRcFRhcHBob3c3VDFFMTVqaHlpMXJDc3pYenpSQnIzeXZpaTJLMkgxcXlZd1lFTk1BYkVIWm1rU00wZEZRYWFldnZkZmxsQW93QU0zUmpxaUFKZUpCMHJUMFE0Sjc0RGNhWnBlZTlkaEg5UE9NOEpXX1FPQzlPcXp4ZEYwckNpdE9BVU9lVWwxYjVUNDlpb0RENW5jMGFRVG5CVldPdw?oc=5",
@@ -2680,6 +2796,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "def090934981192d",
+"title": "Eicher Motors Share Price Live Updates: Eicher Motors' stock price declines amid market fluctuations",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-28-sep-2026/liveblog/134530857.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:21:08+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "4a6c77d00a89dd3a",
@@ -2926,6 +3058,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a547ae20b3e121d6",
+"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Recent Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:04+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81ff45743b5f2446",
 "title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
@@ -3140,6 +3288,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a0e1c93cb832064a",
+"title": "ITC Share Price Live Updates: ITC shares experience a downturn",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530446.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:55:06+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bf7e2d3477a46671",
 "title": "APSEZ, empty box depot operators work out compromise to end strike at Mundra Port",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEdEVUVGaDVUN2pNLUtZQlBiOGkyS280eGM1ekhJQ1duSlFzelcxWXlVUFhXWGVFX0h1dEpTQjhXQmJlejhuVmJ2S2hPMUowYkUydU5nVWs2ZzFqU2RZTmVIT0FUU2FOeVA4STZHYldVcE4tdFVLdHJLSHpXbnlrXzlQOVA4Y0FUVlJaVGg1SEZFWGN2TG5CSEQ0SjVLeW40SzYwdHdsMENvakJUbGFSVUhtaUY0cFRVei1lZEJJSmNfUEJST0NuRTJBRlIyYXhIelVjMG5XeW9peXZEU183bW1lNVkzdzk1YktfdExR0gHuAUFVX3lxTFA0R0RVRUZoNVQ3ak0tS1lCUGI4aTJLbzR4YzV6SElDV25KUXN6VzFZeVVQWFdYZUVfSHV0SlNCOFdCYmV6OG5WYnZLaE8xSjBiRTJ1TmdVazZnMWpTZFlOZUhPQVRTYU55UDhJNkdiV1VwTi10VUt0cktIeldueWtfOVA5UDhjQVRWUlpUaDVIRkVYY3ZMbkJIRDRKNUt5bjRLNjB0d2wwQ29qQlRsYVJVSG1pRjRwVFV6LWVkQklKY19QQlJPQ25FMkFGUjJheEh6VWMwbld5b2l5dkRTXzdtbWU1WTN3OTViS190TFE?oc=5",
@@ -3189,6 +3353,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "a65102fda380ccc5",
+"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ faces a price decline",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-28-sep-2026/liveblog/134530405.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:51:10+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "1b29913adda437fd",
 "title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
@@ -3227,6 +3408,22 @@
 "source": "ET Markets",
 "published": "2026-09-28T02:50:20+00:00",
 "first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "32eea937883c9cfd",
+"title": "Coal India Share Price Live Updates: Coal India Current Market Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:50:20+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
 "symbols": [
 "COALINDIA"
 ],
@@ -3307,6 +3504,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:49:04+00:00",
 "first_seen": "2026-09-28T05:00:03+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6d64e84ba7b007a5",
+"title": "Power Grid Share Price Live Updates: Power Grid's Current Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-28-sep-2026/liveblog/134530368.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:49:04+00:00",
+"first_seen": "2026-09-28T08:39:43+00:00",
 "symbols": [
 "POWERGRID"
 ],
