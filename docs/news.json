@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T07:00:29+00:00",
+"updated": "2026-09-28T07:20:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "f022a6f8efc8f4b6",
+"title": "stockinsights it index reliance hdfc icici bank strategy",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1Bzdkx5b3dNamhJRHN6T1FQSlozWndHdFZ6TE5sRmx6YzFTWEhrc1NPWHN6Rlk0RWMyYm0tdnQxVEd4QjgwM3NLRmJfbFdoeDRaaEk2Wm9WeE1IRjhVUlBqTTZPQnU5VXZEU3ZkTXo5TkthdGdkNjlvWThrWFI0RV9heUN6YkUxbi1YZnZ4RUpxdkdiQkxDUUdaaVgwazNrT1RWaWJFX2xOT2k1UnpKZmxn?oc=5",
+"source": "zeebiz.com",
+"published": "2026-09-28T07:09:01+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "164ea534b5a5a7f4",
+"title": "JSW Steel to Pearl Global: MOFSL's 6 ideas from large, mid & smallcap space",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxZNV9GUVpKMXFfX24xUHpBOWtySnNxQzVKWmk3c1BIV0Y2SktNWnNYby1JXzFfcThIa0dLWE00U0drZGVCekdraFB2eTgxS0xneVV5blRDNTBaaGNnbWlqdGFWSVRKd3d4SlQ5Zzl4UFV5QjVFd0E1TWhyWXVzaWxncVF4bk45ZS1od3BQRXllT1dNQVVxQmUyMnk0VC1wb0p4a1R0U2JQNVlHbm1nTHRUNGdKMHhVWVoyRTM0NTZMNDdpemx6X2ZXMU9tRXc1TVFNV0xxSXRoQml1SUxXenR2SVFBNE3SAewBQVVfeXFMTVUwcm5RWjRfNTFtOUJCSUhfTm1aSW1HTTBrdVNKakpsd3dlR0RIOUdXcE5rbFVOMlh2MUVSSU01MTJpdVJMUzZXaU52Y2xEQzRiQUlHdUhKWFRzc3ZmNFFINVdTemVCWHFFU2lzRTh4UXdaektLaEFlTG96WE9ISkc2b1JHR19Lcl9LWk9xdkNkUkN6M1pGZ29UMG5rQUhsZDBkQkx3akJ0ZHNBS1dKSl9iYnJwSXR5X1dscXZrNENMb3pZNExvUzJDQURpbVlEX2JIQkp6VjluQVlPNEY5aWZmQUJlX0hlRFMweGE?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T07:06:32+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5c78f013bf4a61a4",
+"title": "Axis Bank To Increase Campus Hiring To 12,500 In FY27 As AI Reshapes Workforce Strategy",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzRubXNFVXd2VEhDTFFQRGdZU2FzNVZOMUNCSTBwYVF0X0d4VFFMNENrck12VVpfWU16UGdYZFRXVk1vV2ptLW1yTHN0NTZoRjBzZ01NQjZHSlZoTHdlc1lsVmw2empJeEdYejRrUTRlNURkanlMdEdlbU9ZNDNBUHlnX3Z3QU0takNyRmpncEZ3Yi1NS2lCWWFyQ3ZtVHQ5cHRSZW9YUnloTHFOUVVqRDVRZGRMbDMxN0pzY3JVYzEwTmJhMlHSAcsBQVVfeXFMTzBQTmFmVDN3RVpvVnhZUXVJbld3dTlvb2h2aUhydDdwRXM4R3NEb0xVSVc0eW1YX3VULVZGdG5SRXY1eTg2Z3NTb19POVhWZHFHMmJSODFkdzZlak9BSTNwcGdyRkFBbDk3Sjl2c2htemc4b183MTN5U1M4Vl9YajlGVkpybldDdkN2aFM4di05UjlJbXpodEJxZ3FYbkxkdmMyeldlQUJtOHphcjJLVGloOWtRWnJYazlGd1k0OXZ4QV9nU2FBNVVBWHc?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-28T06:55:27+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d52b5eb25c578afc",
 "title": "Sun Pharma in focus after tapping into $3.7 Billion ex-US/China PCSK9 inhibitor market",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1hQcEJlUDlLUmVlV0gyNTgwbEstZlhONzNCQ19hQ0F2RHVWUDg0OWg4TnB1WTRiLTFYbnFobjlobk1VZlFBSTR1OTZyTEJlZS1QNlBzS3V3R1NLSXB3RHIxUlZVem43RTJKS3lIZGVkMy1MN3kwVXBMcVUxcEhZVzRVM1JXSmpMbGlIc1pvYnhoNTA3Rkg5VzlyVllReU1TRTJtQnBRUHNsRVlyalV6SHZVZ2k0cjhGS21zR0drdzZvb3I3MUg5TjdB?oc=5",
@@ -649,6 +697,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "227c5a2ca8d793b8",
+"title": "Grapevine: Coal India unit, Prosus, Porter, Rapido, others in news",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWtHT1RFd2ZXN2pzN0JGSTA3cVd3a2pwUW9WcTNiREl0WVJ3Tk5XR1ZZcHE4NjhPUkxYTFJTSVcwY3RfNmpGNHNiX3p3OWk2S00yc2NNbzB4ZGZfQ0dUSDNNVERuaGZFZXMyWTJiNDRYbWpVX1lqVzBtYWgzdlBOcW5kWm1WT2kyVm51YTF6anhKNDYwcXc?oc=5",
+"source": "VCCircle",
+"published": "2026-09-28T06:13:22+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "66d3492a5f785804",
 "title": "Adani Group to Invest Rs. 1 tn in West Bengal by 2035",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnpQTjNHUkhrNVZSZC15ZWxxWHh3SVVvVVJUaVpqdFY4OTk2TjZMNGZFV3VCa0t3V2Y2elFuWS1BZnRkQ25RNzg2djgtNnVQSWtCQXpZcjdrWUlsT3BjazVhT0xkT1JSZTJ4V0ZmRUt4TzBRQk1uZ3RubVl1dnMwdnN1eGsxSV9nRDRENk1CRmQ4c2pNeFI5UERrYWc3YTI5ckpFQWsweXlSbl9MQnFfVnVvQmZGM1RJdmN6bU1XeGRUZVU?oc=5",
@@ -760,6 +824,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e3df64766af3e848",
+"title": "TCS renews title partnership with Jaguar TCS Racing and expands role as official AI partner ahead of Formula E’s GEN4 era",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KQVNhdjF5MkxzRjgydEhhZ245bGZseXd0cV8yVlhpSXVBOWJURHMtQmhfRVhLM0x4MHJSZWdKbFp4TVhET0prX0ppZWFheGJlNHVJc3lqUmVqY3RrTm5HUEZZcllidw?oc=5",
+"source": "nationthailand.com",
+"published": "2026-09-28T05:56:00+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -2664,6 +2746,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:49:23+00:00",
 "first_seen": "2026-09-28T04:33:08+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c97288e5f28daa00",
+"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530372.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:49:23+00:00",
+"first_seen": "2026-09-28T07:20:22+00:00",
 "symbols": [
 "JIOFIN"
 ],
