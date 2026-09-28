@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T02:33:37+00:00",
+"updated": "2026-09-28T02:47:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,107 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d9aeba6230b4cb36",
+"title": "Maruti Suzuki to Boost SUV Lineup with Next-Gen Direct-Injection Turbo Engine",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3RLNFQ3LUszMElyUUZmZmt1OU5Ob2VRci1BbF9GdzVjWERVZkhQcXBsWlhMdVVaSVA4NzhueGdOYzVhQ0Z5SlRQMm5xUm92ZlJBRTIzczNBRllOUHZaNUJDYW5IS1cxRkd1eVNENW0zTXJ0Q0JQRFJiUmhFdGxibnptLWJPWjZiOGNickxDb18taF90MGtrMDZoMU5yNG9hemlsSXlPaEU5UQ?oc=5",
+"source": "Car Lelo",
+"published": "2026-09-28T02:43:04+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e7b13e54064dd806",
+"title": "ICICI Bank shares may rise 33% as Citi maintains Buy at ₹1,770",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1FwMEY0WUppbE1LWGxESHA1OEhQRVJpN0lYOUtDUFc0MVBpN3FXMHQ3eFZraUVmSWpiT1hLNzFVM0pYdGxveDhHZEFxMk82a2Q0emlFamhIaXRIUE9FMFNJYUFGdzdieVJpc3NzUFZOZ1R0VUhBRE5ER0tsMGtEUmRnY1BfVEZEaU1JeGM1emxGbFpqTUlBYlFSUkVCaDRiVGxSaVNOeW95MFZsQlVfRXk3eEg2YVZIblVvM3A4eVdnRHR1eUVKMGtpRkVYOTVDa2Ew?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T02:35:50+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b493bc8ed134b5d3",
+"title": "IRDAI caps: JPMorgan ranks SBI Life first, LIC last among insurers",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUt0ZllJbTNLTXBnaU5sdXFLbmJKbmtfajltbmNhLXNQRVBVMS10U0xfVi1lNnlJNFF0S2I5X0dTbVZ2UkNYNk5NYUxDNWxMUnY3OTM0dkZmckE2N1M3ZlNaaGs2UHE2VFl3U1BfMWJwY0NPZm9jMHBjZC1VRGM5bXRVRWpOdDFjTUlzZGZYWTQ2Z201NWNUNUhRSjdfcXluRnhQUGFnTUU1N0t3dmJpUE1Nc212cG1WOXllNDloUHR4eEhlek42NWpaSVpZWG8?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T02:35:27+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4e4b31f31caec536",
+"title": "SBI shares may rise 32% as Citi maintains Buy with ₹1,300 target",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUpDeHFXNEJpX1dlNmY0d0kxYV9ub3RFeVdBQVhTcncyWjZyTXQ2azZ0di1kNUVTbThRX1JuRnd2ZEd2aTBRRVB0YVkzdHAwUGxldUluS2NQeFlpOHBXR2tkSERYdENmcWNMV3BvOGdMUDhiOGRqVzZQaHhHVmswVjBVUEJWZGRwcmV0VDl1R29kYmpsRC1xZWtNNEhKSVB2SVBuUGpNdXA1V3VSc2xpU2ZYVlFMeWEzWUJhaXJsdnpIUTZDQWlGZnJwV19Qdw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T02:35:27+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "2b2113ec0fec7aba",
+"title": "Max Healthcare Opens Fourth Africa Patient Assistance Centre In Tanzania",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHc4WGhUSHl1bk1Gb0lCTXducFJleEprSVhsbDJkQ25UUkh0b1MwdG1vQnJjMGV6SlVEYlZLejA1NTRrWmhHOFR0VWp2MmtBbTYzOUJraG9KR2NRN3ZxWUtacTUwUm1GNFFWNmNaZTJYZ2gtRUV0dXpHWjZWc1FsN1BHTEc2NkdPY3RGV0ZPVkJhcXM4Qm5QbVNJQ0NUUEdrNFFYQS11NWhwdVdYaENaV3g2ZFlKdDlKS0xUN2Jn?oc=5",
+"source": "BW Healthcare World",
+"published": "2026-09-28T02:32:41+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ffdfeaf8e4aad54a",
+"title": "Stocks to watch, Sept 28: Tata Power, NMDC, Coal India, Adani Ports, Aequs, Fujiyama Power Systems, NTPC",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbzNOQmZwc0E3cUY5eTJpVW12NjBWVko4Z1l4RG50T2ZwSjdQcE5pRVpFazViM2t3Y0dYZFZaOWZyZlhfVjFLSjJ2eXc2TTB5b2tTZXVyNVlZckI4MHUtUU9pUjlhN1RzUFkzalE3Z2pSQmZzRmxObU1zeVVJUDcyd25CQ1ZaUnpOcjF1emg4eFZqd01KOU5aQl9xZzlXZ1lHSjV2OTJWSFNVMG1peEc3TkNxMGtCMVhlem5OMkV6RnRncXphTC0wckF6MVJsR0lJVERBNlBWZDkxSVMzSnpVZ1FZb1E5b0lPdVhn?oc=5",
+"source": "Upstox",
+"published": "2026-09-28T02:31:59+00:00",
+"first_seen": "2026-09-28T02:47:07+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"COALINDIA",
+"NTPC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "d08434d777a24bc6",
 "title": "TCS: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
