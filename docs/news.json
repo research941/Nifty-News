@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T21:19:00+00:00",
+"updated": "2026-09-28T21:32:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,26 @@
 ],
 "items": [
 {
+"id": "2b8ba960db6666d3",
+"title": "SEBI Settlement Order Eases Regulatory Overhang for Adani Ports",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYURZdzJmeVZOa3JJeml1cHRhbGk2UWo5X0xZLXpNdHdMRnlVa3RlWXZpMGh0bWtNVm1vb0F6VEhkWVBmUHh3WEdYcWIwcG9Sb3VGVHVVanQ0aW9oak9LRjhmeFB0VGk4NnhFVW5lU2lnVnppZUsyUTgtY05TS08wbzlDcnRyZFl1R3p2YXpHb19xdzluTm5WU2ZBcWtMT0paalhlOENNXzlRb0tZT0JVbHpYOXZhZw?oc=5",
+"source": "TipRanks",
+"published": "2026-09-28T21:24:43+00:00",
+"first_seen": "2026-09-28T21:32:00+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d18517457798afee",
 "title": "Reliance Industries stock at INR 1,197.60 on September 28, 2026",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTRSUzM5dWNRR281MWRSQ21SZHc1LVRtNlBjTkd6N2lBVWp6ZTlnTlZ4YWYzYVh2V1o5ejRFOThvWUJ3M0VIMXhPT2hmMC1jd1JBZ3RjeTUwN3RQeGRKLWFjMjNPUkt1LTRfUTNYX2swNWZqdzBYZWRyemo4UlR4RUdHQ0RlNU9EOGE1NkFmNUlzS0tFZnpJY1dMelcyU19lYWdiemhKaW1wV29VcDNhZEVMdGNQMHZXdDdtenVn?oc=5",
@@ -547,6 +567,22 @@
 "Corporate action"
 ],
 "sentiment": "negative"
+},
+{
+"id": "0c982ee8b28bc185",
+"title": "Tata Steel shares lag peers over three months; is European business weakness priced in? - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEhub1l0MWpuWTk5UWRLajcyZnBBdl9iSDE3YlJKaFN6VVVTU2NTb3FINFBsb0FDZC1FcnFvRU9SZ1dkeFIxbWV4alQzV3Q1dHlZa0xtLU9ZbEREUG5qMVVNMUxUVTNjaDZGSzduWllvNG81MjkyemsyM05IcFk3NmdsZEJOcFRYdmR0ajhGeHVQTV9FWlJPYTFBNlZTMnd6eFdrSUJ6T3FoMUZnMldhTlNkSkNwSHhXWmJjSjBVRTlSQmo2enlSUmtLUURQRFBM?oc=5",
+"source": "IndiaIPO",
+"published": "2026-09-28T19:10:36+00:00",
+"first_seen": "2026-09-28T21:32:00+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "8db8152ffbc75fa1",
@@ -5834,6 +5870,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "b9a41170b9b2b7be",
+"title": "SEBI Lets Adani Close A Public-Float Case",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DZ0pFQTZHU0xBWjhnbU1pX3B0WEtydUcxUnZfRlk3X2xnS1BNejRDT21fcEQ3cEd1TVJzUVJPdmFRZ2ZMRmJEQnQ4Zy1BZXZLNFFtTm42MU5LMGF1TmdkUzVTUlYyV0J3UVVScUxGeE5pT245aUlHSg?oc=5",
+"source": "Finimize",
+"published": "2026-09-28T06:17:51+00:00",
+"first_seen": "2026-09-28T21:32:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "ee88070b6e48d61d",
