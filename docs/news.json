@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T03:11:56+00:00",
+"updated": "2026-09-28T03:29:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "54b1c68733803261",
+"title": "Tata Motors PV eyes 15 per cent market share soon, targets 20 per cent by FY31",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGFhNnhyUnV6aDFDUnBGc2ZqT1Npa0hDeGk3dFJBdDdkN000eVhBRGNmdDRsVDNicnQ0TTJfc01nTDFjdk9IMnJnSUx0X1Jkd25ibW5qb2wxZmw0STVMS0RqUHlZN3hpV0hDeVdxaDhaQ0lMSU5QSVF4V0ZJZWZRYTVlQmwxTWlPUDhVaTRGZzYwcWpxSU1uX1hWa1g4c1RGM2Npb2xVZ3FWZ3R0em9JWA?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-09-28T03:17:10+00:00",
+"first_seen": "2026-09-28T03:29:20+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fabcd59d42610d5d",
 "title": "Sun Pharma and LIB Therapeutics announce global licensing deal worth US$3.7 billion for lerodalcibep",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxnakU0TUUxbURJcEdFMy1nNExqd3FXdkdJUVJQcHNGZVlaSzVMVDRfVFNEUXd0WHctY3RlMjhWZUxZTlQ5Sy1MYXhnTmdWRU8xZkE5YmQyRE5RMUxTdkFuM1hwMEQzSl9GZzNnQWJYcllZeERaSDkyVnhIbzBVR1lYNXN2MUZOUjJQcE9fcTh1SXRkc3JNWmFpdjZuZEJxTTJhcnptUnZrcXd3WDk0QnVaMVdmd2FrTGp1bDRJYjBGeElNRWNQaC1kZjFPVmVIdTZxa2FoTVM?oc=5",
@@ -543,6 +559,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e8b7775bd607966b",
+"title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories shows three-month performance decline",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-28-sep-2026/liveblog/134530242.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:40:55+00:00",
+"first_seen": "2026-09-28T03:29:20+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "e7b8add387231a86",
@@ -681,6 +713,40 @@
 "groups": [
 "Adani",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a3fd3bc4f0272387",
+"title": "TCS Share Price Live Updates: TCS reports negative returns over the last quarter",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-28-sep-2026/liveblog/134530063.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:30:25+00:00",
+"first_seen": "2026-09-28T03:29:20+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9945d5b0d1e36f55",
+"title": "Maruti Suzuki YMC Electric MPV Launch This Year? Check Expected Range And Specs",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlNJN0FGclpndG5PNl9QdnlGYXRmd0kwYU42ZlRrQUJMbzFpcC0zRUh1elBVWWFzVS1YR0hHNWVTaVNqQmJWZkRDc1BNTWpWTEJOaXNhZk1rUXB6dnpHbE1oRTFnemttMUtJQTNxVEt6VkwxRmZRMnNCQUltVnpMUVN6aGlRZzJ2TWhaVzg0TFF6cTZqNmJIU3EyZGxpOWkzRTB6dnFUWWhHaFprU3hYUEZta2NpRlQ1cDNKLUozRGJYXy1aZXZXM0VlYmhXQ29ObEdj0gHaAUFVX3lxTE9XMkdoMDExMVVSMFpudTZrSk44TjV1aTRKWlpfM3dOc2o2QzBtOFcyQUxpTGtLc2tXaDd5Z2huQTgzWlNnQVdiY2o3aHV4UExnTHI3Y2xNSjkwVU55VTFNbDZGWmxZeWtSbkljUVgzVy1qSnUtM2J0WnlPT0VCRzdzSXliMU9DYUlBbUFXNWV5RDUxWUlxcVdFa1p3akI4QzVSaTVnWXhxcE12cG54WXp4WkNNNm5ENEdPanoydEVObGMxdG9NVW1pNk84NDE1eDJWZHB6Z0VObllR?oc=5",
+"source": "thedailyjagran.com",
+"published": "2026-09-28T02:29:00+00:00",
+"first_seen": "2026-09-28T03:29:20+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1285,6 +1351,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "59c18562f19386a4",
+"title": "Bharti Airtel to Participate in Citi Pan-Asia Conference on May 18-19, 2026 in Singapore",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYUoyM0lCekNMcWM3UUtGWmFNU1YzNTltaDQzbWRIUmdnRjF0NC1ET2lHVk9fOVJ2RVZLVE5BWEFhQlJUMFMzRmpuTTNvM0djSEdJSkpPWmhyZG1yeUhXci1tY0lKX1Nyc0s4QkFJaW5lSUVsQVVsNzcteEV2bGlkRW5mMkV3VVA1b0hmaTNsVWpmS01CQ3BuRVdpYWdiY2hLM0o0eC13aXRVcmw4elZDVFF5aGU1WFJaNW9kazFTdlQ0WS1FOWxCeGtfVk9vSDQ2VXBRYmdvSk0yR2x4?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T17:18:02+00:00",
+"first_seen": "2026-09-28T03:29:20+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
