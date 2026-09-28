@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T12:52:45+00:00",
+"updated": "2026-09-28T13:20:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,116 @@
 ],
 "items": [
 {
+"id": "f1596c311db52235",
+"title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commer",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTEwSUpOTnpZcEo0c21jTFpQYV9KWWEwRmFLV1g1dTBQRFlpX1BhbzJWS1NqVXFGUXRITXlQUV92VzBTaG1NaXl6WXA0QUhZZm1lcExoU0lKc0xLck9wMXpKcHF6cE51bVVlT2VlSWpkRWpqU0ZWNzZFV0FlZkRwYnpXYnB6YkdXMV9razdoa2dlWTVRdjhSYUhZbmZrdWg1Zkl0Y3BaQ1RGWXQ0RGpUa1dGX2JvQQ?oc=5",
+"source": "natlawreview.com",
+"published": "2026-09-28T13:14:37+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5b56318a398a1021",
+"title": "\"So L&T Doesn't Lose Heart\" - Defence Secretary On Fast-Tracking Zorawar Light Tank",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2lXcEdiUzNmcDBXaVptbDhwbHlnMFlidDQ4cllScnl2bkE0Y21yYUNFemFzNDZmUWJuTjk4RG91eHREY1I4d3RYZlJxR2ZrUnVDbmhKU3dPcWotN0J2dktsZmpMM19JVVlpbTBfR1NtQUN5Wjk1ZlozbTZOQnppenZXbU9SM2xJMUJfRWlTMzU1VVZZQmNQdEdIYW9FOG1HSnU1LUVTeTV0akVoYjU3R3gwT0k?oc=5",
+"source": "NDTV",
+"published": "2026-09-28T13:04:15+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "834e4c75917639b3",
+"title": "IIT (ISM) Dhanbad alumni join ONGC team behind deepwater gas discovery in Mahanadi basin",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1FNQ1Q2TnpONGw3d1dKTWJld2JLblZybUc4VllNNWxLQUU0eF9NUjNnVnoweVJoaG1ESDFxdFBUeVlkdE95TmtVcHJuMXh6S1M5X1FzR1I2U0ZIcklWTS1QUE85Z05VOEx0eXdPQUluNkZaZTVjdzl3MGNIUlByY3pmRWVOOTZWZ1lTRDI2QW9WUWNjZk9SWmZ3MlJWelozRm1DUWN4cU1mWlRZV0dNSEpPWF9XUG5JaHlF?oc=5",
+"source": "The Jharkhand Story",
+"published": "2026-09-28T13:03:09+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "32d129698ab56b97",
+"title": "Birla group acquires 2.01% stake in Grasim Industries, holding rises to 45.07%",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXA0Ni1tcEQ5c2RRNVJ3T2ZXMHU2Z0hWYmJYWFF1YnVFZ25fcEswU016S2x2UTU3eG5zbGlwdnhkUTdMSmthdXNZWmlOcXhHV2o5Z05FV09BNC0tM2RkTklTWmtwSXlYcFhLUjF1U0lqQWJWZTJvazV1aGF6dWFoUXhQVUNBWmgxLVRFQVlnams0Wm9PRWJpT0JKNDFLV1JfX3dMWEdzc1Z4RWgyenBTNkYxOUxTUlY0bVMyWXJhUEV4VjJl?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T12:52:16+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "6de09ca21cccc537",
+"title": "Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sens",
+"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemxTeGdmVTFYUk5jSjVRSDc5LUU5VDgzVjFGNG1EUjBpeVI5d3paU2FlUVlMNkdqVk9ZWGR0R0Znc0doOWpyTE9GRmtrUjUxblpEMmxBbUx1S1RLaFJ1QVl3QjEtamVzMm8ta0YyNVVTYUpRaURoMmdDejl6RTlKYnJoSjNpbHpkZUZaZDFrNWFvbU0wbHhEeThhWHhSS09rQkV6amt5clExelpTZW1zbGsyUlN3Ry1FaUt3c1ZBZmFqb0dmY2tfNTVqZDVEZFNJM1JmZERTektDNXFYV0xpODJneXp0dTh1MlFaVDZmQS1uYm1UanZ4aUZOYVZBQWV4dEcyZ1JvQ1VLQ0JOYkN4aUdkLUYzQdIBmwJBVV95cUxPSUdqcHZVVk0xckxucTBWRXZkZGZxbUtCWE84WThqZXQ5Vnk4aGpxblI1WDJfNnpRSXhySmkwVWZuWTI4OGtITnFsYllzTVh6Vmg0X210MjNCR2VNQ0VTR09hN0VyODAzMGxmRFNZMVNKbXR1YUs0RWRwcGpSUl9MdlNiMlhHTll5TjZsRlVYMmFMbkJiU2t5bFhDZVpsbFRDSUxublRybXd2TThnTVN5RWgzN3A5ek9xbDNiTEJrM2w3SnNpQXFOd2lPVndwVmNXZlpoREJKdnpTQXdPT1BNSnItQmxGdTBhTGM3ZlpHRlJzSjRuSnFEa1hBVmtaVEV1Qm1kR2VOcGlHR1dLeWJiRF92czdKNmFXSlRr?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T12:49:03+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"DRREDDY",
+"INFY",
+"POWERGRID",
+"TMPV"
+],
+"groups": [
+"IT",
+"PSU",
+"Pharma",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "f96831bbd16f38a2",
+"title": "Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sensex on Monday",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-dr-reddys-labs-tata-motors-pv-power-grid-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134543014.cms",
+"source": "Economic Times",
+"published": "2026-09-28T12:49:03+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"DRREDDY",
+"INFY",
+"POWERGRID",
+"TMPV"
+],
+"groups": [
+"IT",
+"PSU",
+"Pharma",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "8f69695959abc1ba",
 "title": "SC Registrar Issues Directions in ONGC-Related SLPs, Matters Listed for November 5",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hoVm1ndWZsYTc4RGhPMVlGWjZxN2NacHpUUFZRMlNKM2pBN0Z3cXZSNS1YSVNEbVM5SnJpNERPaHBzc1JMZnlGSmxkMHNUZG5xM3JZOXE3VEJrRlhiTnZOV2ljVkF4eWV0T2YxcHVOd0ktdmREWWdPYXp5MHdmdk9BN2ZKdHc5SUtqcUpjenRaYkJrdkdEcnViTnFIUktzTUpiX3F0cGFpdDdmU195eXhBODViRkxlVTRHUzRn?oc=5",
@@ -643,6 +753,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "22c8dca570a91507",
+"title": "BSE stock may test Rs 3,000 mark, says analyst; stays positive for long term",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUkE4ZXVBRVcxRjdENnBPUnczbkJTM2NzS0VCN1ZEUFFsQnl1dHFxNVdLZ0JGM3YtNDZuR1lBWVVQckx5RDF3bGRmRHR1LWZrMVB4OG9kbDA4a24xR1V5S0tfOWdtMXEzSFNoM2xfUmNIVEZQbGNaQWR6dnpmRFpaazRTMGZxYUhFX2hJdG1tdENtWEpYOUVwczI0SHNwNXZWX05jck44ZTBEZVBrWnZiSkgwWUtGbEVrNUNfWTJ5TE85dHdMOFZiTnZaeG5wa2k0OFhUWDE2UlfSAd4BQVVfeXFMT0JXbFVpbHNoRm9LbGxsVnlWeFoxcDdyTllYejZiLXl2YW9MNXMwX01PY1VJNk5LS3dlSEs3MzBJY1UydlEzeGctS21GRXREV2ZmNUE2OW1hWVB6bXdPenZyODBPZmVLN0RKaXlONnFFQVpIYkZ6RFVkSWE4NFNhTmJmZndWX2tPNXdPWkY3ajVzRVRFNEl6eTV2RVdoZHFKcUVMTXpvaGoyYm1TQUlFNUZwNGpzNmx2TzQ1VENhX1c0ek96LUxreU9XOXd0NFhRWTdhbHlTbmFKcmN4cEdR?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T11:59:53+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "77654438734eee18",
 "title": "Tata Motors PV Expands Battery-As-A-Service Across Entire EV Portfolio: Check Prices, Battery Costs",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3J1T1FZTjhLRWNTdEtMTmVzT1BlSHhtR0ozOTVFTHplS2RsWVJGUUpXTnlYNzl1bzhZbmdkUHNrTFFHSFl4Zy1PWGZBMTZiTkdUSGkzU2ZtTjZtcWlfR3lsaWlhV0F3a1M1WTgyUEhJcVhmcnVNQlF1eGoyR1N6Vk51cnM5MDNnVkhnTjZ1dWMzX2FvU0JzYVc5aW9wRnBsMGRkYXVudXhVN0sxT0QzdmNXTF9pWm4yTkRZMzk0X1BZNUxMUXJGeDFPckZ0UGdGdkZLaWU3S1lPd9IB4gFBVV95cUxQTHo3SndYLW1KUG5COWE5WUdPTlRHSjdZODZWdTNxM05najVtR2g1UW1peHdNa1BJOUt0alpnVnIzNlpPZ3Q5N1VPLWpNNi1lMWczMzYzUTZITHF1ei0xNjBKOTNEa3JhZi1USVJ5SXpQblFCOTVYbTlpQ1E3ejRLSHRPYjV3NGYzaUVBQ2stTnVhYy0tSVZrTTgtZTRjU1ItYkswUExnRmdnaWVEaHRRZzItbmhDMGFXYXZrN1N4TFIzNXVSTlB5eFhrWE5INC1tZ2JkWHNpbk1Pd0NTUTBROEln?oc=5",
@@ -657,6 +783,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "3ac4d802019189da",
+"title": "Larsen & Toubro Ltd Sees Significant Open Interest Surge Amid Market Downturn",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSG01d3IzenRENlNMNDF0NUdwbGVIeGdHcU9vNVU0YjlrZ2NhSlNVYjEzZnZ4WXU4UzdhVTNjeWNaVUR4NGwyS1Jsc2lUWDllNlI3S0tkOEJjZUpaNzcxR1lfNGQxYVcwVnBVVmpVYzNtQW9ET1d2NldOVVFzeHg3Ullya2hiYkNYcWVyeVpfdmxiREhqdTBXWHhoZDM0OEI2amM1UjFSY2NUWUYybWR2VnhENTJEVGc2UzY2VE9hMjJXRUpXM1dpSUs2Vzd0UQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-28T11:58:30+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6cec0173b449cb80",
@@ -733,6 +875,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3f73d9e079a0650e",
+"title": "Wipro Positioned as a Leader in Everest Group's Mainframe Modernization Services PEAK Matrix® Assessment 2026",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWWt3LWFEbmU4VEt2V21ET1VGN0R6V3N0aXU1YWRrRXBMb3hURWJpb3V1a2k4MC1jMld0eUI0OVR2M0hqSEdtN3JWemdqYmQxaS16eFlQSXlMYnFCdEJGTE9BWnMtVWNVNlMxQlJwYXpwRUtjRjF6WnFzNHJkM1pGU3FVY3A3TGJzeXU5emFONERMUmdvdHJha3R2NTZWZ0V0T25nTWtQVlhBekVhQlcyVm4tNmg1ZkhPU1pYZUFmY3JfWERmYWl0VzZQTjMwcHh0ZG1hYkN2ZHYyRlll?oc=5",
+"source": "Wipro",
+"published": "2026-09-28T11:48:38+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "84e1c1573617c61f",
 "title": "Airtel Zambia launches nationwide drive to plant 500 trees at schools",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdm1faDYtTDhvR1dtNWxZdFNHc090TFpMdjlEYVBOVVZicU8zZnhrVkFpY2EzbHAteWsxeG9sN1V3Zk9FWWtRR0lMVFJabnlkVElUd1VEdVA2al92VFVNMFdkdVhUalZVeGRUU0lRQjQtaG50TkhrWTVSTExQUUduREE1MENxcl9lcjlZYlJEZ1pUZzJ2Q2VNRnFYSnBqNS1HdDJMRzVrU21iX2c5elRSZERn?oc=5",
@@ -776,6 +934,38 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0a6ccc5dd2e09fac",
+"title": "5 rule changes from October 1: SBI ATM charges, MDR on UPI, bulk FD rates, KYC for LPG subsidy and more",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMWNGY1hGV1VFV3NEVEUySTVlZmdXRmMybUZKVVNaZWN1anlmWlRTNHNXak53bDJsM0hnaEZoalNUQWZCWW1GY1JlbDNyOUlpeGVJSGVoY1Q5c1NhV2xrSUhVSEd4V2NrT3RfODBqZlBpVU55TndpSHdGMjFUX1NUUUNCNEdQdnM1OGlPYkUzdktqMENxbnFCYWZUQmNYakpDbWRvc0s1N1JmWjRhbHlHNXRud1VZdHA0RGRReFk3OGktOEl1dWs2ZmFROURvdWlOZ2pvMC1FZ0dyZ05fR0RZZUZEdEJCUFFmTnE5LW44TFBWWUhCdnFiZUZxUUtVSGJt0gGAAkFVX3lxTE0xY0ZjWEZXVUVXc0RURTJJNWVmZ1dGYzJtRkpVU1plY3VqeWZaVFM0c1dqTndsMmwzSGdoRmhqU1RBZkJZbUZjUmVsM3I5SWl4ZUlIZWhjVDlzU2FXbGtJSFVIR3hXY2tPdF84MGpmUGlVTnlOd2lId0YyMVRfU1RRQ0I0R1B2czU4aU9iRTN2S2owQ3FucUJhZlRCY1hqSkNtZG9zSzU3UmZaNGFseUc1dG53VVl0cDREZFF4WTc4aS04SXV1azZmYVE5RG91aU5nam8wLUVnR3JnTl9HRFllRkR0QkJQUWZOcTktbjhMUFZZSEJ2cWJlRnFRS1VIYm0?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T11:35:00+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "596fea44c16d72ab",
+"title": "Tata Aeris Top Variant Costs ₹21,000 More, But Offers These 5 Features Over The Maruti Suzuki Dzire",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQS0yOTJMLWJMdThZNlF0NVhhRERkYUN2MDF1Q0VTNXB2T3EyelNfdXBrVlkxMkt2WnU5QkZaSWVQenNZODhycUsyNk5MUWowczNYS2pKQlp0Rjd1STNtZy1HWmUyRjZ4TldnMkNyUUxSRzBuTnhTMGw0V0phc0pJbDdZNE1nODNDZU1kX3lSNXFNdExESWh4QXplQV9BTmZyNkJpdWxjYndjNTNCeTlyYlA0RGdtWjVrZjRucWdldTJmQi0yNXpTelU0aGJaV1o0WGxCZ3F1ZVlLd3hhWkZB0gHmAUFVX3lxTE9Vang5LUc1YW5HUTlUUmdTSXBGeUhIbEZfRVl6Y3JEc0dlY2ExSUowWlhFUUk3b1l4aW9seUlPNXlpeV8tRmdsa09udVh1c1h3Y1M3WWZhRW9ya184X0kwWWM2eUgzWXdrMWdTWkNBMXlxVHZtSmpkS3BrX05FOWhBTWZ4V2c3Yi05WjM1RVNvTzBpYk0xTE85ZG5HNmktNFVGMm1Eak5SNDdhQjgtWFdPekczV2N2T00tYnBYR0I3dkRnbU5yOUJlX3ozbTJ3c2RULVRnTWstcDVoaktlUDNPRGw2Y2tR?oc=5",
+"source": "The Daily Jagran",
+"published": "2026-09-28T11:29:00+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1197,6 +1387,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "283a04c9a8e92fd0",
+"title": "HDFC Bank slides Monday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkw0NWFPalNEWnNLaDNyVnRUUWVhYUptekFiRGZTVGpXbUdnX2YtWnJjWFc0bGZrMVdkRV81dENIdEJURXhNS2J3TkRmOVBzR2tMelB6VV83X3hFSHEwU2FiS2RyV2lyUlhnUXZZbkpNazB3LUdPdzVaUURtcXRTMEFObHhvVkprbEhBTmxiN1FXM2FIZXIwb3FXU2ZvdUU3a0NJTXVYRi1wTmhiZlRKRzhYeTE3S0pMUWtVSHBuRQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "1acd2a1f6245febd",
@@ -2403,6 +2609,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "cd486f587e6c73f3",
+"title": "REC Completes Transfer Of Three Transmission SPVs To Power Grid, Ashoka Buildcon And HG Infra",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFJGcWg4M0lhM3JpU1Q0Y3RlT005QnM5LWRfdGdwMjhpaHZmMmI1T1FhY0FNQVZPTWxnb2lmWVZPY1c3ZldxNF9BcVp6WV9PS2ItRkRaTzR3Q0RhNGNDUjlzcVVUV2xwX0x5Zk5IZTBnSDNXRmlZQWw1MU5jMnhfUWpsTEw4MVdqaHNfUng1ZThSS0F1V1JWUEx0S202MjV5MXA5S2dwZnpxTjNkLVlFai1nZ0dOM3pmRUhmeXJZdGw4WFF5bVBxdw?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-28T07:12:35+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "88306cfc69c8d1c6",
 "title": "UltraTech’s Kukurdih plant meets electricity needs with green power",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajJjc2U5SkpZdHk5X3R3M0NOUGxBRTlRWkVfZVVuR0doYjJSNjQzQjZPWlFtY2pyUGVEYXZfWldPSm1YYXZJNXV4X0dRYkd2bERxOW9XaDYzMnJqVHBUQXdDeTlEY0lyNEFMTGNEaEliZE83aGpaZ085OWhQdk0taEJ2T3FzUkFQMWRhY3B6MVM2cFo5bmxoandDZHJ0OTF1ajF6Rnd3SUtMc1VRSk81eV9fOA?oc=5",
@@ -2484,6 +2706,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ceacbf715313a3f1",
+"title": "WACKER and HCLTech Collaborate to Establish Global Capability Center in India",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0hWVzJscUxlQ0p4TS1mN3dJcHIwLVJnZWsyZ3lhY1RVbmV4REhHTGdCY013bFQ1Nkcza3R6c01zbHFXcVN0WWZrbktwcFBFSzdFSWdNZ0NGQi1GbUNTd21IYm50bEVySllrM21OS1UtM2o0cTd4SUVNVzRxR2lWWGFMb1Ewb2N4WHFaeG85N01iTC1KSnpaeG9ndjNwQmZhYkdwUlRB?oc=5",
+"source": "Chemical Industry Digest",
+"published": "2026-09-28T07:01:20+00:00",
+"first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
