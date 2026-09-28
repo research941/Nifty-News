@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T19:57:24+00:00",
+"updated": "2026-09-28T20:17:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "637855c6fc3d863b",
+"title": "HDFC Bank ADR rejected at resistance, eyes $21.77: Live levels",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T20:03:45+00:00",
+"first_seen": "2026-09-28T20:17:57+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f66f1c0fc306fd55",
+"title": "Wipro ADR downtrend deepens near $1.62 support: Live levels",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T19:34:10+00:00",
+"first_seen": "2026-09-28T20:17:57+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3a3505967a985b99",
 "title": "HCLTech to acquire Croatia-based Robotiq.ai for €9 million to boost agentic AI capabilities",
 "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNN2s4T2Z0My1kSTRLa2JuMld4Sm9qTDdZX292cXVRanc2emxkckpiSlYzb3NLLUw3clBBYnozUldycllaMGMtN0ZkZ1NaNjc4UkdKVWlxSlFCb2lrOGZiSEwtVHZRNjh2eEsxemM5VmdBbWFpZDlhOXVGV3NUNFJFcFBtTk4ydlQ4UG52OThMVEhONXJzMUNLU1N6amNHdzM4cUZxNGUyOUR2SkNKX182NzNVb3pKUlJFeFE1TndLNTlMX3FlWFFNQV96NGc1Qjl0bUxlNUFad0VKanhKdFA3U0VFZ21mSVRRYk1rX3h6YW8yMklHTHB3Z0J2TFloWEnSAYQCQVVfeXFMTjZocEUtdE42enBoS0RLZ1UyTWlYc1pKRE53cGtsZ1F0WTV1c0dEUmJxRHp5LWsyVWQzOHYySXVlUFpmdHJ0T2J2MldpMHFuUDB2S0I5bXJBVUh5YmctNXFNbmhteC1aYmRHWm9OZncya3JPVzFkTWRISENLbHI5RkE1YUw3WVlkbjd4MDBtM0wxamJsTEItaVRqZ1Foc2NmS2NULWpNWWNpb2VjRjBuSWJvQ2swd05uSnZYYi1OUDRrTXJnd2tQNlg1Q0ZDcm13LWRPMVQzcG1VVTQ1UEhZUERzTDVxOXM0UWlsdTdIZ1M3eDE1TG1DdThHemFIZG1lTDdfWW8?oc=5",
@@ -602,6 +634,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "d7d61b1042998975",
+"title": "Airtel closes in on Jio ahead of mega IPO, market-share gap narrows to 1.3 percentage points",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaTl2S01fS3JHRkZEMUFIcTBvT2E1eGhEMl93WXlGX2U0QjVrZWNXcTVxTC1tRlFqSVV5cFlnQ0k2OHZjb0hzMEZFZ3dVT1NpWFJ3Q25VbUZYTmJPbnJwOVVLNDJZSzM4Yk9ScTA3b25JR1AwRlNxd2RrU29CTFlGel9PTFJFS0xpZUx0U1plMDE5VHNDWW1WbXdFeXE4VXFUS1VhaW9OVHlWdXhjU05mcmVtTnFQcWdUaEdHQXQwZmtDTDhfNzJDdGNLOW8tVjlLeTVuOEN3VjluMmkwSEYxUFBud0hPb0gtc0HSAeoBQVVfeXFMTWk5dktNX0tyR0ZGRDFBSHEwb09hNXhoRDJfd1l5Rl9lNEI1a2VjV3E1cUwtbUZRaklVeXBZZ0NJNjh2Y29IczBGRWd3VU9TaVhSd0NuVW1GWE5iT25ycDlVSzQyWUszOGJPUnEwN29uSUdQMEZTcXdka1NvQkxZRnpfT0xSRUtMaWVMdFNaZTAxOVRzQ1ltVm13RXlxOFVxVEtVYWlvTlR5VnV4Y1NOZnJlbU5xUHFnVGhHR0F0MGZrQ0w4XzcyQ3RjSzlvLVY5S3k1bjhDd1Y5bjJpMEhGMVBQbndIT29ILXNB?oc=5",
+"source": "The New Indian Express",
+"published": "2026-09-28T18:34:00+00:00",
+"first_seen": "2026-09-28T20:17:57+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "6b78f1f24afb0479",
 "title": "Axis Bank expands tourism and hospitality outreach across India",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFZXcGtUYlNEd3JHYjZUbEo3emtCUnU0eUxPQUllcVZfOTFNVGxqR1oyRU8tVlFBT1YyQkNPLTNUZHMxQU51clFaTk4ybWFOa01sQTVhTTBHZG03THQ5QVhRWVowOS16R2REdVI3d0xYMFVvbTN6ZTZkZXNOOUJ5RzU1Y2g0aXE2QVlBbUc4UDZUR2RNbTRDUGJPT2RnT1ZfYWtmUkRUdE1ENXhLRm9pMlhWMzY4UQ?oc=5",
@@ -696,6 +746,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0e1239aac927bb12",
+"title": "Infosys ADR tests $10.30 support with oversold RSI: Live levels",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnZic3loWUpVSWlIbjBfUlRWM2RWOFNwd0ZKcllib0FMMTJnYm1hcV9QT0o0dTR2Mm9SZDBZY3pJeU5YNk1hQ2R1bXVtdFNlaTJxQkNvZjlJN1p5U3BMdUhNVi1TSUxPcm4ydEZzWk91ay03STJDaWxxV0lZM3o3czhyNVBhdjl6dG96VE8yd0I3LVpPT1FlX2IzOUk0MWZFNjducEtYVGJvUE9HcGl5alZVWGE0eXlfSDNPV2Z3?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T18:11:15+00:00",
+"first_seen": "2026-09-28T20:17:57+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9488,6 +9554,22 @@
 "source": "The New York Times",
 "published": "2026-09-27T23:23:12+00:00",
 "first_seen": "2026-09-27T23:44:14+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e5f0323f53cf9a52",
+"title": "49ers’ Trent Williams exits Cardinals game, carted to locker room",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWFWQWtRZVN6eTBxZTZWZ0hQaHlCVU1SN21zX2phaWMxelA0UFFXOVMwVUFiMEluS0d3TkowYzVyMURlX0kwdkR5alVreW91YU53QUdEdkFYYS1PWU9oN2k1X09XVVprZ0dJQWFIb2ViTzVmTFhwZU1VNGdEZXFYRmc3MkNZTmlLYlFfUzY1eEdnMlBFa3MwWGhuaTFvWVE?oc=5",
+"source": "New York Post",
+"published": "2026-09-27T23:23:00+00:00",
+"first_seen": "2026-09-28T20:17:57+00:00",
 "symbols": [
 "TRENT"
 ],
