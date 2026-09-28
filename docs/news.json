@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T13:52:52+00:00",
+"updated": "2026-09-28T14:22:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,136 @@
 ],
 "items": [
 {
+"id": "4990733e72228347",
+"title": "NTPC Ramagundam organises cleanliness drive at Godavari river bank",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnVXa2dCNUpGelJnSXpKS1Z2d2ExblQyWFNyd1RqYUt0NlRGQldfRS0yNzFIOWpQczc1bXE5SXo4M3hBTzJscTM4T3E0dUxUQUEwUXNQbTBHZU5rQldMbDVBYVktaHZ6TGQ5QkhFMFltTXBhTUNhTHEtaUo5dnluQkxodUtyS0ZSZlBsVWw4dFphQ2tlT3RNdV9zTnh3ODg3R2dBdWhTSXhlQQ?oc=5",
+"source": "Hindudayashankar",
+"published": "2026-09-28T14:21:14+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7c6fc2f8cbce16ff",
+"title": "Reliance Jio leads mobile subscriber additions, adds 24 lakh users in August: TRAI data",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzFaeHpnYmM0QWVjNGhWLWZlMVd3SDJWUFJyR2c1OGJaeW1rcDlZR19pWWctZDVjcnVJZGZnTFRkanlaSEVFZkJLV3NiT3JVWFJ6Q3pEdkhTVXhWWU9RZVlhbVp1TnJHcFZsWUYtTkxvd19LeklQOEJFSTVnRTl0aFl3VzlBUGprekxXRUtla0ZRTkVQeGc1VFgxcXhJV014MERtckxXVmNYNXhsV0Z1cWNqLTRyM1hqMGRqN3Q5dVNZb2I5QUk4adIBzAFBVV95cUxQSUlLWFFDdUVrcEI4UURjSkdzRlhUa0dKbkxkWG1BOTBmSXNIa0ZwX0hjV1l4aEluUUd0MlRFRWhhVXNQUTh4MVNjWWJmYnh0VkE0LWVKN3NseE5yR0dFRlA5M2NyaDFFWi00cG80YWc5ZXVGNGdXclFGaGRPTmhuRHU0TldtY1ZTN1RQZGd5ZDJ2VTdpaGdsTzRKY3h4WURlTWNHd3pOV0hTcFpVa2NSbHljUDZqMXc1cGFqYlRKVmFtdWRJQWE0ZXpoeDQ?oc=5",
+"source": "The Tribune",
+"published": "2026-09-28T14:17:33+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "21a2fe5cdabb8653",
+"title": "Wipro ADR tests $1.61 support in bearish channel: Live levels By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T14:12:15+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "fe0b0f8be5f25393",
+"title": "HDFC Bank ADR battles $22.45 support: Live levels By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T14:12:11+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a55fe4cfe479538f",
+"title": "Infosys ADR tests $10.30 support with oversold RSI: Live levels By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnZic3loWUpVSWlIbjBfUlRWM2RWOFNwd0ZKcllib0FMMTJnYm1hcV9QT0o0dTR2Mm9SZDBZY3pJeU5YNk1hQ2R1bXVtdFNlaTJxQkNvZjlJN1p5U3BMdUhNVi1TSUxPcm4ydEZzWk91ay03STJDaWxxV0lZM3o3czhyNVBhdjl6dG96VE8yd0I3LVpPT1FlX2IzOUk0MWZFNjducEtYVGJvUE9HcGl5alZVWGE0eXlfSDNPV2Z3?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T14:11:04+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a86faa8816da0fea",
+"title": "HDB Shareholder Alert: HDFC Bank Limited Securities Class",
+"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWnljZWlFbVVfX2JTZjJRcDdDWWFwYmkwYjBWRWI2ZHRiY3p0aEZ5dk96eXBLckMzWFZiSUNELWZUSDhWTF9Nbk5QZzVYX2RUYndzVlUwak5uVW9qNF9mc0NndTZETmVqZGd6OXp1MndWMFpKWGZmaS1QczhqNzVYR2V3cTJQN0czMm9lcllTaFNsQjIyTDZ5bFlOWG13ZDdwMWxaUEJDTkpSVHppdk5rVzdVVWJRVUxELUE2MXotOFVVQ2N4ZkhDdDk4SHRSbHhZVUpPWUt0V2oxczNNQkwzd3E1Y1dFdE9SWkFGLVVDUHJrdnFPbFcyZlZWdHV4cXl6RFpIMThYeVFkSXN3TXNjNlQ4SUw?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-09-28T14:11:00+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c8b39770722f5a81",
+"title": "Airtel Money seeks Middle East tie-ups and is open to future dual listing in UAE",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUFIdnhGbmh6ZlhiLWxFVGNxQmNpenVGUzVmRThSakNkVFE5cVNWY252VWFDOThBbzRfTnRNaUp0YlEtSHJDQUhLcHdmeU4wcDF2U1JFakdmN1AwZ1VPcUVSdWsxZGhRc191WHBlbGN5ekY4eWtPTUdJRXZzc1VkLUJSMERkaklTVHI3czRxTm53R0NfQ1h0M3hNbHdxdndMaUF5RzBzZi1VZXoyTGxyaDN3Rno1Tl9aaTdpcnN4QmlUT3lycHV0U0JmQU9yazNrd3VzOURkdDg?oc=5",
+"source": "thenationalnews.com",
+"published": "2026-09-28T14:09:40+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8c9c921d25b725ea",
+"title": "Jio, Airtel, Vi add over 5 million mobile users in August as industry base crosses 1.29 billion",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXBLM09tTWFXUTFrWWl0U25aejNrRzZSSW1kaGY3Z1NvSXAteFhTN1NkTnNRdGt2eHhhSFpsanF1eU10MzhZVWotV1pXR21MTUpabk1Gc19Tb25zQU02TTlGR1dEejAybEFmem5yWmRMOVA3b05vbWl4cWM2Z0ZuaTd3VFBQMDlGRUlZNndjRENQMWcxZDdIX016d3FfYlhJY3BINGQtMUFsWFVOR2ozVVBoQnlUYnRXUVRwbUp1aEJ3MjhlM1JiMXBhY19nTzJUeGsyTHIwNXVTV2NWMmpvNnNjONIB6AFBVV95cUxPNENNS1dhVl81Y3F2ODBWY2kxbV9sU08xcWcwZXVwOWQ0Um4ycnpnbms2aWJrZWRlTTVIRVdUR2IySmZhRXpDTTN6aUtHcC1TTUNNM3M0R0NFS3NzUHdxak1FdXhnaW1IdXBxRklhbkg1ZXdQOFdlN216U2toaUVxYUVhdzlydEhUYjlyX1d1RnZTX3JNREYyc295NnI5T0Ftc09idW43ZXJDVVJvb3RRTFkzSlZvOVhITVA4MVJ0WENYeWFmMkNNcGhkVnNpRmp3eERUWWRJZXcwOFV0ZlZxS1JSc3cyS3pG?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T13:56:30+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "67967c6cae8a4425",
 "title": "NTPC NML Recruitment 2027 Out: Check GATE 2027 Eligibility & Selection Process",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wa3dmaGNQeUdxemJpTVM5NWlKQnd5b2l0aGdzTGE3YVlmVVVjVERSemJPb0FmbTdmbWFBbVc3RFJXVnlLbVEwTXdRemhwei0zc2tjb3diaktJR2NMOXgxSk4wUG8zaGs?oc=5",
@@ -577,6 +707,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4fad77dfa65baa6c",
+"title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - Updates",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1UwVGlmWFdNRXBkZjRwcGozWmNBdC1STFdtQUFrWGE5RzNhakwxMTE1eXo0ZjRJMjV4YkE3VlgzS1JBVmwwRHd4N3lsZll2Qm5CV2FJN0xlZTdVUVptM2ZvT1NlbWl2eE5MVjdRQkNSeG5KZGd2bFZxcjkxUHpOUVhFX2gzSzhUMXBvcE91LU43ejhXMjNCcEc5RGlnWFppc3N4NmdoZEZpZy1IT0NlT0tnTFZ1RlFDUmxjNA?oc=5",
+"source": "TradingView",
+"published": "2026-09-28T13:07:58+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5b56318a398a1021",
 "title": "\"So L&T Doesn't Lose Heart\" - Defence Secretary On Fast-Tracking Zorawar Light Tank",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2lXcEdiUzNmcDBXaVptbDhwbHlnMFlidDQ4cllScnl2bkE0Y21yYUNFemFzNDZmUWJuTjk4RG91eHREY1I4d3RYZlJxR2ZrUnVDbmhKU3dPcWotN0J2dktsZmpMM19JVVlpbTBfR1NtQUN5Wjk1ZlozbTZOQnppenZXbU9SM2xJMUJfRWlTMzU1VVZZQmNQdEdIYW9FOG1HSnU1LUVTeTV0akVoYjU3R3gwT0k?oc=5",
@@ -604,6 +750,23 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "22a8e1a41412afd8",
+"title": "SBI Life (NSE:SBILIFE) and LIC (NSE:LICI): Low-Cost Distribution in Focus as IRDAI Pushes Reforms",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3h0TzNVZ2xqMGdwcHV0Y3lvVUR3a3NCSDJiNVZIMUk5dHVqS3p1ZTBsYTAzX09tTEMwaG43MUNKd0IxN2dfdUFNbkJaSjRoX1RDX0d5a0RVSXV5LVdjMFF6QVdxQWMtcDNsa1o2cnJrSTMwZGF3UmNHd2RKSWNDakJDRDZRTGNKVlVaVHVfejRKQjhwQUtXNE1zMU9vUFNiUS0xemZwNnZqYTRrQlUtaUotQ0dQclMwZjJJOFNtWnFMMEIxcFlkekI4RWtZOV9w?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-28T12:59:00+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -682,6 +845,38 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a505de9fa222f5be",
+"title": "Tata Motors Commercial Vehicles Warns of Commodity Cost Pressure",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMk9VT1lzdGNuZE5VWXQ3SUhTY3Z0dzVqdTB5VWRSS2pVeE45RGJzaEdVeGFrb25KZzc0d1RqaFVLYVZUQlItZFJpNDFuRmZwMm12dUZTdUlNSHVKeGZqUWkwQlFxUDRaWHY1N2xoVU1LN0hZU1d0S1A2QzZFS285eHl5VWx5dllWdC1scmhhOU1VY05HZ0NWQWpKMVhGdVVXMG41dmhYRmRxXzF1SWljbVFvcWVrRlJ3bFh2MVpIdnFxc2V4VkE?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-28T12:49:00+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dc0664defbc30271",
+"title": "Rs 1,020 Calls on Infosys Ltd See Heavy Activity — What the Strike Price Tells You",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnZGcEF3TC1LcERxZTZyLWpXelpQbkJlWFh5TDgwYm5MMlM4OGR4NFJsVlN4QXRvVDNtOERqOTJLVlZaRHFBTm1Mc0VBRE1nMFQ3VjlPVks2cUktS3RtLS1yOGxqMF90YkpBUzBOY1ZmY29vUU02ZzFPdmd2WHNoSmphVjJaSElGT3dZakZWWHh5M0t6RGdiNG5iWENpRXM4Q3NhVUdjUmtPeTY2UUp2ZFk0Q0pCdW9GWU94SlZ2ZGt0aHlm?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-28T12:41:52+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1806,6 +2001,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3aabaebf22c5f96b",
+"title": "Apollo Hospitals Navi Mumbai records 61,221 CPR pledges in one month",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzlib0E3WXB3WGdBeVpBWmVOYndXUG1vZUktTy1qbmNtMk5VSndQNDE4U2M1bVUtbHAxSUhNNXUyVUE2TlRzYnZmdGFUdzBRdWRJa2cwMkMyWTFFbnRVMWJ3QWQxUlAtRmlkc0owSElWMFBaMHo4TW9oZVFOWGhUM0J0OXJKeHRvNGxJbU82YWFHYjlUN0pZTG5IS19RTGI5V1Bqb0Y0TXJtQ3BOeENFN05xTQ?oc=5",
+"source": "expresshealthcare.in",
+"published": "2026-09-28T09:55:12+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "979e4ddc3b563ca8",
 "title": "Wipro Bengaluru Marathon draws flak: When event execution becomes a brand problem",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVp5VG94ZzBNVnNkdXVsMVozZklEZ0lJbEoyMmRjQ05GTnpoRUNwcVJIejcyS2ZoLW5INGtDeDN1S1lPeEw2WS1ZLXVfU1pQOE5RYktTNFBsVjFGbXgxeDVJbzFZa3lOZEtNZlF3OXM3WDZYb1haMkFrLVZXMnlGNE5SOVJLemJHc2IxQUk1UFhObUhFSzVEU1NLTXd6RDN1Q0dKVkpPWGlDb3ltbzQ0ZkxTeHNHd1FrSEhIR2ZYQXE?oc=5",
@@ -1828,6 +2039,22 @@
 "source": "SolarQuarter",
 "published": "2026-09-28T09:52:51+00:00",
 "first_seen": "2026-09-28T09:57:05+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "89becb53d67266ab",
+"title": "UltraTech’s Kukurdih Cement Works Meets 100% Electricity Needs Through Green Energy",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1RNendSd2xITl9TYUNkazlrRzB5LW5Td3pZeTM2a3Y1Z3hQcTRzOXhvcHlQNGFBcUpJTmYtcThINXQ5TTlaX2ljRDJHbjkxZC1xeHFzT1A1WHpsdHRaVnc5N05fd2FQSXdweHJLWExwS2tCS0N5MmxGYTdmTG9xd1ByekRBN0xJUV9UTUtTNlExU0ctNVlBSnhqNHRsSm5QaFhvekpFNm9oMzZpSGNOdGpoY0JXWDNIcXc?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-28T09:52:51+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
 "symbols": [
 "ULTRACEMCO"
 ],
@@ -7627,6 +7854,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a7619025ca626aba",
+"title": "Asian Paints FY26 net profit rises 17.9% to ₹4,325.4 crores",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUpsM05BZkF1TFFwREN6X0VkUG1ocVNyN0VWdWhfb2hwdUZmaUZCY0w1LVB2cERXS2Yxbkt1TW03Vm9uYXFVR0hLZ0RvcXRDd0pqVFZYNlRhNGZqdUZKVERIM2RrQkJLMzNvU2o5aWpzZWZLcXJpNVBXd1RvSHpxbFFqanNtMUY1NDJrZFpXZnNuSzJoYkFvZEQ3NklkNS1sUWNURjRsQV9oSkIyLTJQRkFCXzlCZlB6bjNWNEMwb25odw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T15:52:00+00:00",
+"first_seen": "2026-09-28T14:22:28+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "779b128ded25e5bc",
