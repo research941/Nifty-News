@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T20:17:57+00:00",
+"updated": "2026-09-28T20:32:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -867,6 +867,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "0880690f67ba88e2",
+"title": "Adani Group Companies Settle SEBI MPS Case for ₹1.48 Crore: Adani Enterprises, Power, Ports and Energy Solutions",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2pBazR1MWI0NFViRmNuYnRqNkd5UVdDUVhFX1VSRzdab1BzclEtWGhjSzUzNVVfX0ZKRnFBT1lPU2FFUk5adjVJdDFVbkVsNUVaX1FrcU5VNVhMUTNDYklJbXQ0UE9BMVZsS05BbXFMaGpRUkdJUWtWaDRHNllSbHI1MzFKSlNEUjQwcG9HcUlHUFFZcE41VlM2TFYwYlQwNHM1bHpDNEZwT0MxTXkxdkVfUlZpT0JQTFdsVnJQSUEtaDFnZnYzTkhTUnhZODVEN2loemlqZ0d6dHAz0gHiAUFVX3lxTE0xVW11d0tyTkNEUjZQUHlxZEVrQW9yNlpQZVFndVBHUVVybnJPTEtHV2FhOHhKbWw3U3JTUHF5RFNzcW1WeVFZa1duZ1hJZXFCNEM5Wk5fVF9qY1lJT0RPejNzWkR6Z1pFNHloaEdrOXU3bVpsTXdSNmxsSnkwbXVrZjBzQnQxcF83UUNtYlBrb3R6MkRRdnpjZ29Lam5vNTVKSVVmOXlldEJzTEdVYnMwOE1FVzI2b3REQ0hmNkp3Z19IUG1Za0NGUUt6MkYzNGkwTTZkOUs4Wk81YkN6WXc3dmc?oc=5",
+"source": "sangritoday.com",
+"published": "2026-09-28T17:39:42+00:00",
+"first_seen": "2026-09-28T20:32:15+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d2613a5bc12d6e60",
 "title": "Adani shareholding case: Sebi says charges against Vinod Adani not proved; 2 individuals fined ₹20 lakh each",
 "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazBxOExRYWxtUm1HeHdwYWJfYWRvRkw3aTJndHlQanJsNzR0SmVaMU9sWnlnRjVTTUlsZnpMUTZ0OVlabXF5RUVjdDdZSWhVYTJJc1dhckY5QXVvNnUyQnZGSmo0LUtWbF9NbUhWck0zWC1fdXNCOFhONkY2V290UXJrY2VhbmoyNTNFVDFlMWJBc1MtVnBDMEVZUktQdW40M19VbkxhS0lqSVNidTlNQkRKOFVoaGEzSzRIVURFVDJhM3hDanc2OG9GbkE3dTJzZWFCRlVHYXlqUDM4X1NDUjdUMmtIcVB2YkE1eWZ1XzbSAfABQVVfeXFMTmswcThMUWFsbVJtR3h3cGFiX2Fkb0ZMN2kyZ3R5UGpybDc0dEplWjFPbFp5Z0Y1U01JbGZ6TFE2dDlZWm1xeUVFY3Q3WUloVWEySXNXYXJGOUF1bzZ1MkJ2RkpqNC1LVmxfTW1IVnJNM1gtX3VzQjhYTjZGNldvdFFya2NlYW5qMjUzRVQxZTFiQXNTLVZwQzBFWVJLUHVuNDNfVW5MYUtJaklTYnU5TUJESjhVaGhhM0s0SFVERVQyYTN4Q2p3NjhvRm5BN3Uyc2VhQkZVR2F5alAzOF9TQ1I3VDJrSHFQdmJBNXlmdV82?oc=5",
@@ -1524,6 +1542,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "3a265400aa981d9f",
+"title": "4 Reasons To Buy Coal India Shares Amid Macro Tailwinds For Rs 500 Target",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjFCWEw1NTI0UkhnRy1yQXZHY1c4cGZJT0tyenk2U2RLT2FKR2o2VlJGbUkyeHBpak54dXYzbzFqTzRPVEgwWXZnVVhIQ0gxMEp2clZ0YXJzR3VOaUREYm9kclEtZ1RpMGlYamxoMnJyaXgyRFdCS0NKYzJOQnQwanJBdVdjZTRIOEZtcHhKOVBqNEdjZUkzYkp4TFpTREZZMWVkeVpvUVNBRk1Jdm5RQTFjcnVHbEJ1bUE?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T15:46:48+00:00",
+"first_seen": "2026-09-28T20:32:15+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3089,6 +3123,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3163519f81bb5beb",
+"title": "NSRCEL and Maruti Suzuki Launch Seventh Mobility Startup Cohort",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckhXVmZMS0ROU2hEZTJxRWlIMWJjSm1haW9TbWZxX2dRM21XejNwZzdTLUYxLU16RXkwNVNRU1c3UWswMGt0d094VUxQNVdCbDNOOHNFdDBxaW9iT3hlTzUxemE5UGxTVi05aXNBVFlPQTB0Q2NwemJRQkRaTDFPanVuY1JwYUJONG84WW9kWHRTc0JOdDhBV1lkUEk3b1JVanQ0S1BHU3VaZDlRNEJCOWRmNGNTU28?oc=5",
+"source": "Entrepreneur India",
+"published": "2026-09-28T11:34:09+00:00",
+"first_seen": "2026-09-28T20:32:15+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5473,6 +5523,22 @@
 "source": "HT Auto",
 "published": "2026-09-28T06:31:49+00:00",
 "first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "60ca9d9a18793782",
+"title": "Maruti Suzuki Dzire vs Tata Aeris : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkWlZIeVd4TW1ZNXdXamtfZ3NMQ1h5WFFRbEVkWlllNHhINVdGWTN4NzNIWURkeVF0OWxVYUpKVTRqOV8yOGkyemQteXlHYXExSGhoZmRlcHkyNl81RjhXNU1NenBtdXktd083bGxwSU9jUHl0aEtZRg?oc=5",
+"source": "autoX",
+"published": "2026-09-28T06:31:48+00:00",
+"first_seen": "2026-09-28T20:32:15+00:00",
 "symbols": [
 "MARUTI"
 ],
