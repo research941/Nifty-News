@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T15:37:18+00:00",
+"updated": "2026-09-28T15:59:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "397bbe87e7f93cc2",
+"title": "SEBI allows Adani, four group firms to settle public-float violations",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjdjNUhPc2xFU3NNOFNEbHMwZ0NndVhTX1J0N2dFdDBjOGRoY3FkQmFMNTJUQUpIZjd1WFhBVnlIeVVIRmhpQ1ZYWGZEYVYzSDc0Wk9PTFBSdkxXSm1qeG91aTI4UEg5ak1CTUZPamMzVnQzMThmOXZOdmFkV1dmaVpfd2RsNU1uQzBhNzhKRmRYUGV2em9wVk50ejNuOXMtMjdGZUUyQ1pFMEhNU2JRQVRCaUI?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-28T15:47:14+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a0ec39dfb7685d36",
+"title": "India's market regulator disposes of proceedings against Adani Group companies on public-float violations",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakNnZElDUEU0aklJWFpRbFNHSnJyOF9USzFGenl1bHVySkZ6TER3dHFrTFhhM2pSTnZRWmo4TWZ6QXRabjVRaXZ3STBqbnE0ZF9wdTBOdFViM25YTHZjNlBFVl9BMFBDS1VXQ0JQM3g5V2lfb1JfQ051OGdlMGJFT2VNMklKYlFCc184UmxaYk9sVFBXUk4ydkttUkxtV1QxeUl6WERnaGJmM2lYQXlDVGQ4YkUzUTRJQmtOUVFJckt4aDBjaHc?oc=5",
+"source": "Reuters",
+"published": "2026-09-28T15:46:24+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8c397c1b760afb19",
+"title": "Sun Pharma inks pact with LIB Therapeutics to sell LDL-C drug",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDRfNi13QjlaYlpkdlFzX2lpbFhrQUNmaFNFLTlneDFqWkhKR29wbzNzSkwzQ1ViN203MldsWWloeE1pZWkyNG9FTVppQS1QVXV3VDF6NE9qOXNNdnpNYU9VdTBMY2ZjX1ZFdGpab3J1TVRuclJRdlBROVBlamh5aGs2V0FCZXYybHdvV3lIWHZXM0VvVUVhVHNydGh2SW5OYkFjbkV4cXFlSjQ4OUlpLUh6MzVET0NuNDZvSEFTRXA1QdIByAFBVV95cUxPeFQ4YnNaVTZOaTZfSWU3S2hMTUR1ZG1EX2pMSVpyQWN0c1daakRpNDRrN09oaDcxd0tmdnBYWm9JemZlXzNoYk1jTWF0aTFqZE5mT2JKV1Zqal9mTE9SWGZnXzR6Tkx3cklua3pXX1k3YWRQYUI0REFYZWo2QWhvd1VZQ1p5dmF1Wk0zTTdlV0R1dG5paFN1dTV5YkVHVTdtTzgwN1FSbkRIc2FDV0pMc1dsQWJreE9LUWdmOWNCSWVPeHlHMzllOQ?oc=5",
+"source": "The Hindu",
+"published": "2026-09-28T15:45:08+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "007acff5340265f8",
+"title": "Adani Firms Clear Another Regulatory Hurdle With SEBI Settlement",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUVCLXZUNjlEbFJCLXNpS1BUN21YblFFOExhTll0NTd6bjNUS2xreWxzVVg4aUx6ZmFhV0ZRRmlMMld2Z25qaXBOTXlkUWx0dUFNdm1QYkRMU19FTVctMGQ1akM5aGt6dXpHVlY2NjAtNVV4TGwzVmowZS1ONUFhVGZLN3hKdE1mTTg4bUFGd3JVU0hFeFYwWUZwUWxUcmpZamJpbGo5ZWF0MlVreXFRT21pWmtYdw?oc=5",
+"source": "Bloomberg",
+"published": "2026-09-28T15:29:03+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "26bedb7af2f85b2e",
 "title": "Gautam Adani, four group firms, 13 others settle MPS case with Sebi",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN2V6clJSSzZyYTZOckdwdlljUWpQdXVZUmhvY1dic1RIcGRnNldmLW9laWhjb3VvM3hFcUVLUmhQUkRlWVdiMEl5c1V6c2E3anBQZnZ5TUNDMENkNVpDZnhKLUlRYzBzSk1ZenFDWHdZSV9aMTJJeU1TN3dCd2JyTS1GNEI4NmpvSjBaX09LeUJuRlF1WjRyVk9NbkdObFlkdWFsQmVoR2xaV2o2N0VYbkVEaVVsNHpPX1NUZWNCYzdGaVZEZVp6MGkxTWpGNTjSAdQBQVVfeXFMTnByX0VSRU93aXlHRHlGeW91ZE81NGtscDZiX0pqc3pwTkVCZndrZnVaSURVLVVVWFd4MnptU0dPR1FvXzlEMlNoVUhubjF3XzlNbVhCXzkwRUEwRDRueHU4NGRja1JXRm9IRXNkRUdoQ00xVWQxaE00ZU0tZjNzOXNRdkc4WGpla3NfLTYzYmJPdzZFREZLRkk4MkdxUmZLVlczXzNaUHVwZmhQbTlMYnY4NnVMVjVsdjdYXzlfS2ZDLTFIRUFnUkhyb2F2aDZpZ0hDRzU?oc=5",
@@ -597,6 +665,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "79cdb41087802f77",
+"title": "Residents ‘feel unsafe’ in water-damaged Trent Basin homes",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUpqdzFVRGJKZkJMTU5qRVk1OHhuaWtLZFREYjVVVXVFeFNzbksxY1QzdEFDa0NFU3B0OTYwS1ZaNVk2VEJLb1l2ZldmQ0MwVnBpc2NGOHVXRmxydlR2Qjh1R1BCQmVvM2RkanNRRGtjdTUwLWw4Sm9pbVhYd3VJLU1RS3lGRXhLNDlNUjAza2o?oc=5",
+"source": "West Bridgford Wire",
+"published": "2026-09-28T14:47:19+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1758,6 +1842,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "cfb2d90d3db33680",
+"title": "India Watch Market Is Going to Boom |• Titan Company Limited • Fossil Group • Casio Computer Co. Ltd",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEd5YXBrV0ZLYlhlQXJzQ2F6QTIyLVNYWlp4em1zQjBqWm8tNmthcVpHdFZPOFJVNXBnWk9jMjBERk9HVXBpd1lETDdwMjY3ZkZKTTdGSDJEZm0xUFFfSEZpTXB3N2RPY29IRF82cE5jdVY2d1FrOWJqMXBIMzY4UGpRaURSODlOdXk0Q2tZY0w2Q0NBZzEzRQ?oc=5",
+"source": "openPR.com",
+"published": "2026-09-28T11:25:08+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "559de54216ccfe89",
 "title": "Maruti Suzuki launches AMT CNG Swift Dzire Baleno starting ₹7.92L",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFBpNzRuV0FCVHMwcDUtMGMzbVN0T3A2NEwyTW1BeWpGaXczcWFWY1FxTmNmT3NHRlFHWVFXaEFILWU2Y2VHQjRvaDQzellCRnJzRHFkbkZoR05nb015WnFfbmxVbkNPSEpNMmUyX2RFSUU0Tnh0dHZlWmh5TDF1QkJlQXpoLUZ6bmI0dWliVmZTYW9rSWw0MF9iYTZtRzVQSHB5bGNySVVZWlFsLXc?oc=5",
@@ -1923,6 +2023,22 @@
 "Auto",
 "FMCG",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "30e49a4fb3debf8e",
+"title": "Bharti Airtel Prediction for Tomorrow: 29 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UFBWWGJxS1JWalR2WUcwRFFFdFNFNU05WktQVU9CZXVuOTh6eGVVSndKVWM3WDl3QVEybFRodVNBRHBEX1hETGdJbU5nZlU2NVJCeFkxMFBtUlJjMmRtX0ZFTS1VcFVzbk5XQXhRcG1VQ3FISEE0ekFOTGhPdFE?oc=5",
+"source": "Univest",
+"published": "2026-09-28T10:48:00+00:00",
+"first_seen": "2026-09-28T15:59:05+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
