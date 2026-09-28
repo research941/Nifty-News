@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T03:46:34+00:00",
+"updated": "2026-09-28T03:58:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "2a6fab819d8094bd",
+"title": "ITC Targets Eastern India Dairy Growth With Tailored Regional Value-Added Products",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHdtN2pFS0NRX3E5b3ZkTjhhcVh5dXdFVFAtMGgxMnZxRGJKWFMyaG9LY3ZneG84UTJSWmJVR05kaGxta05Sc2lYTDZWblpWcEdHTDNoX2JlMFJUaVVhbXZ1Y0JWMUNDX1FRNTNoMzdPaWU3b05zWnNfN1o5X0VkNVZVXzNZLXljSE5PX0k2TDN4aVlyTnRIOGY5ZWpuVC1GUXFRTF9JZzhsRHpu?oc=5",
+"source": "sahi.com",
+"published": "2026-09-28T03:56:07+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "445f81503d4fee24",
 "title": "ASICS partners Tata Steel World 25K Kolkata, brings running club to east India",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVlsdHJPeGZZVmtpT3hYVWFVS21Lc3BvaWZYbWN1bDVHMi15cHpKR2NXY0hfNVp1LWdxaF9ZUnlsUmdacFREeVJqQ1ZCaXlKd2JKWEx3TTdDZ2hTZm5iWncxUDZONDVic2NRLUVsZHlRWHRIVnI4UldpQ2QyN21MUkloNE9Cemw3czRrUWdQMXo1bFBWTUVaQlVEdVVRNnRVSkh6MFBXb0NsbktqOE13Z2dn?oc=5",
@@ -458,6 +474,42 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8ef15ff51569f33c",
+"title": "Sun Pharma inks global licensing deal with LIB Therapeutics for bad cholesterol treatment drug",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdqLVRqSHNDME1vYkZHTk1yRTFuTW54cGQ5cXV3UkY1cW5mZXdKNTNzb2thUWRVWjRWZmtkWmRKcXhmVUI1OWlUTXR6REFoWmtqdWlPcFBDZG96SFVHWHh6Tk1hbDNyMXNBSUVqYU1ObE4xeUxFQTRPMmlmWEY3c1lEQlZlN2JnWlIxLXF1VE9FUUNTb3YwOHdjUVZQZWlpTzBaNGdxUVl2RzBZTHJWLTRLM1N5bGY3MTk1MGpfYnJid0UwdDR6N085UG54RzNJUkx5aU9vUXVmd2FyWVU00gHkAUFVX3lxTE94bG5yRkdCOURMQTdab3Z4NUhhamN6U1NacWVVR1hnM0MwYnBrSC1RNUZLMGpDZks2YlFJWDdCQW93LVQxNS12a0pPWHY0Q0k1RVpmRjk1QzJ4YzVGbW0zb1N0V0tFY01wWWtmZ1BvM3ZNWnAtQzlZNVFySVdDYjA3akhIdkVSN1ZKRlhQdHhQMHpWQTBZSmJfTktEWTNWXzJLN29kbUhDelczZkxoVlQxMGsyUGtONUUzU1drZjd1SWNDaUtNNXA2bVUwUDUtZzZNNE56ZHAwb3k1SFhrSy1LclVOVQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-28T03:42:23+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "dd39532b062a52c5",
+"title": "Sun Pharma shares in focus after global licensing deal for cholesterol drug; check details",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa0tVTC1aQmd4NTJJT21SN290NFhBOHRJVWpTX3d6QXAtSTBFRS1YUWZDUHZvMGI0NWhkek04S1lMQTltTmdWNlNYU2Rzd0ZZalFyRXFwcEhQRmFTNGo4VWhoRjgxbjRNQnRRZ2J4dGh0UVdfZ1pOMlJIWTlydWE3WWlZNk5XaWROemFDVW8takFxcGR4eUFsNnVLWXQ4R1hyOXAzQnowMkx3Um5qTkZkWnZIR3h1YVpqSWtKTFNoeUgxQ0c1VkkwY1VWV0NqWkxGMW1RbXVwRUhNSWx3bnNXc01zdnV6UkVZLXl1Y0FR0gHzAUFVX3lxTE5zb3EzMWJrV0ZsQzhLM2dJQVNQUXpoSlNiTExzQXlJV2J0aWVBclZCenMtN3VJLU5QQVJ4aXd4SW8xMjlCbWM4eHZCR3JIamJ5T0xseVpBZFlhSVdfa3hMd1hBblhTTzBBd2dVYnpqS3lRMGRtTjN3czdNTzlNdEFoMDdLVkVDUk5ZSmZJVXVSWG14cUlydEhiOWxldERoa3ZFektRMDluVTJnVlQ3NkFCOTBwVFpWaDNqMld6VUsxb1NGNUxabnRESHgyS0lWNHdLaFBLNmdLTF9CaVl2Z3BpVzl1dUpXMVFfNDhJZWIybGRYRQ?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T03:41:36+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -545,6 +597,22 @@
 "sentiment": "positive"
 },
 {
+"id": "8abb0ad8521819f4",
+"title": "Wipro Share Price Live Updates: Wipro Sees a 1.68% Drop in Weekly Returns",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
+"source": "ET Markets",
+"published": "2026-09-28T03:05:04+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "457251cdfe81b8fa",
 "title": "Video | Stocks To Watch Today: Tata Power, Cupid, Jain Irrigation, PC Jeweller, Power Grid, Key Updates",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc25paUZzTW10RllhV1RWT1RGQVJYeDJRVG5mVEVzQmFTT2c3M0ZxeEswWnlFWVQ1X2xENThfMmZjZG1SeWxNMTNWc3F0YmMxblVkLVBrOW10X3ZzMUlhUDBlUFppMlRrRXRJcktGYjFiWk9xSmJSa0ZmSFdyMV9QLU1UY1A0MUJHS0lxa3l2b3R5cTkzUWxpRXlrT2Z5NC1seVdJRmd4aTJTLW9tZGJrRXFCQmk2aGlQV0cySWw4VmZaVkUxNkVz?oc=5",
@@ -573,6 +641,55 @@
 ],
 "groups": [
 "FMCG",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "069640b112867be3",
+"title": "Grasim Inds Share Price Live Updates: Grasim Industries Trades Below 100-Day SMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:56:39+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "476bd61cc2840a3b",
+"title": "SBI Life Share Price Live Updates: SBI Life Breaks Above 20-Day EMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530450.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:55:19+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "767be3325d996e50",
+"title": "Power Grid Share Price Live Updates: Power Grid dips below its 20-day Exponential Moving Average",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-28-sep-2026/liveblog/134530368.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:49:04+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
 "PSU"
 ],
 "tags": [],
@@ -627,6 +744,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "27477aa9e070d6ac",
+"title": "ONGC Share Price Live Updates: ONGC's Recent Decline Below Moving Average",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530252.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:41:17+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "5ab2a71c2e4ebbee",
 "title": "Tata Consumer Share Price Live Updates: Tata Consumer's recent performance raises concerns",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-28-sep-2026/liveblog/134530248.cms",
@@ -654,6 +787,38 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "4999fa3cfcbf9fd7",
+"title": "Cipla Share Price Live Updates: Cipla's 3-Month Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-28-sep-2026/liveblog/134530224.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:40:26+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dbe4ec137339e6c2",
+"title": "Hindalco Share Price Live Updates: Hindalco's Price Decline Continues",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-28-sep-2026/liveblog/134530223.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:40:21+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -818,6 +983,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ce79df260f3e614b",
+"title": "Adani Ent Share Price Live Updates: Adani Enterprises Struggles Below Support Level",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-28-sep-2026/liveblog/134530055.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:30:10+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "64a8fe532d44c746",
 "title": "Titan Company Share Price Live Updates: Titan Company posts strong quarterly performance",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-live-updates-28-sep-2026/liveblog/134530050.cms",
@@ -834,6 +1015,22 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "f4dc7845b1c51194",
+"title": "SBI Share Price Live Updates: SBI's beta reflects its investment profile",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530051.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:30:06+00:00",
+"first_seen": "2026-09-28T03:58:47+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9945d5b0d1e36f55",
