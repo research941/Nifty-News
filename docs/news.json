@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T16:22:23+00:00",
+"updated": "2026-09-28T16:48:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "c4388f5321d5403c",
+"title": "NTPC and EDF form clean energy JV",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVndjaEp0Nm43NXQxQm1ySjU2c0Q2enNDRTNaMkJva1N1REtkNUtEZGlWZVpLWG1uenJHMy04ZXlmU1lkakpXMHdVQXYta2Z0c3VYSlJBUHk4UW8zUXRzNFo1ejRCNGdCMURxU045MElQNUFtM3hSek05OUR5TUtxTw?oc=5",
+"source": "Project Finance International",
+"published": "2026-09-28T16:44:13+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d08a7d7658b672c4",
+"title": "U.S. prepares duties following ITC trailer injury determination",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEF6dHFVZms3Z0hlcmR1LXZ0eWJiVnlOUVNyR3J6aTVndkhzdVpnNkxsaDRVUmNwdUhwY19haldGVE54ekJSVUh2VUFVSEZTSVdhSUVhNW14ZnZrbXJTLThIcXlaQ01RZGdEQVU5eGxWSGJsSXU3cDVraTYzMUk3MXo5VEM2ZzFXeFdqempXa0JYaDM1Z1d6d3ljeGxhMUk1U2o4YV9UaXQ4NjQtQ3doeDViZnZveUJpcjJHM1RIOERvM291a0NxaFVKQzZpX05INUE?oc=5",
+"source": "Trucks, Parts, Service",
+"published": "2026-09-28T16:22:35+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f20dc0562bf7507c",
 "title": "ITC acquires remaining shares of Sproutlife, making Yoga Bar owner wholly owned",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2ZkX3haTFh4WXRGdkU5bWVKVjNJUFMyNGgtUmNpQUJmUDVtWjRobTlWS2RkOE9zTlM1S2Q4S09kQ2NpOEhUcllmWFhEVFpfdGRjb21ETUxIcE9oejJodDc5OE51UEdQcnlWRGVsUFhiamRsOVJvX2JkVTh5UTJVYjloWjNlVURSX21oQ2tMSUQ2NzB2U1oxUlQ5OU11MFBNRGdnTzNHa2xrU3JLZjRkUEh6eTBWS3ZSMGc?oc=5",
@@ -460,6 +494,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ee4602609dbf2a89",
+"title": "Five IIT (ISM) Dhanbad Alumni Part of ONGC Team Behind Mahanadi Gas Find",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3pfZWVNYXlSQTU5ZUR1VmgzR21pN0JKcnJGNXBnNW56RldPWWpDNnFhR1ZySlc0QU1VNnRIVkQ5VmF2NXQ0QlcwdUsweTB4RHNSWFFiVzBrRzhwMmloV2U0N3k1OFZrc1Z0RFd5QmYzU2JsVjZ6VW5sS3RMSVVSNHAtZ2l1UGRtYnJnQ0FsUWVwQTZrXzNtNE1DM0phcTZZdzAzemJFY3JhZ2hFWXNoRE9hUU1OYmVKRG5IRi0xU2dvZ1BYNENhTkh1ald3RS1OYjRUWFdQdFRCMkZw0gHiAUFVX3lxTE83X1lnUlY2Z2ZzampsTXMzQW0xczhOdllHaTJWeUZ0SDZzRkIxZUlnRm5acndja0JXYTdCQldaTzAzQnpvNUNQREtmUWFHdWtUbVp6dzZzZVJIN095V29WdGdNUEptYTREYzRLRjJfNHNRcm5oSGFDb2FkZkFzbEtIWEhtN29lMGNrRThSNTE2eEFhVnhLcjFfeUNlUjJoUFVCMDFheVNsY216eElNa1NzeG9nXzlKQzNodTBwa084bmllRDA2X0ktQTktTThXcU5pVE5wZTVIbWEydWs4SWFaS1E?oc=5",
+"source": "The Times of India",
+"published": "2026-09-28T16:13:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -526,6 +576,24 @@
 "Pharma"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "60eab25c62691f32",
+"title": "Infosys expands partnership with youth development program",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWU5V1YyWGE1c0h4UW9sN3RwVmRkc1FZVVRpLTVVaUxTYnR2M2N0TTFHRTdzY0J4OTJyVVB4RExpWVNCcnVXYlBCdFRRZnk3RmE5eDhPNjJib1JzNjMyWlZLNFJWZkhkWmFQdC1xMHdpVmNxUVRMdVlpb3BPVlkybXY5b1B6Y21FRUliUUs3OXF6NmNZZjluSFlmUzVid0h0OHp6OE9yONIBpwFBVV95cUxPMWU5V1YyWGE1c0h4UW9sN3RwVmRkc1FZVVRpLTVVaUxTYnR2M2N0TTFHRTdzY0J4OTJyVVB4RExpWVNCcnVXYlBCdFRRZnk3RmE5eDhPNjJib1JzNjMyWlZLNFJWZkhkWmFQdC1xMHdpVmNxUVRMdVlpb3BPVlkybXY5b1B6Y21FRUliUUs3OXF6NmNZZjluSFlmUzVid0h0OHp6OE9yOA?oc=5",
+"source": "Consultancy.com.au",
+"published": "2026-09-28T15:37:06+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1403,6 +1471,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3ef719a4474839bd",
+"title": "NTPC (NSE: NTPC) Completes Final Dividend Payout for FY26",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUNvejNEVUw0c0RFYk9BWXBoUzNoYUV5d01vVnJTalljaTJiZDBNUjJDR3doYXNBZWNqbEhFZmxRWDRjVjFfOUdHZUhVOFhXNVQtVHVpWDZkZFdzWkFuNklfdHdWUkNwVzBGWUt0TVY0TnVLanp4dDVTSjg2eEVKTzA0OXgwTVlqVFdIcVJsQlhzRDFfSzZvTmd4MWNZUQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-28T12:49:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -2308,6 +2394,22 @@
 "sentiment": "positive"
 },
 {
+"id": "77d36a1a6980eeab",
+"title": "Tata Consultancy Services slides Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaXozVGhwVVQzZHJyYjNsVnBRNmR3OVMwLTI5MUh0M3ZXb29vNVpna1ZGUWpCTjFWX0tlM1NQaWl1Y0dIWS1UZ1NObE5EWnVBWVY0NzB5dThxcjg0SHFiR1FNenJTWUljTFB1MTRJdUVhUVFLS08yd1Nhd3oxdzVETjRzbVpoVHp1eTI1Mk5iLVQ2OEx2SmdDNTNXN0tObTlmaEtOWkl2cGs1cnZpaUw5aUpUUExUb3pvbmJvYkxXQlFBWmRNc1Nzdnowc1FCOHBpNVdHWEtGMnBDZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0ae35cc8bbcac961",
 "title": "Hindustan Unilever slides Monday, underperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
@@ -2322,6 +2424,54 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a7be6a4429121b46",
+"title": "ICICI Bank falls Monday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbC15N0V3SmtzMUpkM1FQTS1JNzFyWjBqU0NjSDJtWl9oQ1Z4Vjd0TzlTWkhQQWFaZXhnMTAtUGxxZnhzZ0IwMmZ5dFR5dE96cVVPa0dsZ3lRci1lNVFvSTgyWXd5OENOdnR5OWNWUGlHSWpsMkgwSEJLaFE3WVNFQnlOWEFNLVR0YUt6ak5LY2w4MTJxUEVOMS1vQlloeThCSzdFZXFON21pcF9VbFdQY1d4LVVBdV9reU03T0plUQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "7728b4f965095b82",
+"title": "Wipro slides Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9EUWxtMWtVQU43ZjhtcEN0enlXX2J6enZmRlFELTRqN0JZVW1mNFFLVWF1NllTT25OOExRWmp6VXdjZjMwRThOY01Vc09aLTMxanVhLVlWd193cmh4ZkkxbllsSzBWT0lmTC1UVjl6ektWSHcwTXNMTzNnU2hlcVBLXzhCR3Z6X3RNMnBYMVczWmhEb1VQcVRjMlJIbF9ram5aSzRRRk1BblhlS3dUeUVpOEt5VlJTX0Vj?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "7b52532863026f7e",
+"title": "Nestle India falls Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjlQUy03T3RUWjdJbzZ4bzFEU1h4VTlYbHNfSG1HZy0weVZ0bVZfUXQ0b0FLNlBaTEt3ZXB2NFRENzE0aG1QdHNnZlJFa3R3dHRtVjNOWUUyVUFoSkVlbXNnZk0yblppLWVnSFZ2ZnlXNXgxMHFPSVZNWDZPNmd1bEo4Z25mNGZqMTU2SVBDWDdVNkw1aU9fYl8zdUdTNFhKUGRCUXRsZXcyNF91MGJrV1hoV1lQaEQ5QkdCZ2NINlF2VVpMQ1hR?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-28T16:48:10+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0362149007c7d589",
