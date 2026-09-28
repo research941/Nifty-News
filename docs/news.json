@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T14:22:28+00:00",
+"updated": "2026-09-28T14:50:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,118 @@
 ],
 "items": [
 {
+"id": "375003d6352c285d",
+"title": "India's market regulator allows four Adani group companies to settle regulatory lapses",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
+"source": "Reuters",
+"published": "2026-09-28T14:40:09+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3347722d9d5f509e",
+"title": "HCLTech launches AI synthetic study on wealth management gaps",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONC1RQWNSSE96dXVMel9oS19CLVZ4Wm9HR3pkSUFLdFFiYnRCdFRGYmtoT0l4QUlGcDVBaVk1NDdCcGllS1VKMnVaU3QzUzJpbzQ5NTI1SFRibHAxaFlsMHBtNmFXY2VTSmZDLTJ6dHJEYmZycUpmYWJHWDJGQjhRLXUtWHR3QnN5b0FYaERoNk02OUVEaW9aeWJPOHNXVDkzWnE0SHd1OG16UURaa1JpSnE4WmtpZw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T14:32:45+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "263da91bb3ffd66f",
+"title": "Reliance Jio adds 2.4 million mobile subscribers in August: TRAI",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNENpaDBjNDE5MTNOYTJIWHpFNkIwbkM5TllZSUN6NkhjdWl3SDl5R3h0aVJpME5DVE4wQmlTc25jbG03YzJqZ1RTQm1pRHNyYmc5Q2ZMdFhlSDYwbEZ0T3Y5VlotMDBVd2JTcC01WGVnQmViX3pXNmxmY2dCRjJYc2k1TXJRUHRwMzdnRlZDR21YcGVpa2RxcjZCNEFuUFRzS1NWU0tXSmh6ZmJ1RFVGbXdYVjdUM1NEUkk2aVN5a0xjNTDSAcgBQVVfeXFMTTd4SG1mRmNQT3hRZmI4aTUtb3BPUm5aRWo3Y1MyRkhSRm5jcGZHbVFjb0w4MXB0R0dhdW1lRl82QU5CRGE5S25aNlRLV3dBU2pLeUJ0NFJ0TDlCQldFS1YzbnkzRV9pYmU1Mk5YUHdpSFNiUk4zRjQ0bjNydmQ1TjVEOVJxUlB6SHJaa0dqYnp3YVlmLV9QZWpVNUt1dy0wbU1uUWdEZnVpLW5wZVk2TzNzdWs1UERnTkVvbnlSZU40QWQya0paaDM?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-09-28T14:30:32+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a483e49aac33529a",
+"title": "Top stocks in focus tomorrow: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaDBqOGttTkRrcWpzNWhKYmxJdXZ6YlBMVmhxNm40c3FHaVFmT2lXTXNlWng3eU5nRUZxQ2lDOTMwM0QyLXFBVl9QcjFpNWd2OUpzaVRXRmxkSm1Rd2M4UTFlZjdmOVpDTmpLQzJRVElmTEVybE05TU41ZktnMU5CNHVOVjVmRUJRMnA5blJhS3pBV0xPRlZXTnR0WjY2bUxySVJiUXRSaG5zZm45ZThEQ2NCdVlaaU9laW1FXzRGRnR1MkJ0Qk5xUmhjMUtfNUxqSkNaOGE4ZzYyQ2ctdW5kbjlOczk4WHY1d2J6M3JPcFpBaHQyUm9qMHVCeFNXODlLV3duUnloQ082QVXSAZACQVVfeXFMTUQtUFFSS2N3dUtGSUJKZUI1YUhpT25fU0drTHdZOGdwLUE3R2k0SF9vMWhsVGpfdzFBczk2TWgwLWE1Vkh4TVBHZmRERE44dWlXMDkxS2VZekZ4d3VjUk5kV3lVVVdDNXBhNjVCT2lhU1l4WHVYNDVkT2VvN0szQ2MxT3U1OHV3a2FGTFFySEF6dHBjQ0R0bzRBT2NwaTZBNTZCd1pzWDRKc01hR05SaG9rWkc5X0NvY0NMZDVhdlYxTUlDZDRfTjlvZXRsLXNYYnNUU2NOSlVNSnRxeEJzczB4VWNNV2Jsb1NiNWZnbklnd25ZeE9DOUQtVVlzZ0lpS05wbWozbWRFMlk5SHFsN1o?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T14:30:29+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5234140ba946f9d2",
+"title": "HCLTech Study Reveals Wealth Management Firms Unprepared For AI Transition",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzVPenh4SjZUZmkzMXNWMHNVOUlnNUc5ako5UVVBWkNzWGk5MkdTNzN3S29lY3poTFBHVWJiTFVxV2VkOEg2b25Rc195MlBnSDNsM2pmUjVxUXJUUmVVVDRRUlZlQkZGRjExVTFhRVMtMUJWX2Rpb3ZoTXA0SlVaWmlFOWN6eHF6aFI4RDZSOU9XdzRPbExrRGNKMWNzRGQwYTFhZkQwTzRObVFS0gGvAUFVX3lxTFBTT3UwVzdtOFVEcDhERk9IcFFRalhvV0R2dFV0OEFrZ0J6cm5xaC1INHZsNlRFYzNtNmxDUkVHdmdtMEU5d3cyTmhGRHdmZFJwU2NhY1o2RXQ3RnUyalFTd0oyR2lfcTFYbmFaVHNsMnN0ZWFibFM4ampaTkNmdzd2ZFlhRVFvSWl3aTBQeHJqaXpvcUNyVGo5cTJ5V0h0RXRfSHNLaXdFVmg5bmVaSXc?oc=5",
+"source": "rediff.com",
+"published": "2026-09-28T14:24:58+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48f5df1393ab88e0",
+"title": "Chainlink News: Infosys Backs Onchain Finance as DigiTap Builds",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUgxNXhPb1llUnFXLVFRZV9MSDd1bjJNdkJlbzM1LTlnd0RLUmVKaFFxazdQZEkzd1dxWlUtV0x2SWJ1T1FPTnAzdC1VNDRWRWpiZmdNdzdWTlhZaEN3U2lwUUI0SWM3NTF1ZThVWFRDN0VyMTFCT1FaekRscEtqb1l2MkhweG9rRVlBVi1QR2lZSWdtbnlsdGxEVDkydUU?oc=5",
+"source": "openPR.com",
+"published": "2026-09-28T14:24:41+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2ea956528a1c29ca",
+"title": "Tata Consumer stock fell 2.36 percent on September 28, 2026",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDVLczh6ZHU0NHBSaFNyRE5ZYjBnUWVEZEJEYll3dy1PZ2JjaUduOTBYY3lCcUJ6OWxORy1lLVB0Zzh3VllqYW9RNWRndEZXZzFrT0J4Q09IMzVZNC1RcEo2Y2gwZzA2QU9Wdy1EcEdMT2JJOTlkMUZCNEk1RkVaY2EtNzZCLVRwTFBhV1RLbXFWLUJyOXNKWkQ2TVdFVmxHQkk1OHhIblZfSUZmT0p6MXNTbWRuU2F6?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-28T14:23:04+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "4990733e72228347",
 "title": "NTPC Ramagundam organises cleanliness drive at Godavari river bank",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnVXa2dCNUpGelJnSXpKS1Z2d2ExblQyWFNyd1RqYUt0NlRGQldfRS0yNzFIOWpQczc1bXE5SXo4M3hBTzJscTM4T3E0dUxUQUEwUXNQbTBHZU5rQldMbDVBYVktaHZ6TGQ5QkhFMFltTXBhTUNhTHEtaUo5dnluQkxodUtyS0ZSZlBsVWw4dFphQ2tlT3RNdV9zTnh3ODg3R2dBdWhTSXhlQQ?oc=5",
@@ -459,6 +571,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "107fbb85a34ad476",
+"title": "Jio adds 2.40 million mobile subscribers in August, Airtel gains 2.11 million",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1JrbjdaWTBNVUlTUVNQdnVPX1o4d0dTOHJhaURNV3BiajktLXlJbklrb181NEc4aW1mZVZYU1dGRTdER1Z3NnZNNGlpTzBPN0cxMW9iY2VLOVhIM3o5QWV1cm45MUdmRXY4TzZuY0w5bnZCYWRJa09fWTA5ZUc4RGdTMXRSMl9DMTdwR2RHSHE5eEZLdWx0bXVGN1RMZzE2V1R0LXlNaXNPZmZTQktIUURmaGVSSjZ2RmVZczgxNTZUSjY4ZXVKWmthdkVGSlNGVGJYRNIB2wFBVV95cUxObWtsRU16dnpSeTZjd2FSYzZrUXdzTG9SeWVsV2JQNURGUjNjVDR4RXJ5ZFdwa09GSW9qbVltNGtZS2FORXh0bzNkRXpBQ1U5ejRBTHpxRW1TVjRycVl6Ny1VRGJzRjZycDNTS0ZXeEU3SlItaHFCalB4eUZhZlJRZHhZS3VQN1NsZnpIWF80TTRnMGRUSUNrRjJHZFhqdnJ4Z3JPY0Nyb3JiNjk3dTRnbTQ3TVc2MUVWNlF2WkNmaDdZZkVkS2xWV19jN3hKM0FSSEY3QnlLYXBScWc?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-28T14:19:07+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "7c6fc2f8cbce16ff",
@@ -772,6 +900,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "91998ca2c64ee136",
+"title": "Tata Motors expands BaaS to entire EV line-up",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzZSMVNOZ3hEaU1wS1NENlpvX19wMlZsZWxLdWUyZ2ROMU9feDJ2c0hUUUFPajR4cGNiLUtjM3l1SzdJRjFLbUFhSWRPTWN4bUFhbjFIWW1uU2t3allxbW9NTldKZjVtVnIwek9ZR0N1MUVpU1VSR2R2S21lY290aVRIeHNubGJOcU1BazZENi1WSkJlRTEwR0MyUUpTd9IBpAFBVV95cUxPNEtMdWQ2U25qa2RyZnlJOUxDNUZCQlVlMzR6OVR6LWVqcXFGLWpiV05Ydktsd3ZZTWtZUkxLU1ByYlQ2dmRIdllFUm1rTDVRQnVXZTQ1dWJvbWtpRFRBaHlKUC1LZ0NsOUktS3loYXdmdGd1TlEyYVZGQUs2cEd5R19ySHdwX1RtdGFuQm1iSmlKV3FYRDd4dm9pTldFSGlYVmhwNw?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-28T12:56:22+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "32d129698ab56b97",
 "title": "Birla group acquires 2.01% stake in Grasim Industries, holding rises to 45.07%",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXA0Ni1tcEQ5c2RRNVJ3T2ZXMHU2Z0hWYmJYWFF1YnVFZ25fcEswU016S2x2UTU3eG5zbGlwdnhkUTdMSmthdXNZWmlOcXhHV2o5Z05FV09BNC0tM2RkTklTWmtwSXlYcFhLUjF1U0lqQWJWZTJvazV1aGF6dWFoUXhQVUNBWmgxLVRFQVlnams0Wm9PRWJpT0JKNDFLV1JfX3dMWEdzc1Z4RWgyenBTNkYxOUxTUlY0bVMyWXJhUEV4VjJl?oc=5",
@@ -943,6 +1087,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0ae12d64a71392fd",
+"title": "ONGC CBM Asset Leads ‘Swachhata Hi Seva 2026’ Cleanliness Drive at Tenughat Tourist Spot",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxrd1lEYUEtSkQ2eFpZa1pyTno0YlZrRHJlUFBjS2dHODRZSThUazlTWW5rVFhPX3J5Zy12UjdPbDQySURmeVpVaTNVQjBSekNVZl9ITTNBUmlvV2EzbENldWJ1U0N3clhaX2hOOVR0XzZqd0dEOUIxTXFIeFNrajYzS0hRM2FXRE5VcURrd21zbXBreEs2aXAteEhyX1BhcVB1eGFBZmNjQW8wR2FMRU40ZjJfN1BoV2huTGtfQdIBxAFBVV95cUxQcFZCSzg2RlBELXllZE1kdzFZNEpXbDVZU3ZOZ1g1LUFvdjZnZEV3VDduVlRXaGNwVERNOG9WRC1rdFRJNXh5NXlBQ3JnOFVseVhLaUxCU3FaYm1BblNVYkJGNXlhVkp2MVNDR1BVbnk2UmUxYmh6MTFNZHdrVFJMY1lYX3Vib25GU0JnX2tPZFg4cTVKVXV3V3I4eEl1c0h0OFg4VXlXZDkwUzNiY3ZNWnB3SFRIaks5Z1g3ajR0MVdFdTRB?oc=5",
+"source": "psuindia.com",
+"published": "2026-09-28T12:22:49+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3148,6 +3308,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b2cfecc5c1fa793e",
+"title": "Renewables news: Finnfund, Proparco, ACEN, NTPC, ERCO",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3VnN0Z3MDRkcnpkbzdJSzl3aHVhVEdpRDRZeW1QVk11a2ZYemFNbnh3VlVJUHpmRXhRa1RQX0JFZjJOZExpaGpWNm1kYmRBTF9wOGNEUUVveFVUbEMwbXYzMm1yOUtVUHU0OU9QazhoWnJVemNZd2lUT3ZkbEtOZ1VnOHRBWEFjSjlaemphVVJ3RWlqY1Fv?oc=5",
+"source": "GreentechLead",
+"published": "2026-09-28T07:03:33+00:00",
+"first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
