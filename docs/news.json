@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T07:51:12+00:00",
+"updated": "2026-09-28T08:02:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1938,6 +1938,24 @@
 "source": "Zee Business",
 "published": "2026-09-28T04:26:27+00:00",
 "first_seen": "2026-09-28T04:33:08+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7709bf86ddbcb215",
+"title": "Bank Strike Postponed: SBI, PNB, HDFC Bank branches open today or closed? Check latest update",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnN5bGNfVnQ4OFNqY282Q2hCVTBPZmNJSmNsc1U5cDBuTmVLVnBMd0I1RVVNR3MyTzRyaWRoSElnWWZwUTRUVnJDbW9LU0dORVdJbkF1R0hCQ1ZXR0V1VUdROFhZTTA3Qjlfb0hBZXpUdmhsMWJDMGJjUXB2alhEa1pUcUdSaWRLRkN3MUVTUGxVQkJ3d3V4QXItT19GNUZiR1p1M2haUVluMnVJdXVsbXdubDFFMnlDNWJFTERB?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T04:26:27+00:00",
+"first_seen": "2026-09-28T08:02:43+00:00",
 "symbols": [
 "HDFCBANK",
 "SBIN"
@@ -5010,6 +5028,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "d16f99b1cd5f99cd",
+"title": "Sun Pharma to Announce Q1 FY Results on July 31 with Earnings Call at 6:30 PM IST",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0JzU2Z5TElpM3lfZUUyd0hrSU4tUUJTREN6Z29RY1ctNHF0am1sYl9VYnZCZnBFVGREWHBkRkc2RE9KV3lubk0xZWdVTVV5Y2U2RXdnSUVoSDd6S1V1cGhja0FPdDI5UC1TeGIwdXZWbHBVaVNhZEFtdXJyYkNnNENNZXBpVnp5UmdQR3BndG4wMHRzT1VaTmtnUFlyUTdQTzA1LWY0OXZJUW1FZ2RVSl9NeC1HcTVqNE51cUkzdGFMZw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T12:35:11+00:00",
+"first_seen": "2026-09-28T08:02:43+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "39a74abd6189cf04",
 "title": "Bank Q4 Result Mixed Bag: IndusInd, IDFC First Rally 4%, Axis Bank Falls 4%: What Investors Must Know",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlFBT1ZlcF8tYVZGWDQwbUdscFFxejNMQ1ItcF9hU1g5TGpPdmpYcnlZRGlLVjRqenItMWxjQnU2eGdTZDhSTXFsbDdYckxFSmhvUV8tcHk4NTBYTkI5ZlJkVkx6Y1Q4S3ZBWUI5dWxpLU0zUnhEYjExLXlLaUtFalVXZER4MVZqNEtmdXAzSktJMFZSb0dGOFMzb3FMYTZVV2FqWlQwbnRfTGJuenRSbWg1NGdhNjBZdzBaWGJscDZOMEJqOVI0dmtZMl93Y3EwcUpXNA?oc=5",
@@ -5285,6 +5321,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "74d174bfb794ed3a",
+"title": "HDFC Bank exercises call option on US$ 1 billion AT1 notes",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUFGd3NPbmVoNUs0MHJlb0xnYzcxT0djc1dmVGNqLXAtVS0zN1UtcDROb2RpbklKdW5jbmVwN0dTTGMxcTljQU1WckxOUXhxb2ZFTW42YTlnb24zQld3d3c4MmhiUTFCRkw0TmdRekhIcmJJUUxfRDNaRF9OWlpJSVhiUmQ4T3RvM1Q2Z09oMnp5bk9TQ0U0eEtPclBiTVF2OGFYcEJBTjJLcEY1Mm5IQlZ3SDM?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:23:23+00:00",
+"first_seen": "2026-09-28T08:02:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
