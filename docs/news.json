@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T18:22:14+00:00",
+"updated": "2026-09-28T18:50:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,55 @@
 ],
 "items": [
 {
+"id": "6b78f1f24afb0479",
+"title": "Axis Bank expands tourism and hospitality outreach across India",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFZXcGtUYlNEd3JHYjZUbEo3emtCUnU0eUxPQUllcVZfOTFNVGxqR1oyRU8tVlFBT1YyQkNPLTNUZHMxQU51clFaTk4ybWFOa01sQTVhTTBHZG03THQ5QVhRWVowOS16R2REdVI3d0xYMFVvbTN6ZTZkZXNOOUJ5RzU1Y2g0aXE2QVlBbUc4UDZUR2RNbTRDUGJPT2RnT1ZfYWtmUkRUdE1ENXhLRm9pMlhWMzY4UQ?oc=5",
+"source": "Prop News Time",
+"published": "2026-09-28T18:30:56+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a071e1d357f68212",
+"title": "IRDAI pushes LIC, SBI Life to seek further cost efficiency",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnlBQ1kzcWhkSXhZNW9RanQ3aF9KR3ZvRlQySEU4czAxd0piVURsTjdoa2NINEVDbkdyTzg2ZDcwMDNkM1haaHRUampKSkF2a2dPN002SzFXMmhsSUpFc2RIQmt2UkZJLW45bFdUT19Rdk51VTRrdmVpTmROLWN2eFd3eU5wVG1CSWNTTDRFRldzZHNydDRSQzNsc3g4dF9GQU83RDZzYm1sOEhPejNXQnVWa2dhWHJoQkJhbmdrX25XTDN0U0R1SXI4ZnQ1ZTE4R0NwQjR5dGg5eVnSAeABQVVfeXFMTlRiRWgtMEtkNnJkUU0tTUctX3BSSm1hR0NxTnFDVnlJZUZTbkkzSlRsTXdqbFhNcnJzUmh6X2dBOTBvMkNXMEoxUm1uc25aamZQaFVoWkY1VjdJbWFFd09NdHNUTUIzaWstdGFxWXVmT0VtLVJsMlpyNUlaVnBMcUhtMGZqbndoR0VqcUV3U0tKTG5scWxZTzdUSTBkdXU3aU9EUzRtZllSdnA0MktMdUNFS0xoenlKMFVpWXJiM1hlQm14VGtFazlubDFGUnlYbmFFOUp3bGxjQ21NZHMtczg?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T18:24:32+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "faa9ee83362354d0",
+"title": "Bharti Airtel stock last trades at INR 1,771.40 on September 28, 2026, down 0.78 percent",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdERQNGRkbzgtb0piQ3RGQTAteUZzRTJ2XzQyVlR4TDVUMjVJdy1RTDVDdkFFdjhfNm8zWjJsanZlU1JBR0xOSWVUZmNja2R5RUhUa3h1QnNCdmcxd2I4c2JZYnJpbC1GdHhGYUd5Nm9LZDZ4VC11YkNZM3BiS0hFd0piTGZoQ2pIRW95bXRfSnhhaEg2OEhKT1JzbFVrYy1fWXJ1LWFLck1XNWVCTEZ4QnJWdHBpbGh5bEhxVHBpQ0ozbVctRHc?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-28T18:18:59+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b16dbf1699c05dc7",
 "title": "Tata Motors BaaS now covers all EVs: Check Tiago, Nexon, Curvv, Harrier prices",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDA3Q1ZfeVJUeEJLZEQ4dkp2eDFwQXUwRkQyRG9aNHpHV3c1RUxMcUZYMXE5dEdHVXR6SXduOURNaDFiY3dfVGhzUmRHUHl6YXJKd2llMUk4UXd4RDJiQ0FIb3hrdTJTczFrV2hjWHFENWgzT3hiNzJ3Y2g1VS1MRHRYb3RRd3pKMWQ1Sy1EclQtYlk1Y0VJM0N1LVZrX0JvX25kbmhlYWxXcmx3WU1qRERCemV6SVRiYlhNckpiX1pQMk5BSEkyNdIBzgFBVV95cUxNeVJvWW5uNWZ2RTEtMHhTdHRTd3JwV1BseUppbVV2cE1pQ1JJdDdUdUFpUnc0X3RNa21zcS1fX2NXQXFpcFZ4ZTBvVFFBdE1oNmczN28xbGk5Tm1RczVTLWVMT0llYmVjdTY5dVpVMFZYbDd3TEpxNlpGN2YwSVpEcU54SmZUYnN5bGltTjdMQzRZdklvbExhMG9nX2JjYVQ1R0xXVmZsU0VyV3puekZKaGFFY2N4bmFkbXhwc3p6aGwyWElUSC15MnN3eHQ2QQ?oc=5",
@@ -513,6 +562,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "761cdc7d3163dbdb",
+"title": "E20 petrol can reduce India’s dependence on imports: ONGC official",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzZIT0t5YUpwekF4dUhYeS1rU2VBWlR2ZEJEOUNta2k0YVRLNEU1blFZY2thdkJwNmpWUVFGcnd2NWZLOWM2cFpKeVJTSEFSWlF2N2wtVXpCYkFzNjhTNE9DckJXRUtDTVVkbWRURFpIVTh0SklHX2N1bUgyZ19ka0hBUnRjaDlhWVBJelYtTmFSandiR09XUmJCaDVCSU5k0gGmAUFVX3lxTE5uVlk1LUNMSm1tY2VXTVFQY2ludnYzVE9qODZkSWh1ODNsRC1IZ1pQOThPdm9EM2RaMDd4ak03VWx1ZmgtVkx5dG9hS3VsMmpxZXhtTnVYWUZWeTRXT0tzVS1HNWV1dDJCeTkyQ2M5ay1kLWJVVll5bk0xY2tGd0s4NHkwX3NJTTBLVksyeTRiLTlueXdkUVVRTnRZZ0x3TjdrWGd0YXc?oc=5",
+"source": "ThePrint",
+"published": "2026-09-28T17:46:46+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "77448094abedf73a",
 "title": "India regulator allows Adani, four group firms to settle public-float violations case",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
@@ -558,6 +623,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2f555103b4624d34",
+"title": "Gautam Adani, four group firm settle Sebi shareholding norms case for Rs 1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWkgxSGJad3ZNek94Wk00UkJnb19KaXJFUTJEVnJNLWNDcDVGNWR4blU4eTdJNEpVbF80aTNiNVRMdkYtZTVtOHF0TkdvRTFYMnB4Q3oyUW1NNW1JNUxHYmUwcmVqcDFlQ2x3eEhTWk96NmJzcFNTeF9FdmFEUEhuWGJJR2R6M2lsNzVEcW81S2JOYTl2c1JsUWlfUktHYjRLQXdTMnNmZVRIV0pjQW14T3FqVFdEbmxIb05KMGdrTHRlTDlHbEtKNjNCUXY0bG9saGtBRlpDSHJGWHRmRFHSAd4BQVVfeXFMTVpIMUhiWnd2TXpPeFpNNFJCZ29fSmlyRVEyRFZyTS1jQ3A1RjVkeG5VOHk3STRKVWxfNGkzYjVUTHZGLWU1bThxdE5Hb0UxWDJweEN6MlFtTTVtSTVMR2JlMHJlanAxZUNsd3hIU1pPejZic3BTU3hfRXZhRFBIblhiSUdkejNpbDc1RHFvNUtiTmE5dnNSbFFpX1JLR2I0S0F3UzJzZmVUSFdKY0FteE9xalRXRG5sSG9OSjBna0x0ZUw5R2xLSjYzQlF2NGxvbGhrQUZaQ0hyRlh0ZkRR?oc=5",
+"source": "newindianexpress.com",
+"published": "2026-09-28T17:22:00+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -667,6 +750,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "86f82a5975b81880",
+"title": "SEBI clears Vinod Adani and settles Gautam Adani in MPS violations case",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcE5FWVlYSEI2cVJrM2pDUnBrMTY2dGZfcWxNMHN6QlhkemdaRlpNTHdnX1otb1FiVHNuM0xtdWdqLWtyRGF0QmpVdGZHMlJKbWZpU09Db0tHZURYYjVYR3F4U2NkakNBQWxSSE5EdWtkdXJtck9wWFJSTTlZQkpmRXpXR3BUNjNVbWNuQ24zYVpkeHlRMGFfSlByMHhnWUh2OURpdTJIbFE0UExMSEd1c3V1R0taNmhKemI2bjA4RjBIOUHSAcoBQVVfeXFMTWtiQ2lsQU52Z1dkX0xiNGVjenA1dUhPQkt0ZWZDbEZNd3AxSUQ0ZnlJcFJtbVNKZUsteEJydE5NaXpuLUI2LWhMaDg2VVgwcVdmSXFkekFZaUlSbzctVzFMb0FNa1l2NW5CcTdiZlZOX0tPa1VaM3dpTjhCMTFDSHhGdW9pVXN6b2plbEhLZzZrbXZ6V1VYQ25tYUZkcFNfNzRJTG0xYWdlVTNIcHZoLU1zWER3WGprWVVrd1hoZWoxbmZ2MVFfSnBadw?oc=5",
+"source": "thehindu.com",
+"published": "2026-09-28T16:51:20+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0b8e0029584f23c5",
 "title": "Sebi finds no evidence Vinod Adani controlled FPIs, drops Adani MPS case",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGVEeWRUVXFRa3VtTGdjSEZOb0hZeHYxU3hzbG84QXUtMEtEemJPUTljanVUOGJfU29fVVVKZXNHMndmbDdHMjFvZlhEbTlQZk1vR2pyaVRELThmT0hab1VHWlNtM1pKMmNZQ1VnbDFETjVwN2Uyc1p2SlhCVVlEdFo0TnAtZjF0cnMwd212eHVzQTBEOXhUbkFucnZ5d2ZTSlhfSUhZWGtFMEYxMC01cDRnU0NCOHl5TTAyeUJyRHZaRERLNlYtWkhaZmhEazV3Qm15Q9IB2gFBVV95cUxQS1dTbmVRQVhyYjAzUFJqSGNwMnI4R0VRazU4Y1lRWlRqTjZUbVlkMno0LV84NDkybUwtVFY5VjI0cTg1R0tGYjRfOGhLOTNGQlRqZ3NfTWFyRHloSXVUVTNPNS1EbXdMUTJiOFNTcGtRRU0xZmRGYmdZZk1rTVNaXzQteUE0VUFkdFNwdjVxX0ZIT1RkRDFsZThmSUZ5WkhQcTFidHREVC02TWNnLXF3aUhieE92UmgzVGg4WmtzRGUtYVJBT2FfQTZKOWlFSDdtTzE4WlNNakRjUQ?oc=5",
@@ -763,6 +864,24 @@
 "source": "Rediff MoneyWiz",
 "published": "2026-09-28T16:40:16+00:00",
 "first_seen": "2026-09-28T17:46:45+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ba54099ac4f44795",
+"title": "Gautam Adani, 13 Other Adani Group Directors Settle SEBI Proceedings For Rs 1.48 Crore",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGk4N1hRMVBiTHN3TG1idmhzc3JyX3ZXcVZGSUg1SElTdnVqTnF6UnhqeUt4NFM2Wm45WnkyZHFQTmM3Y3MyRG1sVi0zclRXaklKLUhlVzktbEVqUUJKX0dxVVplcUh3UlhFNjVDajZZMF9lM1pxMlVLVkhZX3dWeTZmRzRqNlhZSGdzcWJQRjJuNkZadmQwOEt4X2pjZUpBMWJ2bzNqRUpSTHBWOWZMRnAxV0s3cnpGbS0xVHVhR2NLYVl2cEHSAcYBQVVfeXFMTWxpODdYUTFQYkxzd0xtYnZoc3Nycl92V3FWRklINUhJU3Z1ak5xelJ4anlLeDRTNlpuOVp5MmRxUE5jN2NzMkRtbFYtM3JUV2pJSi1IZVc5LWxFalFCSl9HcVVaZXFId1JYRTY1Q2o2WTBfZTNacTJVS1ZIWV93Vnk2Zkc0ajZYWUhnc3FiUEYybjZGWnZkMDhLeF9qY2VKQTFidm8zakVKUkxwVjlmTEZwMVdLN3J6Rm0tMVR1YUdjS2FZdnBB?oc=5",
+"source": "TheWire.in",
+"published": "2026-09-28T16:40:01+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -897,6 +1016,24 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "0483ac630d3aa1eb",
+"title": "Four Adani Group Companies Settle SEBI Proceedings Over MPS Non-Compliance",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYS10c0F1VHB1M0kxLUNncHVpSHQyRFVXbF9JNF9jUFRGX2FkQzV4LVlGVUItTnZJV08ya1NRTEFOQzV2akxlRFhxZ0t3dDg5b282V3lRdFZOZXNtMDVJS1BLQjBULW5LbmVHWjdvbFRNdWlGb0ZMX3lpbXhZUjdFUVZtRzJUX3JLSWthZEpmZUhqWFNKVG1qb0c3Q18wc1RIMmtEMEtsQnZwNExXVHY5VE5LMTlvaHo5UUR4TXBRLVVCeklBajVpTlgwNU5abXAyMWxwejg4dThUWHRjQVNrNkI1aGVjRlF1djNabGtJeHBDX3VZdGw1SHBSTG5Hd2PSAYQCQVVfeXFMT2dDR1p1UVEydWhfazRZSmtwaFM3OWlzWllHY1B2andLM1R2U001Z2VtTHpYTWxZS0oyVVVQd2p5RWFvVGZCaTVsUUp6UHg3eTRZM19BbWU4WjFIWVVSV1RHMFRsR2dlaFVmSEh1cGU1UlhGV0M1SVhYVGdQdnZNbTFoQk1yaF9xUDVoNEJfZDdiRUJScmljZkEydG9LaVBJVjBEWXA4enpSNmtSQmZjbXVHTGd5STNJSUZjdklhYVd1NDBzM1Z6T0J1MjhxMk1MU0d5OEVOdWJyUWNRTUhrTURKTFY4NXdzQjB6ZmxTZlA4aW5JaVAtcDByekY4eXY4R3A0MlA?oc=5",
+"source": "LiveLawBiz",
+"published": "2026-09-28T16:04:50+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "a19be9c1ccb1a92f",
@@ -1378,6 +1515,22 @@
 "source": "Livemint",
 "published": "2026-09-28T14:30:29+00:00",
 "first_seen": "2026-09-28T14:50:30+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "963f2238acf7efda",
+"title": "Top stocks in focus today: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-ncc-irfc-power-mech-shares-on-tue-29-sept-triggers-11790605116716.html",
+"source": "Mint",
+"published": "2026-09-28T14:30:29+00:00",
+"first_seen": "2026-09-28T18:50:10+00:00",
 "symbols": [
 "HCLTECH"
 ],
