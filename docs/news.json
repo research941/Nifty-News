@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-27T23:57:26+00:00",
+"updated": "2026-09-28T00:27:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "6566e8208b4fdaad",
+"title": "Mukesh Ambani’s Reliance Plans $1 Billion Bond Sale Ahead of RBI Decision",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeV9lbGdyQnMwVUpJLWxUT2ZVZUVCVndaX0p5Tkg1dmVxaFczbHJna1N0WWdyZjBnUUhwcWZMTlVLN1gwN1lsMTl2WjlzQzB4YzlNeHl1UWxuN1E2WmJNS1lxeVo5aTdWc1VUYW1naUNjWUx6amlZc28weGFaNFFkZVY4NDlvbmQyUE05eTVZOVQ2djlFcmo0Vm92aTNBcHZTd25ESUVBdw?oc=5",
+"source": "CEOWORLD magazine",
+"published": "2026-09-28T00:25:00+00:00",
+"first_seen": "2026-09-28T00:27:34+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8a960a996ca88679",
+"title": "Dubai is an important market for us, says SBI Funds’ MD & CEO Debasish Mishra",
+"link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-debasish-mishra-b100-dubai-expansion-11790438563413.html",
+"source": "Mint",
+"published": "2026-09-28T00:15:17+00:00",
+"first_seen": "2026-09-28T00:27:34+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "34a8387ed0897ce9",
 "title": "49ers top Cardinals to reach 3-0, but lose Mike Evans, Trent Williams to injuries",
