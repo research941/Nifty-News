@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T10:12:49+00:00",
+"updated": "2026-09-28T10:30:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,88 @@
 ],
 "items": [
 {
+"id": "1acd2a1f6245febd",
+"title": "Airtel's AI-powered cybersecurity tech blocked 1.42 million malicious links in spam messages in India",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY0RqdF9fWjhTS1hwRDVyUEJ6SXFNVHlFZlIwVjEtTG94MHB6WGozSE5GeXFwTlNjVzVadERsZEg3eWFtVUVNa2FRYUVFNGNrbmpJR2txejFsZ3F5dGViNVlobXlLTG9TcjZxSURsTDlaUkFtak1pNWlkRE1jaEZPVHl1dlBSQXRsQjhxS1hfYmZienNrV1RhOE9pTjJyNmd5dGpURDlkRkc0VTQ1b3VtX3hnUFFVa29BbGlFeGZEU3FPRzNLUlkzSjY3RVdPZ05GdW5TdW1seDVJN255Y0lUMQ?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-28T10:21:45+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5c08a3a2ad702294",
+"title": "HDFC Bank Share Price: Why Jefferies sees up to 30% upside despite 27% crash this year",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXNCVlJkb1hJbHpxODdUekhTUE5RZ1lCQlRPM0tpMUJ5cXJGR2tpZUtOUWVPcXBDMUFaQ213UWN6U1FqeEJjbDF0enJyRjhiMG1iUFVLQUJYS3B6N0FQY3ZneUJBWmVfQnhMcE0zTUxpV1JTM0ZjLUhGbU1FUU1qb2dETzZhYXJ5RmtTbUgxNzFQMmkzRzA2QmxneXQ5dkdnX0Y4bEhwSUJnQVJLMjgxUzJzXy15T0oxTGVRc2NwczFPSWZkY0tGWEdB?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T10:20:23+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "744667ab75d5c712",
+"title": "India should enhance power grid capacities, dynamic congestion management: Ficci-Nangia report",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2pzeUd0WlhrRnNSREVrM0FuN3I3TGxWOHVlOXVDdVRtdVJsZ2RmVjNRS1liVV9MckpfM3liWE9Lc3lqdDloVnFfMTdnY2s3VF94VGcyN0tiODhzZ0ptRGlSU0QySGlRQ3RkdFpmczlaUTRNN0otRmdiWk1rcnp3dnNfWGtfN3hzSXZkS2NIYXlKZTBwMld6YmxCRDhiR0ZSa3NqOTczYVQ0OVZHX0UzRE9aTllxbXc2eUEwdkNZTGE3OWxsODlVYVFIT2NkN0pHTTA2Y3lTakFiRnMxZUFWUkVzQ1h5MDFWNWpmTHltNTJCVXZCYmtrYmhacU7SAYICQVVfeXFMTTVNa01tR3NXYU4tc2dkQ2RTSHphSG9WQ01wODNUc19fTEppNVdZUmtDamhKU2N4Q1doT1BCcnB6Q0xSM2x0MmotbE1WMGN2cm9ZMnRoRnU3NmtidjJwSlhubUk0QzQ4clB4SnpmNEwwazY4cTRhUlVkMzBEQ250UDY2bjRTcnVfRnJqc2h4eVB4N0Y1eDV0NXFNcmxyOXAzMmI1WkY1aUdRaEROQks4c1UydTJzWENTaE1LSjFnS2NVWlVUNzd0SGZlSnR2a2JXYl9OY3hzT09JdUVhLUJVMWYzRFpZU2hSMUc5cDFicTAzeE93empPRHhRMmlVMHdwZFVR?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-28T10:19:35+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e0308efd9fb8307f",
+"title": "Tata Motors expects over 7.5 lakh annual sales, launches Aries sedan at ₹5.29 lakh",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMTc4N3FIblY0c2hRbXZOd19xSnlMREVPSG4wcV9PUHA4aGNGMjMyR2hrZkRBcVNFUVBTcS1YYVhYaWlORlY4OGNUeU1tSnR2bUdnZEtjdjFqOEgtVDh0eEFUYUtreWx3QWxpc3RvQTAzaUYxZFd6ZEdDbEI4T25ieWpsTmRMYWhXQkswR3VEMkU2NDBkUXRNY0Q1Qm5OS0dQUWp6RDNBNThiZ0VMU1R4WEdhbjVQYWlJYm4yZTlHdFJSNzlOa3lid0FPSTVHSFVMaUNGaERCbUhNZzdpZjVIQWJOVnZwdGNSemY1WGx0a9IB9AFBVV95cUxNUUgwdEQtS3REdW44T3NGVDNJMGdla0JEcUNGblJRYjJEY053bHBvU2E3eVNSd0NJRE5nLWNKZTNUZDNreTdBSGkzbUxTXzJsUmszVEI0RFFaaC1lR1hySGVqOGhHaWN0VXAxNlAwZVFDNjduYkU1Njc2THhtbWY4YUp5MUxWUDg2OVczVGpPQXYzU19zejR2NWRkUFNPMWJrYlFocFZ2Q3l3UWZ5a2NpMmhKOHZHM091ZXEtUnh2RUVUOEdfa1cway1UeHBrMl9WRXBoVkFiWmtueXdnT1I1d2VCUldYM3lfaFlac3lOY3VQWnlX?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T10:14:34+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3d1e7c4d37b6da6f",
+"title": "ICRA Reaffirms Mahindra & Mahindra’s AAA Rating with Stable Outlook",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaktmTU8zV0dVbUtoWGV3Z3JUdHlrQlA5WTM5VjdFS202N2ZaMTBQNVExQ0pEMzI5czMzY3lQMXlmNGdxcFA4QlRtbVduazJyQmR1XzYyRExyTnBrWWc1TDZ5dnFWSHdra3lraGh5SXB6UzRYdUltT2w4U29aR0RIWHVyeDA0Y0RCakIydVBRWmN2a2JCYl9SZlVGRUdoVktF?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-28T10:13:00+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "aa985fde780796af",
 "title": "Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7%",
 "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWnBaMVRueW5CRUJsMzRkQzhQUnZLWi1WcEJmVUp3aTNlNGxuX0JCMW1odkpyX0lUTHFjMzc5OWZEOWN5TEtLbnVwRUVZTC1Ca1FIRG1zOURrNjVtOW1NaDhsbm1yYWVwZUd2VFNZeGZQWVFzVjYtUjdmWUpvWDNVd3lLeXpfUXR5Zkp0SmRyOUtGTVNJblJadWJiaVdESUxVUWdhcVR6cExkSTk3d3F0QlNPcUpjQ1JDcDFMS1JseWFLWk12cDRhbVpqdC1FVzFaNVo2NXlUUVEzMWRXeEJvYUlwVERFNm9qckw1RmgyU3FZbDNaY201MHBMaEtoQ29SVmlRZTZTSEpFRlk?oc=5",
@@ -461,6 +543,40 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "d7d07122df361e56",
+"title": "Bharti Airtel stock gets a higher INR 2,180 analyst target",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekVNMlRLS3FDbnY1ZVN6bzZUVFdHRVNkeUNfQkV5QVFBZUlWNnpNdXhYMDVnXzYxVDI2cDhCcGlacHI3TktxSE1raWRpdkFVZTZ3T3FDUkltc28wQ1M0ZWtOQ1NKYU0yYmt4Mm9uaVNubUUtMk9MeG1RemU2OW1IMlM2SVhjUkM5NDdIWm9sTFVCSVEyXzMtbFlXUEZoaktpd05zb0NWR1lyNnZtaWVxeTRXWjdrUm16Y2o1c0J3?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-09-28T10:09:43+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "4555ecdc98d1de26",
+"title": "Services for minimum-balance customers are at issue in a tax notice to ICICI Bank (IBN).",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREhldU1VNldYXy1RNVhkSVVBQUhWV0NUakpTUlZhdnBrcHRET25ndkk5STlzb2dpSjhqX0g4OW1yM2h6VEh3V3JCZVREUzZfUnBXQm9SMlZKclFIeTltdzZkVlUwWF9TM3RtX3BRUFVLVzlCMFpSalJ4a05nRzE3VlVGZ3E1YmhEc0RQRWlxN1N3VDEtM1M1RkhoSG1BUHE1SjZyTmI4Z0FGQldHWmc?oc=5",
+"source": "Stock Titan",
+"published": "2026-09-28T10:06:07+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "fe8e6a22bf3da890",
@@ -865,6 +981,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bb7367f2654de0de",
+"title": "Big change in mobile recharge plans: Govt brings new rules for Jio, Airtel, Vi users; Here's what you need to know",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHpEYTJnb19wdjFnVXR3VzNGZDVqUVd4eVhnc0JsUmwxMjY0dEw1bm9jSk01d0dMRHViaGRONEhVaWVUdU90a1FFMUl2S3Q4UU1PRENkTEo5MVhwcGY4WFoydnVuWFIyV3dyOHBzT1d2NU1QNlgxTFpqQ29UV0ZqTmdtLXUzWV9oR1liekdtN1JZalE4N0Eyb1AxSkxkaDNLNlpRSGFQWXVka0JMYlJJeUhScHVtdHoxWDUtTmVGcDhCWEI3cHdCUjdJRUpoUnpBXzBhZl96dlc2MU9QZjFsN0Q5d9IB5wFBVV95cUxOeTJYV1RlblVGNHhuZ05SS2pvdVRXTllfSjlLUEF2RnF1dlplcFdWVGJUODlmT2UyVG1xZEhSRFRzbm9YYjZJdFpjcWV6NmNlemUzRnRkVUJPSDB4WVpjRGlTTGE2cHROQ2p4SVprQzZqckJqV2czbXBoempQQ3d1Y2VrX0U2QlpERlpteUNlTGpWQ1ltemFMeHlmZUlPdF9mSnVOcDFKYVdvSDlSRExZZFZnbkRJQ01yTm01LW1DbDNaUVFSX25HdFhkT1ZleXFGWEZOOTRCdi12V2xTSmhpSm81Smh0emc?oc=5",
+"source": "News24Online",
+"published": "2026-09-28T08:31:55+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3814,6 +3946,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "56ddc14ed57ffc57",
+"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's market performance reflects a closing price of Rs 1774.6",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:04+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81ff45743b5f2446",
 "title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
@@ -4207,6 +4355,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5df447414533d536",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Closing Price Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:50:37+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e4986a82ac96c6ba",
 "title": "Coal India Share Price Live Updates: Coal India Price and Performance Insights",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
@@ -4229,6 +4393,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:50:20+00:00",
 "first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "182c90c11eee2771",
+"title": "Coal India Share Price Live Updates: Coal India Ends Day at Rs 421.8",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:50:20+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
 "symbols": [
 "COALINDIA"
 ],
@@ -5117,6 +5297,22 @@
 "groups": [
 "Adani",
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eef0cb0e393462c7",
+"title": "Tata Motors Commences Voluntary All-Cash Tender Offer for Iveco Group Shares",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjFtbVFpd09PNEY0ZUpLai1ZdlM5MUxHTXJzaGpBY1hnRFB4cWNXZXlkc0d4Y2tsMW5ZLVZCMm9yd2lacHl1bzhJUUVxOEE1NFUtbXRrdkVSVHpIUldEakdMR1ZMNFNkRTlsWkVJWm1VblpvTjg5T2FxZmFlNy1jV1dxM0hWZ2FzV0Vfek1iWVZBZkhPUnN6UDNMOE12anpkY05pYTRkQ2wwT1ZIWDZN?oc=5",
+"source": "Machine Maker",
+"published": "2026-09-28T01:25:18+00:00",
+"first_seen": "2026-09-28T10:30:56+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
