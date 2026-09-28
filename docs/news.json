@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T22:43:55+00:00",
+"updated": "2026-09-28T22:56:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1206,6 +1206,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "0907ced66626c84d",
+"title": "Compare TCS with",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWgyUDhBV1VmUmdhbTlPNmE4bU03bzlOenktMzEzZ3RlR1ZrTXN2ZnJFX3RIblBHM0FpZVZmcERaVmxrX0RJYVdCeDdmcnhqZERQVWlteFo4NUxvV2ZBT1VOTGVEeElrMWlSeHNLYWtFRzdySldzakdodVk2U3d1X3JpcjJNclZ0RXdJLUt3?oc=5",
+"source": "equitymaster.com",
+"published": "2026-09-28T16:56:29+00:00",
+"first_seen": "2026-09-28T22:56:18+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
