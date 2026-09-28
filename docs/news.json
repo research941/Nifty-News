@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T05:18:38+00:00",
+"updated": "2026-09-28T05:34:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,106 @@
 ],
 "items": [
 {
+"id": "e2acb50b9d3bd695",
+"title": "Explained: Vedanta, Hindustan Zinc, Hindalco to Nalco - Why metal stocks are falling today",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGZ4eXRPbUFiV0owN3VRZ2JzcFd5aHFEM0t1VkR2X1ZtbmJuakd5SG0zNUN6N3NBYjhLX3otOUN5MV9ULTN1TEZqdmVYREJiMXVfYjFrSmR4YnI0MER6Nm5xMGFyZWJVTGNIVGMwa1hVR01QeVpqNTlYUUNjRVJBRDcxTVR2SUlsMlYtcUJoekhhWGpRYlc1b2pVVWlQOHBTRXhjaUxhb09xd1V6TjktQjdBeDFtbks5cER1TDhkeV94bHg5RnU0MEhMVU5reTFWc2RTS0pFUWJHLUw4V2hQVE5Ya0ZSZ3MyN19v0gHwAUFVX3lxTE5GZWxhV0tkNWRVTllEM2hWLXhSUWRnT1huS2Y4Y0lQcl85Qm11WWtYazFzOVp0MkFLanRBamJSQXhlTlZuX19RREowTjNiT1pUU0NEbkwtdDIySnlnZmdfYWlqVV92aUVOelgyQ1hhRWUyRDM5cENucGFIR2EtSDFnRnMzbG9pdE9tNXBaY1Fpc210Y3JGU21MNWM4TG11b0w5TzQ4YVNlYVVNLXRSMlFhdXhwM1F3UURySWtPb0tvRVJYLUZRbnRDLVRwa2phamY2X0NqNl9BRkwtU3pncGxxTE1vU3pBZ0ItRl96czcySw?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T05:29:28+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8f168c4f97324e12",
+"title": "Bank Holiday Today, September 28: Are Banks Open or Closed Amid Bank Strike? Check Closure Status, Full State-Wise List & More; From SBI, HDFC, ICICI, PNB, Axis to Kotak & More",
+"link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOSTB5SGhwZ0NFeFY0T0tfVFZPNGQybzJmOW1zQmRCczNqNnhJWjMxNmRRNVRiUzRUZ1VHLU9YUGtjTC1oUkF2TUtGVkVCYmdBTFUtTGVZMk0wSkhCb3ByOFg1MjFYVFI5NTliWV9FN1FwODR5eG9BWWhEYldXeGpmZ0VRcDc2WVdXLWNuU0g5UmkyRkhTWGpNSjhYNlR5UVFmOWtxbG9rNmFVVllUTDRUdV9IaW1SZWJCRUxGZm1JZXF2V0oyNWl6UEI4Y0k1WjNqZ044ZkVxc1h5aWZqdGdHN2plV1pmRGtKZGdoZHdSN3FqV3pGblFia01uR0w4bkpraWd4aS1yYzhRZkRoWjZBWWRsaFE1SVV1dnkzUmc1NEs0MzZhM3dUVkoyR2c5eHlySF9CRDdn0gG7AkFVX3lxTE1KY2h0MTU0MHZ4MEVCWG1rblNyTl9SMEw4bUxvYUowby0xWW9aQUdyUkhsZGNGakZfanVsUlJvNHE1cG0tbWQ4dzZ6ZUNYcDNVQm5zVXFOWVdyVmJKX1ZtdTdvY0RDcXRoTjU0cFZHamxoY1VISjVicGZtUjJ2MXdkelJxT19kOTF5RmlnMko4VFhISGZ2dVdpSFh1SEdmY01zekh1ek8wcVhhaXprdkFaX3d2VTFVSE1hSmRXeThNeERZSnJ1Y3hvMV9sdDNad29PaWVRSW51Rjl4UkZBRnNaanFEM1hkVndBOTFMN0VoRUZmVFVOVGpzR2ZldXJZUjdaS2RTeXBjdGUwMExzMDFwcFY5Q0lOM1hkVGpmSjZUcHd1VWx4TlZPeE13Y1ZROVRxTTd0NVFXTXhCSQ?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-28T05:24:38+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c5df4f09cccda1b2",
+"title": "Trade Idea of The Day - Kotak Mahindra Bank Ltd Target Rs.15 - Religare Broking Ltd",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGs4NFJfcHJleUctLVJuZUlHeVhXYXRHVDQxRnpZOTRicDh3NDlURnI3LTJRZkctVXFzTXdkajFrZ1Z5VTZxZ3JPWEVRU0hLcVVob1htd19kWHpsenUxZkhkR2xsREFiN1QydUFrS3VHa3kycTR2OThCZWNoSkVaci1jLVdRbzNCVG5oYnJVX3U0TmZHWko3Vlc1SFJobFQxcy01bFRhaWNyRm5oR0tXZXRKRFNiQlFwZDJYeHBOSWNDOWhlT2NLeEQtQV8?oc=5",
+"source": "Investment Guru India",
+"published": "2026-09-28T05:24:10+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "99cee74e45e1c2d2",
+"title": "Karthik Krishnamurthy Named Global CEO Of Wipro Aerospace",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkFtY2k4a29UNkZ6UmR6RWg2ME5XZHhGNXp5c3ZXNEU2R1h5Z3hCdlBaU2xCOG9tekM4aHJfaGpFaGJkOERBdmlySGVHdzYxMnptQTFNSU5PNGNUbnhwT0tocE1QUjMyTGgxaTJDM2JCc2c5Rk5ONzhVa1UyZUcxR3BaMVR5dEZkcGduMEtFSV9PNUhBdElROVRFMUg?oc=5",
+"source": "BW People",
+"published": "2026-09-28T05:22:08+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b147d43c27bf502f",
+"title": "BFSI Stocks Crash: Bank & financial shares fall up to 4% - What are Citi’s targets for ICICI Bank, SBI & others?",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlV0eFhSN1FueU9mRUlOOWlHNnY3a2RuTGdLcWNmRTB3eFY0a3JrTXRhWjVIck9XejhTN2dsamFBVGRCeXhmdEJrOTVEWk4wSGItTUVtaFZmVV9zcEtCc2VQLW1xV09xclRRTnRJSGh0bllCbkE3bVp1YTlHZFN6OHZsS1REcjlwRVdDdkZBTWlyY2ZCa0JKMElhVVplY3lfdEU2eXdBdG10YS1GejFTMDVLV1pkMW5WcG8tNVR6d0Fnck40aWNLRFJRdkE4Ti0zV3ZVZTFhQ1F3S2oxcU0tbU1VSQ?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T05:21:22+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "ca971e0c70d82335",
+"title": "Nifty50 Rejig: BSE to see $600 million inflow, Wipro faces $200 million outflow | Check key changes",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXNVdzk5NUZnS2E3dDFlVUUtc0ZYa0Q4N1dCU1RSanVjSG1hcDBSNVZuMGtlQ29HdjE5RmpLVHNGcnJRZjFDbi11VHRwd2RBNmIyUUs3aExrd2lYVGQ3SnNrcVhmRlFpNTBkYjJ3cU1CMEFSRjY0d1hxMGhUTHVMWnMyZmJTUzlBY2t1aEpiY3lPMjFwOTJiRk83dFJwZDNSaWRKT0xta2xvUDFkTTBubEpTa3Nsb2RXY2RkbU1JWXpkR2I3emx1SWVLWUNGWmxKSXl5ZllPRQ?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T05:13:45+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "17c9e5b25ef35490",
 "title": "BEL Trading Window Closed from 1 October for Q2 Results",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEyMDRpNEIteklUWS1JSEE0Z2thZ0Q2THV4eGFYVHpiZWdNMEhCLXhRVVhkTFlUNGdac212d1c3aXM3MERHRFc5bl93YVlEY3RCOEVIMXpxT0NHWnM2ajhOWm1ZZnV4aFZRQldvTmc2RXVIa0xwOWhaZmxlWVhRMHF3Y2tvdG03WFhnMWxrY01XSlA3U3c?oc=5",
@@ -711,6 +811,24 @@
 "Order/Deal"
 ],
 "sentiment": "negative"
+},
+{
+"id": "13759fc77a258c06",
+"title": "ICICI vs SBI vs HDFC Bank: BofA highlights 4 growth playbooks as credit growth hits 20%",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2FXZW44LVpVWlpWRzFpM0ZoLTlCRmZpRTg1MlRwbFRyWW1JelVYbVFjb01kOVdraS1fSXJwREZYVmd3Z1kyRHVsRFhqNjE4QnJVZ1lUcXBxeF9YMk9IcHRwM2Fja2tJeEVPaVZnZS1KcmVwSklwY05JYjFyNzl3MkhhelgyOV8zMnE0U2FyQ1F2cTh1dy1vOVNSdUVUTmRRTExBR09ScjQwdnlCTmc5Qm1QbXhmeWdqbUZSN2lLaGhaejRZQS0xM1lMTTFtNjA?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-28T04:38:03+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "77031dabb2fd263f",
@@ -1060,6 +1178,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "14d8a35fa54b0332",
+"title": "State Bank of India Stock Update: Shares Dip 1% Amid Sector Headwinds",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEljTUNUeVdSbG5jVDdVZkRZTVI3MzNJVVNhdy1SMTV1UVhZQXdQQkpVdU5Jd25ULUtXVEZSb1JySXQ3ZTAxSndtbWphYWVVRDJHY1dEd09fT3pHcGpqUWQ2dzQwSDlxQ3pxaVZrYWREUVk1Q05xVU80ZGcyRWFXR2ROaG5PR2xEV2NlUTN3UWZsQzlPS1g4XzVsUHp0dFY3cmcyS0VIV1kwVWd0LXVIMXBVUjXSAboBQVVfeXFMTkN5SEkzc1BZb3RJNzhtR29rSDBpeWZNTFRoNmNheUpYVVhReGVsTTZzYllBR1RIZGNyQzZTQmxuUUp1OWJUMkdLYzRJQmxoWkNmczFhMVV2VWhxS0dBTnRQZGdvMnN2WnVCbXFVRzM1MU0yUHNuNWtsV1AtNEd5NnF1YWU3UDVMelNxbHoxNUxfQ3h3OGoxWnY3dTRVY3Q2WmJKa3A2Yk9RWWtPalFER0JQYTNpVmpGRjRR?oc=5",
+"source": "LatestLY",
+"published": "2026-09-28T04:01:43+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7e5813e7eebccc4b",
 "title": "5 Stocks in Focus: Power Grid, Godrej, NMDC, RCF, SAIL",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDVtN1RiYTBCZVpveTJBOGJVQ1pBeF9tUmhyNkNDUmpaUTJBdTh4RFhtVUtoSm52WTRSZmVoLThBRnA0R29DdFNQbGJ6ZnJNQ3hPczNTZkZZb2l2TThoLWxIM2JId1NJbEtWSHVkRDg2b0o5a2UzVVJfZlAwYnJaUmxMX1ZaamFUWEp2TzIyZHIxVEZ1ZEtTS1hfYl9Od05FaXVUbVNRRWtnU20xN09FRVA4cF91clpTalhtdmE4VmtxWko4NzZZdldsTzd2eUZuZFR2WHYtWWtXVVlBbGVz?oc=5",
@@ -1119,6 +1253,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5ad089339ce04509",
+"title": "Infosys Stock Update: Share Price Slips Marginally Amid IT Sector Weakness",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2hUd0pDRDBTSVVvT0RqVktENXpoblQ1THBHOXNIaU9wT3N2X3dGUWprNjJSTk9vckZITXdmUEtPalF1TmN0QkotR2VvanpYWklGcXJYdlVsYTdhOW10YlhsdDIxNjBIVTZpYlFROTQzM3FBMExoZFhNYmhOSHVXRndVcmhCbVk1eGs5UW5mWUh5U0l6Vkd5UFUtVXpTT3NGNFJtWFJ4SGc2Mnh5UEtSLURDTGg1NENhMThYbNIBwgFBVV95cUxPSm91Wl9weTdtNHdSWE1oeDZ6MnhIU0ZfX01TVTdKcWJDM0xZR3lDekNESHpaWGRXclpOekY3aTlaVTJhU291aW1OZnBhdlNhWDJfRUlMZ0tPMm9sTmdlS1Jic1BlRC1NVUNGb1Jfa2dGdEJGcWxsZVhkUjdFNEFUSUhKN2FBb0RjSWZXeXRTZGc0LWpsRUpmeEVseGV1U1JZYnB6cTJSZHVjQUNWZkZoSmxrajFYQWVrQXVKNXhlcTNBQQ?oc=5",
+"source": "LatestLY",
+"published": "2026-09-28T04:01:40+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1342,6 +1492,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4a6c77d00a89dd3a",
+"title": "HDFC Life Share Price Live Updates: HDFC Life's Current Price and Returns Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-live-updates-28-sep-2026/liveblog/134530853.cms",
+"source": "ET Markets",
+"published": "2026-09-28T03:20:51+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "54b1c68733803261",
 "title": "Tata Motors PV eyes 15 per cent market share soon, targets 20 per cent by FY31",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGFhNnhyUnV6aDFDUnBGc2ZqT1Npa0hDeGk3dFJBdDdkN000eVhBRGNmdDRsVDNicnQ0TTJfc01nTDFjdk9IMnJnSUx0X1Jkd25ibW5qb2wxZmw0STVMS0RqUHlZN3hpV0hDeVdxaDhaQ0lMSU5QSVF4V0ZJZWZRYTVlQmwxTWlPUDhVaTRGZzYwcWpxSU1uX1hWa1g4c1RGM2Npb2xVZ3FWZ3R0em9JWA?oc=5",
@@ -1390,6 +1556,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "c0c89dae021facd0",
+"title": "Infosys Share Price Live Updates: Infosys Market Performance Snapshot",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
+"source": "ET Markets",
+"published": "2026-09-28T03:06:13+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "fabcd59d42610d5d",
@@ -1623,6 +1805,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "14a609b7d06646ad",
+"title": "Asian Paints Share Price Live Updates: Asian Paints Daily Price Change",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-live-28-sep-2026/liveblog/134530409.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:51:27+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1b29913adda437fd",
 "title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
@@ -1634,6 +1832,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e4986a82ac96c6ba",
+"title": "Coal India Share Price Live Updates: Coal India Price and Performance Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
+"source": "ET Markets",
+"published": "2026-09-28T02:50:20+00:00",
+"first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
