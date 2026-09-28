@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T09:26:46+00:00",
+"updated": "2026-09-28T09:42:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "9507251672aee266",
+"title": "Max Healthcare opens new PAC in Tanzania",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PeUkydWlDRnIxdWJxTnBzY01IRlBiSHlNWjRoSHBsZHJYc3ozZnBXSUJjbm03azl4ZVY3RTN2M3FMTEdmbVV1RjRtd0Joeks1SDZ6MUpGRUlpVEw0OXRrd1VJaXc1Rzc0UVAzTHJNYVpIQVBEY280?oc=5",
+"source": "Medical Buyer",
+"published": "2026-09-28T09:38:04+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c3cdb43d684aea59",
+"title": "Tata Steel Colors honoured at CII SHE Excellence Awards",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WV1JGbi1wQWFtNUk4U3l3LWJlM3hOWktTeDdBM3FMRGI3V29KR1NmMmRERkdJRE9reE1uNWVpZnFjRFhVc2g4b0R6MHdVQVdKUTdlU0s3Ny1aMUpnZnFxRUZjU1l3OVhtZVVxSS1hWUNRcy1qMEQzMFJReU45emM?oc=5",
+"source": "Manufacturing Today India",
+"published": "2026-09-28T09:30:59+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ff217cea391486d3",
 "title": "Siddharth Sawant joins Tata Consumer Products to lead HR for Ready-to-Drink business",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzZhZm0wLW1TOS1wSjNQUW8tNlJudnR4Y1NWTzBMY3o0ZThCcmVLRkJ3WmpWaEhiamNFeUd5S1hRUkRyN0FBN0xnLUhzdjZycWJYdDZLRUo5UmtUblM4T2U1VzZQdnFtTFBRRzU2UmI2Um42VUp1RUNfZTNjTVJocFZiRG9idUNzXzNlS2xIWVByM0Flam9YQ3ZTWU1nUlFvTmNINTl5NzYzVGY5QjQtNUlaNEw4VnZ2U0VpT3NyMUZib0E?oc=5",
@@ -685,6 +717,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "52f4205598f09c4b",
+"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for Rs.2,498 crore | Is it a stock to buy?",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU09sX3hhSVZLcFVET0hocG4tWGhhS2Jxbkpfc2VCcGEzQ0d2LUFwYTluSUFzSGhSTU1ZbnZnU0VfREtvOGhIQWVOdEtzNThZamVvclJaczBubGRNYlBBaXNhOVBoTTJlLVkzYkYtOWpNQ0htRWFrZGd2QTJIOWJDRHBjRnp2RUhsb0w4dktmdFM2Skg2VEhST0hFa0pJUVpBd0FoRFR2SUdrNHJpNldzLWEwRGhGQ0dncjhaZE1tWU9BTHhTaEtOUUxOZTlJdGxfQVdSb3E0R0o2eXhPVUxYUFYzalh0dUZ6NjRNcEgzTWFxX2dDeFZlN1FlSEwxUXo3UU1WR0VR?oc=5",
+"source": "TradingView",
+"published": "2026-09-28T08:30:26+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "ee1ddf9c9fad9c8d",
 "title": "Hatsun Agro partners with Odisha govt, SBI to launch Go-Dhan initiative",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmF6UGc4eGg2T1VNMldlTVZoSG1vdnRkX0EtUDEyMHlCeE1DN2VNTUlvX0RRUkJ1MjVWMDhjTksyM3RXZEVuRjA0NXNwaUp6M0tNVVJaQ2Fuc21xZjljTlREVFFFWVpUaV9ad0tKZmM5SU1VVkZfdE90dTZuWVYyd215cjE2U3lVYlBDV0RLTEhBSFpZdUJyLTJRS0paV0dFZi1ISDhqOWV1NmZ3dlFBTmdhTS1aLVgyOXcw?oc=5",
@@ -837,6 +885,24 @@
 "sentiment": "negative"
 },
 {
+"id": "2b9c12458ecda024",
+"title": "Coal India unit advances $1.14 billion IPO",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZXh4NGMxUTJ0ZHkyd3piSFhYajhnSnU3bmlPbVYwVC03c25FSFJKSllqYnVzSW90cEEtM0Vzd1VoY2trQVJXNlA3NGs2UmtDTjFaUjVQc1o2TUN1N3JFRUZHMExMQ0x5X2FtVzJOdkk5Zw?oc=5",
+"source": "Mining.com.au",
+"published": "2026-09-28T07:50:10+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "020f16b5c7219087",
 "title": "Infosys plans to move up to one-third of workforce into specialist roles",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi10M0RGZ0NQWmxDSG9oa0prWmNodVZCaWlnUFFOWnhjd2dPeEdYZTdJaU5GSjJjZ3lYME5fTzUzSHpGZ2F4OEhjcGdsZlZROWJsUE53dVJoeWVPcFhQYzNIUldFR003ZzVDSzhmNV9kQU5fOUZvMkszc3BVNlpDR00zaVN0S2JsZTc4VnFFWG93bVJzREZSN25jSEhaOXpZajF3Ug?oc=5",
@@ -848,6 +914,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e3ca60513aff0084",
+"title": "Sun Pharma Obtains Global Ex-US And China Rights For Lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2oyUnlSb21TdGQ4ODdjSGZjaEtrbUlRUElhVGV1bDlHUVVmTjBZNXdOTFdhN21PQ0dCTE9ncmUtSEdpZE15MzNZcWdjUGxyVmpfSm1mZ0xhVjhZTHZhb0w5WHR1VlpERVN4ZkVkVUlyZmt0eDhtcENFNFhYeFhKVmVmQ0pVajRVQzhPTkpYZkdBZWxCaUJiZ2gwaFlqY1QzNzhDR3pjNzlJcVM3c0E?oc=5",
+"source": "Sahi",
+"published": "2026-09-28T07:44:17+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1052,6 +1134,22 @@
 "source": "SolarQuarter",
 "published": "2026-09-28T07:21:45+00:00",
 "first_seen": "2026-09-28T07:36:19+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "33883dda52edc2c0",
+"title": "NTPC Green Energy Starts Commercial Operation Of 81.34 MW Kalasar Solar Project In Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFHWjRmTWN2bmFwdU9yUEF0Q1RuaWJ4cm91T1NoN05pRDRyYWVVOFNYaWEwMjhEZ2htQnNBXzhiOVNCelQyMnpFTkZJNHZWenJrelM4aFhWaWR4SHFnZGwzck9Nc21FNDdwRC1WWDlyMmV4eE0yZHZFbEJCSlBYeG5faE4weVdpcDZvb1FWU3loZ09rd2R5VEpfbEhQWVlLQVRGdS1mMmJzWjNMNmZvWjFLNVpDQnQzdGhYVDRFLWJaU0Q0Zmt0Qg?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-28T07:21:45+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
 "symbols": [
 "NTPC"
 ],
@@ -1700,6 +1798,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "0a207c35af4cca39",
+"title": "Bharat Electronics (BEL) Share Price Falls 2.11% Today",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDNIZjk3RWJOcnVCVHJWWnRCcVNZMjNIN0pXUnVSblMtaDVYSDBxWXhnRFFfdTJuckd6bUN0dVVid2VkdDZYbkk0UTBaMUx1RGtzdDN4TFpjbDE2Z0lmTGJJUnR6TVpSTVNrcmVxZ2gyYTM5N1dUTzBDUlZPdzgyWlR0VUhBQWJC?oc=5",
+"source": "Univest",
+"published": "2026-09-28T05:52:58+00:00",
+"first_seen": "2026-09-28T09:42:55+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "e4419e2be1fd4bd7",
