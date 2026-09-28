@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T17:18:58+00:00",
+"updated": "2026-09-28T17:32:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "28537feba01a95bd",
+"title": "NTPC Talcher Kaniha resonated with laughter , Hindi Pakhwada 2026 concluded with great pomp",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZnkzc0EwT0NTeHRwLS13NmdqMFUwZ0FaWlFlc0JLTG9aOTdZb1lXZnpSNUFyQi1zNV9qSldRVl83YW1rdS1OYm8yVURLejRDeU15QTZqeTgzS0ZUaVFkSnZBZmNta25WT3c3S3ROYXlaQ2w0NHFlUQ?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-28T17:28:00+00:00",
+"first_seen": "2026-09-28T17:32:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "619fdcba72aa552e",
+"title": "Gautam Adani, 4 group firms settle Sebi case over minimum public shareholding for Rs 1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkx4d051WHFmdXQ1NzZDOWRFWk5iUTd4ek96TkY0ZThZRUg3VHBvaE9PLUgzT2NhQUZSN0M2SXRadzJSbldmNVBFaGlVbHR4RXp2OTZ2MGJhTlRzaHhEdTF5eG1xUzlqYnVzZ2owTGk0WEdDTFctdXJSWVFidGRYS2xxZ1pySHMzdmtrWU10ZVBWRmExTzNobnQxc29LNGhxY2FEbE5TOTlmSFRWaXNyci0wR3JKOW9HTXBtdkVqTXBrZkV0UVI3MC1rRlVPOEhNMDl4SXBjbXNiOHZQandJ0gHkAUFVX3lxTFA3LUlKczk3ems3eWlxenh3enpPeS1HeFlxaDNaVzY1dWVVb2xnZXdkc0J4OExMcFdaam1GZDJFZl90Z2xMdlZZeEVkcUFFeWtuZi1PZDY4S1IzSFpzZjJEdktGYjFiaFh6SDJhV1dUeXZrb1lGLXV1Q3UxWERiUFdFUlBIRk1qTE82R3F6V2p2WGhreGV5cDZiNU1zSXp4bnpOei1NSWhuTDlwQjZ2Q1BhMVA5ZHFRY1U2MzRWT2dWbnlHUlFDMlhWREppRTlYU1dlQTU1ZWlxNEt3T09COGUzX3NXVg?oc=5",
+"source": "telegraphindia.com",
+"published": "2026-09-28T17:16:37+00:00",
+"first_seen": "2026-09-28T17:32:47+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "8920af9ee3431057",
 "title": "Tata Motors subsidiary acquires 26% stake in Mateshwari E-Smart Mobility for ₹2,60,000",
