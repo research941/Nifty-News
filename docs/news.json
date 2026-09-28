@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T10:58:29+00:00",
+"updated": "2026-09-28T11:19:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,104 @@
 ],
 "items": [
 {
+"id": "559de54216ccfe89",
+"title": "Maruti Suzuki launches AMT CNG Swift Dzire Baleno starting ₹7.92L",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFBpNzRuV0FCVHMwcDUtMGMzbVN0T3A2NEwyTW1BeWpGaXczcWFWY1FxTmNmT3NHRlFHWVFXaEFILWU2Y2VHQjRvaDQzellCRnJzRHFkbkZoR05nb015WnFfbmxVbkNPSEpNMmUyX2RFSUU0Tnh0dHZlWmh5TDF1QkJlQXpoLUZ6bmI0dWliVmZTYW9rSWw0MF9iYTZtRzVQSHB5bGNySVVZWlFsLXc?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-28T11:17:29+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "795769a02b5269d7",
+"title": "Eldorado Gold connects Skouries mine to Greek power grid By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2gwVTBNWjZUMDgwNEttdEJwcC0xNzM0U2c1aGFVaXJXVVRzX2VFQ29wNm94NU0talpqQVMzdVRFVVVCc1dFZHluNDFmQWFrZFN4SkNJcDRpa0lkUlp2VlQxeWllSGVJWGp6ajNjeTF4Tnd6cjVsVHNhanFUY2lhdGl3TVRaQ2tYRDdRdUJGc09jcEt4cmY2VDNDS1ljd3k3T1pac3JrTmtIUDd6cWljMEg0emYzNDFk?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T11:16:28+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a32d31ae7754c384",
+"title": "ITC Rules in Favor of U.S. Trailer Makers; Tariffs Imminent on Imports",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhOb2JFMXRkSVQ5RlZoeVFxS0JfTEVBVFViZk1VZHctRmxqQVVITVJMMjhIWUVJN2MtemtUU0dOSHg2MzNHaDZnLTlfTzZMelFEbGE2c19TNTY2eXp1ak95TXRQeFo0Y2QzY3dhLVpUMHpFcmdHaTVJMW1uVDlqaDNKeDJNZlV0NzlMRzFQdURJaUM5SzhjZUY2YW9oVFZkQVVnWENmajJwNzNHODk5R0N4SkUzNlBfU2lKR2djaWR1a1lKWVE?oc=5",
+"source": "Commercial Carrier Journal",
+"published": "2026-09-28T11:15:20+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "55ba6b8669a5b8ff",
+"title": "Maruti Fronx Hybrid Could Be India’s Next High-Mileage SUV",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQ2w0OWloam9BOEhVVHpZREhBMHRSWk5DSnlTcG5OUFdCTVlXb0JVUExEQ2Q4Wm5PUC1NLWY1M1oyaTlDVTFTbk50SFV0ek5SOU9zTFFIM2pMajJ5cnJTaGJQc2ZyQ2dxOWJwaHd1OA?oc=5",
+"source": "Car Lelo",
+"published": "2026-09-28T11:04:55+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c3f549448b86678f",
+"title": "SECL IPO: Coal India Subsidiary Eyes $800 Million Share Sale, Targets December 2026 DRHP Filing",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnBhSWY5VjNZY2NMY2c1VmZKTVU0UHRvTEhGb0stbHJheXlzam9sZmV4cWF2eGY5SE5TbGxNVDNPTVkzSndTNnBlekNObmlBQW5WWFJrWVNrSW5wY0EtQ3dfdkVvQmNmRDB3d2tjWE5nbmUzY0tGNXlpT1NrNUdMckRjQ2ZmU1dmUXkweUg4aC10YUpwb3dr?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-28T11:01:51+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "54af8fd343864e2b",
+"title": "HV Termination Market Growth Driven by Power Grid Modernization",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0RZOGllRHFpUURvdEd3S015UzYwMzNuanlNT0NJcUJRLVkyYkZud25FaHdEeXc0aTRESlcwbVR3Y0lWN29NT1J6TGIwOGhDdzZYc25KZ2ZlUkR4aWlRRktNcmR1Y1lOS0RYQXl6eVJ6SGhGZE1CVnlUT09XbXdrd1NNLUdaN0RRS1hJci1zYV9zeUVaSy1jOV9QNHdYMWhw?oc=5",
+"source": "openPR.com",
+"published": "2026-09-28T10:57:54+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "44e8d1dbbdaafd3a",
 "title": "Sonu Infratech wins Rs 0.8 crore work order from Reliance Industries for civil maintenance",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVZPSV9XMWJsTXJrdENFM19Yb2xWaEpoUnhLcUo0VzZFM0ZqQ2pxaXQyUG9TR2U0TDZ5Nm9PXzVJbHVOUUh1RzNrbUxpblBXVHZXZm02LXR2cm92MnJ5YThDUXFIOFJVcE5sOUZiVFZDbzJSbXlMaE9SZkJTTmpKRXFFQUVNaFpuSFZxMWZHLTY3dGFyYU9KOG9KdjF3NVdFc0E2eXdaVnNmdlB5bmpMYWNMMEJJVW5IdGw1VWJJZmpnZzd6?oc=5",
@@ -830,6 +928,24 @@
 "sentiment": "positive"
 },
 {
+"id": "e513b1e2662061c3",
+"title": "Dr Reddy's to reintroduce semaglutide in the market by Dec, says CFO",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXN3bzlRVUZUWnFYd0Z2LXRzdmpBX19EMDlRM1h2Y0wxT240RjFhT0d0eXNRamwxVndzbkdXQW80MV9JMUY3VFpielBFazVJWXVqeDZibTRoeWdzd1U4d01hNG5MZzVCZ2NCeHVqNEpPekVsZjRkS195NlliNWpyRW1yRHc4eGptejF2VW1zXzJFY2Zsc0EwUXRWWmZmS1JOLXBsWEdjZk05U1N3NDdtWA?oc=5",
+"source": "informistmedia.com",
+"published": "2026-09-28T09:38:13+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "9507251672aee266",
 "title": "Max Healthcare opens new PAC in Tanzania",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PeUkydWlDRnIxdWJxTnBzY01IRlBiSHlNWjRoSHBsZHJYc3ozZnBXSUJjbm03azl4ZVY3RTN2M3FMTEdmbVV1RjRtd0Joeks1SDZ6MUpGRUlpVEw0OXRrd1VJaXc1Rzc0UVAzTHJNYVpIQVBEY280?oc=5",
@@ -841,6 +957,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9f732e8f07fd4745",
+"title": "Sun Pharma Gets Rights To $3.7 Bn Cholesterol Drug Market Outside US, China",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDB6eGV2Y1VkcUNqb0lQRkdBNlg2bUlqeXY5andfY2xWUjN1X2JDNm1LODRoeWRFRkd1TG9meUFuSnNpZGstWlphMDFMNjZ3NG91TzBiMUhDckc2YktsME9xTER2dVl1ZVdETEFxWlktalVvT19aT3lLU25ybFh2dFJxZ3dMUUlWckJyYk5tYTdzTGVHV25ocDhzZTJmNGU3ZkwtRW5zZzAyU0dBRVhqWHJ3UG43Y0ZoeV93eXBRTG9LTnNCVmdsSlBR?oc=5",
+"source": "TradingView",
+"published": "2026-09-28T09:31:32+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2364,6 +2496,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "a01e58f83819f9bf",
+"title": "TATA MOTORS Share Price Today: Price Fall Analysis",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwcV95VzVVN2RsbWZIUFlwUEx4aW0tdEU1Q3FUT2hnUTZUbkFuakFwdmRoRnMtdmdNV1FtdGhUOGsxOVloVmQwUkliMjFnZkdhb2w3aEY2dmxVTUxhN3U5X3llekdqQlBWMWYtd29leVZaZWNGWmQ0blhPVGZXdTQ?oc=5",
+"source": "Univest",
+"published": "2026-09-28T05:52:58+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -4197,6 +4345,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bced5dbed024c223",
+"title": "Wipro Share Price Live Updates: Wipro's Stock Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:04+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81ff45743b5f2446",
 "title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
@@ -4547,6 +4711,23 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:51:10+00:00",
 "first_seen": "2026-09-28T08:39:43+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "9838a4aaeea47228",
+"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ's closing price drops to Rs 1741.0",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-28-sep-2026/liveblog/134530405.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:51:10+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
 "symbols": [
 "ADANIENT",
 "ADANIPORTS"
@@ -5950,6 +6131,22 @@
 "groups": [
 "HDFC",
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3342ce0850fb432d",
+"title": "Compare E.COM INFOTECH with VISESH INFOSYS",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQendVM3ZsTWFwNjZ3cWl1SDdwMkZaMkVfR2tZZ0xUTjE3MlgySWs0ZkN1V3BxcTAtR2V0c3luVUxybFR2ZVA3ejgyektiSTNNZWhaejZoamRlV0w5UE0yaWdsMWZwa1ZDWFEwaWlNd0hQSmtpOUFhNktLZXVBckV6eXZNMHVSM1R3U3FqWkpYUnc4OEhPMEp4RTBHdFJoSWdLelcxQ1pLNEhDUHhmWENfVXBUX2EwMEJpTlA3QmhzRmk?oc=5",
+"source": "equitymaster.com",
+"published": "2026-09-27T18:21:22+00:00",
+"first_seen": "2026-09-28T11:19:36+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
