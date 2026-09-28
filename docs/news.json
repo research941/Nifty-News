@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T09:57:05+00:00",
+"updated": "2026-09-28T10:12:49+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,58 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "aa985fde780796af",
+"title": "Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7%",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWnBaMVRueW5CRUJsMzRkQzhQUnZLWi1WcEJmVUp3aTNlNGxuX0JCMW1odkpyX0lUTHFjMzc5OWZEOWN5TEtLbnVwRUVZTC1Ca1FIRG1zOURrNjVtOW1NaDhsbm1yYWVwZUd2VFNZeGZQWVFzVjYtUjdmWUpvWDNVd3lLeXpfUXR5Zkp0SmRyOUtGTVNJblJadWJiaVdESUxVUWdhcVR6cExkSTk3d3F0QlNPcUpjQ1JDcDFMS1JseWFLWk12cDRhbVpqdC1FVzFaNVo2NXlUUVEzMWRXeEJvYUlwVERFNm9qckw1RmgyU3FZbDNaY201MHBMaEtoQ29SVmlRZTZTSEpFRlk?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T10:10:43+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
+"symbols": [
+"ADANIENT",
+"JIOFIN"
+],
+"groups": [
+"Adani",
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "fe8e6a22bf3da890",
+"title": "Sensex ends over 1,100 points lower, Nifty below 23,000; Reliance, HDFC Bank, SBI among top losers",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMmZlbEQ0Z0pQZ3FTUXJfQ3E0YkxMTFZlY3pIRjROZTIxeXE3T05xbW1iTUpkV3QwTGlqUnplMUtNZHF0Y0ZzSXBnS1luZG5UZ2h0NkpxNzhPZW52NGUyMjZPaHpveHVHZmpHM21TNmRtS3FldUdGeFRyMEk3MzhLRVkzMWI0RVhKbHFqa2JCUGh3U09IckU2bTEwbkxwenhaSC02X2NVTVBlT0FWN0hPWGFleXdzR1FwZWhBYW1kUmVMdHdha0s2REl2LWxjczAtOTBIQjMtZ3N2SnZHNDdRY3VydlJCM0XSAewBQVVfeXFMUHQ2MUh1aFVLaDBFTVZuR05mVGlpR2V2QVkzMnJFSC1DRXROZDNRSENDMHk2blF4TGR2WllXRk13YlhFRTJJT0UxN1BPbnRBcEpJZWRSc1VTU2tfcWwtNk5vTHZYdjlRZ0FjOG1OYlVuNHFyQjN5MGRicU14eEpadzRkMjVYdmNWbG1Zbmh3ZkJicGV6c3ppMlMtLWhqazd0VkpsVHEwNFlfVFlOTDd0Zjg0OWJLeFBXMGxGWlBzS3ZheDYwdDN0UWNXdl9BUGFnTnRMamNnTWJYUVNmRWJWTzJhN0U3YzU0YS1PSDI?oc=5",
+"source": "India Today",
+"published": "2026-09-28T10:05:33+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "632e6e9200f8c98f",
+"title": "UltraTech Kukurdih Plant Hits 100 Percent Green Power Usage",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFVDVlVOdVpPb2JfX2NlQ3JzRkFzMk1TUXE4QkxidG5aZzhZdFR2U0hyZUVCbjlSclFuTm1sUGlpVlFsaC05SGZiZ2Rkam1vanJtMXFvWjQwTUZscjg0ajdrX1ZocmlCS1IwQ1EzWEVlRnE0VTRoOFRyclNka2VnY2prNG1nbmdZU0ZIbGtPUzFKTlNRYklNUnpMWnQ1QQ?oc=5",
+"source": "energetica-india.net",
+"published": "2026-09-28T10:05:02+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "979e4ddc3b563ca8",
 "title": "Wipro Bengaluru Marathon draws flak: When event execution becomes a brand problem",
@@ -994,6 +1046,23 @@
 "first_seen": "2026-09-28T08:23:49+00:00",
 "symbols": [
 "ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "fbe654404a552356",
+"title": "Biggest midday movers amid market fall: Vodafone Idea, Adani Ports, NSE and others",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGxTX0Q4aF91TzQ0OUQ0dU5OY09VaXFrM2lsV08yZjR5eGxjRkxNM25wWEpZOVJNLXprbnVrTDBSZndyTHp5SzBmZ1hVOV9UTHhGV1BTSU9ob195NU1mRUMybkRSTTcxS2k0QUlmdWFBRWhQVlZubHlVamF0UW1VSVRBcTVsQU9fVElGT0RSdmhOUUE5V1BrRTA5OElYZW5qdW1XV3E4bWlLU0RSRVdjaGVjcjhGbks1cXA1MVlGZFRZbTdaQmRoU1BlZ2pZc1V2MmfSAdcBQVVfeXFMTXVDdXM1LWNEcHNzNEk4NTVzT1FxR0NGVnhSakQxMFo2VjRyWDFTNS1vNm5GeGxhVUF6V2xJc1c0V2FOVnB2eG9mSzdLYVdqQVZMZ2JUX3hROWRKT0RtYmpkel9EMlhPUjJqMEFtRW5kUUpaLTdodHY5MFJWUU5uWFA5bjd6WEFiS2J0ZUFYajRZVTNfZ2k1eWhnRU5NQWtjc3BORHU5T2lGUk5jMk0yRTV5dFFld19JOXVJMjAwdGZsbVpzREU4WmlWUkdGZ0Ryd24wRnF6RE0?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T07:50:45+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
 ],
 "groups": [
 "Adani"
@@ -3503,6 +3572,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4e54d5b3cc8aae6d",
+"title": "HCL Tech Share Price Live Updates: HCL Tech Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-28-sep-2026/liveblog/134530687.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:10:04+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c0c89dae021facd0",
 "title": "Infosys Share Price Live Updates: Infosys Market Performance Snapshot",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
@@ -3559,6 +3644,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T03:05:57+00:00",
 "first_seen": "2026-09-28T05:48:22+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "840faf83205c5aa0",
+"title": "HUL Share Price Live Updates: HUL's Market Activity",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-28-sep-2026/liveblog/134530624.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:57+00:00",
+"first_seen": "2026-09-28T10:12:49+00:00",
 "symbols": [
 "HINDUNILVR"
 ],
