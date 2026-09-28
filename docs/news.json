@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T19:46:35+00:00",
+"updated": "2026-09-28T19:57:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -581,6 +581,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1b5a4819f99f19cb",
+"title": "SECL CVO addresses NTPC Sipat executives on ethical public procurement",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGpCV29ldmIweThIYlQ1T3RXMU1DWUpXNE1ob2tPMlI0Ui1icm5PRUNnY1o5UENqV2xVU0FBYjg3RDY1ZEhlNHp5WUpBSTN5NjFiOGZkQ2FyRlZwa1VzWlRhMjZZSE5RNC04YmZWWENwX3Fkb2drWlFxVTFYM2dzUE9yWVgzbzdWN3YyRjRoV3Z0SGl2b0xYMDhITHdpdXg3Wjlib1E1LVZkZl9SblQwTTRFbF9sSWvSAbcBQVVfeXFMTUhqQldvZXZiMHk4SGJUNU90VzFNQ1lKVzRNaG9rTzJSNFItYnJuT0VDZ2NaOVBDaldsVVNBQWI4N0Q2NWRIZTR6eVlKQUkzeTYxYjhmZENhckZWcGtVc1pUYTI2WUhOUTQtOGJmVlhDcF9xZG9na1pRcVUxWDNnc1BPcllYM283Vjd2MkY0aFd2dEhpdm9MWDA4SEx3aXV4N1o5Ym9RNS1WZGZfUm5UME00RWxfbElr?oc=5",
+"source": "PSU Watch",
+"published": "2026-09-28T18:39:20+00:00",
+"first_seen": "2026-09-28T19:57:24+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
