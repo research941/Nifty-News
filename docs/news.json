@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T02:18:46+00:00",
+"updated": "2026-09-28T02:33:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,27 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d08434d777a24bc6",
+"title": "TCS: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFZad3NnRzdpOFBFVEM3T2ZlVHBNTGZOVy1TWWVKZFhNWGUxekh6U09zcV94Z0tFblIzMjlpcHBHMUJKajRrUzJjeDd3TmdVYVJxZlIyQ3VZWmhqZjNSa21TQUhDNDg5MDg4VGJwTnhyU3pzT1JPUWFrOE9uRWdKMWtnaUJ2WTVucDJXRjFZYVBBNXZJS2RuOEVHV2hJUGs5STJRY25xeHdtbnRhamx0YmZDcXlXNWFqYWV1QU1zT3FrSjRpOUN4UEZiOVItZEgyRUxkQ2wzSzFqUFFKbVV2dGNpRWl2VmNWaGVSV0c2cVkzWVXSAfsBQVVfeXFMT0g1a0RMZ21lWTdNejRtRlF3Uk1PRzVGUmM2Ym9CNlVwd0ZQdnlMOU5Vc2hOMHF4V3plRUNaSmVvWDBBLXB6bER6RDhacGd2YUV6UHZxbkdNRVFxZWRkRWQ5NGhhNUVzOEU5bTlocGRNRnloamp6R0piOGVnSWJLTWRYaFVNRDFPajlGVjVRXzNST0ZacFQ5b2hMOFp6VDBFTjRoVHRZaTdjeHNUbXhuQkZjN3NJaWl4alNNOFVKbUYyTHRWRmgxWUl6R2xFZ0xxQVhQSjRYVlVFTEx6ZUluRXprSnh6OUM1R0xYWDQ2XzNuc005TU1yeE9oWEk?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T02:24:16+00:00",
+"first_seen": "2026-09-28T02:33:37+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
 {
 "id": "85e4680f121832c0",
 "title": "Top stocks in focus today: Investors must watch Power Grid, Cupid, SAIL shares on Monday, 28 Sept | Triggers",
@@ -475,6 +474,24 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7e10c3a8c0d108c0",
+"title": "Stocks to Watch Today (Sep 28): Tata Steel, DMart, Kotak Mahindra Bank, RCF, Ola Electric and more",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczllOWQtSjhVSm0tazFNRWFYZl8tMS15ZFdxYURwUDFEMFBsajY0bFA1VTVmQ1oyc2tBNkVBNVJKZDUzNWlJb3gtZEg3Q1kxTVdWTGc5Um1KaXNDNEJ6RmtnaHpoaWJYTzRvOGpFS3Vva3ktZEg2a1lkWGhrdVljY2p6a3l4ZHk3TkVRS0ZOcXhtN3RhcHMyNXpaeXVqekl3bExiSkJFSXdsYUQ4czVaR2hMSUlMbUYtcE5EdVpOUXFlaENzUURla3BOT2tpV2xIc0VTVQ?oc=5",
+"source": "Zee Business",
+"published": "2026-09-28T01:58:30+00:00",
+"first_seen": "2026-09-28T02:33:37+00:00",
+"symbols": [
+"KOTAKBANK",
+"TATASTEEL"
+],
+"groups": [
+"Banks",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -520,6 +537,22 @@
 "source": "Moneycontrol.com",
 "published": "2026-09-28T01:05:53+00:00",
 "first_seen": "2026-09-28T01:18:12+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1b8f3c97b90d8f16",
+"title": "UFBU bank strike deferred: Is your bank open today? Have banks confirmed work on Monday? What SBI said in a late-night post",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjFkRWpDX2VMTHdQWS1IeVhMYVY5d0lGSTAtbm1Fbk5GdFN0WXY2bmVxOGRyT2s3Szh2NGxJU0Vvcy10a0t4Q1VxaGRRQlVrQldaNHI5dTJWNFB0NlNWM05vME1ONlZQOV9BVEN3S2pUSGRkQUxIZHBnc2pfTDhOVHZ6dHMzbUNPZmlGcHRWT1JqS3BFcWwyOFZZcF9abk1ZTUV4TWtUcER3dzM1OWVGNGtWbjFBRlRVMkY2ckl6YlFfemRUSnNTMG41MWlFbE4xTUFrQ3RCbGFpc1HSAeABQVVfeXFMTWZ2eFBaYnRqWmJNRFhsZjRYa1pPRGZJNmxZeVFaQTYwakRJMXluQ1duX0dTNURFZmhEaXlVZnpTSmxnYUZ3TnpzVEg1bUFUU2lNd3l2eTlhZEV4a1lCSThoNDZIT1FtMHRvUkZ6MUltSVkweEFBUS15a05ZZ0dBWXVtaG40WVhzZFNKbmpBTndmRUNNVHk0anVzdDNsSlNkSXdhUEpzOW45U2k0RHB2SWJuT05JVTV0TGR0UTJVcmp5SmJrdml2SnFDREo2N29QdkcyaGFRdG5XU3VxT0oxVnQ?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T01:01:42+00:00",
+"first_seen": "2026-09-28T02:33:37+00:00",
 "symbols": [
 "SBIN"
 ],
@@ -2195,6 +2228,22 @@
 ],
 "groups": [
 "Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0e272bd589fbea7b",
+"title": "Global Dilemma Over AI Power Grid Costs",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1BQX09zV3pVZmVwSzJqOXNjYVRrQ053X3Zvd1htdHVTTE10NkZIZ1Rmdk1IUHFwcGJjaEI0ZFZnQ0JybWNZWDJINkg0ZjN1YzgybmZna19BMHhtYW9yRHd4QkNmdEJ3THRTTzR2N1YxQWRpSzlxYy1QeGk4QjhsRTBiNzBaMmZHV3dnYmVn?oc=5",
+"source": "조선일보",
+"published": "2026-09-27T09:26:29+00:00",
+"first_seen": "2026-09-28T02:33:37+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
 "PSU"
 ],
 "tags": [],
