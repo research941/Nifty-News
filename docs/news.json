@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T13:20:48+00:00",
+"updated": "2026-09-28T13:36:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "43d9f34630c519ac",
+"title": "Adani Green to HAL: 10 Sector Stocks Trading at a Discount of Up to 59% From Their All-Time Highs",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTMzamJXNXRuY3c3RWZ4SmoxR3hCSnlWZlZWb2VpRXJ5Y0p3QVppWmg2R3FFWms4aU10NTVyUGJhTVNRUGxRMXNaUkRoUXo1YkFIOXZmRDNzUXNWV0ZDOFlycldsekJVQUEzNW9MQUxTUHZWVHNVMTVUSll6N3YwNWZuaHJnNzZKSFYtNGVxeWZOSXNXLWVaZXdUTTZDU0h2cHNNdk9SZTZMQlhOR0poTDhOR0x6cU1Dcmp4WDJpTU5qOVlZbW93ZlF5N2xRR3VVT3ZMQ01yRWV4QQ?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-28T13:30:37+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f3404142ddca1b4f",
+"title": "Chainlink Price Prediction: Infosys Partnership Puts Tokenization in Focus as Remittix Opens BINANCE500",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlBZc1YzX1hFWjFLYjA1OFdsOWFkaDZrdkI4OEVKUTMwSEEya2FtRU5CZ1Vtcm9NX1lmNW1kNTNWM05qcGpmRWFhRHpDei0xZTZZWVJHNFhLRVpDcWU5dVA5T3FmRlF2ODlRUlJZODY1S2ozVGFxREFJNWlrX0ZUVzNDcHFWS0kzZWFfd1YyRUk?oc=5",
+"source": "openPR.com",
+"published": "2026-09-28T13:20:49+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1b1b04d183923e50",
+"title": "Axis Bank Names 3 KMPs for Material Event Disclosures",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNThUVmMwTXlLNFJ3bEl5VjlISGRtcE5tYmtoTUlLOVgtanlmanRtTHdOMXF0VzVLMWNyQUhBaUxxNC1IU3RBVXRiMzZUZTJ2YWRFal9VRS1pTm5ZaXU4WGt4TzJnZ2M0b0hqeHR3N0VGOTVhS2RzTVBhS2tnY3p6UE5vS0lQdGRkcUNWWDFvbDQtckk?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-28T13:19:00+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7e80ae27e7370f50",
+"title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2ZVQkw4c1lTTmY1eTMtT2pYSTNTTW9KUGRRazcySVVHS2J0MzhHSTZYeGd0d21DMjRuRHMyRkxUV21Ic0tDcVJfV1FfRjFsUXlERHJnbGpmbVg5MnlTWXpkNFY2cXJNUWVkVk14WHFkOUdYdGt0WFV6VE1wTXBuWjk4dnZqZFFjc0djVzZaMlA0WWJQM2s4ZDc5Ym5MeGFSV1dqZHpNWTMyQmJjZGRIZWoxUE9FUUhPT29hbnhKZmJONlnSAcgBQVVfeXFMTmFXcHV4UWhnMjNIQXZsTXE4bDM3LVJTTVVwYVFZbXhYVkg1UnhmSk9tM28zNVByRFh5NUZxNHhZVUFDdmF1M01yZVFKQzdpYWNXQV9XbGtCV3RRUHRHQmlnMFFpVGVSVTNCdHRVWjJ0bU1kdTNpNzBqNHE5d3h5SnoxeUtvSl9GYms4dlVTakZFUTZHd1BzeDhyZUZIUkM2ZlpnSm03N3VjUXdEeVdNSHd3dTlqeG42dkJwQXBNZWVIRWlId3JEUU8?oc=5",
+"source": "Medical Dialogues",
+"published": "2026-09-28T13:15:03+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f1596c311db52235",
 "title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commer",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTEwSUpOTnpZcEo0c21jTFpQYV9KWWEwRmFLV1g1dTBQRFlpX1BhbzJWS1NqVXFGUXRITXlQUV92VzBTaG1NaXl6WXA0QUhZZm1lcExoU0lKc0xLck9wMXpKcHF6cE51bVVlT2VlSWpkRWpqU0ZWNzZFV0FlZkRwYnpXYnB6YkdXMV9razdoa2dlWTVRdjhSYUhZbmZrdWg1Zkl0Y3BaQ1RGWXQ0RGpUa1dGX2JvQQ?oc=5",
@@ -843,6 +911,27 @@
 "sentiment": "neutral"
 },
 {
+"id": "5edf392241234957",
+"title": "Q2 FY27 preview: Infosys, TCS, HCL Tech, peers brace for subdued growth amid AI pressure",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORlJhcUdWQTV5X1JRb29xeldkVjhUZ0dHS3N2eFRKbkJYdVN1clpjSmNDSE9yS3BoYi01R1RwZmExY0RpYmVOR18zV3R4bnVGajlLX2k1czV4V2tjZGkzZ3NqYy1QamMzUnhaWGxCTWhtNUFBWWxWSGhDWWJTMEdjTUE2LXkyOVlWN00tRmR5SVluUFc0NGxFd0JvaVkwaUFPbzhmdWJSMG5lcEFfX1JaWDRKOVYzbFdXR1Zsbnk3NHBzU3VXMHdGNkUzZWRKdE94Yks4eURRS3NIOU94WXNhREZfOUZLVjdqeHNnUTVnd3l3UDdI0gH0AUFVX3lxTE5GUmFxR1ZBNXlfUlFvb3F6V2RWOFRnR0dLc3Z4VEpuQlh1U3VyWmNKY0NIT3JLcGhiLTVHVHBmYTFjRGliZU5HXzNXdHhudUZqOUtfaTVzNXhXa2NkaTNnc2pjLVBqYzNSeFpYbEJNaG01QUFZbFZIaENZYlMwR2NNQTYteTI5WVY3TS1GZHlJWW5QVzQ0bEV3Qm9pWTBpQU9vOGZ1YlIwbmVwQV9fUlpYNEo5VjNsV1dHVmxueTc0cHNTdVcwd0Y2RTNlZEp0T3hiSzh5RFFLc0g5T3hZc2FERl85RktWN2p4c2dRNWd3eXdQN0g?oc=5",
+"source": "ET Enterprise AI",
+"published": "2026-09-28T11:56:41+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "40027c328c507a14",
 "title": "Why HDFC Bank, TVS Motor shares are top picks amid ongoing correction",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0dQcjJHNjBjcm9QREVBUm5vX2tjdThUSlV2aDJHOGxRR0lKMGdiN0pPTjdkMm1uWlFXMFR0Q2xDbGc5NlVpNi1XNTduaE1lRV9aeWVtMGdsVGRQQzZ4QndVUWV2bDdya0ZVM2V3ZlpseFJLT0JyYmp4ZmxkSkdocExfYnFHLU5YRFpONkdRLWNWWmNSRnlWWS1kaVVTVGRYX0QteGtLanJ5QkJmLWhHbTEwQUV0WUNsN0FucXllN3hXTzhqd3J3TWNpNEtiTDd4REHSAdcBQVVfeXFMT1p2eGNianNXZnJuMkhDWkpUTnBjNloxcGhWWXk2TWpPSmVrbzJsdXpoeXRlOUY4d3VXajdZdzBBMmVlZnY0bWV4MWZkaVZqSFB3bGN5QWV3aUZPSFBBMGdIOVJ5ajlwdnVoN0pOLTVCRWh4N2YtOUJvdFJZRDZxZjU3c2tvR2d2Y0dEWHBLQ3A3RDhLN2dIQnoyRThSMDhzMFBWVzB5TWpyYTFGZ2JYWExpOWlHX1RtdlNHV21wb3FkaFJXY0x0RFEtakhfOWhTdUJrOEdHY2M?oc=5",
@@ -881,6 +970,22 @@
 "source": "Wipro",
 "published": "2026-09-28T11:48:38+00:00",
 "first_seen": "2026-09-28T13:20:48+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6d3462b1400be4ea",
+"title": "Wipro Positioned as a Leader in Everest Group's Modern Mainframe Services PEAK Matrix® Assessment 2026",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSEZWTncwVlpLc25aZThVMUg2WG5udkJQMzc1SzhRSzlCd1YyY1NELWRhRTBKemwyUjkzQTEtR1VUZzM3eGdZdHNpTEY5S3ZaUXdmLV9ENmlNRUppYm1NRW9veGxGdzhpU2JacExub1VZeXR2OUJBWkxlLTZLb0tVUzI0ZlJ2ZW14c3ozcnVwMmdhblVtV3BjYXhEbmhTdU9EY1Fac09GM1Jfb1A2WVZqNXNySm9JVmVjNGJCQVR3UzRyaHRRcFVJVUEwT2t6MDNua2V3?oc=5",
+"source": "Wipro",
+"published": "2026-09-28T11:48:38+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
 "symbols": [
 "WIPRO"
 ],
@@ -1403,6 +1508,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "4d2bf06919554b12",
+"title": "Kotak Mahindra Bank slides Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUhkN1Q0OUJvM1B6dTlYamtDWlQ1MDlUbjQ3cUhFOE1DZTBZVk9JRTIzckdiSG1LYTFGZHl5UFZzUjg2SklNZHJaRWRyVktjV2ZuakprcVJKN3hVSnRBRzRZMFIwbkc4ZXNINkw1QUt6SXJsTTdNUGFTSzh1U2UzcFB0N0ttY21xVS1nNnBFTVN6Q0t0cTh3NWhvVm55aWhrUS1MZHlRYzlabzJOSHNPX3I5N1cyOU11R3NvOUVSWnZTc0o4Si1TeFhxcjA?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "1acd2a1f6245febd",
@@ -7221,6 +7342,25 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "739db2eebac5051e",
+"title": "RBI Approves Kotak Mahindra Bank's Acquisition of Up to 9.99% Stake in City Union Bank",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONndHbWtLRWM5MlQyVVRLaVA2VzJRRjdneUFod0c1dHVUMElpWjRrRzZ5T3g3em9ycHdwSHN1bTBDbS1DTl95NmZ2eTFRcjBtVWFhT0J0TEoxUWFGMjBXMWVULUZSbnZnRXdsZnV4X0x6MGlGYWFmdFQ4SG15MHpJS05ScHpxZG9hM2l4c0lTb3VDVXd2c2dtSnp1bko2Z2VQd1hweWRIdXNva29rWHVtUlZZUTJxTDhYd0ZYZU91MDRKb2xfOEpZVmhiM3RtYTZaMWgyQmVoMGZNdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T17:36:27+00:00",
+"first_seen": "2026-09-28T13:36:50+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
