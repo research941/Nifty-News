@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T10:30:56+00:00",
+"updated": "2026-09-28T10:47:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,90 @@
 ],
 "items": [
 {
+"id": "44e8d1dbbdaafd3a",
+"title": "Sonu Infratech wins Rs 0.8 crore work order from Reliance Industries for civil maintenance",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVZPSV9XMWJsTXJrdENFM19Yb2xWaEpoUnhLcUo0VzZFM0ZqQ2pxaXQyUG9TR2U0TDZ5Nm9PXzVJbHVOUUh1RzNrbUxpblBXVHZXZm02LXR2cm92MnJ5YThDUXFIOFJVcE5sOUZiVFZDbzJSbXlMaE9SZkJTTmpKRXFFQUVNaFpuSFZxMWZHLTY3dGFyYU9KOG9KdjF3NVdFc0E2eXdaVnNmdlB5bmpMYWNMMEJJVW5IdGw1VWJJZmpnZzd6?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T10:46:28+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "154d1224ce5722dc",
+"title": "NTPC Invites Bids for 400 MWh Battery Storage System in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGwxSGM3VkFzUHRlR1paTUxoa3V6WjlfR1JkWUhQam5fMGFUTURNTlB5NHpMN3BnQlMtM3BsT05oUE1HaElXY0lMTk9YTlpXSjlpSVNQbjZhU0NjWkRLOVJZQmgwS0hwVk5XanRMUGFSNHRQSV9oUElMYk5LempBaWNDOUJQLXRvWTFIeFdvWVQwUQ?oc=5",
+"source": "Mercomindia.com",
+"published": "2026-09-28T10:45:59+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0e90b2aa22a1f7e2",
+"title": "Adani Power vs Jaiprakash Power Ventures vs Tata Power: Which stock to buy amid soaring demand ahead of festival season?",
+"link": "https://www.livemint.com/market/stock-market-news/adani-power-vs-jaiprakash-power-ventures-vs-tata-power-which-stock-to-buy-amid-soaring-demand-ahead-of-festival-season-11790584872429.html",
+"source": "Mint",
+"published": "2026-09-28T10:37:16+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "e8b75ad1a5350c34",
+"title": "Bajaj Finance Personal Loan Offers Tenures From 12 to 108 Months: What Borrowers Should Consider",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZTEtRkZxVS14QXVVSjNiLUh6YUFqUnl1b1BhelQ3ODlPV0IyNUI0R2ZkeHNFX0YzeHZxei1PZ1p4VUtKZmN2QjlmaWxOUUdVZEVsWG9BQUNoR1d5WkZUaHJSVjE5ZFJ4U2JqUWNsb0hiNFlHNTYzaTItZjJOVEN6RXlELVhoeV9yTGM0MG9XSlY4VV9lSm5sZWtSRjByT1ZNRXJhNW5SQUpjbzlPVjNLbTV3SjZWaXQzUXRXbGc0dUo0VHpGSmc2Mzd0U2hhNzNUd2lDcFA0NFhEcHEzbFBj?oc=5",
+"source": "ANI News",
+"published": "2026-09-28T10:34:00+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a75e9f3d7524005b",
+"title": "ICICI Bank Discloses New ₹16.76 Crore GST Demand from West Bengal Tax Authority",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdXRnZm5yaWNoX3gxQUVWVzdxT1k1NzZFVjZjZDRPeHMtY00zYmFqeVdsOTN0N3B4NS1OOTN1djBpdFBicG1UMU55dkxLMFYwSmxrR3hJeEtlelpHSjExNUZIZlN2SnpKMGpLMU04c19rZXYtQ0pGME5JbEdBd3RXTWpFUWtXSi1nMUcyQkxiODIza213Zmd5eWU4Z05lZnhac1lqY0U2XzJVQ3dCUWR6bzhlcDBXNDRvWnNrT19jckYzc0ZkZDlCQXZn?oc=5",
+"source": "tipranks.com",
+"published": "2026-09-28T10:31:09+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "1acd2a1f6245febd",
 "title": "Airtel's AI-powered cybersecurity tech blocked 1.42 million malicious links in spam messages in India",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY0RqdF9fWjhTS1hwRDVyUEJ6SXFNVHlFZlIwVjEtTG94MHB6WGozSE5GeXFwTlNjVzVadERsZEg3eWFtVUVNa2FRYUVFNGNrbmpJR2txejFsZ3F5dGViNVlobXlLTG9TcjZxSURsTDlaUkFtak1pNWlkRE1jaEZPVHl1dlBSQXRsQjhxS1hfYmZienNrV1RhOE9pTjJyNmd5dGpURDlkRkc0VTQ1b3VtX3hnUFFVa29BbGlFeGZEU3FPRzNLUlkzSjY3RVdPZ05GdW5TdW1seDVJN255Y0lUMQ?oc=5",
@@ -746,6 +830,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e8485edeb3ae4c31",
+"title": "[SMM Aluminum Express News] Adani Enterprises has taken a 50% stake in",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejA3X3NRREYxcXhzdWZBT1pJRUVsNmpINVY1NlR0NWpiVXZlZi1tbnpMa0lkcHFDZm01cWJFU0QwdldmcS0zYTdwdzJvOHdWSC04WGJ2UWRQTS1YeHdKSEp4T2tpTE9XLVZ0OFhoYVI4aXNrejAxUkg4RDVlQm9USDJ2R2tKWnoyVkw2QUhQTGZxM2RQOVFKTGJmU0p3MEVnc2lZbF8weGhrTTVlelpjb1ZadFZEZFlxZkF4bXUxRXNoSjE2SEdPb1k0VjhGY3NVdlE?oc=5",
+"source": "Shanghai Metals Market",
+"published": "2026-09-28T09:20:00+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ff217cea391486d3",
 "title": "Siddharth Sawant joins Tata Consumer Products to lead HR for Ready-to-Drink business",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzZhZm0wLW1TOS1wSjNQUW8tNlJudnR4Y1NWTzBMY3o0ZThCcmVLRkJ3WmpWaEhiamNFeUd5S1hRUkRyN0FBN0xnLUhzdjZycWJYdDZLRUo5UmtUblM4T2U1VzZQdnFtTFBRRzU2UmI2Um42VUp1RUNfZTNjTVJocFZiRG9idUNzXzNlS2xIWVByM0Flam9YQ3ZTWU1nUlFvTmNINTl5NzYzVGY5QjQtNUlaNEw4VnZ2U0VpT3NyMUZib0E?oc=5",
@@ -1002,6 +1104,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "c7f041219915bd15",
+"title": "Savyasachi Gowda Appointed Head of Marketing – BFSI, Europe at HCLTech",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0JqMmdxS1p0MU5xM1VZVzByT0tRbjYtSS1nWUhRaTdnU0lyVFZvRTJfd0tjNDROdHhQaHdwaXNxQzBDay1DWURVNl9SQkR5RWZsYnZLRXdIbUpSUUV6YmpMU1Q5TnE2M1VxczZadU5oZlRLUEZPREFLRU5FdWN6cFdYMFRCVURDaDZvaGdKLUo?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-28T08:31:27+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "cdef95c1d7d98935",
 "title": "Reliance Jio introduces JioShield for family safety with location tracking, SOS alerts and parental...",
 "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcVQxWGtnMEtOZVd1ZlViOE5OOTlXMjgtV2xGQ2JfdGFTeEc2MWRmVFNiNkN4ZkJaU2tkY0xLYXlHT1lXY3JGMHZtZ0tsSUt1X2xqdTQ2V3BTYUN4THlaT2c3RWVVTE53ak1MYXhaRG96RjI5bmhzRUdNUnI5VlNIRWk1ejZ1eGtOcnRfNFE1NkY0X3g1RUVsaDd0Q3Y2cmJNb0xKMkpCSVF4TGVfM25zb2djVjBSa3hoTkVmVldLZHVWMzI0a2VNVk1tNl9OeDczUGY1MEMxUGpNYmM4ckM0RGtrSlFUaS1wVUpmUzNvSVZ2VVV6cXoyQk95RjR5UdIBgwJBVV95cUxQRTVjMEkxOE1oQWg5NUZNVDhsYWROM2NKTTZWNHVuQ2FBZHVvNml3RHdSYTQ3UlpmcEZoNldJM2lTOWFPeWt2Vjk5My1Mb3JPcDE5WnVXaEh0MHZkMkVIbHFDMnJ4UUVsdTloLUJjUldhRHF6OF9JdmkxR0wtWkJVNGJOUDhGSlg0RW1kVHIwR09oTHdUQ2VEeFVyUlZENVBpSWNRcWpfcC1xYVRPbTVpX0FacDlKYUs0WE55UVJkczFNZjNfbTRaUWZVdldZN2VWdVdzWUxBdzFjcHB3dEJsWnR1VE0yWF9BbTN1RENMWU5WRkhHS2J4b3hZeHhmbFlFRjdF?oc=5",
@@ -1168,6 +1288,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c889747aba6f4fd7",
+"title": "State Bank Of India Share Price Today Drops to Rs 962.5",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjU2VFdodkx0ZUdmaWFUaTdIWmRIWXNyOFpjdDYyRlg3bEUwSnpBLTFvTjU3NXVDR0ZuZzZyaGtabEFKc2FULUU1MjBXVDVsN0stenBWMkNVbGdZVkppMGxtYVFzRWNQUHFKay1kUW9TcC1FN3BDdUtMZk1acDVYM2ZSUWNaczhFU3c?oc=5",
+"source": "Univest",
+"published": "2026-09-28T07:52:54+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "9e40d56a09252162",
@@ -1833,6 +1969,22 @@
 "sentiment": "negative"
 },
 {
+"id": "9bee4c09d3d679a7",
+"title": "Larsen & Toubro Share Price Update: Market Cap and Valuation",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3I4aTlvSEs3X2Z6Uk9LUGpCWkJBaXJ2amljb2VyQVd0X0UteTBja0t5QmJRWTFJTzN2SVlkRWJkdkNuZXU0MzJYaF9nczhyMkN6Nmd2TmVIX0RUS2REQmUxbmx5a1JIbjBtT08zUU9SOWp3QXJVanREajRCaHVtbFcwekxqS3c?oc=5",
+"source": "Univest",
+"published": "2026-09-28T06:22:49+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a13419316722fdc7",
 "title": "Metal Stocks Fall: Tata Steel, JSW Steel & other shares under pressure — Is this dip buying opportunity?",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3JQV0NadEVaZ294UlE3NS1fODZScDJaVUhmcElCLThQaWdXMkdBcVpRUjVSNUNWQkotdFJGdGJEV21tYzlBV0VFcENHNm5pc1JkaWRFc3pUdnRMV25VNWNwY21kT2h4ZkZYbVNrdGtqd3V5VXRYY0w0YUJ3dnU4TGJySENvUHNDRzZWdjRPdDN1YXp6RU9NOThBOWpNWWxRZmFNRk9tdmhjMjRKT01FWEVlQm9NSEF5eU4zOFpzMjlCYnZEMl80cEJ5VTlPSVVHNFcwTjFOMVZod2JR?oc=5",
@@ -2126,6 +2278,22 @@
 "first_seen": "2026-09-28T09:42:55+00:00",
 "symbols": [
 "BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "bf6ec5d062314706",
+"title": "NTPC Green Energy Share Price fall: price action update",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlJsZURvSDkydi16cDE5VklLRi1uRVZaSUxacmpxMlFQdmZpc3lMRXp5NFEtX29mUkdHam41WUVmZzJleHc1TS1nWUNCWHN0TEc2MHJpdWU1UXRYVU1kM1NVWTFjWGZiZ3FCZ3JKMlFQaS16TDl0ajg3b3JnSGlDYWVRWnFPb0U?oc=5",
+"source": "Univest",
+"published": "2026-09-28T05:52:58+00:00",
+"first_seen": "2026-09-28T10:47:14+00:00",
+"symbols": [
+"NTPC"
 ],
 "groups": [
 "PSU"
