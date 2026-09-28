@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T08:39:43+00:00",
+"updated": "2026-09-28T08:53:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "248be60c6601757a",
+"title": "India Energy Pivot: Morgan Stanley Bullish On Refiners Amid Demand Shift — ONGC, HPCL, Among Top Picks",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOXRQcUVDZnF5R0tGUHNlMGpIb2wyNGk2NEZfd1gwWlBldHB0SldKQVZMX2tlcm9ibXctX2JNbGVZWi1GRHN5cmxiWXpodktCOHNUaTgwM1FSNXlJa1hSTFBxei1uQVpaTm9fRGtJTjloYnk2WWE0S3lKY1d2WDR2cXJFYk5mYnVaZ3FvN1l5SktlWktZeVRQaG1lVjBwWjVONlVLNko1TnJmOVVxVWkxMUh2clBkU1lpalpyMk0xSHczTHE4Y3laOTRJd0pZMGNiSXEzMXpFWnpwRkNMajBnWdIB6AFBVV95cUxPMmdtSU8xT2luTTd6bkpYUG9Fby1uMmw3bENXYlFlRHh1UG9SVTV5aWY2UEV1eU5QZVp0RjFfY0t3eThQbTdvTUlob3hjcUdPNTk0UVQzc1pvMlBobDZIR3lZTzBSYUI0bGFVOUh3ZmdKUjhqS0d5dmFRVnVEU1dCRFE5cjI1dW5DN25YX1FLMzBUYUUtWEhOeWpFSzJDRExOb0gtb1V0cjZUcWNNQjRSOUlQaG9XUVAxOWVlaXFzbmhBcVBrUTBNUTFxdURJZUlRVVAtTjdIU2pPcjJiblNwNHQzdnUyQ2sx?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T08:45:55+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "42368187f07b5922",
+"title": "NTPC Commissions 81.34 MW Kalasar Solar Project in Rajasthan, Group Capacity Reaches 91,302 MW",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHdwUm5LSkRhNTVXbDQ4aHRIX1g5OXphQ3AzWURXM0dRSjhwbEY5WXdqV3NMRjFuSDBHTkFwc0NES2N6V21RQ3gyT3g4THNNMDJ0ZGdIV1gzbjlnODdzNExleXNnTlVhbF9yckt6dDhvREtxYUk0TnlNMzVxNllRSC1lR3RWc2VBT2pRdVJXMWx2emNLbmRnMFluT01VRFBnZ3ZwcGh6VkpZUQ?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-28T08:43:14+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1dada7f9311d9c9b",
 "title": "Tata Steel Colors recognised at the 20th CII Eastern Region SHE Excellence Awards",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3cxQVpCbG1aYnU0aDNnbVNYdVlnRDNheE9NM1FsZ2dwM0Z5WWFQd3p6TEJ4Z1ZuU1I1d3hvazlyTmU5bWpING1YTjU2MU5fMF9ONTFmWE9tUFl5bkdNQkFKeHpyYUF1cklQVDJsZksyS2M5Y2h0SE1JNHFTREFXWkpBd2x2XzRIQmVMeElJZ2FIX3NxYlZnclpmNGs4Z0piZEJHNXEtVGlDbHhVV1hfeVNBTDdLOU5tNnJSdGIyMFhTUQ?oc=5",
@@ -456,6 +488,40 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b700d599af179822",
+"title": "Steel Prices At Import Parity: What Tata Steel, JSW Steel, SAIL Investors Should Watch",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGc3S1lYdnJKZjV4b184cUQ2Q1hWWlZIMDJCZkYyWDVkVWppNjFWakVRamRFcmk2eTBIeFFIMXZTLUR5OHlKaVBSV2lOcXhpSV9qSVJhX2k5TUcwenRreDJxcWpaSFF0WVg4bFdkRU44SmhiNnlYMjV2cDR3QTdVSjRUM09Ja0JYeFJJS0ZVWFVBRmh5SVpHU1ZCaHgtSWU3THRvZ3FEMzJzd0tGZmV0RXVJblR0VUNoNU5UZ0tFOVE1RjhaMWfSAc4BQVVfeXFMT1cwZEc2SzJOeHhsU0V4d00xRXFXQjdPcDdyTlhHMDBzUnlWc2ZDUUJPeHBqNUtmWDQ0YkJVbE82am9VcVcwSFp2eFVzN014cENVN2pzQVdaRkVZNTVUQ1ZTWm5aanFWMldQZDcxQ2sycThFV3RZRW04dDU0SnRUdXQ5TmY4R0NSS2dRUnVmY25vXzVvWEtRXzcwTW9pRWxWdHA2eXdpNEFydVB2czczQ3c1ZTRjYkpVbDBXWDBNV3pvZjRxbTZMNEhjNFZCMlE?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T08:36:12+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"JSWSTEEL",
+"TATASTEEL"
+],
+"groups": [
+"Metals",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "24337b7178ebf5df",
+"title": "ONGC CBM Asset Conducts Cleanliness Drive at Tenughat Tourist Spot",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFYwa2toajk1LW1YR3BLUXZwUU5TV1ZFWnNnTFB6dGc4eTZER1VXb2pkQncyYjlhVVlZNkZ3QWZ6YUgyV3FBUHpRdjdqbUpzYmpWWkpqT0NUX1RUam90UDgxQTlhOVVaZjNERG4wMndxUjZTYkF1R2dhSWV1YU1wQ1BMYm5BdEJOY1BtNGFLWGVUSkI3aXBUZjM2M2lLaGdsUnhWOFZhdTQ0ZjF5ZG9uRC13NHJkMHEzVHVJVVhwWXRHZw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-28T08:35:00+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -698,6 +764,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "1df87ec0c8d7f3d5",
+"title": "BPCL, HPCL, IOC, ONGC, Adani Power: Morgan Stanley positive on oil stocks, flags 3 surprises - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamdWSXpMa09KaEkySFJoUWVEM0lXaHBlMXN0VTFZbVlIaEVXUFdmX00xWGNXcW50ZlZkU2d4OFA4UzZ1bF9mRDJyN2cxQ0Nhb1dvYy1mYXNfV3YxMC1ocG15YW5jWk5HbjVEX0Q2TmcxMWh1RXpfY1JYTEVRMjBpcjE0T1hleUotbmRWdjB3RzlNTGJDZW5XcFNnNUZ3SlBWVFVSQW54VzhLbl9xdmJHaDUyOHlNS3NIXzVvakNNZUlQWTJ3Z3JBN0Y4SE1COFJvcUE?oc=5",
+"source": "indiaipo.in",
+"published": "2026-09-28T07:41:01+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"ADANIENT",
+"ONGC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e6bdab804c3cb4ae",
 "title": "Sun pharma signs exclusive deal with LIB Therapeutics for cholesterol drug Lerodalcibep outside US, China",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0lDQXc4MzhPSzdwelBVajJ4UFNhUWNGMUs3Ty1tVldpaXBWX25Ua3FtT29Nc2x3MlFYeV8xSzBLb2RUVTRrNGJVSmJVZm1MNl9BNzY1eTRsLS0zeVpSa2FHeW5YY21Kc0puYndpVmxYMFNidVNzRzM1bjBUTk1PM1BPLVBoZmVDeFEySG01UUVEX1dWRERHR0lnVzZHaW1QWVlERTF4TU5NdWJ6d1JCSUo3UGlWR0RmSTFWT3E1WEJ1akRvNFliMXBGV2lweWlVNjJLWFRiaXJtNknSAegBQVVfeXFMUC0wVC1uUjgyc2ttVXFSQmFFQi0wckJBc0xldHd5Tkg5S3VCbkV0amRZZkU0a2pHME5XZ0FtLXF3VVFZcHBybzlXZERJWG93RXpPeEVGSTJiN2lfSm5CS3JGV2hZQlRSWmhzM3ZLRGJOcDNRaFB1ZC05ZkZjQjl1RkdETmw1VnV1UG5lbWNhTFM4Q2dmZHZ5QzlKR0V1cTVlR1VMRnhwZ0xpc3lBSk53YjBwbVFMYXB6eWtkdXhEUGRXSG9naTVwY05vcnJtdFhJR3lKWFpWLS1WTWN5T0ptZ0wwc19vVkFEbQ?oc=5",
@@ -833,6 +917,24 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4e7a649c703deb37",
+"title": "HDFC Bank shares: Valuation gap with ICICI Bank widens; 3 triggers for rerating, target - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjJCSHZtc2JkR01Rd0lwTmh4blQ1WVZTbEtRQk1TV3NlMVNKeWRoWTRjcXVWRVpYOHdfTHJnTjhEeDZqcVF0RGhDalh6N0xEam1pRjJmaHFFZDRLeU9VNHYyQ1VTX203UUVPTkNSa1Q1S2Z2dTEzRmpNeEZGeng3TFdieUVjUFhtR0xBT0d3ekdKZ0RDdy1JNDZhcWQ2MENBSXF3THVOc21NRHBJbXFMeUxiaGI3ZTJQeHE4OVlLYmxObk0yMjRMcUp3M2ZUbW8?oc=5",
+"source": "indiaipo.in",
+"published": "2026-09-28T07:07:42+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1090,6 +1192,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4ed04fa640b8334a",
+"title": "Adani Ports Share Price News: Price Fall and Peer Check",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXk0alV2UFFEWTAxYzhKVEdiZGN2MWNnVzFwVmVmSHBxNkVfSDRaOTVvTEIzRUZSbmY2dGFQM3FoV0o4R1dqTmxMN2Q0NXdjVVlGUDcxZnhSUzFNd25RTHZ5NTd2Z3IyS0pGU05ZT3pMN05HNnJtakNWMFhMV010enNfWGpka3VKeXlxOTFSclJBU1B1YjIzbElETGlfZkNIVFE?oc=5",
+"source": "Univest",
+"published": "2026-09-28T06:22:49+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "a13419316722fdc7",
@@ -1620,6 +1739,25 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fbe5dc3e39134ccb",
+"title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcHlRMkwyTEFycXh5Z0JhdmtTaEphUWVtd0tHTnZMZ1BRUzEyVVhTRVpPWXJwLXNvZ1ZSUUdjcWJFeHVJVzZDRHR4Q3p3bTU1YzhPYjN0bE5sUmRYUGVtM0l0bUVRZ3hqOWY5bGZRektCVFJyRTdPUG9CMTI1OEFmZ2E4eXl2eVRWUGFwbEVNVVRvSVItdUpEbXdLMmhmNjRsVloxLWZHbHZrVzZjUzkzRkdXT2xlT1hqaERSUDRYeEFNLUJKM201bnhEREdBbDU2eU5iekV4eC1zMi1hOU1MVlRQUVlHVVZySjBLdVpmX1RiTXlzSDJmOXZncnlRcHcxSXNJWU1R?oc=5",
+"source": "Upstox",
+"published": "2026-09-28T05:17:47+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"ASIANPAINT",
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -3220,6 +3358,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a025bae7bf00c20f",
+"title": "L&T Finance shares may rise 34% as Citi maintains Buy at ₹380",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTDIwWTN3ZktpT2VwY2pNazIwR205YVJqYThGX2tnVjVic0FtcllkYlhTVl9OUlBhMXZiSjROSUhXdVNxby0xTUpqTDhsLWcydHNYQXFCR1pnNkZ3Y0huS0lHSy1EYjMySFJTUmJ1eWRvNjZqakc2Vmpyd3FNc2dRdExObWxDZjNfWFZIZWFhRjNGdjFNVzc5aDAwSTZSZnp2aGVsVlYzbFBDZHAyM2tJMEdVRnI3UHFvclVZUThFSTk0OUFSTktfZFBrcXR1MHY3?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T02:55:28+00:00",
+"first_seen": "2026-09-28T08:53:55+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "476bd61cc2840a3b",
