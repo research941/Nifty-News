@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T01:18:12+00:00",
+"updated": "2026-09-28T01:31:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -458,6 +458,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fd1c039962c1c292",
+"title": "Weekly Recap: HDFC Bank ADR nominates MD/CEO and share down 25% YTD",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHp4WFBXSnhwMDFOTW9ZWExQa3FvcjFVRm9iSzVqdjhURjE3eThlMjloSnVnUGY4Q3FDSm4tb0JDVW9yb01pcFdMWmZ2LXV2Ylp3dk9SS0xoeU5wT1pNeGZZT2x2dTVGMEh6T1hKUXB5XzdGNkVMS1hmcnNuZzdpcmtzYTVzazlGSTRaUGJ2N3FDUFBEZlZId0pyeEZweXYxT01yZDRuT0xBbVFmY3dFVEtNWGRUN3FSUFN4TkVZbnJJTEtWWkE?oc=5",
+"source": "TradingView",
+"published": "2026-09-28T01:00:00+00:00",
+"first_seen": "2026-09-28T01:31:32+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
