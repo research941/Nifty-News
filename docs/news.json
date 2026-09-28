@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T17:57:50+00:00",
+"updated": "2026-09-28T18:22:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "b16dbf1699c05dc7",
+"title": "Tata Motors BaaS now covers all EVs: Check Tiago, Nexon, Curvv, Harrier prices",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDA3Q1ZfeVJUeEJLZEQ4dkp2eDFwQXUwRkQyRG9aNHpHV3c1RUxMcUZYMXE5dEdHVXR6SXduOURNaDFiY3dfVGhzUmRHUHl6YXJKd2llMUk4UXd4RDJiQ0FIb3hrdTJTczFrV2hjWHFENWgzT3hiNzJ3Y2g1VS1MRHRYb3RRd3pKMWQ1Sy1EclQtYlk1Y0VJM0N1LVZrX0JvX25kbmhlYWxXcmx3WU1qRERCemV6SVRiYlhNckpiX1pQMk5BSEkyNdIBzgFBVV95cUxNeVJvWW5uNWZ2RTEtMHhTdHRTd3JwV1BseUppbVV2cE1pQ1JJdDdUdUFpUnc0X3RNa21zcS1fX2NXQXFpcFZ4ZTBvVFFBdE1oNmczN28xbGk5Tm1RczVTLWVMT0llYmVjdTY5dVpVMFZYbDd3TEpxNlpGN2YwSVpEcU54SmZUYnN5bGltTjdMQzRZdklvbExhMG9nX2JjYVQ1R0xXVmZsU0VyV3puekZKaGFFY2N4bmFkbXhwc3p6aGwyWElUSC15MnN3eHQ2QQ?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T18:12:49+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f989008c5a6bb12e",
+"title": "Adani MPS case takes a twist: Group pays Rs 1.48 crore to settle, while SEBI finds the same violation not...",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbWFfMm0ycTU3cWdTMVFMdGNCcmJtZ2dzb004VUxUMU92WElCYmtFQUcxUkJjNS1oUjI3cWpHOU5CNkdmLTU3T3NHVmh1UE1JT1RCSDV3WkRMQ1RGTWlVeUhzWHd3aG1XeXFRVjdocEJrNVRSTW0xbmM1NmthdTJhZHZaVkFhVHc5T2pNb0pVNC15eThyODd6Rkg5aTh2R1lHejRlUnoycURGLVBPaGNXMWo1bVd5YmJuTzFlcU52cTZPV2FsanBxU09iOExqZFNNcWZmMkVTczBlZlN0SXZCRHI1c3JVTlRROXBDNEt1bGJ0VldJY2toODRuM19WMGQxamlMU0xUenJmS1px0gGSAkFVX3lxTFA3WUpuRjBNckFmMlFxS1FWaTdsOGprMXI5bThlSEd2VVlEQzRoWTBfWkVUdHNseWlnZ201YlVEX01aRDNmTUdEcC11amtEbWZ1Y1hSMVhCRFpVQkFSQmtnYXp6WnZSeDBxRVJFSFQ5MjZRUWlXVGxVS3RYM2NEOVdSMGZoM3c3bWVMMndVcVJUNUE1QVdSdlc5WHB6Sl90NmM0aDRYSXl2SVFzbUJVVFFic2VuMTdBRGpRSG9ZdkpHTGR2cHY0OTBmMjJsLW9pZmZiamZ5V1dnNS1pTFZ2RXB4eWxubzlsenZpbGtfS2d5bGxZMWNYREctQzUzTzMwWlhRajF1S0FZVURGdnJYcVlGZ2c?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T18:01:43+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9609ccae67dc5f9c",
+"title": "Bank strike deferred: Will SBI, HDFC and cooperative banks across India stay open on Tuesday-Wednesday, 29-30 October?",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYjdXUGxQcnEyb1FqTU84c3V1bFZ5NnJuaG51Z1dVNUkyaEE0bVZ2SkRqQmg2S0dvVTU5M0I4QXEwbWRXTm0wMXJMMUd0U1lwMXgwbUVSVW1mUzBVZVJZN3BZT2FiZVBJaTVfNTZZaDk4NHd4ZVA5dHl4QW13VGtqaTd1LTJENVRWbExYTVdBbldtdlE5aV9iTmVabHZCZnBZWkllbDRWQU52SUU5bXJBWVFEVzBDSjZBd2hzZ2J5QXI2anhCVDB2X24tN0U2ZVBGYU1NSzU3al9iWDJCWGlTWjVyaFRfTlhRRjdhUFFkQW9QZ080bkRxeDNWS3BsVV9H0gGGAkFVX3lxTFBLUTJpX0l1YWpGVWU3aGo5eUdfbksxNmJPTTJwYnFsNkVCT1Q0WXNWMFJwbE1UUnFPRVhhNXhtMGU4RzRqcGJOVDVZalNLZWRiaFdxMUdqWWhLN0lDVEVBdTA5aGRHQlhxakZGWk81WDNaRG5Va2ZGQnFjd2Rqd3F5U1FBd2RVOXlwLXEySkhpRjZUWGlfLW91QnRTRTZ5bEdZZHNRN0drVm91Z2J5cmFrdW8tVF85RUNBYTV4dENydEpaNjhZTWRMU2piVDdMLXR0c0FRQndrODFDQ0xwMlJhLW45QXk0cWExWEF6UXNySXVUUkJmX01FQmd2VnZ3ZDZUUkstdkE?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T17:56:55+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1411a5a3fbcc53a4",
 "title": "Indian billionaire Kumar Birla's family lifts its Grasim stake to 45.07%",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlA2eXM1eExET0dkaW80STJ1X2tRYWFNVWlodVc2MFFTdlMzenVZLXR1TDAwLXVwS0JEU1RJOWkwNGo2TUw1U2YyWmFJTXJ3cVhOVVotZmUwRTFpUDhwNmdrOU9VbGhRdDhlWUNTd05XV194SlZ0ekQ1R25xZ1Z3NE5iRFlaTE5MbmtWTGEzS2NhUkxuanR5bkNOd0J1cDFFbHZiSlRjSHBjVU4xSUs3VGhoRGM?oc=5",
@@ -581,6 +631,24 @@
 "Regulatory"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "4faee59e9dc4d475",
+"title": "Tata Steel vs Hindalco vs JSW vs Nalco vs SAIL vs NMDC: Which Metal Stock To Gain From Aluminium Price Shock?",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWNNdVZsa0tFN1JCcTZISnBZUEdfejdnWXNxZVlOaE4zZHFLMjhaUS1ta2JLc3VVcEwxU2R1bHJnSWsyOXlvb0lrcmh2Sl9iMWc0em1LYXhSZEFtZU9CVUM5aXBWdGMwSWd4Q3BkR05XbHRTOXNrdWJ5SVhNa2hxSHpuM1A4c2lRWURTb0dZdF9tNEVldEV1SDE4SmpVSEdrVmpfeHVhY0hQbXNRX0FxNzV2bXpBWS1MeFVPMEp0TlpILWRVRXBOM3JkY0RVSENMeGsxSHRiVDJqMGhU?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T16:53:38+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"HINDALCO",
+"TATASTEEL"
+],
+"groups": [
+"Aditya Birla",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "e1ea2fefc1083db1",
@@ -3910,6 +3978,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b81e3b9185024fb4",
+"title": "Jefferies sees 27% rise in HDFC Bank in bull case; what's driving optimism?",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T08:24:38+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "a55a47fcc94d2747",
 "title": "HDFC Bank's rerating hinges on CEO transition and execution: Jefferies",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
@@ -6093,6 +6177,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5703deed7a1d805",
+"title": "JIO Financial Services Share Price Hits Fresh 52-Week Low",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHEzT3dfa1JGelVHd1daMFh6V05ZdGZESXhjc1EzQVcyeXV2OC16LWpvTThLUTM1Z25ub3M1UFN2LVFrbE51NTVScUQxaXcxZ0l5anRUUlBRZU9RMXdxaWM2bGd6Y3ZQTFBsUy05R3JhcWxCZEFlbk82T2FVbjRxU09FbDJiclhDRmlHT0FRZk1Tb3NB?oc=5",
+"source": "Univest",
+"published": "2026-09-28T04:22:00+00:00",
+"first_seen": "2026-09-28T18:22:14+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
