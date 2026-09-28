@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T11:35:46+00:00",
+"updated": "2026-09-28T11:49:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "84e1c1573617c61f",
+"title": "Airtel Zambia launches nationwide drive to plant 500 trees at schools",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdm1faDYtTDhvR1dtNWxZdFNHc090TFpMdjlEYVBOVVZicU8zZnhrVkFpY2EzbHAteWsxeG9sN1V3Zk9FWWtRR0lMVFJabnlkVElUd1VEdVA2al92VFVNMFdkdVhUalZVeGRUU0lRQjQtaG50TkhrWTVSTExQUUduREE1MENxcl9lcjlZYlJEZ1pUZzJ2Q2VNRnFYSnBqNS1HdDJMRzVrU21iX2c5elRSZERn?oc=5",
+"source": "Telecompaper",
+"published": "2026-09-28T11:46:25+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9fd6cd04e05095d4",
 "title": "Infosys Plans to Move Up To 33% Workforce for Specialist AI Roles: Report",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGVIbzZKZ3NZbE9kUkZtZEQxUE5aUjJKbXIwMTE1Nk9hMl9yZVo1RElydUZSWVIxMW10aURUcGd4RTd5dmtGWU5xTUVRMzN5TnFCdGZEcXk4aE9ZVmYwSmtpZG91eVh2OGtMa3Rzc2hPZTIyZC1iVDhoY1k3Vmo4VXF5OHhXUENDV2s1bUxDR0RKV1FEVGI5NlZPSDYwQUVHNUpZcGdTOWdsY3B1R3c?oc=5",
@@ -593,6 +609,24 @@
 "sentiment": "positive"
 },
 {
+"id": "e9dae2940b974e30",
+"title": "Why ITC Hotels Fell on Listing Day After the Demerger",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGp3R3c2NTgtRWJRcDdBN1ZFLXdNR2VQU1ZyYnNBLTdZRURqbm9KTTJWOVo1YkZ2WFRrUEZuVktTVENoZnRvR0dDaDExeW5TNUdUSkxIeUdnQVc2YzJ3eURaUWlVRjdTSWFGeHU3R3gwUjk1NU9KSGNtRlZ0WDFlTGZNQlBtZmNTdzNaa0k4VndlWkVrb2k2V2tLVWVlUjRUaU40?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-28T10:46:00+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
 "id": "154d1224ce5722dc",
 "title": "NTPC Invites Bids for 400 MWh Battery Storage System in Maharashtra",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGwxSGM3VkFzUHRlR1paTUxoa3V6WjlfR1JkWUhQam5fMGFUTURNTlB5NHpMN3BnQlMtM3BsT05oUE1HaElXY0lMTk9YTlpXSjlpSVNQbjZhU0NjWkRLOVJZQmgwS0hwVk5XanRMUGFSNHRQSV9oUElMYk5LempBaWNDOUJQLXRvWTFIeFdvWVQwUQ?oc=5",
@@ -607,6 +641,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "48fa859725385180",
+"title": "TRAI August 2026 data: Reliance Jio adds 24 lakh subscribers, Airtel 21.1 lakh; Vi, BSNL also gain",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlqaExkempxTWh4by10U0tGTGJMV1ZJU1I4VWdYOFFwU3BaZlVFUFNzYXJqUEtLRXY0b0VDU0piVEQwZW10aG45d3JpckxCQ1BIajdmRW9GbWF3VkY4RVphbW1mUjNyYVhxMkNBU3ZZNW9aRWVtaUc0TktzbUZjRTR5cTZNbkIwUm1UMjNrR2Nqb1p3OVlva1JMSldxX0t3b1R3VUg3Qmh0LTE5RDRVY2hXbFhveUdsXzV6QXhPdkpIdFZtaDRSNkRTdjFOUHFsbEswU3R1Tm1FdWvSAeABQVVfeXFMTUxTRUVFbTZFNGk1OUduRlNqdE9UWlRDaTZzNk9nQ2xYRzBlVEY0Z3pxOU5jZGgwbzc2ZmVETW1aNDBSMTZQa3QwTGJieTQwcXJ2THlURlVVdkNoSk5zdkZpX3libElqWExQMDJGVWZaVVRrVFdpSWQyUjJhN3NPMlRqYXZMaUl2NGhCU2diOFJEY2xLbE5iQndWbG4zZDBQZWo4WjQ0VkRHa2hJdENSQ0tsWDZFZ3d3N25icGZGcF9LOHdyQjBBRmVWUUVJUUt0b1FqN1E1UDBMLUFUTkZrcnA?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T10:45:38+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"BHARTIARTL",
+"RELIANCE"
+],
+"groups": [
+"Reliance",
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "5e930d144066158d",
@@ -673,6 +725,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "846b2daac00eb76b",
+"title": "Tech Mahindra slips Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnZFOUduSEJvS1VBaGxFLXdNZFU2LXJXbUpmb1J2YkVLVkw3dENhLTJhQjNlYS1sQ0RkWlpwZ3ZBSno5YlNldld1elhzNm5LSU8wZUhMSlhmRzNUekRuaWNDS09iTDg5amVSNElQcVlOUElKWnBjSUE4eGRfeE1QRmxPeUtfNDBEaWtlVGRwdWpXUm1SQzRpbS1tNkR4RFR4ODVOV3F0MkpBOFQ0QTJlNDc3LWhtMm5UdC1jRUhGMEZlQWF2SEpDZQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "a75e9f3d7524005b",
 "title": "ICICI Bank Discloses New ₹16.76 Crore GST Demand from West Bengal Tax Authority",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdXRnZm5yaWNoX3gxQUVWVzdxT1k1NzZFVjZjZDRPeHMtY00zYmFqeVdsOTN0N3B4NS1OOTN1djBpdFBicG1UMU55dkxLMFYwSmxrR3hJeEtlelpHSjExNUZIZlN2SnpKMGpLMU04c19rZXYtQ0pGME5JbEdBd3RXTWpFUWtXSi1nMUcyQkxiODIza213Zmd5eWU4Z05lZnhac1lqY0U2XzJVQ3dCUWR6bzhlcDBXNDRvWnNrT19jckYzc0ZkZDlCQXZn?oc=5",
@@ -689,6 +757,22 @@
 "Regulatory"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "15900851f46b8516",
+"title": "Infosys rises Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzFFQVFTaTM4YjQ1ZHFjeGxJUlZjSTRzOFVDNDRxOGpScDRQT3JzN3kwVzVoQWdMSHpaaVRlUzNDT2RQR21MeWRRbkxsMDJ1cElRVjBkWGtxQ010ZzFDLWNwTzFWcDcyVUFzZHNZT29zMnk2aV9UVHRLSUNzUXdMWjV3cEgzcmxmSzlJYWc1TE9vMnlsdmpEbmZKenNXY1R1dURPeXNvT09zRTJRblRicU91dURDQlh1dmJ5Um45QQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "1acd2a1f6245febd",
@@ -1037,6 +1121,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a8e73a3cca61b7be",
+"title": "NSRCEL, Maruti Suzuki Launch Seventh Mobility Startup Cohort",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hKMHpnSU9qb2lDSmg2Z09TeHVWS011WWZFV1FKRFZ1VEdaWUlFYXBRLV9OcHo2OGh4dzdONlkwMlJVUGZIakplNF9vNV9sOTV4R0dDT1dSVEZGSGJSMFdKQzE5Vi1zUk5EYWxhSFZLSXl0bHNjbzlMUGNSZWRxc2k1R213QzAzXy1paGVOSS1QNnZxM0ppU05yb1ZJSk9DMDJDNVln0gGmAUFVX3lxTE5nWEowemdJT2pvaUNKaDZnT1N4dVZLTXVZZkVXUUpEVnVUR1pZSUVhcFEtX05wejY4aHh3N042WTAyUlVQZkhqSmU0X281X2w5NXhHR0NPV1JURkZIYlIwV0pDMTlWLXNSTkRhbGFIVktJeXRsc2NvOUxQY1JlZHFzaTVHbXdDMDNfLWloZU5JLVA2dnEzSmlTTnJvVklKT0MwMkM1WWc?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-28T09:29:02+00:00",
+"first_seen": "2026-09-28T11:49:57+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
