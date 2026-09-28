@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T15:22:08+00:00",
+"updated": "2026-09-28T15:37:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,78 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "26bedb7af2f85b2e",
+"title": "Gautam Adani, four group firms, 13 others settle MPS case with Sebi",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN2V6clJSSzZyYTZOckdwdlljUWpQdXVZUmhvY1dic1RIcGRnNldmLW9laWhjb3VvM3hFcUVLUmhQUkRlWVdiMEl5c1V6c2E3anBQZnZ5TUNDMENkNVpDZnhKLUlRYzBzSk1ZenFDWHdZSV9aMTJJeU1TN3dCd2JyTS1GNEI4NmpvSjBaX09LeUJuRlF1WjRyVk9NbkdObFlkdWFsQmVoR2xaV2o2N0VYbkVEaVVsNHpPX1NUZWNCYzdGaVZEZVp6MGkxTWpGNTjSAdQBQVVfeXFMTnByX0VSRU93aXlHRHlGeW91ZE81NGtscDZiX0pqc3pwTkVCZndrZnVaSURVLVVVWFd4MnptU0dPR1FvXzlEMlNoVUhubjF3XzlNbVhCXzkwRUEwRDRueHU4NGRja1JXRm9IRXNkRUdoQ00xVWQxaE00ZU0tZjNzOXNRdkc4WGpla3NfLTYzYmJPdzZFREZLRkk4MkdxUmZLVlczXzNaUHVwZmhQbTlMYnY4NnVMVjVsdjdYXzlfS2ZDLTFIRUFnUkhyb2F2aDZpZ0hDRzU?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T15:28:57+00:00",
+"first_seen": "2026-09-28T15:37:18+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9314f09bd76e436f",
+"title": "SEBI settlement order: Adani Enterprises, Adani Power, Adani Ports and Adani Energy Solutions settle MPS case for ₹1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUXZmRlZVTk9qNVpkdm9DNlhwcnNlRmtwaUFpd0NJYXZWQ0lEWFV3RVN0bnE2UEdKX0cwQXpxRFIyY2hJZW8xSFJhUHVHWnVuZ0Y2aUZTQU1ycGF1VHRURDRRYmRWQ1hwZUg3bk9TRkNZRVA5RW84TFJ1VG42ckFQaUJZNUhmQmRDekVPalpJbVJfa3FDcmxhUmxjNnNjaWRoenA5dzAtQ3A4V2hpZGIyV0ZpREZQbXd1cWZLX2JDUWJrWVhVZUtleVFOUUNBS1kxUkFzbHV4eXNpejgxamVUbjdGWWVSNjg2enZpbVhMRncxMXpCekZBN1lGNG16MTRXMU5XS1JR?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T15:26:24+00:00",
+"first_seen": "2026-09-28T15:37:18+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4b9d7af95da621f7",
+"title": "Sebi settles case against Adani Group companies over public shareholding allegations",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUxJalRGckRiQk9meUQ3Tk9XVDctRXVWenBkT0FNSFA3WC1tU291am9GY1ZQbV9aTzgxQWQtQXVQSTFtdmtrQ1hfZmlaMW9kbU9lRG1WOTJnTGNMMG1pZjlEZEMwd1FxUFh5aGs4RDF5ejFJc3JZZzJpb284RmhueGw1YmluNk9uWVBqZmtxNzhqQVoxZVN2MTNqcEEyb3o1Tk1iVXdCM0d3dnNRa0I0TC1BcThXRzkwYnVxZE00MGxRNGk1X3fSAcsBQVVfeXFMUHFrZ0QtV1JpVzNGNGxTTG13TFlLV3RPaGtoUEVBS1M3MnZSaTJqa1J1aDBEZl9YUTFUSmJ3dEdqN3VieHZ2ZXNBdDlwVHhXSzJ4U1B2REhXME9SZ0hlTmRnbi1vdksxOEZJVmVPSk1yYXVuOXZ0N09ta19jVkZia011cGM5Z2dYUzB3R3VMVmZTSHAzcXk1SHVSY1ZkWVpTQkJyT3FCMDRwb1BWUklSME9iTXlNNlUzNEpvSm0zWVNjR3ZXbTlQd2RpY0k?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T15:25:13+00:00",
+"first_seen": "2026-09-28T15:37:18+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b99083ce20da2977",
+"title": "New banking hub set to open in Stoke-on-Trent at site of former Shoe Zone",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTZ1OTNDbzhWa2tMbVRuN0VmZ01nTUZ2ejdNNldZU1BhTUdvaGY0aXJDV2tISGJBR3NTMDMwbVBnRDFreDVvT19EQVNYTVJVdnM3NTljX2hRWkxPX3YzZEdJMmZRMG5VZmpiQWRHOV8tQmlQNG90YnAzdXRJTXpBdzhmcENhWTBPVTRqZ1ZzcTcwb0dFN2U1em1lSWNXSnlFNnMySmZjNUdNQlRoMmZxV1VGRzM1dkZCOENj?oc=5",
+"source": "Stoke Nub News",
+"published": "2026-09-28T15:21:00+00:00",
+"first_seen": "2026-09-28T15:37:18+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "d6808b6e2b44aabd",
 "title": "Four Adani Group firms, directors settle MPS case with SEBI for ₹1.48 crore",
