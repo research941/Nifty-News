@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T22:56:18+00:00",
+"updated": "2026-09-28T23:17:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -5523,6 +5523,24 @@
 "source": "financialexpress.com",
 "published": "2026-09-28T07:06:16+00:00",
 "first_seen": "2026-09-28T08:23:49+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5b7f081a41ae1f79",
+"title": "HDFC Bank CEO change nears: Why Jefferies sees 20% upside despite deposit growth lagging",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUFfR2t3Y1JicjRrakNROHNoQ1c2bDgxUklmYUhuQUVJb1FWdFUyVW42YkpPV1U4TWhhZDhFME1EVzZuaF9sX1dXRUxqT0NoV2xDbUgxZ2ctNnVrR193d2VaOEhhWjBnc1o4b2tJdjJZZTNpelBzMW9uNWNSckM5MGFyQlhGeDNScDhiVG9kSHozNkdkYU9jY3E0U2RmcUNQRkdtYjJ3YVJYNkQyVTRPV2tsR2RqZTBMZkNEblFuV0R2bmptUWpTZmJsc2ZkbzhoZ2l0SlMyMTbSAd8BQVVfeXFMTzBVb0JOdm92Mm1vN2pLVUw2OEIyZTlRUVpOVlNXNXBvVDRCMEZvaUdIc2p4MlVBYnl6NUZqX2ZQU3IyMUQ4Y0lsTlFVQ0RfT3JGNmZJRG01bmpVaVZ5LS1RQzFpZnFjdTlJaHNtLWpBU3NCbU10SnlnR091Zk1xNHo4M2RzWmw3b29mbDRTV2w0VnkwR2VJdUkzcTFQNmw0TU9xZzg2U0pIS2VfOWt1eWRSUVJ6MWFKVlVHa2FZVTQtYV9US2tkdXdaTTBCblo1NUxlanhfWDZ2VlJ0dTI4OA?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-28T07:06:16+00:00",
+"first_seen": "2026-09-28T23:17:39+00:00",
 "symbols": [
 "HDFCBANK"
 ],
