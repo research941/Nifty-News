@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T03:58:47+00:00",
+"updated": "2026-09-28T04:15:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "795eda5d4d4edc96",
+"title": "Bank Strike Postponed: Are SBI, HDFC, ICICI, Other Banks Open? Will September Salary Get Credit On Sept-30?",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2NWRDBLamVwbTFnWHd6STJqWEIyX3JqMnp6ZDVJa2VheVJwZlg4V2hhNXFSVm5iYzhua29Ub3lHeDE5YVFFbEQ5aS1GLU9VZHFubkFDY1cydFoxZ2dyWFNFclpMNUdyc0VvYUFyMThYZXVRbnBha1AwNnJQQ2JBVU9qQnFWNXA3V3JuRWEtVzNmQU1LRUcwcDRGdWx0dWxJUmFnSnlET2k0WV8wdHJ6eEstaU4zV2Nya29jWnBUODVkYmtHZE1PM0hDekJRMlYyd2xJWkVZV0V2a2c?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T04:09:36+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "727ca4cc45b483a1",
+"title": "Spirit of Wipro Run 2026 brings together over 19,000 participants in Bengaluru",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS282Q0dwRUNuMHRBTUFVdTZQd2ktVjFFMDVwSmhSa2NUV1NwYWV3Rk95cGd4UFlLbWQ3dGxBZFJNbFIwVXB4V1JOYmRsSF9HOXN5QjNRQmdKU0x5T3FMV3hJUUczX0ZtY2U1alUxUkRMS3hZbnBUc3NQMWZyVVNyX283bVBUWl9SaWU2UVBrVDExTGxkbmowZy1VWk1oSEJnN3lLdmx5QkZPdlZrSHNLYS1LZU5UaW9xWWdqRA?oc=5",
+"source": "businessnewsthisweek.com",
+"published": "2026-09-28T04:06:51+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7e5813e7eebccc4b",
+"title": "5 Stocks in Focus: Power Grid, Godrej, NMDC, RCF, SAIL",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDVtN1RiYTBCZVpveTJBOGJVQ1pBeF9tUmhyNkNDUmpaUTJBdTh4RFhtVUtoSm52WTRSZmVoLThBRnA0R29DdFNQbGJ6ZnJNQ3hPczNTZkZZb2l2TThoLWxIM2JId1NJbEtWSHVkRDg2b0o5a2UzVVJfZlAwYnJaUmxMX1ZaamFUWEp2TzIyZHIxVEZ1ZEtTS1hfYl9Od05FaXVUbVNRRWtnU20xN09FRVA4cF91clpTalhtdmE4VmtxWko4NzZZdldsTzd2eUZuZFR2WHYtWWtXVVlBbGVz?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-28T04:01:42+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ccf758f9cfc152f1",
+"title": "BPCL, HPCL, IOC, ONGC, Adani Power: Morgan Stanley positive on oil stocks, flags 3 surprises",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUTVpakROYlUwNFRNakJta1UwQ2M0cmtpMTllUF83R25CSDBUSnZlbzdaYXRVeXlXTGRxNTNkYmQxU0xJUTZaUGtjbVhzVktIeFdoaU1oTHhkaGw4Ny1Sd0hRNWVTY2phMnNfUTVkYXdJUWxRVHRENF9hVlcxNmYxaEw3ME9nVzlXS05DN0RUYTVaMmVscVJfUjNnRTc3akRmS0dCcTFYWHpFSUlKMkRyb21CbGhkVXl5T1FPOTZwbU9wV0I5QjNUV2dIUUtYdlVlSW9mVzRiZHgxYnR2a2R4SXhGUHhJdHpZV1HSAe8BQVVfeXFMTWRvY2x1Z09oei1hZ3hPMUFHN2sta3Q1bnowWHFwcDNpTFQtZ2VSM2k1TkQ4cUlCWFJXNExzSDczZGY5OVBrQTdVdk5MVjJ6dVNRcllVLTIzaDl1cjFNajEtODVPOFRKUXZtZVhUSU5TQzFmMHdnak9MUlFFdndCb1BFcHg3NXdCbk5Sd2ZKeGJtS1phNWxLZUt6b2txVVJEaU82Q0RCandXdWNpZXJYS2lmNEtxdUs1VmN5eEFNYkJ2bUVnS19keEJvRk1adEFHdWlQSDd6d0kxYmZJNE01YVBWSjhJZEtsTmx6TEpDMlU?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T03:58:51+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"ADANIENT",
+"ONGC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2a6fab819d8094bd",
 "title": "ITC Targets Eastern India Dairy Growth With Tailored Regional Value-Added Products",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHdtN2pFS0NRX3E5b3ZkTjhhcVh5dXdFVFAtMGgxMnZxRGJKWFMyaG9LY3ZneG84UTJSWmJVR05kaGxta05Sc2lYTDZWblpWcEdHTDNoX2JlMFJUaVVhbXZ1Y0JWMUNDX1FRNTNoMzdPaWU3b05zWnNfN1o5X0VkNVZVXzNZLXljSE5PX0k2TDN4aVlyTnRIOGY5ZWpuVC1GUXFRTF9JZzhsRHpu?oc=5",
@@ -456,6 +522,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c7cf7362d62411c1",
+"title": "Shrikant Chouhan recommends buying Torrent Pharma, selling Bharti Airtel",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlFKY1UwTUhabTlWY0tDLVV0UVRGZHM5RlBVWUVOYWNBTDZ2Y0RyelZZNXhUdFBqY3dGaXotS0NjajBqelAtVDFrRDBhdXR4NW91U1VueDVRcmg2VDQ2dHRlZXVHYTJiM3Vrc2RUQXhpbV9YUXM2c0ZWZ284bWVNcGU2cm5zNUNHdDlqNHcxWG85X0RlOUN6LWotY0VManB2SEhIdi1Yc216MmpRREUxR9IBtgFBVV95cUxQc0lfR0lzeVk1R3RCeXdWeVlRcFRhcHBob3c3VDFFMTVqaHlpMXJDc3pYenpSQnIzeXZpaTJLMkgxcXlZd1lFTk1BYkVIWm1rU00wZEZRYWFldnZkZmxsQW93QU0zUmpxaUFKZUpCMHJUMFE0Sjc0RGNhWnBlZTlkaEg5UE9NOEpXX1FPQzlPcXp4ZEYwckNpdE9BVU9lVWwxYjVUNDlpb0RENW5jMGFRVG5CVldPdw?oc=5",
+"source": "cnbctv18.com",
+"published": "2026-09-28T03:51:00+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -488,6 +570,24 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1c36719d094738ce",
+"title": "L&T, Rashtriya Chemicals shares in focus amid ₹797 crore ammonia plant revamp deal; key things to know",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWV96UVRVTlJPeDRGNEFrVmxLVExJcVU1TDQydVVmRzNLX2UxZkh6aXpVaXRkSmR0Y29yMmpLU09WTDE1ZGF6emIyempyWnBDTVNPV3Y4TVZlMGc5QzZaUVBHRzM0c3l6eGE2UUdCQ2JZMVdRbWh5SHNod3dUR2pyNi0wcnhabWd0UXVkVkFVRXZsdEIxSV8tU09MbTlhaWMtaXk2TU9RRncwYkRHdmw0S2ttdVdDRElEN3hsV1lDLXlnQk5iQVVsQ1BIYzJGRkpHamR5ZkRlSFB0VEFjeGRNcjRXd1dKVVg1SDI4WHhMeUhoeEg1a2tnMF9ZVUtEQ0swbjZGaw?oc=5",
+"source": "Upstox",
+"published": "2026-09-28T03:41:51+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [
 "Order/Deal"
@@ -530,6 +630,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "27daab200fac43c1",
+"title": "Sun Pharma signs exclusive licensing agreement with LIB Therapeutics Inc.",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNek8tbGZ2TDdXOHliVDEyZmtRQ3I5MWwxay0xRDQ2eXZ4WE16MThreG9aNWpuSFFqeXlTdjBmd1ZFRHFDTWpSRFdkZEdjVmh4OVN0M2xTWUl1cmZsbHhOeG9QVXUydEk1aGpwck5WeWdKWnpsaHpyZnZoLXA0dkZnZGw1eUVCem5UdVQxWlRxTTgwRVVZNUhKdDVpZFAybVl0TmRWZXZ2T0NVZ2RjYWxGQnVxTzNRVGJEd3JLMjA5MEZ3M1pmUXNOR3FsSGNWTzNRTFRsSXZQb0VvRk1RYUw4X1N0bzE4a25ENFHSAe8BQVVfeXFMTVBTR095LUZic3p5SVhhRERjdG5ONXJsMzluU21seEF6RGYwZW11UkxuV2F2by1qUlJNcmJQSHU5UVJNTU1CS0RHMW5OREFtQl9aMEg0NmFpcm5yQTRHdzFrUVV6czEyVmdmc1hCXzJpaXkxd3hCUzNDeDE1U21Mc3JZRzZGWGFfZUd6YjhwaGM1UmRBUzlpdFIwUGY1QkZoYjB6MFhGbkdWNVUzOGhfYVRSYnhCeXk0VDI0MHZpVk5ObW83NXpXakZzUXdkblhndkRQNHZMYUtGMlN2aGRjbjlvb1lUQlBUZl9EaVpfZnM?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T03:34:35+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8b593239cacbb8d6",
 "title": "SBI Life Or LIC? JPMorgan Bets On Low-Cost Insurers Amid IRDAI's Distribution Reset: Top Picks",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3NEVVlMeS0xb2o1OUd6bXRmMEpvb0Q2b1lKNU16TFlnbXVzVlZ4WlZZazA4aFoyaUF6WEkwa1g3cFoxOTBiM0ZyOVo0bV93dmFEcERFR2Z6Q19VU0NYc3h2MzluVGZQZ1VJRnMxSzRyOENoUGtaWmpEbFhGNUNiNUNvQ2huekh6bHBJUUxMX2FhZFVrX1pQbEpDYlpJOGI0MTQ5eVd1REgzTVhpSTZMRXVKLXhSS1czUTVkOFk0RnhPUlpfdm9XYUlzd1ItTks4bDVlM0NxaHZZRkNlSURmONIB6AFBVV95cUxNQXU0NWItNTc2N003TWpuY2MyNVhoMWdjQ2NST2lKWmtMRXpBZEhDbjJOSFVXbjB4RUx3YVZlZDNNeDEzZ3dnNHRRYkFkRTJ6MUxleW1hNGZuR01raU0zY1VJcU9lTUVyNzVoOFZQQnJua21lSVVpaXlwZjRlcUoxQzdzLVY2ell5bTZZNWYxZll0RE1MSWdlUzRMZ05ka2dZOU43VzRvMGM4bW53QTM4bHpNRG5FT0lYQk1EdEtKUng2bDFsMGNqSHRWOEU4UGtJUVh1bnlERnlxczFsNjZrRnI4M0hmNlRt?oc=5",
@@ -560,6 +676,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c7ea7b1abdba0abd",
+"title": "IndiGo appoints Deloitte’s Sudeep Anurag as Director of HR Analytics and Transformation",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTNkb3dfVllLWV9qWVVLSzhJUzExNm1XZHQyVUJCNWFnalhYZm9way1sQVlhMXo2U2d1NWJDTzQ0RkpvcGtRRGpUS1Y5VXJrd3NBYjgzMkhhN1VuZ0pKbGdzYzlaSzA0OVV2NkptUjdfYVB4dkY3YnhwbEZIQ2JLWDNVSWhhRHhVRjV1RjFyWERzeFd0Z0lrWFpYTkN3bGJnRmxMQXhheXA1aUxkbnV1NENxcG1JLUgwMnpPanBYa01fdlZ3LVN6Ym5WUlZBYkVEdzhN?oc=5",
+"source": "peoplematters.in",
+"published": "2026-09-28T03:14:16+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -611,6 +745,24 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "81ff45743b5f2446",
+"title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T03:02:49+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "457251cdfe81b8fa",
@@ -965,6 +1117,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1b3941cc51039ba6",
+"title": "JSW Steel Share Price Live Updates: JSW Steel's Recent Decline Below 100-Day EMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-today-live-28-sep-2026/liveblog/134530077.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:31:02+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "a3fd3bc4f0272387",
 "title": "TCS Share Price Live Updates: TCS reports negative returns over the last quarter",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-28-sep-2026/liveblog/134530063.cms",
@@ -1067,6 +1235,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "934aa5da5777d0f6",
+"title": "SBI retains 25% debit card market share in Aug’26; HDFC Bank continues to lead credit cards",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2RMb1d3Tm16em42a09xSjcwbExQb2dOM2hJcjN0dUZDUUxWcGtzQ19YdUdWYng3N3lXTHdkN0Ytdk92Q19tS3poeFVraGVJM0VsTUtCVWloZngzTHVSSDR2VGJfUVJmN05pMzV3WldDbjVtTlprTlZIR1ZmWF9BX3JWM29fVXh6MWk5TzRialNnV1VrdkV6NW5yM1F6OUhqTUxqal9seXFERGY5V2xxRmZVQzU0MDNCVEtVU0ZKazJQbmhrTE5HUnEwTVRiNFBKZm84VHUwV1g4Yk9TZDB6NWxhcDdTVkcz0gHoAUFVX3lxTE5fZExvV3dObXp6bjZrT3FKNzBsTFBvZ04zaElyM3R1RkNRTFZwa3NDX1h1R1ZieDc3eVdMd2Q3Ri12T3ZDX21Lemh4VWtoZUkzRWxNS0JVaWhmeDNMdVJINHZUYl9RUmY3TmkzNXdaV0NuNW1OWmtOVkhHVmZYX0FfclYzb19VeHoxaTlPNGJqU2dXVWt2RXo1bnIzUXo5SGpNTGpqX2x5cUREZjlXbHFGZlVDNTQwM0JUS1VTRkprMlBuaGtMTkdScTBNVGI0UEpmbzhUdTBXWDhiT1NkMHo1bGFwN1NWRzM?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-09-28T02:27:51+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2ad5c00952a66268",
 "title": "Coal India Unit SECL Taps Banks For $800 Million IPO",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFF3U0s3STFfQWZOUUVYbVhaWERKX1dPdm9mSTNpUzF6TTVwWVdyLW14WlNUN1pIdjdkTjloTmNySlhOS3lsamt0T0h5OTZFZVJ0dG03b24zOGY1M2ZwRmZZN2ZKd3BzaFpteVpNRjQzQmo0M1BmVzRFdFlFOEJFN1lQa2J0cVFkODJqeE5aVzEyd01NS0pnSmt6bzJZZ0J2ZUcwOTh4MA?oc=5",
@@ -1164,6 +1350,24 @@
 "groups": [
 "Banks",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e782dd6b22501ce0",
+"title": "SBI vs ICICI Bank: Citi bets big on banking stocks, sees over 30% upside in both - Check share price targets",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQek1Tc0t1THFpY0FIQnlpcHMwT0VyZzhsZ3FNYTF2ZFJWaTh1ZnVYckNVTEY3NDZDS3NuODJiRDBHQXpZTzYtV2drNVlHZldncWwzMEJtQjZucnM0TEZkZTVXRVZZZHBkZW1PTnZvcnY3RnFzc0tITzBtYzRiRmJxRV9PX3NTY2RMUzJQdGM1bjdhQUhjZVdRMHJQdXdfc0lqYnY4V19ZRV8tajNkN0M3a1pfUHVPb3RHRGlydWVIcDZNdk1UZXE5SEFBOXBUSHR6d1UxVnk3Q3BfbHFVSE1XNGp3SDFuZmZoWFc00gHwAUFVX3lxTE1YaF92V1Y5MHo1ZGE1c1dOT09MSVJ4WjQ4NGV2VVY2MmQzREZUSjFEdlpOQlFqOU5tQjZwME5sSGpCc3pEby1QUDZpZnJMNFFkUEhwR2thRUtEdjdrZmtmck1Ja0FDR3BRd1hTc25qb2QtZEpTeTY0UzNRZDdJV0JGWE5kakNYb1lDT0hZUnNPRlI2SGpJcDVRZlQzYm54SWtaZEg1b2FlS0xUcHo2aHh0TWRqeWZZcjd5cVZaOVNVdjhZS19EVzlRMjY3YV9QX2h3dU1BVmQwb0xhZHpYUHU0S25VUWZJTFliOXV3ZC1uZA?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T01:48:19+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2324,6 +2528,22 @@
 "sentiment": "positive"
 },
 {
+"id": "f3bd9808d8f1a879",
+"title": "Adani Total Gas rated ESG Leader with score of 75 for FY2026",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG5tVHdMeDRYajhrbzF5TXpMa2FpMWN3U1l1dGVZWE1lX1hzSFBEcXJ1NTE3dVpiT25RNEl3d2YxM0U1ZE43SVF0ZjRwb25YWmh3TU5XbVpLX3RBd1ltWVdaVkJTMXBYbHE5emxCcm9tb0tkYklUMHAxMlNGMF9fVVNXamNRbXNZeERNRGZlVjVHOE0xZ1A5N3RIMU1mTUk2Q0pnYnBGSVlXeGxMczM5WllsLXFWR2NQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T12:32:58+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "36ff88affaec6d19",
 "title": "Infosys to move one-third of workforce into specialist roles",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2RaZGZTRzZ4VGZzY0pnNXlZME9QeWFkOHNPT0JIWWZUY3gyQURQSmVZRFliaDBvclRDSkRGMGxUNWtZMUZ5NlZ0NzFJUVN3Zld1NkxXMWw1TDlwaW9YLURfVEtzV1ZQdnlSR3kwZEhzNkRpcUtsVGVTdE5KZHhWUjhNM0d0dDNlXzd3SnRVY3BmV01PaXV3RFBMUEVncmxFZnQ0LTFoMzZmc28tVFE?oc=5",
@@ -2840,6 +3060,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a5484040f042ddcf",
+"title": "Infosys Finacle Powers Digital Transformation for Producers Bank Philippines",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3VJeGJZN1RlRWNsbEVYSmZTUV91QlB2dlU4YTJIenZjN2hTSWg3a3pBcHhMRkE2XzFWcUd6Rk5YcG9fQzVCOTRwVC00bmlNZE9NeEhXQmpqYy1HRU9hWHlZb3hxRXlDa2pHM0tYdFRFcFhIOEFZd1NoTTBkWmJaaEE3clc1SW5GWjloek45cWI0Vm5UV0hNZTFBa3UtZ2ZlS3had3VvdHNmN25yTFVvakdkcmRkNl9lR0JSOHhNOHlrMmx4aHlFQlJURkNiOE9udU9VSDJRUWpOenEy?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T10:29:45+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "302d71bb59f39ae6",
@@ -3674,6 +3910,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "e49da91f61d38c72",
+"title": "Larsen & Toubro Acquires 5.6 Million Units of Capital Infra Trust at ₹69.50 Per Unit",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPajgtQi01WGZ3SEhvYzlnb04zV0dzMWpPTFZJMFRCb2FMOC1lMjk4Y1FBb1M0bV9DZEFHTG5DNnYyMzV3eTR5VnNpaVhyRmx4Y2xCbWVoeHhhdGNjZnR2X1NTR3h3LThWZy1rdm1sOUM1TjhPOE56eWpOem9Da0NRd08zSGVYRF92ZWkzYU5MV2NHM1FhTzl0N0xqV1E0Q2pfcUpHeXBsNzczOUZ0LWhqTlU2MURrQnI2b2QyU01yTjdiMHBXYTk1N29IYnh3U1VUQW1pQ2JEN0k?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T06:24:03+00:00",
+"first_seen": "2026-09-28T04:15:42+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "9649ed7310c2276c",
