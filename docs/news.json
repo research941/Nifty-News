@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T20:32:15+00:00",
+"updated": "2026-09-28T20:47:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -599,6 +599,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "cee99cad8ff329a5",
+"title": "Tecsys (TSE:TCS) Hits New 1-Year High - Still a Buy?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXlJaXZwVkZodFhHVmc3dTk0VzZUTVBPY0tpOTZhMkVma3ZFVVVBX29qT1VtcnU4VTBnYWJBZ09CNHYzSzVncmh2a2lmZUdrUnFQbmpuUW9zT3NSSk5oOWVlN3daR0FxUmZWZW4wWkVaOVpRSFo4YkpLQ0Z6Z3VKazdBbjRyWEVvTTFzbXFMVktNUjFkSHI5RFJTTlhGcjd6QllsSVFhUGs4aEE?oc=5",
+"source": "marketbeat.com",
+"published": "2026-09-28T18:54:10+00:00",
+"first_seen": "2026-09-28T20:47:01+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2228,6 +2244,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "62d2fb75d22814d0",
+"title": "Jio, Airtel Lead Mobile Subscriber Growth in August: TRAI",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlxaHJpZ1puZTJGQ1o3OVc4QUpHNjhVR1BfWmJSSWVjNDZ0WW9qQUV4UVFkY1FDMlp5d012LU1sLTd3eS1iRkFnMDRCdGxPQ3hZMjJ2Y1pRYVlSY2F4TTdFY2ZvRHZ0YnY1WHo0RWNzVnBTMWRXdTNFNHkwZ3JCbVhmN2FBZHJET2p1cEw2NVRfcUJyY0FFazlMNlBDUE5USE5qMTB5MVgxWnfSAbABQVVfeXFMTjNyWUNfTGRDYm9JWHhheWczNlhtd3hjN0s1eHpPeW56cDF3Tzk0SUtSbTBWZ1ZvbUp0d2NGT2dIdGxBYVBCQlRNeHM1X0FsTWpyTkVMSnJ6S1ppcVlTWWcyVkwxOFUtR1BBZzItSlZ1c2F0Q0t1eDhNcm5kY3BCbm5pbkVGVTR4cmtZX0lsZHNfU0k3Q0UtU1MtTS1Cdy1oRUR0MWxUSkkyTHVlNm5lRWs?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-28T13:56:35+00:00",
+"first_seen": "2026-09-28T20:47:01+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8c9c921d25b725ea",
 "title": "Jio, Airtel, Vi add over 5 million mobile users in August as industry base crosses 1.29 billion",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXBLM09tTWFXUTFrWWl0U25aejNrRzZSSW1kaGY3Z1NvSXAteFhTN1NkTnNRdGt2eHhhSFpsanF1eU10MzhZVWotV1pXR21MTUpabk1Gc19Tb25zQU02TTlGR1dEejAybEFmem5yWmRMOVA3b05vbWl4cWM2Z0ZuaTd3VFBQMDlGRUlZNndjRENQMWcxZDdIX016d3FfYlhJY3BINGQtMUFsWFVOR2ozVVBoQnlUYnRXUVRwbUp1aEJ3MjhlM1JiMXBhY19nTzJUeGsyTHIwNXVTV2NWMmpvNnNjONIB6AFBVV95cUxPNENNS1dhVl81Y3F2ODBWY2kxbV9sU08xcWcwZXVwOWQ0Um4ycnpnbms2aWJrZWRlTTVIRVdUR2IySmZhRXpDTTN6aUtHcC1TTUNNM3M0R0NFS3NzUHdxak1FdXhnaW1IdXBxRklhbkg1ZXdQOFdlN216U2toaUVxYUVhdzlydEhUYjlyX1d1RnZTX3JNREYyc295NnI5T0Ftc09idW43ZXJDVVJvb3RRTFkzSlZvOVhITVA4MVJ0WENYeWFmMkNNcGhkVnNpRmp3eERUWWRJZXcwOFV0ZlZxS1JSc3cyS3pG?oc=5",
@@ -3816,6 +3848,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b5408fa3c92407c4",
+"title": "Reliance Industries slips Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2s5cjlISjZlYmM0WmYxYXVVb2tVcnMtaEJkMUU2aG5fNU05dHMzY2VDYXVpbjRMUjQ4RnhETXFjWkYzQlQyN0lLaEN6TTRNT2Vic1BlQ1lMdTVhc2JORmdINlhyRVJHWWZFTVViOFVIMVpSSVVrMUxxMnpjdFRIWVJSbGVxVmRSb3RjVVhBZGpxb3g4Umh0U3FiRkpURW9jbklQaU5rR0kyQzhmTzdCb012NXNMS1FpZkdqVXY4ellVcE12STV0YUNUYXg?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-28T20:47:01+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "1acd2a1f6245febd",
