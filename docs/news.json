@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T17:46:45+00:00",
+"updated": "2026-09-28T17:57:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "1411a5a3fbcc53a4",
+"title": "Indian billionaire Kumar Birla's family lifts its Grasim stake to 45.07%",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlA2eXM1eExET0dkaW80STJ1X2tRYWFNVWlodVc2MFFTdlMzenVZLXR1TDAwLXVwS0JEU1RJOWkwNGo2TUw1U2YyWmFJTXJ3cVhOVVotZmUwRTFpUDhwNmdrOU9VbGhRdDhlWUNTd05XV194SlZ0ekQ1R25xZ1Z3NE5iRFlaTE5MbmtWTGEzS2NhUkxuanR5bkNOd0J1cDFFbHZiSlRjSHBjVU4xSUs3VGhoRGM?oc=5",
+"source": "billionaires.africa",
+"published": "2026-09-28T17:55:47+00:00",
+"first_seen": "2026-09-28T17:57:50+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "77448094abedf73a",
 "title": "India regulator allows Adani, four group firms to settle public-float violations case",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
@@ -824,6 +842,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "88e3168a72367d81",
+"title": "UltraTech Kukurdih Unit Reaches 100% Green Energy Use",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC14bll6QWhhS1pRQXFxMWlRM2FpX1VaZy1VWTI5enYySmdTeDEzcHZlYmc2NHJ4ek5zTmotTU1zanBvSElWM2l6THBVXzJGUkp4TWZmcl9KU3ZzZzY5MVZBRmFrUjlVV0syVWNRMWJMSmhZUVpZc0FIWkN0dFhYYnA1OFU3bVBKUXJjNTNnUTJNemgx?oc=5",
+"source": "thecsruniverse.com",
+"published": "2026-09-28T15:48:00+00:00",
+"first_seen": "2026-09-28T17:57:50+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3265,6 +3299,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "64c161cc2267b3d7",
+"title": "Maruti Suzuki Targets 4 Million Unit Annual Production Capacity in India by FY 2030",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmFVTmJCNkJNU1JSNDlPOTNLNS04SmtOSkk5Uk5UT0hXaXd4SENPZG14MjFMVGE0WUVVQ3EtUDNfSEwyRXp6Mm5pUEVRSmNJZll3ZjJjeXJSc0cyY2hXbUhxZnRkeVdIR2luWDdTTDZXYW9BQkNlMzc0MkVDd0syVVBRNWtmbU5vOFNacTV5Ukc0QjlCTFpOYWFUSHlCbFNPRmk0Q1ZZb3dsRmU4ZFh2dg?oc=5",
+"source": "ackodrive.com",
+"published": "2026-09-28T09:54:37+00:00",
+"first_seen": "2026-09-28T17:57:50+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
