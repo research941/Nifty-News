@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T19:18:07+00:00",
+"updated": "2026-09-28T19:32:41+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "3a3505967a985b99",
+"title": "HCLTech to acquire Croatia-based Robotiq.ai for €9 million to boost agentic AI capabilities",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNN2s4T2Z0My1kSTRLa2JuMld4Sm9qTDdZX292cXVRanc2emxkckpiSlYzb3NLLUw3clBBYnozUldycllaMGMtN0ZkZ1NaNjc4UkdKVWlxSlFCb2lrOGZiSEwtVHZRNjh2eEsxemM5VmdBbWFpZDlhOXVGV3NUNFJFcFBtTk4ydlQ4UG52OThMVEhONXJzMUNLU1N6amNHdzM4cUZxNGUyOUR2SkNKX182NzNVb3pKUlJFeFE1TndLNTlMX3FlWFFNQV96NGc1Qjl0bUxlNUFad0VKanhKdFA3U0VFZ21mSVRRYk1rX3h6YW8yMklHTHB3Z0J2TFloWEnSAYQCQVVfeXFMTjZocEUtdE42enBoS0RLZ1UyTWlYc1pKRE53cGtsZ1F0WTV1c0dEUmJxRHp5LWsyVWQzOHYySXVlUFpmdHJ0T2J2MldpMHFuUDB2S0I5bXJBVUh5YmctNXFNbmhteC1aYmRHWm9OZncya3JPVzFkTWRISENLbHI5RkE1YUw3WVlkbjd4MDBtM0wxamJsTEItaVRqZ1Foc2NmS2NULWpNWWNpb2VjRjBuSWJvQ2swd05uSnZYYi1OUDRrTXJnd2tQNlg1Q0ZDcm13LWRPMVQzcG1VVTQ1UEhZUERzTDVxOXM0UWlsdTdIZ1M3eDE1TG1DdThHemFIZG1lTDdfWW8?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T19:11:55+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "593648841e7e24c1",
 "title": "Adani Ports settles SEBI listing violation probe for ₹37 lakh",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjA0VmtJWW4tSFFRVUFCQ1BzckFyUjBLQm1nNnBZbkg3SThnbzFnbjZHTHhvay0zbWNDVENLR0FCZ3ZfS1FERFRwbVF6ZkIyQVlYX2hIWUJ2NjQ1SWZUZldLMmZPaG1ISVJSeVQ4TEF2aWRrUHJNYVV3LXFteFdXSVE3NmZqYnFqYVJmdENmYnVFNm5nZHJWSEFjYUtzbHFTSGFXODlXRFJZNFB5MzJqaWE5bw?oc=5",
@@ -584,6 +602,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "98bf442c917a0ff2",
+"title": "ONGC director's big push for E20 petrol: Can cut imports, boost India's self-reliance",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcy1PbHdWTFFMSU15VDdSdE5UNElCRzhJcXk3WXp6ampPdmZUT1N6OVVteW9NZUw1SUFsd2J5UVJHcUw5TFBuS1ItZFMtOURRcTRnNUFSOXFqRmdmWEYzLWpxVS1IUFV1emZ6Rk1BMjhqaGhobHdXR3VYVUtwSzVqc00yb2d0SGJ5eC1hRkViOXNaYlVHMTFlaXk3aFNFYlVhSzFmS2VVOG0yM1VORHJJQVpNeUJuUHBtc1NjdkJjTER3cnZqUWFZbXZnRVlpMlRaRWJ5TU51cFl4VHBuRFQ2ZW44b1N4T25xcFh1eUF1VTDSAfABQVVfeXFMTXMtT2x3VkxRTElNeVQ3UnROVDRJQkc4SXF5N1l6empqT3ZmVE9TejlVbXlvTWVMNUlBbHdieVFSR3FMOUxQbktSLWRTLTlEUXE0ZzVBUjlxakZnZlhGMy1qcVUtSFBVdXpmekZNQTI4amhoaGx3V0d1WFVLcEs1anNNMm9ndEhieXgtYUZFYjlzWmJVRzExZWl5N2hTRWJVYUsxZktlVThtMjNVTkRySUFaTXlCblBwbXNTY3ZCY0xEd3J2alFhWW12Z0VZaTJUWkVieU1OdXBZeFRwbkRUNmVuOG9TeE9ucXBYdXlBdVUw?oc=5",
+"source": "India Today",
+"published": "2026-09-28T18:24:55+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "a071e1d357f68212",
 "title": "IRDAI pushes LIC, SBI Life to seek further cost efficiency",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnlBQ1kzcWhkSXhZNW9RanQ3aF9KR3ZvRlQySEU4czAxd0piVURsTjdoa2NINEVDbkdyTzg2ZDcwMDNkM1haaHRUampKSkF2a2dPN002SzFXMmhsSUpFc2RIQmt2UkZJLW45bFdUT19Rdk51VTRrdmVpTmROLWN2eFd3eU5wVG1CSWNTTDRFRldzZHNydDRSQzNsc3g4dF9GQU83RDZzYm1sOEhPejNXQnVWa2dhWHJoQkJhbmdrX25XTDN0U0R1SXI4ZnQ1ZTE4R0NwQjR5dGg5eVnSAeABQVVfeXFMTlRiRWgtMEtkNnJkUU0tTUctX3BSSm1hR0NxTnFDVnlJZUZTbkkzSlRsTXdqbFhNcnJzUmh6X2dBOTBvMkNXMEoxUm1uc25aamZQaFVoWkY1VjdJbWFFd09NdHNUTUIzaWstdGFxWXVmT0VtLVJsMlpyNUlaVnBMcUhtMGZqbndoR0VqcUV3U0tKTG5scWxZTzdUSTBkdXU3aU9EUzRtZllSdnA0MktMdUNFS0xoenlKMFVpWXJiM1hlQm14VGtFazlubDFGUnlYbmFFOUp3bGxjQ21NZHMtczg?oc=5",
@@ -685,6 +719,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4c4e46b6b1f11903",
+"title": "TCS employees lead weekend Jakkur lake clean-up drive in Bengaluru",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUk9zejdlYkhFdEw0TG5VQmpHY1lETkVYT1M0Y21sUG9GQ2d1Y2dlc25ZWC12QW1LZElzZ05XMnlkYjBGaThSbTZ3dGFQbmNTblE5aHNCMGwtSm5KOHhaR1ZnMnVzZUQyWHd5RzJmLWwtdnRsS2xuNlZiNnlaLVlYdlZWTlJmdlNNemlVV24tTXpYVU1vWGJYM0tNbVBMRzc1ME9RZUZLMzlVLTdXaVEwZ2RaTDM3Y29TNF81em5XSDVUOXJuVXBUcE9vNko3V3pNU0VGR2VCQkE5T1lya2lJNNIB4AFBVV95cUxOUk9zejdlYkhFdEw0TG5VQmpHY1lETkVYT1M0Y21sUG9GQ2d1Y2dlc25ZWC12QW1LZElzZ05XMnlkYjBGaThSbTZ3dGFQbmNTblE5aHNCMGwtSm5KOHhaR1ZnMnVzZUQyWHd5RzJmLWwtdnRsS2xuNlZiNnlaLVlYdlZWTlJmdlNNemlVV24tTXpYVU1vWGJYM0tNbVBMRzc1ME9RZUZLMzlVLTdXaVEwZ2RaTDM3Y29TNF81em5XSDVUOXJuVXBUcE9vNko3V3pNU0VGR2VCQkE5T1lya2lJNA?oc=5",
+"source": "The Times of India",
+"published": "2026-09-28T17:49:00+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "761cdc7d3163dbdb",
 "title": "E20 petrol can reduce India’s dependence on imports: ONGC official",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzZIT0t5YUpwekF4dUhYeS1rU2VBWlR2ZEJEOUNta2k0YVRLNEU1blFZY2thdkJwNmpWUVFGcnd2NWZLOWM2cFpKeVJTSEFSWlF2N2wtVXpCYkFzNjhTNE9DckJXRUtDTVVkbWRURFpIVTh0SklHX2N1bUgyZ19ka0hBUnRjaDlhWVBJelYtTmFSandiR09XUmJCaDVCSU5k0gGmAUFVX3lxTE5uVlk1LUNMSm1tY2VXTVFQY2ludnYzVE9qODZkSWh1ODNsRC1IZ1pQOThPdm9EM2RaMDd4ak03VWx1ZmgtVkx5dG9hS3VsMmpxZXhtTnVYWUZWeTRXT0tzVS1HNWV1dDJCeTkyQ2M5ay1kLWJVVll5bk0xY2tGd0s4NHkwX3NJTTBLVksyeTRiLTlueXdkUVVRTnRZZ0x3TjdrWGd0YXc?oc=5",
@@ -757,6 +807,22 @@
 "source": "MarketsMojo",
 "published": "2026-09-28T17:33:17+00:00",
 "first_seen": "2026-09-28T19:18:07+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1c126648da3822e3",
+"title": "Bharti Airtel Ltd Sees Significant Open Interest Surge Amid Bearish Price Action",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGZnZDIzblB0R0ZCTHNhMzlqLXEyNkdDendjbjAwU2M2Y05HQ2pXZUJkMmc5SVJPeXNDSEhJYVhURTRGamNqQ3ExT0J2Tm1NTGVJdWZKbFp0Um9zSWhoX0diTGx1akVOYlcwdUhNYnliQ0E5R1JQWG5uQ25GRE5SVUt6Q19aZkYycUNPQTZ6SFdzWGtNLWd2bV9KRmx6bjdCc1JWNEhwVW1Ha09sM0F0WVE2NHpHbHAxU0hxTGVrOW5IZEUxRE1TaUZaVDNwT0IteUltdw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-28T17:33:16+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
 "symbols": [
 "BHARTIARTL"
 ],
@@ -1102,6 +1168,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "01e3049cee0eb479",
+"title": "ATMC: ITC final vote clears way for relief from unfair trailer imports",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzlyak9ZWWtObjh2NzZIRjdQODE1NHJoczJqMU4wdnMtbTBBQm1FR0J4ZHduZGk5WlZNNHZ3UjN2dk5wSGtTSzMzR1A3N2VjLWFtRlBfYmJiN0Y4QjVQQldiYzdodkpqNWVYaS13WGZTcy0yVW1XWHQ0R0I3Ni1yTUNWSzFVYUJFNGpEcmFJQ1RiVkJDY0ZoMWF3c2JHZkl0QV95a1kyb1ZCXzdtRTJseHBoVkNoZnVSdmI0ekNR?oc=5",
+"source": "TheTrucker.com",
+"published": "2026-09-28T16:31:18+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1957,6 +2039,24 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8657734f1040d91b",
+"title": "Best Indian IPO Information Platforms to Track the Jio Platforms IPO",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNE10ekFGT0twdmFYbVNPcWR1d0VLUWJwU0VoUGN2UjJ2UzNJMEZuT2RtcjVydXB5OUtwZmV6TWRGa3oxZkNSZlEzNFItcDlyYi1NOHdjSnB1WVVqX0JiUE1ySmVuVDFXSG9BVU10MjkwN1dJcmRfbVpnbnRLSVNOS2JpYlpIOGNxb2FfZVJ4cG44U3RGNjJ5Unp5NFdZenhXT3RGZGVBZUNHVmpEa3lwSjU0eGxJLVA2X25SMzhsM0N5cG80cTZCY1hfNA?oc=5",
+"source": "FinancialContent",
+"published": "2026-09-28T13:53:00+00:00",
+"first_seen": "2026-09-28T19:32:41+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
