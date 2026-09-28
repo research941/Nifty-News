@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T15:02:37+00:00",
+"updated": "2026-09-28T15:22:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,59 @@
 ],
 "items": [
 {
+"id": "d6808b6e2b44aabd",
+"title": "Four Adani Group firms, directors settle MPS case with SEBI for ₹1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDZpSXpZeFBhNnZCY1B6R01oODJJWEtoTU4zWkEzUGQwN1prQUppT3VJTWFibW41Y1NvQmpxUWFzaDZfTHRTUzFGN2NXenZqWmkxRmt1SWdoSUZMYXYzYXZZTHk0ajJaMllXaElpODBCU1V6ekdENVhvb2xnbU1qbnFvVm5YTGJhbjV2SXdxaGNzMzd3VmNNWWFCTkc0WElmVUtSaUctNy1rd0t6X2RPYVhxY1pudEwzcEdraG9n0gHDAUFVX3lxTE9VWXhXeXE3S0tIdG1zQnB2NDhnV09UOUJRUVJ2YldPSWdoZW04WE1YU2lrSkE3dTkwZ1g2WFBMV1NFc0gza1JsMmY1MWo4bEppelJVaXpKRHpGdWY5ZHY5MkJzbnpsb0F6NTdPMEJabWFobGVNUHRsOU9UTkJxUm93X3k0dnk3U1o4dlRPYmZ4NG03X1doM2hzRTY3VERRUTZqaEZzd2ptMGNtZ29aVFo2Tk5GY1FqRWl4MlpkTlRZYW1zMA?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-28T15:14:23+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ca603e943353c3cc",
+"title": "JSW Steel Q2 Results: Date, Dividend, Share Price, Earnings Call Schedule And More",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVNzcUgyT1NNaGdoVzc3eENyWk12b3VJaThEQzRtYlU1RlF3cDcyTmpxME80NmxzTXdZb0ZLcHFVNF93ZGJGX3l4RTJjYkoyS0gydWdVZlF4QlFPbHA1a3VjRUlzLUhmMU42RDZzaTZsRS1VeklxXzlBWVZIemQ4d3QwVEFYQkZOWkhRcEs4LU5tQVljLVlSZ0w3RTdldDhhRWdHMjN3a0hEYUpMSldzUWs4MExCMG03SVlBcFZvY9IBxwFBVV95cUxQbUNseVlxLVJ1eHdkX1htemt6a21PMXhxYWZDanhBdzZkYThrMjRWb3Z4bmtXZDFIandPR0F1cldVR28zdjJBZGZFbG5BSHJqNTZ5OW56LXVGaFpTSlIzYlBrLUJBd2hIV01XSUNjXzAyTnZhUkJUYVJNMGMtYjE2QUY2bU1BaHNheXhweUEyR24ta3l2MkpIVFB1cDhVZE10NGRVbTgxVHh1LVBoaWt3WDRXUlBlTEV1eDBMLUswaU03Z1JhUlVj?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T15:06:21+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "db28621d8174bc6a",
+"title": "Axis Bank updates contact details of authorized officers for material disclosures",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEd4OWtUc2ZER2R0a3FYVjJ2c0NEdHZWQWoxZ242aXlQdUZELW1Zd2tEOFhJeDQ0NVEyZGJTTVlsVmxzLUVULVRXNlZpcVBKc093RTYtdUlRQ0pNOTM3ZDJlMVVlQWltNnltdEtmbVU0d0VvMUVlSTlqN1hacnJ0NDk5YzlxaEVjdmM0TFpJMUJsOXlfMXpCelQ5MlpTZkJQRFhxLW9xbWpISnB3Z0xvTEZrdzRRMjFxMGkw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T15:05:26+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6a4b1ffbcafc47ef",
 "title": "Landmark Cars Expands Footprint with BYD and Mahindra & Mahindra",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUTR2SEFPa0ZIZlBvYzlrckhKdzVBcGN1aEFtbVJJWXBVSlFYdGxDMzAtWU9vNlZoZnFaQWVyc1MxSWN1aE9lR3hOYzFjM2dBR2MzZDN3bXJZZUwwWUtr?oc=5",
@@ -637,6 +690,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "76d46c10ef506d8f",
+"title": "Airtel Money Weighs UAE Dual Listing, Middle East Fintech Deals Before London IPO - News and Statistics",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWdlOG05V25SWWxPTk9yeHlaZlltemRYV0JoR0pOQ3F4TWtvd1Buczlnd3RrN2VtRUVNVmJ1eEF6Zm9jc0NZX0VJVkFoQTVsUUlPOTc1djJWbzRyS0d4eFpoLWhuOGNIMThJVFZUYXd2WjlmeHdkWmFLVkR5Q19nUGdiT3NoaUsxSlREcVpPUG00ZUFpU3V1dTJnbm04eHBtNjBGUThsajF3ZHhtNzFRdjVoc3EtUVhqWGpzZy10NGljekJLeDhNNk5B?oc=5",
+"source": "IndexBox",
+"published": "2026-09-28T14:21:06+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "107fbb85a34ad476",
 "title": "Jio adds 2.40 million mobile subscribers in August, Airtel gains 2.11 million",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1JrbjdaWTBNVUlTUVNQdnVPX1o4d0dTOHJhaURNV3BiajktLXlJbklrb181NEc4aW1mZVZYU1dGRTdER1Z3NnZNNGlpTzBPN0cxMW9iY2VLOVhIM3o5QWV1cm45MUdmRXY4TzZuY0w5bnZCYWRJa09fWTA5ZUc4RGdTMXRSMl9DMTdwR2RHSHE5eEZLdWx0bXVGN1RMZzE2V1R0LXlNaXNPZmZTQktIUURmaGVSSjZ2RmVZczgxNTZUSjY4ZXVKWmthdkVGSlNGVGJYRNIB2wFBVV95cUxObWtsRU16dnpSeTZjd2FSYzZrUXdzTG9SeWVsV2JQNURGUjNjVDR4RXJ5ZFdwa09GSW9qbVltNGtZS2FORXh0bzNkRXpBQ1U5ejRBTHpxRW1TVjRycVl6Ny1VRGJzRjZycDNTS0ZXeEU3SlItaHFCalB4eUZhZlJRZHhZS3VQN1NsZnpIWF80TTRnMGRUSUNrRjJHZFhqdnJ4Z3JPY0Nyb3JiNjk3dTRnbTQ3TVc2MUVWNlF2WkNmaDdZZkVkS2xWV19jN3hKM0FSSEY3QnlLYXBScWc?oc=5",
@@ -813,6 +884,25 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "bfa1ffa6186ff0c1",
+"title": "CMPDI Dividend Alert: Coal India Subsidiary To Announce Q4 Result, Final Dividend On THIS Date",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjFWdE4xbEZ5enR0cXRRTWQ5R0RZSjNNZWtMMmhEWDVNSkV3cDYyNFJ6N2t0OVV5eVU2bTEzU1psN2RHQkp4am05YWVzLWRHcmhtY0xwVTlSWHc3MDFoeHd0bk52N0xOTUg5UHNoUkpEM0k5Mnd4UkZicWFuWDlTamN6UWJUU0NXbUdpRGZlTHVKNWx4MHZRSDEtTTZCeC12eTQzWVpwSmJITW9zZldFRzhXN0Vpb3N4bm5vMjNiRktyVkROaXBMWHlrc0owaFhoZmkwXzJ3?oc=5",
+"source": "goodreturns.in",
+"published": "2026-09-28T13:31:22+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "43d9f34630c519ac",
@@ -7590,6 +7680,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "927160a5d32643e2",
+"title": "SEBI Lets Adani Settle Public Float Case",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DZ0pFQTZHU0xBWjhnbU1pX3B0WEtydUcxUnZfRlk3X2xnS1BNejRDT21fcEQ3cEd1TVJzUVJPdmFRZ2ZMRmJEQnQ4Zy1BZXZLNFFtTm42MU5LMGF1TmdkUzVTUlYyV0J3UVVScUxGeE5pT245aUlHSg?oc=5",
+"source": "Finimize",
+"published": "2026-09-28T00:17:51+00:00",
+"first_seen": "2026-09-28T15:22:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
