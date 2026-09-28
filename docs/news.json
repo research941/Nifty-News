@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T05:00:03+00:00",
+"updated": "2026-09-28T05:18:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,124 @@
 ],
 "items": [
 {
+"id": "17c9e5b25ef35490",
+"title": "BEL Trading Window Closed from 1 October for Q2 Results",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEyMDRpNEIteklUWS1JSEE0Z2thZ0Q2THV4eGFYVHpiZWdNMEhCLXhRVVhkTFlUNGdac212d1c3aXM3MERHRFc5bl93YVlEY3RCOEVIMXpxT0NHWnM2ajhOWm1ZZnV4aFZRQldvTmc2RXVIa0xwOWhaZmxlWVhRMHF3Y2tvdG03WFhnMWxrY01XSlA3U3c?oc=5",
+"source": "psuconnect.in",
+"published": "2026-09-28T05:08:00+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "718dd6a6ee194d26",
+"title": "‘Post-Apocalyptic Scene’: Wipro Bengaluru Marathon Runners Flag Water Shortage, Overcrowding; Organisers Re",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOal9RdFNySHZyN1JOeFJYa3hQdE5ra0pZMm4xY21LcEhyNWlTd29RZWtQMlRLeXl0ZU9KWUx2ZVNUY2ZfRENZTmpXbkM1UzFWZm9WQWxyOW9QQ08yXzVEY0JneHZvcDdQR1RZcXhDREp5OVNIRFMyTi1HYXVlMkIxT0pVdHI5V1QtcHltNWNqRENyVnpjaTNHYWRkdWktcVZNOTNMbVFCOGREMnVHZ0pCUHNoT0thN3JlLUFfVHI2TXdMSmJwUWdaZFB2eHRHdFZHREpTMXBpZ0pXekt0TEo1T3FyYVlTckZZc2hTZUFHTl_SAfABQVVfeXFMTmpfUXRTckh2cjdSTnhSWGt4UHROa2tKWTJuMWNtS3BIcjVpU3dvUWVrUDJUS3l5dGVPSllMdmVTVGNmX0RDWU5qV25DNVMxVmZvVkFscjlvUENPMl81RGNCZ3h2b3A3UEdUWXF4Q0RKeTlTSERTMk4tR2F1ZTJCMU9KVXRyOVdULXB5bTVjakRDclZ6Y2kzR2FkZHVpLXFWTTkzTG1RQjhkRDJ1R2dKQlBzaE9LYTdyZS1BX1RyNk13TEpicFFnWmRQdnh0R3RWR0RKUzFwaWdKV3pLdExKNU9xcmFZU3JGWXNoU2VBR05f?oc=5",
+"source": "News18",
+"published": "2026-09-28T05:06:52+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "54aefd3be3d25cca",
+"title": "Sun Pharma Bags Global Rights to Cholesterol Drug Lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0NqaGkzR1NwNE5vem1jNlEwc0RxbC1hSG9OaGZUMU00d29peEgzLUp2ZnN6Z2dxczlEN2FqcG1XR0MtSTNUSV9iTkhQaklaYllWZmRoRXowS1BEZmRBSnFRMVNXeXd0OElGM2xtc3U3T01KTy1UMTcweTJJQXlSOFpaUDN3NXhPVTJ0cm81UndNWUU4QTlR?oc=5",
+"source": "equitypandit.com",
+"published": "2026-09-28T05:04:51+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "e63e4b9b59ee53ff",
+"title": "bse share price",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMjRiSFp6bFRBNEZfdnFkRjhidWxaOEFHcWtiVGZpZzVDbEFWOWZoYkg4dmlaT2pfS2VhVVBnNTAyVEFHQV9mbFFNWnRxWVVkUzJkbzVlMk9TVUZIMm0yTFNrN2pzNThJWE9OZWhJNmlDdw?oc=5",
+"source": "LatestLY",
+"published": "2026-09-28T05:01:19+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15b7d796f453b6e5",
+"title": "Accumulate Mahindra and Mahindra Financial Services; target of Rs 350: Prabhudas Lilladher",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaWZVV0I2OUpQTUJLWUNzZHZBUGp6ZHZNU0pZTXZsNE02WTRCRUhSUmlkSXNNb2ZjeDY1Wml0a2JDaXhlLU9wZmtsV0hUSnV6RHMxMXBrNVEyaGtZY21mSVdZWmxtZGdFbm1oY0pUemlRWmFQZ0lzOGNmbFBrVHp2djRaU0VXQmMwcE00ZVpIaGcydDA3UlNudWREODlwc2NVZ2NnUHhzUWJfaE9UQ2NXWkg0SGZsSXg4cFo2emJ3blVObTR4SDl3WXlnV2g1ZXJRdDdtQjB0VTdzb09OTVZvVlNSR25WWE3SAewBQVVfeXFMUEpUS1NTbXktb0J0bE95RTl0S0xGbzR4MXJTSXlTc2hBdmlrcEc2QjJVMzk3NTlCQlNEVnpQdU1mY1VxaTJaanVRQm1LY1RsTDN3cXpTaF9ZRDlZcEIxRlNCTUFiY0Jrck9mSnhfLXRtamN1alNHT0J2M3FKd09OU2plVk5wR1NtODNFVkQ3VFlhUC1Zanc1RVRNY0diak9NM0ptbVhmdGotM2dFVlhqdFpqdjlhUE5ydjBDeVVBeGg4dFhpSDFFbkVHSko2cE5KNXN5VWh5UlVPZ3JBb3dnUTRTTEFmZlg0SWhtVHI?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-28T05:01:07+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "72dd2dd130a71f66",
+"title": "NTPC, EDF Power Solutions Establish 50:50 JV for Clean Energy Projects",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejRzU2JfNEMxUTJaNl9oYkFDZlVmMnR4ZVVCRFFwd3dZWUtuZC0xZkVQTU9hcHozdEJKUG1VR190VkpVUExscC1hZm96c1NEd1AwWTlaUjZlR2psVTJmNlBJQlJVZUkwdVdYUFZVSjRhU1VQVE5pUTZGUTk0TG9JS2M0V2JRSVBneHR3LTZvcllNMV83RVdsX2NZMEdMVWN0WTNsN2pUbDhOQQ?oc=5",
+"source": "Energetica India Magazine",
+"published": "2026-09-28T04:59:21+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "caf544fea9eda4dd",
+"title": "NTPC and EDF sign JV agreement to develop renewable energy projects",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjhVaU1mYlVpLS1ibVYtRnhVcHIwZWpDVDJOc29yMkRKQXkzOFNBUjlQaktsV3J2aXdmakhPQnB0OTR2RUVSRG00RzBvQXRyT1JpQmRmN3JZWUphS2dKVGxSOS10bWRrNmF6eFA5RjZMQ2JmR0dPT0dFSEdHSHFocHJaN2FGejNQWG80VzZTaXN6cGxUVEQ3SlA5QTNwc2laQkxUVy1SRFFJdw?oc=5",
+"source": "Powerline Magazine",
+"published": "2026-09-28T04:56:42+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0fe259340a8d114b",
 "title": "Sensex Today Tanks 903 Points | Nifty Below 22,900 | Bajaj Finance & Kotak Mahindra Top Losers",
 "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOdG9ZMjl3S3k4WUF1em9tWmNlYzljbUpSYnFOUTJMa2QwbFlYQ1FSbzBULVJ4dmI3anNyRVp2b004YTRCcVRQWHpNNW8yZzdMYUtwMXZURXZvOHlJcTEta0toaXlMUHFhNmpkeTczaXNnUXd0XzdWLUZhOFZXLWF0M1lpV3JWcUNpS2otN2YtY0hxR3poS01sUm9LLWljeEg3aXBtWlpjMk9kWGktMUQ0aVVFcXdrUFpQNlc1eGVjQkliOURLcHZFcVAzVGxGX3R6bDF2b3ZRaFVsN2thX1dFU3QycnpVd1ZwaGhkN1NHSGZ4V2FlRVdlNTV6WjRlRkNRQ1NSZzNxeEtNNlVFY3NsSlhXN0VPREpYSzRKQUJBdTlNRC1rNFZ5RkE3YTVxWE5tcy1CNVBEaHNsOGdYOHZPUjRFWkh3S1J4Z2RLT0llVXhIaEtpRnVKXzY0NFp4azZpZHhF?oc=5",
@@ -651,6 +769,22 @@
 "source": "Livemint",
 "published": "2026-09-28T04:33:48+00:00",
 "first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "d9a5417da4fe911c",
+"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Is it a stock to buy?",
+"link": "https://www.livemint.com/market/stock-market-news/adani-enterprises-shares-drop-2-after-adani-group-entities-swap-86-lakh-shares-for-2-498-crore-details-here-11790569541218.html",
+"source": "Mint",
+"published": "2026-09-28T04:33:48+00:00",
+"first_seen": "2026-09-28T05:18:38+00:00",
 "symbols": [
 "ADANIENT"
 ],
