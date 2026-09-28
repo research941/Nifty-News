@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T07:36:19+00:00",
+"updated": "2026-09-28T07:51:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,147 @@
 ],
 "items": [
 {
+"id": "020f16b5c7219087",
+"title": "Infosys plans to move up to one-third of workforce into specialist roles",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi10M0RGZ0NQWmxDSG9oa0prWmNodVZCaWlnUFFOWnhjd2dPeEdYZTdJaU5GSjJjZ3lYME5fTzUzSHpGZ2F4OEhjcGdsZlZROWJsUE53dVJoeWVPcFhQYzNIUldFR003ZzVDSzhmNV9kQU5fOUZvMkszc3BVNlpDR00zaVN0S2JsZTc4VnFFWG93bVJzREZSN25jSEhaOXpZajF3Ug?oc=5",
+"source": "HR Katha",
+"published": "2026-09-28T07:44:21+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "becad5e665f6518a",
+"title": "NTPC Green commissions 81.34 MW solar in Bikaner",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFFJVHNzQTRWWkhuMnhkcno2cF83NGEwcERCMHlubkNwTE1UaXlUaGZVUnJpeDZ0Q0JIY2o1MzY1endsY3dPc0lKSzg0QUhIVl84ckIxRExWYUZvakRRX3dRTldORnluUkhOc1hSU0MtSGo3eUV6cHJUWWZLYmpmeTBIdkotaGdLdDFuRFBfenNCMU53ZU9mVUpn?oc=5",
+"source": "pv magazine India",
+"published": "2026-09-28T07:43:44+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "69b20bd120be17a1",
+"title": "BSE Stock Falls Over 2% After SEBI Mulls Forming High Level Panel To Revisit Self-Listing Rules",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3ExdlA4cDBOZFA1aUtiNEZ4OWdkbFhDam5vYjlOdTZ2NE1oQ0JIWTVoWDNGbFZSNzYwM0dYN2k2SlpjQ1l6MHRWa0VnZ3VVZFpYWHE2alZkWUw3T3NxNUFPbXJtUWw5MTQweWcxOFRzTEFHTmpvdVh3cll0V0J2VnlVeWVfdGRQQTZBWjBDQ2pKNl9lcFlwbzlUcDhPVWhWQWxhZEFYM2VkSC10NmlFbnpjXzJFTUVRaUlpbmd6NEtiTlRYMGg2ODZ4eG9PNDhLRU11V1RXWE1uQUJKV2h0ZlVYUdIB6wFBVV95cUxPT205by1pZjNFNmNmY01zbXhwNzdFOTBzVUV1ZGdYcktaS1ptR0dZa0oyNmV5ODVxcjN3UHFPZk1DX0syVG9zSjBrOTNMTmFEd0JraFRvUTVGQ2s3ZldrU193S3dzeC1rUkw5M2JaNWNEYml0MXB4ZDZRTGh4YVNGS1VBS2w0SC1RUkl5aUJabWdiOWxrNllUNkJzWnFFVWlhMUIteXppVXdLSktWcjU3bUlmaVVBRmVuTWptZFdQMzdHNzk3S0dkMXRsNVJhRXdyLVpGcGVGbUdRalF4eXNjc0kzME81V1g1MnZ3?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T07:43:32+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Regulatory",
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
+"id": "1cb4c3e92d409b82",
+"title": "Siddharth Sawant Appointed Director HR At Tata Consumer Products",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnFzLWJ1Wm5CSVRvcGRyS2lxR00xZnJMN1ZYZWN3UklVRlRYZ2VDb0pFb2ZoQlF2eWkwVkxCSXRJaTNuRkpvZ0t4TndERVVMLUVMY1dsclBlaUZBelJlRVNjX2VmOF9IYU1nUkJZQm1JV051VFZQT2FlY3RwUzJkcmhsblA3RmQtRlFmUzB5dXQwNG01TjgyUzBCSUFQTXFucWc4RGlR?oc=5",
+"source": "BW People",
+"published": "2026-09-28T07:43:24+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "79b150292deea437",
+"title": "Wipro stock trades 1.09 percent above its 52-week low",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGttMC1SYUZXMjg0d2sxXzdqYU1MeFZQYWdNeV9XTks4WGVGMVB2ME5UaE1rZkdBNlhNQXZFWTZMY3Fac3RGTktwRklyOW1oVTdMTmx5aVp4eU1tQXpqM2lndGk3WnhVVEJiRndUVjI0Qlo2WFE3X3pzZFpMdGRZUl95cjEyWW1OTUlZOV9RZklrd21CWHJCendFR0J2WGJ2WW9QU3JNeDRhOUh0eV80MGxn?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-28T07:41:40+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5c9e8b0e04f81541",
+"title": "Axis Bank to raise campus hiring to 12,500 in FY27 amid workforce shift",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOajNUYnJWSVR1MVgzWmsyTTE3NnJiRXl0N1VaNnQzT0NlMW1mY2kzaGt6WGZPUXQ4T0hTU2xxY1V2eExzdjlOOTktY2p4WTJUdk8xTmh6U05BT2ZHRGdtVnNCYXNMVHljMG9vQXI0dmNQcDVJVHpleTM0SzYwMUdFS25wSHhQMDZCXzNkZ1gwWDd0YXQzSmFwTHlQbEFrenJ0LVE?oc=5",
+"source": "HR Katha",
+"published": "2026-09-28T07:38:14+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cfcc875d511ff84b",
+"title": "These three Maruti Suzuki cars are now available with CNG automatic options",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOemtScllhbmNmX0VuWklnaWZ1QWZGX3o2aGpxS3NqTVQ0dm00azlGUGJZM0lZTjA4d040ekxjay1PTk5XVzFRWTZXWERtOWNOWXpJYWtEUGRpV1FYbGtRTjJMZGV2WXVYUFJoUTk1WmdVampSWEJfWE8yMHVWQ3pFUzhEUjJaZkNRb0V2bXVyUG1tWGpJSVZBN0wtdkNEVjh0cXplNUtVenNkSlBaUE5lZzVWd0F5VGtsRVk0WmVreVVzblNSM1hIRzUxMWNqZ3Q3eXpPWGZRU2lWQdIB3wFBVV95cUxNU0dsTzNKSk0za0tjWEEtRmpEc1I0Qjg3M0hFbUt5ZDk5NFd0RjdFMkM4ajdHTUlOT0pySXNGOHU1NHFEQVdyU0NHVXRfTkVsZVd6ODRKaEwwbnFkTEZRNnQzTjZ3aG91d3FzZzZ0SF9SUElZaW5rcGx5RTRQbXVKTjE3aGlNSG9hdXVOZUlFX0Juell2bWoxNXVRUXdxM2ZQLUE3TU83QXJpOXZOWUwxdlpSWk1obnRDc3NfZXpqZk1ZcTYwQjZvbEI0OVp6ZnlwSXVBVWs2cnJfRTBZM08w?oc=5",
+"source": "India Today",
+"published": "2026-09-28T07:34:59+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1875367a62bfb97b",
+"title": "RIL, Jio Fin, Maruti, Tata Consumer, TaMo PV, HUL, Wipro hit 52-week lows",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTI2VW1qSC1YNUJwMzJNOVlWVTA5YmpHSWlSYXV6SXd5SklZTVJSREVhbDA3N3FJakVkZVpGT2l5NGxRM2Zoa2wtdEQzT1RDUnZoVy1QUVFiYjJ2U01hVE5hbTR0eDl0SlRPc3VDaUNjMU5fZF9zWm9LV1IwbkhzVkNkQkJwSVE5WUNURTZpa1gyYzRZeGRaamJ3cWhvX3B0TnVBYmxNWm5TdEJ3SlpyNjFFNTY1UHRjUW5YX3hXVDhtbkF0UF93aHpaZVhaUU3SAdQBQVVfeXFMT2ZudTJPeTI1VjVTVGtsdG5EOHpyV2xYZm5uU21QYS1yQ3hjSHBRbm16WmtiX0Ywb1lqeW8xZ2xfN041aFN2NEpweTZqbGdSRHdVMXcwNHd1b043YWZWdkhZVXdNejFVd2k1RHNkUW9tNjBtQ1U2TGJ2R2p0SUFfUkFHaEQ2QU1BMEFQUVB1YUJuRnZyTEMwTm84eDRfTzlJTWxEOVpnM3hEd1laSXk3cE9oOFFuaVFVS2l2aHIyaENSQTZjNkNXQW5SQTFyOTNNaWM4MFA?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T07:31:36+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"HINDUNILVR",
+"MARUTI",
+"RELIANCE",
+"TATACONSUM",
+"WIPRO"
+],
+"groups": [
+"Auto",
+"FMCG",
+"IT",
+"Reliance",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2ad9d782d26ed333",
 "title": "NTPC Green Energy Launches 81.34 MW Solar Project in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFHWjRmTWN2bmFwdU9yUEF0Q1RuaWJ4cm91T1NoN05pRDRyYWVVOFNYaWEwMjhEZ2htQnNBXzhiOVNCelQyMnpFTkZJNHZWenJrelM4aFhWaWR4SHFnZGwzck9Nc21FNDdwRC1WWDlyMmV4eE0yZHZFbEJCSlBYeG5faE4weVdpcDZvb1FWU3loZ09rd2R5VEpfbEhQWVlLQVRGdS1mMmJzWjNMNmZvWjFLNVpDQnQzdGhYVDRFLWJaU0Q0Zmt0Qg?oc=5",
@@ -509,6 +650,42 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "edd870407e63debc",
+"title": "Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOHVkbEdNZHFBN2plNm9yQlBTWjFLaDM3Y0NIVllTN0ZxaE9aOVBNVFhiZDdRNENudkxzamFRazgxel9RWDZaZ0tuV1FuRU53OVFoSTRIMXNXZlZhS1RnaTdVRWQzdnVLQmZsTkhDSTdWVWRTUFZMdEJLcW9LR01MLVl0TlFRMXdBbzgtRG1zaDFLNHAwYmN1ZnNKSnhZNTJFOWI4WHl6SlAwLTh0WnQ4c29QZFEtLVpLcE5ITElZWk00ZXVXZGlxb2l5VHdXZ0h1el92cHo3Tk1TdmhSTm5oSVB6VHZsOXEtMkVlQUFGWTk4RkNYZ1phY3ln0gGCAkFVX3lxTE1tT3IzODlSa3pjTnhfOGxmenJyNU5DU3FWRElwenhXZDZFbTJxWW93eWttY2xRMTVTc1BoWWV2dnhtajFHNzBoalFoMVpkR0FuSjhLTDlmOFF6VUtocjZIWkl2am5pREZnNzVFcU5FUFVZR0VpaVZtMUhhaG1KQWVjdlNTMzhKbDJsQW9HcDhLNXFFZHYxRVlTNGt1MmprLTNkODBjbDZBTm1NRzZFSlFGUTdBMzNqWHV6clRhZnhKR3FzRFpZM0IyZ3V4MnNpaGxHVEEwYXNTZ1RVZEw4bDB6VXBza3g5b1ZvbzRVVURjZy0tem9TN1VCOXNuMGdiVF9nQQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T06:59:45+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"ADANIENT",
+"SBIN"
+],
+"groups": [
+"Adani",
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "045342d860d9076f",
+"title": "Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward: Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbU9yMzg5Umt6Y054XzhsZnpycjVOQ1NxVkRJcHp4V2Q2RW0ycVlvd3lrbWNsUTE1U3NQaFlldnZ4bWoxRzcwaGpRaDFaZEdBbko4S0w5ZjhRelVLaHI2SFpJdmpuaURGZzc1RXFORVBVWUdFaWlWbTFIYWhtSkFlY3ZTUzM4SmwybEFvR3A4SzVxRWR2MUVZUzRrdTJqay0zZDgwY2w2QU5tTUc2RUpRRlE3QTMzalh1enJUYWZ4Skdxc0RaWTNCMmd1eDJzaWhsR1RBMGFzU2dUVWRMOGwwelVwc2t4OW9Wb280VVVEY2ctLXpvUzdVQjlzbjBnYlRfZ0HSAYICQVVfeXFMTW1PcjM4OVJremNOeF84bGZ6cnI1TkNTcVZESXB6eFdkNkVtMnFZb3d5a21jbFExNVNzUGhZZXZ2eG1qMUc3MGhqUWgxWmRHQW5KOEtMOWY4UXpVS2hyNkhaSXZqbmlERmc3NUVxTkVQVVlHRWlpVm0xSGFobUpBZWN2U1MzOEpsMmxBb0dwOEs1cUVkdjFFWVM0a3UyamstM2Q4MGNsNkFObU1HNkVKUUZRN0EzM2pYdXpyVGFmeEpHcXNEWlkzQjJndXgyc2lobEdUQTBhc1NnVFVkTDhsMHpVcHNreDlvVm9vNFVVRGNnLS16b1M3VUI5c24wZ2JUX2dB?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T06:59:45+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"ADANIENT",
+"SBIN"
+],
+"groups": [
+"Adani",
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "5c78f013bf4a61a4",
@@ -641,6 +818,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "38a1f40478ee6b23",
+"title": "Buy, Sell Or Hold: NSE, Pricol, ITC, Rolex Rings — Ask Profit",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVFuZFNlRmlLVnIwUjd4X0pvLXNwZXc2ZExGQUszbnhJZnVlMUFIRVMyYmxUTTJ6UlBOWjVVMWpvcWthRDVPTFUzdU5rekh2VENhRXo0c3kwUHpmdV9Cc1h1aFhqeG1yX2ZvZTVWa09ES2o0eWE4SVdURlpQQjA0dS1SbV8wdDFveWJZcnppSWJyN1g3ZzQ3QzIyUkNva1RkbXpGdjliUdIBpwFBVV95cUxPYVFuZFNlRmlLVnIwUjd4X0pvLXNwZXc2ZExGQUszbnhJZnVlMUFIRVMyYmxUTTJ6UlBOWjVVMWpvcWthRDVPTFUzdU5rekh2VENhRXo0c3kwUHpmdV9Cc1h1aFhqeG1yX2ZvZTVWa09ES2o0eWE4SVdURlpQQjA0dS1SbV8wdDFveWJZcnppSWJyN1g3ZzQ3QzIyUkNva1RkbXpGdjliUQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T06:27:34+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -1156,6 +1351,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "bebf290aac47a152",
+"title": "India Telecom Market 2026: Jio vs Airtel vs Vi vs BSNL on Subscribers, ARPU, 5G and Capex",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmZLLTJUMGlRUFlIdFFTZTJZU2p0NmpPSndMeTZzXzhuekF3aWpiNGctU0ZhQXpSOC1ycFZWNmo4ZmRUSTUyRE1Kdk5uTzA0Z1FxeXAwbF9IVnZESDN3WVRJdzJielE1UXdPZlBmQkhqMDNrR2dqd2dhTTQ4R1lsMnp4U0NZRmw2czFkeDBXMGp6NEJFOFhzR1Q2SWROdVU5bTFKUlFqR3haUEV3N3o2MENOalMxcFdqOVhRYjVKR1JOd9IBygFBVV95cUxPZ1Z0TVR2WURZTmJrcnVSYTdud2MxekhRaTQxdE9hNWxZa1V6cnlnUHFGSmZtVVdPaklPQnNjeEV2cjZlSkY5Z2w0LVNsdVBiZE94RXJlY0duN01oQ2V1Y0RmOWFnTUpGSFlTOVhCT2V6eHF0STluTDVqU2JxZC1FakhvRXQwRmc1OFBhYVRaYkdhaGZUYXdSTGxYck5iNEpQVVRiTGpxZHJoX2l5V2NOOHota0FUUjB3azNNTnM0QWcyZjA2c2RaUktR?oc=5",
+"source": "TelecomLead",
+"published": "2026-09-28T05:18:23+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "73e0adf77303dcdd",
@@ -2349,6 +2560,22 @@
 "sentiment": "negative"
 },
 {
+"id": "7da82699c80b8e24",
+"title": "HCL Tech Share Price Live Updates: HCL Tech's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-28-sep-2026/liveblog/134530687.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:10:04+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c0c89dae021facd0",
 "title": "Infosys Share Price Live Updates: Infosys Market Performance Snapshot",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
@@ -2601,6 +2828,22 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:56:07+00:00",
 "first_seen": "2026-09-28T04:33:08+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "af18ef841cf8ab4c",
+"title": "Nestle India Share Price Live Updates: Nestle India Price and Returns Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:56:07+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
 "symbols": [
 "NESTLEIND"
 ],
@@ -3459,6 +3702,24 @@
 "source": "NDTV Profit",
 "published": "2026-09-28T02:24:16+00:00",
 "first_seen": "2026-09-28T02:33:37+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
+"id": "80515e9332d169c5",
+"title": "TCS In Focus: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFZad3NnRzdpOFBFVEM3T2ZlVHBNTGZOVy1TWWVKZFhNWGUxekh6U09zcV94Z0tFblIzMjlpcHBHMUJKajRrUzJjeDd3TmdVYVJxZlIyQ3VZWmhqZjNSa21TQUhDNDg5MDg4VGJwTnhyU3pzT1JPUWFrOE9uRWdKMWtnaUJ2WTVucDJXRjFZYVBBNXZJS2RuOEVHV2hJUGs5STJRY25xeHdtbnRhamx0YmZDcXlXNWFqYWV1QU1zT3FrSjRpOUN4UEZiOVItZEgyRUxkQ2wzSzFqUFFKbVV2dGNpRWl2VmNWaGVSV0c2cVkzWVXSAfsBQVVfeXFMT0g1a0RMZ21lWTdNejRtRlF3Uk1PRzVGUmM2Ym9CNlVwd0ZQdnlMOU5Vc2hOMHF4V3plRUNaSmVvWDBBLXB6bER6RDhacGd2YUV6UHZxbkdNRVFxZWRkRWQ5NGhhNUVzOEU5bTlocGRNRnloamp6R0piOGVnSWJLTWRYaFVNRDFPajlGVjVRXzNST0ZacFQ5b2hMOFp6VDBFTjRoVHRZaTdjeHNUbXhuQkZjN3NJaWl4alNNOFVKbUYyTHRWRmgxWUl6R2xFZ0xxQVhQSjRYVlVFTEx6ZUluRXprSnh6OUM1R0xYWDQ2XzNuc005TU1yeE9oWEk?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T02:24:16+00:00",
+"first_seen": "2026-09-28T07:51:12+00:00",
 "symbols": [
 "TCS"
 ],
