@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T21:44:52+00:00",
+"updated": "2026-09-28T21:56:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -3801,6 +3801,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "56e96bf1b0d1e92b",
+"title": "UltraTech Cement slips Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUI2dEdOa3Y0NkNJM3JUQzhnSm0yaGI3MjdPeTBGOFJZSklqRldreXloX09lNGotNndDaTQ4aGVJVHhHSXZjNXZWdEtaU3luc251ZWlBVjMzUzA1ai1CRUU1M0gyby0tZXZTQjFEd0RQemIxODE3U3gtZTRSdVBJNG56X21tU3FIUDNERWx1Mm50R21QbFVMN1JyNUtETzJRRUpVVlU5cVlESW0yOFFib1JDeHBFR3pSZUdFb2ljR3ZJVTU3bnc?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-28T21:56:52+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "positive"
