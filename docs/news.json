@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T02:58:04+00:00",
+"updated": "2026-09-28T03:11:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,90 @@
 ],
 "items": [
 {
+"id": "fabcd59d42610d5d",
+"title": "Sun Pharma and LIB Therapeutics announce global licensing deal worth US$3.7 billion for lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxnakU0TUUxbURJcEdFMy1nNExqd3FXdkdJUVJQcHNGZVlaSzVMVDRfVFNEUXd0WHctY3RlMjhWZUxZTlQ5Sy1MYXhnTmdWRU8xZkE5YmQyRE5RMUxTdkFuM1hwMEQzSl9GZzNnQWJYcllZeERaSDkyVnhIbzBVR1lYNXN2MUZOUjJQcE9fcTh1SXRkc3JNWmFpdjZuZEJxTTJhcnptUnZrcXd3WDk0QnVaMVdmd2FrTGp1bDRJYjBGeElNRWNQaC1kZjFPVmVIdTZxa2FoTVM?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T03:05:57+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "aed95ac95770675d",
+"title": "Sun Pharma secures global rights for PCSK9 inhibitor lerodalcibep",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmZGVVBFTlVGb3VPSC1IdnByRS11b04xU2VrU1R0cVRKNmlDNTg5bDk4S3FlZ2NBRjlEWmE2c1RLOElmR0paLXM3bTNKOW9XWHhPZFVSTXk3Tk1lb3o4QlhMTnpmcDJzM2xlT2xZZThkV3ZSeTllcGViWllBbVNZdmk3ejNpd1VnZ0JWX0c5UWFLTXBPLU5VTE85cDBvM2pncVJITF8zQVNoUk9Ha3d1N1QzZVpRTmx2LWc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T03:05:12+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "457251cdfe81b8fa",
+"title": "Video | Stocks To Watch Today: Tata Power, Cupid, Jain Irrigation, PC Jeweller, Power Grid, Key Updates",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc25paUZzTW10RllhV1RWT1RGQVJYeDJRVG5mVEVzQmFTT2c3M0ZxeEswWnlFWVQ1X2xENThfMmZjZG1SeWxNMTNWc3F0YmMxblVkLVBrOW10X3ZzMUlhUDBlUFppMlRrRXRJcktGYjFiWk9xSmJSa0ZmSFdyMV9QLU1UY1A0MUJHS0lxa3l2b3R5cTkzUWxpRXlrT2Z5NC1seVdJRmd4aTJTLW9tZGJrRXFCQmk2aGlQV0cySWw4VmZaVkUxNkVz?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T03:01:10+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a194d3c1a0ad07f5",
+"title": "Stocks to watch on Monday: ITC, Power Grid, Paytm, NMDC, September 28",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGliOTg3VngyR1lacDNvTGRNQkszR2FKaVNvMHItVlZEcmltWTF6aGtCTXN2WGhINUV0RTZ4N3ZROXA1dWpKWVJxdFBnOHBMN2EyX1l2WTdLa0RLaVdBOTNlZnJVemMyNmFYZEtPcF9odlFzMEg4T1d0MEFaMVVtVHZGcHp6SVUxcnZwWFFzNXc1d1VsM0Z2amJ0cVlQb2NyTFNmTlBieU5qVUI1bkNHTHUzaFFDVWpGY3V3bEdNYXRhVmtaWWdySjFTcw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T03:00:28+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"ITC",
+"POWERGRID"
+],
+"groups": [
+"FMCG",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8af3b4716f285002",
+"title": "Axis Bank to increase campus hiring to 12,500 as workforce shrinks by over 3,100",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUpaM3VvUXJZeEgxOU1Bc2U2dmtJSHZseVdsME56RnhYMEtYT1JUcFE3a2pYMUFFa3Y2THl0d2RESFZnSUF2bEZFYXBXQkFhZmluV3JxN2s5am1xUnlVR29ob2UybjJQWmZhQVU5aW9WQS0zaEVyaWt3WjFHcC1vWWtlcWpqLW5jWkZBN3RENjQ4U24wYllPdHpWa0FUNzYwUE96cTlvQmVEdmxXaE4wMmc1cExzVTZPX1RQenZpc1c1MWg2T0tYVUF2RzU0a1A1SW5zUTNGVmhSUzJl?oc=5",
+"source": "People Matters - HR News",
+"published": "2026-09-28T02:44:10+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d9aeba6230b4cb36",
 "title": "Maruti Suzuki to Boost SUV Lineup with Next-Gen Direct-Injection Turbo Engine",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3RLNFQ3LUszMElyUUZmZmt1OU5Ob2VRci1BbF9GdzVjWERVZkhQcXBsWlhMdVVaSVA4NzhueGdOYzVhQ0Z5SlRQMm5xUm92ZlJBRTIzczNBRllOUHZaNUJDYW5IS1cxRkd1eVNENW0zTXJ0Q0JQRFJiUmhFdGxibnptLWJPWjZiOGNickxDb18taF90MGtrMDZoMU5yNG9hemlsSXlPaEU5UQ?oc=5",
@@ -459,6 +543,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e7b8add387231a86",
+"title": "Axis Bank To Step Up Campus Hiring to 12,500 in FY27; Attrition Rate Drops to 22.4%",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVozanU4QkRHOXBLWndFekQtMDZlVzRZQUFhQU5sMlZZUlVnbmI1eW5Ba3FUQzc3VWlCNjlaOG9fQWt3NWpiTEs3Zm1xX0N0NVZGWlE0LTlvWDNOMDBoUUF4VzhCT3dVVk9pT01JVl9XdmpoNF9WM0RzZEx2bERfQUVYZjlGSFlvYlNUUlZZZkN3LTJacDhiVnhDdU1DZVlncE45UmRDRUZFUHBkdW5ZNGk0M0JIRnZnNGRFRWppakVHZDdWM2fSAcsBQVVfeXFMTWI4UWtGSlFFOHc2cWRQcWtwejVpZF9CU2hsSFl2X0g2NzRkb0plRnpaSm5kdHE4N0tnZG5rUDNYU1d4bDI5Wno0S2VlYmhWVFJCNW0tRGlyZnVZM3dtWWNZdnhkNWVSNzA1T3kzYlo5Z3dwNEZpVTlFR1RBdG9NbEh2dGQ0QXlfZHlEMkotcGxmUnRsc21TbE9YWjBpdjY3TXJfelgzeHdIdFNjMy1ib21TMFBPSmVqTnZOSUFOenkxanpOeURldFNYaDg?oc=5",
+"source": "LatestLY",
+"published": "2026-09-28T02:39:52+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "b6fe9ed8772db217",
@@ -532,6 +632,24 @@
 "sentiment": "positive"
 },
 {
+"id": "d97642eabad6f548",
+"title": "Wipro Aerospace appoints Mahindra Aerospace COO Karthik Krishnamurthy as Global CEO",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFVCb21qSWRMRWROWlN2LUhLY3NmcGszQnlfeS1UTUptZXZ6ck9oMC1FN3g0Tzhna2UxaHVPY09rTWJfZGdLMk1jMl9SamZQYU1laERjc1NUbmtUbHVaSmJqZGJzakgyRXdaU2hLT2wxSjVFM083ZktyM3lNU0xKVFMxYnBlUndTa2ZUQnVOaU03YU5RUUNEVk9QeXpuVFl4eVh4a2RkMkt5Zk1oWFR5OTRIZldaMTVxV3l2RHNHRnhsaVIzZUVGUUtUem5qTEE?oc=5",
+"source": "People Matters - HR News",
+"published": "2026-09-28T02:34:05+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "2b2113ec0fec7aba",
 "title": "Max Healthcare Opens Fourth Africa Patient Assistance Centre In Tanzania",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHc4WGhUSHl1bk1Gb0lCTXducFJleEprSVhsbDJkQ25UUkh0b1MwdG1vQnJjMGV6SlVEYlZLejA1NTRrWmhHOFR0VWp2MmtBbTYzOUJraG9KR2NRN3ZxWUtacTUwUm1GNFFWNmNaZTJYZ2gtRUV0dXpHWjZWc1FsN1BHTEc2NkdPY3RGV0ZPVkJhcXM4Qm5QbVNJQ0NUUEdrNFFYQS11NWhwdVdYaENaV3g2ZFlKdDlKS0xUN2Jn?oc=5",
@@ -586,6 +704,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "2ad5c00952a66268",
+"title": "Coal India Unit SECL Taps Banks For $800 Million IPO",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFF3U0s3STFfQWZOUUVYbVhaWERKX1dPdm9mSTNpUzF6TTVwWVdyLW14WlNUN1pIdjdkTjloTmNySlhOS3lsamt0T0h5OTZFZVJ0dG03b24zOGY1M2ZwRmZZN2ZKd3BzaFpteVpNRjQzQmo0M1BmVzRFdFlFOEJFN1lQa2J0cVFkODJqeE5aVzEyd01NS0pnSmt6bzJZZ0J2ZUcwOTh4MA?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-28T02:24:32+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d08434d777a24bc6",
 "title": "TCS: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFZad3NnRzdpOFBFVEM3T2ZlVHBNTGZOVy1TWWVKZFhNWGUxekh6U09zcV94Z0tFblIzMjlpcHBHMUJKajRrUzJjeDd3TmdVYVJxZlIyQ3VZWmhqZjNSa21TQUhDNDg5MDg4VGJwTnhyU3pzT1JPUWFrOE9uRWdKMWtnaUJ2WTVucDJXRjFZYVBBNXZJS2RuOEVHV2hJUGs5STJRY25xeHdtbnRhamx0YmZDcXlXNWFqYWV1QU1zT3FrSjRpOUN4UEZiOVItZEgyRUxkQ2wzSzFqUFFKbVV2dGNpRWl2VmNWaGVSV0c2cVkzWVXSAfsBQVVfeXFMT0g1a0RMZ21lWTdNejRtRlF3Uk1PRzVGUmM2Ym9CNlVwd0ZQdnlMOU5Vc2hOMHF4V3plRUNaSmVvWDBBLXB6bER6RDhacGd2YUV6UHZxbkdNRVFxZWRkRWQ5NGhhNUVzOEU5bTlocGRNRnloamp6R0piOGVnSWJLTWRYaFVNRDFPajlGVjVRXzNST0ZacFQ5b2hMOFp6VDBFTjRoVHRZaTdjeHNUbXhuQkZjN3NJaWl4alNNOFVKbUYyTHRWRmgxWUl6R2xFZ0xxQVhQSjRYVlVFTEx6ZUluRXprSnh6OUM1R0xYWDQ2XzNuc005TU1yeE9oWEk?oc=5",
@@ -602,6 +738,22 @@
 "Rating"
 ],
 "sentiment": "negative"
+},
+{
+"id": "ccc2fb17eb58736a",
+"title": "ITC to strengthen presence in fresh dairy segment",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWml3TEdRRTdEcEhYYUhCbVZFNmwxVUFOcm5CV05WYnBzdlFKS1kzQ0otN1pSX2pBMGs1U1hIUGV2dHphUHBFemRMOC15YlREbUlfRWFLYnBRdHpnb25vRVZvMGhiOXlFSFdVd2x6N2dqTUNDZG1UNjhiMXdLMzM1ZVlZdThVUTU5WTg0aUFybWNUalN5WEQ0Y1lKS3ZhVEpzNXlTbUgzQml2VWd1ZWFZWXEwN1ZMTUNaWThvSkVWdVJNcS1HbW54UkY5V1B4ZW5wU19oZHZB0gHWAUFVX3lxTE9aaXdMR1FFN0RwSFhhSEJtVkU2bDFVQU5ybkJXTlZicHN2UUpLWTNDSi03WlJfakEwazVTWEhQZXZ0emFQcEV6ZEw4LXliVERtSV9FYUticFF0emdvbm9FVm8waGI5eUVIV1V3bHo3Z2pNQ0NkbVQ2OGIxd0szMzVlWVl1OFVRNTlZODRpQXJtY1RqU3lYRDRjWUpLdmFUSnM1eVNtSDNCaXZVZ3VlYVlZcTA3VkxNQ1pZOG9KRVZ1Uk1xLUdtbnhSRjlXUHhlbnBTX2hkdkE?oc=5",
+"source": "The Times of India",
+"published": "2026-09-28T02:10:00+00:00",
+"first_seen": "2026-09-28T03:11:56+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "85e4680f121832c0",
