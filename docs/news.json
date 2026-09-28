@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T08:53:55+00:00",
+"updated": "2026-09-28T09:06:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,94 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "0595d3a370eb7aa6",
+"title": "Coal Minister G. Kishan Reddy to Review Coal India Operations, Production, Projects and Jharia Master Plan",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEhmU3dwX0wyaG41UjV0WXA2U0lkY1VuVktJU2wteGFjVXB2Uk1KVUROdzZ6N1N3RjF5SlFpejd5MzN0ejh3RkxWVlFaZERfcnpHeUZnMDBoMlJYTjhZc2tMNFk0WnhZQWM0eGFYWWdXbUVMeVVybGFoLVdIakVkREYtQVZpTkRwV2YtUG5JdnpRVWEwNFpBOU1rVmQzaTRIay0xdDZUUGU?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-28T09:04:44+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8c86dce62885dc16",
+"title": "BSE stock falls 2.3% as SEBI mulls self-listing rules revamp, days after NSE IPO listing - Check details",
+"link": "https://www.livemint.com/market/bse-stock-falls-2-3-as-sebi-mulls-self-listing-rules-revamp-days-after-nse-ipo-listing-check-details-11790585815691.html",
+"source": "Mint",
+"published": "2026-09-28T09:01:58+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Regulatory",
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
+"id": "a0c39287937e9321",
+"title": "Infosys Reinvents IT Pyramid: 6,000 Frontier Engineers, One‑Third Specialists",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCaXRzUUhDbEZKTWVUNk5hNHoxQlJCeVlZVHVnOERlWFhiLXNnS01SdW1rcm1qMFBkV3BzMEY2U05yRGgya2RXV2tZcC1FeG5yZ3I3enczNVVFR2ktc3ZFTkJxV3JRMDZfZHNCakpvdmZCM3JSTnNNSWljZURlQQ?oc=5",
+"source": "Indianweb2.com",
+"published": "2026-09-28T08:58:00+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b7bd640ee833076c",
+"title": "Vodafone Idea, Paytm, MCX, RIL, Infosys, TCS, Zydus Life, Sona BLW, Radico Khaitan: Expert shares technical view",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYU1FR0U4TmxpWjkxTWNCbC1BREtRVzdUdXFYYzBTVDgtQU05LTRzd0J1M1F3SlpFaDFCSG4wRWtzWlBRNUlHYVFibGxKUkVFWC1OU0M4YkNEck50NTZkUUttTDJBV25GMHRESHVRODFHeUs5Ni15V0sybUJoc0ZoM19nVzJSS25qYzJNTUIwTzJ6cmZwR0VidVExblFYTVp2endwcml1TEZ3aHE4LUpwZ0FIWEJuSkJaMzRfYlhLd2FtN2RWSkN5djZ4QnJxUXJMdXBySHkweEJVYVM0V2ludVNQVVdXTzV1UGJ5M2tlNWRKVTU1b3AyTzdRSzBEUHRN0gGGAkFVX3lxTE0xZldzbE5PdDNUcEpKZHo4NE0zR2tjNTB4R3RfdjN1bXNVRUprRF9nVHczY1JHbnpFajIyTWpncUV0SmdnV29kcXZYSTMtU3IyNUh3cWI1R1RrMG9XQVd2bTlieWYyZkEzM3RYMkdwVGM1MjVDd2V5Yk9oQ0ZISmhSbktPN3lHaVNPLWVFc0s4TC1CQzh2NG1zMGFEQTd2bDNNM1VYTDg4LTJsVzhXS2FfT3lQYVRUTDhCbkhfTkpoMXQ3WHB6SGRNT3YycTV1ZnZaYXNZWjl3NHJMSVRMNmNuaXoxa1RPSjItTDVPM3RpVjNCQzRMaHNRWXZrSjkwWEhDM1hiQnc?oc=5",
+"source": "businesstoday.in",
+"published": "2026-09-28T08:54:02+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"INFY",
+"RELIANCE",
+"TCS"
+],
+"groups": [
+"IT",
+"Reliance",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8ad58f212a992ba0",
+"title": "SBI Life stock trades at INR 1,733.40 as APE growth accelerates",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1ZhTEREOGYtT1Z6ZkFTTjAzakU5OW1kNFBCalAwZDQyMU5ic2k2MjMxN0JHUWIxeC1yVnVLb3I1eEdUSUx5UlBFRi1DRURXdk1IOHprcXNTZllUeXlwcDgxN3NhU25ldkdhZ3ZieVVtQ1hzbVNldEVNN1NhVlFzV3ZBTmZpLWdzbk1JS2VrdUFFY2dNbjZHUmJocTdYWmp5VG5RY0NwTXZxTzdHR09BR3pMSTd2TUYycjRBemFMSQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-28T08:53:17+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "248be60c6601757a",
 "title": "India Energy Pivot: Morgan Stanley Bullish On Refiners Amid Demand Shift — ONGC, HPCL, Among Top Picks",
@@ -1140,6 +1228,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "31779fe09a64ac45",
+"title": "Maruti Suzuki to ramp up production, targets 40 lakh units annually from FY30",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNME9oam55NFhfR0pBek05dXlhT3RRS1g3QmJhWVZKYTRxWEpia1dDcHc1TUU5Y2FBZFJ4aWg3aVZ0WUtUeFQySVVCVUlOSmdwVzgyeUlYTV9sUXIxMXRCSEFBV2x4b2tuRjBHeXdHVjRsUGhZSXlEZHpkRlNoaVFRbU44UTBwUm1YQWs2eWRfdm40NUpTQzBCaHNNU3FRTmp2QVkwNHFYR1c5b2lIN0xvQXpjUDZhVDhDalNQQzFQcE9nclJPamlPWTRYcXpIOEtMZWx2WtIB2gFBVV95cUxOLVZqT3NCbzdGemh6ZFZqb3FKZ2lURTFlRmtLRWNUMlJVeGo0S196RUpERkI3M200ME5RNm1RT1ZXR29GTF9QblhRZFhGOTUwSkhJT1gwRnpRU3FrTlZpd2dKRHFwUW9IWW1xVDNfX0NzOVRLaVhLYkdSeUhkRW5jVUgtLWFNdmVudUxrbEw3TzFEX0RwVWpkMVlZN2gtN2I3RUZGVy1RUGFpc25HamFaQ0xraDlPR1hKUjN1a1dTNmpwQWdvU2dyT1prX3lkMEN0VDZOc1Ewc3hFZw?oc=5",
+"source": "HT Auto",
+"published": "2026-09-28T06:31:49+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9ee42c78c5b9d1b5",
@@ -2968,6 +3072,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a3cad0a616e5000a",
+"title": "HDFC Life Share Price Live Updates: HDFC Life's Recent Trading Activity",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-live-updates-28-sep-2026/liveblog/134530853.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:20:51+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "54b1c68733803261",
 "title": "Tata Motors PV eyes 15 per cent market share soon, targets 20 per cent by FY31",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGFhNnhyUnV6aDFDUnBGc2ZqT1Npa0hDeGk3dFJBdDdkN000eVhBRGNmdDRsVDNicnQ0TTJfc01nTDFjdk9IMnJnSUx0X1Jkd25ibW5qb2wxZmw0STVMS0RqUHlZN3hpV0hDeVdxaDhaQ0lMSU5QSVF4V0ZJZWZRYTVlQmwxTWlPUDhVaTRGZzYwcWpxSU1uX1hWa1g4c1RGM2Npb2xVZ3FWZ3R0em9JWA?oc=5",
@@ -3040,6 +3160,22 @@
 "source": "ET Markets",
 "published": "2026-09-28T03:06:13+00:00",
 "first_seen": "2026-09-28T05:34:26+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fc93cf9338bed793",
+"title": "Infosys Share Price Live Updates: Infosys Price Movement Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:06:13+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
 "symbols": [
 "INFY"
 ],
@@ -3399,6 +3535,23 @@
 "source": "Economic Times",
 "published": "2026-09-28T02:55:19+00:00",
 "first_seen": "2026-09-28T06:43:54+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "52acb909fb4798ca",
+"title": "SBI Life Share Price Live Updates: SBI Life's Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530450.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:55:19+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
 "symbols": [
 "SBILIFE",
 "SBIN"
@@ -5676,6 +5829,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "794664ed48bd4020",
+"title": "NTPC subsidiary THDC declares COD of 11 MWac Floating Solar Plant at Khurja STPP",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXBYZXQyRTRWVFlsRl9OTDkyS1kyYVNEZnd3ZENLQ3RJQzRsWmdIdmFDNXI5Y2IzYjVlYnBPcXJDeTVxVjdUUTJPZkhqU0otMUc3YlNHNHVLMU5nWlFQLU1aejVscVM0T0lsMjVaT2xLdVhxLUh3dFpTOUkwcjUtbWtMcVB2WlNrMkw1WFJLUFF5SG12R0U1eHJWZENqaERydDRsYU5IR0ZtTkU?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T12:12:40+00:00",
+"first_seen": "2026-09-28T09:06:25+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
