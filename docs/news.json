@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T04:33:08+00:00",
+"updated": "2026-09-28T04:49:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,187 @@
 ],
 "items": [
 {
+"id": "fb4468f0b06330bf",
+"title": "Living with my Maruti Baleno MT: How its going after driving 22,300 km",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZCMV90SGVlRzBveXBhcGJGVTBMeXkyN3NJUFFWbEhscURZOWNzbnVxcWZkRjFFdzllaVVqUm1vem9SOGhfNjFFMkI5bGpmeE5XQ1RKRC02NnFtQ3lkZG85QWstSjlaVWV1c3Jrb0hNdHgzN0gwR3NLZm15N1lUdWhFR19Pc0M0QUZ6dnE0Q3llNEJVeklCU9IBngFBVV95cUxNQXU5Ym1nRDBJRkJpTG4yckZVelliSDNTc2V6N0k2M1g4QXk5ZDg2akVCZUE4cjFnQW5JQWZDd1d5UFpMVVBJSV9uR1l2MVhZd09JbjlmY1djWVl1X2dobnBGQlJLTWw2cUd0SWN2djkzN0VMWXp6WUFxTlBPNk5FSUtRNVlpSUo2YUJMRzhJRHNqdDVJOTBXUFdnVU1OQQ?oc=5",
+"source": "Team-BHP",
+"published": "2026-09-28T04:40:05+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4c73499e389e6543",
+"title": "Government changes mobile recharge rules, here is what Jio, Airtel and Vi users need to know",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPa0lnUnBzLWNDdGtyQWF6MmNORUJjVXExZnY2eXZLcjVzT2tMS1BETHBBbmdYSUQ0QW5fd2dlQ21FeDlUN21iV2dHcjI2ZG4ySTdfSXlXWmFTVnB3UnNHdGtJUXo4M0xfTHA1R3d1bUQyV0RoajZSLWFtSkg2aFZLMGMyVnp6SGN0VElrUFh5N0hib2h2Yy0yLXNVeTZnOFpVRk5ORWt1anZjeXpXUnZISVZrdE9xd2lrMGUtSDZaZWZDY1dWYW1GeGFhejl1eWpTVkJydTVyNVNGSnFzRVJLckczek96Q3pmbjlXSkZxejRkbHPSAfMBQVVfeXFMT2tJZ1Jwcy1jQ3RrckFhejJjTkVCY1VxMWZ2Nnl2S3I1c09rTEtQRExwQW5nWElENEFuX3dnZUNtRXg5VDdtYldnR3IyNmRuMkk3X0l5V1phU1Zwd1JzR3RrSVF6ODNMX0xwNUd3dW1EMldEaGo2Ui1hbUpINmhWSzBjMlZ6ekhjdFRJa1BYeTdIYm9odmMtMi1zVXk2ZzhaVUZOTkVrdWp2Y3l6V1J2SElWa3RPcXdpazBlLUg2WmVmQ2NXVmFtRnhhYXo5dXlqU1ZCcnU1cjVTRkpxc0VSS3JHM3pPekN6Zm45V0pGcXo0ZGxz?oc=5",
+"source": "India Today",
+"published": "2026-09-28T04:39:20+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "421371bd21575961",
+"title": "IndiGo Flight Suffers Tail Strike During Second Landing Attempt at Bengaluru Airport",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmcwbG12R3c5TTUySTlQS3VIc0xmd25nNktzY1FTYWdsM3ZFVGI1QjgtbTRFdHdPWVpSQkRGS1ZZOW50cDB0R0Vzb0kzV1N6eWREdlJ4bTVMdGRFeUJpSTNhLW5qS0ZUUTlLcWkzZUJiSFAyTTBpTmtWNmdNamlFaU9iZHNVTWtMcldNcHo1NWVkQmVpajBWbDdGYjE3akJQQ200U2lBQ09Rci01bFE?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-28T04:38:49+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "081930d173a3230f",
+"title": "PSU Banks Crash; SBI, PNB, Canara, Baroda Bank Stocks Fall 2%; Bank Strike To Public Sector Banks Merger Buzz",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbzY3aU5Td3lKQmotUHZCV1pZdjBiQnJBakwxSGpwMjNIWEF6YUFYMHBvSEtEM0I4X2JCay0tZXRSMmo2NnhJN1NaZk9JODBUTUJmbnNBcnBjblBPUmhzQTJnRjhJOFRCUHg5dGxORTdfeFFmZHV4aDE0Nm84ZVV0THpwQUJpS1JwYmxGNnJIM2F5YWI5Nkd0SFJPb3dvc2FXX1FhM3lUbktDem1tYmY0VkpIVlF5c1dJTS1mWnVlMVdMM2hxMU9aMFlsS2xwRDFtSFRxZHdFeGNGdHczZ1E?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T04:38:10+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
+},
+{
+"id": "77031dabb2fd263f",
+"title": "Adani Group stocks fall today, September 28; Adani Total Gas down 1.54%, Adani Enterprises falls 1.49%, Adani Energy declines 1.30%",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTWlRRDUzNFk4Z0VCaV91M0JXSVQxdGVIeXZ6cUNqVU1vckgtOVJLRGFuRk1LM1NGWnBnb2ZlUGhOMGpwRmt2aG43ODlTTWZkUkxka2dXMkRnWVJlWkdrSjhCbThFSW0tNzd0QVhWWmJ4Tkd1UE91Q1B4UFNJN0QxQ3MwM0xvU1VkcWtoRnJ4c2lZNEdySHRoTGp4MFVVVWhFWENTZ3M0SXFyQzh2S0RwMmRobU1hYllnN0lBcFEyMDV0MHZEOFNDUDFSQVAyODFPRkpSNS1CQ0poSFRhTGdZZEQyZVNJNzlWZTZuak5LMDVYNml1TXFkX3dDTVNKVkxDLTh3?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-28T04:35:32+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "73e3b9a03cd9f785",
+"title": "Sun Pharma signs global Lerodalcibep deal excluding US and China",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnhuTlR5SjZHRDJHbGlmVjJDOEZqZHctOTNlNDA5czVKRXBQb0xocWFlcl8wd25ZREJjYVgzMWx6NW1sRTIzdnc3aFhhS0ZzZkJZS1VwTU45MllsTGhMb09JaXNLWmFIQUxPV1ZmNzNsRXhOLXpIc29pRVVZd2tFZGZXb2lwZzRrcTBXaW9BZXh6bFVNb1AwNFVoVUJQN2YzcVRqeUpya21qdGdQR0ptcDhB?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-28T04:34:53+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "84c67c569f532f73",
+"title": "Sun Pharma Announces Global Licensing Agreement For Lerodalcibep Ex-Us And China",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb0NQcV9peGNMWmV0MHNUTWQwMW5xX3BPN1YyWnFZLVhjMG9qWHk5V09Mc1lvbjVPRjItN05oU0J4RTZHV3FJSnAtakpNeDBPUXRaVldFU1hKVWxqOXhiazk4N3c5NG5jLVFqcUFneVctQUM3Z0RLbnZqakFLMEdCTlhZUmtwQ0REOUtlcGk3cmV6LThZVHRnV1VIS1BFanVkNG02QUttY0NQUmRkaDFvUHB1NTc5Y3ZBVlgtLWJRYXRudXVycnB1UUQ0dGVZOENNSldJWktGM2QwZE5HQjFUNGY3M3Y?oc=5",
+"source": "TradingView",
+"published": "2026-09-28T04:34:00+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c7ceee572fb2e1de",
+"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Details here",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaFVZZm1aZ0t0cmp1SEhtZU5yazIxQkx1dVdUZm9Dci1HeFZUR0pXdzk2ZktMWjROenVvcnRWS3ZUY0J3aHBSc0xFV3d4dlBnTWp6NWRmVFVJY0dUZkh0a0k3WVFKeUVqYVliRmxQTURWWnF6VUVFUkQ2Zkt6SXRhemtqY1FiT18yWUlRdDloTGp6dFdhcWI2aG16NE00QnlFcGgyMWI5WENtYnFzWU9ZTDRzcnY3MGtBOUR4YlpfSHpEV2FZb1ZWYms0VTV1ejhva252VmhXNGJocEwxSmJ0cHV0Rks3RWZFbUxmVTBsZDFENUVBWHdPMS10dmhUeVE1NWFPcVdVTVTSAY4CQVVfeXFMTUdxck1hdDJuT0JDa3lLNURHU1MxWDlYTjQ2NmhJd1FlWGMzNXJoelFoWkdMZjhfSW9pVGN4Vk4wTHBNZXZsNy1QdEFYSEJCYkZveTdCbG9uSHJ6cHNyYmJxZ2FfVWlxVG14X2swLTJ3VFdqRHhqVjRicEpCbUdxNFAwajJ5YTRic1lFREZxY0h4eUFVSmlvV29pbUNmZUlQa2R1RlBmY0ZYYm1ONEd4cmVyVGVKX1dBaHljb0Q1WFFYV0MyV3JZcWJlSEpSVTEwNUlDaHJqbXlXSTBmSTQ1ajY0VG1INnVmYS1XM09vaUVwNVg2cWdPU2lyNkt3bF84bUR3ZV9hWWUxRGdBSElR?oc=5",
+"source": "Livemint",
+"published": "2026-09-28T04:33:48+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "bf56518db87055ab",
+"title": "Video | SBI Life Or LIC? JPMorgan Bets On Low-Cost Insurers Amid IRDAI's Distribution Reset: Top Picks",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhEUGExRWpSU3VTXy01amVCSV9wQkVXcUxCWEhSQnRuejc5ajlranB5WWJFVlF0TUc5UnB5V2hDcWpuNDlrZ2NrSWdyTVJ6aDRscDNBdVZrUHNUbjhJR0hZVjNWVzRMN3VfdTJmaDRLeVNXVExqMUxuWVNGUEM0Wmg4SGxWUWlhWDNKYnExUHc1dHVVYXBlbW9wMXJUdUN2ZHRZa2FPUENMVEU0cWtSakxxODlvMkhlUC1lc0JSQmNoVjkya2I1MmpyalpraFU?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T04:33:04+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4f8e39e2b7ce111d",
+"title": "Sun Pharma bags rights to $3.7 billion cholesterol drug market globally",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakdTcGxBc3RxM3p2QWpwc0prNVZ4aVRMNkFLVlplVFhnOHFyUG5hY3FldFBZa0lsd1ZnRUtSa1F5dFJvQzk3bDY2UEI2NnZQS0FLcGlTNlV1UElfdVBkRHU4N04yYWYyWXY2M1Vvd1NVMXJ2YXNTdk5tTFBnRzM5Ri1ha0s5cmRmR2ZEbERqYmZ6MVBLVFVNOUkyelNkdGt4bmhUNXFueEhkWWVnbU9QTXM5eFJnVkhFbU9PTG8zc09GVDdIdm82QlE3UnBPVUZmR0xjdGJmUnBGd0NEdXfSAeMBQVVfeXFMTS1pMXl1MWtzbk50WVIxUmNYelJ1dXBVdS1ULVFjWnNLVG1Pa3dZb2QwSjg1Z2lyQkxBSy1fcVRnUmZJb3JCQWtOMVlkMFlOdERZOXN1a09laTFFaXFCS1ZGU0pMT3QwUkY5Z1RvOGJBWTV5eF8xNTVSZm1uc19rc0QxUnJpR1drT0pEb2doRUFXUGVhTGJqWmk2ZlNYTDhTb0VfR25xNmw2QUJEVW1ISk00VWs5Z2pHdGhfR3JkSzhvMDJrMjdTWEFEQUdVY0R6OTg0ZjQ0SWFjb1JzTDlvSVhRRVk?oc=5",
+"source": "Business Standard",
+"published": "2026-09-28T04:31:36+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "5af88ba8dbe2bc9f",
+"title": "NTPC Invites Bids for 400 MWh Battery Storage Project",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzZjNElfdVQ1VmRaQXR2U0ZoTGlzMWRMYmVFeEdqeV9CeXJ0bFJjcWVULUw1NFZOTG1JaVBVZ2xHX2tYakFXT1NBTjA2cERxNHNULUdsc3hyN2dsSktySExrc1hIMGVTU0d2TlJzVEpUdHJMVHFOSk0wTno5SF9Bci1mTnM4ZHpxdDllRGVpa1BwcnIzSlJBTk5WVFRRV1ZBM2RJN2doZWdhaXNhaGpSbFJsZmlzdTBtbzF5Q0xiMDBDdHZZd3hYelBMRHI?oc=5",
+"source": "SolarQuarter",
+"published": "2026-09-28T04:31:18+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ea1ca12398fc452b",
 "title": "IT sector stocks today, September 28: Nelco falls 2.31%, TCS down 1.10%; R Systems jumps 11%",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0M1N1JLOWktYTNYcmVLME9jU0doQm9BZmQ4OVl4S3E2R1FyLWxkX0FPTWhodjkxMG9ySkZFQk0tTC1aTXJvUDQ2djBzdnhfdGRNYUJvT3JSb25VV2FlZjNiRFdyZG4xLTBfdEhqT0FGcUIyNjVTUUkwQXFXQ3RrUWVDTjdXandvTlRWcUpBSzlrcXd2OTFPN203cUxhUmc1NDkyc21RNlk2U1pvQzZCUzF2Q29fOEVVWjRWcmJ4Wnh4X1JLRFJMei00aU1GRi0zb2VrdA?oc=5",
@@ -509,6 +690,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "ab1c40a14fce2bfb",
+"title": "YES Bank shares fall 4% on Citi's negative watch; Axis Bank also in focus",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUNPamx5d3d1djZuWHFGc2hmNE5aYmw5S2tfNkVhaERoeDh2VTg3RXVmclBqZzVnbEE0dk1STmFuSTk0blp2SnRkbDN3WmlKTTdqU2dFejlrTk1PSFJuV24zVi1EZnoxd2tta3ZfVkpjVnVncW43YVFBZkZPRkRXYkdUX2hGYU9zRjFlVllzcEJ2M0FQc2xZenFmTC13MFp3SGVuOTF3VFZMQVBqMWxuZk5wOXp3T29PMnR0RFl0cE5xM0hlcjVxUjc1b0lPRktOZ3MzTNIB2gFBVV95cUxPaEdXSDVLZDAxYXhaLVFSVzNOVWhBc1lsZW80Z2d3ZzBFTkd6X1FodnhRM080LW5uS3J0Z1l3UEdWUEczRG94b1FOQk9DRFg4bmlBbGMtTnBwczVTX0tycDZDVFFvOWhycHdLVFF0NlNOeHlRdkRYck1xUzkwNnlLdjhTUTlIRU1ZWXZqem9aVUJHTEdEY0xPR1hFUGZESUJ6djZCZ3JhT2NSLUhZLTBmM2poSEZ3dnpyQ0lUR1JkNlRFU3E4S2UyLVFpTUlBdGNwQy1aWHBpTmx5UQ?oc=5",
+"source": "Business Today",
+"published": "2026-09-28T04:21:13+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "09db68d39de58ac2",
@@ -831,6 +1028,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a88612b95d6e09e7",
+"title": "Nestle India - Positive Breakout: These 6 stocks cross above their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWV6YktkUGpkV3BMVm5sUXZIajVFQjV5cmdlTTZLZ0VBU0l0TVVBTjU0NjFWeHAxY3BpcWVXaFQ5enR1clFIWG1HMlNmaGIzcHBVbEVpUVVEck00X1loeEoxZW5GMTVDQkxENjRrYWNQRDlvRWlIVUpxcmdHNi1LR2lWVEVBcDhDWmFPZjBfWWplSlhjeUpSQXIxOTMwN3k3WE96TDBEbXVma1FyRUdraGd4dXVoR0VwMGY2MlZ2YmlYMTh6N0FBZ1JpOF83WU83VDk5MWx3UlNqaVVW?oc=5",
+"source": "economictimes.com",
+"published": "2026-09-28T03:22:55+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "54b1c68733803261",
 "title": "Tata Motors PV eyes 15 per cent market share soon, targets 20 per cent by FY31",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGFhNnhyUnV6aDFDUnBGc2ZqT1Npa0hDeGk3dFJBdDdkN000eVhBRGNmdDRsVDNicnQ0TTJfc01nTDFjdk9IMnJnSUx0X1Jkd25ibW5qb2wxZmw0STVMS0RqUHlZN3hpV0hDeVdxaDhaQ0lMSU5QSVF4V0ZJZWZRYTVlQmwxTWlPUDhVaTRGZzYwcWpxSU1uX1hWa1g4c1RGM2Npb2xVZ3FWZ3R0em9JWA?oc=5",
@@ -896,6 +1109,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "e3708c3df36de550",
+"title": "Tata Steel Share Price Live Updates: Tata Steel Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-28-sep-2026/liveblog/134530613.cms",
+"source": "Economic Times",
+"published": "2026-09-28T03:05:21+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1048,6 +1277,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1b29913adda437fd",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:50:37+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "12c3b400bb822e31",
 "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Faces Market Pressure",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530372.cms",
@@ -1107,6 +1352,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d8c7c3aaae362147",
+"title": "RIL Share Price Live Updates: RIL Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-28-sep-2026/liveblog/134530332.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:47:42+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1219,6 +1480,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "fdd6eb1fc2ce107f",
+"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Decline Continues",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-28-sep-2026/liveblog/134530236.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:40:43+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -1440,6 +1717,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9937b707284e1a36",
+"title": "UltraTech Cem Share Price Live Updates: UltraTech Cem. Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-live-updates-28-sep-2026/liveblog/134530068.cms",
+"source": "Economic Times",
+"published": "2026-09-28T02:30:38+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2335,6 +2628,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "779b128ded25e5bc",
+"title": "BEL Q1 FY27 revenue rises 25% to ₹5,533 crore on strong execution",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzh6eHNHYnNLRG52QmE1cjlOSTh3SkJtdExXVC1fdElhd3M2ZzljdFFvZEtRTXU3cjdGeGpESEp0Y1J4WmlnQjlyY09fWDl6OWF1eEd6c2lZaVZaMEZkZWtDSHh0cXpWTHhLbTBGTm1MZ3M2QmlKaEJBYXpKMVdjUk9IeGlYRHhqZE1YSno2b2JQalU2RUNZM1BYT0F3Uk9QeW55UW9MQWtabHBhWHBpWC1US3ZJbXlKbTN3SkpVc2hTQnRCTDJYUDA1NEY?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T15:50:31+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "276d4bd80c17cb17",
 "title": "Bajaj Auto to discuss Q1 FY27 results on July 21",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzBLbGs4N1F5SVhhMW8wX0tqZWgyYjY0Snh1Slc0UXZfWVE5bmNKNjM5UURNck9MeEFLTlVfQmxXQ2R0RU5fNm5VWWdCR2hJM0ZzWkNGN3dqN3liZXplcWdMZXNtNm5TVUpQVGZlYTJfeHgyWnJ4am9iRl96c2x5UXdOamRYaHl3X1ZVM0VYSm1zSEdYNGJicVpGWGE2Q0N2UnpnN0hZMGc?oc=5",
@@ -3116,6 +3427,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e0e798beb6bf7aa4",
+"title": "Larsen & Toubro Q4 Results: Net profit rises 14% YoY to ₹4,122 crore",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjRLUDB1LUdjUWRXZ1g1aFlBRWYyb3NoV0p6Q3dkcE8tdGstLXlUalR6bTBNY2ZpRTcxVV9kUzFfMmdhU0xBWWd3bWo2VHpHOGUwTU12SDB5bnZlXzFjYVJ5RXhzR2t2cHFYc0tQUVp4N2VldnB6dmdOMm5MN0tsUEVrS3B2aUc1eDU0NXFSOEVTSFpTSGtSbXJ6bE1lRzU5MW1Fc1Mwa2lkc2dYT0tabElrTDcyejhjamN6YQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-27T11:20:31+00:00",
+"first_seen": "2026-09-28T04:49:11+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "8fc235c6b661f9ea",
