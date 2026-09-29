@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T03:12:23+00:00",
+"updated": "2026-09-29T03:29:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,57 @@
 ],
 "items": [
 {
+"id": "c2decf34f55bdf53",
+"title": "Adani Energy Solutions settles SEBI proceedings with INR 37,05,000 payment",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFNpekJ2VEZZaHZGUmlWQVA1YnNSSEduU1J1RHhJQlVPNjJxQWhhU2pIdVhRT2QyUUo4MXNvWkE5djVFa2JuMkw2LUVvYWI5bDgzX19kU2F2TXNGbWpZdmRjT1hkQXRvMWtENmFFZWFnTkt4QjBNZF8xREV6bFpiX1BHZFdxQTZ6a3BaZjRFUUx0ZVFocExUUkZtOHVhYkc5X3lrVWtvRjd5aUxNQzE2akZ5c3cyZw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T03:27:42+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c6d3bc6a90577aed",
+"title": "BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX3N1R0pRMDZpalJTZUY0SXVURzN5bWtmbHd3OWhDWXRpQWx6Y052YlYwbHJuR29XMTNFczV5WTRmQVU5NnN2M0R6S2o0b2o3NjFBUWFxT1REcUUyTzZPLXZaQnF4TmhmZ0MzRHlYNFRlcGxtNlJOemY1NG4yNFgydmJPOVIxWHFCbXZ1R3JCQ2tSQTl2cUl3OTIyeDRQcHMzWTMtdUhib01Hc2k0a1E1X2JFZjBGMmc5cFU0b1BLbzNMdFQ1NElqOUpnZFVWTGV6S0xwcXcxMmEzWVpiOEQxcGltNUFUSE1icU5tTTdDOTZhX0JlSEhv0gH8AUFVX3lxTE9EZWlNaUhHWGRRM1BDT2ZpRXFHd0hidmc5YWNPRXBOUnNKVzhWWnJTZUk2R2JJME9NN2tIMGZqUDkwbGR4alR3X0RTWTF1cUpYNE1EQkJJMEYwLTk0S1BmUmZldW1PMGZVdnZON0RETHY1SDdJYkJVVUZTSEFKOTZTeHFXS056NE9SZzVxVnN0ckZpSVhlOHNnbXRXekVObWNMbndrNlFidTRhSmhkQ29wUEp3cjBleUxEVm1BbGlGTzJJazh5ZUMwNWcyVnpnbTY3MnBBZEZ2Y3ItblRmdEpsNlVXSHpJdmVueFVHV0VhTzZFTW9wWXBqcDhmRA?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T03:19:16+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "88d9882ace243f37",
+"title": "Pharma stocks: Sun Pharma, Dr Reddy’s, Cipla, Biocon and others in focus today; here's why",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU9HZUI1WlpvYU4tVHZrN2hFUWp0a1VNdzlVUENoS0ZkZUdYcm9aLWFtR0x4a1JteG5md1ZQTGJsM0FWVnFua3gySDB4aXBCMzZsY2xSbWRkMXJiWC0yNlNpU2pzcl9ybVVLUTVVWl96aUJNZFBLRDZWaV9uY2tXTXdxSmhUaXd0aElSSE9OOWZSeTMtaGJOQzZydEJHMGdCYmJ5QXNRMktzWXZ6VEdyQ3MxdnlRQXk3ZS1MWmlBTm5OTy1kRldOV0lGZk5pQlR2aXA5VFI5QjdRQXpkaFM4WjhkYVJUVk1BV1BPa9IB8gFBVV95cUxQSlJzcXFGR3JrQ2U2ZDVXQXZUeDRBS2ZTWGRFM3dMaDlsMmsteVpuWTI0bXMyZVpMMWtzQ0R1UTlqWUdmNlo5M2xPZ1h6enBkSFFRTlZtWlNpUm1ZM0NyZUtRT1UySkdZS28wb3ZHNHFHQWJ0aG1SUUdqeTJ0Y1gzYjZCRTdBcUo0R0p4UnZwY3UwbkdBaHRPNm9jQXlfQnotXzRYcDNad2haOXF1Q25QbS0xRHBfNThDYWN2NUd0VWt6R1l1WURMbTkwcExqU3h4RW9PWGV1cVJPUkJEQ1pKd3N5THRDZkwzaDI3RVBwdzF2QQ?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T03:04:00+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"CIPLA",
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4b02126b665bdfd9",
 "title": "Four key reasons why Goldman Sachs expects Eternal share price to rise 16%",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU5YR2hVenVIMzVZN2RqVnoyQjRmWEtKX3hlWk9fUWM1NzFGVWRkMmlOMDdrMWduQk5JN2Q1REZOQ2x2R2k0d2pBUEw0UXF5QUJYVURrQkM3aG9FYUpYM1ZpeXViZjRWcndEZEZWb0ZlTnI3bUVaY1JRcGlTXzJNN1ZCcnVoaWRQWGpfQXBqY2g5NllkampFemFZbG1Qb2V1SktVY2dIbEF3UWluQzhuVUQ1OHU2bVlNVU1vR0RtRWYtMU40MGxF0gHMAUFVX3lxTE9JcUptZ0d5RUVObmc1TDgzS2E5Q3Rmc25IUzlMVTBkdnlKSmN0NkFRUzIwaXdNTndtM3k2WUpNUmF4UmNib3pHOWt4TlFDZ01XZEFBNFJibkI1THhiZnZYdkdnc2FjS1h2cjZWTmpGSUpiQlpJWGlJbDA2aUVLRmxJTEdGaFRnQUNmaTY5dkhfTlVfRjIxdXd5Y1lldFdfUFprRERZaW9YZ0w2cDNvUXdrN1hxd0JfNlI1MWhTOXE1VnRzN3NLdVFSTTN3VA?oc=5",
@@ -496,6 +547,24 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "75e8830e44a3e616",
+"title": "Did SEBI find MPS violations by four Adani Group firms? What the regulator’s probe found",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlJHZ1JrNktxMnJ6eHhQWU03X3NHUlJ6dWhKMmhSTGpCTXI5SXpSbkZKWEF4TU9NaXVTVkN5Nk9ZQmdwcDBvVGhOM2pPeDFxOHRhS0RKeTJ3Y2t0UEM5TFptS0FoSm1XRTFtWE9PMXBmcVpnMmpPZ3RMdFB4QzZhNUtSbVJBSlRmSVAtT0JROURkcW1ER1BJSVRyMjVWWEVzZkRrZDNzMkhyaHhjV3Q40gG0AUFVX3lxTE5XZHFkZjU0RFJ5bFdTV2RLUWVKYzVuS21lYXd2ZGRjYVBZZ1FtdjdyampoR25lWFFQYzFvYWxPLTJwdEZuOEdiMmpJZDEzY1RDUUhTX3k0Tk1WUlNNUEVpQ0drRWZCS1hUTkFKS1haR0RocG9RY1JWRTl1N3B5dFA0WTdZY3UwUnZrUDcwUVVmUlFkV2F1b25mRkxJY3R4NG9zQ2lqcnVNOXhvRXdzTE5fcXVWWQ?oc=5",
+"source": "Mathrubhumi English",
+"published": "2026-09-29T02:59:07+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
 },
 {
 "id": "814ebd0dafd9fb21",
@@ -699,6 +768,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2122437bd1bd8cbf",
+"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance reports a notable decline in returns",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-29-sep-2026/liveblog/134554276.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:30:49+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "c3118645d07ddec0",
 "title": "Bajaj Finserv, Suzlon Energy and 5 Other Nifty 500 Stocks Trading Below RSI 30; Do You Hold Any?",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjR3NnZWenQxbW81VkxJU0d1T05kMGIwbEhjUmFqSlFxamZqbkdPaHdWRUFnVmtYekZqOXNaMnZTMFlIY0VxcVQyWnUtQjB6RG9nNlhIQzFDeTZabDZnN3lncThTYzI2NW5WR180b1I3a3lXYm91aFNMUDZiS0pUSWd3YWh5Nk8tRGdjVDE0WWZ0bURiVUJLaVVGSDRFWS1jMWlNSklCenhZLTlSWmpVY05xemk2VmxKbERtTUZFd2JmM3FNaWxFRmo4QmxuZS1wb3pFWjdzdw?oc=5",
@@ -715,6 +800,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "28b09af6abd0ac47",
+"title": "Hindalco Share Price Live Updates: Hindalco's recent performance reveals a decline",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-live-updates-29-sep-2026/liveblog/134554270.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:30:31+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "aefc84438377f761",
 "title": "Tata Aeris vs Maruti Dzire: Top-spec CNG trims compared",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObW11ZDhpNk1ZWl9pLVNad3ZaSVljQmNKNExWbk1UWlZveDFoSWk5Mk0zVmxuOEdEQ1NNbnhFOWUzaUFuMEc4aXZUQzV5Y0hrLXRMWU9TaUg0TXNwUjVTQ2c1eVhYYkV5SFJiaFpNaUh1VDlIVWNBakREYU00SW40cFR3WEc4T1VrQUZfTkFFOTR4UE1OMF9jeGJjSEhBWDVNaVcwQ1lYTdIBrAFBVV95cUxOaE1OanRxN1Q3eFotRmZYRXgyMk84eXRBcUhNX1ZQTHNxQkNRb0FPc3JQRlNSRVlFU1JqeFVTNjF6NXgyVFlvcTVfOVpuVUd3SjdkeTVBRWlVZkRvMUlkNDlxM0dUYjNiem04dU9tSWVFTl9vT2xTMjVKZ05hOXF4aFlJb2x6RmNMNFItbEx2ZEdBb0NnN0VjM2dueTU5QTZtZDYzUUNOVWoyX2ZM?oc=5",
@@ -726,6 +827,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef6b56ddd055cbf8",
+"title": "Stocks To Buy or Sell Today, September 29, 2026: IRFC, NCC and HCL Technologies Among Shares That May Remain in Focus on Tuesday",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMjl2aWhRMXFaWTVhTHJkQVh1dGFMTS1qMGFTaWNRQzB1aEkyakRaelZrb0RYRHdXaVhmbWpBckV4RXVpQ2NYR0JWQU93NWJkaUdxNHMxRm5OQkVabEp1UmFDOEw5MVJoWDdZNWZtbk03WkxnMkthYlNXMU44RkhydVJQdzhWbV9KSk1oUWU0Q2ZhUDFKUTF6ZUptN2s1bTgxMXV1UUZ1Rm9tY09mTFl0MHdsUUpHdTZqV0ZTME9XZzRtRndDcjdZVGlYbmMtOXVtU21fU1RHZ3c0NnpUUmlISnI2ZFpBcGllU3VIU1d4elREcDY2blV1dXRMU1RId3ZT?oc=5",
+"source": "LatestLY",
+"published": "2026-09-29T02:29:18+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1368,6 +1485,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a4bbcc9d5c071d53",
+"title": "IT Sell-off Drags Sensex and Nifty Lower; Eicher Motors Leads Losers",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDhRVHlJdnhPd1c3aHN3VUZsWlNtaHhLLTVoTDE2bWJtcF9oamJnTXhXRGtNN0l1bzQ3QjlaX1EtTF9iUGNGY3gzM1pwTTNlaUl2Nm5iMFRuYnExWmtwVkoyd3JPblFPSkN2MEc0ZHg2VUZZM1pDU1h4aWFvNGs4aFVTcXM4MlQwZmhvakRZT1c0OHd6cFh1N1owMA?oc=5",
+"source": "The Indian Awaaz",
+"published": "2026-09-28T19:33:00+00:00",
+"first_seen": "2026-09-29T03:29:17+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "3a3505967a985b99",
