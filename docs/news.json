@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T10:07:12+00:00",
+"updated": "2026-09-29T10:25:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,134 @@
 ],
 "items": [
 {
+"id": "6463e5993eb4e4a5",
+"title": "Mangalore Refinery wins Fitch 'BBB-' rating as ONGC support underpins credit profile",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0VJeTNHVGV5Z0p0SS13bW1IM0xTTFNlNUNPaTFDOVV1WHNXVjRqTlc0VlRVY0c5ZWNmcWVGdlV1RVBtTE95RmFIN3lOMllvdlplQlBRRUNpNXNFczNaOHpLX1ZnQlhMU3NqTV9vQUEtbTBWQko5NzloTFB0ZTBHQy05TC1KQU5WZWhxeHNFUHFhal9GMmVPNVM1enlwTHNT?oc=5",
+"source": "Traders Union",
+"published": "2026-09-29T10:21:41+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
+},
+{
+"id": "047088d8d1392f93",
+"title": "NTPC’s Kamal Nath Thakur Gets Key Role on ICMAI Internal Auditing and Assurance Standards Board",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdE00S2otQ1FnWUZQdnZSa1hBTDhLaWNlQm1iekVzWEdzZjdZT19kVGtiQ2pjN3RqUjFubUx3UGJ3bzdhaGZ2OF9XZENyZ2w4eE9oU3lwSE05b01weWc4QUJlSVVERjRaNWtwbWVOX3VhSlFxajBFMzhpUE5HWllHNzZVR2ZlOFpXMllxWXpLb242cjRDTC1j?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-29T10:19:05+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a641fe9fea5b02aa",
+"title": "Nifty 50 top losers today, Sep 29: Titan, Wipro, HCL Technologies, Apollo Hospitals,Tech Mahindra lead declines",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMnhsU0t3RE5ETjlqbllTSjY0YWVtekdhV2RxRUdtcXZGTVFubnNhNkFUbS1nWkItSWFpeFR0Y19ISkE4LXRyelhCR2hLSG9jUjViOEk1YTg3X1hRR2NYSVVNUlJnZFlhb1hET0JBS0lma3Z0R2hhLW5tNDZjWHZxVmo4akpRcnQ0RGFUaHJYSklPbVZxMnZ1elV3T1VRNVY1SkVsa2pSSFJ4aFo3WW9sOHpqVXV0SjVCTlpRLVRobVRuYmRxdXB6U21iSmZ2OG53QUJDWDg5bGpZalNmMkxWOFZyZkpRaFBBaG85MGVzLU8?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T10:17:18+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"APOLLOHOSP",
+"HCLTECH",
+"TECHM",
+"TITAN",
+"WIPRO"
+],
+"groups": [
+"Healthcare",
+"IT",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "5e86e2d50ca4bd85",
+"title": "Nifty 50 top gainers today, Sep 29: Adani Enterprises, Adani Ports, Dr Reddy’s, Sun Pharma and more",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMDlXbDZyX1pjUDZCcnNkUDZFelZKQzNnMVlKX0RMUHhTc3dDcl8yLXVtSW1yZ04wcDh6Rm9hcnhZcngtcDV5WEhZeVU2bW9lVEVhaTZVT2x0NVVraDdKQXlEcXhiM1hocWp1Z3pmV0tNcV9ya1BzcHgzMy1VN1phYXVDbklncGJyWGZqZXRVRTcwdWROUk1MUkh6RkJvbjIxYWRHZlJsZ1ZZbVFpUXpvNUFkbFNmVnN5UGRvcnZ3OWlDc2JxdzhOTnQ4TDN5eUpYOTBBZWdZR3hVTzVDaFRn?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T10:13:02+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"SUNPHARMA"
+],
+"groups": [
+"Adani",
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "372a1975eb99afa8",
+"title": "IT Stock: TCS vs Infosys",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPN3NpaFZTN1hQdlEybE5xZXk1cEpDejNsQkJSbW5IYWRqcEhDODdDYTEwUFBKcUk3X0JBWG1yUUNXdFI3QWNqZ0Rpd1Q4SS1zb0RMLUJFM3ljZW9BSTdvLVdBUndYbHVMMnlqX0VqaW8tdmIwUklQN0pHRlI0dUlQcWlZenZlb002NUVqeEdPUV8wUk85RDlLQlpDaTdUYTRkeW1oajJIYXNHa3dmeFhVRUFxWmdVZF9wM09CWGMydHVadk04Q3JTVmYtWlNZVzliNVNRV0ZITG1FdzFjZjF6QlpNbjBEVUE0VVRJYWpQQlBCa1JhMDdCN2tBM3RtMlFEU19kY2p3?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-29T10:12:40+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "684cc97b2d7f9888",
+"title": "Sun Pharma plans local debt sale to refinance Organon acquisition bridge loan",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHNHeUpnSWtiQzUzZV9DWWRFbjlRTFM0MS02Y0NMdjZLVVBDZ1hKTXRkeUs4Zkp0QWlrVnVKS0JsSHp3dVNleDl2ZThBaVZlSnF6aHZRMlRqM0hQOVlqU21fanh5M3B5bXJiTG43WEZ2Rmx2WnRzUG1fS0t6UFdXOW0yLTViSGxwb0Z3QWJwTEdfaXlaZzBidUVacjNLRlU?oc=5",
+"source": "Traders Union",
+"published": "2026-09-29T10:10:41+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "12f0ec88a18e3eba",
+"title": "Maruti’s Next EV Could Be a 7-Seater With 500km+ Range",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MZy1ISEVpOVV6NkdRTVJRSzE2MzlnRGxPVTdsV1BmMFlBT3BKeDB1WDRpZGo4NFlMU0JWNVlXQTZMdU9JTUNpUEtvZk96ak9sNERoamtSd2cxV3hLaFUtRFlQQ1JCVGszVEtDQTFUenQtSHBlUmhV?oc=5",
+"source": "Car Lelo",
+"published": "2026-09-29T10:06:48+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b32b5d16b994da94",
 "title": "Jio, Airtel add millions of users in August: TRAI",
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkl0YWlsX3hScXgwSnhLRVZaM1lLVGxzS0FMcFFhbHZQNmF6YS01dFF2cGVCUFJKNXlXVkxaMnNodVBrNnppcDgxcS02cFJXNEEzUk9wYWVEUnE2MzhiVUJCTERUUmhpcEEzSVpMY2d0QVB6U1BqTEJILVZ4aTNjdUpRZDh5VGpGOE5DanlHWE93ZFlISVNV?oc=5",
@@ -476,6 +604,38 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "137046637d3a4a71",
+"title": "Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSDE1cF9aQkZCTkJmMGZBLVlmSUhKTFdkLXVUTGF2Y0NEc0U3TWZjVHM3d19oLV8wazBmRzVRVDhoRFFGVmlIeks5M1owQ0FDVEQzeXBDNTNyQUFBM1ZWaG5NM08tRmdRVGpxQ0h5M0hpeUtuWDlsUDQxMXVCVnBaT1JPazJ4a1AwLThjMG0tb0E3WWt5V2VYSV8xX1RISlN2MUhNVFM1aWU1dXY4N3BjTDBnWFVJU2NFRUpZMUhaOW1YNy1qRHNBbGhzeHpqajhlUFE3ZTdxYzBhbW9aRWVPMkJZLUhzdlBqcW1IVG1kakt5OC1GS0RmY3NNdUdIZ9IBgwJBVV95cUxPc1RDbTdPSVZWaGtLeXo4SmNzNTkyaG41Y1NrWEZ1LTNUYXRmUnd0U2o1a29yZG4zNTFHYXVvVG9ERTg3VnRiaHU5U2JMZEpDUEVwQlNvbk5XcjNHa0tsZmszV2N2SVRlNE5tcUNBdmNuSzNQNFBPR0JYWkMxMnRjeC0wTi1yMF83Q3VqQXhaQnptVXkwRF9aWUtIVVFaUDVPUFNyN3pkZ2JFMmJxemdCWVIzUENXY0ZHR201Y01Qa0p2eTRFSGt1N2I4OXlzR05MR1Z0LXVZRXRtLWg4eXlWcm92aUtMMHpOUDh5LWdkZWlycUQ0dmJRVnJ5MDRFM1hFTHo4?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T10:03:54+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d480bad07b2cb02d",
+"title": "Bharti Airtel, Vodafone Idea, MTNL: How did telecom stocks perform on Sept 29 after TRAI's data release?",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb2NrdDh5X1pMbFVKR2dPU0NFcDVLNDdBSGkxckxvd28zR3VGUlNzZkZxN1FCbklDS3EzblRDTm5ZZmhXNWFVdmpfZnNxaFZnQ0M5dmNoeXNldE5Gb3NDcTdiS2lmalpfbEZJT05VWG1fVWZNYW5SUC12WGEtM2x4RjJlZFh4TXQ3OHh6YlhPcmNDYTZjeVNPS18xSktCLUs0ZE5reV9hdUJhVWF1OWI2dnQzMFdOTkM4NGdNSl84X1AwTEJ3eE5obmVBYy1QSy1PMnVyeFZsTXpJNUs2MTNCY01PY1pqZzhHZloza0lFeWo?oc=5",
+"source": "upstox.com",
+"published": "2026-09-29T10:03:25+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -586,6 +746,22 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "02c5a781f458c530",
+"title": "Tata Motors Rebranded to Tata.Cars | Car India - automotive",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUMxTnZiMkpMR25jb1Q2ODJRWkl2OVFBRHBhMk96elhmQnBVX1oxX2FRTVRmNVlFQTVtVFJwSlJXazFFNlJDVjBaQlRpYjJZckNVOVNyN3BTXzdyd3cxclZwai1FaEtDTG8xdk0yOWlsTVpCNVZTdWU1bjVZbnJKMUZYbHdWRFVCcVQ0cncyYw?oc=5",
+"source": "Magzter",
+"published": "2026-09-29T09:25:38+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4196,6 +4372,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "17971b7c465faad3",
+"title": "Tata Steel Share Price Live Updates: Tata Steel's closing price reflects a gain",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:06:44+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "a3766cb3d0204729",
 "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Price and Returns Overview",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-29-sep-2026/liveblog/134554748.cms",
@@ -5880,6 +6072,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c8b3b589d544f50f",
+"title": "Kotak Mahindra Bank Sees Sharp Open Interest Surge Amid Mixed Price Action",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1pMSE45cGdlbVdQZVBZaEpIeG1JUElSbnQ4YzEwVGR0LTdCTHktcWxNSHFfQXl1TENLdmN3TkZURkpoQjFta2w2YW15b3NZWnJsQVAyZzAtMHJqYmN5cmVYM2xOU2NWSlF6bm1LaV8tNE9sMjNCSnMzeXEteG1vSjB5NVU4dHlmb2NFenNRT28zdjRLNEN1ZzdUY3hsUGNRWHoxWkhUNW8wa3FxdjVYampCWTRuYnRXMVBBTzdJUE5uLTA0Q1ZuWkJjZFE?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-28T21:45:13+00:00",
+"first_seen": "2026-09-29T10:25:55+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6e8005683549fc47",
