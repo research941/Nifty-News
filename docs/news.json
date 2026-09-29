@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T16:49:26+00:00",
+"updated": "2026-09-29T17:00:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -567,6 +567,22 @@
 "sentiment": "negative"
 },
 {
+"id": "e764a93d9a2f9976",
+"title": "BSE to enter Nifty50 on September 30, Wipro to exit | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaS1wQTM5VGxNTDdGZ3U1ZElJOGhwWU9WRFFDdHZONVlmQXRPbzZBY3hsOXl1djlzaGZERWhXV2FkYjEwVklFdmJ1SmZIS25qV3lmVzFhSVdOR2NIaHJKVy1MelNObER1VmpzR0YyeDY4RFVQakdKZTlabUtmYkMwSkU3ckFJRjNlMlVzZzQ1NC1qV0JSVFo0My1yZ1d1WW_SAZ8BQVVfeXFMTmktcEEzOVRsTUw3Rmd1NWRJSThocFlPVkRRQ3R2TjVZZkF0T282QWN4bDl5dXY5c2hmREVoV1dhZGIxMFZJRXZidUpmSEtuald5ZlcxYUlXTkdjSGhySlctTHpTTmxEdVZqc0dGMng2OERVUGpHSmU5Wm1LZmJDMEpFN3JBSUYzZTJVc2c0NTQtaldCUlRaNDMtcmdXdVlv?oc=5",
+"source": "Inshorts",
+"published": "2026-09-29T15:51:43+00:00",
+"first_seen": "2026-09-29T17:00:28+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b9d9e9d9b9d5a1f5",
 "title": "Aaron Judge not on Yankees’ wild-card roster; Giancarlo Stanton, Trent Grisham return",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3Y1M0dPazI2XzVXX1p5VENiclJ2X1JXWEQ1eHljdXI1bnVqOW5YV0RaSkJVLWt6LWVaZDBMZko0Z1BxWWF5dWNReG4xdmNaTmlVMW9OSGppUWw4amw0aDdXWFJOdmU0Ml9IXy1WX3NxemVQYUZraUVDLUJOdkVVU0tYRHl6dTUtTy1raE1pbmNnYWYtR01VZnhWZmU1UQ?oc=5",
@@ -799,6 +815,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "23ba483d51cf6689",
+"title": "Setback to Axis Bank: Karnataka HC Rules Charges Received Towards Use of EDCT Machines Taxable Under KVAT Act [Read Order]",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZNSHNiRmhHeVlpb1RRUHpiSllxbmh1aDF1TEZPcVhEc1R3NFp3c0NEeGpnbWQ4RWFwX0ZCUy1xSXJYR1loUDB1aTZ2STFNOEd2R1RoNDVMWVk5Q2t1bDltV3hrb3ZqckxkMC1qT2RNenZTSkk4Z0p6aFlKNWNpcjVhMW5GU1EzeGFqeUZwUXVEc0lFVDM5N0tTbl8zOWdMU0dmbWtQZzNZazNzejRTSmc2R1NiWTFwWG0wa2NhUTctU0MtbHRDU0RSSmxkWnRMaWdvaklGcUh1bzFMWUVycFVOWWI2WHl6cXUzSkR2OA?oc=5",
+"source": "Taxscan",
+"published": "2026-09-29T14:18:38+00:00",
+"first_seen": "2026-09-29T17:00:28+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -2319,6 +2353,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d602f9288bf487a",
+"title": "Bharti Airtel Prediction for Tomorrow: 30 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGUwNF9fNGNYQzc0X0VWM2UyM3FUdGktWEtxNlozUWRQNjRVN0hBNG9WVmdhdWlsX2oxY1NFZ2NzdElrWUpTZkRqQjRNaW05a3J0ZVJMaU96SzVueUFWMTVJa1RGWXhXZEV3YWNXLWhyUzh0YjVZaEdDd1NBM0ZBZlFR?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:47:00+00:00",
+"first_seen": "2026-09-29T17:00:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
