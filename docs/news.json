@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T04:46:53+00:00",
+"updated": "2026-09-29T04:58:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,108 @@
 ],
 "items": [
 {
+"id": "db951af836ff4567",
+"title": "Tata Chemicals, Tata Motors PV, other Tata stocks slide up to 4% as Tata Sons rejig clouds listing prospects",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-tata-motors-pv-other-tata-stocks-slide-up-to-4-as-tata-sons-rejig-clouds-listing-prospects/articleshow/134556571.cms",
+"source": "Economic Times",
+"published": "2026-09-29T04:53:35+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
+"id": "95a037b303a48dce",
+"title": "Tata Chemicals, Tata Motors PV, other Tata stocks slide up to 4% as Tata Sons rejig clouds listing prospec",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ0dubTRaeU9wZkFaRElDRFprUzJWU2tnb3FmRW5tVmU2TmRzU1pyVFIzelNyMUY1SnlHdVdLZlBMRjJMQXB4NUs0eGplZm1Na0hyZnhaak9wYVA1VlRkU1FGbUZzM1RNcUJ2ZjExVDJERjF6eEVqZDdqN1UtRzl1WHc0QjQ3NjN1Q2pSQkRQejdUWGNDRlVRMURSTHlFZlZDZU5PMDJMa0NGcGdUZWYtekhCVnF1cnpFdmZGdnppUXAyZ3R2ajZBei1ZTG0tWHVCa2RvNHBrTnhzS0Y4eVJRbWlkdVBPbGd4UGZGelBKVWsteFZXSEdPTHVBaEtyWTVlQlFnTl9RZzNTNVVRUmNRbdIBkAJBVV95cUxQQ0dubTRaeU9wZkFaRElDRFprUzJWU2tnb3FmRW5tVmU2TmRzU1pyVFIzelNyMUY1SnlHdVdLZlBMRjJMQXB4NUs0eGplZm1Na0hyZnhaak9wYVA1VlRkU1FGbUZzM1RNcUJ2ZjExVDJERjF6eEVqZDdqN1UtRzl1WHc0QjQ3NjN1Q2pSQkRQejdUWGNDRlVRMURSTHlFZlZDZU5PMDJMa0NGcGdUZWYtekhCVnF1cnpFdmZGdnppUXAyZ3R2ajZBei1ZTG0tWHVCa2RvNHBrTnhzS0Y4eVJRbWlkdVBPbGd4UGZGelBKVWsteFZXSEdPTHVBaEtyWTVlQlFnTl9RZzNTNVVRUmNRbQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T04:53:00+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
+"id": "91ba9a99d4cca461",
+"title": "IndiGoReach, InterGlobe host heritage walk in Mysuru",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3Nkdzc2NW5KQXJzUFFHMHZGRGtkaHdsM1NWMkJZdDdMLXhiY1hjdk1zeW9ydzFNR29QNlpsWGdsX3FKVTRkSnRwSGxoODVOSk5GYXFzU0htakVpdFNVcmNZZ2RCQlhpSGd0dnRrcnJPUUZQalFkejBuZTdBVS00M2NKcXU?oc=5",
+"source": "travtalkindia.com",
+"published": "2026-09-29T04:51:59+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cd7670fe6c979529",
+"title": "Adani Group stocks decline today, September 29: Adani Enterprises falls 1.07%, Adani Total Gas down 0.95%, Adani Energy declines 0.51%",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObGplN3JmRnctNlRjUHU5S1hrbVFlVUV4TDNlQjVtTXZLQ2p0aHU4M1M1WW02SlZycnRYN3pzOUVMQ0dmdkc3dWxGNWNRUmFHNTFZaHpDZEJkR1psMDZFODQ3NVhjcW5VYTV3NWFhakZhb0t4NkFDZEFzRXE5QU9vTVNWS2t6RGJlQjJkZ2dQaDc4eldmYU1yd3A1YWlKSWt5d0I4MHJobnl5S08wMDN6NUsyc2Q2dVQwNzJUTE9feUJBOE9NandwUGJ2WjFsdzdfdUJ0NzREbXVBODNkWFltNVctczloY3psVE4wNlJLUkNnN2tycWc5c0RvU0dFTzE1cGkwSFFuOA?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T04:51:33+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "8cb2dd319ec74a71",
+"title": "NTPC Recruitment 2026 - Apply Online for 13 Deputy Manager, Assistant Manager, Assistant Officer Posts",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTlmNm51VldtMnd0UUFOSTJYRlVYVEgxNlhYd3Z1RzNzSWwtMmxGRUpUUFBncmptM1c0X1N1UEM4ODJjdFc3Y0lyVmVkX2hxTUdHQXJvbTZYeVdWLTFTZW15VFdXaGQ3WEdIcUJISDhGVlhlXy1KZjJLQUNrV2l1V3RMMXJoOUZ2OEZyZ2xwaThTaGsxY1VQYllhNmtTaUdKcldZYVU1bkNhTkRmclV0dUt5V0tydlRKNnNRVXBHX0x3dkdDV2pCT3c1X0lrTkVOZkRFSzcza1JEV0d5?oc=5",
+"source": "FreeJobAlert.Com",
+"published": "2026-09-29T04:46:22+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8583f9f8f4342bec",
+"title": "ITC Acquires Remaining Yoga Bar Stake for ₹645 Crore",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzQtdXNYQm01ZzY1T2k2dldZX0t2b3g3bXVENFFjVXhKTEdSTm8tYmJwcy1VX2VjTTFteW5WY3A1amxqSlpmczlJQUExR0pWUjJiYmRuSjlmam1wbG8yX2xWMmhLM0QtY2pIYUQ4SnkyNmJJZlUtTVdWS0lqcnNKODJzWldLMHZxMXVZZE9BRXFuR1J1N081cA?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-29T04:43:17+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "63b9d2cffe7e2f54",
 "title": "Coal India announces senior management change as Dr. Anjani Kumar steps down",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOV9mOTVZaGV5WU1wWHRyT2xob1hLSFVFclVCa2VrZzNET21IeVZvUHZHOUEyUzJhSDljeGwyRlB0ajFWYnhySUUzMDduQzRsajhPQkFrMDZySk1jTnlKZC1MVHRraVVHU1c3VE5Qd2ZXMFhPdERjYk5kMVV0X2pMWTRqZUE2SlQtVDR0UXcyY2wyeXZoSHJHNHVyYmZtcW5DNWRmQzQwTU5uQkQtaHliRF9R?oc=5",
@@ -461,6 +563,24 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "8da5aa781193090f",
+"title": "BSE shares rise 1.6%, stock to replace Wipro in Nifty 50 reshuffle",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFYxc2FLNFJkeU5VQ0dWdFVETE9Sb1JzT2tuVnNEWTdRaU9JNWQzX0x0VjNmZlNuem9FdGRUelVPeUhNMUpTUWlmbF9nUGJJU1NndEl4eGxYaU5IWjdzSVlpOE9TQlhmakNHbTZlRmMxbGkya1JTYmJpM3FWNnhLM0FSeDhYRndHcDJzaW50dEE4WkVyb1MtcTZvN2pyeV9sTlZ5NVBLc3M4Wl9hQ3JmUF9CSWp2N2NEVk1rWld2Zm5BbXNXdFBZ0gHOAUFVX3lxTE5YV0ZiOEdkcDVUc2tDU1Myb0RnY1VRYkFHUERHLWdyM205dmdzWUoyekhSd2FIaVltYUZVa3ZUNG1qdktXNEpPTkVxdTduMmhGNGFlckQ3UkNrS0lqYkU0dVFqRmtSVS1nUkdNVXlnN1RIdmlaNUhMVGlFWHdrMERaVFo2bnlla2w0eklGTEFzSUdCeVNmYW0wZThzQ2N0WF9wNnhIZy0tZmxwREprRUFLMFk4eDN0eWhPV0x2YmZ5WXhzVU55aExVaFJtMnNR?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-29T04:38:23+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"BSE",
+"WIPRO"
+],
+"groups": [
+"Finance",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "c4e5c17b9dc82083",
@@ -499,6 +619,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "90abd7c49a6ad8db",
+"title": "Bharti Airtel, Vi shares rise up to 2% after Aug mobile subscriber data. Which is Nomura’s top pick?",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-vi-shares-rise-up-to-2-after-telcos-add-26-lakh-mobile-subscribers-in-aug-which-is-nomuras-top-pick/articleshow/134556047.cms",
+"source": "Economic Times",
+"published": "2026-09-29T04:36:33+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "c93bb4f4d0ff99dd",
+"title": "Bharti Airtel, Vi shares rise up to 2% after telcos add 26 lakh mobile subscribers in Aug. Which is Nomura’s top pick?",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-vi-shares-rise-up-to-2-after-telcos-add-26-lakh-mobile-subscribers-in-aug-which-is-nomuras-top-pick/articleshow/134556047.cms",
+"source": "ET Markets",
+"published": "2026-09-29T04:36:33+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "b1ac4c7039a6e5a8",
 "title": "Bharti Airtel, Vi shares rise up to 2% after telcos add 26 lakh mobile subscribers in Aug. Which is Nomura",
 "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQVZ0M2tETHRaNmZsWFY5XzhicmFlWlpqT0toOHFUOUdONGNYTnVqVWlxdm12Y0ZkX0ozVFc1XzlDR2wwTWxYQ0JrSlJpMDJIcFZLTkRHYXFnWFdsTEs0VW1zMFZ3OERqQWI0LVlhLXB5UDhncHZ2WlN0VC1JamdJS3p1OFlJV2Q4N3VranlWc21qcnh5NXRTcnE3MHdpTVc0UlFYaHE1WVBpVkdaU1VDLUliYTd4dWt0TElkVlNzLTFwaTZrT093NEtLR1ZBcDFYRnZhQ0NLNmxNZXhQMWl2cG9rTzNSdFJMLVU3UnNnNVdCTmpkZ09qaTI4NVpkSWkxRjE4NjZGdzNaQ3lwa1U5aGV2cVFfNGgxNWJ30gGbAkFVX3lxTE1BVnQza0RMdFo2ZmxYVjlfOGJyYWVaWmpPS2g4cVQ5R040Y1hOdWpVaXF2bXZjRmRfSjNUVzVfOUNHbDBNbFhDQmtKUmkwMkhwVktOREdhcWdYV2xMSzRVbXMwVnc4RGpBYjQtWWEtcHlQOGdwdnZaU3RULUlqZ0lLenU4WUlXZDg3dWtqeVZzbWpyeHk1dFNycTcwd2lNVzRSUVhocTVZUGlWR1pTVUMtSWJhN3h1a3RMSWRWU3MtMXBpNmtPT3c0S0tHVkFwMVhGdmFDQ0s2bE1leFAxaXZwb2tPM1J0UkwtVTdSc2c1V0JOamRnT2ppMjg1WmRJaTFGMTg2NkZ3M1pDeXBrVTloZXZxUV80aDE1Ync?oc=5",
@@ -513,6 +665,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "63979b40d89774d2",
+"title": "Infosys plans to shift up to one-third of 320,000 employees into specialist roles, build a team of 6,000",
+"link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNMWlVSHlHaHJGVGJNWVVCNFE2ZW5LUXhOSDhSRUFycm83cFp5cjRiWTNGYWt5Y3ZBV3pkaTFMeVdwbFhrNko2dk5OMDBsVzk3X01TMkZlY000WEZ5QkZ4LWVMTFZLWFJQX2lLancwZTVTMDNvaU50RmF0XzZnTXhvdHR4YlVBUTFiZ21zby1vM1B6enZDOEJPSUhuaFB2aVIwb01DRnQtMEVFbi1hZXRKd0lZUUFzRzNuem9CZEU4SVJCd1JUcjl4YWpFTWdCRDN5U3c3STFUVEJKS203a3BHa2pHekFFNmkxRnFiV0loT3NKUXBYM2hSMi1RUWF1RWx1MGZKQXI2Z3RVM2d4bUFWM2dmV1lFSWt3eGdnY2dYNC1UbDNEVV9wVVpnNXlISEdWZEh5V0hXREtITVlXTXZ3ZVpVNHRKM3p2MWlIY1VR0gHTAkFVX3lxTFBHWGhsYm5iMEMtcV9QYkVlemhVbDBQRmJ4WjFMOTJKSi1qb1JNbmp3QUhJRXBpcWNZNTkzNEMzT21Za2RCZlc3MllFNldqRWlZTDk2Um1yR2RCZmxZMnItSUs2b0RUX2NIVTQ2UzNCOEttMjl4SWRKbjVyRGlfdnVKTFpQSFhhSnkycXJ3WmdXNzNsWjN1aGJSbW9ZSm5tdmo0Q0l6NmM5NmRQeE9BdGgyTndWdGJHcUhuTnl3RjBFZmxEZ0lwSXIwNmRqNDU1YkxYM2lJT1dlRE5VMDZWNzZlTnRjT2pfdm9YekpnODFQVjdFS3NmeE5qN2NPTVh4X09JbjlSVHNBZFlWM3Z5eTJwNlNLVmFTUTlRMWhoWGQxTUI0bThpUGpfbnc1ZHJRVklfY2haV1FCeFQ3dWFSN0pOVFFqZDRwa3Nqam5IN0ZiNHFtQQ?oc=5",
+"source": "The Times of India",
+"published": "2026-09-29T04:36:00+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "039849cf79ee6024",
@@ -649,6 +817,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "5885fb419b96a8f1",
+"title": "ICICI Bank Stock Update: Shares Slip Amid GST Notice & Market Headwinds",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3Z6cmcwOVBZZ29Ud1ZxNi1MWVVjdjJPeUE3QThQRE9oUXlmaU9kLWVnVU5DTk1XTEw0dndIVHhiaUhTNzFmSkNOdXlFNlNtN1lGemRxSkRQS1g2NXRHenNyU3RyNjRGVXN3Mi1jZGZmNXRKSWZhZlptWWRrYnhOSllSdUstQVhOUUhHWkxtaHZfR3JxZHhjTHBTQXh1NlNDUzlUdGNUbEI3N1NMVFhzY004bzFZUdIBuwFBVV95cUxPMUUxdTZteVdlNktZRHB1b0ZNZnBiSlpLdmhFMTh1RkQ3bmNXZTJqRTM4QllqOVNKUGd0bHJYSTMtaUhqWWlfOWtfZVFnSjNhaGJaYjZPNk9HUExmc1VHOC1oMFFoYURNN1R0cTNGdldycE10QkRKTUdkY2FQSWpIeXV0QXlVLWNwaUQxLU1wdzBQUUw5LWx5Zm5Lc20yR2tMcjNlNlM0M3Fva1lKdXhIaDZDRV92SVZaTkY4?oc=5",
+"source": "latestly.com",
+"published": "2026-09-29T04:01:10+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7d370dc6421b3c37",
 "title": "HDFC Bank Stock Update: Share Price Slips 1.37% Intraday",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnlYem8zMUN3ZTRmYzJITjlnM2t2bGgtdGo0bmhDNnd6S3dCMFB4eGstblRwTE5ScHRKalpHNWYzajZvTEw1cU9RLWFGN0tlaDdWQkZzd2RQSlBUcGJEbkhKclJTTFNVUVl3bkhxU1ZGblp3aksyc3RDcHRNU0Z2T3drcXRWd3BGUi1zNWZIZVhvU3FNOXVuNHFwV2lqNjVmMFk40gGoAUFVX3lxTE52S2hzbUpGYm5XbUd0eV9aY0Y1YTU4emZOeHFlWWlwUUJhUWltSlVsNlQ0WWM5cUZhT2dMNGFpWFAwb0ZIc0tlUnNrbTNubGtMWFZnTTh1aG52Ny01YlBva3AxM3k2ZFNxUnMxOHRZeExRYzNiTFFNQkEyakRYWFMxdUN3NmprLTNjaTRHUFpCQzdoZS00S0xaVktHajRFUjY1b3lIT1RxQQ?oc=5",
@@ -751,6 +937,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2311ec38220c585f",
+"title": "Asian Paints Share Price Live Updates: Asian Paints Current Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134555395.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:41:41+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9390b3d5644e4f84",
 "title": "Technical analysts recommend selling Hindalco, Adani Enterprises, Coal India & buying Hero MotoCorp",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2toUUMtRnZWYWNGbzhNbDdvWkZnYzEyRFh0SlY5aG1tZk1FWFNKanRGWGZKZktqMjdyMFZjZXdldksyY25pMURaNUpFQ3pkUVYyQlNEZEJhb0ROUWlkcVBYRDJoVnk5Yk1iRV8wV2FaR29aYTJ3R0RfRzhvQ214U2FiOFFmeXEwMEp1NDg4UmJQS2VyVVB4UXROSVBELXpiNE5Kc1AzSW5tSEVSLXJLZ1IwQkxzd21Vd18tTEYxLUlBakN1bXBmR2dkNl83UnfSAdQBQVVfeXFMTlZhdzdWNXU0YzFmUU9JRkZnVTFCMWV6dGF3dkZ2dGZ4dWtHaE0tZE5ENnpGODYtS2VvOXo2ak9JSkdKQXN2R0gzM0l5bUJnUU8yYm9JdGc3bFc2eUIxa1ZXWkxEZjdZR0hKZDZPNkVVci1iX0ZCVXBFQzEyTXNwYkJ0M0o2Y2hBelFNUDhwTlVLM2xybl9QaXdKRTFwV21LbXlOT1JOMGExbFNnT2lBRmpNNzhZNHZsd3FLNTR1S1RnaHpOT01MWENMaWN5d0ZVeEhHZlU?oc=5",
@@ -782,6 +984,23 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a757e6f8311ce006",
+"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:35:28+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1195,6 +1414,22 @@
 "sentiment": "positive"
 },
 {
+"id": "7e2db4951ae5da38",
+"title": "Tata Consumer Share Price Live Updates: Tata Consumer Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-29-sep-2026/liveblog/134554611.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:55:32+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "49e1a1a6e484e672",
 "title": "Grasim Inds Share Price Live Updates: Grasim Industries Experiences Decline Below 100-Day EMA",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-29-sep-2026/liveblog/134554600.cms",
@@ -1424,6 +1659,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ce1f42b292f4d0b6",
+"title": "HDFC Life Share Price Live Updates: HDFC Life Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-29-sep-2026/liveblog/134554416.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:41:14+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0aff854872170d16",
 "title": "ICICI Bank Share Price Live Updates: ICICI Bank experiences a decline in returns",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554403.cms",
@@ -1451,6 +1702,38 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8bedb62c0c0addc2",
+"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-updates-29-sep-2026/liveblog/134554396.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:40:22+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cf9d30e619ffbab2",
+"title": "M&M Share Price Live Updates: M&M Trading Below Key Support Level",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554387.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:40:05+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1623,6 +1906,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e0cbf4029f68449f",
+"title": "Cipla Share Price Live Updates: Cipla Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-29-sep-2026/liveblog/134554281.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:31:17+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4430a6a52685a354",
 "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Sets New 52-Week Low",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-29-sep-2026/liveblog/134554278.cms",
@@ -1653,6 +1952,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "84b89b97ea39db86",
+"title": "TCS Share Price Live Updates: TCS Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554272.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:30:41+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "c3118645d07ddec0",
@@ -5256,6 +5571,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "45254295edff90a3",
+"title": "Hatsun Agro Product Ltd partners with Government of Odisha and State Bank of India to Launch 'Go-Dhan' to empower Dairy Farmers",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ba09jSFhveWF5dDNxQmtsNzRJVDBhZVd0SkJxWDJfQ1FrQjZpR3NtWEtKT0ZoMS1aRWxjNV9SaW9SWVhPaHlXM2VYZUE3M3N0MHFmakhUNE54RGZhVnhZ?oc=5",
+"source": "EquityBulls",
+"published": "2026-09-28T11:43:29+00:00",
+"first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
