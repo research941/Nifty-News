@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T17:00:28+00:00",
+"updated": "2026-09-29T17:19:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,54 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e66c16ca4988165d",
+"title": "Max Healthcare Institute 's tribunal hearing rescheduled to October 29, 2026",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFlM3RXQVZTbDEyanp0LTNTUkVrYXR6WFdCdk9VOXZ5TmNETnJqYWk4T1MzbnFKXzljbURGNzdEM2lORkJ0b3pFQ19VQ0wwQ0FPNHdYY1U5SHVBVndHZVdvdHBsbjdwemxaWVZKekM3YUdSUFdjQ1duMWtTZ0l3YURQZ2MxeUV5eGRtWmlDMXdOZFN3MS1TZllKTXdlankwOC1YZ2ppd3pKTWNkRmJ5aQ?oc=5",
+"source": "businessupturn.com",
+"published": "2026-09-29T17:12:20+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2cecab5ac4c816d9",
+"title": "Tata Steel talks ongoing amid reports Port Talbot electric furnace faces grid delays",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1abGhCWWkyZnQ1OTFqUnlxZjg1M0J6WHVXRVRWWGZGUFg1Rnd6bkhCbUQxZ2VxbEhMX2NMc3VkWXY5NFZYeWpObWtoMVBiVzVlWE51cC1SWmxGeGc?oc=5",
+"source": "BBC",
+"published": "2026-09-29T17:01:57+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "05a0ecfec4432c4f",
+"title": "Suzuki ADAS Plan: Affordable Maruti Cars Could Get Standard Safety Features",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nUHdGNWdoQXhILXl3TEEzcHRBTk5aUlFpNUtRNkVOekdNai1qdFgxQ0ZGUTJqMzlpTGRHTGlIUFlZdDVXc2pSZ3d6SkxkZndwTGZ5NFBleE90cGlnOFFHM29zcDBxeTlrMWpiY1lZbGV1SkhMbFB2UXJtYll4Zw?oc=5",
+"source": "Auto India Daily",
+"published": "2026-09-29T17:00:06+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "323718b156a50a1d",
 "title": "HDB 2-WEEK DEADLINE ALERT: HDFC Bank Limited Investors with Substantial Losses Have Opportunity to Lead Shareholder Class Action Lawsuit Before October 13, 2026 Lead Plaintiff Deadline",
@@ -1241,6 +1289,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7b6b07177698a9d0",
+"title": "WTAJ’s Hometown Heroes: Barby Trent – WTAJ | Your News Leader",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02SWwxZEhCdlpuZHVZSnVzSlNjZWdkNm9BbEZKb3RHSUNsYzZKbU54QlE1UmlmSExVMVlqeGw4Rkw5OC1NUnJXOU9ZanVNOHVReXA3Z2RpOWEwWWU0VVA1ZkxjUGFWMnNmREl2T0RabVVPWlo5TnJpc3hR?oc=5",
+"source": "WTAJ",
+"published": "2026-09-29T13:13:35+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2342,6 +2406,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9f08c72dd09923f7",
+"title": "Tata Consultancy Services Prediction for Tomorrow: 30 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXF4M1FyaTI2eU5odExocWJJcFFKMFJJdmdSWlMtanZTRGxyNkRoeDBWZ2xkR3FuX1Y0VEhreUJtUWxJamlFY3FtMkcydERTeTVDazBpTUJpQWRya2tvUWJTdXhVcDJtSHZTLUtTX2RINUZBMU9MU1haakdCWDRnSE0tZGZKQk5zZnJaRFhxY1J3Zw?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:48:00+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5e1737fed4e1f863",
 "title": "ICICI Bank Prediction for Tomorrow: 30 Sept 2026",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qMXVjNWd1YmptRUJWVXZJUWlBRnlsWTJjQjdBdVh5M3RBS2ZHbUZxRHRWaGdWWG1RZEI1ZFhwQS1kZG5XT1NIbUR1LVZVVi1ZVy1BUGozcy1jM0lYWWhuRUlhbTlkR3IxWGpfM192dmZjYWhDeTl0aXFGQmUwUQ?oc=5",
@@ -3283,6 +3363,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9a78269352daab80",
+"title": "Apollo Hospitals Visakhapatnam Launches Advanced Command Centre for Connected Emergency and Cardiac Care",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdG4zLXp3ZHg4cTJrX1BGVWRjUnRsYk1PcmNhaHlUbkFPSmo0Y1JNWExabVZEdzFSbks5bzJEbTVUamQtWlFVdlY2SFFfREJSTVlRQ2VvMWJZTUM3b1VfeVJ4UlJiLWxXMEJmRXA2OXg5X25keUNueHlmOWo4R1h3ZXQwbFVmWENNajdldWlzVEZVYVJMYVNKSkNodXlhMVExYTF3b0FuOGZXWk9BY2dBU0o5bzNuMEpvY0p0dFl5WkxDZkh6MHJTZGRsWERPVk5OVzhHdHFrbGlQVUo3czRnQ202bWQyQ2VBUUJZ?oc=5",
+"source": "Apollo Hospitals",
+"published": "2026-09-29T09:07:44+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6603,6 +6699,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4296f6f19e804246",
+"title": "Shriram Finance (SHRIRAMFIN) Eases to ₹974 as Stock Stays Range-Bound Between ₹925 and ₹1,023 - Call Resistance",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0xTQi1ZRkk3ZHhMZ284TEd5OGp1djBYemlxWVJqSWxjYWk1blBwVFl4QllaVjY1OHg4djNaSE5qQ1owdjhINno5Vmt1Rk9qalVzN2hZXzc0WUhrdUZFVTFGamx5VnZLX3hCRW1udG0xMTkxVEVMbUVwZWVmOGoybGQxQzRETG9La2dhbXBSeFg4YnBfcFA1eTNxYXczM2N1NHdzZHVrYl9fTGZBdVNwUUh0bHAwWXpJdzJRc1Z2QUVCUUc5a3FxMQ?oc=5",
+"source": "siam.in",
+"published": "2026-09-29T03:42:24+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2311ec38220c585f",
 "title": "Asian Paints Share Price Live Updates: Asian Paints Current Price Update",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134555395.cms",
@@ -9785,6 +9897,24 @@
 "source": "newindianexpress.com",
 "published": "2026-09-28T17:22:00+00:00",
 "first_seen": "2026-09-28T18:50:10+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fad285fe18d65746",
+"title": "Adani, 4 Group Firms Settle Sebi Case Over Shareholding Norms for Rs 1.48 Cr",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWnhIc2JpRWpveFJ6RFRBSThjeFQ2cnMzeEZ0VlZGa0NkUFB5aXRPSGFobV9oaHIzeDZOQlhua0NjanZWNUNZek44SlBFZHVDclRzeGlmMFRaWkZxMDB2Z19xMzhvZmxUZHd3cjZkVjdtaFBiemxuSGtCbHBrZFJFZHh1ZW8zTTJraEUtWHI2VFpsQV9EazE4aWxScV9wdWRrRHpSQUZUZXdTejFRRVRVYzF4S3l3VVhOWU1fX00tSUp0Rm9PWDlYcFNsN2Y4blhIdHU5b3ZDQ2U5OTTSAeABQVVfeXFMTUFMZXhMMHJqZXQzdzJZWllyVmVCd3dDOFc1RDd4WWxxaUtLYU5PSEdyczRGZG00bW9RRkJCSVNMbktYb2lBZjZlVnlnalhydHpfTUpNMWRQN0tCR19YOWhLOGpLUmFFTE1CbUdpck94YVp2ckFLWFFGeTY4YWRzd2loSUw4X05DTW5CVGFubHNrSWVFMnhyTUVkWU9lUjBPSWltdWF6eTZBbFBLaElSdGpIMjg1VEF6ZnZDWG1wVVQwcDEyLWM5ejVpVzVLUE9OTDFvcDJfWDl3YkJyaDJOMkE?oc=5",
+"source": "deccanchronicle.com",
+"published": "2026-09-28T17:21:18+00:00",
+"first_seen": "2026-09-29T17:19:20+00:00",
 "symbols": [
 "ADANIENT"
 ],
