@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T21:18:45+00:00",
+"updated": "2026-09-29T21:33:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -861,6 +861,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e814dfeba3adb85f",
+"title": "Bajaj Finance Empowers Tribal Communities and Migrant Workers in Kodagu with Financial Literacy and Cyber Fraud Awareness – This Week India",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNmNtU0htYUQ0VDdwUkJyQjQ4ZDl1UUFDTzQ4UkJ6cEtJdmhCZnliVjlWbmdpQk9XUjNDUnF1MTFabWJLZkdOUEk3VERaWXhicllZV3pxZnNlOXNVNFhLbzNOWnVjMVVtSlpOVkpMODVvTFJkek5rbHI2cUlNSnk5NUNrM3pYdHhLRDkxdEQ1N1NIc01nS0g1MDBSQ0hVNE5mV2FhSEJlTjJkVU5KVmIwdkV2eEluSlNUZ1MyVS1Nck5mVU9iY2lIS2s1TXI2bnp2Q0VONzg4YjNGN0twVkNSUWZ0UQ?oc=5",
+"source": "This Week India",
+"published": "2026-09-29T17:48:45+00:00",
+"first_seen": "2026-09-29T21:33:05+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "7176251eb37e94b4",
@@ -3372,6 +3388,22 @@
 "sentiment": "positive"
 },
 {
+"id": "847e2cb1ed681579",
+"title": "Bharti Airtel climbs Tuesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkdkUkU2YUFzNTBNZTExd1liaVlOcnFBMmltSFBDUUY1M25XaUxXOTZoaXhudDJvNE9CWHBFZVNYbVJXb1FubTEtTzI3UVJzMGozUVducExPdDBNcjRmUHEya3R0UlZkT0dXZjZWeGZnWm4tel8zcDFreUhUN2ZOSk04eGctb0w5LUhib0UwNUFCTVB2eXBPbzRvbDg5Ql9UODVFcFBn?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:33:00+00:00",
+"first_seen": "2026-09-29T21:33:05+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "ac842cae54120ed3",
 "title": "NSE Closing Auction Session: BSE, Wipro Lead ₹24,504 Cr Rebalancing",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbVlseFR2SzlwdEVvS1Vvd0JpNXYtN2VZV0NyUkNnbWVQTzZJRHZMVFVkNlZ5djZVTXFHSlZKeVpqMU95OXVxN29Bak5ydGNQZE9zYjItRm1nenlDMTJYMU45UlJERTRHdDJ0UTJaUzlGTzlMQ0l2NFJoYjltX2lzdmh3NUNMX2VHcDY1MHZMdjBQb2xkcXZYWGE4QndCOTFTeDZDYTEtNHlDdWlwTTM5U2FOeXR5UnNfaVdFX3lVWXF3RFNGZ0hORG1SUjJaeGYtZkE1OUxZSW1ldm9IWXE0S2htV3lnbVF5Y05sOVp3Yk9pRW9QM1d3?oc=5",
@@ -3511,6 +3543,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "a517de6e39a0448a",
+"title": "Kotak Mahindra Bank rallies Tuesday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5MaTVla0Y3b3VxbVdqMlZydWF6c3paQjlmTG01b1QwQWhvUGd3eDR6clE2aXh3UHdMMktuVWVybU9uZzhRUTlyRnRvaFZRaG4yR2oxRTVuSEFBemg1U0xST01vTS1JTG9kZllzcjZVUmJwV0FhblhxeHZ3LXdiSjV0UURMU29tY0Y4djQ2bE44ZDhtejFsN3dVZVE0YUxMcnpvMlJpaWZkSWRua0FjeHZpYTNmQnI0YTlGbzVIRWNIdzM1OC1iNFRibjQ2QQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:30:00+00:00",
+"first_seen": "2026-09-29T21:33:05+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -50394,58 +50442,6 @@
 "tags": [
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "fdbc6a7f63b3af6d",
-"title": "NTPC pays Rs 3,393.83 crore final dividend for FY26; total payout reaches Rs 8,727 crore",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLVJrU090WUlrTmY3ZWNHRVBaZ3hRVkxnLXVhY2d5U0FRNWlsYVJuSkFfQmZDOGx1T3loRTBRVE56eHg4Wjg1WWFXMlVZd2xuaG80NG1jWllWWGxpa19qbG5wQno2R0duanlLZkdfRzQxYS1HZXNwZnlIbFFFV2RLaENLSlN3QXpBdThJMjJvb2NmMTRRa2tPWnNvQ2ZCZmFKcXFPVUFBdjFhQjZIU09aRnZPQVlVM3FCV1gzWDNFWHBGSkEtazl6OGJvUkI5cFZpOXpBQU5FelRaOFhSOXcxQ3VxWVlxWGoxNFkxNHlPQ1DSAfYBQVVfeXFMTXdFbG5LYzVEVHQ3LWYzb1lkcEw4bEhQRWJPZWM3YnFSanRrOEtBMGNybTZDSkJRVjFCeUZVVHNhMkdBSHdvNzZOYi1aUzV3eEFSLVRLSWVYV0xTQXVTRFJnbE5icTBiQzc5QVNzQWxXZ1BGc2s0V250VGRaQWd5Q3RNVnpaV0lKb0dvdUZxSVVrWjh6UEhUdXhya09JUkc3bmNzdFJfNDZ0bXE0Zl9tanl0MTZsdzh0aFlRdG1rdDZoMlgwVHh2R3k3WnJuRE1OSGExME5iVmRVYnpqWlpramZwcWM0SmRsOWprQ2t6cXc5ZkJpNnZR?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-23T13:56:39+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f1446d13791edb06",
-"title": "NTPC pays Rs 3,394 crore final dividend for FY26",
-"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc2lUbGVHTUdqdTIzenpFclNhanFnYkYzbDdfU1NaV2R3emJ6V1JNcms0STcxbzBTc0VfSzRpMm5qU0NqTXdBQVk3RlVOaUNqNjg1RmVyQU9kQTRENGVCazRGRWVhQi11cjZaQjY3ZHBYQi1qY0lBemRSMHViakI0dl9mMGNaeTVId3pXbWx6TGFSYmdPWUgwX1NheTdrR1hNUXd1N3h1VERwN3Nub1YxMVFfanpLMEczbW83Z1hyMEhJRmFoYkdkRk5JeExNTUFFTVNJT2JtaDR0OEV4WWEwRE5hZS1OdmNXZGo4WWhxVjlqQlFtVGl3MFRlOTNacUVlY2fSAYcCQVVfeXFMTTVxaTlaTDdLMTlzMHBCMUcyVG9IR0FSSzREdTBDUjdoVnZCeGZuYWkyZUFONDB3NnFXcW9SQTg1LWR0LVNQcVNXdXluNWVOd1pXWGlnOGJMMnplZlluQ1Z0S3pHZk83SlhZUGdoc2NQQVk5Um9HTjI0NEc1RXBpeXZtSkpTbEZFQVcxQUtrb1hUa0d6YVFzMDBicWZIM0w1a2ltWFZrMHFlcFlTb3dsQzYyb3FqNU1PTFpxcXJMSkVUTEwyeXRodWZWeHVEUkFXOV82bTE2TkJLd0huRWlBdnJmRHRvb2EwLXA3ZURvaUxjR3JWTUp1M0p1OURRTVlGbWRCc2hIWFE?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-23T13:54:49+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9f7f1612206d7573",
-"title": "Verato, Tech Mahindra Partner to Address Healthcare AI’s Data Issue",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGV2UWJGZE9ZZWItTjVJMjNZSjRVMjNjT0JSM0dvcGFNOGlYeFlUYm55dU1sRnFYTnowVW43U0Q1d1lEazNfVURnbHc1bGQ1NFF3cW5tT2ZyNGkxVnZPUmc0cHFqeUoxT0p2MGFQcm56MDNLekU1V2J4dGxmdWFQdW9zWWZVMDNWOUVVc25FN2NONDRHcnVuUzJoT3h6a3JCeHhzRF9FSQ?oc=5",
-"source": "citybiz",
-"published": "2026-09-23T13:54:29+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
