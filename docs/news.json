@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T22:18:41+00:00",
+"updated": "2026-09-29T22:32:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "cd1c80721f0c4909",
+"title": "Trent Alexander-Arnold causes a stir on England return as fans all say the same thing",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkZ5T1Zyc3pkMEpOc3ZVYW55WjlpcGVEYXE0aVFRbW5YczhzOHFYU09yVUJYUk9pWmN2ckVoRlNiYjhSWmRUREMtZ2pPWUtjeXY1ZlZNUWtRMUhiRTQ4UUJZS0JyWjdRZWd3b0psazBXYS1IMmthUGVaS1NidXJWcXNDTk1RcUU3SVNzN0xCTkVzV29LOEHSAZsBQVVfeXFMTm5ITkJ3OFlUM2NyZE16NnpRRXFzZkFCUUcwV0dSY0UyTkpnOHJld242QjNmSUd5Qk5maHZsOWJ1bl9GT2VqcEdBOHYxcnBodW5uVE1JVWhXWllQLVZ0eG1kZXNWZURpcW5kUDlmVXIwdmdjUmE1c3JXYUV2TTFYNElXTGplSDZiZURDeHE0TVVJc0pxWXV3MGRZS0E?oc=5",
+"source": "Daily Express",
+"published": "2026-09-29T22:07:00+00:00",
+"first_seen": "2026-09-29T22:32:48+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4104556b752a9fea",
 "title": "BMC seeks L&T solution to tackle recurring cable theft on Mumbai Coastal Road",
@@ -50420,24 +50436,6 @@
 "Bajaj"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5c51294483087093",
-"title": "North Macedonia's Titan Usje to distribute advance dividend",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0lSWnEzZ2Vxc0ZWQXA2eV9feTZNazhaVjl0cGdMZktWdGhkYnA3TG42bkdRZVZqRGpsZGN6amwxYzcyX25rbHJsMDBLOUVRcDQ4VlJoUE5CUnBtdFg4LWZCVmM5MjFhd0R0YlJNVG9lOHdlb2pESFVZNE1vbFgxMjBPX212b2VMV2tVY2xMS2JKdXNteXc?oc=5",
-"source": "SeeNews",
-"published": "2026-09-23T14:04:23+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
