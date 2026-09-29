@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T05:58:03+00:00",
+"updated": "2026-09-29T06:17:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "c6818e152c87f8df",
+"title": "UltraTech Unit Runs Entirely on Green Energy",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXNuRWhPdENMdkNHOTQ0M1VWal9ZcnhDbFJUYTM4WHVJTzkyQ0hiS1JZRmZES2xmLXJ2WFVHQnRUX1F5THlDcmtfdTZaM2J2X0dNQTBuS0RFNWtwRG9vV2RfNzBfSk44a3RiYzBRMU15UzhHOWlzelBpNERyZkpBWjh4X2c4RUlEc2pfbjl0WWFuUE9vOWw4eGFuSQ?oc=5",
+"source": "Construction World",
+"published": "2026-09-29T05:59:43+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fde64dde48033c58",
+"title": "Tata Steel Colors Wins CII SHE Excellence Award",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXFjMktGZUg4TzF3anVkQzdZWUpnRlpTakVvMXNDM1o1RllpTFYyVElvVy1UbDRVckRCbmt4Q2ZreG1lWlg4a3BSSTN6R1ZtOTItU2ZMeHBGYzRYTjlTTHZ2Z0tMdGNqakN4VXAtQkxnVV9fb3llRUZNNmpURm95aDhjQWU1OHJNLUg0bGRJMW9CTU1hSlB0WHpzcmVFOUh2clNMNjVoRTFKY2dyM3FNT0VLcUNsYk9qbmNF?oc=5",
+"source": "Construction World",
+"published": "2026-09-29T05:58:19+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "33dc4ac2263913d3",
 "title": "SEBI Clears Vinod Adani in MPS Case; Gautam Adani, 4 Group Companies Settle for ₹1.48 Crore",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXlGZW5RS1A3UFZRWjVrVnNPSHdSTGNCZUhsNllRQ0JhZW0xYTBMZU1venV1Q3RwUktrdWQyRC10aGVyLXNWN0FFTXowUGxtb0VUNDNyN0kyVGVoMW93RTliQU5yQXVKXzVlWkpVQS1yR0JTNGFyTUl3aTBLSHdRNi05ZlExQWpHUVhyRzc2UkFta0ZzdHBseGZTT2hlNzR2cUp6eGEwRmZaTGM1Zm1CbDMxV1poam9FUnl5NkZUemF3ZjNYWUttc3BXbw?oc=5",
@@ -712,6 +744,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "1dec9a73fb38d911",
+"title": "Gautam Adani, 4 group companies settle shareholding norm violation case with SEBI for Rs 1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0dqZnZLanJZY3JObW5xRmRXZWhvZW5SWFpWVXVSVllaZ3RYMnFjNXJSUGw1MTZVcXozRlo0RTJyUWt4Y0VMdW9DbEtSRlpKRmxpeHBDVXZNb2hIZ1E4bFBVcDRlYjNEbTZNRFlHLXowdlNYLUJaX2M2dU44d3M2UU9KaGx4ajY2MlRDRGo1ejdJdkZLbllkT1hRZGlNTmtlcmJ4QjZOVjNWUDFvNlRZNi1vUnBXdGJYd3p3RkVTeDY5WU9VVV9XMDNqbWt2YllPSU9Odmx1TzA0U0FReWMybjJpVzQzbk5na3JlYVJIdDl0TGfSAfgBQVVfeXFMTnppTGc4dmZDNWF3eThxMy02QzhyajRXNWpRM1ZBV0poNkdoT1VTV2dpOFo2bFJxS2l4TWhoM1U2M2lMT0l1WEhOeWkybjFkMHItLVdlOWtwTE1oX2lDY3FCZGFEQVpyS2M5dHBtajdRUm56R3JrdGZFZ1gzVHdaRFhZbF95OEhQUjNKNDRmSk4teGZnc240VjI4MzJlbFl1RzlpLXBBamQwUG5udlJrREFzMzA0TF8teThUZ1RLZU5pclFhVXJ0TlpqbUxMLTZxRHRIVEROTExjSlI0cFI5YXI2bDZMNDI3UGVRam80T0ZiRi1TTW5laVo?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-29T05:21:00+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "852213cd07e33ba5",
 "title": "No evidence that Vinod Adani controlled FPIs, says SEBI; drops Adani MPS case",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdEJMXzhpWDItV0JUMWFPX2JGUWRSNmFvNkpPMldnbHl6WWJNSjVTaGpCWDIxMnFzOE1fNTV1eUxwQjRpM3ZWRVl0VUJLYUxBelU0SVJwZTk3alNpS1NvM2tGNUFDVGxBRU9mWG11VjB5WU9HRzdaZm95eDdKRkljT1RpVmc4d0JmQk5KVGNmWFc4bUNUZTF4ZlEyRmt0c1BpUE5OLUxtcG5vLXpKN1VCWmJfOUtrdmp3ekRpZG5zaG1qSkFIYTU4b2F1YXFLRWF5VFBidFpYWDFsZ1JhUnfSAeMBQVVfeXFMT3FRUEZ4Y0FpT01SR1Z3d2hNRzVQazNhS3c5Z1BrSEU4b1IyMzdtRVFFZm1XMi0zZFg4b2JobFNlbklidHVIeDI0RHRCYmpEN0hkSlpSNTMwbEhKTWJaYXpBZUJMam9mckFOdEVad2xiRTl2d01fcElDcnM0X055dTJWQ0NyMkowT3VtX3VhYTRyRmVxVVlnUUJMNmlqa1RBVURaMFZBNzEyaFFsVVJaYVNMODlpZHU4YkZvVXVoZno0eWFWOUNVaVN2Y3VXcWZYMU9hVTJZa29vZFlrNUFWMTQ0aDA?oc=5",
@@ -889,6 +939,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "a55a76c9975c40e7",
+"title": "Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform'",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSWNKNHp1Qi1OT25RaEVwd1NjZWlVaGpfcEZhaGw4UGNTMlZZV2hlMTNDZlNNQUdNVGhaam80ZjRuaXhSR0poblFrQzVrYUZDY3k5QXEwMmxpeEF5UDRhM29CUnd5SFp3ZnB6R0ZYMWVZWmJSX1VHcEc2U0lOSXZ5ZnJxcUloanFsZl9YdlJpaFRtUUJUTnF4SnVXT09wa3BlRHE4NTVPUHJvTm03UEdLMERONmRHQTR4c0Rac0lsVjMxMGtjT2lKWTRHaFhHeGxMTDZWMXgzcHcwZzlKdE82blFjZ1BnZkxSeHMzWXFtYkd0Qktma1NuNzVfdC1IRmJ0cE1qeEFpS0hHNjMzb3c?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T04:59:00+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
+},
+{
 "id": "0a147aad76dd8ee4",
 "title": "ITC takes full control of Yoga Bar in ₹645 crore deal | Deal took ITC ownership from 47.5% to 100% | Inshorts",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGlsSUV6UXItTGUyUUt4VEluZHJ5dDA0WkpvUkJxN2Y3RE1BWlNxMmpsSWtqMzBUd1ZGSkE4S0tXQkJHc3lQbndTbUxDblJHRXpLTnF6ay1aTWhKaEF6TlZkaU1XcTBBU1p3LWxtSWpabEE2UTNKeTlNNGVZZkt1VEtUb1pPTGdsd21RdE84R2w4Rm43TlkweHlTX03SAaIBQVVfeXFMTVdTYXZuNmwxMERlNnVWbHNzWU01SmVuQjdCaFZCOGVzcnlUVlhhYVFCdHItTHFrcXFGZ0VOWTNsd21TVTVHdWhyYXhueXRYQV92V1oxS2ZqSWM2MmZ0cERkczcyU284eHJFWlIwX1VPdFRXVFdUYVFOUEdTcXZjamN5bmMxRm9nNGV5YzRYU1V3ZDJJYy1pLWRETkFNeDlaYy1R?oc=5",
@@ -989,6 +1057,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "27a1127085a80c73",
+"title": "ICICI Bank - Force Motors among 4 F&O stocks saw a high increase in futures open interest",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbVNiT3l0WXNfMzk0TENwaEdOMFU0bDN5ZlZQdDFncGUwcktDOVB5WThPbjJ2clExVEh3cVh0b1hYN1VqeF9rZnp0VnBxS3dUbjd5YU9pYkFsSmFlT2NhX1pUZXZCc1NOS2FMdXFfYUo4ZFJlVDF6bnpKU0pyQzljXzg3M0Rrdm84VkNzeTJsMkUzQWRnMnZOcjFDRGZMV290NHdsZFJEQWdMTkUwZmlkV09XTnJkMTQxZDI3cWZQQlZxS1V1NkM1VEJnclZfRmdvSUR0cmhzWnQzclQ5UU83d1dfRlVPd2tDdXotR2sxbWNYUTg?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T04:46:27+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "8cb2dd319ec74a71",
@@ -1092,6 +1176,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d14ae3b7d543c63d",
+"title": "Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5%",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORll4N2xZcDVnZDFQM01OQXcwTWxrZGZvekJwT0hob3ZXRXZOX0pqX04wRlIybURlZzhPWFpOVGxuWko2bDVvVjlTeWFLZE10VjZfZDBzbFBzS2FvYlRDb1ZhOWZWbEt0XzU5aS11QUFZRmhGa0hzRTcxY3dhNlJHWnloYzN1MnVvM3FJaXRfdk9VNExLRlUyaG9sSlVtNVZqcnhxUER0QmJuLWZOOWxGcVo3NnpDSmNvNVZlTGlhYTJTYVV4aDNNUTh1UFJQOUJqWGxyTdIB2gFBVV95cUxQQmpWcEJTUUpQTWtSVlhPalRkcHQtdUtHNU95Y1lHQWZraVdMdDJsT1A3a2laYVp1ZkdGYjBsajZqTmh3YnRJMnVTTXFCUTE5MzlMNUFQNzVwU1ZGSjIwMmk3VTJsMHV5VUJQRmppTUhybTZZak9HeDQwWnc2X285cEhESXNPSndwQWRjc0hTMV9DRVhJQU9MdmFMUFo3NWkzLV9RNF9LamxFWU9rc3B2WWNPcC15Ym5QTFR2YWNJWGtQX0RoN1d3bExXeEZfeGFFSnBRRXgxTC02Zw?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T04:37:54+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1700,6 +1800,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d0058c683a79396e",
+"title": "HUL Share Price Live Updates: HUL's Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134555305.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:35:44+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a757e6f8311ce006",
 "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
@@ -1940,6 +2056,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "cf5689051f703502",
+"title": "Adani Ent Share Price Live Updates: Adani Enterprises experiences a slight rise in price",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-enterprises-ltd-share-price-today-live-updates-29-sep-2026/liveblog/134555043.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:17:55+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "25f1b634e4154aa2",
@@ -2192,6 +2324,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b40b7c1bef46fe8f",
+"title": "NTPC Share Price Live Updates: NTPC's Stock Performance Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-29-sep-2026/liveblog/134554636.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:57:51+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "814ebd0dafd9fb21",
 "title": "Stocks to watch on Tuesday: HCL Tech, NCC, IRFC, Ola, September 29",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHU4elhMZXVUZXdoc0ZXa1pPcEFKZ3EzYkQ1ZDg5N2FhZWl6NjdOZUozY28xbHc4d0VHZWpRMUVWTkRuQV94dW9ELUw3WUdOekdzT0YwMmJwYU10eHVVdHdOVXJfakdqNzBoZVhwTTZZdlhCRXhPT0hwZlRVdzVaTFg4WTFzcTZucVZNQVY4aWN3NUh1NVNqRE9hVGtVOHMwNHA4Q3BWMXR3YXlaQ2h2Q1ByVXlYeTZzQWFKdkNsWGRIVFlERUpkdDNSUG5xSXVSbUdv?oc=5",
@@ -2320,12 +2468,44 @@
 "sentiment": "neutral"
 },
 {
+"id": "556e7fda85c94190",
+"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Price Movement Today",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-29-sep-2026/liveblog/134554526.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:50:05+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5cbbab0ef1b1f5fd",
 "title": "Axis Bank Share Price Live Updates: Axis Bank Price Movement Analysis",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-29-sep-2026/liveblog/134554518.cms",
 "source": "Economic Times",
 "published": "2026-09-29T02:49:21+00:00",
 "first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "88c2c2fdd09241a9",
+"title": "Axis Bank Share Price Live Updates: Axis Bank Reports a Decrease in Today's Trading",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-29-sep-2026/liveblog/134554518.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:49:21+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -3434,6 +3614,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "87aec5537e1daa43",
+"title": "Stocks to Watch Today, September 29: Coforge, HCLTech, NALCO, Zydus Lifesciences and others",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWlPUHpLRWhwRk1kUjlYcnpTd29oQzM2bDh3RlBSNHpIeWdJWk12YlhkX0hySjAyejNRRUZjSXVBUmVPTlRkMDVLOU5xWTZNdUVzY0xRb3VZeFBPck1KS2RTNmZseXYzSmQxTWxrNTJNTkk4UUw3MnNuRm5QeDNZZGdFVndSOGRWMkt2dENVN3RGYXNCWU45NkhWN1RJay1pb0xYUTZudmo2aFlwT3pMZ25GOHZOWmVWU2x3TTc2US1yQVQzZVNnUlN0NWcwa2V1UGRwMtIB2gFBVV95cUxQWnVZUkdUNHdhSlIwSjVhQmZWN0lFWWxfWUhXRlNMc1NUM2p6Yk1JRW5UWThmZGduWHlXU3YyN0xhak02WmFNYUEtX1J1MjV2UWhydTYxdWpFZUlFZ21jcDBXUllrQVpzTjZwaFFYZGtkZlBVZGMyRjdFd0hrVmZobkVEWTlBQU0yUlphWHB3OG1rQTFmUF9wOE1yWnUwc2FmRnhEUUFlbUxXVUN6TEJoZFJGeGYweFNLODhJbkpLcjJISnB2VXgzQ1NUMnZKWmpibWRJMkZvTi1YUQ?oc=5",
+"source": "ET Now",
+"published": "2026-09-29T00:06:46+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2e5af257ffec38f2",
 "title": "SEBI rejects charge of minimum public shareholding violation by Adani Group companies",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWJkbDNESTlfUHQ1WFRiMF8yQlF5VEQyY09QVU1BcWdHcE5qNGJmRGh3VTlIUkhyalFmM3NFM1ZBV0Mwb2NMLU1zdV9LTl85ZTduV19Xc25aNFg3eGh6MFgtT21pczRwMHdJNlRpNjlDRm9WYVZJeEhvTV9UMDRZM2R3RUNmdXNFRWRNdGFkMnZlLU9LZlpidjFVTGdxbHZSRWo4QWxYNFJmWUtBOUtnUVQ3ZkM5S1FmeThIOFdpc2FuRTJvMzdSTtIBzAFBVV95cUxNQkJqTnZSY2lWZTJCM3B2VVhhV3lpZ0ZIZEF2ajNCUnFmcVlWeGo3aF9jeVVfeXlDaXY2MXRqQXZvMGhzYU5YSjM1cTVEazd4ZG9FM1FOWVB1T0Etc0pFeTNCd2wxb2lMV2czN1Y2MWFhVGczVHlEdUlZdU8tblIyOV9NSlNlN3BmU0xXdjB3bllGOGlPanFLbDM4SWlxcDY2UTAzZ0JCdnkzcTlrYmRCWjJVenlRQjNHTlNBVFJoUS1BVUN0ZVBkRlF2dDE?oc=5",
@@ -3510,6 +3706,22 @@
 "first_seen": "2026-09-29T04:13:46+00:00",
 "symbols": [
 "TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0739a70f58167c4c",
+"title": "49ers get rare bit of good injury news on Mike Evans, Trent Williams",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFByaGF1TnBibXVKTHJHLUI4Z2RWMy1oaklPSi04MnBSa3o2X1NSQ0xWS2FYRkdHMzVITE1lbzRVMlhNbElWb2dVSk54TWNTYnZHWGloZ21YUHZRR0d5aHNicElhTlo5R0FWcmxTWkpGZkVKX0xDSWhBQUxVWkpRVVNES0l0WjJtZlI1Y1FieC04Y2xldEw4?oc=5",
+"source": "New York Post",
+"published": "2026-09-28T22:21:00+00:00",
+"first_seen": "2026-09-29T06:17:09+00:00",
+"symbols": [
+"TRENT"
 ],
 "groups": [
 "Tata"
