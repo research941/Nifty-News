@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-28T23:56:04+00:00",
+"updated": "2026-09-29T00:26:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,78 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "1a877e143902b0b3",
+"title": "HCLTech to acquire Robotiq.ai for €9 million",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTBLUUk5VlRjQ1YwLUJWY1JaZ1ZrQ3BNVy1QWEFYZ2txWkxtNnQyaGFJbWhhcUx5T3RoT1JiUGZQQ1dsUlFkd3ZqVV9oR2ZFMno0MmsxQVItVkJwc3U3NmlNUG9vWGo0S0E5ZmRyM0ZTV2NQZXJoR0lsMHg0OFNDNC1MQURJM3NtV29YSS1sbVhNVFlEeTNWNU1VRHJGYzFUSXFIbURTOFNMdnZnR1lZX3Bld1NhRnF6Q2JocmFnbS1YaVBKTVdVd1RaNTN6RzhOMkw3Vml30gHcAUFVX3lxTE11dHVTYzRmOVB3UEdEMnVjSnAtQkhmR0ZIN0ZzRHktNFBYVkJVcjcwQVoweF9SQjEyOHZpSzB6OEhNQUlkNVhEZy1oQkVaNGgwTU9oTUllbmUzLWktR3V5VWNqS0ZSbWhDRFlnTWJwVE8wU25RRWJGR0Y0LXJlVmRJWUNfa1pTaWZ3QzgyMmlLWUpLS2s1RURCVjk4aHJtZnhNMXdFUG8yWkRLMWd6MFBrMUZYblJPQWlPZEJOR2gyenVJQVZVY2ZNZ0NITFJTaXBHRV8tbnkxd1Q4TkM?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-29T00:09:30+00:00",
+"first_seen": "2026-09-29T00:26:11+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ca9edb8cae8aa30c",
+"title": "Sebi clears Gautam, Vinod Adani of MPS norm violation, imposes penalties on others",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQVktc1otVFgtUGxKbGVSYXk0LU1PT0k3S0FUTzFkdDdiMmdCdzYyQ0JNVnRKTGNGV1I5dXVsNmJQaThVUTl1Zl9ldWp0eWRtMlY1WGhPWnRkN3NWUlhuc3ZoODRLc0wxX2otbE85NnVUQ2RmZzhsRjY1X2k2eUgxa1psSjBHWWsybm9yUnpQWk9KbkxWM3FwRXpubzBOMTFrRUkxNy1hVThKZHBWazhmZldRaTV3VDNoaUlUczlXeV9JemV3UzhiR0RIZGphVnJocEJJZEFkYktzd1NFSmJXWWNYQjFkRDg2YXfSAe8BQVVfeXFMUG9oT2dHbWdQTm9kQnNqem5DcDViTzh3amtaem9TTHdRaUR1eFhpNUJsT280dUNVbldGa3pyZG55d1ZaWUV2UVo3Rjl6MXktWHlDUndnZkl0cWhpLXBMbE1TN05RTmd2XzFaUU9xSzdoRkg2eVJqQzRpSEtFLUUwai1TTUwzWkk4aEpaWGdUNldsOS1xRlc0Z0hFYVJNNzlHN3hKTWJyMHc1Y2piXzRnMlNFQ2E1MzFYdDItMWdpQ3ljREQteHdyRWxxM1dNZy16OHNpaFdGc1lCMmJvU3ZSU0VGcW9YeHZEN3dJaU1KbTA?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T00:08:45+00:00",
+"first_seen": "2026-09-29T00:26:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2e5af257ffec38f2",
+"title": "SEBI rejects charge of minimum public shareholding violation by Adani Group companies",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWJkbDNESTlfUHQ1WFRiMF8yQlF5VEQyY09QVU1BcWdHcE5qNGJmRGh3VTlIUkhyalFmM3NFM1ZBV0Mwb2NMLU1zdV9LTl85ZTduV19Xc25aNFg3eGh6MFgtT21pczRwMHdJNlRpNjlDRm9WYVZJeEhvTV9UMDRZM2R3RUNmdXNFRWRNdGFkMnZlLU9LZlpidjFVTGdxbHZSRWo4QWxYNFJmWUtBOUtnUVQ3ZkM5S1FmeThIOFdpc2FuRTJvMzdSTtIBzAFBVV95cUxNQkJqTnZSY2lWZTJCM3B2VVhhV3lpZ0ZIZEF2ajNCUnFmcVlWeGo3aF9jeVVfeXlDaXY2MXRqQXZvMGhzYU5YSjM1cTVEazd4ZG9FM1FOWVB1T0Etc0pFeTNCd2wxb2lMV2czN1Y2MWFhVGczVHlEdUlZdU8tblIyOV9NSlNlN3BmU0xXdjB3bllGOGlPanFLbDM4SWlxcDY2UTAzZ0JCdnkzcTlrYmRCWjJVenlRQjNHTlNBVFJoUS1BVUN0ZVBkRlF2dDE?oc=5",
+"source": "The Tribune",
+"published": "2026-09-29T00:02:25+00:00",
+"first_seen": "2026-09-29T00:26:11+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "72958a13282b9dbf",
+"title": "ITC acquires remaining stake in Yoga Bar maker Sproutlife Foods",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTgzYjM5MkFPOWNIZlYyTkQtNjU2T3lnbS16b1JJN3U5d01ZLWhnMklJNVBhMWhXRHpEa1NMTUg0aTNDaEZGWnlXa1MyYkVsU0JwZ05Tei02czB2SGFxVUtCd1BIdWlZVmRteEVZd3Nab0puSmhvcjl4aVBRWFRYUXZISHBpNWVpekFpd1d6dGRwZXJxdUMtZTZzSjZzZTJ2MmJyZWhoa0Y1M0hGV0tQX09sYmloOHRJNGprejZrbXlwRlYySzFZX2N30gHQAUFVX3lxTFBqclBTVDJERVBiME5kX3RCQWVXdnpEOUNwSUI4NWk4QlVwUEZkeGN0eXRLNzNYd2ZoZFQ0TEQwdWtfY05PbXctTXZzbHdmcFV4R1d2cURKdlptVUFsRU9KcHlGX1BrNE9EMnZISmgzR05KY1UzVFB2VFNkVm9aOEtDeF90ZGtFT1Z4U05UZXM4aDU3MXR0RlFhUWx5X1IwNU5VeHpsajFXV1FyQlZjRUo3OHN2VEZITlp4MlZMQVRmOTEzTE9sb0pMa3hGdC03S0E?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-28T23:55:46+00:00",
+"first_seen": "2026-09-29T00:26:11+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "1b34016dbaf5451c",
 "title": "Stock Radar: HDFC Bank stock breaks out from upper trendline of falling wedge formation; time to buy after",
