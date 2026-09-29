@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T01:45:53+00:00",
+"updated": "2026-09-29T01:57:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "bbf117bfb876ff93",
+"title": "Stock Picks Today: Marico, Havells, NTPC, Orient Electric And More On Brokerages' Radar",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMEE1NEEzdFppcUxLc2Eya3k5QTdFN1hyX0d6bERKUVF2SFlRQV9YVDh2UVJLZGpDRklzcUQtX01HNzBRWDE0TW1xSHpsRElPNXBxNEIyZDhOUnZmZ0N5MmhCRng2Z1BXQi12WjA4U1JaRlRGWi03cm5NX25jd2czbElKaTd2QXZrWDE5Wk5xa1FacU9iX3RjMlEydUtHMkRoUTRiaXowZ0VId25YMEVMSndyT1MwRWdiR0JBYjdhVHlienRqWkY3U1QydUUtQ2tocEhDS0hWMzFzcFNmSnNzZmxVZlkzS1JTTE1yRU5ZX1RRWnJSU2swYm5BV0pjTHFHcUVoWlNBd0VtR2p4WURkN9IBmAJBVV95cUxOWDhCSnFEemc2eHhWUEVFWHBxTG1QdXdWcXVDakZ0MnJFVmpZNFZHaTd2WFA4N0xrMDJwRG1RTmZ4Y3hUQXBvOTZTYWsyMEhOQi1hMHZ4QVdCbXRhaEktMVNKVkFuNXhPN1V2bXdvOGRjNE83OXBXZGFpVWNvZ0M4UTIzZHV1U042ZkR2SDFIZ25jZENJWlhGQVppdE5FaWM0MU12cTZfVmstSXRKOVpreENqOHpzUzc1WFVmOXNnTkpnVExwWWNSaVBfTTJVTWhyTW1PdXZnNWRNMDh2emhqQS1OQUlrVE5jelpTQlB3WkZIaHBFSGFVd2lyajh0Y3BBLVJUamtlUWVpM2JnbjVOMGFBYmc1V3Rx?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T01:38:06+00:00",
+"first_seen": "2026-09-29T01:57:20+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "87f5f998ae4b0f9c",
+"title": "Stock Picks Today: Sun Pharma, Azad Engineering, Marico, NTPC, And More On Brokerages' Radar",
+"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQVUNzX05wQTNzM09Bd0lvLWN3aTFueUhmc0xwZlJ5b3VKUXV4S20wNzhZRnhVWDFEd0tiZGRyWElpYjN2enB4SnY4Z29RRUZnMGhjWFNFeERVME0tUk44cExwWWRBckNNWndsRVNTblFWeXA3dFk5a3ZlQzY5c1VacmZlbFBiTW9DVDVIODR1TnJVc3kzeTFOQi1BejZxTWpESnJoLWJyalhmbXl1ZUJGc0VMNnBLOElNeldzaTMzbGZIQ29FQjNCdl9iLXNKY2pfeGlnNGFRTk0wbjZfQms5RWNIM1JtZnltX2ZqYTJJcFZodWlfWGdaSE5qaWhDcFp3VzBwRXNKOTBqcmlNaV9PVmZxdVpMbEszbWlvY2tGNNIBpwJBVV95cUxOLUZtb3pmaE9DSV9kcGV1Y3VkNGRkTjlGaEhYcWJycG8xMkFOMVo0VU9laFJuZ0R2Vk1Dd1hlcEwyNWdYNElWOU8zLXE5dHAtSm9xbklzR1JZVnNQN1NRUm5UcVN4clBOTzNKQ0c4QU9lRUdtdHhTVS1sX25KN1dYOU4wM1RDa0ZkNGlMVlliSjE5am9lcnZHMWtvdFNKLThqMUFHLXNUUXAzTXZQd1A2RFJzZWNBV2xKeURYREZCWHJWMkhka3V2WkpTUzMwaUcycGtpQXpLQXRmZWVpV3FVNmRvMXR2TUt1ZzhOX2xxa1U5TUdESi1uTzFrdEN0Mm9pWXZ6X2Z1anFyQ3pWb2NaUWxZT3lOZC1INEJxWEh6SlJFbDNvUzBz?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T01:38:06+00:00",
+"first_seen": "2026-09-29T01:57:20+00:00",
+"symbols": [
+"NTPC",
+"SUNPHARMA"
+],
+"groups": [
+"PSU",
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "f1ab2d3576a92f62",
 "title": "Will Adani get an airline?",
@@ -1092,6 +1126,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "199b08d5b11f5604",
+"title": "Titan Securities sets 34th AGM for September 29, 2026",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2llUUJSU2c2WWRzcDU1Q3VvX083S0tlQTdJX0ZqaUNvZWtoSjNWb0lZcTJkQWwtX1pSNnRScnNVS2Q2MmFSc1psTVJMRkpwbmlEUS14LTJZT1hDb1NCcjdEWl9iLWp0NmdjWEhVVGU5aHROdE9tcXVxZFNOYXR2WUpwU3BNWHZMb0JURmJrMjVNSDZ4d1E5U0plX0FsWUROa3VJa0pPNEs?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T18:16:24+00:00",
+"first_seen": "2026-09-29T01:57:20+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
