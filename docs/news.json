@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T07:47:31+00:00",
+"updated": "2026-09-29T07:59:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "e1466e7ab39b72f6",
+"title": "Buy, Sell Or Hold: Canara Bank, SBI, Cochin Shipyard, Manipal Health, Bank of Maharashtra, CG Power — Ask Profit",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYU9pa25wdFlza0VUZ2xBbzIzUG1XNGRlRklETHR1dlRybU03b1NQc21LdElVb2QyWXRXQWlOZk9kaDZpbXNrWUQ0dVIyczlqMFFBQm4zVFExYUJqa0JxTjBuZWlxamJYMzd0ZFNNRVlVQjQ4WEcxVE1uam5lQzM5a2Y3aDdKWTBBdkMwQ1Z3SGNzWXZPRnlxNUxGeGRXU1VuX3UwSDRiLUd1TjV4elNuNm0tSkRKTzFWb0pRNU4wSXFUR0c5SFA3b1hIQVZoaF9sbHdFdmFWMm5TMkxXNl8wMNIB6AFBVV95cUxNTGYxRGpFSEo3VUJOc0twa28xMV83VlVSTUJfN21POElVc1g1QndJNnlMQWhoWjZkMHlUWEhvVkF1UnJOSVhFQVhCTm81SzQ1bnZla0gzS1duSGVJbkt0QkJwZnVHRVphNHFONENucjlpUnM1Vm9VWmN4N0t0UzZOZFRGbE9Sc2JKV0Iway1vbjVtcmNwLTBqVkZHRVhUamtfTGJBTUFGLXNmZ1FpSnhrY0R4elRvdEpPZlVtRGxmVEI2TkdhZlVTZ2dUVHJqbUJHQktPR3JJdlZla3I3SEo5cmxQNU93VEN5?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T07:53:18+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7c06e91f2c4add62",
+"title": "Tata Motors Expands Battery Subscription Plan to All EV Models",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN6RDNOeEFYS3lTc3pacmxyTXhpX1ZaMy1oZWM3Sk81X2xzdVZYQnhyZmxTZ1QxbGs4RnloVzBPaUYyU0RnbFB5cDh0NThLZm9QX3hFNU9FSm9lei1uSUpPZHdMU2VCNldWX0MwZkhyNS0wQW44U0pvVlAzemF1ZV9XQUFyNUlsT2szNExld0R6NXZOS3Zwb1hNVi0zM3RPM1ZTdjNEMmI5MWxPSWRvVA?oc=5",
+"source": "autoX",
+"published": "2026-09-29T07:49:00+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4f9ba675c0fe8e89",
 "title": "Tata Motors Subsidiary Invests ₹2.6 Lakh to Acquire 26% Stake in E-Mobility Firm",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UX1FERXBTd2FJbmJ0NlJlV3F4RlRYcTNKS1dSYmViYUZyZDNJWmFZRUZMUnh4NG5tbWJmMzc3WnZmWkdGRkhCTEVyeG5CZXNobTUwekxaT1pPamZFcFlOZW04WnIxSkt4Wm9UZlpkckpWdjhkNDFXNGxLQnkwdw?oc=5",
@@ -460,6 +494,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1b151569c93c363d",
+"title": "Bank of America Corp DE Purchases New Holdings in Titan International, Inc. $TWI",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlI0MmQxVDNzcXRod1I3QWJNMzdaNWlkN3o2cldFM0pLcU13WHRpR1JScUR5RTZPak5BcGdCMGVGWlI1UDU5S1drc2FkYWhILTh2SzNjY05XN2llUWJlQkdyMVUxT056X3VjTl9XWkMzQlBBcnZKbk9FV1dTZVRMeFJaLVRESnNZdVVtRzJrcVJFcTZqeGZpbUlZWE80NDFUTW5EeS11VlpENjF0bkFLUEZpLUF6RHdESEVHX2Yza3VYVl85NUY2NXV3alVjbDU1VUxFdg?oc=5",
+"source": "MarketBeat",
+"published": "2026-09-29T07:40:32+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -624,6 +674,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1bd104afffd38a5",
+"title": "Adani Airport Holdings raises $120 million through local bond issue",
+"link": "https://economictimes.indiatimes.com/markets/bonds/adani-airport-holdings-raises-120-million-through-local-bond-issue/articleshow/134559470.cms",
+"source": "ET Markets",
+"published": "2026-09-29T07:12:58+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -962,6 +1028,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "fcd4318320375883",
+"title": "Markets mixed as Petronet LNG, HCL Tech and ITC fall",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXY3YkFxTUxlbjNjeFdmWERfakdFd2tuemtyTGY2cVRWMEw5NkliVDlCYkppR0JxWXNqN3p0Rk5IY0swcUp2YldScVNIdWdMdHRvRmszelh3OWdlOTloUFY2Z25WTkR0VXNadTBIZlFibHg3T2M4cTJGNUFQR2dXcWU3T3NLSmtjMzB6clNrdUJXZUNsTGVpUXJJRFJ6N0Mx?oc=5",
+"source": "newsbytesapp.com",
+"published": "2026-09-29T06:07:09+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"HCLTECH",
+"ITC"
+],
+"groups": [
+"FMCG",
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "c1dc4076381f3adf",
@@ -8539,6 +8623,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "68f596a23df4aa77",
+"title": "State Bank of India slides Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmFKSU1ZM0NVOFZiaThXSktYdTlZR3VEZXhNMHpya0pUN3BGYWxaU1hPZFE1SXhTWmlmaHpkQmVRUV9rcFZtWWdyLWVOYlpySTV6Q0hLbmMxSHBWaGxOc2ZNQ2NHaUJCNDVvQS05Q1ViZ3U1c0RQV0xMN2FJalNqd1VpYTN2ZDBmVkZJeEJyZVVEeWpIRWRTS1cwWkMzQm90SGMzNnVFZGZ3dHdfblh4Nk14ay1aN3ZablFqaDhIc0pNZGFGQVI3Y2dfNVVEZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-29T07:59:37+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "1acd2a1f6245febd",
