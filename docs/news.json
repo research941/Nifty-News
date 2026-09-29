@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T11:47:48+00:00",
+"updated": "2026-09-29T11:59:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,45 @@
 ],
 "items": [
 {
+"id": "82ecf056fefee66d",
+"title": "Indian billionaire Gautam Adani settles SEBI ownership case for $154,000",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1pvRkdOQlI2eG80ajRFSTI0TFV0eUVDS2tVRzg4VHhmN21SRWloN1BfUzQ4NGFNdE5qdEthT1ZLNGVOOEZNSUI1QXNGblQ1Z1Z0SFUzNTVBV1B2MWpkWDJkZ0tQeE4xaFZsUXU4QjBGNFBLVkhoaUpLcENTZnQ2UHNhT2V1ZTcxY1ZxUEM4M3F0OU1LM3o4eWN3OTFvTG1SOHBaM3NsNWJWTDVFY1ktU1BvZnZWUQ?oc=5",
+"source": "Billionaires.Africa",
+"published": "2026-09-29T11:46:27+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2c78ad0c70f089b0",
+"title": "Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sens",
+"link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNzZtYWNCSHVNQ0Etbnh5TVFrLS1hVDM3Q3BFdlpvY1JYUHBJUVlOMTZvTkhHYW83SW1XMzdaRWd6STlCaVJMT204b2xibFVfNkVkX0hWVl9OVG9oZ2xWNjcwNGxtc0ZfOW1FUW9LTUktWXlwcmd3NFUxWHVQWUtLal8yUzFzMWdnSGZnNldOckR4ckZ1bEFBTURac2U2VEVWcUoxa2ZhdTNiajNQZkJfYjJ4TUxNaU9kNEZMZEQ5bjNKWDlwbTg5OXd4Z2dJbEhObnhfOFNTVjZpTlpCRXh5YzNKS1czbnJSZTlPZFktNllNMnYtbEswOGJWd0pRVHpNWEltSDFOX2JDcFFPUk9wb2tPaHFXUlpq0gGeAkFVX3lxTE40UWs3aks4Z2JtTDZJRHFwZGo4WU5NTXc1eTBoeFRMVzBsTjdBMVIwbVdmX2Rjb2U3dklOTlpMc3oycnZ5M0swS3U2RWFFbnVvY3Jicm5NbE4yOGhmaW1GaFlyMGtuenM2djM5aEJZcjdMU1RJMlVudE82MVJlRlRSeVg1T1pTT0tlNGZsV2N1UGVMNGV4b3NGTTh3T2RDdVJMMmxZZ0dDeERmalJrRU5nWVcxSDdLaWJ2YVdOSW1tTUN4U2MzRDhsYlZ4VTg4MzFOQWNEckxTQmFvVFV4YjI3a3hVOGhGSGRYWGlIcU5hSUtnZkhXU3FqQ1VoR3RvTEV4aU1vajBLcmFkV3VXVTcyRFV3V1hOTXMwcGc1NGc?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T11:45:25+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"TITAN",
+"WIPRO"
+],
+"groups": [
+"Adani",
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "482f939d1d9449e6",
 "title": "Tata Steel gets relief in ₹427 crore tax dispute, exposure set to fall to ₹1,259 crore",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSlhkXzk4bUFsSTRObGZMWVlYak9DMlJvVHhFRHZqSVR3N05zU2tsWWZrNmZFRzNyY0N1YTEzM3FNRFZmdjZUZmJJN1RPdWh1SWw3eVlkcE1ISnpWLWVnSlItRWpqSUJ3Y2lVT3FLc29kUWstWXZmWkRtbVYwR1VKYjNrcDhaa0RRbTBENGJFWDhwYm90SzlGT0xiV1J1dElvZktSV2lxeHlGSFZIQVkwQ3cybS1fekVaZTF5S1VyMFV5bzc4eW5xSjM2N2ZMelN6ZUsyeGFKS0cwUTlFNVlaUzlRTnJQVW_SAewBQVVfeXFMT0xiTzZrVHRVbzlEN2ptYk9GSUlra0xERDRmVHhZOHR6LVdDQlAyQkxXNV9OUEFpSDNOOHpfOTh6a1pwUW5CdjN0SWRhaTA4U2NBcDc2RTRPNGpndFpSSGlGbjg1eHBXYWNuR04ybzdDdTdpNHd3M2p4ZlJ0RFFwWUNFSVlVZVdHaFJwQXA1ZVVBSFhSaFdPY2YzS0JhN0pvWlFyb2pfRUo4dmMyeTZITjhqMWZwMnZrbTRLeTZQMWpjRGhyekdod1piMDBycXpra21ZR1N1Vm9PTGJfTWhVcGZxLTFuQmEzbWQ4Nlo?oc=5",
@@ -508,6 +547,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "dfa5c1415ed772f8",
+"title": "Adani’s Dhamra Port Moves Entire Power Requirement To Renewable Sources",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPME90aEozRzltb2Z2eDByOE45TUhickdLVkVMVE1ualg5NTY3amtCZmhWdVRyQmc0dzNHaTBQS252VF9aRHVNYWFiR0tsd3JPRl9Pa2czcXB2a2NJR0lWZURJYWttbWtYYUZ1LTRTcDNXeXpjWTlBZ18xUGM1Mm1meENMdTJBYXpVYnpsS3k3NjRhWnJRZlZnUzJuc05JT0ZIalNXYVNsYld0TjJwZVU1ZWFNcnlmOFRQdm5LaVZCamlPVjR2WTB3?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T11:32:39+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -926,6 +981,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "39f7b1b193b505ca",
+"title": "Better IT Stock: TCS vs Infosys",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Zai1xczdLeURBSUg2M3VfZlh3RU5jekVhTlJSbFlUejAzSG5wOE1sVW03WVNXYjFKWWJHUmNpNy1vRkp5NmxESWFZU2JvM0dBUlZNSFQ3Y3lma0ViaXgxY1A3eEU2WEZZcjhTYmNR?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-29T10:12:40+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "684cc97b2d7f9888",
 "title": "Sun Pharma plans local debt sale to refinance Organon acquisition bridge loan",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHNHeUpnSWtiQzUzZV9DWWRFbjlRTFM0MS02Y0NMdjZLVVBDZ1hKTXRkeUs4Zkp0QWlrVnVKS0JsSHp3dVNleDl2ZThBaVZlSnF6aHZRMlRqM0hQOVlqU21fanh5M3B5bXJiTG43WEZ2Rmx2WnRzUG1fS0t6UFdXOW0yLTViSGxwb0Z3QWJwTEdfaXlaZzBidUVacjNLRlU?oc=5",
@@ -987,6 +1060,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6c716b1a784bfbd8",
+"title": "BAJAJ FINSERV LTD. Option Chain - Live BAJAJ FINSERV LTD. Option Chain Data, OI & Price",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tMTBIU2xVdmVwTDFYc2dLd1V4R2V5NWpMMWNFNmtwQjFYeVhCR3A1QXk1dGUxOFVlNWtqOVphUzNiendJX3czRU50WjRSNkgwRUNxQVlsUXI5LWI3TWdz?oc=5",
+"source": "Upstox",
+"published": "2026-09-29T10:04:21+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3055,6 +3144,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "faa29b7f26c36c23",
+"title": "ITC Completes Full Takeover of Yoga Bar Maker Sproutlife",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWRfSGJldmdzMGhoXzJ3cU5JZWZYZlVaRVFzTTR5bF9EaUdTTVpDMm1tYi11M1g2OTl6c2w3bFMwTWU2cGtUekxCNEJIdHUzRXVYLXJOakpfVlB3dFRlSFIxV0liVTJCX2NmcmhwamctaDdPUmhLQ1l0djJYNzNTV0JNSUhBUkdicUFzc0RmZGRNU1YzRnVORTRmOW1xZw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T05:50:00+00:00",
+"first_seen": "2026-09-29T11:59:00+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
