@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T15:59:33+00:00",
+"updated": "2026-09-29T16:22:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "8a8aa8cc4c9ffb8c",
+"title": "Tata Motors Passenger Vehicles clarifies stance on news regarding Tata Sons' listing",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGt0U0ZpX1lxNm9kYm15Q0tFZnN4Q2c4bzVvZUpxZ1M5SmlLaFVfZEJSdDl3eXJkSVFQVU4tRHBwUk1RVFI5eVBVUE5OY0tTY2tockxnZ0VUUTRXaDlOLU55TkVzUm5IN3I3NzJaQXdwbzdKbGd1ak1NWjFNa2pQTWJCUUxmWjNFTzJuOGJtbXlRN1ZZb3NTU0RZVzZkRVR4SHJlTGZGSjUzR2xNTkM3NWYxQzJKRlNGQWVWSg?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T16:17:20+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b08304f84b227773",
+"title": "Titan Intech adopts FY26 financials, appoints auditors at 42nd AGM",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC1Ka2hyZmtLUWVTREJsVjVGTDN2VkZkRG4wT1NZZ2EwakRpbUxDdTlNaVY4TVowN25tLXBvQldEZnVXNTdwRFI5V3RUQmNxNUFYN0ctVTFfUTBDbm5SLWFkU0hVWXVENXVWbHJVdXpZdjNueUZuT3NBS3BxTWZWUFRMdWQtY29ScFo1b2NwbTd6OTFRQzkxc2VWRGpfajdkQ0RXVXd0ZGlpM0FjenhWcTVCNjB1MWtXWnE0?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T16:12:41+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "12712e51e7b24c08",
+"title": "Top stocks in focus tomorrow: Investors must watch Tata Steel, KSB, Power Mech, TCI shares on Wed, 30 Sept | Triggers",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbXZ0VnNBTW9BdF9oUVF6M1M1bERrd0owZmZfNnNraUNBaEs2WXRmR3BqSWJOUGtscjFyTm9CSV9YYTdGZW9vU0hjdkZxRURLWWRseDFNR1ZoNnNZQXFSU01ic3pGVzgwRkhKaVdjbHhxeGxGM0VIWGZJbFVhNkgtcllZV1lUc0JpRWJmVUx0RFVocFduQUMxRjV4UGJsUDJZdU9lQVYxUWlNRnlPWlZaZFJLUmJpbkdDOGtqUW9oLUVJZW9VaWlHQldwZENNNkZZOWVqZUs5VnVoWnNVQnJmX1lpTklMMWVoRTc1YnYtZzhUUFFh0gH6AUFVX3lxTE14eWNVWWtVU1Jabkg3LURnNnJuSFpMQVFTczdoSkg5UU5aUEFBamkwbFJHaTRvQndWV1MyZm0tQUU1WFhCQnlORlB4aHNXMVdwbm1FS25OcnAtMm56OHNPSjh1N3pGMUs2a3k2czlJNDNXdmd6eWdOZmxRamNtVDd3ckpfVHZLYnhQbUxoeXpEbE5DaHFNN1lzZThnRVlaaWZnR0pEaFMtOGpENkVpcExTa0pLcHRVT3hscnZzNlBNVW1KTFJyQTl1U2lhVkFOa0pZSXg5bU1BMUhVMVJqVmF4b09mU0pVNzZsYzdkVmVyaXMzV19Ya2JpOXc?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T15:59:17+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e26b808e1eb89716",
 "title": "Vaishali Parekh's top 3 stocks to buy: Vedanta Power, Kotak Mahindra Bank, Infosys | Target, stop-loss, market outlook",
 "link": "https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-vedanta-power-kotak-mahindra-bank-infosys-target-stop-loss-market-outlook-11790694178662.html",
@@ -461,6 +513,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "b9d9e9d9b9d5a1f5",
+"title": "Aaron Judge not on Yankees’ wild-card roster; Giancarlo Stanton, Trent Grisham return",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3Y1M0dPazI2XzVXX1p5VENiclJ2X1JXWEQ1eHljdXI1bnVqOW5YV0RaSkJVLWt6LWVaZDBMZko0Z1BxWWF5dWNReG4xdmNaTmlVMW9OSGppUWw4amw0aDdXWFJOdmU0Ml9IXy1WX3NxemVQYUZraUVDLUJOdkVVU0tYRHl6dTUtTy1raE1pbmNnYWYtR01VZnhWZmU1UQ?oc=5",
+"source": "The New York Times",
+"published": "2026-09-29T15:46:01+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7805c1770f920d54",
@@ -940,6 +1008,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e7dd2f2542d01e98",
+"title": "HCLTech Acquires Robotiq.ai to Close the Agentic Last Mile",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BV1ktcm40UkpnQVRuUDczY2JXSUUyMzk4MkJ5YWp4MGJ2ZGViaHFCbC1QNGV2YlhhSUhOQTVRZ0FmeVUzTW9GV3BDbHp1LXowNm1JWFdUcmZvZUt3MEJsbVRhd2ZNVUZBLTdWUVIza2pOcjY0WDNBTlpB?oc=5",
+"source": "FourWeekMBA",
+"published": "2026-09-29T13:38:22+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "da6b2ddd0391a59c",
 "title": "Coal India, HURL sign non-binding MoU to explore coal gasification-based urea production at Sindri",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSUtwQWV4LWlwbExrbU1td3BiZXFMZ1dtMVczZ2Q4anZod2M2N3Zhem9rV2dKeUd5N21DN2hZWUNzLUMzZnc4Y0JpYVFieWhOVi1pM0dFRzFKMEsyMTU3SWt6RFg1Qmd6eW9Bd2FYY3FHRWJoU0w1NVZVanM1dDVJWGhuUzBrV2JnTDNKY3pYa3RhMmI3UGNVNlZKcHdmMzF3ZllZeTlaV3V1WUZ5UUZkLURzT2RTMjBjaElaYUVpYTFISzQzdXpkNlZwY05JbDZCdjhmQl9wd9IB1wFBVV95cUxOSUtwQWV4LWlwbExrbU1td3BiZXFMZ1dtMVczZ2Q4anZod2M2N3Zhem9rV2dKeUd5N21DN2hZWUNzLUMzZnc4Y0JpYVFieWhOVi1pM0dFRzFKMEsyMTU3SWt6RFg1Qmd6eW9Bd2FYY3FHRWJoU0w1NVZVanM1dDVJWGhuUzBrV2JnTDNKY3pYa3RhMmI3UGNVNlZKcHdmMzF3ZllZeTlaV3V1WUZ5UUZkLURzT2RTMjBjaElaYUVpYTFISzQzdXpkNlZwY05JbDZCdjhmQl9wdw?oc=5",
@@ -951,6 +1037,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "02dbc73fece612a8",
+"title": "SBI seeks clarity on handling NGO funds under proposed FCRA changes",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVgxNk95dm1rWmVHQ0w5dXZUczN2MXV3RzQ3S05zVkJHYkw5NGx5RmVJUEVFTlJoSVNoZ2NOd3J4cmlfeElraTY0NE5nVUJuanB2Vnd4UW9OSWpDdkhJOWZMYTJkOWtXby1vM0tKM2NEQTRsTFlyZHpkeF94a3BGZzhQdVk5RlBqcGNGblBmclhoR3BUOFc5cEt5TXp4NWRVLU82ZGVEQU5RalgyR0tVNXZTd1pqb1Z6RHY4QkxRcG1HeEZMd3NqRHM2UTFMa0hZN1HSAdIBQVVfeXFMTk1YMTZPeXZta1plR0NMOXV2VHMzdjF1d0c0N0tOc1ZCR2JMOTRseUZlSVBFRU5SaElTaGdjTndyeHJpX3hJa2k2NDROZ1VCbmpwdlZ3eFFvTklqQ3ZISTlmTGEyZDlrV28tbzNLSjNjREE0bExZcmR6ZHhfeGtwRmc4UHVZOUZQanBjRm5QZnJYaEdwVDhXOXBLeU16eDVkVS1PNmRlREFOUWpYMkdLVTV2U3daam9WekR2OEJMUXBtR3hGTHdzakRzNlExTGtIWTdR?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-09-29T13:33:49+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2106,6 +2208,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "56730e32a83bcdd5",
+"title": "Reliance Industries Prediction for Tomorrow: 30 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdElQRGNxS1BLUllKbDhReXNZZ0pzWjdZS3cwQnRqcUVkX0hQbHprYjJXTElObnQteEo5WkIxSHNZY0VsSXdWSFJhTC0yZlVZVDBfaXA0czBLeG5BMXVuT3ZqMmtBQ3RwU3ktMDQ3bUthaUN5dGNsTEY5TFBQUjFhWDdRMVptNVBnMkE?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:48:00+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "06c7b7573696bb98",
+"title": "Infosys Prediction for Tomorrow: 30 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zQXdudGlYMEVfOUpnc1gtY05PaU5HX2QzRDA2UWE2aFo5T2MxcGxnQXZMaVNUdDluMUFweVFhT0o3b1Y4ZlJoZHJyakNMVXRHX3RoQXJ4aWhialBKT19hSGFJVk9YS0dBak9SSVJhZnB3VlhIbVVPZTR3?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:48:00+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "172fa901a264b3b6",
 "title": "IndiGo share price: Goldman Sachs sees over 21% upside | Target price, detailed outlook",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOW9yVlhJWGxtMHdqMmR1NjE3RHVISlpZOVh2LWFpRUxvdENfRl9XcVFudzdOQVQ0aGstdVQ3QU0weURBQl8zWG5PQXhZbHlzb1NVZXZMZTJKQWo5Q2s1TjBUWW5NQ3dHWEdxbTgzY0lWQi1fbzF4S2VlZUZUWVg4VHBmZUt4XzlkcHdqQTFWSFdzRGkzMmt1V3JGQjZlcWt1QXhDbkU0SDRiMjFmNW92X0RPWHM2U0F1WVE1ZjNEVjdRMmFKbTgzMmJZQy1iSk5udlJfS0JxeXcwMGpMSDNnaVJTc1YtS1HSAewBQVVfeXFMT09jN2x1SllYTkk1SFc5VGRMQVRLc1JWMmdvU1M4a09LNGR5M29GQ19hSHdyOWVBLVVPRndfVzAwUy13ZVpnZGZiTHktVWhLbHJRWjNsOTlHVEVHbk5NTnRJMXN2Z19aZTRnVjhGSnVXZFItQ0prblVHNE1WcFNWUXRuS3dSMXJyeG1pWENGNUtFNGhvODR2Z3c0ck53SHVNdFhqNl91bnFUNncxUFozVElFTWtsaUc4TTJINklsWFR4ZXdnTllRcS12SHVFWUotODRYbkViWG4wa0dzQUEtZzlETVhXa20tSnBWLUs?oc=5",
@@ -2218,6 +2352,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "0a7858be7b0a226d",
+"title": "Reliance Industries slides Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWpHWlB1UWkxb1RnNXZSbkVfdm1UNjdKb09vdnN0NHZEQXpSdF9xQnlUak1jVGdMOUdFT0lrTDd4eHBCZ2drSkx6enZybzVEc3pmMWtfQ0NGbm1zMURuOGpSYkEtOFdNVklfb2Q0V1V6RGhmdUJXMjV6NGtxRmtTbFRGaG9RLW1ITmMtQ3REam9CWHNQdzNGQmowbHF2QjZTUGJfVEZXSGNqU1lTMW4yOXFUZGJjTkduUmt4LVdRX2JSQW4xdnY2WW1ZbzRZZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:30:00+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "6ce59781b74aed69",
@@ -2622,6 +2772,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5a34c320f1400970",
+"title": "Tata Steel and the Netherlands government agreed to extend the negotia",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXhKZF82OFQ5VjhJNlRvaDlmMTBIVllNOHhmVF8tLW1YZUMwNThpTXlyYko2Zkxnb2FTZnlWQ01mYkJLa2c4elQtZzl6QjlUNHBST1h2TnZmOXlYM2ZBTXZoV1FCRGNNQ3NYMG5BT3QtdnptNE95SDFwRG5xcDNhWnFjUWhyeVMtTHNNS2xGUjJaclRrWW9Rc1E3alZMbk9RRFFNM0FsZU1sajNuRUlBWHRPdW5OaEZwM3dRVkJsMGN4bmh4b1NEbndYekhPVnJsblRV?oc=5",
+"source": "Shanghai Metals Market",
+"published": "2026-09-29T09:57:00+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3942,6 +4108,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "c7be54c42ad79838",
+"title": "Reliance Industries Plans Securitization Transaction as Part of Financing Push",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3RoMjJjdkhOaDBCU3lYQkVDRlpWMGFGVExoME1JZmNrUzVLVzJQbUhrNDBjQUZKUlo0SmM5VE1jVkw2RnBfZE1ETXFmYVFwWGdzVndLOXRxUGR6UVdYcC02Rnp6b1ZrcmlIWF9iTFJOZmg5a1BrQmk3MmpKb1B4eFFjNEw0ZmNSNWRKczlKY1lZYnJIdGhxamlwTlg0d3JfZExTeWwtbTI1Ti0tQlhJZDNDdlZGOWc4YVcydGtVaEtBLVZmMGlZcHptalgzUU12TFpiZWJZQTdBS1E?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-29T07:17:00+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "f200cc150ef3be3d",
@@ -5877,6 +6059,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "11f27eaa0011575f",
+"title": "Maruti Suzuki Jimny On Road Price Vikasnagar Sep 2026 - ₹15.03L",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelZLNUZZR1JDUUswWnpCeGVaNmdKOFIzVWJhY3hIUlhwQV80cDJuNkZSVE9qeWk3S2xoUGtCTEpRSW5nT2NQNWZnQkJyUzF1SW51Yi1GeWU4UHdEaDJEWEdYSnNlRkh3dVYyY0dHb2FPS0l6d0F5cXotdTNWUEZRNDhn?oc=5",
+"source": "zigwheels.com",
+"published": "2026-09-29T04:26:37+00:00",
+"first_seen": "2026-09-29T16:22:17+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
