@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T12:52:55+00:00",
+"updated": "2026-09-29T13:22:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,121 @@
 ],
 "items": [
 {
+"id": "48060cba744f3b64",
+"title": "Infosys, Wipro shares crash to 6-year lows as IT sell-off gathers pace; what is weighing on the sector?",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaFZxazJxVldqZnk3R3dEd2podDZUSEloRlhsajlaVXUxeW9KQVR0NC1QNzJrNDZhN1E0NWVrVm96ZGgyOTZhX0tlZ0h2UlNIeXNTSFdwSnFIb0lUT081MTVHRVVXcGd4eTdjZDkzaEI0SGpQNUVYc0JGeDVScHdQQWtCc29nTzl3V1l6WENibDI2WGZ0NnNBRGdUX3YtS3c5YmtyU3huMkxDMnFmM2s1MmFNWGRmZVNsdUNKc0dzOTZQc1RXT25ZNjFsemRkb1l4dW1fYVdXdzNzWFhDaUtuNUd2Wm9PN0JmR09iTlpCRE5TdXZ2NGF2VS1rd0VLdXPSAYQCQVVfeXFMUGRtTW5BaUFmVkItS0lZS2taQkh5X1F2RmRBdU01d044dXZkdEVidWZaa0l1eWpyX05aOVNCdmNIaEItSXNZZjNmM21yQUZ3eXYtdXoxblRoMWwyZ3hCcHJ1dGcwNVRDeFV3OENYcWdlNExYOUU2VFFyRXB0ckVlNlgtWDhEZVFNTkNHbzA2SDBQeDhUOFNCUk9OdHhKdURiUnJlU0I3VW1fcmhrY1duNUVQcDlodnZzMFY5V202Nk5iZFI1MDhOSl9RM3NXUnZwbkYxaHgtUlFkc0lOeUZ0eGVmZlBiNE5SZ2lyX083aEtXN0tLVERxYW1Cc3lTM2lfd3hlYTA?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T13:06:00+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "b21f5915c4a33888",
+"title": "HCLTech study finds 84% of wealth firms need AI-led redesign",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjVnTzJDMDBJSHFyMm9HQzI2a0RVQkp1Y293T0tadU52NDV2U0ljcTYteHAyNDNPWWZJSm9uSThsUnRnUHg4dU83aThUY3NjLWRWcDFaaXFvaWFWNmhWUmM4MjJkU3I5MkFyaW83Vjdfcjc1eWNDaXd1VC00OVJSb0pHREtnSmM1ZFJGNWY1bw?oc=5",
+"source": "Telangana Today",
+"published": "2026-09-29T13:05:27+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bd919b89cb4348e7",
+"title": "Tata Steel Infuses Rs 3,260 Crore In Singapore Arm T Steel Holdings Via Equity Mop-Up",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjlHaWR2cGZqajJvTHkzWkYzQjhHWHFqaDRnMndreEdMZmRnU3ctU1dOc1o5blpPYVpHTlhKQnhPaUs4cC1yVVN5bTI4TDZKeE9EcFB5T0dzR05BV1ZBb3dUQ0dGSlIzY1pFdEVpWkdGcTU2dFY4aHNoMlh3SHBvTDNxZUo4elNmdVVybUY0NjlIbmk3b09pSmlBaUdNbi1ueGgtd25tNnU5Yk5EMUpXazNjbzYxUWQ5OTgtSGFaZWtLMW5RZWVwZ2Fn0gHSAUFVX3lxTFBTOUM5eXJmU19PN05jT0lKSXp3QjA5Q1BWSGZzNFFfQ1N6ekNvcDZJOGZ0Nnkwb1VQTU4xTnJQRkhLLXhOMm5menFybFdwZUhkQWxRb0xaU3JXd056LTZyWTdldUlnZ2FKNW5nTkNTX0ZTR3poblVsYWNjUWdyNWNNNG1QaUJnQlpFVS1Pb2F1MEN5M2Ytd2EwSWMxZ092UWFDanhTMXgwSTZsTENJYUQzVzFHbnFFVnBNSGdWU0M5ZjBzVEJnc1BobzFpeXRCMEl2Zw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T13:00:29+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b02ef6588ef7344",
+"title": "Portnoy Law Firm Announces Class Action on Behalf of HDFC Bank Limited Investors",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMkt1MmYtYXJseG5BU0tQc2pRTmV5eUdGN0JEdkFSMlBIemhaR3BYWjFoRmNWRW1KWWw0WTlJSUxhSnJVN2FWTFNuTGRZNkVyYVpoVkVyUDVhc1pUMVdXWWFqMGUzbXRQT3VJMm5TMGlkRHdSWjFMM2doNThieDZLQWpFQ2RBWE1qZ0lJWVh2cGRkYUxTSW40WGw5cFl3QWNGelFscmJmVGpLcWNocExxTHNaVDJLVFFoY2JReXJIVFpoWnh5aTFOMkIwSkVRb1F0QWtwUlBKMndOMEJQdC1NcHU2TWNHRmM?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-09-29T13:00:00+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "400b0694e4b8a312",
+"title": "Bharti Airtel pays ₹3.53 lakh DoT penalty for verification norms breach",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlSSVppeHdNVGdNandJal9NRlIzZXNUdURQdlNHUzNVcnNseVo3UUg3SFhKVnJuMDdwYWo5bFUyelJuN1h0eDViczVnQkE1bDR1VDdZZHcxNjR4SnFObjYwSzhzZjJyelgxZ1VxekNtdFNnaVc5UEZ3Y05STlJYVXpuYWRvcnRFa0Zfb1FwemZuYnl4NVpCTXEzaHF1TTI1MVpjc0lFYmtoeHQ0eDFRNkw2TXN1dTRZSGRjRHA4Rnc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T12:57:06+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "4e9308ec595065df",
+"title": "Tata Motors Passenger Vehicles targets 20% market share by FY 2031",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnpfS1ZMTnVLMlRXUUNaMzJVODFHSG9QTTU1UXFnUVJxTmI2MFM0UWJzTWNReWlEUDdydTJTU2ZDUXJpZ19iVkdJdENCTGZjbnFHOXJDVVFhZ3VvU3hUN3RELU5BR3BQWFFmMjhzV0Z5OXVlQnVRbk9ESGotZnQ2c2RzdTZIU1VOYm04SXVHeHJnZDhuMjNtdVBEWW1EVVludkZoTU1lakNDQkNIYXpwVjdFMnY1Y0s3UXFJRU1CVHdmUQ?oc=5",
+"source": "Team-BHP",
+"published": "2026-09-29T12:54:28+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bf3335912e57e8e1",
+"title": "Shriram Finance accepts $459.98M in tender for 2027, 2028 notes",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHlYT0x4S05iWVZGMlY0OVl1X0p0RTNQa1ZkZEhaX3FvOTVjWTdZUFA1NHZxeXRTenZNNnl4QTlESXNENlo5NG5PRmJGT0xYRXdLT19BUThOc0I5QW9VNWs1V3NYR3laQXBvZmh5dGdXM2E1a3VTdmktcl9oVF8wcTRlZGFGU0NWdkV1Y2Y3ckdoYzN2WHUwcUl2b1BuVVYtT19FUHZUZ2NZU0JPYVZRNw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T12:53:25+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d10fbc5b92665b01",
 "title": "India: Ultratech's Kukurdih cement plant meets full electricity demand through green energy",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2pfWWZ6Q2ZtYlh3aXVURjdXYmRIT3EwTHRQTlVqVzNiZW9JQ0ZkbUc5bExZN2dMdnljRDVMcTlBQTBnYnBIZTZMVlktYnlYd0d0clZWTjlpdHduZGN3d1lqTU5qTHd2Y2FxbXhORlhXa1dqQ3NoTzg5empjWWxlY2pRRU9vaWloWkZBak9CZGhlUmp1cV92LUFEdkxJWkF0R0hKbTVVSVctb1g2LXJWVHVxWVlpaDh2LXR6VmZJQll6dXZyanVIZnMwOXhTZERWR2c?oc=5",
@@ -589,6 +704,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "90e9fbceb02eeb69",
+"title": "Piramal Pharma Gets GST Order for Wrongful ITC Claims",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTlTRDFieXkyQVUtUmctYWdPdXdtQ2w0dEtQRndkeERHMWVhRmU5UXZOWHVVOFAtbTJISkNpSW5meDR0eUpMYmlKNUdzcnFMejEzbTd2dExfVzk1TzBnMWZhVkR5SHgzeExyMTkwYnBVQk1IU1AwYVg1RkROXzlYd1FOQUZCeExQVDFPV0FUVEtQaDhSSjczeDhGeEZxdDlBNjFtVnNSVlhiLS1iZkHSAa4BQVVfeXFMTkE5U0QxYnl5MkFVLVJnLWFnT3V3bUNsNHRLUEZ3ZHhERzFlYUZlOVF2Tlh1VThQLW0ySEpDaUluZng0dHlKTGJpSjVHc3JxTHoxM203dnRMX1c5NU8wZzFmYVZEeUh4M3hMcjE5MGJwVUJNSFNQMGFYNUZETl85WHdRTkFGQnhMUFQxT1dBVFRLUGg4Uko3M3g4RnhGcXQ5QTYxbVZzUlZYYi0tYmZB?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-29T12:17:28+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "74894f0acea21495",
 "title": "ASICS Joins Tata Steel World 25K Kolkata as Official Sports Goods Partner, Brings ASICS Running Club (ARC) to East India",
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONjFWZnNBOWI4OGs5SGZSR0owYmh2MWVXV3NqWFRwZUItZms0eV9NbjJ4dVV5Q2FFTFBWcS00MzBUbHRFdUQzMFVtc21FalNEUUVBMlFMWkhZX3M4OHY1ZnNlckh1NVNiWjJGX0NzUjh4TXhPVklnZDhpcmJVVmlnZ1pHQ19lRUdPei1vY2JGVTRHZzlKNExGdGV1bUYyQkhUTUtRVTNwVTRMUHRpX1A2d1pycUN4YTlLNWJESkQtclpzTGNubU94SllpZ2JvTlJxSGlHaUZfTTFqR3lNaFB5NkZPclZjLTFJRW03aQ?oc=5",
@@ -685,6 +819,40 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "1a81bbc425f534e3",
+"title": "REG - Tata Steel Limited - Disclosure under Reg 30 & 51 of SEBI LODR, 2015",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcVpSVHphMTBVXy1RZTNIRTk5djhQbUlCazNyODZ6ZlU5RExnaWxaRmlmTWduaFUtMkRPM0ZLWkxXZFhqU0h5Vi1CX3RYLW1LSm1WZ3dvdHlrM0xyS21tUlBZZkhmS2M4ZlhjWFIyZUk5bmJCMDZkaFFoWDN3OF9OSU53U1RHMDlDamwwWncxeUN5QkxETEotTFM3eFIwTUtRQXJDZnFkbEJwU1RVMmNESmhhdlloZ3p0Q0o2RU03UUFveFMyV1hrdlI1eDlLaUlCVWY5aWt5Q3MtNUE?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T11:57:12+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2445ef20585524d3",
+"title": "Sun Pharma plans $1 bn local debt sale for loan takeout",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1lXT3ZSSmNqUm9HU1pOcUtRTnIzWUZZaU1DT2N0SEV2VzNjTWc2Y1NwZkhhZV9teVU2Y2x2dkJUTXRTSmRyM3UtalY2TTlqdHBFSm9YbUFmM0hXVHlFYXJRT1pZSXRJTU1ObWNLUzZ0TEFwZU5qeThQTDg5amhMN1Q1S3E3dk02TjROdg?oc=5",
+"source": "VCCircle",
+"published": "2026-09-29T11:54:05+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "f10f7cb35b547b2f",
@@ -950,6 +1118,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "c9ab67d53244133f",
+"title": "UltraTech Cement achieves 100% green energy milestone at Chhattisgarh plant",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW9ldVFBaVJ5Z3JBalJoNkdld2ZXSUdWeE9DY3B1cTBGZXhxQV9kVkRqWHZjWXlnR09WZVlnZ0IzN215dkJSUjhkeWg0YlhELWFuSWxENzdDT2VfQmVoXzhWVkw5OHh3UHBnVXd2TXg1YXZ0bWNVWDFXWlZ5RVFyb1RqdmNOQlM1OFk3dlViQVB0dWVWdjlqelVpSWpZYnZtSFRXZFV1UV9Pelg2Y3RsbzlwTkU?oc=5",
+"source": "Indian Cement Review",
+"published": "2026-09-29T11:25:09+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d65b3f1a283a37ce",
+"title": "Coal India, HURL sign MoU to explore coal gasification-based urea plant at Sindri, Jharkhand",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEktbXlkSzJpekxOclpSR1diTGRmRFZlTEdZQk9uMk91WkNIeEVhU05zRV9JQnExQ2JiVF9mcWVHUlgxYmprdEdoNUhlQnQ1YklVTXM5b2F6a01sQnpjX3hBN1hGNHBwZ01McWpTTnBfWlFia1RqajRSMnh5Nk1ZYjRxZkY0WjltNmJvb0laaFdMY25Zd21nemtkTHI1b0RTTkpSQS1Qb1JpaFRVWDFZRWpGS2tEa3l4TXZjbXNKR0RqQlVhaW9tcF9jbko3TlNMay1qVlg4X1RIRjRnWThTemE2UkhGZXdmUFVmVlE3RdIB7wFBVV95cUxPUEktbXlkSzJpekxOclpSR1diTGRmRFZlTEdZQk9uMk91WkNIeEVhU05zRV9JQnExQ2JiVF9mcWVHUlgxYmprdEdoNUhlQnQ1YklVTXM5b2F6a01sQnpjX3hBN1hGNHBwZ01McWpTTnBfWlFia1RqajRSMnh5Nk1ZYjRxZkY0WjltNmJvb0laaFdMY25Zd21nemtkTHI1b0RTTkpSQS1Qb1JpaFRVWDFZRWpGS2tEa3l4TXZjbXNKR0RqQlVhaW9tcF9jbko3TlNMay1qVlg4X1RIRjRnWThTemE2UkhGZXdmUFVmVlE3RQ?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-09-29T11:24:38+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "18db051d7c7a2a3d",
 "title": "Tata Steel 's tax exposure reduced to ₹1,259 crore following favourable tribunal orders",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGRTTE5GazJKZnVMVzJLRUNaQVQzX2RvS3hvT0s3LS1YTGVGZDRmUWQwODBBVGp2R01UekpPcHV4Sy1iVnBwa0ZIMDd3dWxRUlVJS0RILXEwQjI3eDFjclRoajNRTjZNeUhld1N4bDhNZGM3cnRGQ3JuZmxDSlVlbXp2YW81VUMteXM1c21kRGMxUjlzb1doejlmOUZraVlZQWlHMEhzaVZpWTlYaWs3M1U4amVBdG9HRUVaUXNZem1YN1FJaUZZ?oc=5",
@@ -1203,6 +1403,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "2433568b799c9173",
+"title": "UltraTech Kukurdih plant achieves 100 per cent green energy",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhQnN2anRSMFRSZ2lFZmczQ2VTN1Q4OUJHNkJ0UUpwQTB1N2FYdjYyX0d0OXF6ZTNaY0czenBCRW96NWFxVldQTnhCVGxVU3NLanlnSEdJdklVeG5qWTVrMXJCZWF4cnNod0lxSEY2UUEzcFZnNkJNenBnOA?oc=5",
+"source": "Manufacturing Today India",
+"published": "2026-09-29T10:26:40+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3fb7456adbfb5591",
@@ -2661,6 +2877,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef93a3e25b471bf5",
+"title": "India Energy News: SECI, NTPC Launch Major Renewable Tenders",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWxOZmN4NGUyM254aGxsTEpEV0hCdVdCXzZjVTFYNGY4d2xlRjl4LXdHYU9aX2xCN29qdmNiOGNySGM0amVQbHFGTFBOdVE2T0N2QVN4SUlSd1VnZ2hUNzFrdDE4M2ZOM1BYcW9zekFxbkFIWnR3M19ETnlJazY5N0tVeThGc1dKbkhqdA?oc=5",
+"source": "mvapulse.com",
+"published": "2026-09-29T07:30:57+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7246,6 +7478,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fbd924ce50e5300c",
+"title": "Bajaj Finserv Deepens Investments in Sports; Ba…",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbjJGYWRnQzBKRFI3VjZvZ0xaVjVxeENKLWhua2dCMnJHMzVYZzdFTl9ZYlZPVDE2S0p3c2ZJSzg0c0dNd19TdTBBRVV2SUY5ZXZxUnFDNVNsZGxERUJ6LUJzVFk2c04xWUJkbm10VzJZclY2YTVQN2xScmZLem1NRDI2eVg1dW9XR0QydzMwQkE0emV2Ty1zcmtpZG9iczdoOFcxZVY3TDlpcThYNi1XakFycmVqNEtoT2R3MDN4ZmFvSlcwSmNONUJOd1JmaHdTOHNHN1JBWk5DNFZzdTFIc2c1OXdEaVVEUnBuUg?oc=5",
+"source": "uniindia.com",
+"published": "2026-09-28T23:33:00+00:00",
+"first_seen": "2026-09-29T13:22:56+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
