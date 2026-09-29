@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T03:29:17+00:00",
+"updated": "2026-09-29T03:46:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,98 @@
 ],
 "items": [
 {
+"id": "b2c0f251b5913dd8",
+"title": "Tata Motors Arm Acquires 26% Stake In Mateshwari E-Smart Mobility",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYngwR1lWOVFfSlBqLXF5dmNIRThpb0REX1hzeXdNU3ZJclpiLU9EUTliSUFLQkhKYWJ6TDkzcmMyMVZsUll2NzFOak5tT1Z6TnVTV3pWUkJNZ2w3MXF0Q29uaW82VVEtRXByME1BYnYtSllVMmg4eFdLSEFlYmk0dWtZT01Oa0ZiMTViaXFMRzNZZ1RkSEdmM1N2UVRSbDdPckkycEJfaHdUTWk1bDlV0gG3AUFVX3lxTE43N3cyeklEM21ULWtqdFd2dmc3RzdlWGJISHhTOFdpTjFWbnhfUE1YUENRRENpTTJpLUdFSUIzZW9XRXpTdzJ2MkV2RkdLSEFDVjd3NXpnMWk2X2ZzYktQNU9sRW1zY0d1Qk5EanNKNFVOQWdWeW9BQmpuM0lmQmpvOXRKd2VSVTlRQk5teEhVTUk3RmxNV3VGZ242NUd3UDN0NEV6OUFVblpmVTdkY3hEZUl4VlpWVQ?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-29T03:44:04+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9390b3d5644e4f84",
+"title": "Technical analysts recommend selling Hindalco, Adani Enterprises, Coal India & buying Hero MotoCorp",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2toUUMtRnZWYWNGbzhNbDdvWkZnYzEyRFh0SlY5aG1tZk1FWFNKanRGWGZKZktqMjdyMFZjZXdldksyY25pMURaNUpFQ3pkUVYyQlNEZEJhb0ROUWlkcVBYRDJoVnk5Yk1iRV8wV2FaR29aYTJ3R0RfRzhvQ214U2FiOFFmeXEwMEp1NDg4UmJQS2VyVVB4UXROSVBELXpiNE5Kc1AzSW5tSEVSLXJLZ1IwQkxzd21Vd18tTEYxLUlBakN1bXBmR2dkNl83UnfSAdQBQVVfeXFMTlZhdzdWNXU0YzFmUU9JRkZnVTFCMWV6dGF3dkZ2dGZ4dWtHaE0tZE5ENnpGODYtS2VvOXo2ak9JSkdKQXN2R0gzM0l5bUJnUU8yYm9JdGc3bFc2eUIxa1ZXWkxEZjdZR0hKZDZPNkVVci1iX0ZCVXBFQzEyTXNwYkJ0M0o2Y2hBelFNUDhwTlVLM2xybl9QaXdKRTFwV21LbXlOT1JOMGExbFNnT2lBRmpNNzhZNHZsd3FLNTR1S1RnaHpOT01MWENMaWN5d0ZVeEhHZlU?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T03:39:39+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"ADANIENT",
+"COALINDIA",
+"HINDALCO"
+],
+"groups": [
+"Adani",
+"Aditya Birla",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "768185cc1184aa32",
+"title": "Adani Enterprises, Adani Power, Adani Ports: Why four Adani Group stocks are in focus today",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjB1UlEtd0pRbXRfYkxadnhsdk5XODM4bGRaVnN1OXBqSFN4VmNjRzh4R0p1WDNoeWsxbVkwVGdmMGxnZzVjTFdvSnd0d2F3cy1FRkktak5JQlhrZF84YkNGT1RwSV9sXzdpVmxDWHlFT1hMS094Qm5fbnFaRWF3emd4NllSR1pYeU1iSnA5SWJlNVAybFhranp2em04ZEtRRXR3anVFSDNsSEkwei1JVmVnTkZ2NVMtb3pRTGRyd0lYZl82NE9aOGZnZ0RtTEExSkt6NXBxaEZQNElRTWZ3Mw?oc=5",
+"source": "Upstox",
+"published": "2026-09-29T03:35:03+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f272f0992e4342d4",
+"title": "Top stocks to buy for short term: M&M, Engineers India and 1 other by Master Capital Services - Target price, stop loss",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVHBka2h1WUJKMzZxZ29zZ3JMbExGa21mejF0SDd3WWszdVluTmFTbTZYUGtUenlQVEQzUFA5TV9BdFFEaDhNU0MtelR4a0ZuVXZjQ1V2RzY0VGRGMXE1dFJFd1BKVEFXeFlDMTVCQld1NW1HSmV4dFg3WWlwMVczUnQtRDFwZmluaXhVTUJwbUdGWi1lM2lPbjN2T09nNHdvbzA3SDhwemVVSHZ1NW91a2VlcGhRbmpieFhuQTVzVkE1RmhrenRQdi1tWkduQUVSMWdiQjEwM0NUcklaQ1hYd3c2dDhSMzd6X1p0TDdCT0xHd0pnRkpwdVJHZkQ3VnRGSFA4YXVpLTR0TlXSAZACQVVfeXFMTTVqR1J2Nk1POFJ5N21vc1ZzQjFIcmZhOTkzY1czUm4xNUdZSUVSTEI1UXNWUXhPXzZrYXBlSGN5X2l1eFFZUmdZa1o3NHVvblAxaXp6aGpZYnlnRnEwVW5JZ3FXNWdKQm8xS2hGRVpWb1U1eWx4N21iOWVIdGtGdlBTMDRiMGxSNndSVFR0cjJxWlV4b2lCOENaTlNiVnlwYlFKUTV5cWU3ZXBXTXNmX2RwUDRhaFFOMXlqWGczYkxNdjVma1FVQWlndUVkbTNNTEFiMTd4UndiS21CNUNHUGpodXQxdFNZVG9pVVRnUDl1WWNOSEI1dmRmYkIyVjhna0xWMVpORUxnX3BTTmdOR0k?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T03:35:02+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
+"id": "94b16177b1d6e5fe",
+"title": "Adani Enterprises settles SEBI case with ₹37,05,000 settlement order",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGZMZkJPdERWa2xvb0RxczI0SDQtMWpKbVQwSWd3cW5vTEVIREZZSmV0c2V3TDJVY3ZkaW9FdWRRT21aazh4a21vbTM5Wks1R1pIcElzZ0UzTGpROTNKd1hEM2xsQkxwbTNjWnhZU3RBR3pjMUJ5UUtRTC1lWjdOc3V5d3VnUGdVWXI5S2lBdVhZN29ZWVFOM2NGX3Q1Sl8ya21Rb3R3QllsUQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T03:31:53+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c2decf34f55bdf53",
 "title": "Adani Energy Solutions settles SEBI proceedings with INR 37,05,000 payment",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFNpekJ2VEZZaHZGUmlWQVA1YnNSSEduU1J1RHhJQlVPNjJxQWhhU2pIdVhRT2QyUUo4MXNvWkE5djVFa2JuMkw2LUVvYWI5bDgzX19kU2F2TXNGbWpZdmRjT1hkQXRvMWtENmFFZWFnTkt4QjBNZF8xREV6bFpiX1BHZFdxQTZ6a3BaZjRFUUx0ZVFocExUUkZtOHVhYkc5X3lrVWtvRjd5aUxNQzE2akZ5c3cyZw?oc=5",
@@ -460,6 +552,54 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1b75efc17f065f24",
+"title": "Tech Jobs: Infosys Plans To Move Up To One-Third Of Its Workforce Into AI Roles",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWdkN2h6bFkyS0R1MDAwS1pNd2F1dDgycWljSDV5ZXJBTG9tR3ZfZDE1QV90MUcxU1BUcTNSNlJqUDlCMzIzaF8zbmdqVlpjUElQaGZoYTNEd2NDU0I0WlRCRVBZTTBwWFZOTEFoQ1hJMDI5OEhYYlRqMkoyNmhtcUU4TjZXUmJOT2c3U2dBdElYbDdYSm8yaXh6SVpyeVJrbHdlMXh0YVZCMTRCTFlzcFJhM1JlQdIBuwFBVV95cUxQYTI2eHhKZkR5aWJxNmVVdHhxNDlEZWQzekttaGhmbU54SXd2eWxTN3NjMWNWY0RkUFNFcmZ1eTRjSzNsQWpFU29mTWNqREVaMzdpQUp5OXVvS2NSeGJDWFgwOHRJcW9rNzg0dnJRUEIxZHhWN0lQQ3RFOG9YYU16YV9tTlVINXE1c2hySDVPenpfT2R2YldYdVNXTmlWeU5JT09RM0wxTnFneWZpUHdIcVRrUTNKa1o4UVJr?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-29T03:26:38+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a2e00cbd7b344aca",
+"title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speciality drugs",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-aurobindo-pharma-other-stocks-in-focus-as-trump-exempts-india-from-100-tariffs-on-some-speciality-drugs/articleshow/134555109.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:26:22+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "85c0c5daf43a88ae",
+"title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci",
+"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmd9IBnAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmdw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T03:26:00+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -567,6 +707,22 @@
 "sentiment": "negative"
 },
 {
+"id": "7719102336e83daa",
+"title": "Stocks to Watch Today Sept 29: Tata Sons Restructuring, IRFC's ₹4,200 Cr Loan, NCC, ITC and More",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0pVd01ZWjhzazNON0ZLWTdaZy1JcTlLSnlmbnV3UllUWWduTm9PUjJKSVJacjNYa1NBQWg3ZGZCNlUwa1dMYnF6b25sN3o4S08wNHNxX1RfX0t2WkV4N01nTzk2VXFCM0hUUmlxSEQ2TG4yejBmMWo5VUFOX3pCRHdsbmdwX0k?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-29T02:58:25+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "814ebd0dafd9fb21",
 "title": "Stocks to watch on Tuesday: HCL Tech, NCC, IRFC, Ola, September 29",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHU4elhMZXVUZXdoc0ZXa1pPcEFKZ3EzYkQ1ZDg5N2FhZWl6NjdOZUozY28xbHc4d0VHZWpRMUVWTkRuQV94dW9ELUw3WUdOekdzT0YwMmJwYU10eHVVdHdOVXJfakdqNzBoZVhwTTZZdlhCRXhPT0hwZlRVdzVaTFg4WTFzcTZucVZNQVY4aWN3NUh1NVNqRE9hVGtVOHMwNHA4Q3BWMXR3YXlaQ2h2Q1ByVXlYeTZzQWFKdkNsWGRIVFlERUpkdDNSUG5xSXVSbUdv?oc=5",
@@ -615,6 +771,54 @@
 "sentiment": "positive"
 },
 {
+"id": "21c22060bdf9d895",
+"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement faces a tough month",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-29-sep-2026/liveblog/134554526.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:50:05+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7ee597368a245533",
+"title": "HDFC Bank Share Price Live Updates: HDFC Bank's beta overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-29-sep-2026/liveblog/134554525.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:50:05+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fe5ae89a7e8e381e",
+"title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Summary",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-29-sep-2026/liveblog/134554506.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:48:45+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "22ddf7dc2917524a",
 "title": "Stocks to watch today: HCL Tech, NCC, IRFC and more in focus today",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VUQ2VxREhuYUhfT1RORlhNSDdDX0FjNko5U28tRkJ6UGI4VnFRSURFUmc1amZBdk1CTHozeVJjV0RYZ2ZMSXQwN05kX2FzMk96V1ZTWXRsRlR5cmoxOVllakJsSzVkdnp4bEhGdGRvNmYzLW9pRV9YM1VKR0tZVFVLeDZEdG5jdUVBeHlucXJlMVB6bkFGWHk1VVY4VWdKWWtzQ2pmZWtKbGl0RXBwQW1PUEHSAboBQVVfeXFMTWNISE9kbEFHN0VSUWVKenpnaHhVdW9SN1VTVWRzbmNYSjZwMXVJbi1LeGpvaS12NC01d2h0NTdvQVpLX3pSdHJxRHFBNS1uSlkzaVBjcGZhQmtqS25JVWpnbmhwUzVPRHdlaW1UekpTMEVRMjNDbU5HY0xYX2dhcW9lSFN1ckNnQ2JQWG5xSVBBX3pXazFpa3p2NXdMWlpKT2NFTmpwNnh2WHRrWVlLdjRpU1pvQVVPUHdR?oc=5",
@@ -646,6 +850,23 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "dffb8605174eb8ab",
+"title": "SBI Life Share Price Live Updates: SBI Life's stock shows consistent performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-29-sep-2026/liveblog/134554474.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:47:05+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -747,6 +968,56 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "2d6d46db1242bdda",
+"title": "HCLTech's arm to acquire Croatia-based Robotiq.ai for 9 million euro",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWtYVXROb01pYnhIa3V0OHRQb21sdzI5TDlVTlROZjNBME0zc0RvYWVmMkxsNWs1TE1EcS1TT2dzQkIwSUxBNXNheUZmUld4X1hHRW5vdWJXUXJsZXJGUE1oSGtDVjRrZXJmTEZhb0pVZmp3V2lEckh5WE1ONk5lUndHcktGVDJCOFRFVl9SZ3RtTnNuc0lZRzhFQlVka3NveFJZZkNUNFB6d1huLVd6R2U3VF9HWkFLdUhUOVBOeXpfQWo2ODdQVHprdmllN1N3UFBFR25UdWPSAdgBQVVfeXFMUDFrWFV0Tm9NaWJ4SGt1dDh0UG9tbHcyOUw5VU5UTmYzQTBNM3NEb2FlZjJMbDVrNUxNRHEtU09nc0JCMElMQTVzYXlGZlJXeF9YR0Vub3ViV1FybGVyRlBNaEhrQ1Y0a2VyZkxGYW9KVWZqd1dpRHJIeVhNTjZOZVJ3R3JLRlQyQjhURVZfUmd0bU5zbnNJWUc4RUJVZGtzb3hSWWZDVDRQendYbi1XekdlN1RfR1pBS3VIVDlQTnl6X0FqNjg3UFR6a3ZpZTdTd1BQRUduVHVj?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T02:37:58+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1c0dee5824a1d467",
+"title": "Hindalco Industries - Negative Breakout: These 10 stocks cross below their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZUZ4WjBzS1poWWNva0JsaFZIV3M3NjlEVUx1a1J1RGhPaTROR0ZET2FkTW8xWDluazhzT21adExNVDhDbjJlY25HZHQ2LUViaE8wbVZtNVRyakFVMllXM21OYjU1TGJISmJIeTRCSkJPUFA2a1VQbzFfX0lhbjlFMUlmdG0tbXlvVzVfVkVldzFVUTExcHM1Y2N6U2lnR0FlY3FnbS03SjRTRVFyVG9ZQWJ4QXZZMG8tUFhGSTF6aGFOMmF1TEpYSFBheXVNT0hIUldGcWNqSnQtZnQ5ejllVVBkcmhXZ0E?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T02:37:24+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "90ce3203a2dd0e77",
+"title": "Nestle India - Negative Breakout: These 10 stocks cross below their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazRHZjhpZGFLUkNZaXhTRmU0am1hbjRGbkpWemQtTHk0aVdIUE9uWTdmaFQ5T0dPZkZSTFpNaDVWMUxhcU1OWVliOGxSanNkalczTVRZZ2dKbUJJSEUwNzFPdWhPNTNScU96bnAwRUxSaElFM2ZlQVp6OWxTVU5yc1ZnY1ZNNHplMDhyTThmNEpFMTQ1bVRrUVNqUjh1UGlaeENVY1ZmOEJjUHZUc0tOdlctNjRpQUpRYWJRSHh6TnpOLTg3dEV6VDliYnhFZ3AtZlVmSGZjSmZPME4tS2c?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T02:36:28+00:00",
+"first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
