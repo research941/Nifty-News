@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T07:13:07+00:00",
+"updated": "2026-09-29T07:31:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,90 @@
 ],
 "items": [
 {
+"id": "e52c427b2cc5fff8",
+"title": "Infosys may move 1 in 3 employees into specialist AI jobs: Report",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTW9HNnEza0FycmhBcjg2RzJvMUpDclE3SkpMdlhnM0hkS3JKVXlCSEg2cVdsZXkwSW84U1JBbWVuMW80T21MNnZJOHkwaFhGMWNxTXdSQVRXaWdtUGdzNmI1V2lXd01xdTVpR2FWZkFsY2FjcHhyTzVod2gtdVlQR1YySFZUWl9EdHB2aXNBN3p2SFBleFFCVDVpUk5Zc2VkVDEwWlNOcGRsUVlOWnExcUJVLTFzUDdYX1VxaDhkQkxpRDQ4aXdTTGtWUnB1TVUwbUktbmdYVTJGdXd1ajdTdHZNTU9fRnJfWDJLUWZ5SGoxYW_SAfMBQVVfeXFMTk1vRzZxM2tBcnJoQXI4NkcybzFKQ3JRN0pKTHZYZzNIZEtySlV5QkhINnFXbGV5MElvOFNSQW1lbjFvNE9tTDZ2STh5MGhYRjFjcU13UkFUV2lnbVBnczZiNVdpV3dNcXU1aUdhVmZBbGNhY3B4ck81aHdoLXVZUEdWMkhWVFpfRHRwdmlzQTd6dkhQZXhRQlQ1aVJOWXNlZFQxMFpTTnBkbFFZTlpxMXFCVS0xc1A3WF9VcWg4ZEJMaUQ0OGl3U0xrVlJwdU1VMG1JLW5nWFUyRnV3dWo3U3R2TU1PX0ZyX1gyS1FmeUhqMWFv?oc=5",
+"source": "indiatoday.in",
+"published": "2026-09-29T07:26:20+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2a57f8ee2f7ccc69",
+"title": "Rajeev Mantri Appointed as Group Head and Chief Financial Officer at Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUk4aHU5Y09NRnRyMTBKV0VrU1VxSUZIOEZfZGMzQ2d4Vkg4QUw2RmJ5VEt3cndHMlIyb2Q3dkdkUmNFWG5tZ0JJNVpwUUhCOFYyZFRkc3g2LTlVUzN6QUxsOUxkLURXWExtWDlVSWdfRU9sZDRPMVVkX2tDMHg2WDZ6Yk9EQkctaENoVnpxeTZuU2hrUzVTbG9kNjNMUVM3STFidWZB?oc=5",
+"source": "Veloxx media",
+"published": "2026-09-29T07:22:10+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e38e664ccd5ea787",
+"title": "BSE shares rise 2% ahead of Nifty 50 entry tomorrow. Top brokerages share mixed outlook",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSDhzUXlGeW5IV3JEcG9qRkR5VTlUSHlGY2lTWFVodEdoUnNCMlMwXzN1cUlGUE9PM0g2TjlLbVhNMmpXV2FXc3dnbUpJVkFQcmJpa044UEoxTElWMlNTUjBXSVBHelF6d0xuemU2MlJPMXo5aFNELTNKMFpFbGpoaFQ4MDJCSGJVSEVGOHdYb0dsYWFRZE5iY3dUN3d1OVJ0bFJuT1VRQURjVnplcWJwOXlXSHJSOFRJclRNSUt2Uk5wQ2NrLThqRFhWYmk0OXBVTkktMlJ4Tndvem5JQnl2Wl9wMGd3Qkk4VHUzZkhvb2J5M3pVTnfSAfYBQVVfeXFMTUg4c1F5RnluSFdyRHBvakZEeVU5VEh5RmNpU1hVaHRHaFJzQjJTMF8zdXFJRlBPTzNINk45S21YTTJqV1dhV3N3Z21KSVZBUHJiaWtOOFBKMUxJVjJTU1IwV0lQR3pRendMbnplNjJSTzF6OWhTRC0zSjBaRWxqaGhUODAyQkhiVUhFRjh3WG9HbGFhUWROYmN3VDd3dTlSdGxSbk9VUUFEY1Z6ZXFicDl5V0hyUjhUSXJUTUlLdlJOcENjay04akRYVmJpNDlwVU5JLTJSeE53b3puSUJ5dlpfcDBnd0JJOFR1M2ZIb29ieTN6VU53?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T07:19:00+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "f200cc150ef3be3d",
+"title": "HDFC Bank shares dip, Q2 results due October 17",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRERfVkFjNFE5RUptWmdxazl0MDVBYXZPekVTY3hUS29sdkF6ZkdlVG5XQzBfR0NPOU54bzE3ckNsRnlRYS1STW1kNDR1VEJjdFU1ck1KeGRVWU9rM2JLM1p1N2JJRk96LXZianNhUElPQklSd051RFBFUGwzX1hHb2V1NzJEUG5ZcjdLcnNlZFdpWFpXQVpYTE1Hc09pV0V6V2VCenc5WUFCb2N3Q1BXSzZSckFhRzktXzMxaDRla290aEnSAcoBQVVfeXFMUEl6UzJua0lQVl8tMHVjZ05HZFdwaXlFdmVlLWZ2TVU5OFdvMllXcXdHejN2Y0RqbUVZMnM5X3RzUlVoX1hVMTBHVkEzMm5wSlNVU2NoalpYTHhCSnJNak9EWk41bWVBcFdLb1RSbExySkw2TG5KZF9Ockc2TjZkQ3RFbFRJWXNWcWhsN3JrTDRVcURkR0FGWW5xQ2VCNlZNdEFWV3V2MndxOEQ3bnFFTWxHS0VkOEFqQUVVUXp0dUxjWXdiUUhCd1Vidw?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-29T07:16:49+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "443914dd4aa31cb3",
+"title": "HDFC Bank Special Window for Physical Shares Transfer & Demat",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDM1OWdBRWw3UjZveDhkOE1TT0RDX1FwZzRUSXhhZDE3TWNsczZXc0tCTHlvd0hCUXprdExnaHVqeC1jRWc4NkVQaEJkSHpVeHoyWnRxbFdrZ3JFU0ltcWc0X2pJMGNYZV9ZSEtBRWI3VnduYmc1bkdWMXliU1Bsc2c4RTI1UU9oWmNrVkNvY1JlX1dwazBBZ0ExOA?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T07:16:00+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b4ec776bd4f4e0b3",
 "title": "Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFpUYVp1bWFOVjhWU2d1d1JfczVoNGFfSWNfbTd1ZjRKVDBqdWdiRTlyNEhfdUJkZ05aS1NjckRyOENPQ0d1dTRSdFhqWHJVc01UNmNHV0pRUHdHYWlNY1c5VnRBWTk4TS1zb0d0U0FMaU5kRVhWd3NyZmZFMkRKUy01MlFSV19qS3EydGNvYm0xbjhlQnRBYjV2dlF3SV9ubmVOUWhCZE4yZWJSMXc2MnBFckExbUdxWTNjOHNkQUJhV25RalZqRDcxWGpvZFBGR1pxcDVGN3BnS3NS0gHkAUFVX3lxTE4ybzZoR2tPTWFpT3VfTzNIbHpBeHoxTDVXZlJNaVpUZmlNaFpZeXZ4ZUx5YzZMM1RnMWNTNEJiUEtDLXdrYnBlN2FoU3Ywc081TURvVHNXZ2p1ZzV3TTBVZjBQSkd0eWtTTHBYYVdLYWl6dlNSQ0g3M0ZIa0N3cmFta29SNldXa1hEdnU2UFo0aHY5WlA5UGdwWnZqOXJvQjJVSWF5RXVEbDRSTXc4LUhlRHJHd2dwdm9sYjJvWjRqcVRnVlVpYzNya21nVU1CdmdXZnhHN2QtbXhXLXBBYmFnREUxSA?oc=5",
@@ -588,6 +672,25 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ebe9c6c6212ee62f",
+"title": "IRDAI commission cap proposal: Why Kotak prefers SBI Life & HDFC Life over PB Fintech",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXowR1dLcFQ3TTlDb0tJOGR1MnNSRUJPdVZsc1BDT3hFcFdfM3RVbXdkNXRqbGcyMUY2elEyTjFfbjJUS2FtMUwxNDJ0dGZ0ZmVqY3RlV3lBUUdxTWRFQmF1aXpLMVA4bGZPT1dfRzlfamJTNVRTTVdUaGVNX2F4WkhVSDlRV2RNWWxIQUJ2UjctTG80WmlzSlZMVnI1WUd5NFFuWmhhR1dpUU0wd2xKMlZHNWlpSURzb2g4UnpLMEZWU21wYnFPd1FrNEFrY2R4NktQSXhSWdIB1wFBVV95cUxOQXowR1dLcFQ3TTlDb0tJOGR1MnNSRUJPdVZsc1BDT3hFcFdfM3RVbXdkNXRqbGcyMUY2elEyTjFfbjJUS2FtMUwxNDJ0dGZ0ZmVqY3RlV3lBUUdxTWRFQmF1aXpLMVA4bGZPT1dfRzlfamJTNVRTTVdUaGVNX2F4WkhVSDlRV2RNWWxIQUJ2UjctTG80WmlzSlZMVnI1WUd5NFFuWmhhR1dpUU0wd2xKMlZHNWlpSURzb2g4UnpLMEZWU21wYnFPd1FrNEFrY2R4NktQSXhSWQ?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T06:32:10+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"HDFCLIFE",
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1556,6 +1659,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f65d45e36d61f33b",
+"title": "India's UltraTech meets power needs at Chhattisgarh plant entirely from green energy",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeDhReGZxY3NJM05kdDc3dVpkZlkza2luUlpnYnRvN0hKSEo5N21jUlRfdDNTU2xUelVXUkJzVjlGUW9oN3VaQnkyZWdNbkFrNmQwd1c2b3hab2RXY3FYVC0zT25wNVhTdHlNOEtMWU1zQ0Y4THV1VS1kdVFYZktTeDlGOS1POV80bG9FVDlYTmY3UFBkQ3Q1cFh0aFlrWkQwQzhaeHV1N2tvbVMxTjhyTUtBVDhHc19rYVhmaDN5QkxXMFNwTXlXYTRuN0dhUkNxV19hVHV6dHp5bzI2dVhFY3BQMGR5UDNQZUUtNDE3Zw?oc=5",
+"source": "S&P Global",
+"published": "2026-09-29T04:40:42+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -8187,6 +8306,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5a55e5101d999645",
+"title": "Tata Steel slides Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm42WVpEQmYyOTRQUWc5S2lzNVYzdnE2Tl9XMmxTdnp6ZTZIa2d3WHJuZXF1cXJBVGEtN1BQOHJnUkt4bF91a1BhQjBNS0VoU0hyYUZ0UzBabzQtQWhpSEd5M01pb3ZmRFZmdlBoSUZETWVPUUxLd1hyV05HcHlmOFlPRjRjVDlrR20zRDRVU1RubDhxai1lWU9McWlzQkc5NjdoQjRiMWc?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-29T07:31:04+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
