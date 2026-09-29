@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T09:54:42+00:00",
+"updated": "2026-09-29T10:07:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "b32b5d16b994da94",
+"title": "Jio, Airtel add millions of users in August: TRAI",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkl0YWlsX3hScXgwSnhLRVZaM1lLVGxzS0FMcFFhbHZQNmF6YS01dFF2cGVCUFJKNXlXVkxaMnNodVBrNnppcDgxcS02cFJXNEEzUk9wYWVEUnE2MzhiVUJCTERUUmhpcEEzSVpMY2d0QVB6U1BqTEJILVZ4aTNjdUpRZDh5VGpGOE5DanlHWE93ZFlISVNV?oc=5",
+"source": "newskarnataka.com",
+"published": "2026-09-29T10:04:40+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "14f23b36cb0d4cd1",
+"title": "Dr. Reddy's Targets 25% EBITDA Margin Long-Term and 20% for FY27",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUFKNWVwNUJ6THhrZnI1QTBJN2lRSmIwU09HY0xNUlV0a2txTDFwS2J0eUtjYnNNNXd4WFNBZUdqbmROdUlJYjRNRnhDa0djU29obm9kSUVQY3lPTGhvZzl5Y1pqb0t4T1NvVkV0TlA4QVltbFZCMUQ1UEhGRnF5SXJ1T2IzdHkzUC1tR1pIRjA?oc=5",
+"source": "sahi.com",
+"published": "2026-09-29T10:03:59+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7f387fb184284fc4",
+"title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5sSEU5cVdja2xyUXNzcm9VR1kxc3k2bFhsZm4tb3VXR2wwSEZNbU1KcXNBcEotcFVhYUVRZllOY2tOeVg4ZWMycV9mbXV0TEdxLVJleU40bTNTSGtMTUtkaUFneUw1UkV2SXlGX2ZyOFYzUFBtRHB6TXpCbDBKa0pYbTY2NFVtZU81TGxkeWkwVEVwVmt5TG9tU2s3RnUzdkNENHpvQnJmWjg1bzFXMWdBV3NLY3FqZ1ZwS01ZaXgxT29pejlDRHpETWJyTERNNWtQekxkdFk5aHd0THRJ?oc=5",
+"source": "Reuters",
+"published": "2026-09-29T09:57:51+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fc7ed6c5e48576fc",
 "title": "NSE Index Rebalancing: BSE, Wipro, Indian Hotels Flow Estimates",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONVgwa0NRVV8ydklkdDFoVUlBZ1k0dTNIRjFPd1ZKcEgzR3N2TUU2N28tZ19mdFVnMTUxMlZEelNmQWxDbFpZVFhTbXR4SnFhdE4yV0VDWG95SGNCaHFUUjZ6N3ZoaWNBVUlKNkROX2s4S09MLXhtWXF6RHc5VFJ0MlV4bzNZWW1xVVBsOXMwTzVXY3A1V25uNEttT0huQ0FWX3l6eWd1dVVZSXpBZElPM25WUU00YnZ3OXFZYloyMDBRSkRzNWlnOW1iYWJ5dDNXaXFhenpoSk5SU1VqMndIQ0tPbXcwQQ?oc=5",
@@ -459,6 +509,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a782ee978f87522f",
+"title": "Coal India Signs Urea Gasification MoU With HURL; Shares Rise 0.53%",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0ktYTN6aktpSElYTVAwTWJEU3hYUFEydko0ZGJaODBHbzdQR0tpX2l6UHU0SmItUnhRSWJ6OUJTOWQtNWNPNnlMbnVmNVVvbUFhUkEyY0xtNHZDU21xeG9sUlI5SXpId1FBME1Qek82THc4RFlaeUR6VzBmVnZmMVd2VkFoMkVUbXBkcmxVdEpsMDlBdDB1QnFxc2ZabVU?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-29T09:46:04+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "9b4832c10e1e3d38",
@@ -945,6 +1011,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a4e4707d5dabd027",
+"title": "Infosys Ltd. Share Price at Fresh 52-Week Low, Analysis",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWdMTjBaNDJ6emF4QVltWFNicnUyckFYNmJjNUxvUm9BYmdfZ2QtVHZkb1VMT1RyekZQV2FMTUUtR3RwMGpfYm9qNlB3UHh1ZFgtTjgtc3l2bEk0ZXFQcHNlLXpPdWQtTWlaNTdVXzdjcklfcVptZllNOFpzTmNoTg?oc=5",
+"source": "Univest",
+"published": "2026-09-29T08:23:00+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c06ed0dca1fff17f",
 "title": "Nomura retains 'Buy' on M&M, Hyundai India, Ather, TVS, Sona BLW as auto demand stays strong",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUNTazljNVpDSDNWVHljZXB6clZ2NWluSEV3S2pfYm5CdUJGZ3F1Tkt0ZFpHeHY0TEVVblkteWV6TEdCaHZBQ2ZWMERKam5WamF2SnhqYzloVnVKMkJwZWtSTXBQOHpsOU0yVGpIM2JnZVpVWTdwX0N3ZEpYTVdFZnZXRTV2M0h2aGRQVGRabXUxdzBGNUpZR204akZ4czc2Q3Q1b0tBcVJpNllzci1WOGxOcF9xMWNRSk5fNllLNWhibHJqT2lady05SUYzeVNOZXcyTGRhaUQyRWtWd2FqMFlQNA?oc=5",
@@ -1361,6 +1443,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e77c16453ac3f97a",
+"title": "SEBI Clears Vinod Adani, Others Of MPS, PFUTP Allegations In Four Adani Entities Case",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNDJvc1J3c2JhUzBwQWl6ekdHb0VSU2EyQ0tzZGdybm9FcnZPNHlud3JHSml6VDVycHJ3eFVBcTg1eEhLX2s1YTZiSGVJUms2RlpGeXVIWDBybU5XZldJTk9rUWV5dGQ2MTZVWFBBdXllbU1oNDg4dHMtaHlRYkNLV043dHpHa0NJaUZKdS1ZeVBLc0xhZTc3aHRRYUhxNmI0RE1BUGNLRDN0VzNNdlNyVzBVcGlPSFNNUmFBeXMyd0o1bmZsbGVYMEJ3a2otRzZ4SllVc1ZlV1Z6ZV9mcmpmWjhQX2h2MVBQcm56Qm1iTUpUV3h1aVdvWFNkbHFLcnJaZ1FBWm14UE8tMFQx0gGMAkFVX3lxTFA0Mm9zUndzYmFTMHBBaXp6R0dvRVJTYTJDS3NkZ3Jub0Vydk80eW53ckdKaXpUNXJwcnd4VUFxODV4SEtfazVhNmJIZUlSazZGWkZ5dUhYMHJtTldmV0lOT2tRZXl0ZDYxNlVYUEF1eWVtTWg0ODh0cy1oeVFiQ0tXTjd0ekdrQ0lpRkp1LVl5UEtzTGFlNzdodFFhSHE2YjRETUFQY0tEM3RXM012U3JXMFVwaU9IU01SYUF5czJ3SjVuZmxsZVgwQndrai1HNnhKWVVzVmVXVnplX2ZyamZaOFBfaHYxUFBybnpCbWJNSlRXeHVpV29YU2RscUtyclpnUUFabXhQTy0wVDE?oc=5",
+"source": "LiveLawBiz",
+"published": "2026-09-29T07:25:43+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -1908,6 +2008,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e17236b518034934",
+"title": "JIO Financial Services 52 Week Low Streak: Key Signals",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVVUN2ZmT1hpUkJJRFpWcmExMi13V0wxTmh0UWFuSG1fQ0phZmhVSW45dk9MOUVVa2pqaVRnQ3d5aVpid2xxSVlmaFFVdkdHZE1JbmctN09mQWJZMTBiSjFyRElQT3lqbEhnOFhieGYtMTRmRF9ScHZzQTBGN0RERHU0NzhkNmdaRjY0cTM4QnJpTDFUenpMU3h5TQ?oc=5",
+"source": "Univest",
+"published": "2026-09-29T06:10:00+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3956,6 +4072,22 @@
 "source": "Economic Times",
 "published": "2026-09-29T03:11:11+00:00",
 "first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e6e84d61c4f5222e",
+"title": "ITC Share Price Live Updates: ITC Limited closes with a slight decrease",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-29-sep-2026/liveblog/134554950.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:11:11+00:00",
+"first_seen": "2026-09-29T10:07:12+00:00",
 "symbols": [
 "ITC"
 ],
