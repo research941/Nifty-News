@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T23:44:00+00:00",
+"updated": "2026-09-29T23:55:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8e2d9d5b3dd309c4",
+"title": "BSE shares to start trading on the Nifty 50 today; MTF positions above ₹3,000 crore",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPenpQNTZnZjRhQXduNkhWUmQwcXF0ZW92bXRyRGliOW04dE5COHphc0JTYU5IVmZ3N0ozZWQyenhoV3BnRWpvMTZQU3I3VUJtVDlvRXBoX2dwOTd1ajd0RTBxMGMtS1N5Rk04TTdYamFqZ1JNUFRtTmtzaEJuakxfTGlRWUZyUHJ3ODhMZUx5cUFtWEJTVlFHNkpleG50ckZCWTVQSlZuVE1RMXVSLW50V2NjYkZ5a2p3T0tmdXFkakdVZ3ZuZWFtSmplSlNyMVBfNEZYQlJrZFlpWUdYdlNB0gHkAUFVX3lxTE1kU1BNTzRoNE9aMXhEQVNWSE1WQzV4QkZQOUtqdGY3Q3RSMmh0b0hNY3NxNEdrTXUtZW5jMHZfSHlFNjFEMkZKUHFvVDFuV3dJbmlaSnZnOGpkTE1RNjg2Z2V6bU5jNmtHX2phVVVJSUdCdzhuTWFESHVpS3hMQkRCX1BKQW5xVEU3UDQxUENESGtYeU1CcDlvM3NLT01vSmw0OXY3YS1QSjE0WmJFM1JodC16NTZFbTBWb3h2MUVUaHhfWnFtMFBzRXdMNTRQNGowWUJhVGhtMTB1WDNtZjJQa2xMOA?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T23:42:45+00:00",
+"first_seen": "2026-09-29T23:55:48+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "aa23b28cf7862c59",
 "title": "Adani Group Settles Six-Year SEBI Shareholding Probe for $154,100",
@@ -50419,24 +50435,6 @@
 "Telecom"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ac42e38cfa3fd157",
-"title": "NTPC pays ₹3,394 crore as final dividend to its shareholders for FY26",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmdzQ0dNVmhkZW9OZWZwbjJPLWx5NkpNRW5XM19kN0h5YnM3MnFkYlhNdzU0U1NuejMzeGVHUWpXSm1XSUVfWWUtNVN1MlZpd1poVmxwSEZfNC03Y1h6NmpXc1Q5anphWHc2ZXhrSkE4RUlLb2dpanNXOGt3Tm4tOUVldUtFUVNEUHVKVlFCZVZoS2lyU2FlTlcxVXFxOWt5UzJRYUI5V2xoS2pFZFEtdHRwaWNzMC1uVjZ5RlJMXy1RUi0ycnNrTTdmMjU0ZDA5cHh30gHYAUFVX3lxTE1HWVA3OGNacUNoYlJRNGJzM1FBREg3SEk1Ukk2Ym85RUJyLXJlb0F1MUF0Yk5NaXhIMEpZcDFDLUNwZDlvSnN0b0ttenkxMFJtZURSZUZra1NOdXYteDBoR3ZjQnZBQ01RazI0cnJwWURLWnB0Wk1MV28tOGhSMndtS29SX2YzYjFDdWRBVFVmNGt3SFRMVkVrVFNVLVM4YlJVTVNucW81SnN0cnFzRlpzenNyMmMxTzlMRkF5NVZRTU91ZmhJMVdHWWkwN21MaUd3MjdZcnkzOA?oc=5",
-"source": "Business Standard",
-"published": "2026-09-23T14:36:38+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
