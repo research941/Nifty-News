@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T20:58:46+00:00",
+"updated": "2026-09-29T21:18:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "edcd8fed45c45c9d",
+"title": "Apollo Hospitals holds awareness rally to mark World Heart Day",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHBSSmpFejJUTGZ2S0p3WWVLTmJsU1l6X2EzRnZKdjBqWF9wWEoybTRVU2VmX0J3WW1UMjQ0dmlyQ1FwWHhTVndzY1RLZHlNcmN5b3V0U05GamdHTWRpNmdOVDR2b2UwcXdleUk3WGpTWGRLZ0I3d1F2R3N5VUZOQVBISmJPc0RkdWNBWE1TcFFrWG9teEg1UlRhTmRxaWwxb2FUUGE3NEFtT2xLVEktZkc2TEQzNUZIa3c4?oc=5",
+"source": "The Hans India",
+"published": "2026-09-29T21:06:20+00:00",
+"first_seen": "2026-09-29T21:18:45+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "8ac54d06561b04da",
+"title": "NTPC Renewable declares two more units of Kalasar plant operational",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZnprU1dBUWFuT1VTZHNsSUtpemt1dVRCbTZfQXAtd05DN3pDbEZOcE5MNHhjaWU4Nk5VYjZob2dwMjU5UmNrc1k3UEJfZTR1X001dEJST01NU05RVHFxWEZGR2ozckNxZVZWa1J5ZlY4Qm9hWWIxOFV5MHRrTHM?oc=5",
+"source": "powerpeakdigest.com",
+"published": "2026-09-29T20:59:39+00:00",
+"first_seen": "2026-09-29T21:18:45+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "ee7da717a30dc324",
 "title": "Adani moves past another legal overhang",
@@ -3092,6 +3124,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a35d7abd81129879",
+"title": "Used 2017 Maruti Suzuki Swift [2014-2018] Lxi ABS [2014-2017] for sale in Noida at Rs.2,57,905",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKQkdGUXhLQ05qbUlNNWd1RV83U0xBQThSRmVtYnRsX2FNaWZyMmRhSm1RRFNBMDgtYlJpYXBJSERQZk1IbnhaZXpuMkdOeXl5ME9QWE1ZcDNabjJ2Zk9UZ2xMTXdveS0tZUY2dWZoTGZiaUNGWVE?oc=5",
+"source": "CarWale",
+"published": "2026-09-29T10:54:26+00:00",
+"first_seen": "2026-09-29T21:18:45+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "91095818ca836b03",
 "title": "Top gainers and losers, September 29: Titan, Wipro shares fall 3%, Adani Enterprises surges 5%; check list",
 "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDBSWVZzVmpwT2NMSWRBcWFkTzVxZDA1b1NRSzZNdUNGeUlMRnEwblBvTXFYVkhwdk9Jd3lTbTk2SEVMak1odThqWkwxbEkzYmdyak11ZVRZY05KSlVMMXo0VFJRaUh5ZkFwclMzUWRETVA1Nml6WGpvbFVZSUtPLWtpeEVNWGE4NkxiUV9kVU1yZFJ0dERkQTRjV3UzQVZ3am1DTGJhN25FNjBvWG9CN1VmSWdGV2pUakxQeXFjeWIyOEZBaE5oZzFfSnZqemI2ckRiMkpSVEx2WjdGREF2Q3U2MmRFdG1IektsUE1MRQ?oc=5",
@@ -3450,6 +3498,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "9424dc39a450fe16",
+"title": "Infosys advances Tuesday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTBIeGpMck9JU05sZXQ3UkVpSnlVbGdnLUphaHRmaEphbG5wVUNuVjN0d0syN0hTTFBYeUh6dEhXUURRelBqRXBBOC1iTXpXc1RTSGI5OC10czQxVVlVbkF1cDVxYVR0cnhUenpDWHVuX0lIMFRHWDhOX0Yyekh4Ry1IeGVWaUU0Wk9vbGRQTTI1TlJNN09vRmNzbjFuT1ZyNWJ3QTFrWldGTUVXaEhpZXlyQm5pY0RrYkZ4N1ZHa3RvZlZQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:30:00+00:00",
+"first_seen": "2026-09-29T21:18:45+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6ce59781b74aed69",
@@ -50380,74 +50444,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bc25317937da7d3b",
-"title": "HCLTech bags IT transformation contract from UK’s M Group",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1FrNWs5YzVuUEpreVhHeWhMMjJZT0RNQjgtMmUxRVFKMVRta0pDQUIzSnBnNDduRlQzX29OUWNTNmxBTldJV29kdHFwUE1xNkIzdUhMR29KTXExS2ZPZnZLQnk5ZUR0b0M3aWxVVjR4X09XeVkzVVlfNlZtbl9BRDl1VjhkazM0Z2o0R0pSeVR3Vl9FaVhDLS1SNVZTLWJ3Q25CNUtyQk5qYmVCZ1NUeExKUkJySzF1UXhWSVN0Szg5RE1zVXhybVpB0gHPAUFVX3lxTFBIUGpoQU5rN0VpeURMUXdwckM1eUwyQWJmX0cyY0cwOEU2ek8yY2haSDdpUy0wTGZIRWtIRlowSVB5b2p3MGpacGxteU8zcDFDaE9uREV1NmZETXo4WlZHSlpfQ1lKakRGMGZzb053VTFfVkVvRDdaeXhZSkpmLVc2U1JkRzZuQmpMUHpDYmZwYkoxLVNLLWJCeWs5UXF6N21MLXoyZTQ3TEFNRjZHd2pmVWI2UDRjSmhWSEtDVHRqMXlaN2VIc09WT3l5dUhJaw?oc=5",
-"source": "ET Enterprise AI",
-"published": "2026-09-23T13:48:15+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "0fa53ac4504462ed",
-"title": "Power Grid Corporation acquires Barmer HVDC Power Transmission for Rs. 18.98 Crore",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFBFLVNndHZjejhkTlVZNVVWbl9MR3QxRnFJdmlsQU9zUVRVQjExMnVQTGo1T1QxajFrY2lGOG1QRFhGaFVYN1ZBUFIyQnBTZFhaM2xWcmtYV19DTjREUkt6WUsxc1dfQlR3YjRrVHJ3cGNxb003QTlFVGhLNWxjY3o5enlWYjFBZDRBNENwMEdPVkN3R1lvazN4YWFUX09uaFoxNzJqbTNkY180YS1qVjVyU2pwRlBrTjk1M1JvYw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-23T13:48:02+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c626ed2dd95513e8",
-"title": "What’s up with… Telefónica España, AI glasses, Airtel Money",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmNzbVBxUGp6SVl1Y3o5cUFOci1mVGlRRVhINFU2cTF5LVB5TXZ1TWozSG42V2MtV1JlcGFFRnc4OW9lUnJkY09Hd0tOd3JET1l3MHlTQnR0SFJyM2VNU3d3SXZacTdkbEtlT2tCUVp1OExLMXBJLUxKcXBBZWxBeHA3WHpNSUtCUWhMSFByTkhoRFpGNkJzLVJRemdOa1FUTEMyRDM0MksyT055WDIwejNVbFfSAboBQVVfeXFMUE9SSEt0bkJyUjhjRXRxUUlVTXdkOFpxV2oxZWYzRzFCSUU4a1YzU2ZsaWUzcnB3MUJwalVnOElKazJkZDVESEZBbmZ0SUdWcV9TSTFCaVY5UUpUVkhqY0pWQ0pmTjZPSk5PdzFUdkZaT0poNlF3LXdJcGM1TDZRd2tDVXBfRFAtUTFfb1h1ZGVMd3I3YTZySUFra2lLNy1LM1N3M2Z0LUpWc0NBbl85R0hjdUZ1Ti1VeWNn?oc=5",
-"source": "telecomtv.com",
-"published": "2026-09-23T13:46:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c0409375cbb8ca51",
-"title": "Infosys and Chainlink Partner to Connect Institutional Finance With Blockchain Infrastructure",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd01VRy1TRlIzMnU3d21vUW1zc3hsRGVhY2gxQTZCS041QUNDVGRPZVFkbHFiendDWVZyWXhhX0NwV3h4Z2x1aTlWR0xJbFV1dHZHeEM1bmJFZ18yakdYdHJGV0dLUUNJT3lpZWZJX0RuN0hQQ3p1OUdiU2VEVTNrS3UwWkplUk00N0RJUy0zR3gyUkVHS3p1ZDE4am5HRjNkYTdZblNUaGlDa3M2OW1ENmVmaTNSdUpqWjFaTEJKbjZERkxlc2tr?oc=5",
-"source": "konsulteer.com",
-"published": "2026-09-23T13:44:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
