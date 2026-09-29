@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T02:30:10+00:00",
+"updated": "2026-09-29T02:45:21+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,88 @@
 ],
 "items": [
 {
+"id": "86aae83c250c8a42",
+"title": "Exports, rising power demand to support manufacturing growth despite rural weakness: ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmg0MWRNQWFEMm9FSDUxcFlkSmZmZUhfblBtMzV6cFllZ3YzNVpmRG1UQzJ2M0V1TU50MkZSYXlsQkdvVVFMbEpaYjg1YzhfanVlWDhPYXFscUdQLXhlUWcyLUljTHE0OUlLUFBPeWxERERiNGpiRWRZbFNBcjQ4QUdvaXpONnpPcVNLYTNWRUctekNacXJRbzFFd1RJZ200WGFoa2xCTUZfbF9VdHJVS2Q1cVpsN2c5TUV5V0RNLW1ZbVltUTk1Mm1YR0tmQ2FIek5jZ05aQ3lhbUUt?oc=5",
+"source": "ANI News",
+"published": "2026-09-29T02:40:00+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "83b1a26b7635cddc",
+"title": "Stocks to watch, Sept 29: Tata Group stocks, NCC, Vikram Solar, Coforge, Ola Electric, ITC, Power Mech, HCLTech",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTZBN1JWXzhDcjlWSXVLSDhIVjB3WTYzNlZXVWhVR05OZWpKc19DMUtYc2RqakdWZWVkaEo5UHJFOEdabjZsTUc3cnRuS2VoLU5pM3lGbkpscEhpalBjcC1nSWR0Z0FLcGJNYkFFUWFKTC1DZEhyWHhnbVZxYUxBcFJiaElPNVVfMzFmYkZMQUJIVXd3NEVzZUVQVXBUdkVtcmo0QjlTb2FMZUE2YnotQ0VVaVVkSFJsNWhtdDBWQjRHVk9qYmZmVVdZcGFTQ3pLa0FvOVFWYXBiUHZuODNCYi16N0FRVm81LWxrRmlRZFVTM0hj?oc=5",
+"source": "upstox.com",
+"published": "2026-09-29T02:34:22+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"HCLTECH",
+"ITC"
+],
+"groups": [
+"FMCG",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c3118645d07ddec0",
+"title": "Bajaj Finserv, Suzlon Energy and 5 Other Nifty 500 Stocks Trading Below RSI 30; Do You Hold Any?",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjR3NnZWenQxbW81VkxJU0d1T05kMGIwbEhjUmFqSlFxamZqbkdPaHdWRUFnVmtYekZqOXNaMnZTMFlIY0VxcVQyWnUtQjB6RG9nNlhIQzFDeTZabDZnN3lncThTYzI2NW5WR180b1I3a3lXYm91aFNMUDZiS0pUSWd3YWh5Nk8tRGdjVDE0WWZ0bURiVUJLaVVGSDRFWS1jMWlNSklCenhZLTlSWmpVY05xemk2VmxKbERtTUZFd2JmM3FNaWxFRmo4QmxuZS1wb3pFWjdzdw?oc=5",
+"source": "Trade Brains",
+"published": "2026-09-29T02:30:38+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "aefc84438377f761",
+"title": "Tata Aeris vs Maruti Dzire: Top-spec CNG trims compared",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObW11ZDhpNk1ZWl9pLVNad3ZaSVljQmNKNExWbk1UWlZveDFoSWk5Mk0zVmxuOEdEQ1NNbnhFOWUzaUFuMEc4aXZUQzV5Y0hrLXRMWU9TaUg0TXNwUjVTQ2c1eVhYYkV5SFJiaFpNaUh1VDlIVWNBakREYU00SW40cFR3WEc4T1VrQUZfTkFFOTR4UE1OMF9jeGJjSEhBWDVNaVcwQ1lYTdIBrAFBVV95cUxOaE1OanRxN1Q3eFotRmZYRXgyMk84eXRBcUhNX1ZQTHNxQkNRb0FPc3JQRlNSRVlFU1JqeFVTNjF6NXgyVFlvcTVfOVpuVUd3SjdkeTVBRWlVZkRvMUlkNDlxM0dUYjNiem04dU9tSWVFTl9vT2xTMjVKZ05hOXF4aFlJb2x6RmNMNFItbEx2ZEdBb0NnN0VjM2dueTU5QTZtZDYzUUNOVWoyX2ZM?oc=5",
+"source": "Autocar India",
+"published": "2026-09-29T02:30:00+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5312676cf7cf3a95",
+"title": "India's Securities Regulator Settles Minimum Public Shareholding Case Against Adani Firms",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1oxSzhiZW8xZHI4SDR0bThCanZIVWJ0UElLdWk5OVZtSjd0QkMzcFlNREhrandmMUJlRWltRWkzaGcyYm1LZVBKT2tsamZyOFJlR0pTWkk0RW5lRVNLZGVIZHR5cHZrWU0tUTdGVjZWNjRPSTYyNm1jMTZzQi1wSkF5X0M0cl9hckVKNjBHZC1xeUJ3VXpDSkY1Nm1lanF5amVlT0JjVFNIWk5RNFFIX01rbC1Kc0FfMEd1SGpyTzhQbjBVTUplNExoYV9WTXEyemRfZm53U19vUQ?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-29T02:28:32+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "65b9961896cb909d",
 "title": "From Mahanadi to Andaman: Inside ONGC’s high-stakes deepwater push",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTS1XQUl3aDFObmN0YmlLMzNsbHk4eDVUV2F1YWlOVUFYTGwwelVpRFlJbDF6bTU4Q2tVRDRITXl2OFliMXpOOVNkODJhamRTNTMxZFJhYjR0bGVuNFZOS3hMcU9JYUlEMFJSR1JHZ1BCSmNQQWFELV9IQ01aMFRxNFJ6dnFYWjY2NW9EN0o1ZW5MZDl3bDgwelNycWh2djBnR2FRS2pZazloV2w1ZFpsOTc1UW8?oc=5",
@@ -660,6 +742,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2163e1f280e47afe",
+"title": "Stocks to Watch Today: आज Coforge, HCL Tech, NALCO समेत इन 11 शेयरों पर रहेगी नजर, जानें वजह",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJuaDhTQmZlY2taT3NYdTlya3ZqNDJ2TlFfTThFU21QRklmNkxIUDZrVnJydWxXMmNsOWlrdDl5bUdUc01GWVQ1bjBSNWwzNmlQUUFqWmpaZEN3LV9WeUZaVkdiOUY0OGYtYUREQWRZRnpJVk9HcWdSVEdqdzZmbGZDMWpEaldlckxSeklVSUxqa0lsTkNYY0t5a0dFM0ZmMGota1hmeWxlNUh2TDI2Z3NxcjU1LWhDekU2UFJqUEp3OHh6ZGVkUkpmb0tKSklwVUZETHc1YTUzVS10b19LYk5RZkpoWEt1bEZjUWNnOA?oc=5",
+"source": "ET Now Swadesh",
+"published": "2026-09-29T01:12:48+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d56c7130239076c3",
 "title": "Stocks to Watch Today: Honasa Consumer, HCL Tech, Varmora Granito, Ellenbarrie, NCC, Vikram Solar, Prasol...",
 "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcFBLS3lueUJHQzZNelRid3czYkRWZTB3Rk1lQnQ0WlhJN0EyZTdKanlaOEJnNTRGVWt3ZnlVbmotcmJ3cFl5MElLbHZsVW1FSTkwUEx5T2FwWGpnWG1NLUkxN1dYNENqWmVydkEtdFprZXUxcXRHNTM5cG1GN21leG9UT1JybWw1X241d3ZyOF9nTkwweU1tMGo2SkM2cUJaS0xFaWlUemc0Qy1BdWJ1OFpzNGp4OFU5aHk0UjJhV2pNbFhMdkVuZGRPcGhLRmp0VmVqYmNIVzF1S0YzSXJfMHlTMzZ4bXVIemJQc2I5ZzZiaFRNVmJpdDZQTlc3NnZSYXdLdTFpQXBmZ0lLRl9QaGljMm54aFM3YUFnWGtDSEZUNTlRNTcxblA4YU4tYTFTSjlaOFpiX0XSAb4CQVVfeXFMUElva2JJcDZlN3E0cGpTR1I1X3hLT1Z2UHFtelUxTzVhR1RpRTkySnk4UGN5TkREbV9aM3VxT0htVk41Vk1DQ1ZDRTg3bXdod0lrUUZ2Q3RhOXVqOU0wT0psQV8zdTgzR3pDNkpxbDNNcUFndWFROVZ1dnY1dFRRbzR0YWNUTXhCY3NpWmpERHBZS21zOEthYXNrMVM2YmxQbm5ZOHRDUG02TVVMVUg2OFpBdndBZF9xdjBUUm5xamdVR1hCMENXbGNzWlNwR01NR2RYZnoyeGpkZEpadWptRUJIcXFOX2RvZzdmejBueVdYb3lHb084MVgtbHZuaUVEZVBMVUFpQUZjVlVKZXVkblBHNjNGZk5LLTlnOE15ZjNZR3Jpbm5rQU8zYmdnOHVlczhrLV80Wk4wN2F2MGln?oc=5",
@@ -741,6 +839,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "625a62e9abebae37",
+"title": "NTPC Green Energy Boosts Renewable Capacity | Fujiyama Expands Solar Cell Manufacturing Capacity | Top Buzzing Stocks Today",
+"link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNY1p2NC01XzkzbS14N2E1SWNBWHdnTjE5ZE93aFd4XzVXNmNTbUgzdmZIMEc4OHc0d3p4YUZWVmxBdGxKRHpjMFZJZmk0MzZPU2pUTC1pb3hiUmluc0U1R080WUF5dEJySVFJTG00c2V4Q1NmRHI3aDNldzVNTnltWVRvckNQQU0yRGRySlRBejA1eXZNN3JEQXEzTE80cl9uWDlnSV9kM1MzTElQelk1dmRvVGxJbTREeHEzeHdNYkg5ZjQ4ckNVM3Q4VDRpVUhqenhCbElqU0M5a3I2Si1ycjNtWnVZVTQ1SEtnclJSdTdVUWlDZjhCMC1zaW9PRFpaYlJWY2t3bzBUYnZXYXFYajluWVFEdVBsZUV1R1N1SGtuMU5FMHZPWktPSV9NMFBXbm1TOTg2TVhzNEdORUhtamdCVk5ia1Q1YzVSQ3pPa0d3VF9Mc0RETnNlN2xXallrOWJ2SGQwM0FjNklaNVpkUDdLY005X3J6X3BGYTVUaWs?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-29T00:30:00+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2579,6 +2693,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "81520ec1fa15c760",
+"title": "India markets regulator allows four Adani group companies to settle regulatory lapses",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHhaTzI1cEJYbjhzVlFGdHJfMmRDbTNDMmRudEhtOGxxOGVjRllodUhmbVRZYjI0VzdZb3hyM1doMmNEUGc2ZEZlcUpfN0pTWTNFdHBCNFYwRWtLY0UyTTdSOEQzTUlDdTRKenRiQmhmN25JZlcwSDNucFFEZ19KUU9NYmdQaXJjNThFUWhlWEFoWW4zdVF5S04zdWFKbVloTVl0azd1Y01Lb3k4VVVGRE5VSVd3aU83czFNT2xKUmdsQTNCY3ZEeTdtY0l1NVNjNU5fODd3?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-28T14:37:42+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a21517aa1cd3bae1",
 "title": "Green Energy Stocks Defy Market Crash Amid Iran-US War: Why Are NTPC Green, KPI, JSW, Adani and Suzlon Rising?",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0dyc3BxcGNhbzRzTnp0TS1lSGs1ZU9RQldXaEJRQ05pMkN0QndXOFFldkRYbi13cmhSdVFMaWIzOUtFN2tSMGczWE1HU2tEX0xtc2ZnR3lyMl9veWdpOEZUcTJUM1QyS0ExTHBpM3VqbEVLTndNZ3hjUl9VS0tvbUVDUzhKV25QUnZrbzYybUVNT0IzVmQ3N0N0Y1ZWaXFfVTZNUTFBUlVETTlQQ2VQZENuaEtQYk5WSG5MZUtmb0RVWUNZVi1kYXotbDZKcklqLXNxa21uYkU?oc=5",
@@ -3674,6 +3804,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "196a57fd99d02362",
+"title": "HDFC Bank DIFC branch terminates three staff after UAE client-onboarding review",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0J6bmdGbWFOMzB3YW1LeGFIOVhWODVCb3pXNzB1bkRrbkl4QUZpSU1sS21jSTgxRFViU01YLWxpWWFaX3dWc09zVUFJTFByMlo4cXA4S3VTeVo0YzlVbk9Fb1Z4NW94UDk2QWYwcGxHT1dSclVMbFBqNGxuazQ5eTE5ak53SHBPejJ5SzB2VWRTSjRzNy0xbEI1S19lMXUtekowNnE5aUJDYWVnV0ktT0Y1bG8?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-28T11:55:14+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5166,6 +5312,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b3aefd485648942a",
+"title": "Wipro (WIPRO) Share Price, News, Stock Market Cap NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Rm9GUlpjRGZycGxpMmY0WncyOGl3aUxFeUV3bTNpbTdwc0NsRUVoekxpd2lPeklNWnZNVGlzYmt0bzU4eXpZX0VzOXFJc0FMQzVNdnRGcU1VUy12aUE?oc=5",
+"source": "TechGraph",
+"published": "2026-09-28T09:10:10+00:00",
+"first_seen": "2026-09-29T02:45:21+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
