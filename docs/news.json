@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T05:45:57+00:00",
+"updated": "2026-09-29T05:58:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,43 @@
 ],
 "items": [
 {
+"id": "33dc4ac2263913d3",
+"title": "SEBI Clears Vinod Adani in MPS Case; Gautam Adani, 4 Group Companies Settle for ₹1.48 Crore",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXlGZW5RS1A3UFZRWjVrVnNPSHdSTGNCZUhsNllRQ0JhZW0xYTBMZU1venV1Q3RwUktrdWQyRC10aGVyLXNWN0FFTXowUGxtb0VUNDNyN0kyVGVoMW93RTliQU5yQXVKXzVlWkpVQS1yR0JTNGFyTUl3aTBLSHdRNi05ZlExQWpHUVhyRzc2UkFta0ZzdHBseGZTT2hlNzR2cUp6eGEwRmZaTGM1Zm1CbDMxV1poam9FUnl5NkZUemF3ZjNYWUttc3BXbw?oc=5",
+"source": "Moneylife",
+"published": "2026-09-29T05:49:06+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "581625828a92ac55",
+"title": "SEBI Settles Adani Ports Case for ₹37 Lakh",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2lDcTkwVEFfX1J0cFJGdU0yTVZnNVAyZGVOSU52bTZkMF8wYjVTRGowcllGYnBHbjJFc0NVX1RzUW1SellXWS1ZTU5BbTI5b0JRSVNOQmRBaEp5c253Z1BZNnR0X19LNkV0WmJtT0xZQXFGRDBwSzRkZ2RCWWktckZEbV9rbFZUcGc?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T05:47:00+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ccec19cd1ae04957",
 "title": "Stock of the day - Larsen & Toubro Ltd Target Rs. 100 - Religare Broking Ltd",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzVhbmVMS2lpdHNmeUpRRGZKWnZxRWJoTDc4Z3VBMjFBdElPZzNENnRpS05jSkRwVExURk9hQmxDVXpZc3pUcFFQMnlJZW5pZkZQeW5xYW05bFRoWDdVT2JmcUFfeWlzb2NZcGlsMXV0TGNfbHVIaUV6V2JacUZQR21rY3E2ZS1hX1RhYnlsdzJyRkNLUlpZVHQ5bmkwV3YxTWxlcGNRTWt6RmJOUmkzNlB3RDN0b05RZDBhNS1PQQ?oc=5",
@@ -456,6 +493,38 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bb8943f64f938d26",
+"title": "Adani Stocks में अचानक क्यों मची भागमभाग? अडानी पोर्ट्स को छोड़ बाकी सब लाल!",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcWxIMmxEbGVoc2R3OUhQb203Q2RxT3JDSTlsSkJvRElrbGZ6Sm5vMGJkc29RUGtpWTJKQXdHTEV4anAwRHdFTkc3QWhuc2VsbnNiTWhiTEZxMDB2TmUyQ01FOU02VHg0ZHBGcF9EYW5FNnd5NDdHNEprWnVsOE9nWkVzaGJHT0ZqSm1OVUVMbm9YSUQycU5qVkEtZXJHeEFNeHE2SGRjM0dadmxIdWQ4WjJ5U2RLekxOZE9WeFRaQzR5MThEeVdRTllPWTgzSmlseERKbXp4THlUUzdobHhFNkFTeVl4OExqZ2fSAe8BQVVfeXFMTnJwOGsxX1RXZE0yamRmTVZBek40RXZiaXNnWGNvUDFWMlZ3M1dVeXNaRE5obzlpM0dnUEtCQWZDdno2YmhhU2ttQzJWc2wwSmNORXRMbS1lcXNBVGtWQUFVNS1UaHlRcXp6T0VOUzFqRnhjSFVDd21RamFCZGR6U2ZjRFlrRXhaWEJXcDc2YVlvczFRZjZ1RlUtYWctbi1HZTZLdjZCX1VZMkFLUFJWelQzdHNJRGxiVEd1SHY1TERncE43ejJwaWY4N1otd0xpZFdESXZPaUdndnJJYndCRzFoN3VfR0dwZzRMY05IMlk?oc=5",
+"source": "Asianet News Hindi",
+"published": "2026-09-29T05:42:02+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9b56940830ee930b",
+"title": "Jio, Airtel, Vi adding more data-free recharge plans: What TRAI's new rules mean?",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUJWUWRwQzh4bUxYNldlLUplR0RzUDVXcS11alRaTkJSZlNXaEN6bXAxZ3hiVkhrMGNZRXJnMVFpSWlaMk9SVzQwT0hPal9GMHBhNGJ1bi1jYnBHWWRjWkhrMUxvaXBXUkhGZVQ4T1lDNl83NVlJUExDYlBtTjRIVzRuWmpJcDZhak5zQXB3VExyb0h5UTBiSG5ORmVmUFM2dGh1aWlYWDg5VHRjbmkxNUlXT2pvQUNRTjBORDZqbWFkZDIwQm91WHAxSzVGWUNMLU9yNjMtb9IB3AFBVV95cUxPaWpFWnFzRXZmdzNlMG5SMUM4aV9samlfVFJJR3A0SlZGNWhDOHJsRlBaa3p6Q0Y4Q1JBcmlFcVlxQW5WTm1HMmFRSElRVElXZk9NQnJwdVZPZDR2bnVkbDBPaXB5MUdSb2xvLU1KVXFvOTJBdlA1MFN3S0pmd09LbzNMUjdtajFQMGFnM1hoeExxZWVsV05tUUZiLVVVeWU0Y014WEw4bWhfNURhVkJSbGJUVU0xZ0hySGlOQWxuMy1meFB1a2dFZzNEeHd6TVgwWXNoQ2dJUFJDX0J1?oc=5",
+"source": "India TV News",
+"published": "2026-09-29T05:41:39+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1526,6 +1595,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "04333e061823b86b",
+"title": "Stock Of The Day 📌 Buy Maruti Futures in today’s Fall - SL 11800 Tgt 12120, 12250, 12400 - Expect strong monthly sales number - Keep a suitable Stoploss of 1% below your Buy price #StockOfTheDay #Maruti #MarutiSuzuki #MarutiFutures #MarutiStocks",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWG5hemVORTJfQ0pQb0I3alVFclZiYUw0bjNlRjBjTVByY1FOWTlpVS1CZ2pOZHRDOTlTTkstYWoyaUJjTEVaWnlsZFBjMGxfLURUWFNkZndiU29vYnZyc1JjY2h5WDlCaF9QbW9kQWVhZzFwTlVCTHhmZFh0M2FaNHZBb2ZmRXB0bVE3NW92RC1PaXMzYWttT3M5M3A2RVBtaUVrV1p6Si1ydWt6MjRzX0dxMXRkLTViaTVKdWxzR2xMbUNNY3EzMWlEZXRNcENndlJMYzBYRXJfVlVSX3lHSHNR?oc=5",
+"source": "facebook.com",
+"published": "2026-09-29T03:52:17+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "22fc9201f51d5ff1",
@@ -3035,6 +3120,24 @@
 "groups": [
 "HDFC",
 "Reliance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "b145661c7abd2696",
+"title": "Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressure",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbDl1OWY4Ym5nclVxR1FaQUtTR1JQRWt6STFiQXBYZkRncTR0a0dwZ2RUb2lFZ00wV180ekNwMThnM2k3X0F6RjVHSWRRNFhoeXZWR21nZC03eXNGTGlmM2h6VEdJaENBaGNhanR2S3ExUVFTQVdpbjRjcDI1NlluSTg4U0xvYUhWT1YtRmp3UTRGdWZoVlBqcVFrZjJFdU02eWw5Z0VwdnNvZDhiZUY0MHZ6VXRnWlowcHdhdXhBX0xxTWN2d09lcm1sQUcwNl8yVUtPMFhyZkZRNjNMb0EtYUhiRmxFclIwM0h0V2FMQnJUWEd1MFpQV0d1U2JVZy1WQ1JPYnJlWdIBjgJBVV95cUxOZ3pDMFBGcjgtOEZFWl9VT00wb3NLSFpFcExRUFNUb2RjUXZWX0ZULUM0X1dod1BoZWFEZGVDWnFiRVNINHBVeWRIQ2FLaVg0dEh0Y2h4YXh3LW1ncXlaN0lyc3pyUVVwQXVVdGR3dTRwbml0Vzh4VU1WWUlaZmQ5MTRqbUtuZ2Y4TTZyY1Z0cl9zWGQwTEJJN2xlNWdzOVF6NXdKUDFUUVgzTDZRZ1Z4d1ZScGZEd1ZqSllqbkQ2Q0l3X3hRczE5XzBuOVpfYU5KZ1NjUHBBV0JOWWwzOXUwSjI5MUNOMW1rakNoeEh3TXM2REpfenFKeE1UZXJpUXQyRXNzaDlXd1A2NldueUE?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T01:40:21+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"HDFCBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -8251,6 +8354,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b7afe522a2ea1197",
+"title": "Tata Aeris vs Maruti Suzuki Dzire: 5 Features That Give the New Sedan an Edge",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVVRY1hxZDgyU19fWUxQNDdBZzdCaDFpUDRIRmVQa1JkVkFwaVRjLVZNT0FTWmJLYjd5TjZON0pZcHIwSmw1XzgwZmRQdTZ4eGo4N0ZyQ2dFX1VGVWd3ZmhyMGo1SV9iT2pmdVhaQk5nXzJJSmhwU3FxR3VtaUowREhOcWM5VGxtNU9ZZHpPdG9NSzB3bUNwYWo2bV83UQ?oc=5",
+"source": "UdaipurTimes.com",
+"published": "2026-09-28T08:22:47+00:00",
+"first_seen": "2026-09-29T05:58:03+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
