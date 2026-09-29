@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T13:22:56+00:00",
+"updated": "2026-09-29T13:49:41+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "687e027593545683",
+"title": "Stocks to watch for September 30: Tata Steel, KPI Green Energy, Arisinfra Solutions and more",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVZobFZicHhiOUJJdW03d1AxVkFPbUNPSHhkZG94TkJkX0xaaG50MWhNeWkwR2J6T182elVKdjREUWxvZlRFQ2JfMWRya0g2YWxCNDZLb3MxM2tTMnBfRVVlQnR1OGI1UlpVVnRuR3F1bU5ZdmN4ajZPczFwQWdpMEw3eWNBdjZIaWl2Y1g2VmttZWtVTFRiNndYUC1Ub0NpTGdIS0wyN3hzeXhoWXRGN0xJWFdUcXU4ZUdCRV9Nbm0xX3R0QzdKTmY3M1RWQUg5SE53SUt3STPSAd4BQVVfeXFMTUR1WG1zY095N1FzS3E0QnBXQkNxSm1zdGdaa3NDeXlNMnc2Y2xWZ0lrSnZkNWtnZVlhNjJCTXV0ckc1eUJmVWZrX29STTBCVlI0QUJhZ2RhTUJTQmMzcHMyU0VCVzdPa3NsS0NTRy1pbzlCZzZuazZmUFV1cEJnSkRSRktTRUJXMnh5VjdoandNT0prbENqTGdBcWw1aXN2d040ZWR0ckFYRVI2MXRqT2xsaU1JVkxJWll2VHZIYlBuT0lMcFE1bjNBWF9uUG9VWUVBX1N1R0xhNmJMcmdn?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T13:43:27+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5c4b0c6600a94717",
+"title": "Dhiraj Adya Appointed Worldwide Head – Advisory Ecosystem at Tech Mahindra",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVJNMnB4UHgxZld1VnBXYWRTNmxFWTFtMUEtOE1RSHkyUDlhMW5lWnZ6eEV6YXcyT2Ntb3pZdDJQLTBzRkJZdnlOVDZkLTBGTnhDMkVxU3pfcWRYbWUzRDdFUTNLWnVETUR5Mkk1dU8zanNYclZIM0ZYZWZzNjJnSW5mMVdZSUxJMlZoVVhkS2FUcHhxSUUw?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-29T13:38:49+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d9fb6dce76615f4a",
+"title": "ITAT Allows Tata Steel’s Rs 813.65 Crore Interest Expenditure Deduction Claim, Tax Exposure Drops to Rs 1,259 Crore",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3prd1NfNDh3SGltMG1YcEx6YTFkTENMQlRlS1gwUm4wOW5UZFpubHBmeHh4d210RmYwR05seTNibUNzeWlJNnpVWk5TS1pjcVhCdmVocDlwWTZqeGRZRExRaUd3N1RUQkU2U0lBVEdVQUMyWGNvQkZibTN0SWVaZTloMTNfcUptcUNjU3BIbjlmU3BISFo2LWlDa1AwcWhSUEhiZ1BvbjBteC1GUXJEb01QTEVQNHlVMm5xT2ZzVzBHRU1mMXhMOVUzMWFNalpjdUIweWNnWDZoWFJOUndqQg?oc=5",
+"source": "StudyCafe",
+"published": "2026-09-29T13:24:54+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "57dda84666233831",
+"title": "Tata Steel acquires shares in Singapore unit for $340m By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQW9nNkp1eW5rT1NKZEtITUtISmJpWm95Y05wNzlzRTZhTTlfX09IYUozQmw3cjM1SDE5cXFpTVBHa0lwT0V1M2JGRXpRRE9OUll3LUNDSFZ3c3ViXzAtVTNlOVAyREZ2YmlYeXVqX3NlOVRYUVR4VTFRZzd6MmhwS2FxMXBoYlFmVlZMM2hNTl9fdm9kTUN6ekl3RUNwZmp4YjFMYXNrWll1VWxrbzFON2prcXQ?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-29T13:23:14+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "48060cba744f3b64",
 "title": "Infosys, Wipro shares crash to 6-year lows as IT sell-off gathers pace; what is weighing on the sector?",
 "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaFZxazJxVldqZnk3R3dEd2podDZUSEloRlhsajlaVXUxeW9KQVR0NC1QNzJrNDZhN1E0NWVrVm96ZGgyOTZhX0tlZ0h2UlNIeXNTSFdwSnFIb0lUT081MTVHRVVXcGd4eTdjZDkzaEI0SGpQNUVYc0JGeDVScHdQQWtCc29nTzl3V1l6WENibDI2WGZ0NnNBRGdUX3YtS3c5YmtyU3huMkxDMnFmM2s1MmFNWGRmZVNsdUNKc0dzOTZQc1RXT25ZNjFsemRkb1l4dW1fYVdXdzNzWFhDaUtuNUd2Wm9PN0JmR09iTlpCRE5TdXZ2NGF2VS1rd0VLdXPSAYQCQVVfeXFMUGRtTW5BaUFmVkItS0lZS2taQkh5X1F2RmRBdU01d044dXZkdEVidWZaa0l1eWpyX05aOVNCdmNIaEItSXNZZjNmM21yQUZ3eXYtdXoxblRoMWwyZ3hCcHJ1dGcwNVRDeFV3OENYcWdlNExYOUU2VFFyRXB0ckVlNlgtWDhEZVFNTkNHbzA2SDBQeDhUOFNCUk9OdHhKdURiUnJlU0I3VW1fcmhrY1duNUVQcDlodnZzMFY5V202Nk5iZFI1MDhOSl9RM3NXUnZwbkYxaHgtUlFkc0lOeUZ0eGVmZlBiNE5SZ2lyX083aEtXN0tLVERxYW1Cc3lTM2lfd3hlYTA?oc=5",
@@ -555,6 +623,22 @@
 ],
 "groups": [
 "Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "45aeaad60356e5ea",
+"title": "Rs 980 Puts — Just 1% Below Current Price — Draw 3,450 Contracts on Infosys Ltd",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGoteWM0dGhUclljTkFGbVFhT2RWQlRoWEJTdkY1dmo2QkdpNHVYWEltV0JZc2hwV3NRaVZZSjByWTRXRzJCQTVxNlRsTzY1SHBBZkFhX3lVSFlQcTlVRzRLVkhJdmpuSmhMSzg4ZTAwVFc5MFUzUDQ4dmRMWFJ6aFd0cXhRU2pJaklyWUtua3dnVUJnSkFZVjdiTEptWUo4TmZhd2xFY3h2aGJKejVLcDRnYzFtQS13WmZxc1ZEY2xKR3lUMEN6RHg1ck9kVExGaUMyLXlJSGtvUQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-29T12:47:28+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1338,6 +1422,38 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4dde265e848a1fbf",
+"title": "Wipro slides Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWtMaG9WWUVMRzhldzJsMDhBTDJNam9CRlV0THU5NVptWlliQUZkM3ZES3BRN1hseVhGak0xbklMUldjR1BEYm52d0JQelhKODRNTnhqYlhMeUR4SHlnaThvbXRyNURBWC1tenNDMVNEVTU3QXZlcFlMRTZEVmdkdGNSQVhzVmI0RVlDRU5xeXJMT0ZJTlZyZ2gyTzhCdnd3MC1ReU5GaFpvZTBGZmxpelJiT0IxQQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "3e61fb1fd8f9ef8f",
+"title": "Hindustan Unilever falls Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2I4a0JyZFFEU1ZCSlZ4NGxVZmVJX3RoUFlnSTVBSjNVakZxSTVkVjEycHpzU3k3M3R2cmdFeHlsOUNzTkZfcE1ZQlZqWFdXRDM2cW9pd3pORUZFWG5LQ3N4UGNoc3pWaDFjUmNyNk9CZGZKdl93aG9HVzNqWnhnMVB3LWVUb19FRE4yRjM0SGRfVWd5YjFBRU8xeHZmRUxsOFh1UFE0MF9acmFuSDN3M0p4UlRNWmlTQkx5QjZobV9NVkNIWFl1LW42MA?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "6ce59781b74aed69",
@@ -2948,6 +3064,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "09121ac90b0c3541",
+"title": "Sun Pharma shares: Macquarie maintains Outperform with Rs 2,150 target",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzhfSV9sNVB0aWVYdHFMdXJsRnpQTGVlUUlvbDdkOGVFTGh4Y3E1THBiTEtuaU9pWUhFRWYzY0Z2c0JidndrNlpZRmN1UUVtY0RHcklDSmh5UFRuVDhTNHZDa3ZFU1NsbVBHc2VwU2duRUllT2doOW8wWWVzYWZ4YVdfV3kydHRFaFpnS3FyWEt0S0VrNFJPdWNyak5QdzVTaUhSazJkSExuWTJhRFdDM01MTFJKRlJya0VsNkh5cmFsTkVhazV0aUkyYjdPMWhZZ2J1dlh3?oc=5",
+"source": "businessupturn.com",
+"published": "2026-09-29T07:23:14+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "2a57f8ee2f7ccc69",
 "title": "Rajeev Mantri Appointed as Group Head and Chief Financial Officer at Axis Bank",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUk4aHU5Y09NRnRyMTBKV0VrU1VxSUZIOEZfZGMzQ2d4Vkg4QUw2RmJ5VEt3cndHMlIyb2Q3dkdkUmNFWG5tZ0JJNVpwUUhCOFYyZFRkc3g2LTlVUzN6QUxsOUxkLURXWExtWDlVSWdfRU9sZDRPMVVkX2tDMHg2WDZ6Yk9EQkctaENoVnpxeTZuU2hrUzVTbG9kNjNMUVM3STFidWZB?oc=5",
@@ -3856,6 +3988,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "fcc83438b9a6bf42",
+"title": "JIO Financial Services Share Price today after yearly low",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWY3M0JXNTdPQ3QzcldiaU9jeDdPM2ZIMjdVSTNZc1ZZWEhKdjUyRUwxNnNMNGVYdDVlVXY3ZUdQcDV6bjgxRjlzdFpyZ3pPakRwQTRwRUNSaUZBSkJSa1BHc3VSOC1TYVkwYUNyMFNJSy1USXpsYV82bGtKdzNoS1U4bEtlcklVS1czRFhDWlhmbmlR?oc=5",
+"source": "Univest",
+"published": "2026-09-29T05:49:00+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5715,6 +5863,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a089515e52321bec",
+"title": "SBI Share Price Highlights: SBI Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-29-sep-2026/liveblog/134555005.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:15:04+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "254e0e4c31a8d317",
 "title": "ITC Share Price Live Updates: ITC Stock Price Movement",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-29-sep-2026/liveblog/134554950.cms",
@@ -5803,6 +5967,22 @@
 "source": "Economic Times",
 "published": "2026-09-29T03:07:05+00:00",
 "first_seen": "2026-09-29T07:13:07+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "16d9f9d715f4853a",
+"title": "RIL Share Price Highlights: RIL Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-29-sep-2026/liveblog/134554846.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:07:05+00:00",
+"first_seen": "2026-09-29T13:49:41+00:00",
 "symbols": [
 "RELIANCE"
 ],
