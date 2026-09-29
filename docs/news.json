@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T15:21:43+00:00",
+"updated": "2026-09-29T15:37:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -919,6 +919,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c965302dc647f865",
+"title": "SBI Seeks Clarity on NGO Funds Under Proposed FCRA Changes",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFJJbVJHeWJDeW82WW9tdnhoLTdLZ1ZWNXBXREM3MHZQMkxWdmVFaDFOOERaVm14a0kzLVpNUXZpNEs1Z01zR3RseGVRd0xESUV6TTFsT09KZHZOZjZJbkJ1SHh3Q1U5MTFBbnNtU1lLQ0YxbTBVYW9CU1VwVXkyWE1QZnc2MUFIZXdIcDc4Tl8wMFNoSkQxOWxSdXN3MDlQU0VxU2VDUDZ2aXpHWEtkclpybkHSAbQBQVVfeXFMT0hSSW1SR3liQ3lvNllvbXZ4aC03S2dWVjVwV0RDNzB2UDJMVnZlRWgxTjhEWlZteGtJMy1aTVF2aTRLNWdNc0d0bHhlUXdMRElFek0xbE9PSmR2TmY2SW5CdUh4d0NVOTExQW5zbVNZS0NGMW0wVWFvQlNVcFV5MlhNUGZ3NjFBSGV3SHA3OE5fMDBTaEpEMTlsUnVzdzA5UFNFcVNlQ1A2dml6R1hLZHJacm5B?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-29T13:30:37+00:00",
+"first_seen": "2026-09-29T15:37:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d9fb6dce76615f4a",
 "title": "ITAT Allows Tata Steel’s Rs 813.65 Crore Interest Expenditure Deduction Claim, Tax Exposure Drops to Rs 1,259 Crore",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3prd1NfNDh3SGltMG1YcEx6YTFkTENMQlRlS1gwUm4wOW5UZFpubHBmeHh4d210RmYwR05seTNibUNzeWlJNnpVWk5TS1pjcVhCdmVocDlwWTZqeGRZRExRaUd3N1RUQkU2U0lBVEdVQUMyWGNvQkZibTN0SWVaZTloMTNfcUptcUNjU3BIbjlmU3BISFo2LWlDa1AwcWhSUEhiZ1BvbjBteC1GUXJEb01QTEVQNHlVMm5xT2ZzVzBHRU1mMXhMOVUzMWFNalpjdUIweWNnWDZoWFJOUndqQg?oc=5",
@@ -977,6 +993,24 @@
 "first_seen": "2026-09-29T14:01:28+00:00",
 "symbols": [
 "TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "07614eb8fc334bd4",
+"title": "Tata Motors Subsidiary Acquires 26% Stake in Hyderabad e-mobility Firm",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGVwNWtqM0NCdXRpVm1EYWhxSFJaZDZWR2hWWWZQbl9QSldlTzNQNHJLZEEyYjlFX1FibmRLd2Q2U0NfeVh5MzhqNHlWdHgtYTBsZ2pmWkMtdDhsVVlkS2pMVEViLUhrV1dsWFZxUFdDODUwcGtiaEp5TTdkVGdCSXotS0VCMFpOaV9YVU5DTzVpR1RNR25sbGtHQ09za00wRW8yUjZweGxIQjEwRGRocnRaOTVzeC1fLWtLVF930gG-AUFVX3lxTE14ZXA1a2ozQ0J1dGlWbURhaHFIUlpkNlZHaFZZZlBuX1BKV2VPM1A0cktkQTJiOUVfUWJuZEt3ZDZTQ195WHkzOGo0eVZ0eC1hMGxnamZaQy10OGxVWWRLakxURWItSGtXV2xYVnFQV0M4NTBwa2JoSnlNN2RUZ0JJei1LRUIwWk5pX1hVTkNPNWlHVE1Hbmxsa0dDT3NrTTBFbzJSNnB4bEhCMTBEZGhydFo5NXN4LV8ta0tUX3c?oc=5",
+"source": "Autocar Professional",
+"published": "2026-09-29T13:13:27+00:00",
+"first_seen": "2026-09-29T15:37:42+00:00",
+"symbols": [
+"TMPV"
 ],
 "groups": [
 "Tata"
@@ -3214,6 +3248,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2fa562dd48f32ed5",
+"title": "Chhattisgarh: Ultratech’s Kukurdih Unit Meets 100% Power Needs Through Green Energy",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnpWcWxOUlRySE5IWGJkTjl1aHc1SUlicmVRQThIRzBDenJqTGZQaU91VENTT2NpeV9PVUlDV2xHdzc4aDRTeHpJTWluMndqR3hmc3BfSDEzNXppSUpUMF9kbWdHYWY4bFNOcy1WVzl4VUQwWi1nMVlzX3UzcGhJVVdTME9ZdzZhUnhnakJNaVlxNUFlZjhIV3ItV09ad1l0N2lrREprU0swMlBxaXFVc3JUajJsRDVvZVZHM2NtWHZIVUM4MVl5cF9zQzc?oc=5",
+"source": "Realty Plus Magazine",
+"published": "2026-09-29T08:25:14+00:00",
+"first_seen": "2026-09-29T15:37:42+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f961ec898fcec8c1",
 "title": "IT stocks to watch in Q2: Why JM Financial is Overweight on Tech Mahindra over Wipro",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS29YYzNXMGEzRDhZM3YxM1pQMWpBUm91aDBfbWRKX0JJSTBGNlAwVzZLaUNUTlpyN2Mza09TeHdJSklCaUxkWWF6ZFQ5akNrUkNQNS1oWnNXejNiVnIzMGFuRnJfb2Uyc0ZseUlSSFlCZ25iVFg2dHhsN1RsWVFfNWZMV19xbUdLcTdFRjAyTXdnelNXZTdOelYyNXFhOXJJWU16eFhycjJOekNNcm5xLVR1U1dKcV9QVmd2Z0hKYXJBdWlmTUpqTGFzSE4?oc=5",
@@ -4663,6 +4713,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "fa11ff660ec8bc35",
+"title": "Maruti Suzuki India Share Price Today: fresh 52-week low",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ25yeGRRUHZxTXB6eFBGeUVWNmhLZGpIT0VRcHVva3lYU0xZRmFZMnFfZHVzVDFvOTYtUWNGZ2lLdXh0bWhsSFhpTEJyM1cyb2JaS3RKX3ZkcHZxNFlELXNCNVVjdlZyc3ZCN1Zsc2RtdFdOQTVCMFlseDAtQThVNGdwVnBmbXNFbjZTdHZzZ0swS3c?oc=5",
+"source": "Univest",
+"published": "2026-09-29T05:52:00+00:00",
+"first_seen": "2026-09-29T15:37:42+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
