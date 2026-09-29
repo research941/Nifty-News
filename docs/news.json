@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T07:59:37+00:00",
+"updated": "2026-09-29T08:19:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,89 @@
 ],
 "items": [
 {
+"id": "179317993f7f610e",
+"title": "Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR19VLWVIYXdUVzlsV3pwUU5ZUC1IUGxtQzJrOUJMY2RURVU3aXFkNFowb0lzQjJGNTI5TnhPMEl0cElyUElVNndoTmxIWWJYTl8yZ3VqRERQMkNwMHVjN0FsUTNxTXU3dnNnSGVFTjJYTms2Vy1LXzJhbzMwQU5GMHpYTXRyakNlZk5oelZnR1ZBbWxWQk5HWmpJaUNtMWVMckxfdExhRGdzMXlaeHBHQVVvN1l2YzUxUVJSS20yOVliWEVGMXoxZkhNRnotMll0eWZIQXVHSHJNWXFOUTZES0tKUGRObk8tMUNnRThralFyTTRF0gH6AUFVX3lxTE9IdldUYnJ1bl9HOUZvQlpnMkw0Z1ZKMW1XSUEyY19OU2VZWVhhM2UyeW53SDdpdFl6UUJiSk5ieXkyUVpkV0F6MXlzVjhZMkJGTnRWX3J3NUMzWkdzcFVOQldvNTFyUUJLXzZLaS1uRUlRbFBMQU1OQmMzTUk0OXpiZ2EtbXJsdDl0ZUJuVTNRTTBzUk9kdGw5a3NMdEN2cFA1SG1YYXdCUWJQZzhDVTlMTndGRVZnbHVnc0Vsbk9Vc2ZSLVR0aUJkSGdLdU1wMTh4dktfTlpCXzhTWXA2dUZOSERVbmlKOEZLNDFMMWQxV19PSXh4OG5tVEE?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-29T08:10:05+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"HCLTECH",
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "27a11b8c29dfb1db",
+"title": "Axis Bank makes absurd demands the new benchmark for easy banking",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0FCYWl1VXg3Z1J6eGpjQXFqcjhMZWJjQjAxcThQbUFpSlNIZzRHcWhIaG9LLWw0NnlnQktJYkMxQ2w1Ung5R3lGN0thd2hkbDZsZ0VzYmY3THlNbkdPRzNTRjE2azY5VzFzQ254RVZrTkhWbmpaRWJxQnZ2WHQ3VTQzYVBGRG1sa3RDb2pmc0UyNWhTdlU1Smp0a3R1QVpKNEEyLW5hd1p4Z1ZPdEtfaVdHdWlvWUQteE5JVjZ6bjFEWTdWd2tiYw?oc=5",
+"source": "Campaign India",
+"published": "2026-09-29T08:07:40+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "59b21f34ca31a329",
+"title": "Arshia Singh Elevated to Vice President – Leadership, Talent and Learning at Tata Consumer Products",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXRYUXh0X2VNNDk1cDFHdEkyQnJtRGdhMFE1aGxkZzduMzlLdkhmY045UkszZ28tY0M4bDY4RmRMcFNYaWg1MVlxdjQ0MHAxOTQ4VXdPaFNrS19RU3lsdV9CMzVPRDRGdWpoR204WU9XeVpNNjhkZ3Nsc0lsYnZRSFFjcUVSVUZadUU4SUZwQXdpczVMZExYakx6NjNJV0dTOWhBTE5DUTRJU0oyc2N0VTRKWnpyOUU?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-29T08:04:14+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1af272561a037bf6",
+"title": "Tata Motors CV arm acquires 26% stake in Hyderabad-based e-mobility company, stock in red | Check details",
+"link": "https://www.livemint.com/market/stock-market-news/ata-motors-cv-arm-acquires-26-stake-in-hyderabad-based-e-mobility-company-stock-in-red-check-details-11790667389617.html",
+"source": "Mint",
+"published": "2026-09-29T08:03:56+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "05d55ff34f1885f0",
+"title": "BSE To Replace Wipro In Nifty 50, Why Did TVS Motor And Divi’s Miss The Cut?",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblhnY2F2M3A2VDdvbGw2Ykl2eHV6RHROTTRWMHpzc21sWjRmLUpTVlp3RWJfM3RBSkVFN0tJY0JGSkJfZjd1a0xZcmptM1ZXMWNKMms1YmpsUWtNVjNvb2RoamRBV2dWcERweEdGcjQ2RW1Kc0w1WXFiZDdBRWZXdmR2OW9ZbjMxdmJ6Zmw2MkhpWnB2aTlObV9JSC1LYXpMc2FQeTBPdlNuOTlGOG5UYVFhUlHSAboBQVVfeXFMTXRPdkxJTnlIZUZOdUVNYlNQVUdTUW9IUXVlSEFvY2dmby15bEszcUhxd0ROM1hDNWtuOWg4N09UVVpRS1ZwaVNoZ2dEUldUa2YxMjVGQ1BibVZkQUpDcVJIY1JzaFBJNDRiYmwzSnRjcHREdXNJNDhFOV9yR0tzdWhhTVJOeW5WemU4ck1mU2JHelpBeWdyMzdvTC1tNk1ZVi1wa2R4MTNSV2kyWmU4aVhGRDlETy1JMTlB?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-29T07:57:20+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "e1466e7ab39b72f6",
 "title": "Buy, Sell Or Hold: Canara Bank, SBI, Cochin Shipyard, Manipal Health, Bank of Maharashtra, CG Power — Ask Profit",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYU9pa25wdFlza0VUZ2xBbzIzUG1XNGRlRklETHR1dlRybU03b1NQc21LdElVb2QyWXRXQWlOZk9kaDZpbXNrWUQ0dVIyczlqMFFBQm4zVFExYUJqa0JxTjBuZWlxamJYMzd0ZFNNRVlVQjQ4WEcxVE1uam5lQzM5a2Y3aDdKWTBBdkMwQ1Z3SGNzWXZPRnlxNUxGeGRXU1VuX3UwSDRiLUd1TjV4elNuNm0tSkRKTzFWb0pRNU4wSXFUR0c5SFA3b1hIQVZoaF9sbHdFdmFWMm5TMkxXNl8wMNIB6AFBVV95cUxNTGYxRGpFSEo3VUJOc0twa28xMV83VlVSTUJfN21POElVc1g1QndJNnlMQWhoWjZkMHlUWEhvVkF1UnJOSVhFQVhCTm81SzQ1bnZla0gzS1duSGVJbkt0QkJwZnVHRVphNHFONENucjlpUnM1Vm9VWmN4N0t0UzZOZFRGbE9Sc2JKV0Iway1vbjVtcmNwLTBqVkZHRVhUamtfTGJBTUFGLXNmZ1FpSnhrY0R4elRvdEpPZlVtRGxmVEI2TkdhZlVTZ2dUVHJqbUJHQktPR3JJdlZla3I3SEo5cmxQNU93VEN5?oc=5",
@@ -695,6 +778,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e195cf79097daeb9",
+"title": "ITC Outlook: Can premiumisation and new cigarette launches fuel recovery? HDFC Securities weighs in",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnBGUHVLX3hNdEV5dTBOTmRQeE50Z2ctaXVYdTZRMHdjZUpEb05vaVpqODFhX1p3STJYam1zcTZMcU9ZbVRoUzlWN0tnb3hDNDNBWkd4a0xPZHluYjRfWlhudjBMS1NwUUFMTzJKenFiWGxLYXB4TzVXODRiWWMtYmdoMmxzb0NWRFpRWDBvTkN3S1NRTFozQ29hanhXTGNLckxadmdWSkJmWVVzU2RENk1jREFTcVdSVDh2NEtmUThWTEptYTF0N2pBLTV2b29xNmtNbE9QSFFwOGlmNFRkVDRmd9IB6AFBVV95cUxOeWg2QjVxZTZDejBJT3NUTU5pNlJRZzlrLTQ1b0FMS0c3MDctZ1BsRXhielRFRTZsUXlNeERZWHlZUEVaNENWT21CZDdKTUFfUDBoYXEyMTlZdGNMOGM5ZjBZZU5ORGFkMGM0TzNiSjB0aEtoYXA0VV9FZ0ttdXdyTS1pMTN2YmZzaVp1cVZqaU9nb3hwbzlkSFpiYVZ0aHV6bk1lcGZVRk8zOThpdDhDRmNneW9XUVIxcGZfSmFEOWpaSnA5eml1VUxqSmo1RFgwNHlNQ21vTkFseGhlSFVNR29vNXFaY2RJ?oc=5",
+"source": "ET Now",
+"published": "2026-09-29T06:59:44+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b4ec776bd4f4e0b3",
 "title": "Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFpUYVp1bWFOVjhWU2d1d1JfczVoNGFfSWNfbTd1ZjRKVDBqdWdiRTlyNEhfdUJkZ05aS1NjckRyOENPQ0d1dTRSdFhqWHJVc01UNmNHV0pRUHdHYWlNY1c5VnRBWTk4TS1zb0d0U0FMaU5kRVhWd3NyZmZFMkRKUy01MlFSV19qS3EydGNvYm0xbjhlQnRBYjV2dlF3SV9ubmVOUWhCZE4yZWJSMXc2MnBFckExbUdxWTNjOHNkQUJhV25RalZqRDcxWGpvZFBGR1pxcDVGN3BnS3NS0gHkAUFVX3lxTE4ybzZoR2tPTWFpT3VfTzNIbHpBeHoxTDVXZlJNaVpUZmlNaFpZeXZ4ZUx5YzZMM1RnMWNTNEJiUEtDLXdrYnBlN2FoU3Ywc081TURvVHNXZ2p1ZzV3TTBVZjBQSkd0eWtTTHBYYVdLYWl6dlNSQ0g3M0ZIa0N3cmFta29SNldXa1hEdnU2UFo0aHY5WlA5UGdwWnZqOXJvQjJVSWF5RXVEbDRSTXc4LUhlRHJHd2dwdm9sYjJvWjRqcVRnVlVpYzNya21nVU1CdmdXZnhHN2QtbXhXLXBBYmFnREUxSA?oc=5",
@@ -726,6 +825,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "abca34e08ef68f37",
+"title": "Infosys Investigated For H-1B Filings? What’s Happening?",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTVfN1dNRUNWd2RQaUxtX2RrRy12eDJCaW85MERkb00zT085ckRxai1yR0RWNFVoMjcxeklBRG9yWTEtemNPZWVfZzVoc0VRTkQycE1DYzlFZHRWcGFFNjJZQkJmSFg0Z1prRFU2SWRHU3NGTnFtRlRveFNUS0pFUC1DYVFubnMwUjUxSEIzenJOZGluQWfSAZsBQVVfeXFMUEZKRWtEZ3BUNWs1M0w3LWJMaEVyVEwwcnAtbmNUTGxDbl8yUWQwQk0zS0NGVXpJRTFmSkF0T0VTaGl4UXdpaHNZemkzal92UUlfb3NNUFY0eEFYeFFINVc5UGI0YWt1QmNObS1uNDhIcmdNdmlWSnl5cm1PbHJUNGVxU2FNWWltWlJGTWhHYjZCNHF4TDRaaV96eTA?oc=5",
+"source": "Gulte",
+"published": "2026-09-29T06:55:05+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -761,6 +876,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "682668d2bcb31390",
+"title": "HCLTech study says wealth managers lag on AI readiness",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDFSOFhra1RJcjJyaEVWa2htYUpNUC1PMnFhOExuT1RKWmhSQWljQ2htQTc4UVRzaU04OVBLenBPN09QeHZMYVp6VnNMYk5pQ0pMSHlMeUUxSXVXUHlIaVJpaGljTlpWSXBkNW1qMUVadVIydExYSEtZZjN6ZjJfRHBLNUNKSm9NLXpB?oc=5",
+"source": "CFOtech Australia",
+"published": "2026-09-29T06:47:24+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c98e525df3581e7e",
 "title": "HDFC Bank announces special window for dematerialisation of physical shares",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2kweGhYQ0NaN1BmOUhjMUNiRVpXRUx6d3k2Z0djZk82SnAtWUFIMTB2ZmpINzVLSTRDUHZRSTB1YTFab2ZULU5va0tLbjVrX3FDb1Q2VEVmQ1JNR1lvUWNyYmlFUWdFbDgyV3JSZl9PU19ublRTNm4zQnI5dnVHMlNrSS1id0w1MHlQa0d5bExZczFIVDdUUU9TNFpyeEZoNDlMR01hb1U2S3NQeElKR1N3?oc=5",
@@ -788,6 +919,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6e6175f81de3caa1",
+"title": "HDFC Bank Physical Share Demat Special Window Explained",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdFJWOHhQVzJGWHQ4SWdIWHlLdGs2Y3RMc1VEd3ZQTm1oZ3FYTjhsMEhxaGtWVWdlRHpYYTIyMXp0LWI5OFBhYk1DU2tsei1sOUozUU5LR1p3YkIweG8zT19PT3hQcS1yck51ZHZINzJ1UUdMMGhPYmp6eHlobFoyMUVXc1FIZTlra1BrcWhIU3Fsak5JMjJrVkxQdjc3cjN5b2VEWkFhQ0FFLW8wbVY0SHlyRWZqLUwzZDRoalRidUhjblhVQjlxWXI3SG50RkU?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-29T06:42:00+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -912,6 +1059,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1195d745c57b72ee",
+"title": "Eternal - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWV6dmFOTzBRazdFRnYzUk55RlVNenVpM2k4aFBMNDdTdnhIV3B3RWFOaVJwd2RuUlFUZW1OdXgxak01MTlsY2c5b2t4bzJhbktjMkRGanlPd2JabU40TEtETldTZm5JZkd1QVEyU05OblFlNTVfVTVUYUUzeWZ5UUdSVzk0bm5KV3FwTjV3bUNXNFJPMVo1X1VhRUpyd1M4RURkTDg5Y0diX19lb2pmS0JLX1ROMUdodGVyQlF5LUF1N2FQWGZYZW5vWFVfTnp2UUpHUFZpUEZuYTZpcEZLd2U2U3R6amlyY0dEdktuZw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T06:22:25+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "1adf8722c619f535",
 "title": "ONGC CMD Race: Seven Become Three?",
 "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oN2Vrek1NWXJqNEI3YTBNSHozcEQzNHZUai1hWmFhaDBNV213dUsweHFhNmNmT3d2Vzd0RjFKWFB5Q0JGWE5URTMwTjRkTnZ4WUZzYUFKTl92SXNFUU81bmhPMmJqQQ?oc=5",
@@ -976,6 +1139,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b14282090bea5565",
+"title": "Titan Company - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM0hZWmx0enZubTRFbWExdDgxRzg1QzlGM1pVWkFTNE01MEoxUWIxQk90bHlsNzNTUVprN3V2eHJQQ1NSdHRoUVVFd1lKNHJRcHlkZ2hsSEl5QmxXeGxkdGg2ekhHRUFVeWZrMmFDdmZYMWhmX21JU3N5UTJsaF9NbFRscFdMNkRvZ3E0RFVSVXV0dzFYUzBoRkY5U0dmZ3o3ZjFtaV9RSGZfQmttaENTNEM2cDFMbFBaS2xzUWwxWk1makRZUUxwUUM3Zl9GaC05dldXb0VuUjNvMGFKWGEwREsxME5WNHFpU2pNREhrckx1dnB5VTFJ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T06:12:25+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "bce0db2fcfd2c3d3",
@@ -1064,6 +1243,22 @@
 "sentiment": "positive"
 },
 {
+"id": "870b3d094facaff3",
+"title": "Bharti Airtel - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZEZDbTdseDNpWi1JVENMX3h0NHJPZGxDVDRkWW5KOHlyTjEyNlpSdnNlWEVkZkRSTWhpNkpoMHNPOEliaDIzd0hoSlZrYlR5eFhkZzBHak0zU2R2Vy1jdU9tb3llWnRtRWxQb1RaS3VOMnZtZWVjbXdMcWhCaHRKVm9lWjdmaFlzNXBJTkpOUzBGM1B2MWZtcDdVZ2tnLTFCVHhGSFVueG1wNnFyZHAxbGJBdTVueUdObGdOSENxblo3aWNxU3phR3A3ck13WkIyTHpRZXBzczhMd1JvWnNzb0lFZHdjYlQ4U3B5MmVSek9rVDFfcFlj?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T06:00:09+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "c6818e152c87f8df",
 "title": "UltraTech Unit Runs Entirely on Green Energy",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXNuRWhPdENMdkNHOTQ0M1VWal9ZcnhDbFJUYTM4WHVJTzkyQ0hiS1JZRmZES2xmLXJ2WFVHQnRUX1F5THlDcmtfdTZaM2J2X0dNQTBuS0RFNWtwRG9vV2RfNzBfSk44a3RiYzBRMU15UzhHOWlzelBpNERyZkpBWjh4X2c4RUlEc2pfbjl0WWFuUE9vOWw4eGFuSQ?oc=5",
@@ -1110,6 +1305,38 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "a7e09813b4c8f357",
+"title": "Apollo Hospitals - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSzJydlQ2T0sweUl6ZnpudndaaWd4NFBudHFtbVB3YmZLb0pyZDc3cUhhS1JmeHZhX3l3NGxLN3Q2T1M2R3V6Mm1HOU5vYTIxZVNJMV9VU01jOXp2QzBxUWtWRjBhUjBJNzFnaFRERlpwNzZkRjNhM1JRN3lOSDRxYXRMWmtOOVlQODhlYjIxdVpfdUVMaEpVZ1MwRnhPNmZKOXBFYnJPc1l6cjVxVWlMOFI2dE5uTmtLWTg4NUY2X0pEWnkxNEJ2MlFYT0Z6QVdDT1dTcHN4UGlId181VVR6RXNnUmh4Skd2UXFsdGo5c0JtNVVkYmlKUFZBSQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T05:56:52+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "64a02a7e4c3d7a46",
+"title": "Tata Group Stocks Fall Up To 3%: Why Tata Motors, Tata Chemicals, Tata Power Are Under Pressure Today",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOelQxM2JjeEctd01Cb2Z5Q2RhTjJlMkZaTDVfRlM3NDdDdkwtQjV6VGd4QS16dFBRMjk0WjJVbjF0SHR1WkJCcHp2aV9SWmo0WHZqaEpJMHlUYW5ISWtDM2drRjhwYkd3VXBmQ1RHSGdvUGV6TUVkcFU5QlRUb01waWluVGtycFZYRnNKWHZrY0ZxWEFTTFJqOEpqa2tDQjZSdnIxbU5xUXNDLWNSNzNEMDRWeEV2YWpSSzRYbnF4Y3Y0Nk94S3A1cFJWMklJVEZ5R1REQks4VS1zMU5kbVJTZmdQRDFha0lLcVZv0gHrAUFVX3lxTE56VDEzYmN4Ry13TUJvZnlDZGFOMmUyRlpMNV9GUzc0N0N2TC1CNXpUZ3hBLXp0UFEyOTRaMlVuMXRIdHVaQkJwenZpX1JaajRYdmpoSkkweVRhbkhJa0MzZ2tGOHBiR3dVcGZDVEdIZ29QZXpNRWRwVTlCVFRvTXBpaW5Ua3JwVlhGc0pYdmtjRnFYQVNMUmo4Smpra0NCNlJ2cjFtTnFRc0MtY1I3M0QwNFZ4RXZhalJLNFhucXhjdjQ2T3hLcDVwUlYySUlURnlHVERCSzhVLXMxTmRtUlNmZ1BEMWFrSUtxVm8?oc=5",
+"source": "News18",
+"published": "2026-09-29T05:56:42+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "fa89ef0fbe129552",
@@ -2874,6 +3101,22 @@
 "sentiment": "positive"
 },
 {
+"id": "ee4fd3342749afae",
+"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Sees Price Drop",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-29-sep-2026/liveblog/134555020.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:15:53+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "c37550d1aa3a3f06",
 "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services News",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-29-sep-2026/liveblog/134555014.cms",
@@ -3015,6 +3258,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a3766cb3d0204729",
+"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Price and Returns Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-29-sep-2026/liveblog/134554748.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:05:36+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8399,6 +8658,22 @@
 "sentiment": "negative"
 },
 {
+"id": "2f2e4652575c6066",
+"title": "Bajaj Finserv slips Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHpHRDdoNm5zZWtBdGlmTXhKWDhzQ2g4MEJGSUN3Q195UHhPSXdqNGZLdWhpSWhDak9ncnU4MWY5YWN0ZzZUd1hjZGVocWk3TkZVM1QyVEhiOU15LVRLWnR3bVI4Q0FuOUVlUjVtR3h0dlFyeUM1NHMxNkJQMEEyRHY4cEF5ZnhXeDc4ZUdwR3NDV0ladjlGSDk3LWswRHByODJDSmN3UXRYUQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "0ae35cc8bbcac961",
 "title": "Hindustan Unilever slides Monday, underperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
@@ -8477,6 +8752,38 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "80b2bf9b376e4cff",
+"title": "Mahindra & Mahindra slides Monday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejA2Z253V0RXMGVmTnZ5TGlGWjdtZm81OHQycmJlOFhWejVlMDdpbFdJRDk2MnJieGlwbkNnN2NfY0NqZi1Bd1p5WkNCbHhOa0hJclFSLU56b0RrNUo3YVllQkRYUnNmeVN2eEF5ZUZpU2pjUEhzQlBkcEo3RmpuX0cyZVdjZFJLTENuNXg1RmpvRzZtRFRaRnNhbEstYTFIMjhBc2NKZ2RncnFneWFmYWhB?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "098036c5587b247c",
+"title": "Asian Paints (India) slips Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjFWaktHVEU5enZNX1A3eU40QnVldHByVGhRb0lYWmkwSG5oaVRlSm9MQm45M0hmNGplcXZRTkJfdl96OTFxLWZBMXljZUlaVFU5RHYtazFUdmtLTGlUMlJqWnBodEN2YWFVal9HdHk5ZnZTeUIweDFZRU5wcEhxNFdmZG50UWxoTk80RWJ5amxETWtSNE1xa3VLcWY5RElSaUFnUUI5SzBnUmNKQWxITQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "0362149007c7d589",
@@ -8639,6 +8946,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "11af2ca9fb4e0104",
+"title": "Dr. Reddy's Laboratories advances Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEtYYll3bnJwck1XYnE2SDJWZWdhbnNWNmNwSExMNmRXakJ6RTRTWDVxeEU0ODdJUDBSbFpuOFFZaGpIYXNZVTFJRzZxZVBqUlVNc0xlV0RZLTVHbEtleVRlNFpYLUVuYTNrWDZlQVR3NFZNZXlFWkMtVVNLRkxlb3hDSk5fVGowNUhVLUFoczRfZG5zRU5RbmJ2RjRXZDROZndfN2xGcnRvMktJNUpBRzFnVUVxellqMkc0?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:30:00+00:00",
+"first_seen": "2026-09-29T08:19:46+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "1acd2a1f6245febd",
