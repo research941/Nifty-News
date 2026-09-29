@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T22:32:48+00:00",
+"updated": "2026-09-29T22:45:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,23 @@
 ],
 "items": [
 {
+"id": "e7850bbbf816a965",
+"title": "BSE SENSEX Dips to 72,529.07 as Infosys and Wipro Hit 52-Week Lows",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTRZTDRydUQ2Tkt2dXFGNEw0MWdSVF9ZZjJqbWl1bDFiSkdxb0xEc3JOZmc1cDM0cXJPeEs3R0gxVnhQUkZDSXpTUU1kLVNwZ0czTUI0c19vRlFJTi0xN1lxdDlfblB4WGNfRHk4bWVGaWNvSEFVZEJuVy1fY2h2bzJNR2dQSjFDXzdnSXlWcEtYU1UzNGhXR21vT1ZaRm5zRVh1ZkxFYXAtQQ?oc=5",
+"source": "BBN Times",
+"published": "2026-09-29T22:17:42+00:00",
+"first_seen": "2026-09-29T22:45:25+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cd1c80721f0c4909",
 "title": "Trent Alexander-Arnold causes a stir on England return as fans all say the same thing",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkZ5T1Zyc3pkMEpOc3ZVYW55WjlpcGVEYXE0aVFRbW5YczhzOHFYU09yVUJYUk9pWmN2ckVoRlNiYjhSWmRUREMtZ2pPWUtjeXY1ZlZNUWtRMUhiRTQ4UUJZS0JyWjdRZWd3b0psazBXYS1IMmthUGVaS1NidXJWcXNDTk1RcUU3SVNzN0xCTkVzV29LOEHSAZsBQVVfeXFMTm5ITkJ3OFlUM2NyZE16NnpRRXFzZkFCUUcwV0dSY0UyTkpnOHJld242QjNmSUd5Qk5maHZsOWJ1bl9GT2VqcEdBOHYxcnBodW5uVE1JVWhXWllQLVZ0eG1kZXNWZURpcW5kUDlmVXIwdmdjUmE1c3JXYUV2TTFYNElXTGplSDZiZURDeHE0TVVJc0pxWXV3MGRZS0E?oc=5",
@@ -573,6 +590,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "17b9dfbaff143915",
+"title": "Stephen Hightower, CEO of $1 Billion Energy Titan, Shares How You Can Become One",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XVS10Rms3V25kbWlKM0I4TmNjODdUSzA3RmlObHVTTDc2SG9iUmdQNkt3cEZwVzVHTzgzMUdFcFlGLU45bkN6X3JzRm9sUFFYQ2JGakhlU3BjMGl5S1prWTFnMk94a1hNVFRIaFNIRDZiT2VWS1lrNGlmMEQ?oc=5",
+"source": "Rolling Out",
+"published": "2026-09-29T20:18:35+00:00",
+"first_seen": "2026-09-29T22:45:25+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "6c3d7e3222dd7628",
 "title": "Bharti Airtel stock after-hours as company adds Apple services to family postpaid plans",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTFFNjJZaURBNmM5RkF2Y0lLeUU0V1Fzc0FMSHF6b25CY3VSM1loaUhVS1Z4LUpuVGRZY1dBWjBjTU82Z1RlN0t1MXdfbGl3bHIxY0JLUzFneFpkMDZSNG1qVHhkcndydTdaTkRla3dVUzVfQVFzenNxdllxOUM0UWFpNjRIY05Xa0RGWFFQUVB4M3BhUE9Kamd1ZmFEbjgwTktIVFZyaE1pTF9FQTN2WjNMVE4ySUo3Q0NUWTVISk9WeWNFVUpxZlZBZw?oc=5",
@@ -584,6 +619,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "992115dda329bc9e",
+"title": "Apple Pay reportedly launching in India with Axis Bank today",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3Yzb1VUYU9GSUlJVGh6c2tEWGpvc2d1SVlsNzdBR2Y1UnVEYXlvVjNnYWpfeEpYQW05TzNFRjN3Z1U0QWhxTW0xWENoczR2VEVISXppbGVObGtBRFZ6elozeGdrcFR3LUtoWnF0STByRDVTYjI0d1lzc1lndGptc0czNG1yM0ZLVjk4bTQ2akszRnE4SFE4TWtHZERORHBjY3A3RVRRTWdLdmPSAbABQVVfeXFMTTVBcWprSmoxWWtIdDc4WHY2aDlzN2F5WjVVNDBxZ2hlVzRxQS14UUlsdUdnc1JKVURoaldSNnE3dE0zSEpXM1JFUWMwOFRKdWtQcU9zaUVoLVJ5bll3TF8xZGFlc1JxcmJrRXIzbDdGUEgzZE10TXgxQ1R6QnU1T3FieWt2VWpXRkxQMmpScnFHVUlVclZvZFVKc3RKYmhPVlJ0TVpLVEl0RGN3aDV5T0c?oc=5",
+"source": "theapplepost.com",
+"published": "2026-09-29T20:00:05+00:00",
+"first_seen": "2026-09-29T22:45:25+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -957,6 +1008,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5383c8b23f480e30",
+"title": "Tata Motors India Appoints Ranjit Yadav as President- Passenger Car Business Unit",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUpjNmtHLV9IQ2xQY0R6LW94eVAxQ0tBb2ctVzIwb1NTOVlhUDRpOFRwZndyYWJGNUR4c1l6bGpBT2tZWUVJRk54NWo1MVNVU2l5Sk1fMUdBVG9wQk5zUmZqYnZiS01QNW5kR2VkbFU4Y1JpTlRyQzA2TXBxZlhBOXdDY3ZkeFJocERadF83dGs0U2RHQzNiTnk5b2lMakpWQXFBazhKTERNWGl4ZDNRUlJtVHo5aXBtV01fbkdHc1EzRHk2b0HSAc4BQVVfeXFMT0FFOU5CWkktb1F4eGE2SmU5bmxjem11ZFpkNjdiZDRwQUxGdFQ0T1ZMTjNzcHMyckRiNU5CMWhxMXZHNDNwaEd1Um9nWXF0eWRqdGI0TjFYdE80eG1yaDZQa2t3eEVwX05uOHRBUlBBcHJUcGdhaG9yZXNSVlFXbExrOFkwRk4xWGtvcmdMVElaM0ZodDNIenlfRldwVi1CYmJMb2p5UGh5YVZWV0E2MmZvZEthcGtJYWVzMHp5LVo3Wk9MSUFCLXFLUmxMenc?oc=5",
+"source": "CarDekho",
+"published": "2026-09-29T17:39:51+00:00",
+"first_seen": "2026-09-29T22:45:25+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -50366,74 +50435,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "69e8ab816adaf974",
-"title": "HDB Shareholder Alert: HDFC Bank Limited Securities Class Action Lawsuit - Investors With Losses May Contact Levi & Korsinsky",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOEVFcnpRWjVUbHZFOVQyYmllRWFPQnNyNVZXbmpEaWh4bWVJd2lianR3ZjF0ZXhIY0lQN1Y2R2hmVHR2UmVJa2RiM2s2R0dydFkxUDZPc0pXTHhITjRLbWNPajVfU1VLNnBxSG1HTTVrb3BuM3JpXzRXam9RUUFMYVVtc21qV2hPbkY0ZEFaQU41U1AwQzItNGtfYjktWmwzdU1xWEk5N0M3SFlmUW5acDZvbGVEVEdsRGlsNmlkMkJPZU56a05sZVU5LUpFOV9jaXdZc3AyUlpqR2FmSFBSaWhBVUV4N0QxV3BHbm8tX1o5VDVlbHpGel9lNWNmb1lrSS1yWVBVNTdyOVk?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-23T14:07:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "fc2b29f09a2f70cf",
-"title": "Wipro Limited (WIT) Stock Price, News, Quote & History",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11TnBRUTJocWdiZWlxS2tIaXlmdGVUWE95ODZEdF91bEdTT3JrV1p3R29ZNmp2U084elpYdHd6VTRoQktGbGlyQ2tIT2ZfOUlJ?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": "2026-09-23T14:06:21+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "46b7e6532d9f7a44",
-"title": "NTPC Disburses Rs 3,394 Crore Final Dividend, FY26 Payout Touches Rs 8,727 Crore",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xdWctanNWeGVJemdmUnlGaGU2cnVXemxpVDlNcEZZTTB4OUtUNENJbjRzRi1WaWQxZk1maUhpLXhUUHUyZlFzWEhjcEJUMWtJTnoxOUZTd0UyYXFxbEF5Vnc2ZVMwY1pINmVWUWJn?oc=5",
-"source": "Indian PSU",
-"published": "2026-09-23T14:05:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "424d1747e9bb9fb2",
-"title": "Bajaj finserv backs swimmer Dhinidhi desinghu in sports investment push",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzI5SjRxY1ZBVGhESmJjN2s1OHpDb001VHZZenlaTVJrY3BqbGhQT2x5R3dTdEM3aUdUZDI3ckctbUNsM1FpM0Zhb2U3Qm9tcGxsUlRHWnIxQkNwaWx3OW9RNGEtZXpsMjN2a0psbXNsYm9vdDc3TGpkdndhUU9GeXQ5WjU3SzhreVJNZU5Ecm9nSTVLZ0plWjlyT3hsWXBmR0V6U0dienZFQQ?oc=5",
-"source": "fmbharat.com",
-"published": "2026-09-23T14:04:48+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
