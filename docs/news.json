@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T18:23:20+00:00",
+"updated": "2026-09-29T18:50:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,86 @@
 ],
 "items": [
 {
+"id": "0ad3de3fdd6d37c6",
+"title": "Top stocks in focus today: Investors must watch Tata Steel, KSB, Power Mech, TCI shares on Wed, 30 Sept | Triggers",
+"link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-tata-steel-ksb-power-mech-tci-shares-on-wed-30-sept-triggers-11790695244837.html",
+"source": "Mint",
+"published": "2026-09-29T18:50:32+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f8cd6cb92a7ff196",
+"title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjRGcEdPNVBFOGtrenJ1M0ZGVjNoVzBSM3FoQ3oteEhoQWJHYnVSMEwwMHJoWWVzRzdKWXU4VDBrMEdMZFplS1NsMk9OcC11anZLNGI5R0Z0ZHJEbm9IOU5KZzY5STlsaXlIZGt0dlRsMl9kWnJYUHY2SElmdzZSU1lEU2pSSDZmQk9RYVB3TWt3NDVPb3p2QU1EZTFtZS1IN3c?oc=5",
+"source": "TechCrunch",
+"published": "2026-09-29T18:45:00+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e8ea4c673706a442",
+"title": "Airtel an institution; next gen can decide on other biz, says Mittal",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2cwMUJ2WkNORXpoYXpuSVA0V01ORXk3MU9lelRzWHlfa1kzYUhHdFF1ZXpVcnBEQWhLQ1I2SGRBT3ZucnBoeXB1dU9GS0FEcnpVMF9UODlneWVkOU9qdEJCMUo0a1BKX214eW9JR3RPVEhtY0tvd1JFM19ZTjZ2eFhuX2s0bVpzQUM3aml1aEJiRk5iRDZ6RWE5eGsyLWctMnd2XzN1QnRRZHduRnF6T2paV3FNWWhZeElqT095SldlcGp6OVFGMFN6YUFaZDdF0gHWAUFVX3lxTE5PRG5IR3ZtQkJJQUZVOGJaOHhDbzR3M0xXWHFKb000eUFxNHBZUkxESklsUkJYNHJ5ckpxdzFnTWNvc09mYjBhUEpydUlZdWxOd29fcnFlN01LVGNKMkhtQXVVanBkbzgwZmhkUWE5THVJV29rWmZld0lmY3J2aGZpM0daUXFVajZEZlp0VlJvNFdXelJGR0J3RHhKNFFfVWlEUzVWXzZ4V3NzQ0ptelhTV3M0Rmhfa2ZPSUtrSTA4b0hXOW5WRHZRQV9McDh5OG1GQ0hZSmc?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T18:35:01+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "532a1ce670612fc2",
+"title": "UltraTech Achieves Major Green Energy Milestone With First 100% Green Energy-Powered Integrated Unit",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnFiaUJKMEdvN2w4YjBEdlZWSFFjYlFiT2NKMXZ1c1g0cXNPbW0wa1ByVFh4V3prcVJ0SlE5N29INGxGR3dUMkRFYjA5YlZRZ0Nzc0t6eWRvU0RoVXhZdkM1QnpjTXUtTUVIMlFPc3VhaGM5bURhWUtoMnF1WjA3S2VidFZkVnI0Q2ZlaklWeEZTV3BtdW9DaVlaeHlnWjlaa0pCUTdPUHBXNVV2YnNlRmtYMXc0WG9sZWRxck4yYjNiQVZJYVB6RDMxMzdva25HWDQ5dlVQV3I?oc=5",
+"source": "Realty Today",
+"published": "2026-09-29T18:30:00+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ff48f9758bfa1796",
+"title": "ITC market cap slips below ₹3.4 lakh crore after 34% fall in 2026. Good time to enter? Analysts weigh in",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeGdsR2VVd3AxbnhIbzhzMmdPdE95cnFwM0NqT0t1NHhmd29RQ094UHBXQ0N3Y2g4S3BSVllCOThFUjBsZ1ZwV2ZsblBDZDhUSU5DeEJxclJBMXhjYTlaaDh0X2lrQllaVjBVdjRSQ09RX2FSV2lRVGFxVHVCMHhCS3I1d3k0LVdEOG00YmFHSnNlcjJFUzA4YTNyNWhRdl9HZlJnSGNpRVhWa1pjUk1XaWV5QTVBcGU5SFRuNHNkdloyWm9vcXJpeDlVckZHT0F0MlF1ejUxUmUzMk50Qld1a3pBWExjaGtvU3ZtbW5td2dnOGtER01keEVpQWYzSzFVVWN3?oc=5",
+"source": "livemint.com",
+"published": "2026-09-29T18:28:30+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "72391fc45dd251af",
 "title": "Max Healthcare updates on adjourned NCLT case involving Kalinga Hospital subsidiary",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1pkOGJ5alE5aTdiSTk4UlRDTGRlZXMtQm4zeGtDUHBOMlZvZV9RSkxhTlVaQld4Q2g3Q2NRNHVoUldTLWNvSEFqWXBoN3dUalF2bEJtWlQweTdneDhoQkw1NU1jeUpHX3I1al9tdk9KLVhlYmdJenA1bFdCcU44Z0JPdnhhX3h1T0ZlVTFoN1ktaTVsN1F5dTVYT1FfWEg5TU1kLTRCb2RabWlVZS13cnNtTFpaTnNGRjBqT2FlSkRxdk9kQzc1dlkzOEM5Z3Fr?oc=5",
@@ -545,6 +625,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "8ca2abd6d036d9d0",
+"title": "Let Adani, Ambani enter aluminium, competition makes us efficient: Anil Agarwal",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcXJQMjZLSHNTaXhJRkxpemxTZVR2TnJTR1dkNE10TTRhd2sxSlluY2tEVG4tWHYyNHJFZHZ5Y0VxbzBoV1pOZS1YaWZIcF9mTG41WW1PSVladGtHUThyZEx3NWNzN1g0SGttZEl6eFU4dFNHSDZUTU9CQTlBQUpweGNxdlFIYWZFcUhGdldMaGY0V21FQTRaSkZZRmRyb2pRazNQSmZ6SjRvRUJTVWNPclFUVWxVWnlKUVRtMzF6cVZKcmU1RWtNdzRpc3rSAdMBQVVfeXFMT1IyY1JmSzBER0F0VlRwNjl5dXVESUc4R3dkUXpxWFFJMFNEc2ktRXJWUEh3MmhWNzBTclZyTXZBYVZKempWODcwM21ValQzTHRIaDJyVVVwSVMyVjRsVHEtTkxFSG9QVHF5WFpmRkNSbUkyb1Q3S2taU0FGR3pVbHUyb2NGeWxEM2FVOVlBcTBGdjZZRm1VcGVVcU81aWl3QXlER3NUUXE4NzRaV2JFMlZ2NEFJYW83UDRheVlZdkNpUW9FVmxMYVhwclVqY2phcHQwOA?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T17:32:11+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e09cb75afceab948",
+"title": "Maruti Suzuki Eeco | Car India - automotive",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTJOWUxjSDIxX0pIbVI2eFZURUUtRWJWSU5Pb0Q5anBxT1JROXZ0cy1peUdVZjdHcXBUVU16SDR5M1BfZGdleGtXeDY4ek5YU09UanlmTlFBbEN4aUhaSHYwUXg0YXBfVk1wZ3JsUXRzVE9JWXFocnk0TVJWSmdaOG5BWnU?oc=5",
+"source": "Magzter",
+"published": "2026-09-29T17:27:54+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e66c16ca4988165d",
 "title": "Max Healthcare Institute 's tribunal hearing rescheduled to October 29, 2026",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFlM3RXQVZTbDEyanp0LTNTUkVrYXR6WFdCdk9VOXZ5TmNETnJqYWk4T1MzbnFKXzljbURGNzdEM2lORkJ0b3pFQ19VQ0wwQ0FPNHdYY1U5SHVBVndHZVdvdHBsbjdwemxaWVZKekM3YUdSUFdjQ1duMWtTZ0l3YURQZ2MxeUV5eGRtWmlDMXdOZFN3MS1TZllKTXdlankwOC1YZ2ppd3pKTWNkRmJ5aQ?oc=5",
@@ -590,6 +702,24 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dcd353fc8f74cc97",
+"title": "Aurobindo Pharma's Rs 4.6 Cr GST ITC Claim Upheld",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFZmVWlaM1JudWFuSjZjNXRmTWNqOV9FVzNHQVFFc1p0RE9Yc285M1cwSGVwM2R6YlN3bWNZdXJ6NXFPM294LWxwd0I2ejR1NzNBSVBnVXRaQTY2R19RS3ZEckJtcUh0SG5SeGZWY0tSQ0U3X2hzamhvWm1xZ09SQXlwc05qOFZ2NTJ1bmZOVjhnWXh0VHdJa1VtazV1LWdrajdYYWdaUWnSAagBQVVfeXFMTjhWZlVpWjNSbnVhbko2YzV0Zk1jajlfRVczR0FRRXNadERPWHNvOTNXMEhlcDNkemJTd21jWXVyejVxTzNveC1scHdCNno0dTczQUlQZ1V0WkE2NkdfUUt2RHJCbXFIdEhuUnhmVmNLUkNFN19oc2pob1ptcWdPUkF5cHNOajhWdjUydW5mTlY4Z1l4dFR3SWtVbWs1dS1na2o3WGFnWlFp?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-29T16:50:58+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -813,6 +943,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "59a14095c666fe90",
+"title": "Coal India (NSE:COALINDIA) Signs MoU With HURL for Coal Gasification-Based Urea Project at Sindri",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWIzYjd6X2ktUWdQcEswOGZpUVRtbXVWSVlRQjd0OGMwWlRpTWdhbHVETGh2VXE3SThrQ1k2TDFwOVpMam5PX3o4WVQ3NEtvcWpDUGtxal9DTGVia0tBTGNna0EwTl84RFFqcGlBeExBM21LNXBaMjl6QW8tc2MtaDFvdldaLTZuek0wREhleUZqWFVlRk1iTjJUUWNqeXJIOUEySlNINGdzYkJrcWZ6cVlJbU1yaWtObjZ5OXhfQ0JWTnV4RS1HdE1oS2NuQWcx?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-29T15:35:00+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1153,6 +1299,25 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cb10caf61ffce66c",
+"title": "Airtel Money IPO in London: Barclays CEO says more India-UK deals likely",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGdITE9BVGFjbjVWeU1Ed3NaQmVHMVVlQmwzV005eHMxcGZkcEt6V3JwQ09oQnUzZndRMXpRa0RHVnBjeDlZZUdXVy1yalpOTzZEXzlXeWZMYjRDMlJEbzN4SExVTXJjejRDWWVfVUpBRW1iTEF0azdFWTVxM0NwY0R6a2g1OFNaeUwtYkgyS19xbi1BMEZENExXT1hEMGJUdjBKcXBNLXZXMzd3c0Z6VDlhV0p6dDjSAbwBQVVfeXFMTXNhOV9mV2RPejA5dENvaDFjZy1KS05GYTJyUjBZTllkdU5xRkJRMnkwcVBlZTJPYnhISi1LcGZxUFVBeUZEMElpS2JJaDA4ZF9vQml1YVdHRkJtaWdPNU94SUZrbXlVZElfYkdFcTdrdHJlUnQ0T2t2TkF2QjdqSVNTdDduVmhrVVlpMFBWeTlrV05yQVFDbnZRNFlrU1dGYUgxSFp0Tk9PMWd0cUllUFoxa2JsTE16b3V6WEU?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T14:00:15+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action",
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -2779,6 +2944,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "5344844eb6b2dbf4",
+"title": "Larsen & Toubro falls Tuesday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTVzTmEtNHYtd1VFQ2dVSUZXUHFKc0NNUXVBQUlrZEllZ1NPR1ZDYUIxRFB5akFpNTQyTmpQQS13cDB4WmZqbklIUV9SMVZkdnBBU3VhQ1hTQ3Y3X2UyMlZJMl9wanJ1anFrOXNFdnFlcTNwNTAxZmk2VVpUaklHVU11eUVRcDY3S2NLZ0xrVFNEVTVVX2lyNkE5U2ZZRlBhN3BuWElxTkc4dmY4bm5PTzYwWTlIbVBWQkU5MjFTYlliWEtkaFE?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:31:00+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -8890,6 +9071,24 @@
 "Regulatory"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "704f954893ff64bf",
+"title": "Reliance Jio gains 2.4 million mobile users in August, Bharti Airtel 2.1 million: TRAI data",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVjFwRHFVUnJRblJFMmlhenZoRXg3WDNYeC0tQ3lVVmNIbmtzdzYyM0RuR0xITjFJU0lkOFJxRFJ4dFhFSXpPWjFEYThJQWRyMndXYzk4VTdfZFlJT0kycGZNZTNMckVoZEE4a0toZG5nNzFrcVMtUXVBS3E4Qno2Nkg3NzUxanc5QzI5RzN1XzhNWmMtRGszSXprS0F5SnB1R013ZmVHcm9VZlZpVER0VXdCMnh1TnRfSnFteUJwZ0JGdE84OEJ0M3hFOGxsS3JxbGFyWU44WmFoSVZYX1hWc2Z0VHlRVVotS2g1TEtR?oc=5",
+"source": "Indiatimes",
+"published": "2026-09-29T01:45:58+00:00",
+"first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"BHARTIARTL",
+"RELIANCE"
+],
+"groups": [
+"Reliance",
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "b145661c7abd2696",
@@ -50275,90 +50474,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "50271217a640bc11",
-"title": "Tech Mahindra partners CoRover.ai to expand BharatGPT, sovereign AI globally",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjROVjVUcVdvVzRXUXJMMEdpYU9fRE43dGtlLXY4OHhnLVU0azlJUXhHTFAyZlh6cFBsTEpseWluakJaRHc4bGJybWRzUDYyMkRVQnhwSzdkNlpFc0MwRWVaRW1GZlYyc3pnMXNwbWliNnY0UWVGZV95WlhuVEFvOWo1MG05a2V0NmQwZ0dZYm1UbWdGM2s5ZDBaNGd3ZkhZLXNUUUROUVJCdXBXUGIteV9FSzRKVDJ5UlJV?oc=5",
-"source": "Zee Business",
-"published": "2026-09-23T12:31:07+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "52b5ec8a36c2f7a5",
-"title": "I bought a Maruti 800 in 1987 and 39 years later it is still with me",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2w0TW9EMVRMcWVhMmtoc3lWWVNQZ0ZOakFuamItUDY1eWw0dlFQWnM2c1oteEZ6SHA4VTlVdFNOckMxS1FqYXlrbEJmZkxqVnowUlFqYjY0RWdjbGMwVUYyb2RlZ19FQjJPQVVQTUVkLXdscy1kMWJDR21GbE5zdWdPeG5lYjUxU2M3TF930gGTAUFVX3lxTE8tcVBrVUNPa0JLOWk3TEdwY0VIbTVZcDF0T01kMDhsTWxTWVBXQjc2SmlHb1NSV19pV2QwbGNjZmpWTHRSQVlkcU9PMllPN1haLTVKWjAtQ2s0TjMwUWNkYkdQQ2lMb3dhbDhYVFBKWVdCX3ZoeHVlTHF6N2NORndrbG9zajhJM244RE9HYmp4ZnQ4VQ?oc=5",
-"source": "Team-BHP",
-"published": "2026-09-23T12:30:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "062eb915ee57410a",
-"title": "Airtel Money Plans London IPO as Listings Push Bears Fruit",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGZBVzQtbXpJSlo4ay1zTDBvSVByWTZ2a3NIRlFSMnRLODUtVmRCYzBiOWhhR2pGY004cElnUDNnaURSNHhja3dlaGdIdEtIbTZ0b19xT29SX0J3VEVRQjhod2lzYUk2ZjE1LTdDVGhtbFkxSzBhcjJydDRXZ2NBa25SVDVLTXNIaEJrTzdkdl94by1nRFpEaEZNT3ZxUk1FeXBPWDRFYjFMTE9vUEpXVnNWWmNIQQ?oc=5",
-"source": "Bloomberg",
-"published": "2026-09-23T12:27:22+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9581e9590150503e",
-"title": "Airtel enhances its Postpaid Offering by adding Apple’s newly expanded iCloud+ with Apple TV and Apple Arcade",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlhnMHVjdzUwendVdTBqMXVOb1M0MWtLUlg5S2o3NGNyZURIekYtUlk3c0l3cTBnOXA1YU9rS0hqZFBZN0pIUElid2VzU0NQRmJuUWZmR1BYYnRlcmpCV0htX3U0bnlDYkUzN0ZTb2h1dzVlMThVelpVOWJaQThMVkhaZUNWcnRua0JJS0gzcU9fRk9GUHNkOVBXNHlHRFUzR185UjFIbmN6Zm5pXzZkdkhiMjVPeG5KaVpCVWNGeFRsUUhVd21EWF9SaFlOMUpEZEx2ME54WWl5QWREbEE?oc=5",
-"source": "The Live Nagpur",
-"published": "2026-09-23T12:27:10+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4c4d036cbb9ced51",
-"title": "Gautam Adani Overtakes Mukesh Ambani To Top Hurun India Rich List 2026 With Rs 9.22 Lakh Crore",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVAyV1lhSmZFS2tlY2swOEw2SXhoV3lrbm5ySjBLQURBRlA2YnQwSEtldUxFa290RlRmQld0X2FTNDZ3QkV5aHM4NVkxXzVSN0ptYW02VUFWanF0cjJaWmF0a3ZoQXhuWVZlQjFYQkRZTVdIcUxoNTUtQjZ6OEFaSHBQN2haNDVTTWF6Wm9oRkRFZks5MWhrRVpUemN3R21mQ0trZ2dFN3JhWl9qQ1B6TGpQMEw3b0x0QWZRMkVNeGtTRklkY0ZF0gHXAUFVX3lxTFBZTUh5eVd1X3d4cWhMRE55TFc3a2hQWnM3Nnc5OTd6cGhDN3hnVjhrNnZKbmgwMUVLUWg1bGVudW5Icnpfdm5FbENjNzdxZUNkQWljSzlZS0JiNF9NUDJEazdFelgzMm51Tm1ObTloWHduQzU4Q2RqSmd2ZzlEektZMkR4WlVvSkk2WHhNMnlmWl9nOFVxQm00V2p1NXFzUE1qQkZKTkRVMERqVXJTZWlxcWFfVkc1Tm1MSEc4djQ1TkhmbElxd3JxN1h0RnY4ZGZtOTFPSnA0?oc=5",
-"source": "Swarajya",
-"published": "2026-09-23T12:27:04+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT",
-"RELIANCE"
-],
-"groups": [
-"Adani",
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
