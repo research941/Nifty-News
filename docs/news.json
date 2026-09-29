@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T22:45:25+00:00",
+"updated": "2026-09-29T22:56:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -930,6 +930,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1e2aea7d0cf4cd65",
+"title": "ETFs Investing in Axis Bank Limited Sponsored GDR RegS Stocks",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82NnZjek9KeHRhZ0pQSXJUaVp4NW5MdU5CN1p5d2ZpSEhtbUlHRzdEWFJQNFBYVElKRmlrc25WdU1aNVd5c2lJODB1RzNmYmZfS1EzejhEQ1VkNERqUUE?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T18:07:37+00:00",
+"first_seen": "2026-09-29T22:56:09+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "04f8a7bd542f3f40",
 "title": "UPITS-2026: Invest UP, Police, Tourism, NTPC Among Top Pavilions Honoured At Trade Show",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEF2cVJ3eHBPNHZ1RE9Pb19GTW9mR3ptcGZiWHRTdmxrcFZfUFNPNXRBZWZIMVRCNGQ3eGJ4TndSMXc0aFhCVW40NkRCZElYelJMU0Y2ckJWdldjOE5GbGNqR25LZkZITklqVFQybWU2QTZzWmFtdDFwWUY0cjFna3E5bnEyd1B1YnlYRi1BRGQyQUdtRUk2UmtQUGNmcHp2X0ZTelRtRmdGYjd1TTdRWHhCTVpCMlZ4andweEd1bXJXOUlKNFBJS9IBzgFBVV95cUxQcDVWTGgzT3hYWUZxSmd1ZTVpdFQxa3pJNHlLY0I1Uk9HMm5mQWs2MGV1S3BkM2JxMGxtODh2ak1GRGdVczh1TUZjVS1jT3laRlFGN1lFRjlZbVZRb3pPVGxtWHZsTHJVT25YNWZWdVlXZW9pQmpHY1l5enJmRVo4S3ZqMERNQU4wU053M0xYQnh5X0VGbXpBblVLVnhCQS16VmxoZGJTV2pFRnQ3M0dzSHYwYmhqSlZmQzEtVDNONEE1d1NqX2dVWFFHMWpnQQ?oc=5",
@@ -1482,6 +1498,25 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "3177b1e08aaf5041",
+"title": "Tata stocks drop amid concerns over listing; Titan and TCS lead decline",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzlGclB6SHo4ay10OUlBN3dIZlJaYTNzUHlEXzJSdWM2eTYwdjFFcGRtb3UxeXlWdGJWRXdjZWZWa0daS2ZESXhrZTByZlY2eTV3YmN2Ump5ZDZTWW5WY2dXNWp3cWU0YUJ1MzZ5blllWG5xN0t5TUluek1tRnFnM1JVcl9kYlp6OENMN0diUXA0emRuVVA0UDJMMEdlZHVRN2RyUE9OSXJTcHZid05KYms2N2xIaDh2NnhXS3o4LW8wY1hYME9jZm5tb0nSAdIBQVVfeXFMUGoxY05GaEllNFkzbFViMllNSENYQ3ZjZ1Mwc1VZLTUzOEtMd2w3blBIR2w4d0JqVDZqMnBGMDI3NF80UFdtYk1BVnN6dFZrWlFYQzAteTVsSmxrU0ZYMFdaZUc4enh0cHVMLXJCRi03T2xWZWxseWU1dHBVejB0X2JMZlI1RGN3WlZpUFI1OWI5NUVIMzFqSXNKNlJVdW1VRl96TFNMMDdoR3NubVlGaExvd1hIRVVRVzBrOTctMnJzU2U5NWJsSmY4WWRDa2tYY3B3?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T15:38:11+00:00",
+"first_seen": "2026-09-29T22:56:09+00:00",
+"symbols": [
+"TCS",
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
 },
 {
 "id": "59a14095c666fe90",
@@ -3612,6 +3647,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "56725c44cccff4ac",
+"title": "Mahindra & Mahindra falls Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzJGanVYd0hPT2FQWXR3QWpOaDBIcnBjMmUzdjFTWTN6MXFFSV96OFFJcXBEVjNEY3lrclZPNElSR3ZnekxJc193YmM3QlJNaE92LUlHT1o1MEs5cFhEZzJEN3VoeHFfLTJqZ1BVVEcyazZiMU0xcFpkVjhTQTd0OXE3SE5zaGhIc2pYQmZ2RWc0aTFqZHlySmUwN0dlaWVwOW1HVFRmZlFzVjljdVJ1dUlZY3Vra0M2TDllODJPbVk5ZHNv?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-29T22:56:09+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -50378,57 +50429,6 @@
 "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jY21CRmV0NGlnSVdDMnpmY3B2RDVjYVFLNk9LaUlINTAwY0dpVEJzWktGMlpJU1VBakF3ZTBDWUVaUFdqNWZjMWxYQ0JyekJaaE1OaG9hWmIwSWJtMDhuLVVKaFpueUNKclVtMA?oc=5",
 "source": "CarWale",
 "published": "2026-09-23T14:14:22+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e01bc70f1dccfb38",
-"title": "Sedemac Block Deal: HDFC Life Among Three Holders Likely To Sell Rs 1,330-Crore Stake",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcmU1NHBNQ1hIU3pqWGlLMjdHbHNoR3pmRHVrUS1pdG9ISlZnNFB6OFhfbUllWC1MazNVb0dsbTBWek0tbFhEalU2ZEtxei1sNkJyUlZ5NXllVlExclZRSGhZampYS2k3QkthTDNxRWtmM0p3M0ljZ3pFbldlaDhzS1RNNWRCZGxZWVNySWxxVnhJd0x4SFBHRG16ZUo3WC0xMkdjWkZ1NEs4N1FnVDR5STNJY0lIMzdIUkR2RTZJZE13RWJjdWJHQzN0eDhJTUFlSzZsNmdLQ0bSAeABQVVfeXFMT2paLXdMWUZiT3JZYzl0RUR2cU9QNW1OYVhNNGJZcHkxLTI4YU1uZlRRamx6TkVXWTFTTG13TGhzT2F6eUlCdEJhcjdXRllGNEg2dTdaTEkyQlY1LV9WcTBnV3RKWGdFLWp5MXJnM1N5aUJsa1d4RUhaYTEyYTBQenZIcWJwOFRZSFF6c0VVTmU2U2QxN3ZOalIzNnIzZTVxR1hOTWw4ejl0NkxQdnRpMTFlbm93em5rMUVrSDB0VFl0ZzlTVGVjS3cybG0wdVZvWHRoOG40LTJpaktvMFg2UXg?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-23T14:12:16+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "fe96acb23b81b6c5",
-"title": "HCLTech Deploys AI Force Across M Group’s 200+ UK and Ireland Locations",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF1RC1fdldwYVF5WlQ3cUpESW5iQVd1VnVuQ1drZG1oeUI3ellEZzMxSDl5SFJrRnlYUFc1WXRRNUVjdEdieHhmOXJFTS1zczBNWUwzSDdtYmRrMEU2YnBFZVZkQnBxckxVTjktZi1IdEdzSDEtWERwM0NudWZaSVlISnVaUFZGeGtEN1lMWjRnSHk5cGpMOXNNQXJjR3F0SllXWjdiS1I?oc=5",
-"source": "konsulteer.com",
-"published": "2026-09-23T14:09:45+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aac30bfe39ee5001",
-"title": "Maruti Suzuki Eeco On Road Price Pathanapuram Sep 2026 - ₹6.45L",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkh0cFhKdXpSektXU01Lam14YWxXSndvT21DOXgzSjFoWXB4U1BJYzNPLTU3eDBqdWtLWFVhSkd2MHpwZUFhNVA1NTRiVXIyem8yUnpHelg4ZnZmUXVOZHAxdjlYY3B6Z2ZyTXg1VFZMVldfd2F4Y09uM2gwVG1oRVRwNA?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-23T14:09:35+00:00",
 "first_seen": "2026-09-24T12:25:23+00:00",
 "symbols": [
 "MARUTI"
