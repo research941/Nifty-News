@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T17:33:46+00:00",
+"updated": "2026-09-29T17:48:06+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "968c4d67a3e34ef7",
+"title": "Jamshedpur News:Tata Steel wins National Award for Excellence in CSR and Sustainability",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak4yYmZQX255OG43bU5LNHkwNzBlMTZxSkg3UkVpWURVRW8xdlZ4T2FrSDl1UklSc0tmd0VxbEhpZnlKaXVXUFU0N0ZxWGh2N2N3UHlMQlVTR2hOenBRUm9MS3hWNExNRmcyUmVzbHdQMENFRm5CbWszb0NQUU91bzBuMklXaFM4Q0p0dDFrbG5rZ29EWEVfZjktUVk4YlNlMVhkVklIUWFSUzRoOTdzdThpWmtXTXltNHNVZWV1dXdpUGs?oc=5",
+"source": "Bihar Jharkhand News Network",
+"published": "2026-09-29T17:38:24+00:00",
+"first_seen": "2026-09-29T17:48:06+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "405d2932d583700c",
+"title": "Max Healthcare: NCLT hearing on Kalinga Hospital petitions adjourned to Oct 29",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkZscnZWaG1zVFJMWVR2ZmVwbEstTzVwMFd4OWZtNk1FTkw2QzFISU1UVG5HZWtDVVdPWWd5MS1YcHlvOUQzYWNER0p1bEozM01LaDRRN0M0eEVrUkhnNmhQd0JPWl9QWkQxQVlQSTd4cXJ6RlE3d2xYZ2ViQS1YOTRHeS11M3YtcUFva29YZU1aSlVVLU9ta1k0VXRkWnMzM0F4TG5XWk5mT0pJUWFVOGE0a1dwd1h6c3JFLVNBSjVaZWc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T17:35:10+00:00",
+"first_seen": "2026-09-29T17:48:06+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e66c16ca4988165d",
 "title": "Max Healthcare Institute 's tribunal hearing rescheduled to October 29, 2026",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFlM3RXQVZTbDEyanp0LTNTUkVrYXR6WFdCdk9VOXZ5TmNETnJqYWk4T1MzbnFKXzljbURGNzdEM2lORkJ0b3pFQ19VQ0wwQ0FPNHdYY1U5SHVBVndHZVdvdHBsbjdwemxaWVZKekM3YUdSUFdjQ1duMWtTZ0l3YURQZ2MxeUV5eGRtWmlDMXdOZFN3MS1TZllKTXdlankwOC1YZ2ppd3pKTWNkRmJ5aQ?oc=5",
@@ -595,6 +629,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "ec50bfe4f825f520",
+"title": "Sun Pharma reports 15.86% drop in carbon emissions for FY26",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0xmY3VVSmNNSENUNnhHV0NkRlQ1ZXo1OHFLV01VTGwzdFU5V3hKUndybjk3UWtSbUhEUEY1Skt5UVFRbE5iUWs2bUxxaDFjNDBXTVZFa0t6RUVISnFrVUxZaTRySHc3VGQ5VHBpOUJDMFBXNUs5X0NKdlRMSnhlcWR2cFE3aWdjeFZNNkwtSzNCUVdiNzJzOUlPYzJpT2EzYmRxT2VLRXdBU0hu?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T15:57:59+00:00",
+"first_seen": "2026-09-29T17:48:06+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "e26b808e1eb89716",
