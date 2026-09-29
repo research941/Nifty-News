@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T04:13:46+00:00",
+"updated": "2026-09-29T04:30:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -463,6 +463,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "28ff1053ce3a0adb",
+"title": "Mayuresh Joshi prefers Bharti Airtel, stays cautious on Vodafone Idea, metals and Honasa",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcU5ja1pYZWVFU1c5bW1xR21fUzhNb2xnQmloWTdXQ19XODFVdktuLXhtbl9zUTlET0lVM2RmdWk1V19DRGlqVnRlelRLZDZPUnluMEpmeHR1b0pocnRVRGJhS1pRRXV0ZkxxeUc2bnRqYnl0U3hJbEl4bEZBd19hSUNRd2VCM25Xb3M5N1ppRHZubG1nRTNXMEkwcmVDQlZzOHFIUzZPb3lfTnhXaXBjMUNVbkkwMHhRYk5yUTkyQ0hzMm1vaUo3aDNLdlJZcXVFWUxuRmtTbnV3ZnNS0gHiAUFVX3lxTE5ZRENFd3FvRng2ckFYcV9sM2VjRjBQYUkzTjBGeGhhVjBIQWl5LXMtRkZSa3dsWVVLUXJ0X0djYVM0SGdxX0dCN2N6UklqV3owUVVBQk01VWtXVzRicUVRZTExRF9QZW5wTkdZY0NzRWVkWHlXRGczYUJJd0xzRWFIQmxWYm4yd1ZkeU5PcXlaYTExd2ludHU4YWxHYUtIUHFIX2t1cWFIVjM3SDFyZUlYeE1IaEp1MkJTNEphQlZjNUdVTVhPMnQtc3lyamRVMXJtd2Z0clNDQUpaeF8yblFWdnc?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T04:11:50+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0da2ecba46b4fc7c",
 "title": "HCLTech Software Arm To Acquire Croatia-based Robotiq.Ai For €9 Mn",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVVhQm53LTB6VDk5dmhxeXVYLTM3Y1VGTDhVMWNhYXNBU3ZHZlhfRzF2YXlvLWZ6M3lDeTdPOXNUSW9BWnpKdWZGMWZKWkNKdWJGaWFTX3BKX0djcWVOZzJZMWRDSWlWNlplTlMwaHVKUjlEWkJBUVFSMEY1NGJaOXZsYUFDVXJYRjlaSlg3UjVpcXoyb0JpcmdhQzRmRE85Q295NFRYeWJCb3dZS1E?oc=5",
@@ -481,6 +497,40 @@
 "sentiment": "neutral"
 },
 {
+"id": "7d370dc6421b3c37",
+"title": "HDFC Bank Stock Update: Share Price Slips 1.37% Intraday",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnlYem8zMUN3ZTRmYzJITjlnM2t2bGgtdGo0bmhDNnd6S3dCMFB4eGstblRwTE5ScHRKalpHNWYzajZvTEw1cU9RLWFGN0tlaDdWQkZzd2RQSlBUcGJEbkhKclJTTFNVUVl3bkhxU1ZGblp3aksyc3RDcHRNU0Z2T3drcXRWd3BGUi1zNWZIZVhvU3FNOXVuNHFwV2lqNjVmMFk40gGoAUFVX3lxTE52S2hzbUpGYm5XbUd0eV9aY0Y1YTU4emZOeHFlWWlwUUJhUWltSlVsNlQ0WWM5cUZhT2dMNGFpWFAwb0ZIc0tlUnNrbTNubGtMWFZnTTh1aG52Ny01YlBva3AxM3k2ZFNxUnMxOHRZeExRYzNiTFFNQkEyakRYWFMxdUN3NmprLTNjaTRHUFpCQzdoZS00S0xaVktHajRFUjY1b3lIT1RxQQ?oc=5",
+"source": "latestly.com",
+"published": "2026-09-29T04:00:26+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c26c8ae79f581161",
+"title": "Tata Consultancy Services Stock Update: Shares Dip on Citi Downgrade, Legal Setback",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXFtVm9aNTZPZ3dSQURnbkFTWlRNV1hoczZwRERwaGlvaGdGeHNacUF6ZjlyZkpMVHpSaC1wMDZTbkFVb2N0S3dzMlZGWXV5WkpkZTdVYVo0dkpCZXl1ajhtZ1BpY1JrQ1hxeFNoRXNlRER3cTdqU2RNUnNXdDV2Q05hd29KRG5vbGdjMUxHTzgzMm9SNUdwMElQRHUtVlM2amlMVFktTmdyc2JVRW43VXJhRmM4VG93NHFrOV9Bb1Q3ZUhLSUo40gHMAUFVX3lxTE1VTXNwM3F4S1BfNDNVc2RBRFBtM2U3OUxvMlpOQnBkMzRPRXB1amdsVEtoS19TaTcwZGlJY0wybkRJNFpWQ1AybHllMTZWVGNIYmZlekZQcmRic3VtNnp0NVhzTlVLM0llS2p6RzZHTzMyXy1UMmdPYU5JQ1Zrek11NFprc3ZSUExXMkNzeHkwWjZ6VEZDa3hUU2ZmUVZ3MFZTOVNUQVNWUkZZWVc2WFZGR2JuWWtZZW83dE9aZXFMUWNJMVdqd0M2dzhFTA?oc=5",
+"source": "latestly.com",
+"published": "2026-09-29T04:00:25+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
 "id": "be56791b034e05c0",
 "title": "Stocks in Focus Today: HCL Tech, NCC, PFC, IRFC",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0I3cmtvZjVJYnhfUUVaV3pWTzVlcmstOXR2UWtyNUxFeDFGZGZkRzFvZWNMbGZsM2l6Q3IyMkFic2dsc0NTendOSlo2RDIyWEpkUHJqTDYyRTFRTzVxdzNhTGdEelQ1ZVVEdXdjWXlxaFZlN2RTRGFuOTUxbUZJUFhFbU5KRF94aTVFLXNOOGFocHlLejhxb3RIYl9NMnUxY2FMMnZLcGhXU0pocGVxbXpvdW5xSXBVSnNzWDlYanI1YXk3anFuM3dqLXBub1ZCSnRNTWg5cEIyVmJIanNodnZyYUdCU0hqSTVrSEZlZ1RMLXYwY0p0c0VHZDI2cld0LTlCNFBXVXNicFI4TDRvaA?oc=5",
@@ -495,6 +545,40 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "48df687e2c3132c7",
+"title": "SENSEX falls over 700 points, NIFTY50 trades below 22,600; RIL, HUL hit fresh 52-week lows",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTZxV0pDSEI2d3RLdFl5cUZDS1QzTnl6UnRySkpEYUk4Zng4cWoxY3JTOEdfbTRZWEk5MERUTFd0bVRhZWI4WndDRXVzcW1tRVRPbUpzemYtNHR3WFVxNU9HUUpYN09XUmlsb1hXYUxmR0hKV0c1RHF0Vk0xWUxOOFR3WGlNdzQ0dHFFb2lzcTRvUE1iang1anktM2FCZmlCLWVoYTY4NWlmZ05lQU5SNzQzRXJvaWY3UjJPN0hnNi1GcnYyckJxTENtdWpNdw?oc=5",
+"source": "Upstox",
+"published": "2026-09-29T03:59:32+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"HINDUNILVR",
+"RELIANCE"
+],
+"groups": [
+"FMCG",
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "f136a3dd9a6b7cca",
+"title": "Tata Motors PV, Tata Investment, Tata Chemicals shares fall after Tata Trusts' latest proposal; key details",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVkZsNWsyeDRsRkZOemhCVndZZldOUU40LW9JTmtxVUJ0T2lzOUZnSkhwektKbTlxUUVjcU51bVc2YW1TZjd1OXJONWE3UUZDNzRmQnY3cFJhWENIMGNBN3ZVTnM0TkdHNE9WMlpWUFhnMGxOVlBSX1hoS3Y4Zjh1YVJQdC0tV2R3Q3o1MEs0Z1JIOHJnRWp2eUtDQ3ZrMFhXSHE0aFRzdmZSUDJTYzBvc2g3cWs1NS1uQ2sxYWtqWUNYeFpBbmlkNEdlQ2gwRm5ZR2VOMzZ1VE9xa2JUMU5lbUtlR3VPOU8zMnoxU2x2Y3ZhM2tDTWNlVVdSWkFnWGotLXVwam9JSUpyOHFf?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T03:58:02+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "b2c0f251b5913dd8",
@@ -623,6 +707,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "91b5928b6d77cbf6",
+"title": "Video | Adani Group Cleared Of Minimum Public Shareholding Violation Charges By SEBI",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEhRNnY1bl9HQU5sUUNtZmoxTDRxMmo3cEJ4ZVQyOVJxcEZZNE90S3pOM3VzVVpCbTJOSWctMVNVRzRVUUs5clVUMkJyM2JXMVExX1ZBRlhpclFFNXZQQkpOTk9ubnVCSURyaHlLM213eFBTQ0pCcmdnTEdZaTE1eDFKaVZLUklUank0c204LXEwY3Nvb3NHSW9yWE05ZURjVzBPbllFUWZ1dUw0SVZIVA?oc=5",
+"source": "NDTV",
+"published": "2026-09-29T03:30:49+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c2decf34f55bdf53",
 "title": "Adani Energy Solutions settles SEBI proceedings with INR 37,05,000 payment",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFNpekJ2VEZZaHZGUmlWQVA1YnNSSEduU1J1RHhJQlVPNjJxQWhhU2pIdVhRT2QyUUo4MXNvWkE5djVFa2JuMkw2LUVvYWI5bDgzX19kU2F2TXNGbWpZdmRjT1hkQXRvMWtENmFFZWFnTkt4QjBNZF8xREV6bFpiX1BHZFdxQTZ6a3BaZjRFUUx0ZVFocExUUkZtOHVhYkc5X3lrVWtvRjd5aUxNQzE2akZ5c3cyZw?oc=5",
@@ -705,6 +807,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "f509274a801c3d14",
+"title": "ITC buys remaining Yoga Bar stake for Rs 645 crore, takes full ownership",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVFGdVBvRmxwTkNRX01NTlhveVl3ZDlXS04yQnBPMTZfOHh2MldWdVExSzh1U19LdTVsS1BVeUVwNWxUOWxUZGw3akczcWFDRnRsNFpJeEI4NHZFaklsLThvTWFqcXo2SzQwZWFxNFoyVTB4QjdzTFFqeXBHckNmWG40dUZYVEMyMjFKVmg4UkQ1YnNQdFJTUl9adk05RGRWSDMxRzN2RTc5Mk9kVEJkcmxST2NHSUluRV8ybHVPR21LcW5KNGRSdFpFYXLSAcwBQVVfeXFMUHVRRnVQb0ZscE5DUV9NTU5Yb3lZd2Q5V0tOMkJwTzE2Xzh4djJXVnVRMUs4dVNfS3U1bEtQVXlFcDVsVDlsVGRsN2pHM3FhQ0Z0bDRaSXhCODR2RWpJbC04b01hanF6Nks0MGVhcTRaMlUweEI3c0xRanlwR3JDZlhuNHVGWFRDMjIxSlZoOFJENWJzUHRSU1JfWnZNOURkVkgzMUczdkU3OTJPZFRCZHJsUk9jR0lJbkVfMmx1T0dtS3FuSjRkUnRaRWFy?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-29T03:07:16+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "88d9882ace243f37",
 "title": "Pharma stocks: Sun Pharma, Dr Reddy’s, Cipla, Biocon and others in focus today; here's why",
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU9HZUI1WlpvYU4tVHZrN2hFUWp0a1VNdzlVUENoS0ZkZUdYcm9aLWFtR0x4a1JteG5md1ZQTGJsM0FWVnFua3gySDB4aXBCMzZsY2xSbWRkMXJiWC0yNlNpU2pzcl9ybVVLUTVVWl96aUJNZFBLRDZWaV9uY2tXTXdxSmhUaXd0aElSSE9OOWZSeTMtaGJOQzZydEJHMGdCYmJ5QXNRMktzWXZ6VEdyQ3MxdnlRQXk3ZS1MWmlBTm5OTy1kRldOV0lGZk5pQlR2aXA5VFI5QjdRQXpkaFM4WjhkYVJUVk1BV1BPa9IB8gFBVV95cUxQSlJzcXFGR3JrQ2U2ZDVXQXZUeDRBS2ZTWGRFM3dMaDlsMmsteVpuWTI0bXMyZVpMMWtzQ0R1UTlqWUdmNlo5M2xPZ1h6enBkSFFRTlZtWlNpUm1ZM0NyZUtRT1UySkdZS28wb3ZHNHFHQWJ0aG1SUUdqeTJ0Y1gzYjZCRTdBcUo0R0p4UnZwY3UwbkdBaHRPNm9jQXlfQnotXzRYcDNad2haOXF1Q25QbS0xRHBfNThDYWN2NUd0VWt6R1l1WURMbTkwcExqU3h4RW9PWGV1cVJPUkJEQ1pKd3N5THRDZkwzaDI3RVBwdzF2QQ?oc=5",
@@ -754,6 +874,22 @@
 "Results",
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4779d53f41f10342",
+"title": "Exports, investment to boost India's manufacturing growth: ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTFuamNvZWE2Uno2OEM5RWNQeTg5YTZpMFlORlYzNXl0d1dNUVZ0RnZ4enpqLTFaNVRfV2RFZUlXTm9ZRG1FUnozb0JIb2NVUDdhUDR5OU9tLWlWcEpndDNjcEpjUkluUnRzSDU4bmNOazg0UTN4S1BXSEtnV0YxYXdYa20zZ0tlbVFYN25mQ0dqci1DLXRVbzNiSzBMLXo0WnloZzB2a2lENElRemZrZGFSZFgyanFMQ0U3LTdETDFnZklsU05zWdIBzgFBVV95cUxOa0F6SDV5WWlhdk5BSW5aOXM4aUVFQkQ5WGxtTFFOaGo5aFJQbVJZRkQ3OGVIbW5VN0FhYkJyQ3BRNG4tWWoyUUJpWWVZSFRpT2g4NV93Vm1FWG9Zd0tESnFxNk1hbHZLdXBmOEd6ejVFSkZNVkhwQ09fOXdLUVhSbUVWaVdHS1IxdzdxMEtYM19qS0U2NWI2MjNiVlhoZkUtTkVpeDFGNXI2dnNjNGJwcjJHenJqSERWY3RNWG9rNlc5OUJOelBSVjVhd19lZw?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-09-29T03:00:29+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -921,6 +1057,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5cbbab0ef1b1f5fd",
+"title": "Axis Bank Share Price Live Updates: Axis Bank Price Movement Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-29-sep-2026/liveblog/134554518.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:49:21+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fe5ae89a7e8e381e",
 "title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Summary",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-29-sep-2026/liveblog/134554506.cms",
@@ -937,6 +1089,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bb72683527a1b2bd",
+"title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Breaks Above Key Moving Average Level",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-29-sep-2026/liveblog/134554503.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:48:28+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "22ddf7dc2917524a",
 "title": "Stocks to watch today: HCL Tech, NCC, IRFC and more in focus today",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VUQ2VxREhuYUhfT1RORlhNSDdDX0FjNko5U28tRkJ6UGI4VnFRSURFUmc1amZBdk1CTHozeVJjV0RYZ2ZMSXQwN05kX2FzMk96V1ZTWXRsRlR5cmoxOVllakJsSzVkdnp4bEhGdGRvNmYzLW9pRV9YM1VKR0tZVFVLeDZEdG5jdUVBeHlucXJlMVB6bkFGWHk1VVY4VWdKWWtzQ2pmZWtKbGl0RXBwQW1PUEHSAboBQVVfeXFMTWNISE9kbEFHN0VSUWVKenpnaHhVdW9SN1VTVWRzbmNYSjZwMXVJbi1LeGpvaS12NC01d2h0NTdvQVpLX3pSdHJxRHFBNS1uSlkzaVBjcGZhQmtqS25JVWpnbmhwUzVPRHdlaW1UekpTMEVRMjNDbU5HY0xYX2dhcW9lSFN1ckNnQ2JQWG5xSVBBX3pXazFpa3p2NXdMWlpKT2NFTmpwNnh2WHRrWVlLdjRpU1pvQVVPUHdR?oc=5",
@@ -948,6 +1116,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2613cff661a27f9f",
+"title": "Nestle India Share Price Live Updates: Nestle India Faces Price Challenges",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554493.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:47:38+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1280,6 +1464,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "70d0d7841d04057f",
+"title": "Titan Company Share Price Live Updates: Titan Company Faces Downward Price Breakout",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554260.cms",
+"source": "Economic Times",
+"published": "2026-09-29T02:30:06+00:00",
+"first_seen": "2026-09-29T04:30:39+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
