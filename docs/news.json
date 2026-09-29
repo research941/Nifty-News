@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T01:57:20+00:00",
+"updated": "2026-09-29T02:17:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "d2653922ebf802e0",
+"title": "Jio, Airtel lead subscriber additions as wireless base grows in August",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzl0LTV1WjdJRFp4UExnQ1dFMnUxdUg1S3NkQVhVSkRXalFINU5iMVBVLUIyTzZKSkQ2TDBnSjR1S3V6U3F1VnNJbDY2SVg2OHdUUi13aTRLNXg4T1JlRVZSRm9kS3pVNjF3UzRFSTRXMS1lMjhsTDRQdnFENzRHWE10dng3dUxSOU9KazU2LUMtbE5EV2thQWpEMjFrWDR5X05nSjM1R21mY0xu?oc=5",
+"source": "Communications Today",
+"published": "2026-09-29T02:09:10+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48d8b70bba704832",
+"title": "Movements. Apollo Hospitals names Abhishek Jain as senior general manager",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlNVMzFZS2g2eTFscWlnVkRoanp2bzA4Y29CWWc3eG80UUxqa0xSbHJMWEM3NzFIRmYtSTFUbURIUXY3WS1RbnBNR0Q2UEFQUkk5MHN3ZlNTVlZZdTdTMF9DWU9VQVkwcEdwYXo2M1RVRkxzT2dYYk1icWNwQnlQRXNmSi0tTUlqdFhHeUtQZkc2OXAy?oc=5",
+"source": "Medical Buyer",
+"published": "2026-09-29T02:06:48+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e28fe0a53903ddba",
+"title": "Eternal on radar as quick commerce regains momentum: Motilal Oswal",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVg4VmdLSHNNTzYzVWJGRzVIUVI2NWtzdGZPVDI1NjNUM0RjeXBIWTIxd3RROEtveFFncEpjQkU3WmRPUEx3X1BIRkxGNGdHZTJpOVBRTlRrbXBQcHFpS2JDOWNsSzlvdlRkT3NKcG1FNWNIallldTJmby1kclplbWpEeW54THdKWmVfTEUzTi1ZNEZTOVl5LV96LTN5NFFnaXdOV01PelZacUVaMy1ZN3hwNHdGV2pRZ2ctemRXQmVjRm9mRVNWZjZIRU3SAdIBQVVfeXFMTWtrTXE1RWc5cVAzYnl2bktfQVJvNlVxUHVvbTdqVWNIN25QeUR2OTQtWV9WNUNiTjZWQTdackREbWdJSjRPNlVrUU5OWWtsT0psSXMyanFGUmNoM18wb2xockhXZE41WWZXUHRvejJ5eGtETU94UWFONEt0T0NzZVlGQ0J3bGFtd1o5RUxyTTRWMHhOTE52SzBfWHJjdEhGbnlzV0J0RVluVENoMUFQcjMzM2c1dWdYVVlPLUdtY2NXeWNfRGdrdkx5dzNoMXhSWXZn?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T01:58:59+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bbf117bfb876ff93",
 "title": "Stock Picks Today: Marico, Havells, NTPC, Orient Electric And More On Brokerages' Radar",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMEE1NEEzdFppcUxLc2Eya3k5QTdFN1hyX0d6bERKUVF2SFlRQV9YVDh2UVJLZGpDRklzcUQtX01HNzBRWDE0TW1xSHpsRElPNXBxNEIyZDhOUnZmZ0N5MmhCRng2Z1BXQi12WjA4U1JaRlRGWi03cm5NX25jd2czbElKaTd2QXZrWDE5Wk5xa1FacU9iX3RjMlEydUtHMkRoUTRiaXowZ0VId25YMEVMSndyT1MwRWdiR0JBYjdhVHlienRqWkY3U1QydUUtQ2tocEhDS0hWMzFzcFNmSnNzZmxVZlkzS1JTTE1yRU5ZX1RRWnJSU2swYm5BV0pjTHFHcUVoWlNBd0VtR2p4WURkN9IBmAJBVV95cUxOWDhCSnFEemc2eHhWUEVFWHBxTG1QdXdWcXVDakZ0MnJFVmpZNFZHaTd2WFA4N0xrMDJwRG1RTmZ4Y3hUQXBvOTZTYWsyMEhOQi1hMHZ4QVdCbXRhaEktMVNKVkFuNXhPN1V2bXdvOGRjNE83OXBXZGFpVWNvZ0M4UTIzZHV1U042ZkR2SDFIZ25jZENJWlhGQVppdE5FaWM0MU12cTZfVmstSXRKOVpreENqOHpzUzc1WFVmOXNnTkpnVExwWWNSaVBfTTJVTWhyTW1PdXZnNWRNMDh2emhqQS1OQUlrVE5jelpTQlB3WkZIaHBFSGFVd2lyajh0Y3BBLVJUamtlUWVpM2JnbjVOMGFBYmc1V3Rx?oc=5",
@@ -705,6 +753,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "831d1ce8391cd32f",
+"title": "Black Titan Corporation (NASDAQ: BTTC) Share Price, BTTC Stock News, BTTC Share Price & Updates",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wa1ZkdGNZaTU2b0Zra191Z2M2ZWdFa0oxSUplWDE4M1R0ZXBGVU5XNzZMSFZQd2FVcEplYUhDcmgzQ1lJdEUzcURIc0tySDdfSWNzVlZn?oc=5",
+"source": "Kalkine",
+"published": "2026-09-28T23:51:45+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1b34016dbaf5451c",
 "title": "Stock Radar: HDFC Bank stock breaks out from upper trendline of falling wedge formation; time to buy after",
 "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeHJRWUNTajljUWt0YmN5cFdPMVFGTDFmUGF2cVVKRU5OdGFWVUNTSFdHVy14SmtqUWdMUEJyZDZpMklZX3Y0VURGdkF1V2V2Q1hBeVBlckY0TEdsbWlfU3VsdGVTdnRKeEMxMWJlOU0yX0F4VlpFNldQSTNnQ2F6WmNjaTRLQThfLWpvMFpVSUNSaEd1MUR3ZjJSTkhlVl9zb2t2VEFMUjhVZk83SUJSX1ZfdmRyVlkwZnYtS1Qzc09ITFVmRUU5aDREMjY1VkVHRjNibmplcXA1NjVENGppb29zQlVnWllSV0N2SGhjSFliQUFfbGFENVVucDc4aEpsdFBkU2FMZUNsdXJhb2Y4ZTNtci1hT0w1YmoyY0RB0gGjAkFVX3lxTE9vQTFWcFFCYjFVYVRMa3EwTkQ2cjRQSVpncU5hamZJc012TFJFc2RFYTZiRXhOQjRKeUFxTUQ5dnFsallKT0VPUWJkNmNpTmZRLV82VnZIa0xGXy1iSGgxWW51cVlLYTZtbnloQk1kdU5HT2ZILWdqQ3k3T3Y3UFJ3M1R5U0w4NmtLMHNoaS16SVBuNzR0dWhmbXU2Q2tvNEFhQTJ6Y2p6S1laV01zSFo0V0RxR0FiaGhRTWt1dTVlUUJOV2Z5OExheFo2S0RlUFM2RHBsWXQ5YWtoc1VMZFppVVdKVWhIb0FuV0tUaDQ1NFR3UUZ3NXQ2ZEdUMHpqeGRSOWJxMjhyYy11UDE4bEQxLWU5cE0xRUpCclFGMG55Xy01TQ?oc=5",
@@ -732,6 +796,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "367de2391ea9416b",
+"title": "HDFC Bank ADR rejected at resistance, eyes $21.77: Live levels By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T22:03:37+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -813,6 +893,22 @@
 "source": "Investing.com India",
 "published": "2026-09-28T19:34:10+00:00",
 "first_seen": "2026-09-28T20:17:57+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "020dbffce974d39d",
+"title": "Wipro ADR downtrend deepens near $1.62 support: Live levels By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-28T19:34:10+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
 "symbols": [
 "WIPRO"
 ],
@@ -7768,6 +7864,25 @@
 "tags": [
 "Rating"
 ],
+"sentiment": "negative"
+},
+{
+"id": "07ada08b52377193",
+"title": "IT Stocks In Red: Nifty IT Falls Nearly 1%; TCS, Infosys, Wipro, Persistent Top Drag",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc3RuSWx2TDQ5UUdkMmdTaXdqSzBWMk9rOGtmNkw0TDhDOXloVHhCQWl0OW1wQzVXQ1gxUnEwVVJjaVoxOFlBWHhNaGhPMXQ4Zlpwa2tESy0tdUg5b0JOakNYZnFvOG80NFpHQ0pLR0RxYlFTX256enJhYjh6UjhnM2F6bkVHM0pPcWRLRlNIT2ZOS0tMU3ZUcHlnLXlaMUVha3AwWWNKcV9KMTVWc0M4SVFxZkF2YnVlX2VSaGlkZlpWZVNMLTdIRWhVNFdKbWlsbmsyTTdjS25HaFNTR1UyVEFlY0hEa0g5QUpreEdaYjBWd3RDR2xMb1FHRi1ObVQ1T3BCSVU3U3gxZ9IBkgJBVV95cUxOMHdPd0h4bjdGOG9WT242SllQOE8xTno4emVJVmlfNmwwcmtDc3puaC14YjZqaG9zU0l1dEJDYlJ3VUo0MGdHdGt1M0sxRlEzUHhqQ0pEd2l6bWJNUVZEMll2NS0yTXBuaFd0cGZKSE9vNl9reG5Lek4tVHZFclhHVkpUbEtXWExaZE4zY0Y1a096Z09ZRVpueG9qdGFPZDNlZkhiTXo1ZU1sRkJrUnY1Z2taRHJpY3Y0YjUtSU56cTZ6MXhzdVZ4RlJoNGFKLWphQzZKVGxtTTFqSXo5X1RQc2p6ZE9FT3o5YVlTeUQxeGw4Y3pjdUxTWFJvbGpudHg0WHpSQWtwM0tGQXVRc05ETXV3?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-28T04:11:57+00:00",
+"first_seen": "2026-09-29T02:17:16+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
 "sentiment": "negative"
 },
 {
