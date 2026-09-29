@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T20:49:10+00:00",
+"updated": "2026-09-29T20:58:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "ee7da717a30dc324",
+"title": "Adani moves past another legal overhang",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNemtBR2FuVHI3ZWFfUlhHdzZxc3ctYmtlX2UyTFpTY3ZvdU15TDBUOVM5c2UwWi1HSnRaZjRQeFR3YXRYT3RfRko1R2RrTFhIVWswVlNzMUFCUV84WGxXWFJGWFd6RjhuSXoxS1dvczdJWVN2eFdJZGYzclFQWkY5U3RObnhkclZDYmRNVVVfWUduLVl3V0pKbjFWaE1qSmRwYWc?oc=5",
+"source": "The Star",
+"published": "2026-09-29T20:55:45+00:00",
+"first_seen": "2026-09-29T20:58:46+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "64517057f199b2a8",
 "title": "Kane strikes again as England defeat Czechs. Is Gordon now untouchable? How did Trent perform on his return?",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEhUbE5BVE1iLTNJOHdIZDZzRWN3X0h5V19IUUdBcnE2V2lFWTRYaDdxek5rWmVuWWpKWFpXQzU3ZkEzdlJTR25NTVg5TGVld0c3bjBldzRwVGgtb0VzVjJuOVY3SnZWaTVVVnJBZDgtUWhNZndUY3dJMVlzM3JtMW8ydlYydXJNY3h4V1QyeG9YbnlTM0oyVk5COTU1UHJUWnc?oc=5",
@@ -509,6 +525,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "50b470d742e0b531",
+"title": "Apple prepares to launch Apple Pay in India with Axis Bank — TechCrunch",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalVwamhQOTU5ZFM0eksyWFY4bENCUS1EeE02elhuUGJXZWlDTGxSbUdQZkxVLV9BRzRSdnBfV2RhUVNnM3hBX2VCbXR6eU1qYjBPQUJScUhRaHh5REVmU25wMFBCUEl0cXhGWDIxdDQ2QWlVQ1pZMnZLdWJoNGhrb0drTE9HT0VyOUlOVV9pam5ETC1XUXZ6Q1NFWHo?oc=5",
+"source": "UA.NEWS",
+"published": "2026-09-29T19:40:29+00:00",
+"first_seen": "2026-09-29T20:58:46+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f91120af550e37cb",
 "title": "One Of London’s Biggest IPOs In Years Is An African Mobile Wallet. Airtel Money Will Not Receive A Dollar Of The $800 Million.",
 "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMEZBZHFhZDVYNWFLcXNqa1gtVG5UY1VuMGF5eV9YWDFlN0JWN1JiS0owMVZEeWhZbG12VzhmVUJ0cHo0UlA2YmE2b000SzNoOHQ0YjZGaGNpblFXNVhoOFdWTkV3dGFRRHJsX0hKWDcxcGZxdmppWF8wc2I0VExiSUFQUGt4Y0hwYXVQVnBxdjJPRjdGdVFNZEF5N2p0Z3pwQmZ5TDRNa0lFZmdvb3BMQ3NDa0hvNXFlY3I4QUxqU21WOFVDSjZMVzRjazJHM3FXcWFtVk56QlU1X0oxMUgtbFhLSXVIRi1oQVhzeER6M3ZkOUgtdS1LZDk2NG5YNmx2WUVXWlZjTQ?oc=5",
@@ -536,6 +568,22 @@
 ],
 "groups": [
 "Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1ea32827e12c2ad",
+"title": "Apple Pay set to launch in India with Axis Bank today, TechCrunch says",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVlWTDc0LW5Ba3dQQXNnRTN5eHRGSnVmRGM4bVFwb1pYQmtMZjNZN3YzUXJELU1COEdlcy05M1preDV4aG1XSHNtSkdESmQxZ3I1ZWFzMTlLMkxrY2NlVFMycGJ1UFpiUTBDd2llaVZjS2NQRHZqQi1QVjZSY2N3UkZ5UUhzV3c3OHVjWkdocmZHX0xGWmFNYVBRQklWMkplS1REem9DeVRnRXdLNm01ZTd6dkNiMHA3WGJJ?oc=5",
+"source": "TipRanks",
+"published": "2026-09-29T19:04:22+00:00",
+"first_seen": "2026-09-29T20:58:46+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50400,56 +50448,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01d3d8404ac67ba3",
-"title": "Power Grid Acquires Barmer HVDC Project SPV for Rs 18.98 Crore",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGIwS2ZaX3VlY1NkWFJZRS1vc0tUOWFlVl9DOEIwakZ5eHliVm04cEV3MDVleHk5VHZuT0pocjJmWUE1UDBFMDdsUDlsRmF3Um0yY2JPWkg3ZW5IaThObDFFN0dfVDlNbnYtRWVCTU1GUnhyQ194Z3VFeU9lcm00bnY3cU5XMDBfNG5JdjBLMWctTTcyTE9XdHdUT01ETUZaaE9uWl96ekJvc2lRMlZTNkdZcGdIbTl1S2VCbS13M0R0aWVjTEpWdmo3RHprSGdVUlZJRTFHWmx3TDg?oc=5",
-"source": "whalesbook.com",
-"published": "2026-09-23T13:42:18+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f5ab02c6d981aedd",
-"title": "Stocks to Watch for September 24: NTPC, Bharat Dynamics, Exide Industries, Concord Biotech and more",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcHlnclp3Z1hZVEl1VmdLbXdhbDhTLWtuR2lwcy1kMEtFam9KY29xTWU5ZWJHTHZDamtNS3J1dVpXS0JoS2lkYWF3cUxMYUxEMXNvd0FjYU5BeHhQdjRnVmNpMFhKaFRrVlVSQXBmdmdJTUZIMHdQd1dOa1lXUHBUdVVMS3hzOHFydUhremZxemcyRzE2MHlKZXRwOVVzNnFnU29kcWtCMXZPbVhnemVCb0NvLWhFYUdqNER1SVVTNVFHOUdLVmxPZHMtRjQ0djRWSHFJVE5jT1p6N2tCYzNSQtIB5gFBVV95cUxQYWVSMVNGUWlqT1dUMk0wUHUwVmZSTmhkZVAyVmpCQXVlN1VnMm1sTk1RUFNNLXZWR1hEOGx5SHFLM2NhNDVGQW1xQ1hWMFc1V3dKd1pwb214a0pSaXUzNWNQQ1Rrb2xnTTExcUJiWUtVQy1pNTI5Y1lwUTZka002cVFmSF9TV2lDSmFuYmxKNkQtZ0NsZWpTRVBteDVwTDdpX2stWWtjRG9MN0ZCLUVhdy0xdms0VUJRWTFiUkxwczdHbW9pRm5McXRZRmVrak5uOHRIRFBQSVg2TEN5SWFNQjg4QUpTZw?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-23T13:38:18+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2e2081e4d578f0de",
-"title": "Reliance Industries participates in CITIC CLSA Investors’ Forum 2026 in Hong Kong",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVdwYnpYTWNRWVRNVlpTWElmczlVczZVZVlJZVBaQXBqNWsxakxTRll1TUZfN2N4b3h6cVRqNDhiMVFScTZTaV8zbUF3M29YeXNnV0FaQ0F6dUh5cERDUUkxSi1rc2pVaUNoRUFrb3lBMzQzV1VBdHV0NUpOYmk3V3U5d2JSMk1pdUdlVWRXMmEyVGVrQXFwVkpvUm50STAzRTZqbFhqcHgtTktYMmVDUU44VWo2TEMy?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-23T13:33:46+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
