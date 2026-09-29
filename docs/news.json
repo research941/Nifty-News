@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T13:49:41+00:00",
+"updated": "2026-09-29T14:01:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "8e8840afbce24f27",
+"title": "Sun Pharma Plans $1 Billion Local Debt Sale",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Si12Z1dtYnBUbVRBdGFkdjQ1TDFncHlCOFVuU1E0bEhneFNJaElvNmVTV0ZxNTg1TjlLY2VBN1pMLWRwS1VQZzJvRjFvdHoxYUFlTjZSWlJlN3BITU04ZXp6UW5TOUdYV2F2SV82bE9oLUU4SEE?oc=5",
+"source": "Unique Times Magazine",
+"published": "2026-09-29T13:55:24+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "548595b356b62fcc",
+"title": "Adani Ports Closes Trading Window Ahead of September Quarter Results",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkZ6UDBVandBRUFoS2hTWXpHUXJrNXNhRzY1eGRyaUZJUndweXpmeDIwdjZqUV9uSTBwc09MdUIzSV81UnNsT0VrZU9ZNEdfME1CQ3pYXzJCbDh4MlV0N2loT09aaFBFaWsySkN3U0x4SUpSUmpMT0VfVUtsQURyZjFaZF9PVW9VUkU5Q1JQSUlnT2hMSmx1RWZkV1FXSVdHNWVlVVQxMEwxSE12WXZRRllDTW56dmxVWms3Zg?oc=5",
+"source": "TipRanks",
+"published": "2026-09-29T13:55:08+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "535aa85f72641776",
+"title": "Tata Steel infuses $340 million into wholly owned subsidiary",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzFXTHdZbWF0SEs0bjBtY3o0Mm8xdVFpYV9RaGJFekZCRWw2NGJhcTkyc3BLeUwyNWdhR1AyVTJiQmU1cDVEN0FObzBmQXQ4ZDdTQVVWUXNSSlpibHptUG9Qbmk0UWozbENId2prenZaV3ZOUEQwY21CTHRxSlI0YWFGRmI1UTVQRjlLX0dZUV9TcVBoWGxSSDZpT3kxYUJwV19HN29qcVl3VmdySk1Ca0pDd2RCbGc?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T13:53:49+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6ab0319542e0c463",
+"title": "Oziva Posts 80 Pc Revenue Growth in FY26 as HUL Completes Acquisition",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmF2LUVvSjhPOE5fXzdaWGhYUzNBbldOOUtGLUQycVdSd1VUUHI3WXVvQmRMWkZ2aVNzTjlSLWVpMDZsVzdLU2NIbzBDdE5rQTVobjhBaFVnMGhidng5eXJlNExrUDZaOFZyRDJMTVZhNUZsUGQyQzNwTUpkQTdzYmhCMy1uWWgzUEtjbkNzUFEyTTMxLXg0MFlXN2lEejlX?oc=5",
+"source": "Indian Retailer",
+"published": "2026-09-29T13:52:56+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results",
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "687e027593545683",
 "title": "Stocks to watch for September 30: Tata Steel, KPI Green Energy, Arisinfra Solutions and more",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVZobFZicHhiOUJJdW03d1AxVkFPbUNPSHhkZG94TkJkX0xaaG50MWhNeWkwR2J6T182elVKdjREUWxvZlRFQ2JfMWRya0g2YWxCNDZLb3MxM2tTMnBfRVVlQnR1OGI1UlpVVnRuR3F1bU5ZdmN4ajZPczFwQWdpMEw3eWNBdjZIaWl2Y1g2VmttZWtVTFRiNndYUC1Ub0NpTGdIS0wyN3hzeXhoWXRGN0xJWFdUcXU4ZUdCRV9Nbm0xX3R0QzdKTmY3M1RWQUg5SE53SUt3STPSAd4BQVVfeXFMTUR1WG1zY095N1FzS3E0QnBXQkNxSm1zdGdaa3NDeXlNMnc2Y2xWZ0lrSnZkNWtnZVlhNjJCTXV0ckc1eUJmVWZrX29STTBCVlI0QUJhZ2RhTUJTQmMzcHMyU0VCVzdPa3NsS0NTRy1pbzlCZzZuazZmUFV1cEJnSkRSRktTRUJXMnh5VjdoandNT0prbENqTGdBcWw1aXN2d040ZWR0ckFYRVI2MXRqT2xsaU1JVkxJWll2VHZIYlBuT0lMcFE1bjNBWF9uUG9VWUVBX1N1R0xhNmJMcmdn?oc=5",
@@ -501,6 +571,24 @@
 "source": "Investing.com India",
 "published": "2026-09-29T13:23:14+00:00",
 "first_seen": "2026-09-29T13:49:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2df832fc85c46b7d",
+"title": "REG - Tata Steel Limited - Acquisition of equity shares in TSHP",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUE3MnM3Szdqdmt6MjFYc0R4WjJXSFk1aW15SGFUaV82dDFlSHR3bjF6M1lEWDZGZ0lEbmdTdlFtWC16bm5KTnhYMUw0TGpiUjlHU25iSDdRallMMlhkQ2tZbGh6TVFsR3RTbVctc1VDOHdYNjVldVI2T3lZam45N3d1ckplbUpHVzdKeUF1OHVwaEhRUUtUbC1nU2pJaUlRUFktaTNDUWhfZ1NKUU1yWXl5ZDJkS0VEUUctbmU0ejdLM21pNHU0YnFCc1hjZFZa?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T13:16:05+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -2755,6 +2843,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e960345f7e6d64b7",
+"title": "IPOs Next Week: GSP Crop Science, Novus Loyalty, Coal India Subsidiary IPOs THIS Week; 3 IPO Listings",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1FrWFpxS09MUjVtUEN3d3B1aTREamstLTJyaWNoUlYtSkNZZ21vckNnZkF1dDgyWlFob1dvVF9qaVR0R0dxcGJBZXRLbW9WWUxhcGNaVHd4WlJkWGhlZUZOaVFxR1VpNktGYzJFUlUzZzN1OVd6WElRajJ0dkgzTElIWF82Y01tb3M1SFc1ZDRya0tGdWVGYVNSNlFJLUNjeXNaVlZ2eHptSEc0djVtUEh1eWpPTzhBRjF3S2tBaGFBNDBxQmZtVXlTaw?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-29T08:02:20+00:00",
+"first_seen": "2026-09-29T14:01:28+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
