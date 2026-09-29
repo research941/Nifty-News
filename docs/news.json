@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T17:48:06+00:00",
+"updated": "2026-09-29T17:59:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "3b60024f39a4411b",
+"title": "Trent University and PRHC Launch New Research Grant to Honour Former Late Health Centre Director",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1JDbFc3VW5qTVpZd3pTTHo4UE1QR2MtWkNzenAzUzNCSnNrSVhyQUwzanFYWDFBSWVWYUdHTWlsOVdiRHpIeXkwbmtuT08tYnNGejJzbzM3bkE2X2M1d2dMNlRCOGVmVmZ6aVVQT2ZZSVp4aGkyWXJGbVF6eUdscjBwb255M2JjTU4yMEFCY0hERmNEQ2Z1ejhFLXdQbzBsb2VsMGNibVVoNEQ4S2RyVjNNRkRMUW1SX2RnZE50emFOQTRlMXJCSHBYYw?oc=5",
+"source": "PtboCanada",
+"published": "2026-09-29T17:56:25+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "968c4d67a3e34ef7",
 "title": "Jamshedpur News:Tata Steel wins National Award for Excellence in CSR and Sustainability",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak4yYmZQX255OG43bU5LNHkwNzBlMTZxSkg3UkVpWURVRW8xdlZ4T2FrSDl1UklSc0tmd0VxbEhpZnlKaXVXUFU0N0ZxWGh2N2N3UHlMQlVTR2hOenBRUm9MS3hWNExNRmcyUmVzbHdQMENFRm5CbWszb0NQUU91bzBuMklXaFM4Q0p0dDFrbG5rZ29EWEVfZjktUVk4YlNlMVhkVklIUWFSUzRoOTdzdThpWmtXTXltNHNVZWV1dXdpUGs?oc=5",
@@ -576,6 +592,22 @@
 "tags": [
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "0c31f36d376ccc10",
+"title": "Tata Motors brings BaaS scheme to its entire EV portfolio",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1NUQnJpcDZYZE5IZ0U3WkJHeEltMGY5TEZoZUc1T1lpam5CSnNmSDBReE50Z2YxbFZrMnNpN05NN1VoWXpUYU0yYXZ6NEZZUnR3Nl9Ccm5zY1NGMGFDQ2NvUkJqU2V4OWktbkhMN20tamFLT0FWSnZWSWFzMWVmNHIzd2ZYVG5rWGJ1Q00tT0ZWZW9rcV85azI1cG7SAaIBQVVfeXFMT2wxWldyZ3duTUtVdXREOVN4dWg0QXlZaWpGYjIyUmNSSUNVZk9nLVN4SW1EYWFVaUdmU3ZXak8yX2xRQW5WRENzU2dxNFBUMDBKVERqZzhVdzNoNjVhNFBFakctZjZKNEJKR1lhTjNYN3FtX2hYZXQ1dGhscS1IbE9GcTFFajhNeERHZG0wNzBPb1A5eVVvUlpzZ3VkT3V3LThn?oc=5",
+"source": "News9live",
+"published": "2026-09-29T16:20:25+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -714,6 +746,40 @@
 "Corporate action"
 ],
 "sentiment": "negative"
+},
+{
+"id": "027e9d36ae92cb83",
+"title": "SEBI clears Vinod Adani in MPS case; Gautam Adani, 4 group firms settle for Rs 1.48 crore",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODNuRktMZmZqNTNDYU9SNUsxUEp2cHB1TXhoaXI0a25fRjJVeWswQUVaOEJ1Uk5PLWVUYkZXRUEwZG9nZkM3ZWhRUUtZbFh6ZERENTRLVFBRSG1Ea3dHT0pjemhpNG5kNU1oM0F5ZEJ2S3FlOEY0N0U0VmdRUGtVaHhYVUlWbkNVYWVVSmFONGxLZEpyQmRfZlNuTVh3amxpTkNCXzZZU3cyWWhNY0xxVEhEdXFLUXpyVFlsaU43dHlEcVJ3VlctYUdYTG1jUEnSAc8BQVVfeXFMTTgzbkZLTGZmajUzQ2FPUjVLMVBKdnBwdU14aGlyNGtuX0YyVXlrMEFFWjhCdVJOTy1lVGJGV0VBMGRvZ2ZDN2VoUVFLWWxYemRERDU0S1RQUUhtRGt3R09KY3poaTRuZDVNaDNBeWRCdktxZThGNDdFNFZnUVBrVWh4WFVJVm5DVWFlVUphTjRsS2RKckJkX2ZTbk1Yd2psaU5DQl82WVN3MlloTWNMcVRIRHVxS1F6clRZbGlON3R5RHFSd1ZXLWFHWExtY1BJ?oc=5",
+"source": "The Tribune",
+"published": "2026-09-29T15:38:45+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f1a7abd92b91a86c",
+"title": "Faulty Severn Trent manhole cover disturbs Halesowen residents",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtTVRTcXZXQ21oY0pENUlyQTBZUDVtY21kSzFzWmpyd18xTTZuR01hRVE2TE9BcUtxVXUzWjExWTdkQkFVM0tNMHRIWFdSdi1zc3M2ZkVuQ0c1TzQ?oc=5",
+"source": "BBC",
+"published": "2026-09-29T15:19:22+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "282b509890d18268",
@@ -3050,6 +3116,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0f5f648cb66ead6e",
+"title": "NTPC Green Energy Share Price and Sector Analysis Today",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qQWkyWThmLVgxRnI1R3JEbDd4SmpnLS1WY1JPUGNyMEppZDNEYTBITWVzSTFxajc4X3JkaXRYT3BGTXpjUDh3SG91SWFWOVVFeEplVlRQWWNodWp4MXl6bm5Rc0pjR1ZjT3JNa3NYNXFyb2ZmVVB6RkNpTXNsTEU?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:00:00+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8861,6 +8943,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "27695c6e3c9568a7",
+"title": "The FAA Skipped Normal Notice To Ground-Inspect Every Trent 700 Airbus A330 In September",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhMRk5XM0EyUUVaT0dmd1Z1SnU5VklPX2d5dWg0eWtRZUxuV3B1MDh4cnpEb040RVdQTlVEZmNRSTRNaTR1RzI2RWg1dFh2NkJfcXJibWZicmhZeWJYXzd2Mkd2NXh4N1A2ZzJMRE1BVVBQQ0pkcFJYZjl0TWNVWDdwckZhVUVsajJJeEE5V2NPN3N2ZnRiTWxSNUllMjA?oc=5",
+"source": "simpleflying.com",
+"published": "2026-09-29T01:00:00+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "48b6457842b25394",
 "title": "SEBI Clears Adani Group Of Minimum Public Shareholding Violation Charges",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaV96akltUC1wa1QwLVltSEtoMmdyN1NiZDVidVZwaS0waGRVam4xZGd3MEhaNF9NaVNhVGp5RFV6NG1ISWtvd0w0SVQ4bmdHQ2w0WEk1ZF8wQXJCaFQ5VURXblY3UzhwNWxXeTNVa1B0OThOdWtqekVjU04wOF8zQ3kyeS12YTBjcGROUzFkamxnam5IQU9BNGtnOEdxMXpvU2txTHNyN3NKajJ6MWJmbWdpR0h0OG8?oc=5",
@@ -9268,6 +9368,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c0b2da3f09065b6c",
+"title": "Two men admit murdering man stabbed in Stoke-on-Trent street",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LTmM5Qlpmd0QtV2FDelJBcWxrN3pWWjVBa1puREd4MVZ6X19RU0d3ZUNDYXh6QWRlMElzU0RlRU1pMDFMM2E1LTRQb1ZOd21sNGcxNHp5eGxTWDg?oc=5",
+"source": "BBC",
+"published": "2026-09-28T20:23:00+00:00",
+"first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
