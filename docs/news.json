@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T12:25:25+00:00",
+"updated": "2026-09-29T12:52:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,86 @@
 ],
 "items": [
 {
+"id": "d10fbc5b92665b01",
+"title": "India: Ultratech's Kukurdih cement plant meets full electricity demand through green energy",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2pfWWZ6Q2ZtYlh3aXVURjdXYmRIT3EwTHRQTlVqVzNiZW9JQ0ZkbUc5bExZN2dMdnljRDVMcTlBQTBnYnBIZTZMVlktYnlYd0d0clZWTjlpdHduZGN3d1lqTU5qTHd2Y2FxbXhORlhXa1dqQ3NoTzg5empjWWxlY2pRRU9vaWloWkZBak9CZGhlUmp1cV92LUFEdkxJWkF0R0hKbTVVSVctb1g2LXJWVHVxWVlpaDh2LXR6VmZJQll6dXZyanVIZnMwOXhTZERWR2c?oc=5",
+"source": "BigMint",
+"published": "2026-09-29T12:40:34+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e74348c58bf3b687",
+"title": "Bharti Airtel stock faces a tariff test after 18.4 percent growth",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMEdTdGhONExhdmppN3dmZ0RJVlI4RjZwT3BJZVhfd09vM0xaU1N3T3MxTW9tUVJQckdTR050YTNhX2hBemQ1ZzRlT1JJOWpic21TZHI5RTJ3ODFlTDJjRWhZY0RFS3FHZndnTVEwS1VySWMxVThKUnl1OVpNaWFJa0YtTEFaazFkbGJ2WkZHeVJaOXRPdlpQMERIQXptQWpzZmxGcjlmdmsxRThnOHdxdUVTRmljWlZHY1hLeE03R05pQWRQajRz?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-29T12:37:26+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "959214eae8b23036",
+"title": "Axis Bank allots 116,086 shares under employee stock plan By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXNuNzZMMlNYTFNWVzRoSlJFeGNCVXdGRUVRY282RHZQYk5majVmejRqZ2NGUW9TZzR3MFM3WlBHOFdzVXIwXzFFNFdlb1hBbGp5bWY1Q1VPZjBpN1Ewb0dwdXl3RDg0UWJnc05UaktrSS1FWF9IZGxjLU9fU0NoRU1uUDZyeTA4cUgwSHk2TlEzc0NWZkJNdTBfQTUxRkZTUnRWbWZLTG1VcTF4ejhiZkpjbGNCSi14?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-29T12:34:49+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "da28643a7cd33ecf",
+"title": "ITC Buys Rest of Yoga Bar Maker Sproutlife for Rs 645 Crore",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEl3SThVTUtCenRBY3pEY3VLREtVQnhaT2tUaGtJaXdNZl82ZndHU1JDZndqWlMzcnN3MFJkdElYMjFiWjRQSU5CQVIwRjFVeFppSFo4N0E2d2lJUlJicHJpTklfUFlDUmF1UU0yQTJCWjlwUDJtcU1heFZjWWxqS0wzTkE3VEY2TmptNTBtSnpkUE0?oc=5",
+"source": "Equitypandit",
+"published": "2026-09-29T12:34:00+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bcbe8aa9239622d9",
+"title": "Expanding innovative portfolio may drive gains for Sun Pharma stock",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORV84Um9CZlp4dHlWRmkyXzZsQ2toNXdqZ05lZW5WV3IzUFVKdE9zNlNwU3pwZlllVENKQ2hHdV9aR2ZPV2txUVd3QThrQnM2NkttY1V2TXJNZnlnbjcwd1U2RXllWUtHZzNKY2gzQmJhbU9udjM1TDhtenpwV2ZJYnJ2WkFDcDU0NUdVQjhTc3BwUjFjX1lNemlFVlJLVmVENk1XeUlUaW5sb1JGZWxYSTRiRngtaS1XekZ2X05NSFJYZWpjT0VzX0Mxd1JYYVXSAdQBQVVfeXFMTjYzbFc4SXN4NEI5M3FIZ2pQNE5qa1lRNlN3TEQ3Mjh6V0pLRl81QUs1UWpZX1U0cmVvM0pacGs3LTU2WUM2bWNIMmx3enFPc1NGTTlkeVBCZ3d2NUhacjhGdnpCcktvS1ZGSExQckNaOS1waE1ta3Z3cFNXdTdraGh3clhSTlg1SG9qaVpSdElGZlh5RzJTelVkNVBQRDdENVRfVk5nMVItWDFuUmZZNHlfbmJtUUp2TXJOREQ0WVptLTNFUV9kbEJCbDNPUTNyZmtuUXA?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T12:26:18+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "5626588eb82dbdf8",
 "title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
@@ -472,6 +552,38 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d2a694708dada48",
+"title": "Maruti Suzuki Fronx To Get ADAS? Future Plans Give Big Hint",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTZwWGI1ZVFJVGtMS1FGRDhWWVRlcGh5WHlzLUpTZy1WMmE1RnhfX2dYZDVBRXBLLWtuX0V5OVAyS2hnLVgzenhRNlRzY1BxeDNTR2lwb3lLT0dVTHEzd2VJcHhydzgwajloTkN6VWtlUS10RnRQNlU3Nnczb3d3bVF3eERBV0MxVC1lMEsxMFBtb0dmX1dxUNIBoAFBVV95cUxPNVphV1hIM3dGeWlrRlNyOXVaSU9BUnY2ZWl4SzRjYkwwaDRQZTM4TXdsXzBsd2VqSVhXVXI1eFZmMkFiSFFYcFpTQ0NqSlBjRmo2NG1qaFpxalFBRjNtSTdfR3dqRFJKTEwwZGplTnplVnpmdjN5YUhvU1JqcGFQdXh3NWU2ZDBkM1pLaU10MWRGZXA1ZjNpT1Z3R2JqMGpa?oc=5",
+"source": "NDTV",
+"published": "2026-09-29T12:21:23+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1dc6afaa5026ff28",
+"title": "Tata Steel Wins ₹427 Crore Tax Relief, Exposure Drops To ₹1,259 Crore",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekdvaGdzMDVZN1d4dWdvWDdvREgyQ3VqRk9Da2V4b0I3S2ZUdlBhX2dsWWJaa2dZdUQ5Qmk3OHVETnZhQ1ZiX2hEYWVCUU9DaEVpc3dBMGd0ejlJQkYxTkxqUjdwSEphZjZHZUs0U1BYZ2lZSzhzR1hjdTd0Wk45cWwxdWxWa2RRM2wtNlZUaTY5TG5zaHdJbnJZelpnLTNRRGRXVEFnazFXUdIBrwFBVV95cUxQNnJVSVFyOU14UXVtNHItYngzaVk1QjdGQTZIMjJXM0V0TU1HMzhINWtIVERQNTJRVjZlS1pET1RwRUJoaTlzMV9ZN00zd0R4TVFfTW43MUZ3R3F3c3pqczVCRGw1dzJPelVyallDUVZOX0Q3TWhHaDRSaWxGSDNZallpSE15SzIyN1phblFVYl9rU3NLZjlvTGdXajh0YkM2bFVkTl9HY3BJSFVjTXZN?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-29T12:20:25+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -573,6 +685,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "f10f7cb35b547b2f",
+"title": "Tata Steel ITAT order cuts FY2009 tax exposure to ₹1,259 crore",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYURudjNBMWtWQVBIMnlRMlhuaXByZHRsaU81Sm1LZnZLV2pxWXJPenZZcXNIQm1HbDJSTFlJeTlPNWZQalJYQVc4Zi1YTmpvMGZZT21kc2Z5dFZWOFlfRGhOWWVuV0tFWXloWVp1QWI1RGppLVBQNWd4cUtBQ0NvZmRxQ3g2ajM2VWxQRFJoQjItZElqclRxYjd6cjRwMnpaQUF3VElsMXVGSU4xQnRtUnNQVTVpQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T11:53:24+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
 },
 {
 "id": "6920c677a3670b23",
@@ -1863,6 +1993,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "b95810d700cfbff6",
+"title": "Larsen & Toubro Ltd Sees High-Value Trading Amid Mixed Technical Signals",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlhnWjVkVmRoUVhDY3gxZ3hId0MxeGhGWjdsTm8zVWhmeWYxV01uNUtRa19NTGdtOFlhLWZTejQ0N0tkVHkyMkpMUkR4VE11WjF6WklZNEJwQ1RqTXNhV0VydlFwemJjNTdBS0pWOG10RWR6VDNDa0hDR0hTbTdpeGZ5dU5oaVdZZlh6YUNkelNsTF85XzE0amYxLTdvbGhEU3BsNEdCSzRxNEhIOXN5NFlXV2JBSjZGb1ZUdVFRNG5Mcm10T18w?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-29T08:52:29+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d2c067e5c988afb8",
 "title": "Tata Steel Foundation Facilitates Workshop On Scientific Betel Vine Cultivation In Odisha’s Dagara",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVRNMGxZblNzaHQwSUl5bzBLd0xta2F6ZWRyWU9RcUt1VWxZSjM1QmFiNmZ3dEVpTmNZVWVCb25RNmxpMHV4dHJUZVZDYmZaak9JMTdkU1ZiNkhRazQ0T0RxT0RZWFpNTEdhQ0NnYkJPV3NTd1k2Y2tyNF83YkVEQWU4dHVhdWE1R3N3T3gyZUlGVDdNTXZWOUZBV1BNRTFMZm5FdndieHhTSTl2cXJQS1U3VE80SXFqYzJBTURkc9IBxAFBVV95cUxPLXJqa1lGUmVrZldCZlhiRVFscHZCZEtLajlsWXRrTS0wOWRmZnFaMlNLNjBhT3kwT3BlRy0tdU9GYUFibllvUDh4VkJ0ZmdUaDEwX3c2QW9uZmJ3amFpYS1DWXFUZDRNaGJ6NHlMbUVIamZqRWNWMGxaSFFrY3NEVU4xQk5PTnNuRE1XZUpteGxBZnhzQ2VERnAzT3IyZWxGRUtXTWctdm4yMUF4b3lnMTRUNE11czJZYXFXMWJlOVdXTjJ0?oc=5",
@@ -2111,6 +2257,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5fa9e80354950ca6",
+"title": "NTPC’s Kamal Nath Thakur nominated as member of ICMAI’s IAASB",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk54VEd2b25EaVFzZlNjZVNReVFJMzB2cVFjRGl5VFNtVjgydi1YSEZLeEJpQUN0Z0EwZW45MWdwQkJka0RGU3pEajQ5cU9ULTRlT2NnVUdFenJGUFhwakI5SmozbW8tSDN4OFRQRzduN3pIQ1JuLUN4cWpSdHRwUUd5MGV5YlV3YWVUalpQQ3ZfLWgtX0Rv0gGkAUFVX3lxTFAxWTdtUExmdDd6ZFAybjRDdkNqeURkaHl3MnZkdFNNVldycFJfWXoxMlRycWR2UWoyRTh4WUFVQlNPOFNLWXRFUkR3N05vSU51OXYyejRsZnZnVkZLMkVNZF9GMUhtU1R0TlRsTThwSWxxTm5xaUVIZXRjVGI4b09nU2xqZE5BNWlhNmNGNXZ2dF9aTVhZb2JSNk13ejVLSFZOYlNT?oc=5",
+"source": "psuwatch.com",
+"published": "2026-09-29T08:14:46+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2760,6 +2922,22 @@
 "source": "Exchange4Media",
 "published": "2026-09-29T06:49:39+00:00",
 "first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8353cd7179e3e03c",
+"title": "Dhiraj Adya named Head of Worldwide Advisory Ecosystem at Tech Mahindra",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjZJVEtnaXV1Sk9ySkFCOFl5WjZCd19GdnpTbEJUM0pabm1obzdKUXgxSFRZUzdLamgyOHYtLWxFQXVOUWFmRFQ0bnN4MThkWm15elRiTUhzdmNDa0hZRzhseFl5bmdrR1EwekJjaGRNaU5QZHVYTkctbEhqcDhXdTdtcUJoczY4R1lmVmpRTkdHWE1fNC1SQ3Qyb2dTcENEWlc3cEVxVTRQeXl4bzJ5YlhkbU9NVTJRdGh1ZDF3WjFLZGVpWXhBUWZBV0gyM1U?oc=5",
+"source": "Exchange4Media",
+"published": "2026-09-29T06:49:39+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
 "symbols": [
 "TECHM"
 ],
@@ -4200,6 +4378,24 @@
 "source": "BusinessLine",
 "published": "2026-09-29T04:38:23+00:00",
 "first_seen": "2026-09-29T04:58:35+00:00",
+"symbols": [
+"BSE",
+"WIPRO"
+],
+"groups": [
+"Finance",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "6b04de99b93ee9bb",
+"title": "BSE shares surge over 3%, stock to replace Wipro in Nifty 50 reshuffle",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFYxc2FLNFJkeU5VQ0dWdFVETE9Sb1JzT2tuVnNEWTdRaU9JNWQzX0x0VjNmZlNuem9FdGRUelVPeUhNMUpTUWlmbF9nUGJJU1NndEl4eGxYaU5IWjdzSVlpOE9TQlhmakNHbTZlRmMxbGkya1JTYmJpM3FWNnhLM0FSeDhYRndHcDJzaW50dEE4WkVyb1MtcTZvN2pyeV9sTlZ5NVBLc3M4Wl9hQ3JmUF9CSWp2N2NEVk1rWld2Zm5BbXNXdFBZ0gHOAUFVX3lxTE5YV0ZiOEdkcDVUc2tDU1Myb0RnY1VRYkFHUERHLWdyM205dmdzWUoyekhSd2FIaVltYUZVa3ZUNG1qdktXNEpPTkVxdTduMmhGNGFlckQ3UkNrS0lqYkU0dVFqRmtSVS1nUkdNVXlnN1RIdmlaNUhMVGlFWHdrMERaVFo2bnlla2w0eklGTEFzSUdCeVNmYW0wZThzQ2N0WF9wNnhIZy0tZmxwREprRUFLMFk4eDN0eWhPV0x2YmZ5WXhzVU55aExVaFJtMnNR?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-29T04:38:23+00:00",
+"first_seen": "2026-09-29T12:52:55+00:00",
 "symbols": [
 "BSE",
 "WIPRO"
