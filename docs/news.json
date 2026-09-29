@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T09:23:07+00:00",
+"updated": "2026-09-29T09:39:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,70 @@
 ],
 "items": [
 {
+"id": "96ed05a183a01161",
+"title": "BT Exclusive: ONGC Videsh to restart operations in Venezuela's San Cristobal oilfield soon",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmh3dF9kblRNOG80dEdyakcwd1dMVmRBS1dWcHgwOEdVa2hHTDdsa1dlSUgtd1N0ZkpHX2ZlczRGV3Z5VU8xM1dITEx4T1c1YmkxbXdUQll0M0toa2hVT1ZQMWpDaWhsYXNSQ0lPSUplQVlnM1VfT0pobzZVLXY1NHY3WS1ZYjdFWUZVSTF2VnRTZklXS0lOZmM1X3VUTVpKd092SEphdzhDeDZiYUppcGVnVlVhTF9sUWtiR2ZUNFNKMmFTLWhHZEhXblA1Mi1vSERIMFV0VlF6Q2t4UGfSAeMBQVVfeXFMTnlhX200MjlRUjE5VmFidU5UWUVDWkc5NnkxZFRGX2VUcEhGUGpZX2t2eTdxdXNQTGVmZXVrN3pCblJzaHJsV0huc2xXclRTcUpJNEhYbHh3ekNNYnc0Tlk1Q3pkamZJdWltZWZWc0dMZGVwV2pPel80OW5OWEJTdzlYRWpEeXRKUzh4aXJGbnBOcHdqTFVTMHpkZW5HRk5FN2dQazRBVUw0bG0zZ3YwR2doQTRrbHBkc2ZTVU8ycmlhZ3R0bjdCdzJrTGRjWC1GMThJWV9nSkNOSlFtSHI2Wi10dDA?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T09:30:01+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "00e98fcbe20383c2",
+"title": "Coal India Signs Non-Binding MoU with HURL for Coal Gasification Urea Plant at Sindri",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUhfelVyempjbm5SRWtrWDNaZnJYc2dqazZHSmd5Wm5vQmhpN2RhRW5uZ0xhVkxPczZCNFQ3SHhZaW00dFpzc2xrUVJHbUx5WnRKWWF3NmZqNzBMdWlfRnJPcE9saVgxVGFrcXdjRjByd2I1VEl6ZERCcmtpODRFQ3ZsYk9Hd0hFWXFoV2FoR0VXZnJiWnU4UXR1dnFQUkFMSllwY3R3NzQ2M1c1QVYzLUFwTnZ1U2FEVU9TejJlZGlCdw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T09:30:00+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c6b4a94e3a8d0a0a",
+"title": "L&T TECHNOLOGY SERVICES Share Price Today Down 4%",
+"link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNnlSWXlqczQtOWFwdkczSlBNTEFiUnhlSEd1UjZDdGxnLUFJVXJXbVhhdU5Nb1JzWjlYWXpwMFVjckxfZzF3SUx5WHlPYWFMS1NSMlk4UEhlYm1pNmRoTTc1NHlOMVVFb1J4NlR0dXFUcGt6RDd4VVpXMm55SUJJLUtVZmVzekF6bVI0Y1FHTWI4bFkyM3FITVNiVXFNS2RvOFlXeU80S1NuSTcxUXFyQllyeEdzZW81ZzhVTng4WjBQbUtub2l6VXBGS2ZaVjZnYklTUzYtWkhRc0Rac3NGUVFQeDNmckZjLWJwSzdPd082NW84X1BMa2laTEFoWFlEdkVhOTR3ZmZpbXYzcDhFcER0eUMwbW1FRGxmVVgyLXd6V3BDV2ktOHF3?oc=5",
+"source": "Equitymaster",
+"published": "2026-09-29T09:26:00+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3056208bce39b23d",
+"title": "Landmark Cars shares zoom up to 12% to hit one-month high on M&M, BYD store additions",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEVGUk0wVVZnX3F3NWJBX213SkVScF9rekNwNU5VQU9BSmxVN2J3d1ZKZkI0Ujk2QW90eHNON0ZLZFBhRnhwT0pBbERPNU9nQXI1NHhsbWs5TWoxZ01uSENqOEZ2dm85TUluMlEySVRSMDEwTXo3M0hsWkVoclNkeVYxNlg5U2VjTF9rSnhLNmU4M0tyMDFkT3hTakx6QlFCMzRZYld1YTRiNGNmUnBIT1pYSExCYl9wUnRzZDNCdTVSMHVQNEFENHNmd193RURKaHRPRlVsaS1oUEEzcmFUU2hn0gHnAUFVX3lxTFAtbDF1NFVIeV9YQ2RVRnN3aE5WcEJYN25iUEF1bG9VNi1DWS1vUklOczdBcHUxVXgzLXI4Vy1Hc2dIN2dOOUY5YUZYcS1xdF9pRlljUXk3dktZZk1tdFR3V1c1UVlwMnZobFVYWU9iaHp5dTR4WHcwYVUxckx3NnFtUkVkZ0ZtSUR4ZGg4YjhpQlhMY1NFb3VYWEpja3BzWkd1dGlfZ19mWHNxNkYyX01uZ2pNM3MxYTEzdWt3VUpYZmRMMmdCZnhVd2dJRkdqR3pldkI4VVZLSDhlYlhDeGdiWWstb25QVQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-29T09:23:42+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5868586dd04bbfeb",
 "title": "Coal India Signs MoU With HURL For Coal Gasification-Based Urea Project At Sindri",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWhfNzhwUjU0RlE4NTFUMmxROXc1Ni1MVjZfNFVob0U2aXNhVjhYeDNpNXFkc0Eydklkbk5VQmQzekxjRlplNXkxRHBTSVAxelpEMnZNS1BPNE8tUzd6VGpqVmtBdmdHUTN1Q0Y1aE13S3JlajRxcHB0aWdRVklJWU5xd0V4djRBcTRFbXlnUVpKd1g3R1A4VjBtQ0lsNUptTG5PUXp0T0YwMHc?oc=5",
@@ -458,6 +522,42 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e53d7e4e3d17cd7e",
+"title": "Tata Motors Subsidiary Acquires 26% Stake In Mateshwari E-Smart Mobility For Rs 2.6 Lakh",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUFRabHQ0RDBTRmNydVdmTDU0cVJPblF4ZDEwNUxieUMtaVFraHdPZ19wc1hEeDB4LUc0aXdrX1ljTktmeHVUaWJtWmdrc18yUFdUaXkzT04welZkSFhJZjFHN1pZQlRuVHVjS3BwYUh4R1Z3ZC1zTUFPaTYxbHFrRDc4bjNmUDZOUFotVHkyZkt2d25wSXJ5ejc5WF9TOUlZNkFzQUdzNGktdkxmQWF5N0l4NDZHNFpGN0s2WENGTkp3TlR4b29qQk0zc2Fnc0tiaTN5akxlbmpXY1J2Z2Yza0tWTTbSAeQBQVVfeXFMTVBUWmx0NEQwU0ZjcnVXZkw1NHFST25ReGQxMDVMYnlDLWlRa2h3T2dfcHNYRHgweC1HNGl3a19ZY05LZnh1VGlibVpna3NfMlBXVGl5M09OMHpWZEhYSWYxRzdaWUJUblR1Y0twcGFIeEdWd2Qtc01BT2k2MWxxa0Q3OG4zZlA2TlBaLVR5MmZLdnducElyeXo3OVhfUzlJWTZBc0FHczRpLXZMZkFheTdJeDQ2RzRaRjdLNlhDRk5Kd05UeG9vakJNM3NhZ3NLYmkzeWpMZW5qV2NSdmdmM2tLVk02?oc=5",
+"source": "News18",
+"published": "2026-09-29T09:21:28+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "97e0015b036b2a38",
+"title": "Adani Power Q2 earnings: Announcement date, investor returns, stock movement since Q1 results and more",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVFN0TENxZjRGLVgxbHBMS1RHNGpUaTNsdl9obFR0bXRlUkw3OXdOSEMxdUJIak5HNVJtTE55Y0xZdENxS1J2MDh0bGIxN25SdWNyQnp3Ym1VY2hTU19mQ1k5dkxpWkk0ZWVBbm1jOWdWdzQ3TnBOZ2tiY1JKR1ZjWDZOM2R3ZURnQWZSZ2s5ZmNWRUoxYVp0aUZfMWFYU0FZem9fM2NuZ0w4MjVJRU9yYURhZm5oRng1dTJVSUE0M2dHWExhUjV4clUtVTRCUlByVDNBZUc5VFlmV2Vnc2ZlZkZNM3BxT2NwOWEyaWM4UHBqekNFYzRlclBIb9IBgAJBVV95cUxOZkZNWjFkSEt1eU9DbjZlM3A2WVJfWFU3dHFhSWN1TUJHbHE3bzkzSDRyLWU2LUxybEhhZFEwanBqbHBubXl0OEQtb1lqUWptMDhQUUM3VzJQdWJvSDFrTHVsNlJ4dTVWZk5qeThDZnJTZzg1cDlOMzJOR0VRcmVHeWpodk9XUXNQZldRQ3NmSy1HVmZ4bTFreldQYWhPQUhoTEpWSmZoSXY5cFZ1OUZTMjBHQ1F5ZThtWno0aUMwblVmUEdhYUNZUFNPemdiUGNsMHVUUVZVdGg5ckl4SW93aTY4YVdYejFmemFfeTAtWngyMEJCeWdHcVBubHlSLWJF?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T09:20:12+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -837,6 +937,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e98041f4895745fe",
+"title": "HDFC Bank stock slipped nearly 2% before Q2 results",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjNESE9CaXhHQkhuaU54OC0zcEFDdVlLdlVNYzR3Y0JvaGh0SFgxaTY2Wm0wRE5MaDJOWmw1LVkyN1lPcVlRajQ2czNVdXVmRVR3UXFWMHBueEpfMktaTXBYdkVCYXZhUkdhYng5S3QwWVptR2MtTXBLcmQ4X21RQXNnaEliY2dYMHA2UEc5UGc5eUdYT2FQS2pHRHZiZ3c?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-29T08:06:12+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -3342,6 +3460,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "bce094d215f9bb2e",
+"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:35:28+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "768185cc1184aa32",
 "title": "Adani Enterprises, Adani Power, Adani Ports: Why four Adani Group stocks are in focus today",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjB1UlEtd0pRbXRfYkxadnhsdk5XODM4bGRaVnN1OXBqSFN4VmNjRzh4R0p1WDNoeWsxbVkwVGdmMGxnZzVjTFdvSnd0d2F3cy1FRkktak5JQlhrZF84YkNGT1RwSV9sXzdpVmxDWHlFT1hMS094Qm5fbnFaRWF3emd4NllSR1pYeU1iSnA5SWJlNVAybFhranp2em04ZEtRRXR3anVFSDNsSEkwei1JVmVnTkZ2NVMtb3pRTGRyd0lYZl82NE9aOGZnZ0RtTEExSkt6NXBxaEZQNElRTWZ3Mw?oc=5",
@@ -3583,6 +3718,22 @@
 "sentiment": "positive"
 },
 {
+"id": "1ce99a76d374de67",
+"title": "Adani Ent Share Price Live Updates: Adani Enterprises Rises Above 100-Day EMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-enterprises-ltd-share-price-today-live-updates-29-sep-2026/liveblog/134555043.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:17:55+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "ee4fd3342749afae",
 "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Sees Price Drop",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-29-sep-2026/liveblog/134555020.cms",
@@ -3793,12 +3944,44 @@
 "sentiment": "negative"
 },
 {
+"id": "b93e31f7eb3f3305",
+"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Market Pressure",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-29-sep-2026/liveblog/134554743.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:05:11+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d27a6ff6fe867798",
 "title": "Coal India Share Price Live Updates: Coal India Update: Price and Returns Analysis",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-sep-2026/liveblog/134554739.cms",
 "source": "Economic Times",
 "published": "2026-09-29T03:05:09+00:00",
 "first_seen": "2026-09-29T05:30:12+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c953fd7a729bcc5f",
+"title": "Coal India Share Price Live Updates: Coal India Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-sep-2026/liveblog/134554739.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:05:09+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
 "symbols": [
 "COALINDIA"
 ],
@@ -8788,6 +8971,22 @@
 "source": "Univest",
 "published": "2026-09-28T10:49:00+00:00",
 "first_seen": "2026-09-28T16:59:22+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6e0664636ab932d2",
+"title": "Infosys Share Price Prediction for Tomorrow, 29 September 2026",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wVEJYYm9KRXpTLTFlUU9Ock9aNUNwYTRhU2l3R2JZY28wYWpBcm1tT3F5aFZSblgzQlZUTkJjVjhRSDYxbDZyaHBJMG5pb0hlQXlEdnEtaHc1cF9aWWZlTUdfcmZNTjRkQ2JYaDlRUW5sSzFEeXJn?oc=5",
+"source": "Univest",
+"published": "2026-09-28T10:49:00+00:00",
+"first_seen": "2026-09-29T09:39:15+00:00",
 "symbols": [
 "INFY"
 ],
