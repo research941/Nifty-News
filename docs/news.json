@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T14:52:40+00:00",
+"updated": "2026-09-29T15:21:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "282b509890d18268",
+"title": "Coal India Signs MoU with Ministry of Coal to Set Performance Targets for FY 2026-27",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeC0ySHpzd1hMSnozZkl0djExd0pXdU1ZODNVTHlTSkVjMlV6M2s2VWNpemFWVDBJOVo1aWE0T1ZSaWtlOXdRdnY1MWppVlo5LUVaVVIyS0pXS0tFMFlscms0b00zOU9TMDRkMGExWjQxMTNVMURkeVBRakRYVzhVSXhmVnptam9TWWhja0RQRVJUTmlUSVZrbURPc2hFZm5lR25NeWRfOU4?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-29T15:12:08+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "19be83b0fa5e6f80",
+"title": "HUL completes OZiva buyout in $86M deal as revenue jumps 80%",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON01aWkFkVWstYU9GN3NTbUlrekM2Tzhqc0RyaGptUGtnOWFoQ1Atbk1sMmlKM3pwdVJXVm5LZkJqM24xLWx4ZDBXV1JXLXB5SVM1cmYzZjB3WlRKaXozdElBRFppNnBDZFZZTW1XYjVyaVdzTExManVaQVRYajVDMnc1TEc2RWpLcWhoZUpJdS04OFFmdWw0?oc=5",
+"source": "Dealroom.co",
+"published": "2026-09-29T15:11:49+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results",
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "b485fda0e58d0a9e",
+"title": "Titan Securities approves borrowing powers and director re-appointment at 34th AGM",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDJmUllGUE51OWtCQjJURU02NjllZWFoYkdrTnhpR2ZPOXotYzE0NkN6emJrNm1PYUVkYjBldUpQU3EzNTdXcjNUSjdlT3NmTFpQY2tib0JzQldURUVHRkhtRzFIZU56VU8zeHJCR2YzS2xVYVJUNEhncnlub1o4YWtZS3dETnRwSVVXbVhzRldncDZsR2xENF8weTBjaWtPLVZPRHJmTjl6TF9FVmlLWG4zTnZHdFNMMjI3NTNOcDA?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T15:09:44+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1d69fc6ee28b2d3c",
+"title": "Market Trading Guide: Adani Ports, Rashi Peripherals among 6 stock recommendations for Wednesday",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcVVLbi1uWGNZaE5zaDRhX3lSZzZUWDNuVkl2ZmVjRmNCN0l5RjI2X0NIM3A3TC1Pbi0tUjU3ZmpVZGJScnR6SEN2bHBycFNkTWdnYlE1dEJ6dlhvcnJjM3I3RC16NzN5UWJjSDgwbEt0cktTN3R1b2NRUWRrRkJyVVR0cWpPSlVtUE5KWkZQNUJqd1c4cDk3RnNobGR5Wnh6VTFIMDJ3VXJJWnYtVHFTMG16VDJ1OE96Z1J3b05nTGdxb0hWZlRqakhyWkxHdENxcFd5Z2s3M3BOY1haeVZtd0U3VEZZcFZoaFNlaEl1QmVabU9neTZLWmVn?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T15:09:44+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4ba1d2171451525f",
+"title": "SBI seeks clarity on bank accounts under proposed FCRA rules",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWd0dERlMzAtSmU1bGFHaXJ2cVdWQzVEMUg4Y2VQYXdGQ1ZOV283QmhSQWJrUE1HMkxydFRDcHAxVVRjS05ZRFJEM0U2VXhSVFBWSWZtc3dJVTZ6RW5vRUt3U2xxWHJCQjdScGJucXNHSU4ycjd2R3VSQUpUUnJGWkh3elluV2dlTnF0dmhDYThLeUJJUGNpYm5OMU1NM3VQbFNnNzA3ZzRoRTVWOGNZZGJXcVJxQlRUdk9oN0dya1hmakFWMFY4RHU4RWxKMDhuNDZEMnlIV3pReUVXdTQ2UVFJVGRwQdIB5gFBVV95cUxPNWd0dERlMzAtSmU1bGFHaXJ2cVdWQzVEMUg4Y2VQYXdGQ1ZOV283QmhSQWJrUE1HMkxydFRDcHAxVVRjS05ZRFJEM0U2VXhSVFBWSWZtc3dJVTZ6RW5vRUt3U2xxWHJCQjdScGJucXNHSU4ycjd2R3VSQUpUUnJGWkh3elluV2dlTnF0dmhDYThLeUJJUGNpYm5OMU1NM3VQbFNnNzA3ZzRoRTVWOGNZZGJXcVJxQlRUdk9oN0dya1hmakFWMFY4RHU4RWxKMDhuNDZEMnlIV3pReUVXdTQ2UVFJVGRwQQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T14:52:00+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "39ebfef6fca63d85",
 "title": "RRB Opens 1,688 NTPC UG Posts",
 "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Xc2RNdEItbkRGVjdndkVfV3p5UksxRmlGQkcyOGNOQVF0NTNkWS1ONUJmTUxZU3AxTXgwM3U0WTNuSkFmb2ZsSXJBWHJXSXktazVJc19MSHBKeW1SNkNhUkJxbnhlamRBajdmRlVkdUg1TW5iYkRBRWhFWEk?oc=5",
@@ -660,6 +746,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1c3f56a2acd7da8e",
+"title": "How Maruti Suzuki is building the next-gen manufacturing workforce",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkVfNUhkSW13NE9tay1lTlk5cVFmXzVqTHFBZzRLX1ZMU1VwVUVpOXIzSGlpTlZlVjg1bDJ4Q3JOM0JhSWtXRkwzZ2JvaFFVYU9OcTE3YjlCOV9QRUhsWHVqUndUcnpmb0JlQjhZMFNiS2hIdnFJaXdObXlhMEw1OGRpNHlra3FNVzJxWk8ydWNjNktSbXNhTVVjZGoxbmh0MVJlWThDa1NvLXdrTDdaNjdvRmxsNFFfODdXMkVZejByOFFUWTl4YVNhWVZVc0VCNVpLcdIB1AFBVV95cUxNNkVfNUhkSW13NE9tay1lTlk5cVFmXzVqTHFBZzRLX1ZMU1VwVUVpOXIzSGlpTlZlVjg1bDJ4Q3JOM0JhSWtXRkwzZ2JvaFFVYU9OcTE3YjlCOV9QRUhsWHVqUndUcnpmb0JlQjhZMFNiS2hIdnFJaXdObXlhMEw1OGRpNHlra3FNVzJxWk8ydWNjNktSbXNhTVVjZGoxbmh0MVJlWThDa1NvLXdrTDdaNjdvRmxsNFFfODdXMkVZejByOFFUWTl4YVNhWVZVc0VCNVpLcQ?oc=5",
+"source": "ET Manufacturing",
+"published": "2026-09-29T13:55:54+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -883,6 +985,24 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1accfcc77a040572",
+"title": "Power Mech Projects Wins Rs 549 Cr Adani O&M Contract",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHpTZ2lqUkp0aFRGSks4U0dPeWVDNXN5VU1idUpXdFpYb2VKSzM0MExWSUZveWdRMkl2LVl6OGlqNG5aQlBQTloyQ2RudmJSWWJ3eUlMZUlWWUljYzhZelB5SExCcjB4YmwwazJrS0VvNXBkbkxqSDZYcVcxLUstTjBRX04tTkhTUkZEZmZRUVRHNm1nNldNc2duam5kQ2JFN05PS2tadmRBUXg4dXfSAa4BQVVfeXFMTWR6U2dpalJKdGhURkpLOFNHT3llQzVzeVVNYnVKV3RaWG9lSkszNDBMVklGb3lnUTJJdi1ZejhpajRuWkJQUE5aMkNkbnZiUllid3lJTGVJVllJY2M4WXpQeUhMQnIweGJsMGsya0tFbzVwZG5Makg2WHFXMS1LLU4wUV9OLU5IU1JGRGZmUVFURzZtZzZXTXNnbmpuZENiRTdOT0trWnZkQVF4OHV3?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-29T13:10:44+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "48060cba744f3b64",
@@ -1553,6 +1673,25 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "8036db7e8d9eb166",
+"title": "Market wrap: Adani Enterprises, Adani Ports, Titan…",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWl1d0dUbU5BOHphYk1zalhpOTNVWXZqanhlalVXTmh1dEJmTi1fdmNHTy1NelNGUmgtejJiVTZWcU9iTFNYdndfWkxYOGplZW5sdVRpS3d1ZGRlM1puSVZKODRfdTRBUVpmYk0zWGxFa3NXUGhXQ3QxemdVLXdENGVFdU1ZTE9rZUFrblhjbEpTSU5Nb0M0aFlHYWllZTUxUjhId3ZqbTdxZVRjekg3ZmtpTmRLSEFrZ0RTVVdzNm04cGotWXJoVUVaNjdRNUpiU1dkTDZpUnQ?oc=5",
+"source": "inkl.com",
+"published": "2026-09-29T11:45:00+00:00",
+"first_seen": "2026-09-29T15:21:43+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"TITAN"
+],
+"groups": [
+"Adani",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "497930abc59d2fbc",
