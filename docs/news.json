@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T07:31:04+00:00",
+"updated": "2026-09-29T07:47:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,106 @@
 ],
 "items": [
 {
+"id": "4f9ba675c0fe8e89",
+"title": "Tata Motors Subsidiary Invests ₹2.6 Lakh to Acquire 26% Stake in E-Mobility Firm",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UX1FERXBTd2FJbmJ0NlJlV3F4RlRYcTNKS1dSYmViYUZyZDNJWmFZRUZMUnh4NG5tbWJmMzc3WnZmWkdGRkhCTEVyeG5CZXNobTUwekxaT1pPamZFcFlOZW04WnIxSkt4Wm9UZlpkckpWdjhkNDFXNGxLQnkwdw?oc=5",
+"source": "APAC Media",
+"published": "2026-09-29T07:40:34+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "953ec4752dbb617e",
+"title": "Dr. Reddy's shares upgraded by Citi after three years, target raised; Stock gains",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjh5RXU2ajBhaVFyWVVCalFRMUU2aVJDUDBzX2xHUUZKLWhOenU0cFhwZ0ZmTWhBN2lESTVnSThLOFNRWk56TVR1Wm1vaExaeTBERUVMS2h6ZDhreXNNQ09Femx0LTRMbXU2Unc0TzFpMDQ5TGJkOU00VmFoRVRjWmxBZHZxUTFNdHIzRzNhSjFaMWtMdWZWRGFTd0dqQ2F4ZExBeWRHeEJRNlBfM291aFozaXpHT1c5UUh6YV8yRlhUVm9pYTF1VUc2WWxiYzE1cHNLRzBBNHFuRXRUeHRTSVpRU0dDOUFRa211RXk4UdIB7wFBVV95cUxPNjh5RXU2ajBhaVFyWVVCalFRMUU2aVJDUDBzX2xHUUZKLWhOenU0cFhwZ0ZmTWhBN2lESTVnSThLOFNRWk56TVR1Wm1vaExaeTBERUVMS2h6ZDhreXNNQ09Femx0LTRMbXU2Unc0TzFpMDQ5TGJkOU00VmFoRVRjWmxBZHZxUTFNdHIzRzNhSjFaMWtMdWZWRGFTd0dqQ2F4ZExBeWRHeEJRNlBfM291aFozaXpHT1c5UUh6YV8yRlhUVm9pYTF1VUc2WWxiYzE1cHNLRzBBNHFuRXRUeHRTSVpRU0dDOUFRa211RXk4UQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T07:37:34+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "0dff632a4c999fc3",
+"title": "Nomura picks Marico, Tata Consumer, ITC; flags 2QFY27 margin pressure from commodity costs",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYm9oQ2RwVXIzVnpDMnpwRmkxN1lhNThYX0pNV0dXNmNWYmxjYVRwM05hemg2MWJzenNNVC1NS3NadWdPTnlqSVEyMDdPZ1B5MlhzRms0dkFDR0JkQlpfQmhKemdXMVJqSldHVXBVUEU5NDBKRGYxa3BuemJuOGZQNkNQQXdyVmYxZTBZc0dfUHUzal9RSU1vdWtTWFlGNnJlcUZ4TUdyZ2hrRm5QM2U5QjBONElPQ2tCTTRiOFMzNDF6QjN0M182UDVUem41RU80UklvOEc2VVdwempQRzlDaHQ1M0FBQdIB6wFBVV95cUxOdWV0UVJMdkF1ZFNaMUVLaWpBSzFrVVZEelVvWm1KYXQ1RS0xZjkwZjFqbVhPNnNZZ0RMd09wUHMyblVvd0FEV05fVGpQY3RKSlhIV1h1bGl6Smt6UVVnbzk5WTlMNlRBaEdHZ3B1UUVJd0pKNU1sNUVuNWprS0FwV3FfbjlCUFlJSUplb2pGZWJINjVPOW9FQ0dqb1d2WV9iczhLb0otZGNXRUJvMUlxeFJKU0dYd2tBVkl6Q0I3OTZpZjIwNGFwQXZIanRsZktkYTJ6R1BHSUo4UFZEQmRzS3FVR211RVY1SGVN?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-29T07:37:14+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"ITC",
+"TATACONSUM"
+],
+"groups": [
+"FMCG",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9e07e83ab4eb38be",
+"title": "Jyoti CNC promoter pledges 10 lakh shares to Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU1F6NUQtYmlWcUVLNGhXbzQ3WS1WT2d0YzBaNlB1RjFWTjhUUzdzV1BFUmljeGhUZEtrZk5yQWtaU0h1TFNjeGRTdVgwZWhDMVp0V1ptdGI0b3MyNHgwVmN2VElfTGZBZ2J4c0JJN1JxbUtWS2Q4WWdvcmxjbGVKVkRwdngtbFJ2aXFtN0NNWTk2cmhlUnRMX2x0RkdETjBzVXhLcUF1R1hJZw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T07:31:17+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "609a6a45ff490fb5",
+"title": "HCLTech to accquire Robotiq.ai for Rs 98 crore: All you need to know",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0hmbExqbUxMdWc4NVpFU2VCQWRBc29GMTQ0V2l4U1hHWlFXNlRCX0ZUVXpfVURaMVZqajRtVldRUkdaNHJwT0s3VkhsRjBaYUM2SzJWQkhlUmw4NGp4Yk52S3Y1ZFRwZkNzanFIYmR0aUdRalZVSGFsZjNWcU9oOE1VTklPTElvQ2xtRm9BQk9XMjhUVDlzUHprUi1HUUhfbnV2Wjh4bldQRlRUY195bQ?oc=5",
+"source": "Zee Business",
+"published": "2026-09-29T07:31:15+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "05bc20fbbb91b126",
+"title": "Steel Stocks Rise: Why are Tata Steel, SAIL, Welspun and Lloyds Metals shares gaining?",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHZrekJxeXZYcDA1a2VmbUpPWlUzeWhBU25fMEozY3R3UTN6dm5KOThUNHdJM2tIQlJvNzZSaTR0T0tiUUNmanlmMFZ4QXU2ZWs4X1FIajZySlFpN0xRZmZsbU1NaUtrRldMTHBHUS0yempKamkxa093dXRvNU55WXV2ZTM5bV9xN1lISXlaZUFiNHhPenpmWHN6YUVXSm04NU9pWWNtM280Mzlad2hiMlJzNWFNOGo4VzlvTlNIbXBVX3RQS0NlcA?oc=5",
+"source": "Zee Business",
+"published": "2026-09-29T07:26:57+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e52c427b2cc5fff8",
 "title": "Infosys may move 1 in 3 employees into specialist AI jobs: Report",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTW9HNnEza0FycmhBcjg2RzJvMUpDclE3SkpMdlhnM0hkS3JKVXlCSEg2cVdsZXkwSW84U1JBbWVuMW80T21MNnZJOHkwaFhGMWNxTXdSQVRXaWdtUGdzNmI1V2lXd01xdTVpR2FWZkFsY2FjcHhyTzVod2gtdVlQR1YySFZUWl9EdHB2aXNBN3p2SFBleFFCVDVpUk5Zc2VkVDEwWlNOcGRsUVlOWnExcUJVLTFzUDdYX1VxaDhkQkxpRDQ4aXdTTGtWUnB1TVUwbUktbmdYVTJGdXd1ajdTdHZNTU9fRnJfWDJLUWZ5SGoxYW_SAfMBQVVfeXFMTk1vRzZxM2tBcnJoQXI4NkcybzFKQ3JRN0pKTHZYZzNIZEtySlV5QkhINnFXbGV5MElvOFNSQW1lbjFvNE9tTDZ2STh5MGhYRjFjcU13UkFUV2lnbVBnczZiNVdpV3dNcXU1aUdhVmZBbGNhY3B4ck81aHdoLXVZUEdWMkhWVFpfRHRwdmlzQTd6dkhQZXhRQlQ1aVJOWXNlZFQxMFpTTnBkbFFZTlpxMXFCVS0xc1A3WF9VcWg4ZEJMaUQ0OGl3U0xrVlJwdU1VMG1JLW5nWFUyRnV3dWo3U3R2TU1PX0ZyX1gyS1FmeUhqMWFv?oc=5",
@@ -696,6 +796,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "84495b3ab39b79be",
+"title": "State Bank of India - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVFJqbmdDWks3amFDeThMVGVFamZLM0Y4bmxHODRjdkJ3WnhYZ2Rrd3U0VkQ2UE43SG9xTkI0ckxLMGVGYUFEVVpVM2F5T0ZIQTgydmRjN0c5M0pFaGY5S2JWM05BNGFFMnRsV0RxYjJuUFFBWU9yay1nbG9QWTZfeGR4NnRDSEZOdng5Z3AtTzNoTjhZUEV1VjR0aEdMMXRlZWNYVjgwdVJsZDNHSkpyLTZRak9DZzFuZW9IZjZiWmxXck04VFRIMm1uZFZpa0NzQkFNbTQtVi02SXRLSUZxNzBpMWZJRi0wOGlxWk5nWklvM1N6UEc5V1JYaG1yTzA?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T06:30:50+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "cf3d8a229e0bc1da",
 "title": "26% dip in YTD! Jio Financial Services shares hit 52-week low — will trend reverse? Target price, support, resistance",
 "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNT21RNTM1YnR2dGNSMS1uX043N2ptMHBjaFJOcy1pN2Z4WjJsUE5WdWZ4QTJrZXFNaHRkN19nSGk2MUpjeGpiZlNoM1dUS2pXV2h2eW5GQnNjX3BsaG5QZDlMT0lpRUl0OE5namN3LWtmNF85NFhDSlFHWlRxa0xmYkFEVFV5ZVYzRFM5WEg0RzJDVnVDdE0wVmpmTXZVaHpZa0pSb1dtd1Y5VGZwSHdSZW1VbTZySDd1amxvRGE0NEQxV29qdXRMU3NwMVJYTHdkQ19QeWo2X0J3T21tWFFkaDZJdE9JMHRrNEo3MlNXbU5RRW5DSnRtbEk3SmdTdGlOUGxTa21ZZ09qQmF0MjhhUFR30gGSAkFVX3lxTE1PbVE1MzVidHZ0Y1IxLW5fTjc3am0wcGNoUk5zLWk3ZnhaMmxQTlZ1ZnhBMmtlcU1odGQ3X2dIaTYxSmN4amJmU2gzV1RLaldXaHZ5bkZCc2NfcGxoblBkOUxPSWlFSXQ4TmdqY3cta2Y0Xzk0WENKUUdaVHFrTGZiQURUVXllVjNEUzlYSDRHMkNWdUN0TTBWamZNdlVoellrSlJvV213VjlUZnBId1JlbVVtNnJIN3VqbG9EYTQ0RDFXb2p1dExTc3AxUlhMd2RDX1B5ajZfQndPbW1YUWRoNkl0T0kwdGs0SjcyU1dtTlFFbkNKdG1sSTdKZ1N0aU5QbFNrbVlnT2pCYXQyOGFQVHc?oc=5",
@@ -846,6 +962,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c1dc4076381f3adf",
+"title": "ICICI Bank - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS2JwSjVfUHEwXzl5OGs3b0poTFE2RUZaYllpNl9jWWRLZGQybTlwdmRNU202TjhwbHc4Y0p5dlNGQnBZZW1iY01BWjExUC00MDFkX2NkMkQ5WW5UZlh4aDFsQmNUWl9FVFBVMmYtZ1p1dWdJWmYzd3hHX3lkTGZSV29RVE9STDRzaEw0NjF5aXNXT0h2Qm10MGpnVERCTWpxX3pvOGFySVNKcFJwLTIzOUxDMW9uS01GV1d4ZktDQ0hNUHhQbDl3NnNDbnlIbTQ2cldwQmJFMm5Ma2Y5N3E4SkVtUVFMSUZHeGRQUXFnMW9PNDQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T06:02:19+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "c6818e152c87f8df",
@@ -2690,6 +2822,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "254e0e4c31a8d317",
+"title": "ITC Share Price Live Updates: ITC Stock Price Movement",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-29-sep-2026/liveblog/134554950.cms",
+"source": "Economic Times",
+"published": "2026-09-29T03:11:11+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "75e64d9ebb3de693",
 "title": "Sun Pharma shareholders approve reclassification of promoters to public",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNvaXlLa2g3N0JxeXN1YWhWWThTbHZaME8zSEljS182d1djSHVMY2JPTDBlZTNadHA3US1ibzNfUXd3dHF6Vjh5c1Nyc1EwTTJuaGExMjBBVEE0WWM0SHdSOXFWdHdsYklMei1VR2R4MUtLRVR6cF9xUnhDS3hPZFYzNDhUZzZTVDZ3YkZiRkVkSFE5UHR4U0EyZ2ZUM19zanFMYmhGdllRaVlkUXk1Mm9GM2RiVWZlQW1QRy1Wbw?oc=5",
@@ -4423,6 +4571,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6e8005683549fc47",
+"title": "Axis Bank raises stake in Axis Max Life to 19.99% for ₹380.60 crore",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRjZpZWgya0V6NmVrWkVpM2Z0clVKMG5TNHJsc0JDOEdiSlk5blRXeElTOUotZ0NBRmxobEllVnJlZmVhVDk0NDNUR21xZXU2aDFsaWJEa0F2a0hlWGUzQ1FQamFxQlA4MFhpeDYzVVN4bXFfcDRZUVlGZmhFd2U4bF9WM2pVSmhQY2JHczZRanc3NWJHSWp6bERWZHRHXy11Q1p1Q0hseVU0d1pzckFVd3ZaTFhIQzhIWGlHVHNWbUlwRWI4MktCcVVVS0dWUmZpNGx3OW5VWFFJUVpBWnJlenQtOUdZSGo4MDVjREJ3Q1JjUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-28T21:34:51+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -8117,6 +8283,38 @@
 "sentiment": "negative"
 },
 {
+"id": "d93740cc07f12456",
+"title": "Maruti Suzuki India slips Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlpxUGY4bS1aZmt0V21uOHBuUW9mRW05YklPZHBNdGlVZ2VzbzRieTlRUTJDRExXam83VklDVVVMbG5xa2Q4cFh4cWpJSW1TWEcyN3hYajMyVGt5ajNZbW1YeFV4b2NrTDhKUmJ3cFlRTnNWeUdMVEF4bVRNN1Nxb0FRd0pHV08zclhTOXF6QjFKSHZyM2dheUNNdHpzTXNaSms3bGVReE5GemVuRjl2WWZn?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "5792429a859b379c",
+"title": "NTPC falls Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEZpZEg3YVlPSG5OYURmQ1hJa0FmM0xWakxyRlJRVGIyYW9QVjRhZGlXX2F5QW1pbFJNaEVna1RmMDZ2S3ZEM2VGQ2I1X0l3cURVcHRGWndDVlNYeXZUOFlXQ01zSFFxbDhQSl82TzJma3hWcnk3RkJVZUE2TmxYMXFnUWZ5QkhoQV9tcDRORFBaMjNGX3JUZWRVazNjMzhE?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:33:00+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "0ae35cc8bbcac961",
 "title": "Hindustan Unilever slides Monday, underperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
@@ -8179,6 +8377,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "769ce8c44a3dede7",
+"title": "Sun Pharmaceutical Industries falls Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFN2Rl9Damg4OWtNRk1HZ016OHdzSUV3dG1RbzFweHp4bHZBUXp3emhoeTFkS2NWOWpjVHZ4RU5VS1FjZlQ2R0xsbHNPdHExSktYUEkxNkhZRFF6NVBEUUR4WTlxTnBlZS1taFdvT1NRM1ByQ3FuQnpxcEg4XzRsQllLNUtNai1EbDdOTllFd1dVa0JvX3dwaVV2Y2swSl9yTll4WDhlWVZNbGoyV1NJT3VSR0k0dEc2MjZfQkdudzdwUQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:32:00+00:00",
+"first_seen": "2026-09-29T07:47:31+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "0362149007c7d589",
