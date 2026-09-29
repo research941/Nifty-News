@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T14:37:02+00:00",
+"updated": "2026-09-29T14:52:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,70 @@
 ],
 "items": [
 {
+"id": "39ebfef6fca63d85",
+"title": "RRB Opens 1,688 NTPC UG Posts",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Xc2RNdEItbkRGVjdndkVfV3p5UksxRmlGQkcyOGNOQVF0NTNkWS1ONUJmTUxZU3AxTXgwM3U0WTNuSkFmb2ZsSXJBWHJXSXktazVJc19MSHBKeW1SNkNhUkJxbnhlamRBajdmRlVkdUg1TW5iYkRBRWhFWEk?oc=5",
+"source": "BW Education",
+"published": "2026-09-29T14:45:48+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6530383023d10551",
+"title": "L&T Finance allots ₹52 crore NCDs at 8.20% coupon",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnRYaGFVNDM4ZEhYZFhWVFRQcHJwcl9SSlZSc19zMi1BVDRWNWpaN2JKV3Q0bTZ0bWphUDc4X09JN1VUa3dRYjVBLTFGalR1ZWZ5a0Y5QXhUUTI1LUxzb2JDVWVMRWgxNlZhZzFLU3ZOd3lDTVpLb2NqbjdPaGVvOUUtS1c1R2tiLWVZUG5fUWNNY0hVSVlHa2VpbHdYbFVOeTJfZG14dw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T14:44:17+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10af4f646dcd78e8",
+"title": "Coal Minister G. Kishan Reddy Reviews Coal India’s Roadmap for 1 Billion Tonne Production by FY 2029-30",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEVyYjFUZFhjMG83RUdranctclBwdHVtRUdfc0NZZmRRb3J1aVhlQi1iOTE1OTI1UFY0dlZpb3NjcDJacXpmeWg2eTFUMEpNMVVjV0JUdkluUFJPdnZiendtRVlpd2h6dHEyU0JZQkJCRERTU1VDdUgzdkZwRTVPRVJsaHdXSjROTmVyZmtlWDhUMEFiS1ZhcHJUOXJScmJvS2xj?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-29T14:43:05+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "691a9717b1801935",
+"title": "HCLTech study finds gap between AI ambition and execution in wealth management",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ESjJhSzJJWXFmQm16OVdYSlFCYTBDdzl0aEFJZlZrTk5WeEs2aldFdEN2NU01ZFVybUVLbkpXQkhBSjdocVlnVURpOG1nc1NvZ01HMkttUXgtN01NSlZfV0NZeWxISGVJX2lOMng5SVEtRFNsek5sSXdGMDc?oc=5",
+"source": "MediaBrief",
+"published": "2026-09-29T14:39:45+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "468a659d0febe56f",
 "title": "Non-Binding MoU between Coal India Limited and Hindustan Urvarak & Rasayan Limited",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VbFRMVWh2LWtmTDVTYmhsQWFXTExaVm1jWExNRVBjTUwwcHk5MGV4VTlPZTV5NHh1dmJXOGtPNWwyWXJhS2xlNkhfUFZ4a0ZWZDRpTlpNOGtWR0RVaWc0?oc=5",
@@ -671,6 +735,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "100fa3175751f126",
+"title": "From SBI ATM charges to FD rules: 5 rule changes from October you must know",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmRvSHRRRFVVLTRlRGlZVkhtX1g4c0tZLTJXZ2EzVi1UNGswNE53RGtxbWtteElOMF8yaV9Bb2NzR1liVVlCSVZUb2tIRTdSUlRNdTdXejJYc2loOXl3OTNLa1Rhd0xmV01HSm5TbER0dktoTW5ESlk1aldGbU1UaGdpWHk4czd1Z25Ydnd3dGFGSmxzRFJXeVltejdpVHNXcnRldnJ1SnJUVkF3elFyV0taU0JERGlVMXhxUGlITdIBxgFBVV95cUxPN2M4dlV0cHd5SXcxOTd3LUNyQzRQeFh0VzItOHJZWEs5SjJ3cjlEcEdNMkdxSzJXbFRRWDlSSjYxektzbEZaRTZYRnd2U0h6NTRzOC1VMFRDa1ZWZUIzcDlYVGVoOVR3YTVZaDB2NVNkRDlKQUE0OHB3dUpWbkEzVjV2VlNiR0hKUjlrUWhCZGFtUGVBVGRIUHd4ampVYy1vdndUM3hka0RQMk9XeXpyMTZYTnZNSDFQSUgxZW1PdGxGenJfSUE?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T13:47:00+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "687e027593545683",
 "title": "Stocks to watch for September 30: Tata Steel, KPI Green Energy, Arisinfra Solutions and more",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVZobFZicHhiOUJJdW03d1AxVkFPbUNPSHhkZG94TkJkX0xaaG50MWhNeWkwR2J6T182elVKdjREUWxvZlRFQ2JfMWRya0g2YWxCNDZLb3MxM2tTMnBfRVVlQnR1OGI1UlpVVnRuR3F1bU5ZdmN4ajZPczFwQWdpMEw3eWNBdjZIaWl2Y1g2VmttZWtVTFRiNndYUC1Ub0NpTGdIS0wyN3hzeXhoWXRGN0xJWFdUcXU4ZUdCRV9Nbm0xX3R0QzdKTmY3M1RWQUg5SE53SUt3STPSAd4BQVVfeXFMTUR1WG1zY095N1FzS3E0QnBXQkNxSm1zdGdaa3NDeXlNMnc2Y2xWZ0lrSnZkNWtnZVlhNjJCTXV0ckc1eUJmVWZrX29STTBCVlI0QUJhZ2RhTUJTQmMzcHMyU0VCVzdPa3NsS0NTRy1pbzlCZzZuazZmUFV1cEJnSkRSRktTRUJXMnh5VjdoandNT0prbENqTGdBcWw1aXN2d040ZWR0ckFYRVI2MXRqT2xsaU1JVkxJWll2VHZIYlBuT0lMcFE1bjNBWF9uUG9VWUVBX1N1R0xhNmJMcmdn?oc=5",
@@ -716,6 +796,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9b50ab724f1b0a22",
+"title": "Axis Bank allots 116,086 shares under employee stock plan",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkFidFFJNDJqdDh1dFd2S3V0dTVHODBqWVZ0NDRhM0ozR2w2VEdCSklxVmsyNXc2bXZqdXJFMmhxMy03eWoxbEwtTlhGZGV0aFlaQ2NOYzU0bjRIcWtmWHJzMlNoeE93dURsd0lCb2MyRjd5OFpPTHhFQjlMeG9PNDg0bTFSOWREblFnZFRublcxVVIxWmdYMzVzUy1ZcmVHaXZIc084QXZwVUZWWWFMX0h5MA?oc=5",
+"source": "Investing.com",
+"published": "2026-09-29T13:31:13+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -936,6 +1032,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "dead5ce7a549a4c8",
+"title": "TCS Forecast — Price Target — Prediction for 2027",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rV0ZuMXRha21feEFIRDctYmc0cUZiNU9sVWNYYndBUDlDMHlHaHE5NW9zSFpSSFlsYkNza0t5Mmh0aWVYU1JHcUV3LXF1RFlCNWhXUXNrZlQtYndWUEdEQzlDMA?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T12:52:32+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f26c0180c4a4baa6",
 "title": "Tata Steel Acquires Equity Shares Worth USD 340 Mn in T Steel Holdings",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG9JZjF1M0prSldiN2Q3bmVfSTVodDNjbWNkb1dycEJzLVdQN2FCdldsZ3hBcW0xSDNTWGRqa3hMNXdVYjRkbXhia25ZUUtybU4tRUc1enFYc2lNel9NYmczaXQ4VlBONXFXMWF5V2diRXpEUlRVTzcyQUFPX0FIZGk2TjgtcnpQMzFoSzVYLWJtdDZtdWZkeGJ4b0tTU3VoM0c0OVNBRmpReXdNN3NhQw?oc=5",
@@ -967,6 +1081,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f231c007af684e13",
+"title": "Tata Steel Receives Favourable Order Allowing Interest Deduction For Fy2009",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFlBdHpMRkFqZmVHTTFqRlpwNmlVVHFfQjctdlJLb3R0U0dWMnJuRllkZ29sYmItWWZ5V3pfcnNpLUhXcW00cnlsS01JcEhTNzVYV1FIZXVGMHNERE1kekZDM05KZHFGSnNlbWVyODNQSHJMYy1XR1JlaG9NeFd5ako0RzJpRHhiZUxNRnQ0LVhXZWI3QWRpZF9lY0pRc2t0M2R5RFlCT1B0WHBEWERtbnZPSHVOZ1Fyc0tGTjdGVEJ0eVRqQjU0Zk5VdlJuOUc5ODJ0X2VsbExGcmd4dmc?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T12:47:03+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1780,6 +1912,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "09d0d87d395f19e7",
+"title": "HCL Technologies slides Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenJfWDZUek9TVzNtbzlKcW5ZREktQ3JJYTJ5RWRmYTUyaWl0SnlrS29xTDFQZFA2TUYtc3FQekJsRFk1akdlZEVUZW5fZExZRUpHdXRYWG9zX1ZJLWlZcWJhRWJxZFJoZ3FFcjgybWx4dWVzQkhUR1lhX2ZqM1Y5c21CanVLR2Y3cWR6RGx4TG9jLTZJRHFpUVN0SVZ0aUdHN0VWdVNfcXZRbkRr?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:33:00+00:00",
+"first_seen": "2026-09-29T14:52:40+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "ac842cae54120ed3",
