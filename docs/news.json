@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T01:31:37+00:00",
+"updated": "2026-09-29T01:45:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,41 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f1ab2d3576a92f62",
+"title": "Will Adani get an airline?",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXJ5dm5pLVk1VnVISnZVX1hOQ2Z6ZDdIVjZURTJxMVhSSE5OaGFDV3cwY244SmJicWhTMFRIdDlYUXNFVmVaTUZfdVVHRHBfdjdPZGZxSGoxaHR0b2l4YWpLUERWM2hIYnZRb196VWR1ZC00cDAyalR3eTNxMVhVdmVaUzY?oc=5",
+"source": "Financial Times",
+"published": "2026-09-29T01:31:47+00:00",
+"first_seen": "2026-09-29T01:45:53+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5b58910ae3b5da2",
+"title": "Reliance Jio Adds Most Wireless Users in August 2026: TRAI",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iNHZYeWRNcFRnSWVGRjZxVUs5ZUV4UlpzOFBlQnVBWDVzQ0pxRmpZWXdoVHFZcUJqRFYyY0U2ZWUzbHMzUGR3emJ2YlMyREI5ZVg2TjhONC05bkZob2JJT2FpTGJ4eUhxT3pNZ1k3bHBfT3VYTERndVZ6TzdtNjA?oc=5",
+"source": "TelecomTalk",
+"published": "2026-09-29T01:31:41+00:00",
+"first_seen": "2026-09-29T01:45:53+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "d56c7130239076c3",
 "title": "Stocks to Watch Today: Honasa Consumer, HCL Tech, Varmora Granito, Ellenbarrie, NCC, Vikram Solar, Prasol...",
@@ -477,6 +490,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48b6457842b25394",
+"title": "SEBI Clears Adani Group Of Minimum Public Shareholding Violation Charges",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaV96akltUC1wa1QwLVltSEtoMmdyN1NiZDVidVZwaS0waGRVam4xZGd3MEhaNF9NaVNhVGp5RFV6NG1ISWtvd0w0SVQ4bmdHQ2w0WEk1ZF8wQXJCaFQ5VURXblY3UzhwNWxXeTNVa1B0OThOdWtqekVjU04wOF8zQ3kyeS12YTBjcGROUzFkamxnam5IQU9BNGtnOEdxMXpvU2txTHNyN3NKajJ6MWJmbWdpR0h0OG8?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T00:56:02+00:00",
+"first_seen": "2026-09-29T01:45:53+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -4231,6 +4262,22 @@
 "Regulatory"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "61851cf551caab64",
+"title": "Larsen & Toubro slips Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeExUMGJHZ2ZQWF92Mm4tR2tRQlNFYXVsa21oRHhkUVpadTlkQUNRQjd3Q2RsbXpTTmRXRzZtSTdaSzVSY3p0TTVjU2FiM2c5M0t4TEJLbDV1TzliUDA4d0hGX0dBYm5jOE1kZHJVNFRHZUJ3NG9OaEZFVmR0VUdTSmpZWHQwR0liaGJYMmJqN2NwOXlpalpPOHR6NW90UnhSWEl0RE9aMGUzOTVNU3F0NFMtdmJiMlpoZ0FKTFdFZGFCSFpH?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-28T10:31:00+00:00",
+"first_seen": "2026-09-29T01:45:53+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "15900851f46b8516",
