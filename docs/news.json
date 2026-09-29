@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T15:37:42+00:00",
+"updated": "2026-09-29T15:59:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,43 @@
 ],
 "items": [
 {
+"id": "e26b808e1eb89716",
+"title": "Vaishali Parekh's top 3 stocks to buy: Vedanta Power, Kotak Mahindra Bank, Infosys | Target, stop-loss, market outlook",
+"link": "https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-vedanta-power-kotak-mahindra-bank-infosys-target-stop-loss-market-outlook-11790694178662.html",
+"source": "Mint",
+"published": "2026-09-29T15:55:54+00:00",
+"first_seen": "2026-09-29T15:59:33+00:00",
+"symbols": [
+"INFY",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "7805c1770f920d54",
+"title": "Tata stocks drop amid listing concerns; Titan and TCS lead decline",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzlGclB6SHo4ay10OUlBN3dIZlJaYTNzUHlEXzJSdWM2eTYwdjFFcGRtb3UxeXlWdGJWRXdjZWZWa0daS2ZESXhrZTByZlY2eTV3YmN2Ump5ZDZTWW5WY2dXNWp3cWU0YUJ1MzZ5blllWG5xN0t5TUluek1tRnFnM1JVcl9kYlp6OENMN0diUXA0emRuVVA0UDJMMEdlZHVRN2RyUE9OSXJTcHZid05KYms2N2xIaDh2NnhXS3o4LW8wY1hYME9jZm5tb0nSAdIBQVVfeXFMUGoxY05GaEllNFkzbFViMllNSENYQ3ZjZ1Mwc1VZLTUzOEtMd2w3blBIR2w4d0JqVDZqMnBGMDI3NF80UFdtYk1BVnN6dFZrWlFYQzAteTVsSmxrU0ZYMFdaZUc4enh0cHVMLXJCRi03T2xWZWxseWU1dHBVejB0X2JMZlI1RGN3WlZpUFI1OWI5NUVIMzFqSXNKNlJVdW1VRl96TFNMMDdoR3NubVlGaExvd1hIRVVRVzBrOTctMnJzU2U5NWJsSmY4WWRDa2tYY3B3?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T15:38:53+00:00",
+"first_seen": "2026-09-29T15:59:33+00:00",
+"symbols": [
+"TCS",
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
+},
+{
 "id": "282b509890d18268",
 "title": "Coal India Signs MoU with Ministry of Coal to Set Performance Targets for FY 2026-27",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeC0ySHpzd1hMSnozZkl0djExd0pXdU1ZODNVTHlTSkVjMlV6M2s2VWNpemFWVDBJOVo1aWE0T1ZSaWtlOXdRdnY1MWppVlo5LUVaVVIyS0pXS0tFMFlscms0b00zOU9TMDRkMGExWjQxMTNVMURkeVBRakRYVzhVSXhmVnptam9TWWhja0RQRVJUTmlUSVZrbURPc2hFZm5lR25NeWRfOU4?oc=5",
@@ -746,6 +783,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0f9e6db07b6a1b23",
+"title": "Telecom ARPU 2026: Verizon, T-Mobile, Airtel, Jio and Telefonica Show the Value of Premium Customers",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3dRLVdJWjBwejdIa3FKdjItZmx0aDI4MTZZT205MkFXM0NzdzdaZy14bVdSRjNSekFMU0p1cDljeGxWZ0FaVDFvbUoyVUhXaWdDeUZHQUNnbk1mWXJhNmo0NnI5TDBFakdkRlJibUJMZmV5bV9qS2VYcWRleDdyeTdEQ1JtajBpYUlodlRQM0xjWC1YUjJ2Tk5CSkd0cUNQWmxFSUhKVl9VdEpWSXc2ZVlDd1hHc2c3djVrcTlTWHhFZkRCNGRCaXJlRkpjWkpmMWpwbmJLRm5UZ1J10gHkAUFVX3lxTFA3WmZpVUNnTUZmZTk3dzROWXQ0emN0OEYzOHFaYUVoSEUwUUs2Qk9mdkdSb0ZCMENCZ1pCOHZxS3UweG1YQ2tiamQtLXFfR2tZd2N1cWc5cTdqbUtrN2IzdDhVX3ZiWVpkT0F6ek5jbEJWUFowUk5QNm1XREQ2WTZZSXdidjVudUdEWnktX2tleDNVM1VRclJZZEtFZUF1NHRuY0xDU0dhTzRzT1lQM2s5Tks0Wk5XZS15QWVhVnRrTFlFcXJ5TnV2eV8zell6SEJXVU5lZF9fZHR4eU5VMWNZeXpBMw?oc=5",
+"source": "TelecomLead",
+"published": "2026-09-29T13:59:21+00:00",
+"first_seen": "2026-09-29T15:59:33+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
