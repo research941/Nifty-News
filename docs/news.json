@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T10:42:14+00:00",
+"updated": "2026-09-29T10:55:44+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "45c7fada36a3fabf",
+"title": "Sun Pharma plans $1 billion rupee debt sale to refinance Organon acquisition loan",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHZ0QUFiYWZ1cGd5dEJCQS03TldOa2ZqVmo4elRrWE5SWTI3VFhHY0NoVjBvbElwOElBYjNiYkV2NWgzLXg5NTB3ZGpDdko4bHBlYlp2MWJRN3pPU0RiLVFRNlFveVdrUUpab20xekZQMGZmR1FaNE5fa2Z0NDBsakxvc2JHeXVRZ3JyeENoN25MZUVxcWNnLUpZbGU4Vkg4N2Ria2RLTUpFRXdmemtrUVFVSlpQa2NEa1N5NUg0NThfV3ZCcmh4T9IBzgFBVV95cUxQeUxWVnUxTmFLUHFsb21naVdBQm9vUTg2b09lM01Hdy1NTExYc3FXS291S25iXzN0bGVtV1ItT1F4cWNMbm8tNi1RNzU4TktXYXZQcVFRNFpxRWlQZ1JCdk96eUxzaEl4WURYdTJjUnFzMGx6QjN6cXUzYUx6VVpoLTRKaHducDJFaFRwRjBMRGk2ZVZkY3RsWGhucjZrSTZCa1YtS1Y1QUVFR2dLUnNvbzF0b29EU1l5VHc4Sy1yMFZCb2pXZGxZRHViZEpmUQ?oc=5",
+"source": "Firstpost",
+"published": "2026-09-29T10:49:00+00:00",
+"first_seen": "2026-09-29T10:55:44+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "172fa901a264b3b6",
+"title": "IndiGo share price: Goldman Sachs sees over 21% upside | Target price, detailed outlook",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOW9yVlhJWGxtMHdqMmR1NjE3RHVISlpZOVh2LWFpRUxvdENfRl9XcVFudzdOQVQ0aGstdVQ3QU0weURBQl8zWG5PQXhZbHlzb1NVZXZMZTJKQWo5Q2s1TjBUWW5NQ3dHWEdxbTgzY0lWQi1fbzF4S2VlZUZUWVg4VHBmZUt4XzlkcHdqQTFWSFdzRGkzMmt1V3JGQjZlcWt1QXhDbkU0SDRiMjFmNW92X0RPWHM2U0F1WVE1ZjNEVjdRMmFKbTgzMmJZQy1iSk5udlJfS0JxeXcwMGpMSDNnaVJTc1YtS1HSAewBQVVfeXFMT09jN2x1SllYTkk1SFc5VGRMQVRLc1JWMmdvU1M4a09LNGR5M29GQ19hSHdyOWVBLVVPRndfVzAwUy13ZVpnZGZiTHktVWhLbHJRWjNsOTlHVEVHbk5NTnRJMXN2Z19aZTRnVjhGSnVXZFItQ0prblVHNE1WcFNWUXRuS3dSMXJyeG1pWENGNUtFNGhvODR2Z3c0ck53SHVNdFhqNl91bnFUNncxUFozVElFTWtsaUc4TTJINklsWFR4ZXdnTllRcS12SHVFWUotODRYbkViWG4wa0dzQUEtZzlETVhXa20tSnBWLUs?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T10:45:17+00:00",
+"first_seen": "2026-09-29T10:55:44+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ac842cae54120ed3",
 "title": "NSE Closing Auction Session: BSE, Wipro Lead ₹24,504 Cr Rebalancing",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbVlseFR2SzlwdEVvS1Vvd0JpNXYtN2VZV0NyUkNnbWVQTzZJRHZMVFVkNlZ5djZVTXFHSlZKeVpqMU95OXVxN29Bak5ydGNQZE9zYjItRm1nenlDMTJYMU45UlJERTRHdDJ0UTJaUzlGTzlMQ0l2NFJoYjltX2lzdmh3NUNMX2VHcDY1MHZMdjBQb2xkcXZYWGE4QndCOTFTeDZDYTEtNHlDdWlwTTM5U2FOeXR5UnNfaVdFX3lVWXF3RFNGZ0hORG1SUjJaeGYtZkE1OUxZSW1ldm9IWXE0S2htV3lnbVF5Y05sOVp3Yk9pRW9QM1d3?oc=5",
@@ -456,6 +492,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6ce59781b74aed69",
+"title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcnQ1VGREU29jdGRRWGNwaEJ1Xy02d3ZMaVVoaHo1c3o0aS1mTlBlZXo2YlU0UFZzMmV1N2VFcGVYZFBxUWZLdEt2VmJvNzMxbnlHY21JN3NOc3NsZ19aTTZEZW1SVm1vT012Y1NGYXVHdVJDRXZaR01Felc1SHZLRU5IY1dtRnRySWlOQ1FRMlJGa1pHUDI3aE5GQm1ieUlZRTRFM0F4TEYwcGtSUWtodTE5YVBsenkxdlpaT3RFRG1RU1JzUzhoalNkZlJTTWpXTlHSAdcBQVVfeXFMT2xjT1hVaEJOb2JoSWN6Vk83X0tnTkdQWWdJWkVqN3FsMUVYR25yczJyYnhfLVhTZzBxWVZKUGNSTWdWQ1ZuaTh3VkN2cF9MOUloRVhRN0Q2dF84S3RWMDRiSHB4alp0WVBlcVZPNFpRclJKMzNZeWRzS1FHZmMzY0ZldWh6X0lHQk51Z1pzNUhEeU5XWmFuUGFiUzlqNmppUzdSaG1CbnNBM1RiTHREMkg5ZXBQb3VFTDJqLXBCWGJuam1scVdQbDhWeU1sYUNhZXh5YllEdDA?oc=5",
+"source": "Business Standard",
+"published": "2026-09-29T10:28:52+00:00",
+"first_seen": "2026-09-29T10:55:44+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -475,6 +527,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "3fb7456adbfb5591",
+"title": "Top Gainers & Losers, September 29, 2026 at 3:30 PM IST: Adani Enterprises Leads Gainers",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYRWE0RS1namY2NkZnSVN6aG5qOERVM0VOc2txNWNNZlpEZ3VzTHlWQkcxU2FsQVFUUVo3c3FVS2RzX1QwLXoyWnZlc28wWGtHaW9Jc1Ruam9fQ3RkM2pmQThVS3BLNFU5UGdaNnRSUUprSWhYOVJJZmwxV2I?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-29T10:25:18+00:00",
+"first_seen": "2026-09-29T10:55:44+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "b6fbbf7e8315f8de",
@@ -1011,6 +1079,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "46b4fe1d80409222",
+"title": "Tata Aeris vs Maruti Dzire – Which Sedan Is More Powerful? Check Inside Details",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaE4ycHNyZ2lBTm9XclBKbWR4ekxoQnNmaVExNzl4Q05jZ0MtV0ttZ3VycVhQV3ZaUDA5a3dhRGx0N2JIUGtERWtwNExFaE1LOG5CZVloazhnMlhQbGNpTlhsRDhGWjhOMnM3WHlOMWMzZkI0a0FRc29QOVkycjRkVDhIYnFxSkVEUzZ3YnhsUGFGa3E2Z3BJNW94RWphSnR5VEwwSkkxbDdDb1nSAasBQVVfeXFMTmhOMnBzcmdpQU5vV3JQSm1keHpMaEJzZmlRMTc5eENOY2dDLVdLbWd1cnFYUFd2WlAwOWt3YURsdDdiSFBrREVrcDRMRWhNSzhuQmVZaGs4ZzJYUGxjaU5YbEQ4Rlo4TjJzN1h5TjFjM2ZCNGtBUXNvUDlZMnI0ZFQ4SGJxcUpFRFM2d2J4bFBhRmtxNmdwSTVveEVqYUp0eVRMMEpJMWw3Q29Z?oc=5",
+"source": "Times Bull",
+"published": "2026-09-29T09:05:26+00:00",
+"first_seen": "2026-09-29T10:55:44+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
