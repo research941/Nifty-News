@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T18:50:32+00:00",
+"updated": "2026-09-29T19:01:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "faedf803525940ab",
+"title": "Reliance Industries stock after-hours: INR 12,000 crore debenture allotment",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdkFoZTNfZnE4M2w0UDBGZWVUNmhFQXJZWGwzZzVROWRRMk5uYy15cEVSWlZsdnFZRXdZdjVtSWM3UDUwc0FCMkxZZHVfTHdxd2wyZGg5c1V0OThLd21kdlpsTDRpZjRaQXpGRXZsTkVXU2thNUY3UnVvc1o4dWhTcVNrMmQwZl9iSHpfUzZDZktNdmJoOFZzSnpuQ3I2VUFSNFJtUjVORTNzYVhKUk82SlZpWHFGSUFwWW96aWVSSEo?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-29T18:56:35+00:00",
+"first_seen": "2026-09-29T19:01:27+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0ad3de3fdd6d37c6",
 "title": "Top stocks in focus today: Investors must watch Tata Steel, KSB, Power Mech, TCI shares on Wed, 30 Sept | Triggers",
 "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-tata-steel-ksb-power-mech-tci-shares-on-wed-30-sept-triggers-11790695244837.html",
@@ -456,6 +472,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c84079adb168958c",
+"title": "SBI seeks clarity on handling of bank accounts, deposits under FCRA bill",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSVhGajFEcXcyMlNHdklzRFFlWXdSbkthY0hZX2N6aW1VX0VqYzN1REtReUIzTHR6bkxmVGNITjV1blB1N3lfbmtScXhpUXQtZnRQX2J0OGdoMGtxUFFYZTQxTkhDTlRaTW1PbFZhdXpIc0gwSFBYUzgwWWpJRHl0Q01KemVXYkVOYWwtMGx3X0tPejIyM0pyYTBManFpaC15RlA1Y1FIREJENXQ0VEcxcDNVeXhVOUxBd25sazRjQ1I0cFdybkhkcEZ0N3J4SDFyTVFpTHkyaHZqT3hWcXfSAeMBQVVfeXFMTk03UXVrZDBiVFMwSlFBVDdUTk91aDh0aXRtYmVTaGhFV3RreTFMU19wNFlDM0dhYWhldVFla0p3QUhReVo0UjkydlF3MzM4R0pHZ2lyaXNlTEtyb0RJVDR0eGdjOUFxV2RVZHc5aEVtMmRFdTVQbGd4Uk5sN0NoS3NJR1FHd0hzWlhMaTN0MFItT1kzaHg0N21MaFhiR2pyZG9DNnE3Wm5sclBjMWpaQ3RNLVZkUlp3My1RZk5Mdld3aVVLMnVSVmhraFUzdHpTQXkxU3VGUmVJM3EzTzdmR1dRVjg?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T18:49:16+00:00",
+"first_seen": "2026-09-29T19:01:27+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -581,6 +613,22 @@
 "source": "PtboCanada",
 "published": "2026-09-29T17:56:25+00:00",
 "first_seen": "2026-09-29T17:59:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "46499ca205c6eb3e",
+"title": "Trent Alexander-Arnold handed first England start under Thomas Tuchel in Czechia",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWWU4cjZhbWNjOVlMdHh1emloOEFySl9JT2FzN3hhVWFIQTVvang0SGtQWjBlQ0tDTXNGQ3prdUhJOW03b1pqUDF0TkYzMWE0UGFGZm9NQVhmN2ZfUFlreVc3aFhOQVpVZmpEWHJIMDdYSHRNbzdoYk85Z3hLVlcxaHZEUHZZZVkyYVVnNTBlenNjcFBDQ3hPZFlxT3RGZmo5NWc0QmNlSXY1RUxiWDFzMTNMandoU2tHMVV2dUpaYUN2c1ZueVZn?oc=5",
+"source": "The Bolton News",
+"published": "2026-09-29T17:52:13+00:00",
+"first_seen": "2026-09-29T19:01:27+00:00",
 "symbols": [
 "TRENT"
 ],
@@ -3126,6 +3174,22 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "2dd6544dc0bc5a57",
+"title": "Markets extended losing streak as Sensex falls 243 points, Nifty ends below 22,750, Titan drops 2.72%",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNal9KU1hRUngzZDJ2RHQzOVd5WEwyWU5JY0NoUlhkUWRJMG1qWXpUb0xsQkdlSXNsajI4MUJoVHBQTE83UDROX0l2YlhTUVVyLXFzRUZaSkE0cUVreVRQLWNyOTlvbEZtYXhhdXQwTkhidTI4WjhGbDNkWXJFNXNlMXNyRVpyM0s4SXB6TkhWTXphTDdMLUt0c25rbDloWnN6TjVZSnMyYzgwLWxLakxTWk5zcTd5eTRSaVFneFBha0cxeEJmeHpKUE11U1BLb2FKRExNT3VzWjVXNk9lSGVwM09sUld3cTVNOExxTXpZaENOUUxHVU9Na9IB_gFBVV95cUxNa0g3MldxYWRxQ1RSSVcwWUFXZl80NkNoNzhiRU1xY1l3NDY2dTM5YWlxYVRtUW9qb25vVm9IcVd5bWYyTDBSOE1jbWNOS2swTF8wdEViV2JkM3B1TjBDQ2tZelJVY3R4bXBQVnlscHBCVU9DY3MwSTFoYTR4eGhja3MzLThzR1NBMC02R2dDQnMtLTdHR3Z1VmtLaHRqbHBZRjI0WlBOQW9Ddlh1ZlBINGZfSmYxcmpyOUlwVEJTWHgzVk5QWG9hd0VDV2VNS0g1UVdXbVBuWXFnaTVCaUFJaTBZcFdQUzh1a21nMnZoYUpJbTl4a0FocEFtSUZrQQ?oc=5",
+"source": "India TV News",
+"published": "2026-09-29T10:20:34+00:00",
+"first_seen": "2026-09-29T19:01:27+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "047088d8d1392f93",
@@ -50406,74 +50470,6 @@
 "Management"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "238d5c7556aefa69",
-"title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - update",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmNyUkgyUHVJNlpoRTQ2eVk0bTQxR2lITVJtMk96Y25FRE5vS3doa3FpUi1hdDhOaEZtRkgyNXlCQ1VYVG00dG41c1FtRkwzSFlsdFRFc0dJSEc3dXhCYzVEUEdKZ09Fb2E0QXJkd3A5OXRLMHNYQWh2ODdPVHlRNDdHR1BCRlFGZHRvVC1sbVNsNXFUOG1jSTROamNTRms5MDFxNWNiVEpKY2FaUWdrYlZSNm9GWTVaR2RF?oc=5",
-"source": "TradingView",
-"published": "2026-09-23T12:39:33+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "24f9d46a65cce191",
-"title": "Gautam Adani overtakes Mukesh Ambani as India’s richest with Rs922 billion wealth",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckVMUXNuSlNQcXR0WFcxOWRqdTJFZG02TGk1czY2M2QwdHVRWG0wb0pOSmNmelpybmVMOFNxT0NKajdUenZSSGdsSm1qdXhiX0tYYVBDenNWYThCTl94Vi1KbzFiY2dPNGxGaTk1UzhqR25ycXEzTnREb3ZWNHNBRmFWd3dWaUVvRkFPcndvM1dINEo3WUdTVnYzVktidkpNWkxaUzZTMTIxdlJBdWpoMjllai1POVNxX3pyUVR1V2ZIRWdqY3dwM1Z0SGVlamvSAc8BQVVfeXFMT3JFTFFzbkpTUHF0dFhXMTlkanUyRWRtNkxpNXM2NjNkMHR1UVhtMG9KTkpjZnpacm5lTDhTcU9DSmo3VHp2UkhnbEptanV4Yl9LWGFQQ3pzVmE4Qk5feFYtSm8xYmNnTzRsRmk5NVM4akducnFxM050RG92VjRzQUZhVnd3VmlFb0ZBT3J3bzNXSDRKN1lHU1Z2M1ZLYnZKTVpMWlM2UzEyMXZSQXVqaDI5ZWotTzlTcV96clFUdVdmSEVnamN3cDNWdEhlZWpr?oc=5",
-"source": "Gulf News",
-"published": "2026-09-23T12:36:47+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT",
-"RELIANCE"
-],
-"groups": [
-"Adani",
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ba7ce7849e361e05",
-"title": "Airtel Money gears up for London IPO; looks to raise $800 mn at $8-9 bn valuation",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmF2eTlwTXJRUktOMHhfYTBtSmpBTUpqaDdCVkFiMXgtcVFuS3R0Qjd3VS11YjF4dWNhbklTdFRzWURIWkZhQ1h0aVVvajZCNTFFZmJxVk1mc1prT0JDdnV2aE9rTVh0N3lGU0huenJnRVJUcktXaXA0TVM1REFxN1FYZmZLOEdISjNSRnNoVXVCS0FjdVZlSXJZVDZzTWdZbm1ibGNuZnM1eHgwcHliemhiNUhsdEZhbWhDdzdqM2Q1Y0Zy0gHSAUFVX3lxTFAxVm82bE9qWTJJUVhHdk1oYzZNYXdEcTI5cE1sNHVsT19fNU54VEQxVnhnSVZXWnpZdXQyREFWbHQ0VXdVMndiYnlXS2tkX21jNU9YMU9uc2pIVVhNTXdQM1Q5VVRrcmNFSVJjRk9COWxZUlNsYkhfRGRldmZlZG9JZGkzNFkxUDc3dmdLaHkwYkdwTFEtTjJPMnRtQ1hvTWZYREZCVW85SUpQQ3U2aExNYzFVbS1oTTZtaWNYV2E3YmNpTXJPY0JaR3lFdkF6aG1FZw?oc=5",
-"source": "Fortune India",
-"published": "2026-09-23T12:36:03+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8384ee113cb6ca17",
-"title": "Gautam Adani reclaims India’s richest title, wealth rises 13pc",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzhtc0JTNGN5ZFVfU3JGbF9zZi1lWlNrQklhOW9TREpnVEVrLU9zM1Z4V1psTnk3Qk1abTBPYkQ5eFNic0l0X3ByTExyNDNVcjkzOFp3RFhGYklBSU96TXB3S3R3bjR6SmxMSzNJZEdHRVU3VEdZYndQN1JoVTk2SUhNTHozSDVtdEhZYW11Qmk4ZmpYNTJ0ZU9mc3nSAZwBQVVfeXFMTU84bXNCUzRjeWRVX1NyRmxfc2YtZVpTa0JJYTlvU0RKZ1RFay1PczNWeFdabE55N0JNWm0wT2JEOXhTYnNJdF9wckxMcjQzVXI5Mzhad0RYRmJJQUlPek1wd0t0d240ekpsTEszSWRHR0VVN1RHWWJ3UDdSaFU5NklITUx6M0g1bXRIWWFtdUJpOGZqWDUydGVPZnN5?oc=5",
-"source": "The Siasat Daily",
-"published": "2026-09-23T12:36:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
