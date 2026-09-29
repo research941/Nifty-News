@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T11:59:00+00:00",
+"updated": "2026-09-29T12:25:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,168 @@
 ],
 "items": [
 {
+"id": "5626588eb82dbdf8",
+"title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
+"source": "Economic Times",
+"published": "2026-09-29T12:23:57+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "9529afbda7c1e077",
+"title": "Axis Bank Allots 116,086 Shares under ESOP on 29 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObndVR3pwRmdxb1pfYjRvQ0V6bUlOaFRBQmVoUkpHM09BVU1ZSE0wNUVMc3VkYWR0TXBMZExZLXdlVU5hX0I2N1lVTzlOcDNCdEExUWw4SXktNWM4M2ZpOHFpQUVVdWdGYmR4ckdsYlNHbkRHVkNPS2xnYjR1elQ2SVBvRTBfWjZrSWxHbWVZQXJoc1FyN3RUZm93?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T12:22:00+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "74894f0acea21495",
+"title": "ASICS Joins Tata Steel World 25K Kolkata as Official Sports Goods Partner, Brings ASICS Running Club (ARC) to East India",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONjFWZnNBOWI4OGs5SGZSR0owYmh2MWVXV3NqWFRwZUItZms0eV9NbjJ4dVV5Q2FFTFBWcS00MzBUbHRFdUQzMFVtc21FalNEUUVBMlFMWkhZX3M4OHY1ZnNlckh1NVNiWjJGX0NzUjh4TXhPVklnZDhpcmJVVmlnZ1pHQ19lRUdPei1vY2JGVTRHZzlKNExGdGV1bUYyQkhUTUtRVTNwVTRMUHRpX1A2d1pycUN4YTlLNWJESkQtclpzTGNubU94SllpZ2JvTlJxSGlHaUZfTTFqR3lNaFB5NkZPclZjLTFJRW03aQ?oc=5",
+"source": "businessnewsthisweek.com",
+"published": "2026-09-29T12:15:33+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bfb0c93a6f0a0b46",
+"title": "Beyond the SIM: Inside Jio and Airtel’s high-stakes AI pivot",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG5taUhWOTZCc1E5clljRkVzVXkwWkw2MS1vWC1VU3RHWXVIWXZtenBPTzFFbVpIa2k4QV95c21weURPOGtCbnk0bXJjSDB6aU9SZXhxSXJWd0I3cW1ZU2JHN1ZQR0xOa3ZOR0tRdVA1bUNDUEpCNk1xYXU4MkktN0cta3pFZ0p3VzlBOERUc3BQREt3dVo4bHg1bmxqWmg3RWJRbTJKUXRkYUZvSVN6SGZxRVNSa2RWVlcyWmNSVTM4TmJVQXcwQVpLVno4WlYtSnNkT05UMF84UGtXdlBETU9wWEY4UdIB3wFBVV95cUxPcTNzMUJoZ3UwcWNseTIyeW5XUERWa0UwaVZRT3J1Y2o3cmEtVUMwUzN1cU1fdVZGTVVYbGJNWjlZcFpXQUxSZ05Gc1FrcTdLaVItdTN0bllLc2tnd2lNa05raHpObkp2YnBOVmpFMUNscXRnVEZkRlQtUk9uMTVpd2NBWUhuQ3ppNWVSbEhnVV9PQ19uLUFQVHdGU21uMllQLXB0clpMVkFkX0FEOVBhWndkbi1qUG1raWtjNVp5SWFwQy1aWE9zQ0xhb1hOdkxsYUxVMjBVRGRMZmtvbXBB?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T12:15:01+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6254ad97b2242b52",
+"title": "Bharti Airtel Pays DoT Penalties of ₹1.41 Lakh and ₹2.12 Lakh for CAF Violations",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDZvVm9QTERiMnZyOXlaR3NRQnZZeXk3a1JlcTFCc0NqaUNDUEpIODhlelQ5XzdZVlJrdWkzYmNJSjlMU05sU3JEQ2RtOW1fZGloYXduT01CbnF3MEtVUkVzQS1rQ3F1ckRrMTFreFdXcEZibk5MX1MwdEVDZFhzZjF1dkNGWExCbnNmRFdvZw?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-29T12:05:00+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "64ea94342d95f895",
+"title": "Coal India and HURL Sign MoU to Explore Coal Gasification-Based Urea Plant to Boost Fertiliser Security",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXBOblpxRk44THd1Nm1xNG14MWhZNUktS0JXdi1hR3VrR0RoanU1ZUswOERyalBiRGk1cExGSlBtX3VxVVZfcllqOE9PN1RzR2FFMW9WQk5rMEs5c3hJczhXc29GZDNVaUFKQWYxR3NQZXltQmNFdGlEcFowQ050UlBzOXNsTWltNm5xcDdZSkRUazZGN2NUbHJ5QThKaEE?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-29T12:04:49+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "86b19be34278a4e9",
+"title": "HCLTech Arm to Acquire Robotiq.ai in 9 Million Euro Deal",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpyWld0SV9zYWRia05jRjBXRHZTR1kzYlBwalBrSzVCT195WUJ6NHpoanM5NVJSUTEtRlVxcVJBS09mYlNTeE1TVDV5bDJLWVNnSGpSdzU0cXdpaHFpSmNtaEpPUERKaXV2T0NzN2pPRi1pQjhfRk1ucnNrSEQtaWMxUExfY2xXbVNkR0RQdw?oc=5",
+"source": "Equitypandit",
+"published": "2026-09-29T12:03:00+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0d60b85b21da5031",
+"title": "Tata Steel wins tax appeal, reduces exposure by $51 million",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXZFQkMxaHhoSXJEM0QtTXZoZFhtNFdVMXVSOWdtTEdRb295SHBzSlBSVDkyM3Fad2xlLVB3bWV6OERtNzV0dVdZTGFjc0NhSnlldDB4R3BSQ3BsS05id0ZpSnUzNGdvNVFWaGxuamtTLUJUa3BDLV9jaWpzS0FrRXo1NHFva0pGR1Vqb2M2NFJCZjFoYlI1ZVptbHN2WndMWDRSWC0xYVo2Rm1tYXk4QzROSE9XaU9yMnc?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-29T12:01:35+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "6920c677a3670b23",
+"title": "Stock picks during correction: Coal India, Sona BLW, Blue Star form part of defensive watchlist, says analyst",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQREtjMUNJQTdIWk1TZ1B2SU9vNGw2YlI4VnJaVmRXM2NtLXM1anNVV2E2NDYtOEJCVEI3eUdyT0lKM05rWEtaSXRuX2VYQnVsR1RGMmZ6VmJDSGd4QzBpYnM1cTFvaG5TcFJCZTl6d1MzMWVQcEFlekkwdnlrTFR3c0M2ZmxLMHZ6TEVkQk5HUE4xOWV6eFhzVHdqXzRtTnlvMHprZXVDWFNqajV1LXFQM1gtZVJON0lDLXZuV3ZMMW1XU0w0SDFjbWxJRTVXY2FyLVhmNUlPUFhqRmFaUlN1eDFpMDBmdlZfR1dhcDQ0aTh5VEFjbllBN0hFYlRQOUI3RlJ30gGIAkFVX3lxTE9URGJ5d2M5REktSmVkWUFoSk9XWXEtSmFUQ2ZOc0RWUE1lZlVham9Cc1BkQjdhYjNlWWVfbnRlSDNLeW5tWWNIZ1hMSWpOdF9TeFN5c3pzZ1JkbGoxNDZ4a1RUX3hmRzdmdWtUZENEYm5odXJUMF9RRVNoUERFVnJCVkZSeTljRWphcG9Zb0trUTZ3dVN0SlkyaDFOaldoUWxBeHpManY1a0RneGpGd0hUcGphQWdfVTNRejZqanhXNHphY01fTmwxRFo3UmMwOVBWREdyTzVLYTdJWjlOcGdIdjE3c193dEIydS1sb2d5SFo2eTNONDJuTHpkZ2FwelNmOTU2UlVHUw?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T11:47:22+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b65461aafed2c2af",
+"title": "Tata Steel gets relief in ₹427 crore tax dispute, exposure set to fall to ₹1,259 crore - CNBC TV18",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSk9BYVRaaTkxekhYTlFuN21vYnhvQldYZTZvSjI0WDZtZThNMmllZWNWTmdEczNIT2dJRS1UbzZUN2N5OUdIUDR3YzJqT2VKYTdobmJSeUxHVkptcU9zbUFZQ1l4eGJXb3U5M2s1dWh3OVctdmNuN3ZvMk5pNm4yWVJ3OEJVYzJZdk10bmJpbWY2LWFnTzRsNGl5WW1naDZuX19YZDYwRFloamU2bGdVNmhiX3U?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-29T11:46:40+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "82ecf056fefee66d",
 "title": "Indian billionaire Gautam Adani settles SEBI ownership case for $154,000",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1pvRkdOQlI2eG80ajRFSTI0TFV0eUVDS2tVRzg4VHhmN21SRWloN1BfUzQ4NGFNdE5qdEthT1ZLNGVOOEZNSUI1QXNGblQ1Z1Z0SFUzNTVBV1B2MWpkWDJkZ0tQeE4xaFZsUXU4QjBGNFBLVkhoaUpLcENTZnQ2UHNhT2V1ZTcxY1ZxUEM4M3F0OU1LM3o4eWN3OTFvTG1SOHBaM3NsNWJWTDVFY1ktU1BvZnZWUQ?oc=5",
@@ -482,6 +644,46 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "ee82f86cbc9cbb52",
+"title": "Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sensex on Tuesday",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-adani-ports-titan-company-wipro-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134565034.cms",
+"source": "Economic Times",
+"published": "2026-09-29T11:45:25+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"TITAN",
+"WIPRO"
+],
+"groups": [
+"Adani",
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "497930abc59d2fbc",
+"title": "Mutual Fund Holdings: Axis Bank, ICICI Bank Overowned; Reliance Industries Underowned",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXVjcWgzRFVhNVdTMDFWbVZQdllVODFEbFdqenBia1hWZVRDdVdUVXVQLXJ3TG9yeDR3WXlQcDBxQVQwMFlEd2ZYa0ZTUUl1MVJwbURJeS1XSWVVeThfV3hDR1duYkI1UWEwcnFabTlsVUFDR0liRHo3bzg1QmZ4aTV3aTlodG81OTBEUm9ydG9tWmN6aVZKVUJsSFZyVDFfZGV4MTI3NUpwWkdsU2ZRSjVEc3BxYm15Mm9yeDFwbEhHUWZkZHZCY0N3QThFV1gx0gHWAUFVX3lxTFAzTzc4NEFMTi1mX1lGTFhrckExeldFLVJhRmhQMGFYNkdrVlhOQzhOU0NHbzhZeHpIWktIQXFfZVRpWFNKVV95dmh0WW1PcW5sWUNlejVHN1hMYlRYd3NOZmZRUlJJNzVfelhUbHMtSVlpVlJscGhDX0hDZXJ2R2Q5LXZJRTgzOFZhOElxRVY0cURBcm9HeXJocklmaXhEMnJKNzZWQWZrYm1MVUFlQmRmU0JUeElXQVpOdUtEMXowaUFnS1lCNTRRdEhpTGU4aXdFOVpJTEE?oc=5",
+"source": "ETV Bharat",
+"published": "2026-09-29T11:42:36+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"AXISBANK",
+"ICICIBANK",
+"RELIANCE"
+],
+"groups": [
+"Banks",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "482f939d1d9449e6",
@@ -563,6 +765,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7a21c6fa9226d66b",
+"title": "HCLTech To Acquire Croatia-Based RPA Firm Robotiq.ai For $10.2 Mn",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkROTk5IUXJ6Y0k5TllPbVhHd0E2dkE3cFJ5M21GT3Z3bFRrT0p0cW1lQ1RoRUpQbGlPY0ZUakZHamhxbkRVTnhQeW5hdXRyVF9Ld29aVmZKVDlHR19ZcERkWlhEbWFnRGFRZlhhM0NjRVJ2c0VrS0c1MnlBMkpyRGtKcTZ5NzYweVNzWERQR3Y0MmdjWURWdUV0S0hSdklNakhLb3VzbXRfRTNOdE9Ma3pfNjgtWmJRVzBLOW1B?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T11:32:38+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -831,6 +1051,22 @@
 "symbols": [
 "ADANIENT",
 "ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "97d84a895081c663",
+"title": "Adani Enterprises Ltd Rallies 4.92% and Approaches Key Moving Averages Amid Mixed Market Sentiment",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMU1BQ25nR3dSMHVlZVhxOWo0aDh5bUpmaEpOTk90WUZnWWlMMlRxZ3hlaG5leFlnVUZxdlpRSFRQdk4ybGdvRGk3VVUwWnFJQjhvSnNpSERzOWpQVWpqeGtvdEQxWVprbFlfbWI0MnZWTF9uNlE4MFVyOTFvMlV4cXctY3VpVHplZE45Ri1uTnBDQ3c4R1ozOVp0NC0xN3RfNEwzUks5SWloRTBVOUx6ejRUN1l6bW1ZTWVZYk9tR1ludldwUXYw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-29T10:27:07+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"ADANIENT"
 ],
 "groups": [
 "Adani"
@@ -1163,6 +1399,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4408981977cfda82",
+"title": "Jio adds 2.4M users, Airtel gains 2.1M in August: TRAI | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDdGQUxzbUZFTlNpUFYySmRQcnB1UUlpWW1PdC1RcXJvUWI0OEZBVVlrazV5eFR6eW9lTS1oZFh1RnVzT2lteW9BR3BLN1RQa3hVM0FyZ0k2eU44eWlfN3A0SjJNS0EyNzVRalVJbHlzelR1SV9zYVBXUl93OHV5R25TSlJSbXBESkhwMHVTb3Joa1JlY2xWYTk1aFRtZ9IBowFBVV95cUxPclpmUTdfZm1CblR5NldjR2lLajVMM183UEtIRl9jaXJuSklYNDgwMmhzQ250TFUwUjA4d2lnMWVyMUtELXpaNjBrM0xoQnIxdHN1b0lkU2VsRDFaU1Nub3NnTTRQUGE1Wk5XUjJ1SnQzanlzVWs0bHM5bk5lV2gtM0FVclB1VFhUc1cyTjQxYVp2RTViZUh1eFpjazJfUTh6MnRn?oc=5",
+"source": "Inshorts",
+"published": "2026-09-29T09:56:12+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "fc7ed6c5e48576fc",
@@ -2896,6 +3148,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "69269b9c50e1b795",
+"title": "Infosys Eyes Major Workforce Shift, Up to 33% Employees May Move Into AI Roles",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmN0VHMxS05aR251UGE1bjMyNWI5Q1ZRRndmUVpqd3R4eGVZcXJpczNtNFNiYVNEa1VBa28xdXExd1NKa1RWdWRQNkVVRVQ4bUlaRUU2NUx5NjNRZDA5MS13aldPNEd3OXZmanRyUUpjSGxYMWFKS1RQSjJ3MHpIYXZ1UjFScldBOWw5djhZTDhYTkdkN0lmU0JFbjl5VFpVMGlkdlAwck5yV1h0NE00Q0hB0gG_AUFVX3lxTE9lcUFFdDdUR19tTkZlUXRtNm4yQm0xemFWZmZaZGNxYUQ2LVREeFZUOTQxLWpoQlRIUlE1bVFGRWkwRHNibWF5bGVORHB2Yk82bUhtbjBVQkRRMUh4eWRDam5hR21YT2NxcklRU3FLaEg1aGdSU2xmWVllVDZVN2xoSElqV1o0ZS1iVXAwYWJ0YlQ1TGZJNE9yT2xfZm9uenlYclBPREJoRFQzeFNpdFIyNFJJSy1Nd29jOF94QWlV?oc=5",
+"source": "digital terminal",
+"published": "2026-09-29T06:10:34+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -8458,6 +8726,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "93882194a40541ce",
+"title": "Financial rule changes from Oct 1: SBI ATM charges, UPI MDR, FD rates, NPS, LPG subsidy - All you need to know",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1YxMmRIT091ejhLRmZyY3JzdG83MlVSWXItN0xzX2dFOTY2a1JlZnh6bEZVdFFFeHR6cndyUktJc204U0R1WThfNVBWSGk4bEZVWXRmdEJYRlFZeHh5YU5wREVva0dGZ2JnSWRHMVFvejlIZTJBS1FTYjlKQW91eVJBZERDMGRCX1NTamNiV2U1R2FweHVRRjBTOGFoeVZ4R3lpeWhqR21uVkpXMENDWlVVRF9FZ1BHQkZtU2ladlZMb3NSUlY2eGpjRWducXlRWkhLQ3VOZEpwQzlMN3B3dDU5c1ExUm4yODR4b2l6c2xiTEs0VUZR0gH8AUFVX3lxTE5IYmNwRTR6S0NtWEc1UHFqY1doUEVWNWV2VWhtcHE5VldkN29mMzFXMUN3eDk4aHdwVTJPM3Zqb24wZFpHYmdsYWJLTFpneElxeDNrbmlUZVdDNGxUTkNDM0pvZGVjSEhINnV2TlRQLUhqME41VGJocHp3NndqbER0eklCUGtsVjFabFRTTktQYUFaNjlHNFBvQlNyTWUtZk9wU05fRXdIZnZLVUl3X0pyVHplU3h1YXJPU3lLWnlNRzJRY0dDU0RtZlpOby1qRENiYmFvVV9PbHZTN2hRR0xERUFmY282YU03eXNPTExPaEJZREJCSm03blZZcQ?oc=5",
+"source": "ET Now",
+"published": "2026-09-28T15:23:10+00:00",
+"first_seen": "2026-09-29T12:25:25+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
