@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T22:56:09+00:00",
+"updated": "2026-09-29T23:17:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -473,6 +473,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "18c90ba7aba964d5",
+"title": "Market Chatter: Apple Pay to Launch in India Tuesday With Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjF5T3FGVmRxWFJBQlBid2hNeEdjTTNtRUxKVVVGT2xmN3ZXT2dPbDZvUk1ISE83UlRXWWtHSS1hTUhIckRMQXRTY2MyczhBUWxBNzZOazFNSlNITzdOb3NnRURKVk9QVktJS3VvV0Y3NW1rczdaYmd5dzg0SlhEOGkwdXlwYzhPd3A1LWZZYkJLaHY2Yy1VU2dLYVVUWDFBN0E?oc=5",
+"source": "Moomoo",
+"published": "2026-09-29T21:56:34+00:00",
+"first_seen": "2026-09-29T23:17:25+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1240,6 +1256,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "513abeca2f6d9096",
+"title": "Tata Consultancy Services Limited (TCS.NS) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BSy16NndZSGpmME05RXVyV2lZLTVNYjAwZUpqWkFkemk3bWdJUGM1STlteGM0Z2tfc2pzMjR5SGR3eVRZRm5XNzhoNUdyWWxYSHhnVw?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-09-29T16:34:45+00:00",
+"first_seen": "2026-09-29T23:17:25+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50400,41 +50432,6 @@
 ],
 "groups": [
 "Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8bd0959d2b184e1e",
-"title": "SEBI Settles Proceedings Against Five Adani Group Firms Over Disclosure, Audit Lapses [Read Order]",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTFtNUhpcnA3eW5zLVVZXzc4YV9sMVhzMlc5RUVPRWtXZGpkN05CYVRDWkhBVWVDeXNpblFJbkIzZlhMTWhpbkZFX3l5RzZocmVpN1hrRzZkN3h0QUNrY2hMVWFqS29Hc0ZkUjdFRUFmLVN6aFh5bXQtSHFWeVIzM3daaExha3A5cy1XX0ZPU3ZwMF95SGFfclE5WlRlWHRCUjBPdm5ubURIT284cm5wczVWTjc?oc=5",
-"source": "lawstreet.co",
-"published": "2026-09-23T14:15:52+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal",
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "811571c916d87a36",
-"title": "Fronx Delta Plus On Road Price | Maruti Fronx Delta Plus Specs & Features",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jY21CRmV0NGlnSVdDMnpmY3B2RDVjYVFLNk9LaUlINTAwY0dpVEJzWktGMlpJU1VBakF3ZTBDWUVaUFdqNWZjMWxYQ0JyekJaaE1OaG9hWmIwSWJtMDhuLVVKaFpueUNKclVtMA?oc=5",
-"source": "CarWale",
-"published": "2026-09-23T14:14:22+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
