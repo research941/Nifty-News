@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T19:20:25+00:00",
+"updated": "2026-09-29T19:35:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "f91120af550e37cb",
+"title": "One Of London’s Biggest IPOs In Years Is An African Mobile Wallet. Airtel Money Will Not Receive A Dollar Of The $800 Million.",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMEZBZHFhZDVYNWFLcXNqa1gtVG5UY1VuMGF5eV9YWDFlN0JWN1JiS0owMVZEeWhZbG12VzhmVUJ0cHo0UlA2YmE2b000SzNoOHQ0YjZGaGNpblFXNVhoOFdWTkV3dGFRRHJsX0hKWDcxcGZxdmppWF8wc2I0VExiSUFQUGt4Y0hwYXVQVnBxdjJPRjdGdVFNZEF5N2p0Z3pwQmZ5TDRNa0lFZmdvb3BMQ3NDa0hvNXFlY3I4QUxqU21WOFVDSjZMVzRjazJHM3FXcWFtVk56QlU1X0oxMUgtbFhLSXVIRi1oQVhzeER6M3ZkOUgtdS1LZDk2NG5YNmx2WUVXWlZjTQ?oc=5",
+"source": "forbes.com",
+"published": "2026-09-29T19:26:00+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5c57fbee34477d4b",
+"title": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd25Ya1F0WFh1Vmp1SEJGYlJRTVAtZ2xmS29OQjVMNUdmX29XMW93bjE0Y2xFdTExNEtIM3lRVXJuazZyb200M2xvMWFLT0FzclkyLTNyaHdpd1YyYmM1VGRUamxzZnRXa0hSdnl0bGVPRG83QldBRmM5aGNFN0VXTUJCYl9SOHBaZDhDYXI5ZTFyZjFVVDJ1MlR6VTJRUS1rRTNYdUVKTjlDdmtjN2xyTzJYUmVxanZnVlpScko3RGVvdjUzaExSYzl4Nmt1RElFWVAtaDBCZVg0SlAxVS1tYnVSbHhaSno5UXQtNUpzSGNraDFnUkFaRFQxRmpoOW9OdlRKMmlKa0ZUQdIBjwJBVV95cUxNWng3SmQtNm84d1ExQy0ycWpPSlhZVzlaVl9nc2hJTnhqdWIxR3hOLVhhcWFBRjJwRFphemQyUGMxY0FCVmhqR3FMVXFGU0ozM2QtblMxLWVfbmQ3TmxFVTZWNkhRd2t0LVRPeFljdFJGV3ZZZHhNTjFHN19yY0F1dl9MR3A1QW9IMHd1S29Gdm1HNXZtWWdJd0RXLXlHbi1QbVlGUGRZelhENWZ0VXhwbHg4MVBEM05XQXdXczVlWEx3cjJMTnNfVjRLeGxDdWJRQjZ1LUt2RGxFZHQ0YjFORDNybEZyeDhCQm10N1lPVEZqMkZPYlRDS0lFb3U4VURXWmdSWTNra0ZUcGJfbGRv?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T19:24:26+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "faedf803525940ab",
 "title": "Reliance Industries stock after-hours: INR 12,000 crore debenture allotment",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdkFoZTNfZnE4M2w0UDBGZWVUNmhFQXJZWGwzZzVROWRRMk5uYy15cEVSWlZsdnFZRXdZdjVtSWM3UDUwc0FCMkxZZHVfTHdxd2wyZGg5c1V0OThLd21kdlpsTDRpZjRaQXpGRXZsTkVXU2thNUY3UnVvc1o4dWhTcVNrMmQwZl9iSHpfUzZDZktNdmJoOFZzSnpuQ3I2VUFSNFJtUjVORTNzYVhKUk82SlZpWHFGSUFwWW96aWVSSEo?oc=5",
@@ -655,6 +687,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "7176251eb37e94b4",
+"title": "ITC Completes Rs 645 Crore Acquisition of Yoga Bar Parent",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQWVLVW1zTHQ4YkJzaU5DQ2ZZM250MEJBSzJjSU93ZDdudWYzUXp5a095RWFpT1RhQjFNcnhjaGdlZk9xeGZQLXBFVEhaaldXcVAzaklta1BYbVgxckNxQ0hMLVZoYkZhTzVVSVVxcEQtNWdvU0VpTzRBTUJrLXdmbWw3bmwyci1EVmpFQk9vaDdSQkpOQXhnMVlkX1pCd1JGZ1hidDkzcUFrRjRtQ2lfZXlPM054VGdUdDlfYnl1T2o?oc=5",
+"source": "Siliconindia",
+"published": "2026-09-29T17:40:09+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "968c4d67a3e34ef7",
 "title": "Jamshedpur News:Tata Steel wins National Award for Excellence in CSR and Sustainability",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak4yYmZQX255OG43bU5LNHkwNzBlMTZxSkg3UkVpWURVRW8xdlZ4T2FrSDl1UklSc0tmd0VxbEhpZnlKaXVXUFU0N0ZxWGh2N2N3UHlMQlVTR2hOenBRUm9MS3hWNExNRmcyUmVzbHdQMENFRm5CbWszb0NQUU91bzBuMklXaFM4Q0p0dDFrbG5rZ29EWEVfZjktUVk4YlNlMVhkVklIUWFSUzRoOTdzdThpWmtXTXltNHNVZWV1dXdpUGs?oc=5",
@@ -669,6 +719,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "3f1da29d89e00e18",
+"title": "HDFC Bank Stock: A BIG Trigger Is Coming - GET READY - Rahul Jain Rick And Morty (BypWcnZLnK)",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmYml0ZWV5LV9fLVF2NU1QUF94YVl6WGRqN1JKSnFNNmg4ZXBzVzl2R2ZuUTMtdzNQVUh5Rks4ZENpU0E3TTY2blR4SXVCQjN3OE0xaUVvYVJNVnR4NUxnY24wTzc3LXpURlFn?oc=5",
+"source": "Unisba Media",
+"published": "2026-09-29T17:38:02+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "405d2932d583700c",
@@ -767,6 +833,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "bd09552677262549",
+"title": "Senco Gold, Kalyan, Titan To Goldiam: Why Are Gold Stocks Crashing Today? All You Need To Know",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmVwa3ltVkd1ZnZpYnlVdHMwRnNHYzdwWElMaFV2b3RWMTVBLVV4aEMyTWJ6c2UzVFB4YUVHT25pV1h4MjFDajBuNkR6VlRwZXVKU0tZbVdrMm9HeWJNTzY3LV9HS29vZFFtTnJkU0J2S085MmQzeWMwQ2NMMUZhblhoZUF2bi1vNk9rNENmUDl2OXY5NXlMSU9fUmFOUXBVUGlQQm1mUEdBcUdqUUozdXE3NGh6dnU4Ql9ZcTBudVowcklLRFRQa19lR196SkRpNGRQVHRlTzl4Zw?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-29T16:55:13+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "65f9cad2ff89f6d1",
@@ -1023,6 +1105,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "38184fcec831de63",
+"title": "Tata Motors Subsidiary Acquires 26% Stake In Mateshwari E-Smart Mobility",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEpYbG9jUTJ5dTRkMG1PNVVuMkh6NWpadU52NnZDQVdHU0VtbU4yTWJCVkRlNTZMOFpwZ2ZKbVFMbXY3N21wMDJUU2daUlRBS2tuMHFOeGQyR2VBUzlNcVNERmJldFVEQ05yZXhaZEluRWJ6NV9aaHpfQUdGa01FZXR3dUNWb1hoR2RtcFVpSnRIc1YtMTg4UlFXRF9tNmNy?oc=5",
+"source": "ACKO Drive",
+"published": "2026-09-29T15:38:11+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -2053,6 +2153,22 @@
 "sentiment": "positive"
 },
 {
+"id": "4f26eacd711cad18",
+"title": "A digital twin on the sewage treatment works of Severn Trent",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWU2eTZTRlY2OHUzVVpVREJ0RjFuV3ZVRElpdUx2a0J4dWUyNmRRNlBlQXFEczZYSldpdHc4NkRvSnVsNkpIMnJDNkZHZC1yVkpQQkJkX1RYeWhRUzNPcExNbm0yVTdRYWdmTTVwY2VOczVZWGxKZ3ZtZzZnM21NUUVFNThPWlNPYks4cQ?oc=5",
+"source": "Siemens",
+"published": "2026-09-29T12:25:13+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5626588eb82dbdf8",
 "title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
@@ -3048,6 +3164,22 @@
 "sentiment": "negative"
 },
 {
+"id": "1adf579dc0120f57",
+"title": "ICICI Bank slips Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNZMmdfcHNITmdYajlWZ0pFTG9LRUotUld5NVRydFA4V2pmbWxQczdydm5uclNXOG5LS2YwRkhTUVNPMVNZTU1xOUJQcXd2bUxmaVFRRjF0aWU2ZFVMcm53UTRDandMcXFNSmxrRU1FS2huU0FtUERLM1J0Qm5ZVnhlMEhaLWFaejh6dThWLVhud1NCWTlFN3NMVEpUcjZid2QtcmFhc2Jfc1otOG0tNTJKdHVqWDd0ak9YVUEwOEE?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "5344844eb6b2dbf4",
 "title": "Larsen & Toubro falls Tuesday, underperforms competitors",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTVzTmEtNHYtd1VFQ2dVSUZXUHFKc0NNUXVBQUlrZEllZ1NPR1ZDYUIxRFB5akFpNTQyTmpQQS13cDB4WmZqbklIUV9SMVZkdnBBU3VhQ1hTQ3Y3X2UyMlZJMl9wanJ1anFrOXNFdnFlcTNwNTAxZmk2VVpUaklHVU11eUVRcDY3S2NLZ0xrVFNEVTVVX2lyNkE5U2ZZRlBhN3BuWElxTkc4dmY4bm5PTzYwWTlIbVBWQkU5MjFTYlliWEtkaFE?oc=5",
@@ -3629,6 +3761,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "7bef67bf5aa44077",
+"title": "Infosys to Move Third of Staff Into Specialist Roles",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQm9ReUtiVjhvSlVOZUU0VENvTmtEcUxBaHpFR3FtWlhoYlpfVkdnSW1rdFZmZ0pPQjhsVENoUnR3Wmt0dUZyLUpkYktMd01keTlwcHhTZW8yMDdnQzF1TkxoYWdFazRaRTZxSXE4bXZQLWRZSXdGUkpfV0U4LXBya1h2Um9hLS02cjV6Nk1uNA?oc=5",
+"source": "streamlinefeed.co.ke",
+"published": "2026-09-29T09:43:13+00:00",
+"first_seen": "2026-09-29T19:35:10+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9b4832c10e1e3d38",
@@ -50311,159 +50459,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cf5416f5252c652f",
-"title": "HDFC Bank eyes digital rupee for rewards, allowances, in-flight payments",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGpCX0F1dFo0R0drWXd5YjNveVNHcHBmR2kyLVFpV3FNd1pTckNiZVJvaVFFOHZBemNJT1BYX0xSdWU0ZEpLUENveUxicXpmM3dsRkNKNmo2VVBXTHhadklVZjdvWUhuSi1IOEkxOVVZUnRHdE01cFV5QVhfbEpoUDhEUXljZFZLYVkwUE1QTjM0MWhGdEdhb3hla1NCQmJRb18yNzJGd3ZmZnNkVU0xbEVNUVl3dzNvSW9GZnI0dG5OUTVQWHZoeFQ4TWNkeUxiWlR3SFZ30gHbAUFVX3lxTE9GU1c3MVo2Y3luQ3hWZ1JxRjNKOVRGZEVvczRPRkhlNXg1OTVkSGF6UXlEMUp4a0M0RG0wcExoVHlsdmtyRUhIc3g2V1ZLR1dIb0d5Y2xQVndFSXQ3TWkwQnJheldLR3RjU3JaS1BHVDZLSkRmWUIzSk9JdWl3d1E2My1CTUpIWWxxOGxCVDlPcUtOMTVQRjI5YWNCRDlrREhvYTBpM2tBakZHVURiNWpJVUJFNWlKZmFuaWJIRnl5SFNKX0pMSGszZlluWXZBTk9aTlBURWRaQ29fZw?oc=5",
-"source": "Business Standard",
-"published": "2026-09-23T13:09:06+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8be5fe19a2ae4878",
-"title": "Verato and Tech Mahindra Partner to Fix the Data Problem Behind Healthcare AI",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU09EOVVYU3BERUVpSWhSdmlYZnpDMFJ2dzlfUk9feWpQVm9GS0poSnNRT3JLVGxXeGtsWENaaFVFOFYxejM2R0hJcFdqZ0pybm51ZDFMWDJNLWQzeDhjanlTdXFQYUlfdWxSN3RzTUlqZU9Bcy1jVXcyVWlReUEzVlhCRmY1d2pWa08wN0pVTTlnbExjbWIxbkVUbkJvVC1kY09PWElHQjhETGd4VFhZX0Q5dThIVFJtLVlFdnJvT09mV3Q3TTN0aUtJTF9PQQ?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-23T13:05:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2170981be4fb084a",
-"title": "Dr Reddy's Laboratories stock gains as Q1 profit falls",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTJkUjlSWVRyU0Q1dWl3REo3UWVTTUs1UE1oYVdsMjgzd1ItRDhsdm80V2pCTUVVZUN1WkM4Q3l5bkdoV3Y5bW4xc0REV2FuNVNlaWstWDJqdFh0TVRYdXZtVlBYb3pEUTFFb0ZjQW5JcDIyWnJMTXRPaWIzS2NaV2phbFJBWktRSnJQbmdwOXpxX2FHbkJGMDBKcUp5RWtEVW9ObnktdnUwdlJRN1h6ak9iMA?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-23T13:04:20+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "62cc35fd04ca75b6",
-"title": "NTPC Pays ₹3,393.83 Crore Final Dividend for FY26, Total Payout Reaches ₹8,727 Crore",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVZSNFliaHZFMFJkTVdxN3AycVlpYndFUGwyR19VT0FRQ2dFZ1R2WU1XcjUyUEdkbzFueTNaNkRubnpsQklOcmRUR2JzcmwyZzRVTzBPVUc3bzBpbVR4V2Y2S2QwUlpiRVRkY3VIWHRqSWIwVlBxaC16ajRfYnRhZFlfaC1SSy10MmRzcWhYZGdFcnNRdEV6TXFubWZENkJmbWhBRA?oc=5",
-"source": "Indianmasterminds",
-"published": "2026-09-23T13:03:45+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7c7c45e0a1b287ad",
-"title": "HDFC Bank Shares Rise On UBS Buy Call; Q2 Results In Focus",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDNWa3dKcUVHcFhHamtPUUl0TDBPVnJoMUF3T0NxNGkxTkhIaEF4dk42N2JmaWNLSGppVlRKaDBwOVcyWmdpbVZmeFlFWmFXTFVWMk9DdEQ1TDdPU084ZkxEWFlaV0k3RU9qLVhtZzhqU2N5cFZHVXBhRE15cnhQa0pmWEliVGU0VWxBQkFKQlp4dlotdmF0c2o0OHNnRV9QNk9JYkt5a3ZockxKTjA1b3pVaW4?oc=5",
-"source": "TradingView",
-"published": "2026-09-23T13:01:36+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Results",
-"Rating"
-],
-"sentiment": "positive"
-},
-{
-"id": "b98c209e0dedecc0",
-"title": "NTPC pays Rs 3,394 crore final dividend for FY26, total payout reaches Rs 8,727 crore",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeURpVUdvdWZlajRUOXlZbGU3WG55UzBrUkpucWd4TXVCZ3VlZ2dGOE42bF9mak41eUV1RVVvX1pwa2JhOU5hWTdTV05FVHZDM3dNNm9DNFYwYXJacEthTFJmaHR1bmFac09la1FBQ2cwLWtLMmduazFsTWZHSVhWX3RUSk8taW9xTVRqeTRpS0JDQ0FtZkN0QU9ZTENaLXhXOGtnd3UyU0hRR01ZZG9uU3hHWWhmUGNNbFgtOVJHTlRNMEhLTU1hRW11NmpSc04zQTVCeDRBTWRKTVlTcHBBcFdhUklCaUlsaEVn0gHrAUFVX3lxTE55RGlVR291ZmVqNFQ5eVlsZTdYbnlTMGtSSm5xZ3hNdUJndWVnZ0Y4TjZsX2ZqTjV5RXVFVW9fWnBrYmE5TmFZN1NXTkVUdkMzd002b0M0VjBhclpwS2FMUmZodHVuYVpzT2VrUUFDZzAta0syZ25rMWxNZkdJWFZfdFRKTy1pb3FNVGp5NGlLQkNDQW1mQ3RBT1lMQ1oteFc4a2d3dTJTSFFHTVlkb25TeEdZaGZQY01sWC05UkdOVE0wSEtNTWFFbXU2alJzTjNBNUJ4NEFNZEpNWVNwcEFwV2FSSUJpSWxoRWc?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-23T13:01:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6fce4cae121303c0",
-"title": "HDFC Bank shares climb nearly 9% from 52-week low; Macquarie retains 'Outperform' tag",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLWJUM0RpQzFkZk4zbmktS2t4MUJrSWc5cndqZ25aOF95Z2pnSV9DXzUyd3RGMmc5Wi1HUVpwWW1kaklpOXJnUEFIekE2UGV1bGU3TVN2VzA1TW5rX1J2WWtMOVlCTllQT2M3LXZRRXRMQXRVV1l3VUlNMXVtbnprZzVoWUxwWS0zQnM5bXNkajhYeHltel8tbnNwMDF1WlNoLVlKd0k2cFVSei1aZUtwMWE2MldnSEYwRUFwdVhMYU15WTY0WVpzTXNINWJEUFhSVVBPelVSSnotQTA2Z2ZlOFZQWmZMQTY5aHV5VGtn?oc=5",
-"source": "MSN",
-"published": "2026-09-23T13:00:55+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "55bfcfee0d62e124",
-"title": "Maruti Suzuki targets 30% women students at Haryana’s Uncha Majra JIM by 2028-29 | India News",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblc3SDdfVkplYVVSMzlOMGk4NlQ4YkQxOWVzWTduVU4zcjJTRVpxaUNHVkR1VThYZVZjUmZNMVpUX2poZmd3OU1HbDg3T3p4bFlQNF8xbGQ0MXk0aGdsSjhTRW9uZzFmdEM1aFNONmFraHBsWUFHQXNVZmlyOGpHYWdRb3Ntb1V1RFQ4eWkyRDZscVRQUG1OVHRMQUVYV3Z2RVBfSlZEZEFNV2pYUl9xY1VhN012R2Z2RnVBVWJyOGtsZ250UTltT054MzNXS0NuVmRJWEVoUWfSAd4BQVVfeXFMTUNOeS0zbVhsWTNJbzFJd29WZTUtcUtQeDlhdm11Wlc0N0huU3hxRDFWbXZFRkhIOUl2TFQ5Sks0dEVGR2E5QUVlMU9IWXAwYU9XR1FEMEtoYm5jT1B0QUV5X2lTWlF3YzlPSDczWHd5ZFNmZmR5MUZnazA0Nm5VSmgxTG03anNReW5VTFNRVVlSa3RPaFNjY3RkWnBmUTd4U2o0MHpoWmxYX012VjFydGIxQm15V21oMUZ0SjFIZTlIc3pnTWFobHRuS1g2bGF2SHlGUHVoNzN1cjhqY2hn?oc=5",
-"source": "hindustantimes.com",
-"published": "2026-09-23T12:57:16+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "46d01a33a487d749",
-"title": "Adani overtakes Ambani again, tops India's rich list with Rs 9.23 lakh crore",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemUyQndlbXIyV3VCUXc5YUlWTl9PTFRVeTNXWHIyTTlKTDhOaFA1NDdCaVhUazVDcFdBTUUyZW5DQlVmbnpjX1NXV2RLN2NMcW5kdENYbHdjR0UyeG1WNnhaanJDbkVBYzd1cm5vVmF1QVRfZmxDTDVGUzI3c3hvU3p2cF85bWlGV3hYZ21zcndpU09MZ1hsWmVfTVp0Qm9ZbUdIcXlkV1lHM2U2TTg5eUJmdElKREI1RjRQbzI5MVNHNjFrQ1psX9IByAFBVV95cUxOemUyQndlbXIyV3VCUXc5YUlWTl9PTFRVeTNXWHIyTTlKTDhOaFA1NDdCaVhUazVDcFdBTUUyZW5DQlVmbnpjX1NXV2RLN2NMcW5kdENYbHdjR0UyeG1WNnhaanJDbkVBYzd1cm5vVmF1QVRfZmxDTDVGUzI3c3hvU3p2cF85bWlGV3hYZ21zcndpU09MZ1hsWmVfTVp0Qm9ZbUdIcXlkV1lHM2U2TTg5eUJmdElKREI1RjRQbzI5MVNHNjFrQ1psXw?oc=5",
-"source": "Mathrubhumi English",
-"published": "2026-09-23T12:51:13+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
