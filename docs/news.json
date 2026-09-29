@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T17:19:20+00:00",
+"updated": "2026-09-29T17:33:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2454,6 +2454,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "555006a9eb1dbb1b",
+"title": "HDFC Bank Prediction for Tomorrow: 30 Sept 2026",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYjV2TUVMQmZaWnVGTGMwVXM0MXBzYklZbEp5cFIwMnVqU2hHM01la29MMnFNLVRCYkNtOS11dDFPUzNFSGw2Ql96S0tDRTAtaEMzM2FDSVdKcE5iMjZlUXh3dGdhVTBnQjgzaFNnUDZneVVSU1ljVllqc1g?oc=5",
+"source": "Univest",
+"published": "2026-09-29T10:46:00+00:00",
+"first_seen": "2026-09-29T17:33:46+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "172fa901a264b3b6",
 "title": "IndiGo share price: Goldman Sachs sees over 21% upside | Target price, detailed outlook",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOW9yVlhJWGxtMHdqMmR1NjE3RHVISlpZOVh2LWFpRUxvdENfRl9XcVFudzdOQVQ0aGstdVQ3QU0weURBQl8zWG5PQXhZbHlzb1NVZXZMZTJKQWo5Q2s1TjBUWW5NQ3dHWEdxbTgzY0lWQi1fbzF4S2VlZUZUWVg4VHBmZUt4XzlkcHdqQTFWSFdzRGkzMmt1V3JGQjZlcWt1QXhDbkU0SDRiMjFmNW92X0RPWHM2U0F1WVE1ZjNEVjdRMmFKbTgzMmJZQy1iSk5udlJfS0JxeXcwMGpMSDNnaVJTc1YtS1HSAewBQVVfeXFMT09jN2x1SllYTkk1SFc5VGRMQVRLc1JWMmdvU1M4a09LNGR5M29GQ19hSHdyOWVBLVVPRndfVzAwUy13ZVpnZGZiTHktVWhLbHJRWjNsOTlHVEVHbk5NTnRJMXN2Z19aZTRnVjhGSnVXZFItQ0prblVHNE1WcFNWUXRuS3dSMXJyeG1pWENGNUtFNGhvODR2Z3c0ck53SHVNdFhqNl91bnFUNncxUFozVElFTWtsaUc4TTJINklsWFR4ZXdnTllRcS12SHVFWUotODRYbkViWG4wa0dzQUEtZzlETVhXa20tSnBWLUs?oc=5",
@@ -2560,6 +2576,22 @@
 "first_seen": "2026-09-29T13:49:41+00:00",
 "symbols": [
 "HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "d691b8cb49ccf2c5",
+"title": "Nestle India slips Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWJjLTkwRDZ6MUxkUHV1X1NIUG44dTYyVUIxbEFkcmxPOHFZTGNwRW9SdWY3LVRYVHRkV2JFbUtIZEpNYW9HYTN6TFQwZ2c2NW9BTFhvVndlQXp0YW0yQnZvS1NpNVVNZl8tdmY3bGIxODJSRkc0Qk1tYmJvUGktVkowc25xcWdneVc0Rlk0d1pTbk9jLXJBVXI4T3o1eDhxR3pEMUtXaE9BcmxyZEktek1ESVBqWkpUTkJWOURR?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-29T17:33:46+00:00",
+"symbols": [
+"NESTLEIND"
 ],
 "groups": [
 "FMCG"
@@ -8592,6 +8624,24 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "288abc6c717926e3",
+"title": "Gautam Adani, 4 group firms settle shareholding norm violation case with SEBI for Rs 1.48Cr",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGanVYakplQ09MOWpuMEdPN2Z0NHJRMW9QZDgxaWg4dUxkOXV1QV8tazgtclZJaEtJN0RsR2Q2a1BuUnFsVTJ2VGpQcjE0dndvNWp6QnNhcFh4Q3A4b2phX2gyNmhuX1hlVHc?oc=5",
+"source": "The Federal",
+"published": "2026-09-29T01:48:07+00:00",
+"first_seen": "2026-09-29T17:33:46+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "b145661c7abd2696",
