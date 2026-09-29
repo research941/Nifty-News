@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T14:01:28+00:00",
+"updated": "2026-09-29T14:20:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,112 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "70aff4b07e3ea9ed",
+"title": "Jio Financial Services Announces Trading Window Closure Ahead of Q2 Results",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGJhdUUteGl1NW43dnpNNU1yMVY0ZVNUdmJaTVRBWWl6bkpBcUdQVDFIRVZEeGVxd2VNN1NPdmttRHFvRDUtT3hhTVI4RGpOOEhmTlNncVExc2ZXbHJmUGQyUWZvSU5hS2VnRFYtRC1aZVlKa2ZESll2Wlh6blRzWEhGazJKNzJ6dnZmRnBxQTl4T2lKbXVrYm9GR0JpSmJ6U1hpWWpCRjRsd2Q0el9raFNUSUhuRHVzc0hXTXF2cnNPSnBDbEE?oc=5",
+"source": "TipRanks",
+"published": "2026-09-29T14:15:14+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5558b3af2cde9b38",
+"title": "Why Indian banks are ahead on AI | Axis Bank x BCG",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFNHSkZydGdGMVBrNkVTV0FEVFAxNnNaYXhvSlVvLXZQbmFKMTY2UDlaSHFQeXRZQlhXZVozOXB5NWo4OU9XSlk5c2d6MnF6c0JrNG55eHFyeHozeUhrQ2R2dFBYWnZFRFhzak95Qk9LYWhmeVdMVms2LTJwUzA4T3d6VkNsT1ZHQ2xtMUdtY2lPd2Z2amFSQ1p4Y25aaWRYdlHSAacBQVVfeXFMTk9Xb2NlelhJVGFqeFhTR3NBLTBqcVRkSVFRYW5MR0k1LXh2aTZrYlhqQWNFVlo5UGRZUEJzNERvRlhqc3JrVzFwZjdVQlR4MW1nV3FGWlVHeExyZWJkak95T3VZSnJ3enZVTWQtLWxBTnl5LTdoZ1hNeVBSQTJNQkFGQjVRZ014VElQQm1na3BGMXplbVlBT0EtUHRUeGR5eFlsNmFxZW8?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T14:10:09+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2a9abf7fe202a940",
+"title": "Titan Biotech shareholders approve bonus issue and capital increase at 34th AGM",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2JDWHRNUGowMENYLW9UNnhLYmM3Qm0wcllsTlBQMGRIN19xTFBSQVF1Y1k5T1BLZE9hd01OMklkV1NHUzc2Tlg5c1dRbWEyOXl0dDhwajQ4MFllWWs1elFsVFlmR1dDMFc4Wl9IdWQ3a2FHQkJGa3lSdjhMUWlrRjRSUWhGaS12akZfYXZDV3NseVFKM1QtM1hwa1dfQXR4eG1kN29hMnd4SnBtS2t4YWZOSXJ2VTBlNTZ6dFUtblBySEE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T14:09:57+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "33e919be441b603e",
+"title": "Rosatom in talks with Adani Group, RIL, NTPC for nuclear power push in India",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1VEVzlkaVI0dmtsd2t0OE1acUVNYnJtTlZ1YlIxMDdlUnhDdGhsdVNYaGZBRHcwWE1VSGVUYmF2Wl9mbTQ4bFpkaC10WmdWQjJLc3RqNlZFeG5lOHNCdzVwSE9KWkNjZFhrWnE4NEpzaXdYTGpJd01yUF9WR0RDcEJDaHdkV2x2YkF5WTlrNVp0OXRGMlFfSlVSS0t2NVhwRVhEdEFsX0VTTURVN0dmc0dkZ1UtRDBjNlExSy16SDlGNTh6V1dMZlNWc3hXWkV4bmh4NExTblrSAd8BQVVfeXFMT0hSamkwX3hQcW9pYlFRYmVLLVBYMWtlSXVXOVRCb3FsZy1sRE1VemVGNGRxN0JkREg2YlFZd3dfNDVUYlg5SkxLaTNzSUJaZFF3M0xtRTJXcXJXaWVoaVI4aVZTMTFQU3oyQ3FOUDNZNVloVTlINzZpblkxeEpZN2xGSlNpS2pkX3ViZVk4bXBXMFQ1SmNlUnF2b0hOZHpDWFptYVZ2Ni1aWURkanJQdlEzY3MyQUJBVDFud01QRkZDM1QwZXFYa2RUc1NXZnJ3Nm1IOS1VdWkwSkNPV3l1NA?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-29T14:08:47+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"ADANIENT",
+"NTPC",
+"RELIANCE"
+],
+"groups": [
+"Adani",
+"PSU",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f578e4e1991f5199",
+"title": "Tata Steel acquires 394 crore shares in subsidiary T Steel Holdings for ₹3,260 crore",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQalhsMUNwblF6Y0NpUWV1ek1Dd2dQVTAtdUs0MDVwWjFDVUV6VTJzYnJ4VVhjRVV1eTVKd1pkUi1HaHZQRy11RnUyaWNWSG1hYUQxcWtRR3JBVEhkZmMwUHhCd3lXQ21zdWcxdHZ6Q2pCcVN6bTVGekR0QUlTMVB5b21wT2Jpb3Q2cWd3b21ienhJYzhuVGQxVHBQNlFHWjlhQThoTi1sNm44bExMcGVPdGMxeFRLSWw3OF9KdHZzcWRYU3ZqOTJZN2tVUFVnVjhheERLaXVHXzlNSnBSMkZDU1VId9IB6AFBVV95cUxOSjhuV2poeS01QmxhX2dRRE1yS01xQk1EdzJIaU1LMkpGMDZaSEJnN3RMcUhCUnc2ZVlhb2FVd3o2ajhLdEtTalIxeVIyT1Q3bTVibVNzZ01qajAtMjV3aXBscjVTTklrZHI0OTZRaHphcjFtX1pxX2dFUE1nMDhwQi11MVdaWUJwTzRCdHM4ZkdxZTg5dGd3VHlfeS1FMnJjRDQtMllySlZsY3h2UUpNLXJpemQwTVZ1V2JtaS1UbE9vZGdIXzQ0YmdzZFBsS08wTHdTZlNuNGExaGM5MS02ZzZ5Y2tQWkJ4?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-29T14:07:42+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "719b8be3f324a98f",
+"title": "Dundigal police arrest ATM offender over Axis Bank ATM theft, damage",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekNfVlRvcGozZ01sd3ptRVR1TUZ4QzZ4SXdfa2Y0U1VKSEw0anprMVRDc2MzSWxwLU9OdFBILXgxUE9ra1hMOFltUEJxa19SS3Jqa0syWmNHdlJ3Z0pjMWZOUmpTZ1kxZWVTdVpnZWlHWjA5eE50WlFlN3IyNlZWWjNLYVlfcHlocG5kNDBkdw?oc=5",
+"source": "Hyderabad Mail",
+"published": "2026-09-29T14:05:48+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "8e8840afbce24f27",
 "title": "Sun Pharma Plans $1 Billion Local Debt Sale",
@@ -1045,6 +1151,22 @@
 "sentiment": "negative"
 },
 {
+"id": "fa6a896c587a657b",
+"title": "Blood Donation Camp organized in ONGC Complex",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlA4Q2dQR25SYW0tbU41S3owUnE1UlQ2dTVENnJ1V0FxaXJDa0Z3WEx5VmRhaU9fS1VBZ3BNRWN0RGJFLXFKQTR3dEtFQnhvWXAxc0g0RXNUWWIxVHVYNWZZM1ExdUVmbkk2d1MxYmw5dTZuTUVDZk53LUJQLUdWcjY2ZUUtU1o3YlU4bUIwaV8?oc=5",
+"source": "Tripuratimes",
+"published": "2026-09-29T11:49:53+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6920c677a3670b23",
 "title": "Stock picks during correction: Coal India, Sona BLW, Blue Star form part of defensive watchlist, says analyst",
 "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQREtjMUNJQTdIWk1TZ1B2SU9vNGw2YlI4VnJaVmRXM2NtLXM1anNVV2E2NDYtOEJCVEI3eUdyT0lKM05rWEtaSXRuX2VYQnVsR1RGMmZ6VmJDSGd4QzBpYnM1cTFvaG5TcFJCZTl6d1MzMWVQcEFlekkwdnlrTFR3c0M2ZmxLMHZ6TEVkQk5HUE4xOWV6eFhzVHdqXzRtTnlvMHprZXVDWFNqajV1LXFQM1gtZVJON0lDLXZuV3ZMMW1XU0w0SDFjbWxJRTVXY2FyLVhmNUlPUFhqRmFaUlN1eDFpMDBmdlZfR1dhcDQ0aTh5VEFjbllBN0hFYlRQOUI3RlJ30gGIAkFVX3lxTE9URGJ5d2M5REktSmVkWUFoSk9XWXEtSmFUQ2ZOc0RWUE1lZlVham9Cc1BkQjdhYjNlWWVfbnRlSDNLeW5tWWNIZ1hMSWpOdF9TeFN5c3pzZ1JkbGoxNDZ4a1RUX3hmRzdmdWtUZENEYm5odXJUMF9RRVNoUERFVnJCVkZSeTljRWphcG9Zb0trUTZ3dVN0SlkyaDFOaldoUWxBeHpManY1a0RneGpGd0hUcGphQWdfVTNRejZqanhXNHphY01fTmwxRFo3UmMwOVBWREdyTzVLYTdJWjlOcGdIdjE3c193dEIydS1sb2d5SFo2eTNONDJuTHpkZ2FwelNmOTU2UlVHUw?oc=5",
@@ -1542,6 +1664,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "43826b507b60448c",
+"title": "HDFC Bank rallies Tuesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHkwd3FVLUQ4cXM5ckJCUE5pTXZJbzg1M0JlbTBHbmVDNzg0aFV5WVBVa1FSeU5rUlFpd3JUcTl0S3J3TFg0SENSMjNMSDI0c1E5bWZZUFJIbGNfVlRTQXNOMDlZV3hReFZRdnB4cjFqWkxQTTR5ZzRFdkNvLXZlN010Ui1kWjNSSWpSSF9fVjV5Q2NtMWUwTy1ZMnhCUWpydzh2cTBrSTNaR2FVS2FObDMxMmo4VnFtY1ZQSDNWcw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:30:00+00:00",
+"first_seen": "2026-09-29T14:20:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6ce59781b74aed69",
