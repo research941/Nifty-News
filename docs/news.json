@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T09:39:15+00:00",
+"updated": "2026-09-29T09:54:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "fc7ed6c5e48576fc",
+"title": "NSE Index Rebalancing: BSE, Wipro, Indian Hotels Flow Estimates",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONVgwa0NRVV8ydklkdDFoVUlBZ1k0dTNIRjFPd1ZKcEgzR3N2TUU2N28tZ19mdFVnMTUxMlZEelNmQWxDbFpZVFhTbXR4SnFhdE4yV0VDWG95SGNCaHFUUjZ6N3ZoaWNBVUlKNkROX2s4S09MLXhtWXF6RHc5VFJ0MlV4bzNZWW1xVVBsOXMwTzVXY3A1V25uNEttT0huQ0FWX3l6eWd1dVVZSXpBZElPM25WUU00YnZ3OXFZYloyMDBRSkRzNWlnOW1iYWJ5dDNXaXFhenpoSk5SU1VqMndIQ0tPbXcwQQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T09:47:11+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9b4832c10e1e3d38",
+"title": "Coal India Signs Non-Binding Memorandum Of Understanding With Hindustan Urvarak & Rasayan",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ0xTa1lsb1IzZktnMWgtT09KSUlKSnIza1dUNllySHA1XzFVS0MxR25KVGtHSndULVdOa294ZFRlX0VXZXpGREdyWXdkREFKcFM0MDF3Y3FJZmhjbHhfbWItV3g2R29aTlFIZVY1R216OUtJa2pKTHVOTFFxOHAxU3RCS2pHOGVBZW9XN1pHWjFydzNBUnNpanlnMGR5bm9ubk5KaVpTUktqeUpPdXdDZU5vZ0w0bXdvajZxR0VHMnJFQmY3NUlPanJRZG90enZPbE9iT1ppR0lvQW14YUh5RGVXTDVXTzlFSldyQXNR?oc=5",
+"source": "tradingview.com",
+"published": "2026-09-29T09:32:45+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "96ed05a183a01161",
 "title": "BT Exclusive: ONGC Videsh to restart operations in Venezuela's San Cristobal oilfield soon",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmh3dF9kblRNOG80dEdyakcwd1dMVmRBS1dWcHgwOEdVa2hHTDdsa1dlSUgtd1N0ZkpHX2ZlczRGV3Z5VU8xM1dITEx4T1c1YmkxbXdUQll0M0toa2hVT1ZQMWpDaWhsYXNSQ0lPSUplQVlnM1VfT0pobzZVLXY1NHY3WS1ZYjdFWUZVSTF2VnRTZklXS0lOZmM1X3VUTVpKd092SEphdzhDeDZiYUppcGVnVlVhTF9sUWtiR2ZUNFNKMmFTLWhHZEhXblA1Mi1vSERIMFV0VlF6Q2t4UGfSAeMBQVVfeXFMTnlhX200MjlRUjE5VmFidU5UWUVDWkc5NnkxZFRGX2VUcEhGUGpZX2t2eTdxdXNQTGVmZXVrN3pCblJzaHJsV0huc2xXclRTcUpJNEhYbHh3ekNNYnc0Tlk1Q3pkamZJdWltZWZWc0dMZGVwV2pPel80OW5OWEJTdzlYRWpEeXRKUzh4aXJGbnBOcHdqTFVTMHpkZW5HRk5FN2dQazRBVUw0bG0zZ3YwR2doQTRrbHBkc2ZTVU8ycmlhZ3R0bjdCdzJrTGRjWC1GMThJWV9nSkNOSlFtSHI2Wi10dDA?oc=5",
@@ -540,6 +572,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "30e7befd5c26dd0a",
+"title": "TRAI August 2026 data: Broadband connections cross 1.10 billion, Jio and Airtel remain top two providers",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamZjVm5CeE1weHNPd0F1aktjTGVXYllwX24wWFpTM01YQ1hxTzVPdml4b3hyUk9fa1UyanVQSG1pMlZJSGxvQ1hKZFFPNF9LangxMWRXdTdUVURXLWhyUWlVS3UtYkRsdDlhYkJDVVl0SlZ5cjlkYmx2Z1V0SFgxbFRQNTdmU1E0Wk4w?oc=5",
+"source": "medianama.com",
+"published": "2026-09-29T09:20:16+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -677,6 +725,25 @@
 "sentiment": "negative"
 },
 {
+"id": "1fcc9745e3bee8cf",
+"title": "Citi sees more pain for TCS, Wipro, HCLTech; Recommends ‘Buy’ on just 2 IT stocks",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXVhQjJzekRKS2NXVEl5ZU5TaHE3eGROMnJGbkdDVEExREdYNk55bWRPRVhWNGtUTm1ma3l4S3c4ZTFyWUJmT2kwZXZuVTgwWl91eDV2MFhCT0NINkdOVUZsblEyRFpfQTBiWHpMY0Rhc1VHeUt5OFlPRjJkVk9weENYMXlST19rdWJ2dWlpbkwzNFdUR0F3STdrbEdqVHNIOUxfS0VUTEVzOUlqR2FFTm5Qb1VpNUVtQ040TUNvakZzWknSAcoBQVVfeXFMTTBUTEJFY25WUGY3dTY0MFVmUkFLRGFuNU52NW9DYUJjSkotcEVaelBDa1hkaDhKXzNJTnZCQ1NwLTVvTFZKTjdWN1l4SVFtXzN4dFNrUjB0UUVRVElPYUR4c3ltbDhyTUhGNkp3Q2hGWEx0TXZpTGdYMkp4UHQxSFZsaEthbjhDTjdUblF4R2xMci16OF9OUTJvamZIbFVkMTNDMnI1X0I2YUxzdlpKVzNrUEhMOFBiTWsxWmZZLVV4NUNWWENJTlp1dw?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T09:01:32+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"HCLTECH",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5cbbcec50708941d",
 "title": "Mahindra & Mahindra Financial Services raises Rs 1250 cr via NCDs",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczZrdnVrdGMzSGI0bzh6WGE4VGVMbWwzMGFONnRXSkFldUZ1bzZxSXdsY3JWc3hwNlU5VFF0RXJSQ3dGN1RIa2JTeWZ1YTZERVcxRG9GMmgxMXNURDB4cW95S0pCTkk1N2hITVJTa3lTclZpZHZ2VWgybDdkYmIwc0Y5OE1wWkhOcGtfcUktODl5THZvTnhnWkJ1el82V0REQUVsdUEzQmt5Q1NTRVFJQjJxRlJTWjh0NmdKcTBQSnZBcWttalFsR2NaMFFSRDcwMlI1UFJ1R3VXRWMyZFHSAeMBQVVfeXFMTzZJRDZCOVRWdHl1dHZ0ZFlKMHhvNHV3SnlNN0lxd0xjZ2NDaE03TjVJaWRjUC1STW1zVDd3Y2ZtN2xCaHYxR3JvQ1R2MnlKN0FXRDY2UFhLRGJrUUJmQnBGZTVwYlBRTXNVcjRScnhfZm1PSHJmZVY1UTRZUW5sTTJvcUFBalZWTXZpTXhrTDJ2YTdLX3JRYXNpNHZPMmY1NUstUURVUWZENlU0SjBkUlktLUlvMmdLZFpSZEJtRktHeHhkTXd4clVpNHVFYnZxN0Y3Ql9tQ21mYXY2VEVpeWNUY1k?oc=5",
@@ -720,6 +787,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d2c067e5c988afb8",
+"title": "Tata Steel Foundation Facilitates Workshop On Scientific Betel Vine Cultivation In Odisha’s Dagara",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVRNMGxZblNzaHQwSUl5bzBLd0xta2F6ZWRyWU9RcUt1VWxZSjM1QmFiNmZ3dEVpTmNZVWVCb25RNmxpMHV4dHJUZVZDYmZaak9JMTdkU1ZiNkhRazQ0T0RxT0RZWFpNTEdhQ0NnYkJPV3NTd1k2Y2tyNF83YkVEQWU4dHVhdWE1R3N3T3gyZUlGVDdNTXZWOUZBV1BNRTFMZm5FdndieHhTSTl2cXJQS1U3VE80SXFqYzJBTURkc9IBxAFBVV95cUxPLXJqa1lGUmVrZldCZlhiRVFscHZCZEtLajlsWXRrTS0wOWRmZnFaMlNLNjBhT3kwT3BlRy0tdU9GYUFibllvUDh4VkJ0ZmdUaDEwX3c2QW9uZmJ3amFpYS1DWXFUZDRNaGJ6NHlMbUVIamZqRWNWMGxaSFFrY3NEVU4xQk5PTnNuRE1XZUpteGxBZnhzQ2VERnAzT3IyZWxGRUtXTWctdm4yMUF4b3lnMTRUNE11czJZYXFXMWJlOVdXTjJ0?oc=5",
+"source": "OdishaBytes",
+"published": "2026-09-29T08:49:17+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -841,6 +924,27 @@
 "sentiment": "neutral"
 },
 {
+"id": "f961ec898fcec8c1",
+"title": "IT stocks to watch in Q2: Why JM Financial is Overweight on Tech Mahindra over Wipro",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS29YYzNXMGEzRDhZM3YxM1pQMWpBUm91aDBfbWRKX0JJSTBGNlAwVzZLaUNUTlpyN2Mza09TeHdJSklCaUxkWWF6ZFQ5akNrUkNQNS1oWnNXejNiVnIzMGFuRnJfb2Uyc0ZseUlSSFlCZ25iVFg2dHhsN1RsWVFfNWZMV19xbUdLcTdFRjAyTXdnelNXZTdOelYyNXFhOXJJWU16eFhycjJOekNNcm5xLVR1U1dKcV9QVmd2Z0hKYXJBdWlmTUpqTGFzSE4?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T08:23:19+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"TECHM",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Mahindra"
+],
+"tags": [
+"Results",
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c06ed0dca1fff17f",
 "title": "Nomura retains 'Buy' on M&M, Hyundai India, Ather, TVS, Sona BLW as auto demand stays strong",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUNTazljNVpDSDNWVHljZXB6clZ2NWluSEV3S2pfYm5CdUJGZ3F1Tkt0ZFpHeHY0TEVVblkteWV6TEdCaHZBQ2ZWMERKam5WamF2SnhqYzloVnVKMkJwZWtSTXBQOHpsOU0yVGpIM2JnZVpVWTdwX0N3ZEpYTVdFZnZXRTV2M0h2aGRQVGRabXUxdzBGNUpZR204akZ4czc2Q3Q1b0tBcVJpNllzci1WOGxOcF9xMWNRSk5fNllLNWhibHJqT2lady05SUYzeVNOZXcyTGRhaUQyRWtWd2FqMFlQNA?oc=5",
@@ -956,6 +1060,22 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "bce7838622435a67",
+"title": "Live updates as 'three police cars and three ambulances' at Stoke-on-Trent crash",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGllekJsWmdHX3FMR2JBOWJxejB1Y0JhU2NPQkw0US0xREtyc0ZyV0ZrSHc0TWxOWXdnQkJlOWg2eU82UFJ0aDRQdzc5azhPRHJJbGtHM3R0NFFwVkRMTUVibG93cTVzb2c4R2NKT0hmYzZEcURlSUlvaTJLcEsxR0hnbWxDZHEzdFFoRUctX0tPVDd1bGx5LWdHOXLSAaIBQVVfeXFMUHlTTjB0VVVsWEJINTZtdGR6aUVUZUp4SkVkbmMza0poeEg0LS10TF92S3lWVEFyQTYwOTBlZDA5QWRkQkcwRjBUa1FMMzlTZ3A5WFRyNHZfTXVsSjI3QVp6MzQ1WFhfZGdQQjktd1dGbkNmUDYwUkJNeXFrT29SZEhVWTVpMGllSUhFM1BQWXZLTkhMU2trWG9iVHFiZUxWT01R?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-29T08:05:45+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "59b21f34ca31a329",
@@ -1811,6 +1931,22 @@
 "sentiment": "negative"
 },
 {
+"id": "5c0bede300cb6f9c",
+"title": "Tata Motors Share Price: 52-Week Low, Valuation and Peers",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0xwY3hoOC1yS3c1R0dCeXppQW1FZ29WVTV4Q3BvR1N6UDNsVHQ0X0lQUFliMXdPeEJKalR4aUhvbUZ1VG9OYm94NzJURlJyWjNoUllQcWRiaGp1Q1R5dUhlb0tPVk1WZEU3WWdNaFh4dENfaldWV3gwUU55dDc0cndvSlFWQQ?oc=5",
+"source": "Univest",
+"published": "2026-09-29T06:06:00+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c1dc4076381f3adf",
 "title": "ICICI Bank - 10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS2JwSjVfUHEwXzl5OGs3b0poTFE2RUZaYllpNl9jWWRLZGQybTlwdmRNU202TjhwbHc4Y0p5dlNGQnBZZW1iY01BWjExUC00MDFkX2NkMkQ5WW5UZlh4aDFsQmNUWl9FVFBVMmYtZ1p1dWdJWmYzd3hHX3lkTGZSV29RVE9STDRzaEw0NjF5aXNXT0h2Qm10MGpnVERCTWpxX3pvOGFySVNKcFJwLTIzOUxDMW9uS01GV1d4ZktDQ0hNUHhQbDl3NnNDbnlIbTQ2cldwQmJFMm5Ma2Y5N3E4SkVtUVFMSUZHeGRQUXFnMW9PNDQ?oc=5",
@@ -2382,6 +2518,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8830753da74b0a18",
+"title": "Tata Aeris iCNG vs Maruti Suzuki Dzire CNG: Monthly EMI comparison",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEtHcHNxTlFEWUplNGFrU0lQZ1A0V1pzcVljeW9NV25kLURZWlBzTjlJTWtEMlVwY09Qd2kyeERqbW5RQW9yMHJVQlZQS0xLUTNKOHQxbzFuWjZVTmFwakxJNWUtRHViRWpkWm5uRkk4Wi00Rlh3R1o2NDBLWVlLLVAyZU5LTVpQYXdoTjluaGFZQU13ZGVLc05KSkhVR3ZOdV96aDh2WE9BT00yMFliNjdEdkNvdWdxcXBZeDhhRk9PdjJUVkHSAcsBQVVfeXFMUF9ISkpzeTVxOXlQUUJVcE9nOGpRajhFUVFnSlU1S0lEaHF3OHRlODNDc1lCN1pvWkpGQ19SSmFQSlBoQkJ0M2prRFg4NUM0aTFDOUJZdEhVMVZReUxQdm1JSWc0UjJvRnVQOE5scktHVjdPdE5wR25kRUhHOEhHbFMwdExyLWdWNmV2bnNydDhyQ1hXQi1FSnZYcVhiUXVPUjl6RlBzZkxraGFVTzlZUEdPVFQwNGdHb25Rc0lsdnpBSVNyRDV5b3VkaEk?oc=5",
+"source": "HT Auto",
+"published": "2026-09-29T05:05:58+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -8034,6 +8186,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "a390db6bec7e5873",
+"title": "Tech Mahindra Share Price - Live NSE: TECHM Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQm0zbE8ydTFJNzV3VTNXX2FIRnA0WmI2czZ1UWE1a2k2Mi01a2dzZnBpaGEwSHo2Q0ticnJxSGQ0YWpTMzRRbjF0aDhkaG9oRTdSeGlEbERSWTlrVEVFdTdGSXR4ckZKSm4tZA?oc=5",
+"source": "Upstox",
+"published": "2026-09-28T12:49:46+00:00",
+"first_seen": "2026-09-29T09:54:42+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "6de09ca21cccc537",
