@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T06:39:59+00:00",
+"updated": "2026-09-29T06:56:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,70 @@
 ],
 "items": [
 {
+"id": "0c19b025e3dd036b",
+"title": "Dhiraj Adya Takes Global Advisor Relations Role at Tech Mahindra",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjZZcVA5czZmNEltcER6c0diU0RTbnpTclpkR0RhWVFGY2NxbHZFR0o1OVFPZlNzdmRsN3JwdGZrZVA0RTdULUlmS20xMHB3ajBXcUdsSEw2MHlNWTBhU2syWmxseUt3amIySVlVODlYUThyZkJuak9tWHJtMkUyZ3E3T1lTbnV5SmdkOFZKMXgtaHNtUlF2X3RIVGtjenN4bFBBWTJBWWxGVjM2YmYwcmYzRnBjMk5iWm8ydg?oc=5",
+"source": "IMPACT Magazine",
+"published": "2026-09-29T06:53:38+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e6b64b7100484ab7",
+"title": "Dhiraj Adya named Worldwide Head of Advisor Relations at Tech Mahindra",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjZJVEtnaXV1Sk9ySkFCOFl5WjZCd19GdnpTbEJUM0pabm1obzdKUXgxSFRZUzdLamgyOHYtLWxFQXVOUWFmRFQ0bnN4MThkWm15elRiTUhzdmNDa0hZRzhseFl5bmdrR1EwekJjaGRNaU5QZHVYTkctbEhqcDhXdTdtcUJoczY4R1lmVmpRTkdHWE1fNC1SQ3Qyb2dTcENEWlc3cEVxVTRQeXl4bzJ5YlhkbU9NVTJRdGh1ZDF3WjFLZGVpWXhBUWZBV0gyM1U?oc=5",
+"source": "Exchange4Media",
+"published": "2026-09-29T06:49:39+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c98e525df3581e7e",
+"title": "HDFC Bank announces special window for dematerialisation of physical shares",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2kweGhYQ0NaN1BmOUhjMUNiRVpXRUx6d3k2Z0djZk82SnAtWUFIMTB2ZmpINzVLSTRDUHZRSTB1YTFab2ZULU5va0tLbjVrX3FDb1Q2VEVmQ1JNR1lvUWNyYmlFUWdFbDgyV3JSZl9PU19ublRTNm4zQnI5dnVHMlNrSS1id0w1MHlQa0d5bExZczFIVDdUUU9TNFpyeEZoNDlMR01hb1U2S3NQeElKR1N3?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T06:46:38+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "484984a49b61de11",
+"title": "BSE to replace Wipro in Nifty 50 index from September 30: All you need to know",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXFPN2NLUVVFNk85Q1VWWGJQTDhlNm5iNXV2bEdCZEFvY1YyNjRBUHRXUnlpRGd3VWFIcmt2OWxlX3dNdGpaWXZBZjZtR1R0c2NZNm1WOE1ZWUhWdzJKVlhOdlFoWWJlZjBYWFkweU9Yalh1Q0VBTkduWDlmY242V19qWVBMT0Vmejl4cndNa2pVNnVIaGpITnpDaFd5Q0NEZ3FVYVVNZEl6ajM3R1A3Y2NLMzBOVGFDYS1SYWxLYzJvME9pV05IUWxMekxmR1NFWHpFMUVzLUxoRFN5REHSAeMBQVVfeXFMTnNKVW8yRlhqLTI0NnFVa2ttX3FGVGpiZUdIV0ZDVTM3TDV3RldMeE5XQmdpMF9UQlNIeDNUZ3ZZV3RSaDlleTZ3cHFsc1RyQkh4UnFkdER2bXM3U09QLTBON0UyeFlFcDFxcFFCOWpESVU0bVJOSHJ4U2dTRjhGLWdXcUdmaXBnamUxMXczQ25FcVFzQ1FsRHMzQlBsODZVRVlfUHdBdW13dmc1ZlJHREhoNnJrRWo2RW5saUx1TzhRY2tJbkFSVEhYUHo1cFNkd1J3R3RBaDc1UEJ2azAySnhENGM?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T06:44:14+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fe12f655563a2020",
 "title": "Dividend stocks: These 10 counters offer up to 9.7% yield; PTC India, Coal India, REC among top names",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZnlLZE5JZ3BDR3ZRRDZscWdsT0hUSko5cFAyOTB2aVZNajk5TWU3VDJPeVhQMDJsSlYtZTNOYnRTZ0ttWk8yQXlJdmdKRWtfLW9lbnBoZmd4MV9vT1UzV2NZbUpXN3BBZWtOUlF1MmNUN0pkTC05UVo2VjZOMVRoOF9BRzRuckpva1YzZm15VGpIQ1VzMnNYeTYzd083Q3Bna0FlSThJeWp2aHFuWXRsUHU4Q05FVGQyMkhVcDFWVnRNX1hqb1UycWl4TS1yTVZtWjRKUXdzYjB6cVl4Q2I0MFE4dFVUbG1EbzhSWDRZZ2lfZ3NEamlJ0gH8AUFVX3lxTE5kZVNPazRYWHFmbG9JSmp3VDVocGpPSzVMd0t5OGZtWjFyRm9fTV85YjUtY2lsNkJseERmVFNsTHAwVHBBTXBnbVBHZUNwMUlSM0VRQ2dnT0ZTYUJyNzlUaHhfcmJoTmNPcGhjWE13SDFOZURxREstMlVDd1lrdjVEcVE0S1JmNHpLelFTaFlNd1N1WE5YXzB0LUlSQldtZVN6WlpmbnVsLWpJU3NtTEJaN1J5eHpsY3JNWGlOMVJOakM2d3lucjF3UmNteFJyMTMwWVNpcUVqYjZEcm5OT0ozM01lOUdsTHNkU3Y5WUFZVGEyVEdUdEsyTlJaeA?oc=5",
@@ -460,6 +524,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "6226f651aa2d729e",
+"title": "The government will grant access to the power grid, which has been given on a first-come, first-serv..",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMVZwaGhaNEhVYVNmbVNMNjE3LVJIOG9ubTdGbDBKQ1JOM1hnRmd1UUUxSWxWTjdQc2R6dkNGclZhZ0NyekJhTDZLS3NDbnZzcFE?oc=5",
+"source": "매일경제",
+"published": "2026-09-29T06:33:51+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -846,6 +926,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d3338d1142d5f744",
+"title": "Vodafone Idea adds 5 lakh users in August, but active subscriber share lags Jio, Airtel",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGhWdzRpOVdTcEJ1MlZzNnZYR1RJNW03cy1WbDVhV2VkWGVoclJGM2xWV3F4UWdNWFlGd1p5WDFRbFNqSWVZV0tVM25ISmZQUjdVWE5pQWE0dVoyMk5PaThMb3VsQVJaWjYwYm1oRW9SQW9sWXAwMmhRQXhaV19XbUQxbTNic1BVamw1ZnBCbnRLSmJvNWgwS3JJV2hGMGx1QzJKUWhVUzA4cktaOXpZUEI1MFJ1bzkxQ2tYM29LSnNIMVVKZGZUbVNlX0NPblFVQ1pBWmg5bnk5MEhmWDJ0Yzdyd3DSAeQBQVVfeXFMUFBoVnc0aTlXU3BCdTJWczZ2WEdUSTVtN3MtVmw1YVdlZFhlaHJSRjNsVldxeFFnTVhZRndaeVgxUWxTakllWVdLVTNuSEpmUFI3VVhOaUFhNHVaMjJOT2k4TG91bEFSWlo2MGJtaEVvUkFvbFlwMDJoUUF4WldfV21EMW0zYnNQVWpsNWZwQm50S0pibzVoMEtySVdoRjBsdUMySlFoVVMwOHJLWjl6WVBCNTBSdW85MUNrWDNvS0pzSDFVSmRmVG1TZV9DT25RVUNaQVpoOW55OTBIZlgydGM3cndw?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T05:27:43+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "90e808b75250f720",
 "title": "Cholamandalam vs L&T Finance: Which NBFC Stock Has Better Growth Potential?",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlVfZk5zNzkxSV85cFVweFVhcTBnZXNQemllRjJhd2pZU3RQRzhZMTVWZnVyQ2tTSW1mTTZ1aUdhaWJzLWxLejFMOGNaU1Z3WVNSWVl0bXU5Y0Fad3F3bVYxcTdQdV9tdUZrQ0txalRaMUstVmZzN1dGeGpEdmNMSjlYZ1RUWEJBZm1Ob0lZRExIZklpUXBFQkx2VTRtTnF5REx5eGpIRFJxNGM0RjNDa1A1VGVVa0N0Y0s0?oc=5",
@@ -965,6 +1061,22 @@
 "Corporate action"
 ],
 "sentiment": "negative"
+},
+{
+"id": "2658e88c991d4735",
+"title": "Nifty Rebalancing Today: BSE Nears $600M Inflow as Wipro Exits",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGpKcWZERmcwN3lrZGx2cXRMTWRDbWZGWTlaSzhTRTF0cC1kRG9hMlVMbjVMNHNQY0hJTFJOUXhmc3cyMzEwUHRDVFAweDdxYXVscEx4dkRXa1BjZV84VXNseHNuRi0tcnk5QTdXd0RHenNlakVyOTRPNzBxTkh4aw?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-29T05:13:01+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "204bb537c24d8987",
@@ -1290,6 +1402,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b8a9efd4b436f539",
+"title": "Infosys Ltd Sees High-Value Trading Amid Narrow Price Range and Institutional Interest",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnJJOWFyeXc4blpoX2lWN0JhVm9aX3hRMGFrUXVMdzRxMTFRWGdlczNxR0hhZWlzZ2pGUUMtX0tNakQ5NnpsTFliUHg2ZnRXeEFmLWwyZ1BSNTFkRnc4OXZaTWFmU29lUnNDWWtiYXRaRnVkMmozTkNpdUFrTDVlb1dKOXRtTTJwZkVtUld0UWMzeXFHaG5ELUw4OFBsd092Qk8xelA1QVVfX2VOMWVvNUdRVHBwQVFYZjY4RlBZVm4zMGpTYW4wckhYaWFZOWVSRHdWX0hDRmNxOEp2?oc=5",
+"source": "marketsmojo.com",
+"published": "2026-09-29T04:41:50+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2258,6 +2386,22 @@
 "sentiment": "positive"
 },
 {
+"id": "c37550d1aa3a3f06",
+"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services News",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-29-sep-2026/liveblog/134555014.cms",
+"source": "ET Markets",
+"published": "2026-09-29T03:15:21+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "25f1b634e4154aa2",
 "title": "SBI Share Price Live Updates: SBI's Price Movement Today",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-29-sep-2026/liveblog/134555005.cms",
@@ -2290,6 +2434,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "6b6c3c089a54b49c",
+"title": "Infosys Share Price Live Updates: Infosys News",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-live-updates-29-sep-2026/liveblog/134554883.cms",
+"source": "ET Markets",
+"published": "2026-09-29T03:07:23+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f509274a801c3d14",
 "title": "ITC buys remaining Yoga Bar stake for Rs 645 crore, takes full ownership",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVFGdVBvRmxwTkNRX01NTlhveVl3ZDlXS04yQnBPMTZfOHh2MldWdVExSzh1U19LdTVsS1BVeUVwNWxUOWxUZGw3akczcWFDRnRsNFpJeEI4NHZFaklsLThvTWFqcXo2SzQwZWFxNFoyVTB4QjdzTFFqeXBHckNmWG40dUZYVEMyMjFKVmg4UkQ1YnNQdFJTUl9adk05RGRWSDMxRzN2RTc5Mk9kVEJkcmxST2NHSUluRV8ybHVPR21LcW5KNGRSdFpFYXLSAcwBQVVfeXFMUHVRRnVQb0ZscE5DUV9NTU5Yb3lZd2Q5V0tOMkJwTzE2Xzh4djJXVnVRMUs4dVNfS3U1bEtQVXlFcDVsVDlsVGRsN2pHM3FhQ0Z0bDRaSXhCODR2RWpJbC04b01hanF6Nks0MGVhcTRaMlUweEI3c0xRanlwR3JDZlhuNHVGWFRDMjIxSlZoOFJENWJzUHRSU1JfWnZNOURkVkgzMUczdkU3OTJPZFRCZHJsUk9jR0lJbkVfMmx1T0dtS3FuSjRkUnRaRWFy?oc=5",
@@ -2314,6 +2474,22 @@
 "source": "ET Markets",
 "published": "2026-09-29T03:06:44+00:00",
 "first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "01c4b6d02eba1ae9",
+"title": "Tata Steel Share Price Live Updates: Tata Steel's Daily Price Change",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
+"source": "ET Markets",
+"published": "2026-09-29T03:06:44+00:00",
+"first_seen": "2026-09-29T06:56:58+00:00",
 "symbols": [
 "TATASTEEL"
 ],
