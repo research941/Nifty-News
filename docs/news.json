@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T19:01:27+00:00",
+"updated": "2026-09-29T19:20:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -461,6 +461,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "00dd2f3ca9c3db3e",
+"title": "Apple set to launch Apple Pay in India later Tuesday with Axis Bank as initial banking partner - TechCrunch",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNc1RlOWhkQUFNVVlEQVU5cEhMbUU1SEVUck5hZ2FYakVEWGFKNFItc0c2ajlTWm9kaUhfREFwMUhxa2pVVHp3eVpJNDB0MVQtSkExMFJDTHVwV19Kc0N4Y0NPdWVMeFRGZXF6Xy12NGhEbElaeVc2N0d5Y2NTd2Y5amJpMER4UmYzMk1kd0cyOXRvTXI0dmRzOUlPQlJpaVVtZVhrTW9BTkF3SHhpamlBZEp2X0ZENl9zNGxKRm9wak94RWFma0ZIT0ZyVjhoMm9ZSWUzSEY4RXMzQjlXZm04NS1Eb3VjcmUtYVBTTU9NZk9iY1lwYjJvUFkxU3FHSGlqWDFmM2dB?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T18:50:57+00:00",
+"first_seen": "2026-09-29T19:20:25+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0ad3de3fdd6d37c6",
 "title": "Top stocks in focus today: Investors must watch Tata Steel, KSB, Power Mech, TCI shares on Wed, 30 Sept | Triggers",
 "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-tata-steel-ksb-power-mech-tci-shares-on-wed-30-sept-triggers-11790695244837.html",
@@ -751,6 +767,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "65f9cad2ff89f6d1",
+"title": "Infosys, Wipro shares plunge to 6-year lows in intraday trading | Sensex fell by 243 points, Nifty 50 by 64 points | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQlNIVVpsUmE1bzRoNDNnTDUtSDA1V01GM0VMSW5fVUlTbXlvVnpXb1lJWGdWa2lnOG9GZk1iSlFSQkQ0X0pkZ0F3bmRUc3F3RThQTFBFeVJ5NGdRZWYwa2NyOWYwVEtiaEZqM01tY2pCdjJ0UkF6QnVGcmlmS2QtUTViMUlqMmxtR0lpcnU0TnlDR2NaOXl5Q0Z1b3UwenM5dmxjLUpUZXJMZ9IBrwFBVV95cUxQRlFNWlg2SnlkcFRuRjlCb29jU1BfYWNkQmloMTk2NjZ4Z3FTbzZheGVkcW96SjNEdV9EamdwSjB3bF91QUJLU3RDS3hsMFdhcWJwUmhWdGNvN1lvOEtWRl9OaFdJdWFwVldiZFdUaXYtbi1IX1BTcWpNYjBLSGpLcU9GZjczMHd1T0w3Q3EzV2JoUXB5RDRYcENLeTVvalo0S3lyYlA4cjViR2VQMnVN?oc=5",
+"source": "Inshorts",
+"published": "2026-09-29T16:51:05+00:00",
+"first_seen": "2026-09-29T19:20:25+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "dcd353fc8f74cc97",
@@ -2545,6 +2578,24 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "cfda6fdc72dd64fb",
+"title": "SEBI Drops Case Against Vinod Adani, Finds No Control Proof",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaW9OVGRwNjlrdUwzR2ZPYjhUMFZfU1l2eUY4R01POEN5QlFEZXFQeGJqTUFxMS1XUVdTWmwyTjBQN3dnLU53aEdiWDV4VU02Z0xGUkNFYmwyOFNfS19Kel9GZnFfQnVWY3VRRWxsUmNuMjU3SzV2Zll1TjFSUzNTcXhIVVgxWE11c0FzTW4wajFoMXA5VzlCWTA2WnYyczZTZkgzT1pJaERDSmlEWGtzZi1UakJrYkgtcTVWTTYweldST3RtUmN6cmhMMEhoUzlDZ3FUZktRckNTUmdwbC1pYjRVNTVCNl83d2fSAe8BQVVfeXFMTmZ2TjJKcm1MQThJa1p2WWpCS19TVGJ5ZkY3MEt6MXhkSERuQlNhX2xWZXlTVC04aVYxVngzZTVXSWduMm9JZFhsMnY4R0tOSjRzcllQSmZnaGMyaXNQenlHNGRkMnpsMUg4c1dmdzd3SHJMcVpLOC1rdUJtOVNuWDhrVmpmNS1feTV5bTlBLXFQTzhIMEUtNHBGN05VS3JHLUlIUTdEQmRhTzVZNklXTkwtamJFUWV5ZGU0eVdHOVN3bEROeG53Y0ZvdXMxekNGTjNYU292dDJ2OVFCdFJFRmFLWlVwcjdlN0c2M3RGSjA?oc=5",
+"source": "Deccan Chronicle",
+"published": "2026-09-29T11:28:26+00:00",
+"first_seen": "2026-09-29T19:20:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
 },
 {
 "id": "7dfb736afca8719e",
@@ -5026,6 +5077,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9f6ed1280874e301",
+"title": "Top 10 Adani Shares List To Watch Out For In September 2026",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Q3dWt1S3V1MkNyMU9rZlJoWU5uY053WXNyb2JTQi0yTTAxTnJiYmFOb2RYcEF5NFFYMzFjS0RSVjBWYmxfTFJHNUFOc2MybXl2cXR3dXJZbDdodUZiTUdXTmw4VGJSMDl6VHM1QXp0QUNCZmdJNldGLW5CWWRJVWNnSFk?oc=5",
+"source": "Samco",
+"published": "2026-09-29T06:50:54+00:00",
+"first_seen": "2026-09-29T19:20:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50399,76 +50466,6 @@
 "Adani"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bc6e5b92d4081922",
-"title": "Mahindra & Mahindra appoints Deepak S as Head of Outbound Logistics Plant Operations",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEQwVXNvdmNjTDd0Mk52MjVMUXRoSXRYMjFEX0ZrMDd2RUZPU0p5ekpqT3hBQXljdmk5ZUs4dkloMUlCRzFTRDN0NGxsQno2dS1Hdm5ZaU5FUmdiY1k0OTBGSDNOWWxoNTN0ak1NbmZBN0RtQUp3eHFxU3ZkYmRtdTNZYmlTVDNmenpaX1VETjlaZmtJemhiei1ldWxhSjBvNHFISm14ZlJ5OUtfUTdBYXh0Z2Jma2V0bkIzUHVKblIxNGk2cmJ6WTU2R18tMUNiOU15SE5WS2NvNERxaGtSZnFR0gHnAUFVX3lxTE9qZ1FHMHltcVl3dlB5QzdrZ3ZsR1QtU19QNVQ3YzdRMFBxanUzb3d2a095eDNoVUhWcDk5UGFUdkVDMjFZOTlJcHIxMk1BbGdJbVhaYVRSUVYtSWFJZGhDelJNQXNNWVZaX2p3RXk3S3Z3cERYYzRMNjhMNlV3blVIOHFVQjJGaWlVZzBQSS1fdi1mN2ZqUWgxOWZXLTJVelpzM0hjQ2VJYU1aNFFRRFVjUU5rUi1ibTQ1QmFRT2drOTdvRXd0ZnpjbGhGR3hnWUFERURuQ3JhS2pNS2ZFZlVwTnZKbnlvVQ?oc=5",
-"source": "ET Auto",
-"published": "2026-09-23T12:51:02+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "68ea4e300d40bffc",
-"title": "Infosys stock falls 0.86 percent as IT shares lag",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHA1VmlVTnVPaTZOZ2IzNlBZemVfVDdqVTFqUXlvbXFEYWFMeDJfaHpSX200VHNEV3J1WXUxVXlQcXJ3a1d5Q1VLNUMwd25xVDJtU2xyMHNPZEN4Z3U5YUFlaGZKSGUxTEVOdkRyMGFmdVVHVkZSZExFNGYwM2lGbGJDeXlGMXBveC11OFRaMUZLOUdXdW9Xa2pTcVhQYXJnRl9nb0J2YU5MNXFN?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-23T12:46:12+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "e0957c7fd563340f",
-"title": "NTPC Pays Rs 3,393 Crore Final Dividend, Total FY26 Payout Reaches Rs 8,727 Crore",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVlNWV0RMcFE5NWhBUURvVHBKZlpXUjVHcnk5SFRqeXNVNEtJRGg0RGg1aEhlamY4ZnZncFNsT2dXT1NJek5rMHdsQTZqVkVTOHYyUXpsTHJ1NVgwdVVrV29WN2wtTGo1b01GcnFBclRnTVdXLUNkNU9JcTVaS19jc2E3S3Y0TXhScGlwRkFtMjktRWR2Tjc0b29tQVJkWWdMMzBuVGJvSTIxMmJTOW9BbEtqdkJabDJRUTU0b2dCSkdTUdIBygFBVV95cUxOMjFxcVJsNXpFNXg2OE5pRkxoS1lSLTdhekhxektLSVdqNDl3VlpJNzljMUhBZXV0eDhiM1ZMTFNsNDREY3lTQUVKckZEbllrZ3FSUWJQc3BYRld5R1FPa3g5TXhFZnE1ZFpMTG43R1c1YW1jdWVEZmt6OG51TnNXdHJfc2pRbGpsbExVZjhCQ05LOHdwa2ZEa0VPYlFnd2xiRDR5ams5Z2FIdnJMTkZ5TXl5c09nc1ZXSF8yTGZ6RWFvQ1k2U0NLZU1n?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-23T12:43:57+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8252083615f250ed",
-"title": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSENYRGhmT2JuYy1KUlIxMGxFNkFTSzBxY2dEbExBSTV2VHdIV09WdlQ4WlRmY19YNFZfSmVmMS11SHJ6X2NubXhCeGxNQk0tYzlicWtuYlQxaGlkbDBoQXQtNUhQWFJ1MWVCUHpiSlhSaXA0OXhzSElfdm9sWlFMLWFiWTc2VlA0VFFfdXpqeWZBRHhITHZOdS05VjdUa2JYcmdxWVFmdW9jdWtuYk1QVDB3eXNvbWJkUkpHaUNhaHVGTDdiRnpR0gHHAUFVX3lxTE9IQ1hEaGZPYm5jLUpSUjEwbEU2QVNLMHFjZ0RsTEFJNXZUd0hXT1Z2VDhaVGZjX1g0Vl9KZWYxLXVIcnpfY25teEJ4bE1CTS1jOWJxa25iVDFoaWRsMGhBdC01SFBYUnUxZUJQemJKWFJpcDQ5eHNISV92b2xaUUwtYWJZNzZWUDRUUV91emp5ZkFEeEhMdk51LTlWN1RrYlhyZ3FZUWZ1b2N1a25iTVBUMHd5c29tYmRSSkdpQ2FodUZMN2JGelE?oc=5",
-"source": "ETHRWorld.com",
-"published": "2026-09-23T12:39:51+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Management"
-],
 "sentiment": "neutral"
 }
 ]
