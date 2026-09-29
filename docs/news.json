@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T19:35:10+00:00",
+"updated": "2026-09-29T19:48:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -830,6 +830,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1c17dddec4b1f673",
+"title": "NTPC Green Energy Commissions 153.94 MW Solar Project in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTlJKUXhtZkJkb1o5U21PZDlIdDY4QUJlRG5HZnpYMWNaemt5enVFYjlNMks0THNWMklDb1dMbzE0dTVBa1NMbzJSQ3pNXzhOUm5DOVVvTXlNXzlaZ0VnR2hOXzRQM2paRzV6LVRMR0s1TzhRVU9EekpORXpzY1BtaF9UMjRFdG1CaWhXTnpMSllBUzRGeXZUOEVMMGhVT3pSTDQzYTlEa0JiMEdpZ1d3dW9ndEJJQV9fZnE1c1p1ZzhFQ2RvbXU1YmVwbnktbXRacVdTY254M2JYY0tQOFU0VTkzb0p4dw?oc=5",
+"source": "Whalesbook",
+"published": "2026-09-29T16:58:19+00:00",
+"first_seen": "2026-09-29T19:48:00+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50445,22 +50461,6 @@
 "Results",
 "Management"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "4618dbd0646c94d7",
-"title": "Mahindra & Mahindra (NSE: M&M) Thar Sales Growth Plan and Automotive Business Update",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2lQYnRSYWRpcUpFNlhjUTBWOUFMUXNnQTdnR3F3eHRudE1nYlU4UHQ4amkzTU0zVmlrNFBMVGZpV1BaWTVETXRyNzJ3Zy12cWE5RnMxV2tuSGZxOVBBVUMzV1NoZ1BhMHlzU0ZfODYzRjFGX0VTcUxyWGhFTlZOR045ZEFVY2FqNkx5M25JZ3NFNDlqRFgyQ3BzeHlxX3p2RmFwRVNHV2p1dmtiZ0dmWGt0ZVhBVFNQWEZNSG9VdFVub1d5MGc?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-23T13:11:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
