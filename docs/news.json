@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T10:25:55+00:00",
+"updated": "2026-09-29T10:42:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "ac842cae54120ed3",
+"title": "NSE Closing Auction Session: BSE, Wipro Lead ₹24,504 Cr Rebalancing",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbVlseFR2SzlwdEVvS1Vvd0JpNXYtN2VZV0NyUkNnbWVQTzZJRHZMVFVkNlZ5djZVTXFHSlZKeVpqMU95OXVxN29Bak5ydGNQZE9zYjItRm1nenlDMTJYMU45UlJERTRHdDJ0UTJaUzlGTzlMQ0l2NFJoYjltX2lzdmh3NUNMX2VHcDY1MHZMdjBQb2xkcXZYWGE4QndCOTFTeDZDYTEtNHlDdWlwTTM5U2FOeXR5UnNfaVdFX3lVWXF3RFNGZ0hORG1SUjJaeGYtZkE1OUxZSW1ldm9IWXE0S2htV3lnbVF5Y05sOVp3Yk9pRW9QM1d3?oc=5",
+"source": "businessupturn.com",
+"published": "2026-09-29T10:32:15+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f74e7e7f075d79fd",
+"title": "84% wealth management firms see need to redesign operating models for AI: HCLTech",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmF6ZUExTDhqQlB0RnVCNmJ6LTZVdTRPbkREREJPTWUtX1BhSnFMNW5mX3JseUxqVEh6WHA5WkNyTmpFNllNdWctZjJnSEFHeHQzZkJZQ3RXZEFxX3paNUE4ZVZiQTFyblRaS0xDOHhSRi1qMWI0Mk56UjdyRDBxU2F6T2lSRlkyejlJODQxR2xlVllJTTY5TVBWR0l4VXd3eVo2ZjVEdVk1T0lUTmJWOFRGRVRiNXk0YWFKWjNGZ2HSAcQBQVVfeXFMTUw4Q1lCVDFSeTMweVRocFFZY2M3Z2VzeGJwRS0tUTNjRW5XTkVMbkxLcnpha2pVdnNqdHdWY1ZnaTIzd2RMVXFJbDFnQlZlRHpEWnZ3d2dZS2RPRzlaYll2dU52WUJvaFRna1BVWE11VFI3eFMxQ1NsWG03eUZWRjlCNHpXdEU4OXU3dHVwc2ptcXJleENCN1phWGJfdHZoRXVVQ3hvVFluY20yd3RGUDQyNDdrLUd2UGsxU2VmY2VMaDVKcQ?oc=5",
+"source": "The Tribune",
+"published": "2026-09-29T10:27:52+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b6fbbf7e8315f8de",
+"title": "Shalinee Kulshreshtha joins IndiGo as Associate General Counsel",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbklrMFBoUktqWkw0ZGtGdXY0WGJjZkRkN0E5c1ExdVRVZ2RRSVpGaTVVa2tKLS1YQ25WQ0RaWl9HV1ZoNVJndG5UUXYzX0FMSW9Ga2RCWS1feE5lRWhmQ0xsSnFoUmtCcjlYSmJBaEhzNk9nQ00xM1FqeUdrSUpEWXZ5TUZ2Um83Y2ZXaFJpcTNXUGpVM0wtSWNGSmdaZlFHXzZPNFhmV0NrUGIyN2pvR9IBvgFBVV95cUxQZDNxYVJ0aTIxNWJTN2xMVkVCdU5NSU0xeWw2M2l5RndwRG5JVUJiczltd0poczBnUl9fQzdMQk1lcHUzYVNldUhGQVBwTlA1VkJvaGtoMTBReVhiaExFdzhKT0w0cjNHeElZYXUzUWNQdEx2cDFFTXVnbjNGdWtrM09lVkNLeFNjQWVzOUU0SUxBc3d4aGEyb2pKbzl6S19mSlFtMnRGbUJza1FqUmJZN21yRnFrWnpqU210ZlhR?oc=5",
+"source": "Bar and Bench",
+"published": "2026-09-29T10:23:00+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6463e5993eb4e4a5",
 "title": "Mangalore Refinery wins Fitch 'BBB-' rating as ONGC support underpins credit profile",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0VJeTNHVGV5Z0p0SS13bW1IM0xTTFNlNUNPaTFDOVV1WHNXVjRqTlc0VlRVY0c5ZWNmcWVGdlV1RVBtTE95RmFIN3lOMllvdlplQlBRRUNpNXNFczNaOHpLX1ZnQlhMU3NqTV9vQUEtbTBWQko5NzloTFB0ZTBHQy05TC1KQU5WZWhxeHNFUHFhal9GMmVPNVM1enlwTHNT?oc=5",
@@ -767,6 +815,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "ff9db21c6b04c39a",
+"title": "ITC, Swiggy, Eternal, HUL, Dabur, Marico shares: BNP Paribas sees up to 47% upside; target prices",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa0hSNlgtSWR5LTl0ZTY2T185QmMxd1pLc05rMlA2eDhoWmMxNldIc2JnUVljUmlJQ2tjS045cVJFUWtydHFwQUpPeXF1UVpnZmxTU1VHTkdHSUN5MUlOOXoyTU1oSld6ek9ESWM4SXgwR2p6WlBfMzd1YlhVTjJITHRmUUpYRnlEZUF6MU9vMmtJQTNZUUs4UDV3aURBZllJSWpQRmhpdkhLYzlCdm9kdDFNS0NSYXpsektnN19IUHpDajFTbFZiN2lJS3RNUGZDby0yTTZ4cmppVGdNTzFRUWtWU05lRmJ1OU5wUHlQWTBhT1HSAfMBQVVfeXFMUGtIUjZYLUlkeS05dGU2Nk9fOUJjMXdaS3NOazJQNng4aFpjMTZXSHNiZ1FZY1JpSUNrY0tOOXFSRVFrcnRxcEFKT3lxdVFaZ2ZsU1NVR05HR0lDeTFJTjl6Mk1NaEpXenpPREljOEl4MEdqelpQXzM3dWJYVU4ySEx0ZlFKWEZ5RGVBejFPbzJrSUEzWVFLOFA1d2lEQWZZSUlqUEZoaXZIS2M5QnZvZHQxTUtDUmF6bHpLZzdfSFB6Q2oxU2xWYjdpSUt0TVBmQ28tMk02eHJqaVRnTU8xUVFrVlNOZUZidTlOcFB5UFkwYU9R?oc=5",
+"source": "Business Today",
+"published": "2026-09-29T09:24:50+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"ETERNAL",
+"HINDUNILVR",
+"ITC"
+],
+"groups": [
+"Consumer",
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3056208bce39b23d",
 "title": "Landmark Cars shares zoom up to 12% to hit one-month high on M&M, BYD store additions",
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEVGUk0wVVZnX3F3NWJBX213SkVScF9rekNwNU5VQU9BSmxVN2J3d1ZKZkI0Ujk2QW90eHNON0ZLZFBhRnhwT0pBbERPNU9nQXI1NHhsbWs5TWoxZ01uSENqOEZ2dm85TUluMlEySVRSMDEwTXo3M0hsWkVoclNkeVYxNlg5U2VjTF9rSnhLNmU4M0tyMDFkT3hTakx6QlFCMzRZYld1YTRiNGNmUnBIT1pYSExCYl9wUnRzZDNCdTVSMHVQNEFENHNmd193RURKaHRPRlVsaS1oUEEzcmFUU2hn0gHnAUFVX3lxTFAtbDF1NFVIeV9YQ2RVRnN3aE5WcEJYN25iUEF1bG9VNi1DWS1vUklOczdBcHUxVXgzLXI4Vy1Hc2dIN2dOOUY5YUZYcS1xdF9pRlljUXk3dktZZk1tdFR3V1c1UVlwMnZobFVYWU9iaHp5dTR4WHcwYVUxckx3NnFtUkVkZ0ZtSUR4ZGg4YjhpQlhMY1NFb3VYWEpja3BzWkd1dGlfZ19mWHNxNkYyX01uZ2pNM3MxYTEzdWt3VUpYZmRMMmdCZnhVd2dJRkdqR3pldkI4VVZLSDhlYlhDeGdiWWstb25QVQ?oc=5",
@@ -1018,6 +1085,22 @@
 "sentiment": "positive"
 },
 {
+"id": "b9551c44c1f8cba0",
+"title": "Mahindra & Mahindra Financial Services Places INR12.5 Billion Debentures",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjJGNm1yQzM3eXBOcXpOWF9HeFVIWjJJS3Q2WUJtekxETTVzS01FZklkLTlWbk5fSE44UGt0LWIxR1dYNjI1NlZwLWt6VV9qUXBFQ3I0ZUdJRUdNUmMwb08yRWpaX2hLOWJ4TS05X29pWW8wbTIwZTBibTFWR3JDUUpKQjJzVktkQkI1RTBaa0JLTFVBOTBTX1V3MmFUenlEMkRyTmR4MEFIbW1ZNjk0anFFdXZTMkt6YjhCeXNRSW4?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-29T08:57:15+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5a9bcd16160cf707",
 "title": "InterGlobe Foundation and IndiGoReach Organise 'My City My Heritage' Walk in Mysuru, Celebrating Its Rich Cultural Heritage",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbGRtdjdUWjBDcFI5dkM5R0FJOGU5M3JCdlcwUGY4NEw2bnNkU2JscXdxWXpEWHBFSVR6VWxoZmtRRzJlNHpyNXZ4OWFCT2JyUUo3MEFXd196YlJVQzdSRXlnYVdPY2Q3RWMxMkhHZ3p3bTRjUm11eE1ablU3T0xvVkg5TS1LT0E3NjBEdE1OS0JGSGN5VVZESWp1YWU1RkRqaFVBZGVWQ3JtNG5xUWRXUDZoQzUyM2hLRkNMVFpsT3dpQmozTGZzSnVXUno3ZVhpd2pRMlZ5bXlyUHpGRnBsV0MxeVRscVhiNVN1cUZ2ZWh6VmhQeFE?oc=5",
@@ -1098,6 +1181,22 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "9b6d8ba802b265b4",
+"title": "Airtel, Vi rise up to 2% after August subscriber data | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczNxSC1zYmx5N3NhVld2YkstVHViRGN4YkIxeHhzM2xDZDBVTENTZUVyQUFXVWxiLVJxZTNwNEROWUJWbWdoV2hKWGxNdHVnNEg1OEdPM2FzcEItRGdJZzl2ajExUkJUWWZkRmRGUkxYQXRobkpxSUVoS2ZrTnJUOE54M3NWVjZPb2xIc1lULW02OEJIa3dpa2ZZSVRjYzFJSXfSAaIBQVVfeXFMT3MzcUgtc2JseTdzYVZXdmJLLVR1YkRjeGJCMXh4czNsQ2QwVUxDU2VFckFBV1VsYi1ScWUzcDRETllCVm1naFdoSlhsTXR1ZzRINThHTzNhc3BCLURnSWc5dmoxMVJCVFlmZEZkRlJMWEF0aG5KcUlFaEtma05yVDhOeDNzVlY2T29sSHNZVC1tNjhCSGt3aWtmWUlUY2MxSUl3?oc=5",
+"source": "Inshorts",
+"published": "2026-09-29T08:37:55+00:00",
+"first_seen": "2026-09-29T10:42:14+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "cbd7f3359bb94c1c",
