@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T11:08:50+00:00",
+"updated": "2026-09-29T11:19:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -462,6 +462,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "f96b2ed1b6cd76c9",
+"title": "IT Q2 Preview: Infosys, Other Large Caps May Cut Guidance As AI Deflation Bites, Mid-Caps To Buck The Trend",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd3g3cWxMTHd3cmZYMFRnSm1iYnMtMHhhbjk5bzFDdThKcXRNRjZPeGJJeE5WSnZ4cGZ0cXFVcFNKUTFjam1pSDBXMlpNRGhBYzVuX0RRTElkbnQ5SXpLaW4tc0dLMHZxbDlWcUgyeUxPZTRPZGhEaDQ4SUpaY0pYeC1uMGJIbG5aQkhTVHNtNnZRb2NldUcycTRaQkxOdnpSQUJmc25zRzhST3lRN1RZMlQxb1hxT2tJOHBwU0lYemg3dkFINmF2VjhvcDdXRGpzRVlxblFzLUttNlJodnRveGxn?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-29T11:02:12+00:00",
+"first_seen": "2026-09-29T11:19:10+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
+{
 "id": "2f7623b7d7403cbf",
 "title": "HCLTech study: Wealth firms struggle to measure AI's revenue impact",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGhYT014MG9qeTZuTjdmY3czeTRxekVPLWhtVXpYamxYMWlYSDJQSXNYS3hsR3dybklxM1Q4WjBQOE1SZmQzRjh6dmhlMFplWDYwYk9NZ2xONTZwZVV4OFNyYTdCSlJpTk5EdE92RU5fWi1DLTVFOWhMcnRRMjF2aVNNb0FJR3BqV0xiSVBTcUFoeXVtVGRvLUwzNlVzN29SejIwZGZJNXFwUDNSNFpxdEY5VXdjbFlEMjVjTWs4WVBvRzVkWDh30gHMAUFVX3lxTE5QVF92cnNZem1UN0I3VzJ0dE5vQ1NQdFdwa0p0T0x0bndQc3I5WmVZaDRDZW1KbHJ0QjZjUUpKa0ZwVTU3UDhFa2NGdEZncUZESkNrWGlaUS1GYzhJTDJudHh4Qzh0WmlmU2VCb203Z2NORVNsM3lod3R5VVZqR1Q5QkF3WHhkdm1sd0k0TDFMcExkQ3lpTmRHVHFqZTQzeGtyc0szWDBXeTVKUEVnQ3R1elA0LTFYLU5oQ0hvX3VPVElOZ2FYU2dfMmExSA?oc=5",
@@ -855,6 +873,24 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "962c5961de75e035",
+"title": "Tata Motors Electric Bus Push: 26% Stake in Telangana E-Mobility Firm",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rT2N5ZFNWYlRHSDBTU3dqcnFYZmNzNUx0WXR5anlXbkNmanhhb0RiZ0FBN3dRTVp3ODFUNElud0dmOTdoQ3hOWFJEMEtOT2ppeGxHd3hHdGZnWFE5S01FY3dkWHE2SGp0YmtJcmRpNkEteV9hR3NRaVlhd3ZIdHc?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-29T09:57:55+00:00",
+"first_seen": "2026-09-29T11:19:10+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1618,6 +1654,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7e2c1e6e1aad4077",
+"title": "Tata Motors Subsidiary Acquires 26% Stake in E-Mobility Firm",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW9nNkpacERMYnN4QVJVRnU0Rk9tMU9wYWRUdTZBYzk2RU1ubjhwMUROLXAtVFVzT2tDM3ZFcGRHNG5ncmdUVjI5WkxTeGV5YURsbVF3QjlwRTlaNlYteUNEUGZ5N2xMS2Rpc08zWXpGYW5IR204NmJSSVFSaG03bzZQYmNlSEg3VDlCU3hyOGVVaWs?oc=5",
+"source": "Equitypandit",
+"published": "2026-09-29T08:06:00+00:00",
+"first_seen": "2026-09-29T11:19:10+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
