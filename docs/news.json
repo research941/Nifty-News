@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T23:29:22+00:00",
+"updated": "2026-09-29T23:44:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "aa23b28cf7862c59",
+"title": "Adani Group Settles Six-Year SEBI Shareholding Probe for $154,100",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZmFWZXc0aFdQYXVVa05tVmgtd2E4aEFld2gxa1ZqdFNrQi1wdWg5NFBBcEx5aDN5Z01nNWxwZlR5UHhKVkNhV0NKdk9ZMG1pZldLem0tdkk3TlNZbzJ0Qm1iemM4SGNIMkFqdGVPbkhkd3hSb3c?oc=5",
+"source": "finance.biggo.com",
+"published": "2026-09-29T23:25:00+00:00",
+"first_seen": "2026-09-29T23:44:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
 {
 "id": "efd6fc20bc5f028d",
 "title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C.",
@@ -5632,6 +5650,25 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "c36de404daba8d81",
+"title": "Maruti Suzuki Mega Payout: Auto Major Announces 2800% Dividend, Q4 Profit Falls 6.4%",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXlVbG43YUhiMVZONjdUYnl3dnFqa0lIYmZIZHlBdkFUWmRvb0dTcDkxb0JEX1V4VHpXLXpuWGZTQWhHR0dFTUpwVkZYVmZRLTFLQ3M4bFlJUmplVTRPV0x5aHpwMTN1ZF9jVlVJR0ZkVEtXdVYtOHNpYTBxQkNzeXBHLXpLOWMzakVTQ01QdU1nQUFVV1MzOE1oUE9OVElXT0xCTC1vYzZUSVJ2aUZTb1lTN2FydzZmWl9KV29pM1lMcmc?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-29T07:20:55+00:00",
+"first_seen": "2026-09-29T23:44:00+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "negative"
 },
 {
 "id": "e38e664ccd5ea787",
@@ -50399,40 +50436,6 @@
 ],
 "tags": [
 "Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "94e92c03f9bc0deb",
-"title": "Eternal Corporate Media, Led By Alok Ranjan Tiwari, Brings Together BFSI Leaders To Chart India’s Next",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbmViTFVIZF9vZHRzY1ZxSFkxRmRzcTFmdUEzbmJrbEprTWIydVNxclhqX1U0VjkzOU9JaWFZSmFDQ19TTTh4TnBUOXFfRmZ2aHZjSnBteFNCYjN1SlJ5VzJicGxXOURoZnMtTHI3d0FJUlNnQkJhaFdRVVF3VVJGUnJhWUlUcFJSeE12bmV3c2VzVmdiYm4wVkZXVWREaVppbktHbWxxWEVkWnJvdUVncGN0NVJkWUc0bU9vUGJHVkZycGlSRVpkekU2dGRCY1ppWC13UXlHX2tPeTN5bUFSdWFTUlZiZ9IB6wFBVV95cUxOb2c5R2dkWF9XaEdXb2UxTUppVVE0cXlWcmVHNVZKcG9CelJtOEMzSHZoXzFvM3pJazNOdTE1bVZEMGxPQXJwZjAxYzhUWDdJRlRscU4ya21WbWk2OHI1T2twSE5sdUFKOUp5QW41TEVIRE5pVlJwRHVydUNwc1BhVkU3cjRNZndjeU9rRGc3UXhDZW1PUHJaVWNRUUw1Q09QMF9idDJ4OWV3TXNnRzRXem5kUkowVFdBaUZFNmVxeFl6cEc5VVhCbTBtNEdkWlZXZHdSalZWenNOSDhuNXkxT3I4S1VWc1lLaFI0?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-23T14:31:32+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "655d79f3e958f9c4",
-"title": "Hindalco Share Price: How Novelis Is Driving High Revenue Growth but Also Creating Huge Risks for the Company",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcExkTG1DejdEb1JvbktjX29OUlp0NkdsanpkVkh3cm1rVWtYRTBsUmZxcUY3X3FITzFoT2xXSEJTUFR1VG9VWlFTdnJUS1hla05PblJKRDhqcUVOQm5kOUJGUTdzcnRBTjI5dXUxQno2dEVaQmZlcGVQUnExZllBMUx5S2ZOQTUyVjdQQnVQQmoxV0E5M1QzSl9zdHVVZE42VENreS1ZVFpjR3FqTHNxZ3NjbEtkT080QVdjS2dIZUpBM3B0YU1MWjl1ZW9hQ0JvV09uMUFuLUE0RDJzRkdPRnAwNUcxek55eVVZ?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-23T14:30:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Results"
 ],
 "sentiment": "neutral"
 }
