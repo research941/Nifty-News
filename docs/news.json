@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T04:30:39+00:00",
+"updated": "2026-09-29T04:46:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,158 @@
 ],
 "items": [
 {
+"id": "63b9d2cffe7e2f54",
+"title": "Coal India announces senior management change as Dr. Anjani Kumar steps down",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOV9mOTVZaGV5WU1wWHRyT2xob1hLSFVFclVCa2VrZzNET21IeVZvUHZHOUEyUzJhSDljeGwyRlB0ajFWYnhySUUzMDduQzRsajhPQkFrMDZySk1jTnlKZC1MVHRraVVHU1c3VE5Qd2ZXMFhPdERjYk5kMVV0X2pMWTRqZUE2SlQtVDR0UXcyY2wyeXZoSHJHNHVyYmZtcW5DNWRmQzQwTU5uQkQtaHliRF9R?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-29T04:41:33+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c4e5c17b9dc82083",
+"title": "Tata Motors Subsidiary Acquires 26% Stake In Mateshwari E-Smart Mobility For ₹2.60 Lakh",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1MtdVhKTUN6aGF1THNFd3R5NlgxWGZTZXhQOHpmNm5wYmJGNksxSXJuaEwwRlB5d0xXMWNXVVpXeTI2U0VsWDUydjRMMmswMnRERml6a3J6REVpVVp0ekN2eC1rLUdmVXRHYnZHNmhqM21rVnNQY1FiMjNBVExnR1VsYkN6X2lXWmhYZi1ZWVJWQnpoNEhFbXoyazd3ZlhtLWtOQVNIdzBnWEMtTjVWcE1Mc1VteEJidnhqSVZQRVcxLVnSAcgBQVVfeXFMTVB3aEZHOTd6SkdqT3VUSTdOQ3hHcWI4eS1ZaUc4aG1KbHFOaHhiUmJjTnZZNG5FMkF6SE56THNKbWRYS0RkQXJqMzYyeFVVei1WN0Y4VC1tYXNKYmRhRXpqR3lEWXFKbElVV1ZoalhEOGo2WjAxYlpkZEdKMDNxdGNlZHdfdEFlQjdwdm1oc0tGMU5hdDB1a2xpRmxrek5qb01Vcm5HTV8wQ3g4NjNSOFZ6b2VJME5sdUZzMktlR0JkNUJ0cVBMVUE?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-29T04:38:22+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0e1747a6c7376e3c",
+"title": "Coal India ED Contracts Dr. Anjani Kumar relinquishes charge",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0xpcjR4QnJvQ1dId0ozeV9Fc1Q3b25SNVFGa0kxUEVpUk5ObFVpSDlwc3pZRGg4NjA2UzNCQ3ZaZFA0eVJuOVlaRmJJWVptTlRZdkdEVUVJUEZsbXM2OU5rZGxCVEtXRTk1Q3liVWJmLUlRVWd4Y1FTUkNfLUU5NFNoSmdCcXFBOE9JQnNPamM2VDdpWmdYZmxCZmk1RHBrTUlod0xrbm50cHJVaE1mZnNPZHg1bUE?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T04:36:34+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b1ac4c7039a6e5a8",
+"title": "Bharti Airtel, Vi shares rise up to 2% after telcos add 26 lakh mobile subscribers in Aug. Which is Nomura",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQVZ0M2tETHRaNmZsWFY5XzhicmFlWlpqT0toOHFUOUdONGNYTnVqVWlxdm12Y0ZkX0ozVFc1XzlDR2wwTWxYQ0JrSlJpMDJIcFZLTkRHYXFnWFdsTEs0VW1zMFZ3OERqQWI0LVlhLXB5UDhncHZ2WlN0VC1JamdJS3p1OFlJV2Q4N3VranlWc21qcnh5NXRTcnE3MHdpTVc0UlFYaHE1WVBpVkdaU1VDLUliYTd4dWt0TElkVlNzLTFwaTZrT093NEtLR1ZBcDFYRnZhQ0NLNmxNZXhQMWl2cG9rTzNSdFJMLVU3UnNnNVdCTmpkZ09qaTI4NVpkSWkxRjE4NjZGdzNaQ3lwa1U5aGV2cVFfNGgxNWJ30gGbAkFVX3lxTE1BVnQza0RMdFo2ZmxYVjlfOGJyYWVaWmpPS2g4cVQ5R040Y1hOdWpVaXF2bXZjRmRfSjNUVzVfOUNHbDBNbFhDQmtKUmkwMkhwVktOREdhcWdYV2xMSzRVbXMwVnc4RGpBYjQtWWEtcHlQOGdwdnZaU3RULUlqZ0lLenU4WUlXZDg3dWtqeVZzbWpyeHk1dFNycTcwd2lNVzRSUVhocTVZUGlWR1pTVUMtSWJhN3h1a3RMSWRWU3MtMXBpNmtPT3c0S0tHVkFwMVhGdmFDQ0s2bE1leFAxaXZwb2tPM1J0UkwtVTdSc2c1V0JOamRnT2ppMjg1WmRJaTFGMTg2NkZ3M1pDeXBrVTloZXZxUV80aDE1Ync?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-29T04:36:00+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "039849cf79ee6024",
+"title": "Pharma Stocks Rally: Why are Mankind, Gland, Dr Reddy's, Lupin & other shares rising?",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2R4YmxoRFNLMVExTUN4V280bXFpSmxRNGpQc0JOUjduRGpXWnM5VTRBeXBqXzlUbFAzSl9WY3pBd3cwQWVTR1UtakNhVGZXU3ZSUjlETzhrWjRWVGE5UjBrSW1TY3J5Sk5iZjBGRU0yM0F5UjFVRjFGUHc5REdQeHROMXJMQklYVGVDSllZaVlHd3RsdGdMTkV4eUhoZmFrN2NTWHJoZ3FYZENyZzBWbG1qckJXSVR1RkVWbi00VktQZw?oc=5",
+"source": "Zee Business",
+"published": "2026-09-29T04:35:38+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "a651d7d46dc609d8",
+"title": "Sensex Today Tanks 695 Points | Nifty Below 22,600 | Bajaj Finance & Kotak Mahindra Top Losers",
+"link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxORDRwM0F2T2VYalozTHM5cGtoWGhoVGMxWHIyNVY1WHI2LXVwWlB5MDFhTW5vOFJUTFlQUWlCY1BYWmpmeHhjaVBSbF9oc05XSHkyUzFicWtnSm12Q0xzZUp1c19UV1JGbWx4dTEwMUdiN3ZjZlFXcWtnV2xuTFk2Q2J1ajlpbFdCS1dQYnZBR2JRd3piRDV2WEMtN2I5SWVxWVg1Ymc3cVh5UUVzeWtmR1M2S1BxZ0VXb2Q2MUZBWEVIWlh3a1YydlRpdi1ZWlJkbWQ0MV9pam1wYWZsaVljenJlNlNQZ3NlN2s3WW03T09UOVJKNW5tWVM0M3B4S3ZfOTEteWdrRXFIbVBUcmMwTFc0WlNNQ1J4ZGozbEtSaHZCT0FIbEhGbVN1RGpDUWxVS25aanloLU5faEdCdlVNN21YOE83amlBNGc?oc=5",
+"source": "equitymaster.com",
+"published": "2026-09-29T04:35:30+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "874e6fef5be487d7",
+"title": "Maruti Suzuki’s Next Big Launch Likely To Be An Electric MPV",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhIYWRRR29LTFQ1ZWhEa01UbnFmSHFiSF9XTWJZWHhONlhudUxiQ1hBMUthVUNIZU4tcS03X09qcTJpXy01NXA5V1pHcFFFdUVSZWptMmJfTExBVjBqTVdtNVZsSjVUMEo2WjVmY0RoMzRmOWxtV1hUcTZiQk4yNThWNlhwb3BrUFUw0gGLAUFVX3lxTE1maEhhZFFHb0tMVDVlaERrTVRucWZIcWJIX1dNYllYeE42WG51TGJDWEExS2FVQ0hlTi1xLTdfT2pxMmlfLTU1cDlXWkdwUUV1RVJlam0yYl9MTEFWMGpNV201VmxKNVQwSjZaNWZjRGgzNGY5bG1XWFRxNmJCTjI1OFY2WHBvcGtQVTA?oc=5",
+"source": "Gaadiwaadi.com",
+"published": "2026-09-29T04:35:19+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1251ae9ed423be60",
+"title": "ITC Acquires Remaining Stake In Yoga Bar Maker Sproutlife Foods For Rs 645 Cr",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWtacl9nb0FZYTQwSU5VUWhPSkZ5T215R18xWWZIbktXd2R3bDEyZHpUNEdXUUtPOTlrMmNiRmUybExZYmNFOUVfdkdGeGVWZW1DYzRoYlRfcm81V2UyeWFnWWhhSWR6dmtNMEVMUzJPZWZGOFhSNVhkQ01UalViV0hGWmlXOFA4dGZLb1cyNk1VQkNQT3dGbU9xVmdHbUhick5GbS1XaFRma1RYdnZyUjUzWThPQUV0N1E?oc=5",
+"source": "BW Disrupt",
+"published": "2026-09-29T04:34:00+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8c68bbd61b1361d7",
+"title": "Khaitan & Co. Advises Reliance Industries Limited on INR 12,000 Crore NCD Issuance",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDJFcTZCMmI0dE9pa1BjcUlaSGg0SjVJRjhpS1VYOXlyYjJCYXYzR0VwaDgzNUJVLVdUOFYtVlJiV2N5WlNTa2M2QjdreVhNZDdLNUtNUThtcDVqZkxReUFxanFhYkw1MGFLOFpkZWVPSUI3bW02eXlGYS0tZUhPYkZhNDlVcFhoWGtNX20tN2hZTVJwNWtnaTROcHpBNnF4TU5MeVNEcTRodWtfSWFmN0VzVmdxX3U0eEE?oc=5",
+"source": "SCC Online",
+"published": "2026-09-29T04:30:59+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c6c39afaf6824b70",
 "title": "CLSA on Indian autos: festive season growth resilient, M&M, Bajaj Auto and Ather preferred",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDY1Z0V1bDVnRjJpNnFvN2dFWHRfNFNKVUFMb1hITTR5Vl9oR1ZGYV9TdmNZemw5a2E2NFFKbU9zWlQxdmc1RWNQTXNyTDNaTjhIYUlQa2d4QkI1WUpLZE1HWTJzVFQxMVA0UHpWcnQ1Tjgxc1pkNGxMYVo1UENZTEgtY0VTckVYSVk0TUpHV2tTUWFvVkZEWnFtRVRDSUx0ZmFQR21VZS1TLVVXQ21XZC1Gbld2dldXTWNDVXRjb3VJaDBiLXpQb1Nvd0FjSlo1cEtjSTRFSkVzeWd3?oc=5",
@@ -619,6 +771,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "533d7656ce299d13",
+"title": "Jefferies’ power play: 7 stocks with up to 54% upside; NTPC JSW Energy among top picks",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDJsUVRPTDU2dThpM1BSLWlCeGNkUUlnWTZzVmliX1RqWVR2ZUtTcUxfb0J6Z19rQWd4NUx1RmRfZ1JSdmo5SFVqSTFyT2lUQXpxS0hFYlAwcGRlWVlWV2xGNG5FM0o3VUVnRzNOSl9kS3hyQUtZMHNCRXA5MExIcWtjN0xGWUdfT2pIMUx5N2tFN1JhdlBrTXY5bEF6dm9RRUl0U1o1TFk2WFo3SkdkRVhHT2hJTUMxVzF5cEZscTZCdFhQZHhYdUx5TVpWbHU5YVHSAdIBQVVfeXFMTTQybFFUT0w1NnU4aTNQUi1pQnhjZFFJZ1k2c1ZpYl9UallUdmVLU3FMX29Cemdfa0FneDVMdUZkX2dSUnZqOUhVakkxck9pVEF6cUtIRWJQMHBkZVlZVldsRjRuRTNKN1VFZ0czTkpfZEt4ckFLWTBzQkVwOTBMSHFrYzdMRllHX09qSDFMeTdrRTdSYXZQa012OWxBenZvUUVJdFNaNUxZNlhaN0pHZEVYR09oSU1DMVcxeXBGbHE2QnRYUGR4WHVMeU1aVmx1OWFR?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T03:36:36+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "768185cc1184aa32",
 "title": "Adani Enterprises, Adani Power, Adani Ports: Why four Adani Group stocks are in focus today",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjB1UlEtd0pRbXRfYkxadnhsdk5XODM4bGRaVnN1OXBqSFN4VmNjRzh4R0p1WDNoeWsxbVkwVGdmMGxnZzVjTFdvSnd0d2F3cy1FRkktak5JQlhrZF84YkNGT1RwSV9sXzdpVmxDWHlFT1hMS094Qm5fbnFaRWF3emd4NllSR1pYeU1iSnA5SWJlNVAybFhranp2em04ZEtRRXR3anVFSDNsSEkwei1JVmVnTkZ2NVMtb3pRTGRyd0lYZl82NE9aOGZnZ0RtTEExSkt6NXBxaEZQNElRTWZ3Mw?oc=5",
@@ -725,6 +893,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "9ab5ce557777b148",
+"title": "ONGC to Adani Power: Morgan Stanley names top 6 energy sector picks",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEc1Y3lDdHd0Q1J0RUlCMklVeDJadHR1QUhIZ3pMajJHT0NMZHpxYTZFZkZvV0xjcEFzaXBjQjZKZ0gwZ29SY01XV1pfRExXaWRMMHh2TWNweC1sMWtGOEJkYVRqYmhIb3lmZEEyT1doS3BIOWhIcVNVRVVocGZYMGlvR2dSZ3RsYzQ3UjFjOFB2OVh6Z2xVNFhPRlIzZ19iMzlSMllZSVdqeTdQVVFuS3JETkZad9IBvAFBVV95cUxOUTdpUFM4LWN2YXBEZnJWaVpNREFyTXlFWGhRZjRBblFsY21BZFloTUtyZXNuX0dUelpkanhpcEJLbGQ1RlJINDBuX3dERW95LXh2bjRYWElkckpQbk13VExZaktiNEFXZTZEWHh4NFFaTlNRSEJzX1ppSlZBUUw5SVpTR2VzUURjNzNYei1MTHpPVGdHMkV0WjU4bTJjUUoyeks2SkY1UFpsdjlaTDZpb0dTNkhrNnJ3elVybw?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T03:27:51+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"ADANIENT",
+"ONGC"
+],
+"groups": [
+"Adani",
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c2decf34f55bdf53",
 "title": "Adani Energy Solutions settles SEBI proceedings with INR 37,05,000 payment",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFNpekJ2VEZZaHZGUmlWQVA1YnNSSEduU1J1RHhJQlVPNjJxQWhhU2pIdVhRT2QyUUo4MXNvWkE5djVFa2JuMkw2LUVvYWI5bDgzX19kU2F2TXNGbWpZdmRjT1hkQXRvMWtENmFFZWFnTkt4QjBNZF8xREV6bFpiX1BHZFdxQTZ6a3BaZjRFUUx0ZVFocExUUkZtOHVhYkc5X3lrVWtvRjd5aUxNQzE2akZ5c3cyZw?oc=5",
@@ -822,6 +1008,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "957227d4da0fa01b",
+"title": "Tata Steel Share Price Live Updates: Tata Steel's Price Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
+"source": "ET Markets",
+"published": "2026-09-29T03:06:44+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1368,6 +1570,38 @@
 "groups": [
 "FMCG",
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f249562f3d03e4f9",
+"title": "Stocks to watch, Sept 29: Tata Group stocks, NCC, Vikram Solar, Coforge, Ola Electric, IRFC, Power Mech, HCLTech",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTZBN1JWXzhDcjlWSXVLSDhIVjB3WTYzNlZXVWhVR05OZWpKc19DMUtYc2RqakdWZWVkaEo5UHJFOEdabjZsTUc3cnRuS2VoLU5pM3lGbkpscEhpalBjcC1nSWR0Z0FLcGJNYkFFUWFKTC1DZEhyWHhnbVZxYUxBcFJiaElPNVVfMzFmYkZMQUJIVXd3NEVzZUVQVXBUdkVtcmo0QjlTb2FMZUE2YnotQ0VVaVVkSFJsNWhtdDBWQjRHVk9qYmZmVVdZcGFTQ3pLa0FvOVFWYXBiUHZuODNCYi16N0FRVm81LWxrRmlRZFVTM0hj?oc=5",
+"source": "upstox.com",
+"published": "2026-09-29T02:34:22+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d4c4e58451e79cad",
+"title": "Stocks to BUY Today, September 29: Zomato, Devyani International, Sagility, Astral and others",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjEtUGdKNUxlZ0VmMk5NV08xNUJKRmVldExIRDF3Qk5wMmhJcmg0bTYzb0paTTY1LXF5eV9pWmprOC04QUZIY0JQWWhRZEE4Z1pLZXdZeFZWRTFMOUJnTHpmc3A5enNZczZzV1d4R2lhMFZNOVUzUFRIV1B0SXBfLW9VZXZFaVZMSE5XeXNsS1o5M1VuWVFnSWNuS3BUV3RfcndVUFpPRG1UdDRIdzRoX2VndkQ4alpCWkFXdmNESzdidVQwN1B0M052a00xTHlEYnlVZlNjd9IB3AFBVV95cUxNYjQwTWJKY3k2SnF4VGZ2b2pWOHdldUc3dzYxSjQyMWdSbnI4UWMwZ1NGQ1FMTlVkb1NUcS1tY21jTTNIMG43bHZtY3ZVMXNTcUh2SEtpRDNtVGdXazZUd2U0UjBqR2RaZTdwbjZKcXlLdW8taHBkUlBFRjNVUTNlUGFUeklrRlJTS3EyZGk4VHkyZHg4bGxnSDJnRUhGVGFTZE9DRHluVzAtRXlmUHRtRk8wV1lBQkphZ3ZYbU9FTzdJbUlDYWNDX3BLajYxbG1Vcy1UT2tGTFZ3d3RZ?oc=5",
+"source": "ET Now",
+"published": "2026-09-29T02:33:16+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5373,6 +5607,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4ed665be586bf958",
+"title": "M&M, Italian firm tie up for underwater weapon systems",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMG5uQllNR21sc2hUWE1hRERWd3Mta2FUWllKOVVRdEd4Vml1MS1hUUM1RUJLNnpqUm16RFBQS0tzd3VuODk5UWdDQWhwWVhSbVJHNXpkNVdBQXFQZVFqc0FRSkFHVHFrUmo5aTlHUEhzc1kyM0hIR1M1WFRGNHJSbTFFdWhXQVFoY1FOblF4cG5ibmZaUWZCa2trQ0tsVjg?oc=5",
+"source": "mumbaimirror.com",
+"published": "2026-09-28T10:48:19+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "30e49a4fb3debf8e",
 "title": "Bharti Airtel Prediction for Tomorrow: 29 Sept 2026",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UFBWWGJxS1JWalR2WUcwRFFFdFNFNU05WktQVU9CZXVuOTh6eGVVSndKVWM3WDl3QVEybFRodVNBRHBEX1hETGdJbU5nZlU2NVJCeFkxMFBtUlJjMmRtX0ZFTS1VcFVzbk5XQXhRcG1VQ3FISEE0ekFOTGhPdFE?oc=5",
@@ -7293,6 +7543,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f56784241a1c5b8b",
+"title": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VakFpRExUYldXMkNsOENVSHQ2NUIyNDhRZklKbjVtZGJBMzFsSXpfRGJyVzdQWkxCb0oyYnZIMTRBblBmZl9WRmlRVTZ3Qm8tR1dJS21pQkl6WGpWOWJ0dllEMVpKZEJTaE8w?oc=5",
+"source": "upstox.com",
+"published": "2026-09-28T07:15:28+00:00",
+"first_seen": "2026-09-29T04:46:53+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
