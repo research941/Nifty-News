@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T03:58:14+00:00",
+"updated": "2026-09-29T04:13:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "c6c39afaf6824b70",
+"title": "CLSA on Indian autos: festive season growth resilient, M&M, Bajaj Auto and Ather preferred",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDY1Z0V1bDVnRjJpNnFvN2dFWHRfNFNKVUFMb1hITTR5Vl9oR1ZGYV9TdmNZemw5a2E2NFFKbU9zWlQxdmc1RWNQTXNyTDNaTjhIYUlQa2d4QkI1WUpLZE1HWTJzVFQxMVA0UHpWcnQ1Tjgxc1pkNGxMYVo1UENZTEgtY0VTckVYSVk0TUpHV2tTUWFvVkZEWnFtRVRDSUx0ZmFQR21VZS1TLVVXQ21XZC1Gbld2dldXTWNDVXRjb3VJaDBiLXpQb1Nvd0FjSlo1cEtjSTRFSkVzeWd3?oc=5",
+"source": "businessupturn.com",
+"published": "2026-09-29T04:11:53+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"M&M"
+],
+"groups": [
+"Bajaj",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0da2ecba46b4fc7c",
+"title": "HCLTech Software Arm To Acquire Croatia-based Robotiq.Ai For €9 Mn",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVVhQm53LTB6VDk5dmhxeXVYLTM3Y1VGTDhVMWNhYXNBU3ZHZlhfRzF2YXlvLWZ6M3lDeTdPOXNUSW9BWnpKdWZGMWZKWkNKdWJGaWFTX3BKX0djcWVOZzJZMWRDSWlWNlplTlMwaHVKUjlEWkJBUVFSMEY1NGJaOXZsYUFDVXJYRjlaSlg3UjVpcXoyb0JpcmdhQzRmRE85Q295NFRYeWJCb3dZS1E?oc=5",
+"source": "BW Businessworld",
+"published": "2026-09-29T04:07:10+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "be56791b034e05c0",
+"title": "Stocks in Focus Today: HCL Tech, NCC, PFC, IRFC",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0I3cmtvZjVJYnhfUUVaV3pWTzVlcmstOXR2UWtyNUxFeDFGZGZkRzFvZWNMbGZsM2l6Q3IyMkFic2dsc0NTendOSlo2RDIyWEpkUHJqTDYyRTFRTzVxdzNhTGdEelQ1ZVVEdXdjWXlxaFZlN2RTRGFuOTUxbUZJUFhFbU5KRF94aTVFLXNOOGFocHlLejhxb3RIYl9NMnUxY2FMMnZLcGhXU0pocGVxbXpvdW5xSXBVSnNzWDlYanI1YXk3anFuM3dqLXBub1ZCSnRNTWg5cEIyVmJIanNodnZyYUdCU0hqSTVrSEZlZ1RMLXYwY0p0c0VHZDI2cld0LTlCNFBXVXNicFI4TDRvaA?oc=5",
+"source": "HDFC Sky",
+"published": "2026-09-29T04:00:21+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b2c0f251b5913dd8",
 "title": "Tata Motors Arm Acquires 26% Stake In Mateshwari E-Smart Mobility",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYngwR1lWOVFfSlBqLXF5dmNIRThpb0REX1hzeXdNU3ZJclpiLU9EUTliSUFLQkhKYWJ6TDkzcmMyMVZsUll2NzFOak5tT1Z6TnVTV3pWUkJNZ2w3MXF0Q29uaW82VVEtRXByME1BYnYtSllVMmg4eFdLSEFlYmk0dWtZT01Oa0ZiMTViaXFMRzNZZ1RkSEdmM1N2UVRSbDdPckkycEJfaHdUTWk1bDlV0gG3AUFVX3lxTE43N3cyeklEM21ULWtqdFd2dmc3RzdlWGJISHhTOFdpTjFWbnhfUE1YUENRRENpTTJpLUdFSUIzZW9XRXpTdzJ2MkV2RkdLSEFDVjd3NXpnMWk2X2ZzYktQNU9sRW1zY0d1Qk5EanNKNFVOQWdWeW9BQmpuM0lmQmpvOXRKd2VSVTlRQk5teEhVTUk3RmxNV3VGZ242NUd3UDN0NEV6OUFVblpmVTdkY3hEZUl4VlpWVQ?oc=5",
@@ -506,6 +558,24 @@
 "source": "Livemint",
 "published": "2026-09-29T03:35:02+00:00",
 "first_seen": "2026-09-29T03:46:15+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
+"id": "4147f2a8a2ea662d",
+"title": "Top stocks to buy for short term: M&M, Engineers India and 4 others by experts with target price, stop loss",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-m-m-engineers-india-dr-reddys-labs-check-target-price-for-up-to-11-upside-in-11790573842765.html",
+"source": "Mint",
+"published": "2026-09-29T03:35:02+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
 "symbols": [
 "M&M"
 ],
@@ -1446,6 +1516,24 @@
 "sentiment": "negative"
 },
 {
+"id": "c513d986af7cfce4",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex drops 400 pts, Nifty below 22,700; HDFC Bank, RIL top drags",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-group-itc-share-price-29-september-2026/liveblog/134553859.cms",
+"source": "ET Markets",
+"published": "2026-09-29T01:52:19+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
+"symbols": [
+"HDFCBANK",
+"RELIANCE"
+],
+"groups": [
+"HDFC",
+"Reliance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "bbf117bfb876ff93",
 "title": "Stock Picks Today: Marico, Havells, NTPC, Orient Electric And More On Brokerages' Radar",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMEE1NEEzdFppcUxLc2Eya3k5QTdFN1hyX0d6bERKUVF2SFlRQV9YVDh2UVJLZGpDRklzcUQtX01HNzBRWDE0TW1xSHpsRElPNXBxNEIyZDhOUnZmZ0N5MmhCRng2Z1BXQi12WjA4U1JaRlRGWi03cm5NX25jd2czbElKaTd2QXZrWDE5Wk5xa1FacU9iX3RjMlEydUtHMkRoUTRiaXowZ0VId25YMEVMSndyT1MwRWdiR0JBYjdhVHlienRqWkY3U1QydUUtQ2tocEhDS0hWMzFzcFNmSnNzZmxVZlkzS1JTTE1yRU5ZX1RRWnJSU2swYm5BV0pjTHFHcUVoWlNBd0VtR2p4WURkN9IBmAJBVV95cUxOWDhCSnFEemc2eHhWUEVFWHBxTG1QdXdWcXVDakZ0MnJFVmpZNFZHaTd2WFA4N0xrMDJwRG1RTmZ4Y3hUQXBvOTZTYWsyMEhOQi1hMHZ4QVdCbXRhaEktMVNKVkFuNXhPN1V2bXdvOGRjNE83OXBXZGFpVWNvZ0M4UTIzZHV1U042ZkR2SDFIZ25jZENJWlhGQVppdE5FaWM0MU12cTZfVmstSXRKOVpreENqOHpzUzc1WFVmOXNnTkpnVExwWWNSaVBfTTJVTWhyTW1PdXZnNWRNMDh2emhqQS1OQUlrVE5jelpTQlB3WkZIaHBFSGFVd2lyajh0Y3BBLVJUamtlUWVpM2JnbjVOMGFBYmc1V3Rx?oc=5",
@@ -1765,6 +1853,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1e0f26d820c57305",
+"title": "Titan Company (TITAN) Share Price, News, Stock Market Cap NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUnczTmVTV1gwZmlhQ1QyNjczRjZTM3g5NzdRVDhOMTFDWTlOd2M1WHdrNGhhQUhFdVNPQ1dSak9VQWRvZWVVLWpIcjJtcjBoeDFUUHdmajAzTm1WUnc?oc=5",
+"source": "TechGraph",
+"published": "2026-09-28T23:29:05+00:00",
+"first_seen": "2026-09-29T04:13:46+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
