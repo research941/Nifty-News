@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T00:51:29+00:00",
+"updated": "2026-09-29T01:02:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -6903,6 +6903,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "428167679c4229c4",
+"title": "Bharat Electronics NSE:BEL Trading Window Closure Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2ZGWFozeWVZTTY5UHRvVDBtbkV6MTlJUjFucWQ4NENWNXExbjAyRXpuaEp2WTRZem1ZVktXWExHQkJvWDdZZ084QTVqZk9ENWREdVpPQkRiZ1JFTjJxVnRGaVo4RkJyY3JKdHBhLTVIMEROOFB3UHhQWDR4UzZyZzFaQi1tb24xQzhMSkI3ZFBXQTBpYW1hQWRsMHROUkhMYl9QMEtxZGRQM2Ntd3o2YUUwVG1iNVhsUWlvNnJoR3JaNDBYaEZMM1JB?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-28T05:05:00+00:00",
+"first_seen": "2026-09-29T01:02:54+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
