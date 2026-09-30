@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29T23:55:48+00:00",
+"updated": "2026-09-30T00:27:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "e61bc14d37ebe436",
+"title": "Apple Pay finally launches in India with Axis Bank support",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3hhVGprNnhzNmIwbWFkZUs1c0cxVXF2NWhyUGNzVlpuM1c0NHhJNGw4Qk5CbEI0bkM4LXc2TmhYVGhvbnRVN3M1Wk9XcEl6WkdfdXdZU0Fvek5tR05jS1pta19EUkRrSHg3dERNZ0w3RENaTUZYV0tXM3RtcV94UFhvSVBTNEM2LV9od3dtLW9EYTAydkE?oc=5",
+"source": "smartprix.com",
+"published": "2026-09-30T00:10:24+00:00",
+"first_seen": "2026-09-30T00:27:43+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b8587c951bbe670c",
+"title": "Apple Pay Now Available in India With Axis Bank Cards",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVmFjdkRsbkFwZVk1VHNPUUVYQjhKV0k1N19hOWxnZnlaRnNxVzJpMG9xQ2o0ZnBBVzdzTkoyQVpnTG5PZkItVHN5MS1DNWRWekNINFZHNXlIbFpaSWxfRXVDUQ?oc=5",
+"source": "MacRumors",
+"published": "2026-09-30T00:01:00+00:00",
+"first_seen": "2026-09-30T00:27:43+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8e2d9d5b3dd309c4",
 "title": "BSE shares to start trading on the Nifty 50 today; MTF positions above ₹3,000 crore",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPenpQNTZnZjRhQXduNkhWUmQwcXF0ZW92bXRyRGliOW04dE5COHphc0JTYU5IVmZ3N0ozZWQyenhoV3BnRWpvMTZQU3I3VUJtVDlvRXBoX2dwOTd1ajd0RTBxMGMtS1N5Rk04TTdYamFqZ1JNUFRtTmtzaEJuakxfTGlRWUZyUHJ3ODhMZUx5cUFtWEJTVlFHNkpleG50ckZCWTVQSlZuVE1RMXVSLW50V2NjYkZ5a2p3T0tmdXFkakdVZ3ZuZWFtSmplSlNyMVBfNEZYQlJrZFlpWUdYdlNB0gHkAUFVX3lxTE1kU1BNTzRoNE9aMXhEQVNWSE1WQzV4QkZQOUtqdGY3Q3RSMmh0b0hNY3NxNEdrTXUtZW5jMHZfSHlFNjFEMkZKUHFvVDFuV3dJbmlaSnZnOGpkTE1RNjg2Z2V6bU5jNmtHX2phVVVJSUdCdzhuTWFESHVpS3hMQkRCX1BKQW5xVEU3UDQxUENESGtYeU1CcDlvM3NLT01vSmw0OXY3YS1QSjE0WmJFM1JodC16NTZFbTBWb3h2MUVUaHhfWnFtMFBzRXdMNTRQNGowWUJhVGhtMTB1WDNtZjJQa2xMOA?oc=5",
@@ -576,6 +608,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "57d6081935c07a9e",
+"title": "Infosys Ltd. ADR outperforms market on strong trading day",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakJqamdkRDF1NjZTVnA1OG83MDZvNWZjcklhQlg1M0lFdlNSeWYxSmR5cEhINGhGWTE5a083S3kzZTZXcEp1YzZWd2R0QXlWNThVa05PTXFYQlhUNFRlUUFKc3dCREs4ekxhT25FMnJGNml5LU43V1F1WEREUFNFTC1wSWg3SmNFM1FzMFdNODB4ZUpMR3FGc3JEN2d0c3dZWGNpSDJFaE9lMS1KaFRkdjBmandLOVdmSXd4WnZXRGNkR1I2ZzdILUs1MWtXRHM?oc=5",
+"source": "marketwatch.com",
+"published": "2026-09-29T21:25:00+00:00",
+"first_seen": "2026-09-30T00:27:43+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "edcd8fed45c45c9d",
@@ -6558,6 +6606,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "7c6d3344a71a64c8",
+"title": "HCLTech's software business to acquire Croatia-based Robotiq.ai for 9 million euro",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3Nzc29UZEZsLUhReGIyZ0V3OWVDTzZYRFcyaGtZWXdzeFNKcXJubW1lSERYUnpMM1VxaXQzQjhONE94OU9wRE5pXzhfVVNPMXFMWEdKUDl5dVNvRnJ5b0ljVHQ1X2g4dVN1U3cyWTlEYmpPZWtfZndUNUFIR3JjdlMxaFhSanpEVTdmMTkzczBScE5lZTREM09TQi1WSW5tN2xiRzhLWVgtNWtQd1FwYzBLbVpjWTZkUnhxM0UwSkJCcUZxZm9KZE1KMXFvbnFLMG5sSGJNbFN3WTZQ0gHiAUFVX3lxTE5XOGJqY09rZWlSblpKWlphdnc1bHh6WEJmTjZDY0J4d0djWTFZRWdhTTVOVFpxbjBIelFjMUdyc0hNd3JFWk8yVy1wY09hS1Y5d1pBd3dIdGM0cDktdW9qTHBrSW1nTmQxcFpRTE1hN3p6TjZadW5jakVlWC1wZFZYOWtzTzZORjNVc0FHRkFoZnRqNGUtSDExcUQtMloySFhYUmg4WnhYT1oySDluWVFka0Z4VFpISnh2Y1hmcVlGSEJKcHpzTW51ZWl0eFpUUnU0QlNlM053VDg3OEJyZkxBbWc?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-29T05:53:00+00:00",
+"first_seen": "2026-09-30T00:27:43+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "c874b6f53f746861",
@@ -50364,77 +50430,6 @@
 "tags": [
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "8f22d8aff6cad2b0",
-"title": "Who is Arvind Subramanian? Axis Bank appoints IIT and IIM alumnus as additional independent director for four years",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjJXWEVwSnJJQUZZYk1Zb1lXa1lpd1dtT0QzTzk5Z2RhaGpZWndENFctUlFKcm82UHFaZGx6VVVGSFYzbUZocGE2bzVNM25VaFB0S2E5TGFfTDJDb18wMnlCaExWYllEem9RQWd5MjVCcld0M0VIcmlVbm1UN0F2RkhWUldrTkhzTzRDdEtoWGxUSVo2Z0gwQVZKZ2ZxMl9xV0NjRTNxNHZOWDRFSzFGSVpVdHdaNmdSWV90SlN5VFBvV2VzZjlycFNjOEFGa3p1dm00dkczNDBGTDVVcVVyTUxXaWlUYXpfT2V1TlJOQWFTSnFFM1RzclZ0THBLZTV1?oc=5",
-"source": "TradingView",
-"published": "2026-09-23T14:39:31+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1bf04f98421cea5d",
-"title": "Airtel Money plans biggest London listing since 2021",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3oxTHVaWmZ5RU56YjBhb0VaRG81enJmMWMzOTlKZGNKYUxSYWlEX1MxanB5TFZkSHAzdERWQ0loUE1BUXJHWmh5ZG9JTkhybDkxZXp6QnpiWmloMEZibElGNHhqYVNHX09lNm1lUUowVGM3NERaYWhoRW9UMUpqRnprZXlfVTdqNXNNVEtvbEtXMVRlZndDYmQtS3gwQkQ5SzBiR3REM2lwSy1jTEE?oc=5",
-"source": "TradingView",
-"published": "2026-09-23T14:39:24+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c20bcc1f301131db",
-"title": "Sedemac Mechatronics block deal: HDFC Life, A91 to offload 10% stake worth Rs 1,329 crore",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNTN4cDk3X0F5dHpzUWx1RUY4UVdpbTBWZDhrZzJZOG4wbVc0VF9FWFAyV0R0NjBTWGx6cVF2TWV5MGhWanNzZHpjdk5BSVpHVVJHaWpLUThZNXU2ZHAtZ2dBXzg1NTBuelFWZVBmR0taZXV0c1BUOEdjSHJ4MHFwS3M5RnhZd0NCZnFqNVFZZWFyeGUxSmdONElrMWJMRnAxZzhqaXNvVEp4OXlJeGlPY2NLcjRRdkgxZm9sSG0wdUpyQUo5cVQyYkJCaWhEWnJ5RzQ0b3JleFY5N0hIaTdBQTA4Zy1ZWVVBbVhjcEV1X1TSAfYBQVVfeXFMTTVDLUk4aHp4SVNrSFhQSTFHWk45NkRrdkJfcmFqV2UzS3M2Sk4tYndxbnNocEEtcGdsWUM1S3d6RFZoelNsZHk5bGNwX0ZpdExUNk9wRnNiNkFnOVFBSEh6X2RNVjFnWmdXNUZWM2MxNEtXa1B4eWNIVVdHUUV5YmdXVVQ1UjRfSU9ablFBRFpoWWthYlZpX1hJRGdOeFo4djVHaUhHa0JvY3dTLW1jd0tDbl84a2x6dTMxZEhuVmtMN05fZ3ZHczVEX1VWbm9TWjRNbnZ0YjUxckN4SDRFeWI1MUE4WGVxNjVET3RYZ2tMcUxxeEJB?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-23T14:38:20+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "58bc3ceae5a495ee",
-"title": "Airtel Money to list on LSE with final offer price by mid-October",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDBoYWowN1V6bDBWWTNhYUwwSUZVX1FraGY0NGh5WVlhd3N6bm5IS3JnSy00bnYza213dVMxT1ZqdzRETTVsWjk5X0xtMVBrUkpsZFJ0OEdOVUN2MDhZZjlvY1BEOXBSNHhnRUxXYlE1dlFldVBMN0ZVUlFJWVVHRkpocEgtTFBfR0xZQjZWQWlLNjhRQkM1bVVxRTFRVFJmZ1AxSmRBbmdOdFpNT1ExT0VIUllmS05PVWlBMmVDVjFZSXVwOFZlUTYtMVdnbzJoVkZjNTZRa9IB3gFBVV95cUxPUk1pUW9GdUpGSXdwSGRTSTFBU2ctcVZXay1CNmMzUXUxUi0zbTBTYzdVMFNwQ3RCUnU5TDIyT0o2WGxOTTM2dVBxN1hnblRBOWR0QzVGWlVERUlnVFU4bU5QaXJNN2ktTGFodmhodDNKSjRqN2hZcDVIbFlhWVRNUWRPWlZPbTFsX3JHci1jcW52RkxoS0FJc2YwblVYdFZ5ejFNVnNxdVdCMjlvZ0xuMjB3blM1N1NYNzhGTHdPVm5iYUk2VFhRREtrNE1tVWxzVDFycGJHS0dKV3hNcEE?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-23T14:36:53+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
