@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T23:45:07+00:00",
+"updated": "2026-09-30T23:56:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -11363,6 +11363,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "35a1525144e8bda4",
+"title": "Maruti Suzuki Victoris On Road Price Sakleshpura Sep 2026 - ₹13.48L",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN19nZVYzY3FHb3RieVhIMG5ReGtQdTBNakFWU2l3UEMzbVZBU3dfbmdfYkZEektDbS1TQ3lIR2RPZXZERUU0WFNBYldxODlDQzRLdG41WFktM2FvWnhBWElUOVN6YTlkbmZpQXFrX3BtRkI1ZlUwSURGT24yLWJKNzBVREVMeEE?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:22:10+00:00",
+"first_seen": "2026-09-30T23:56:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50400,22 +50416,6 @@
 "tags": [
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "abe05e30c0db9e70",
-"title": "ITC to host open houses on 250-mile mid-Michigan grid expansion",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGFpOC1OUm16TlBOcTJsQjd0M0FNbFFUTERCRFJpRXpDTTF6WU92OHZNS1lXSjZPbGRyVERXMUozMG5LY3ZiR2dkX3JzN1Y5WjIycWpLQzdRMUFpT3NQQ25Pd284WDZpV3Q0eUxBeThCYURodUhPRWl5UFpmMk1ybmsxeDdyZzdjUXJCMXhwT09UaVh1NW80V2FndEhkVDlxSHpBb0xsTkNoMXN5Z1Z2cktHRFBjZw?oc=5",
-"source": "Big Rapids Daily News",
-"published": "2026-09-24T22:19:53+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
