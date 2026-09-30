@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T07:20:45+00:00",
+"updated": "2026-09-30T07:37:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,106 @@
 ],
 "items": [
 {
+"id": "61a0c4287765ab18",
+"title": "NeuRizer Signs Agreements with Reliance Industries, Targets Return from Trading Suspension",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEtGdFhDMFRiQ0VKanNGemhSRlNNckRGTDJob2UwQzJBNWxZcUdGYUlHZEE3Z1JuSWFvTEpIOHJnejFoeHRiV2R5UE9ISU5DZUZQZnhCX3BBVnBXVnlMU0p3YzFmTWJaVDlXUC1nNm1weGlSbk9xb21IYXdmWWRyNC14azdWS1dxbG5IZ0lKRElVOWZEal9BTFFVWHA5U2lFd1dQaDFYaTRibUxRX0NzNGtnOFhkNnBnLVJjMDBaTlJ6RVp5SkZUMTFzaw?oc=5",
+"source": "Kalkine",
+"published": "2026-09-30T07:26:54+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "88363461e458d1ef",
+"title": "NeuRizer Limited Secures Key Agreements with Reliance Industries, Aims to Resume Trading Post-Suspension",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVjNsWWY0QmE2cWd1WlVPdDVoa1hwTk8xQU82X1F1cm1aVHkzQkpJc1NxNENLSVJNM2JsTUtENjZ5dTJqcmRzZWd2T0JKcGtHRWJoUWJ3MFk2NmZudEswM191UFZsanBlMFg0T0NnUEVoQ2xnaTcyTndtSnJEeWFYN1NpdUZkTzEwanRzRTR2WEMwZ3RrRjhreWhvRFBjajRzYm1mMjZiVTBWYVhmbG5aNVhVNmhHb1RwX3Vkc3REOEZXUmdUTWZLWkppcFlac3cwVWV6bGhvSGplZzZsMHBYeVB1cmM?oc=5",
+"source": "Kalkine Media",
+"published": "2026-09-30T07:26:54+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d1de29cce08cad4b",
+"title": "Shriram Finance In Focus As Motilal Oswal Highlights Three Key Growth Triggers",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFgwbjlfVVRXX3kxS2dYN3pXWG9mTDhiZG1hdFcwZUdVZjhEZ1llcVB2bXRBaE5WcVFNSURsSzQtMTlKZENMZ196VHBZYjVGMElXWXIyRGFCNGdhS3MwMWdGV0d0bVFGQ0dMOEhVM0pHS0EwRHVoV21pUjdwU01fWTByZGttNG0yVk90V2xVSWprMFFWd21yeDBsSVVnMkR6SEwwNjFteUZjOXNLTENBcU1WeVk4d0c1S19iZHpqZw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T07:25:30+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2b07dfd4c380f91b",
+"title": "NTPC and EDF Form JV for Renewable Energy and Hydropower Projects",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZXlmMjNmS0dseEwxQjFJWE9pSGM4RnlCOUJZLWtDZ09jaE1nTGYtQV90b3hSc1JmS1B5bTlfUE5WQkFYUUpqNzFYWExDUzdOR1dVRU9uOU9QNmxLWVJ4MmJOZEZlVlJFUEdIek1LMVowVGg2TDVwTERYYjd0OF9BTG9DcUY1bzlkeW1QdVo0UGlQS1Q4NmVPeklZZk5UWURDVm1zWXR6VXFhRmRJZS1qTFRCa2V6NmM3akQtak5YdGt0TGhMVWhYbTcybWZ5Vnh6TkEySXlLX2ZCcEZpZmJ2Q1RQLVRFMF83?oc=5",
+"source": "Construction World",
+"published": "2026-09-30T07:25:29+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0f241b5d72859eb7",
+"title": "Buy Shriram Finance; target of Rs 1220: Motilal Oswal",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlJhdHlYQWpXdHFkMXdxQm4wSlFrRWVneWgtTFhhZGlrRkNaRk9TRGoyVm9ESS1XX2VlRU5jZFEzZzRibUxqVHRyWVFfbjU4b3V5T3J2cUdlR0lMNHRBc0JPZElwX0xHUEZocVR1ZlBpZUhUOU1XRnFjNkNtLU5rSUdFeDFydTdCa0JJaElyd2ZOVEZpSFNpX2NQU05odEJKcmlRbVExNndIemxIcXVPN3BzdnY0d9IBuwFBVV95cUxNdzJBNFg5YzRoV0JXYUFDQ0R6LVBJS0I0Q2tHcWFkRXlWRmZJY2xCWUYzc2RaYXU5SHlZaXlNSGotci1oWFhidTV0M2hJUU1ZbkdfUzNMTzRzSWhZaVBlWEhtelR1WE9ncVV6QjJuZWxYaldLSUJhVkNXUTlhMl9Yd1VIREVmRDk4d19Qb092eEtYbmJPRWhLMGF4eXBqbDExWEJ1OGtkMDhCSzlSTFV2b1RfZ0hNYnA0enhR?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T07:20:15+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3f1e53e80ae95174",
+"title": "Dr. Reddy's Laboratories stock gets a Citi upgrade as margins face a test",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeVZYeHJvakQ0VzZLWTBhRkpERDRPc3ozU0R2eFZGUUR1Y25VOUFtYXd0eGx2Wm1IMTg2UEJDempFdUZTR0Q5cDBOR0NPMkZpWTN3QmlGTDZ2Y2NqT1ZnQ3BiMEtIXzE1VGhwQlpjWnRsS2Y0SUxNUWpZT3RzM3BTS0xjbEFEWGhsT3NrbTBQRUlQVEl1UVREb0txdnJlWk5JUjF6VnQ3RzJrUlQ0Z2xERlFuMzdnYU5PNGVHcWlXdXZFcENiWDh2bmwzSQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-30T07:20:00+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
+},
+{
 "id": "1a2d4265db8b7209",
 "title": "Infosys' nearly 1 lakh employees to move into specialist roles as AI reshapes tech industry",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFI0dVNQZDY2bWp0Y2dhajBIcVpkU3VQQzltWlNQanBXdjR6N3RGX2E0WEpSWG4tYmd2QTBRWDc3QTZTcXlNc1ZJLTBzTVR3cnAyZTUzMHlQSFVtbTMtYkdHVGpuUmNUM3h3Q3otVVl3c1prb0xfOWJEQ3ZMcFI4N191Zkc2cDhIaGM2empLM21IU3ctS19iZFhSY2EzNEtkT0ZVY29pb29SS1hPdjcyOHo3Y3hFV2VNd09MU044cHhRNHdQemdkMUhyRC1tTEZ5SzZab28ySlJiQWo3d1E3UFNlV0_SAeoBQVVfeXFMTnhCcDVaSzdvSEViX3owUmdhZmtGbzg0RDhTSXVXZjBUU21Cbnl3TGhJVDFDSmxxcXpEeGpRM1FmQkVHSGlXekN3T0NXM20zY1hscnZtSUEwRmdsR3QyYW5nT3MwbHdmMW1pRzB1M2F2akloVUVLQVZsejFIZ1lnN1lpS2NIN21OS1NKM0Y0Zm9laVNUVDI5djkzYS1JR3Q1LUdBRlAySGluV1Qtd0FWY3RNeXlPTHZ3WTRHRUszUEd6amY3Ujlqb05Ld19OemtUQ0JaODc0ZGxnU2U5Rkk5UC1BdlkwLWhGc2dB?oc=5",
@@ -456,6 +556,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ca3ab0c65b3b0fd8",
+"title": "Apple Pay Launched in India: Apple Pay Is Officially Live, Starting with Axis Bank Credit Cards – Here’s How It Works, Where It’s Accepted, How to Set Up & All You Need to Know",
+"link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMmllcVJDeUVzWUt5bUc2RDVKQzUzY2l4S0toVE9jZ2J6ZUpJeVc1OXI0TkhsVm53b3ZXV3VURUR3SUJta0JQcWZ5OWl2ZFFXLXE0cWJIUDhUN3NVeWJhQ3hTVTdMck9SYlNUcEdSalFXLXRyM3Q4SnZSdlpBdlBWV3VxN2ZyRi1iVDhJTzNhTWNDLVZjSV9LMUljRmJvbDRzd3RXYmRCc0pwc3VhRHd1N1pyVm1FRG9JS210WVdZdHN3VjZQM1RsMHRjU2FBdXNqM3djOFl6QUpMazJ5NGVmZlJENGl0OGQxVnozc1ZKVGd2X0xkVVVXVXpoSjFWaExmeGwyWG5EcDA0QmhzNzdyUXRkemF0WHFiS3J5OTFiejU3RktmNDBmb3BkN0xuNUI1VUlYdzZlcjg1cGfSAcACQVVfeXFMUF9vTkc4Zzl3b1RuekNqdjJRc0V5a2ctUmdFaUdWWFBjX21YbzhJYkhXd29uTGoxeENxY21zc2VvOE5TOXRqYnZSWmZoTlJxVDc3eUtPSVAzUUV4SjdaWGtQbFhBX3I4VktyRXI0UFpvcFlpS0E3RXJGMmk4YkFxRG9uc29hUnUxMEszX1EtUFJWOHRtLXVJNFV2d3RsUE9FeVpZYzhnT3A3SXhzMnFLOW43dE1QdldFZDgySmlMTUxYbllvVWo4VTRSeDFwMk5XZGVUY3M2cTAyTkFJZjd2R0Y3ek9IT2Nzd3Boa0IxQ01QMmpaYk5xcHQxdTBQX00zUEFCU1BEMThWb1RjNXh3VVdmZ3B4S1NfTnpyNzE4Tk9JdktjRmtDeDd6aG4wYmFySEFzTjZ6NEFUcWVLb2hKN3c?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-30T07:11:19+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -755,6 +871,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3398d082724423c5",
+"title": "Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook",
+"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQc3RLbnQ2cGZaRkJrMXhha1E5S250ZEVpMkNkdjJ2ZlVBRUgwQXk0bWVON0o0N1NkR0dCN3ZaMnRVdy1HY3IyOWRkc2M4LUpwVGJJV2xFQ1hmMENwblBjbnRQNmtJOHZpZUFyZWZ0U1J6M1RkT1NHeXZwLXgxc1lsa09faUFEczdrbnlQbU5KRHZEeDZTWjZOVzRqa3B0SUFtcllKLTkybUI5bjFCZjRTNXF5aEZMR1Jtb0I1WkFtZC1rN1NfcnY5YWJZUmF2YkRYenJOZFNzZ0RIb2RtVHJZY24xOTFYUnlKWkhORGlpQjhpNkZpelZ3LUxUemdXbVY3eVhGbzl6ZlhVRjJmVjluS01DMF92Z285bGfSAZoCQVVfeXFMUHN0S250NnBmWkZCazF4YWtROUtudGRFaTJDZHYydmZVQUVIMEF5NG1lTjdKNDdTZEdHQjd2WjJ0VXctR2NyMjlkZHNjOC1KcFRiSVdsRUNYZjBDcG5QY250UDZrSTh2aWVBcmVmdFNSejNUZE9TR3l2cC14MXNZbGtPX2lBRHM3a255UG1OSkR2RHg2U1o2Tlc0amtwdElBbXJZSi05Mm1COW4xQmY0UzVxeWhGTEdSbW9CNVpBbWQtazdTX3J2OWFiWVJhdmJEWHpyTmRTc2dESG9kbVRyWWNuMTkxWFJ5SlpITkRpaUI4aTZGaXpWdy1MVHpnV21WN3lYRm85emZYVUYyZlY5bktNQzBfdmdvOWxn?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-30T06:26:56+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "16f57f585795bbf5",
 "title": "Axis Bank Postal Ballot 2026: Board Appointments Explained",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2dfekVkUEhtamtic2pFcGRZZG9XX0sxSWUyU2otdXg1XzlUR05zU1A2Y1ByYkJUTzNvQ1hoNTNIenNSeGpwTGdQZnp4NXFfRTlTZjI4Z2FLSjUxR0U4NC1LREc1SGlxd3hocFl4bDRfSjJBVWJBUTV3RGtxRkpDdzRLUTIxRDlyNkl1b21vcWhyR2FuOFY3cWI1OENoaUpxWVBQX2NmbnpqLUJ2U3JnYzhNaU9oYzZGdkJTR0xkalEyVlRHZnY4OEhZYw?oc=5",
@@ -927,6 +1059,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a1bd77c4b203095b",
+"title": "Apple Pay launches in India in collaboration with Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHVsd3lVbm9pY1d6aGJ6eXdyb0dzNm5qNzdreTZfUXJNN1dqS0tHX19OeDgtTjRhaWRZWDNUczl6U20zY2k0U3Q5VGlzNXQxWWRTSUZqMjYzd3duVV9TcGtTQlN4WUNlNDM5SmNBUU8zWlhObC1HYnc3ZlJGdjB3endoX1Z1NlVUcklEZVplQXJnektsa3VuUzVn0gGaAUFVX3lxTFBIdWx3eVVub2ljV3poYnp5d3JvR3M2bmo3N2t5Nl9Rck03V2pLS0dfX054OC1ONGFpZFlYM1RzOXpTbTNjaTRTdDlUaXM1dDFZZFNJRmoyNjN3d25VX1Nwa1NCU3hZQ2U0MzlKY0FRTzNaWE5sLUdidzdmUkZ2MHd6d2hfVnU2VVRySURlWmVBcmd6S2xrdW5TNWc?oc=5",
+"source": "dailyexcelsior.com",
+"published": "2026-09-30T06:07:47+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "fd2cd384c13abfd5",
@@ -2144,6 +2292,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d18add77d76d5164",
+"title": "Maruti Suzuki Victoris On Road Price Rath Sep 2026 - ₹12.63L",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JUlU3S2plMDMtS0tOam5SVVdfOUFDX2lOOFNUZkdMR2JDcENLOEViU0J3d21wNzU2c2VTdzNyUzcwN2E4WmtxbTBHYW1yY3hOQ0JONnV6LVU4SDZzcjJkZGRYcUxmc29WdzVsQ1JST21FOXlhRVVYeGRudWo2UQ?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T04:39:02+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3771,6 +3935,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ad6332b2feba230d",
+"title": "Enviro Infra Engineers शेयर में 7% की बढ़त, दो राज्यों में ₹664 करोड़ का NTPC BESS प्रोजेक्ट हासिल करने के बाद।",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWUlvUVpJT0dSaGhYYjZEdk1WMzRjTjlCMjlIM3h1emFzRUNIcU56RWJ6ZFUtZzg1NVpaenFsNXYyZTF6Nkc4eGVKWmdrdkVKSXNKdDVWY3d2WkxvZFd1ODk4MDJ5NjNIRFNPcEZrUTMwbEVfem52cndRYWNSZUVPTUdYeVQtcDZCRWo4b1JsSU9LdFh1S3lEQmlpTlgzejV6WHh3Rk9qM19ZMkxldTM2cDJlanVfU1d4LWh0OWNkZXBGZXlhSTJyZ1dEUTE4SVROSG9WS201aHd3RG51eGc?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-30T02:26:30+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5d59c8feadca0c2b",
 "title": "Stocks to watch today: Tata Steel, Power Mech, KSB and more in focus",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk50RjQtY1hZelJPbW0zTTJVVU1GdUJ5YzM5YV9tRW1KTHA4VXVCQ1FIV0M4eVRhUnp1MkRjYnhNU0VmdWhwYkNSSjZzcXpPQ0lmNmFVOFdnaTRUNS1lOHh6amd3TEI1MXFVLTZtT0lTRW5TYjBUU1VXeGxMNXAtQ1VVd2k4QTZUMkh6Q2QzLXBxbFZIeGtjR0M1Z2pia3ZBeDBzVzc2MlFIdkVfR21ya2xpRHdkZm_SAbwBQVVfeXFMT2hvMVVFVnhkWGpxUXVTUEZxUXVtU2tkbWlyNnNtb2txamJfM2xMZFFOR3pfYU9WLVZTbWxZWWY5elJQdDVvVWhuT1MxQ0VYWFdnQlBLMm1oSXYyOW91WmROU0wyMHBSWUU3RFotS1l4b3lMd1Y1ZjNveEZJekhFaXlQa3hnSllnRGpFRXZESGprb3dEMEwxZWIyRTlHdFUxUkV3dXZlcVh5Tm05NDlVRjc5NEVqYUxOQ25QalU?oc=5",
@@ -4048,6 +4228,22 @@
 "source": "BusinessLine",
 "published": "2026-09-30T01:46:30+00:00",
 "first_seen": "2026-09-30T01:58:58+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2886096685380975",
+"title": "20 stocks to watch today: Tata Steel, Time Technoplast, Shiva Cement/JSW Cement, KPI Energy, Exide Ind, Ganesh Benzoplast & Power Mech Projects",
+"link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZjMwQjFvTFFha25pSlp1NDBfNWZDOWJPVkVDUHJsQXp1T3RaamR1YlJlZXFDNHpvTm9nZzFhNWJjaU1BYlJwM2FqTVVjTWJmVjJhb2o0RGZkNGs1YkxVN25NV25HanE3MGdGV0xBb0MzU2FJNFpjTm9DTjZsM0szZE1VanhWUmFKZ1JNLU5VdjRUcWxUYTVpbXlWRDQ4enk1SkMxWHppS25HTXJGbkZldmZYRVNWQnpyMFlfUHBIb2wyUG4tNkREVGtWYVViWU50Y3dVU0JfQUJtQWNjLUE0YkZuMlk5UzJWRW10NWp0TWpXYVhhRFYxWnVGdUdsMWFGVEVQNmJ5RHljQTFMSFZCTEJPdGpPREhrWUxhSWc2UkhSUVlrMnNmR1V2SmFBTXFfWEVhSFpzR0ROdHcwcGJjWUM1eV9XVllyRTZkTjFtMmZuNW9zUTBJaGhid1luV0xnZ0g3V9IB6wJBVV95cUxQZ2dvZVZkSG5nTFRiMDlLWVFlWkNTTkpaWTRuTGhpcnBpUWI5dXNHUndYZjNYM0x3MW9VT0RRbE82YzRxY0RMN1gwQnNoaG5wZ2loR0lraWpxcld4c0NVLS1UUkhDMjhZaUtKLVNjTGVZcHV2VC1udVNITi1haE1rbmktODNtVUxuNm5fdTNZaGxTOGZ0MTdZakpHSkkxNFVncTFiVEp2R0wtOHdtWWdUTFBHdzVaYUV6UWx0MFR1YUpjRXlJbjZLQlZockZIR01LQWpPZGhsQTdNcS0xeHpjMHVPdENaRkNodDZPUE1nZ0VUNzlwT2tPNnNlWnM3NU1tbjlaZG1HNHZBcmpxVTBSWkZvMHZwQ21IeVVHUVpkaGhwakFnUGtuR1BuTG5yRjJpbGRaQ0xRQ3U1VFhCaUtDX1BYclF5bW1saUpURk5FV0VVR1MyMnJDYUxERVE3SU1SU0ZWTTJJTWJCZDg?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-30T01:46:30+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -6051,6 +6247,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e59c8468cd4347a0",
+"title": "ETFs Investing in Larsen & Toubro Limited Sponsored GDR Reg-S Stocks",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkOFBrMGYyR2l4SXRiaDNKYi1MRTk0SUxNMkNZVVFTU0ljcmRnQTFudnZqdDVSQ0J6NXI2Rk5kVU1GX0NqMkN0cUJ3cU03eTJIQUdVQXI1UnB4TG1Gbmc?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T14:19:59+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9092,6 +9304,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8ff7bd9aca5cc954",
+"title": "Tata Steel and the Dutch authorities have extended the agreement on environmental issues",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWk9VaW9yZ0FISlZhOXl3LTIyU3BvNkk0ZkFMNFpXUDFjTDREdk0zcU5tdm1SNDZPRGhpaFcwT2FGOEtNcDdIcU40VVh6MjFrV0g1ZDF5UG5vbnVfeU85ak50QjQ1TWROZmoxbzR4d2hoR1gtc0s3NHVSLWwyUHk5M2plOEtEMjZkRHhEaVMwVUtaa1NBalQ4b082QnYtS0lidzBwYjBKOW83cmc0Zi0xUzNjMGNUWXNFbVgtdm93RWZHeVppeE4yb1V3NVXSAd4BQVVfeXFMTXNyc01zaUdZUGUzeFIzQmpjXzc5Z0hwMndUWGV0NXlLbnhhdE5oWmtYVklRTF80bkxXdjJSVDNvYllNUnpXTVZGUmRQMGEycThrRlVhU0sycDJnUXJPcmVFaFpERm9tdGI4cnoydWlyM1Q5a09kaG5Dbm5HQ2N2RDZCcElZMVdqWUJubEIwU0g2M25IWk9kSnFjM3RkSXFEZkduRFhMMk4yU2RRYzBMM1Yta3o0eHI4SDEwSGw0N1RIUEM1SzRvakM3Y3BmQmJ2Vm52TzFRN2xkQ19xNkxB?oc=5",
+"source": "Металлургпром",
+"published": "2026-09-29T09:03:36+00:00",
+"first_seen": "2026-09-30T07:37:29+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50153,240 +50381,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "f4af53bb5fb83933",
-"title": "Insurance Stocks Crash: PB Fintech, HDFC Life, Max Financial Shares Fall as IRDAI Proposes Dark Pattern Ban",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTl6aDl4ZDFwOW1TWUhmZUNIdkJVU1NtNENiZXdTWEZLMS1LekgtbFVIN05OWHpmRm14Y3hzRXNQcjMybktjT1pLSlhaamZMNmJHNG1tb29CNGxVU2FsUzhHSWZXS21LMUltVE1NaUp5ZTJEX3lNZ0NXcHBEWHR6cXBHZEM3S2RWclM4cmJYVTUxc2pYWDlHeDhGd1otcDAyZUUyR1FTQlZ3ZjZXSUJiUWpQRkctT2p5NFVESXAyU01TdDZsUjNzTTlBcUlVZVlGekpqWVFSaUpEbUZTUE1IaVNKTQ?oc=5",
-"source": "India Infoline",
-"published": "2026-09-24T05:45:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "162964f16bf2b8b5",
-"title": "[Sensex Today] Share Market LIVE Updates: Sensex plunges 659 points, Nifty slips to 23234 as crude oil prices remain high; Bajaj Finance, Axis Bank biggest laggards",
-"link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQYTJFOTBXRV9OZnBKMHQzQWFRZVI3MUF4dE4xSGJVbG9NaEY4a29VZzhNdkFqdnRQbW9YNlBxdHVHQ2hveXNvNDJkQjI0eUtRSWlJNFl3Mkx0bm5FQ3l0UDhvc1hYUlpmZVZNWi1ibXVCLXA2cFR3ZzBTaUVfVklyT044VjZoV255X0dPMmZnZVRVZWVha3dFNHdxMzJQQmlYYlNzcWQyLUlKc0pGTVJwVXFfYloxcWtNa0o3dzg4MHRHdVplaTU3V0N5eHByM0RUcFd3VlFhR0VkUkNxTklrVmJDUnhMa2VjM1JvTHJzOVlGNW14RVVlSUlBMUpUczllOGFFMWJ3ODVmdHY3WTBxNURMdHVGVDJLLUdRQlZybERZWjN3Z1E1YUNRUdIBqwJBVV95cUxQYTJFOTBXRV9OZnBKMHQzQWFRZVI3MUF4dE4xSGJVbG9NaEY4a29VZzhNdkFqdnRQbW9YNlBxdHVHQ2hveXNvNDJkQjI0eUtRSWlJNFl3Mkx0bm5FQ3l0UDhvc1hYUlpmZVZNWi1ibXVCLXA2cFR3ZzBTaUVfVklyT044VjZoV255X0dPMmZnZVRVZWVha3dFNHdxMzJQQmlYYlNzcWQyLUlKc0pGTVJwVXFfYloxcWtNa0o3dzg4MHRHdVplaTU3V0N5eHByM0RUcFd3VlFhR0VkUkNxTklrVmJDUnhMa2VjM1JvTHJzOVlGNW14RVVlSUlBMUpUczllOGFFMWJ3ODVmdHY3WTBxNURMdHVGVDJLLUdRQlZybERZWjN3Z1E1YUNRUQ?oc=5",
-"source": "News24Online",
-"published": "2026-09-24T05:41:30+00:00",
-"first_seen": "2026-09-24T13:00:20+00:00",
-"symbols": [
-"AXISBANK",
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj",
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "29f05d8e63c326cb",
-"title": "TRAI orders Airtel, Jio, Vodafone Idea to launch voice, SMS-only plans for every validity period",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVnVaZUc4ZzZTaFR0TWhUVFlYUE1iWkpzZnNKZ2NxaUhfMldJTUVZOENzdWNIS1RPN19VZjV2QTFrc01MWkRweXl6THJLR21pYnp3WVRwQWw1ZXZLMldMWWUzQTBBbEdpcXpFY1VrNVZkUi03TWF2TlhBb3NTVkF3amNOcnl4MHJYVnNvZ0lSWGY4X2lrYlpQTUJBWlhQbFBVTDk3V2czdlpxYWw0czhmejJ3QTZvYnB5YTNxY3NhTnVJdzhtUVA1UnFtMWotMFYySTNRamYxN3ZqaHMxQXo0bTF0S2NHWjlZNDYzVmJFb2xXbFlmSU12ZWNMSHlxWG9mU0kzbFIzQdIBjAJBVV95cUxOT0Z4QkNJcFNlVUx2ZlZGQzhuTjQ3RUwzczlHd1NJTzhWUWtaaUVkb1QwYkVHMnVUUFc1SGJRdm1oLWpqbGVsREV3dFl3Qnd3OC10eTBQYVhmLXFmWEpOcXI3NF9JRzByY2hXS0RrOGVCdElDR0xOSHk2Z25VUWpWUmdTaDdXLVZrY0oyZkFaV2JjNXJoMHpZdFVNQnZpSk9Lb05zQ0RkdFJ3RmlONzk2bHE5S0ozSnhsb3N3N21MSUU1OVNQaExCNGNwaEV0emE3OXFVT3RPZll4d0FyMEZNOUhDTVhyWjVJZ3U2a2ItUnE4ai0wWGtuT1FYeTY2WU1sSGxZZUFBTVRJMFdK?oc=5",
-"source": "timesofindia.indiatimes.com",
-"published": "2026-09-24T05:40:00+00:00",
-"first_seen": "2026-09-24T23:54:31+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "08771bcfc0384013",
-"title": "Reliance Industries completes BofA Asia Pacific Conference meetings in Hong Kong",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDR4T3J5QmhRMlRqZXdzVDA2Y2J3Y0NDTzg3R050V2d0a1VJazN3RU43MWVqNlRQdEZlQS1TaHFBU0h2dTRFQVRud2lyTHVjX1o0Y1hzTm1ocmpzTWR3bF9yREh6MEppTnpaX0Ewd0lzTGJ1eWJRQ1lRX2syTXBMLUhNWkZ5NzBBZy1TVHVBQTh3aU5CX25ERXJhUmt6N2dPdm5RM1pwQ1lIX1IxZERjano3Y2JDaW1ydXl6dldHQQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T05:39:25+00:00",
-"first_seen": "2026-09-25T00:47:59+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eea9d4c5880dab82",
-"title": "NTPC Pays INR 3,394 Crore Final Dividend for FY 2025-26, Targets 60 GW Renewable Capacity by 2032",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlMySHY2bi1NRHhFUWVpRmlxaDRrYkRLX2l1YVhYdjRCcWQ2MngzaENfc2Q1Rmx5SmdkdnB3bDY0TlhWNW9tN0lWMVdnT3BQTzgyTHIzQXBieGt3aTE3a3p6bnI0cmtXaTdma0UxaVBiYnA5R2dOX3ZZMmd0MXJxdlo2OGNJbFM4am95QUNzV013OXlleVhJZ3BIVGNIWldoR1BidmFjZ0F2ak5fbE9pQ1UyQ3FNRXUtSzFob2VQV1VWYW8yVHZnbHpsNWU?oc=5",
-"source": "SolarQuarter",
-"published": "2026-09-24T05:36:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "451d8b68f22c590e",
-"title": "Gautam Adani Tops M3M Hurun Rich List 2026; Know Who Are India's Top 10 Richest People and Their Net Worth",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUVDY044cmNBdS1QRW5EOFJaWHFLbGRKeVVHWWNZSnhzOERUSmpWNmhuU0pScUNUYmtuLV9pbk01ODMwYk9vc0FWRDJaMkhXSHZWXzRZcVBXZFg0SWpmTEVPckU0NjVPakR4SGlxTWd6NjhvMllPQVR5M2daSHZPaXBCcFJ4YWE0WlZ0TmliNFEwQmd4T2lhdlRjLWcweE1oMmhfTUxKaXlicUpGQ0lUTm9zSi11TXdQOWRqRUFXNENRbXBRTDNWcEMydkxRVFcxbWw2QWo5UkY2NEF4UkpMby1tTE5Lb0lC0gHuAUFVX3lxTE8wdENVYW0xQUdEa2xvcnhzcGRqQmtfbXRaS2Joc3FuaGlnemEzMlRKNmp5WUo3YU4wbEhnVkJwMF8wcjU3SjROWFRUbXBoN1RXZGdvekExbzRNRGlGMVg4emJ5R2tCdnRZdDdpbExsVUNid01KZmNsVHZvcUpodVlDRGRYYllsU3AzLWFUVEFHb3Q2S1B4ME0tWTFBNWEzLS1aYV9xbEZtdTY1MnJVSEl1U1d4czlmSlNLcnRIRFVSZnU0REFBdVp6cEVPNHFVLU50VlliTmwzVkJEQnB3aEJYckpxSV93b3d0LTBnckE?oc=5",
-"source": "LatestLY",
-"published": "2026-09-24T05:33:30+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a782cbc86a8f3dfb",
-"title": "Power Grid In Focus As Company Takes 100% Control Of Barmer HVDC Transmission",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVpzQUI4MjlDZnJ5cHBIcmJfMElkenNaN29sb25tWEE4dzl4Y1IzZGN0Vm5HZ3NIQldVYzVmbDRjMzhJcS1SN2hhZTN5aU1OYWpuV0Q5ME9NTmtUb2VqRGxwUVc2eGxxSjZjRFVDMnd5M0xmTmtsbUk1R0NVanl0d0stQWNYM2FZYzJRcnNDVnlGOVBZLTlOc190RXZQRUFfWTVZdE9SRnJ2NTRXcDhlTlV4NmNMcnRzR29CTG85RlU?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-24T05:31:12+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "81e9a65be93b21ef",
-"title": "Buy, Sell Or Hold: ONGC, Indian Oil, Oil India, GAIL, Hindustan Oil Exploration — Crude Oil and Natural Gas Stocks",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFl0YWJzNDl2MVlBM2RnME50VmhLVjJYQnprZGJDSDdBRWtvaXNfdE9sWE5fbnBIRldmLWtZbHdobmdUbU40LVJuajd1bzN6OWs0S0hEZEpXLVlkUmdBMGhOb0tvV0J5Q2RKbWlxMV80V3NmSWZOR0ItQ1hhYy1VQm14UW1PZHlINWNXMm11aTZtMjkweUgwbTRyX01nWXJhaUJUUUdIYnhUbjNl?oc=5",
-"source": "univest.in",
-"published": "2026-09-24T05:31:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "28fb4fabb2a5278d",
-"title": "BHEL ने ₹13,500 करोड़ से अधिक का NTPC Telangana Stage-II पावर प्रोजेक्ट हासिल किया, मुख्य विवरण यहां देखें।",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1VTSnR1SjlDZVdYSzhJQmwzNk9VUXFyTXdYY1BjQ1lQYy1jMDdIMnpIeW9ydkhaRm9KclRpT1VFRFVRSXJjbk1WOTc0X3B1Vi1wcUp5YlR5WVAzNGpHRkpGSGZHR3FvLUhwd1Jlc1dTdV9UXzBIc1p5Njhkdm81RHY3cGdNYlQxWXViQkdaTThoX3BUalFVVTlaRG1fVGtEcHNWb1hqNGFuRlRpbjc3cDNOcUJLc1hRWXNaZGlodHBseUtONFBN?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-24T05:30:59+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e0b8557265c02e59",
-"title": "Dhinidhi Desinghu joins Bajaj Finserv as brand expands into swimming and emerging sports",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXJ0bHR0UVp2NXdWU0d4TFJ5RnJnVmhDaGdKeUZ6dnZUekQyVkwyVFIwUHcybi1vSlBQQk9qOERYVXRoSXAyYURKYVdkZVkxMkp3VkNTUFIyUXdQSm9vUVZmSjEzaE04cTNvWlRudDRXUDlfMUJ2NGE4ZHVQVDZWWlVxQTRhLU56ZDFXa0JzOWFNSmhFTTB5V0NxRExvT3Z6Y3prY25Td0RYM3J0N2FqV3BweFNZa1NN?oc=5",
-"source": "SportsMint Media",
-"published": "2026-09-24T05:30:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3abd2d2f47498684",
-"title": "Odisha takes steps towards nuclear power as NTPC, Adani Power get approval for studies",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXlNTUZKd290Zno0X3ZoZy1zN2FteXNQUE9nTTBLU2UyZktuQWV0NlBhaDZGU2tfdEZEOG1sVTVIa2l4UWhWcXIxSGt4MWplNXZHU0tvRnZFZlE0TEU4YnFRMUVKYlAzRnJDUHN2ZGJhR3laT3FXOEN1cHJWNzJ6MGstbWZEakkzOUdWTkpCSUtiM2h0RjA0eTlPOWlNR21KLUd6Q0d0R1czQXljN3E1MGU4UWNiZFBZSm5sM1BrS3VjRFnSAcMBQVVfeXFMTXV5TU1GSndvdGZ6NF92aGctczdhbXlzUFBPZ00wS1NlMmZLbkFldDZQYWg2RlNrX3RGRDhtbFU1SGtpeFFoVnFyMUhreDFqZTV2R1NLb0Z2RWZRNExFOGJxUTFFSmJQM0ZyQ1BzdmRiYUd5Wk9xVzhDdXByVjcyejBrLW1mRGpJMzlHVk5KQklLYjNodEYwNHk5TzlpTUdtSi1HekNHdEdXM0F5YzdxNTBlOFFjYmRQWUpubDNQa0t1Y0RZ?oc=5",
-"source": "Odisha TV",
-"published": "2026-09-24T05:26:29+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "21f6edd329e1fcd6",
-"title": "NSE breaks into top 10 BSE market-cap league on debut; beats HUL, Titan",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2lZWTJWandqX0d3M1RkRWdScTJYZVk0SWt1QThmSTB5TXVYX3N1UXh6LURVakhaYlpKTVZhdHMzcmVuSG9IbVlheEc5UjBQb1VCdG9XYlBvZ3p1TmdwYnRpdll0aGdJcXRtSEpjdEQ0OU5CSDViNHF2MERVSjFBT0pmODdMc0RJRU1yZnlYMllPUHdFS2txbmtqQmtsMWJWSktsWkoxWEt5THZLTThOdWNNSVVnc2lGQjNkdXg0SWdPSVdmT3N4elFyWllEV2ZPU2fSAdcBQVVfeXFMTjJfb0JYV3JFODl3cERjc016NWoyY0Y5ekszb25IbGJ6QjJxMFBoVjU0TUlGdm5wUW9taTMyYUw0T0dVa29SemE1UVUyYThRbmJGQjNoUmJvT2pNOV9kc25MV2F5akhkb2RQN01jZVlVWFc4TlUtQi1mb1lBckhqRDdzYkctenB3WWRoaHE5M2VxT1l4U0NIV0s2cUhqYzRMaE9Pb2pKTUM4cDkwWTZCSHlweTJnNlhEb0ktTUhHREZSb3RyQVUtV3BfSU50Y1B0eGlRQ0Y0eDg?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T05:23:41+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDUNILVR",
-"TITAN"
-],
-"groups": [
-"FMCG",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "a50da7ed5d40a856",
-"title": "NSE stock rises 5% on market debut: How shares of IFCI, SBI, Bank of Baroda, GIC Re are trading today",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVUlfSFBpaExrWXRFWXd3Z0s2Y3llRnVFaTRxSnh6eE12bE44OUNMVXM2em5DcXpoRHBqXzhkRTJmV3ZjcU5XSDdFNkdVZnQ2SXU2MDROZm90dHV5X2hqaWpSYXc4XzhBQTVLSFRFTFF3dGdYSkRjeU4wa2tSeFRVb2xNR09mRUQ2S2E4dmRKNkhmWkZSMkl6amMtcXc5UmFQdWduU00zUy1yZjc2M1ZScW1rWGQyd0pHcE55amhKZm9BcnhDMmRIaUxpREhGaGtwazNYUXhpQ3ZDclM1SXN5d25HTHliVmRydW16d0c0QVhqT1cw0gH6AUFVX3lxTE9VMGhhaU1ObXB0YjN6c21nd281VGp4azcySWlVMHZ5VTBTc0RqYnFsSnd2SW80TGxLczlid2lLRTRicnBGekdHNllreVAyaU1HX1czWkRUSjRGaGdlc3JXd2F1ajRiX3ZyWjNmS0I1dkhCX0dKU0ZvU2hsY29iS2YtUEZrREJxZEZJY0l4Mk1fU1VfM1ZlYUF6VFAyOWV3V0Z5Xy1rajBabUhWY0RhSUt6bUJIWFk4WE5HMXhGZ1kwQ0xiR0ZTZXl0b2RReVdObHZlY3kwNThOcEVwdEw0MVV2bUNZQnlNYXJjMlVINE9mZHBmc3dsTWR4RXc?oc=5",
-"source": "Business Today",
-"published": "2026-09-24T05:22:42+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "f4faa01c028930cc",
-"title": "Metal sector stocks fall today, September 24: Hindalco declines 1.72%, Vedanta slips 1.14%, Coal India falls 0.84%",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZmQ3WTh1dGtFQkxxWGlfTUNraWlTbDQ4OXE3N19qZHVHbVBZY0V2Qm8wanplWjdJLTFqcFdKTVk3LUVKWlZiRTVCQV8xOEZLRWM3LWJEN1hoM1JOdEhobVNuWFJCUlBoRHRYY1RRYTczQ0lHb094T1hIcV9tS2l0eUlydjEtVkJHWno1WndCNzBhOURkQlY5U3VBc1Y2dEdZYzYwamg1MWt6SWRUMWxyeXEwUnFMVEMwOWVSSEhqc0hFWXE0X2xxdFhiSFREVnB0QTEzSXVoQjl3U2luWktyN3kzYzk0elVBNHRDUA?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-24T05:22:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"COALINDIA",
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla",
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
