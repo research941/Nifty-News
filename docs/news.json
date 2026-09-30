@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T05:50:01+00:00",
+"updated": "2026-09-30T06:00:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "cac7f6908adb2499",
+"title": "Bharti Airtel stock ahead of the Xetra open with no euro price or percentage",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGN1WS1uQ0VnUEF4V0hZN2VDX05XYUxBZHhKbVAyNUdJSWhTNEVWRlJiSFhtMmpHekJ6Y2ZDS2lsYUdZaXZERWsxM3dtcnF3ZF9VTG5qRzBCZVM3SzhVcUstdUYxbFg0MDRSaVBnMmxoS1VDZlBDTERkT2dQTDdWMld2c0U3VzhKa1RZaGhFSUJfV040RnhyU2lTMFcyWmNEcDlaOTVpNDlPNDRqTmRCTEs0dXNSX1VJRkd5NzZBOE0?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-30T05:50:20+00:00",
+"first_seen": "2026-09-30T06:00:24+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3d618d84f398fcd2",
+"title": "Kyobo Life, SBI launch joint venture as bank rebrands to Kyobo SBI in Korea - CHOSUNBIZ",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2hmTmQ4WmtXaXJqUWdBblo2ZWVIeTc0bS1jWV91bkIxMm1PTnByWkxabXh3ZUdURU1lZWFCNmszWUVyS1ZNekRmTkxJX3VJZjVFdENqTXFyNmV0eFFETEJPOW51dEF4WGtHTGZzNjhhSkFNYVFuZmlheC04MzJnSNIBlAFBVV95cUxOQ2FRNnFrUmFFbUZQeVFUOXRDbldzc1BjcHVmbFhxbkVVVUhoamZoU3llMVFrZTZhckxJR2ZyQVFfLURKTWs4OHNJVmVYY0FRZGhEOFFtdm1iakRzWVV6WFJSNTN5Z05FMWVYR2hWSFQyclZGcHJmRFFodnhVM0gweGRicWFSQ3JwNDRId19KZ1IzQmdw?oc=5",
+"source": "Chosunbiz",
+"published": "2026-09-30T05:47:00+00:00",
+"first_seen": "2026-09-30T06:00:24+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "96fb189ad7a7ef44",
 "title": "Axis Bank Brings Apple Pay to Visa and Mastercard Credit Cards",
@@ -1629,6 +1663,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "233cae58d74fb03f",
+"title": "Shriram Finance vs L&T Finance: How rising US yields may put NBFC margins under pressure?",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3FLeXFkZW9BSEdOUVI4eGZEQWtsSXBqLV96SFRqNlczMmJTcDF5U3JYRmpsS2JQemxDSm9faWNYckZJMmVHU2lqMEZkZ2dON3V4Tmk1cGxtLVQ3YW54YWhoNFlWbnNvRnFFZ2xxYk1qRktUWlZFQTk0ckNYeDJfOW92QWNSZ0RMMjM4S3hveEw5cVJPSXZ2ZHVZNkVXZ0pPRm9ORUpTSV9SVHdCbXJxd0xQUjRBb2NHN3p2bnVmQ2FFdTViOEJHSERkQ0dsMFM5ZFlmN0Uza0RnbFnSAdsBQVVfeXFMTUdxS3lxZGVvQUhHTlFSOHhmREFrbElwai1fekhUajZXMzJiU3AxeVNyWEZqbEtiUHpsQ0pvX2ljWHJGSTJlR1NpajBGZGdnTjd1eE5pNXBsbS1UN2FueGFoaDRZVm5zb0ZxRWdscWJNakZLVFpWRUE5NHJDWHgyXzlvdkFjUmdETDIzOEt4b3hMOXFST0l2dmR1WTZFV2dKT0ZvTkVKU0lfUlR3Qm1ycXdMUFI0QW9jRzd6dm51ZkNhRXU1YjhCR0hEZENHbDBTOWRZZjdFM2tEZ2xZ?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-30T04:00:45+00:00",
+"first_seen": "2026-09-30T06:00:24+00:00",
+"symbols": [
+"LT",
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance",
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "328bc19cf78cab9c",
 "title": "30 September, 2026 Stock Market Updates: Sensex drops 88 points, Nifty near 22,700, TCS top gainer",
 "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMGpnN1VXVHRUNFFQSk56QlI1OXpscmtSRWtJY2EzdEhmS25ZcHgwSWhLSWpaajNUYjFTalRaUlFOTzFQRkszS3g4WExvQmVtUW1jLWFRTTVFRlNXT0xyOURsMFM2bE5BSmZVYjJnc3RFSjJyX240VUZSQmRLeGpYQU1qMmJPcDRiVWpKVWpvcHJndzdxZVlGQXZFS296dXNzaklQSEJpM3gwQWFPRmFweHpXeHp0SU1UYk5vWTBBNXBNQWtpeXpTMktfVmx3SWxJdGR6X2FnMXVaMWdHT05JXzY5UXdjNThlUzBrcnp3c9IB9AFBVV95cUxNb0t4ZDB0WmNoM085M0V3OFhyTG1vVU0wRnR1bHZmT1UyYm5hckItcXIxdGR4SjBoTEswVm9UUFBiWWRjaHNvbmFZWkljb19qTHRkS0F5UUVnVXhWY1VVRGpYb3lxeXZCXzZKb1FTUmFZVnJuUVgxN19zdmtSVkpzbF9ReWdrQ1JjRDh6ZUF2azRTUGJKeEk0RVpTQTBFMVc5cGo4R2RQY25WS0tlc3VMejhyemtwOTFUZHZRRTRndWZpTmd0ZVpzd2FvT1c3UEdyWUlENnV3aUNBamlmZUMwbFVtbjUtb1RvUUhJdGhDSGtMNGNN?oc=5",
@@ -2223,6 +2275,22 @@
 "source": "Economic Times",
 "published": "2026-09-30T02:55:38+00:00",
 "first_seen": "2026-09-30T04:17:46+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "539dca8e09821b85",
+"title": "Jio Financial Services Share Price Live Updates: Current Price of Jio Financial Services",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-30-sep-2026/liveblog/134578579.cms",
+"source": "Economic Times",
+"published": "2026-09-30T02:55:38+00:00",
+"first_seen": "2026-09-30T06:00:24+00:00",
 "symbols": [
 "JIOFIN"
 ],
@@ -50333,70 +50401,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "264387c0e0cb5bd7",
-"title": "TCS becomes Jaguar TCS Racing's Official AI Partner",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWRyZUR4RC1pS2xlXzJJcnhtcUFRM29hcGhOVElEMDROVV8xOVlJTUhaV0ZWTkdKaHBfQWF3a3hzcVBfRUlkeXFyeWk2dVc0SnhjY0FOOGh4M05fSzFHdlRzdmxXMm5GaWlzajdCYWhaMnVIV1hTenVXdnk1alBqY0NQUFF4OXcxM0FmWjl5VmtEVGFoUDFTcTlSd1ZwemcxV3NMcGozYkFrbi1Od0tGbDk0dnEzYVI3X21WS1pRSEJ1bG5iVjhlRG96T2JmSEJHQ1RZ0gHTAUFVX3lxTE1ZZHJlRHhELWlLbGVfMklyeG1xQVEzb2FwaE5USUQwNE5VXzE5WUlNSFpXRlZOR0pocF9BYXdreHNxUF9FSWR5cXJ5aTZ1VzRKeGNjQU44aHgzTl9LMUd2VHN2bFcybkZpaXNqN0JhaFoydUhXWFN6dVd2eTVqUGpjQ1BQUXg5dzEzQWZaOXlWa0RUYWhQMVNxOVJ3VnB6ZzFXc0xwajNiQWtuLU53S0ZsOTR2cTNhUjdfbVZLWlFIQnVsbmJWOGVEb3pPYmZIQkdDVFk?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T03:46:26+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3f96f47159e5af9b",
-"title": "Mitessh Thakkar recommends Tata Steel, Alkem Labs; bearish on Ather Energy, OFSS",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnlQN2NQVENCTXl2OE9hc2s2cFRYejY5Y3hVTG5LSkFEbFJwM3VkWVRPSmxiNFhmblZ0RzJYQkczYVQ2QjdINXI3WmNFTzQ2RFByd1RhVEJzdk1XblBOVXNvYmlVYmlXTmFnYmhUMFRsaUxwZzRDSlJLRHlIZVZ0SDJ3V0VrZmQ4TS1QTjRRX1BfM2JYcXpMOHJOajlzZm1kYmpGa2NNdnl4YnMya04zOGNqSVVLNm5lVkdzUmpPTlFKQ3pkLUdtcTdKVWg5blBGNnhyOUFB0gHbAUFVX3lxTE5MWmlxaUhfa1VfSkllWDVWdEtYZnItcUpwY1NIcThfcWs3NUpEVkY0NnB1ZUFKRzBUZi1vNXFWUGNVYkpaV0x4bll3bW1qdWJEVUg3Q0owWjJ4QUp0bFpRY0J6T01scnp5eUVFbnUxdDNLaXRZNVpLaEVzcjNSSmJzYTZURGR3eUFGVjFRcVNOSmt6R0d1N2NMVEp1YkNKR3FwSlFDX2xScktkWFJSeVV1b1lESHpSZkFmMGE3YW5OM3Ryb1hUM21aU0duSVZ4NS01WnVDamQtek54SQ?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-24T03:46:08+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "a27594fd9739d46f",
-"title": "BSE shares fall 2% as NSE makes market debut. Here's why Macquarie sees 22% upside",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPM3hndGwwMXZWZVcxb0RwbzdrSHFLa1d1cG1XTXlHUDhKM3ZadzF0Z19CSW16MmVEVXhBUmNaWmRwcnB4VmVtLXhNY2R3cERIUzNtbmZSeWlVLVNScjNreVVlNnhzU1BWVkVYVVBUNlotTW1WdUJudVpfaWt2YnNJOEhqVjc5UENFNnMzblNoQVpoczctczUwRDR6RUV4N1BmZFUxSF9UZFl3V2tKZlp3SEE0Zm52RlBpcmtWazFrUkN2OEJ1UHp3Z2EtMmdNYmZlTkwzTHlaWFl6NTR5Z19uRU94TW9IaVU0YTJ4R1FvdE1YU1FIRVp4REVTZjdMOU84Z1hIYUdsbElZd9IBjwJBVV95cUxPZms1Rkg1MVg3dmdPZ2xuVWZNOFpRYXYwUmVMMGlvMkVBVTlMNmxFa19Jc1RfWFdhSV9MZVBBb3RkVV9TcTdiblI0cGFlc0kyaWh6TDdtZ1UtQ2gwM1lydEhyUHQwTG5xVlVEYjF1YjdseDFpd2U1bFBMVTZ6a2QxNEhMcVA2UlJYRHhlVmFkd3ZMNkpkY0VvYzY4UVhRLW9MWkRtZWVKdEZWTUkzWmk4YzFzRkx2ekFMaUh3d0JMRDg4TnNFdS1TQzBjdHg3RWtSQkhZdnVEUW1ueEE0VWJmaUItUThlTW1HLS1ENmRoOHE2cFBnVFFOWVVxSWVZRnhSaUo3SEo0RmZ0a1RwbTVJ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-24T03:44:56+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "b16d03450728cbc1",
-"title": "UltraTech Cement Expands Global Capacity to 210.1 MTPA Following Strategic Capacity Commissioning",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdC1lejhVdWVpWnVNQWR0X0FfTm5acEozOEZrT01vTS13Tm9JT3Uyenk0X2VyRjFtNXM0QVNOY2JzYTJnS3E1Vk01cjNBakt6VUtpSktXRTE5dl9WbGhR?oc=5",
-"source": "EquityBulls",
-"published": "2026-09-24T03:44:06+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
