@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T21:49:40+00:00",
+"updated": "2026-09-30T22:00:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2080,6 +2080,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "83d07c40f6a5ddc8",
+"title": "Sun Pharma Eyes Rs 10,000 Crore Bond Sale to Fund Organon Acquisition Loan",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTzdnM1JSby1zVm9Fay1fbF92VUh3c2txcGx3cWZUNmxXQ0VUMTNaTml2MjhGRmhwOUdXNmhzTnVuM2NzQVV5UElPcEt1SlpaM3c0a3A3SDhhbjI4eFVMUnhnQmV6R0M4TU8xcFVrVFVmOXpaTnhvblhaUDE0blRKcFByY2FUQldKdGRaeEpBT2pjRFo1dllnWEp6cVVZZWZ0ZFQ5YzFTRmZfMlQ4RHUyQUVwX0VQMlZrMGlnRS1YQmJCd2dCa2NRUtIBzgFBVV95cUxPLThGbDNYMGVCOFZpZFFBMWh0RFFQNFlRQUlTVktNSUtXOFc0Vk9yV3dSbzVyZ29DeFVkX0NkWWQ4ODZmRmtrMkFZc2c0dVRMSWxBUEhQMU04U2RJUHFCNkNBUFpUdGJQUnRiNGRoODZNWWI3VjFsNzZPd2xOb0dNdTM5UzZua1RPYnJlWURtRHdfellibXRzeUpMRnd2ajJwWFNKZDlZSHpSbFdnd0J6Tkh4NTdPc2pTRlRwbkhCUFNmai1XVmdaY2ZBYmdyZw?oc=5",
+"source": "Medical Dialogues",
+"published": "2026-09-30T13:24:43+00:00",
+"first_seen": "2026-09-30T22:00:04+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -9549,6 +9567,24 @@
 "sentiment": "negative"
 },
 {
+"id": "780e3819cf4a2038",
+"title": "Supreme Court Upholds Circulars Issued by State Bank of India Regarding Employee Participation in Elections — Validity Affirmed.",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSbFRwUTRETVh2ZVFWbzlmS2hlWDhjdUhzM1lxM2xmY3FkT05rUGFFYzZCYmhJRHZTZjcwTnpQVkpGXzRJakF5Qmw5NDlwTl80ZEJhaTZZZHNZTHdHMkFwby1TYnEtQQ?oc=5",
+"source": "lawtext.in",
+"published": "2026-09-30T03:46:23+00:00",
+"first_seen": "2026-09-30T22:00:04+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "fbad69464146f3c0",
 "title": "Technical analysts pick Paytm, DRL as buys; Marico, Amber Ent, Apollo Hospitals, Bosch as sells",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOak1wZ1FvUy1BZ2xROF9PcUkwRS1DQTE1Ukk1V2trRzA3RXBuSzM5VGNIQWpkcTNQNFRuU0I1MTF4R00tSzNJUExZRjZ0SHRkN25XWmpjUjltZlFYM2w2eEhHSEJWMFhmMXNGQWxMN05YMHNoQXA4Tk1PSVBzZnZMbXo4eUdTdERTeUxHRDcwVkswTzR6eTlTZFBjNFBTc09JUzR1UVAtaUctWVRyYy1ZVzhqYlotMTNrRVBzS1Q5dmNoU2NlLXduTGtCc0R3S3ZBVmw3QlRrTHnSAd4BQVVfeXFMTlBaODBxTTdRRkJ3MXZCV0diaVdoYVlWS0tXZlpqWjJZV2x4QkJLSjh5R3NGSU05VDV2Ynd0WmdjbTdlclJoR1dLNlhoWEFaMGs2MUhrMmY2ZVFKdzE3RzJ1NWY3Mm9rNURmZ0ZlcFU0eFdtQUlDNmNEVWJVZm44Nm9vTFc0VmxhSDkwX09OVmg4VDRwemMxUjBQVDdTMkVTRnVXdmNvMXNaQXNhcVROR1p4TWVrRVhwMjVZMTY5Qk82ekprdURiS1BqSVAtbkU4a0lFSzhReHFzNEFocXpR?oc=5",
@@ -11103,6 +11139,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d2feea9c6b517c4b",
+"title": "Maruti Suzuki XL6 On Road Price Dehri On Sone Sep 2026 - ₹13.93L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaWV5c0hjZnVpZGZ3aV92NEowQTZTVU51RVQwZWM5bmFBVTdHcEk2OW1GRXEzSUVnS0VtUzNINXFJSGlnRnV4NjdOYURGZXBlay1wcC1qaWZYS2Z0bkJNb1REaXRpa2hrNnIzM2ZRUFAtZmp5Ymo2cW5wdnJQOF9SeEt6bw?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:29:08+00:00",
+"first_seen": "2026-09-30T22:00:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ad6332b2feba230d",
 "title": "Enviro Infra Engineers शेयर में 7% की बढ़त, दो राज्यों में ₹664 करोड़ का NTPC BESS प्रोजेक्ट हासिल करने के बाद।",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWUlvUVpJT0dSaGhYYjZEdk1WMzRjTjlCMjlIM3h1emFzRUNIcU56RWJ6ZFUtZzg1NVpaenFsNXYyZTF6Nkc4eGVKWmdrdkVKSXNKdDVWY3d2WkxvZFd1ODk4MDJ5NjNIRFNPcEZrUTMwbEVfem52cndRYWNSZUVPTUdYeVQtcDZCRWo4b1JsSU9LdFh1S3lEQmlpTlgzejV6WHh3Rk9qM19ZMkxldTM2cDJlanVfU1d4LWh0OWNkZXBGZXlhSTJyZ1dEUTE4SVROSG9WS201aHd3RG51eGc?oc=5",
@@ -12145,6 +12197,22 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "e0c6149b90262d89",
+"title": "Maruti Suzuki Victoris On Road Price Bansi Sep 2026 - ₹12.64L",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bllvRjVCZi0zTUFUX1JqcUxsek9QOWxNTjBvakFOWTZBVl9jREZIeEFSc01zbExucXA0OGo3SWxHbkRvMDlzanEtTjhKYlUtZ1c0MjB6b1NaelNNdU1nejZ6UkNGLXh6SlVrUHdGTEhqUVgxY09FaFBpVF9SYW8?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-29T23:24:30+00:00",
+"first_seen": "2026-09-30T22:00:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "ba40e467529cc54c",
@@ -50362,75 +50430,6 @@
 "Results"
 ],
 "sentiment": "positive"
-},
-{
-"id": "3894b72f0992d812",
-"title": "Infosys Ltd. ADR falls Thursday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWS1uaFl3WjBLRm5rbVhRbW9fZzJILVJtYUhXaTgzN0loTlpvSzM5bVdLYkxESUVNWVBoek9PSThzOThGRXhHOVZPRXNsNVNQbnVVY24yakJ6Q2pISkJCU3RBMHlfMjg4bGgyVVpqUFdtZW1qeVVxYzFKUWFtX0VnX0tHanJGc1ZkYkhoLWpuM29TZC1IU245YTJsMGxQUzQzNGxBaWNZSUxCbEZXYjVYdHFKbHl1WkYxUFZrWm54SHhxblVyekU4Qg?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-24T21:25:00+00:00",
-"first_seen": "2026-09-25T01:28:38+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "8dbd8c5e370400cc",
-"title": "Adani Group Plans Strategic Split Of Jaypee Assets After NCLT Approval",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXo0YXpnSXFJRGhMSUFTajVVVkFXZDhzOC12Z0tvLTdiVC0zX0dDaGc4ZURjZmVIV2F4R0Q4S0NiQWJTdTBmUzY3SWJ0aDZMa0dfZ2dUeHlqVFhkS0NzX0FaV0ZoaUs2N1YxWDNSSWd2MkM2MkxfY01OMGI4SEtpaEtzV2wwVjN0UjVMMkFuVHM0TG5Gek1uM1haUTRMUV81c0RGdkRmRktEbzJnYURTaWJ3eExnSXJZNHdvZHNMc0o4QzBzVGRldUFB?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T21:19:56+00:00",
-"first_seen": "2026-09-25T15:56:02+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9a0d53cea00f7105",
-"title": "HDB UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds HDFC Bank Limited Investors of Securities Class Action Lawsuit Deadline on October 12, 2026",
-"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcWRJSTJTSkRPQzA1ejFuY0xzblp2U3lYem1BOVdoRWFFend2OXJGZVlvNWZsOFoxeFk2MW4wbm80MUV2WGhSbklneFhZTmF6OWdVdk5YRVJWMDhoVzhjYy1lWnVKSkZta19rZVFWT0Z4ZzdlWG0zb3IzTlNaRG15Mnl6aGVyQjljTEdqRmwxbGJKQ085T3pLSFlCc1RpQ1oxMXZzSEtqM05pYlBmRmdGdk9UY2o5NHNyZDVUNDN6Zmltb2liYTFKYnZhd0tUZFQ3bmxlMF9ud0JGS0JMYzBDY2RBQWVIOHRjaXl6bHBBVnpTSTVZOG40eEI4NFFyRXVSa2xHZXZUSmd4X0VjZUpGeWhFS1kxeTJsb2c?oc=5",
-"source": "TMX Newsfile",
-"published": "2026-09-24T21:19:00+00:00",
-"first_seen": "2026-09-24T22:18:00+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "32dc1a557cb1b922",
-"title": "HDFC Bank Limited (HDB) stock price, news, quote and history",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUUVudTU3cTVXcDVNalo5YUp2Z3ZvY1EzcWNUR2Zqb2RQbnA1b1o4RWJid003eXQyZ0YwRnJvT2VaYWZZb05KVl9rYmZnSjZX?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": "2026-09-24T20:57:41+00:00",
-"first_seen": "2026-09-25T07:22:40+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
