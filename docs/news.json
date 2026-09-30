@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T09:48:47+00:00",
+"updated": "2026-09-30T10:00:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,12 +445,92 @@
 ],
 "items": [
 {
+"id": "011d4197ffd182a1",
+"title": "BEL Showcases Military Radar, Missile Systems and Electronic Warfare Capabilities During ‘Tarang Shakti 2026’",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJQLVJWdGhzeE1Oa1h3U3pEY1dyUmJkYlJFajNoQkFidnNHNTRQeXB5dnN0R3VOaHZiczduTzU3dERaYU5jZGNOa3pYX1NUaWI2RDBQQ3hDem05ano2V1hvNDhINjNQR1M2LTBURkM0X1JRUjJWZTBtTk5ZdGlGTlEzMnVaU0RHYzRnYUh5UGRyV1ZZZ05NMmdRbUJ2bHh5V2ZIR3RORmZIaUE?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-30T09:53:37+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "05c6d815a1251846",
+"title": "Lloyds Metals promoters create NDU on shares for SBI term loan",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlpYUFVWQ1RocWlEdkpzQ25sdWR0b1dua3FKSDFicFg0YUJxTy1tencxVHA2Q2xvT0czc1BiZmhLb3hiU3UxOUpqb2YzVjJjN0JCZ2ZfTWJ2djlKWkhvTWJWTkFqbXktaHQ1Nmh3QWcxY093M1NIejhmeFRwRklpWTBJR0x3UWJvNE1uOWxMSEVtVGJfdTd3QkEwckx6LTRUQ1J1UHlxMEVpcjg5U3dUTUdR?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T09:53:34+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8f1fc8c3116a2026",
+"title": "On March 20th, 2026, India crossed one billion tons of domestic coal production for the second year running. Coal India Limited, the world's largest coal producer, delivered 781 million tons of that on its own. The Ministry of Coal now wants to grow output by 42",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUhUdkJ4WUZwYkpSR0RWazBUVzk3SlA0aTJRNWNjWC1qbUdhY2g0ZXVFZWNLdElydU1HazNtRlVRdG9NSGdXalBBcWp2T3VsUDAxYkUyZDM5emE4UmxxdnVDcWI3YW1GblJCZGh4cUZXbVVvQkVqWWtpNmsyR2w0V2xyeUJ3VkdSYmxWYlIxdjhlRWNrMC1vaF9zWk90MXF0S2owdVJuaHdqT1JVT0NGdEJHT1BOczF2aWx3Q0p1ME9ITE1lS2c?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-30T09:51:06+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1bd755d0ee7d03c4",
+"title": "NTPC to Commence Commercial Operation of Additional Solar Capacity in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGV0dk43aE9vWkd2S3FndG5VU2hyVDk3Q2xGbzFSWTRnTHpFRzQ4N0JLMUZnWEVSY3NWZjFXZkZnancwVGpzeF84TktDRDlHeHB0Zk5DM29UWmx4M09vTmFOa0JtNUJLS0p0dnVGaVRlVVBrM01faGdybUFfSTYwUTZlZzVpZWZWcHIxVUFzN0U2ampNN0RHSzlYaU5CekNNaHR6V0JRbTNGVEtid2U1VFl0QmNhZlRpODRNT1d1d1NaV3d4dFkzdWFvMmQ?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-30T09:47:32+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d8f86fbe314c41db",
 "title": "Apple Pay Launches in India: Hands On | Axis Bank Credit Cards Only, No UPI Yet | TechPulse",
 "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXMtdDdScDlRSm56elotUUMzdVVIazF1TlVLOW0wNldDUjREcE83ajRwY0xOdFlVOEc0Mi14RldrNTRabWhRUE9mQUtCSjJQVnJsWjhrZzJYUnIyWFBQbjhtYk05R0pWTnJGMkFUUnNCRzBuNFZnYkJjQWhWSGRzaU02Ni1BRWdaaW5JOE1DWVZBeFJGWEk2NTMxVWk4ZFdtU3A2eGVXTTZweTlYVFNna05uQmxGOTFMX3JrY29zVVc0RzZYeTJPZ1NZc2FwUVlxMmVodVRmZE5JRHVYeGJHS1VidHRDeHU1QzhN0gHwAUFVX3lxTE1IWnl2Q0d1MGUxLVpmNWRMSmhBOS13c1BSWlJsSnVUdnZxeUdTb0lMVGtPUmlUSklrSVpPQlhOVjhPaTRkZjQySFlLZmVDM2dsNE90LW90bndVSkJIOTBLUlVWTDVpakZTVk5EQm9fMDI3Zm05OFM2WUpjX3VWTDU2TUVZOXFiZG9QR0lGdFBtU2hISXlLSU5IRXBGQnRCbkttUEZmSC1LVGVieGRDcFVjRlFOR3c0WUE5YWUzdEhscGdnelItYjlpTG9NRGwxZEpLcVE5M21la1FSeFliYjBtUDBXWlA4d3E2Zzc4Tlc4VA?oc=5",
 "source": "The Economic Times",
 "published": "2026-09-30T09:46:19+00:00",
 "first_seen": "2026-09-30T09:48:47+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2ac08bcdb9ea838e",
+"title": "Apple Pay in India: Axis Bank cards now supported",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZM3VuX2hON0tBdW9XNDRtV1JHLWVmQ0gwOXRpbHZ4czcxR1hkaW9ONFpMNERPU3hhS1ZtN19uRGdEVkR1UTBPN0dDZk41d2JqVUNwRldsbDdFbnJwMWZSQ1J3?oc=5",
+"source": "tbreak.com",
+"published": "2026-09-30T09:46:00+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -3257,6 +3337,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "15d59f2d11c3eb84",
+"title": "Parag Thakkar Sees HDFC Bank Hitting Rs 925 In A Year",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmh4RC1OekNnZFJNUWRiU2FkOVgyMFliZkJCX0VWOE5DeWE1U2pwemxYZkZud0pCTmQ3V1dxQjVvNWJEaDMzRlRBWFdUZU5jbnNfX1Zyc1NzZVRwNGxYT2FjeVFUT1lkTE5ydjQ1NG5NMm9sdDFBQmMwQUdIZ3NUenNzOEFOZm1NZFlxZnd1bnV4VmtOOHFmNVE2eDNRS2p4QklBa3NNZW5vWUdBX0xDUWw3SGQ2NlBIUDc5VDBmQ2oxMndNMTNncHFiOFNrME1xUUk1b2FUcTVUY1VfWDktcTQwUEkwRGdGUFRHdjZDemJ1cWk00gH8AUFVX3lxTFBrYjF2MjY1d21lQzN4RFY3WWM1YUNoQmZhQlNXTk51SlpnSW11bnpVOTNtNnBCaXRvQWwydG5EMXR3bmM2djNNOHQ2clNGY2RpY1BYQWJhbVdpXzRVM2tzaVVsS1VNQmVqNGdxdWxRMEwyQ0xEMkY2ZHV1eXQyTFRoLTBvN0RVN1ExV1h3LXM2NkpPS2c0dzdicVY4YV9nTzhscUl3ZUgtb1dIdUh5QTNIdzNTWTRKMVltUlNDaFBIcnFHd3dCemFfVWxPbGVKV01ZOHJKQ1l3NFpGSnVNN3Z1LWtLc3hwUEM1MXFHNm5pUHJqdjFLd3otVVBsVg?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T05:04:34+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f01acdd3fd7d9b7d",
 "title": "Maruti Suzuki appoints Sarada Prasana Nayak as head of production",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQU9SNzdyMXoyNkdtaE5mT002c042YXBwX215V0xXUVh2ejNadk5hYVBBX2RURkYzOGRiajdBcWJOTE9rN0VMb2wwR1ZKQ2szMm0wRndFMloxN05ZeFJ3Rl9XVFJfTEpOcWI3aUI0QlRobDByZHhNaDd6ekY5MVRVOXVQSHNTWkJfY20tQWQzc1NoenlPNlRHRzJvWkxSTHZuMXp3TmhyVXd6TFljcy0tUHlhd0dJdXN5R19DNzdQOW9KQXlyck9CZ2NMLUpoek90ckFXbUtYQUJQUdIB3wFBVV95cUxOOFk4ek9fb1V1SXBDU0Z0ZzF2MnJXcUhaUEs4MHo0M0Rya1ZweURZMjQ4akNUdEhVUndfWjBkTm4xYlpyM3M3ZU5scTlkWVUyQmU0RkREcHFtNlo4THMzODBqTmdXS0xlZ21BV0RVdTlOci1YZ3k2bXFRNHQwWUV5QnU3MDFjZm9YQWNvUzJqektlUmZ1aTVySkU0RDhJNDhJbWdpSWtzUEFGUHo3YW45em1ZQTQwZGdxcW9ZbVJJc2dJd1NvQ2xyS3B3YVE5WUlCd3Fvc1Uwb29FWmtoaTBr?oc=5",
@@ -3928,6 +4024,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "29af13ec832b1962",
+"title": "POWERGRID Board Approves SBI Loan Facility",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZQW5UYkwzRGtHTDE4cEZrVmZUenRTNmx3S3JBMERVVTViXzBqWFF0S0c5V3BUVEpTa0F4RWdWbHFta0ZxOFVsZC1qeUZYYm9tWVZTbkpuNnhiV2tVeXNWM0w5U0Z4eWVqdDBCalNweC1VUjB4ZHI0QjhueE5CZw?oc=5",
+"source": "NewsIP",
+"published": "2026-09-30T04:15:26+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "01b007fb2343f6e3",
 "title": "BSE shares enter Nifty club, stock tanks 4%; what consensus target suggests",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFppUndfZTFnN3pVUHBjcEFRUlJFcWdDalY3clBjdGE0SVJFUjVmSTlqaW1LR0dfUlBpWjJrS2UtUzJ4WFVDS3BmN1ZXV0pxeGdHcVZKVjJqRnBOdkd2UzhGMks3Z0t5dmdTdG5lQksxNVZqNEZ6cXQxU0dKbzVJb3JGWDR1VEFEX0lscW5xb3o1Z0xHZjQ4eFNzSXRSaVZwOGRKMGwyelRmVVZZMVBwbmZCZEFFUGFPM0Y0NVZ3SU9FOHROclpvSjVRak52dm1ZYlZELTdaa3lDdFg1dFAxSE9DY9IB6AFBVV95cUxNaWlHejgxem42NTNuRDg3bkMxdjBMSHJsWjZwLV9GNWl0aFVkUDRMWDlxVmhaU2hET2xJX1dPSjNEMVZzVnBwZW5KSkZyS0hVb0FCQkR3ZEVfdE1tX2l1Tk1BX2h0bGQzZ0RKektGV3Y4M04zcGlhTjZOVXJmTkRXRDhpeEhDd1dTQXVKdmFBVjVVVVpCc0JlUTFlbkxTVkdLbDlJMWpRTzViTWV3WllCNUpLVi1YaktoX3JtTFQxNkhBQW5OeDBGN3RxQTJrQ2M0eElfMWRORkNVc3YtNFl2WUNwSkthZ0Nm?oc=5",
@@ -4503,6 +4615,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "22299b964e43ecea",
+"title": "Axis Bank Share Price Live Updates: Axis Bank's Daily Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-30-sep-2026/liveblog/134579618.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:24:07+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2bd1d98f143777fd",
 "title": "Paytm, MobiKwik in focus as Apple Pay enters India with Axis Bank; why the initial threat to UPI players may be limited",
 "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYkhGMmFPYlh0dS1jZXN6LXptTkRWQ3BZNVdIdEhsV3J0ajNwOTYtX3ZJMHVZMHNnRC1HU0NZanM4UnZ3X1lNZkl1eFRMOUpZZDNMMm9hdmNFLXA0dFo1T05kcENpaDFJeHB1MzZaMkR5NmhJWkRrMmlGelNXc0tZQlQ5VURRS0ZFSEFTTTF1X1B0TkhYUDZ1aHk4MDZSazIzNWNoT2RadWlQY2Q1TVlDOEtwMllwc3hyaVVqSnAtMHMxUjlhZ09LZkJxYkJXeHczOEE5enJXR3BRTkpkTUdtSFZuUXZuMnZPYUsxM0dQUGdlWEhCWjdSbVhoNHU?oc=5",
@@ -4605,6 +4733,22 @@
 "source": "Economic Times",
 "published": "2026-09-30T03:20:04+00:00",
 "first_seen": "2026-09-30T07:20:45+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "da0043059a45b63b",
+"title": "Wipro Share Price Live Updates: Wipro's Stock Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-live-updates-30-sep-2026/liveblog/134579461.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:20:04+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
 "symbols": [
 "WIPRO"
 ],
@@ -4889,6 +5033,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "1948fe12f9e2a021",
+"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Price and Market Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:00:08+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "6207ca94e2749569",
@@ -8759,6 +8919,24 @@
 ],
 "tags": [
 "Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a883867c13b46fc3",
+"title": "Axon Enterprise Inc Revenue Breakdown – HAN:TCS",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UWW9vVERhaVpfZVV3VzRtNzEtYUpaN2NDWlBCLUM4UUlIWFk4T2c2Q1huUkRUSUpCSGFYYWtaQWo1ZW1ZdlB3bGpOMWY5Qy1MS2wzT0pobU80OFVBQ2dmSGp5SnBGMzJyelJXYmszc2FNUQ?oc=5",
+"source": "TradingView",
+"published": "2026-09-29T12:51:52+00:00",
+"first_seen": "2026-09-30T10:00:42+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -50185,192 +50363,6 @@
 "Pharma"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "980a8bea4d987c2b",
-"title": "Adani Groups Big Bengal Plan: Rs 1 Lakh Crore Investment, 10,000 Jobs, And A New Hospital",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0dTZGxHQWRyS0VxWjZJZWtVcXltNV9UZk82cDBVdENKWEJzOGM3TUpjdjh4OUlNTWJUcnVEcWZmTlNtLUVSMWpQa3lkbmZhM3RfZk1idzQ1RVVlWVJrWm92b0NoNjdxVHotei0xTXVFOVAwcXdlS2tXcDQ5cDNGckJJbzVUVDU1LWRwUC1SclNBc21H0gGaAUFVX3lxTE9aaUxUc3YzWDlQa0RXaDM3ck1vdkRpVUx6a25XQ2N1NkZ2Nlk2ZXhLS2dkYml3d3IzcnRsVWF5RXJjMmU0TEliR0ZSSmVmTURNWG5kNnVfMURGemxyaV92VzJjaTdTWlZOQnNsWXd1U2ZUTlNJUnZTaXREa3hoNFNLRzE3YVNPcWZLcFJxdjA2ZHVrQUNwSnpOZUE?oc=5",
-"source": "ABP Live English",
-"published": "2026-09-24T07:57:50+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "615d8b86b01cb7b0",
-"title": "HDFC Bank stock steady at ₹731.20 ahead of Q2 results",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmYtN0QzNkIzb1NidzFoeDlfZDYwcmtDNi1FNG52LUhISVBlTEJSbnhXZFBYS0F2WFhPSGRhQS1Zd0RYWHEwQUl2SVItR2xTZHdTbkM0bDR4VW5yNlhaRHlvWDVINWlDdk1VUDZQZEpCWGRZTXVXNm82RHBkbl9lUlBITy1kaEhwT212STlUc0xEQXEtVG5tUHhQODZ0MVNyZldF?oc=5",
-"source": "NewsBytes",
-"published": "2026-09-24T07:57:32+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "65182a4b98c96686",
-"title": "Missed NSE IPO? More big opportunities on the way: Jio Platforms to PhonePe to hit soon",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2ZGakZHOWJRcFM2NjZRNTNMa1ZsV1o5eFRaM2RUSmhrcHBhT1B4WnhxNGJwMDIwMTdZZ01WWTdMdk9ha1BwRkIyWGVsYmhQTzJZRGl2NXUzRnU2cmt3bXVfY1RkM1Znc0VrRjJGVUtXYTNtXzctWjlTbmtXek5pZkhQX0ZpOGJXZnpublpfSGZudUFubnBRU1NvQnhmcGpUOEwtS3pXUUVyMGYxdEx5Tml6a2ZMak5BYXRwS2J4LTdqUWJUTk1xTTFjbTQ3UnVrZHfSAdcBQVVfeXFMTnNxMVJWbUFfWjRVTEpEODVXZGF1YXhTd2ZXQ19IY1prb2U0NjhpNWF5b1l1LWNreE9zU0FYNVp0WmpjbXhOMmlhblAxRUhETTVXQ2o4LWpsVk12ZXY0YTlJZVpHMVFUWnB1SzQxTGRqdk9oNF9idHR4OV9GM3gzOXIzd05lYzRVSWJNc08tNlFjbW9lUUJLZ2FnZndSUWs2bWZmSS1ObDJXQ2p4eVBqVDJFS1E4QkZuVlNsZ0hmYmU5bGNfR3VFSlBzVnRCdmZ4NlBST1lmU0U?oc=5",
-"source": "News9live",
-"published": "2026-09-24T07:57:09+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "negative"
-},
-{
-"id": "fda66effe5738c87",
-"title": "Delhi Cyber Fraud: Four Posing As Axis Bank Officials Arrested In ₹1.19 Lakh Credit Card Scam",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVdfY21yb0dLVFV4eGQ2NzZCd3RIbHlId1k0VXBzNFVqWmV5eXQ3Q1BnZDU5ZXdXWGVIMUJSaHRENUlSRkdtbmV3TF9pYXhzUlA4SlN2dUN1cUJ5ckJfVHdQR04xamFfUlNSVGI1MWRua1FvY3NkTE9mR0Z1RVpWVTBwNlBrRUtDNDU2UDZja016YkhYdS12a0g4LVpDMVFxSUtCRGpVRE9RWENHeWpMdkxYelNmUkRkRmwwaDNQSF91Nzl4Vk1CYW5JYnpLVXZ3dUJmSFRLN2FrMnZHNmdudTdCYlJYUWNLc1BVVEl3QlVqd1ZpMWhR?oc=5",
-"source": "GujaratSamachar English",
-"published": "2026-09-24T07:54:35+00:00",
-"first_seen": "2026-09-24T13:48:26+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "3fcb390df1403f7f",
-"title": "Delhi Cyber Fraud: Four Posing As Axis Bank Officials Arres…",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVdfY21yb0dLVFV4eGQ2NzZCd3RIbHlId1k0VXBzNFVqWmV5eXQ3Q1BnZDU5ZXdXWGVIMUJSaHRENUlSRkdtbmV3TF9pYXhzUlA4SlN2dUN1cUJ5ckJfVHdQR04xamFfUlNSVGI1MWRua1FvY3NkTE9mR0Z1RVpWVTBwNlBrRUtDNDU2UDZja016YkhYdS12a0g4LVpDMVFxSUtCRGpVRE9RWENHeWpMdkxYelNmUkRkRmwwaDNQSF91Nzl4Vk1CYW5JYnpLVXZ3dUJmSFRLN2FrMnZHNmdudTdCYlJYUWNLc1BVVEl3QlVqd1ZpMWhR?oc=5",
-"source": "GujaratSamachar English",
-"published": "2026-09-24T07:52:30+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9373823b6907b2dc",
-"title": "Apollo Hospitals appoints Upasana Kamineni Konidela as Director – Projects amid ₹8,600-crore expansion",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR2ZhUndPYzNHUm5NSVNQQjBGWDZyazl2d0Myckg5cURJZ21BUEpESTJFUk12alVNNjk0NHRNbmtWNU5YUlRYUmlzN2s4OS1PQ1VXeTh0OHRNdFhaS0JhWjJYYWExUmxDYWpOcVA3UlVhV250MVczUk0tOFFLNmJmaEpVcUpyS08wb2RDZ0ZrdDlqeHBvMjZKZmZNV016c2hQdUVrX1lhMHI0N3pEUlZOeDhuU25YWkRyVy13RXRBNUM0MGZkcjFNZTF2eDVyT2tyckFBV3NrbWMtTGFQY0pzLXRHRGptVkRVeGFyM1lOSmhzeXVGVjdmS9IB_wFBVV95cUxQa1RuY1loM1BsZngtdnNZdGZWcUlFNWxjT2VsYU1RTkFXMGJTb29sRUZNVkcyUW1hY2xoSVJTVWJEd3d6c2dpdDVid2lyTGpMSlVoc01XMGdEZXhDSk5YNzF1MW1hTUVkblZSYkJfSGFnN3dLWmFPZG43c0dLa29hWURQcDVLTHdZaGZodTFKejdLZTZDUGczWjV2d0xzY0Ffa1hOTXhBLVozd3ZQNy0yZEFFcUYxSVVKREtkb3VJOXlldEtuNDlSUm1tMk1XZ2ptdGs2dHplNEFoVlJEaExRTFpmLWgyQkM3Z05HWGNTalNyOWl3NXJxUTFDb3BxbGc?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-24T07:51:53+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c89e4ca0b9d0dee7",
-"title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-24T07:50:02+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c2a35fcb26ec3f57",
-"title": "Rs 1.19 Lakh cyber fraud racket busted in Delhi; four posing as Axis Bank officials arrested",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObzUycV83QjA3LXNUb1hwTUdPN0RyWFZBeHp1ajgwOElFckRudVJMLTVmMHpBcThEUUxnR2pHeHphMHllbl94ZFlOR1FoVGtqNDFnWjFUV3J0QS1PS3F4OGpsV0RJOEVwY3Z3REh3Q18ySWVZWFU5VXlWdzhiQVhYNjJNbktvU2t6R2pvNFJ4dVRZaklEeWZ3ZmRIaFp4c2g3aEJXeUJQT0RFaHZIV3ZwVUxrbnB2NkpITVhidjFrN25YOGpoR1NJSG5tbW84a3VGS2RfajVHZElGNlhJcjh5cC1iZldDeldfeDJmbtIB7AFBVV95cUxObzUycV83QjA3LXNUb1hwTUdPN0RyWFZBeHp1ajgwOElFckRudVJMLTVmMHpBcThEUUxnR2pHeHphMHllbl94ZFlOR1FoVGtqNDFnWjFUV3J0QS1PS3F4OGpsV0RJOEVwY3Z3REh3Q18ySWVZWFU5VXlWdzhiQVhYNjJNbktvU2t6R2pvNFJ4dVRZaklEeWZ3ZmRIaFp4c2g3aEJXeUJQT0RFaHZIV3ZwVUxrbnB2NkpITVhidjFrN25YOGpoR1NJSG5tbW84a3VGS2RfajVHZElGNlhJcjh5cC1iZldDeldfeDJmbg?oc=5",
-"source": "bfsi.economictimes.indiatimes.com",
-"published": "2026-09-24T07:47:33+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "da1a1a33ee1b3bb2",
-"title": "Bank Nifty, Fin Nifty crash up to 2% as brokerages see earnings hit from IRDAI proposals; Axis Bank, Max...",
-"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNLVdKQ1pGRjN1cXlUNVVTMlJ1UVlrZGZPQzg0NTFCcUZ2dmJ6M1dvQ2lVbXpraXZQT0xlSXF6UnBEdXJMNVc2aGNoaGFuWkNWT3FWSDliWVQ2Szg0a290VkxmVEY5bG1pNmI4WTFxcTI5VkNfR3ItVXBYNmNBZUNzNUUxSjN4dTNWUFgydGh4NEdCMVJRN0dLT0htcjBRUUQ0NVBJMGV3MkxpMFFOQTlrUGRVcG9PQWRUMjlPemlFWjFTeGwwcnhGM25qZWNUMXpCRDdHQWRkRGJQd0tnbU1NQ1hUbVd6MkhWeENKNGpiZXJvTG5vVkdyMXFIRlJkZll4enpROVpkWktDSS1BUjlVb3BjWTnSAZoCQVVfeXFMTlJVaW9oYm1lZmxKbm1MZlEyVXZ5WFhmNDlOZF93WDRGUG5zR2dUdnB0X25Belp1OXlqRWlJcEh1WWVhak9iT0ZQcUV2cUVONkRJenA1T3R4VllDVkt5NW43dS1SdENjZ3JPZHJiV0luem01NlIzdVFuR3lIR3lWdW9YRzRIWG92VmZjM09mYjg2ZEhhbXBiMExYTVNaM1FXb0JrcHJfV1pBS05VZHAtZUN2RldUazhFZ0NPQmsySFlkTElYYkRwX20yOF94aDVDVGJlczBEWGRqVjl3QU9lTDlBbW1RQWxZcU9iQ0NWNnE4T1plOWZLZzBxRnFfWDcxVEhHNnYtRHJDVG8wWVJvV2FJNHBiZ0ZpWVl3?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-24T07:47:26+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "d62f7164af91e444",
-"title": "‘Deeply disturbing’: Media bodies on jailing of journalist Ravi Nair in Adani defamation case",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOV9QSFdmSHc0SS03dDc0dy1oR2NGQ0ZtMnhrbkQtWllYWmgzU2xoeDlxdERQY2xZdkhzT3FJVU9iNjk4Y1RFekljcTNfb2Nna0hvUFhxYjllRWxNbzR6cVhOQ1hTQ1l1M29ZQ29PeHJaQlJwSThEaEVJSTlfTEs4UVZySWZ1aXM0X3NhY3ZCd2JMYjYwcW42b29mU00xeXRDbXRKdjJnMHZVVDAxeFhXRm8zWjZ5cElubTlHbWdLQS3SAcYBQVVfeXFMUE1vNXlGY0RlVkstamN6SkRaeGVpaDlvWXN0eGZiUmd1QWdWclh3ZkptajhESVlMbVBNYzhYWjFBNlBPYzdEMk8zaVNhUGlmcWdhczgxb21RZ1M2eGFWeU51T3RBUWtKR3dKd0Q4R1Voemh4VVJ2UFZNd215WkQ5aXFjZlF0Q1RzdmdPSDBGMjFoWEdJRnZfbUIxYl9VdmpPYmVfMkNhVk9qZTBZbnFkbGNpVndhNHdncldxQUwySmpiQ2twcG5B?oc=5",
-"source": "Scroll.in",
-"published": "2026-09-24T07:47:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a14c8ed708b75f1f",
-"title": "Airtel Africa Plans London IPO For Mobile Money Subsidiary",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWt0R0dWbWpiT09FZk05MWEtNXBPU245QzROV2pVOVpXMGJ4MVhlSEhaN2FzSVdhVGF0cW13c0x0MTk2VE9fRlpnMTdOVUFvRVVJY2haMUw4cktFR3YzSGtDSWtHRTNnQ1AxMjQxNFh4WmIzc3lmcHBmZ0lWUDJsbGs0Q2tFbHVjUHJkS0JPVnRwdWFoT2Jz?oc=5",
-"source": "streamlinefeed.co.ke",
-"published": "2026-09-24T07:46:18+00:00",
-"first_seen": "2026-09-25T02:56:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
