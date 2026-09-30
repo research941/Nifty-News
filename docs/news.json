@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T03:47:00+00:00",
+"updated": "2026-09-30T03:59:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,102 @@
 ],
 "items": [
 {
+"id": "46d1143493f024e7",
+"title": "Apple Pay launches in India with Axis Bank credit cards",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXMwUHQ1Uk9wVmlvMG1pbU9VMEF0M0Vfbkl4WF9JMk1DM21jUUJqNGZ0WnBfMUFLYUVPNWZRaElDMWxPa0RqR3FoOXA1MFBhM3lycXg3d093QTJUelp6dFFJa0NvaEJHck9LTHZmaDY0bXk1SDNWZWloWDZ1NlZldWhibjBlcldaVXc?oc=5",
+"source": "Telangana Today",
+"published": "2026-09-30T03:55:00+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15443b0e582cf486",
+"title": "Infosys Plans Major Workforce Shift as AI Reshapes Industry",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNankySXViZ3E1Y0JFQkdjcVlTSkdNY0M3bUZzNXZuQzhSYWdPT0FFd09NWmk2MHNSTi1QdXdocmxlVjNxLTVleE4yVHJDQnd4aEJnTXZGRWh3UDVRMDktRTdadWh4SHFJWWlSZ3BWY3lnZ3JBYXU5SE1CM042R0hob2lBZ1hGY3FXRnJYbnR6aVp3YjNOcFppUkNpU0E?oc=5",
+"source": "The Indian EYE",
+"published": "2026-09-30T03:53:34+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7d5d505e5a6ef2de",
+"title": "Apple Pay India launch: Axis Bank Visa and Mastercard credit cards supported initially; UPI, RuPay and debit cards unavailable for now",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcTdKMnJGV2huYTB0Zy1lbTR5bnhtV3N5YnlFZl9OeWUtSnpGWHRMQVp6bHM2ajd6ZHNFcGJxZnJ3SWpmNG5xNVp5YUtzWVprWnZsV3c2OUl1ZkZCNXZiQ1RXaGRFQm9yYVhTX09FTTJFMFhYYk9iSWwyNE15SVBHMlRKbHVXa2V4MnUtQVI0MjNTZEtHRk12cHdfcDBmWWlHQ2w3S1JBSzBsSjF4YjBhQS11eDdyZlNobDBiTm9iTk0wVmlBQWhNUTlWNEtpc3BHeTlCSWRxYTJmUWJ5TnRpT2F4RXZ5UzZ1WUl1ZVJR?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T03:48:28+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fbad69464146f3c0",
+"title": "Technical analysts pick Paytm, DRL as buys; Marico, Amber Ent, Apollo Hospitals, Bosch as sells",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOak1wZ1FvUy1BZ2xROF9PcUkwRS1DQTE1Ukk1V2trRzA3RXBuSzM5VGNIQWpkcTNQNFRuU0I1MTF4R00tSzNJUExZRjZ0SHRkN25XWmpjUjltZlFYM2w2eEhHSEJWMFhmMXNGQWxMN05YMHNoQXA4Tk1PSVBzZnZMbXo4eUdTdERTeUxHRDcwVkswTzR6eTlTZFBjNFBTc09JUzR1UVAtaUctWVRyYy1ZVzhqYlotMTNrRVBzS1Q5dmNoU2NlLXduTGtCc0R3S3ZBVmw3QlRrTHnSAd4BQVVfeXFMTlBaODBxTTdRRkJ3MXZCV0diaVdoYVlWS0tXZlpqWjJZV2x4QkJLSjh5R3NGSU05VDV2Ynd0WmdjbTdlclJoR1dLNlhoWEFaMGs2MUhrMmY2ZVFKdzE3RzJ1NWY3Mm9rNURmZ0ZlcFU0eFdtQUlDNmNEVWJVZm44Nm9vTFc0VmxhSDkwX09OVmg4VDRwemMxUjBQVDdTMkVTRnVXdmNvMXNaQXNhcVROR1p4TWVrRVhwMjVZMTY5Qk82ekprdURiS1BqSVAtbkU4a0lFSzhReHFzNEFocXpR?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-30T03:46:20+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "349a7e2dd00f8d96",
+"title": "Apple Pay Makes India Debut With Axis Bank as First Partner",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHRndEJ1bGJkRFZvQmRmR2VzNTB3TFlqblJaYlYyTEVJaU55NlVDNUJhemF5a0tlTzlRV2sxTXhkaEJZX19hMlFPYVpjN2RnZXM1YnYtc0xEZTNKd0N0LWVsUjVFSEtFaWhBekVmRnBZU2toSXlaazRrbHVfYXdSOTRScWpJWXVqTWdzQXhGb3AtX0pHb2VBRkhNNWtaNUR6MDNHWENlYWdmTmdUZmUzOU93?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-30T03:44:30+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a259a0cbca4f9605",
+"title": "Airtel is an institution, next generation can choose other ventures: Sunil Mittal",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15TUtZYWpING9XWHM2aHF2Z0cwQU13RXlOUVlzTU5tT3gzYlNpUHUtblFQdFJxT3BISXFsY2xiS20tOTZBV1JuMW1RaXIwVm02ZEdWZUl5VDFIbFh2eE1xSWNFTlg3eFRYSkE?oc=5",
+"source": "Daijiworld",
+"published": "2026-09-30T03:44:27+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8038ef8a0eca2393",
 "title": "Apple Pay launches in India, initially with Axis Bank Card support; here's how to set it up and use",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmJHbGV4ME93TGFlanpuV2NONm9telhfVk1ub19VVFZRQm4xczVELTVSS25ZS3p5WXdxWXB0eGdidWM5RmtucmZXdjdwWlRVbzRtb1ZaZE1yZXJ6MW0yNTJOQUd4VU5FTkpjdU1DSzVXSW5UQ0d1UURJaUFRS2lyZEk3U2NYQkgwbXIyMkZQYzJjNE1ISnF1bTNDUnZJTF92S3FrY280RFZMcG1ER202UHdqSmpqby1KcXdMaGMxcXZZVVgtTjdXME5GRVBvVU9wNXJ0dEY3em9rQXlk?oc=5",
@@ -475,6 +571,38 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c4c5ebbfaceed579",
+"title": "BSE, Wipro shares in focus as stock exchange replaces IT major on Nifty 50 today. How much inflows, outflows to expect?",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-wipro-shares-in-focus-as-stock-exchange-replaces-it-major-on-nifty-50-today-how-much-inflows-outflows-to-expect/articleshow/134579867.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:35:12+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0efe4684cc935e3d",
+"title": "India's higher education needs constitutional \"right to free, fair\" education, stronger NTA framework: SBI Research",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNU02Mm1CTXd0NEhCT2JkeC1sd2J1VXRqdEh4bWR4ZGlEeWZUZGZvMDNxOEdxcy1UNDdzUVN5d0ExOFM2MVdkOVl6UXNXNHV6Qnc4XzhuOURfZGR2a0dXVTgyRXlQTGxYU0hVaElITlJCb05lSHZqTVhNQ1NkWHlESnRoNGF3dGxZQVJ4MXRLN3lIZ0hVXy0wSm02TTJaTzBsMWt0bUhvRnBOWjZrWVRyYWUxUU5LeFlqdDgxby1tVWw3ZE1LbVNkWkl2akFaTFNnM3BJWXpCb292WGY5dnNpamZxYlNOTzF1VThjTWZVVXp3QQ?oc=5",
+"source": "ANI News",
+"published": "2026-09-30T03:34:00+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "8d517dc1d50969ee",
@@ -557,6 +685,26 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "27c35f0b5a063ef5",
+"title": "Stock market today LIVE: Sensex, Nifty trade flat, Bank Nifty gains | RIL, ICICI Bank gain; HDFC Bank, BSE in red zone",
+"link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-us-bond-yield-crude-and-gold-rates-hint-at-a-relief-rally-for-nifty-50-sensex-11790736770386.html",
+"source": "Mint",
+"published": "2026-09-30T03:17:51+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"RELIANCE"
+],
+"groups": [
+"Banks",
+"HDFC",
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "62e96cb9b71c0e4e",
@@ -673,6 +821,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "65ccddb725bd6007",
+"title": "Apple Pay comes to India: Axis Bank credit card users can now tap to pay",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3BqTTRyYXFsclN3SDlwN2QtbzFsWi0zWE9aeHEyQkdsbkhIRG11SnZzV2NhSHA1ZUsyYVVmQjZfekxnNjFQUzduR3hEVXVBTGhqY2F5bVhxRk5tUFdOYnR1MWd6SENGSHdhMTN0UVQtZVpvTHBRU3dwbTU4RlVJRnYxYTh5Q0E4WjZkWjRoa1JreVN6TDJvVzhrY0pQNUNZYzBONzlGTm15WmtUQUQ5SUJubENhTEplSnJPTWNTUkJ2V2pJT2hMRXAzSURPYlVrQ2fSAdcBQVVfeXFMTzFiOVNsSzFXWWVuU2dtZHlPSHVZaUcyLXpXbmgzUlVWOWlXanhpZHVDTG93dXdsQ2xfMUZYX0M5VlktU0xtLVg5RjdpMlUzUWl2OS1iUlZEc25ELVNZY1I2cVBsYktGRUpiZHp1Q0RDVjd2ZGhwbm1ZZHBqOENrZmk4YWhNSWdYVWRJR2s0S25BTmRqSEVEY1FZMVBIQzRXZ2h1cUoxMnZRYVVyYTRDY3hyQjlMeU1VYkZheEpqMUh0OGdkckpaVC0yUE1JX2d4a3pCM1k1Tms?oc=5",
+"source": "business-standard.com",
+"published": "2026-09-30T02:47:13+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "188d60ece8b10696",
 "title": "Apple Pay Launches in India After 12 Years, With Axis Bank as Its First Partner",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXM2blpVRDRnTDliVWEyajBnWWFscEN5MUM4WkdkTHdYbUhJMUZmY3ZQTFo4dTNFczlKV0c4TjhKbENwRWFySnBtU1MtVU1qaGhIaW5aZ2lEeVZHNkN1MHk2NEpORVFnS3hSLWc0WllhTzEtNUZGNlRYMFhkVHZQTGg0NmVoUDdNdnRYdml6TUtmVWJrTWdEVFUtZG1XV3dPUWFMWWV4OXFQckFCQ0J4MVo0VFVTa25xTlF1ZWhlTUhBRUV50gHKAUFVX3lxTE5OenBQbmd1QTZjbUpJbG5EYlpNZFE4MF8zU05ORjRHeXVzaHZaUzg4MkUxelhHbWYwOWh3Mmhfc2ZNNV84bU90RHE1SHFvOXdaTUZQcmllT3lJcFlzYXFuRWFmVTRhRHpLNENGczZlQ1E2UjVlSW5EemFHMTRXOTJDczY0S0xHd1VFaHN0eW9tMnQ4QXVkZE01T09FVldmaTR6NV92bzJHV2JsQ2dDcEZVYVF3a3BMeWh2X1pCS0dnMGpyN0NkamtoQmc?oc=5",
@@ -739,6 +903,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c553e0cecee3c55d",
+"title": "Mayne Pharma (ASX:MYX) Settles IMVEXXY Patent Litigation with Sun Pharma, Locking In Exclusivity Through October 2032",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVE56STFIN0dscDhOM21sTXJzYU01NGRablJra2xpd3FSTVBwUlpHNFRHaGxLVUtubkN5eHlaRTRxT29MU2JoTVhSeW9sdUJSM1c0OTI1el9Xb1ZLWGxCVVFRTlVISWJNX0owZm5pakdteGNDVVFiZUpHTWZjMzhaWmNVTVJWa2VSNEIxMXZCR2VKSXlMUGlabkZXVDNfd21Hb3VGdlB1ZkpINHQwR3lWUkFya05WeWE3R2twMVlkQWFsRnk0SFAyTm1leWNZN2JHWFp6U2VfV2k0M1owVnRnaXhhUWtjanc?oc=5",
+"source": "Kalkine",
+"published": "2026-09-30T02:40:00+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a181e69015eb111e",
 "title": "Maruti gains as government leans towards small cars in final Cafe 3 norms",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0dlYXcwMmVockIzN1RQS1IwUVYxVS14eC1jbUVFY3dfaUJWS0M1emxINHpEVHVZS09XRDdoaXRpaDZCV2UzNXRwWThPYmJ6RkFfQ2F2NzF6RFVGLUhBUHU5Q1FUQzh0akRNbmFsQVVoVU5ER0dGVWRCMjF5SmR1ZThUQ2k4VmlzeW03XzVrNndXdE9Vb2dNZ2IxX1RjajdrN1ZsNEdudDJtdXYwbjZHZ0k0b2JUcjBRSmZKdUtrbFM2cUlONkN5X21LSk5UaWpMby0wdDlkSDJWYWZXbWkzTW9qdlNUVTMzd3hNRmpIcDFHS0lJ0gH6AUFVX3lxTFBXRFVqTmh6cXdtajZUMmFrM3J0M2pXVUxYdTZxMkIxaDlzaGdiTXVOTjhrOHB6bHhtVVJ3N3Z5NTd3eVYtTEFIUWd6bUtNaEZFM3pabkdMTlpDaEszZ2FzTmFVOGs1RFdvWkM1akF0bHJVSVFVSWwycWN0SzN5YnFXOXl1blI4WVV1eG5nRmxyRDFwQkJlNWxrOHgzZmM0LUdUbTUtY2IyY1NMUUFqU3RkTnFLYmlmQ1JWUzVQSnN5dVRkdzRXbVVLdUZMZHlVN0tBYXZXQ2VIUldfeGNVcHFqWGdkZkQ2SktFVUFCUHRqaW1wblNydXJIRWc?oc=5",
@@ -782,6 +962,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5bd030c1f2d68c9",
+"title": "Stocks To Buy or Sell Today, September 30, 2026: Bank of Baroda, TCS and Biocon Among Shares That May",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQm9hd2Ffa0c1MlFCUjRDSGVHcmZDeHJYMFlQZ1BRZXY3eU0tZktuTmkxLWZGWmJKS1NkVGRyU1FRMmluNGhUQkgtLTFhMW1HZEp5MzhZYjBUQUFWYWhsOHg5clI2bHhQOENyS1l2c0ljSHBabmRWcjFZYnZuLU1GbjBXeVJYMXMyaFJFMm5LclR0Wm0yczJZT3gxdHc2eVFFSHZsVVlkSmZnSXNTVnBTakowd0tXSFR4TEJsYWgzSmFXSW9CVmVidl9SeXROYkpvTjhHeWEzclZhU1RLOHBmRTFzTEpKWXdGcXVTUjBTMjRTNWI2QnBqMUJNbE5GX2N1R2hDSHVyM2RoMnhVS2fSAY4CQVVfeXFMT0JvYXdhX2tHNTJRQlI0Q0hlR3JmQ3hyWDBZUGdQUWV2N3lNLWZLbk5pMS1mRlpiSktTZFRkclNRUTJpbjRoVEJILS0xYTFtR2RKeTM4WWIwVEFBVmFobDh4OXJSNmx4UDhDcktZdnNJY0hwWm5kVnIxWWJ2bi1NRm4wV3lSWDFzMmhSRTJuS3JUdFptMnMyWU94MXR3NnlRRUh2bFVZZEpmZ0lzU1ZwU2pKMHdLV0hUeExCbGFoM0phV0lvQlZlYnZfUnl0TmJKb044R3lhM3JWYVNUSzhwZkUxc0xKSll3RnF1U1IwUzI0UzViNkJwajFCTWxORl9jdUdoQ0h1cjNkaDJ4VUtn?oc=5",
+"source": "LatestLY",
+"published": "2026-09-30T02:30:45+00:00",
+"first_seen": "2026-09-30T03:59:17+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50210,206 +50406,6 @@
 ],
 "groups": [
 "Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "125a91e3aa58eb0e",
-"title": "NBA investigates Gary Trent Jr.’s Bucks deal. How does it compare to Kawhi-Clippers? - The Athletic",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlZ5dHJnMVgyRXlrc19DLVdCR3FsR3pMWkZUaldzZkJWR012SVBpVHhLcnNCc2RNc21iUm85SlFGSF9mMTBSazllU2k4TGhkMGxadlZWUXd6ZW9hTDVUSGsyREJXSFN1cV9CZTZaR21jZG04ejhvUjA5cjFNT1hGaS1GV1A1N3dUeFEzWHVobndsSzVadGk5Z280NzlWdkpjbDRxZVp1QTNSZHpUdVlHalFiR0JoSVU?oc=5",
-"source": "The New York Times",
-"published": "2026-09-23T19:32:58+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2c27a650877a3c31",
-"title": "NBA investigates Gary Trent Jr.’s Bucks deal. How does it compare to Kawhi-Clippers?",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlZ5dHJnMVgyRXlrc19DLVdCR3FsR3pMWkZUaldzZkJWR012SVBpVHhLcnNCc2RNc21iUm85SlFGSF9mMTBSazllU2k4TGhkMGxadlZWUXd6ZW9hTDVUSGsyREJXSFN1cV9CZTZaR21jZG04ejhvUjA5cjFNT1hGaS1GV1A1N3dUeFEzWHVobndsSzVadGk5Z280NzlWdkpjbDRxZVp1QTNSZHpUdVlHalFiR0JoSVU?oc=5",
-"source": "The New York Times",
-"published": "2026-09-23T19:32:58+00:00",
-"first_seen": "2026-09-24T14:19:22+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9a7bd65d89d9ec36",
-"title": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVmU3ankyakd3LWZkTXJmN2xacmxRYlhfdjZlWmpWUzRKYjFZS1IzZ1RuOUxaSHVhS05NWHNGUVRKNTZ4VWEzc3V4RjdoMlJsWUNDSW5fY0hLZGR2bDN0TDM2Q1hYV2M?oc=5",
-"source": "Upstox",
-"published": "2026-09-23T19:04:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2a8e4c47ba628015",
-"title": "Shatin Goyal Additional Session Judge Amritsar sport stamp paper chori fake Aadhaar Card Misuse Locker Fraud chori & fake signature HDFC BANK & PNB",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzNSOThGdExBZzVSdjl2WmJ1a1JHaDNLOHBNZmNjQV8zdGJoem4zcHpCbTI5UUtST3o0R0FnLWFsc3hKbjY2cE5oM25tT0dqRjdjQ3lPX2p3d2J0WWFCQlpSX1NkNlp1OHpXVGlqbXMwVmRsZGt0bkpxRFFiOVQtajA3MlpwUEY0N1Z1OTJYci1iRlplT25ULUNMX3U?oc=5",
-"source": "AIMA Media",
-"published": "2026-09-23T19:02:41+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "5017da72a3304269",
-"title": "Maruti Victoris (Escudo) To Be Revealed Tomorrow, Here’s Everything You Need To Know",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkstNzNCWmFvdVFFS1dTa0NmUXpMMklLVUgtSnJWeTMzbTQtajJ4ZXAtek5mVEpXeGppUWsxY0NpWlZ1SUVOQTFGQk1yS0FOTy0tOUttRFpLOXAydHdmbGN3WGlqWkptMWdGdTJFYnRpRC1yazVJMFdxNWlZc1Z3YUctZlRYNE5VdVYzQXVCWTNnZkpDMU9uMmpCbHFnU1FHNDFNd1VRM3VMNGtGa1JxVURtd2NUc092NW84NUZwV1NJMktYcUhmazRHT3FfU1HSAc8BQVVfeXFMUHZLLTczQlphb3VRRUtXU2tDZlF6TDJJS1VILUpyVnkzM200LWoyeGVwLXpOZlRKV3hqaVFrMWNDaVpWdUlFTkExRkJNcktBTk8tLTlLbURaSzlwMnR3Zmxjd1hpalpKbTFnRnUyRWJ0aUQtcms1STBXcTVpWXNWd2FHLWZUWDROVXVWM0F1QlkzZ2ZKQzFPbjJqQmxxZ1NRRzQxTXdVUTN1TDRrRmtScVVEbXdjVHNPdjVvODVGcFdTSTJLWHFIZms0R09xX1NR?oc=5",
-"source": "CarDekho",
-"published": "2026-09-23T18:59:14+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b3dc70382ce63f9f",
-"title": "Texmaco Rail के शेयर चर्चा में, कंपनी को Hindalco Industries से ₹23.57 करोड़ का कॉन्ट्रैक्ट मिलने के बाद।",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczhZaXp6cjRCSFE4c1EyeGRsUHpZc3pZVkRTM3NoS2xKbG5wZ0VkN0E5MmQ1VlJfcmRjajZhcVNWMEJGWXloMTNPbTFNYWstd1plTEd0OG8zODlScm81a0xfb1VEVFU1Xzh3VDNMWUVwWjh3SVN5emxtY3BaWWt5ODBpeXQzbFBxd19hQkVOVGFYek0tT3Zxa0NJSU51b3ZkLWx6RHdVTEY1ZUFyVVM0aHJrQ205NWVBaC1ZbkdkelhfNUJwelpoZEJB?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-23T18:55:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "71cfcdf6db99335e",
-"title": "Power Grid acquires SPV for 6 GW Barmer-Maharashtra HVDC corridor",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OT2N2ODk0LXpoOXh5NnROaTV4cXhrYllMM3kzakFXZXlfOFE1SjRtakpNSGJsYW5ZaWZYRkFYdWRvbXR2NWVuVkJteVotRFZCd3JFczBPbThFWFFzMFozaVFXeHgtRFhpaU90ajVCbmVhdmYwR2tFWWM0ZDhtZw?oc=5",
-"source": "Power Peak Digest",
-"published": "2026-09-23T18:44:40+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "62b5a3cbbebeab58",
-"title": "Adani defamation case: HC denies interim relief to scribe, verdict on NBW on Sept 30",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWN5MW9MVTdkUE8xT19aOVJoRGwzUGFtQ3FKWlUtejN4SURCV2Q3ME1FdDZXdEdVbmpreVZrRzVfNm5wcEZ4ZVltemJha2xmX1A3V2hqbElrOE5PTi1BWWxzYnhiM3ZTTWZiS3I2U284a2ZoekhPY2NSWjBtbUVJemM1TE0zS2M0aEhBYlhwY3o0SVdheGpldl9WRHM4SndyQVBiRmJtbmxzQmlCeGpoZ3VUdlI1TkVWS1pYNF9MMV9MNW9ZXzlseEljdmo1dHNUQndPbzlnMWJtYzZNWW9Qd1dLSkgyZG9ZekRfTTk0VnBVZWJKQUHSAfYBQVVfeXFMTlFjeTFvTFU3ZFBPMU9fWjlSaERsM1BhbUNxSlpVLXozeElEQldkNzBNRXQ2V3RHVW5qa3lWa0c1XzZucHBGeGVZbXpiYWtsZl9QN1doamxJazhOT04tQVlsc2J4YjN2U01mYktyNlNvOGtmaHpIT2NjUlowbW1FSXpjNUxNM0tjNGhIQWJYcGN6NElXYXhqZXZfVkRzOEp3ckFQYkZibW5sc0JpQnhqaGd1VHZSNU5FVktaWDRfTDFfTDVvWV85bHhJY3ZqNXRzVEJ3T285ZzFibWM2TVlvUHdXS0pIMmRvWXpEX005NFZwVWViSkFB?oc=5",
-"source": "The Times of India",
-"published": "2026-09-23T18:41:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bd1d82de207411fa",
-"title": "Maruti Suzuki Eeco On Road Price Vinukonda Sep 2026 - ₹6.53L",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BSjRUMFFOd0VRZkFxQ2dNbE5ZWmFmMlN1ZEZhWC02V1FydGFVbUt6djVwdHNOSXpreF9UUUcyNjNRZ2RGa1NTOTVTdUMxRU9kNDA5NXh3YjdzT0xNR1BuWVZBaVN2Z1U0N1FodF9qNG9sOHBQalNvZzlubnpVVFk?oc=5",
-"source": "zigwheels.com",
-"published": "2026-09-23T18:40:59+00:00",
-"first_seen": "2026-09-24T13:00:20+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "21caa32ff3f50617",
-"title": "Dr. Himanshu Tagra Promoted to Senior Vice President at HCLTech",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3RGcFMxczJETmNkRjB1a0tvQ1p3WFIyYktJTXFKa0VFZkJkREsxR3NNQ3Q5Nmt1YkprbDhwWXlGMk52cUVZbkFKQ1pPWlkwYlNFeVlteTN6WWVFbnRaWm1qVzZNZTNXSVhjelpyaFJadGNjbE5pUmNITlNEbXZUa0dLXzVEN2I5Tnc?oc=5",
-"source": "hrtoday.in",
-"published": "2026-09-23T18:36:47+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "30576e9825654286",
-"title": "India Rich List: Gautam Adani reclaims top spot from Mukesh Ambani",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkZFTjdLdjQ2MmtSVUFfdXZzeHRqTzh5RnRWc0FrTjBhR2pPTzVxSTlZY21vaVZGWW5oLThnLTJxR1AyaU0zTEZqQm1KWDJoZy12clJWbW5hRzFmODVQVjcxNnBmWERTVm95ODdjZWdwc2k4dHoxRUhUWml5S0MwLUlaTzZpelJIWHpJTGtjMXhVTlhPaVQzVVBjdEJ1aHljNUZsNjdHaWZWSllISWpVN3VLX29ZQdIBtgFBVV95cUxPQkZFTjdLdjQ2MmtSVUFfdXZzeHRqTzh5RnRWc0FrTjBhR2pPTzVxSTlZY21vaVZGWW5oLThnLTJxR1AyaU0zTEZqQm1KWDJoZy12clJWbW5hRzFmODVQVjcxNnBmWERTVm95ODdjZWdwc2k4dHoxRUhUWml5S0MwLUlaTzZpelJIWHpJTGtjMXhVTlhPaVQzVVBjdEJ1aHljNUZsNjdHaWZWSllISWpVN3VLX29ZQQ?oc=5",
-"source": "MillenniumPost",
-"published": "2026-09-23T18:34:54+00:00",
-"first_seen": "2026-09-24T13:48:26+00:00",
-"symbols": [
-"ADANIENT",
-"RELIANCE"
-],
-"groups": [
-"Adani",
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eb02ed85ca8b316d",
-"title": "Deadline Alert: HDFC Bank Limited (HDB) Shareholders Who",
-"link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOa0NXTFFlZUZZMjBvMEFHbFNNYWlsT0Y2ZFRySU5HcEVkVmg0ZmllckZlZ3dGTXZybnNJMWJrYW1BeFEyRmVpSU55REVkRjEtc2JsWHFxbW1NcEFQc0duSkFlZW9oMDhncUVnZEh0ZDVaYlR0S0NEbjh3Sjl1aFZwMVVNRGFpTFpHcjV4cTNqOFJpZjVBWDVBMS1IeG8zcEVCdmxndkJRQS0yeFR6Zmx2X3UzYTY5SWlOazBnZ01ZWm9nbzNrdzJIZy11dm9LeFNpWnprd3FtOGV4czRMRDI1bW15ai1EeUF1eUpUeXgwVk8yWDlVSjJfYm1oc29Xb21VaExjYzcycmJQMW9kcHJNZm5RTnp0SmxFaUFFcHlqX3VaSklFUDVwVHA3RU96aWhJRGJjZGc0UVRfOElJ?oc=5",
-"source": "GlobeNewswire",
-"published": "2026-09-23T18:30:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
