@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T08:42:45+00:00",
+"updated": "2026-09-30T08:57:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,118 @@
 ],
 "items": [
 {
+"id": "fc3440944392cae7",
+"title": "Apple Pay launches in India with Axis Bank credit cards and no UPI support",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0dzVnlScl9TWTRYWkVqWHBpbFZVV3g3dVk2bXZYaHNvV3NsWEVEcGxfZnd6MHlwUUV3SW9CcWhIcHI3NmJmeGxoWEFobmlHVWFuRlJkYWNMZnA4MDdFeU5DQWFPM0t4cW9TVTVQdDYyYzZDZzAzRHVtTTIzRkQtQWtnR1VjRDl4UjIybE1SZ2RudVhnc0J1ZW9iczVkRi1mWHJzMzJiemhzUE0?oc=5",
+"source": "tech-ish.com",
+"published": "2026-09-30T08:55:04+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bb2dd4e3e04e80e2",
+"title": "Larsen & Toubro Wins Twin Road Contracts in Dubai for Latifa Bint Hamdan Corridor",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzVEZjd4bWdwYjJoNHMyOWd6eFZNVFowVmpfUG8xSVk5NFV3elhpMkRVZjBQS0d1N2kwQzVoWEVoOUN0dUtCZjFILVJyQWZwLWsxX1pKbGtxX2hyeFZhQTZKQ2JpdmUzc2E5MWwwejNEeXQ3Um5RTDFhMENCZGZpUVV6R2J5XzFsT2o0UWhsOTUtRUNZWEl0UUlEYlVjbWozNl83LWltVTF1Mks2ZFlj?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-30T08:49:00+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "0903bdcb5e338d23",
+"title": "Adani to use AI strategically, operationalise data centers soon: Executive",
+"link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOSmVvYWt1MGNWc2llQ1FKTkcyTGZMZm1HNDZla0tXTzY1bUhCdVk0MzlFXzJlWEpXUUViN0h5S1hnOEQtbUFpVmVNcnpoOElwNmRTd3dGQVUta2dDMmtDSnNxOU5hVGtOY29LX1RBY3dwRXZZaV9BbmxKbjFPczgta2xja0FBVHRQR09BcDBmR3dYeWsxY09jVnpfNTRVXzlZSjZobFJZdi14R0UzcUViaHlpamtfNTBFSlJ6TVB2LWd4RlhTdzk5QlV2ejZCb0NSc2ZSNVdsOEg3UWU2dDBMQ0JJUGR1MnlFRGVGLWR3bnVfTVpzYVF3eFQ5Q3BKLW1yZ3RVY2dxTmJSSTJjTVFnal8xZExZREkxSGJ5NUxDRTVNeGJ5R2Y2WF95YXZRUdIB_AFBVV95cUxPLXFtekdTbFVSanVYWjZjeDViMjFaeC1HaWNxa1hTenN6MFNyZ0w4NFpETDdyQ2pydGRudGtNWGhFZzNhX0ZYWWlubkpjUWV0YUxZU0JFWGluamNuaGNTV2s1blRIamxRcXFBUlhCQm8xX2JJWWJPYnlWRkxyMFAwVzM3UUN3aDFkNDNjSEg0Y1BMLWlWc0lRTXNtWWhfSVcyQTNsaWZxdHV0ejF6S3VRNFBSc2RVSTdKMmZ6aEpzRUEtYWtXTUFvb2thdUFHcDFzTzg0VGN1R2dRcVdrN3FrNkExX0Q1NDRYdVVfWWJ1Z0RpRlN4b0R2ZmQzam8?oc=5",
+"source": "ET Datacenters",
+"published": "2026-09-30T08:48:17+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "728d3bdb4d96e5eb",
+"title": "NTPC Renewable Energy Ltd commissions 2nd and 3rd part capacity of Kalasar Solar Energy Project",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MeTNNR1lLQ1lfTWpnX21tWkdZbUhtUE9QX2NwOV9KWTNDNW1kNUZPVFlXX1gwOVYyc1JKUUlhQjBaX0xSbndHc2hEeU11R0laNlJ4TExjc09rakZlSVk4?oc=5",
+"source": "EquityBulls",
+"published": "2026-09-30T08:43:01+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "406bb2de905722df",
+"title": "Airtel Adds Apple TV, Apple Arcade, and iCloud+ to Postpaid Family Plans Starting at Rs 999",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmN3VDlXRjJ2SWxLbW1jOXdCcWlMeFdvaWoyY0lLWFJ6WS1wSkwteGE3MGZ5RTNOSF8ya2xqOEt5UGk1d2ZqUGNjaWRKRl92dUpqN1duazg5UlF0X3o3czRMM201Z2x0TXNkc0NMb3FMY2htUnB0YXdsTHkzRzZwdUFVUXN4X2IyS29FQzZCM3NpOGtRdzZCZUI5bFpLLXp6Rkd6YUxKYWNpNTRaNnFQcWwwWlZLMkNOWEE?oc=5",
+"source": "pc-tablet.com",
+"published": "2026-09-30T08:42:09+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "350774958a148b71",
+"title": "Axis Bank Brings Apple Pay to Credit Cardholders",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW1Dc1ZFTk1WcWU1U1hjdGM3dFkzeTF0U3l0Umd6aW9ncGthOWo3U2NJaXBkbW8zTGRVT3JlWFZDS3RnLXJXenNsWTBIR3ZEWlhia01IZjhIUzFPLVl5dnlXOExTV09kYnVUdWRXajFTdTMyUTdnWlZpNG1hQWpSazlnNWhFNURtTHB0VUhSa0RBWjhqeHRyb2pZejNBTlBM?oc=5",
+"source": "Passionate In Marketing",
+"published": "2026-09-30T08:41:50+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "91d177f084b7504d",
+"title": "If You Invested In Wipro 26 Years Ago, You'd Be Sitting On A Loss. Here's Why",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkN2X0tzWGJiS3IwbndiREJXVlZ3d3B0ZjV5cXNXUHVPWXNRTEtLNFFVQUxnY182TmhRSTYzZ19rNXFBbGhfNElHendtN1NoTkdzaUlxQ0I3OHdmM29JZzNVZkxFcEtpQV90TWNyNXlpT2owYkNzaExKeE9sel9QRktuZFRPYzR2WG82aVU4RlFpZklSY21PbFV2Wk5pZURkZzd6YkE2bzdTb3cxQmlfSGZYbEs3ejBU0gHAAUFVX3lxTE1iOEs0bDV0R1VkVXFOdGFSMXg2Y2FJQmJqQjFSalk5TDB4aGlya0pKYVpjWWRSQ0FlSUNPSlpyS01JaU1LNUxmZktPVVRkTHZ2RkRXSXJyaVd6WGdJM2paaHNHa0dXSVZZQjdUSFNDOURmTnJCZWN2b0RPOVlGUUJBeTAwdnFnWUtkLVR0UzJOTVc0ZTh2RTFrdGh0YlRfSUttcE5ucXhyM3RUWmhVTmFGRXlGRTQ4VVFMbGFfcXNrMA?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T08:39:11+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "8d69bdcef736905b",
 "title": "Maruti Suzuki To Bring ADAS To More Affordable Cars: Fronx Up Next?",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczhuMGcwYVNDNTFXTkVOVE13cXU3dTEwaGJGSUNhNFJ6cHMydGQ3N3d2dU9ZcF9BZVJtTnI4SDBFenBZNjMyclQ4SmV5Y2V0Ri1hMlVUY0FKRnRrQ2hicV80SXBUQVFYUFpmckhlR0dFeXJyMmNiRzZTbHZEZWl6ZjAwRm5qTzJya0FHVXkwN25EX1XSAZMBQVVfeXFMTnM4bjBnMGFTQzUxV05FTlRNd3F1N3UxMGhiRklDYTRSenBzMnRkNzd3dnVPWXBfQWVSbU5yOEgwRXpwWTYzMnJUOEpleWNldEYtYTJVVGNBSkZ0a0NoYnFfNElwVEFRWFBaZnJIZUdHRXlycjJjYkc2U2x2RGVpemYwMEZuak8ycmtBR1V5MDduRF9V?oc=5",
@@ -566,6 +678,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "0f44fe5c6f280c74",
+"title": "Nifty Rejig: BSE Share Price Falls 4% on Nifty 50 Entry",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbTROM0tvaGZUcF9zM0UzRkRTV2lVem92SlhSWnlhWV8wUlNsamFGUktIbGtBTlFYc3FwT0RadEs3czU1S05rUXZRRHpISkJWbWx5b29TbC0xYjRUYXVZSVFTc2ZwRFplMGZNMWVyMA?oc=5",
+"source": "Univest",
+"published": "2026-09-30T08:20:20+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "05dd37a7e87c3912",
 "title": "InterGlobe Foundation and IndiGoReach Host Heritage Walk in Mysuru",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeF9HQ09WZ3dMenhfSHJORWRseTJhVUlyV0E3R3RNM1dYWmhVQnNyQzJVV1BxaHBvTDdYb3hocjNUcmt2MWRQcnhpOUlMYV9iZDFNYTZwaWdTMVVubktGc1dBRW91Y2NDcjNEWF9ESzg2TjU0bFlKU1FidUQzLW51X0pOZm14OF94SzF4VmpQNi1qRjFwWHZVY3hBYlp0LUd0X2NWMDhB?oc=5",
@@ -609,6 +737,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c151a0d4355c9181",
+"title": "NTPC Announces Superannuation of Four Senior Management Officials",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzVVSG5JeTJpUmsyb2JEaVpFNzRiUWcwVkd1Q2N5TWxKd2tzRzkwV2tZZ2ZTYjUwMnNlLWk1QmN1TkhLdTg5MWdRZmo0VjI3RnA5LVpwenhfMDdULUJibHFhbHcwdDBlNURWekRlUFVBc1E5Ui15MFlPQmZjSzMya2Zfd0NlUUU1VFJSWXJId1g3S1FvY0VqWjBEYUlJMk41Nnc?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-30T08:12:00+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -778,6 +922,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b3dfe4d320d5b717",
+"title": "Kotak Mahindra Bank Sees Significant Open Interest Surge Amid Bullish Market Positioning",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkZaZzdNLXdZOHJYRkYwb0RRTUw0UnpmUzZkdnZhSVV6cm1TTzZFU0E1Tm1BTkEyWU4xcnFTRGhlRWRHdW5UR0M0Z3FLaEcxU2NybDBsUTlrUWlDUm9oQ0FkYWNrXzF4U1JhYWxydDJ2LXZraFZEdEFBaS1pRmlqR3U1YjBoeWFleXRpX2tmYkJPRlNIMm4tS1RBTGtHdmpQS0hlY05nYmRIVGNvWnE4ajJrT3lYc0ROSEkxM1B3Y0w5SjJLeDVxLWNka1gxcTVyWEFWRDRNZXN3QkFDbWlz?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-30T07:41:40+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "42e34e95933ffee2",
@@ -1038,6 +1198,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3bfe4af242fbf493",
+"title": "Coal India, HURL Eye Coal-Gasification Urea Plant in Sindri",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYm1DaWI3Q01FN1ZaRms3Z0lEWFBVU0xmcnI1U1NJejBINVg3TGFWQ3VyU1NMbGQ3RlBwZ0RleUlzZUJJTHNwM2VlWmViTGx6VGJRNWRlWGtVYmpsR2h0RWhTZnJJc20tSDZaOFo2UXEwM0hmQlpuMTF3LXp2ck9Nc1hsTVI1Mm1ZeEJHM28ybWlSYko2VmstS3lOclBJTDE0YW5EYmlHaE9JcDVOYmxncTJXRDN4SWdB?oc=5",
+"source": "ChemAnalyst",
+"published": "2026-09-30T07:22:39+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1654,6 +1830,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dac41ff115f1229a",
+"title": "Kotak Mahindra Bank Share Price Up 2%: What Is Driving It?",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wU1hYSzFpeklET3l3REdUenF6dV82eml6ZG5MZ0pEdmhTeTZocXdQSTdLMjhvM0MyUkpGbG5oMHVqbmsxckQ4RUFyWFpyM3J1a3c2OVBxcmNQNW13WDFQVnpsMmNVMU9NR2EwdHFlQQ?oc=5",
+"source": "Univest",
+"published": "2026-09-30T06:12:00+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3098,6 +3290,22 @@
 "source": "Economic Times",
 "published": "2026-09-30T04:35:19+00:00",
 "first_seen": "2026-09-30T06:24:11+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b99ecefadb7c9e08",
+"title": "Nestle India Share Price Live Updates: Nestle India Price and Change Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-30-sep-2026/liveblog/134581675.cms",
+"source": "ET Markets",
+"published": "2026-09-30T04:35:19+00:00",
+"first_seen": "2026-09-30T08:57:24+00:00",
 "symbols": [
 "NESTLEIND"
 ],
@@ -50159,216 +50367,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "7ad74642c528e629",
-"title": "Maruti Suzuki Commissions Its First Green Hydrogen Plant At Manesar Facility",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2VDdGh6dHV2eGtiNktxdkYxSVN3cnlya0VUYmtfWUdfLVc0MUxqbzQxeUFTRmJfNjhDT3FBdVpiTzJaVzVndmI4aWtrbnhQSHZxT1JrbUZEMFNCbmhRTG5JaHpnYUpqSXRhU19WdXRsZTVRX0Y0V3VpcjRsZHpmX3cyU2dWNXh1TG5KbmR0dFJqUXdzQXk2OGZjLXZRRnkwNGVUSTk0UXN3RXVtelJXbUJ4RF9pZjdMQkdoNVRUTmZ5eFdtU1Z30gHHAUFVX3lxTE9LZUN0aHp0dXZ4a2I2S3F2RjFJU3dyeXJrRVRia19ZR18tVzQxTGpvNDF5QVNGYl82OENPcUF1WmJPMlpXNWd2Yjhpa2tueFBIdnFPUmttRkQwU0JuaFFMbkloemdhSmpJdGFTX1Z1dGxlNVFfRjRXdWlyNGxkemZfdzJTZ1Y1eHVMbkpuZHR0UmpRd3NBeTY4ZmMtdlFGeTA0ZVRJOTRRc3dFdW16UldtQnhEX2lmN0xCR2g1VFROZnl4V21TVnc?oc=5",
-"source": "outlookbusiness.com",
-"published": "2026-09-24T07:08:36+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2b8a7802b56bc7ca",
-"title": "Insurance stocks tumble up to 10%: Max Financial, HDFC Life lead sell-off on IRDAI proposal",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGM2VTlPZEt2ZHQxYlhTeVR6ektCOXQ5eVRQZXdvZ1N3TW40TFVOXy1FYURWeW9hMGNkRG1BQUFpTm1xQ0RzaVFTQXllY2tRejBjTDhLTzFJUnM0ZnFpanYwTWNaNUh0Snpsd09yZUlyT0ZhOF8teWY1djBjTFhUdzdMX3Fsa2kxSEprS2ltY2hrVG5wRDZXQzZCUVFxcHJJQlN1VEJFWWt3YmllWEtCUU45QXFqbXF1OWhSaHRHcGk5LTFmZUJIVU9PRTXSAdoBQVVfeXFMUEJIMXVlOHFrMEl1SXFLSXdUM0tCNm1aSGpoVzBpSGI1YjBjVGd6TVJCWFRlekpuamV3U2pQU2FsU0ZhTnktMEhmTkVzcWg4QThVYldJbHdhTE00dFJtaUgzWHhlaGxsSkEzQmdNMUE3bEJVVk05UGtkb0xPRzNVeUdwTDBxMjI4RzBvQTRTMy0yaVFaVFVJUEU3QlJyNl8tTFlxcVRMSE9Sb19zTTEyRG8ybjg4TVlFTHMxdThpZHI2cVg3SHo5U0NyUEw2YW54ZC1kVUVOTlY1OVE?oc=5",
-"source": "Fortune India",
-"published": "2026-09-24T07:08:33+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "bb8867fe58333091",
-"title": "CoRover.ai, Tech Mahindra Partner To Accelerate India-Origin AI Solutions For Global Markets.",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXJMSGUyLVlrVzBDNmZ0ck5fQUpnRVowTWFSZVY2X3c5S1d4eWdpT0ZlcjMzVWxtMWRoTHZIcFFDVm44QnZYZUNJX0c4bTBTc1Vvd0pZYzM3OENYcFZJRzVxbVFOc1E5UE1sQkVsR0EycmlnaDNFcUtTcGxSZnN4VFItakliTUkzV1RRNkYyRkRSOE1mTXM5X0JLNE9nNjdNdDlMaGN1RUJkVVJob2VtUzVyQ25qNW03TS1DRDluU0trdw?oc=5",
-"source": "TRIPURA STAR NEWS",
-"published": "2026-09-24T07:08:15+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c76cbe492168670e",
-"title": "IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Check details",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaWg2NGgxSGxiNFdiMldJRENpaW1qSXhjYzhvd2t3T1diVXFiN2VVU1J4SjZfOWVsbzJaeWxia2xVUkRtLVNkUlpCX3pFRmtrZHRwNXRQWGxOTFkxVF9LV3dCX2hNT1JlcnJ6UWpjdldkX3AtdHN1Nkt3UWwydXRhdHlpNlBtMlpmYXpKeVBkbnNKcEc4eWFQekJ6NGh3bGVBZjVkMENWQkEzUTdOTTJfMmJDZVVteHBnLTJNRFVVaDBma0RiRmZhUjJWeEg1WXZLYm5PZHQycGpDSGdwUkpvQUVxNTYzMVgzOHZyWTlsaG1vUEdnVWhMbTFCVQ?oc=5",
-"source": "TradingView",
-"published": "2026-09-24T07:08:14+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "061e5d7c6f7d0f32",
-"title": "HDFC Bank shares in focus: Stock down 26% YTD, Q2 results due Oct 17",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaTJaQWY1ZjR0MWMxbVJaRndJT0JGSFd4Q3N5MGdRekZXZHJtNjg0S04tMFo0UXY3b2gzdFk3MTlXa05FQm9jNjhCQ2I0dE9GRVVMd2ZWeFFMR21TRkJhZ21VekVjLVNHYzQ4WmxtN3g2SVk0SzJiYTB5MERwLXVXWEpvV25GaFdCeTVhNmwyYm9jSkxtWXFqSUtNdjdEbTVnUzhSUlI5aEpvcE93WkNXSjMzWTVGcWZralJVbk9tQWNUY21QZTRHa01VUjRnWDJlWXpGdFRn0gHcAUFVX3lxTE42OFZiVEMwNVVvRHhKRDltTkxPc29NaDJidkItX2tXb0VHWEhqOUhUelBXbHR1enkwWTB0MXNiQUQxZV9rVy10cjBJRWYzaUloaWZYSE04cGE3MkpyaVREcWNzaDhyNHJNUERSYVgxWHJ5RGpoU3pVZG9VWnQ1SG1zdXVWTW1TVFF1MXIwbXZZbjJ5NGpLSXhLbVZoSGdFVW4zOXdILWN5WDlJcDJZX2lHVmxYVlBralJKaFRwYTJ0YlpLY1JtbEhXd2gyTlk2bEsyaGVwdVZ4ZkNXQW8?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-24T07:07:45+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4af1210286d4f5ec",
-"title": "Adani Group to invest over ₹1 trillion in West Bengal by 2035: Gautam Adani",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUZEOWJheFpkcnNaYTNGZmJocW85TEJXSVFFb1V3Q2x3Y3NxMkpwUGlTanB5Q0tfVFRiOXZtb0FqWFlrTWU2S1RWZW00XzNMUzJXSjV5Qlk1OG9ncEJ3ZmJabDhTNk9iajdaMm1acVBSWG0xRWQ2UWZyLVl3RVdldzNlWlFWZ3ZEWVd4V2RhRzRjTURzdFB6aXg3WEZveWF2VWxJYjNLZFgxUWduMVRXSV9nNDJKNDY5cmdVVVpFV19hRTRFT2NVM3c3ZUxKdm90Nl85SnAwSDd1RTkxR0ZV0gHfAUFVX3lxTE5RRkQ5YmF4WmRyc1phM0ZmYmhxbzlMQldJUUVvVXdDbHdjc3EySnBQaVNqcHlDS19UVGI5dm1vQWpYWWtNZTZLVFZlbTRfM0xTMldKNXlCWTU4b2dwQndmYlpsOFM2T2JqN1oybVpxUFJYbTFFZDZRZnItWXdFV2V3M2VaUVZndkRZV3hXZGFHNGNNRHN0UHppeDdYRm95YXZVbEliM0tkWDFRZ24xVFdJX2c0Mko0NjlyZ1VVWkVXX2FFNEVPY1UzdzdlTEp2b3Q2XzlKcDBIN3VFOTFHRlU?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T07:07:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7c169c52e2bb409a",
-"title": "Tech Mahindra Partners With Verato to Strengthen Healthcare AI Data Foundations",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2Fnc19HZzhlY2tfM3IwRldpTy04eFFkRGVQSmJzM0Z1VTJqZWNIYjlOLWFQQTZJQS1xT1RRTFVqYVhBb09MUzZYV1I3ZzBPSFh5U1hSSVYtYU41VjVyREhPZWRVREJ4NlNtTU9YQ2xrckNrcXhINWF6ai1pSUlrNkpWTVBwVzZxYW5LbDltQm5CR2xRTkNxTEZkSWh4VUdSV1FwZWFqRWxMN2RYS0RlUThsajdCM1h1?oc=5",
-"source": "analyticsindiamag.com",
-"published": "2026-09-24T07:06:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "09a53d83487366a8",
-"title": "Reliance Industries eyes ₹10,000 crore debt fundraise",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnRoTDJ3R3ZwVmRFMWpib29na3pPMEJGc21NTURBc29nLVg2ZzZ5QXllZ3lmUUVVUXg4WTBxUUw0LUlFbXJmdlg0MDc3eVp3NDR0cUJnTUxwYmxrclh2OU05NzA5RVIxektUVVY4ZTdKcWRjRUdZYTRscnBMS05tTWpVNEo4bXZWUmExS3l6bUgtRndtMjJ2VklYdlRoZkR4YTVCbG0tSEFHWE9nRDJyaXNERGNBN1FYN2fSAcABQVVfeXFMTk40eklFZmFEVi1PbHdRdDNVVVFZSkpLcnJkTmVLYkY2OTRtQ1ltOHM5M2RINzMtYlFaSDhhTVAwWXl6Vmw0UWhwUTZUZkVCcVJmblZsaE15MHVDVmxKcW04ZUU0WUxIZ3kxV1pmdmhqajhmRlotUlZuZnM1cTBWUkxkQmxGUHJaZmtPT2Q4NUJoSTFwZF84VkgyVzA5YVkwajJZdDIwVzNIclVpTVAzYXdzekUzbHlvYjF0SC1nSFlH?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-24T07:04:18+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3147969692e04f9e",
-"title": "Maruti Suzuki Commissions Green Hydrogen Plant At Manesar; Shares Fall 0.67%",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzhWTTU2WERvUVBHOHZfdmJMUlBHb0FhTmhVYWdrOE5KT0ZGSUZzM2NhY25pT2ZWU3Fla2wycWF0NzIxN256ZnE1MTRpUWtGcVl6VzZ0SXJIbXVzS2FFSFQ2dmtmMzFsU2xJd2FaTTAzamFiWXYwcUpPM01Rank5OWpYWjRHZWFoTWc?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-24T07:03:33+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "a5d3328eea5cfc8c",
-"title": "Maruti Suzuki Ciaz: What keeps a discontinued sedan relevant in the used market",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkVPdzJrTnA4Y0RXdl80YmY1M3RSRkxZMG12X0dla3V1S2VNYktNcGpydmY3cUdjV0ppVm1TTU03QUx5LWItdDd2TWFyQjB0d1pSQm9EbEh2cFJjTG5jbHYxNFlIRDhZWGZtdGtsaHdnVkQ3QWFYb0Z2Wl94U01Bby1FeHdPcEk3RkVYMzQ1Sm1BWjNxYWttYjQ1WXBfNHNLRFFIOUxWQzZ1RVZZLWdRYkVJUk90WlNtLThXaUx1bHhoR0NmVTRFU0FnY0dwdFhYd1VmUTdDNWlOZ9IB3wFBVV95cUxNUnRtOS1HT0IwU0JlOXlLZTZySGtwd2JMMzNSNlpnS3ZoaExlM3ZhSVBRRV9qb0pWdnVCLWlKQnlQci1xOGUxSFE4U0duejdRZGpadXRmTm9WaEdZMkxMeXhsWGp2YW5BUnZ0UXV2c2xuOUZ6aUpHR2hXNzQwVDd1b2lXWi1jeVNKWm9rQVBReEF0N0lYLUxmV0ZZc3VHTU5jX1VlUXdwbnVUOGdPZGhRNjMyOXRwQm45VEYzNi1ud19zT3Iwb2pxY1p5VTYtdnMxd0drY2wyTG1ETm5wT3pN?oc=5",
-"source": "Indiatimes",
-"published": "2026-09-24T07:01:36+00:00",
-"first_seen": "2026-09-24T17:17:16+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "65c5957204c05d0f",
-"title": "Adani Group Plans Rs 1 Lakh Crore West Bengal Investment by 2035",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDBBenVRU2J5X093R2tpNzB5WFpSaFVHTmFBZE5JNlhabTJZdm1uM0JMMlhYQTdWMGluWUt2RVBfS0dXeVIxeTI4NG1BSTNnRTlWcEFoanFvY1FTRngwam5PTmNucVY2VnVOejFVSDNkUHFMVzdkMk9McnpSNlBPUU43aGtGRVZ2U2xUOVc3Zlc4dVJlUG9ZWWVTaEh6QmxRbkdESWcycnRxcWFxR0RpQ0ZB0gG3AUFVX3lxTE1CN2prN1ZncnVFTVZUQ1dnMW1RT0FNOUY4UW5uSXRjb1o5c1dEZzBEVDVqNER6TkFlaVFJUnpmWG1XM1BuV3UtTnY3Zjhra1hyM1RmR0xEUUpkVmRkd3JmYnptR3ZHajAyQWlrWlNRMnZ6YmpnY3lxSTlTSFRERWJ5NF9BWkl4NmtVMXFsMlRvSHhLbmtHY2VCQ09IblplQTNBUTBxalY4dHJ3Z3NxTW1jNGVvOTU0TQ?oc=5",
-"source": "Newstrack English",
-"published": "2026-09-24T07:00:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3c77e9b61d6c51dc",
-"title": "RRB NTPC UG Recruitment 2026 notification out for 1,688 posts; apply online from October 15",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa2hhYnVEY1pSbTRGTTZqeUphSzV3ZXFNZFVpaGI5a0JFdmN2Sjh6TE0yeUR2Q2RsZW1JTm5PQ010QVJNRHdiTEJlQVFaRjZweDdIeHIycHp5ZGFHUEwxQkZxOEZvSlFfU3JVeVFJVGJxRFRKT1lzMXMtSEVldi1mRVl2OG1MaTdleHZWNzJDQmZlQl9QZUxWcVktbkRvSHdkbVV6dUh0REc4X2lsOUUtM2d5V1FsU2hSa1FNRHhSSE13M0dESTBvR2hrUjFzYTVxNmlnSzBtd215Nk53NjFvOWJjUGRQZw?oc=5",
-"source": "Education Times",
-"published": "2026-09-24T07:00:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4e8b7e9442a1205e",
-"title": "Oracle Partners with Wipro to Strengthen End-to-End Pharmacovigilance Services",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHdDYUZDcVd6OG9xOV9HRUk0N1lPRzdiSVhvMnpHS3U4WTdJbUh4d2YyQTNQYjFoMExYLWNzd2J2MzltVmNWZVlVZFAwOHhFbTJPMnRpOVNzTHpsem9LMnV0SHdIRm0zWFFLRnNiZ09MVVd6OF9najFvSHBnNUZtVkg2SjB2RmEwQnU3VFp2REVtUms4OWlHZzVGb2VCUFNPbzFtcVFuNDFtYzlBdlpFVF9HOWg4ZHJNS0F30gG7AUFVX3lxTE5wd0NhRkNxV3o4b3E5X0dFSTQ3WU9HN2JJWG8yekdLdThZN0ltSHh3ZjJBM1BiMWgwTFgtY3N3YnYzOW1WY1ZlWVVkUDA4eEVtMk8ydGk5U3NMemx6b0sydXRId0hGbTNYUUtGc2JnT0xVV3o4X2dqMW9IcGc1Rm1WSDZKMHZGYTBCdTdUWnZERW1Sazg5aUdnNUZvZUJQU09vMW1xUW40MW1jOUF2WkVUX0c5aDhkck1LQXc?oc=5",
-"source": "SMEStreet",
-"published": "2026-09-24T06:59:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
