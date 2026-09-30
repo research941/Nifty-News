@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T19:46:50+00:00",
+"updated": "2026-09-30T19:57:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "f0a9022cebf69570",
+"title": "Reliance Industries deepens Bengal investment talks",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzUtLVF5TWxhUnQ5V1B3RGJ3UkhsckJzeEprdVBxZkpDOU5mbzdHdFRabDJYeklQZGZuMHppVjNiX1F2cnRYaVdsRkN3V3htTURBeG1BQ0V3UDRuX2M5dE8xQUZwMklOem5UdFlCZS02YXNyNWpRSVZkc3h6RjlWVGp5YURGUEJzUFc3enFOWjVSVzdZMVg1bGhzWdIBoAFBVV95cUxOeHJNdHVpYU45ZDh0Mzg5R2lhZ3BvSmNyRlFUajlSVEJTQWVPYnZBS0V4eWVoWVl2OFo2NlB3UC1vMmhhVXZHdFgtc3ZpeFY2a3dDbXI2ay00Znc1N2Jac3RRRjh0X2hGNXNNazZucmdiZ2hrQ05iV1ZvUXh2QXh5YXB2aU15N0FLNkp1UEZMaDR5RjJSdEhCZWc4UVEtQlcw?oc=5",
+"source": "MillenniumPost",
+"published": "2026-09-30T19:47:12+00:00",
+"first_seen": "2026-09-30T19:57:29+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "79b60855234d4a35",
 "title": "Breaking new ground: Remembering BEL’s first woman engineer who modernized INS Vikrant",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejA5MkRETWNJZmpZVUtVQUpOTHgtenFFOFRVU251ZzdWbVRhSmNZS2x6enN5NndqYTgzZzlKVWt0WWs3X1lWNXc2b1FwTGF3WVJudVRSLXJoMnVsVEZJdGt5WXdtcVk1czJ2VVZUaEZKLV9NS0EtNmpWRU54SUxyUTBhaERRa3Y4N2NuUlVLYnljc3RyQ1E5WGx5V2lpcUxPdEljV3JwYWhBSnF2TEgtTTh1Sy04c1VfcEtzQnYxMl85c3VVSFlPWHF0dlJtdk1nS0FB?oc=5",
@@ -857,6 +873,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2f36dfa27c6b532c",
+"title": "HDFC Bank Names V. N. Srivatsan CCO As General Counsel Sudhir Kumar Jha Steps Down",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkdoYk1fYllyX29vdDhqSE5LVGVnU1kyNHZHZnNlSXpQSDFiUDBmWWMtMU1XNjFkSzJKSHh3Nm1RNmlIYk1UdHRjUU1LRzZuLXE1a3BpcGI2YVZzazZMVmJsdmZiQm5yOVByaHoyZkluUExsLUs2WU52QjlsU3BoWFBYR3pkZTVBYWVmTTcwbWE?oc=5",
+"source": "Sahi",
+"published": "2026-09-30T16:50:14+00:00",
+"first_seen": "2026-09-30T19:57:29+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50411,40 +50445,6 @@
 ],
 "groups": [
 "Metals"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5aa5a31758fee149",
-"title": "Arvind Subramanian Appointed Independent Director at Axis Bank",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2JIRi1Wa2pGcGhxTy1vNW9wUmJvZGFNay1OVE1VcDVaRTBDTDhCVW1WYmVNa0ZQQXBVODBrUGRiZE1qN1BOakVGaHNVaDJoODFmbFN1TkZfN29vaS1tLUlIaFhmblRFTnhWLXNHS29ZZFhRTzhEQ0QwdG5JSzF6UXdTWjFpdGtGZGc?oc=5",
-"source": "hrtoday.in",
-"published": "2026-09-24T18:33:46+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "cfa041fd09c3fd32",
-"title": "Watch: Nita and Mukesh Ambani visit Lalbaugcha Raja with granddaughter Aadiya",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1vQjRnVzhGeHF5cEl6QVYzbjQ5cVFFLVBybGN0RlN1M0Y0WkdaemVFYzR3b2s0dmlnZS1PT0FINklwSWJLeHNoaTl3OF9UNzdjZ2V4NURTaXJIbjRaMHJ1dmd4OWhWM2pLenFoRDJnR2tjRkptb1BLSHhOd2dRNXNXZk9tNVVqOFlFQ1hiSWJaTE56SGI1ZVpGN2FaX1dGNXBueHdXWno2cTVUZmtZMTBoNDNCdV9ERDZyOEl2dk9MWjN6bi1Gd3FJOFczcXdid0otSndnM2R1TmPSAeABQVVfeXFMTlpxWnJzSFpBbXdlci1POFRKYUNYZFBxVTVJeUs0WVUwajB0eWZlTWlDLV8yanpOOU5oNWR0ZVRoaHV1YXc3QlFpX1YtMFlaeWVyVGFqRkNMXzhBeFY0WmJ2c3ZiRnBhWjZKWW52bVZhV1Y5blNvdTlqV3o4U1FYQ3NXaV9aR3BTVG5zTmUxOEh3MjE2ZkZLQ3VVcTVneTNJYUU1a2cxVml3NG04eWtodWFDZXM2dDBFUFo2elppVjFSU3BRbFdWd2xKWXlEWVF5Q0ptc203WG1Ia01lWUR3eXY?oc=5",
-"source": "Mid-Day",
-"published": "2026-09-24T18:29:00+00:00",
-"first_seen": "2026-09-25T07:36:12+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
