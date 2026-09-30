@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T07:52:39+00:00",
+"updated": "2026-09-30T08:04:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "4d15326ebee8365a",
+"title": "BSE share price dips 3% as Goldman Sachs, BNP Paribas sell 1.7% stake worth ₹2186 crore",
+"link": "https://www.livemint.com/market/stock-market-news/bse-share-price-dips-3-as-goldman-sachs-bnp-paribas-sell-1-7-stake-worth-rs-2186-crore-11790741701244.html",
+"source": "Mint",
+"published": "2026-09-30T07:54:05+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6425fde6d125c3ed",
+"title": "L&T arm executes twin contracts to develop Latifa Bint Hamdan Corridor in Dubai",
+"link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPcl96WVM4a1FkUjBWR0dNWEN6N2M0QmRzY0UwZTVhRkJXZUdyUWNXTk84N25KVlpvc2xBbjkybmhLaGRPRE9Kc3pxbmNLSWFoeXlzM0c2VEZtZ2QyQXlYWUc3SXJfeEk2NVUzZ1l4QUN0ejMxQURDZld5QVJpTm5KVmE5aDJmMGx0eVc3ZTREeENDTlJWN0lrV2s0V3hRNUUweExsdGo3RjI1ZXM5dmVoa1duNlRFRkE4SEI5Rk5laE1jcWJvQ3RoWFdpbmVoZzNlWVNVWEd6dzZBb3AyM2pWV1diSGMzeEloSUc4enYwMF80V08zajh3ajhORW9pT2NMVkRfMXZCaHB5LU41YndrRlFMUE5GaW02Zi02ZExHX19xLVhNX1FhU2lDTUNpQ3A5ak9wTjRfYzRIUUNKcURWQjdvTDRrcVBaRzZiYkF0VHNxN2pUbVRudy1DZzPSAdYCQVVfeXFMTU5ubVJocC00MjUzYW95VWNLcmVJZkFsOVFDQjZtNl81cmdnaDVUUDM5eW8zcXJHRUhjQ21iQXpIaGpCU0Jfd1FqbllJNWJYTWh5dXdFb0M5cHd3VUx0MnhzXzBmYU51clFnenk2TXRHODc2Y19zUE9LSEJxcUhKRl8tcTktZUtDUVlETno4YWRKZGUzSkJ0aWZ0Mk1ZVWRfbDljM01KZ1NkNmlIS0hFckNfbENzdTlGeEVUblpTbE9UbHBOcGg4bHBxdVlZbUZhRWFvVExPS3I4TTRzQzNoTm80N0ZZbHZDOWxLbUpkMFRvdV9Zc1VkVGYxb0tJeW8zWVBRNnRVOGdxWW1KRGdoMzB6QVdUOUkwekU4TUhiS0U4LXM0a1RQRmFMN3dMVGVhVDIybU9NampURXhVQ0h0SWF5SVNBSHVnMGl1eHFUY3k0ZndCdTZR?oc=5",
+"source": "economictimes.indiatimes.com",
+"published": "2026-09-30T07:44:12+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "494c735d77190bff",
 "title": "IT Stocks Rally: TCS, Tech Mahindra, HCL Tech lead Nifty gainers as US Fed rate hike concerns ease",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVgzTW5vQThYRDRGWkhfOExzWGJhdHloV3B4d3UxSm9BTEprV3ZlUmwxZ2ZDZ0tvV0EwMmM3SGQxcjc1UmtRZ1RnR25kRzctc0phZk81dUN4X2N5Wl91SjhGdWVXYm5sclNJZXZxM0lsQ3QycTdmekhray0za2dWZl9nSy1oZFVfbFFqOFFlWnlLZ25rOF9GN3VaUmpzMmdyX1A1UzBwUi1nRzlueWZEbkNET1BDbzd0b210dVZJQlhGY1BKTnU0RDctVmtWemNiS2tlUmtUWnhhUQ?oc=5",
@@ -463,6 +497,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "a67d259adde7cf7f",
+"title": "ITC Takes Full Control of Yoga Bar Brand with Rs 645 Cr Buyout",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnMzZl9BQTJaTmRVQXJQSFJEVVB1S1BwbDE2b3Z6T0hLbVc5ZW1wd1JDX1Z0M0JhcnN4OGN6TXFEYTBBVmxRSnh1WXhQRHFsWDQ5LU5kaGJFMjNLSGR6UUE0V1pkcExQTmtqQzFUM2FVS2RDTjZxZlZPVHZfS1BKOEthbUFDUWYyQzZiaUlfMXJha1Rm?oc=5",
+"source": "Indian Retailer",
+"published": "2026-09-30T07:42:31+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7c6a81733b1d80a2",
@@ -808,6 +858,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "dffbe97fb59e8153",
+"title": "2026 Maruti Suzuki Swift Mileage Goes Up; Engine Specs Revised",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQelBwNlJBVi1iay02Vnc4aUZIa3d3SjI2ZUxWdFhOMUJvLTg2QWtBQTFpemFJQ2taOGFNUkczcG05V1lvdmVGVmZ4dFZ3eHg0a1d5MHRZSmdoWlhNQUhhOFhHUzBVVGhzTl9IRG5zam4zdkZPTHYyZ1VQZ0JTcmdyNHdndG8zUQ?oc=5",
+"source": "V3Cars",
+"published": "2026-09-30T07:00:00+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b0e78febe8cfb6e4",
 "title": "RIL Executive Dhanraj Nathwani enters politics as Samajwadi Party’s Rajya Sabha UP pick",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2RGNjlZNVVQaWNaN19ReHRaV2RoeDloNmVfOVhaUFpmeWNoRG5JVS16bW5rRWhfaldaR05ya1JKVjI2N2UwcDluRlVpQ0MwNFJGSk9kSlFQVXdpZ1dEQnotb1VaTHh3Mk44clNzdUUtUXJVWnBDQ05sM1hUYzJKQ092bnBTUnpRVVZkSW45NXRkb0FIMHB6WllnLTZXVWtOUjNSZWMzLWQwdXhDVkJpOHFLLU5vUXZkbVFEdnk0ck45MVFTSnBtZVpmaDVKNzBhTU9vWEx5QkdIaUhYbWxlOWE2eG4?oc=5",
@@ -922,6 +988,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "eb3fa2ad8e4fb5bb",
+"title": "Larsen & Toubro (NSE:LT): Did It Win Twin Road Contracts in Dubai?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGdfVS1zLTVaT29aTXBqUmp3X1pETDQ2bTkzb1JSbEJHaTFfMzhmN0FXY1YyWXpMUWNQNTc0OFlKRTRKNk90S3I4WG9NTVJsX3dpYm5UeEdSQmY5QmQtVGdWdTJreHVVWEgwYkRsR2Z6ZGhCOE1TTk1XcXJXMHo4ckREal9OTjlLX1ItY0Z2UnVQTTJ1QTVNV3JaOTNLR0hOTDY0WEJMUk5FMlU?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-30T06:46:00+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "160f4c8839f72212",
@@ -1379,6 +1461,23 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "34c0f98fc1143d97",
+"title": "SBI Life Share Price Falls 2%: Is IRDAI Plan the Reason?",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QdDQxaV95MEVtWUxYZ3plZVMtRjYta3lFbUYyNmd3NkhnejhmdlZyZE5NS01LeF90Zk1ydW9VYmlrcGJyTlhmdFVGRk82NzJfaUJIaG1zWXFGVnFvcmJ6VmNNN2tIZlVQNzFtR2RTb3VoNzE3?oc=5",
+"source": "Univest",
+"published": "2026-09-30T05:56:00+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "a4e3bdcd8e4af594",
@@ -3538,6 +3637,22 @@
 "sentiment": "positive"
 },
 {
+"id": "1f777379f2a7a093",
+"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Stock Price and Volume Insights",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-30-sep-2026/liveblog/134579032.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:07:24+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "22ce4cf39bd40066",
 "title": "ITC Share Price Live Updates: ITC's Price Drops Below 20-Day SMA",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
@@ -3576,6 +3691,22 @@
 "source": "Economic Times",
 "published": "2026-09-30T03:00:05+00:00",
 "first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "13726c2745bf6985",
+"title": "Power Grid Share Price Live Updates: Power Grid's Market Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-30-sep-2026/liveblog/134578732.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:00:05+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
 "symbols": [
 "POWERGRID"
 ],
@@ -4245,6 +4376,25 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e07f26e1817f1388",
+"title": "IndiGo share price target: Buy, hold or sell this airline stock? Q2 results preview",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHVpNkN5QVFSVE1EWWNyNzdZYm9zeXlKeTF0NzRXOERKM0xGVi1TQkREeWFtNVBjd01NMDFRSGRqRk9tUGYyYjM5enIxNklHQ0FMOTVPSTUyN2pCamdLeVVmWU96bWRvREpWYXZBb2xoQ1g0WTNYbWhFWDEtU2JjTG9fME5uUFY0Y1ZOQzgxZ2t1UF9KSGI1VDRWMTQzVGdNYWhVcjF3ZGZ2X2lkalN4Vl84Z3dPQmQ5SjA5SU9RU0N0b3NRQml3djhVX01GNUhjcmVwdlNpUERvT2M4V1BERW9MamM2VE3SAecBQVVfeXFMTVh1aTZDeUFRUlRNRFljcjc3WWJvc3l5SnkxdDc0VzhESjNMRlYtU0JERHlhbTVQY3dNTTAxUUhkakZPbVBmMmIzOXpyMTZJR0NBTDk1T0k1MjdqQmpnS3lVZllPem1kb0RKVmF2QW9saENYNFkzWG1oRVgxLVNiY0xvXzBOblBWNGNWTkM4MWdrdVBfSkhiNVQ0VjE0M1RnTWFoVXIxd2Rmdl9pZGpTeFZfOGd3T0JkOUowOUlPUVNDdG9zUUJpd3Y4VV9NRjVIY3JlcHZTaVBEb09jOFdQREVvTGpjNlRN?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T02:24:14+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Results",
+"Rating"
+],
 "sentiment": "neutral"
 },
 {
@@ -5784,6 +5934,22 @@
 "source": "financialexpress.com",
 "published": "2026-09-29T17:32:11+00:00",
 "first_seen": "2026-09-29T18:50:32+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d186c5301287108e",
+"title": "‘Let Adani and Ambani enter aluminium, competition makes us efficient’: Anil Agarwal",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcXJQMjZLSHNTaXhJRkxpemxTZVR2TnJTR1dkNE10TTRhd2sxSlluY2tEVG4tWHYyNHJFZHZ5Y0VxbzBoV1pOZS1YaWZIcF9mTG41WW1PSVladGtHUThyZEx3NWNzN1g0SGttZEl6eFU4dFNHSDZUTU9CQTlBQUpweGNxdlFIYWZFcUhGdldMaGY0V21FQTRaSkZZRmRyb2pRazNQSmZ6SjRvRUJTVWNPclFUVWxVWnlKUVRtMzF6cVZKcmU1RWtNdzRpc3rSAdMBQVVfeXFMT1IyY1JmSzBER0F0VlRwNjl5dXVESUc4R3dkUXpxWFFJMFNEc2ktRXJWUEh3MmhWNzBTclZyTXZBYVZKempWODcwM21ValQzTHRIaDJyVVVwSVMyVjRsVHEtTkxFSG9QVHF5WFpmRkNSbUkyb1Q3S2taU0FGR3pVbHUyb2NGeWxEM2FVOVlBcTBGdjZZRm1VcGVVcU81aWl3QXlER3NUUXE4NzRaV2JFMlZ2NEFJYW83UDRheVlZdkNpUW9FVmxMYVhwclVqY2phcHQwOA?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-29T17:32:11+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -9800,6 +9966,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "55d01a58b68df3a5",
+"title": "SEBI finds no evidence Vinod Adani directed FPI investments in four Adani firms",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOejJXVWVTRjFmNHc4Yl9qU1VvN3ZOSDhoVmRKNEpoOGtCbGVkZmNrLVAzNURfbDg5OFN0UVdicXJoSk5pQ2JuWUs4T1NXRmtqNEswb0VxeUlic1dHeWd5VS10UkJsOUZQZzNUYmgwUFFjR2lLcVh5MnNRMzhMQUpEOERXa2JmdEc3ZDlrRjJlcXlZVDJ2QWdxdXFNZF8xV2Z5Sm15VG1lUmQwdE92bDREMXphS1U4VVd5YjZsYzRBYVNJQTE4am92c1pSN3R1YjJkN2hUOUFTNGdJZVk4X3YxZzBn?oc=5",
+"source": "Upstox",
+"published": "2026-09-29T08:40:16+00:00",
+"first_seen": "2026-09-30T08:04:30+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -50186,198 +50370,6 @@
 "PSU"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "634f79d1d16d77e2",
-"title": "Apollo Hospitals Completes Zero-Contrast TAVR in Bengaluru",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGRJdW1POHRzenVMaHV4Yl91VzVKWmZqY0FsbEZxVURpN3RBdkdpWjNWc2ltNF9ydl9ncXZkdFVZcElYZ01JRVBNTE1hM0p2VVhsa3VMUXlEZl9kaEVkcHdvd2xWYnliREpTZmxENzNPRzJSUVFaTlJoU29aUURual9YenBGMUZDeVFfLWNPNkdVWWg0bUFnVVE4VU_SAZwBQVVfeXFMT0xkSXVtTzh0c3p1TGh1eGJfdVc1SlpmamNBbGxGcVVEaTd0QXZHaVozVnNpbTRfcnZfZ3F2ZHRVWXBJWGdNSUVQTUxNYTNKdlVYbGt1TFF5RGZfZGhFZHB3b3dsVmJ5YkRKU2ZsRDczT0cyUlFRWk5SaFNvWlFEbmpfWHpwRjFGQ3lRXy1jTzZHVVloNG1BZ1VROFVP?oc=5",
-"source": "SMEStreet",
-"published": "2026-09-24T06:28:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8496ebd3f3d565aa",
-"title": "Maruti Suzuki Commissions 300kW Green Hydrogen Plant In Haryana",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUklDNXNjZ1V0N2xONEM5RkZsWHNSSk1QRXRYV2d2MUU5UmlTTmFoR090eVBMN3dmVlM4Z2cxTTZVYl9Cczk2WU9FbGt3QkZFYnVFem44MGhQNnJPS2ZCNEJnN2pXNkNCZ1UzTEFpT0JYc1ZJSkllUjFtS0ZjbENvbWhHNjJjTXhpVGtsejlPYUM0WnNUTUJqV2drb29IUktnaGJF0gGrAUFVX3lxTE9jQmxxQThHb1Z0SDRJcTdYaERNajhlMllSRUhlRFlYSWtoaEhFR0JXdWd1VkFVeGI1VV9DRE1CNklpVF9QX1ZRdmFjQ2FRZmVDbTRudGQ0dTVyOUZmTXZqaWlSQ2c4OTRKV1hsMm9hOURzQlcxbUo4Yk11TzFicGdQcmtWYW13N2VxS2RDR0VnMy1xYlFDbjY1ZXBXSklrWWNiYXlLaG5KMFJ5QQ?oc=5",
-"source": "Autocar Professional",
-"published": "2026-09-24T06:26:30+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "388ea8ec2891c469",
-"title": "Kaizad Bharucha or Anup Bagchi, Who is next HDFC Bank’s MD & CEO?",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVc5YzNoMXBnLTNrMWdrTEJCUHZSRVM1Wk1LZUdGWkVfMjJ0dXlKTnFtV2FZc3RBU01rcGtrWEhWSXk2ZXRoQTV4MElwRUxRYVdTenpvTHZTTjNCdTB6VmI5TWdlNXM3VzdBYkdLTDR1TklJNlZaZXdBRmZTR3Azck5EWkM4cFNFRHFqN2szdy1TWjJfVTdpVVVUVkpuX01GM213?oc=5",
-"source": "whispersinthecorridors.net",
-"published": "2026-09-24T06:26:16+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "97f9366764f15f8c",
-"title": "Allied Blenders shares surge over 5% after SBI Mutual Fund, Abu Dhabi Investment Authority buy stake",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDR6NmpHd0RrV2pEazlveURwbmt3TnFPZXVJZzdSZmRxXzNnV3Q2bFlQX1ZYYjdRRVBuWWlZS05mRWd3SzU3TXJqRHNyOWdEMXh3dmlvYzYzdXhVdGU5MXY5b2o0TmFNRUJZSUhuMlF4OGVGTzVjTGVMV29hd0duS1JnM2xrdC1pT0J5OVBfRVJ3SjJNYVNtb0pmOGpYUDQtRTVuU0x1UWdHLU1XbWFuREtnQUlaeXE2YVpvUndDLUozbVlZMUpfR1pGLUREMlBNYjBUX1pnVWV6OVJWV09MSWZZNmFMOUZlVlpEU1Rn?oc=5",
-"source": "upstox.com",
-"published": "2026-09-24T06:25:37+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "3d8c1f6cc6d7d7b2",
-"title": "SC Issues Notice in Ravi Kumar Jain vs Kotak Mahindra Bank Case",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHhxaC1lNF9VTWlVTXlRTVVneWtVR04zakp5eGM4ODZUYUN0VURVMDJmT0k1dEV4OGNDNzY3bmhZYm5QMzFmLUVEM29USnNLb1U4YlFyY2VkbU50Z0cwLXpYNHVzSHJKcHh4emlTVkZOVFAtcFhpWHJuU1BwbVhoTlR2RWRNU2Q1ZHM4RTYzd0NPNkloV1A4QjdBbXROeGJpc0pWMUln?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-24T06:22:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "30179ce77589bed8",
-"title": "RRB NTPC UG Short Notice CEN 07/2026 OUT; 1,688 Undergraduate Vacancies, Apply From Oct 15",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGpDTDV3ZEJXTDgzUGJRSmE4UWdULTl6ZS1PNlAxc2ZoUnU1Z0U0VFJadDBTeUowaHQ4ZjMtYlREeXk2SWIyTTUyTVpqek1TOFd2dnVpNUs4RGRqbjlWU2RNQ1JJbEwwSnk3SG45bkpXTGxnb2ZmblVnWHd5a19iNFBwTUVnSDgxUDZoOENCMElFRXlWTVpLOGtuRGVWQWF3X0VfOG5BeTVxVzlYR25uRC1BMDFjSDlXNUpncm9BT3FpSy1ROHN3OWVjVUdBbzJDWTRkTi05RFdnX3NpQVE?oc=5",
-"source": "shiksha.com",
-"published": "2026-09-24T06:18:32+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6a86380fb4e3deac",
-"title": "Nifty falls sharply today: HDFC Bank, Axis Bank, Bajaj Finance, Reliance and L&T emerge as biggest index drags",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd3JmLVI5NU10c1N2SE9vX1NvT2d3R1hCdGpTQXNiY0JfWFdwNEI4QVR4YXVHcWRrXzVwblFRU1B2SDdJRzVRMk94dHdZMzRjbEMwZHA2dTFFeUZBckswNElxNjlXRnQtWlZGZFF4Q1JsMmZlYkRtWGtLYlpSU2hoV0ZrSmFxRzJQV3ZmQVhibllQUU9IRG1uQ2EyNW5acFVzN0Utd2Fad1RVdlRXVVVrZnoyRDhMdlRjTVNPNmVZckR0YVRxZTBsOHI5ZVU5MUtTRUIzNlIyOUc1Rl9qbGlOUw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-24T06:17:45+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK",
-"BAJFINANCE",
-"HDFCBANK",
-"LT"
-],
-"groups": [
-"Bajaj",
-"Banks",
-"HDFC",
-"Infra"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ec02244e0526c1c0",
-"title": "India: UltraTech Cement commissions 4.6 mnt/year cement capacity",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnBnX0NJNy1OZlg0Ymc0WlgtMEN6MGhKUjdOVV9lR2cxaFQzMFNHMmw0RDVHTmJzMDhyVWxSLXMwUWs5MVY4cTREeWs3SGtCVGM5TXBqM3hiYlV2SkZYaWhpYldLN3Y4dzJpRk9RbEhNWFQ4N0dEb2FGS3VKcG1CLUx0d3hhM1hWSTZFdVRjTEdnRkNYYjhoOHViZ0ZyNnI1QWJaa0dpNnJTWTBIdGc?oc=5",
-"source": "BigMint",
-"published": "2026-09-24T06:17:33+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8f53f073416afcfe",
-"title": "Tata Aeris Launch: Exterior & Interior Details Revealed for Upcoming Sub-4-Meter Compact Sedan from Tata Motors – Check Expected Launch Date, Price, Design, Engine Specifications & More",
-"link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPSkxiTlFyNmlqZVVMZ1c3RloxNnNyRGVTdjRPVDl3ZFg5eTFXUC1hT3JBX29KSHctbHFnSHB5YXpvMkxpOEd3TTEyZmdURzFRV2dlV3lGQm9QUkFRQ3BpdXhWX0Q0WEUycEFHZEFwV045bUlRX0o0YmRZeTl6WDAxUnZTT01hQmJSX0pXRTZVTUpoU0xVUWU3WlRFTG5hUlVMRUs3NHAxQ0ltS1FRQU12b0JwSEFuM0tzd3QzVTZydDFhTzlfdUxkMDVVY3JuamtneHNCV0duUDlGQWU1MWtONGtBTlotZGJjWk1xS3NHRkVWTFZONHh6N2FmdEJWdVhObENQUDNrOEl4c3kxN042c25DRWJtVW5iTTlheFdldWk0R0EySC01VlBOdTV3N3lLSHc2WW9GOVBNc2JaWWNNNmtwLWVvOURXVUIzSNIBzAJBVV95cUxPSkxiTlFyNmlqZVVMZ1c3RloxNnNyRGVTdjRPVDl3ZFg5eTFXUC1hT3JBX29KSHctbHFnSHB5YXpvMkxpOEd3TTEyZmdURzFRV2dlV3lGQm9QUkFRQ3BpdXhWX0Q0WEUycEFHZEFwV045bUlRX0o0YmRZeTl6WDAxUnZTT01hQmJSX0pXRTZVTUpoU0xVUWU3WlRFTG5hUlVMRUs3NHAxQ0ltS1FRQU12b0JwSEFuM0tzd3QzVTZydDFhTzlfdUxkMDVVY3JuamtneHNCV0duUDlGQWU1MWtONGtBTlotZGJjWk1xS3NHRkVWTFZONHh6N2FmdEJWdVhObENQUDNrOEl4c3kxN042c25DRWJtVW5iTTlheFdldWk0R0EySC01VlBOdTV3N3lLSHc2WW9GOVBNc2JaWWNNNmtwLWVvOURXVUIzSA?oc=5",
-"source": "The Sunday Guardian",
-"published": "2026-09-24T06:15:16+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9a8a301bd7c3867b",
-"title": "HDFC Life Elevates Anupriya Bhatt To Associate Vice President HR",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXNkVUVQLVk2ZGZJczFYWnNvNTVPMkJpdS1CYUN0UXpFencyQ0pJZUJ3aTlnam5NQldtcWtfUTVqd0Y5VmYwTEUxNWd5dUc1a3dZZUkyX2JkY0twNzNHbklvREVHZkpPRUtHNlJQbDdlN0dWRl9zcnZ1S3FxLTNSMDZmLTBORnJGZ0k3bUFIUVAzVElxejNOUkczU1E3WmpwTGU4U1Nn?oc=5",
-"source": "BW People",
-"published": "2026-09-24T06:15:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bf6ae6b78342204d",
-"title": "Airtel Money Targets Up to $9 Billion Valuation in Landmark London IPO",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2hwdjNyT19jUUp4UWctUkU1MUFxc3E0TkY1bDNLWkd3bjQ3Y3pDNlVtV1NxbXBMWW1KbHJaTkc5eHIyc2tDSkFsQ3lqel91b0U0ZDBFYTNjWDZ4ZExoSGM2WDRoQm5NdUt0SkNJRVVuamNOaDIzMndUanpoVDNWQTduR0F2MlRYdWVQUVdCdmRrbzV5VVFidDNXVmgyYlJOUFRBdGtkQzFvQQ?oc=5",
-"source": "extensia-ltd.com",
-"published": "2026-09-24T06:15:09+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
