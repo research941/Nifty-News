@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T22:19:43+00:00",
+"updated": "2026-09-30T22:34:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -3919,6 +3919,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "4db0efb04f156bcd",
+"title": "UltraTech Cement climbs Wednesday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHlKMFA4VE9veVNGY1FpQU9ESVU0QlloTllUd0YtZVJIaWNUMXByVldTajhiQVhpZTFpaGNhcUo5SFF4UUZ1M291MDBzeXAwSUM2VmFYU2RMWTZoR1dxckc3Y3JFOXdEQVJBdEpfVjBLWjE3d2lORXNWUXpWSzh0QXVvaFdFTEhIejBzY09uTzNnVzgyT292UWlwbXpDUzQzWl9sRjQyMGFaNTBDUkxPS2xkbm1WVTI2bkw3Rm03TlNhdkFOMndtd3BqS3MwZDZq?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:33:00+00:00",
+"first_seen": "2026-09-30T22:34:26+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "cb4435aef9a3dce6",
@@ -50407,24 +50423,6 @@
 ],
 "tags": [
 "Order/Deal",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f9ee84772ce473a1",
-"title": "JSW Steel Subsidiary JSW One Platforms Files DRHP for Proposed IPO",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ09iMkY2UEtoZXgxYWhwZlE4d2FvV1hNY1U0Z1VZQnVtV2d1Z3g3UFZxSDhsOHY4QTBOS01hdVV6UkpDQzRQeWI3R1dGWF92NzFyOExIVGdKbURJLTctTWo0clo0VV9Bb2ZJT01lZi10cmZQVGZ6eUVwUW50a0hFMElTS01sU0hmc1NTeHVxVVE0ejRnUkZOTjRTZzJTcXh4bXlGc3h2Qkx3MmFqVjZxY1haVnFMVVg2alE?oc=5",
-"source": "TipRanks",
-"published": "2026-09-24T21:30:05+00:00",
-"first_seen": "2026-09-24T21:42:35+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [
 "Corporate action"
 ],
 "sentiment": "neutral"
