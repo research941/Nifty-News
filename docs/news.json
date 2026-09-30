@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T20:57:31+00:00",
+"updated": "2026-09-30T21:18:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "831c0a2a38e46fdf",
+"title": "HCLTech completes FY27 campus drive, will likely hire 11,000 freshers; salaries from Rs 18 lakh",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTU4NVZaMV9ZMmtLQnFVaVpGdjZrc2dHMFdxMHZERWlhaU5KU205R2U3TUE3c2hhRXNrSEhsazJyMDV6bnItMXAwaGZqbTR3M2ZsNkEyU0tsOHJtaDNFaHU4ZENZQ0ZIVEUyNmRMRmx3RzRWcDVrTDcxVzMzbjhJVHY5cTdsN3ZHNkZyNEIybHFCaUVZN3dDT3d0clhGcG9ia1JlVXppdi1OeHVycnBDbUlFOXJmcDBQa2hibkpoaGlZMmdQTDIxMUI0Q0c5bnZjTVZEWHU3RkxKTUdxdGR0czlR?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-30T21:03:01+00:00",
+"first_seen": "2026-09-30T21:18:45+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "116a6a34cedc2c6a",
 "title": "Cars.com names Trent Ziegler as new chief financial officer",
@@ -2198,6 +2214,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ea7c40bfc8a6a08d",
+"title": "Titan International, Inc. (TWI) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lQURvckxkcnowdmRKWlJ6QWhIdVhyYnZlLV8zRkJ6MmR0N3RQSFFGaG8xOHotOXk2bWtWbjB3Z0pwZC1JZWxMU0s2Z3BXeFNi?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-09-30T13:05:19+00:00",
+"first_seen": "2026-09-30T21:18:45+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50411,40 +50443,6 @@
 "HDFC"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3b9dc8fff22f2600",
-"title": "Maruti Suzuki Ertiga Tour On Road Price Bhalukpong Sep 2026 - ₹11.12L",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTC1vNHQ5cHJQYlBpcktfMDlmV1BDM2tIV2tvb1VQc2MxS1lmQXJPTmNjMzYycDJ1bnYtemwwYlk0WWFsUDlWeG1XeFZZcWdrVXNfM3lfbW5XR2dnZVhaZXFfbDBWd0xUbkdPMGd3VXBuOEl1TmszTE14VUxJX1RRQUptSUZBbHhNSEE?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-24T20:19:12+00:00",
-"first_seen": "2026-09-25T01:54:50+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "93829b3480daa2d7",
-"title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in HDFC Bank Limited of Class Action Lawsuit and Upcoming Deadlines - HDB",
-"link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRFktcUFveHdpT0t3LTVyTG5FSklQQ1RjU0hCS0c3NEhxZDZxX2JtT1dxeldjNzZjSFh0Yl9wU1FrbXQxLXdnajk3dkRpbGRMUmh4SEFiVUUtZUprUkx2Vmk4X3dtMkRPLUJGV0FTeVVjSlpiNFNReEtRdl91WWVhXy1UUkIyNlFaYXJPbXRDQUpZVTdxUEg4TzFlNGZWSmZSZTFROU1uc29ObmJuNm43b2loRDdQZWdRR1djbUZaTk9tR0M3UWY4MjcxWWxmQ0dVd1JVLWpfWVpoaVAybTFJTHUzN0FNWFFBbVo5MEtTeHR2b3JJdHFyNC1vLUdpTDFHWjlhTDlGSFRvbDQ1MnRfNWFqSXluZ090bHFCanlBU3gxa1htYjBLeG9LVnN6UHNaVENXMEZ4bw?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-24T20:15:00+00:00",
-"first_seen": "2026-09-24T20:33:43+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
