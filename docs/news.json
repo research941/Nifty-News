@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T18:21:49+00:00",
+"updated": "2026-09-30T18:39:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -988,6 +988,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "41269fd5d2a1fcb5",
+"title": "HDFC Bank’s Compliance Leadership Changes: V N Srivatsan Named New CCO",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3R3SWZyOFN4ai1Ta3ptbWdiYzE1empMQmdwbEpUcUVldnoyV2Myd3drTkZXMVVZYno0dFp5cHZkc2dsLXdiVjktX3hoeFpxeDE1UDlJeF9FcHhXM0x3RU8wdGVqbjhBQ1NYTjNuQUd4WVlNb1JzOGxpMnRGdEFUc2JnUVBLeUpRZkJoc1drcTdtZ2JIb292WmpmVko4Q2FZbHF1djhvNVA5cmlkcGowVNIBtgFBVV95cUxNQ2Fha3Utb2xnVVljV3A2eDhRTTkxVS02UTdCMzJJa2REQVYzQVI1ZllMczVtbjIzUFJpNW5qZ3lxU2VFZmJfMGVJbk9HN3lQekFfemlBTHRrcTJ3OVVic1J2QlFNMkIyTEZFc25IMzZaVE52cThDSnp4WU5fejB1azZyQmozZlc3TlFIT1p3S1Vqa1Brb0c4RDFNRzRrSV9sM3JGQUxKVy1fOHlfbTVYdVRmOXdhdw?oc=5",
+"source": "ABP Live English",
+"published": "2026-09-30T15:19:53+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e4438fdab9aeff59",
 "title": "Tata Consumer Products - PB Fintech, Wipro among 8 stocks that hit 52-week low and slipped up to 45% in a month",
 "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZ1haUlE5dk0zN0NTM2U2dVN5NFBJdDZWSjZaUGRzc25fVFR4TXZpMHh6X1RCWVNFSUhtMUlxeU5BNHg3b1RrbDB4TjlMSDBNYlZwekxiUGxVampnZnM3OEgwZExhcm9WLTM2NURQSHRwM2lDci1tNS1JYlBRQVdER0FWLTJ5SlN0QkJ6am9JaFhtYVdMSmtVQWpaU1I4RkY1YmFSZktObnhBMUNFZ3JWbkxQWjVhZllJbWRSZEwwN21NbWZCTEJvZXg2UXA2WEZfVFl0aWV3bVNEaE1vbzVYbnlla1BaVUxVRUoyNk9FcTFuNVNfX3hsYkplQThSbTlnN3ZLcmJFSktucEk?oc=5",
@@ -1307,6 +1323,24 @@
 "source": "Mint",
 "published": "2026-09-30T14:19:16+00:00",
 "first_seen": "2026-09-30T14:23:08+00:00",
+"symbols": [
+"INFY",
+"JIOFIN"
+],
+"groups": [
+"IT",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eb3879f73cd65734",
+"title": "Top stocks in focus today: Investors must watch Jio Financial, Infosys, NCC shares on Thu, 1 Oct | Triggers",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-jio-financial-infosys-ncc-shares-on-thu-1-oct-triggers-11790774828518.html",
+"source": "Mint",
+"published": "2026-09-30T14:19:14+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
 "symbols": [
 "INFY",
 "JIOFIN"
@@ -1699,6 +1733,24 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ba267fcf847b0baa",
+"title": "CAFE-III Norms Finalised: Maruti Suzuki, Hyundai, Tata Motors Welcome New Framework",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUlKYUR4c0dWN0l0YUNuM2xEUkFQMGwyZTV1MDFMNmNrRDN4dlRUMXM2Z2VuMTluWjNlaHVqTElfeHZXMGlPYWZuaTA4SHFNbjQ5SWNlSU50bmRhMTJDSTZ1Sm9wekxJWV9rMF9uMGM1c3BHbWZOaVVuNFNnSTlJNUQ3MU1nd1BhYk9xVmZLbUFLU3RBakJ6ZlRxQkVpWEYtcFhXSHVLeE1SZVc4?oc=5",
+"source": "ackodrive.com",
+"published": "2026-09-30T13:12:16+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2365,6 +2417,22 @@
 "first_seen": "2026-09-30T11:59:14+00:00",
 "symbols": [
 "ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b3f0ac5b32544b6d",
+"title": "NTPC Green Energy (NSE:NTPCGREEN) Adds 153.94 MW Kalasar Solar Capacity",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0lNVVZENXZGS09jQ0l6emxwMGs1MFNDVVQyNzJnQ3UwaXNBV1RvM195dEN3RHozVXpLejRQdTMzcDd6dEJqQm1tZ3dwSDV2TkF2bW1nWFR6YjlGSk5xdk5PUXk3b2xfaHh6ZDQ5U3V0R29VSFZiVUVRV09ILWo1VnlKanFkakxBR3JRSEt0SWdmZ1hyS3JDZUxDMlZsNmFzcTdEbnFxMWF1a05pUVNsT01wc1RxSk43NlZzcURGZ0lxbUMwSWFKNVVXYw?oc=5",
+"source": "Kalkine India",
+"published": "2026-09-30T11:49:00+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"NTPC"
 ],
 "groups": [
 "PSU"
@@ -3979,6 +4047,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "7b51a3e1b0f911f7",
+"title": "SBI Life Share Price Today: Valuation and Sector Context",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVFnV2pZZmVDdldWR2t2V1NNODEyVzVsMGxNZkFJVzc1MzNZOGREdzZndzlXUGxmQWhjX1pUUnZUV2V1ZEhKWkppVzU3QWZVdllvTjFXaUNqc2hIUHBfajU2Z3VNMXZubnZBVUFXN1UwbEJmVzFFbzdCT3FJSDdWc3MzRXF3S2dST2xhTkJ3LVFBd0tmWFVIeFZ3enVkSzBr?oc=5",
+"source": "univest.in",
+"published": "2026-09-30T10:02:00+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "011d4197ffd182a1",
 "title": "BEL Showcases Military Radar, Missile Systems and Electronic Warfare Capabilities During ‘Tarang Shakti 2026’",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJQLVJWdGhzeE1Oa1h3U3pEY1dyUmJkYlJFajNoQkFidnNHNTRQeXB5dnN0R3VOaHZiczduTzU3dERaYU5jZGNOa3pYX1NUaWI2RDBQQ3hDem05ano2V1hvNDhINjNQR1M2LTBURkM0X1JRUjJWZTBtTk5ZdGlGTlEzMnVaU0RHYzRnYUh5UGRyV1ZZZ05NMmdRbUJ2bHh5V2ZIR3RORmZIaUE?oc=5",
@@ -5186,6 +5271,22 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "284c062c48376ed5",
+"title": "Pick-of-the-picks: Sunil Mittal and Airtel, B Std",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTlfMVdsTEFqb282SUk3Q01raDFCVTAzaFdDel9TdURmdVhyY2xGNG13ZGVVdmdvcGctNExHOTZjdlh3SHJWbExFbmh3NXZMdTdlTWpnMmx6X0xPYmNxMkhZaWZielpYalJhOGVrckZMc0I4ZlFUMTdzeEhsbXFZYXR2QWYxdVB6STY2YTFqTQ?oc=5",
+"source": "Communications Today",
+"published": "2026-09-30T07:44:25+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "6425fde6d125c3ed",
@@ -7521,6 +7622,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b0ff5a02330f5c5d",
+"title": "Infosys Q4FY26 Bonus Payout Drops To 70% As IT Demand Weakens Amid Ongoing US-Iran War",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1B2ZnFVeDBWLTFLM0IwRTN1REpranhYbEI2NFEyczZrbjc2RXVFY1FhR3BJRTNzUzEtQ19xM2ZzTHdaX21SWXFVRnFMSFYtbWg4M2U3aTlkRTBKMHVBdHVRRzl1Rm41ODZTSkRQNkFnM0owQnZycS1CWTJDOGFlVFFlSjhFX2Vab1hSck1nRjc5U3hMWThYaU1wUjNYTXR0bUcxVmt0RC1paVlONjZlUkw3MFVLRFR5MUFSWUQ3Rl84emg4MWlDY2tR?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-30T05:07:30+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "negative"
 },
 {
 "id": "6e9ca35430e3f636",
@@ -11006,6 +11125,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "56e51e7d1f59e792",
+"title": "Maruti Suzuki Victoris On Road Price Nakur Sep 2026 - ₹12.63L",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GanB6V1hzSkRIOHFrT3pjVDBXZG5OYmM4UzM4TVpKU3JtOC1MNjFBSTFCUktKYmwyR1lZd2QzeFpfQl9zUjhsNFQyQU9zNVdscmlwdHdjbVRaQ0VxYlVOZHhFRFZNZk9NcEdkdEgyTUNiZ3FmT1dXUDBRcGdUV00?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T00:37:33+00:00",
+"first_seen": "2026-09-30T18:39:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "149f92e83ae9f102",
@@ -50307,134 +50442,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "df8061477a86ebba",
-"title": "Axis Bank readies major customer-connect initiative to mark World Tourism Day",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWWFjeUhITEdpbXlvclNSZWNvczNIdTBlUVZ6VHNFQkFzb19jVE04Q2tFX1pZcU0zV1RzUkx0Mm5aZi1yT3hhZUQ5QXN5T2pyYWtDWTFHSHhLbVpxUnIyMlEtZy1uX1hwNkJ3bWpzWUZPbzJkdU5UdXdFRVdCVjJYQk9mR0VPcm5qQTM2V0w1RDhhNVZrYzBIMHlrMUVUc2p2dXZYRDhGUWNlRFdmNzVpRG56anBlUWJYbTE1M1JKc3ItSVk5Tk5Va25iclRXcTh6elh3R0lUWUlvRV9JOFNvZVVMX3BHZUkyNEFmb0txZkFRWFRFOWtv0gH8AUFVX3lxTE5sLTgzSFJyZjVZSl9oR0ZaeTRKaU1iTTVsX3ZkcFBDRjhpcWpNNmotNm9mZ245VDZGUV9hTHhLRjdGYzJvREpiRWxfVlpCWjFuSU4zZHpXTGxNQWgtUENrZkR2VzYwQ0pWMFd2c1JCUnFXMk81NTd6QWd1ZGs2SVBEYTJpVzFVN2hkT3FESnh5d0lSSzNPclBYOV9Ld0VTOUJlM0ttRUJ5d1dQRS1vWm1WQjgwM2E4T3lUOEd5aExLaHJIcG92UUpwbERrREljVXBNWnNsWDRiN0RSTGZvRDl4NFVXdG1ZSUFNTnNXN2NVRXZWLXdrNGJfNUZLeg?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-24T16:47:24+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cfbb43c7bf45b735",
-"title": "Bajaj Finserv backs Dhinidhi Desinghu, targets four sports for growth",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0pxa2xyMFo1dHViejBFNlZiYnM0d0tyUlROOWNLajZVOWNGdUtuSzNHWGtVRjVGRldiQjlSVXBDMEt4MTFpT2Jndm00SE1HTTI0ci1QSkI0QjlZT01rTG1RUkN4QUk0SzByUnZYU2RPMXhzTGtoZ0I2NXZZeEQyQjk3V3PSAYoBQVVfeXFMUDVYTjgzZmVyQkh0aDY1QTVvZHBkQmk3b3NXOWZERU5JcUZ1bWxqT1BPTVlKS1U5bmRRYVFMNkFYWWV2ODJqTHNrUWtWbTlGa2ZJNU45VVdlc01xLWJEWFFycmtGSXBwN1FITjFiRzdRbk8zYXgzN0NjNlhIZGRNYXFTbkVuNzh4NEtR?oc=5",
-"source": "Indian Sports Home",
-"published": "2026-09-24T16:45:16+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2d5154b063a692db",
-"title": "Adani To Invest Over Rs 1 Lac Crores in WB by 2035",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0NFeU40VDR5a2RxUkIxQXFRVmUxZ0JoT2hJYzhUUUJfUG5XRXZOS2VNYUp2cXFWUFZCS01sb21lVUw5Sk9iTHBKaW0wVmNucFA0RWFJcU51b256ajFJRnY3M2lGeUpaY3g4dTd5TnVwY19iNVdoV3FrcjM3dE84NmdwMksxMlc0ekwtQ2REN1V0MS1XaHFSNjc2c3JkUdIBowFBVV95cUxOWGpNdmIxOWMxbXo3b25hbEp0Y25xR3RXYWVULWNuWWY5SC1IMzdXQXVzb2tfN3JmMVpqTktXN0ttazVmbEVKMnZrMmJRRWc1c1AyRk14SlBXMkthNG5PSjVxczIyOWVSX3I4ZUhCVEJzdjBhSE9qcE80Um5zVGlLX0hUS3FOdHBXV2ZnOFpQd0FtcDRUVS1HdUlscmFmblhSZ1FN?oc=5",
-"source": "Deccan Chronicle",
-"published": "2026-09-24T16:44:10+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3bd5befa2fbb0406",
-"title": "Maruti Suzuki Ertiga On Road Price Alampur Sep 2026 - ₹10.92L",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vai1zWUZxTzhBdXNwU2JySUtSeVRPdjRwSlRaZ2gtSl9SdWdYa1UxaUZ5NWlyV2V6NWY2UW5mbzd0NS1jZktjS0NBQnJURmlQU0FCeU1fekppZXMwYUpfMUprM3F5ZDZxZWZFVkUzMnctejBmOWNidTlsWWZKMTA?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-24T16:40:22+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b6a980abf1b920dc",
-"title": "Gibraltar, Titan International, Hyster-Yale Materials Handling, Greenbrier, and Boise Cascade Stocks Trade Down, What You Need To Know",
-"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNHg0LVBCS1VrU2Myd0kzdFBMMTQyQm5jQmZRWjNpSjJHQlJfRDlTSEliRXNJdFRDRW9tUWpLZlpNMkJTeERlMWRWZjJNaXBydGhfR2dVci1xcWo2TW5tMktGY2NkUlY5X2hMbTNaM3hyV1ROdVpzNm1VSkFfRHpqY011cHFtZUZwT0xhRFUwQVZScEx0T1pBTVhOOFNWY1dadEZBVzBKSWlvUXY2MWZXd3BKTGJtYlZWRmJpMlJVRnRKTVBoS3hreHREajdhdjladkZra092cF96VWxFUUttMUlvV3ppUlFqYUduejc2dmlNcUVIRWhoc09hM3BNRzlZdlRSUHgwYW5aWGVRS2k2SGlWdGJ1a01kSUE?oc=5",
-"source": "TradingView",
-"published": "2026-09-24T16:35:59+00:00",
-"first_seen": "2026-09-24T17:29:23+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a3818b96d55ab403",
-"title": "Bajaj Finserv Consumption Fund(G)-Direct Plan",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeXcyNkp0ZndQRkdFVmtVaThiT1VZZ0d4VUM4cldYRkU4QWQ3cXhPb25tbmFhbnFodXpWRGV1eHRzUHp1VWd3eWhEREUxRlpobjFkRTZFaExRVmtWOG1VSWt5YU9aRXlEQ0U0LWNRZ3o4VGpDNkVLdVNBcWVNQmVKU3Jn?oc=5",
-"source": "Univest",
-"published": "2026-09-24T16:27:27+00:00",
-"first_seen": "2026-09-24T22:18:00+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "00d31df51e21f89e",
-"title": "India: investigative journalist Ravi Nair denied interim release faces legal harassment over Adani Group investigations",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamtUWlFocFVlOXR5ajBwYWtzYjRteHJfbEppbXY1TWhCakRQbURWRXdIR25TUGE2UUVEdnVacWJyZHkwNXVUYkUwRUl4RmlCUjBBR0FUWHlKYWlhRjV4YnZJQjc5Y2tLdHdZSGlMMXo0OWlwUEYzVHBHdXNWTkFsdGMwQVdMT2twU04tQ0wxSHA2amZ6Q1hlQk1KS3lVeE9wR3VWWWZIZGhzbnVzMGg1cjdaX2NJR28?oc=5",
-"source": "RSF",
-"published": "2026-09-24T16:22:16+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a2374423cac1d3e5",
-"title": "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14U2I2TUt3bmZGekZ5VXZvNkliTmx0YzZNYVNfWjJuaU41OF9OcjVBaEltdUxaMlNlMl8zMm1QQmUwOS1jMDJHMTFDNHV1SUREWTV6TjVERW83VWR4Z3AyQld5T1N4VkR3cVBZ?oc=5",
-"source": "Upstox",
-"published": "2026-09-24T16:20:59+00:00",
-"first_seen": "2026-09-25T13:20:12+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
