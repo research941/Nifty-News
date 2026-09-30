@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T18:39:56+00:00",
+"updated": "2026-09-30T19:01:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "82af51a865b506d3",
+"title": "Wipro gives benchwarmers a 6-month paid breather",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQU5PZm1XY3hDUG05dU81NE9JZGkwWUpEMFl2LXdmQmFMclkzTGxYYktFU0VLMnA0UVliVWxFYW5mRVZmaUtQVlp5Q1JHU0xuY2gtTTlyMHRpOGZxSDBzZ2RzTnNyaHhpUURCUGEzQjFpV0JPOEYtTVctN29RbU5GR3hkTDc2VWR5Z2xOTURLUHp3Zjk1LWtzNTRXRF9WTVR0MnNOWkhXY280SjJLN0RNZTY3dXd1TXpRWV9oQVlCeDdZX1nSAcgBQVVfeXFMTnl4ZHFBcEZGT0IwTlpBX01yREhoZ09acUg0M3V2d0JyTkk0ME5nN0ZNX21NVjlTRmlwVlZhMTNCcDBGOEhuNzFXZkxTaWhlVkVZYXplYlIwR1JNNEw1VFBVdVhkdG9xdE9rSzZUczkxQ1lLUExJRHVUMDA1VzA0SGxhdmJBYldNMUhoeHFtOXoxb3E4WXA4UWtvWjY1eVUtVGg5aDN4X0d1TU5COE5NR3YyTUZuSFRwNmZwbFpqM3VlQ2phZEJRa1M?oc=5",
+"source": "The Times of India",
+"published": "2026-09-30T18:41:00+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5f9eb7c01f309f1",
+"title": "Ex-Wipro employee moves labour dept over unpaid extended bench policy",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdUVKRVotcV9sTXpJWnI5eGFpU0ZMbEFvTzM1ZlRVWjBINU5KWGQ1R0RSNElRNGhnMnR2VE5JRG5EaW81V1U4UkxKNHh5V1ZDZnhTQ21wSGtzeDRRNVpxTl9ON3pmMk5XdTYtclNZYWlKeER2RlFrdlNuaDFfVzdiSXB6b3AtUGxucVZVd29GdkhRclFzM3pVT19vNzJ2bXpzV1JfYk9YVTN5M1plUDNnTkZXdWRNbzk5WW9DR1NteWxiQ1M4MjN4cUhkVHB6VGw1RlNmQXg1UWUySFFHTDU2WlFQSlhWek5FcVBB0gHwAUFVX3lxTE5KNGNhZXFBLXVNWGpYRXpIOVVrSkFnUTEyejNNa3lMWHFFaV96czhmX2pPREZ2MWp2RnlWWm0zTDNnWlNZODIyQk82T2dia1k0a2E3OFJHS0FJa1ZwSGxJNC03dllkNnJ6V1ZmUzQtVFpzSzNRSjdiWHlkZU82dlVKRTEyLUtSLXB6X1VIbnltUEIwOGR2VGp6RGtnbmVtcjJxZFkweVMwbFhzZ25ra2RVbXp6U0Q5dDN2N2E1THR3OGFJTm9qa1NyOUxVZXZ5eHVFSTlZQTUwNmFyN1I4OTJtRU10NXhwNE03bDA5OWJuUQ?oc=5",
+"source": "The Times of India",
+"published": "2026-09-30T18:40:00+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1246c710328573de",
 "title": "Mahindra & Mahindra transfers equity shares under stock option scheme",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2RyZ29GNmtIU3pxaXhWVTQ4eW1vcm5wS1lrUE1HdjJ5NEw5UEloTEtOamM0dzNZcUtfMlJLbURWZk8wUndZc3dGT19jSWZDdnBJdVpCdFhOaWhOeURaTTM3N2dMQTV3Skg5Y2J2eTN6d2c1SDd2Q3V6Qkh6MWl0eTdlRUFaX2otbmIwN3FhOEZfTXZnSWhibm43MlpUdjV0djVYeTFFcFBOT0xL?oc=5",
@@ -561,6 +593,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "899d3695206de04c",
+"title": "5 money rule changes from October 2026: Bulk FD rates, UPI MDR starts above Rs 2,000, SBI ATM free limit",
+"link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMG5NZFpTY1BZc21WWU12TVowbGVVd0VIeVJ5TTZVWUM3Z2VaSXZVSFVXTjVnN0doZ1hjOUFITXVUYmNkbzBxTVB3TzhfNllISzRIRXdyNlcwWDAtclhkREh0amhLZGpwSXdZSjkzcUoxdlExX3R1Zk5wSEZaVnVCdFNIdzFDVmxqZ3Uzcy0yeEI5Y0tLZFlEbGtHQnF5ZlpTTVJlS0FBZXphd0lVZ0Q0SGRBUEJZYnlJWVNrVHdBa1NtSXlNcmxLMWdPUkVWN0hsM3V6eG5DbjNndHY1WU0xR3NHd1hKRlhCOFNTMEtMVlVlLW9VZmpWVVFfaVFWbHZ0N1lWbnA4UzlVWTlNWGVET1BSZzFIclRUZzhOeGhXTXduWk5iSjhSX0xJemRfLTIyankxdFNsODVOUk1vbnhkeGFmdlVNQzdsc1FiX0s2RTVwSkHSAdMCQVVfeXFMTjBuTWRaU2NQWXNtVllNdk1aMGxlVXdFSHlSeU02VVlDN2dlWkl2VUhVV041ZzdHaGdYYzlBSE11VGJjZG8wcU1Qd084XzZZSEs0SEV3cjZXMFgwLXJYZERIdGpoS2RqcEl3WUo5M3FKMXZRMV90dWZOcEhGWlZ1QnRTSHcxQ1Zsamd1M3MtMnhCOWNLS2RZRGxrR0JxeWZaU01SZUtBQWV6YXdJVWdENEhkQVBCWWJ5SVlTa1R3QWtTbUl5TXJsSzFnT1JFVjdIbDN1enhuQ24zZ3R2NVlNMUdzR3dYSkZYQjhTUzBLTFZVZS1vVWZqVlVRX2lRVmx2dDdZVm5wOFM5VVk5TVhlRE9QUmcxSHJUVGc4TnhoV013blpOYko4Ul9MSXpkXy0yMmp5MXRTbDg1TlJNb254ZHhhZnZVTUM3bHNRYl9LNkU1cEpB?oc=5",
+"source": "The Times of India",
+"published": "2026-09-30T17:25:00+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "06afb34d3e678234",
 "title": "Adani Ports invests USD 750 million to double Colombo West International Terminal capacity",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUQ5TGF4LXNPMkJBemN2VC1GVTYtOU9tVFZtZ0dPUHoxWHQ4eFIzbkJWUmppbzc2aGhkdzczdXF0WVZoVG5lUU9ORFVtcDF5NGsxVnJ0S0xXbzRtcEVkNUtEYVlrbm9vQnZZZjhCbnk0c2VQbmwxcmlnZzV2SkhwUlhxbUJjZDQxdi1naV94OGpQNXBDUmV4MTZQUDZmMlRWOUZ6NmNpaGt0NW9CeDRSMGlQcWlsdUNBUjJvLU9EZmVXbFFLTkE?oc=5",
@@ -672,6 +720,22 @@
 "source": "MorungExpress",
 "published": "2026-09-30T17:01:04+00:00",
 "first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a4ffc300c8b93b52",
+"title": "Apple Pay Launches in India With Axis Bank Visa, Mastercard Support",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSjJtc0ZDRkVsUkk0d092bndLZ014NUZLMnlTLWRBb0h2a3R4R29IUXQxTDJOZDlvQnVGeTFRQ05LbTdoc005b2prMHUwUGhOaDN1a2FsSW9YTjJfMkY4TDVxOTZyUm8wc3NPcm9FbWdUSTA?oc=5",
+"source": "IndiaWest",
+"published": "2026-09-30T16:55:37+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -1195,6 +1259,24 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "123e1d25d41234d9",
+"title": "Wipro extends Alpha Net Consulting deal completion to Sep 30, 2026",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFB3aWNyejY5UXg5d21ERGZMdy1femF6eWN6U1d5T1pPT1RYMWNjdTFxSnl2STMyNU9yTEFZTWlMQko2X3U4WmkyOFJNVTN4YmZNekx4UEdjTDQxQ3VJRTZoTDVwSXFYLVVRVWlBY25JQnNsNUEwbGk5UmNpcjdqN3B3MTM4Tms4U2U1QUxNRFZpZ2txc3dwS21jbUhteU5KR1lfM09QMXl1RzkzTi0yYTVYWnU4aHA3T0RFdFFvRQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T14:35:21+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "ce5991609d8ae662",
@@ -6894,6 +6976,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f4a05d8161052a86",
+"title": "Adani Enterprises promoter stake rises to 71.97% after share purchases",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRG5fZXNCRHIwMzZsLWlxV3FVTHJDb3NvdjM4ZDlJZ3RncURwdnZsMWlkS3NVOGVmS0RITEJQeEc2SV9RVUhPUGRrUWpqdzhTeEd2TngtSkFONWlCS2tEM1lhSnlzbG5ncmVqOXZYQ3RNNkVGTlJNb0tESEQ5aUp3bDgzYzZnWWt1dTVuWDJFUFlNek5Md3c1V1dfc0htOVZMYm5odXdmZlpaOFdqZ0ZOS2NBdGF6S0ts?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T05:46:08+00:00",
+"first_seen": "2026-09-30T19:01:50+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "96fb189ad7a7ef44",
@@ -50346,102 +50446,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "d62c13ba924afbda",
-"title": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdkJlRjNJZE9HNjlMcXd2U25qbnUtMFhSRXRscVA3UW9nRElrZ0oxTWdEaENMS1J1YWNsU2xUTG9uMV9GZkhaeU0zcmtoV1B1RjA1bExTNE1sNDA?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": "2026-09-24T17:10:31+00:00",
-"first_seen": "2026-09-25T03:10:51+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eb3a45f114b74b78",
-"title": "RRB NTPC UG CBT 2 Answer key 2026 Out, Download CEN 07/2025 Response Sheet PDF",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9keFBZWWRybV9EYkVHQ2xZMXVRSmplamVhXzBDb1hHMFRTSXROTXgxc3pBZGJ2QUxVZ0NJRURWWUJJTm96amF4NDBpSUZDdU1hVUJ1UkNiR3ZNZVpkZ1ktRUxaeFNEZXhFYjI0SjlDN3pCRHhOOExad0RDR3U?oc=5",
-"source": "Adda247",
-"published": "2026-09-24T17:07:04+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "79cd8b9415f09600",
-"title": "RRB NTPC UG CBT 2 Answer Key 2026 Released at rrb.digialm.com - Download Response Sheet PDF Here",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNFljcjVaWE9ZUlpiZDlhSE1zekc2SE52SjhVa1UtYXBacTJIUEtXNFlvTl9VYVdZT1g3blVrdnF5T25XNkFfcHpyTS1JV1JsTWR1LTNfVXpsbzlvR3BSd21ZazZGdzljSWFPOGpCZlRZZE1kczZsdnYyWHZOaTdGM3prenhDejM0cFJ1UnlxVmp5NXdOUXIxa1Zjel9jZUtxUEk2NHF4VjdzRXJoVkxGNnA2Y25HS3NDZDJNaDZLd0owNkd6SDNPcGpNVFJjTl9kaHBRV1VzUVF2SFk?oc=5",
-"source": "Jagran Josh",
-"published": "2026-09-24T17:04:30+00:00",
-"first_seen": "2026-09-24T17:17:16+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e8e574db3a224a9c",
-"title": "Mukesh Ambani, Nita Ambani offer prayers at Lalbaugcha Raja",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWNVWlBBOTk2MUptUlRpWFZZbzJ0U3VJZGxZNi1XNlNVMFFFQXJXLVFwS2dmZGdGdDA4bmhtdkVCOFdYbEl5ZVFxS29haDFOWVlZRlJCY3pPVXFIR0pVUm1oaHROVmNFMXkyMm5QZEpqVjRxZ3VDdGxnczdMX21rZlNDZnUwNDZxLXUtaUJHbnN1U3FkX3lxaVZWRGo5Xy1IX2s0?oc=5",
-"source": "lokmattimes.com",
-"published": "2026-09-24T16:56:49+00:00",
-"first_seen": "2026-09-25T08:31:22+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c0f0a4af30be5ff1",
-"title": "ONGC to continue drilling after gas discovery in Mahanadi basin: Hardeep Puri",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS09mWHhrX3lNcnpBNDRLS3NVMjg1RXJ4WGxjcWxxUXFtVVpkSy1aS0p2Vzc4b3Y1Y0tBWVQ3cG1vYndlY3JRSjRGNEdDZ18tdGJHQm1fR3p5YnZGcVZzWm9FaFo4bHRuaTFpa3VYRDJVeHVWY3JRYTVRekdSejM0MDljd2MweWlMdjc1NjlNXzNKcGVkQUxheHB3cDFKZ1ZGb2dldWV0WQ?oc=5",
-"source": "prameyanews.com",
-"published": "2026-09-24T16:56:14+00:00",
-"first_seen": "2026-09-25T16:19:45+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "259f1a435fb17e36",
-"title": "PB Fintech crashes, Tata Sons battle and HDFC Bank succession",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0hwVGFhYWhzMWJBRE1BUmxwbFFEcW04ZWRUZl9VbnRKV1JHUFB4NUlrTXB2ZG9jVzcwQWFma1FUNGlJeEM2bHBkM1hCd3A3WjJEZ2VVTnVuWlRUQ1p1YklyVlZzTzFGUGpvOEs3MXNlN3FKbjlxaTFva21vSXMxdjdLZ0RJVFpMRlh5T01VNUpYaTVWVlR1cQ?oc=5",
-"source": "LinkedIn",
-"published": "2026-09-24T16:48:29+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
