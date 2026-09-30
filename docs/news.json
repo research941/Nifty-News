@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T20:19:52+00:00",
+"updated": "2026-09-30T20:34:26+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "116a6a34cedc2c6a",
+"title": "Cars.com names Trent Ziegler as new chief financial officer",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1ZJcUcyTWcwYlhtTWQ3WE5qZHNBZzNBSEdpYnpzSE1UUXpoNkFNTHpEcElTeE9zNmZoNkdmSEQta1RHSml1MnFOaHFZUDYyWFYtUW1uWHYzOTVrcGJZMjJheE5FUE1IZkpWb1NGREZiYlZqcWluQjh6V0U2andrMEFJZkRMeE5IUlpENGZTNmRGQkw3OXN3UG1zUGJCdm03S1V6b1NQSWF2X29ZRjBVdmplNDg4SVRQM01N?oc=5",
+"source": "Investing.com UK",
+"published": "2026-09-30T20:14:00+00:00",
+"first_seen": "2026-09-30T20:34:26+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "16270b97d085be3f",
 "title": "Adani Ports doubles Colombo terminal capacity to 3.2 mn TEUs",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVpHRFFWNzljbzhIam9NRlUtOTlBTVFnSXEwU0JYa1kwZHBpZ0ExTnNvOU9ld2Vob1JOYzhTY1ZFUzNaR3ljVGdzNWg5STZMQjEyMUUyZ21uZi1MMFFGeVBGLTdrdU5PNU56eFo3Y3lTaHR6X0pUcGFfMUttUU5kSmllMUdtVmkzSG9wdnlRS2tDM0FBNFNhekxIdlhnWUtPY0I5eHR5TFZCeWUzTjdqd2hWSWQ?oc=5",
@@ -484,6 +500,22 @@
 "source": "MillenniumPost",
 "published": "2026-09-30T19:47:12+00:00",
 "first_seen": "2026-09-30T19:57:29+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "24f757337beff1de",
+"title": "Reliance Industries raises ₹13,000 crore via 10-year bonds at 7.90% yield",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5taHhpY2daVXV4Y3R6Sy02UnhKbG9pTk12WnU2aUVrQVhpczZyV045OGlkZWw0dDJITmFGVDB0SW1tMUZnWVZTRS1XdVZtMVRRYmlsa2tPM1pmTG8?oc=5",
+"source": "Motilal Oswal",
+"published": "2026-09-30T19:21:33+00:00",
+"first_seen": "2026-09-30T20:34:26+00:00",
 "symbols": [
 "RELIANCE"
 ],
@@ -11440,6 +11472,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6f2bec9bc396e5c2",
+"title": "Maruti Suzuki Victoris On Road Price Mudhol Sep 2026 - ₹13.48L",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkl4eTNHWUZJcW1tZUhWQ2s3blBsNnl2dkZZWnBkUXdIbk9rMVd5VVI1Wi1MT3pnVEhQVG9ONm5RNWFXb3FWaDVnN0ZTSEhMTTlIbnczc0dRTEhKOENqbmc2YXBQVHg4d0hoVGZwaFNoMDktSG1kcjN1SmFoNUdjWQ?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T01:09:13+00:00",
+"first_seen": "2026-09-30T20:34:26+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50395,56 +50443,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7c8264a23f5b7378",
-"title": "Securities Lawsuit Alert: HDFC Bank Limited (HDB) - Contact Levi & Korsinsky Before October 13, 2026",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ2tBclU2aDV4N1dBSkhyd3lYQWRKNlBDV0taOEtLNWdGNDBac0tDTTNBTGt0a1FOLU42bW1lSnczN0dTYzBNUERJTUM3d2MySHRXZjNhVUdtRS14Q1gwOUdyOTh5amF5cktETVI3SWxGLWM4S0gzaXNTckZ5S2Z6WGFwSzdld0FZc2FNem1JbEs0N25OZ0phZzI2RlNyNTlZS3JVcWRTREJ6bXA5VHRjbG1jVTVSVXBZVUpHVEdUZDR5VGt4VjVlQmNoT3JPdFdnc0FXc1AyUTVaQ3RiOEZ2ZFItMA?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-24T20:00:51+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c8c258d05af4907d",
-"title": "Mahindra & Mahindra, Ideal Motors unveils All-New Bolero MaXX at Motor Show",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUZHODFvX2Rjc1J5MmNYQjluaGYwZHBZa2pfcFBIeU9jaUtMZDFINkpWRWhGcDQ2YTNCVG1GUmVGMWVTLW1EWDViMUx6bjgxazRoWnFnaXZPOTkyZlFNdjVuaGRkdWo3U0d1NTFwZ0hGRkphSEhrT051UnBVbFpNZmtCSk1pV1pqWWc2aklWSTFPNmxjSkZLSDdsZEowN05SMW9IN2R1N21uUTV1RGVnR094d1kwY2RNQlNOUGNtTQ?oc=5",
-"source": "dailynews.lk",
-"published": "2026-09-24T19:55:53+00:00",
-"first_seen": "2026-09-24T20:19:27+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "642cbc62082d2702",
-"title": "Maruti Suzuki Ertiga Tour On Road Price Sahaswan Sep 2026 - ₹11.72L",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2pJbUtCNkpsQW94UjMtYVdDZk5xT2cwYlNGSXRUSEIzYlp4NDl3aW1xZnFGYk50My1ERHRkMDk3ajdVMlRFX1dwTVYyRXRrX2NQUkk4djRGTnFDeTFxOUFoS2VtSnNzd2tSOXBCSl9qX0RiNWJKMXZOdTNtQjVPNlM1bVdBVUU?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-24T19:45:55+00:00",
-"first_seen": "2026-09-25T13:20:12+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
