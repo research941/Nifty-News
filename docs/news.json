@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T17:20:05+00:00",
+"updated": "2026-09-30T17:34:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,39 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "06afb34d3e678234",
+"title": "Adani Ports invests USD 750 million to double Colombo West International Terminal capacity",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUQ5TGF4LXNPMkJBemN2VC1GVTYtOU9tVFZtZ0dPUHoxWHQ4eFIzbkJWUmppbzc2aGhkdzczdXF0WVZoVG5lUU9ORFVtcDF5NGsxVnJ0S0xXbzRtcEVkNUtEYVlrbm9vQnZZZjhCbnk0c2VQbmwxcmlnZzV2SkhwUlhxbUJjZDQxdi1naV94OGpQNXBDUmV4MTZQUDZmMlRWOUZ6NmNpaGt0NW9CeDRSMGlQcWlsdUNBUjJvLU9EZmVXbFFLTkE?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T17:24:28+00:00",
+"first_seen": "2026-09-30T17:34:31+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1fd1a07933261bc5",
+"title": "Mumbai Consumer Commission Orders HDFC Bank To Pay ₹92,525 To Fraud Victim, Cites Service Deficiency",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDFwNnpOLUozb2syQkFPbXprc2ZpRmZhODliYmNwazlPU1JzcTlTM3hYd19ZaTJhREtqWUJ1OGhxek5UVkxneVlBcV9GVG40aHRpXzlaUU5IMXQ2N2xQdWRFNm5RZVlJZWJBeFVLTmplazdRaWxnNXQwMDlpVXNPVkFESVdVRjVObXJrdnlUUXFWMGtuS0FVb0RjZmZRNXJjdGp4SWdFbW4zRF9RQVFCRzlKVk9lS1BBaHhpQTZMR2tfc185MWx0UmxhTG1vdlpkV2fSAdcBQVVfeXFMTURYQU5pdjZtQWhwRkxMZGFWYk0tSXRfNTBaTXpnTnBmemRMTUZUb2NUQ3lVeFQ5X0NlbV9mam1mbl9fYkVVQ2owZmp5NWNfS1pDZVItQmtLT2VEOW9ValhZS2NoNV9VUHNWRDlDV1pwb0k1N1l0SV9ZVS1UcFNUUmR1VVdhNjlIcG5aN3k2eUNiY0U5RnBZMERoc3RRWExsY0JIQVZzMkM3SkRFWjMzeTBKZjhWUGpVcktfWDg4QXpVcUc4MU9rRFhrNmdIOV94dDlIOXJLazg?oc=5",
+"source": "Free Press Journal",
+"published": "2026-09-30T17:22:50+00:00",
+"first_seen": "2026-09-30T17:34:31+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
 {
 "id": "bece4a541b667f5e",
 "title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
@@ -3077,6 +3110,22 @@
 "sentiment": "positive"
 },
 {
+"id": "b862890f4ef10007",
+"title": "Nestle India slides Wednesday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGFvWkRWaENNNk9xRkM2WXc1bUV2clpERm5YUHpOYzl2NlZHVVVzQmktREo0cGNBeC1VMUZRdlphTTRsSzdwRGIxNjNWaWxhd2JkeFJPMmpldnhpQURCRkdxbk5DRWR0aWdHcWNKVkMzR1RsOE9LLU1laFdhWU1OXzRjLW5pQzFjTGlmdGRrdlgtWFU1NXRST1hraGR2My1qMnlBOXJYYU9XVkEyUk5wMEVtUGVRMkRPbVVVQW9jbjdJX2dNVTdHa1FWakpJZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:32:00+00:00",
+"first_seen": "2026-09-30T17:34:31+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "6e9c2554166ae4d3",
 "title": "Wipro Extends Completion Of Alpha Net Contracts Acquisition To December 31, 2026",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1pPY05HSGpIdkswU0dEbDdFZWJxTTByVlA0NXpVT2JpQlVDTFhSNTBFN3BEQlRodV95UTJnRkItbldRUlk2WTQ2RU9FS01jQ2d4V2VOUVBFQzAxTmRVa3ctTXhFNlBmMEdkcl9QRm5DLVVQQ203bmoyY1ZCazdZaVBRYU9vTFhhaWFnb1lJeUh4QVgwVHhBcVVmYmkzZ2RKaWhaZk1Va0g?oc=5",
@@ -3781,6 +3830,22 @@
 "source": "ET Now",
 "published": "2026-09-30T09:46:31+00:00",
 "first_seen": "2026-09-30T11:32:29+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "41c0883e4cf0dd8d",
+"title": "Fire breaks out at ONGC subsidiary MRPL's refinery unit in Mangaluru",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWt6cEcwZG9xUVVLTDZNRW4welFNaFRxWTBZOG9LQnFDblBJcVk2QXU0SUszWG55OEcwa1hzS0ptMFNHeXRaU2QwUEdyamtIT05BZWpjaVBQeXM0WjFGMWFKbXN3dnlvNHJFRGFmc2szWThzdmZycVZ0X25IdW9ZbTlHaDY1S2R0YmstbzlPTlQ0YTdaVnRiWWVoUFA2T1RlSjJWVmxIaEdaMlpfbHg1dzB5dmhnbjAtNk1VMdIBwgFBVV95cUxQNF9sRk5YMEg4RXVvWl8yX056ZVBrMWxnZS1jQVEwb2oxTjd1QmZFM0UtdWxYNm5iWDZKMGIwSVJvU3AzU0pFSV9COVdvWmRIZ0ZuSkIzOWkyYlVDR1VBVGRyWTA2VU5SZFFjM3A1WVFrcFZPN0lzTlYyNjkySXFFVFU0c01KYmNKOWJ5enZrVllUdFBIaDNWS0E5cmswMHVHb29LaXY0RzRxazBfQXZfQmxZUXp3cEI4MzVRUm5SZ0VPUQ?oc=5",
+"source": "ET Now",
+"published": "2026-09-30T09:46:31+00:00",
+"first_seen": "2026-09-30T17:34:31+00:00",
 "symbols": [
 "ONGC"
 ],
@@ -8648,6 +8713,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "136c9b7d09b44c2b",
+"title": "HDFC Bank Limited (HDB) Lawsuit - Investors Urged to Contact Levi & Korsinsky Before October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbzhCbnNLcmJWR1Rrc2dPaFVmSW5CWEpWR3JnbHR2bDZKQVh6U2lKTTBnQVF0RjlDdVdMSHVrdUJocXFvd2Z3LU12Z3ZBVUVaSnpNRkNqV1IwbFRBWlh5WFpRRThyekIwOUJhY3NaVHF1X2VqT1RRZHRIMTZsLXhrSmNKd3dURlQ1bUxxZi1UZTlZTHNrYzBnS3ZyeWc5X1hHUVNpeFlyRmNlb1ptUGJ1ZmVWcjFVZWtZQUhYSHFhMGhsNmpyOHdEMDJTYmNRZ3hPeUl6cTBUSlUwS0lYVEQxQmo2NDc?oc=5",
+"source": "accessnewswire.com",
+"published": "2026-09-30T03:27:54+00:00",
+"first_seen": "2026-09-30T17:34:31+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -50340,86 +50423,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cb16a2de53b868e7",
-"title": "Infosys Stock Crash: IT Giant Hits 6-Year Low As Investor Confidence Takes A Hit",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDBvUVFoRldxSHE3TlZDWHNBLUR0RFBpRDZNWHRiU1hCMHVWQXRoLTlmRFpOczdVRFJoSnRUMmtvdUlEWjU1SEU3b0VtUDlYRzBfY0FIVkRMQVNEdlljRzUtV1ZkRVM3Z1hRbldueXFnZTRNSkQ1bjJPNzhpQWhhYmhKWC1VR1VoYUtHRW5HT2ZsMy04cXA1QksybXpYc2RrRHBzZUJGRDJMd2hMOVhoR3Y4a2lfcmR3WTFLMTd1N1lHR1E0Zi1J?oc=5",
-"source": "Dalal Street Investment Journal",
-"published": "2026-09-24T15:30:44+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "85a02de42699f534",
-"title": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVlSUkNGa2lDWmpMUEpESGxIQ3JQTVRxOGREeUR2QW82VEp4T1Zkb2oxdW1GdFpRckZ1TWFTYXZ5QlFJWnNaMlRLaTNCMFRfMzJYUVBoWmNwNTd5Q3dleGk4QkJuemxpT0pEVmctLTdmdHhtNE5SVHQ1VlZPbllVNjBlNE9GMVh3SUdTMXJSemNVOFhIOHBuNzIwNA?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-09-24T15:30:20+00:00",
-"first_seen": "2026-09-24T16:19:40+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bb799c4980d2e273",
-"title": "Wipro launches CISO Command Centre with CrowdStrike",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3ZDSi03c1VJOTI2bm41UTBjM1ZOMFI4WUZzaG8zakZ1a2U0OUhJZEVVcUxOSUFOSzQySGFIVDNwT183WDhCeWdDeW5BdnYyckk4UzBTSlg3ejlKWEpnUlFrVnRsNU1QeGZleDJGeDVOdjRMNkRSN3prNnFEVnNtMkFvXzYzczlZaWxlZW9zTTJlR3ZrTWNSQWtQQ2NFa3EyTlhZSXJUZ1NScWlFazR1RkdITUFFcEd6OEZEdkVpYw?oc=5",
-"source": "SecurityBrief New Zealand",
-"published": "2026-09-24T15:30:00+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b059dda0d54b54cc",
-"title": "Airtel boosts network capacity at Mumbai’s top Ganpati pandals for Ganesh Utsav",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbU1tNU0tMmk1cTRrQklwVW9QR3JMTnFrZlVqZk9GaWNVUGZIOUhRdnNzZXZFa3M2TTdrSHgweUF2am9VRHREZ2lqNXpPQ1RxRU1YSEk4VnFzVUZ2MHRYMWlwRUNCc0Y5TllESGdxY0pjcFItUFFDLXEzcVhUeURZVWoxaHlYQdIBhgFBVV95cUxQbU1tNU0tMmk1cTRrQklwVW9QR3JMTnFrZlVqZk9GaWNVUGZIOUhRdnNzZXZFa3M2TTdrSHgweUF2am9VRHREZ2lqNXpPQ1RxRU1YSEk4VnFzVUZ2MHRYMWlwRUNCc0Y5TllESGdxY0pjcFItUFFDLXEzcVhUeURZVWoxaHlYQQ?oc=5",
-"source": "MediaBrief",
-"published": "2026-09-24T15:26:50+00:00",
-"first_seen": "2026-09-24T17:17:16+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8c04fd720b4a55cc",
-"title": "BEL Flags Off Indigenous 3D CAR Prime Radar at Ghaziabad Facility to Strengthen Defence Capabilities",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01rNEY1WDNzc1UyY3VUS1lxbWJYMG1aN05tSFdrMzg4NmtvbEtwa2F0a0tnYWk2SVBvalNQdjk0VjAtUTFveGhBcmxuZDl1SEpmbzI0emswNjdGZkNHZ3pBM3J4QlB5RndfZkZWdnEzZkNQZHNZdW1ZLWZmOFJnVll0Sm9IcW4yOGxuaW1ONjhyOFp4Y2NsZnRfbkJfSC1OZW1XMkFtN0I?oc=5",
-"source": "Indianmasterminds",
-"published": "2026-09-24T15:23:03+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
