@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T13:48:20+00:00",
+"updated": "2026-09-30T14:01:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "bac0d5dc89b3d8c1",
+"title": "HDFC Bank Names V. N. Srivatsan As New Chief Compliance Officer",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkdoYk1fYllyX29vdDhqSE5LVGVnU1kyNHZHZnNlSXpQSDFiUDBmWWMtMU1XNjFkSzJKSHh3Nm1RNmlIYk1UdHRjUU1LRzZuLXE1a3BpcGI2YVZzazZMVmJsdmZiQm5yOVByaHoyZkluUExsLUs2WU52QjlsU3BoWFBYR3pkZTVBYWVmTTcwbWE?oc=5",
+"source": "Sahi",
+"published": "2026-09-30T13:51:21+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3416fb915df7a742",
+"title": "HDFC Bank appoints ICICI Bank veteran V.N. Srivatsan as Chief Compliance Officer",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2ZqMFJkU1dwTFpseHBNSkk0aEJQQkN0OVdGY21qUnU5R0lFd2F1aHU5ZGhueGZoZTdqUXB3Q0QwNmhlZ3c5OEdRZmNGcHQycVZWR2NvLVF3N2ZyRnc2YTU0ZXJlS0NJMXhoTXhmZ2hud3M2STV6YTF5Ri0zb2djRFg5d1RRemtYT3RtR3ljZmwzdVhvc1VaZEdadnRfWDgtcW1ocE0xcnVxZ2lHOGZkcTdBOFpkajdSb1RiODVFV2VYTmdHMFBrVVdZNmZTOVZiaXhQadIB2gFBVV95cUxQMUNXZ3dfYVlxV0hTRHlLN3Jfd1ZQSHVMNUdwLWJ5ZENWMzdDNW9TQ0xIdUloUnNNdVpDLUR4UDJRako3SGxPMUZtV3hlZzYwQXBVMVFFdkNJb0hqc3NRN3gzejVnLVNhVHUyVldsRTZQelF3dFhISTlQSW1WYTgxYThzbkRRZ0pTNDRab05va2lvLVU5VENGMjhEZldQREktLWdNbnZkZGZ2RkllNkF6M2pzOTBQZ3lleW0zVk1pWjlKa3V0OTJMdXRMaTBfMHMzRW03SDZmaUxfZw?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T13:44:13+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "ce578420832a9972",
 "title": "Jio Financial Invests ₹320 Crore, Jio Allianz Insurance JV Gets Fresh Capital",
@@ -1342,6 +1378,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "48a9d5417aa39f15",
+"title": "Airtel Money Secures $90 Million IFC Cornerstone Investment Ahead of London Stock Exchange Listing",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmdjZE1BR0pYU3hpMjFXeVptU3NHOTZvQS1SSGpyX0Nnemdoc0VpVGFYVm5XNWxqWXJna1ZuUU81TjVRRGc3N0ZGTVpqakhncWlELVBobDBGM2pfY0p0NmhqN1VKWnFZU3Y4Z1NoT1R6RzRoU251bVlGWEt2UV9tQzRra0NKMWRNNWZVQ3BXMWp2c2RnX3c?oc=5",
+"source": "streamlinefeed.co.ke",
+"published": "2026-09-30T11:26:04+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
 "id": "520da554f8039d61",
 "title": "JLR Adds Range Rover Sport Electric as Delayed EV Push Gathers Pace",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjVVRlNUZ1RKLWUxLWxpMzdmZ254WkZCaTJuYTBLTWt4UU1ZVmxTNGxaRkt0ZFFWbHpqZUN6czAyRVVjbWwySEJCQmRwcU1rWFdPQkEwQ3hlY21vNlJtM1RNRHJNc0FYV2k3NmxsRVk4bEgtM0FVZzhCdUh3WHNnTkhkRTdRbURib3hrOHZ0UExZSjhhTDR4X1BBelhha3lWSGlBWC1hTlNndmJPZ2ZROGdOTHpkRlV3M0hSa3FLRWpMVHdVRkQ0?oc=5",
@@ -1458,6 +1512,70 @@
 "sentiment": "neutral"
 },
 {
+"id": "88be618be5c0f5d0",
+"title": "Reliance Industries Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXRCYWp4UV84ZlFHeTA0SjU3MkR6VUxpdklYdndYeTRJNkRWeFA2NDhacUREYlNfa2lyNU80Nlc4QkxjTWMxbHVtZzFmdEM2bzE2ODRPcTFsYzBWYmUzMUxiQzM2OHkwVDhOTTQwazdDUEllcjJPRDFOd09qTVliRGlBb1pJelhLNFFVUTZCNHR3ZDhXLTUxa0U4OA?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:13:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b8f65f5a9fb86972",
+"title": "ICICI Bank Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHEySTNxbTFQRS14Y0hUYXJtbTFpdi10eWYtdlRIQWJzS3c2MGd2Z0F5bVR2RTJmOFNlTXdlamUtQWo0eEV6ck1pc25qVmZoOVB1VzBRNjdmR2VURnk3aXRoNmV6U2FsZ3VINmRBMlNqTy00bjd6LWRxMWpObnJYRktBNzNYR0ZWQVl2UlRndw?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:12:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "656e959b380cb60b",
+"title": "Tata Consultancy Services Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0VzWWt4SXBhemllNk9qOGY3bkF4U0FyMjEyNUZUeXR3SEkwMlh0Yzh4SzV2UWpjNVZSQ2JiV3dkVDRMNmo2cHJ5SGlnek5QbjhyZWxiNlRzckduODN1ZkZobWdxUENtLTBVVzFpWC10NnhaQzJYVW45ZXVoc3NDX0RwSlMyeFVLcDFzNE1HY3B2QVIzQ3hQNWZlSnRxM3ZmdkpF?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:12:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a74978a5044575c7",
+"title": "Infosys Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVi02djhLLUVzZmxranZRdHlwSWY1NE01UFdaOGRkUDhPYzVjQTRfU0dfSmUwbTFpalpHbkxtZGZabHFydHpXRzUzalhrLXhNTWNuMlBlcnAxMFN1YXkzcXJwREl4MXFiZ3hXUXZvMmNVa0Q1WkppaHFhd2p0cDBSMzNHVGpueTJESWF3?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:12:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "728b3d86c9377fa3",
 "title": "UltraTech Is Spending Billions on New Capacity: How Long Before the Capex Shows Up in Earnings?",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUnVGTzFEczkyZWlSVVY2dlJPZmU3VUpLUkt0czVBYW4zSXMxcHhyYXFxWGRTU3JIUU5qamdRLWRISXhyWDcwSDU2SnBUNEprY2VXN25CYzd4ZkExaTFLeThjZGlIVFRucFRQbjlUNF9SYnFXRVB5dHRhd28wQV83WnRrM0VYOV9QUEFscE1NX0V4cEZCZ2NlbGNzRWJxYzNyWlBsTWVtQ2JaaWdmcmJRcWZ0WGhtbmdwWjI0c2ttRFp3eTEzYWZwa21zV2JIUF91Ny1mQ1FaTQ?oc=5",
@@ -1473,6 +1591,38 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "3063aea5652be0ce",
+"title": "HDFC Bank Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmZwV1hrMDNVYzVJS3A3bVRYRXltdUtnTjNLYWtLSHRodFBBa0VjNU1jUzNFcFQyYW43TE5NSXQ3bERLN3FCQzlXZUxqaGJ3U2JuNmdIRDVPVzFWenQ5SWE0Wi1RY2ZLcVZBVTJ3cFdndkJCVFRBU1o4cEN3TnQ5OVlZbF9ybmNfQVFUQVhR?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:11:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ba7758937c06d783",
+"title": "Bharti Airtel Prediction for Tomorrow: 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnhhcnhPdVJ0NXV5VkVGaXpQYVhyYW1rVGJUbDFxek5ZaWVoRlNIcDgtOW50TkctVjFnalNYQVVIMWxSdDVFMTB4ZEhwNFlSODhaTFNDcTNoTTFvNVVqYVVYX1pVOUtiZUY0eTlWNlFQakwxTl9ZTVNSYmEycGoxWmlOZ25mQ3NiU2dwc00wZ3huZlU?oc=5",
+"source": "Univest",
+"published": "2026-09-30T11:11:00+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4379,6 +4529,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ca98cfb0e323cbd2",
+"title": "Apple Pay Finally Comes to India, Launches With Axis Bank Visa And Mastercard Credit Cards",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYk8wZXVWOHZJLUZwYnVZaWdvMll5MlVORDlWS3dXcnZZRTY2amFXQXp5QTQxRkxrODc3WElQd2VFUGVJWnFzUGVaczE5QWRDUjFvQmZPd3ZBRDNwWi1wc1BMdzBFX0RET1ByeXVmRDZUNVd6YVpjY2Q3VU5YSWttdGNHTFdjWWkwdWdTc0xPMG45emRHUXRLRWlvSDZ6R05sSXU1OHhfUEZ0VlNGYl9sa1liTEJjNGpPVU1YUk5LbTIzVmVfX29iUGcta21ycWRYTTdtUdIB2gFBVV95cUxNWGxSY1RQQWRkSmNWWDJXNXdYQm5oT0NMS24wM3FwSHhHQ0pXV0k2cHRLYXpwcjlRSW1lQ3FvRWc1VU51V0ljZE81TTJqTTdTd1ZSM0ZMbG02c1Y5R0szYUJiS2I3di1TMk9Kc3FuY2R4NGtKNDM3ellkOVB0XzZUZ1lJQ1dpSktuLVhJTU5rLVBJYUZmR1dnWFI1MTc2dVZBd2JxUU9iWmR3cXZucU5jZmp2Z09KVnYxeHEzbmpqRHRROFhOLXZzSWhVMzd1NzRvamxKMHc2VWE3UQ?oc=5",
+"source": "Editorji",
+"published": "2026-09-30T06:37:53+00:00",
+"first_seen": "2026-09-30T14:01:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50232,170 +50398,6 @@
 ],
 "groups": [
 "Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "491fb8540609e837",
-"title": "Tata Aeris: Expected Price of the New Maruti Suzuki Dzire Rival",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDE3MEZRNEJUalM0ZnNVbTV3V2o3U3pnRnVfU1g2eXlYdGJjN0hhLWoyV09BVmhWNWhjNlo0LWFMaHRfUXlFTU1RZGZHOVJSSGt4T0J1Q3NNS3A1ZFRJbmFWY3MxY19TZlY0YXY4Y2thU0ZkUEgxeU9DNDFscUFJV05KU1kzbzZoX1hHV1RnYnJQdUdr?oc=5",
-"source": "ACKO Drive",
-"published": "2026-09-24T11:58:48+00:00",
-"first_seen": "2026-09-24T13:34:37+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b2e81f1c9356ea11",
-"title": "AEP Ohio planning power grid upgrades in three Ohio counties",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3JqMFVtNjRrUU1YTDRDS25OT0JYd1AwWDBQNHgzU0NCNWs3eDZCOVhjc2c0dy01Ym1RSjNERFhoZThnNjg2STN4U0xyT3BNUDVqZVhDOEpTMzlqWEJEekd5RDBYSEI2R2h6UTlMYkxjMHJRbUphRHVyUG9RODZLc1NnZTR5UDd5NGx1eC1pQzRpbS02RmFDcC1jQ2FLdnRHcWR6bVFiNTFZOXM?oc=5",
-"source": "dailyenergyinsider.com",
-"published": "2026-09-24T11:56:23+00:00",
-"first_seen": "2026-09-24T14:48:51+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "118aebf64e59b4ca",
-"title": "SBI PO Mains Result 2026 Soon: Check Expected Cut Off, Result Date & Direct Link",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNMFlnT1RHSW9jdUZfMWtYVUVkMm1hX3RhNm9aZW5WcURXMmxWNEJiM3AwWHZ6M1plVG00b2ozcjI4OE42MWNyNDZPd2FRZlNoZ2x1ZHBUR3dSYXdkeFE?oc=5",
-"source": "PW",
-"published": "2026-09-24T11:54:18+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "123b729fb4522281",
-"title": "Adani Airports to build capacity ahead of aircraft influx",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnRHck9qSHFLNFhhbHBVelRXRTFPYU9MQmpnWGtJVk1UTEs3VlBkMlpmZjFmUElsV0dKYXJieER4amhiVm92VlZmUFh3alFHbVNhdmdJZFN1R3NBMXlxRXd1MmdVaDRjRU9NZ3dSX2pwTkEzYVFPY2VaM2pWbEFBaVhWTGw1Q0steDJLYm9WOFR3ZnNZR3VLanRIY0xaMjNQOEh3WGppMlBLYWNKRWhzb0Q5UmsyOEZxcldyQzJ5SWFkRzBn0gHLAUFVX3lxTE03NWhGanZWVWtxQ1ozNU1GbFlna1Axd2xTR2lRczBvREFhQWF5dnFyY1lRNE1kSi1xQW1zTHdkQi0yOUkwdm9oUDdDNWxYbTQyX09BSHhBdkc2VkFndE5HVjJmajlBc3ZMQ3NGY2JMem9iUXNDa3VZYTl1STRoUHV2b211ZWMzcUNvVUVad0NtSFNNTG5oR2dNZGFiLXBxWlVCWkdYWFhRYkVybERvMGVFQk9nZ0E3YkMtNVVxbXI5VW5MUkQyRUZuLVVR?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-24T11:53:18+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "357cbb185803374b",
-"title": "Kotak Mahindra Bank stock falls 1.94 percent on NSE",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVdaenNjZTRpWGJIN0F3SGwzQXpETWEwclpSZXFGSE84Q3Q4bXNfc0JTVVpFXy1kblNyWTg2d1JqMUZaWVRPZ3JPU3NYRWF6OE1WeHRJR0l3dE14ZnMxVHMwRmJqQ3RNYVptZmFOdDNvRVcteVRaNmdRNjV3MWw4aW1XaVNfaVpxYUxBTVlWTXJwVkJTSHU0ZlhFZ1JXQnV3RURUZkl4VGpWSHR0TFpn?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T11:50:45+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "2547e24c1c69dd82",
-"title": "L&T Technology Services Partners with Cognite to Advance Engineering Intelligence with Industrial AI",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0lKMmJTUngyRFJkcFRRQk9sYUtQaWVQRjQ0UUt5cHV0bWtLdFJNVjZSRENlSjhaMmU5Z2k2V3FsLWl4ci1NQ2VzY1E0UW9samU2Q1lqX3VjREdVOWVnQjBkSUNaR2NTQkxSTUtrRXhnUkZCLUttUXF3UVVOTVJuWEVlempiZEx4OUNWX0xqb05raXdFX0tZdXQzTkNBYXFpa0VJMVRNR05VdUYtcW5HdkdUdXhZcmxNMHlqZ0xNUWtjTjNtX0ZoX01tQkNUSnNlT1BkadIB2gFBVV95cUxORmhiMWdHTWcydGpxckNUTHVaUXpWU0dyS2NvUzQxY1FXTzJVandBU2IzZmlBenVYQTR5azlDSW5BV1YwUjNyX1paOHk1cFYtek5lMllwdWM3ODBPdVN4azBjNFpHcmxxSmc5dWRJSkZYTW5kNTFIRk9rczQzNDEzUmtjR090eDdUd1FPak5jRUVlUWQ0UUpGZTRINzEyZUZXaHFhdG5keTNud284WXdPY3JRangwZlc3RzVTYUdpMUJ1N0RnS2lwb1RydkJjd2ZYVmd2dFVGSWRoZw?oc=5",
-"source": "TheWire.in",
-"published": "2026-09-24T11:50:39+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9a430779c767728e",
-"title": "L&T Technology Services, Cognite partner to scale industrial AI solutions",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjNnQ0Mwa3lXNC0wNWI2cTN3SWF5SkRhUmMyOTROcDd2SjZVYXZZY2JhcWpuSkpFSWhpaUVyWFJsOV83Y2xXRHROODc4dXRPRHJhU3RHVzlsMlpSeVdVRkp4TTliU3RyVl94ejJiUkRFcFFDT2hsckxfQ0lMa2xBV1BqMjVBLXlIQm5kd2hUT1dxTEczaWhYaVVQanIxRjMycndGLUJkT1dqdDhwVW56RnhZc241R3JudXV3Sy1WUTlFZ3E1TFJpYXBqcW1YUkNpNVlQcUdnYjZZekxZLUhjRVBYWdIB4wFBVV95cUxQNjNnQ0Mwa3lXNC0wNWI2cTN3SWF5SkRhUmMyOTROcDd2SjZVYXZZY2JhcWpuSkpFSWhpaUVyWFJsOV83Y2xXRHROODc4dXRPRHJhU3RHVzlsMlpSeVdVRkp4TTliU3RyVl94ejJiUkRFcFFDT2hsckxfQ0lMa2xBV1BqMjVBLXlIQm5kd2hUT1dxTEczaWhYaVVQanIxRjMycndGLUJkT1dqdDhwVW56RnhZc241R3JudXV3Sy1WUTlFZ3E1TFJpYXBqcW1YUkNpNVlQcUdnYjZZekxZLUhjRVBYWQ?oc=5",
-"source": "ET Enterprise AI",
-"published": "2026-09-24T11:49:29+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "db1d46a60a662e1f",
-"title": "Journalist Ravi Nair Moves Supreme Court For Release From Custody In The Adani Defamation Case",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzVxMzRna2pzOVhic3VrY2ZKRXRDTUNqTE1zRlJoVmJzc2plYmxneGdCSEVzczhwRzZpR2R4SUdUcllrem1VUU9NY0dHbWZjcVA5M3lObjF1dVFienptVzNWbURCQzNlOXlndzduNHBQcjNuMVU3LVN4cUc4bndfS3VzcUtuS1NKeS1vUHZTajAwXzg3ekJ0QXg1SFJyZnhHY1k5dUZuVS1UZFE?oc=5",
-"source": "LawChakra",
-"published": "2026-09-24T11:46:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4fa2ae729183cdf1",
-"title": "Maruti Suzuki YL1 sedan could be named as Ciaz, to replace SX4 in India",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRG9YNjZfNzVCUWRqNnFwb0xPNEJYeUJubnl3aVpLUkstN0ZsLVBBY0NWbUMtZjF2Nkhxc0VGbFoxRXQ5ekd4WnJQOXA0dVBnUDM5NWpLanduNFBXejhNT21JU0NDZGZ4aDdKRVFhZGFQczZqRmZpTWxxQjU1aGRvOW1KZm1ka2M2aVVKX3cwMlhFc1NEX2RBT1pyei1LajNIYmFOVE5nazFaQnoyT2o5eTVSZnZWaEdzR1F1cmx3S1AwZ9IBwgFBVV95cUxNRG9YNjZfNzVCUWRqNnFwb0xPNEJYeUJubnl3aVpLUkstN0ZsLVBBY0NWbUMtZjF2Nkhxc0VGbFoxRXQ5ekd4WnJQOXA0dVBnUDM5NWpLanduNFBXejhNT21JU0NDZGZ4aDdKRVFhZGFQczZqRmZpTWxxQjU1aGRvOW1KZm1ka2M2aVVKX3cwMlhFc1NEX2RBT1pyei1LajNIYmFOVE5nazFaQnoyT2o5eTVSZnZWaEdzR1F1cmx3S1AwZw?oc=5",
-"source": "cardekho.com",
-"published": "2026-09-24T11:43:59+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "227892c666837d67",
-"title": "Dubai-led Airtel Money to list on London Stock Exchange",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEl6R1ZGMXpyWGRhN0h3SHJ5czJHOTFIVWN0bU9iQzFHNFRmVmk1QV9hX3N5NGFkZzlCLWxHaGdvWllOWUVzX1VhdF9jSXNNaXZnbi1ocDZqd2lsVmVnOFg1Q0p1Qm52ZXYyemo0MEItWW5XZGYwanZBU21iLWdLZDFxWDQ5anNPZ01tQ09GMVZwVHBPSWd6NA?oc=5",
-"source": "Arabian Gulf Business Insight | AGBI",
-"published": "2026-09-24T11:39:12+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
