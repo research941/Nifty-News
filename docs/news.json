@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T20:47:36+00:00",
+"updated": "2026-09-30T20:57:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -839,6 +839,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "65a2bee32f864d42",
+"title": "Maruti Suzuki Ertiga On Road Price Ilkal Sep 2026 - ₹10.36L",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Lb29EUHYtNjNLbi1oUmh6eDZCZ0pCdTJHcXdNdGpZYUlIblNnZEEwV2tUUlh3SHR4MUJFaVJqd2FzMVF5blE4U3ZnOUlMWGRyZ2FIdWhSdFhTLU83WndtTUNqYWl4TFljT2d0V1FRSV9Mb0lNMTJQQzVsWEY?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T17:23:11+00:00",
+"first_seen": "2026-09-30T20:57:31+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1fd1a07933261bc5",
 "title": "Mumbai Consumer Commission Orders HDFC Bank To Pay ₹92,525 To Fraud Victim, Cites Service Deficiency",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDFwNnpOLUozb2syQkFPbXprc2ZpRmZhODliYmNwazlPU1JzcTlTM3hYd19ZaTJhREtqWUJ1OGhxek5UVkxneVlBcV9GVG40aHRpXzlaUU5IMXQ2N2xQdWRFNm5RZVlJZWJBeFVLTmplazdRaWxnNXQwMDlpVXNPVkFESVdVRjVObXJrdnlUUXFWMGtuS0FVb0RjZmZRNXJjdGp4SWdFbW4zRF9RQVFCRzlKVk9lS1BBaHhpQTZMR2tfc185MWx0UmxhTG1vdlpkV2fSAdcBQVVfeXFMTURYQU5pdjZtQWhwRkxMZGFWYk0tSXRfNTBaTXpnTnBmemRMTUZUb2NUQ3lVeFQ5X0NlbV9mam1mbl9fYkVVQ2owZmp5NWNfS1pDZVItQmtLT2VEOW9ValhZS2NoNV9VUHNWRDlDV1pwb0k1N1l0SV9ZVS1UcFNUUmR1VVdhNjlIcG5aN3k2eUNiY0U5RnBZMERoc3RRWExsY0JIQVZzMkM3SkRFWjMzeTBKZjhWUGpVcktfWDg4QXpVcUc4MU9rRFhrNmdIOV94dDlIOXJLazg?oc=5",
@@ -1346,6 +1362,22 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cc9baad9d0f6e938",
+"title": "Volkswagen and Maruti Suzuki Valuations Highlight the Auto Industry’s Changing Economics",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTW1tRExTMHRvR2ZrNVdXdDFlTmxadHhsOHVYcXI2d0NwdHZwaGFNLTJiZDBaOFNnM3k0SkdkeWFuQ1FGMU5Zazg1TWdJU0dWaHktRVlHa0dWR1BFWDFxT1R2RU9SRFBsUnV5ZzRJQTFoRjByQkxWWFFwUmJLdkVPNlI2N21Zb25obklqY3VKS2NRRnpmZ2UyLU5oSXJqT2lCcEFtZG11MVY0Y1lxc3JEeENUMWctT3d3M0tKcDMyLXVpTlVrMnVPRTdn?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-09-30T15:17:00+00:00",
+"first_seen": "2026-09-30T20:57:31+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3960,6 +3992,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "85e156029855ad71",
+"title": "Dr. Reddy's Laboratories slides Wednesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGpMTFNzYTVnaGIxN05GdHlDejF0bFB5ekFJTEM1OTFieTM3SXEybDhXQWt1X1YtVDA3Rk5zb0N6Ty1fWDBMdHFjUWpEZTJzZU9Nc0lseGZNNlVBMGZZUUVKdmRGUk5QakI5RFZkdjFCLTVZU215bXZmUVRjbXVOd2lRZ3dNNmlzdjhFX1pSRzA2U2FqVUFyNUlqZEIzOVZrVGVHc05DdEk4VDNPNTNVUkFuMEJOdWk2SXAyWV9WUWhjT3pWQjNncUJRN2lVMFJa?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:30:00+00:00",
+"first_seen": "2026-09-30T20:57:31+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -9427,6 +9475,24 @@
 "source": "scanx.trade",
 "published": "2026-09-30T03:45:34+00:00",
 "first_seen": "2026-09-30T05:01:02+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "4f9463aacc21af79",
+"title": "Seamec wins $19.02 million charter hire order for ONGC subsea projects",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjVaU3lRdFNVMmVlRXpmNWluQnkwZjJKRXRWMjZyUUxRZ1Zjb1F2S050Mm5Uc2dkSWk0SWR6eTVHUHYwWUdhWkRRMUtDbG5PelpaZUdEWXd0eTkxVjlMUm5yZktzMjFhZFZqcXFNWWNPVDBfaDhZU3ZJLXJ0N212cmJYMnBCVExydUgwcDF5dnB3Tk9IWmpQVXA4M0IwVWNmVmFQaTJ1OHAxWmR4SjlyMXVMOHkyNnlid2tuYmMtcXdCRDg?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T03:45:34+00:00",
+"first_seen": "2026-09-30T20:57:31+00:00",
 "symbols": [
 "ONGC"
 ],
@@ -50379,72 +50445,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "bdf28a306f6441bc",
-"title": "Gujarat HC affirms Section 80IE deduction for Sun Pharma Sikkim and rejects Revenue’s allocation-based disallowances",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzNBUUVXbDNvVEwtVlA2dmxpUUhRMWtUeEQyMlNvWEpjTU0zQy1uZXVTYXFZZ2gzRlR2LVY3R2tIRHM3OHBReGFBTDJlRGhnZ2VEWXk1S2Q5N1VtaXdBUjBkRFFyaVg1cHA4X09NOXBZWWdPeUpISTRDbDV0TWVvV0VaQjh1MmdZVEdXZnVFTjVWeXMtX1NIWGg3TG9oTGVpWThhUWNoOV8?oc=5",
-"source": "TaxCorp AI",
-"published": "2026-09-24T20:14:27+00:00",
-"first_seen": "2026-09-24T21:17:32+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0d69e9ec23d96c82",
-"title": "L&T Technology Services promoter declares no encumbrance on 73.57% shares",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHdiYzBHU252Qm5SdWRTaHFVeGt1ZDZ3YUY4MU8xT3JON3FTc3VFb282RnRFdkR1YUNfV2h5Y3ZtNnNoS0F4LWZ1UzlzUVZkVHFnUElKUG5iZ0g4ek12aW9ieW5TNWYzc2xWcDJrU1h3RkVSMlVSczJhYmVDVUtfTWFkWVBiemRtb2RyVkhpMU1YaHlSbjZZY2U2NkRWUFFGYUI1ZFBfNEJ5eUFaMmgweDY5Sm5zZFZESWZhamhjTGoweVBJcU5RMg?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:08:40+00:00",
-"first_seen": "2026-09-25T07:05:35+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d8cac22f96ea5336",
-"title": "Adani, with CM by his side, promises Rs 1 lakh crore investment in Bengal",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYnZBbmU2VGIwbHB0UFJvNXBJb09GX3N6emtQX1J3MWROYW5VZkpPcWtIQllXUldCNG5wNUdINy1UVGxOUm5UMXpIclZMS05nUXJkUWZEdk9YZWxvRS1Wa3hYQXh0NzRYeC1qdGxMal95MzR0SG9kdEYtZVFMOVdfX25uNGV5bkY0YTQyc1h6OGlUbm8zeTFZLTlkYlJQM1BDUExsVElWT1BBUHRNR3hBM0RvamxlQ3NWandaTVNIR0JzdjdodUdNMVZzTVlid01UZFBUeXZRZktUbHFpcE9n0gHkAUFVX3lxTE1La2pTY1ZVU3NCUFVQTFR4YldFVjVEOWJkbDEtdmNIMlQ5N2l6SEtrdzlGVmY3SllfbDJnTS1ub0dzdFktQmVQMFphdlJ2aDJOazJjb29RdkZCVGt1ajN6QnpEb0FINVp3U0puRDBaaVdXcDFEcl9ZSEM0V0d2WnFHN091OXV1Rktpc1NOZHhUUHFiR2VuMVd5Wks5MHN0bDJGVHFrSTFNZGgxVXRPdXJiSEJNdUhPQTJ0aDI2aVdtT1ZjNFFMaUdWOFN0SmVTVjl3cEMyamdHXzFpOFExVTRQYU5TMw?oc=5",
-"source": "The Times of India",
-"published": "2026-09-24T20:04:00+00:00",
-"first_seen": "2026-09-24T20:19:27+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b75e0c4fe2c8b89d",
-"title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2NSUG9IUzdEel90WDhaNVdwX1NTQ2k5MFdXYWRRS0lndGR5R1NwMXFfV2lnaW1TQVpGM2RfWmViQk1zTWZIcnU5VU1nNlJXZnZpb0wxeWtMWkJ5eGJIa05DYkM3cm10SlRhNlREUHpVaGlaVTZXLTdRZEFaTnRNclJFSjZhbnU3SFQydUlGT3FHeXlQQkhDTQ?oc=5",
-"source": "Chron",
-"published": "2026-09-24T20:01:26+00:00",
-"first_seen": "2026-09-24T20:19:27+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
