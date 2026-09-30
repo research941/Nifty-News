@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T15:25:50+00:00",
+"updated": "2026-09-30T15:50:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,27 @@
 ],
 "items": [
 {
+"id": "507acc303e47d7bd",
+"title": "IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1pjUlBJZXlVclpqWjhyaVgwVjZXWFU4UEZOWEtOb3JBNU1YM0J0Z1FDc2U2NTZmSGJKTTB5YlJEMU5xdjMzX3JGcDRRbWVDd0s5MmFUX0ZmR1IzeGRqSjVQT0tETzVfak1Uemh1RDk1R0hBdFpYMHBPdnYzTWRsNGMtblh2SVI1emxfMGx1LU1Edmc2VVBPQzJDd2tiYXg4MzJqV2xNS0ZWZzZpcFFOZi1SQVZuQWtqbFJnUnluRmw1Vjk2dzlJcTQ0THJCQnlielZMZGRnSUdxWFBJMWtsSDc4bjRvdHRvM2NjYVB4Q0N3NFpf0gH6AUFVX3lxTFBpOFI2M1lKNjBLUG9kZEJGNHU1WnozRmpTRThnMTdoT2VJdG81RjYyTjZXQnNUcTRieUgzY18tSWNtWnRUT0M3TUtNM0JOU1ZCdXNlamdyUGp0YUJKMXcxb1JYSXNjX1NlY3dFMy0wdlNOUk9hNkxBR3dSUGQ4WmtpeDhkTkhRM01ianZxX2owSDhQT192LUVwai0xcEt2UmxsRFdQNVl5NDJqUTdKcDQ4UUpIWkphSU5WQzNSLXdOdURtaG1XX21SNE1aRTV4eGk0QTdIZ24xOTItZm1JREM4Wnh2cGs0SE40N2dlRXJqRXBuWEN2RDNUQ0E?oc=5",
+"source": "Livemint",
+"published": "2026-09-30T15:23:24+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f1f413514e253a05",
 "title": "L&T Semiconductor Technologies unveils a 1,200 V SiC MOSFET platform for EV fast chargers",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelppVVBvNzdmVkVUVk9uZUF1U2pnYzM5TzAtd2lmb3dhSXRranlfLURJR3h3THV6SE55OC1BYXQ3dkhNNDhhTjRZTnZZcUd1T2JEcF90N0czQnJFYlM1dnA1Y1c1VUdqVDFZdmZsM3l0bzlLV0o3VlBaekc1cUVzSG0tMDNVT0VBeEhDWFgzX0F4bkRIRER5TDh1WFk2aVFzb2RyRWxSODRhd0g4TC1RQU9xTnRHMmd5elczNw?oc=5",
@@ -768,6 +789,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fe9868982802bb3e",
+"title": "Apple Pay Launches in India With Axis Bank Credit Card Support - AppleMagazine",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ESVY4V01aYzNMV3l4c09zRkdKWEhOSElXLVBydFJvT0hsa0xqUkdKNi1DLVFlNkRzaDFpUUhXeEtOSkZBRXlIZk82dmxtSG1RNHNwYVYyRDBlWUpHNW5nYnhfemRmb3A1MWZXbDZCclJJYXY1TG00R3lIUG_SAYIBQVVfeXFMT2pwbjZkdGNrajRXUndTSTBjaXE4Q3pzSXBXckM5NVdPVWt5Rk1hY3hSZ2VQZUVmb25uLTBsYXpQYzRFZ01TZ0JBT0pvR24xV09ld0t2Zjc1ejlCbExINXJJOEZ5NHJpOC1ielkwZHQ1V1U4U1gtbUNQR3JydG9teTVqUQ?oc=5",
+"source": "applemagazine.com",
+"published": "2026-09-30T13:51:37+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1279,6 +1316,24 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "764bc1389aef1f7a",
+"title": "Zee Business. . सितंबर के कैसे रहेंगे ऑटो बिक्री आंकड़े? सितंबर में कितनी बढ़ेगी ऑटो बिक्री? Maruti Suzuki, M&M के कैसे रहे सकते हैं आंकड़े? #AutoSales #AutoStocks #MarutiSuzuki #MahindraAndMahindra #HeroMot",
+"link": "https://news.google.com/rss/articles/CBMi9wZBVV95cUxQbmZqdC1YMGpUaFpDU2tRd3hDODdoMFMzd3hKTm0yWWpLQWcxbExKRHZSVHRsSmRYRExVT1lEZHVmQjlaOVNSTl94N3hyWjRWUDl3NGtRa0R5WnIzR1Eycy12emtiUmNOQVhEMTJLNW5ZVFN1QW1VTGptTm8yQ3BVLXhwTUtjMklQdDg2ZUY0WE9zZjE0V2Zlc2hBd19iVEJYSXJmMEh1d0h3YzdEOHpjdkxXNFRxV2dBSktzUXYzdHk1VjhqbUpJaHZLVkQ1dTNJc000aW5EMDdsMW9tTG96SEN3Zmt2V0c0TWJTcVRnRFBrWlQ1NENmV3J3MnphZzQyeFFEMmdiMVVfZFBuZEJraksxLTlIbHVGbU82ckJ4RkczMzhCZmNzOTl1eXpON0VVNEJmNWlGbGVqNDVLdURnZldVcEJyQkM4S2taUGZ1b2pxdm5sUHZmMHJ6eTJNSFBEZ2NJTDIxQjVBRTJPMHJyRUEzOWhnR0VBMmYtTE85c0pYQjVldTFxR3MwVnE2cUFmS3hYcGZvVG1uY3V5TlFnU3ZQZzZkRkF3T0wtRE1CdmJ0Z08zUzBYcXdZcGQxeXE2b1drMXFLY0hiSi0xNTEtcDMxaG44QkVVck1GeFd5QWRtN0dKbTZiTkdES25EOW5Eb0tqM3pRa2dESG83VkhpRGZSN1ZCUE1yUklRdmNiTTY4UjBDcFRvdnVyTmliYUxTbFRLUjZBWnZlbGdodlNMMGVLdWxtU0Rsb3Q5SmF4NXNXdk9UT2JUYUFwenRuMXJCZ0RvWm55ZS04dlR0Qzk4Y3l6NndiQzBBa3VkeHdzVlZ1X3RZWHlCS0trWTVGa3BSXzE1cDE5eWVzMVY2ZjduWGVkeUY4VnhrU3k4N0xIU0V1UkNyZ2Z4eEdCRFVVeHpEOHRIVVA2QUVqeHZmRW5DODJRWGVockFRMHFRNm9YeFd4N1A5Um1CLWhYWUZQTUM3d1Zfek1Ub0pmY1FUWTU2QVdYRUJaaHB1UFN2MU9fczlKMTBWTGViSk8xWW85cVlxeVY1LVdfdjFYOUlBcGVpR1NjZW9DVEwzd2ZGdE5lUmFlNFJuUXpyODdKV1NvVk5xS1pEYVZGY0xRb1dITVlwWHdiYkdONTE2V3ExR2R1VlNOMnVicVpVLW9OTnJab3kxVm9NZTE4Zw?oc=5",
+"source": "facebook.com",
+"published": "2026-09-30T12:36:18+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"M&M",
+"MARUTI"
+],
+"groups": [
+"Auto",
+"Mahindra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4721,6 +4776,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "a57fd7cb89828694",
+"title": "HDFC Bank Share Price Target 2026: Analysts See Rs 875 to 1,150",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WGNFNGZUTFhnQTRRUE5mUF96RTJTNVhUcXpmZDlhYUpGeHlaN3ItblVVZW5vMUZ2cGc0eTAxTEswRkNCcGpicHFjcjZ3djA2Y2VMQTAxbmNlZ3FjMDEtaUpJQzJyOFBQR2c?oc=5",
+"source": "Univest",
+"published": "2026-09-30T07:12:05+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ca3ab0c65b3b0fd8",
 "title": "Apple Pay Launched in India: Apple Pay Is Officially Live, Starting with Axis Bank Credit Cards – Here’s How It Works, Where It’s Accepted, How to Set Up & All You Need to Know",
 "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMmllcVJDeUVzWUt5bUc2RDVKQzUzY2l4S0toVE9jZ2J6ZUpJeVc1OXI0TkhsVm53b3ZXV3VURUR3SUJta0JQcWZ5OWl2ZFFXLXE0cWJIUDhUN3NVeWJhQ3hTVTdMck9SYlNUcEdSalFXLXRyM3Q4SnZSdlpBdlBWV3VxN2ZyRi1iVDhJTzNhTWNDLVZjSV9LMUljRmJvbDRzd3RXYmRCc0pwc3VhRHd1N1pyVm1FRG9JS210WVdZdHN3VjZQM1RsMHRjU2FBdXNqM3djOFl6QUpMazJ5NGVmZlJENGl0OGQxVnozc1ZKVGd2X0xkVVVXVXpoSjFWaExmeGwyWG5EcDA0QmhzNzdyUXRkemF0WHFiS3J5OTFiejU3RktmNDBmb3BkN0xuNUI1VUlYdzZlcjg1cGfSAcACQVVfeXFMUF9vTkc4Zzl3b1RuekNqdjJRc0V5a2ctUmdFaUdWWFBjX21YbzhJYkhXd29uTGoxeENxY21zc2VvOE5TOXRqYnZSWmZoTlJxVDc3eUtPSVAzUUV4SjdaWGtQbFhBX3I4VktyRXI0UFpvcFlpS0E3RXJGMmk4YkFxRG9uc29hUnUxMEszX1EtUFJWOHRtLXVJNFV2d3RsUE9FeVpZYzhnT3A3SXhzMnFLOW43dE1QdldFZDgySmlMTUxYbllvVWo4VTRSeDFwMk5XZGVUY3M2cTAyTkFJZjd2R0Y3ek9IT2Nzd3Boa0IxQ01QMmpaYk5xcHQxdTBQX00zUEFCU1BEMThWb1RjNXh3VVdmZ3B4S1NfTnpyNzE4Tk9JdktjRmtDeDd6aG4wYmFySEFzTjZ6NEFUcWVLb2hKN3c?oc=5",
@@ -4962,6 +5035,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b1025ac99ec5d82b",
+"title": "ETFs Investing in Reliance Industries Ltd Sponsored GDR 144A Stocks",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kZV9KTkJSenhxeDhKeHRLZkE2SmhMckpmMEs2N1FOY3BISkF2dEdmbWlhaExyRFIyNHhNdWxjTjZMa0pJZlpqTmVzbHJkem9yUk5id1dLUnRPYnB2QUE?oc=5",
+"source": "TradingView",
+"published": "2026-09-30T06:52:24+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -9994,6 +10083,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "f0d813ee0c047740",
+"title": "Tata Motors raises commercial vehicle prices by up to 1% from October 2026",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZk1FR2JiNDNIVVBlRG1qMzhUYUNjNDNSQ0IxS3hIZWtBQndKTklOaHlUWGpzcHY0QlR2Ul9tMllET0pDLW5LMVZVVmhWUFhfNmhtX015clZsTUg3Ykk2X2xGQ0dEZ2VoaEgxUkJqMkNVR2htZU1RLWx6eXBwUnhpYjRUVHN5SHJtUEFGTDBzNTRtNVIzbGlXVXdWU0RpVHRtQ3NNWTVzalowLVd2Ym5jTktNSWx4R05naEFYMzRNVkhlUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T23:37:32+00:00",
+"first_seen": "2026-09-30T15:50:15+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "aa23b28cf7862c59",
@@ -50304,104 +50409,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "82e5d989a361c872",
-"title": "Ravi Nair, who peddled false and defamatory claims against Adani Group, granted bail by Gandhinagar Court",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQU9zeGFHOXhyN2thQ0hnNU9MaXRIZnZVS3B6ZU90N0pBNTAzNjBHRlp2bGVMMS05NmxfWklaNTNfYUU5SnhfUGRnNFZQM1hXQ3hKcU81d0RZWXlVbXA1cnBmUy1iRjZBUlhkVGVMOGRhdXg5aXl5NlJlOThOMG1pYVc4WmxKb21Lc0RpUmtHVzJfZnMxSXJQQzRhdG5FZDJaQjlPRHREaFp1cUFnZm1KcE1TZnN6LXhCdG1zWlB0M1VUdkdzTXl6dnd6YXJsbld0REwycEVWZlg?oc=5",
-"source": "opindia.com",
-"published": "2026-09-24T13:33:29+00:00",
-"first_seen": "2026-09-24T13:48:26+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "67dee989c3e10362",
-"title": "Journalist Ravi Nair gets bail in Adani defamation case after week in custody",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmoyQVRKaXRTeF9UeTJnWGtwaG9YLU1LTm9MdlQ1d3JJeVRlb0xPak5UNUJwVW50N21wbF85elFxU25PQTZKN05EYlh6V1ctbWNXX1Jac1JMNFBoaXZhMGhobV9OYW8zNVdJNXFoUXFwQjdDMFRPS091SHVpSFVoVTI3aTdnZ0M0WlFyazVEMDJZcDN0RTdaeDlud2F5MG9Lb2l1Z3RMWVh0aUEtX3Y5NVE2REZJb1hnVXhaLS01Z9IBzAFBVV95cUxPWk5VQVJocERBLVY5NWt4TUJ2UDNhanBiMWctcEJpek9uUG9hdnZUNXhOODlqeko1cUI2eWhweXEwdjhPNE5jN1phXzhtRkZlT1g2Q1lwVDRTOVJXM2RWeTV6VU1qeFVWLVVNbTg0TWNjX292QklFMHBkbm5YXzdSNEF5X3JrYnVMM1VvcW5ZUXdiNUMxVlgyQ3hkM2ZPSFhLZkptUzFuM2N5eTlwdXFVZmNCNWsySGdGT1I0aHo4UVB4VE9qX1oxYXhOTmE?oc=5",
-"source": "National Herald",
-"published": "2026-09-24T13:32:53+00:00",
-"first_seen": "2026-09-24T14:34:12+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7b9e4af880a523cc",
-"title": "'For India's next trillion dollars of growth, the East must rise': Adani eyes Bengal expansion",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzN3SXpMeE5QVVk4SUVEZkh5b1RvUTk4elVHU0pFZmJlNVlFMmtwU2k4MU5JV25oUE1oZzF3dkFBSm5wbEhVNHh2Z0hwbWZLaGVTT3dYRkhDcWo2T09Pdkt2ZzBMM253bDJlUHgxdkNnNGlrQUVMdWdaUll0dUNpLUFDclZFSGRYOEFzUk5SVXMzR1VIVjd6R1FUSFhMNi04SnplN1lIRjNXcFhRWlo0enR1RHozU3RVNElmM2h2Y21CUzNkbFA1bk9jRGtsNGRkX25tUU9GVTJLTVdwX2JqN3BCRTRaZ9IB6wFBVV95cUxOQ2hjUnpNNDhESmI0TVZHTlZOSGRvZWM0ZkVLUUFPNEROanVxYWxwOU9nNmdQcXZIdXRwZTFiNmxScm05ZjVVd2YwQm9jaXZXczVEVGpLUWprVXVZUTVpSnZCTU5VRk9NdjNPdGVDTEJGS1A1R3BMaVdrTTBTYnlSQ0xybGlsdndjUzhZWG92UWdfNTNrVEZBVkcySi00S1B5V1A5SktEX1lJVXFVNEpCYzlUYVktUFFIN3Y4bWc3RkRwR0xKTV9TNGRKeDJMSERVOV9sQnNYX1MwV1IyNXVaNmY3Tkg2TmhZNTY0?oc=5",
-"source": "Telegraph India",
-"published": "2026-09-24T13:32:23+00:00",
-"first_seen": "2026-09-25T12:50:11+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "612a3a11a8cb2094",
-"title": "2026 Maruti Suzuki Baleno Facelift Genuine Accessories Price List",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWFOeWJBeW9ibWFCX0lONzROMndUbnpVb1ZMMnZrbTJZZ2FjWDVzajItRHFieE5NU2t3RVhBTlVFWFQ4TG1NQUV4czNVSWhMMEd3MHVkT1NtamNXSDJYUjJ0UjlVeWhoeUo5a0t4N2hTMGw4ckhJNW1LOW0xajJXeWVPVllISVdoZDhTZmJDS2pkMTBYTjZhaGN4dlpvc2VKU2x2V2VpRktkTlBHbU5MeVdXMmFTSXgyaWpmenJwbzZXYmJZ0gHKAUFVX3lxTE9DR09lenBndm5pakN5cDRYcGtiMmpoV1RtOTgtVEpIb2lXQ3V0ZEMwLXVTa1I1VE5RWjBiQmg0MVJ2NlBKdzdRemo5cWJBOVpJUU1tZy1CbFp4NjJ3MkpGY0VrM0t1bEtHOEMza3l2bTNyMVFBRmljbF83TjhCOVJNWGlfNmd2VUxveVBNWjZobWduTGdIMjN6T19YcTJzSEFzaWFzVkZkYmhZLUwyaGpwb3RzMzY3LTNWaGdvNXpURHA3bUZMZDYzQmc?oc=5",
-"source": "Times Now",
-"published": "2026-09-24T13:32:00+00:00",
-"first_seen": "2026-09-24T13:48:26+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "252088f53d662331",
-"title": "2026 Maruti Baleno Facelift: Ultimate Buying Guide!",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjZSMnd6eFZONE96OXMtZzlfakc4STNIMl82bWhuS08ycld0SUo2X0hQOEUtMWNaenpFbDZiNXpMYzIxbExfTFIwdG1UZko4MVBRODQ5aVprc3VxNTVxTTdiRTRCVFdYa0pLRGVNOVh3ZW4xVWh2TjFzOGQ3eFhEMVNwQzM2QW1uM0VGTjBEaUJjQ21uLVI3Q01fN294QdIBpgFBVV95cUxOZTNROTNQM0liTV8zZnpSVENLZnRJdTdtd1AzWGdBVzd4d0dYOC1iZV9OMDJXOTFVWHdkZ04wTDFOVTN0RTFUbmFWTHdCMGxEMlBQMkxLbzFqbE5nOTVmc1VWb3R6X2xiREJydlo4c2VORXN6a3RaNE9kX3BhcmxoRjFvcl9KNzRrOWRhdndIWWNWbWF0MkZJbHFCdFNacGw0cnFRalRB?oc=5",
-"source": "cardekho.com",
-"published": "2026-09-24T13:31:00+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b8cf56932591e1f0",
-"title": "Welcomhotel by ITC Hotels, Dwarka unveils Del One all-day dining destination",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLS1GOXJ0LTQ0RW1IWENwelVkSWtaSnhCN091M0JVUWthdVMzOVRnNDZTUDc4U3E5TXJrR2xwUy1HaW8zUEpab1BEN0tDVDJfN3RnalBZdVZhSnRleVN0SndVTXlhQTFMcXZTSE90UDkwaWZ1NVlZQWRyY19ReUNmSjN4WTk0N2tsME5nTmFtNzhWaWJ6Q1FoVjVnT0tmM20xcVJPTzUxX3ZVUlI0OHhuQmtISWY4S3J4REdxZHZhMTVma3hHSDlaZGdDdHJydlFKSUJPN1BkLVp0SEIxb3NxMDE4cW13a1hpWGfSAeoBQVVfeXFMTy0tRjlydC00NEVtSFhDcHpVZElrWkp4QjdPdTNCVVFrYXVTMzlUZzQ2U1A3OFNxOU1ya0dscFMtR2lvM1BKWm9QRDdLQ1QyXzd0Z2pQWXVWYUp0ZXlTdEp3VU15YUExTHF2U0hPdFA5MGlmdTVZWUFkcmNfUXlDZkozeFk5NDdrbDBOZ05hbTc4VmliekNRaFY1Z09LZjNtMXFST081MV92VVJSNDh4bkJrSElmOEtyeERHcWR2YTE1Zmt4R0g5WmRnQ3RycnZRSklCTzdQZC1adEhCMW9zcTAxOHFtd2tYaVhn?oc=5",
-"source": "ET HospitalityWorld",
-"published": "2026-09-24T13:30:00+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
