@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T14:51:32+00:00",
+"updated": "2026-09-30T15:04:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "086deb947d8c8c04",
+"title": "HDFC Bank Appoints V. N. Srivatsan as New Chief Compliance Officer (CCO)",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnpfbjNEbEdNSDVzV0xZSXRNLW8xSzFTVEhmQkN0eTROTXRVVm9yNnI1UlFZR1lpSzVXNUpkT1VmRW10TXRacWdDOFl6S1N5QVVfbzl0MlNTekxXMUgtVDE1aXVGb2NodnNOd2ZUQVRkSjRyUkRpR2MtSnZJd3B1OE1iSEFnVXJHZ2p5V0J0X0Rjb1NYeThuZXMxRkx6R0xx?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-30T14:56:00+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4d6b5881852cac26",
+"title": "HDFC Bank Limited (HDB) Investors: Securities Fraud Class",
+"link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOYnhsVVFsN1VTbDk4ODlDSnhLNkNRSVRDZmVjSVFrTVJlbEFEWkNJTkdsQnUxN2tuQWw0TWtjVEhDSWJQZEJfY01QaEpnY2JXbm55X1prZmFLdzRuenBTT0NJdW9PRW9LYnRyVXNyZ0c3X0FUbW03TkVZdTBQbkpQNkdkdE1Rekw4R1Y1eW9YYlRQU21EcktxcWpkUktuUzgxVGlnQkV0VU5ITk1zajdMNG5GUnhfSlVqUHhWYVZEdTVjQVM1WmMxb21PSkgyRGNzOW95YUxHRm84ZzZOb2I1a1VkV0xNSm5DVXc4MDN1bF83aWdFb2hZa1ZYcHAwTWNSLVYzMzNFMWR2NHRZTjRVYXkzUDJkVTk4RnFqcjlEQ09IRGlzYmN0alNWczhVQ0R5N2pXZTlHMA?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-09-30T14:46:23+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
 {
 "id": "08812f5a2dc33b7f",
 "title": "IndiGo taps ex-Tata Digital executive to drive loyalty, marketplace, financial services",
@@ -1090,6 +1124,22 @@
 "FMCG",
 "HDFC",
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dc4b37188f83ec52",
+"title": "Airtel Fast Lane replaces Priority Postpaid as terms clarify 5G slicing service",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRGpoQ2hTZ1RNbWt6a0Z1SUl1SGpjX0JVVF8wU2Q1QXFGbTEyeDVrclI1S1hwQWdCRUNEeHZreHJBZWtXdWZ4Z1dvY3h1MU45V3VkV2wtRUp2UlQ0R1dqYWhPX25xeGdPWFBxcGNJeVREUWVSN3lSX0gzVzk3NDhTd3ZjN0NrcktQelhIUEdySERPMi16emQ1V0M3cVM4ZFVpelRtLUU2ZHBEMGVZ?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-30T12:56:45+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2356,6 +2406,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "23edceb34b1ac35a",
+"title": "ICICI Bank rises Wednesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUlrelFhLVRsYVhhSDhna3hBTUszaWQ2ZWY2NmFLcjJxcXhfU2Y1NEFiclZsZGU4aERJMlBnUS1fMzJxLVFIbGd6aWhtTnBYdzAtVUdrYWZXaG4tTU5ORXNFQ055RVN2QVVkUzF2RFAzSFoxVU1ST2VaZTQycW1PaVQ0SmZfTEl1UUIwZ2pvY2s3cDVnTUNyVi1odWUyYXIwUVVCbHQzUTFLa1pkV2R3UHQ2Mk5mQm1mWHZF?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:32:00+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -8838,6 +8904,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "14482a80789439b0",
+"title": "Adani Group will invest ₹27,900 crore in Bihar: To create 53,500 jobs; establish cement, power factories; s...",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXlQU3piOExaZ2kwRUtmVXhlN0Fna2o5R1NRamoxTFg4M1RiSEVJODRLWWF0VlVsS0ZWWUROcDFDRjZjY2RQNWE1c3RwSU8yZUNMUlZzSWNPR3o5bHFxcm1nbUkzcHd0WU1nNnJXdmZJVmZPMVdLcmRwUG81U1VjX0hyRUxPbzV4X1BqRUNDZURDZ1ZsczZlMUxUbHp1MTFVLWVlNlBB0gGrAUFVX3lxTE11RWRMcnQ3cEtiSVlFWUFZaVJMYmwzdnREMUc5a184OE45Qkg2OVpDWjgzR2VVSGNGTmxpcXlmX2hvcFVmVXNSVEJuOGVNT0tnUFdyd0lqSDdSemZVendUY2JLUWxnSjhZd2RDMG05d1NPYzdFQVNCRlJyaU9GZEREbjVwczdtZWVUUE0xNVNJVXRpUWJ4dUtWdW5jbm84ZXVQTEhrekN5SGZVVQ?oc=5",
+"source": "bhaskarenglish.in",
+"published": "2026-09-30T02:39:57+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a181e69015eb111e",
 "title": "Maruti gains as government leans towards small cars in final Cafe 3 norms",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0dlYXcwMmVockIzN1RQS1IwUVYxVS14eC1jbUVFY3dfaUJWS0M1emxINHpEVHVZS09XRDdoaXRpaDZCV2UzNXRwWThPYmJ6RkFfQ2F2NzF6RFVGLUhBUHU5Q1FUQzh0akRNbmFsQVVoVU5ER0dGVWRCMjF5SmR1ZThUQ2k4VmlzeW03XzVrNndXdE9Vb2dNZ2IxX1RjajdrN1ZsNEdudDJtdXYwbjZHZ0k0b2JUcjBRSmZKdUtrbFM2cUlONkN5X21LSk5UaWpMby0wdDlkSDJWYWZXbWkzTW9qdlNUVTMzd3hNRmpIcDFHS0lJ0gH6AUFVX3lxTFBXRFVqTmh6cXdtajZUMmFrM3J0M2pXVUxYdTZxMkIxaDlzaGdiTXVOTjhrOHB6bHhtVVJ3N3Z5NTd3eVYtTEFIUWd6bUtNaEZFM3pabkdMTlpDaEszZ2FzTmFVOGs1RFdvWkM1akF0bHJVSVFVSWwycWN0SzN5YnFXOXl1blI4WVV1eG5nRmxyRDFwQkJlNWxrOHgzZmM0LUdUbTUtY2IyY1NMUUFqU3RkTnFLYmlmQ1JWUzVQSnN5dVRkdzRXbVVLdUZMZHlVN0tBYXZXQ2VIUldfeGNVcHFqWGdkZkQ2SktFVUFCUHRqaW1wblNydXJIRWc?oc=5",
@@ -10620,6 +10702,24 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "0dd1d348e4b80c59",
+"title": "Jaswinder Sandhu Appointed COO – Real Estate at Reliance Industries Limited",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1JkX3lSRGJsa1BOOFV3MW9XRVItOFl5di1SN3ZjM3JmeHgtd29oS2tPQzNES2w3WXdpWmpMT0hKakNZRGFtaGdiaDJ3Vkd0cVdxd1J6Wkd6QXNvNlIySWNCcVMxdVR4RG5JWnIxbTRyal9jUzBSbjRZOGVGLXdiYmc2cUx6QXlvcFNqU1ZQSzhnUWtWRllNNQ?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-29T17:48:37+00:00",
+"first_seen": "2026-09-30T15:04:55+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "348b36065ddb0ca8",
@@ -50297,104 +50397,6 @@
 ],
 "groups": [
 "Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "277cfb540ec79db7",
-"title": "Maruti Suzuki Starts Green Hydrogen Plant to Cut Factory Emissions",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblNnajBCSkh0TFNmaEt2ZEc5dkVIcWxnSzdwb1piUFhnWEtENzJMbEpqZF9DSGJEUnltZGlUdzhmR1UzQTcydHBhNGJvVWsyckktdUdHZ2FPblBaWUhkanAxUHlRSFpENVBiZnBqcnFFWFptWkVnTmVVdzhycXRIazQ3SEV5R3A2RmM4MVNsX09LZGM?oc=5",
-"source": "urbanacres.in",
-"published": "2026-09-24T13:00:26+00:00",
-"first_seen": "2026-09-24T14:34:12+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "d1e1501cdef0013c",
-"title": "Maruti Suzuki Starts Green Hydrogen Plant at Manesar",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblNnajBCSkh0TFNmaEt2ZEc5dkVIcWxnSzdwb1piUFhnWEtENzJMbEpqZF9DSGJEUnltZGlUdzhmR1UzQTcydHBhNGJvVWsyckktdUdHZ2FPblBaWUhkanAxUHlRSFpENVBiZnBqcnFFWFptWkVnTmVVdzhycXRIazQ3SEV5R3A2RmM4MVNsX09LZGM?oc=5",
-"source": "urbanacres.in",
-"published": "2026-09-24T13:00:26+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a76f35f5537008cd",
-"title": "Sun Pharma Launches (C)Taro-Methylphenidate ER, the First and Only Bioequivalent to Concerta® with an Osmotic Delivery System",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3VZY0NuYkdwMEZPXzhTVHZhYXI0a0x1SmVNaUtwekFvTzFtcS1fWGZNNkZjQzZTX3VwMk5nT1NxWVlZRW5UQU5rbTdKYzgteEc5RW1RM0xXVXN2Z0Zfc1hDMXc4NU83WldSYjFBUHY0dUJaNjlTT2xiQ3VpRWFGeQ?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": "2026-09-24T13:00:00+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "740ce44932ec5ea1",
-"title": "Business News | Bajaj Finance Personal Loan Offers Rs. 40,000 to Rs. 55 Lakh with Tenures Up to 108 Months",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYmQ2TFk3U1lyUDQ2MHpxMzIxdVZ6Slp6TzVKWHo3QXQ3YnJUUlJrdHUwbmlRZUlhc2E2Wl9VLUNrNzZ4eGY3dUFUQkJiS1RrRkFTeDY1WHg4QlJMQlN5dnhBRUFXNC1UYjBXUjhyYzlzNU5OYWNpcnV0WHZtdUp4NEJOM0t1N1AwV0RNSGhCNTlucWw0Sm9zRVJJekhwMlI3YW9YVVpBalVBN3Q1d1pxWGhWdXJFSmU4RlctU0dRSnJub3R5bnVfNUtBU2VjWWlsREduOUJxV01CaWdvbGNyNkw0M0F2cmtfaUVZ0gHrAUFVX3lxTE9iZDZMWTdTWXJQNDYwenEzMjF1VnpKWnpPNUpYejdBdDdiclRSUmt0dTBuaVFlSWFzYTZaX1UtQ2s3Nnh4Zjd1QVRCQmJLVGtGQVN4NjVYeDhCUkxCU3l2eEFFQVc0LVRiMFdSOHJjOXM1Tk5hY2lydXRYdm11Sng0Qk4zS3U3UDBXRE1IaEI1OW5xbDRKb3NFUkl6SHAyUjdhb1hVWkFqVUE3dDV3WnFYaFZ1ckVKZThGVy1TR1FKcm5vdHludV81S0FTZWNZaWxER245QnFXTUJpZ29sY3I2TDQzQXZya19pRVk?oc=5",
-"source": "LatestLY",
-"published": "2026-09-24T12:58:29+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "be3edf968b00a66f",
-"title": "Tata Motors receives B+ ESG rating with score 75.3 for FY26",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDdOblk3S0JfWktlejJTWnRfQUM4eDZya2NQTE9SYnRVbDlscTVQTmdvOHhBNE1PUWxMV0QwZUJzZC01NEhOc21YOGNnX2VQX0QyeWwwbHNOT0k3NzI1SEFTcUs4VjYwRExBY1czaTNfeFVlMFMtQUR0OWN3ZWNESi02cHQ0TVZWTzkyVjJIckM5c0xldDg4WEFrcjRFNW1WWFBqcUJ0LVhXdw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T12:57:48+00:00",
-"first_seen": "2026-09-24T13:00:20+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0da2486475098239",
-"title": "Journalist Ravi Nair gets bail in Adani defamation case",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFREQkdpUTdrTzAxS0ZXOG0yM2tzS3lYSVZ0bmVPYWFqT2RQN2VocXZzTUh2NVk4VDNGQ3hEYkhmdGlDeWx2Rk5yVXp5WTNsdlRCSVltUGhzWUp0bmFOSHFCbHU1ZzhkblNiT2RITHBWNlJEZ2ZKVVR6UUxRaGdOYTRqdVZ1ZXltaXZ5T2ZFRmNQZ9IBlwFBVV95cUxNa2JweTlzd2tfS25EUXhLUUlZbl9fMEctcGF4NkFXdmgwYnVSOXRPQUlXV0U0VEZyZVBpRzNFLU5adVZBWTlTb3d4MERUZkRCYUdpWEpxNC0wX2MxdEZXYnMxcUxQWjRMak1BdHNGNEdSUUFhdmhFcmZsSlhLaDlXYUstcEFIS0ZiYVdHNmszbGFyYmViTUVj?oc=5",
-"source": "scroll.in",
-"published": "2026-09-24T12:57:00+00:00",
-"first_seen": "2026-09-24T15:55:51+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
