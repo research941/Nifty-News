@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T21:18:45+00:00",
+"updated": "2026-09-30T21:34:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8c1f1a1c13321f28",
+"title": "Hdfc Bank Limited Announces Management Changes",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlFHeDV0RXFOWmZrdWVNSllKMlZaREtZN2E2VHF4TGF5WkZHd09MMnpkc1NNYWowYjREc1R5ZXlPT2JQUXA1RktNcnI2NVkwM2swazJCX05hNUVZdU9WUXRnZGlxR0R5VFpoVVBGU3B0NEhBSnJmdXJMTi1MWTV6SWo0cndzNXROMXhsd3RWcXVobWpmeEhRa2puc0FIclNO?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-30T21:20:36+00:00",
+"first_seen": "2026-09-30T21:34:58+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "831c0a2a38e46fdf",
 "title": "HCLTech completes FY27 campus drive, will likely hire 11,000 freshers; salaries from Rs 18 lakh",
@@ -3400,6 +3416,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "bb2d4bba10b1cc8b",
+"title": "Apple Launches Apple Pay in India With Axis Bank Cards First",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByREpDclV0ckRlekNxbzBndWtnRWpGdGE0cDlJMVlvUzhuMzUzRDgzNFo3ZTI2Nld3TWRGTUMxVW1Lc05fV3NWdUlLT1VuZmgzd0JtM2tIVmo?oc=5",
+"source": "tokenpost.com",
+"published": "2026-09-30T11:04:43+00:00",
+"first_seen": "2026-09-30T21:34:58+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "fb46b6b710a80658",
@@ -50409,40 +50441,6 @@
 "Regulatory",
 "Management"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "c483f9f33d348826",
-"title": "Tech Mahindra Q1 net profit rises 28.5% YoY to ₹14.65 billion",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU0ZTWlhsejE4dzQ4TEpOcnI5dHJTYjNJY3hITVdRbEN6dHJfWjItMHlETGlZdFJTNFR2eXBaWTRoVkxVaDRvR2xfekNZdGZPTTBwSDZnWUdlMmM1VkZERFpsU1g0Y28zZkF2Ni1GYVktVFh5M21taVh0OERFZmNobzU2b0Qwc29iN1RzZV9MSm9XTV9GVERKQmZuZ1Q4c3k1MllhYzd3UFU2SXRSUlBRY2p4NUg2SmtMNlplbWt0WkxrRF83TkFNUmtDdTU2UGdQdE5fTjY2bm40UU5VRTB0N0NjWkhXM1BHMmZaNQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:23:40+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "b8a593c22dac49f8",
-"title": "Levi & Korsinsky Urges HDFC Bank Limited (HDB) Shareholders to Act Before Lead Plaintiff Deadline October 13, 2026",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnZVaUNITGk1ak5OQ1BxeFVEYlFVV0V0VVlXOVdqd2JZOURXem5WY0ZWU1dvY3FyUmVIX0Q2WldkbGU5TjRhYndPa192NmdiejM5RDBuYXE5N2JSTVowTkRXT213WXhwLU5NcTRBMV9hM1NKejlDTGU4ZmpybGVpMmZIbVdzZEl3Nnp2djhHR3phbWV3MlJFdHlpczB0VDZ3bGpUT3N0dkpXYUJiVWY2SEtFTGU1SkZMaUlsbkRSQVZWR0hhOVZLeWZOeGRsWjYwYnVPQndHMkFrcUh6SXZqMExYV2o?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-24T20:20:08+00:00",
-"first_seen": "2026-09-24T23:16:43+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
