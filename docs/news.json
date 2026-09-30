@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T22:00:04+00:00",
+"updated": "2026-09-30T22:19:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -488,6 +488,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fa5a2ecd0ab22d12",
+"title": "NTPC Share Price Analysis: Sector, Peer and Fundamentals",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXNOeWt6WVFVazlaMFhnQ3pqWVhIbmx6cjFHaU9zOTMxTm9nSXk0UzUzc1JMaEh5MGotTE5DMnVtUUUwWkx2T0dBekVlQkJuQy1vOTBLRENQSTg0ZENPMlRVS24yd0JycTkzRHJ0SDhFejUta2MzbTNNWlE2ZkNGNzJiRQ?oc=5",
+"source": "Univest",
+"published": "2026-09-30T20:36:08+00:00",
+"first_seen": "2026-09-30T22:19:43+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50412,24 +50428,6 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "0f756d9963bd3e9c",
-"title": "ICICI Bank stock draws an INR 2,000 target as profit rises 16 percent",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHJUNXR0NHZLS1RJQS1sN1ZyS2V0YkpVNUVURFVDaDBPN1BUMEMyVVpLOEx1dE42eDR3a3JIZzhiZ2gxNTJyYnBDVGR1ekxFcWNaX1dvLUhMXzJQXzRmazVaenZ3d29KVGpOX2pUaHB0dE8xajlhVTNDR29FU0NVaUQ2RE00M21PbFIyUW9ObzUtdlpMS0FGTkw2anRSWDVBalBGUmZWTFZtTjBDQzlvaU1mZXpsS040ZnpvTGNzTW9PRWJ1UHZB?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T21:25:47+00:00",
-"first_seen": "2026-09-24T21:42:35+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
 }
 ]
 }
