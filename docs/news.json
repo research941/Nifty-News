@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T02:46:56+00:00",
+"updated": "2026-09-30T02:58:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,86 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "495fa721cd8b9ed1",
+"title": "Kotak on AMCs: Buy on SBI Funds Management, HDFC AMC upgraded, ABSL AMC cut",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0ZwbjRzNmtVcVhkcS0yREc0MnZSLUJSSkFWWXZabEhKTXlnZWkwRGN2a01YY1lVaGkwNExpc3hPd3dRMVNiM0I1Wjk1bmM2MzFXV0k0VVZnNGRrbjBGVVBaQWpzSnB1VXgtb3dyV1Vkc2NjaGU4UTRLTC1LUHV2anlXUEhkQUt4U1owOF9YZjV2LW1yOXZIYUNoM2pyTGc0eW5VNGtXeV9Fclk1ZWo4Q1dqMlJ6cHBxRDlZRzVaWGZMV3hvOGZhQjJfU2g?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T02:48:25+00:00",
+"first_seen": "2026-09-30T02:58:16+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ddfc49cbbd2b3468",
+"title": "Bharti Airtel shares: Kotak maintains Buy with Rs 2,200 target",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQS1aQlF1NnlNeXZmalNBam5BbmxXbzlIa1htZW1xYkFUaWtyM29QQWt2ZEt1Ung2ZGRnaWMwcGpUbjRET2pxVllUeTl5cUpKZlRFcVBwclBud2JKUlA2cWdnR2tsQ1ltSDBXY3RldE1KSVl0VmNKemVlbXBHYkc3cjFpLTBHZG9uVHVZZ1VPMG5VcnNMQ2drZTVaTFlFRGhwTUJaMlpuMDZ1LXV6QmlqUFRyOEZhOWtDdVFKSU9yVy1jWnhHRWdVbnFSUnVsdw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T02:48:25+00:00",
+"first_seen": "2026-09-30T02:58:16+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "002806c94ad0aa21",
+"title": "Apple Pay launched in India with Axis Bank Visa, Mastercard support",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3BqTTRyYXFsclN3SDlwN2QtbzFsWi0zWE9aeHEyQkdsbkhIRG11SnZzV2NhSHA1ZUsyYVVmQjZfekxnNjFQUzduR3hEVXVBTGhqY2F5bVhxRk5tUFdOYnR1MWd6SENGSHdhMTN0UVQtZVpvTHBRU3dwbTU4RlVJRnYxYTh5Q0E4WjZkWjRoa1JreVN6TDJvVzhrY0pQNUNZYzBONzlGTm15WmtUQUQ5SUJubENhTEplSnJPTWNTUkJ2V2pJT2hMRXAzSURPYlVrQ2fSAdcBQVVfeXFMTzFiOVNsSzFXWWVuU2dtZHlPSHVZaUcyLXpXbmgzUlVWOWlXanhpZHVDTG93dXdsQ2xfMUZYX0M5VlktU0xtLVg5RjdpMlUzUWl2OS1iUlZEc25ELVNZY1I2cVBsYktGRUpiZHp1Q0RDVjd2ZGhwbm1ZZHBqOENrZmk4YWhNSWdYVWRJR2s0S25BTmRqSEVEY1FZMVBIQzRXZ2h1cUoxMnZRYVVyYTRDY3hyQjlMeU1VYkZheEpqMUh0OGdkckpaVC0yUE1JX2d4a3pCM1k1Tms?oc=5",
+"source": "Business Standard",
+"published": "2026-09-30T02:47:13+00:00",
+"first_seen": "2026-09-30T02:58:16+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "188d60ece8b10696",
+"title": "Apple Pay Launches in India After 12 Years, With Axis Bank as Its First Partner",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXM2blpVRDRnTDliVWEyajBnWWFscEN5MUM4WkdkTHdYbUhJMUZmY3ZQTFo4dTNFczlKV0c4TjhKbENwRWFySnBtU1MtVU1qaGhIaW5aZ2lEeVZHNkN1MHk2NEpORVFnS3hSLWc0WllhTzEtNUZGNlRYMFhkVHZQTGg0NmVoUDdNdnRYdml6TUtmVWJrTWdEVFUtZG1XV3dPUWFMWWV4OXFQckFCQ0J4MVo0VFVTa25xTlF1ZWhlTUhBRUV50gHKAUFVX3lxTE5OenBQbmd1QTZjbUpJbG5EYlpNZFE4MF8zU05ORjRHeXVzaHZaUzg4MkUxelhHbWYwOWh3Mmhfc2ZNNV84bU90RHE1SHFvOXdaTUZQcmllT3lJcFlzYXFuRWFmVTRhRHpLNENGczZlQ1E2UjVlSW5EemFHMTRXOTJDczY0S0xHd1VFaHN0eW9tMnQ4QXVkZE01T09FVldmaTR6NV92bzJHV2JsQ2dDcEZVYVF3a3BMeWh2X1pCS0dnMGpyN0NkamtoQmc?oc=5",
+"source": "Gadgets 360",
+"published": "2026-09-30T02:47:05+00:00",
+"first_seen": "2026-09-30T02:58:16+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "30c8cca844f549b4",
+"title": "Stocks to watch: NLC India, Medanta, KPI Green Energy, Coal India & more",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSkkxeXBONmhGN2dPN0ZFdUdONUJseHkwb3V5blVrajBTWnhHSkdySmt3VUJuenRtbW92VUIzZS1ZYlhoTkhIMkYzd3FVMEVIckFxSng0MVZadXRHcEdDVTFNcGNGaWI2TzJaRTUzNG02bTdHSUFKcTNleUFDRk9FQ0VraW92RG5mQVZnTFJ0TGVZSmJLOGl5NEVTZ2hNOU9QNXlwZk5qX05TM0dkYUgzZHFLWWt6NnZLUXdkdWotSnEwYzh4UW1OZ3VwQ3dCOE5aM2FQWkJhSXZmcnJhV1g0?oc=5",
+"source": "Business Standard",
+"published": "2026-09-30T02:42:01+00:00",
+"first_seen": "2026-09-30T02:58:16+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "a181e69015eb111e",
 "title": "Maruti gains as government leans towards small cars in final Cafe 3 norms",
@@ -50332,88 +50412,6 @@
 "Banks"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d24907daf087eb2c",
-"title": "Japanese lawmakers visit IISc, ISRO and BEL in Bengaluru",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlE0T1Bvc3B1OXhDMTUtNjZuZWg5UEx3X01IWjRzdVpGcTZmdWVGQmxEdmFZVERoNHhXaGpuYkNiLTRMS0c0UGpWUk1XTEEtb0pkLUV5YWhlNUh0dEE1NjVqRW1JbjdiUzk5eGpPdlh6VzBNVG1SNmdpdGsyNXV1MFJEc0hVX0RmcExUcVRROA?oc=5",
-"source": "DD India",
-"published": "2026-09-23T16:40:07+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b9cc558ed1394d00",
-"title": "Mumbai Consumer Commission Orders Axis Bank To Refund USD 30,570.70 Over Fraudulent Card Transactions",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0E1UVQwdXE2eG1jSUFQaEJHcVJiUXQzOHpBVk9xTGMzdkpjZjIyS2YyVjlTamhQU3RyaUIzZ0Y2ckhqT1hMVHpIYTVnNnJsdjg1UlNIX0d2RFd5QXdPN0l4MVRrT3V3bUU4eG10YWpqNWhfSXYyelJYS1pKWEcyTk02UHlaVlMzVnJWQ0E2OXQ5NnhYSkkwQ1FkODN5Qkdmbld6azBwbXdhMUpua29MMHhmUE43Q216emJ3Q2t2VWIycHFzdEE2akUzMmJHSXhzbVZKNUNxdERqd9IB2gFBVV95cUxQb0E1UVQwdXE2eG1jSUFQaEJHcVJiUXQzOHpBVk9xTGMzdkpjZjIyS2YyVjlTamhQU3RyaUIzZ0Y2ckhqT1hMVHpIYTVnNnJsdjg1UlNIX0d2RFd5QXdPN0l4MVRrT3V3bUU4eG10YWpqNWhfSXYyelJYS1pKWEcyTk02UHlaVlMzVnJWQ0E2OXQ5NnhYSkkwQ1FkODN5Qkdmbld6azBwbXdhMUpua29MMHhmUE43Q216emJ3Q2t2VWIycHFzdEE2akUzMmJHSXhzbVZKNUNxdERqdw?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-23T16:32:06+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9e00a036667f235c",
-"title": "RRB NTPC CBT Exam Live DEMO Guide - Step By Step ✨📺 || RRB NTPC CBT Exam 2026",
-"link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xaUdsZHRxemZuOTM3S2hTNFJlaWR6cXZleFMyU3liOVRYWmJwNTZ4NFYwcjY2cGw2VUJlWXlLUExoUQ?oc=5",
-"source": "YouTube",
-"published": "2026-09-23T16:31:43+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c1b116395cf76641",
-"title": "Gas Indicators Discovered Where ‘Samudra Manthan’ Began: A Major Breakthrough for ONGC",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMF9VNXplYmdob2UyZWpybmtZXzBNczc2eUtub0VzRnRSRUZCYXpmZDhSZHlKMFBEYk9lOE10QTduRl9GTUNCaGZjQVJwMWFLZ016dUVyYk1nMTFGLXkwR1dfNmVsRG5NZTZOX2g0Q2M5MG5aalVWa3FpVmZPTlgwWUV0ME1Rb2tobFNCUmViZUtzWGduaXJHYjVGcGk3aUZVNWtzeVJ4VEtKMjdEanpqWnJBcHBLbDhINUwzUzRhc2JaQmZaa1Bsa0lxOELSAdIBQVVfeXFMUFpVazY3eVdlM2Q2VkNXckpfX0FncnpWZlpHMWtOOWdJYWJLX1lMZGhvaDFhNWhKZHA4V2RpVHlyQVFYMS1EOEtIdW1VNmM2QURoYngxNzF3STQ2MmFpaENQS0FiU01mNmVsMlJhdnVCT2NBZjE4LTBWOG1KY0RBdHVfVEgxTTFIYkE4dFBGT0J2dVNDSHYwOWFkQmFPbFFNRVhZRUxMalo5OXFKdWNvWlpBaDN1SmY2Y2Rpa0xmeXk1VXd1TmRYT2RKREZVQi16MUx3?oc=5",
-"source": "Newstrack English",
-"published": "2026-09-23T16:21:57+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d1a6b7f094ec0fce",
-"title": "Gujarat High Court refuses interim relief to journalist in Adani case",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXlFVGRCWU4zUUk2TURkNERpRVNHM1dLX2oxWGxUUllJMllwX1Nja1p6ZC1SS19vcVc5dkl6cDE4d3l2WjA4Z0RCV2gwc202WFJoeGx2QzJzcW8xZFUzLTJSbHZyNVZHRGVBSVc3R0lGUnpIenFBcmMwUTV1T3JCSVFUSHltVk92Z0ctUjh2QnFUVktlaUR4dndLZHNaRjE0eEE1Nk1icWh2aWhYSGF1T0Rvd0pwUmhpcTdvLVA3b2wzMnI0OTlZejR2elZzY1hfYW9tadIB2wFBVV95cUxOS1ZWa0d6dnVYc3lSd1pRMU9pWHpxWkRPUlFTdG82akZ2MDJqMXNFRUs0R1dIRXFrXzdWVTlMUVBDQzR3NWdTX1lLNXFZbGpUX1p3VTlFSG5raXJoTnU2R0xma1VyY0FFd2dueVFuT0J5cWZOOVVlR0U0RDFRcUhRZTI5NXM2NzZzY3BVaVJseDNzNHJyM2tadUNZMm1SZWFvd0hyMEpMN1lIUl9KdTlDMU44X2JUU1RxRnVYU2RYYW0teW9VNTQtcDdMeFZuQnRMNUQtY05aemNoT2M?oc=5",
-"source": "The Indian Express",
-"published": "2026-09-23T16:20:55+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
