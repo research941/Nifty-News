@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T03:29:31+00:00",
+"updated": "2026-09-30T03:47:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,157 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8038ef8a0eca2393",
+"title": "Apple Pay launches in India, initially with Axis Bank Card support; here's how to set it up and use",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmJHbGV4ME93TGFlanpuV2NONm9telhfVk1ub19VVFZRQm4xczVELTVSS25ZS3p5WXdxWXB0eGdidWM5RmtucmZXdjdwWlRVbzRtb1ZaZE1yZXJ6MW0yNTJOQUd4VU5FTkpjdU1DSzVXSW5UQ0d1UURJaUFRS2lyZEk3U2NYQkgwbXIyMkZQYzJjNE1ISnF1bTNDUnZJTF92S3FrY280RFZMcG1ER202UHdqSmpqby1KcXdMaGMxcXZZVVgtTjdXME5GRVBvVU9wNXJ0dEY3em9rQXlk?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-30T03:40:12+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9fcf027ad5c62104",
+"title": "BSE, Wipro shares in focus as stock exchange replaces IT major on Nifty 50 today. How much inflows, outflo",
+"link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWWZjV3kzVzBaZjlfMEJkTU1zdTZOZ1B0VFVzVUlzbUJzaWtnMHRoWEF5WlBWVjZoWGMtbjV1VXlPN3c0Mm9KUUxMTzlHVERMcnlBNVV3SXdubVFwSk5LbHl1TTVIMDRoNVhKbzBjRWZxTXlmRFVrM3FZemtocHVlVEZwemdTM1JRR3JlX09XR2M0cGRYTTNRdFJpcGh0LVN6NmpsWVZhREhtalptMWV2b24tbW5TbzFyaGZmTnU0WnpYeTYtbG1aaHNpdXM1dzUwdUhSOE41ZkRJdWY2SE45TzV2d05EbTNOVDVFNUktVVE3STFaVVk3YU5kdXRNWHZfQ1M3V3IxTXc5T2tlN1lUTDVrcE91aUpB0gGeAkFVX3lxTE56V0htS1puU2JjZWwzdkNFRV9meVRDdk9RNVo1Y05RanZhOGdNeGQyamtrcVAtUEh2U0U0ZXZMb25yTENjS2ZYNXQ4QjJYeWJ4NzRrc1lGWDZpM2VSRXlWYUNaRUNObW4xeWotNnF3ZERqLVpqWXZHaVFCVjdMN3VvTHlGU3dJZURXVDA0OGlpV2ZlLWRNd21qZk5kM040VWwwekN3OEJfOXZEVEwtVVZOTnV1V0dqajM0Vy1FMWhDOGZMci1PWV9sZ0NRTlZEY2V6NGF3TERpY0NqUEdLVkFxci1oNzZqblR5TDYyOWJablRJbzRrRDg4R2pjcWxCTmpzVFhNNmFVMkwyamV5SnYwQnRmLVJsSEZhbTNBb2c?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T03:35:12+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8d517dc1d50969ee",
+"title": "Stocks to watch today, September 30: KPI Green, Tata Steel, Fortis Healthcare, BSE",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjUyX05pWF9LaXdib3U4ZDBheTFjelVDSWUtYlJNelV4bE5zcmZlS3dfd2QxU0JnRGFRODJmSjBwY1ZENG1iTVZEUVVOU2E3T3YwTmI4RGYzNnVZVGxwdlZUaG10a1BnUDhpOGNoY2g2UkR5UDVrYl80NG9CdzlqdmU2Z2ZSVHZrZ09JakZlYjh3bVdxWHZ5WjZsRmhvcHBoWlNiQlNMekl5Q1QzQ0tlTkQ5bHlnd1pyMFdScmt1cUhHSFNUX1c1OHhRelladw?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T03:33:28+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c824d4c309932a5c",
+"title": "What India's First Mega Port List Actually Says About Adani",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmJSVkc3UVFhcHE3RkZDSGZJY2gtU3hJTlM1UzhEUERScWRicW9XUUtOSldVWUV2dXN4dlNUdWJBUUs5RFdLV1pBNmpETFVfcmlfZ2FkVE51aC1mbktkLWNaLVJjblJzejcteTZXbm11cXRPOG5EUDZuU0VIWGhuS2pCaHY5NkNSeURBeXlOSktPM0RvMHlGYm41UTBxMTdWejRTN0FfQzdsaTlUempMSnoxQ1AzS2tWdXJDZ2tCUFBZdw?oc=5",
+"source": "Upstox",
+"published": "2026-09-30T03:27:17+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f23a3a956037a25f",
+"title": "Bharti Airtel stock set for a 24% upside, says Kotak Equities; pegs EBITDA CAGR at 14%",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0NrcGF6RDVGOXhuZDlJZmp5Y2lhLUNWMjFZSFFXMEtfbGtwSlNYaTFKdm5ETlB4QTVPOElLSGRHVFY4cm5mUnZCZGpZUENrQzBOVS1BSTRjbS1JSVZqR1lmYkFRRVAtZHRhdFFFcXlmdXdpS3JlZDJfSlJVUnVhU21lRkxPSDJadWlvaW9HQ2V4R3FsY1JzTDV0ZzMzREFrQWpGUEF3NVczRldQZEZjbG1KUlFFdkU0eV96X2RadnY1dW5hd1ZrRm5SSnNxZlUxaTB0Wk1jS0VsYUlOSzlZVtIB5gFBVV95cUxNeVhTTy1yamVsaWdiV3NHa0xPTkV3UW9sTkRUYXNKVHpucGFRb1NUd29RakN2QnN1WU9MU090cWVNbnVvOGFVcVdvWVJoMXpQSHh0d2wwVEd0akhPNWpCdXBiam9HUTJNdFJfTFFBZmR6VTlHeDRZNmEyR1dhQ0pzOTZxTU0zNm5TeWhCOVczU21QQXphVHJaczF0WkE1YzVfalZKVjZ3Q1U0b3BFdXBCa2dKRW5hNjZJTVNUVXVKV0lSNnJhVTBuZkZYSnEwZDBJQXFjWnJ0dlREUUZIaVNfY1p3eUZnZw?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T03:25:33+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "46398c344ee43be2",
+"title": "Apple Pay finally launches in India, starting with Axis Bank cards",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHZfbkpEaVIwVFp4OHU3eFdRMXRmaFNEOWQyOUFyMEN5ZEQzVG1mM2h5V2JnOGRQR3VjaVYydW9KdC1BOHhfZmNtX05raU1vMzgtUGRBM04tMkVzSWFGQUVWQXdUNnJkdTcwVGJlaVhBNmhRbzR4R3lfOWNueWtxSVFqNGttSmoyVXV2ZERB0gGTAUFVX3lxTFBFSVN2TjZ5MDBUWTlDNnF1ZmhnTTZFbkRzaDhIampmbFo0UmhzbnFUNkx4MjJDa0x0RUc4bUh3ekY2UWlWeEtrTVBpYTY2eWNrd2lSTnRKWjZpZE1NdU9KSW9oUFVwaWVWYjk2a1dadGJEbFM2Q3pUQWYyRUJUVHB4WV9INjFZMEZ1Q2JKMVNTZDRxWQ?oc=5",
+"source": "91mobiles.com",
+"published": "2026-09-30T03:24:40+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2bd1d98f143777fd",
+"title": "Paytm, MobiKwik in focus as Apple Pay enters India with Axis Bank; why the initial threat to UPI players may be limited",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYkhGMmFPYlh0dS1jZXN6LXptTkRWQ3BZNVdIdEhsV3J0ajNwOTYtX3ZJMHVZMHNnRC1HU0NZanM4UnZ3X1lNZkl1eFRMOUpZZDNMMm9hdmNFLXA0dFo1T05kcENpaDFJeHB1MzZaMkR5NmhJWkRrMmlGelNXc0tZQlQ5VURRS0ZFSEFTTTF1X1B0TkhYUDZ1aHk4MDZSazIzNWNoT2RadWlQY2Q1TVlDOEtwMllwc3hyaVVqSnAtMHMxUjlhZ09LZkJxYkJXeHczOEE5enJXR3BRTkpkTUdtSFZuUXZuMnZPYUsxM0dQUGdlWEhCWjdSbVhoNHU?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T03:23:25+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "62e96cb9b71c0e4e",
+"title": "NTPC Green Energy. Juniper Green Energy announce capacity additions; stocks in focus",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSlRhMmNJUXBHVFhtWXpTQ2dFSDB6QXQtMGFVVmdMTU5BeU55LXVEaFNKLVlPdkl3X3pTT09aYU1NTkRpNzRKazY5bmw4OUt4blVMMjFpbHY5cmItblpNRFNMZC1wc0Q3cmYwaUEzUm5Uc3RHWUtXU212MlJGN2JfT2Uyb3RuYm52cGlXaE52cUF6dzdZOWJNSjR0a2Zpb05mc3R1NUYwZ3VRMmhPS2NDQ09tWU5lUFkwNzM3MC05YzRZZkhreGV1azZGM3k2ZTQ1ZHF5UlAwdFBaUGhhb3d3emUwc0nSAeoBQVVfeXFMTW9IV2E1UjIzN25vTlVJZ2pYdFlHNmkxY1FPQWM1WlpfMzJhNS16c0gtd1g3Z1I2X3NlZjFETEZCZVh4TmxmSkt4bHgtMHJ6QlJIclE3Y3JiQS1oblJndG9MZkZxbzd4cjRMVGU2dmxOcGxkMzFURXpWRmd0aGl5a1hQaFR5U3RlaEhZbXJCOGlNLXRhcnphUThlVU1fSkhIZ3F0YThJNXdnRF9LcFZDYTlkYlh3ak1lOHJfLVpQelVrbS0tQUFqVWhDa2dlWGxYMzVJcHZHd3lLVmZ5c2pzN3NaaWt6ZzBfdml3?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T03:08:39+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3e7765c7990c049e",
+"title": "BSE Shares Enter Nifty 50 As Wipro Exits. What Should Investors Do?",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVkxOWhjWk5lTEhxNGV6M2E1Y25lcjBRdURSdWZPSzRqTnJ3Zi0yQWF3T0poNTlFcTlQMzJEcm1ST2YwY3MzTFNpTUZfaWNPZG05SG5Iei1uMlAzNFBCbTVJbWlMdy1uRnVLN2xxaTJmVE5lNzUySXVGRTJhdUhGZ2sycVNIOGR5SUpXbnJqTTh6TW9xdWlzbkR1elc0cUZQMDhsTWVuemFzUThWQWfSAbYBQVVfeXFMTlFLTVB0YklIRllJQ2N5NXVtVlZKRlR0cTVwc1VQT3VZV0RxREVtN1gwVmUycDZyVVdNdXVYVDhfMXd5cnd4dW5pUEMtX1JYTVhYWlQyY0I5ZHpOWWw5akxLaUMtQkZpWllCNE9GV1ZGYkI3LUF1ajl4MjBrTlo4TTY3b01WYVVlaXlYU2VoQnRCUHZndXlUVHJkQmNJQ1BUUUU2bFIxOWVBcmNnV09XRThDdTJ4U2c?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T02:57:20+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"BSE",
+"WIPRO"
+],
+"groups": [
+"Finance",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "afc77d2366611fe3",
 "title": "Apple Pay comes to India with Axis Bank Visa, Mastercard credit cards",
@@ -867,6 +996,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a2795f535f6376d0",
+"title": "SBI Savings Bank will change its name after 13 years. It has been about seven months since Kyobo Lif..",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSEdDbnAtTTJULXNzVzRQVUN5ZTFSRnVnQXQtUGtuMk5Qb2ZTd29JcmFfVHp1bHp4VUx5LUdFS2NVdUhZM1IyeklsM2Q3Z0tPd2c?oc=5",
+"source": "매일경제",
+"published": "2026-09-30T01:12:55+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5901,6 +6046,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "19f434fc9f722da9",
+"title": "ITC completes 100% acquisition of Yoga Bar parent Sproutlife",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFRtMVB4VGN5dkZEWEtJSVpaOGJFNWxmZFluX3FDeWRjTkFEUXJqc2JsRGtOYkhyV1phTzlWZDhlQWxDR3JnejJBcXd6Z0plM2hNTXVNYkcwd04zZlNtRmdxOG5JelZBcjB1UExXdmdqM2ptWjM5V1FFUjM3UlBrek1QUGtOQnFraUtSLXN4QVJ1RXM2NVFOdThB0gGaAUFVX3lxTFBsVG0xUHhUY3l2RkRYS0lJWlo4YkU1bGZkWW5fcUN5ZGNOQURRcmpzYmxEa05iSHJXWmFPOVZkOGVBbENHcmd6MkFxd3pnSmUzaE1NdU1iRzB3TjNmU21GZ3E4bkl6VkFyMHVQTFd2Z2ozam1aMzlXUUVSMzdSUGt6TVBQa05CcWtpS1Itc3hBUnVFczY1UU51OEE?oc=5",
+"source": "Entrackr",
+"published": "2026-09-29T08:21:45+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ed6f7def41fa8663",
 "title": "ITC acquires remaining stake in Sproutlife Foods for Rs 645 crore",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUU1BVXdQQTVmWFhneDAwbWtUWFM3QXgyNFRKU1hFczZ0VmlxN3lZNlpDRmlRREtYLTN2SmVCSjJCRzc3cHJ1dzl2YWVPOUhnX0RDT2RqWkFwYVptSHplaHRBYVQ1YkZvTGRidG5nQkpNUTFrOGdwRVZZZ3NaYlNuQ3FaQzNxVDV6bDRHMWRUenNpSUVhVDNoRGpHODRITnVlWF8yUDhhQ2MzZw?oc=5",
@@ -6858,6 +7021,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a8d13b1e935f1c3d",
+"title": "Hindustan Unilever के शेयर चर्चा में, कंपनी ₹2,000 करोड़ निवेश योजना के साथ निर्माण बढ़ाने की तैयारी में है।",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZkJCLU50UnZvLVNLZXFTOTFpT1E0Nm1BRElGSUlQM3ZuRVVRVWRJRE94X0l1OURSbkltYWx4MXBvMHNQWURVZWtBM1d4bC1yZjZQRktVRzJaR3o3dmd3RnZ1MjFucUJmWVBNMnhmdlYyS0dMSC02NVg4T0Y1UklaaTkybzZNYUVaNDRqb1QyR202ZGdaVldvOFBNamNKbzNSX2ZYLWh4cFBjcC0zOF9JN2wtNnRhMkhBcnFRcG1BczhLdXFMMDRsVDRaSTdKQjJjX2ZqZEI4SEVqTXlEbUNjUkZ3?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-29T06:38:19+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fe12f655563a2020",
 "title": "Dividend stocks: These 10 counters offer up to 9.7% yield; PTC India, Coal India, REC among top names",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZnlLZE5JZ3BDR3ZRRDZscWdsT0hUSko5cFAyOTB2aVZNajk5TWU3VDJPeVhQMDJsSlYtZTNOYnRTZ0ttWk8yQXlJdmdKRWtfLW9lbnBoZmd4MV9vT1UzV2NZbUpXN3BBZWtOUlF1MmNUN0pkTC05UVo2VjZOMVRoOF9BRzRuckpva1YzZm15VGpIQ1VzMnNYeTYzd083Q3Bna0FlSThJeWp2aHFuWXRsUHU4Q05FVGQyMkhVcDFWVnRNX1hqb1UycWl4TS1yTVZtWjRKUXdzYjB6cVl4Q2I0MFE4dFVUbG1EbzhSWDRZZ2lfZ3NEamlJ0gH8AUFVX3lxTE5kZVNPazRYWHFmbG9JSmp3VDVocGpPSzVMd0t5OGZtWjFyRm9fTV85YjUtY2lsNkJseERmVFNsTHAwVHBBTXBnbVBHZUNwMUlSM0VRQ2dnT0ZTYUJyNzlUaHhfcmJoTmNPcGhjWE13SDFOZURxREstMlVDd1lrdjVEcVE0S1JmNHpLelFTaFlNd1N1WE5YXzB0LUlSQldtZVN6WlpmbnVsLWpJU3NtTEJaN1J5eHpsY3JNWGlOMVJOakM2d3lucjF3UmNteFJyMTMwWVNpcUVqYjZEcm5OT0ozM01lOUdsTHNkU3Y5WUFZVGEyVEdUdEsyTlJaeA?oc=5",
@@ -7055,6 +7234,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "61c0dc5840041bcc",
+"title": "NSE IPO’s retail response offers a litmus test for Jio Platforms: Can it break the mega-IPO jinx?",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQktFN09pcXZuV1VRZV84ZWd5S05kdU9Gd1hQT0NnUGlOU1VBR3hvMGJRc0ZPSlBkMHJrOXB3cER1TWRRTHpLc1BvNlVoTkVkcTI4LWdaRnUwTWtueEJRWHl6RWRzbmN6WmlLMkJCbGt4RHJHMnBwMjM3MmtXbVV1alpBeHlrTllHN0tzN2hMVDdBMmt1YzBXNV8tdGFtRlRVWnFyWnRrV21sQ21fVWI4c053eVd0SHNrTHNVeFhlNkVKcU1KUHphbVhuVUVUeDlMTEp3UDZuR2gzVWtUMjB2ckRJeDN5YmvSAecBQVVfeXFMTkJLRTdPaXF2bldVUWVfOGVneUtOZHVPRndYUE9DZ1BpTlNVQUd4bzBiUXNGT0pQZDByazlwd3BEdU1kUUx6S3NQbzZVaE5FZHEyOC1nWkZ1ME1rbnhCUVh5ekVkc25jelppSzJCQmxreERyRzJwcDIzNzJrV21VdWpaQXh5a05ZRzdLczdoTFQ3QTJrdWMwVzVfLXRhbUZUVVpxclp0a1dtbENtX1ViOHNOd3lXdEhza0xzVXhYZTZFSnFNSlB6YW1YblVFVHg5TExKd1A2bkdoM1VrVDIwdnJESXgzeWJr?oc=5",
+"source": "Fortune India",
+"published": "2026-09-29T06:15:38+00:00",
+"first_seen": "2026-09-30T03:47:00+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -50213,228 +50410,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "af8605789645a07f",
-"title": "Infosys to Standardize Chainlink Stack Across Banking Systems Touching 1.7 Billion Accounts",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96b2lZdVM5T054SUlOUm9YNS1IU0JqWWJ1bTU0N1RxRkZobE96WU5uQ1NmeUNyN2M3RHNteThFVWNRWUMyTXlZb2ZDZzV3MnZQVlFVcFlxakFUOU9uSktNb1hnX21hQlFocU8zYWdDcEZvYkZVcmc?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-23T18:16:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b2af0375d2ea3fbd",
-"title": "Vikran Engineering wins Rs 153.76 crore work order from Power Grid Corporation of India Limited",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3EwYUo4STRRdTFramlDcjVacVdCR0FZYVh1OExXd0I3V0hDZ0N1eE1HTHhXRUYwUHFpSXZvenk1a3N6eElwZmFsY01aQ3VTTDlncUh1Uk5nLWNzMWJwdzNzSzhSTGF5cDNWVVBEbjliUTcwRFRPVER3dnM3OGRKdEhhTURCSThsWlAtelpEeDZ6UVN5dXpZdDF5SDRNa1ZpSjBDWDRfeEM3aWFPNV9FSE91X05DTjhZVWc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T18:10:55+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "7692e465821c28f7",
-"title": "Does Airtel Money mark the end of London’s listing drought? Not yet | Nils Pratley",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkhqRC1wcHZ0a2V2U3dNTEZxRW9od01MSzB2QWVJVUplODI3MjhqRHNieXVSVFhPMUEyY0YxQTIwSWswR2dtQXJxR3Z6cWtzVDFHLThJdmdiUmlSNno1S1d1QUl0ckwxbEZNZHNXSHZZaVB6S19xOTkzSUVDd282eTBVZU12bHByYVBIdW9VR2ZMVVhKS1lPZnBkd0hOS1Fsallrb0N2VV9oZENhMkJpd2JTeUNxa3Fad05KYzc5cWM?oc=5",
-"source": "The Guardian",
-"published": "2026-09-23T18:08:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "92019b984d19a643",
-"title": "Suzlon Energy vs Inox Wind vs NTPC vs CESC vs Tata Power: Best Expert Pick In Power Utility Segment Revealed!",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1pmUWN4Sk5PbG5DM3hTMW1qTUk1S2dCT0R5WnFhQ2RmTnd0ZnpQRFNqZEhlRmEzVXBFU3I4WlBSdHFDUDZlQWNiWXA5OUV4ODZydVN4NllIbmY0aTJMaFo0cE9lV013QW5CWG0tamZWcjUxU2NpZ3A5Vk1fOHZSR2hwZjlIWl9jaHhHeU1DUkdMaXNoa2FoZDVYTDRqYmcyYUlaSUVVVjJvSFdtcnd6UEY5N1U1ZEtodUhCeklnSnRsdXBHbmNCZGxVUDZQLXVxTXdaRHoxQlVvT0E?oc=5",
-"source": "goodreturns.in",
-"published": "2026-09-23T18:03:43+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "de188966da0e9690",
-"title": "Larsen and Toubro eyes USD 30 billion modularisation opportunity",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVl6Si0zRndMV1J6TWVnQWlYTm56TFRhUmFDTmNsRjhrclRvakNSWFBIak5vc2xuWHM5MzVzSGRSZjhmTkFRM2JEcnd5dG5COVhmZkNDOWt6Tks4RVZnZ1JjVXh3SnlpWXJYdEpWczZ6WUFvemVYT1hCSHl1X0RLLXlSTHlwdEI1eUJnVWJfU1JLZ2pNdFNGVlU0ME42cWo5OWU5UXJIVi1OZW9nbkhVOFBLNnhoV0U?oc=5",
-"source": "Prop News Time",
-"published": "2026-09-23T18:02:49+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "70c0794281221dd1",
-"title": "NBA investigation into Bucks’ Gary Trent Jr. deal remains ongoing",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wcnZWcVdKbUlKUFMxSlB4SEZNTnZMUlFUMGx6d0ppWlRYQ0hEck56RmtyNmR0QmZrX240akozSi02QXBZN2hBa0d5YWFrNkhhYktLWW1FT0VGY3VZRmtNNEpPNnRxUU9HMnpGcQ?oc=5",
-"source": "Hoops Wire",
-"published": "2026-09-23T18:02:22+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4a07f1a89a47feaa",
-"title": "Airtel Money Plans London IPO as Africa’s $213bn Mobile Payments Business Targets Next Growth Phase",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXkyQXR6bUFHY28yQmpyZC1TVmllemhLZ1FiVUUycGw4UDhQcDBUZWgwMXEtUmNneHh5SUZQNW83TDUzTGNzYjlFLUF3N1B4S2xwYzRYeHZtZlE0aTIyeGpEbFMybzRZOXZpa2xOZDZTQ05NWU9Ld3lkN1VCeDV6UjZBRHN5eXNUZFp3QVVmbXFSc08ySlROckQ2N3lqV19FODhkczZGemttS0MtOEFSZ0J2bUxyTTA5OFRvQTR0RQ?oc=5",
-"source": "Tekedia",
-"published": "2026-09-23T18:02:20+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "57eb215864447299",
-"title": "Adani Pays ₹1.5 Crore To Settle Hidenburg Related Sebi Regulatory Probe",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJpemZHUjd4TEZJSTJlM3pTNWRCN3B2Y1RjeFZHaW9FOEFiNW5MM3NZTklJQ2wyalVpeDlRd1RMY0NLYTRVQTBlaWJyS3RIcUdkX3Utb1ozSmNINDYwYnRvMWp4cVdzQWYwWXBRdU1PU0k3a1NZb2M4RTQ1MVoxQ1pEc1AtcWxYMUdiSHNndnQ1bnFMNHE4VGJuNjhDektuN3JhYg?oc=5",
-"source": "indiawest.com",
-"published": "2026-09-23T17:52:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "b4d5a734d7819be9",
-"title": "Shriram Finance receives ₹7.5 crore GST penalty orders for FY21-23",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0M5Vi1ycng3VWwzaXZKSk1DY1hXMktDdVRpYU43Q0RDb3czVXNQLVktdml0c1V4TnctbXJwRkllU1JvR0U2Ny1xNThlWlRJeXNhNzNrVzgwZldjMHBSb2U3cHFOcy1OcHVvVDYzb3JBLWE3QkNybkEtdGgxRUJRRDY2VFJ5R1U2ZGUzdTdzTE1zX3hub1ZYaW55NkoyXzJvS2JldWZvYmZ2ZXdoZnNtRTlmMm9EYkEyM1E?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T17:43:05+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SHRIRAMFIN"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "e788cc8b32334f88",
-"title": "Buy, Sell Or Hold: ITC, HAL, Swiggy, Ather Energy And LG Electronics — Ask Profit",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmxCbE9LMElXVGp1MUl0X0RLS0k4S3lHMVF4SjRkOHZRM2p5clhlZk1ZeVJWSDVmRkU5SzRWQlM3UmVvOFVuTE9xTnUySm42WXdTa3NBTXdWSHVNQUFiVVhBOVlsMXpxZTZtdVUyRnBnYmdhdkRJUHVDZWlSb0NENE5URnh0eHljRkEyY25ZTmhwbHU3a3p5ZkRud3cxRHBFLVlEcHkwc1V5a2lHQm9PQmhvLTRuV3UyOXfSAcIBQVVfeXFMTlNaUVZwY3dlRElQZGRWSHUxWHRkTkZTd1BmczZWUV80R05GQVJrVmVQVzR1bWVhOFROMExncDdKckZldjJuQTNQeFpCbXM3anlQRlJ1NGFJcFljTHh2VXF1Q3AtSC1MSFdtZTM5Q05LRW82MDBTVHkxTDlaZUNTRzR3MjdfVmpJREFKVnJwU1FyT1pYZThra1Y2MTFCNXlSdTVXa0kwOFkxOVY2a1NXX2FWMURTTk9xMXVjWnVtX2M4NHc?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-23T17:33:10+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ea7c40bfc8a6a08d",
-"title": "Titan International, Inc. (TWI) Stock Price, News, Quote & History",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lQURvckxkcnowdmRKWlJ6QWhIdVhyYnZlLV8zRkJ6MmR0N3RQSFFGaG8xOHotOXk2bWtWbjB3Z0pwZC1JZWxMU0s2Z3BXeFNi?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": "2026-09-23T17:17:44+00:00",
-"first_seen": "2026-09-24T16:46:45+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "74daec09d8093c90",
-"title": "Airtel Money is a Genuinely Good Bet for London: By Gary Howes",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3ZOT0RXeTF5U0JSRlpSOEVIZFdkcEplalN4OU5SRFNpdTd3djNGY053bWFkSWtFbzRxa2YyVmQwYVdJbDdtMjdIS21zNndVVzRXTXZva0pyNlcyYTIzaEhpclFLWTVoaFowR3JrNDBwNWNTYU4wUFFPcDA4cFNBdkFQd21ZLUJRbTE2OVRMU0I2VFhr?oc=5",
-"source": "Finextra Research",
-"published": "2026-09-23T17:12:21+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "10756204dea3cbd6",
-"title": "Indian Stocks In Focus Tomorrow, September 24: From GHCL, Exide Industries to Bharat Dynamics, NTPC & Ola Electric; Check Stocks to Watch and Key Updates",
-"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPbHI4LWdsd2I4SzVSeXlSUjdEaEcwRlNDMEQycVctMndkazVIbHNZbnlCMEFHa3pZS1R2UWJHdC16NFFOOU9WX3RxZng0Vi1EcnpsREw3eEpzT2ZMNE92cmp0T0tuVzVPUDk0VVBGRDUzRXhVV2k2bGYtUUVoUlVtYi0tZ0Z1ekVqTGFlQzZHek9HZl9DREZxbThXVVZlbVllZGxFT3hBdVl6NVNtbFdwWG16UzE5WGc5cm9DWDFPWW1LT2FXVW9pUzd4MnZITjZtU3hZUE5ZRXNXRDBBZ251N1FsdFRtY3FHQzM5ZkhzLUpYTnBQZldscE43TFpMQ3RkdS1EbW5zNlJNSlRvdmQ0Nm40cC03Sjk3c1BMUUVTRdIBpAJBVV95cUxNNHV1dVJheHk3N1NEZmQ2SUV6dmVlRzIySDU1Z1V0a2x0VWVzOXBhUWxucU16LXFTRUtxMXQ3bENwWWU0YmxxdFBwcWRiUW1zOXg2WEswNmFIeW1icGRhbll0ejVyb3g1YzJfSmRJQTI2MkF3SWRsQUxoTHppbTNNaWpxcEVXNThqSFVkLVVBRC1tVUlJWUpZRTZIaVBJQTI4dmpxY0hGc2J2bF9DSTFmZVNrRFk5MkpPaDRnV2JoTEU3bi1JTWpTR1ZOcmU4RFJ5eGpITVdZRzBPMUo5cWQ0YUpWaGVhSzVyaTJlelVmUFNja0p1bDNaeTMwandQcnhTUDJtdGY5NGdhNVFXaTBBYk05blFUVkRpRXVRb3AzT0lzeTNT?oc=5",
-"source": "The Sunday Guardian",
-"published": "2026-09-23T17:11:34+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
