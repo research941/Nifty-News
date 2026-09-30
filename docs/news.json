@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T09:11:14+00:00",
+"updated": "2026-09-30T09:30:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,26 @@
 ],
 "items": [
 {
+"id": "dc4445ec7e2c9be3",
+"title": "HDFC Bank, Infosys, ITC shares: FPI favourites hit as 2026 outflows top Rs 2.5L cr mark",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVEFRQW5fdUNrNjYxaEd5dkhwX29TSHVBZEc5MWVoYTZUS3dTbC1PZkVJcFB6b2l4SjlNb3lIU1hBSXBIN0pZR1JWWlJna2l3cnY4X1lzeFBpM09hR2RwdGZyYVoyLXJ5UmJ1bGZxd0ZzaU9TVVJvQmEwQUs5TURXVXVLcFNBTFB4QkFWM1hOM0dRLUVEN3NXR0dxd3V5MkxYcTdGSVAteml4VVNMdlc0TF9XNWdUY2NzQWlBb3VGTUFYOUZ0OVJycUVnQjlyX1hkNnNzM2hYTjZxZHFKUk0yaFdLNGxVREtRbTZz0gHwAUFVX3lxTE1WT3NWeERYS2loMXBzQ21sbTJVaFZpNGxtNUJhRWFuWUY5Mlc3VGpQcGhzMF9wd0lwMkRCSVROTVlIeFM3UHVVSk9fUG5DTktfWnBpdlo4ZEJnaXVDc281MDU5UVZVWHluV2dhWXE5YmFrWnhVLTMwUjRlLUdKS0JQbVU2V1RKMml1ZXg1M1lQOE1hQV8zQlMxcE5KY19zQlNIa3RKOF9QNWZqSVdHczZfZE9kb2ZJeDd5NGxXSW42VENUYkZWY2pTaUJndFQ0N0hhRjhoYUJwRng2QUtITy01a0U0NWgzUG9MTndIZHRpSQ?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T09:15:20+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY",
+"ITC"
+],
+"groups": [
+"FMCG",
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "80dc7781b8fb2fb4",
 "title": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzZ3Z082X09KV3hCWTB5SGdLRUt6OWxuenRyOWZ4N1h2WWVHUWxqbUFuOGhMcy1pTjE2VktmUmZ2Qm1QN1JVZzYwTzJzajE1Y1RjU210bElsQ00wUjc0Rk9OOTd1dUVDdkplSzlGb3JtQnBwbE5KZHNpcXIxMGYtUW5YZlhBY0k4RjA4NUxPaXcwVVE2MWdTWHJ6XzM4S21GMWE2WjdmNNIBrwFBVV95cUxNb3JaZVQxamNiY1A2MWtXc2NwN2tFM21GVW5aM3NLSUxqejZ3TVRxZmFnaXZDUUFmS0Z3VlRteTFXWXhhV2w4elpiajRrcUZBVmEyZUxmSndEWG5DQXNJcksxSEVrNEFxMll4NjZRLUhDN2NOdGE1MUlFRmoxbmpsbXJVamZ6T2ZzOEE4dlBHOUVnMTJtdU92RDdSZnNLSTNnemw0WmdaRlBPYTJjdGd3?oc=5",
@@ -459,6 +479,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "9e4da41ae6d6387a",
+"title": "L&T bags twin Dubai contracts for bridges, tunnels and roads, projects to handle 130,000 trips daily",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeHA3UlUxWUVXVFRhblNWc0xJRjN4cm5hOGVkUDFBRlBGay1DVlFjdkYyRjZDcllRbmJCbnJDSDA3azZtWHRjRl91RmVXMV82ekpjRUExZVdUbmxQTXFPeFZuOWNBUm1FN3E3YmVUb2FORk9CVEhOVkRyT25qS29scFFUcnZvMDdDd045Q2V2QUhTc1FRNTZlWVhiMWdhMlVvSTg3Y3FjVHh5NXhodGJfdFdYLXh4dUpQMml5dkZFRjVJWUE4Ykx1MEdQTkVKVlF1RkJsUTBaM3Z4ZlZ6VDVCS29DZ0dNd3FXR200NFpubGtiUUNpN1pEWlhR0gH_AUFVX3lxTE9vbEkyck1WOUtKM21MOTVoQmp3bmlBWVN3bWNWV0g4WjZJbUpXaVhWamp1YVk0MjI2cjlKU0VwYkdaS3ZqUThwTlRYbUc3eFdzRkdUcUd5bURmWG1Ga0phY2M5UHR2VVFMb2tpUFpBSXpuWXdzLXc2aXhLcTNSVTlpVFhiQ2xyc01HSzRRWDNySzVNeU9zd0U2MmlDZkRXdFdTTk05TWxsdkJxUjZnZS1SY1pmR1d5LXVRRE50dVc2TnN0RWtsQXlOcmJicUJqc1JKaUZuVmpmdjQwN0hTQmliemhSamNBa0lTdEQ0XzdYdVZrdDUxdmt5TUJ4NjNaYw?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T08:55:50+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "fc3440944392cae7",
@@ -787,6 +823,40 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "733a9ca705e395aa",
+"title": "Reliance Industries officials to meet West Bengal CM on Sep 30, discuss investment opportunities",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSlFjQTRTOTVfUUswYXRwQ0RuVi0zV3FNUjJmd1JNSmR6cTRvV05HaF9nenNMUDdEU0hFRVVzdHRMZ09adnU4RGVTMWQtb3VnLUM4Tm80bUJ6XzhnUmpuMkhjXzFuQkNLcjM3Q241Yno3Um9WRWZkakl0anhIV0hmRkRBSU9acmdjWFRoaVVvNFhJU0xZWXV2Nmw0WkV1cklIMXlfbVRQdHNEQ0t3d29IenNEeDZaX3JYX0EyLVYyX2EzUlhlWTlxOGpmcFIzVXJ4MTNiZ3lkQ2FIX0E?oc=5",
+"source": "Press Trust of India",
+"published": "2026-09-30T08:10:45+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a86c354b773247d5",
+"title": "Apple Pay arrives in India with Axis Bank partnership",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbk56dEZwWEtwYzJ5NkYtMWQtdFE4MWtrSmtuYlNiMzI4aEFxU3A3REJPdkVJdFM2QUJZaVoyak05bFhGVVd0UE5QUTc5Wjk5anBkbmJ5Rzh3ckJPSG9ZdzBCRXVOX2h2X3pEODdxS3QxX2lDUmtLTFFOaWU5bUdyc0VYUi1saFZGelE?oc=5",
+"source": "news.lavx.hu",
+"published": "2026-09-30T08:09:57+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -3116,6 +3186,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "5a3fe0ab34a4325f",
+"title": "ITC Properties pivots to AI with $12.47 million acquisition",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTlNaEJsWjBKM3ZnU1QwYXFLSzhqS0QwcWxPWmNMaVdReW1MOHZkaVk4X05KbGF5SHJxWXQtb25rQXhIUXdXOU9ybS1PTzc2Z2MyU3ZaOWc4N2JaU045WnJPOEl6UFdCNllIa3FhQnNsRW14Q1RfT1NHMUQwV2ZzMUgzMUN4UFdNamFmQnRVWQ?oc=5",
+"source": "thebambooworks.com",
+"published": "2026-09-30T04:48:31+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4f89b202997729fb",
 "title": "Coal India signs exploration deed In Andhra Pradesh",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQem5DcWU4Rlo1QUkyekdmblRrRkNwSDNLaWFnWktfcEZYMWFIenlfeTh2SWxoVklYRktBREtTclFDZzF0THJFSjZXYWtJZG5TOUUyVlY1ZDNQMmx2VnFlcHZwc3VtSV9LSjlaOC1xWDF0c01QRnBYcTFNajRsRFdkdW5UX3VxTmdtNmc0LUNLb3lKNGli?oc=5",
@@ -3972,6 +4060,22 @@
 "source": "Economic Times",
 "published": "2026-09-30T03:36:56+00:00",
 "first_seen": "2026-09-30T07:00:30+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "128644d6ff3e08fc",
+"title": "Eicher Motors Share Price Live Updates: Eicher Motors Current Trading Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-30-sep-2026/liveblog/134580046.cms",
+"source": "ET Markets",
+"published": "2026-09-30T03:36:56+00:00",
+"first_seen": "2026-09-30T09:30:01+00:00",
 "symbols": [
 "EICHERMOT"
 ],
@@ -50259,109 +50363,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e339a47328c21a01",
-"title": "₹85,000 crore gone! PB Fintech to HDFC Bank — these 5 financial stocks witness highest wealth erosion on IRDAI's move",
-"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaUJVdjFUci12TkFOZmd0Z3BXQUxCUHpKUEI4akhfbzlmaDJUZDlYX2VtbkoweDc1SF9qbTBmX2cyTkRac0RSMWtjb1BSUXBHQ0JuVmMwdEtqRHJRZkpmbW1aTlVLcVN6WmVXMEYycUZJcC04TTVUaHZBNE81U3BxQkIybGJqUTg4TGRHUWMzYkp6V2NSaG9CQndpWUMxMlZHRE5zZi10UHFrMkNNQXJmRTNFa2FJeEt1RktYZjVFcDNaVUI1dnp4QmtXMkEwSnV4LWt0Nk5xZkV4LUxodjAyZV8xY1JSSl9VMkFpZEJDZ3NLSzA1TFhOTVp5MG01R0NxdFVqNWlvbDZJcHU3akptOGhDWdIBmAJBVV95cUxQUTk1bGJFR2xSaHRjOHJIOHRVWHhoUUo0XzA5NVVsMGpWQ0xSY054aWItYjNjOVBYMnYwR0xjUDh4WWNxMThrMzFwWXFRSDdYVkQzcHRDRDIyWEN5WlFoa19yZWczcTZTT2I0RmdFTVlkWWlRa3BTTTdtdzJkcFdTQ1pjRjF2Z1hRdDZrOHNHR01QMHowWDRmY0tPMXl4d3QzalU1aGw0emo0X05oZnJUbVAxQkpKY21VYXFDY2Y4N2dXTEJJcTdPSFFjVnVkVWNtTWtQUXF4NkRoeTkzRVpIS3NaQ3BOMTM3R1NFenYtVU9GbXYxdDA5SHM2Mk4yT3pPamVobXdDd2kxSFRJeU5hb01OejZoOUNm?oc=5",
-"source": "livemint.com",
-"published": "2026-09-24T07:28:43+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0f2e165358c5a45d",
-"title": "Maruti Suzuki Grand Vitara Front Logo Image – Grand Vitara Photos in India",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTC1oNmwtdC1JOElMVGdRSDE3a0Q1eF9nbTQ2TEw4aTdsUkRpOWNfcVBhbUlMQ3ZKM3Q4ejlQRlhIb0dTaVRxRXd2LXMwUV9JQkhwbHh6OEdqSkhDeVlRM2I5X1EzemV0MzVSVVZiYk95bVdYR2dpYlFFX3dxQVlwUnFJWEY?oc=5",
-"source": "autocarindia.com",
-"published": "2026-09-24T07:27:56+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4164f99305880ccd",
-"title": "Adani Group Pledges Over Rs 1 Lakh Crore In West Bengal By 2035; Sets Rs 4,000 Crore For Medical Hub",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRCTzZSdFF4ejdFVVRpUVNTM04tcnJndTkydXFqWXMxNks1S2ZnelN5cXNnQkNkdVdtb0hOY3RVWmdBc2dOOGJOV2MxYUE0UHRSWlVoVDBYVk5hUnpvaVJkeHd3bi1GYU5OeFo2cU1xMExWMGRTeElvRFF0SkpFcnhCd1gzVlFjMUMtaGk4eDIwT3VBUjBsbUV0NTdROHI4Qzl3cjNZbUpSZVhNbU94Y2NJZExHUGRNWmdlcUk3SzAtZHJRSExpV3FoOGxzQlR6YUp0ZjRmYktEYnUx0gHkAUFVX3lxTE1nZG9XS0tWdkNNZmFCbnUyXzVuOVp2Y2VNQV9lSkwySEpkVzdvS3YwWktaeExiWTdHSHFHV3p0LS1GVExPdjc2d3M0c2lGNk5LMWZzU0dzV2VrOUxwM3BxUmtZT0Q5TFY0SWdCMVdqRjVOMFVDOWp1Z0RNbmk2SDN3T1czc3RXcWs0WC1QU1pSNTNqT1dVRi0xUFUyT0RrMTBUVlBERW9CaEt1OWI3cUJ0dU5yckMtMm0tRUs5RmdVWEVqX3NpZVZCTWFFS0FVRUhRRU9rNlZnV25QY0dvNGZKSHJMdQ?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-24T07:27:31+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cf269fa231de0264",
-"title": "SBI block deal: 73.2 lakh shares change hands in large transaction",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFZXMkMzLUFyNl9KYWdrbElPY2RPVEZMRGQ1b1NSSlRWbXVtVFZUTWVnYVVONHNRTFA4YWI1blNYbVd0UEtWd2tPY2xuTWo3ZnBoSDlUX2hJOVA5aXFXNE9BTXlaaDNSRlItV09NZHp6d2ROU282ODZzVWw2MXltZlhMUjFxQVRUWXFRSE85Y3VydnFJb0tMeUR5S095c1lIYzRkOVJHZmJZZlRmTUItWU5TZVc?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-24T07:26:04+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2614f8afb3898183",
-"title": "JM Financial flags Irdai insurance reforms; L&T Finance, Axis Bank, Bajaj Finance among stocks in focus",
-"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWEpmVG9SUS1PalB5cTNMVFV4QlBfU3dPMGN3RFdfNlJjczQ1enlOd3FLVFFLR2lQOGRHU1BTREFSNkhMcEEzTXNZeHdBYW1TcGtkTzl0V1VQaGw4c3RmVXVMVklyenJIUjdwaUFxMVBWTk1rQV95QTcyYjg1U0VMZENGNW1UQXk5c09wdFo1TGxsck9xcW9zSDlZbzktenU4Sm1WaURPblpMdFhwSXg2X05ySnY3d1dPVGQyREVOZmZ4eDRsaWVPVDFiSkpUMEhpczlLWDhHVW9QSmZyZ1JXMWpiTlJRd3lESjhNdTBlNHpTQ1lEcWFuS29vdWttRERWLXE4ZXhpeE5vZ3VT0gGMAkFVX3lxTE9YSmZUb1JRLU9qUHlxM0xUVXhCUF9Td08wY3dEV182UmNzNDV6eU53cUtUUUtHaVA4ZEdTUFNEQVI2SExwQTNNc1l4d0FhbVNwa2RPOXRXVVBobDhzdGZVdUxWSXJ6ckhSN3BpQXExUFZOTWtBX3lBNzJiODVTRUxkQ0Y1bVRBeTlzT3B0WjVMbGxyT3Fxb3NIOVlvOS16dThKbVZpRE9uWkx0WHBJeDZfTnJKdjd3V09UZDJERU5mZnh4NGxpZU9UMWJKSlQwSGlzOUtYOEdVb1BKZnJnUlcxamJOUlF3eURKOE11MGU0elNDWURxYW5Lb291a21ERFYtcThleGl4Tm9ndVM?oc=5",
-"source": "Business Today",
-"published": "2026-09-24T07:25:51+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK",
-"BAJFINANCE",
-"LT"
-],
-"groups": [
-"Bajaj",
-"Banks",
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "28b66023ada522f4",
-"title": "BEL Signs MoU with NIRNAYA Systems to Expand IT, Cybersecurity and AI Solutions",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSFBtUWh0QUwzSjJPbWppMTFTLW9IdTd3cTFhSU1qaVNMNjVqUW5HM0JrSVdvZHBzWE8wNHpib0xJYVhMRkRtYjhaWDZHZDVfa1ZQdXNjcVVsd3hrM1NJZl9TaTVSRHFJNEV2RUprWFlMX29LbG1Mb0dCVF9PdVdKXzV3?oc=5",
-"source": "Indian PSU",
-"published": "2026-09-24T07:22:36+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
