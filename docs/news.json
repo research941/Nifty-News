@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T11:32:29+00:00",
+"updated": "2026-09-30T11:48:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,124 @@
 ],
 "items": [
 {
+"id": "ddf1ae303a0cbd47",
+"title": "DVC CIL Power Signs LNTP With L&T for 1,600 MW Chandrapura Thermal Power Project in Jharkhand",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjNRZUYwSER4bmFGNHk0djVKaUF0a2piNXRXaUZxWExQOWdvd0VaY2JuemFvOUFWV1BvSG41a2hHVFhmNVl3cGpCZ3ZOVEJ4MDA2RjZEWWprRVI3OUpFMU16QmpRY1NORE55ajdmZm5zWVdwS1pBS2N6NE9ZQ250bnBYRWpVeENMUmhyR0hIY2VFRGpDMTFwaE52RW9UQ01Id3c?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-09-30T11:42:22+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bbafcbe297c12147",
+"title": "State Bank of India anchors Reliance Industries debt sale in India",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMW9felBpQkdlUzl4UFkwM2N3anRMbHNDYUZDVlBBMWpmeTZIbDZySEpGd0JLMFZFMUcyT01JQmRORVdyakloeGRwNVRiMjRKSG5YWkxDUTB6S0N4Q2kyeGZOb1huWDdfaEVMaDJsdzVEQTh1QWdld3AxMnhNVVNrSldTbUFZdDdsQTJBYmZ4djJPcTA?oc=5",
+"source": "Traders Union",
+"published": "2026-09-30T11:41:48+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"RELIANCE",
+"SBIN"
+],
+"groups": [
+"Reliance",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b9b3b980d49cc0cc",
+"title": "Jio Finance shares in a downtrend after key support breach, analyst on the NBFC stock's outlook",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOGx6V2NueTlxNzNkOUVva1JUYVhSRnRZVzFqeXFwWDBWT3NTTVp3V1ZiRE03VGo2dFVfdlU4T1ZwanRCX2VkQmcta2UyZ1piR0xRN2dzbGpnYWxZOFRhakhMYkNibW1wM3dqUXhaZGJWVU1lazhlaVVNd1JHZ3ZNTmswZjdFSkpWR0Jrdm5DeEt6OWxKazZaXzdWc2R4cmFTZmhFdUh5bUs1RU04QTM0S2J3dkxpOWh5Rk9IRFgyc1VMa095VFBCeUl3NDNLOF9pejZKM1dxZ2pBZEQ2MlltVnM2T3NwaEdWVU5GRWF1aWdrNE3SAfgBQVVfeXFMUE5heTQwV2xZcVhxcVoxN1dWbzZIbVM0SUFyUEwzbVZ5cVRCNjNmXzI3alp0bGRBRTd3TkVIMkdSTEhlNmVlNEF5bTVTX08xUl9BdVpwWXdibHdCVkFDRzBQSXRuNkYzQ1R3b1VMRGtOTzV3WHFwdm4wS0Z6N2JwY01nRkpZQ21iTHhlSzNnc3NqZ3hvOTVZVFNWQ0FKdE91bVNSaUZEQ3FuZ0FvVDFEclZwb1JfTEZtLXJzMjVrOHhpcFdMMkVteGhmRkp2VjBJMHpwMTlzRzdReGdDQTBzYWtDYk1pbEJfTUxOYmNFMnVENldMRXVCQ2g?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T11:39:03+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d789fd0ffc33a082",
+"title": "Infosys, ABN AMRO extend partnership to scale AI across Dutch bank",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFZyYVR3Z0dBU1ZhQTZSeHJ2RUo3SkRjTi0tQUJjbWRXQk11cWRtdWhlZlNIVmNBWWlvdThYQUEtVHBLVWVLU2R4OHVGejZFcGNzczVwUjcyck9hRS1IcmcwSkZIRTctaTBkV1VZeFc3bm8yUm9YOU5zRm45Yjc3ZW9fTnBBS1JidklDcG0wXzk3NTZIOXZTajdBeGxRVVQxMmxhZ3lfQVVfMUQzbUhla21pM254eWtFS3MzYkhKTdIBxAFBVV95cUxNaTF2S2NLNExTUW5DczdKb1NWa3ZsY3VnN09fVF9DY3JKUExmNUdEVXJ5M3pFb1FvUmg2d0EyTEtVUFEzMGdOd19RZHJaeDI5MVhBWmpmSnZDbVRwNkZRSzdFOGdGT2ZIV1lLN0h6ZFhwYnFEMEM4T21sZFlzOWRCU3ZwRXZzbUxGNTRZMlZTMmk0clZaZEUtOWdHWUQ3UEZaN3g1czRoaERhcWF1R2I3ci1kamVVcGtuUVFJN0I5ZVpleDFK?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-30T11:37:40+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bb5ffce145cdfc19",
+"title": "L&T extends Hyderabad Metro stake sale deadline to December 31",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUWkxcXVjLXlwZkhqYW5TVG9keHZYLXBmOXlsMllNMnkzUUNzTUFpVzB6c2dOcnd5NThtbHVkMkxRYXd1M2t4ZFM4S0ttZGZkcURkcjVXZkUyQnFsVFVSSDVQckt3YkhoNFFFQWZobkVIdk9hczVDSU5Rc3FvOWZVdU4ta3ZCT2lHWmdrbHgwVWtrOGVJa01MSDhVMjlWTEh6djlLaXA4OTUyZXNkUGJkdk5KTlN5RlVnbGxsblc1akI0VThWN29DU0g3Vm1xWXRIckpVR054WkRUdEc0cVVEUWJ4R0pHVm5qYVBRNERvZjhzNlhRTFHSAfsBQVVfeXFMTmtwM245UHBRZUpucnRLcHJ5ZkpGZmNxNkh3QmJ2STB4QW9TYWotcS0tSGdvUHFzZXFOajBPTXMzOEFMcDdjRjlSSE1LX0k4RExLR3NrZk5zel9iYzh2QmE5M3gyUlFDMlBqenctRkFqblctcmw3MlZIY0VqVGZTZ0hiNTdhRXQ3U1EyTktpOEpkOGxkVWI3enZfb1lHdjByam1vZkZybUVzRmJ6aDY0WEszTVdYT3dQTVV2ZERFdnJQZmVoNEUwS1JQdVJJclR5amJuUnBNWDB6QWJhYzdKWmtjMUYyMllJZFNyX3NBbncySVU3bTNrTmJsdXM?oc=5",
+"source": "CNBC TV18",
+"published": "2026-09-30T11:35:01+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "81e3f8d2da7bf960",
+"title": "Maruti Suzuki sees CAFE-III as boost as new norms favour weight-based targets",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUdGMjlTSi1nN1NOVHRqMUZIZW5LZEI3RlJjbkhNbktkeUV4b3l4N21VLUNrcEtWQUQzaFlIZmp2UzVqSEtQeHh4ai1ZbkNHQV9QQ1lVcVdKWFlDSzlNTVVqaXhPTkpWSk9uWjV6UEs2WG1ubGJ4RlpWa2hMQ1JXLXpCUnBiU1poUTVDZEhvbmY2X21JMjVqM3dDQUVwWXVlbVc1YVhVMk9CM28tZWhac3E2NEtHeS1jMU8xMmxVU2ZUaDM1UEt2V2F1ZHo2S0tfbWxrS1RBOHJ4NW0t0gHiAUFVX3lxTE8xcHZZNnZ2MUxmdTc2OWhwS3JkU0k3QW9iaVdsQkl2cnBDbGx5WGlwTWVwSTI3TVBHMXd2VFJPVC02aWVoMkppRXQtbTlyUUxmQ2JOaU13d3Z6QVdwY1FidnVkaFlwSy04NWVaQjctc29xT2lVcWdDQ1loeDF1RzR3cG5rTUxEQ1R5ZVppRGNSU2FIb2RyU00xMzE1OTVhRUpkQTFnck5DYlQ3ZTBNLWlrQnNmRlU5Zm1TajlQSUxtdDRzTnVULTNuRVNYcmtsdDZobEtPWXVycVlWdXVpb1ZLcGc?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T11:33:37+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6a976cfa1c38f38d",
+"title": "Eight more off-road bikes seized in Stoke-on-Trent as police make drone plea",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0d2Y1VnSHVZZmtXTXl3WTVuY3RQUng4WTl4bGwwZVBqMVZQWFZMN1lOTkItdkdSSklteXh6WjJ4NVZNQjlZbG13UnlvX0tqOERMVmg1SVlfMnRDVS00SjlvZEJGaGR2ZXBpOW02ZjR2RXdvRjMtVHlGX1VFX0tGWXhLckdSUFR3cXZPTkhteTlVN1QyS2kycWtR0gGfAUFVX3lxTE9UR0gxWWQzRFV6UjlSc3lnRjRwUkx6aWtXTlRYVE83dkYwYmJMWnZ4QTlKMmh0NVF5eC1hVWg1UlFNeDI3dlIzSFMtMHB4US1KY1FLSWFGU2FWUXE2cnhiZVEyc3VLSGFTV0tfMzVaQVlnNnd2X3c4TDhDMmJhN2FWVk1XUTdmM0pMMHd3eVFjR2M4QUowWEgwUTdXYXI5QQ?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-30T11:33:00+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "79e2b4c753a8b4be",
 "title": "State Bank of India buys nearly 40% of Reliance's $1.35 billion debt sale",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVlmdFkzNUtMX0J0RElReHdjc19wZldJVEh6d0Z0UTU1OXpFdDcxdzllX1dEWW5hS2FRY1F6VDloMS13R09yQVlpRXlPUEJFSzBTWC1iNXFGcUZGbjVNaWlNcTU5TW1GNE05NmZUT2c5UmNONnlIWUhlTHhJMzBBZzJpdF9vRm91M245bnRndnBKLWYzeHVtdmZlbzlvUHd2cXY4dWN6UVl4c0dzODNWTQ?oc=5",
@@ -456,6 +574,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "520da554f8039d61",
+"title": "JLR Adds Range Rover Sport Electric as Delayed EV Push Gathers Pace",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjVVRlNUZ1RKLWUxLWxpMzdmZ254WkZCaTJuYTBLTWt4UU1ZVmxTNGxaRkt0ZFFWbHpqZUN6czAyRVVjbWwySEJCQmRwcU1rWFdPQkEwQ3hlY21vNlJtM1RNRHJNc0FYV2k3NmxsRVk4bEgtM0FVZzhCdUh3WHNnTkhkRTdRbURib3hrOHZ0UExZSjhhTDR4X1BBelhha3lWSGlBWC1hTlNndmJPZ2ZROGdOTHpkRlV3M0hSa3FLRWpMVHdVRkQ0?oc=5",
+"source": "eletric-vehicles.com",
+"published": "2026-09-30T11:25:15+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -580,6 +714,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "dd89c7a7b8fa4e05",
+"title": "Nestle, Marico and Tata Consumer could surprise in Q2 says Nomura; Here’s why",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ21xdEFVTWFnS1V0TnZxVXZZYnZET0ZEZkdlVlZqU2VUbzdXeEdOOVRMRFV1dW5pZ1poUnpKbkhlR2stZW9xMU84em4wS1IzZElrZnZzUFo3bGNXSEY4bmRrQUcxU1hNZ2hUemhsbi1fN21HR2V5V3NqQlpLOXdXRHpyYTBSb0hWU004S2tmS0V6MHVIdjRPazJxV2ZiczI4Mko0UUtpUlZRWFZQbUpwTzg5YUZycVFtdFJSNVY5VUlqbXQ0T21QRHdTcEVnSThzU0J4cFB30gHWAUFVX3lxTFBnbXF0QVVNYWdLVXROdnFVdllidkRPRkRmR2VWVmpTZVRvN1d4R045VExEVXV1bmlnWmhSekpuSGVHay1lb3ExTzh6bjBLUjNkSWtmdnNQWjdsY1dIRjhuZGtBRzFTWE1naFR6aGxuLV83bUdHZXlXc2pCWks5d1dEenJhMFJvSFZTTThLa2ZLRXowdUh2NE9rMnFXZmJzMjgySjRRS2lSVlFYVlBtSnBPODlhRnJxUW10UlI1VjlVSWptdDRPbVBEd1NwRWdJOHNTQnhwUHc?oc=5",
+"source": "financialexpress.com",
+"published": "2026-09-30T10:55:53+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e12b4e7dcf1718eb",
 "title": "Airtel Money bets on payment growth as $800M London IPO takes shape",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGQyWDZZZ3Q5RmlCZUp1akptMkxmV3dCdlE1ZVhzU19mZHE2YnpiZHZ1SmpPUW1VYkxOc3VhMVJYRjlQT1BGdFp3MmkzNzNNZEpfeHFoUWRtTTJwODd3ODVQMDJneFdmTzh1OWcydDRnZEdXZFRMc2Jhc2NCS1Uxd2xWMGRjaXF2S1hYeURIVXJzZFFkc2ZBYmw4cmFDODBqTXFMbG83a0N4eC1ud0E?oc=5",
@@ -645,6 +797,24 @@
 "FMCG"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5b86ff3fc81e812c",
+"title": "RBL Bank Gets Rs 173 Cr GST Demand Notice for ITC",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Zoa29VaEV5OGV3dVM0VkxQWkVST0szVlMyS1ZJbUwxY1NRLWF2YlRmWjBtbXlzdlZTaUplZFlqZzlhcjcxQS16YXFqazdMekhna29vekpVS0MwN2tucmJaRjNUdzJaRksyLW53TmdmU0NGU3BuVU9RVjFKVlhYV21TRE41b1ZMV0hjYVVGNzdRN09iTENYODNvV1FTRGluZGhReVZmQ2_SAagBQVVfeXFMUGtGaGtvVWhFeThld3VTNFZMUFpFUk9LM1ZTMktWSW1MMWNTUS1hdmJUZlowbW15c3ZWU2lKZWRZamc5YXI3MUEtemFxams3THpIZ2tvb3pKVUtDMDdrbnJiWkYzVHcyWkZLMi1ud05nZlNDRlNwblVPUVYxSlZYWFdtU0RONW9WTFdIY2FVRjc3UTdPYkxDWDgzb1dRU0RpbmRoUXlWZkNv?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-30T10:48:01+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -716,6 +886,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "18f891c50c74e299",
+"title": "Tech Mahindra advances Wednesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUd1ZElSakRCSkZEbEticWZIb3cwUEN0MEw0Sk4zNXNJNjBnTGQtRldBMFpjbjQzX3Vnb3JMNnlfRzZLRHhKaEw5OUNSSWxhUVhHTWhiWm5qaV8xa2hZbEF1Tk8zT21IeVhmRkEycmVZM3Z6MjVhMlpWbVlsSVAtTDh0cy05YTJrWjVFbTJKTkpkSXRYRVlGVC1ReEJLTEU1MXBreEdEdFFMaW9EQld6ZDBPRW8wMmI3ZDB6bnRPeS1JU3dRLU1XZw?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:33:00+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "cb4435aef9a3dce6",
@@ -810,6 +996,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "06d126dd6eea99e4",
+"title": "JSW Steel Ltd. is Rated Hold by MarketsMOJO",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0RKNGl2ZHlPZ0p1eHZyd1pBbTM3blVDUzE1TlF3MGNuZ1puZGNHVUY1VUR5Vk1hZjZnejhrTmZSY1hwRm9NdjVnWlpXbEZTeG9pb3dqeTNkalpkRWJnaHl3SkltZS1CQ3ZUYmJ0d09qZ1BjNWszNlMwTk5XMk9MUHFkTnR0VldIUk5NdFVOVGVIdmZMRFJXZ1g3S1pDNWxVVWZlUHJNRQ?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-30T10:28:12+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0179e564fbc5b747",
 "title": "Larsen & Toubro extends L&T Metro Rail stake disposal to Dec 31, 2026",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEpKUXg1djlmN2RiaG4tMTJYd3FyZXE4bzk2aVppS2FGVjFXeFZCSnJWdVBLREpNck1YQ3MtZDNWWUtfUHV3MW12X2NHb3BkWUVQbnVSTEpaNkZoeW5ZRFB5M1lnSE5wMk9BUUdvdXA3aXlYUWo4bHg4R2ROUlNMVDloV2pjb2Yxdnc5TkdXb0N4X3pCbmI2bjRlbE5sVWNrRHN3SldYbmVWRG45aDQ3U29iTTgwazlsMFI0dQ?oc=5",
@@ -825,6 +1027,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d7e22c32effeff04",
+"title": "Apple Pay launches in India with Axis Bank as first card partner: Where it works and how to pay, all you need to know",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXpaNG9hbmREWGlyeDcxVk53c3FqUnFnaDNVdkx3NFJ3VGtmaEUzdHZ4dzZOa1V0bmN4cGhxQXc4elJBdzBQUnNaLTR1M25CY3NOMzhMT1JNNjZCOVAxV3VpTVdMZTdSZ3R0eC1jRXR6UUhON0p5OEFUa01sLUJsLXQ2aFRKVzhTNWJtQWJ5Si1SbEt0bnQ2LVhxN21iUHhMS1dDclVObU9nQTdUN3pyVVBKWklULUk?oc=5",
+"source": "PTC News",
+"published": "2026-09-30T10:25:31+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2646,6 +2864,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d6fdc3d47e6c818c",
+"title": "Maruti Suzuki Victoris On Road Price Sira Sep 2026 - ₹13.48L",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWUVhVUmRRMUFpUGd5bm5WVHZGbzNkY1g3UlAzMGs3Z2VCVThhV2xYamRLUGtoV0lTcGFPRTFFS255dkdtbU1kZlU4a1FvR0p2UmNSQzJMY0V6ekNQa3ZQaXdUSUJiazl1WGdacHBJcWdZdU9SSEFwX25meVVUUQ?oc=5",
+"source": "zigwheels.com",
+"published": "2026-09-30T07:21:27+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9267,6 +9501,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "61b8ef6aa5f2676a",
+"title": "ITC Share Price",
+"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5",
+"source": "Upstox",
+"published": "2026-09-29T15:02:47+00:00",
+"first_seen": "2026-09-30T11:48:33+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50145,250 +50395,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2446997e7d43b6da",
-"title": "Axis Bank Appoints Arvind Subramanian As Additional Independent Director",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaExWLUdxXzJhTlRyS3BVVTVTRjd0Vkw4TFBhdDZRUzZjaGdUNTJpVlJ4dlhybUxMSzRyMExnaHJkWXVpZ0JLTUo4Ql81ek5HZFpXdGtyTHRFd3BSYk9uVkFxdmVYQ2JvUUpKVWc3aHc3cVR3Wjg5bUZrWlNGUS1CR0FSZWRta1JKMWh5N2JyXzQ4LWlxaTNWdzlFanBqZ2lsdjFfNzFQb3JoYV9jVjJ5TEJoX1g5dGVhNWJ6dlprNFl2a2tzcGc?oc=5",
-"source": "BW Marketing World",
-"published": "2026-09-24T10:01:27+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a5a6f4be3ea94c2a",
-"title": "Maruti Suzuki Fronx vs Mahindra Bolero : Price, Specs, Mileage & Features Comparison",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81OHF3UnZRdUNsa3FET1FEdkJiUTJMbW9PbTFyZzdKaXlCMDVtV1EwTW5IWklSSWR1dFJYb001akktRXo1TDdBZEJzandqMXktc0R3UkxObVR4R0dPcGpESmFTSFJQQlNKaDlZaklqSkUtZ1FNMHBrc0VsVWF2M2M?oc=5",
-"source": "autox.com",
-"published": "2026-09-24T09:59:20+00:00",
-"first_seen": "2026-09-25T07:48:40+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3c44452bdb18386f",
-"title": "Renault Kiger vs Maruti Suzuki Fronx : Price, Specs, Mileage & Features Comparison",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTExBSmNZY1d0SEt4MVpDNnJHVDc2MjhwU1RvYzc5eTJJQWFLYkJncGlET2RhVG5xSG5WaHVDVnI0V0lpazVFWTRpZGZDVEh5TXRDZkFmYVo4N1dVVlZTVno4Zi1IUnVEOGNHZ0RfMDdITk1OYjdlZTVPejY?oc=5",
-"source": "autoX",
-"published": "2026-09-24T09:59:15+00:00",
-"first_seen": "2026-09-24T16:57:08+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "53e7de3f95c3179b",
-"title": "HDFC Bank adds 5 digital rupee use cases for payments",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkZfb0dUNkF5Z2d3bkZrNEtfdmFYQTg1b3gydktCOHVMdWhlUjNUdVhyVU8wQ2hQSWU3dmt6RmsxY3FTLVh5X0h0X2hyZ2ZvaVM2MFlVOHIwTnFiQmJWaVNZVlJNT0NfQ1B1NlE5dk5pLW1yaVpXMzNmYVFhR2FISXFwekZ1N09FWGlic0FCd1h0aDJ5Y2RtSGpXSTBxbTBRQzAw?oc=5",
-"source": "NewsBytes",
-"published": "2026-09-24T09:58:29+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "22619c80b24be56e",
-"title": "Adani Group to invest Rs 1 lakh crore in West Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0l6azk2VHpIbjBNNWRKSHZMVmc1MkJVaXNlYTRDNlZ6M2NmdXEya1poXzNZQ0d6OWdQWlBuaEpMMkxxSkZPSXM5Y0E4NDYyZlVtQjRPMndnZW5wRGEwelBMemtoZ1lvN25lVWEtVGM0VmVQNjZkenB5MWlpcUJxWnk4T1RkOXpRMFhwZE9TVENRVTZIdlJRUjFyUkVNbHhLb1NhNjFUMW16c3JpbzhHZDVGNUhYWDgxRTNKYmhkZmsxSHU3UlV2SFY1Y2hOWEHSAc8BQVVfeXFMUDNJems5NlR6SG4wTTVkSkh2TFZnNTJCVWlzZWE0QzZWejNjZnVxMmtaaF8zWUNHejlnUFpQbmhKTDJMcUpGT0lzOWNBODQ2MmZVbUI0TzJ3Z2VucERhMHpQTHpraGdZbzduZVVhLVRjNFZlUDY2ZHpweTFpaXFCcVp5OE9UZDl6UTBYcGRPU1RDUVU2SHZSUVIxclJFTWx4S29TYTYxVDFtenNyaW84R2Q1RjVIWFg4MUUzSmJoZGZrMUh1N1JVdkhWNWNoTlhB?oc=5",
-"source": "The New Indian Express",
-"published": "2026-09-24T09:57:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3c7f18113647b656",
-"title": "Adani Group to invest over ₹1 trillion across sectors in West Bengal",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcWo1cmNTLUNMd0Jfam1mTHhaT0YxSlN0ZkJRSUpTM3FhQ2pyWDZPbWNOMGNKamVFUFc4dUFyT0NwOG9ud3paLVRaWG40ZWlxdmVpdFduNkEyOHRWS283LURtcUp6RUNUZ3ZZTVBiQWhnUkNEb3I1NmhaQzdFWkNTQUEwaUs4Tkd5YVBLMVprQWJHN1dtVWVKLWg1UHJJMmw1Y3NiOGFwTUpheE9PcGo5SEpRbTRPTTRiUzNzMHE1eGxReWFVV0hjdjB2RmNKYmVaMGfSAdIBQVVfeXFMTXFqNXJjUy1DTHdCX2ptZkx4Wk9GMUpTdGZCUUlKUzNxYUNqclg2T21jTjBjSmplRVBXOHVBck9DcDhvbnd6Wi1UWlhuNGVpcXZlaXRXbjZBMjh0VktvNy1EbXFKekVDVGd2WU1QYkFoZ1JDRG9yNTZoWkM3RVpDU0FBMGlLOE5HeWFQSzFaa0FiRzdXbVVlSi1oNVBySTJsNWNzYjhhcE1KYXhPT3BqOUhKUW00T000YlMzczBxNXhsUXlhVVdIY3YwdkZjSmJlWjBn?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T09:56:54+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8df2a8c5e200415a",
-"title": "HDFC Bank launches Digital Rupee use cases for rewards, corporate allowances and offline payments",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUQ3SnA3aHdPdnNZSk9mUS1qbk91ZmJXc3BuUWMxbUI1anVVXzR0T0NWMW5rdmZpdEFBOHhyakVYa3lnQk1Uc3RTNElnVTVoUmVSbWxTQ3BlUVNwV3RGZ2xNWEV2QmNIUnFXZi01Z1l0RFhYa2NsTnVzNXZuLXpRTnhyellURG5Da2JyLXdWUkhLMFpDYzZXS21zd0NSLTN3Z21scmc1NlVDeV9pNGRVdjhPekNoS2hYemItcGppR3R1a3ZmSnloY19BV1Q0T3ZhUlpr?oc=5",
-"source": "Zee Business",
-"published": "2026-09-24T09:55:55+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "10edc1bd59ac6b78",
-"title": "Green hydrogen outlook uncertain for 2030, but long-term potential strong: NTPC official",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVU0yUlFhbjU4ZHVOSUoyOEJKa1ZBNGEybUVoUjc1SjZxbEtZZXc0V2NrM1VQSnJVWkdGUlg4elZWQzNKN3ZieWxPZjZYWEpWWHZack1TQjhweFRZNUJFY3BIZDFMTDdDZnFzQkRCaWJxRnB4NHJ2azRBOVpyc0F5OTQzVnk0SklDaWZhSlBqWUdnSGs0NmJVMVQzRW9ldzlHR0t2S01fajNwY2tiZUVVY2xGT0Q?oc=5",
-"source": "bioenergytimes.com",
-"published": "2026-09-24T09:55:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "7e3edebbad5b5970",
-"title": "Maruti Suzuki Fronx vs Citroen C3 : Price, Specs, Mileage & Features Comparison",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvalQ4Yk1tckl6RlRPM1VJUUhMM3Y4bjYwVjZRQlRZRzJJc0xBeExuaWVLWG5lSVQ5VDgxeG1oU04xM3dCdlN0X2RfYWJOckQ5MVNJUVRfOGNONFJ5SHVwUThza1haNG92d3h0QWc2MGZ2aUV2cnpKMA?oc=5",
-"source": "autoX",
-"published": "2026-09-24T09:54:52+00:00",
-"first_seen": "2026-09-24T20:33:43+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fd711e143201ff51",
-"title": "West Bengal CM Suvendu Adhikari Lays Foundation Stone For 2,000-Bed Adani Arogya Mandir",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmliV0QyWDg4NGNva2NkcFFNTVhPWm1la0lDSEhrdWhEX1hWTFVmS3JXOHV0ckR3YVNxRWxSYWE2UmVxcmFwd0lnWWQxb0pFR0p6V3FYTkhjRkxxSHAyMEhaVWV5X2YxNTdlQnlDNFBIeUItdVc0QUVHVzcxc3VKUUkyYjdFamlwZXdCcVpyTE05OE5MdUFhRHNqY2xYY05IWUFZMVNXdWJOWlMzTlZPS3N2dFVJemtWYzJsYXZrSmtfSUowd1h5UHYzUHg?oc=5",
-"source": "Adani",
-"published": "2026-09-24T09:54:29+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2b85f0f51a828416",
-"title": "Journalist Ravi Nair Moves Supreme Court For Release From Custody In Adani Defamation Case",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd214RmY5akNXeWF3QzRtdm1YcTlNOGRQS0dBcTJTMWRxbDBENk1fUlpKWVd1ZklnMHZqV05adDBVU2pWQXA3SHU0d0ZNSUtzLWtKQzEtXzRkS2J0eDdHcGJQMVFPTXB2N25SbVMwdVBDZGdBYUxYQkFHUmkxZUlBc01sRWJHWkJPTGUzeUN6RkRtQWxiSXZWVUg2VXNyMlJpLS1veFU0LTJhanBKSmpiZVFVVXR6SjhuUHZtX3EyRWZ5RWNxNXJXN19MOUhUVjN0NlQ0aFF2Q09TNGRaWWhaYi1B0gHnAUFVX3lxTE5fMzE2X0RJemxDSGZCTmYweU80VWxBV1hiQ0VKZDB6UmxHdmE5RlBPMlVleDBwYXRrN2p3ajVxNWZ1cmYxeUFZVm1OUnlYd1k3ci0xRmtLS0V1dHh3cEkzdV9wYXlHVTI1YTg5Mk0xanNLMGRVUTdQLUFRQngxdzVMUzVzQXZDQ1B2WXFFc2t0V3VWaVdCWHNqR0paUU9fOTlLdUdtUWFiNkdUQUpqUEZ5bEpuMjVLTmZCX1BOc3oyVVl3c0RHV21ZQkw0N2dYVFlUY0tfN0kwbUFobHRTRXAyZDU0VTZibw?oc=5",
-"source": "Live Law",
-"published": "2026-09-24T09:54:26+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "d83020e002a390bf",
-"title": "Mukesh Ambani’s Reliance Enters Ice Cream Market With Bombay Creamery Starting at Just Rs 10",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG53aHNRdV9QLXBRakViWDZuakU0WFRHaVlWdW5wc0Z5WWgxZHdqTGZPLUdXZ3F0RTE3Y0pWUE9hTTU0ZmxabG1jUWVIZFBLWXp4TXVLcW5GblJHVWpkWHd6OElOT1VlVERJVjRVTWpIWld1VG9VMV84UzhKNDYzWmNwMmh0V1ZiOEZMOWtvdmltejFzY1hrNXJhNWY0c3N6dXNWUFRHXzI4VzZvLXlVNC1BYVhWaktHZVhYMEJnVllxcWtpV0lYNVgxYXVGOXVwZFNFeHl2cVoydEFBLWFrbkFUajBOWWPSAecBQVVfeXFMTWxud2hzUXVfUC1wUWpFYlg2bmpFNFhUR2lZVnVucHNGeVloMWR3akxmTy1HV2dxdEUxN2NKVlBPYU01NGZsWmxtY1FlSGRQS1l6eE11S3FuRm5SR1VqZFh3ejhJTk9VZVRESVY0VU1qSFpXdVRvVTFfOFM4SjQ2M1pjcDJodFdWYjhGTDlrb3ZpbXoxc2NYazVyYTVmNHNzenVzVlBUR18yOFc2by15VTQtQWFYVmpLR2VYWDBCZ1ZZcXFraVdJWDVYMWF1Rjl1cGRTRXh5dnFaMnRBQS1ha25BVGowTllj?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-24T09:52:19+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "46678b5e72efd807",
-"title": "Odisha approves Aare Solar’s 10 GWh LFP BESS assembly plant, L&T green energy equipment unit",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNF9qUFhkM3JnTzZ0MmVPSlFYWDVUMXlGR3JrTVdSaEZCTW5RVTV4WjE4T2VKcXBNVzA0QThDSjYxODhFLVVOWktpVFFDOTlYS0ZubkdUUUlGSExkOTIyNlJ6Z2cxZXRmeVYyai1FTlRzWnkwR2R1NmpFNEhYbUc1S2tONmVOa2dWd21IRXdCVGRBTkl6Y1c5T3NXN0R4UXcyNHVHa1FtUWt5cVliNDZOS1BNYlRrcUxVbXFLdGIzY0tIbXVzMU5HaFVXdk0wZ2xq?oc=5",
-"source": "pv-magazine-india.com",
-"published": "2026-09-24T09:50:23+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b44ec073f48a6475",
-"title": "Nestle India Share Price Today: Price Fall and Valuation",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjFzR01kaWR2ZHJhekpYbDZicDc2LWs3N2lxdW05Sjk3WjVSVG83QWpRaUlCdTk4YVBUYzE0cXZuTHJJbFUtLVV2OFl2cFl1RmFvWU5JRW54UnhiTjJIcnBFMGJaWnc3ODlQdk9sSlk2N21XOGFJdTVGUl9WQklCNA?oc=5",
-"source": "Univest",
-"published": "2026-09-24T09:49:20+00:00",
-"first_seen": "2026-09-24T18:50:00+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "3f23da956364045d",
-"title": "Meerut Axis Bank currency chest gets 1,323 fake notes worth Rs 4.63 lakh",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmdsYUxmdVdTXzJfUmVTRnZEcElONE9adzVJSTRnWllKd3B3dm9HMEI0UXhhWm12WTl3YXRQRWgwUDBJX0V6ZWZpMnFQUkVjdi1EUi1Tak05aXYwbjI3NkdHU2ZGcE9CN1pOR3RMNFQ3U3lWSGdUWFlyZ0xxZW1yNkZVazdRSmUxbzM1NURNdW96R19sVWs1S2FuaXR0NkJjVjM2WDlRSnZGWnY1bGNOZWNTcTN6ZHRPLXdwS2xCWHF1eG5DZVlxMThVQ3jSAdIBQVVfeXFMTUtzX1BYbXlPa2F6SGRNLWxEMDduY1dTbHhnMjROM2U0dFpVWjMwVWl5U1Bxc0lUZUdhUGNaNU9jQ3JhXzRidzM2dGNLVWd2MDVJa2FERUpFWUtTdVVYcHc4eXFyZ3RvZ1A3N0JpMTY1TW1kOXBRRmJtek4yUXlVTUFtTlUtYlhrakpRY2RDdUsyTDJwUHpzZUxOVUxwSm1iNXFDdUdpREZNZkh3Yi1ZdWVkV2VjMkFzNkdTU1RrS0VFZlFCTUxBbVdjY1o4QTZzSWVR?oc=5",
-"source": "India Today",
-"published": "2026-09-24T09:48:48+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
