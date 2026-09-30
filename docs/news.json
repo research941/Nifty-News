@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T16:47:57+00:00",
+"updated": "2026-09-30T16:59:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "44dbe0641029bb47",
+"title": "HDB Deadline Alert: Levi & Korsinsky Reminds HDFC Bank Limited (HDB) Investors of Securities Class Action Deadline on October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWlTZ2ZUYXR1eEFfSVBWeDNxWkdUa1dkdkdWUXJhaDJHd2NnOU01bFV2T19WbFlxZVRQWWdmNVRURWJCS0tBekp2Z05iRTQzX3FkcFdBNFh2cjl4VElGZ2VZMEhnUnhLdGFPTXJxTDhwcDZ4ZXlMX3R6bWZoalljV1ZuS05kaWNEQzlveTg4WHNOdmE5RlZGWGZSb0pOYV9qb2ZOOW5PdV9KS2lVelNVT1dZUzRHdkFZanpSLUtuc1otWXhzVU5Hc3M5eUpzbVpPV09FQWhpNE9kdVZpVUpMS3dqV3dUejZLQVc2LUE5eU5xS1hTWkNCMTVsdDJxYTUtd3RpY2pzNkIzZThNR1BwakxOSQ?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-30T16:51:00+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bac8a528b2f64979",
+"title": "HDFC Bank names ICICI Bank's V N Srivatsan as chief compliance officer",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnNNN0N1WkFoQ0x3WC1NVXdQS1NLYzVnSzFtS3FTVHMtdHdlZlFEMFdVVlFERVhENjFUU1NGbVRwSmthc09oTmlFS01uZTNodWprelNaUVFNWUY3Q0E4a2RaT1M0ZXhOTm5ka1NpazZmZjVqU0JJS0xjQmttYXlMOTFEdGdlaTZ0QjdlSUQ4QzdhSGZEZEZGUjlBZG9BSzlzdjk3SzZ0Zm5wVVZBZzZwbFRfNXFnZkRhTVdzOGFhU0VwU0N5amlCcFNueU9sdnpQY1Nod0ZPdGHSAd4BQVVfeXFMTl8yVVJGZ1VyWVhDRmJId3VBNUtDM25lOUFMaU1hRTBCZGRjWVROTnEyVUtFQ1JveFh0T2pTck1QRDlGZkZxYTU2cmQxcmZUbFFuVFZ1M3lwS25RV1pSRWpwbGZxaTlkZmlWZ3hwS3ZlNk85eE9BVFVGaktYNE9SMHlrRVBTVUE2dF82cnR5TVl0WEgya1lvUWVuQzJLcEktaG0wN3BKOVgwbThHRjZBdEM1UlZDa05pUlhtVlNGS252MzJQY2RYYmM2UF9rWGJ6S3k4Z0tSZ0hGY2wxMGt3?oc=5",
+"source": "Business Standard",
+"published": "2026-09-30T16:44:18+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "289971ecec7410d7",
+"title": "Blend Fund, Unifi Capital acquire 3% stake in GNG Electronics; L&T buys 4.33% units in IRB InvIT Fund",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdjROZjJhcms3NnRVblZNSG5aLWh6YkhIZG9tQ3h3bjdCZkJseTBWdDZBcTlBZlFGdTB1M1djZ3RxX0FXN1BFMkhNUE1wMXZvSy1OLVBsQTQ1Ml8zZThzaGVOYUplVzhpd3F1d2dyYjN1blBHMGZtMktCT3hrOXltVzhISzUyeXU0Nlgxa3ZGbTA2Nk1EWVVnZlQ4UEJVQXVrWGxtT3FwNzFIbENkMmY2eWxIMzNKdVNfalkzRTdjcWhYRnByWW9mYWxxeEkwcS1YMEZIY2RIMUJ2bGNzR2RxSzVZRlItY2NuRkZfbUtrekI3dw?oc=5",
+"source": "TradingView",
+"published": "2026-09-30T16:33:21+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "18ea2332ea664483",
+"title": "Reliance’s ₹13,000 crore bond issue draws strong demand; SBI said to be largest investor",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQjFIbUlHb3VKaUlMS0thak9Zc1hvZzNtMkhFUVlNZk9oQ1J5RExKLWF2UUtwLUtfSXFWT0x6UTRzRHRqZHNVTEJHYVFSSHJjRGpPTmphdkkxRzE4bTB2MzBpa3FqYl9rV1dPYTd5Y0F2SWc2SHNRMmxhbW5yQUpULXo3NTBiNjVqOXdaWDNJLTU0TUJCZWpZczhyOWl1Wmdpb3ZVcHFfQ09QSXgxaEEzSkdPaFZMVXR5WGJiczRQY2xXQm1lZk9HeU56VEhVSE05eE5UYzhCMmZOWU0?oc=5",
+"source": "TradingView",
+"published": "2026-09-30T16:24:32+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "5540593b263d54f7",
 "title": "Axis and ICICI vs SBI: How Flipkart and Amazon are shaping India’s banking partnerships for 10% festive discounts",
 "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUpXSndaWVF4MmhIQjRGVWJPR05hRDhYZ21NV19TRXc5U29qX3dxMUxfZ2cwR2hqdVo1dXNTclU1Z25PekxvUnlOV01NeE16T1VWbW93MDRweW4yS1VyUnF3aFNLaW9ITUZQQ05OdGNSZDBNVmZ0SFZCeldkQzNhY0NsYWlJb3N0S21zMTN1cGo5amxnbk42OXhXc29rWVhiUlZ4WEZxdGpjRmk1LTdDeE41RVo3UUR6QTdHaXEtZm8xcjFudEwxSmdqX1dFX3hvSUUxMnpNdkkxZDVSbWc4ck5tc2llR1VhWkpHc1VlTkl5Rk0zYndTTHlQVdIBgAJBVV95cUxQN1VueW54OGJtcngtLU9taUlDOGxaaTNXSVMwOUhFZUNadW5VS2RqcTA5Y0hLU2V4QVJheXVQS1N6RHRMbWF3Ykg1emtUX0lEVVB2QWZfYkVEdU0tc2laaERsZEx1U3NyVW82MTVGRWx2bXdNLVJyM0JzYkJSYVFrOGxaeURNTEp0UlRjejFkLW01SEhjX1Q3bVhIS01wNFA3MHlGVXMySjFtWV9jekRidVgxMzVJRlN5T09OZ09GelhwVGlmRWZKay1GS1hDWUkxTlRtRDYzeFd3Q0FScTFkd2J3M0s3MnVmTEhTOHAxeUUySHFVSktLeWR1RFVRaWVP?oc=5",
@@ -517,6 +585,22 @@
 "source": "The Economic Times",
 "published": "2026-09-30T15:55:32+00:00",
 "first_seen": "2026-09-30T16:23:25+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e4f3748b35ee5c26",
+"title": "Kaplan Fox Reminds Investors of HDFC Bank Limited (NYSE: HDB) to",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU05vSURMX1hfNkJUSTZfTUVqQzJYNmJtNEJIbGRYbjlZb1ZPcHYyWnpBZW1LTzNPRE9xMVpGU0ZPWVM2N1J1NE1DU2xqUkdXeENSaGFnMmx2bFQ0a0MyeWk3SThqcHFQb1d1bzkwcHBtSnV0cUpTN1pLVEdjRHhTOXgweGFnWWNpWXhIWDlMUGRHWmwwR0lpUGRwWHZXdGlNejlraE81TzdlSzBOUHRTQW1R?oc=5",
+"source": "The National Law Review",
+"published": "2026-09-30T15:53:04+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -614,6 +698,24 @@
 "groups": [
 "IT",
 "Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "a8d6f7b38928fda5",
+"title": "Hindustan Unilever - PB Fintech, Wipro among 8 stocks that hit 52-week low and slipped up to 45% in a month",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMmIzbWpqcmt2N1pMVVhOX2FiN0hwSDJBUDR6dnNWaXdWQ202bV9EVnQyWWg2RHJKZ0lDV0tvRVZ5ajVMeURsaFJ2N0k3RW9ILUZrdFJyaGNTNHRCU24wd2NPenJObTJlWllWbGF3eERyNzBNNWZWZmN6WlFQXzhsQnZoRGsyd3pRRjlzdDlzUVJsa1ZPOFltdXQtQkZ0cEhDMU9lUkJueDVoX3JjZ1ZVbDN2TXo0TWNIenU3VUhyWnF0cllQVWJTaFFGT3o3RzMxc2F2TXBEczV5QXVLNnYxOXZtVkZfeC03RVhtb185NHo3RW9XZWZQTS1HRFhfRFZZSWhQT2RB?oc=5",
+"source": "economictimes.com",
+"published": "2026-09-30T15:19:41+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"HINDUNILVR",
+"WIPRO"
+],
+"groups": [
+"FMCG",
+"IT"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -1098,6 +1200,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d882c6d70d22b5fd",
+"title": "How England Return Can Boost Trent Alexander-Arnold With Real Madrid",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmprTmpzWnFSU2h1T2FLeG51azFEeF9yR21JNzl5bm9aZFVidXFtemp4UXFDbEhDa2F1b01IekpLcVFhSjFRU0ZJSFFFTFZKOU5SVDRuNGlrOXlMcWsyblRtRkNvX0R6azlyV2FyY1NRbXdEc2xDTUFfZ2FlWU1ocC0tRlF1ZWZzaUpFS1M2VmIxNXhOZVk4Wnl0bS04elJqdTEwY21LUmJxODNhemdkVTdXNA?oc=5",
+"source": "FotMob",
+"published": "2026-09-30T13:30:00+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -9944,6 +10062,22 @@
 "groups": [
 "Adani",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3c44452bdb18386f",
+"title": "Renault Kiger vs Maruti Suzuki Fronx : Price, Specs, Mileage & Features Comparison",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTExBSmNZY1d0SEt4MVpDNnJHVDc2MjhwU1RvYzc5eTJJQWFLYkJncGlET2RhVG5xSG5WaHVDVnI0V0lpazVFWTRpZGZDVEh5TXRDZkFmYVo4N1dVVlZTVno4Zi1IUnVEOGNHZ0RfMDdITk1OYjdlZTVPejY?oc=5",
+"source": "autoX",
+"published": "2026-09-30T01:50:21+00:00",
+"first_seen": "2026-09-30T16:59:11+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50285,140 +50419,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "49aeaacfa19750f8",
-"title": "Power Grid Corporation of India Ltd (NSE: POWERGRID) Acquires Barmer HVDC Transmission SPV",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM0ZWclRkdDVDaFhVc1RIaEV2MzBrVXRYWktiNEt4YWRpYlVVMUR0ZmtzUTJaZk1rM1BaT3d2aVhfcmZ0VEpTVEo3MFc5bTgyQ1VNSGxJY19lVjQ4UE1XX2xRVFRydmJ3RFA3d3FSY2E1VEF2Vk1fYkhnY2tKNi1mREVMR2w1OGFXdzlSMHFWVXNfWlVtRG93Sm9hZWY0a1FWM28xWHJuVTVZb0E0UWJlRnAzRUQ5M1pHRGlLcWZSUWlzN3NMbTBwWVBfZGpHUVdsR0ZSdkR6NDJwbW5zWGZPSDVFTDN4QjV3UjNZZ1hNT2RmVWxNaWtFcmZuUlNYQQ?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T14:47:00+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "65ea891254947711",
-"title": "UltraTech Cement adds 4.6 mtpa fresh capacity",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjlYOGp5X1FDeGIxTzZ0S1hYY1RUTk12R1Y5eDZPSk9ZY3RCYTRuU0cyUmN0ZzBlUHJQS1M1LXdMUnVyXzlPam05V3M0NDZkbGZxM2hfQXkxdFpyTjlNMy1zd3ppN1I2TlQ4c1FyZ1RSU1UzM21tWERGc012bUVOaDNwREZXRkZqN3NwVGxMcUtlWjBVZGJLMWJnQlVvNkZoRGd2U3o5QlVtQzFxU1ExaNIBtwFBVV95cUxOMDZIWENLOHN3MVFtVVc1WjZRWUZWWlFEVXp3MDd4Q3llOW1Dem51bEZRX1VTNFdYLU9tX1dyTjdVc3ZuT2lZTzhsVW1lSXhucGlHak56SndFUlNEaFJOcVlnbHlVZFdTb3Q0V2hyOWl0dlRfaWowVjU0M3dqMEtWLUlNTW1HOXZaUllmRkJZUl9QX1NJVGp0TFE5ZU5STjB3LTVhU1AtYm1lTFBmNndLVWl5YVNqWUU?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-24T14:34:24+00:00",
-"first_seen": "2026-09-24T14:48:51+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ad537bce297d3b46",
-"title": "Maharashtra Bank Holiday Tomorrow, September 25: Are Banks Closed or Open? Check SBI, HDFC, ICICI, PNB, Axis, BoB, Canara & More Services Operating & Closed",
-"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNb1Q2UUNITEc0a3Q0RFREMFh6Nkx4WTdacnVrdTFxTnRDZ18tckpWdUNoMzNJQjhWNDM4MmtxZEk4VWtsM0RrQlRnMlFhZ0c4WEdzdF9qc0Iyano0Z2c0UGFyYk5aVWFaZUJXRngyZHc3VHl3eVFzTERDTWg3cWE1cHRjcUhNT0kydFdlcDEyNVJfdXA3ZXdnWi0yV0VtRzZlUWhoM1pKZGdocFZHMUs3V3VIYWtLNnNJUkxiUkhXZi1NQmNKYWRXbFBfWnZucE1WLTJRLTc5ZHJPU3hDMDUzblp3YWN5elN4VkVLS1RGdmEtQTlyV3FPRkxJSjhXWUpXcUUxSzdqYTJfbC15WTd5T1ptUnM3LXhZajdz0gGgAkFVX3lxTE9EU3c1YmdQY2JDSU95QnJTWVR5aFF5dWZGV1Y2T2xzVndDRnhWQW1YeWcySjdtQTBzajBfOUliMExPUk9JTDdBSDFNOGRCbkZzM0w2MW91eHJ6dDBhenRwYzkwNWs1U2RqU3BYNW9zNC1LR3NUVl9HNENsVkk4em13NXh5eEsxc0NjcUZYcWR3OFMtNFg4V0NKOXRuT3lLQzRaR0k0V1dwYzhyRlhnamI4dXdWTE4tMG1zT0E5SG5Rb3JyR0Z2LWsxVElsTW9sTHpIUjdPMXBReWtxc01id3ItNkc4Z3dCY3VJVXpOOHFWQi1UazVoRjNVSlFPOWdfczJQMTBVMEVkMzZJeldSMHBycEduUGUwUm9xLTJPc3hfeg?oc=5",
-"source": "The Sunday Guardian",
-"published": "2026-09-24T14:33:19+00:00",
-"first_seen": "2026-09-24T14:48:51+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eec6976e88ba922e",
-"title": "Bharti Airtel stock falls 1.77 percent despite Q1 growth",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2xTVmR6UktURXZHS2pMNGFLaGlDS3kzcVdPNk9YSGNVdEpBRjNIWU5KOE9tTHhrT3ZVYlo1NGQxUkYyblpXaWdLTVBpdEpzcF9FOTJheVF5MW1GN1p3c2RPekVfOVdmcWxrTjIzaEdYRnhVNktvSmFsanhPQ1E3dUxyd3Q0blN3b1AtRWxnc3h0V2h3M1puQnozYS1kYmxSeTRwd0tVUTBBdUJ6Q04yM0ZEM1JyVklFMk5J?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T14:31:20+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "887b310ca8c63dd9",
-"title": "Adani Group to invest Rs 1 lakh crore across Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXUtZ3hjNFlZMDlTbVpZMkZveHdMNWFfX2dCVTFZQXlPQ3ktQUE5QU56WTVTbFNEeFRTR0p2UkZFN3JOWkkxR1ZRb29ZN0ZKNVdFR2J0U01EY29WdWhFeWhlRGFCTTFPR3FPZFlLLUxIQ2JHcC1henBNUmlZZEtZcTRBYXJsQ3JnRmdnS1Q4RQ?oc=5",
-"source": "Telangana Today",
-"published": "2026-09-24T14:29:03+00:00",
-"first_seen": "2026-09-24T14:34:12+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9c07374a9faeda94",
-"title": "Reliance Industries stock falls 2.31 percent to a 52-week low",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnlnMmsxejBaUjNYNy1fOGpqekMwNFZ3ZlFMbkZSZlNuOWdoc19VOXFoX2YzQkQ1TDJKS2oyMi1oUmZfajg5OE1JWV9BaExiNU92TndDVmxsTFBFU1hfU0E0TzF5Mm4zeFVoQ0tNOFpzV0Mxbk9MQWhZTldJQXVSamc0bEtmUzFrNUU5aHpITWxaemNDMU5zYjdjNzlBZ3pCbWJJNF9fVUZCR2VvZDBJZjlUdk1IWjZMUE1NTVRReVhpUQ?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T14:24:10+00:00",
-"first_seen": "2026-09-24T14:34:12+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ad2ae382748cd395",
-"title": "HDFC Bank, Pharma Majors Lead Stocks to watch today 15 September 2026",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WU9iLXF0MG5sZ0JWTmR3MkE0bGhWcXFYOUM2a29nSlNrVjlObEdwTU94UDBFcnp3c2dBWjdBcDRILVZrbnNvRC15S01NM1I0TnZTY2l0NmVVR3FxUGtISnBROFprWml3SWFVa056REJsMkRzZU0tSFVKUGk?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-24T14:22:55+00:00",
-"first_seen": "2026-09-24T16:46:45+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8f4367f186e284d3",
-"title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM3lESU54ZTAxMHAxQmZpUUk0eDVtcUFCbnZtekgycnd4Z1NBYjVSbjJ2SkpBeExpc1htZUFRRE9MZGhPdXJkbG15Y2ZhWG1JS2gxaWV0bnpxaV9RTVNYWEkwZ0FRdTVqVHA1VUI4eklSSW5TZ01JcE83OGxGVHBQV2NhMlVBOHRlMzlMQnVDcWtmTU9zVkc4elU2Q242OVFuQmtmdEsyMnpxM0EzMFVKYm1KT09XSFF5ei1OREMwekxKUUdkMlFtdHB3TTlGVTN6MmIwSUh6STdYYmtUd1RvMzZxWUJSU0RGcElWc1QwNlZsVHg4b29Td0ZR?oc=5",
-"source": "globenewswire.com",
-"published": "2026-09-24T14:20:14+00:00",
-"first_seen": "2026-09-24T14:59:37+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
 }
 ]
 }
