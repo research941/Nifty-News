@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T23:17:25+00:00",
+"updated": "2026-09-30T23:30:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -951,6 +951,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "53745efc6a8f15ad",
+"title": "Maruti Suzuki Victoris On Road Price Sahaswan Sep 2026 - ₹12.63L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG0xb0RVdVlFbkNxd2hZYkdtNHAxMW5VTmZ2dGtmT0xRbm1KX0dCQ3hXelZnV1VRbHhhT09YUWFBYnhMLVNpTXZRWXA2eDFXWkw2dkFmekFhdFExOUo5WlJLY3QzTnlINzdtcVNqZE5OOW5LRUpWLXpnNUphX3hLWlRQNA?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T17:22:57+00:00",
+"first_seen": "2026-09-30T23:30:30+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1fd1a07933261bc5",
 "title": "Mumbai Consumer Commission Orders HDFC Bank To Pay ₹92,525 To Fraud Victim, Cites Service Deficiency",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDFwNnpOLUozb2syQkFPbXprc2ZpRmZhODliYmNwazlPU1JzcTlTM3hYd19ZaTJhREtqWUJ1OGhxek5UVkxneVlBcV9GVG40aHRpXzlaUU5IMXQ2N2xQdWRFNm5RZVlJZWJBeFVLTmplazdRaWxnNXQwMDlpVXNPVkFESVdVRjVObXJrdnlUUXFWMGtuS0FVb0RjZmZRNXJjdGp4SWdFbW4zRF9RQVFCRzlKVk9lS1BBaHhpQTZMR2tfc185MWx0UmxhTG1vdlpkV2fSAdcBQVVfeXFMTURYQU5pdjZtQWhwRkxMZGFWYk0tSXRfNTBaTXpnTnBmemRMTUZUb2NUQ3lVeFQ5X0NlbV9mam1mbl9fYkVVQ2owZmp5NWNfS1pDZVItQmtLT2VEOW9ValhZS2NoNV9VUHNWRDlDV1pwb0k1N1l0SV9ZVS1UcFNUUmR1VVdhNjlIcG5aN3k2eUNiY0U5RnBZMERoc3RRWExsY0JIQVZzMkM3SkRFWjMzeTBKZjhWUGpVcktfWDg4QXpVcUc4MU9rRFhrNmdIOV94dDlIOXJLazg?oc=5",
@@ -1155,6 +1171,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "6c9d95352d6b8dc2",
+"title": "NTPC R&T bids farewell to employees on superannuation",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVJiMVpQWjI3eUlkTU1sMmdCVW1fLTA0QTlSNzNIS3lVcnExdTNGMWlPTzZqRmR1QlRQNkZCZUdDcmplYmtzWGtHanE3RWNSVGpnR1pGNXc4SUo5UUZ6SFNnM3JCTS1nSVdkTHpreWVmZW04VTAwaW5iUEJ1RUlzYk1MeTVjYzFXRV9GUzlsYVRiVkpQd3hv?oc=5",
+"source": "hindudayashankar.com",
+"published": "2026-09-30T16:19:15+00:00",
+"first_seen": "2026-09-30T23:30:30+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "5540593b263d54f7",
@@ -50385,40 +50417,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "52447053f722b046",
-"title": "Maruti Suzuki Baleno Touch Screen Infotainment System Image – Baleno Photos in India",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0ptV3hzWGhnc3lodkFKZUR0UTd6elowY256UFZRT19FVWpORVNLYlNCTWVmS0VDVWpTNXFHR3hJNV9LVXJjYlFnS2dJSGNtU1hmNFh6bjd1TXlfeGpHQmctb2NWd0E4YmljX0VIWEZxS0NYVEx0NkdmOFRSbUdRekhhUzVWbVVOYVNrckMzTzF2RVJ0ZFRlLWFn?oc=5",
-"source": "Autocar India",
-"published": "2026-09-24T22:19:34+00:00",
-"first_seen": "2026-09-24T23:16:43+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f103f10af43163ab",
-"title": "HDB DEADLINE NOTICE: ROSEN, LEADING INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
-"link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVDNXY3M4cWp2RmwyWkZLM09pYjVhT3dYZWtwTUZ5Q2pqa3V0Z3hEVG4tOEt3UWZNQ3QzOXFkSUgzMGlzUklRTFBnVllObTktb0JOaFEzS25oQVBoc0FhNkNia2tsR0tqT1gwRmxJNWVwY01FeWZNSzh3ck53cEhUS0V6TkxmemxkRUJJU1RVc3hEQTB4TVNRR3FEYlc3LTVvd2R2Q3dFcXMxNlhhbHNUOUZZdk5zLXJTWVVoYjRaRzZZN3JHV2todTA5U0liYTVBY2NIU3ZQVjF2eThkN3FWWnMyOElOZGVORWtQU2xaeW5HczVFdnp0VmM1Z1phbVg5Z1luRDVtRko3dDNGSmt5eWY2T2RFemJoWXNSSVJMUUVHTllzSkZkNVdNV1NSSG5feDJtRGpOdkxKWGVjN3R0OUhEU2lEaExxQ1JPYUZfSGtFWXVpT3NMZUtfLXp2S2o0Y2FvRA?oc=5",
-"source": "TMX Newsfile",
-"published": "2026-09-24T21:54:00+00:00",
-"first_seen": "2026-09-25T01:17:05+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "positive"
 }
 ]
 }
