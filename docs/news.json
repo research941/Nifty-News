@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T19:01:50+00:00",
+"updated": "2026-09-30T19:20:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "dd1049f3c5e3db2b",
+"title": "NTPC Green declares fourth 50 MW tranche of Rajasthan solar project",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNzhsM0JpV0pmbUJoMVNnLWhvX3ZQNGQweldDLTY3d1NPdzB1RVBCdTByZnR4RVZCb2QyNE91UlY0ckNRaVNSczRWUlpZald2cUVuaXlGSkszcGlXNVk3UDhPU09iV0Qwb3lZY2gzSXM4QUJVX29yUGpyOA?oc=5",
+"source": "Power Peak Digest",
+"published": "2026-09-30T19:12:44+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5016307b25adc02a",
+"title": "Mahindra & Mahindra Transfers ESOP Shares to Employee Grantees",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckY2TUJSdlNVVnpURVJhVmRLOXdzcGE2cFp0OE1XT0NwWFNlSld2cmxRREpfUzNyWVhPUVFfT3ZSNTIwaHRuMEt6M1Jsb0swWFhmdkRPb1hiSkhkR3NGRTV2N19DT08zRHRjSXFWR0tDbGtsczNMUm0tRk8xV0xWT2FFSzNJVmxobDlPNzd0MlhxU3I1LVZDRFpMWGJ2NXhvM1kweUV5Q21aRmt3VjZlRjJtZzA?oc=5",
+"source": "TipRanks",
+"published": "2026-09-30T19:05:32+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1b77e0fa40543d5f",
+"title": "HDC Deadline: HDB Investors with Losses in Excess of $100K Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPc09YYmxid1Rpb1JoMUVZQm83c2t5c0t3S2xFWkhnbzhYcFNmNXlrTVd1XzUtWUwwcEhucXRtdk5yQ1NrRy1XTy04Z1lBdXp0VjI4cElkNEoxSWhEQ1AtNXREWDNHb3p4VFRwODZET1BMMko2SEtsU2owV01oV0pvMkhpZ3FTZDVuS1RldDBJaHVDM01YOFM1WlJNSXZkQjFvbUxlUkhlcFItV3QyMFprbmNLNUw5V3V5WFFob1VQNXdwbVR2M29uclZDb2lEck93djdpblBhUUlRaEdjeEE5OVpUY3otTTZhNDJUR2VLYkNiSWljQmFHaWxuRG9vN1hfdEFadnlTTFVyVFls?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-30T18:56:00+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
 {
 "id": "82af51a865b506d3",
 "title": "Wipro gives benchwarmers a 6-month paid breather",
@@ -1531,6 +1581,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "69e060c9561778a7",
+"title": "ICICI Bank (ICICIBANK) Share Price, News, Stock Market Cap NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43RUtDcmY5ZGhDMDBkeVBpRmZZcVExaWpyb3hLYTVvZzBYUzZTYWhaMGVYcElIMW1RRExSTTJTQ1ZZaG5kRHRZQklMX3U5NG9IV1ZaQmhDejYteFZIUkdRbWdQTQ?oc=5",
+"source": "TechGraph",
+"published": "2026-09-30T13:52:11+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2858,6 +2924,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "276cf9dec6c739d3",
+"title": "Apple Pay launches in India, with Axis Bank credit card users among the first to support it.",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV05UcmFja2VoM2prVnpCQ1g3QnluMGwwcEI2RnBpTWNDcmI4amtfNGRISExhMXhkODJfcWRaem4zWnNGaFJ6R3owdVhZd0ZHN3lRZ3I5R3lHT2tsbXoxcmxXWnBGRDIzdUFfODZrOU02bUpMd0xMcmRLRzYyNEZYbUNJLUtPa1lNWUVBdlJGNkFtTDJyelU0R193WTlfd1A0SEg3VmdXaFJqODBLY18yUW9B?oc=5",
+"source": "KuCoin",
+"published": "2026-09-30T11:13:46+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "a176d19b88b61168",
@@ -4417,6 +4499,22 @@
 ],
 "groups": [
 "Auto",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c52d00b4167100ff",
+"title": "Mahindra & Mahindra 52 Week Low Streak, peers and sector",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUM3MlRydVNXbFBrX0dvTEkzOXBLdG90WC1NYXlETGRTZG92Xy1XNFZBWThySy1aMThoNTI1SzVNUm5HZG9mSHU3SUdnWVZhYlZBY2w2RDdPR0ZLY2t2Xzc5V2lNc05GcG1iMXB1QkNIZmd1REhabjBTZ2tGUjlOMTh2RndwVWNZRWN6V0FWY3BFRXg4S0hDZHp3?oc=5",
+"source": "Univest",
+"published": "2026-09-30T09:25:00+00:00",
+"first_seen": "2026-09-30T19:20:11+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
 "Mahindra"
 ],
 "tags": [],
@@ -50347,102 +50445,6 @@
 ],
 "groups": [
 "Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bd5b1d25d742c2dc",
-"title": "Freshers' AI exposure varies, practical application skills needed: HCLTech's Sundararajan",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlZsM0ItNXEyYmtMc2F2ZFRIWWJheGwwYjFMUFdMOHRoTEdId1FWV3ptZWd4dkRTNmxlbW1ZUkkybDdIZ2FvTncwSWtFdDBjQldyU3kxMkRWdmthb3VQNUJ3SWhlbE9Pci1OSWs5clhqd1hfdU5UZFZxUDFNQkRJMVRZcjgtOXM2dFNPVHlmcmctV25nMDl1Qklzdzl5QnFud2ZCejlmNkJxTTlURmZUNFE2SFdudy03UExOVWVpeHh5MWFEN0VEMVg1TFZBelVfUUZ2Tm9GbTlqSm4wM1Nmei1IVzF6QkJhUjR1bTl3?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-24T18:00:25+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d45d7756c833fad7",
-"title": "Maruti Suzuki schedules investor meet on September 24, 2026",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmdoang2a0xuZm01bWl5ZHI2T1N3cTFwMURydFVVSzYzaVJXQjZXUkNBR3VqWUFfNWJld0R3UjVLaG82MHlfQzZNdUZTNEt0aUdPZ1p1Qkx6SXVoMkFSQ0U5TXI4eTBib0xnQkd4ZGs3TE5FbU9TTjFsdUVZVzdPZ3pJY0pfMVNoeUQ2UWJ5a1g3d2o3Uk5Ybl9ubkViQTRzZ0NRX0Y1QnM5MkpCSVVYSGZR?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T17:48:11+00:00",
-"first_seen": "2026-09-25T01:42:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c744459e6dd495c1",
-"title": "Reliance Industries Limited. . For five years, Reliance Foundation, United Nations in India, Observer Research Foundation have brought ‘India Day’ to the sidelines of the UN General Assembly in New York — creating a platform for leaders, policymakers and c",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkZfc0x6NTZqQTVBUEtscFk5NERoN2RiSXBnRUcxaGVyZXJLZVNNYVhCUE92dlFxN2J4elNvV21fTzlWX1FtX0poS2ZIRnhGNlJFNDFqa21oUmxzVHV1ZzlzQ0t6OUZ4eHozUGZUVU9hSWVEQk1hdjNHSHVuVElsRklTNFFMdndYM3ZESllJQWw1eTR2MGVBSFh5NV9JWFdDd21ib294Qko5bmtEZUtyUkRRN1VDVkFpaElVbzV2RjB0bm1rQXNodktGSEl1bF9hZmJLeno1WlM1RXl0dWJIM0tzb2ZGQ2UzVGNIRg?oc=5",
-"source": "facebook.com",
-"published": "2026-09-24T17:41:24+00:00",
-"first_seen": "2026-09-24T20:19:27+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3801f4cfe99443a2",
-"title": "Lesson from HDFC Bank contoversy: Boards of companies should not conduct business in haste",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTDhyUFRXQUlLVXRndnVKVjFMdmNxX21KZkhGOGZaR25hejVwVklKN3B0cF9mYm1Jd2FxSEwtUUZJUm1OVkM4ZlNqdFN2Qll3d3BYSUkwakgwNTBVTWhnWk0zMnJjOUp3QXJaSUVfYmRzRU9kVFlHU0JGLVduajJFZjFGMGlsOGh2V1pXZE1LOFoxN0lZVzFCMHRQeU10eDBDTmtDQnNuVVpqMU9HZmdnOHEycy1tOE1OU1hscDdEMXc0eUtwMDJnNEs5a1p1elhhc0lWLXBXOVFMRzYybTZlRU5hRVJKUUtuWUVJVG14RnJoVzJQR0pGatIB_gFBVV95cUxQenpYbmgtRWVTZTRfLWFELTFUc1NXelBseE1ic1F4TV9raV84SGN0X2QyTG1lV0lsLTlnTDdWQ0N6TFZRR2RiQ0VxZEcwejhfcFkySWtEVzRCNzJ1QmhWYVo3Q1dRNHV4VW0wUXM2STkwYkcwQmdKZzA2Qm5YeDBUYzFaNGg5TV8tck5zRjBBVXBBZGIxcEUzanRneUxUTTktamJHWnBzZTRZblA0dWlINWs5U3ZBQ0pPUVlWTTVmTEQ0R1VTdjR5aXhmR29sazBOb3Nlb25NMFowWjNOY0I2aERFMGF1aGJqaTZ0YWtsbmszZ19HR2JIWUZJekZTQQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-24T17:40:00+00:00",
-"first_seen": "2026-09-24T17:54:38+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0eeece1998d3cf77",
-"title": "Maruti Suzuki commissions first green hydrogen plant at Manesar plant",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2JCblMwLUJOekVVS1VBcEQxZG5RbldDbzZ5RExrMGpqNmlRaDBoUWEyam4yMWg3cmx1U24xeXN5MU9Ba2xyX1VZYVJiYmZlUmI1cTY5T3I2R3lCVmlFa1k5UXNOSk5aQU9JWmF4UmtLd1RQTWs0dGFraEhaOVVSY2VnT0NoUGpMN2MzTWNxQlNJMFdPc24zY3QtVzFkOVc2VFFmbGNxaF9YOFBURzV1UHpPcTY0eTRodEJZ0gHCAUFVX3lxTE9HTmNKVFRzNlowczVsRWhNNW95bHZieThfeW5DS2hjXzFPOGFiSWctZjhOdEl5R1RiWXBXWUx5Mkk2WEs0RllpTnlkbHpTRkQ2YmJ4LS1BTHdZckZvQmxONzFPa1RyZS1oeGxuNVczODNBSVJHd0duamE4VUVkenFWaGdDNzRQRmYxZXZGcm5SMV9JX2pxdDEzdmRZaGdla2N5R1RQaFJtOFI3OXZiQmVpNjJzSndacjNhZWVfclh6OEtB?oc=5",
-"source": "Indian Chemical News",
-"published": "2026-09-24T17:32:15+00:00",
-"first_seen": "2026-09-24T20:19:27+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3d396cca753acee7",
-"title": "RRB NTPC UG Answer Key 2026 Released: Check Response Sheet, Raise Objections by Sept 30",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU0dUTXlkamxtU0JvdWxTdDNuRzRYV3AwV01zbldPejk5YmpadnpVM1ZfeEZNcHFfNUFvdFc5WWkzUzNQR040OHhGWEJ5aUpoOGgwUVpGUWFscUtnS1lCRk0zcHZSTlhjRUppM29UZUdUdk51UVZGMXhyTS1WWjFUa3JKa3VId2RqY1dOUlF4LTY0bjlfY2pFVURXZ2ZaNlZhY1JfSldCUU01ZzZCeUI3UnJSXzFRbG00bS1uRHJhVnZ5d2lhMkEtanpsQ3AzNkRwOG1Ub3JTV0xEbHhEWW5XRQ?oc=5",
-"source": "telegraphindia.com",
-"published": "2026-09-24T17:16:26+00:00",
-"first_seen": "2026-09-24T17:29:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
