@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T17:34:31+00:00",
+"updated": "2026-09-30T17:48:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,90 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "33a0f658e3520c1c",
+"title": "NTPC Green Energy declares commercial operation of 50 MW solar capacity in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm1kSDRyT016aTY3NUR0SUNrVVFNc2h0MWo2OE1pNGZ3Vm1DajRaU0lwRThxRTBES1ZvVzAtLXkzT2lrN3RCd0M3MUI0dHJDdmhjeklybllkMGdUTjh0dXBIdkVHUGVKY252WGJXOU13UGxyRGRVQ3FwR3FTMFB6RUZ5bVRGeTEyXzNlOUZvZGhtOHJZZ1hhNUYzYkdTb2dzMjlQM05pM2xEMXVPbEZsMUVRZGoxcWVoLW55Y0ZuZVJNdEk?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T17:44:47+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "51cffb1722f66f51",
+"title": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ2pRUlZFVk1hekJBMXdMQ3JCUGFTdDBjWnJoLVVxUWhuT2pTVDBJVjZrUkNSQ3RCcm1TdDFNcnBHYnVfUnZRQ04wWUlfY0o2VEZ2RXFHNkRiQlFuMG0xYmlXSGhOZkhzVGoxZFQ1YjZTMHluWThSMWRPQnEzY20wS3pGQVV4eGRuZUZBQm1SRGhPLWtLWVBtbXJTLW5iVUlLc3ZCOUZ0RFFUTlJKTk1TRWU2b3lwdm9KTVdtYUpjM0U4YktpN21QajlMSlBkV29zQnF5eE1JVDAya0VPeGVxNXBTMlhSVzhoTVZwWmh1NGZSTXBldGJaekxUWlBBcXZ2UjV1YmVSY1F3Z1NHMHfSAZMCQVVfeXFMUENnQ0pmeC1zOHlsZmtlV0FTZzNodFhnTWVaVmxkQVcxTDVsQ2lQQkFHWmExV1A4VnJxdnRCWUQwMTFLbWJLMExGTjJNbVJoS05wSk9oU1BfbzVjTVdPX2ZEMUhuYjA1ZktQX0JPLWJLa0RlOVFVYXV2RW1LTzUwMkRhUlRiajBXNWZxdUNwSS1zREIwZllzYWIwMGYtWTRnSERySGxhQnd2Z200eVkzamZMU3FHdUcyYjhsYndBeFVuNzZOekE3X2xjVmFRMkYtYl92MlpqN1Z0T2dDdkRpRXJib3NJM1p2SFVocVZrN25JMDVJekJGSkhlNE1MbVVnTU1tN2FXTGJaTWNIM1NYd05fUFE?oc=5",
+"source": "Livemint",
+"published": "2026-09-30T17:39:49+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "05c8f46bc8dce46f",
+"title": "October Bank Holidays 2026: Complete State-Wise List of Bank Closures, Festivals and Long Weekends From Gandhi Jayanti to Dussehra — Check RBI Holiday List for SBI, HDFC, ICICI, Axis, Kotak & More",
+"link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaE5kZGFKakZfbXVtbWVfZGl4YzVpUk8zWjlEdEJzMHNlUUlJQUhTb3hWR2YzRVQ1Z1NwSFZ2aDhXaS0zLWFGNEExR2RxTjdzMUhzcnZucW1JNzQxcHpJZEdUZ3Y3MllCcW5Ea1NTTmo5d0lZQXJLR3F3MktWMXFjRnJsRlVrdFY1U2VRY2l6QklYT2lzQjdFUDJVTnVWY2U2NXFPY1BpZVMtbUR0a014MjQ5bl9wWTZCa2U4YWVUTFctQ0xpOENQNWU4ZmRka0JDY0d1SjRBR2MzbUVWR2FvbkRBdXJZdHhiNnN4dm5jQWFyYnZGY2NiUEtqZVA4WE9Yc2MtQWxiWW9mSWl2RGJvNTNlNVJzSE5sTXk4bFR5RGRNZzhNMHNWOVZ0SEVtZmF1WVYxLXBHd3dwWnp5T1FIQTQ1UVBGOXVJVzRIWDdUZzUxbVJi0gHaAkFVX3lxTE5WczE2ZTFJaW9ITUcxUFVienpoOVpuamNPMWhlR05wOUhlSktta2VXOVpudkRPeWpDZkJ0WDQyUmFsZ3hUanNzSE5yRk1zRkJCN0UyMGI1SzNTbFlmN3YwaHNQczNLYVFvbDFLdGNQUllmcVJtNVIxVXNkU1lhQzc5aFF0VnM4ZVFYUEp3V3pZM1RkWDhsR09MREV4Ym9BUENRTTY1VnZIeVFMRjNabnNXM0VuNThiSi1VUEloUUNWcEZseXRZam5kc1RWZUZ1U1JmRExmWjhFTjNyZlduVnhMRHFTSW5hamJ6bDVRNGhVLVFJU0t6ZTZxckVRX05PQUhtX1I5QTd1bUV3N1JzcHFEamR3UU0ybnZhTnB4dUFiTkphSmhiTXpsakRpVmh2OTlZZDJHQkFudzZIbUxsc2ZuRi1PYV9aZ0FISkxHaVNLSGZMbjgxNjN0SVE?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-09-30T17:38:59+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fab09d0a0e2fd80a",
+"title": "Bharti Airtel stock adds Apple services to INR 999-plus family plans",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3U4bUFScmF3LWtEZGpwWE9hNDdyQkJpZWdXa2JDclFrMHJVeDhpYmEwbFo4LURRMVduTnYtMl9HRzl3blN0UjNUUl9jWmVReWJ5MkQzQzNKaHNwVWRzcy0tZkVnVTVvLUVDSUtjbF9ERGJNUlRiSXBtTVFjTFdzcGV4TkNxTENQV1U4eXdQazRZa3RtM3lPV09WTnlqZnNzdC1yNlRCTEFYdFNxMTJPRG5mbWxJYlFXSUROVVRuVVlybzl1REE?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-30T17:38:23+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e1d92168684877fe",
+"title": "Jio Financial, Allianz invest Rs 320 crore each in Jio Allianz General Insurance",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZUt0ZDFBT2VtMTdnQ2pVcEVqbFNMVkdDaC1ZdGxhNFNRSHNGT2d4ZVZuSG1lQVBaa2tmU2t3cmwtT0haOW9CN3dqaGZkc0VvRnRZa1VpZEZ4QmZHWmdZZjdidW1XOFMyUFF6aGFMS042cHRNMVotdGE4QUdfaFdmQWh0TkZQQ3d1SDloWTVMUk9oNHVPTmRSd0dlaG9YYzgyWk1vTFRNRUt5T0djVUp0YTlsN3JGZnJZdkRVNmtIUm9WbWh4V1FfTGRuaXBNUG0tSDROSEdOeUpJT0xHREZN0gHkAUFVX3lxTE9UM2d3WWpFdUg5bU5oT1RnTy16c3BqQzF0VERNY1lUZkZXdjVPMlAzckxSN212YV9FeHBWTVJaTFRRN2xrY1pMLURqRUZ3N25KeDVDdjQwR3QzVkdXSEVpcC1aWE53NXBRcHdPMnlpSUhlZy02UGJNbDFWUDdaX1E5dktFVUkyV2NmbHNKbFRUcXhmTjdkXzFvaWZjZ0phQm95NE1vMDZ1cnBSekFhYzg1dnZySmVrS0hHRWhPRTNfUUZXWFlTeEdwT3RtUmFUbGhLSkgxcGo1SDZHV0ttaXB6Y0xhWg?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T17:28:59+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "06afb34d3e678234",
 "title": "Adani Ports invests USD 750 million to double Colombo West International Terminal capacity",
@@ -1335,6 +1419,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "9441ec05aad6166c",
+"title": "NTPC Green Energy Commissions 153.9 MW Solar in Rajasthan",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXNfaHlYeHh3aWtBNExKUW90VWhhMHFpQlNybTZSVFN0MDZDUmF4dGYyS2FzOWFQX1dQcXR5dEh3MmI2bklWSndGdmhmUzNoN1hJa3dKWkI3azFpTXZrLVBrQTgwVnVqZlJ4NkMtRm9zcmJtQ2lSbk1BdGtPRlNJM05RZmxqRmhtTHpj?oc=5",
+"source": "mvapulse.com",
+"published": "2026-09-30T13:30:25+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6108,6 +6208,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c4ace98e5b15044c",
+"title": "Dr. Reddy's Laboratories - Positive Breakout: These 8 stocks cross above their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX1pkRFJvUDR6bC1qdkR0eW5wNzdGMmNrUmdTN0IwNTlHMmlnXzd5eFBUVGI0SkJnTWgwUkFabGdZcGNxVWJoUGl2UjFSbURfS3FxckNic0ZCazFtb0RuelNTQUl2ZVNHUV80Rk9zWjY4N2doTmM5M0wwR1c5VmFjd1RfbzNkVlVkQlVxZUNSQk9PYXZzWDd3UHk0VnpmVGpqYWlPNGFrRVFqTzJJOVdrdVltbEc3NzdNUE03RmNLMm5DdVdpLVNUMmNSQjU0cnM4SDkwRHFRc041cFMyZVVZbnhWTE05a2czUmc?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T06:13:32+00:00",
+"first_seen": "2026-09-30T17:48:03+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50311,118 +50427,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d28fb43d241f5da6",
-"title": "ONGC to continue drilling after gas discovery in Mahanadi basin; India to retain 20% ethanol blending: Hardeep Puri",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVFVWm9oVWJNb0ppSGJDSVhkTjRWaklyeXJpd0FYU09DNHZ1ajFraVBKYnBvN1UzWVN4YlZOX3lQSWU4cm5lUW9hVnhDaDJ5RGNNSDhrdnBkQ2JmWG0tZmNiaHNmSm9aTF9nYW1EdmFXRGNlMTRSS1RrcERORHEwdDVtR2t5aHZKbmw1X040eXB5TFhtdE91MmpVY0pzbmZxVUhsaThGRUZSU2R4UXNfY1hweWJ2Z295TVAtcVZpQWw4Q1I2OGJxZUZUTjdNWnZWb2tqUjhXZ1ZQQWpHbmZTSWRURFdwbXZkQXpYcGVTNmotT1lkbGc?oc=5",
-"source": "ANI News",
-"published": "2026-09-24T15:48:00+00:00",
-"first_seen": "2026-09-24T15:55:51+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0556c8394ae1dab4",
-"title": "Adani Group delegation meets Suvendu Adhikari",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTk2X19iWEdENFJHQlZqYUNHcDBCU2JjM01EaGFnaWRNUTBQLUV4MHVQdDAtNFpMWHhudkttRnhLbGp6VWs5MzRhbVg5T1dsenJycUEzdDd0eXdzTDV6V2dKQlpOazVHaUhpMUR6ZHhqWmptenJhMmdQWldxUE1CcTFwSGtyRFJtdjJMazFqNGIyZlhYZE5qS2RXX0gzVmZDYUhXNw?oc=5",
-"source": "Prokerala",
-"published": "2026-09-24T15:45:00+00:00",
-"first_seen": "2026-09-24T17:43:33+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6a1d7370c4ef7f6d",
-"title": "WB CM, Gautam Adani lay foundation for 2,000-bed hospital in Kolkata",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2RTdmFLWmY0NHdwREtjUHVoRzN1QkMwR1pGUThKTGxsSXpXbDRaLTVkbE8wekc0YnBjVzFtQlZJa2U1MEItb1BpdlN2YWVSTzVNTjdWYjdnOGxzVHBEX2N6OVpQNkNXZVRVX0M2VFdIcnNpZnVYRVh5YzhUR05iQnlfNnNSNWdpUlYzUTlWSVZ5RFNlWU5Gcm1R?oc=5",
-"source": "Medical Buyer",
-"published": "2026-09-24T15:39:22+00:00",
-"first_seen": "2026-09-24T17:43:33+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "454d826935ce430a",
-"title": "Upasana Kamineni to assume charge of director, projects at Apollo Hospitals",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRiZ0RFQ1VCQUEteHZfSFJEclQwLWlBVzZpTl8zZnVlUGNISy1wX25xd3lMcUVGY0h1YUR3RkpBUThkV1UyalRwWGZSRERnSVlqemRmOFdVX1NxdE93cjlENVo2THNXdllUd3BIOUg5QXRxQWZkZ1ZjYkdpVWNybGV5WFRxcXNDLTdQaDNQcmExT01rSFhuUGM0WmF1alRoZTdjbw?oc=5",
-"source": "Medical Buyer",
-"published": "2026-09-24T15:39:22+00:00",
-"first_seen": "2026-09-25T03:38:33+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a47eab29a0d1deda",
-"title": "Movements. Upasana Kamineni to assume charge of director, projects at Apollo Hospitals",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRiZ0RFQ1VCQUEteHZfSFJEclQwLWlBVzZpTl8zZnVlUGNISy1wX25xd3lMcUVGY0h1YUR3RkpBUThkV1UyalRwWGZSRERnSVlqemRmOFdVX1NxdE93cjlENVo2THNXdllUd3BIOUg5QXRxQWZkZ1ZjYkdpVWNybGV5WFRxcXNDLTdQaDNQcmExT01rSFhuUGM0WmF1alRoZTdjbw?oc=5",
-"source": "Medical Buyer",
-"published": "2026-09-24T15:39:22+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "088dedac37d53cfa",
-"title": "Billionaire Mukesh Ambani's Reliance lines up $1 billion bond sale, its second in three weeks",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0Z0TTdST0pHODVES2ttUk4tNVBlV2NsbXNlUzh5anVHVUotZ0Ryem5kNVFHal9RWVd1TjVLSTI1ZWlNaXFON0NTVEhCeHd6c3J2OGI5ZWsxU21ySTZGak0teS1uMDFEa2VxTlJLLW1lanV0SVM1QVpLRHBrVWtMSEtKWTdHc0F5dUd5MUc3akd6UlQ4ZVg1Nk9ITUFUVDhucy1wbncySkVZN1NzWkhBbFBqOXUwQmI2OFdlODR2ZVBtREZUeDlPZzVNbFhlc2s?oc=5",
-"source": "Billionaires.Africa",
-"published": "2026-09-24T15:30:55+00:00",
-"first_seen": "2026-09-24T21:42:35+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "79968c82fe275737",
-"title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors",
-"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPMTV0R0hLRTVSRG5IZmp5TWxEWHVLTEJIZWhJaUFZbEo5QW1DQlU4R3BBcHQ0VFduNnFMcjlmU2ExTDJCamNBNWtrQVFnLUNTWnA0YnFXNF9TekFlZ18xQjBWR3JGMGFoRHV2M3ZBcXlKTTdNTGJkWHlwcE4td3pzNzFpenJJVFNUTDZSY1hjMVFTV1VtbWtqM3lVVXlxaDYxUjNjcWJlT0RuYmNLdmpyQzhmaUtLNUFROEFJNHBaVWpmUU9FT3VIQmY2UzN1czZTckxxOU44eG1tT2dnMFpMTzVuYTdqQmwzV2FzMThQOU5JU1pfLUlqd25zNE1oN2lBdjd6cjZWc3B4ZFFMVEROeXV4bWxVcXU5TWxPaENTUFptRGFCOEJ4VTQxX1pEN2k1VmlrNU9pdEtkNnhCUy14b3hubEQ2LVNmbXptMGdhQkNnMzhET3o2dlRyVnl2dFN3eWUwODFB?oc=5",
-"source": "GlobeNewswire",
-"published": "2026-09-24T15:30:54+00:00",
-"first_seen": "2026-09-24T15:46:54+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
