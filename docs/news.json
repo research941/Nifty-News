@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T22:34:26+00:00",
+"updated": "2026-09-30T22:48:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1375,6 +1375,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a6500406fc37269e",
+"title": "SBI के शेयर चर्चा में, म्यूचुअल फंड शाखा ने IPO के लिए DRHP दाखिल के बाद।",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnZBUXZfdE9mZ0RKZWFIZUZpRS04NlU5NVpPd3F0OHNKY3prSlZ1QW8tS1RLNjZSQ0dNR0pKRDBHS2ZaUWtYUWY1WjhQT3JYY28tVGtBa2EyZGdVem9ucE1SWWx2NFZYWTEzbXdrYUEtSXdoTGE2MU1aZzJZdlJWbzNKVnpPWXRlc2ExU19kdDZvRnQ3bU9DNnNMTkM0SHhnZVE?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-30T15:22:39+00:00",
+"first_seen": "2026-09-30T22:48:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -11342,6 +11360,22 @@
 "source": "ZigWheels.com",
 "published": "2026-09-30T02:08:41+00:00",
 "first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "80c4a0b8752029a4",
+"title": "Maruti Suzuki Victoris On Road Price Piparcity Sep 2026 - ₹12.68L",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeG4yMDBpY05rdlpya3hiT2NuazR4VVY2clg4LUZxXzhnWGROVEVnZExBaE9IaTVGVVRIN3pUdTQ2dXB6dE1uV2ZvcUVyMlgtdFJxVzhvX21DOWZqQ0xELWZ0NjJTRHpzNUJ6WkJwQ2NTYVlXRXFUTDgzRG50Y2lNNndzVWM?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:08:29+00:00",
+"first_seen": "2026-09-30T22:48:14+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50387,43 +50421,6 @@
 ],
 "tags": [
 "Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b7c584027ccf8f22",
-"title": "Shriram Finance Q1FY27 PAT surges 59.79% on strong NII growth",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZm9SN2xqTDZxT0dXZERTZkM2ZUwyX0RKcWVadFM1am5pdXIwVld4N2VrNzBma0drTTZrVi1DcTZEdTE2OTk4NGpTN3hFUDRlQkdMTHRfUEhYTkhGSVRJblRJOGxIV1dITFNQN05PNFpFWTY2SzVKNHVKY1FoSnBOc081c1RBcjRBN3FreW5GWlc5ZF81MTVFV1pNNGZ0NUlLLUtxd0NJei1yeHNwR09tZHFyWC10dWNGVXNJ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T21:42:51+00:00",
-"first_seen": "2026-09-25T08:46:12+00:00",
-"symbols": [
-"SHRIRAMFIN"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "e2b6967a4118b08e",
-"title": "Rolls-Royce Adds 18 Trent XWB-97 Engines for Philippine Airlines as Buyback and Dividend Momentum Bu",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV0ZlNlByQ0lBUUdldTlyRXA2aTU3dmlzR0dGOTMtS05jTDlWNWF3ZVhMUF9BcGRvdVMtSEtGNHkxTVlzNzg1YkxfaGE0LVY3WWZ5WUJJcTRDUldETGtyYlR6RFhQb0YwTFZQRWlKN1VQcnU3N3FlLV9McHAtSmZKdXViOEc4X2NmZGphZ2dNUFhEdW9iVVFzdWhWSUh2NC0yWVVFLVg0aWtLRjR3OUpJX1BwMG1hX0NZbWdyZW9ZWnVLc2VTXy1XNnQ5UE5xWk5FRHlGQjlR?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T21:40:30+00:00",
-"first_seen": "2026-09-24T21:54:59+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
 ],
 "sentiment": "neutral"
 }
