@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T03:12:08+00:00",
+"updated": "2026-09-30T03:29:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,7 +441,26 @@
 }
 ],
 "errors": [
-"Business Standard: HTTP Error 403: Forbidden"
+"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
+"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
+"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
+"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
+"Google News [SBIN]: HTTP Error 503: Service Unavailable",
+"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
+"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
+"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
+"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
+"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
+"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
+"Google News [BSE]: HTTP Error 503: Service Unavailable",
+"Google News [TCS]: HTTP Error 503: Service Unavailable",
+"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
+"Google News [TMPV]: HTTP Error 503: Service Unavailable",
+"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
+"Google News [TITAN]: HTTP Error 503: Service Unavailable",
+"Google News [TRENT]: HTTP Error 503: Service Unavailable"
 ],
 "items": [
 {
@@ -618,6 +637,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a3c6854e24d05834",
+"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Reports Weekly Losses",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-live-updates-30-sep-2026/liveblog/134577783.cms",
+"source": "Economic Times",
+"published": "2026-09-30T02:33:16+00:00",
+"first_seen": "2026-09-30T03:29:31+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50400,22 +50435,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f61cb60bd53f788e",
-"title": "Infosys makes Chainlink its onchain standard for banking clients",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHN0d1Z0VjdvUlRDaG40TFN3YmpydWdGUm15RVFLb3RvaXZqbXIySlpmX01yV2VsMTc0ckVsaFpneVFGSWtRNkt5TWRJcVpDT0RQeTJUUnBITE1kRXg3NTRHVkZSNk40ZnNKRWoyemd6LVJuR2pfQzZkZGJqTkhjY3hlNXhzUDA?oc=5",
-"source": "CryptoRank",
-"published": "2026-09-23T17:07:06+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
