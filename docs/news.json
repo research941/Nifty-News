@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T21:34:58+00:00",
+"updated": "2026-09-30T21:49:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "6d97f387119777f1",
+"title": "Entergy receives $13.7M in federal funds for power grid upgrades",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlhNbHRJYnVZeHBsenM5WExSLWNlcW10Z2YwUjdxeUVKNXlHRjYxQ0dnOU9ZNmRTUnlNRmNyX0ZoSWNIQmd5WkdBbF81eEFVQVc0SS1YeV9KdjFFYmVBNU51ZjNLWUNnOXdHa18yMEd2eVpXVm12aW8xaG1iRTdXRkxLekdOZC1zR3RObVdzbjkyV3Jvd1N4MEFOVm05Zw?oc=5",
+"source": "The Arkansas Democrat-Gazette",
+"published": "2026-09-30T21:36:00+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "8c1f1a1c13321f28",
 "title": "Hdfc Bank Limited Announces Management Changes",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlFHeDV0RXFOWmZrdWVNSllKMlZaREtZN2E2VHF4TGF5WkZHd09MMnpkc1NNYWowYjREc1R5ZXlPT2JQUXA1RktNcnI2NVkwM2swazJCX05hNUVZdU9WUXRnZGlxR0R5VFpoVVBGU3B0NEhBSnJmdXJMTi1MWTV6SWo0cndzNXROMXhsd3RWcXVobWpmeEhRa2puc0FIclNO?oc=5",
@@ -685,6 +701,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "27230aecb31a73bd",
+"title": "Is a high P/E justified? What Titan's 22 years actually show",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzRtMnpYQ1NDRUxCR0JmYV93M1NocXRBcVZralRUTWU2TVFzcnlGZElmOWZRX2FGR0Njem9VUFJJMEN4XzlTaDcyTElhM01HWkhPYjZXQTFZTnRMQVhCVjFpMXhKb25pUmRGUjN1a1lIXzFwQTlNZDZaUmk4REhrSU1rUGUwSTlkaXIyVlBseWdfYmh0ckE?oc=5",
+"source": "Value Research",
+"published": "2026-09-30T18:30:29+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -11220,12 +11252,76 @@
 "sentiment": "neutral"
 },
 {
+"id": "fddd15631fe3ea17",
+"title": "Maruti Suzuki Victoris On Road Price Osian Sep 2026 - ₹12.68L",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Wnp5b3J1c0w2aGt2b2tPLUc5aTkzQnBqUmROTjFzRlp6aVVidEpsSnBNdGZnVjZoYlViY0FBclU2SXc0aFdmZzVWZ0t3T1JqVDFvY1AxOEIzRWIxTGdJa1M0YWJnc1Mzd3lTTC00MEs2TElSWmVjXzlpTktjaTg?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:08:41+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b3424d24970c3b8d",
+"title": "Maruti Suzuki Victoris On Road Price Tadepalligudem Sep 2026 - ₹13.29L",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFF6Vk9WeDdGQ25JdHFXc0tybkpXREh2QWptdkpFUFF6SExiUkVEVW9YX1FfaVBEelJYeWowU3BHaU13ei1fUDhySXFFY0ZCOWpDR1BaSFpxU014YkI5YUo3cktidGtNRnNPMU5ZTzQ5MGxCdFNLZTBTZDJxLWh3cllCVVFKYXlKbFl3?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:08:12+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "98711a37266b9aeb",
+"title": "Maruti Suzuki Victoris On Road Price Tuensang Sep 2026 - ₹12.00L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdW5Oa0RORHBUQTdtN3JCYVRVVENBOGk1Y05JN1ltSWNPbHZJQ1paejc0Zk5SM04yZlNMRjFxZFNfb3J5X0JQOUZaTWQ0UVFrdTVLZVRHR3o1VzBuVUpwXzhKX25CU3hNQkhlc3IwdVNBZGpUNkV6ZGJaSXQ1ZnpOX1RLOA?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:08:11+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c98474fae2f3d8c0",
 "title": "Maruti Suzuki Victoris On Road Price Parvathipuram Sep 2026 - ₹13.29L",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbi01S3JoVG9OSTNwTUtjX0YxNWxRWWhOamZFWDYwVlk0cFlqT0hWbXN3bGlRWEItOURLOWdTMGdFVFdYOS02UTZ3WVQ2emJvMnZpSmRGYzVZWi1LMEd5Q3ViUTVXNVNNVVlWSm9DQU5haUF1NjYycXRxelVKWUVNM3V6RzNscWp5bUE?oc=5",
 "source": "ZigWheels.com",
 "published": "2026-09-30T02:05:13+00:00",
 "first_seen": "2026-09-30T05:01:02+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8c3dd18a3a86062a",
+"title": "Maruti Suzuki Victoris On Road Price Phulbani Sep 2026 - ₹12.53L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVlCVlFXcjF2NTlva0NwTHpJWG83bTJJX1czSC1xSDFFV2FudW0tY3VfcjdTZzJ4SUVNcXBVTjhTajU3eGExN0J4OFZnTVdxWTd1LVpNNk9RRzR0cWpUaXRGS2hZYVVDWC1GeWI0dHRLLWZZVFNodG5CSl9WSVNFRmNiSQ?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T02:05:13+00:00",
+"first_seen": "2026-09-30T21:49:40+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50334,113 +50430,6 @@
 "HDFC"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "506d73199554ca5b",
-"title": "Hindalco Industries appoints Kapil Agrawal as CEO (Designate) - Copper",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUpEdHpibndMUERrekFBd1VJa2wyamJCc1hJUkNOc3R2YW9xNjFNVldVWm9Lbk1UZkNtSERnQlo1RjNUZDMwbEVKWXZGODh3elJJYmVnX182QVl1UmdOWDBoRFdVVG1xVXZJbXJ1TEJpYldfb1RQVlo1MWFfZXdyRlBJQ2lQWV9QbWU1MmtSR2Y4VEk1dzhIM09QbHItajhVdjlDYU4xZ205X0ZWbHF0eW8zRU9WSG1YNFBGQWVqTjU?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:53:32+00:00",
-"first_seen": "2026-09-25T06:54:06+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0ffa2b5f222dc7f0",
-"title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1jS2tHNDMyYXkwUW1HNWVPbV9CQ3R6ZE9ja1ltTjMtQ2RpT3A0QUZLdUN0WGRoSkZ4T2hIZEQzYkVhTFlWaDdfWW9XeWd6MU5DMGEwd2FwV2R6SEg0TEgwVnV4TzB6SENyRzU3WUwxY2lRMzhQM1U1UmN1am1tVGx3VUhpOVhGYTBSTkdjdkd0ckNZaDVwZTVXbTVoVW4xRGpzWXVCZHA4Vl9kSjdBbTJ0aU0?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:52:24+00:00",
-"first_seen": "2026-09-25T05:38:05+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1f1208c66ced9bc1",
-"title": "InterGlobe Aviation appoints Kanwal Jeet Singh Bakshi as CHRO",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWVXVU5TRjl6LUVoZ1NET1lKaHVhNUJLLTRqT09RMTJCSWJvZ1lTNFRZV1hPTGxWam5KRlUxZ2x6U2swOUE3QVlUWmxFT3hKdkdhd09rTGxLdzVoU1ZTUTFFX3dsbDUzRHc3ZFFJQTdfT2R6dEJXRDctcS1jbjdIWHc3TEdiNDFrYms5SWxJbU56STR2bno2NjJaSUZWS0YyeEF4T2Y3ODE5ODJCdmpROEo0OXdzbFJaMHc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:50:30+00:00",
-"first_seen": "2026-09-25T16:19:45+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ce4cba7ece4be1e9",
-"title": "China Southern Power Grid Energy Efficiency & Clean Energy Co., Ltd. Proposes Profit Distribution for the First Half of 2026",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnBDdHNMa2NmdGsyM3ItTDNhRnkzLTFpRHdJa05qeHdHdU9yQWtTYnJONWMtQ3NaREZMWWZxRnFFWjFRQzV4cHYwaUN0SHJlcFhPMzVIeXdxeXJ5U3FOU2pxMm02Z2dGbm5mVUxKZW1QQlN4MWRGZzlhT0Z0Q2R5RnROSDVIcG5uQzZWZ1FQVF9Xb0tzSFV0SEtTUDFtYXFFODhCN0prLXlxT0cyWlNhZWx2LTMwYnE1bjMwNnVLNGpQbm9UeDJSTVNtOWJuc3pVZHhGblg5WXFkT0stQ0MtSkpB?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-24T20:50:25+00:00",
-"first_seen": "2026-09-24T21:17:32+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "325a1438a11e5a02",
-"title": "Reliance Industries meets investors at BofA India Conference 2026",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOW5BTUtzMHNoR01SYUMydkFBekNEWUY0MTlMSUhFdEZlZTRYZlI1SUVNS2FFTkZjOU1zNHljV05vWGJxSUJDV1ZjUzVqRXk5ODRFMWluUFFsLWx5bHZPVHlFem1id1JnNDBqeFZnV01sY1NnZjhMdDhOUnBVTENxMW00eW5PUVpiWDVuQjNyLVZwdUJETnJwQnlOVG5tYVlOb3k0WXIxSUxiVEVWWkNUQ2IyYXBzenltcFdjdVpUSEkzZw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:46:58+00:00",
-"first_seen": "2026-09-25T16:57:08+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "03588edafb4250b8",
-"title": "RBI approves re-appointment of N. S. Vishwanathan as Axis Bank Chairman",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSXpRQUtZUEUtOVZ0U3NyeHdaRWRIVS1oV2M3RV90Si1NLTdhcS1UbS0taV9QOHlQZ2ZZMU1mR3ZjRlZmLUhncWMyLUFyMnhRMDF1OHVIRGlqeFo2dXBBdGpnLU8zR1VSZEhWMkFCN2lPS2c4Z3dyWlIwT2thb0xWQkRKd2JRYm9YODhoX2p4T2g3ZnBQLUJFdm00cGFlOHhYTHRuY0RQVEhUU01DUFNYMGVtRjFLa2t2YXZuVHJIUFV4SHU3?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T20:34:43+00:00",
-"first_seen": "2026-09-25T07:48:40+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
 "sentiment": "neutral"
 }
 ]
