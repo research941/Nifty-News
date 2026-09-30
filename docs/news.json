@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T02:58:16+00:00",
+"updated": "2026-09-30T03:12:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "afc77d2366611fe3",
+"title": "Apple Pay comes to India with Axis Bank Visa, Mastercard credit cards",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1MtbDRtSk02Sl9CaTNRQ0hJZWppWklEMjJLVVU0ZGVEdzcxNFdfaWVHeGVya2tyR3VLU0pIVlJXSDRVYWxBTWxVS1IyTW9oai02SXBKLVN1UEY1MV9feUtCZ1lyOVZVNUdRWXlwQ3B3bnRGcEYxMmE5bENuVnBtbDlUeEVWeDgxUGtyVjBmaHBpOHJaRjJjTlhXUkE0VzZkdEZWNWFTODI0S2RfS1EyU3pmb19zRGtUSjE3QzRjUmtPZWl0RUd0RlUyYUc1TklkTFdDLXQtbVE5bEUyZWlfNdIB5gFBVV95cUxPTWpYcEtjSXlDU2ZlVExJMG9xN0ItYzdSRHZRYUp0SG0zUzZxTkdUT1VOUkxmZVJtVlNIM0kzQTZyODV5Mko2ZW9oenhjd3hZcWk0bTZSZFd4OExveE9HMWNLazdGMTBxQTZpMWtpZEhaRlg3V1RtQWNyYXEwT3hDdXhfVF9hQVhWcEFxSWZyS2t0NUJSUTlZaldpaFNxZ19rZFBHUTJqZ2EzVmtJSmFySlcxei1MeEQzb2JtWmJjczVBV0tDMXpDV25wWnlrdGNOeEFWZHFfMFpILWZMQl9sNjJCTDdsZw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T02:54:09+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0db37ad3f30d0994",
+"title": "Apple Pay launches in India with Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3k0X3ZNVnZ3bXZfNFdBdVZpS0FaNGRkVE00TnU5YllNQjdwVk5BeFVpLVlnY05JUm01ZXVFREs1WGFqUVVRZ1hzNl9nWXJ6N2NNcnNnZFh6V2IxY0lsbG02U0x3Tmgtd3QzRkZTQmNfWEQwNnVRVTJ1UXluVndLZHpSVQ?oc=5",
+"source": "insideflyer.com",
+"published": "2026-09-30T02:49:46+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "495fa721cd8b9ed1",
 "title": "Kotak on AMCs: Buy on SBI Funds Management, HDFC AMC upgraded, ABSL AMC cut",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0ZwbjRzNmtVcVhkcS0yREc0MnZSLUJSSkFWWXZabEhKTXlnZWkwRGN2a01YY1lVaGkwNExpc3hPd3dRMVNiM0I1Wjk1bmM2MzFXV0k0VVZnNGRrbjBGVVBaQWpzSnB1VXgtb3dyV1Vkc2NjaGU4UTRLTC1LUHV2anlXUEhkQUt4U1owOF9YZjV2LW1yOXZIYUNoM2pyTGc0eW5VNGtXeV9Fclk1ZWo4Q1dqMlJ6cHBxRDlZRzVaWGZMV3hvOGZhQjJfU2g?oc=5",
@@ -509,6 +541,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "0b798712f7007c91",
+"title": "GIFT Nifty down 60 points; Gland Pharma, Tata Steel, Adroit, Elevate, SAIL among top stocks in focus",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVdCYVhlNkljN2lYMFd6LTY4LXN0MnBzQmdQU2lJMFk1b0pQRFd3WVBnRG9tMlEyelFMUGZFQUEwUzA5UElzWVhDc2doX1gwNV9NVDUza3JPR0VHRHI5N2NWazZtT2xkRGwwcXhVbTNfT0FKQmV4ZnJKRFVNSlFHUzY0d2t5ZlNIdHZnSFJnb01TSkMyUnowS2FhTnpia19LalBWSU1BUjFxclBvQjFJV19rbEFBZDZpVko0QnlIUmFWdmc0MzNob0ltRVRRYU8xdmlsQkNmek5RcXVGWDRqbXpucElJX0xJV1ZVOGd1b0pFVVhkMlHSAfsBQVVfeXFMTm4zd0szTzJ5NmhETnRsVkJhdWt2SWJKTmxHY0tKUkZ3dFVfeEhRcGhuTjVjYldHQ1JoNDhZTjd6WkVIa25GUlhqcnlWejNBdmZPaEh1OVlENW0xcEFhd3RHSVhVcFQ5NE5SZW5XWkxjLUVVZXVvYUljdXNXOHRWbGQ3X2V0SjlpYjVyZW9DOFZEalQ5RjdRZkdlM295ekY3TkFkdDhCS3hXMjRiMGZGWm1VUGg1Z09jR1U0Ti0tRzdmTVM4a3NFMEhvRldhWWl0ZGF4M3lzcjg3azg1MEJuenlNeXdTYlRjWjU2REQ0TlZTdzJNbGFETUFwakU?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T02:44:54+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "30c8cca844f549b4",
 "title": "Stocks to watch: NLC India, Medanta, KPI Green Energy, Coal India & more",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSkkxeXBONmhGN2dPN0ZFdUdONUJseHkwb3V5blVrajBTWnhHSkdySmt3VUJuenRtbW92VUIzZS1ZYlhoTkhIMkYzd3FVMEVIckFxSng0MVZadXRHcEdDVTFNcGNGaWI2TzJaRTUzNG02bTdHSUFKcTNleUFDRk9FQ0VraW92RG5mQVZnTFJ0TGVZSmJLOGl5NEVTZ2hNOU9QNXlwZk5qX05TM0dkYUgzZHFLWWt6NnZLUXdkdWotSnEwYzh4UW1OZ3VwQ3dCOE5aM2FQWkJhSXZmcnJhV1g0?oc=5",
@@ -522,6 +570,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fad76e059f9b869b",
+"title": "Shriram Finance shares: Key reasons why this stock is falling; outlook, target price",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeFdhZ2xxNll4U1VNYWJVOWgyMVFuVVJXUUJISGpCbVY2d2lTUlN6dUJ1NEpNaExBQnEtcFJmUm1ZNnM0U3RvU2hWTS1NU2xsU0FEZHhPZzY0V2V4eHFUV1lwczBMZTZwSHE5Vkt5RWl5VWliZ2xqbjNTLXhPbUFqZXJlNTNVVW9WTTAzcWthRzVSaE4tUVpqa2I5VlZPaVRwZHlhbTZhRTVhbUNocS1YTGJaS29IMm5zOXVFbFNXNlYzbmxZZjJCSGlFNXFhWXlZbHEzSFU3MlpOYlVwb2hGY21Wa9IB6AFBVV95cUxNaDhnXzFMcEdOdExabWlQRC1JdkVxcHFyS0d0aEhKNE1JY0xRNGtvbWw0SUhxbnljMXBDb3Jac3NmNmJwSWRNaDMwa1BpeW10ZU84QUl2ZHh1VzdFMWstVVVIbF82RjM5ZzhZVS0xZ2lxejhWdWdlWGlxSmRzUVVidUg3dkZtdnFsMWF6QXJBdVZNTDgxTlpyS1daWm9TVW1BYU9hWWdIU2VuUzlvekVqUTN0X2NsT2ZzN1RFN0NJQzFNME5xQm9fYXh0ckxCRzI3cF9jcjVkMEp2ZnpCd1BDaEM2amRiNmRG?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T02:40:46+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Rating"
+],
 "sentiment": "neutral"
 },
 {
@@ -723,6 +789,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "56e45b1b1a6f8cde",
+"title": "Nifty 50 rejig today: BSE replaces Wipro from September 30; key index changes investors should know",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0hwQWxmeWRuek9XZnkyZW1QSllySkNEZ0Vid1EweDdtU290U21WamQtd0RpQnBLYVBjT25oTGRoWTl6a095RUNKWEZhZG1TRDdlTHF2ckc1VzVPR3lGZGgwRXhnTnVKN1FQdDFTNEl1bnFldldXSmwzemdHRVVpRGo2NUhVb0Vtd05BeTJSVkQwV0VWcXBHcG1fTTB1c2FJLTZyTGVFWkZDcnZSWGMxSkhYSjduRE5IcWhQYXZOV1MyRlpfb005MkdWY1JwVTloWjJIalRKVVhNYWJZZmVaeFdpZ9IB6AFBVV95cUxQOGN4dVJMMTVWWmd5NG1GMDBCNDRXTy00ZDNZSllTeXY0TTRfTHlaT1V2UjNmajh6SEhnNlZzWWdBQ1c5aWxhcGtpZGttWmlwYVI0LTNXSW8zV1AzbktQZW5xM252YlV0WWJXalF1VjdPc3VSblgyY2xmWTdsV01Sb2hBeEFMODRlUmpRSV90Nnl6WFNVMlFad2xoWVA4WFh1NG0yOWJfNVRfU3RkbXB4cWYwZkJWbEZZMGtPdXpVRnczVFl4Z3NQRWNCMk4wRTgzQ0pCaHZkaDRVY2J1cWk0ZGtpSXhhRTct?oc=5",
+"source": "ET Now",
+"published": "2026-09-30T01:21:07+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "db07a327cc25c4cc",
 "title": "Apple Pay now rolling out to Axis Bank customers in India",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDBWR0hLSWRBRENvS0RJZ3RhU3dabmVNOUVycDMyLW9RTGhSdnA1d2NYekJHUGZoaXB2bWtYTzJrTXNvajlERHZfMWg3UC1FVldTcTU5V0JUZWhYRmtMaVRsa19VaVhDU1ZLY2FlYzFxY2VLY05XUUdVc2QtOURRSXh1WWtQWlNIZW1lQi1mcnF5QTQ?oc=5",
@@ -816,6 +898,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "acecf0f0cd569c4e",
+"title": "Wrkr CEO Trent Lund on Payday Super and Growth",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXlJSjRrMV9iYXp4VzUtRWJpQ3Z1V2JDUXFHRVljZmRnclk5RHNqank3dFR4OVluUzVoZ1Q5cEduZ19uQnVmenVBV0NzVUlEWXBQa3dtX3JzcjY5MXhlU2lfQVF5S0ZfVjBDUTJOR3AzTDNlWHBqZkFoejBFNDVZODlMZGtnRGhrNk1hcVNodERJcmlFV1I1UGpXV2poRDVkTUJGX1VnaVJmbUdz?oc=5",
+"source": "intelligentinvestor.com.au",
+"published": "2026-09-30T00:47:16+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -3035,6 +3135,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a52e98d40f154867",
+"title": "Briefs: Navin Fluorine International, Coal India, HURL, Madhya Bharat Agro and Exide Industries",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlJCS2I3MDVDZl9ya1RQVEY1ckprRTB1SHRWUGh1LTI3WjFMRFhyLXk5c3l0WTJZcVZwSi1mbFVuSC05WG1uRmhBaGZjcDFkQWJ0VkprNnZSM3g4Z0JSUjB4ZzBnaFVZWVlxNllUWXdOX3E0dGJBSFVLY3Y5ZkZmRE9sWFlEY3VxTjUwbklvXzAxVEdnNTVFX05YRTFpbkhMRHJOM2ZNTVFwcWpxX3ZYSDlqOXpqLVN1amNFNlN3NE12RjVKcG5GOFpLUUVmWEtpblRiZ3VVV0lVeTc2MWpv0gHfAUFVX3lxTE9WUkJLYjcwNUNmX3JrVFBURjVySmtFMHVIdFZQaHUtMjdaMUxEWHIteTlzeXRZMllxVnBKLWZsVW5ILTlYbW5GaEFoZmNwMWRBYnRWSms2dlIzeDhnQlJSMHhnMGdoVVlZWXE2WVRZd05fcTR0YkFIVUtjdjlmRmZET2xYWURjdXFONTBuSW9fMDFUR2c1NUVfTlhFMWluSExEck4zZk1NUXBxanFfdlhIOWo5emotU3VqY0U2U3c0TXZGNUpwbkY4WktRRWZYS2luVGJndVVXSVV5NzYxam8?oc=5",
+"source": "Indian Chemical News",
+"published": "2026-09-29T13:00:00+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c6b4adeddab319d4",
 "title": "Coal India Signs MoU with Ministry of Coal for FY 2026-27",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWFFTUNyU3JBTmNKUDd5czNfV2RLT21tTHpHU3FQbWN6eVI5UzFIalpjM21WU2h1TF9lTU43bm5Wc2c5UzFpN0JuQWhWZlcwVDRjaFBXdFM4ZkNuc2dJUXpUY0g2djBib3FmOEt5T0k5b3FJdzBWcUhMT1VwSDY5ZmR2YVVaUFM4c3ZiVjl6NmZmVjBTV1U3YlZVVmVBSE1fY29PbGRXTk1wWV9wc1k5OA?oc=5",
@@ -5019,6 +5135,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d167291d515fd8ed",
+"title": "SEBI drops shareholding case against Vinod Adani, finds no proof he controlled offshore funds",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVHNYb1FXaUpKbFRJaEdGS3ctWGpLOF80dDFpUmZqbDVyMjBieFVmRW1WNDJYUmtoUWYzTVFHRjVaTG5uckl3WUF5WjBYa0toUUtnUEJPZElDdS10T2tYUHRPNzFnTVQtS2FSSHBLZWM5UEVnUjB2SUVDQ2VFQ1F5ckx3RlNqSnd6S3A1Um9aTzY5RUlNM0NsQ21XV3FERms4SlkwckxFaDVCVmljREFyVm1KVTBROENZYW5ZSTNkZWRicDUtUnp1QzVZWlJ0c3I1OVF3Z1VvUk96XzF1RDBGVTJybDR4Z9IB5gFBVV95cUxPVHNYb1FXaUpKbFRJaEdGS3ctWGpLOF80dDFpUmZqbDVyMjBieFVmRW1WNDJYUmtoUWYzTVFHRjVaTG5uckl3WUF5WjBYa0toUUtnUEJPZElDdS10T2tYUHRPNzFnTVQtS2FSSHBLZWM5UEVnUjB2SUVDQ2VFQ1F5ckx3RlNqSnd6S3A1Um9aTzY5RUlNM0NsQ21XV3FERms4SlkwckxFaDVCVmljREFyVm1KVTBROENZYW5ZSTNkZWRicDUtUnp1QzVZWlJ0c3I1OVF3Z1VvUk96XzF1RDBGVTJybDR4Zw?oc=5",
+"source": "The Hindu",
+"published": "2026-09-29T09:40:24+00:00",
+"first_seen": "2026-09-30T03:12:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
 },
 {
 "id": "9b4832c10e1e3d38",
@@ -50282,134 +50416,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a8d13b1e935f1c3d",
-"title": "Hindustan Unilever के शेयर चर्चा में, कंपनी ₹2,000 करोड़ निवेश योजना के साथ निर्माण बढ़ाने की तैयारी में है।",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3lneF9LNlBhVHBEamZQRlpPOUk2Rjl6cHhRbWZMc1NnSDV1Nk9ZNUpIZTNhMjJUX2g4b0R2M1Y5WUtLaUdFaU9TT1ZQdF9WekJhWlRxck5OMWE5QUVEcE9aOUtKeGhzMEJLMElFQ1ZvcWdqTXBfcE95di1uWng5U2JGQm1tZWh5bUNwWU1PaEZxdklDRTI0ak9qN25ZYlhsajBZdDNVdzRzaVdheUR1SDVuQ3BSelloTmdXODdvZHRlMzVzMDMxSDdLSzYtT1JfS0pNQXdCM2xZWmlqZnlEbEVibw?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-23T17:04:09+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d695056795da2909",
-"title": "BEL Signs MoU with NIRNAYA Systems for IT, Cybersecurity, and AI Solutions",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjlUQjREVWZGNVpQVVhqOGs4aVBzcmFSQ1lKTHdSR0lQRzlvRWtLVGpjV1gxWWw5TlozaGw0MjZsSFAxSk9LSkpzT2JpaGdpcWl0Y0QzNWI1QXJfTVhMblN0WWJxQVpJX1JYY09qTU1STTJpSVNqaTFqQTZsZXlJOTExNmh0eW9SeC00TEFZMHpaa0lFUXVOcHVFYVJ0eVBHYmZLX2E2T2N6d2hiYVE?oc=5",
-"source": "CXOToday.com",
-"published": "2026-09-23T16:55:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "49c51fff462fe16b",
-"title": "Sun Pharma and Fashion Designer Christian Siriano Put Alopecia Representation in the Spotlight During New York Fashion Week",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVHRLMm9XR0JzQWxGRGkzV0dpb0tnVjZWNW1VMDlLWElad2VERUxfbkljbGptNktVMWZlUDU0VUxUTWRabHRkcUtQSlJsQlVVM0dfQXo0bl9LRy05STVoSzYycndLLV9LV3h2YW9JRzRoYVdxVEdta1Q3bUxRcXFMRWIwdGYyWFF4TEs0UTE3RnNJRkY5Q1VIVkl3QUsydzlCSThSZHlQVkN6cU1WN1pQUzhSOHZLbzZyLWxWLURLQU5aSDVRcTY2d2k2eG1uN1lNWFNvdWIwOFZTQXZlN2hwQU94SDA?oc=5",
-"source": "The Dermatology Digest",
-"published": "2026-09-23T16:54:21+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cb38fd4e74bbdb47",
-"title": "Maruti Suzuki Eeco On Road Price Anchal Sep 2026 - ₹6.45L",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tOG5acDZ5R2hPRGpkUWdqNjhnMVNCc2xsMTByaHVWRkVnd05LenI1bm43eDN1QnVjQ0VHOWt0dDlNSVcxMDl0LTE2ZjRpLXoxcWZLdjVzcmFmbDZjeGNRdVlQQmFVdy1UYURpX0ZReV9IWldnRHdaV2REYw?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-23T16:51:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d136cc9b4f551e90",
-"title": "Top breakout stocks to buy tomorrow: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOGZiM04ya0VvRmdwQ3VzTzh1YXgzbDJhVXQzYWxOMWRWa0hTbmV1LU5xZzJFUXlLXzdUaTRNSllSSHFQbjVTdzNTZE82NGxJVWZoYmtlQ2N0WEI1WlZtdHJkbTlaMERhNnd1dGswN1M1djNzNzhybkxRTzJ0NDZCQWJSdmlZcDBtYTRQQXVIWEt6TTVpMHpBb09TZjdJZGMxS1c3YVVLcE9rUUl4enNrUmYweE4xQnRRUWFsTmhJdlpGbVNtaTBOU3RWS1J3WmlSQXNQV0FHT3pWQV92dHZZZm1vMzZ5bkZwbVVORGhIMGFCUGZNZVZKSWVCRmMzZ9IB_gFBVV95cUxOOGZiM04ya0VvRmdwQ3VzTzh1YXgzbDJhVXQzYWxOMWRWa0hTbmV1LU5xZzJFUXlLXzdUaTRNSllSSHFQbjVTdzNTZE82NGxJVWZoYmtlQ2N0WEI1WlZtdHJkbTlaMERhNnd1dGswN1M1djNzNzhybkxRTzJ0NDZCQWJSdmlZcDBtYTRQQXVIWEt6TTVpMHpBb09TZjdJZGMxS1c3YVVLcE9rUUl4enNrUmYweE4xQnRRUWFsTmhJdlpGbVNtaTBOU3RWS1J3WmlSQXNQV0FHT3pWQV92dHZZZm1vMzZ5bkZwbVVORGhIMGFCUGZNZVZKSWVCRmMzZw?oc=5",
-"source": "livemint.com",
-"published": "2026-09-23T16:48:31+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3aacd0b997de58bb",
-"title": "Top breakout stocks to buy today: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb2twSDZhTVhSbmJ3UlFWRzNVMzItUklCMFBiRlpKa3U2dDBQZHVVWkhhdzdQWlVlOXU1cWxFV3hiN1VDY0s1dGhJTG5kQmdiV2MzTklEV01wUzBwRHFyRjJMQVNRZXFPZjVVUVdfUXZxVHVKU2VHaDg0emZ2ZjlxQlRjNTE1M3Z6VENMYUxoeUQ0NVExQVVlNGowdnUtWWZnWlFCcWFZbTUwSnBSUGhJZW5tWW8xYW9ELW43NnhOX1lmbWdLX2taNUtpaGlDTm1ha3RybEZ2eUNtRzZJT2NTaUZOb1o4TTlPdnNtSDhBaTItUlMtckN3c9IB_gFBVV95cUxOOGZiM04ya0VvRmdwQ3VzTzh1YXgzbDJhVXQzYWxOMWRWa0hTbmV1LU5xZzJFUXlLXzdUaTRNSllSSHFQbjVTdzNTZE82NGxJVWZoYmtlQ2N0WEI1WlZtdHJkbTlaMERhNnd1dGswN1M1djNzNzhybkxRTzJ0NDZCQWJSdmlZcDBtYTRQQXVIWEt6TTVpMHpBb09TZjdJZGMxS1c3YVVLcE9rUUl4enNrUmYweE4xQnRRUWFsTmhJdlpGbVNtaTBOU3RWS1J3WmlSQXNQV0FHT3pWQV92dHZZZm1vMzZ5bkZwbVVORGhIMGFCUGZNZVZKSWVCRmMzZw?oc=5",
-"source": "livemint.com",
-"published": "2026-09-23T16:48:31+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dc03d778b91a9cf3",
-"title": "SBI expects new UPI merchant fee to cover costs and yield a small surplus",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVF9LVFBaQXBXeXoySzlpSHNfOThFS3ozQkRMeGE5bVBmcWpuQkFhb0R1RV9uRk4xVkI5MG90OENuQUdBVThNc3B2ZUNOTHFtZEE3VlZ1UERXRUE1MEFpZEV1dDRUYUZWaENrc01fT0ZoVFZxZ0FFTG5SNXNndm1ORTVrejg4djJYWHNYT0xwdVlHQV9PaWloX2Y3NXBBSE04TG1zRkd5ODhmdFQ1VTRIaW5wNU9uc2VKN3RGUmcwN0xmUjFhR0FROHdLNmhXdFQtbFpzOGstRUE1OVJ50gHcAUFVX3lxTE9UX0tUUFpBcFd5ejJLOWlIc185OEVLejNCREx4YTltUGZxam5CQWFvRHVFX25GTjFWQjkwb3Q4Q25BR0FVOE1zcHZlQ05McW1kQTdWVnVQRFdFQTUwQWlkRXV0NFRhRlZoQ2tzTV9PRmhUVnFnQUVMblI1c2d2bU5FNWt6ODh2MlhYc1hPTHB1WUdBX09paWhfZjc1cEFITThMbXNGR3k4OGZ0VDVVNEhpbnA1T25zZUo3dEZSZzA3TGZSMWFHQVE4d0s2aFd0VC1sWnM4ay1FQTU5Unk?oc=5",
-"source": "Business Standard",
-"published": "2026-09-23T16:42:39+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9422e4f492bb4290",
-"title": "PEMA Foundation delegation, Zonal Head ICICI Bank called on Lieutenant Governor",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTlFMlM1YjY0TjU4bXV1YzExWU1Vb0hUQmNNQnVFcW55a3pnMDlsWHRMNklFUzRwM0ktdk1zeDdweDR4b05lR2tUYm5HeVNLUllHVHhvUUk5a1IwNGFqdzBQLV9ST2pjWTljMzZITmtmUURZMEFTV1hIZlFiaExTYndEekYtVWRycV9TdlltYUNVWXMyMXBTcFVRVnlDWkpKVVVNNy0yR1I2TTNkcHdTdg?oc=5",
-"source": "JK MONITOR",
-"published": "2026-09-23T16:42:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
