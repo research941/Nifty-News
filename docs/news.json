@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T19:57:29+00:00",
+"updated": "2026-09-30T20:19:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,39 @@
 ],
 "items": [
 {
+"id": "16270b97d085be3f",
+"title": "Adani Ports doubles Colombo terminal capacity to 3.2 mn TEUs",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVpHRFFWNzljbzhIam9NRlUtOTlBTVFnSXEwU0JYa1kwZHBpZ0ExTnNvOU9ld2Vob1JOYzhTY1ZFUzNaR3ljVGdzNWg5STZMQjEyMUUyZ21uZi1MMFFGeVBGLTdrdU5PNU56eFo3Y3lTaHR6X0pUcGFfMUttUU5kSmllMUdtVmkzSG9wdnlRS2tDM0FBNFNhekxIdlhnWUtPY0I5eHR5TFZCeWUzTjdqd2hWSWQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T20:05:05+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "55bc19a0af427964",
+"title": "Larsen & Toubro (L&T) bags new orders from Dubai",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fOHNPcmkydEJSUGE3R1l3Q2xjU0tLVnk2VF9RVnpPR2ZzenhYYTU2UEZpQW5BZ1hCcTBsdkU4NmJiYWl4X19KQWFIN09TNy1BZWdUalB5bTFWaGJNcm1aQUdtTUtFVFY4MC0yWXU4NGw4QWR5X1NN?oc=5",
+"source": "BigInfo.in",
+"published": "2026-09-30T19:56:39+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "f0a9022cebf69570",
 "title": "Reliance Industries deepens Bengal investment talks",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzUtLVF5TWxhUnQ5V1B3RGJ3UkhsckJzeEprdVBxZkpDOU5mbzdHdFRabDJYeklQZGZuMHppVjNiX1F2cnRYaVdsRkN3V3htTURBeG1BQ0V3UDRuX2M5dE8xQUZwMklOem5UdFlCZS02YXNyNWpRSVZkc3h6RjlWVGp5YURGUEJzUFc3enFOWjVSVzdZMVg1bGhzWdIBoAFBVV95cUxOeHJNdHVpYU45ZDh0Mzg5R2lhZ3BvSmNyRlFUajlSVEJTQWVPYnZBS0V4eWVoWVl2OFo2NlB3UC1vMmhhVXZHdFgtc3ZpeFY2a3dDbXI2ay00Znc1N2Jac3RRRjh0X2hGNXNNazZucmdiZ2hrQ05iV1ZvUXh2QXh5YXB2aU15N0FLNkp1UEZMaDR5RjJSdEhCZWc4UVEtQlcw?oc=5",
@@ -506,6 +539,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1d173895fae6cf8d",
+"title": "Cipla Ltd. Futures: Live Cipla Ltd. Futures Contract Prices",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKMmNtYkpWTThzWUNRaTVla0hvTUFIb0k3RGhvRmItbmEwOGJDN1o5aU1ROXUwUEhPNVdQVG9QVlpfazRVRkpFSGlCVUZRZkhZZzE3eFphX1NxM0tOcHZpMV91NjJ3T2hWaHc?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T19:11:40+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -602,6 +653,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "320ce1f9aa8f4afb",
+"title": "Apple Pay Now Available in India to Axis Bank Customers",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2toLTRENW1qQ3R1SkpRNWxmSEdQSlhZcGhIY2lUbWhWbE4tbzhMc1dzamhmbEk3Z0J2T09ISGYtMGthYzZoUjJLYUJ1QnlGamV1bGlkdEtjNjdTeFRObFRtOFdaZk1QUW5xYllQTDM3VzFqZ0NoV1E3SnJjWVJVbGpIX2dFQV9zMFFHS1QyM0RuVjdsZFMwc9IBmAFBVV95cUxPY2toLTRENW1qQ3R1SkpRNWxmSEdQSlhZcGhIY2lUbWhWbE4tbzhMc1dzamhmbEk3Z0J2T09ISGYtMGthYzZoUjJLYUJ1QnlGamV1bGlkdEtjNjdTeFRObFRtOFdaZk1QUW5xYllQTDM3VzFqZ0NoV1E3SnJjWVJVbGpIX2dFQV9zMFFHS1QyM0RuVjdsZFMwcw?oc=5",
+"source": "MacTrast",
+"published": "2026-09-30T18:06:29+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6506,6 +6573,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "79830a456444a946",
+"title": "Tata Steel का शेयर रडार पर, नया Ludhiana प्लांट लॉन्च के करीब; विवरण यहां जानें ।",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVQ4ck1RYzNKWVVwQ3pLWFJLelIwRXY1MjdrVEdsZk5vcFl4V0xuaTdzNDhha29kMTFGUGhOUlBNOF9oM1U2eDJDanMza1ZTd20xTHc1Y1JkeHBaVEhpeFA1QUZ1c2t0WjZMY1FOM3JpZURQWU1Say1PMWNKb192YjJwTUVORVdESHVqckFET29rbG5nckRHa2Z5N1ZoYUhRcG9rdkZTcmc5TFppVVR6azZCaXdlVmp5TFg0?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-30T06:44:23+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ef863f569538cc40",
 "title": "Sarada Prasana Nayak named Maruti production head, Yamaguchi becomes non-exec",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2RpeHpaTmkza2NpYTFsdkVia19nNUdvU3JmTVpNQ0pYR3A2RGVBdkQ5QXZldmFfUFg0YVBZOTIzZ0tUTzJTQ3R1TEdKeS02QnJQdFdZNmJuaTEwM0NqU3dLbFRxY3dOZ2R2eEZMRk9LTVpZcm9LZHZpbmdxaWpUR1lGMWtUcWFYX1VqTE5lWUIzSmVjNVZINE9rV2JFUHAtOG96Q3hYLVp1VEw2cUlPQVpaNGo4WWJfemhlUXdpcEJOQQ?oc=5",
@@ -7009,6 +7092,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "5aa5a31758fee149",
+"title": "Arvind Subramanian Appointed Independent Director at Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2JIRi1Wa2pGcGhxTy1vNW9wUmJvZGFNay1OVE1VcDVaRTBDTDhCVW1WYmVNa0ZQQXBVODBrUGRiZE1qN1BOakVGaHNVaDJoODFmbFN1TkZfN29vaS1tLUlIaFhmblRFTnhWLXNHS29ZZFhRTzhEQ0QwdG5JSzF6UXdTWjFpdGtGZGc?oc=5",
+"source": "hrtoday.in",
+"published": "2026-09-30T06:04:48+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "978df1a1d69cfcc9",
 "title": "Eternal Corporate Media's Alok Ranjan Tiwari Brings Banking, Capital Markets and Financial Services Leaders Together in Mumbai",
 "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUlFNNVFDVFZ1dGU4OHVTMVpsNnRWWXB5dEdtU2Ewc09WMnRiM1V4aS1NaTV3UGthdHJjTkpFV1hIV0xIdUlwaEplQVRsVm53YjVDUk5WXy1wd1FlWS1Yb1dyaW1qSlE3dGEyR3F5OTdIcU1HZURRRWJsbng0NEIycW5DUTBwTDUwcS1pQVNndDI1a2tKcmkybDc4bUk3b0VJeE5paGhfWUZaT2VLd3F2d3Z5MGpQZGp1N1p5YUQ5ZmhzdGVCN1RoZDh0cVBTNWRYNFNZXzYzbWwxUU9zRDI1SWtaMXFYZnZfWU1vRG5YMUZ6bmY3MHl6eDhZMHVQV1l4WnhVeFlDZ29MaXZvWnRYRl9Wb3k4VzZCU0JxQmNHWUVFZ9IBpwJBVV95cUxPZ3doYnlFSnFteTd6ZmYxUDFOTFBOZUtiR1Y0MUszVTRXOHJJbEItcThyVFFWc1VST1VVM2pyVUduaW1PTzNlRmZNVzcxZDBfeVRudVU0M1FGZXFkZG9RamRjTkFYeGxVNEVUM2Z6NjJ0RmlnbWY5Q2JfN2YxRmEwTkx3VkdlOTI1cnppUDEyQVg0TC1qZGh3QzU5TklLbnNoNzBnSFNGWmRwQVNHc3JoM0RDRWR6M2dWaEJ3ZWM1RHhNSVg5UF94N2NSdE91Ry0wZFVZam5NOVQxa2NQMzZRbDBoSGFmU1ZLNS1mYnJVMDJEejBpUUdtRDRpVml2eDE2SUlHbzN4RzBzc2Y4TTZ6TVY4ZVdjZ2IwVkVJWHh1SXV6WG9kSE9j?oc=5",
@@ -7071,6 +7172,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c5af9caef044e29e",
+"title": "Adani Ports Share Price Falls 2.16%: Key Data",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdm9yaTR0cE5YZzNjMGY4endtRVI0ZHhNLXBQNUpxOGNWT25kWmhNdUFYN0ZhTzUzaktuRUVWLWlsLXFMM3J5dnQ5OFZlNXZkZFBxd0hoeGlzcFNGYUo4T3QzRk9zaDNfQjB5Y19Zek5BZUxtOG13QWNnQ3FVZ1dDRFFYcTZMbzlHakVCanp1WXIzZGNVTkp2X293?oc=5",
+"source": "univest.in",
+"published": "2026-09-30T05:59:00+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "30179ce77589bed8",
@@ -10874,6 +10992,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e49185287f80b350",
+"title": "Pace Digitek soars 4% after arm bags ₹1,587 million Reliance Industries order",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ25SVmV5YzBZb0h2RnlLWXJLRTVyR0hlNks0MkwyMkhKRVE4bE5DQ01iTlk4QWJaUEdfTUtoSktoMHYtanJycnFkaFJuN0hVWlQ0SXZ3eVgtNVFhamNPS1Q2b0hWSkpxa2JXWVdQVHdHZGYzLWdGanJqY0dKcVlzUzNTZTNiZHpSZVZleWRqSXFVZVRqSnlySVdMTHNHSnlFV1R4blVhWlhIWGNFaWU1cGRIVzZTWWFNMnBnag?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-30T02:21:06+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
 "id": "245252dc7130ab67",
 "title": "Apple Pay launches in India after years of global rollout, Axis Bank first partner- Moneycontrol.com",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1lIZ2h1WlAtUUlta3c0Tmd4ZG01Z3J3Yjg0eWpHVWN4VmRZLUxTM2FDSnB6aDVheU9rZlFyQ04tRnU4Q3RNR21TeTlObDZvTU4yZ0s5Ymx5Y1VBdkFmV3RvS0FQblAxQ0pXMkFkQmdhMzJYYUNqNzBJeTM3aHFwMnBycHpXMXB4OVBtV1MyN00ySmR6OGpBYjc3Y21ZdGpMVklBdlVpWjJwTWdOTTBvZWlsWnYyT3l5Q1J1aQ?oc=5",
@@ -11580,6 +11716,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c6189b73bd11091",
+"title": "Maruti Suzuki Victoris On Road Price Paratwada Sep 2026 - ₹12.76L",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXU2d2xoUHFBWEFkZnd3U1RUczdPZWY4ckR4dW9WeG1kZDV4WWtiRVdFdnJZX1JnZ1h3TTFUQ0k0ZU5UZkJMbnZJYXhEek1ZdElWNkRhSFZHbW9IZ1I5Z25LYVNaWFRERXVYcnF5UlFXckFxZjZ4UjA4dXpHdy1lN2pPblQ?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T00:08:04+00:00",
+"first_seen": "2026-09-30T20:19:52+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50293,158 +50445,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2d30ca9181b8e5b3",
-"title": "National Stock Exchange Of India Ltd Share Price Today | BSE Stock Price",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxvOWpOV2lXREE1VThYdUJEdnhYb2pwNDQyYXllUzhHYWJocEFQMmJCWDk2a2MtanJ0OC1CQ3I4cVoxWHVFa0EzZFpFeEZiUXI3R1BiaUtkTVlWTmRRNWlHa2NjNWdodjdMRVBvT0J6dzNJXzFHRHJxa2VWcGY0WVZad0VNS00?oc=5",
-"source": "Dalal Street Investment Journal",
-"published": "2026-09-24T19:34:52+00:00",
-"first_seen": "2026-09-25T04:15:46+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0e3fc22da108c858",
-"title": "HDFC Bank Faces Whistleblower Concerns and RBI Issues Amid Senior Management Exits",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXp0TU9WVjFMaXdhN2tnOC14LUNaNkkwN3ltYzZRbDdDb3pWcmxRcWUtQnNjNUlXeF9vUFZaWEtnQUVkRFF1eUpJUm9JVTBaN3lwYmQ4STdnT3lXWEhZeDlGWWk2ZGF6QVh2b0hISk9rMzF5QkNhcEJLaWpHN0l1S2RZVGUtQlFWVjZzcnVRbTVkYjZMN3NLcjRIRk0wZWhHQ3pWeHBoNy1ncUlENVpqR3lVVDJvSzB4X0ZPMkZNNUkxVXNMUWVPWGJoakRsNjZRRFE?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T19:34:39+00:00",
-"first_seen": "2026-09-25T03:38:33+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "aa879b0ad9d7f208",
-"title": "HDFC Bank Records ₹60.11 Crore Block Trade on NSE",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZERlZGpYRmhJazkzd2hlUGl0OFFWWW9oa2ZxbGg1VU15X0p4NUtuaGJ0VmlISm5wZVI5NXMwZm80czVFREtRakVyMzlzekE1bmdUWmlSUVZrZko0a05rWUVnY1NaT1pMUHZLb1BpWkthOV9CcVlmU1ZqNk95UUNoc19pZzBVcE5aZ1dZblpVaE5ZWmk5WFlkWlJSRGlVbGxUbTlobDBYYWtmT2dhVHc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-24T19:32:34+00:00",
-"first_seen": "2026-09-25T03:50:16+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0891b254d173e13e",
-"title": "Gandhinagar Court Grants Regular Bail To Journalist Ravi Nair In The Adani Defamation Case",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkx4SzFza0pScU5NZ2x0cmtEYU01blNFdHlEck16aFZVMVdpRV9CS1ROX0NRMmxNMXduaDRtejFxT0NhVWc0ZlBzTUg1bjh0WVJOQnUzWi1pdE1YaXlnVkVoNkFyNGYxZ2ZvVXVZaS10Y1JZYTRYdmc3RGZQSG1LVEJFcUJlQkNQbHNhWU40aS1WMFllNnlDZG1FNGRxZVEzRzA5TTcwVERIUHQ1UkE?oc=5",
-"source": "LawChakra",
-"published": "2026-09-24T19:21:15+00:00",
-"first_seen": "2026-09-24T19:28:39+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8256e5b7103d2eef",
-"title": "IIEST Shibpur, TCS tie-up for AI centre of excellence",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmhtdXJNeWstaTRld0l6c0d2dU13Um1rSkszdld5YXNybllpUHdCbWk3bnA3cUpsSDM5UGV3NUY2TUh2d1NUXzRRaVBBY1RFdFpLMFF5RHlYZnZZdEgzQjl4ekU1N3NsS0hQX3J0UFFZTkhDRzdlYUNVX1l5V2VZUHpndV9US1AxdTlqNXpic0M2c2xvZ05pWlFXZkpsUGd6aFHSAaIBQVVfeXFMT05obXVyTXlrLWk0ZXdJenNHdnVNd1Jta0pLM3ZXeWFzcm5ZaVB3Qm1pN25wN3FKbEgzOVBldzVGNk1IdndTVF80UWlQQWNURXRaSzBReUR5WGZ2WXRIM0I5eHpFNTdzbEtIUF9ydFBRWU5IQ0c3ZWFDVV9ZeVdlWVB6Z3VfVEtQMXU5ajV6YnNDNnNsb2dOaVpRV2ZKbFBnemhR?oc=5",
-"source": "MillenniumPost",
-"published": "2026-09-24T19:03:39+00:00",
-"first_seen": "2026-09-25T03:50:16+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d28eeedd304f07fa",
-"title": "JSW Steel's subsidiary JSW One Platforms files draft prospectus for IPO",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0JxLXU5aGtob2tMcEFMVVF5UnpaZkdCZ3RnS2NJNVlLTDFieEtQVnZLMXJEaEVacGxmRVZIa1NXRzVHWEV4NmNFRzNld3ZtSVczR1lSb09PWVdKbVJxRE0xVU9LMEhhWEVVSlhhVkFiNjRRcUtiY3pxWXFPNFI2akRjOXBwSHV2LXdjbUFSd3hTekJmWkprMnE0VkNGNnF0bnJBMHU3Vi02YUU?oc=5",
-"source": "businessupturn.com",
-"published": "2026-09-24T19:01:32+00:00",
-"first_seen": "2026-09-24T19:16:42+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5c9c8cbbc81640a9",
-"title": "JSW Steel (NSE:JSWSTEEL): Why Did Subsidiary JSW One Platforms File a DRHP for IPO?",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHF0cDVZd2V0SGR5aVF4OEVXR1Jnam1EMUJTMFREbXRnekVndHUxT3VueFdiN0tTQXUtQnFlblY1Mm9vMHFOQWhRUUk2b1ptcU9mWW5aNTIxVW1BWDNWTDlvQ3dYS2Z3R3AtVWRGRU9VNzc5QmlGWE5RN21oZk5OdFc4VHdhUUk2QXQzSnBXalZpQjBjaVEyeHhNNTBtRXhlc0JkakRSZXA4RVpZVkxoekN6YTNSR1AyaVdHanB4RW83NU9W?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T18:58:00+00:00",
-"first_seen": "2026-09-24T20:33:43+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c50762b9cdff6ad0",
-"title": "Maruti Suzuki Ertiga On Road Price Virajpet Sep 2026 - ₹11.05L",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnNiX3RIa3NNRllYZThjMkNQMjhrLUNnUkoyblNTcmhFWDF3UGhibTIzcFVXSHdsUEpzOVhOaHY3RTNzRWx2cWZhdXZUOFJJWE8wZzc5cExFWkFFVUVCenVadkRZUUtkbEhTc1B4My1ENXNmNlZhTndQa2QwLXlFcw?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-24T18:45:04+00:00",
-"first_seen": "2026-09-25T01:54:50+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a4396938e95b5a4b",
-"title": "CESTAT Chennai Rules JSW Steel's Rs. 1,61,96,066 Export Duty Refund Claim Valid: Reassessment Triggers Limitation Period",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2ZPc1dWYUJuRExlZXhwVGFES25pWFYwbC1wRVE3UTlydDQ0b3M0R0JUY1RTNTlUa0RrZTlqQ2lfbDR4QkRHUDhPSHVrN3dNbS16NHBMQkdBeGU5enRkVzNraHVTc3BOMi1veTRSMnJkWjhHNXlCN2FHMFdUcE5sTzRHZzk0ODZLeVE0YmRiY1kxX0ItU1A1LUhoZFMxMExoU2ZMWjNpUQ?oc=5",
-"source": "TaxCorp AI",
-"published": "2026-09-24T18:37:49+00:00",
-"first_seen": "2026-09-24T19:55:27+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
 ],
 "tags": [],
 "sentiment": "neutral"
