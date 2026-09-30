@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T00:53:02+00:00",
+"updated": "2026-09-30T01:19:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,54 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "6c5865b3e2ae4c80",
+"title": "ORIX : Launches First Power Grid Energy Storage Plants Project Through Joint Investment with External Investors",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ2pfYTRKLU1EWlNYNUQ5WXIwamtaVzQyWUtIUzFZV0ZueWxNRV9CTllVakJaZHNuQklSVG9weFZnSlAxSWJHX0ZLX3Y5U1FUenltazdkbVczbFVZZV9CTHk1cG90cUFUcjhMemxHYzM2UHFVbndCd2NrZC1JS2MxNlJsREQ2SDdDdFBHenNqLThKWXZUMko1dWNGV1FUSFVwcVo1Tk96U2xRZVlMRW0xLWw3YnJiZm5PMkh2c1h4Z3Zhcy04dDV1VlRGTDljeHF3NWNCZktCVzFNUDJNV1ZTNnBGTDdBdw?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-30T01:09:05+00:00",
+"first_seen": "2026-09-30T01:19:45+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7bee25c919e7d5cf",
+"title": "Sun Pharma Plans $1.04 Billion via Rupee Bonds to Refinance Organon Bridge Loan",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMlkxWDBoZTc3VkNZeExjSHlDQWFVOHRUTVFnSF9HSDYtR1daYnY1VlNnenhuV3RVODZxUFhCbnhBTmptYkdwYWloazl6Tnc1aEtaX2dhaExWZFFHWklia1YtME9wYWJ3MnRBUGlUeXZfR2l6T3F4QS1mTWV5MTVRVzExcUJZQ0NOQmdTYzFscDRGV2ZMYkJkeVo0cjdfdnA1MUc3SWt0V2tSQUlTY0VKLVZjVlV2VG5SMjBjR191ZTRfcHhCR0lwRjhtNA?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-30T01:04:15+00:00",
+"first_seen": "2026-09-30T01:19:45+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "40240efb66cc446f",
+"title": "Breaking: Apple Pay arrives in India; enabled with Axis Bank Credit Cards as of September 30, 2026",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXM1bnpQYXVSeDY3QUpSM1JoUGJNMm1EdHNwaVZSY0h3ZlBhSk5pRnBJU0VKTUp4QU9lU0l5dGZUZEw1WlhSOV9DRWtvRngxOWZPeXdkYVNDT3Y5c1JyVzJQTmpDLUVMRWFTeHdHYVlQb05KcUpBbHRPRElibEctLU1XSGhLTEtlcWFjSWJwdU5SQjJMemVLcFF0c3dyR3JfLXJWRW9OLXhsUmhwOHBSZ3RVRlV3dWFZVmtsR01RdFUxUQ?oc=5",
+"source": "Live From A Lounge",
+"published": "2026-09-30T01:02:31+00:00",
+"first_seen": "2026-09-30T01:19:45+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "90ec73dae174a665",
 "title": "Mayne Pharma Secures Long-Term IMVEXXY Patent Protection in U.S. Settlement With Sun Pharma",
@@ -895,6 +943,22 @@
 ],
 "groups": [
 "Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a1a5b2ba0aad56ea",
+"title": "Trent W. Mead Obituary Sep 25, 2026",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2Q0VKM05CR3JrbV8xWE1nLUNhdmt1V0FQcG9FZnZNa2VrR0RRb0taUUluRWsyd2FmRGZGRlVBRC1GWGlUSWpNVUpvRTUwM1BqRmZyNXpDNmRDYnlqRXRiTHRKNUVWdw?oc=5",
+"source": "Farley Estes and Dowdle Funeral Directors",
+"published": "2026-09-29T19:06:17+00:00",
+"first_seen": "2026-09-30T01:19:45+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50361,72 +50425,6 @@
 "Rating"
 ],
 "sentiment": "positive"
-},
-{
-"id": "c9009751e3007c96",
-"title": "Oracle Life Sciences partners with Wipro on pharmacovigilance services",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aS1lwUXExX2NiV3l6cXhXN3ZfWWQzRWR4UFBGZVZfX0NHVjJ0SnBxek5rWURKOWhEX1BiVVl0YTNSQ3ZqYUdvVUZycnhlZlhlNzJVMVkyT0dkT2hXcXA5NVI4QjBESEloa1hJTGU2dGd1LWVLTU400gF3QVVfeXFMTlpLWXBRcTFfY2JXeXpxeFc3dl9ZZDNFZHhQUEZlVl9fQ0dWMnRKcHF6TmtZREo5aERfUGJVWXRhM1JDdmphR29VRnJyeGVmWGU3MlUxWTJPR2RPaFdxcDk1UjhCMERISWhrWElMZTZ0Z3UtZUtNTjQ?oc=5",
-"source": "MediaBrief",
-"published": "2026-09-23T14:58:10+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "41fd5222c9959b71",
-"title": "Clippers name Trent Redden interim president of basketball ops in place of suspended Lawrence Frank",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWQtdVY0U0M0eUEySmN2am8wd21pYmVUOHR5ZE9aRnN2Xzg0MXVLTER0aml4R0FidkZHcWNESTJPS3RKRzhYUDUwc1Bad3kxdjE1cTR0bnlpSWU5all4Y3VhY1VDT2c3dnZPNWI0WkhGWDhIVWZkMVhWSFI1bTZPUHFwMjBmaWwyV1dPUk9LQmFCbmloLVVRRlJZak93elJTRHNR?oc=5",
-"source": "The New York Times",
-"published": "2026-09-23T14:56:48+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c6e5f078f895443c",
-"title": "Power Grid Acquires Barmer HVDC Transmission For ₹18.98 Crore For 6 GW Project",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXy1VNVJGWXdWUlNQeG0zeFF0VjE5YmtIWEgzOXZFRDRiSUpTSW5DWmdkLXpTM29QNnpKcWJvUnpVajR5SkNGSlo0eU9kZ2pWQUtKcHhrOWtOMUhqclE5bWg5cDhGY0hUenJGLW9jQ3dFWkpWRTctNHI1WU1haDR5MXRUUnBLbHhtRWI1S1hEOFhkSzIxa0VfZkV3S0JpcjRaZG5EUllB?oc=5",
-"source": "sahi.com",
-"published": "2026-09-23T14:54:08+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "737e3644478d8cee",
-"title": "NTPC Green Energy adds 56.7 MW wind, total capacity hits 10,920.53 MW",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDA0Q0Y4cVBXNG5tclhwcWxOcjl6bjNaLWRhMm9qbjF5OGhlRWRsYWFJeDJIT004aW9NSy1TTWtsZ1g1SDRuQjNhekRHLVRsdVAyQkg5QUtlVnFLQjlFWDZWcUZIai02cGlxVFZDa19kWFI5Z3hkWTY5a3NURGpJVkJRMUNHb0V2a0RxclFuSGJDOHYzMXNlelQ3X2cwQl9FazlpWEdITWRQV1JWYWZ0ZEtiaWJMSUJsaEE?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T14:48:55+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
