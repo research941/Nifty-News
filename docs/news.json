@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T00:27:43+00:00",
+"updated": "2026-09-30T00:53:02+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "90ec73dae174a665",
+"title": "Mayne Pharma Secures Long-Term IMVEXXY Patent Protection in U.S. Settlement With Sun Pharma",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaXFKcHpxTWhjRzlNNmVTUEU3WVpnS2ExMi1NbDlkaWtMbVRPVXl4ZmpRclZjLWpYV3J4SFNOT3JkTnNaZ2kzYXhiZUJlU1ZXcWdNZHEzTVdWY3FwMHE2TDRETU8zN2dpbVRkbW42VzJXVWR0Um5LV2cxYUlRSXBTbkFyeVVZQjBwU3RpOXpqZHVNVzduSFp5UXo3ZFFrQUs4d2xKdk1seXFlOTV2VTlleHY2S3RLZnZKVUJoekhHMG84emNDN011enJETFZJUGdjWTF3TXNtOUthZw?oc=5",
+"source": "TipRanks",
+"published": "2026-09-30T00:38:21+00:00",
+"first_seen": "2026-09-30T00:53:02+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "77e7a0758ed74f4f",
+"title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ3NvdGZPdTJ5WTVzeDRodm1sQkVtaGotaUEycHFzYjdtSXpBdDVCSjdvczRwT3psOGdjZzNrRWp5VnJJOWdoY0FGQkdfc2dfZGtQaHVtOVNTS1BoeWlzRWZYaS1mOEhUX2ktaG15U0NKc2ExaDEtRm1BYTZ6SXRQem1XQzZHWGZ5akRrQ1ZuNnZSRVNTX05yUXhBUzAzWEdfTVBRMC1WbVdTT0FaR3RKRjdLRWl4SFBwNExlakNxS2N1ZVJ5Y2pyNlNqSU9ON3I3ekJyV0tRdzJwVzdKNnNfUVVhU215aWIteU4xT3Y0R0ZTV2hnSjcwRUpVc9IB-wFBVV95cUxPZ3NvdGZPdTJ5WTVzeDRodm1sQkVtaGotaUEycHFzYjdtSXpBdDVCSjdvczRwT3psOGdjZzNrRWp5VnJJOWdoY0FGQkdfc2dfZGtQaHVtOVNTS1BoeWlzRWZYaS1mOEhUX2ktaG15U0NKc2ExaDEtRm1BYTZ6SXRQem1XQzZHWGZ5akRrQ1ZuNnZSRVNTX05yUXhBUzAzWEdfTVBRMC1WbVdTT0FaR3RKRjdLRWl4SFBwNExlakNxS2N1ZVJ5Y2pyNlNqSU9ON3I3ekJyV0tRdzJwVzdKNnNfUVVhU215aWIteU4xT3Y0R0ZTV2hnSjcwRUpVcw?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T00:30:00+00:00",
+"first_seen": "2026-09-30T00:53:02+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e61bc14d37ebe436",
 "title": "Apple Pay finally launches in India with Axis Bank support",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3hhVGprNnhzNmIwbWFkZUs1c0cxVXF2NWhyUGNzVlpuM1c0NHhJNGw4Qk5CbEI0bkM4LXc2TmhYVGhvbnRVN3M1Wk9XcEl6WkdfdXdZU0Fvek5tR05jS1pta19EUkRrSHg3dERNZ0w3RENaTUZYV0tXM3RtcV94UFhvSVBTNEM2LV9od3dtLW9EYTAydkE?oc=5",
@@ -756,6 +788,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "8234c09e2d2836eb",
+"title": "Corporate Roundup: Fabletics Launches in India with Reliance, Coal India Pacts for Coal Gasification, and ...",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1gxdmh2NzF6ekdiaEpRNFd4M3BTTVVtQ3dZb18xdkJBLV9FSlg4VnBqR2hvNFZCN1czUk1GTEg2dVk0UzM0QjFRc2hLbkxLOVViT2ZielB5MzJsY0dVY0poTmtjeVpxWGVoYm1KSVJWOXhDRi1KUHZQUi1iT1dPeGJZcG5jdnptWFFIS2YtX3FURTlFWVcxU1pIT2szVlk5NHY5MFFnUHdhOE1xRTVENU40ZTJPU0M3VTlyNkloM3lNdDB5dW1ZQnpGWWdrSkwwbE9abkwyNEw3X1RYSHZGNWFTMzNXV0JmTGNrR3BUZ2M0VEdMc2tyaDhFeW5kN29mOFBxUWozb2XSAYgCQVVfeXFMTU9YMXZodjcxenpHYmhKUTRXeDNwU01VbUN3WW9fMXZCQS1fRUpYOFZwakdobzRWQjdXM1JNRkxINnVZNFMzNEIxUXNoS25MSzlVYk9mYnpQeTMybGNHVWNKaE5rY3lacVhlaGJtSklSVjl4Q0YtSlB2UFItYk9XT3hiWXBuY3Z6bVhRSEtmLV9xVEU5RVlXMVNaSE9rM1ZZOTR2OTBRZ1B3YThNcUU1RDVONGUyT1NDN1U5cjZJaDN5TXQweXVtWUJ6Rllna0pMMGxPWm5MMjRMN19UWEh2RjVhUzMzV1dCZkxja0dwVGdjNFRHTHNrcmg4RXluZDdvZjhQcVFqM29l?oc=5",
+"source": "bizzbuzz.news",
+"published": "2026-09-29T20:05:48+00:00",
+"first_seen": "2026-09-30T00:53:02+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "992115dda329bc9e",
 "title": "Apple Pay reportedly launching in India with Axis Bank today",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3Yzb1VUYU9GSUlJVGh6c2tEWGpvc2d1SVlsNzdBR2Y1UnVEYXlvVjNnYWpfeEpYQW05TzNFRjN3Z1U0QWhxTW0xWENoczR2VEVISXppbGVObGtBRFZ6elozeGdrcFR3LUtoWnF0STByRDVTYjI0d1lzc1lndGptc0czNG1yM0ZLVjk4bTQ2akszRnE4SFE4TWtHZERORHBjY3A3RVRRTWdLdmPSAbABQVVfeXFMTTVBcWprSmoxWWtIdDc4WHY2aDlzN2F5WjVVNDBxZ2hlVzRxQS14UUlsdUdnc1JKVURoaldSNnE3dE0zSEpXM1JFUWMwOFRKdWtQcU9zaUVoLVJ5bll3TF8xZGFlc1JxcmJrRXIzbDdGUEgzZE10TXgxQ1R6QnU1T3FieWt2VWpXRkxQMmpScnFHVUlVclZvZFVKc3RKYmhPVlJ0TVpLVEl0RGN3aDV5T0c?oc=5",
@@ -863,6 +911,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c28a24c7d323c4a5",
+"title": "Mahindra & Mahindra ने Mahindra Udo लॉन्च के साथ EV पोर्टफोलियो मजबूत किया।",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3ZMNVVZTU1PZ1hBaFVTODRIaC1ESm1rQW1VMUtLWE55SE5PTVhiN2VCVEVtVndzMjZxS0NMdmxtQ2NiQWgxbVZKVnUtdHl3aUhTZncwOTFzVlFpUkhFNUlya012bjM5OVI0S3FiazhSZDVINFVmclhkT1BYTTlSbUFSZEh6alRGLVk4ck5yMjFremRzNi1Hdm9XMjVXLTlwR2NvZWZWR3Nka2p6YjJZZy1wcUo?oc=5",
+"source": "Alice Blue",
+"published": "2026-09-29T19:02:34+00:00",
+"first_seen": "2026-09-30T00:53:02+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2474,6 +2538,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0fef3d89f7eede0f",
+"title": "ITC Acquires Remaining Stake in Yoga Bar Parent Sproutlife Foods for Rs 645 Cr",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWZxazJUbVhZSDZYanNHQ1MwZWlZbG96ZXBhZHF2QzZka243djhFUDFlR3BkWTVRNUh3VUZyNk1EWDFYVTI5ODI2RnRCbmtsVy1OOXZaa3dzb1NRTmdaT1JkeDdRUzFaMWhIclpXa181bFVSLS15WXFXRkpDWDNhYlRmRkdlWktsMGNlTEtKekxLS3h0aU5kZkZFRThrSVF5WkE?oc=5",
+"source": "TechStory",
+"published": "2026-09-29T13:00:26+00:00",
+"first_seen": "2026-09-30T00:53:02+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -50344,92 +50426,6 @@
 "PSU"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c04dee08022caf0f",
-"title": "Adani Argued Duty-Free Shops Were Beyond Indian Law. The Court Disagreed",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JQ3dsTVFlcWtkWWtvdTkzZ0ZBOHBfV2hGRXZDNVJxbUowbDU3alNiUFlJYnlGUVo3eFFlOWlqck9ueTc0MVZqQW9ERFJnaXlqa21YUld3OXRnS2w1cEZTRl9GWWFYdmFvdXRYd2V1U2lPb2VZclpKYUwzMjZpdw?oc=5",
-"source": "India Weekly",
-"published": "2026-09-23T14:48:15+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b6257210550896a7",
-"title": "Axis Bank’s MOVES 2026 spotlights ideas for the future of banking",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tY2JGOUVMYVhVUkdPTDVoWjlHRFdBUHJ2TjFoSmdNd1A0ODRDZ0hiWUxpYWVBaFppdmJqM2ZQWkZpblZKaXJmdE4yLUpCUVQ2UUFKYVdQWFBpRzV0WC1Hc2g5cWFKVTTSAWdBVV95cUxObWNiRjlFTGFYVVJHT0w1aFo5R0RXQVBydk4xaEpnTXdQNDg0Q2dIYllMaWFlQWhaaXZiajNmUFpGaW5WSmlyZnROMi1KQlFUNlFBSmFXUFhQaUc1dFgtR3NoOXFhSlU0?oc=5",
-"source": "MediaBrief",
-"published": "2026-09-23T14:41:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "21dee812f52d5be6",
-"title": "NTPC Ltd. pays final dividend of Rs 3,393.83 crore for FY 2025-26",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWM1Yk9INDZ2S3AtNmdQdFZnd2ZPZjE4aWZfczVSTTlJLWhnMkhiRHNqTUNDU2FhSWY5a3N4U2RWSGh4cFo5bWVTTFZsM3J2X04yNmtWTTF2ODc3OE55MjdIOHdNWjBwOWpaeEZ0S3lTYTd6ZFZLMXJoa01rNXJacFp0b1Q2Nl9mZGpTUlZjZDUyRTA?oc=5",
-"source": "News Riveting",
-"published": "2026-09-23T14:41:16+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "24137afc92391795",
-"title": "HDB ALERT: Securities Fraud Class Action Launched Against HDFC Bank Limited - October 13, 2026 Deadline",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQclJaOWVJUDk1bHZ5WHI2ZFp1Zmgtbzh1Ylk1NFNzaFU2RWR4SjRtenpCTVpvbDlPZFZ5ai1HUWF1QnlPS3FuUUVyLW8yRTMzQnZWUDlBalc3b3lyeDBOY1M2WVNoMTlVTlZUVGUwM3pnR3JYNjI4dnh5YVcyc0pBR3dsMmdZalJIbWdnMEh6UEJvendKaDF5eDQweVV0RDJWeVR0bk50UjJhNC1YVWhXSi1pd253bTVVc1c4MExXcV9yNHRQbWhCWXNlWXBHenNGSEN4d2VzbkdIMUk5WXNPSFRSTWo?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-23T14:40:57+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ed3882f9bb637c4c",
-"title": "Business News | NTPC Pays Rs 3,393.83 Crore Final Dividend for FY26; Total Payout Reaches Rs 8,727 Crore",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNanhqV3ZmOGtYY3NXdzAzcDd0U2M1Mzk1VlYzRUg4OUVvRDZBTTgwdmlaUkl4ZUNTR3pjVnFHZDRuOGhiSEZKRERNTTBieWNRQnJBLVdya3Q0LVNHVkVYWUlodkNHTFBRelZxOGx5dFdNQnVSVkhkSU9DNk5uQy1fT0Y0Z0U2WC05U3U3QWVKdFF3Ql9hYTZYZ3R6MGs2WnV5cVBfTnJsbW8zUEFkTldxVWtNdmhNZW10LVFPWFZ4WnVGMTRtdFZIcTJDNEx6aS1jOG10LXNzWW1rcFhMV012WllXb9IB6AFBVV95cUxOTlNuSmZIalhNR2kyeWlEQlloMnU3NVBXZ1JyVUdKYzMyQXg2U1dYd2FjcFlQN3B5d0tUNHJlR0VfNW5wcUp5ZnN5X29GLWt4N0tmOXpFV1ByV2lKU1pXd1REcVhocGlsYlRnck04b1F5MnJzMTJQTFVxWG5LaTBaLXpNekN0VkVzdHRfVEVGQzlWQkcyXzg5cXMyNXVzSTdOcEEwblRTRjdXQkdiVEsxZUtPYWFLdVlTb21IZGRPY211aUI0X3lHZTVUdVI0Y2xSVk5SNzl0RjJCdk80d015TmxKYV82Y0ll?oc=5",
-"source": "LatestLY",
-"published": "2026-09-23T14:40:24+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
