@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T04:17:46+00:00",
+"updated": "2026-09-30T04:35:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,113 @@
 ],
 "items": [
 {
+"id": "8556712b32b54579",
+"title": "Maruti Suzuki accepts Kazunari Yamaguchi resignation as production director",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcURfcGJrWmw4bXgzQmlIWW0yYy1QYW54ZHpkZ21lQUhyVzRWSmFDS1lwQzVtMlpuYlltMjg4VmpkcS1RdWJWYzFkeVZvVXFCTG44ZWtGRzV1RGE0MFZfZDI3bDkxdXpISjh2WHVyMmQ5akNzUGdsS09pcHZzcl93c3BMbGJhQlpPdzhvX1YyNFl0VWRiU0l0eTdMa0ZqUzZYdElIUTlIZ0F3dE1tN0h5bXo2VTVKYl9Jb2FxSw?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T04:33:06+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "46dd3a0f6c7f2793",
+"title": "King of Bonus Shares: Wipro, L&T, Infosys - These 5 companies have given the most bonus issues | Check list",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPazJLYnZodjlub3ZmX3NIRUp3bENQY29jenV2RUZCYUxhNjhFR0pjM0d3UkNnQ2l6RXQxemlBS2lWcWhMVjkxSjV6Zl8wUnVmUlFVVUwzUFJMWnVHOXJaQXRXNEYwMUJySGZRTXNIYmFFMVhlM0c2X3RzZ19jT0pxcW9IMEdvQWNpRkpOX3pFcFA5c25VR2tRQ3VENncweVJNOVNtNVdQNmZHUHZySWtUaTd2NE9qVHdHQUEwMVd5MTVlY0VhY1lSZ3NRTHNlUm1Vam9fV3FORGtmYktsSkxlNTBEcEpEb0hKa280OWdpd05XOXBiWEFzYjFzUjNweHVBU2c3c9IBigJBVV95cUxOWi1ncW1mdS1rdG1NbUxIMkI5bUtXLUR3OHhBOGdEN1RadGFiS0N1YUUwNlVONmpwVUh4bGt3RkxzV2R5Ulo2Z21Ibk00U2lLTFVSVWxibkNJT185TzFXM0lKZV9hVnlsUEhIVlNoTmZldlAxRDZRcDY2LTdwTEdxZHByNXBNcVp5V0tjYnlvd1Npbm5PR2VaQXBHQnA5aWdzdmlDSGJMQXdqMHl5b0R6RU1fNzEwNTdXekRMbEdLYVR3SVlGOWlaa2VaRW1fUC1DSm5sam42dFQ0bVdsNjlfYThTcTBpRTB6Y3J1aFBBR29kTmsyTkZqbC1wQVRycU1YSVpPenA5YnVfQQ?oc=5",
+"source": "Livemint",
+"published": "2026-09-30T04:22:54+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"INFY",
+"LT",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Infra"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c87687ede357100c",
+"title": "Axis Bank brings Apple Pay to Visa, Mastercard credit card customers",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGJDUUNlaE1ya0lQMi1Ya1NYT3kycm40d3FLWWhaLWE3WV9ZSGxiSjl5bXJBb3hjdjBkMzd4VDBBcm1raXpZLW1USVktYll3X0UwRTBra21TUWJzYTRVbmM1Rm5OWnZwOWlJTFZjblNVckxLUGtCUlBBTjB2MWV2WVluWXlhNFFiZkYzdmtqbDFkRHpZOWo0TG8yQk5Ga04xTV93SXBGTTNnSjA0Y01HLXhWdlFBbmw2Umlfcng0WlhkNFHSAcgBQVVfeXFMTUJwbUh5eGg5b3V4b2EybFRkaW9YSEJaN0x5MmxIY1FYcWhWdDQxa0psRWx4TlFlMWhpSHVsbWpNTXJNZzN2RzZTNC1abHVXSl9GZ05WMUlPbGdKb3dVVUN3UVJnd1piWkFYRl90V2VUYTM3Y0QwTjlhdDN5Z2RST3hRMTJYSGhwbjgyUEh5RGNQN1QzcWRsZ1FYM3ZiSTVudEE2OTR4eWVMZkpBbm4yOVBobHlkb2xPQTlPc2psRmNSNWlzS281V1g?oc=5",
+"source": "Business Standard",
+"published": "2026-09-30T04:20:43+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "006bb559fbc37c12",
+"title": "BSE Share Price Falls 3% On Nifty 50 Debut After Replacing Wipro; Stock Down 5% in 5 Days, Nuvama Cuts TP",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEE3Wi0xZ2I2cjRXYTRZT1BvZm9tSE02eEhhTnAwbjNRUmVvajNwWHdsd0dVMEhOQ3NXbzFaWS1TUk9ZRTZnSHpoYXRBUGZ6S2Y1WURvTjM4cXZ5ZlNOR1JObGJkZnFMWVl4a1Z4eUJNWVFYRlhDMDlmOTNhX19FMW9hdEtSZ3ItYWlNdXZtTXduR3R2OUd5SnllMmtKQUpQWm5ZczhVa2dlR2VIbXphOVp6SkhJSlYtX1JHdmQzNXRQN00?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-30T04:19:34+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"BSE",
+"WIPRO"
+],
+"groups": [
+"Finance",
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "01b007fb2343f6e3",
+"title": "BSE shares enter Nifty club, stock tanks 4%; what consensus target suggests",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFppUndfZTFnN3pVUHBjcEFRUlJFcWdDalY3clBjdGE0SVJFUjVmSTlqaW1LR0dfUlBpWjJrS2UtUzJ4WFVDS3BmN1ZXV0pxeGdHcVZKVjJqRnBOdkd2UzhGMks3Z0t5dmdTdG5lQksxNVZqNEZ6cXQxU0dKbzVJb3JGWDR1VEFEX0lscW5xb3o1Z0xHZjQ4eFNzSXRSaVZwOGRKMGwyelRmVVZZMVBwbmZCZEFFUGFPM0Y0NVZ3SU9FOHROclpvSjVRak52dm1ZYlZELTdaa3lDdFg1dFAxSE9DY9IB6AFBVV95cUxNaWlHejgxem42NTNuRDg3bkMxdjBMSHJsWjZwLV9GNWl0aFVkUDRMWDlxVmhaU2hET2xJX1dPSjNEMVZzVnBwZW5KSkZyS0hVb0FCQkR3ZEVfdE1tX2l1Tk1BX2h0bGQzZ0RKektGV3Y4M04zcGlhTjZOVXJmTkRXRDhpeEhDd1dTQXVKdmFBVjVVVVpCc0JlUTFlbkxTVkdLbDlJMWpRTzViTWV3WllCNUpLVi1YaktoX3JtTFQxNkhBQW5OeDBGN3RxQTJrQ2M0eElfMWRORkNVc3YtNFl2WUNwSkthZ0Nm?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T04:12:50+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5761f829fd0410d1",
+"title": "SEAMEC Signs $19.02 Million Contract With G R Infraprojects For ONGC Projects",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0tJT3ROcDBzcVNNUUQydElGTUxGeTNucHR3LU0yWHE0Z3pGWXNHVHVjUWVGTDg2alpoT3VpeGpGVTNFVG5QY1FOby1sVDE1dHliYms4cGVGRF8zdGsyU3V2dWo0MWs1QmppZzZJZGxYVWkxcGdqLWtGSzBkR3dPOG1lQVBhQURFZjR6UGlrdEkwOE9XbUVMSkg0Y0RGZ0pGNlYxdQ?oc=5",
+"source": "Sahi",
+"published": "2026-09-30T04:12:40+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "3d14601d27cc115d",
 "title": "Accumulate Mahindra & Mahindra Financial Services Ltd For Target 350 by Prabhudas Liladhar Capital Ltd",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjBwY2ZIM1gyVF9Rd3JlSHdqZS1weno2eUl6Z1BTcGwwTjVGOW55VDlacFdrSk1CWjVyaWVZRmJwTlBkM3BURTJ1SkpNcEc3clRSUFhLVDZUSmxXQ1JtRGVsV1ZnTXp3eExOUDQ1X1JzdUpEZWhWVUJKZE5xejZGcTc2Wl9qdHl0ajJ1UXNreU54Z2hXRVFkQWlhSkNUOUluM19yU2hmMHlWLTRWRkE4Q0Z2MV9oRHFFNXNQcTNrbThEeFdmbkJKWC1ZZ1J5bWhMLWxFLTlyRmY0dW1wU3NwejNxNC0?oc=5",
@@ -479,6 +586,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "97147d2869827f5a",
+"title": "SBI Research calls for amending Article 21 for fair education rights",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUdHMEZZNWpoNGIwS0RFZXRKa1RkVXp2Tk1mY2ZnZEFiVS1VN2JYREpNSk5hOWhXYWtYYjZ2QTd1dW1nZlViU0ZibUNPQ0tUMDhZYjNJWmdKak5UQ1NjNlpreEFXT1VKLTNpVXNYbVp0cWVXNFgwYzRnUGtteUxBTFFPazIwaUxwVUptQ3ZRVENCQl9ieWNoaElnTkE5YnpXbk12QW1qdm1iaUthOGhmWl8yYVVkOVVHZmNOWk1CaXdQTlBWaEN3QmZn0gHPAUFVX3lxTE5wWm50MDBQaWxvLS1lSUl5MGJjUEswbmt5VXFuQVl1d0Naa3hwU1hRUXRkQWgtSmExT21VTWY4ZnBxVFA5NjdfZFB2elU5Rk1oLWFBemtGX2RZV0QtOG96V2tQMW5NMXlLQVY2a19QaDl0TEtvNk50aVFFM0NzVkd3NE1RZWU3LXJuYldSZ3dsZDdNcGVxX2NRaHljcEJCZUFlVWhtdkxWZ0pHZHotVzYxb09rNUZjT0ladXpNdG5RTmhGZVlRX0VtZkV5bHFsOA?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-09-30T04:00:59+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -856,6 +979,22 @@
 "sentiment": "positive"
 },
 {
+"id": "22ce4cf39bd40066",
+"title": "ITC Share Price Live Updates: ITC's Price Drops Below 20-Day SMA",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:05:23+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "144246bc77bea4af",
 "title": "HDFC Bank Share Price Live Updates: HDFC Bank's stock price slips below key moving average",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
@@ -901,6 +1040,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "22d3764f5babe079",
+"title": "L&T Share Price Live Updates: L&T's Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-live-updates-30-sep-2026/liveblog/134578564.cms",
+"source": "Economic Times",
+"published": "2026-09-30T02:55:20+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1181,6 +1336,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c1c722ba6677ced2",
+"title": "“Mass Market Should Not Be Defined by a Price Point,” Maruti Suzuki's Partho Banerjee",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObjRDZGhCU0VicjhzUlNVVklhM1QxeGpaUEF1RF9Nem1DMUw4TF9VVnhnX2JzRjRLZl93V05DaVplSWY2Zm5FUmFQWkVrVWhDdnNWdFdtVDB5am4wbmgyaHBoTnRsQ1dzQXRRbDQxaHlKSTlheVdYbmJLUVp5S1BLalViOGNpLUhoNGZXNUZCU0R4SHRWU0wwZkVwVEl6a2lObi1wTllQN0VQVlhheUtFTDNGLWtXb2tuVl84ZFUwT1ZKalBnMF9QX3RuNlpIV2FWRVJRZDNVMU5FRHlUbmZ4cnBGNGxpNmxxMU1vRUo5MXTSAfABQVVfeXFMTm40Q2RoQlNFYnI4c1JTVVZJYTNUMXhqWlBBdURfTXptQzFMOExfVVZ4Z19ic0Y0S2Zfd1dOQ2laZUlmNmZuRVJhUFpFa1VoQ3ZzVnRXbVQweWpuMG5oMmhwaE50bENXc0F0UWw0MWh5Skk5YXlXWG5iS1FaeUtQS2pVYjhjaS1IaDRmVzVGQlNEeEh0VlNMMGZFcFRJemtpTm4tcE5ZUDdFUFZYYXlLRUwzRi1rV29rblZfOGRVME9WSmpQZzBfUF90bjZaSFdhVkVSUWQzVTFORUR5VG5meHJwRjRsaTZscTFNb0VKOTF0?oc=5",
+"source": "ET BrandEquity",
+"published": "2026-09-30T02:31:00+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b5bd030c1f2d68c9",
 "title": "Stocks To Buy or Sell Today, September 30, 2026: Bank of Baroda, TCS and Biocon Among Shares That May",
 "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQm9hd2Ffa0c1MlFCUjRDSGVHcmZDeHJYMFlQZ1BRZXY3eU0tZktuTmkxLWZGWmJKS1NkVGRyU1FRMmluNGhUQkgtLTFhMW1HZEp5MzhZYjBUQUFWYWhsOHg5clI2bHhQOENyS1l2c0ljSHBabmRWcjFZYnZuLU1GbjBXeVJYMXMyaFJFMm5LclR0Wm0yczJZT3gxdHc2eVFFSHZsVVlkSmZnSXNTVnBTakowd0tXSFR4TEJsYWgzSmFXSW9CVmVidl9SeXROYkpvTjhHeWEzclZhU1RLOHBmRTFzTEpKWXdGcXVTUjBTMjRTNWI2QnBqMUJNbE5GX2N1R2hDSHVyM2RoMnhVS2fSAY4CQVVfeXFMT0JvYXdhX2tHNTJRQlI0Q0hlR3JmQ3hyWDBZUGdQUWV2N3lNLWZLbk5pMS1mRlpiSktTZFRkclNRUTJpbjRoVEJILS0xYTFtR2RKeTM4WWIwVEFBVmFobDh4OXJSNmx4UDhDcktZdnNJY0hwWm5kVnIxWWJ2bi1NRm4wV3lSWDFzMmhSRTJuS3JUdFptMnMyWU94MXR3NnlRRUh2bFVZZEpmZ0lzU1ZwU2pKMHdLV0hUeExCbGFoM0phV0lvQlZlYnZfUnl0TmJKb044R3lhM3JWYVNUSzhwZkUxc0xKSll3RnF1U1IwUzI0UzViNkJwajFCTWxORl9jdUdoQ0h1cjNkaDJ4VUtn?oc=5",
@@ -1365,6 +1536,44 @@
 "source": "Economic Times",
 "published": "2026-09-30T01:50:36+00:00",
 "first_seen": "2026-09-30T04:17:46+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"TCS"
+],
+"groups": [
+"Adani",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8556ee13da7f97c8",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 150 pts, Nifty below 22,750; TCS up 1%, Adani Ports drops 2%",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-kpi-green-share-price-30-september-2026/liveblog/134577279.cms",
+"source": "Economic Times",
+"published": "2026-09-30T01:50:36+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS",
+"TCS"
+],
+"groups": [
+"Adani",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "07387c14f5afa91a",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 50 pts, Nifty below 22,700; TCS up 1%, Adani Ports drops 2%",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-kpi-green-share-price-30-september-2026/liveblog/134577279.cms",
+"source": "ET Markets",
+"published": "2026-09-30T01:50:36+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
 "symbols": [
 "ADANIENT",
 "ADANIPORTS",
@@ -5049,6 +5258,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "3a13813e6bcfd655",
+"title": "UltraTech Cement slides Tuesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanFJQjNqcFdxaHZON1VyWk01Ny0wMXF2aHo0NGZsRGs0T3VsWThLVWZEaWJaNjJnREcyNlRHRFRtd2lPQ3lMOFBKX3liQTBCZ3VjdTM3cDNyUEQyeGtwTlp5aDlrZVJ6T1ZrVkxmR3I4dUgySkJVN2xKdnNtSnhmSVRudkUxeXNVTFByMmpIMy1qV3NJTjU3VC1IcFc5TGVnVEwwejdNTXRuU1lhd0pLTEtHdTAxc1ZObHNXNkRieGJCUmlY?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:33:00+00:00",
+"first_seen": "2026-09-30T04:35:08+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "ac842cae54120ed3",
@@ -50188,225 +50413,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "2b9928df1d2eeeb2",
-"title": "Tech Mahindra partners with Verato to fix healthcare AI data issues",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejJWU0w5RWF6NkwxM2NObFJSajBIbEpIWWh6NGRfaWV4MzhkazQxb2hiTWZUalg1REljX2ZsUmtLc2UwVk1RTUliRzktQnZkYTRSYnYxbWZtYkstRE5HSXlLNGo3cjBRTnAzbVA5bnNVTnNmY0kyTnBKV0hHNVJDUkRKSkdSNkdSRGtnQVF2Ry0wZ2k5SDJGQl9wQXlDUE9GRlo2b1VTOW1TYXFGWHRRcFQ2Y2tObGM?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T23:02:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c0c65d633205bba8",
-"title": "PEMA delegation, Zonal Head ICICI Bank call on LG",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWp1SWRrSGlYSnBJRk9Kb180RVR2MnQ5MHp5SkUtYnBnNVZVbWNGb0NreGpxTzRZcWYyV0h5WHdCQVJEVzZ4SW9PS2tidU1wS21fcC1iVVowVkV5WlA1ZTZKSWZ2bGpiWXdyem13aWVQeC1PbXZQXy10NW5YdmMwWkJmRFgyUzDSAYsBQVVfeXFMTXJuQjJGMHFrcThqSUl3WXNMYU90NTlEaC1Uc0xCSUdRQzVhR3E0eGYxSXFnTmtxcGotbjNpWWZhWWZEMndnWXpDM3hLVVVoMDRxQ0pmMlR4TmdZcXNIa2VoUTVYZzlzWmxCYm9NaFUwV1JLOC1wR1V0OEk1WGdQaURkeVM3Nk9GVWZiVQ?oc=5",
-"source": "Daily Excelsior",
-"published": "2026-09-23T22:58:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "66150c0a74ca80eb",
-"title": "Airtel Money announces plan to list on LSE; promises high dividend-to-profit payout ratio",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaXhFRVN3WE5jOS1nNUpVTnVoMFlfcndwLVZ2V1VoN0FGU2s5bU1lczhtUjRKLWYyN0djeXRmTDBDVFBPeVh5NEVBR083Rl9neHp0TnFVRVRCNjdyNjJ4VnRUSVBJWGVXZlNoUHNyc0UwY3NKX2xmdnRWbzNHNFVVc2xtbEpUVk9NZzlwWWUzY2daekpSY01hNTQ0OWNQM0pVeklNUDVURDlMbmxxamVjZFhITmNydGZUOFZ4akFVZnbSAcABQVVfeXFMT2l4RUVTd1hOYzktZzVKVU51aDBZX3J3cC1WdldVaDdBRlNrOW1NZXM4bVI0Si1mMjdHY3l0ZkwwQ1RQT3lYeTRFQUdPN0ZfZ3h6dE5xVUVUQjY3cjYyeFZ0VElQSVhlV2ZTaFBzcnNFMGNzSl9sZnZ0Vm8zRzRVVXNsbWxKVFZPTWc5cFllM2NnWnpKUmNNYTU0NDljUDNKVXpJTVA1VEQ5TG5scWplY2RYSE5jcnRmVDhWeGpBVWZ2?oc=5",
-"source": "Daily Excelsior",
-"published": "2026-09-23T22:51:56+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Results",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "bddf6084432d7af7",
-"title": "Hindalco Industries Share Price",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LanFkeG95aGdQRGNtS2RLWTRfUkx0VnFNNmVIQ0pXWXFXUGZXcXFkYnF5YUhfS1hCNnR0QmhhazlPYmowNmdGclp6U3RqRDk5WjRwZmkyeUg4QWJGWXc3eGdZV2otYzFsZ05JWkp6WQ?oc=5",
-"source": "Upstox",
-"published": "2026-09-23T22:46:17+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "957f8419b3aba245",
-"title": "“We Expect To Invest Over One Lakh Cr”: Gautam Adani On Bengal Plan By 2035",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTd1QkVzTGQxTk1LNVZ0TWRZazVUMk5rMmM1S2tXaEdGVWNaSEd1Zk90TlQ2b0h2RUJ2YWlwNmZtZTYyQmhVLWFydFpoQXgtbzlwQTgyNFJrM3lZODFmZDBSVlBoYWpSb2FPcFZxaDN0QmZuS05kMGZILWFtY3ZaQmR4WWR2VXRId0w2QWZDNjVCWUhtcGltSXJNbGV6RGZGTGh0SlpGMDExYTZmREJ5YkVZWlA?oc=5",
-"source": "businessworld.in",
-"published": "2026-09-23T22:30:05+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7d0b6a44721b0956",
-"title": "“We Expect To Invest Over Rs 1 Lakh Cr”:Gautam Adani On West Bengal Plan",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTd1QkVzTGQxTk1LNVZ0TWRZazVUMk5rMmM1S2tXaEdGVWNaSEd1Zk90TlQ2b0h2RUJ2YWlwNmZtZTYyQmhVLWFydFpoQXgtbzlwQTgyNFJrM3lZODFmZDBSVlBoYWpSb2FPcFZxaDN0QmZuS05kMGZILWFtY3ZaQmR4WWR2VXRId0w2QWZDNjVCWUhtcGltSXJNbGV6RGZGTGh0SlpGMDExYTZmREJ5YkVZWlA?oc=5",
-"source": "BW Businessworld",
-"published": "2026-09-23T22:30:05+00:00",
-"first_seen": "2026-09-24T13:58:19+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8084a8afe96cfa7c",
-"title": "InterGlobe Aviation FY26 Net Loss Narrows; Q4 EBITDA Margin Drops to 3.3%",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTExJMDRCR3h2b3ljaWpuTktaMkJXWHMzd3hHRTFyNEY4Y2xXU2p6dW9UWFQ0TEg5dE1KNHA4UGtTenJQQW1nTU5TSlVabjR0TkhZTXJBZUN2aDk3bFVfZnM4cVg2Zk9yekwtVlZKTGk4aEdxN3pzS25aWkQ4Q2lPTzZVRUlsdTlSN09PQmk4RExrejhma3FVSW82MkJnMHVYQmEyb2lCQnk?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T22:07:51+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "1452d80e914843d3",
-"title": "India’s Russian Crude Buying Now Driven By West Asia Supply Shocks, Not Discounts: Axis Bank Research",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjR4VkxhZHdyNl8zMUxRTm5BLWhkQ1ZveEpHZFVfcl9hSVB3SDl1UEl5cGFYRm5TekNOUndkZkZ0TVN4VGltUXVkTUxMSUItYVN3Nll3QlhXNGV5ZWhtSWR3amMwLUtpN01sSmFtSFR6X0pqRC1EUFNhcWI4OGgyUzJQV19paGgxMnI1ME9DYXFrcE1NNDNzYjQ2ZjcwQ3A4NG9RRlptbWdJNkZfclNydWR5Wm5ya2pobTJNVUE5WF9OMlNfdEp2TUJHck15bFJBbGtWSWRraXllcUU?oc=5",
-"source": "businessworld.in",
-"published": "2026-09-23T21:48:36+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d5b04dd7c1a17b50",
-"title": "Larsen & Toubro Q1FY26 net profit rises 14% to ₹4,123 crore",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3c0UTR2cGJUTDN4SlROVHFVdGhQSG04VmlaS3gyR3RTYUNySDNYUHVPMTh2OWJkNHY3eDRCU2ctVHQ3TldtSXJfVV9CRzhMenBRamtGYnBEUHE1aFZVclF2WXJNUU1qZHlLRU9teWdiajJoRXN0cGFBbFlQUHlNVXYxZjJwMV9VXzMtbVN0aHE0RjRONmp1aFB3TlU2alJ4ZzFJS08xZ1hQWTR4a2NCSmlNbkVsa05NVEg3Nw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T21:48:30+00:00",
-"first_seen": "2026-09-24T20:33:43+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "1a6e4282b834b6f3",
-"title": "Bharti Airtel stock ends the day 0.65 percent higher",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTB4bDhLdVZBazdrY1VJTGVzdXFHaXFCaHhwel93dEY1Y2xSdEdfWi00YVJ4UVc1Z2ZYQ2lVa0V3UE11ZER1RDJjUUZFZDc5N1dZZHgwMXVCMHhYOEFHTnpLVnkwdUszRi1zUFVPdi00X3BWai1mTy1XYnJnNlVienhPb29lRVZObmpiVThEYzhhR1E2ZlBQUjJxUnZxWFpkRXdDZUtpSlpfbi1TaWwxbw?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-23T21:36:40+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "ac8aca797665c079",
-"title": "SKF awards global AI-led business transformation contract to TCS",
-"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSHJxYldfUUtkZWFQVE9makhWb0pnTnZLMDBEa0Jkd3U0YVhEWFBoMGQtUmZOeXhsbElNNFJ3dS1kMDd0VXJScF9EeXJpZmhveDhDVGZVWWJYTy1NQjNic0szd1pVUFNjYS1EbEV3LW1KTS0wUGVKR3RNZTBKVDhuR3Zudm41TE1XZzdYaC1BNGloVnhfSmhTT0FLcmRyRm9QeWlOTUNISWx0RG1LaWN4ekh1bGxFU1ZhUy1vTDhGUWx6MTh3QkxadkhaaU9ZbXN1dTlKandhdTV0SnExVWJia2tkcDU5N09MNm1SN2k0cHUtTElrX2FIOFc4dDJILW5mZkFBRXBucG5ldzlaOXlrd0F1elZtZw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T21:35:30+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "62bf4d590f3fbcc9",
-"title": "Infosys narrows FY27 guidance to 1.5%-3%, appoints Dash as CEO",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1h6akh0ZzBSM1UwV2JqN0o3THRpeTN4X0sxZm4wa1F5WWc3dGJEVG9SdW51YTBsWkpubWRwQ2pOMUYxUGl0Z3pvMUlrVGxuMzFMUl9qZW51eElXcWdpRHlLeGJ5UjQzSUZ2SGNyQU5IRzhlX25vZm45MWdkY3AzZGdwVEUzRXlNdVRESHdTNDhfTmFMOWxRSE55RFFaLXM5?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T21:35:20+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9240e258699b3014",
-"title": "Adani Group announces Rs 1 lakh crore investment plan for West Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUhaRDhtX2ZVNktpYkE0dkZzTDhkNE9nNDJHTDU0aUY4dHFxX0NEaUlFSWlfSXl1Z195eTZ5dXpOOHhQVmt6c2hwQUJLYldZTk1BdmtPOGhOWWxHSjc1cFNuMjFPUnp6SF9vbW5RYmg0d2NHQ1Y5cXVBNXhXTEl6VFZHc2dGUGVwTkhpT1JzMnNYOGxMOEFQTnZ3ckhDWFRRVWJTaEFvYlg2ekNXelZGcFpJUnRKWTNWczhkVW9rYThpdjJpb0pUQ1ZGYw?oc=5",
-"source": "Bureaucrats India",
-"published": "2026-09-23T21:30:05+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
