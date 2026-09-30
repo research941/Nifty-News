@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T02:33:01+00:00",
+"updated": "2026-09-30T02:46:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "a181e69015eb111e",
+"title": "Maruti gains as government leans towards small cars in final Cafe 3 norms",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0dlYXcwMmVockIzN1RQS1IwUVYxVS14eC1jbUVFY3dfaUJWS0M1emxINHpEVHVZS09XRDdoaXRpaDZCV2UzNXRwWThPYmJ6RkFfQ2F2NzF6RFVGLUhBUHU5Q1FUQzh0akRNbmFsQVVoVU5ER0dGVWRCMjF5SmR1ZThUQ2k4VmlzeW03XzVrNndXdE9Vb2dNZ2IxX1RjajdrN1ZsNEdudDJtdXYwbjZHZ0k0b2JUcjBRSmZKdUtrbFM2cUlONkN5X21LSk5UaWpMby0wdDlkSDJWYWZXbWkzTW9qdlNUVTMzd3hNRmpIcDFHS0lJ0gH6AUFVX3lxTFBXRFVqTmh6cXdtajZUMmFrM3J0M2pXVUxYdTZxMkIxaDlzaGdiTXVOTjhrOHB6bHhtVVJ3N3Z5NTd3eVYtTEFIUWd6bUtNaEZFM3pabkdMTlpDaEszZ2FzTmFVOGs1RFdvWkM1akF0bHJVSVFVSWwycWN0SzN5YnFXOXl1blI4WVV1eG5nRmxyRDFwQkJlNWxrOHgzZmM0LUdUbTUtY2IyY1NMUUFqU3RkTnFLYmlmQ1JWUzVQSnN5dVRkdzRXbVVLdUZMZHlVN0tBYXZXQ2VIUldfeGNVcHFqWGdkZkQ2SktFVUFCUHRqaW1wblNydXJIRWc?oc=5",
+"source": "Livemint",
+"published": "2026-09-30T02:38:09+00:00",
+"first_seen": "2026-09-30T02:46:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "19a47412988b56f5",
+"title": "Apple Pay Officially Goes Live In India For Axis Bank Customers",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWdZSVNjLW42SXdtMUFEQ1NCSW1Lb3FuOEFzNlNtQ2xnOXZTLXVVN1VBdERJRnNRMWt4aklhZnNfNTQzb2VNSV92dFhGc2lENjlLc2pldXVpTFRsb1dRTzRFVkhqQkxsUFNhdm9BSjJOT1F0WXV0Z1FmelBHZFByOHlTWU5obThwS2ZfdW5nUkRvTmFzYWtWdWZEVUplUQ?oc=5",
+"source": "The Mac Observer",
+"published": "2026-09-30T02:33:29+00:00",
+"first_seen": "2026-09-30T02:46:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5d59c8feadca0c2b",
 "title": "Stocks to watch today: Tata Steel, Power Mech, KSB and more in focus",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk50RjQtY1hZelJPbW0zTTJVVU1GdUJ5YzM5YV9tRW1KTHA4VXVCQ1FIV0M4eVRhUnp1MkRjYnhNU0VmdWhwYkNSSjZzcXpPQ0lmNmFVOFdnaTRUNS1lOHh6amd3TEI1MXFVLTZtT0lTRW5TYjBUU1VXeGxMNXAtQ1VVd2k4QTZUMkh6Q2QzLXBxbFZIeGtjR0M1Z2pia3ZBeDBzVzc2MlFIdkVfR21ya2xpRHdkZm_SAbwBQVVfeXFMT2hvMVVFVnhkWGpxUXVTUEZxUXVtU2tkbWlyNnNtb2txamJfM2xMZFFOR3pfYU9WLVZTbWxZWWY5elJQdDVvVWhuT1MxQ0VYWFdnQlBLMm1oSXYyOW91WmROU0wyMHBSWUU3RFotS1l4b3lMd1Y1ZjNveEZJekhFaXlQa3hnSllnRGpFRXZESGprb3dEMEwxZWIyRTlHdFUxUkV3dXZlcVh5Tm05NDlVRjc5NEVqYUxOQ25QalU?oc=5",
@@ -456,6 +488,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5a3cc6737db651cf",
+"title": "Apple Pay launches in India: Axis Bank credit cards supported, here's how to use it",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2N2TXBrRFFXbXV6MGd2VGdaX2V0NUtmelluajJGcmhmazd3NXBwZmlyc0pHSjY4Y2tiSVdrNzlfVXdaT2JETFFFaDNzQU9odjhoSU9IWXp6UDFCUWl3bnQwV0RZM1hQeWxsdE1MMnAza0UxV1RneGJ1dUlEWjFOc0N1V2JHQlpBVnBnNTl3dk43dEJtOXlaMDRJQm81N0Y0Tjd4SjBhcFVPTzJQYTRuY3gxckhlWmp6WnfSAb4BQVVfeXFMTkNzczV2QzRBUV9nWFVfYjZNYWtKZWd5MkhzNm9JOVJ0bnZrTV9oQW8ybDBsTkwyUjVJbTFoWEhhU3d3UkJra0dhbkdfVHZyZXZqMnVGWXpmQmhuSzI3RkJJYVA2SnF0V0E3eFJhLXF5ODlNaUplVVBxZ1hDLUtkX0JyVy13ZDYtLWdibktoZEdKTzF2Z3NoUEZORjJ5cFlFZEVjai1NTVhsXzI0YTBZOWZuXy1FSWx2MUNJSmtiZw?oc=5",
+"source": "News24Online",
+"published": "2026-09-30T02:22:11+00:00",
+"first_seen": "2026-09-30T02:46:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -601,6 +649,22 @@
 "source": "9to5Mac",
 "published": "2026-09-30T01:19:00+00:00",
 "first_seen": "2026-09-30T01:34:07+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cfcfda1aa756c24f",
+"title": "Apple Pay now rolling out to Axis Bank customers in India [U]",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDBWR0hLSWRBRENvS0RJZ3RhU3dabmVNOUVycDMyLW9RTGhSdnA1d2NYekJHUGZoaXB2bWtYTzJrTXNvajlERHZfMWg3UC1FVldTcTU5V0JUZWhYRmtMaVRsa19VaVhDU1ZLY2FlYzFxY2VLY05XUUdVc2QtOURRSXh1WWtQWlNIZW1lQi1mcnF5QTQ?oc=5",
+"source": "9to5Mac",
+"published": "2026-09-30T01:19:00+00:00",
+"first_seen": "2026-09-30T02:46:56+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -4228,6 +4292,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "537610d9f1ad4a88",
+"title": "Asian Paints (India) slides Tuesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkF5T2RYMzJKbXZ3bXBTWXlOanBndklFUk1SMDNxVGppSGJobG1MNnRVVWxtZ2xMemhrTWNLZDA1TDRPM21vVU9CNWhFZ1hmWUsxcTNaR3BVM3JqRTZ4TWRjRkpYVnNMWG8yNDJsczA5N0prTjk3dXJCVTk4YzJDV2w0LWNSUTJSVXNkandsejRHdjg1N0J3Wkp3eGlPOE8yWEhBMTNvckl5anMyVF9UYTdfVEdWb19NSnNwMHNmb2VVZDlR?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-29T10:32:00+00:00",
+"first_seen": "2026-09-30T02:46:56+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "5344844eb6b2dbf4",
@@ -50333,91 +50413,6 @@
 ],
 "tags": [
 "Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f1d5d34e7bef2e61",
-"title": "Oil India’s premium over ONGC looks stretched as mid-cap bias drives outperformance: Kotak",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1lVb1duejFtelV0WTQ5LW51b3gzV3AzU1V6SHdUYTZqYWdzdkpDdHdLYmFZUzJ5aXYtSjBLLV9NN2xnTkdPV1RGeFZnQXduQ3psNjhEdEhyTlNhNFNnMWM4cWQwMjNnSmhTRVRhaEJESDNRTWJSdzNEdWNTZS1jclZTUFp3TnRyaUxvUHVFLUhSUks3ZnZ5SE5hc0t5UFJHeVVMbldoQkRfUnJMTF8zUU1uT0gyeU5RYVZEM3QzU01QOXVIYXJYYm5tWDZ0a3pfaUlQeUZYTzc1Ui0xZmt30gHkAUFVX3lxTFBwb1liVVM5VGx1NjFBYTNTZGYxd1NTRURiXzVUem5EajhGMFlFNXdSQzN1cXlqZS1SU2ZzZURsbjhBZmpZMkN5QkRmSGN0Z1BTU2RydWxGWkVQdkdmeHZPTEk2alFNWmxobVBVbFRZcWt1Qmp3R0ptNjcxaW40TUF1QWlOYm5JUmtUZWkzTzY2V3NacnhobVFRN0gybUJBUGUtWFF0WTBhSUEtX01WalJjd09RLWJVQVR3V0lHOWV0ZEJ2cXR5TGpGUGd5V0dIejM4RXZFbzByWV8xS2dpVHVYcEFIag?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-23T16:14:59+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "dca8a41e924a8327",
-"title": "Adani Ports may outperform on volume, profit growth expectations for FY27",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWlE2cC12OW4wODkxTG1SWXc2endJTkw1QmNpSV9hZnZGb25pVV94NDhEemphMU5zUjFxaFFseTZkQmVoMlZzZGdVVVg2d2J0V0FuRGRSZUJkUm5QMFR2NzFjZ0xzazhidF9qVHl6VWliSEEwSVIyaURJZUlrNUNfUmlHcGZ5VmV2V3VYU2k3dFRmWHFyMGdrV1hScWlXU09Jd0pvZHRfUGtfRXJlYmZKeGRNR2FQaWtfQVd1WVhIM1hRTFdreWc4SV9COURiMXd4Q3hKVW1R0gHbAUFVX3lxTE52eFZaVFNPcTFLT21FSUxNSGdOeUVteGl1dndUY2lDVW83aG52SkJkVG1MUTlSU3lnNFVZMXl3Z0lCNGxESjdHQVdGNzdwcDZhTzZCUEJ1RHpsVk9nZ3FLcXRDVFgzWUl0VWpyUDk1SzhhYTVCczFCeDBPRHBSdzdrVk54aUlWWHRlMWcyNkxiUW5TaDRhQ3gtY1VzaU1ZTDFITzA0eFkyZ25jV0xmZFpMUVdwNVZ1cjd0S2VWRkY1eVRhQU1NZmUzYlIxV2VwemdWWlZzTi1pbWRDSQ?oc=5",
-"source": "Business Standard",
-"published": "2026-09-23T16:12:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "ee7cbd0c6807309e",
-"title": "Bronstein, Gewirtz & Grossman LLC Urges HDFC Bank Limited",
-"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOFBGSUxaYUZTalFRUnpWN2NYdDAxTEVZWnFQeld3UnpXZkE0LWZlcHZ3VzJBaF8zckFKWDJBTW9zTFAxUENScFBqTTctOWZnRFpCaVFJdGIwU2NyRkpTaERhb0FqZm5VVGtxc0VtMlRwVFFtbHB2azhHb2dKU0dhNDFYcjBFeU1uanRsRzcyZGtHQlN2b043SlNHeDNzbTV4cW8zSlFzRm1rVWNKSnV6ZEs1SzFOenh1M2kzNDk0SFdMTDZzWG9ZblNNc1pXX1c4VzhjWEw3cVdZX1RNM2tPb0FCa2FoQ19laGoya0dwbFlhei0zaE1ua2FkaGtGc1I3Vk5lRVp5LVZZOGNkNnJsMXB5MXVobDQ?oc=5",
-"source": "GlobeNewswire",
-"published": "2026-09-23T16:00:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9ab9b2a01be916d3",
-"title": "New York Road Runners Expands TCS New York City Marathon Kids Kickoff to All Five Boroughs with Nearly 5,000 Youth Runners",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUGxzR3FDSTlmNWZXaEtnX2ctaWdNbmdxYmFoN1lpbTFULVdTRTJ1ZE05bUFSVmF1MlRuSU1JT3lsZkJLa3lGM1h2YnFmVXV6ZC0teW84a2JfT3ZxY2oybzc2Qkx5S0o1Z0x6R0w3XzlibDBwMWtIeFJtalpneklYZmhXSVQ1X2pjQThVX3o4X3BXTzBSM25FX0tkbm1iWlNpeUFxT3BwWDdVMERVUEYwQzFmWi1iTnBKdHRpdFVycXNHVmp1UFdIZlE1Y2RQbzdldlNScXoyTDA3TjY5V2piUnp2WlVibW5hakJzdjNfOUJhY3gwR25oaDdjdzRnUk1S?oc=5",
-"source": "New York Road Runners",
-"published": "2026-09-23T15:56:22+00:00",
-"first_seen": "2026-09-24T14:19:22+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8d9df6460ae82399",
-"title": "Power Grid acquires Barmer HVDC Power Transmission for Rs 18.98 crore",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHhCMlVMNDNZYWhOVWJSRmNJekM3bXVmS2xtQl9CMHcwMkROOFB5QzlwWS1CMDd5aU40ajJYMm5DOVNQYk9QTnQ0MktxNElnM214U0FSYTQzUlhUczFFMW53ZXUycmpFYVJuRG15Rl9NbmYxa1hSNWhuZW12bHowT3Z3ei1mYmkxRC1XckxrVjFKY3lwcmoyNWY3VlFTZUlQeEFN0gGwAUFVX3lxTE5hd0JHeG1BT3dJX09QdDgyVk04WGg1YkZIYjFJbkx4QlA2T3VBbHdFUk5QX1pMdUNRV0REYVVFREtqdTBxLXFqQjZlSEczb1ZzSmJqallWUkpJanN6MV8zVjFUMWEzSkkySmU3enB2WnFmZ0w5dU80WHNHUEFOa0JKeHNwZjhHMkVJaUR1aWdOYXhSalJrZ1pCcHdkVjd1WUhaSkJyUDdRUVAzcFRzU1Vs?oc=5",
-"source": "PSU Watch",
-"published": "2026-09-23T15:48:54+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
 ],
 "sentiment": "neutral"
 }
