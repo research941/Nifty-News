@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T16:59:11+00:00",
+"updated": "2026-09-30T17:20:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "bece4a541b667f5e",
+"title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaU1SbXZySnVYb1plVnVRSTFCb3kwMUFVVlNwcDhaVW5EeGU0OUdYeW85ck8xbkxUVXpISDVReEZlZW5Lc25oN2EyVWh2aG5MUWJ3bnRDMzQ0SkVXamVXRHVXN0cybC1XMDg0WDNRZ0ZoZ3JTWER5QjctS3l0bldoQ2pWeUt6Q0VtbGxvRVRTZF9aRnF1S3NQWERwZFlTRnRIS1ZiMHJndGc3Zng1REJseFJEaFFldDBremF5MzFnSWZlUlk3SDFHSjdPcWRsVU5qblR6Sm5DMUprMWJXbU93bWpJM1VYZTY3TzdJ?oc=5",
+"source": "PR Newswire",
+"published": "2026-09-30T17:15:00+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "2b42d8c3c4134ebb",
+"title": "Rolls-Royce's Trent Upgrade Timetable Emerges as the Real Gauge of Its Post-Rally Valuation",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa1hkWGxnWXB2VHlobDIyNE93MTFIZnhtR2pKeEE1WHpWV0pNSWR4dGtEWHd6UWExSHlFcVpXYnBxN00zNUVXNjJqeVBRMnY0aGo5SjFWelA4eDFXUGhvYnVKMmREMzBEUmhQNENkSnlKdEZpWnY4MUJxVWw1Zk43Uy05dENvTTFHU29RVDE4UVdhMW9HMmxWU1lzTnlDNm04djlTNnRBZ2FLNnFzN3VCa0NVYXNmdkZhOU0xUTd1bW9oQjJvZUNZZk5XNHktWmRqQmlqVWJRUWViZw?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-09-30T17:01:54+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
+},
+{
+"id": "7c79f19026a0487c",
+"title": "Axis Bank opens Jalukie branch",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYTdJRkJoRGo0YTJmYkpWT1VYZXJvbHprT2M3SklUSVlvUGxOeXRlUWZhVUNUem1CaW1TQmVUVU93US1kcF95WEpSdTlBRENZRnpxRVRqZXIyME9fOHh0dGZoSnBIaDQ?oc=5",
+"source": "MorungExpress",
+"published": "2026-09-30T17:01:04+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "44dbe0641029bb47",
 "title": "HDB Deadline Alert: Levi & Korsinsky Reminds HDFC Bank Limited (HDB) Investors of Securities Class Action Deadline on October 13, 2026",
 "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWlTZ2ZUYXR1eEFfSVBWeDNxWkdUa1dkdkdWUXJhaDJHd2NnOU01bFV2T19WbFlxZVRQWWdmNVRURWJCS0tBekp2Z05iRTQzX3FkcFdBNFh2cjl4VElGZ2VZMEhnUnhLdGFPTXJxTDhwcDZ4ZXlMX3R6bWZoalljV1ZuS05kaWNEQzlveTg4WHNOdmE5RlZGWGZSb0pOYV9qb2ZOOW5PdV9KS2lVelNVT1dZUzRHdkFZanpSLUtuc1otWXhzVU5Hc3M5eUpzbVpPV09FQWhpNE9kdVZpVUpMS3dqV3dUejZLQVc2LUE5eU5xS1hTWkNCMTVsdDJxYTUtd3RpY2pzNkIzZThNR1BwakxOSQ?oc=5",
@@ -545,6 +597,22 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "ec59ec038947c228",
+"title": "Can Ratnaveer Precision Outperform Wipro, Kaynes, Syrma Amid Soaring Laminate",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdzI3VUdaMXFZZEZGakRHNTJQekFIM0xqanZLT1hic0JxUmRRMFJEdWtSa2xRb1VSaW9zYjVyVUdFTkF4UzRhX3ZVOUFuMzAyZ3Bob2w3X3BjUE0?oc=5",
+"source": "Motilal Oswal",
+"published": "2026-09-30T16:03:49+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "ee7cbd0c6807309e",
@@ -664,6 +732,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5b00f34b37d53cb4",
+"title": "Havells India - PB Fintech, Wipro among 8 stocks that hit 52-week low and slipped up to 45% in a month",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOODcyZHQzdmltSGhEV1BlTmVWOFFicG1rd3doV1dCell5cDVBQUtwLWVnUnhSaWU4MkxTM3JaUjFtcUZ2U09TTVVTU3FqMWM1ZXJ2R01JVXNJTUhfSFpsbmNyU2o0NW5MQjR3dzViQXNsaWRXcjdEbEpJZW1idXBuS1hZWUNFT2RjMXcyOU9DQ0NBcXBsTW11azFqbkc1dlFvT1Nrc3VidlFQUE96N3BRNXR0SzgzSXJOajFIU2QwR25kSlVLSkJaNzM4QXFROUdrN3lIUGlxWFpkT21Fa3hkTHBxZU5ydWpodjc3X2tscHM0T0t6bmNLQlNDLXlobmc?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T15:23:28+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "507acc303e47d7bd",
 "title": "IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1pjUlBJZXlVclpqWjhyaVgwVjZXWFU4UEZOWEtOb3JBNU1YM0J0Z1FDc2U2NTZmSGJKTTB5YlJEMU5xdjMzX3JGcDRRbWVDd0s5MmFUX0ZmR1IzeGRqSjVQT0tETzVfak1Uemh1RDk1R0hBdFpYMHBPdnYzTWRsNGMtblh2SVI1emxfMGx1LU1Edmc2VVBPQzJDd2tiYXg4MzJqV2xNS0ZWZzZpcFFOZi1SQVZuQWtqbFJnUnluRmw1Vjk2dzlJcTQ0THJCQnlielZMZGRnSUdxWFBJMWtsSDc4bjRvdHRvM2NjYVB4Q0N3NFpf0gH6AUFVX3lxTFBpOFI2M1lKNjBLUG9kZEJGNHU1WnozRmpTRThnMTdoT2VJdG81RjYyTjZXQnNUcTRieUgzY18tSWNtWnRUT0M3TUtNM0JOU1ZCdXNlamdyUGp0YUJKMXcxb1JYSXNjX1NlY3dFMy0wdlNOUk9hNkxBR3dSUGQ4WmtpeDhkTkhRM01ianZxX2owSDhQT192LUVwai0xcEt2UmxsRFdQNVl5NDJqUTdKcDQ4UUpIWkphSU5WQzNSLXdOdURtaG1XX21SNE1aRTV4eGk0QTdIZ24xOTItZm1JREM4Wnh2cGs0SE40N2dlRXJqRXBuWEN2RDNUQ0E?oc=5",
@@ -734,6 +818,24 @@
 "Infra"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d30b59cb83e7771e",
+"title": "IndiGo Appoints Gaurav Hazrati as BluChip Loyalty Head",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZU1UNVQwWlduX2xrUGhiY2pBbHNabTJXMGVfd0xNQmFCYjdLUnNfYXpWdzFlalBSeEFfel9jQnRWWGgtZGkzM2Z5cVpETWZydkxnOWNnYXZYb25SQVBKUWVIVjd2bmFpRmlVeFpaS2dXcVJVYjVoQldLS0MtbDF3TjNsQXhEcHlRWnVyTWY5bUpKaVBuRkE5eGxpazdraktYWTJ5Qkp5bEpHTDRULU9Z0gGvAUFVX3lxTE1lTVQ1VDBaV25fbGtQaGJjakFsc1ptMlcwZV93TE1CYUJiN0tSc19helZ3MWVqUFJ4QV96X2NCdFZYaC1kaTMzZnlxWkRNZnJ2TGc5Y2dhdlhvblJBUEpRZUhWN3ZuYWlGaVV4WlpLZ1dxUlViNWhCV0tLQy1sMXdOM2xBeERweVFadXJNZjltSkppUG5GQTl4bGlrN2tqS1hZMnlCSnlsSkdMNFQtT1k?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-09-30T15:06:12+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -2239,6 +2341,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fc9ccd4fbfb1bd24",
+"title": "Tata Consumer Products Ltd Falls to 52-Week Low of Rs 953 as Sell-Off Deepens",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2FsY3RjenJoYzdhXzExeDZnMlVaNHV2VmhHZW1qbnJmRlBnRFZhZFBQaWhycHliOGZEaGNOTXNDYm80MDZ4QjdaaGtHU0VMMU10U3ZxT3dTUjEwUXlQUEJPQUh2ZE93NzRCdWc1aGRMNW5Ic0dqZDRXcURlT3IyR2kwYW5GY2RLMFdHekIyTGQtbGV4d2FkTjg2QWNNNDdtZ2E0dVJ4WkdXbm9WcmlVV2xxcy0?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-30T11:27:59+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "48a9d5417aa39f15",
 "title": "Airtel Money Secures $90 Million IFC Cornerstone Investment Ahead of London Stock Exchange Listing",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmdjZE1BR0pYU3hpMjFXeVptU3NHOTZvQS1SSGpyX0Nnemdoc0VpVGFYVm5XNWxqWXJna1ZuUU81TjVRRGc3N0ZGTVpqakhncWlELVBobDBGM2pfY0p0NmhqN1VKWnFZU3Y4Z1NoT1R6RzRoU251bVlGWEt2UV9tQzRra0NKMWRNNWZVQ3BXMWp2c2RnX3c?oc=5",
@@ -2877,6 +2995,22 @@
 "sentiment": "positive"
 },
 {
+"id": "584b10f31baeac24",
+"title": "HCL Technologies climbs Wednesday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1A1OTdta3hjVWtYbTJrTEpwZWM0SENsejg2d09qOHJHQV9aZFhIcVJjSXhQZTdnUHROdmNZbnNodXZ3MWg3NWFVU2FvQW8wRHdOUUhBN1M0WmFUQ1BhaEhsaXE5VFpBSk82RFhRcDNfa1ZmMjIyX3ZNWlIyNWN0Y1pDY0pxMHdGLVcyYWo5dTFpSFk1cnFwZXJ4YmliSWxCSlhIQzF1YkR3akVkTEl1d0VNVG4yUQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:33:00+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cb4435aef9a3dce6",
 "title": "Infosys extends IT and AI services deal with ABN Amro",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTY5WXBYMHo1bzdsUVpDXzd3T0k5bEcwajdIWGVveDRRemxtakpIS1pJTmxYRXJMSEpidENKd3RXcG5oUkpKTEpYQi01dFZQZTh5ZUtSS2FwZVJJTDM5YjNpdjVxT3pXSV85ZDBTYnZCZmFqeHlaa2lYWHVCbEpEdGEyY2Q1RHZiLXgxMFVWUmNheE9mVUpZUEVnNkNsX3F2YXltS01vSHRVTFI0aDRpTFdn?oc=5",
@@ -3051,6 +3185,22 @@
 "sentiment": "positive"
 },
 {
+"id": "5e911ffa4452b06d",
+"title": "HDFC Bank falls Wednesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm9rbGhLUGhwdDNOZkxxYVlWY19hRkwzMUZ1SmlJRDJRVzFOeU5SQmRTbVFiLXZRQ1ZHMVIyNmtkWDdZUi1kXzQ1cERXYTdYaXJmVUlpZV9FcXRZNlVEcHZyc0kxMC10U3NzNWR0WWxWanV5YVFzZk5PTl8xOU0yaDFTOTRpaTNSbkM0WEdVNEtRQVloY0EzOGRHUXJJa01xdzBCTHZNODdwa29QSnFnZGVtcDAtek9tak1nYWsyYTZsQQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:30:00+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "a701e9f024f73e35",
 "title": "Infosys Limited (INFY) Stock Price, News, Quote & History",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVTBfd1BXNDZZLWNrVTQySDYwME0wN2dYRENjeU9TZDBWZGg1SGpRZnUyWHJqcHFiRlpLd21tMXk0RFN0eG95dEFGeU9WMDA1V0E?oc=5",
@@ -3210,6 +3360,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a7639636dce3c823",
+"title": "IT stocks to buy: Deven Choksey sees 15-20% upside in IT stocks post correction; TCS, Infy in focus",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObDh2QVVud3pIbk1pNGhtdWZyU0ZsZFlYdVJ6R1VuX1BkZ0VZaUlrbFp1b0JHVlI1dVlaTVp3OXVCMmt2eVZUaFhBZzNMUm9UOE5PbW5pdnk0UzNxUk02c2FPNmJaWGNMR3NlZnRKNWkzcWlObnQyR0x4ZTFkcWppeko1UUdNWXYwb3pUUXJxSFRjTTNtSHFrZWJwUzV2dkI5allNVDA0ZkpZeWdlVXlqZU5jUlcycENQdE8zSGJzaTdCSG9pM3dkNmlXcW1rMW50SzNFc29LblVmWEN5cm1PdWU1RWUzcVQtX1gzWmNPYW83c2V0dXA1NEZQOUZXQkFnUk95NzhZZ9IBhwJBVV95cUxObDh2QVVud3pIbk1pNGhtdWZyU0ZsZFlYdVJ6R1VuX1BkZ0VZaUlrbFp1b0JHVlI1dVlaTVp3OXVCMmt2eVZUaFhBZzNMUm9UOE5PbW5pdnk0UzNxUk02c2FPNmJaWGNMR3NlZnRKNWkzcWlObnQyR0x4ZTFkcWppeko1UUdNWXYwb3pUUXJxSFRjTTNtSHFrZWJwUzV2dkI5allNVDA0ZkpZeWdlVXlqZU5jUlcycENQdE8zSGJzaTdCSG9pM3dkNmlXcW1rMW50SzNFc29LblVmWEN5cm1PdWU1RWUzcVQtX1gzWmNPYW83c2V0dXA1NEZQOUZXQkFnUk95NzhZZw?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T10:19:22+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9772,6 +9938,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "66429605d40ea3f8",
+"title": "ETFs Investing in HDFC Bank Limited Sponsored ADR Stocks",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42b3hFLU03YnFBU2RBODdWRVdkQWh4TkxhTW5jUFNIV0YwSkM1b3FSaVUzblg5LUVYWExYdU1aNjRCR2dhMGtIYkxKc1RoMjBRN0FSRDRweFZnTGQ1aFpv?oc=5",
+"source": "TradingView",
+"published": "2026-09-30T02:25:36+00:00",
+"first_seen": "2026-09-30T17:20:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50238,184 +50420,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "39fc9cc808079a68",
-"title": "Adani Pledges ₹1 Lakh Crore Investment in Bengal, Calls State India's Second Karmabhoomi",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVy1rLWV1R2lDZnhpRWE4SUdvRFBQb0Q4ZXhmVHgySTJlZFFyVE9RVnExMXpSSnlZcUhmZXZ4T0VLRGtSTXhaalhjNzg0RXp4TGt1MjFfRTN3MXBlQUx6cnlkRV9rSldwVmdxVG5RVDRNQ0haaGh0aVRfaGQtcTVUYi15VmY2VUNvUkNpT3pHU2RNZEJ2cDQ4UFpR?oc=5",
-"source": "Oneindia",
-"published": "2026-09-24T15:13:59+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7bfea183d0b51f61",
-"title": "Is SAP (XTRA:SAP) Undervalued On Its Wipro And Aramco STO360 Launch?",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZW9fR1RhOUZKT0VtRmVQYTRNMUI1NnpyTkN2Y1MxcjZnX0E1a0JrMWhqa1ZWcjVEZkhiZFpvbEtWbW40bmZ4ckVScGlVd1R4bUhIdVVaNmRoZUdES2I3eDFXWEFFaFNBQ2dTRVY2U1hPeDJyWlgySHhUUVd5S05OMDEzbjhRZGhhbkdVdm9mT3ZPalZZdElKMk9GNA?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-09-24T15:13:31+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9ddaf34c3c471273",
-"title": "Bajaj Finance (NSE:BAJFINANCE) Gains Attention Amid Financial Sector Momentum",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHZxeWV4cGJVRjNBcnV1cjFPcmlWYm9tODA5Wjd2ZVROR0I3WjNDMldjaXhlOEtqTjh3T3BtelBBNmhSdENGdTQzSldUN3UtWXI4LUhCQXZDRU55MVloTXMxZXBkTTRZZTl6eDJoSF9FYkVWNEI4d282SURWV1hSVG5DelpYMUU1LTJaZ0hfQkhtWmpRX09xTkk3QnZwMkFlTTk1UkhUYmpuTlpuMnlpbGNOd1RydUZvbnVKODl3Z1AwWnFvVl82R3J3QWxMOVU?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T15:10:00+00:00",
-"first_seen": "2026-09-24T16:19:40+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "52db4328e4fbb891",
-"title": "Hindalco Industries (NSE:HINDALCO) in Focus as Copper Prices Rise",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXM2bGp5algwTGEzUVRMV2hsSE5OdzlSbjRhQnJ2eFNxWXpUYjItLTgzQlZFZ2hKeERCQW9LdXI1SHVxMzd0SUJtWVJrVHBKc1pXZ04tclpRcmdqcnBoRlo2aFJ3ekprWEcxNGpsVmhoRkEzV0E5ejRfN2lkNWM1OHRuMzNIMUE2RmtoanZ2bDQwSG8zcjZTcUpxRkwzM0ZJczFlNEpiOFNiSXJnbXRZaVZvQnVHMEM1SndIdjVZNlJIZDlYLV95TGFZdw?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T15:10:00+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "56f198d3b73dea96",
-"title": "Airtel Enhances Mobile Network Around 4 Mumbai Ganpati Pandals During Ganesh Utsav",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2JQOHlwbXJLZlNxVlNkWHo0eUQ4dFZiRTlxOUlSVG1RY3hDN0xSV1FMcVBKVmVRSFlaRXcxdk9ieFFFTGxJMzNRa3JRcmIyUDUyVGVCWDQ2akpsamI1OUJ4dF9pX0sxTTBCV3VyRi1FNnJna1lNcWp5R19IRjQ5bm5wWHh5Vi11SlNqTDJnekh0OVZKcVlWOExTN1dJejFvYUdQcE9NUjdMUXJ4NnhuSjk3Uk9fZFdFTUZhanpB0gHDAUFVX3lxTE9ZdFQyMnN3OEFQck1nbFVrdkViNzVDSVdqbDViSjYxbXUxOWx2MGdxbTdZa2w3OVRDRGFLbDZ6TGRRaTg2dEhlYkhzM2FiT015VU5PYWp3ZkFvMnc1M3FRNUVHa0NnODNLQ3RyUGxKS0NLQVlsNjFad29pdW5BbURpbGFJUUhWajhYZ2RmR3lUQXpTWlJRVUZ0OG41Y01tckF2R25RZHNCZzRrSXljeFJLc18yYkozVVlLX2ZIeU8xLVhsQQ?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-24T15:03:05+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2aaf4f6b937822bc",
-"title": "Reliance Industries Ltd (NSE: RELIANCE) Explores Longer-Term Rupee Bond Strategy",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1JEVUtHcTFTU1ZhLV82RmNIZXBwaGMzYmw2T09CVnZZNTd1RkFOeG9VbWp5S3BMNXRBZzBTN2ljdURHUHV4OUlSc2UzR2NFMWowZXdfMVI0bzNmSzRLZ01pUm8xQnFOd3hlXy1OdlBKbVBxS2szUTVYVlRKVnV0MTlseTNCb3doMnNhMmYxcDVja0c4TTlBMF9feFJ3dFgtdVNZQm1FbmtLdVp5aFRfMjN0Z1UzVEZ1RGVyeUFWRmFPaFEyV2xxWkdVUmJtdTl4RUlrcFJ4VU5pOHZp?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T15:03:00+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "df7f3983c2c3f05d",
-"title": "Maruti Suzuki India Ltd (NSE: MARUTI) Starts Green Hydrogen Plant at Manesar Facility",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUkpxWmI4SW96MnhaM2lOaVlNUlFmMTdRa3hmM1F6RVZMTDB1cGg2Rm1ldjhBUTYyVTNIR3pGTkJINnhUUXdiSFFfaHB4Zk1tcGxFdG56M2hMX1dzRzRJejhhTmRJQlREWi1wZDczWXNQY1R0LVJXZWFzdWJBVDBaV2I0bUdRdE5EZ2Utc0g1SUJRaE94cXlXVmFDMEpRd0QtT0NwMGJ3Ulo0cVl0UXM5TV9MUVJWR0kzaUJvNDQ4WE1SN1lmejBPTDJmcmJCeWRVcjZMS0FZZ1JHU0xKSGJHbHRFckQ?oc=5",
-"source": "kalkine.co.in",
-"published": "2026-09-24T15:03:00+00:00",
-"first_seen": "2026-09-24T16:46:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7169a1c29a3260c3",
-"title": "Apollo Hospitals Expansion Gets New Projects Director for ₹8,600 Crore Plan",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUVCY1FtOG9FSnNvTmxaY0xLUDMtakNaTVRNdTAtZVBud00tZXByV1hVVi1SN2xJa1o1Q3IxRnlaMVhQYVdlUDVEZ0RfMGtGaHFaMG1sNFZzOHBNaWk3Ul84V29veWVEQkxWQWQ3akZmTkhsc2FJVDBhTm1IN2xQb2lHeTRfMS1VYXdSbGRtYUhMVGJ4TzlVNVpwcHFKakVkUE9aVUdNcUo?oc=5",
-"source": "urbanacres.in",
-"published": "2026-09-24T15:02:22+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5b131e598d223880",
-"title": "Why Adani Is Keeping an Eagle Eye on Bengal: All plans, no executed deals or Real Big events comming soon.",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnY4ajlwbGFWOXpwOFZOdTZoS3VxWThsQUpkRC1mX0ZubjlzTGsyVXJSWTlISVFNdFNOenJKV1BCb2NJbExOMUdQTjZXTmdBT29ZMURBaE56VUh0LUd5ZU1jYjJFX182VVRWcllscWIwYzlvVnJ1ak05S0R3T3ZzN1p5VGF4dy1Xa3lkZktZajNoZk84UzFTaXVXSzg1bXVwSTZSck1xS3Y0X3VLREhPbmk4SGFsZmhYRWhXOTVkOUs3TV90ZzNxZUpNOFU4Rmkt?oc=5",
-"source": "IBG News",
-"published": "2026-09-24T15:02:17+00:00",
-"first_seen": "2026-09-24T21:17:32+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0a36a6b1da845ac7",
-"title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYVdrT1B5QkRKMzIwek14TDMzQkY0RjJKRFFRNk9WQ1dVb1hrMkctYlBJdXBHQTBnaVZDMUY5aUVIWmVUT1dLT0JKeG1JSVAzZ0h1ZUVrWk1MQktoTmFTekEybGlMbWFVUWhueWpJSkRBdnQ3YVRzaTBpVjNaSVVmR3pEby1xMlh5dzBuTlFBSnZTRlF3WFhfVXN0RnRDZWVQV0JNYmloZWc1UWlnMG1jWHFtWTJsa2F3RHdWblM1UklTZnJPZ0REZXlaVzk0MVY0Nk9xbzA2aHJrWWfSAeABQVVfeXFMTUVJc2ZHUXBPR2VueTJUX1RrV082dFNnQ0ItbExPb2Rfbmh5dHRLamYtVzNjN1hKY3JMTkhPdGYtYW1LZmpCWHBfNGpEVXJMQV9WVWItVDFIdHJZM0JwbWRka1I3ZGttbVVJemFZdXN2RTA0Z1NHdEtvMjEwd05CVlZmNkprSkItN1ZxdWF3OEs1MHh4TG1RS3RCeWNMczEzbFZaaEdVWmt5d0VCbHJNX2dQei05NVdFVWFla211a0pzREZ1RU1XSFV2eWRybmNuZUdzN0xQRWhZTU1INl9oSWg?oc=5",
-"source": "The Times of India",
-"published": "2026-09-24T14:59:00+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2d17ffd23e72b990",
-"title": "UltraTech Cement Ltd (NSE: ULTRACEMCO) Expands Cement Capacity to 204.7 MTPA",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbWlRc21lQ3Fsc2hYWG9QQ202TDNnY2d0NlJITEJKbW9tX292WDR4eTNKZndJTXVldUFFRHo2R09nODRjSEZ0Y2hub0VGeENaSnVZZVZQMGRwMXdOT0tlMV9sa3JPc0Qyb09HZ25MMXVlMVlnRjVVRGtubG1nSGcyN0hZUlBWRWl4a3hWcl8zTFp6WUdFREVvUHBTejUtVFdfTUV4ZDdObUg3bFJkVE9fdEU0UExkeFZMMndkUllvNDhTMGFfdmVjMFVOeDRvanFZMk5HS2ZDR2FCeTJ2TXc?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T14:55:00+00:00",
-"first_seen": "2026-09-24T15:55:51+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
