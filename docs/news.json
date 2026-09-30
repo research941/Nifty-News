@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T16:23:25+00:00",
+"updated": "2026-09-30T16:47:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -601,6 +601,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e4438fdab9aeff59",
+"title": "Tata Consumer Products - PB Fintech, Wipro among 8 stocks that hit 52-week low and slipped up to 45% in a month",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZ1haUlE5dk0zN0NTM2U2dVN5NFBJdDZWSjZaUGRzc25fVFR4TXZpMHh6X1RCWVNFSUhtMUlxeU5BNHg3b1RrbDB4TjlMSDBNYlZwekxiUGxVampnZnM3OEgwZExhcm9WLTM2NURQSHRwM2lDci1tNS1JYlBRQVdER0FWLTJ5SlN0QkJ6am9JaFhtYVdMSmtVQWpaU1I4RkY1YmFSZktObnhBMUNFZ3JWbkxQWjVhZllJbWRSZEwwN21NbWZCTEJvZXg2UXA2WEZfVFl0aWV3bVNEaE1vbzVYbnlla1BaVUxVRUoyNk9FcTFuNVNfX3hsYkplQThSbTlnN3ZLcmJFSktucEk?oc=5",
+"source": "The Economic Times",
+"published": "2026-09-30T15:19:50+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"TATACONSUM",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "f1f413514e253a05",
 "title": "L&T Semiconductor Technologies unveils a 1,200 V SiC MOSFET platform for EV fast chargers",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelppVVBvNzdmVkVUVk9uZUF1U2pnYzM5TzAtd2lmb3dhSXRranlfLURJR3h3THV6SE55OC1BYXQ3dkhNNDhhTjRZTnZZcUd1T2JEcF90N0czQnJFYlM1dnA1Y1c1VUdqVDFZdmZsM3l0bzlLV0o3VlBaekc1cUVzSG0tMDNVT0VBeEhDWFgzX0F4bkRIRER5TDh1WFk2aVFzb2RyRWxSODRhd0g4TC1RQU9xTnRHMmd5elczNw?oc=5",
@@ -810,6 +828,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "1c2f2a8e931e664a",
+"title": "Adani Enterprises sets Nov 4 deadline for final call money on rights shares",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOclk3cllXc2RfRWZGMllrSmFDUkZYTUplTkp0Q2tlMk9pUVZBdHA4RjJhbldDc1ZVRVB2aWdxUkpkaVZfcU1RMDJpaGF3bXdVcjd3T3k5SXZDMXVONmhNRlJLVHNmSlFHOGE5Ry1WUDRZeTFFY1hWZ2ZTbEtuREVKQjZrQmtKbjlqb1F2V3FJcGdkMEFGVi1lMVFsX1JuQzRaeFRabEVydlVTbnpOaHd5VlhfLTRLMk9LTS15dC1YVmRTSk0?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T14:29:39+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4101270f1b1be970",
 "title": "Apple Pay India launch in collaboration with Axis Bank: How to set it up on your iPhone? Check step-by-step guide",
 "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb29HQ25qak5mQXRXd1J3anJfN1U0UXBrMlozTlJrSFZPUlRGYkdWaFkyZmhkbEtuUDhxVDE1QlBkcnlsYm5VTFJfWmpJZUpkendTNXUxUmppTnhZcFhacW15Z3puY3BBc2NDWW1GWTNIRGNlZXFIcU9LT1FGcXVwbERBNkFXOWQ1UE9hbmVhSGllS2hUazFJbjN4UVVWVUdVd1NTbzBqSFgtQmZ0djY5ZEFFb3ZpYWFvc0hEejZFZnl1WEttZlp0LVlBVllQNjltemNtU3lzMk1CdUdNdUFGQnBXX2s3RWJQSkdNd1c0SlY5czdGZkVXUzUza9IBgAJBVV95cUxQSlMtdkZUYktRa2dCYzNZbEpMT0R3NkQ0ZEdVRHlha1ZTUkItUUNyZ2lpbXMwQThpY1JNRlNra1F4dkoyTEpjN2ZtaHZxc2xxTzhsWHUtNV9vem5JdVR0QTJ1aVJYMDU1SVltZ1FpMmZNdV9QRWU4RzBRYXRvZ2RFdUw5QkRHT09vR3QzZFdGWk5jWlJyM0RyZGJYRmdmZllxaGVtX1hhMlZHVXdOM3FadHRMc0hsdENMMXd0bE9jYU5xcTU0NE1TbDIyeTh0c1hTT2I3QTVlY2Z5XzhPMXVodTNOQVlqTlZYUHNWRzJURzZZUXVaX1VyWXZzbWI0bkpZ?oc=5",
@@ -860,6 +894,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "57654ece9d33b9eb",
+"title": "HT Auto Leaderboard Awards 2026: Maruti Suzuki Victoris wins Car of the Year award",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU1R2dFk5cnNWUXlnbWd5X1k3bW9INWdxSGFoYWVKTVQzMlpEWUNXY1AwTThCNWhSUlhVcXNtM0x3dGVBTkRhOTlqQ2l1MU9EckdHaEszUjVKTGFNOUxJX0RtbVVQSWJvdHROOEV1OGNCeHlZWDhlSjYxTTkxaFp1akR1Zkd3dFdZTGRmUzc5VFBCcWlUT1NMdGZ1cFpyZTR3UEdBakdOOFRYbUR0dGRpRWJDR2w1dDU0aFZYUlJnalB3Zy1zbnk3Znk4c1pSN3ZFSGk2ZUN4SEpaa2PSAeABQVVfeXFMT0d2MlJUZW5wTV9yeFZNaGFEMW1ETWh6RF8xcmp4REFuN3YxWVJINGZpY1FUMFcyb21ZZExSbGJEd1R6TWRpdGp2RllBVlFIN0VtTDloV0FRMWZIdmFPZlFXM2c1NFFrWDkyYy1ETjBXZV9PUUdOQmc1NmtJVGxBWDZZSTAxSmxrWWo0VW1uQ0JNbllMajBZdmd6YkhyR0NKTENNSmlMcXRncE9IV3h6Ylh5TEpubDJlY0hSVkM2bkNSUFNTZjVxaGV2ekRndHZSN2JTTTNnLXdZQm9iQTBFUk0?oc=5",
+"source": "HT Auto",
+"published": "2026-09-30T14:16:49+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "10fac421fe67b84c",
@@ -2862,6 +2912,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1bc357b9e4e9a08a",
+"title": "Reliance Industries climbs Wednesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMG9rZ0QzVGYtaTM4cDAyaDltclpJSDBBTlNrSUsxSEVBbUxsYXhSc09vanBFOUdkN01aRS1tdHcwMmNTenhIMktrSDZCTUZ5Y3pxQ3AzYjZPVzdObHpJbUxpMzFhd0lVQ1RYdDZwQVlaQXBFY2NmME5JdjVnM2ZsQ3ZORUZwV3pjN2NiaW03S1p2LUtfeU5kX1ktV1VWdVlrZ1I3STVxWmh2UGE0M2JqY3FLWVhBb19jNVhOYU13Qk0tNjgtTXRrS3BNdkVGQQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:30:00+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -5517,6 +5583,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "265429d84fff80cb",
+"title": "Tata Motors Share Price News: Key Price and Valuation Data",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OY3lkQWlJRk1pYVhRaDlPZGtsaEJnazl0TmFkeUZJcFU5M1E1Z2p0ajFOcldFaDF1bFNZQU54OGYydTdJd29PR3Vjek5ONVMyZjNURkpEUXNSNlRuUkp0MnJXb3dzTF9DbnV0dTdMdldXUDRoOWJN?oc=5",
+"source": "Univest",
+"published": "2026-09-30T06:30:41+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9978,6 +10060,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b79f9017701f3283",
+"title": "Infinite Uptime and Tech Mahindra Partner to Scale Physical AI With Outcome Intelligence",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x0THgtd1hwX29DN0gyb190czRqdkFSekxxQjhlWHNaZnl6SHZYa2t0SnQxM3ZfT2F1ZGR4YkNZWmlhamEtS3NzWXNfS2pfbjlFV051aV9GNVduZlo5Vm1uWGtwSFYtMU5jVDQyUV9xNDJ3V3dTX0gtWE13bXdIdi1pd1JwekpBTFhGM2l2UmFTcmk0OGNhcHZNSGY3czdLdVRfbTNEX0VLV1hpemYtUkdnVGhIQWtlR2N2bnh4UjgxdV90TEdPTF93b0lha21yR2ZscDdFVTd6VkE5S1V2UQ?oc=5",
+"source": "uniindia.com",
+"published": "2026-09-30T01:21:00+00:00",
+"first_seen": "2026-09-30T16:47:57+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50321,110 +50419,6 @@
 "Regulatory"
 ],
 "sentiment": "negative"
-},
-{
-"id": "ac59e0de0b7acc61",
-"title": "Bajaj Finance Ltd (NSE: BAJFINANCE) Plans Board Meeting for Capital Raising Options",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3JQcGgwOURxdUhiQnhGTTZ1ak9YMXFGelN6WnRwQVVkMlAyYVVQQk1DU01DUnhVa2FTS2tYTEVERlU0YWpsS2VBNnBOSU5nUjBTbTl2RExHX1YwRkNLRW9oMkpuYUU0X0xSRmZuelVQYURVc2otZ05DZTdMcjNTS3hEREV6NnozcEc5WnNKZzB6UkNKclZlakNuaWhqbWVac3AweGFZWWRtNVpRaTZWWGhSUjlHenl6MnliNERhS2ROME1mVWRtNmpiLUhndHVPd2lOQnV5QTlydTRMVWpEemVn?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T14:18:00+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "be6240db6557b060",
-"title": "Adani Group plans over Rs 1 lakh crore investment in Bengal over next decade: Gautam Adani",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFA1QVptWnBORlpxSlBjNXpYODllcmdqQlFXLWRpNVVCVE5aa3h2SHdUQWF6dzFCUlAyQ1ZkekxSN0xoalQwdzdfMGJNbXpIeU4tdFExQmNnczBveFNwU1Q2ZzkyZnpLbFQxTkhUeUIwNjBHazVYSVhQajE1RHhtLWg3ZXBCeEUyeTFjNlNvMXNrM1dXaGE3alZKQ3RwUWd1QThSektVVmVxbXhIbXhIdXZpdnVMc2g0MmROa1BzOU9oVDQ4eUVLRHExSVBxbGdfR2FDajhVaWVKOG_SAeABQVVfeXFMTXM1Z18xVm5BS0otZV9MNjJwSkRBczJTTnAzam9CTnU4cXdiZEhvLUZmcUhXdnpOQ3Rkalg4dGx1YlhuQlFYQ1lRTFBLRzNCbUZJMUpUUFlBc0ludmJHTlFKV0M2c2JzZ2d0eW4tWmZFY2tNczJnU0VMUWhHX1JOUzdyeVI4NU96dG1XYzR1UW9IdzRndjdHWC1QVDlqM2ljN01kaWRXTC1mQ3pOWGd3S1RyWmhHcmM2NURxSy14NE1yYTFCYUd0TG0xRG1feGFyUTI2SHdHNFJXLTR2eWdnWWw?oc=5",
-"source": "Devdiscourse",
-"published": "2026-09-24T14:11:07+00:00",
-"first_seen": "2026-09-24T15:33:31+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6bf026feaa8e8fef",
-"title": "HUL Q4 Results Alert: Hindustan Unilever Board to Meet On This Date; Big Dividend Announcement Expected",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkVJdVBTdzRKWWNaaHZ1d2pUbTJ0S3NaY0pxdVhKaHBfSUJ3dG1saHZjUy0tUFRmNnduTVJVakV5ZjZrblgtT3ZKN0ZNNk13WHd2bUUtMHF6bjB5VFpDMEpCNUw5X3VUeS16aGQwQkVWVVN0OWtRTFluTjF1YmswUWN2M1pnUV9IYlExZnhWMVZqSWYwb0NySnhXR2FHUVBJMk01cDNXRHNlakFScEtLRXpZN29mQlBvSVFsX3ZxaGNCUWQzcHZIRW1qZmNZUkt6QXBwVldzd1c?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-24T14:09:06+00:00",
-"first_seen": "2026-09-24T19:55:27+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Results",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ae87130f54039137",
-"title": "HDB DEADLINE: SueWallSt Reminds HDFC Bank Limited Investors of Upcoming Securities Class Action Deadline",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQemNRRHMzcWllS1hHNDBCV1kxNjJhNFlqX1FUNWRqWUtLVGhQVkVkMjY0QVN3TzliYzNDQkFreXRXdGM3R19HcFdzREttVlRjX0VxTWpMeHBab2hERGdRVk9PMGpVNEhCX1lNS1pnOTQ4MllxbVpNeXJWek5OQjAyN181cFpiazlaSmloQkRIMlAyRU9sWW50Tk1VWlR0Tm5pbGhibWlwLUk2ekV0MXVmOVVDUzdDdWVVcm9PUmk5cW9lWTdUcVlRV19qTFBya3V6UnpzR1ZVcnNPdUE0YkxWWmQ3ZFR4M1A3bDdRTERjQlA?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-24T14:09:00+00:00",
-"first_seen": "2026-09-24T14:19:22+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5191adf0040da205",
-"title": "Gandhinagar court grants bail to journalist Ravi Nair in Adani defamation case | India News",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmhCcFFGdnZlVGFvN0o5dk5sRnJQYmc1YmVpVnVkY05EdjJDbE5oTmlEc2NiOFV5VnU4c0MwRHk3YkZ5SW9UQ0FrMUtscDFadlpkRmdvdFZqZGVqcGlULVluWW9iRGY4ZEpzYlpGZ2luaDVOY3VXbi1nNl9OU3RFclM2QkpTcFBzeDByT2J2eWp6X05uQ2FhNjNUZy1PbE5IcUV0Q0c4OWw3RUVoTWxGWEt4VWdfZFBnbnhSa1h5RWFOU2p4WUJHQkhMT1R0TVg1YlptaUdjakpVRzd2NXfSAd4BQVVfeXFMTWJoQnBRRnZ2ZVRhbzdKOXZObEZyUGJnNWJlaVZ1ZGNORHYyQ2xOaE5pRHNjYjhVeVZ1OHNDMER5N2JGeUlvVENBazFLbHAxWnZaZEZnb3RWamRlanBpVC1ZbllvYkRmOGRKc2JaRmdpbmg1TmN1V24tZzZfTlN0RXJTNkJKU3BQc3gwck9idnlqel9ObkNhYTYzVGctT2xOSHFFdENHODlsN0VFaE1sRlhLeFVnX2RQZ254UmtYeUVhTlNqeFlCR0JITE9UdE1YNWJabWlHY2pKVUc3djV3?oc=5",
-"source": "Hindustan Times",
-"published": "2026-09-24T14:07:09+00:00",
-"first_seen": "2026-09-24T16:19:40+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4a276e83c016d572",
-"title": "Mahindra & Mahindra Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGplbkNHcE41YXNoaEcwX2dydG5NUHBNRURxWUFENGp3Y1U0ZjhZQ3RLWUwtT1RyTkVhRmhib1hiM2UwUWl5WmxKa1BLUFY0RkIzZ0Y0cW1jQW16bXp0RTJGd3MzVWdtOGJLcUVwSWtRY1F5RHdMeWJXRG1NeDZQN1ZOaUlEOXBUMWpQckhmdEV5LVV6ZGk0cThjRmdsSjBoVmtNRzlFeTgyTTdXb3c4Q3RiU21MQm5FUUlmM1d4dTNMejh4VG5V0gHPAUFVX3lxTE5Cc3NtRzg5UWJYdVVKaU9GRG9BSkRvNU5Wcm85LWYwZDZKcktFVWZXdUVEZmh5ZDlvcVBndGNreUh2ZkdENDcxdERmWnBBbkVFNVk0c0thbnBYbGFmUkZPR0JCeXV6TUpiUWItWlJlazY2Q2MyVlNyeVdvNjNhR3Y0VUExSnRZMTVSbWJUYkVYeFFwdlA0UlZQV3ppLU13Q1J1TnBoUHN0WTFwOXV1Rk9CN0dWdGNTSThjUDhjcm9ZWWlqamlfQlhkdmQtSHEwZw?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-24T14:01:50+00:00",
-"first_seen": "2026-09-24T14:19:22+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Results",
-"Corporate action"
-],
-"sentiment": "neutral"
 }
 ]
 }
