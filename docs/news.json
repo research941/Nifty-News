@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T01:19:45+00:00",
+"updated": "2026-09-30T01:34:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "db07a327cc25c4cc",
+"title": "Apple Pay now rolling out to Axis Bank customers in India",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDBWR0hLSWRBRENvS0RJZ3RhU3dabmVNOUVycDMyLW9RTGhSdnA1d2NYekJHUGZoaXB2bWtYTzJrTXNvajlERHZfMWg3UC1FVldTcTU5V0JUZWhYRmtMaVRsa19VaVhDU1ZLY2FlYzFxY2VLY05XUUdVc2QtOURRSXh1WWtQWlNIZW1lQi1mcnF5QTQ?oc=5",
+"source": "9to5Mac",
+"published": "2026-09-30T01:19:00+00:00",
+"first_seen": "2026-09-30T01:34:07+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6c5865b3e2ae4c80",
 "title": "ORIX : Launches First Power Grid Energy Storage Plants Project Through Joint Investment with External Investors",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ2pfYTRKLU1EWlNYNUQ5WXIwamtaVzQyWUtIUzFZV0ZueWxNRV9CTllVakJaZHNuQklSVG9weFZnSlAxSWJHX0ZLX3Y5U1FUenltazdkbVczbFVZZV9CTHk1cG90cUFUcjhMemxHYzM2UHFVbndCd2NrZC1JS2MxNlJsREQ2SDdDdFBHenNqLThKWXZUMko1dWNGV1FUSFVwcVo1Tk96U2xRZVlMRW0xLWw3YnJiZm5PMkh2c1h4Z3Zhcy04dDV1VlRGTDljeHF3NWNCZktCVzFNUDJNV1ZTNnBGTDdBdw?oc=5",
@@ -488,6 +504,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b0d233fb65f85cd6",
+"title": "HDFC Bank Limited Class Action Reminder - Robbins LLP",
+"link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNelctNlNPQUxoSFpBZnEwMXQ5Vk05ZUExem5jTFBTYVY5VHVvSjFUTFR3U2VCLXk3TDNUV0RFQ0Q0d2g1dk9FLUJMdDMxU1IzZ285SEpFbzRyRzVBZ2tqVnFwdHpCT1M0eTljdWt6LXNEVFFmeDBQd3dxRkt4bV9hLUhYSHhnYzN5TU9jQ0xGV1FtalYwQjlxRkVTRTBvc1dqakhucUlTU3I4ejRlZ184VGhrT2MzdkJQa1p3MTQwcEYtcWRERW5KeTZ2UkgtU3hPeV83ZFl1NEFVQ244OHVxeVpIa0Rwc0YtbEVZOGQ2MFF3b3VBSm50Q252c25BbU9pOXZUY2o5MlBzLVNiWWdqTmpsbjl6T3F0NlMtbm9MRkRJelgzTy1uVjgzYjloUm5M?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-09-30T00:58:00+00:00",
+"first_seen": "2026-09-30T01:34:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1436,6 +1468,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "422d4a8f7b9969db",
+"title": "Why Is HDFC Bank Share Price Falling? Stock Down 4% After Firing 3 Senior Executives; At 52-Week Low",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm9hMFFVdk9hdkFOVXRUdGRUVjV3NHRlWkJaZWFka3poVmtBTDRCb2ZEekZCeDVJN1RKRGoxVzIwNkxjN2ZselJUTjlMeUxIeTFOVlZiNVowdk11eTA3NTdTeThSa0J3ajBBeE0yVzRDMmthSUhDOHViQ1NKLUkwaDA2NVF1cV9VR2RkaUpoWHBHTjlDdnZSLVk5UlVOOXJuc19GVlY4M2ZVdVN2U0Q1UzBBanRIRHF1Z1BF?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-29T17:00:36+00:00",
+"first_seen": "2026-09-30T01:34:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "05a0ecfec4432c4f",
 "title": "Suzuki ADAS Plan: Affordable Maruti Cars Could Get Standard Safety Features",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nUHdGNWdoQXhILXl3TEEzcHRBTk5aUlFpNUtRNkVOekdNai1qdFgxQ0ZGUTJqMzlpTGRHTGlIUFlZdDVXc2pSZ3d6SkxkZndwTGZ5NFBleE90cGlnOFFHM29zcDBxeTlrMWpiY1lZbGV1SkhMbFB2UXJtYll4Zw?oc=5",
@@ -1856,6 +1904,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e9c327b254a00897",
+"title": "Tata Steel acquires shares in Singapore unit for $340m",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQW9nNkp1eW5rT1NKZEtITUtISmJpWm95Y05wNzlzRTZhTTlfX09IYUozQmw3cjM1SDE5cXFpTVBHa0lwT0V1M2JGRXpRRE9OUll3LUNDSFZ3c3ViXzAtVTNlOVAyREZ2YmlYeXVqX3NlOVRYUVR4VTFRZzd6MmhwS2FxMXBoYlFmVlZMM2hNTl9fdm9kTUN6ekl3RUNwZmp4YjFMYXNrWll1VWxrbzFON2prcXQ?oc=5",
+"source": "Investing.com India",
+"published": "2026-09-29T15:13:58+00:00",
+"first_seen": "2026-09-30T01:34:07+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -50359,72 +50425,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "e4a401c37f6aed2b",
-"title": "HUL loses valuation ground to parent Unilever as stock underperforms",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXdaXzVlbDlsYnlXNDhidy03S0JLZEtFS0JqTFpCRnk2Y0pra0RCODlFVzZBaHN4R0Y2M1NZdWpoYXY0Q1dNbnZpamNWQUNXZGJxcTZjZVB5SUVQbUZkYV9YZzJxZWtlMDFqdVU2eUhoclZXdXNrUDJFbkZwbjZyMXprUHNpdVZBc1hTRGc1eVh2UWp3ZDFoZ1d5TE9JWVlNOG1NaVlEMGV2OUQtY3NJNW1HONIBuAFBVV95cUxQSkdaRmZhLUd3ak5xLTZHVkRBYlJEa1JtUTRYMUhMVXB0d3ZuNnZYNW1zQVA2SzZWbnY3Y1hOM0FTTXAxcmdxTThyV1lCUHJ2V01QLXVGb2dUZ1cteW1BTlhQbktWakZONldKUXhQLVFHc2hYOEFkZm9xTm1CWUlVX1pRS0RDelJUdjM1d1ctNXpBWVdRVlk5NnlwWUprVS1fYUpwekdSZWpsYkRaM1I5Qm5ZZWljbm13?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-23T15:11:32+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ca160fe582e8cbf3",
-"title": "PEMA delegation, ICICI Bank zonal head call on LG Manoj Sinha",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTdPLW5IZldjbk9GUy1XX3pvOU5qS3RnWmZXZ1pPOENxb2hMODZfdUlMODNncW1KNTY1akpTZHRJb292Yzh3MzFhdlBxdlRKdEVxbzVncDR1OTVuLU9jUTB3THI3TzVRQWFNaS1pcTNPS29yaGtVSC1lclU0Y0V1dXhFaVUyNDVLUV8wSDZoY3hLNldTdWpiZXN6TzJWMnQ5WHVzNHF3?oc=5",
-"source": "kashmirindepth.com",
-"published": "2026-09-23T15:07:14+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bd2e5e20331d47cb",
-"title": "Bajaj Finance board meets Oct 1 to consider fund raising plans",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG5NZzhESUZaNXRxcjZVT2R6Y1hJZ25sLTEwMTBJT0hvbXBxX252VC12Q3BKV3ZkU1dLOTJHMmRwX0ZmU1NQUDRRXzhvaENOdGNzMEU5TlZaQS13alItYnlBUkg5OVJhanFQaVhQcHZ0TUNwaGxhd25rN2FsZXA0ODNnX1l4NXdTWG5ndVVEUVpDcnFhOFlxNm9KOEhkQ2VrbHZoM1hhOUVOUGxhdE11N3cyQ19BVjA?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-23T15:03:10+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "510715f4010b4ecc",
-"title": "CM Yogi Adityanath Govt Pushes Power Grid Upgrade, SLDC Review Ordered For Modernisation",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGtGa2R2M1lBYWhLWGdiU0VuUWpWUUwtTFhCbUlSSTVIY3M1S2ZRcFdxS2EyS2Fpb195ZHdiZDZwLTJpRVN5aFEtMkQ0UmlNWUo1Q1RseEUxLUgtZEV2b21aWmhkM0JvakpiQThKckFUek53NGNtRkc5MUpaOE1ZVkxEc282QTg3d3Q3VkVBLWRuZDgyVFFSM2pRaHkzWnRPUXM3dzlpTHBoeXR3bUM3TFE2LWx0UVhGRlhxc0tsRzAzcDNsdWtwMng0cmJZdlVUUHlz0gHTAUFVX3lxTE5Ea0ZrZHYzWUFhaEtYZ2JTRW5RalZRTC1MWEJtSVJJNUhjczVLZlFwV3FLYTJLYWlvX3lkd2JkNnAtMmlFU3loUS0yRDRSaU1ZSjVDVGx4RTEtSC1kRXZvbVpaaGQzQm9qSmJBOEpyQVR6Tnc0Y21GRzkxSlo4TVlWTERzbzZBODd3dDdWRUEtZG5kODJUUVIzalFoeTNadE9Rczd3OWlMcGh5dHdtQzdMUTYtbHRRWEZGWHFzS2xHMDNwM2x1a3AyeDRyYll2VVRQeXM?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-23T14:59:48+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "positive"
 }
 ]
 }
