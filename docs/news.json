@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T10:36:58+00:00",
+"updated": "2026-09-30T10:52:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "92c1a10967215545",
+"title": "ITC buys Yoga Bar owner Sproutlife outright",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2doaTZzYnlJdzNobkxLOWZqMUxXNFRvLXJSWEdfc19qZ3EwY01QMmVjY05HVkEtSG9qVlJwWWZJYjN4dVdhMzVPdWlGMlZiWUZ3QVJVMFRoMS10bWdoQ2huTXlNRS0zU3VTLWc2V0s1eFcxMzNBTV91RkdtNi1KRQ?oc=5",
+"source": "just-food.com",
+"published": "2026-09-30T10:49:44+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3a63fd252dcc121e",
+"title": "Infosys extends AI partnership with ABN AMRO to boost bank's IT efficiency and innovation",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd211Q0EwMmhvTU15cEJORzFMbVZCVUxidUJrRGlGNGRwRzE4dnJBcHQ2bnUzUDU0czdFMUVoTUJGLXc5TWRMWGx3dTE3N0k5ODl1ZE5IUWxBMTh1MFMzUHV4dkg1bzBxTTREYWxURkhDMTRKOFlPRm1aVmhGYWN3UC05RkJZTENHcUhZeW91VHRqQUxBVzZQZlcyWHUwQ1JhaGc?oc=5",
+"source": "Pluang",
+"published": "2026-09-30T10:43:48+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2f761514d55ee4ee",
+"title": "Wipro extends Alpha Net Consulting contract acquisition to Dec 31, 2026",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHdvNXk2SmtKTnNmSnFsMXM4d0pNa3EzLU1RMVhDSllPSllGWDdnT1BmaG5mblI2YWVhOWM0Y3d0bTBfX1RoektlWTJIYzdoTjFCSTN3QzlGWG9qbDd0OU95UWVQVldGV2F5cGw3NGZEWXk1aFBSNGlIOXRGZjZZOFQyTk9YMUQ0WGtjUWNMWXR0YjVna0ZmLUtSajFJd0ZwWU1lR1RvaUxaWUJtaTBaUXd6YVNGNTJBWGp5M2p2Nl8zUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T10:41:13+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a5f37d523c4cfe9a",
+"title": "L&T wins ₹7,500cr Dubai Latifa Bint Hamdan Corridor contract",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREwxbkFzM1h2WmZSSUo5b2J0M2ZoY1psX09PTVJSVVA0LXFSYThMWjF5NnpkNDhaS05SajBUbk9zZVd3VXF4SVhqWjhjSkJQRmFCeEdCMktiZXRGcS1rajUtMjVMWEVuRlZwcjFPSVVTNFZXNExRZmY1RWhpTHZxQzRrdjNidmlwODN2MmQzWXlwRmM1SEdkdXBONlE3NXFjYmd5MjZvWmROUVU?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-30T10:38:15+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
 "id": "cb4435aef9a3dce6",
 "title": "Infosys extends IT and AI services deal with ABN Amro",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTY5WXBYMHo1bzdsUVpDXzd3T0k5bEcwajdIWGVveDRRemxtakpIS1pJTmxYRXJMSEpidENKd3RXcG5oUkpKTEpYQi01dFZQZTh5ZUtSS2FwZVJJTDM5YjNpdjVxT3pXSV85ZDBTYnZCZmFqeHlaa2lYWHVCbEpEdGEyY2Q1RHZiLXgxMFVWUmNheE9mVUpZUEVnNkNsX3F2YXltS01vSHRVTFI0aDRpTFdn?oc=5",
@@ -817,6 +887,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a249978ecc89add5",
+"title": "Bank Stocks to Buy: 7 top picks with up to 68% upside from Citi, UBS, Macquarie, Jefferies — SBI, ICICI, HDFC in list",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa2RNMlZoU0pnT2FIRmdzYzlsNjJCYkRBTVd6UFRaMk1nU1hiS3V4WU9mMnJjdU5oR3ZuRnJUNjdQVHVLZFdkbEt4T3l6emdZYUdPelBnWFMtaldPc1A2YjBnZW9neU5iazVhbUE3U0FpVGxZNnJQcS05Y1hmTE51ZzBBMXBZWVRZMEltdWVTcExkOHZDUUZqaURXV2doci1adVR6VjdmWEJQMEhFQ0dmVzNaRHBtbHhFam1pT1R2NUxzdkdETnhrcXJieGlrNUMwb096RDYyWlNfZ0FqTGt4R0pLQUZzTzlJY2E0?oc=5",
+"source": "Zee Business",
+"published": "2026-09-30T09:46:49+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d8f86fbe314c41db",
 "title": "Apple Pay Launches in India: Hands On | Axis Bank Credit Cards Only, No UPI Yet | TechPulse",
 "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXMtdDdScDlRSm56elotUUMzdVVIazF1TlVLOW0wNldDUjREcE83ajRwY0xOdFlVOEc0Mi14RldrNTRabWhRUE9mQUtCSjJQVnJsWjhrZzJYUnIyWFBQbjhtYk05R0pWTnJGMkFUUnNCRzBuNFZnYkJjQWhWSGRzaU02Ni1BRWdaaW5JOE1DWVZBeFJGWEk2NTMxVWk4ZFdtU3A2eGVXTTZweTlYVFNna05uQmxGOTFMX3JrY29zVVc0RzZYeTJPZ1NZc2FwUVlxMmVodVRmZE5JRHVYeGJHS1VidHRDeHU1QzhN0gHwAUFVX3lxTE1IWnl2Q0d1MGUxLVpmNWRMSmhBOS13c1BSWlJsSnVUdnZxeUdTb0lMVGtPUmlUSklrSVpPQlhOVjhPaTRkZjQySFlLZmVDM2dsNE90LW90bndVSkJIOTBLUlVWTDVpakZTVk5EQm9fMDI3Zm05OFM2WUpjX3VWTDU2TUVZOXFiZG9QR0lGdFBtU2hISXlLSU5IRXBGQnRCbkttUEZmSC1LVGVieGRDcFVjRlFOR3c0WUE5YWUzdEhscGdnelItYjlpTG9NRGwxZEpLcVE5M21la1FSeFliYjBtUDBXWlA4d3E2Zzc4Tlc4VA?oc=5",
@@ -1014,6 +1100,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4fe61973dc7d40ba",
+"title": "Apple Pay Launches in India in Partnership with Axis Bank",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1hxTks5d21MUVl6SXBuRFllcUhhR1VIX0pCNXlPckNfaFdJUUc0MzkzaXJnSkNsV2w2SVF3dDNXSnRKbHJIV2J4NVVORGxGQmgzeW9VMFY0ZEVUeUhWeHpMektRUy0zYmdaOVZPX1hmeFlVUjJQSThGZFBRQkRfZEhqYkRqSkw3dWJlbUQ1ZDlOZDdVM0FfbTJJbFFFZ3kwQlVKMGZkMFp4T2dNOVZoTk11RTkyUQ?oc=5",
+"source": "The News Agency",
+"published": "2026-09-30T08:49:25+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -2338,6 +2442,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "38841b835ae5af4c",
+"title": "Adani Defamation Case | 'Hide & Seek Approach' Gujarat HC Disposes Ravi Nair's Plea Against NBW After...",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWo4cnZGMDRWbWR4OTJLU0tQYmxHbkhXcjZNcXMxVFJOZXJpT0NQSUhqWGtXZ1NGVFlsMzRPNU1aNjV2NERKR0tselh3QmctWHZSMDJaXzROOE05eUd5bXZ6VkY2Wk45R0FVSmVmWnNaODk2NWRjblhFdktwNnBuOTAyeTBiTXFCbEFva09uT244dFdFVDBhM2RYdGgycGk2V1VnR0stYmNpNFI5ZUJ2ZXBfeXp2V0hHZm81V3ZfOE9CdWZsNGp0b2ZNM1p4c0RUdl8ydmkzam5pQ01uR3Z2MG5TUXludEZFa1c0UG9BWTVGcGQ4dnZlUmxyNDPSAYICQVVfeXFMT0hoeXVCa1RuLVZEdm5VMjhGaUE5b1M3WDZiektRSnU4ZjdoQjBRUXJFR29YTFlwVDNMV1BBWURMbURYU2NaVnVsSFREV2NpejF3ODI4LVJHSWs0c1FxU2o5Mk42eGRFTTVBNkgwbDVjTlhtVjBUQXh0UGdpVVRHQjR3Ui1KZmhBbnhYM09NUmJWLUlMMUtQeDFFTnljWmIyaXBtd2dhU1ZMOFBXeHB4MktuQVdTRVlRVzFBUFV1bFBIelFuZnFsN3lXWWFLMWprazRfa1RwMnBDM3RzcUlBTGw2MzhUVTZHRzRmaUhVMGF2b0h6WlFQanpUN0ZhRDRHTWZR?oc=5",
+"source": "LawBeat",
+"published": "2026-09-30T06:53:56+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "18156f5562113d31",
 "title": "Larsen & Toubro secures twin contracts for Latifa Bint Hamdan Corridor development in Dubai",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVlGbWgtVzJhaURBdjd2QURfY3BSQ3dDUEI3Mk15WTMxeFgwa2xuZE15TFdCeHZpVDFUbmRBTFpVTGhUdUViZWlQa1MyQWRBSHpiUHNVSER5NVZmWGYwY1Vpb3pTb2JIX21UWWRRVk1jU2p5c2lBTWVrMW9DQmRZbFgtUnBzRGFjVm5VSEg0QmI5WXJUa3ZLN2xYWnJ1dlpmaVpLY2M1OHotZ3ZHT1ZxV093b202QXlLR1RSRV9JUElTUGxV?oc=5",
@@ -2547,6 +2667,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c14c8b78d9735c4e",
+"title": "Maruti Suzuki Victoris On Road Price Alampur Sep 2026 - ₹13.30L",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNG1mXzhhLUE5c19zVFNvU2s1dk9XZU56dFhQUVdnTDRmbFRZck5XWjRVcHZVYXhieFI0SlQyRFBCdVFCaEU4UGZMcUU3bWVzT210d1h3NC1LQlduMnhoYTFZNFUxaklRYzVnS0VxOV9aWnJTS0hHWVA4ZjJHaVFReS1R?oc=5",
+"source": "zigwheels.com",
+"published": "2026-09-30T06:35:49+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2772,6 +2908,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b6615852ed18abc8",
+"title": "‘Unresolved spinal fractures, peripheral osteoporosis, sarcopenia’: Ex-RCom MD Amitabh Jhunjhunwala granted bail in SBI loan fraud case",
+"link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcXVHenRtRW5haXBGMFpRV1RVbVNMdFhTV3JBbmtXOTdtLWZNYXJrcDVKWU9jVkZPTEtCLW5XZ2M2TEFrNThTTG1wQ1FDRWlVTXpSYnJvWUNabWFDOGhJSlVDdTgwd1FybnZBZ1ZIeDc3Nm1TVlNRU2RINXhYeXBNTTJ1X2plZDZsZHp4bHF3RjBXS1ZDcmVvQ1pkclZpREk3R1JsSERoejN6RjVqbkdDZ3h3X2pfZU9hcnBZc2w3UnQ4X1l4c01lRzY1OHd0N25LNlVxSjNFMEZ3YXJfcEVaWS1oa3lUYV82WXNnRGZIU19jS1RFYkhwS3ZzcmZEcUlVV25XQlI0YTROVlc4VmZKSnQ5enVNSjVUVFFIUTVn0gGeAkFVX3lxTE5xdUd6dG1FbmFpcEYwWlFXVFVtU0x0WFNXckFua1c5N20tZk1hcmtwNUpZT2NWRk9MS0ItbldnYzZMQWs1OFNMbXBDUUNFaVVNelJicm9ZQ1ptYUM4aElKVUN1ODB3UXJudkFnVkh4Nzc2bVNWU1FTZEg1eFh5cE1NMnVfamVkNmxkenhscXdGMFdLVkNyZW9DWmRyVmlESTdHUmxIRGh6M3pGNWpuR0NneHdfal9lT2FycFlzbDdSdDhfWXhzTWVHNjU4d3Q3bks2VXFKM0UwRndhcl9wRVpZLWhreVRhXzZZc2dEZkhTX2NLVEViSHBLdnNyZkRxSVVXbldCUjRhNE5WVzhWZkpKdDl6dU1KNVRUUUhRNWc?oc=5",
+"source": "Business Today",
+"published": "2026-09-30T06:10:48+00:00",
+"first_seen": "2026-09-30T10:52:32+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "negative"
 },
 {
 "id": "d592fb7da7c1036d",
@@ -50220,154 +50374,6 @@
 "Auto"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ae65e70cb44df6bf",
-"title": "IRDAI shocker! From ICICI Bank to PB Fintech - A look at most and least impacted bank, NBFC and insurance stocks",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQUVZM1FMMWY0OEZscGhuVlVnay1zdW4zNk8xRXk2YTB6LU5qZTQ0R3k0VmNEUHAtZ2xTVWtmak5jSUI2anpsN3ViaUJSS3dMWHJXN3lsM0t1SVRWdTV3MnE1S183RVVkNmZxRUZDUjgxWGEzTGZrRU8tZkI5WWt0emgzYWJFbUdzeGtJWGpGM0ZwWXVBc1RuZndqMWNtcWZvOFZDM2d3dWJlT1UtM1RmTTUtLWs2UlFLNzdWcXZBS0ZiR1Vaa0Z3RnNKX2xPaDltVHNfNjJSZjgzUS1TY3Fld3A1UC14Y0dMNkN1ZWxsTkJZR1NuQm9nMmNMWUtzakdvc3l3RjdPcjB5U3BmY1FN0gGPAkFVX3lxTFBBRVkzUUwxZjQ4RmxwaG5WVWdrLXN1bjM2TzFFeTZhMHotTmplNDRHeTRWY0RQcC1nbFNVa2ZqTmNJQjZqemw3dWJpQlJLd0xYclc3eWwzS3VJVFZ1NXcycTVLXzdFVWQ2ZnFFRkNSODFYYTNMZmtFTy1mQjlZa3R6aDNhYkVtR3N4a0lYakYzRnBZdUFzVG5md2oxY21xZm84VkMzZ3d1YmVPVS0zVGZNNS0tazZSUUs3N1ZxdkFLRmJHVVprRndGc0pfbE9oOW1Uc182MlJmODNRLVNjcWV3cDVQLXhjR0w2Q3VlbGxOQllHU25Cb2cyY0xZS3NqR29zeXdGN09yMHlTcGZjUU0?oc=5",
-"source": "livemint.com",
-"published": "2026-09-24T09:05:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8fb00221c26eb8cd",
-"title": "Rs.1.12 Lakh Crore Erased in Financial Stocks: Bajaj Finance, PB Fintech Among Key Losers",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVVp0MnZPVjczVDJXa2hMc0I5OUhkUldQeVRXR2xCaWtiQnZjOHVYTXFNYUlwcmJtZXhHRzMzSTM4bk13QTJvTFhzWVluSmtqSlFEM0RKVGlldGlDb0o1U3pzTmNRUEVGbndwd1NTV19PTU9nNmp0R3NXRkktdnM?oc=5",
-"source": "NiftyTrader",
-"published": "2026-09-24T09:04:53+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "27cc208dd44d1f1d",
-"title": "Green hydrogen's 2030 outlook remains uncertain, long-term potential strong: NTPC official",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWdPcjZVenhKZ05xTFNHd0RPaWFvWFp4VktKbjc1UzhXVFBGS0ROZm1PQ19LSmI4UklQOVk4NlVaemJHbDk3dEpjQUdXVWltOUxRT2tTajc0M3hnbWdSV1VDZEJCbXAzMWY4SHVpNW4tTEV2VjZDTnlacWhXME4yZDFCbGltdVp1YlZReTJXUkJMQUdFT29sN1JzX2tYbS04LU9FdV9nRl9abEtteVZoZ2VQdjRsbXhvQlF6Z3dNTGJMWVhGRDd2bDNKYW1iTEEzYmxWVWJJdFMydURndHfSAd4BQVVfeXFMUG1nT3I2VXp4SmdOcUxTR3dET2lhb1haeFZLSm43NVM4V1RQRktETmZtT0NfS0piOFJJUDlZODZVWnpiR2w5N3RKY0FHV1VpbTlMUU9rU2o3NDN4Z21nUldVQ2RCQm1wMzFmOEh1aTVuLUxFdlY2Q055WnFoVzBOMmQxQmxpbXVadWJWUXkyV1JCTEFHRU9vbDdSc19rWG0tOC1PRXVfZ0ZfWmxLbXlWaGdlUHY0bG14b0JRemd3TUxiTFlYRkQ3dmwzSmFtYkxBM2JsVlViSXRTMnVEZ3R3?oc=5",
-"source": "Devdiscourse",
-"published": "2026-09-24T09:04:02+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "348b36065ddb0ca8",
-"title": "BSE Share Price - Live NSE: BSE Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
-"source": "Upstox",
-"published": "2026-09-24T09:03:31+00:00",
-"first_seen": "2026-09-25T01:54:50+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f3998bd09c50f108",
-"title": "Adani Group to invest over Rs 1 lakh crore in Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmYjdQTEhaY19aQUhBVENyNjRCUkNLVUY2STdnV29HOVRQT29qMGo3Q2tybnFJUjRRcnNvLUNWdHRYT1o2NWQ0QV8wb282UXhkaXVyQ0ZSc3g1b0tydFdKSm5RbXBYRVBmX0E?oc=5",
-"source": "Daijiworld",
-"published": "2026-09-24T09:02:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c1f5495570e8c245",
-"title": "Nifty Bank tumbles nearly 2% as Sensex, Nifty hit 3-month lows; Axis Bank, IndusInd drag",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXBlWFRHQVBVdnpwUDlxQlFZSWNTY2FORnU3aXdWTDU0VW1QYXYyYVdCVmVYZGZBQ0RJUWdETUc1d3laQ2o4OHhKWTJoS1pzcTNBeV9NVElTcGZ6U3ZlV0tITUFLSFNULThublFvYThDb3dQVFZKVEk0bWc5R3BXNFYtWl9RR1MyNzlwcXRLYVg1eUxvRnJDUnI0TDFld1VpaFdjSGVDX1dGZmU1OTlyUXFKQjF6MkpJald0X0dxNVVLZTlQWEhueTNSOA?oc=5",
-"source": "Zee Business",
-"published": "2026-09-24T09:02:13+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "199ad02d4bd5a03d",
-"title": "Airtel Money Targets $8-9 Billion Valuation in London Stock Exchange IPO",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0xBdkNKVHFhdi0xc2kxT2lQeGZWMzNqNkplZWxKaURJcDhEamhFVEM4cDR4bGk3VXNCOW5kdkJVTnhtY1dQWWZXWFZ2cWZJcEZmbDFMVXk5Q2JGSGg5WWdVNFdIbDh0ZnJhYXhVcENjU3pTd1Q1NVVCTG9mNHJ0YmpZZ3diODNyMmc3bDJlZW02TUd4Y09ZZFZxVUVhT1hIY3g2UnJ3?oc=5",
-"source": "Africa News Agency",
-"published": "2026-09-24T09:00:08+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "aa7446cb066f39bc",
-"title": "Adani Group to invest over ₹1 lakh crore in Bengal by 2035: Gautam Adani",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVdlb0xqZzU5YTdVUFdJdWdDR21oZHY2SnFvYURYTUwza3AzMWhQMHppSXJJUkpvUWVKbkJhY29Tczd6SXk5YUtKMGpHekVmamtWbDNvNGYtay1EMjQ5UGVWNUptcmxfdHdpTlJJNHRRZVNkVGNJenk1bVVVbVBORkdVSWRnSjNXVWJ1bjRQck14RzRIcFRkQzd1MzhKNUR1WGd3bXFWZkJ5cGJPb1l3azB5VTRVWkJZaURfNG82Rk5icFQ0ekZkSHFwQm1TcEl6Z1BaS0gteXnSAd8BQVVfeXFMTVZ2d0J1alg4SWduWmI3alg4NmJ2dFJHUkdkM1RsVHlhUnpnSjZTMThWYjZNd0V1azlqVFZQa0c0ZllHeVJaY0lINVNnZFAteEVZSUxWdVBKTnN6V1BWTTZFRG15cDlGNDk1a29nbmNhRU1HaXJTZ1RsbDVqTXpGNjlTXzltcFBzUENMWTBSc0dlV0hESU96a01uNkFYVUZib0tWUDJsUXJlWTdpSEp0NWE3Vm9MUlQxcFV3ZWdpZXpGcGpsOXdjYkxCWWxZMThDaENReC1yX3dOelZDb0xVcw?oc=5",
-"source": "The Hindu",
-"published": "2026-09-24T09:00:07+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "129b3dca994eacf7",
-"title": "Airtel Money will list in London, and the IPO raises no new money for the business",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjZFdC1LR0c2ZWFJeF91eUs5V0dFTVI2YkZTZUdXT0F1aktQWXpGVXlnQ25RNi0xUFlvbDhxMTJ3VXIxc29oVjFtbU5sQTMtalU5S3JjWXN1OHNiYjcwM19sRGUyenFiRVFSaThlUE5rTmRNd1hvbmR1MXY1M2R2YVdDVWNaYU9leFlCU2RRQVdEOHdjci1PUExOU2RkMjZCanZtVllwczVSWXVoWVM5UlFnT20?oc=5",
-"source": "tech-ish.com",
-"published": "2026-09-24T08:58:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
