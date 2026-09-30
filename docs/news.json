@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T01:34:07+00:00",
+"updated": "2026-09-30T01:47:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,26 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9b997bacca09a98e",
+"title": "Stocks To Watch Today: Tata Steel, Dixon Technologies, United Breweries, L&T Finance, SBI Funds Management, Pidilite, Britannia & More",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS0FKaEN5XzBNZWd5cEY1QU9YVjNoNVpZUzFHZ2xnaUVKaW1xZmF0QXVoaXF5WEFfWWRWTTVPTWJ6Y0ZvVG9SblhWelI1bEhDb2dVUUZrdEJQNTE3MXpkZTRhZy1NQW5IUTZteFZZWmpHaTJqUTBaenJ6SjJiX19hQkwtUzJvMGV5S3pwR1pHM0pDLUx6WDZ5RnFaNDk2N0dlV0ZQWVdtQnNyWld5Q2IxankxSU5jMHBxVXlmRTU5ZzhZeS1VaEk1MkdiQzl5WmtSeVZCMjdoemRYbjdGUFE5TjlrNDRHZC1PUkN6dEZXck95YnRUNHJJSGotak1Kd9IBhgJBVV95cUxPNWFCMFNnaVByTnhHRmR4bWxSS1dqNHNNaE8xbV9SYm5sSlhqN2NMUHQ0RlFtOG54S1l5NHdBQjRDdG1MajRrdE5NRmZ4elplbVpzUXlOWllhSGFXQTN6d2UxUW1teGZDWm02ektvZkVrb3B3cFAwdEM4M2wtSTM4RGdabVplLTFGRDhvMlZJQTQyZkZUbUpjblBabDliRUZzTnJaWDBoUVdnQ20zYk9ybmxNVnFiMzBaT0xmTDZEUEptWjNDbmFuS0pYZUprVFdLd25zR2xmMC1iYUZrSHRoeW9JQTJSWlA0OXBGeTJacnVwN2N1OFZ6U2wzR040dTdWaVpVTDR3?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T01:30:01+00:00",
+"first_seen": "2026-09-30T01:47:35+00:00",
+"symbols": [
+"LT",
+"SBIN",
+"TATASTEEL"
+],
+"groups": [
+"Infra",
+"SBI",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "db07a327cc25c4cc",
 "title": "Apple Pay now rolling out to Axis Bank customers in India",
@@ -1170,6 +1190,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "8ec504a17b483ab8",
+"title": "Patrick Njoroge says M-Pesa and Airtel Money should pay users interest on wallets",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmFRTGlhSi1Mb1VhczZHU0pidWk0c2lEUlhyUTczdl9fREV4Q3RIU3B2WERZMGNnMDMzdDl4RFE4bmhWdjhEd051N3AwSkU5SGZYd3hUS1I3VW1TZ1QtbEVOVUN2elc2Y213cF9TM1JOYTZHRkhfYVd0OG1ySzNsNkVkSmVFc3JHajR4TlJsa1Nxa041cU9nMGlvTHRJZVpXeTVRQWFabExGUHhBTGotYV8yN3A?oc=5",
+"source": "tech-ish.com",
+"published": "2026-09-29T18:21:06+00:00",
+"first_seen": "2026-09-30T01:47:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "72391fc45dd251af",
@@ -50389,41 +50425,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "69113844ab37dc87",
-"title": "Sedemac Mechatronics block deal: A91, Xponentia, HDFC Life likely to offload 10% stake: Report",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEs5eDBlYkNlY2dDaXdaRmVEQlFDRXd6RWRpX0JKMUpONUx4R3FNNzZsOUNZMVF5WXRJWUxTVC1LVjROUVQyTVVadVdvQ3ktSUJVWU1MVmZiaGRKSTh2cDROTWNiNERGVXdhYXFmb1BRS1dOeTZOc09FM3BTVGItTTI0VGI0QmVGZVdXdktDYkw4ZDNRMXFpTEcwNWZ5LTBlTDBDTzdtbTdxYkRuX2lTS0FRbXYxVnlTQWhfb2RvY1J4dmxySnVoVi1uWnNjeV9Yd1FKZkRfcS1EWFYtakxETThJazFnd0Q5UU44M3BVZkLSAfYBQVVfeXFMT0YzbGItUF9xbWE4NnQweUgySTRtWFJhS0tiTVU4d3J2WE1OamVsakw1MDlJcFdmc0FsRVhPTGxBb0RRS0Q1dG5uZUd3d2h5LVFNRXhaeGQ1emROSDFxaG04TGM5RXNkS290dUtjMTlHeUYydWdSYUhLUVZCRUpHVklBalpHclA3WjltRVZLc2tBaVJ4MUpyc3otUjNYQjFDMV8xaEp5b2d0MktURTVLYVR4VHN3SGllRW52YUxDQjVrcnBrckxFOHd4NTUzMGpxazk3dWZfQ0tMeGE2dEozNGp3S2d4U3Z5Z0dWM1JRYi1SN043R3pB?oc=5",
-"source": "livemint.com",
-"published": "2026-09-23T15:16:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ae7579f43daaf623",
-"title": "SBI Card launches FD-backed credit cards on YONO: Who is eligible? What does it offer? Check variants & other details",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbEFDNDM1MTVuZS1SUVR3QWJFVXNpaS1mMXNnWUozQU5xcTg5ZzdFMk1IYXRLWHhuWFBzcVBJVmx3cmZUTllORmpaUWtNOExtXzhyVEl4cE8wUk42SDJVcGRxSnhsOVpHcWpSQ0FGZm1BX3dtaTA2Q1c5cEdoaWQyYjVSSHVtU2VDR1ZPTVpVZS01Tzh4QXVlSmxJdXZCelNtSG1Sa2QzTDEyMzJBTy1UTkNSTnBLUUl2aUVrTnRVb0lONUlxXzNuNlgzVk5hWkU2aG1oVEtScGJhSzJmWXZZTkNjVlpGY1JfdHAtLV9QUi1Lbi1sOVVORENPTnBXanNQZDlTdWhxeXk1SWfSAZACQVVfeXFMT1ppclJMbGRxendvQ1d4bXlJd1p3cVh1VnhIS3gzSU9lS2lybm15cXlnMENzZlZ1TFJFWXNDVlRleEt6REhyTkt5c1Z3dTR2ZEpGYmFOTlZJSHZzNTBYb2RQWUY2a1FydUEyWWhJRUFkS1RZWXBhZDVjbWJCVUNpREZZQXh1N3owU2lGRzlNX3Q0ZDNma0lkdm9zUWZHQXZBZFFad2pCMUZYSGs1aTJuanVlNzJfRFpyRXI3OG90S0dUQjJXcFlYNlIzd3Vrbzhsa0hoMkdaXzJLUWtMbkFpVFdRUS1ZTmJFaFlqaXNjWUltVUk1SlQ5SksyR2pKdlRBdVY3cFVUVWxjYVpUYmx0TFg?oc=5",
-"source": "livemint.com",
-"published": "2026-09-23T15:13:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
