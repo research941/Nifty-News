@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T15:04:55+00:00",
+"updated": "2026-09-30T15:25:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,59 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f1f413514e253a05",
+"title": "L&T Semiconductor Technologies unveils a 1,200 V SiC MOSFET platform for EV fast chargers",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelppVVBvNzdmVkVUVk9uZUF1U2pnYzM5TzAtd2lmb3dhSXRranlfLURJR3h3THV6SE55OC1BYXQ3dkhNNDhhTjRZTnZZcUd1T2JEcF90N0czQnJFYlM1dnA1Y1c1VUdqVDFZdmZsM3l0bzlLV0o3VlBaekc1cUVzSG0tMDNVT0VBeEhDWFgzX0F4bkRIRER5TDh1WFk2aVFzb2RyRWxSODRhd0g4TC1RQU9xTnRHMmd5elczNw?oc=5",
+"source": "Charged EVs",
+"published": "2026-09-30T15:18:24+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9e8b283b4cf6f16f",
+"title": "HDFC Bank appoints VN Srivatsan as Chief Compliance Officer for 3-year term: Who is he?",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcWJObW5CMl96ZVVQNG5vMFpuNWViQXRrLWNqTHdQem1IWl9TaVR3Zm1XcC00RmhETXZWRUJTaXJZaTNZc05iX3hRY3JrX0RjMVMtakVlTktYY0VPakx4dXRUMnpLcmtnb1pIOHhfOUw2V1V2dHI2ZkEtbUhUeG85OWxuR0ZxbFlrRnZvdEU4aUNCQU0wOGxKbzdMOVlXOGQxTHVVcDJtc0M3TkRfWG9mVWtxV3hKd0FFLTJESDlWdHg5VFlIdWlaM2JxMDEzRDJVamdZRTZnWEJuanpYNFdKb9IB5gFBVV95cUxOamh0UDNXcTJnaVVEamhySG5oUnp3SElGZ2JVRG1Tdk11aXdLcmdxQUNuWWJZSFNvdk9hRVE1dF9wd01mQ1NMMXpYT0hTR1RQNVRrRDFsU2FYbHI1Y05EMHphb21sUHBlNUxVR3dCUkFaZEZSZ0tXWE5DZUlPVFB2Z21RV3EtQ2Q5cXdBb0dJbFZhd0RzbVg5eE9wZm1hVGhySVh5ak1qR2RCZWp0c2poUWhweXVYdy1CeExQcEZPNTFOSnRmTkthMnlWRlVZMjRJbjFxX2lQeW5LcjVENUx6dlRCNVo4Zw?oc=5",
+"source": "Livemint",
+"published": "2026-09-30T15:00:58+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "dd83bc348596ccd2",
+"title": "Video | Tech Mahindra Q2 Results: Date, Bonus Issue, Dividend, Share Price And More",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHVyemo4cmRSVElIbmJzR0RndW93aVRrd2FraEVBNktKXzFXT1djb01yNE5ENVFsek1XNDJqbFoyaV81ekpwdG5YRFVhUzhRdnNIQ3k3YmlPVWdFcWlfa0xBUG1sUG15cWdaR1dpSEwyVjBnTk9fcE14YjR5Yzc5MFd5YnRkcFpIcXE5RXFJU3pwV2pDejlqR2ttQ2RKS1ZZQ0J1czhjUVE0bWFNd1hnVFdOM3lOZ0xPS0R3Mzdqbw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T14:58:50+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
 {
 "id": "086deb947d8c8c04",
 "title": "HDFC Bank Appoints V. N. Srivatsan as New Chief Compliance Officer (CCO)",
@@ -1106,6 +1159,24 @@
 "Infra"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "177b4d9f71c5d8f5",
+"title": "Jio Financial Says Aggregate Investment By Co In JV Jio Allianz General Insurance Till Date Is 3.75 Billion Rupees",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdWV4YnAtTGZPWUlkbWM3cEI4X3B2WDRkeXYybmpOekdoRWFxOU5SWVZFSFZvY3FhOUN6dTNtOV9vZ19DczBRR3BZanpjVEk0bm5MZTV3RThJSEFWSXlfMWNsV2Z4Q2oxTk1jZ0daOTk4d28xVGVVcDB2eVRyWGFTU0lUaWp0NFFIdVlreExPa3FvUzFqVlRxOGp5N3hibHpNbDBDS0RDZlY2LWtPM2NhVl82bVpnRjdoWEVia296RTRkTG01M05kcWRmdzlGZkZwSUlhY1BWUnltLWVxYzR0MFNtdUFaUmxpbFdNQXJBZFFRYUI1SnlPQ2V6RE1SVjFHQjBHVTRpQ3ExNVJLb0RHX1d3?oc=5",
+"source": "TradingView",
+"published": "2026-09-30T12:57:11+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -6525,6 +6596,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "491e7a327738b72e",
+"title": "Plans to replace crumbling Stoke-on-Trent pub with shops and 41 flats scrapped",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjR5dDhCemI1NnJDRm8tSXBWSi1kYzBndlZaM2dBN1NabmdOdVhpazV1S2Ytanc3LWFTb1hUQ0VnUUhrV3NwSHpiZUNaT2tzU1RmTmxlLUJWOEx4SHlTNHBXRC1UeU1BVFRFbkNXWnFjelFJR2lMN1kxN3lrZ3RGQnlhMmtHQ2Zfb3U1WG16c3R2ZkI5QjBfWVNGMjlmdEl0TkY0?oc=5",
+"source": "The Sentinel",
+"published": "2026-09-30T05:00:00+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ea20ffd498d0c950",
 "title": "100,000 Infosys Employees To Be AI Specialists",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSmVCTS04eEtUX3JONE9pSThUR3gwRjlCdTNrMWp2XzB2RUlTNE1XREd4UnFzNlIzOWFfeVRIZ2FIOFdyVXRpSkVCMzlVcElsTG85dWRKTzN0a2l6Yng0RndVSDBFQjJlb18tZ3NXS2dxZGxBU0w2V3Rn?oc=5",
@@ -7609,6 +7696,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "31d9fdf4ae97e077",
+"title": "BSE Share Price Falls as Goldman Sachs, BNP Paribas Sell",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BRVFEenozX0w4MnN1ZTVQVkppeDVmZzRBUHZ4Yk10VENqUzJqRlA5N3Rsanh4TUdGNFNPSG0ySHAxY1dOdmxXWS01X0h5aVFVSDZLUFFoX0lOQUFvWFdkTTNtbXBIR3FmTXU5dA?oc=5",
+"source": "univest.in",
+"published": "2026-09-30T03:47:00+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"BSE"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "fbad69464146f3c0",
@@ -9681,6 +9784,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "eb407b7a50086a79",
+"title": "Wipro Share Price",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
+"source": "Upstox",
+"published": "2026-09-30T00:44:41+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6e71fab5cb8df704",
 "title": "Titan International, Inc. Statistics – HAN:TZ4",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam9mSU1nMFBFRDkwUWJOU2hFT1FMSWVtVng3X1NqREJqMWFUdEpRUS1YTFhGMUlFS0stU2tzWUh1SXItMXRIam9OY216Q2JhVHBFcVhFX284dnNyQlFyM2xpWmoxNzJiM29TN01LbWt3Y2ZnRHhjWDV3aEtGTTBuZXk1Zw?oc=5",
@@ -9909,6 +10028,24 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "506f137eb500e41c",
+"title": "Apollo Hospitals to discuss Q1 FY27 results on August 13",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTB3Qk9IRDFBUklGQkFTUjlBWHVfZkcxX3NTUU5yLW9qelo1NU16RGh4eXBqZjdDRzhlVUkzUTBCOEtsTFJKX1FQSjhtOEdUUUYtZV9RUXBaVUhlSkZoQmE1Y2ZyZWdVblZCWGZ4SmEtZ2E2SUVHbjVrWGE0U1NBcENNOGRDdFk3NnVieUgxTHNqNk1Yb1NsaWxKU2ZiNFNTd3R5MHVaTE1VcmMyWWxvaGNHZFBSbFRibkZtdndONHczU3FvSl9aSTJrWQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T23:13:52+00:00",
+"first_seen": "2026-09-30T15:25:50+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -50265,138 +50402,6 @@
 ],
 "groups": [
 "FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "501e8aa1375e2d2f",
-"title": "Power Grid Corporation Sees Significant Open Interest Surge Amid Mixed Market Signals",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd1BncjR4VlloNUo1SGRxaUU1ZU96YzZ4a2NoMFdwc2xLYWNfSnNSZUU1eTZJZ29NNjBQLTZmSi1oS2ZzMWE2ZExCUHFzUFVtTW5mV185bVdkVGVFS1pGSi1BZlhnazdLVUZ5elRDUEJKQUd6Rlp4aERzYzJVOWhmekMyNGprOU9RWndVT3daeHhucGFOZGNMRVE0QmVuNHpWaGc1R2FlVzVMVktIOHAzUXA1elM0RmR0QXZCUDdiVVJ0Q3VtakZoTzhaMmpyZ2NTUVlEVWZZMHptTms?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-24T13:29:08+00:00",
-"first_seen": "2026-09-24T17:29:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "ceba766268604314",
-"title": "Upasana Appointed Director – Projects at Apollo Hospitals",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3ZtM2dVT1U2MlJDX193Nmo4bl9JNnF1aTlYQXhvOG1DUndISjk3dEQ0blNnX0NXVW9fUUpLVjhWWFhyNDhqM2lnTVNkQVZDRUNwMUN5cjRvLVVVMXQwNzV0VXpwWUFkOWN2NUd3VDlfVi1sNEFyMU1nSTMxQ3VES2pJSmRSNEk?oc=5",
-"source": "Veloxx media",
-"published": "2026-09-24T13:24:52+00:00",
-"first_seen": "2026-09-24T13:34:37+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9fc595c7880f976d",
-"title": "Journalist Ravi Nair Gets Bail in Adani Case After Spending a Week in Jail",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNIYThWcm03M3F1cTZuOWlWRDhKNTRibEtOSXB3dkdEdjBGR1hpemhmaWo5dHVzc3dqcEhJME5aT19aMWZjdW9VODBZU1NwYkpvMzlKZTFlOHk0a2lEaHJIQnpMcTk1ZFB1dlJqbEQwWWN0Q3V1N0VLOUhETThZUXlkQ1lNUEtxSkZFSVc1QzRIelNxZ2x5SnBweUpTZEs2VGtnbXNSREx2Vkt0R1ItSnRvVdIBswFBVV95cUxNTnNIYThWcm03M3F1cTZuOWlWRDhKNTRibEtOSXB3dkdEdjBGR1hpemhmaWo5dHVzc3dqcEhJME5aT19aMWZjdW9VODBZU1NwYkpvMzlKZTFlOHk0a2lEaHJIQnpMcTk1ZFB1dlJqbEQwWWN0Q3V1N0VLOUhETThZUXlkQ1lNUEtxSkZFSVc1QzRIelNxZ2x5SnBweUpTZEs2VGtnbXNSREx2Vkt0R1ItSnRvVQ?oc=5",
-"source": "TheWire.in",
-"published": "2026-09-24T13:21:15+00:00",
-"first_seen": "2026-09-24T14:59:37+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a44bc1b68d37caa2",
-"title": "Bajaj Finserv backs swimmer Dhinidhi Desinghu",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUVhVV92V3hSSkYtOGFGeUlnWE9jc3pEX0NENUt0NEhVVnkxYk91WmprNmJQR29oakxZSk54X2tDS01uVUpsR1Y4eUZMdVFDUkhUeW9LM3dfOXBpbHZLLUw5TmZmTllreEtVZzhIMUFFMDJBZEZtWmNpeTdqeXN1NFRUTXlHYUYwbW9DLVduWXZUX1NLQ0E5aVFnSmVNSVAxdXfSAaIBQVVfeXFMTXFFYVVfdld4UkpGLThhRnlJZ1hPY3N6RF9DRDVLdDRIVVZ5MWJPdVpqazZiUEdvaGpMWUpOeF9rQ0tNblVKbEdWOHlGTHVRQ1JIVHlvSzN3XzlwaWx2Sy1MOU5mZk5Za3hLVWc4SDFBRTAyQWRGbVpjaXk3anlzdTRUVE15R2FGMG1vQy1Xbll2VF9TS0NBOWlRZ0plTUlQMXV3?oc=5",
-"source": "Social Samosa",
-"published": "2026-09-24T13:20:03+00:00",
-"first_seen": "2026-09-24T13:34:37+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "218235a3ed14d9d2",
-"title": "Adani plans Rs 1 lakh crore investment in Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2xmZE5Sa2dDcmwwUjhfZ0ZnM2F6RWdhR2hkZExUSkM3MmFYVWtBc21TWG5XN1FUNjBHMTdTeWxnU29QVWx3MV9ZeVNFaW1RU2V4WEh0d3BxdzBhcjhIQ3RxaS1qWmpuTmRMaVFYYnNhWWd5ZnV1R0szN25idWtmbDV2REFFSnNGa2JQVUpXbWdSVEkyR2NsMDl5MFgzRG1BbUhDQVMwOUo3Y2tURHhiaUdCVzIzQUnSAbwBQVVfeXFMTk5GSDY5NGJKS1cwWGsyajJCZVZBRVpCaGZFZm9ZX24zd3lHdHVPSS11dk1HaWpiX29hS3pZeGlpMFNfWHlEdjVEcTVIdDBGN3U2dmVYaGJ2MEF1VjllNUNVa2Y5V0JvOHJJc1VWU01KODRfbU5PZHhjWmpKbWFiWlY1WWQzTzU5SlF5ZnJwaUpUNU5CTjlPQ1Z6YnVYbm5xNXNUVTJneVFlcUgxWjdZdnZOUDE0TXBlM3VnUFE?oc=5",
-"source": "The Statesman",
-"published": "2026-09-24T13:20:00+00:00",
-"first_seen": "2026-09-24T14:34:12+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3cbb94bb1c56d972",
-"title": "Chainlink's deal with Infosys covers 1.7B bank accounts but LINK token drops 4% amid unclear benefits.",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlTaEFjcE1LX1dFN2JNcWt4LWtzbFJwQ2xLeGU0c01zWjVMRXZybG5jakhkYUJkZmktR1dSeWVVV2w4MV91QWh5eU5qSHdpdFRuczJRMGg0Smp6emdLM0N4ZXpMRWhTN1hLcFVTbnB0UDdiNzJDTjROb290UVBiTlZ5Q3BZV3ZMQjNBR1l1WXQtTG5GbnE3NzBET1ZadGh6NkNyX0xncw?oc=5",
-"source": "pluang.com",
-"published": "2026-09-24T13:15:33+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "negative"
-},
-{
-"id": "3e0eb273117aa97c",
-"title": "Maruti Suzuki Green Hydrogen Plant at Manesar: Clean Energy Manufacturing Initiative",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXNYNVdBZ0FDSXd6YVZlSGVFTjJjb2d0eGpUTUdadUtnVEVSaEwwN3V4Wk9hRGhsV1FqTEFLTHJpRzk1emdaYmlrWU1DSmxZREtZNE5wdEJaX1RIOGFfb0ozVG04YjdfU1BnR3JWU3NVLXloLVUtRDdWdWdnQkRlMDlad2NNa0R0UFNrMEtCbEhCMmNQd2gwZTlIdVgyVmhJSHJJeTBzekVJa3VHWkVfMHVBeWVjOUhCZEE5UjV3Xy14UjRtVlhlbEtCVmxiQk9jUDVqYXhmeTRXTUFrUWNXUS1acw?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-24T13:15:00+00:00",
-"first_seen": "2026-09-24T15:19:44+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2679a2b706b6fd79",
-"title": "Jio Financial Services Clarifies Conduct at J.P. Morgan Investor Meet",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQi10ejcxQzNfT0lJaVFteHRWcHlQTVl4X0RMcnZuY1hJMzFRT0x3U0xEN0lwbXpvYlNSY0tKSERRLWhjMm9sWHg5WW9teVoxMW9vOGx1aEtPS1E5T29paG9JOTZiLXp3V1Ftb1ZPbmVJbWV5bU1fNVV0MVJXVzRZZ1RScWxQVHlkYnJoaHV4YldmMDl5UW9iV1loNmpEVEtGUGxaSE5YUnVZbFRhbUk3Sk51ZHFDOGozdHktQg?oc=5",
-"source": "TipRanks",
-"published": "2026-09-24T13:08:21+00:00",
-"first_seen": "2026-09-24T13:20:09+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
