@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T11:48:33+00:00",
+"updated": "2026-09-30T11:59:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "009bbabff2fffc1d",
+"title": "This Pujo, bring home the festive flavours with Mahabhoj Menu from Gourmet Couch by ITC Royal Bengal & ITC Sonar",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRDJhVFRNMUJvbmdWYlZXZWxsbGU1eDBXNUl2bnE5RTVQenFFTVV2ajBIS1VKaFlVSnhkbFJIOFlOaUpSOE1FdWdSZ2x3bHdNTC0zQWFMYzZDNTh5UUhSTEVadU8wY2ZKdUJXWGxPbzNTSmtHZTVscWhJNzdpaHIyX1RmMnY5STB0aWlDRGhLaHpUb0U3TEdyUXRqbnVGYUh4eEd1bldrZjNVODZJZVZ1SzJRNnA1N05xcWFjeHBNYkx2QTZla1YwZVFUMmN5Q201dEtFbnl6LUtMa0lTaWZjNlN6RzgyTF9ZcTNtTF9vMDh3STTSAfMBQVVfeXFMT0QyYVRUTTFCb25nVmJWV2VsbGxlNXgwVzVJdm5xOUU1UHpxRU1VdmowSEtVSmhZVUp4ZGxSSDhZTmlKUjhNRXVnUmdsd2x3TUwtM0FhTGM2QzU4eVFIUkxFWnVPMGNmSnVCV1hsT28zU0prR2U1bHFoSTc3aWhyMl9UZjJ2OUkwdGlpQ0RoS2h6VG9FN0xHclF0am51RmFIeHhHdW5Xa2YzVTg2SWVWdUsyUTZwNTdOcXFhY3hwTWJMdkE2ZWtWMGVRVDJjeUNtNXRLRW55ei1LTGtJU2lmYzZTekc4MkxfWXEzbUxfbzA4d0k0?oc=5",
+"source": "HospiBuz",
+"published": "2026-09-30T11:50:08+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "936c2b51fc0bc67b",
+"title": "ONGC Bokaro Conducts Cleanliness Drive in 3 Schools; 400 Students Participate",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1oaDZHTTRLRzQ4NVB2SWVSU09RemNGYlduRmh1ZUhNeE1tNFY4S21qWWhkSTZtWVQtTGI0NFRDUC1RcUE1cXZEbWxoS2dUcVNYYmVIQjJjOXVqQk9sWFpTdkFJZktjN01RVWZ5ZS1QNGpiaDJ1cGc1OTM3UVJtQ1JTdUtUTVBXS3NqOHVwZ3lDc2pramVlbHV0V0c4cGcwUlFrY0pKTUp1LU5KSHc?oc=5",
+"source": "PSU Connect",
+"published": "2026-09-30T11:49:00+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ddf1ae303a0cbd47",
 "title": "DVC CIL Power Signs LNTP With L&T for 1,600 MW Chandrapura Thermal Power Project in Jharkhand",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjNRZUYwSER4bmFGNHk0djVKaUF0a2piNXRXaUZxWExQOWdvd0VaY2JuemFvOUFWV1BvSG41a2hHVFhmNVl3cGpCZ3ZOVEJ4MDA2RjZEWWprRVI3OUpFMU16QmpRY1NORE55ajdmZm5zWVdwS1pBS2N6NE9ZQ250bnBYRWpVeENMUmhyR0hIY2VFRGpDMTFwaE52RW9UQ01Id3c?oc=5",
@@ -510,6 +542,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c5e8388f398f8c35",
+"title": "Gordon: 'I've been dying to play with Trent for England'",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2toY0FQdy1QT1dpdUFBM1I4YXpaOHVtakdER2FrMldCb2hWci1Id2l2dW4taXJQT0xybUotenJuRTFKMnlpV0psWWgwYzVBRTg5RjVsMkcxUDBQMVQwR2lzemtVQ2R0TVI2NlhMSnh6ekxBX09TcGdKQjd1V2RFZTgxU3FvTFFZbXRtcWxBYnNTUE0wSVR3Vg?oc=5",
+"source": "FotMob",
+"published": "2026-09-30T11:37:02+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -922,6 +970,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "6e9c2554166ae4d3",
+"title": "Wipro Extends Completion Of Alpha Net Contracts Acquisition To December 31, 2026",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1pPY05HSGpIdkswU0dEbDdFZWJxTTByVlA0NXpVT2JpQlVDTFhSNTBFN3BEQlRodV95UTJnRkItbldRUlk2WTQ2RU9FS01jQ2d4V2VOUVBFQzAxTmRVa3ctTXhFNlBmMEdkcl9QRm5DLVVQQ203bmoyY1ZCazdZaVBRYU9vTFhhaWFnb1lJeUh4QVgwVHhBcVVmYmkzZ2RKaWhaZk1Va0g?oc=5",
+"source": "Sahi",
+"published": "2026-09-30T10:31:14+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "a6bb8dddcb1cd039",
 "title": "RIL, Infosys, TCS, HUL, HDFC Bank at multi-year lows | Time to look beyond? Experts suggestion for investors",
 "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3EwN2JUMWlmbUNaMHlIRnZhRXp2M216VS0tRHVhTWpXTk9RNDF2cS02V19najlyVzF5ZFM1MGdUQTFBRGZ2Ym5fTTRJMjFDYm1JT2xnWTdEX2gxUVZ2eFIzZEdPeGJwQ2twVU5LT1lGXzNGMDVVYU82SGhOTVg5VnRSQ3hhS3lqSlVldEZlQkxlbU5NZWtfU0p0LXBwS01ray1XZU53a2FKb2ZmekhzWS1EZnVjTmdTSWpwbzdPR29zU28waHFGd3NfSEFDWjF0M3htRkJWdlRhcGJxb1pvUGJFRUJxRTA20gHuAUFVX3lxTE9jbTVBUTA1RlgwZDJXc0VNNFpDWWlPcUdLSWZNRVFNRTRJMFlScVJ6c2g5d2NYMUFVZ2Rxd3IzSjRSbGdLSi1kLTl4SlgtSmtNTFBqOEtDU1BVa1FQVEpVRE1Rb3plT3dra3RpQjc5aGtpN0hsX002TzFfX0lFVWpkaE1UU21tRlZRcS05ZWFScVJRQ0NRc1MwVEVHREgtZkJNVFBrNVdIZ3ZNcVJSQkxKWHFmVk1oeE1mZWNicGQwUUhGYXB5VzBLbXRSdU5xR2tuaDM3MVUxNjJJUDlJUkc2VWxzMWZISENndWdRREE?oc=5",
@@ -962,6 +1028,22 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "3ba9c2e9b8750d55",
+"title": "Infosys slips Wednesday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczVCc05tTEJPZFN0c25fTkhUQm55VnFLTnhTZm9HSk1TMWpWSmVfMVduLVp5ZHc1ckNiN3Z2OFJlRVB2LVJtUVQ1QkdlZnRtR3dXR0NQOXpmM2pZZzhod1pWTC15T2hVMzlDNTN2djJLTmlKRW11NUVoYjlVcEtsNV9TMG9MdDMweXp4Q1RNcklDdkRSZHNsa0d3MjZ0T2t1bk90c0xDMGN4cWlOTER3bU5lWkVDMWNYWkpuMXpzTEV4MzVaa1E?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:30:00+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "9f817ce561e4d0ff",
@@ -5280,6 +5362,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2af003794445a86f",
+"title": "Mayne Pharma and Sun Pharma Settle IMVEXXY® US Patent Dispute, Agree on 2032 Generic Launch",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEV3ejNINUx4QUpQaDdxcjBlOHAwbDZaRHpmN3g3bGdrNkEzMVNidGhOMlJDTi03TTVnc2xrY1hIS1RvZ0VJeVlZYnRoblE3WXp1OUlJRXpuOUcyM2JZdTN1ZG5lMzBHZ1BXWnVZSVdSRWQ1dTBRaXJVNFRDa0JLM3R2bVlMeGhEOG5mbXRaSUJoQlZGbDZVNEpuYklLNUtaWXduSnlrSmJQbkpVV3FtTFgyUTkydndHZXdZVkRkY1RxZFpkbV96Y1RUUVBrUDQ5YWc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-09-30T04:27:04+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "203a39455a84b94d",
 "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Market Status",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms",
@@ -5647,6 +5745,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "731515d9bcf99bdf",
+"title": "Reliance Industries Ltd. 52 Week Low Streak and Valuation",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazR5VUJBaG5fZC1BamRyVW8yQ19lSjE1ZENQS0tJN2lnLU9nZFA0WmwyQnJHdEdhQWp0RmtUZ19STTRwMlU1enVHdVJkdjBzQndMbnlfZWU0N2FFT05RZkhrLVlhNXd4SXYzTThIU3UxS0tURHVvbXJpaEF2d0xIalNZckw4TVo3REl6eS1CblI?oc=5",
+"source": "Univest",
+"published": "2026-09-30T03:55:00+00:00",
+"first_seen": "2026-09-30T11:59:14+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50281,120 +50395,6 @@
 ],
 "groups": [
 "Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "30e418bce5179fe0",
-"title": "Venus National College, Manakamana Secondary School emerge as Asian Paints Champions Cups' Bagmati Province champions",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40V3ppZUVxVGI2Z0QzQnlaVXhQMVFrb3ZteF8zQS1FM2N3QWpNY2hydHJaNkFVa25RLUM3a19BcDVWNkM5SnozUlZmVU1kYzd2cjNqYXVPcUgzVW54?oc=5",
-"source": "The Himalayan Times",
-"published": "2026-09-24T10:12:01+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3d88b18c66893371",
-"title": "Upasana Kamineni Konidela Appointed Director – Projects as Apollo Hospitals Plans ₹8,600-Crore Expansion Acr oss India",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNlBRbGlkVlZ1WVZ4ejhfRTNVOFlMWFZxZFhBOHhnZDg4WmdoMmRMeFNQSkJmSkxTVDNnVzFJVUJuS3RjQV95NkhIMTQ4TURHVmIwT2VsVTBpX1VaS2lQVnhTQ3gtU2tKRHh0eDNWLW44OUtscEFrcjl6YzhqRTZSa1QteWhDQzJOaFNFMExPZVZSdWYtclRJV2Y3d09XeExTbzBHdVRzNFBYU2NhMmttMnlQMFE2dm9uQnEwTnhJWkh4M2xCbEZDQ1h0LWdZUlg3MVVabmRVb1hTQUo1cUIyM2VrSEpPYVZQTFVwWjlRcWlUZDJx?oc=5",
-"source": "Social News XYZ",
-"published": "2026-09-24T10:07:57+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8670bf8d5116a447",
-"title": "Adani Group to invest over Rs 1 lakh crore in West Bengal by 2035: Gautam Adani",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS1dqZEtTWTV0WW1ObUQ4cER1eWJyTXFEY05MUkY3QkhkOS1Sa1NkbGRxX1NzNVlyMFN2QXJod3pVMGo1YUMzcHB1YktHel8zUHY4Nllzb3lCc0h5N0R4bGJhRWppa2NEa3NsYmxGc1FSVG1Edk1sMEV4R2tRdmw2SUNIeHdKTVltbWZ4aTlzUW9TNnc4SFJlM3dhYkZqcmEwdXAxMVR1RDhpWnVtQmxvMmZ5TEhaX2RtSTd0ZmlBeTM3cjEta0hleExVU3FDZnplWWpaU1BLM0JtXzhYUzVJ0gHfAUFVX3lxTE9LV2pkS1NZNXRZbU5tRDhwRHV5YnJNcURjTkxSRjdCSGQ5LVJrU2RsZHFfU3M1WXIwU3ZBcmh3elUwajVhQzNwcHViS0d6XzNQdjg2WXNveUJzSHk3RHhsYmFFamlrY0Rrc2xibEZzUVJUbUR2TWwwRXhHa1F2bDZJQ0h4d0pNWW1tZnhpOXNRb1M2dzhIUmUzd2FiRmpyYTB1cDExVHVEOGladW1CbG8yZnlMSFpfZG1JN3RmaUF5MzdyMS1rSGV4TFVTcUNmemVZalpTUEszQm1fOFhTNUk?oc=5",
-"source": "Mid-Day",
-"published": "2026-09-24T10:07:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "86ff72abe01aa3b4",
-"title": "Upasana Kamineni Named Director Of Apollo Hospitals",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0pWUDJMWXNrd0paTUdoU2xEdzFiMWYxY1djaFFMVzJRS2FreVY1UmRSTXliYUdLUFM2THBab1o2SW5iNmI3N1hFSlFRbnVkUVZUVVpvcmtFZ2tDS0gxTWhBQ0NsVzYweFMzZWdmQ3FLSWlvSWxvZ3N5S3Y3U3ZqSmpQb05rd9IBjgFBVV95cUxOdXVTMkRyOTdzTFRpdzVxSy1haXQwNzdXSGdBMTNVNV9ZTHRlYkJxZU1PeEVUbjhSQ01EWkRYZVBmSWVhTWoxSUpFbmpLUzA1dUNoc0poMFpSRGN2RnU2SnB3em1qZ3RYR09ycF9uSFFOQ3FyYTBiNVJ6cDRCZGpmY3JMbXNsQlYycHgwTW13?oc=5",
-"source": "TrackTollywood",
-"published": "2026-09-24T10:05:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e513910b3126b094",
-"title": "Larsen & Toubro Share Price Today: Valuation and Peer View",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGlWYlBzdjNqOWwtOEtLd0Y0VUZDNWhOTjNKQnp6ZE9zbm8wZXoyZGpjeW02cERyLWlpcDRQQnltb0otQ3lrRWRIMG14VHV5MXU2dTF4RWJEeHlkeS1FSUJUU1VMZ1Q0YnFWaS1RSWFTVGV1ZHJvNzBINnVIckY1cHVla3B0cVU?oc=5",
-"source": "Univest",
-"published": "2026-09-24T10:03:03+00:00",
-"first_seen": "2026-09-24T17:43:33+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ef7f39db10cbd779",
-"title": "Bharti Airtel Share Price Today: down 2.18% to Rs 1,791",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWE5KZ0NZZXlIYVpCaVY1YTU4RlMxRkFKZ2d0OUJFZmpMemN6U3dBTUxSbWo4VGp2RG1oOVVFS2NvWHhGRVJyel9xMXJKSXMxaWowZjMtVm9mampWVHppMThJZW9Rc18xZk5WbjdFWXVjTVJDU2czQmd3RWhXWVJzMzBn?oc=5",
-"source": "Univest",
-"published": "2026-09-24T10:03:03+00:00",
-"first_seen": "2026-09-24T17:54:38+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f5e62476a6706cab",
-"title": "Mahindra & Mahindra Share Price: ownership and sector view",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnVkUEhhUjJqNWlkb0VjUWltTjFoV05qQWh6MWk3MGh6bWQwSEF1enEydVU5em83OW1uTE5tbWRfY1h1aU5jX3prc1k2MHR1Ym4tUTdMZW5FNnpYXzE3TXd2VkZEQktQbmlNbFh5U2pfYmxaclFMUWV0ZzFSOWx6dXlSanp5R2wxS0Y0eA?oc=5",
-"source": "Univest",
-"published": "2026-09-24T10:03:03+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
