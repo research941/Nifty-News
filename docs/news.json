@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T01:47:35+00:00",
+"updated": "2026-09-30T01:58:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "520a55de262265ec",
+"title": "Nifty rejig kicks in: BSE joins as Wipro exits; what investors need to know",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0MtR3pRMDBDYTBrVXZHekxmQTRFdzVMQUtQZHhhckRsXzkzZ0FzMEdKTTNxbThac0F0dGZwT041NVpoNldGM1dLbk5ERF92ZmVuLTlwVURSRDdVYXUxa1F2MG1JdTdjX0Z5WnlCbEdvVU5ZVXhFR3BEaVlqdDRmVWR0YUp2YWlrek1lZ3o3UnBUckkxMC1HRWpvQVZfVzV4bk5SVUU1SUUxX094bDl2aFdFVUgxemRHd2d4SElNb3RXMFkyRUhNZEdPSmZiWHU1bTNWTzgwZ9IB3AFBVV95cUxQeUkzZnpITnF5cDViMDUzTmtybC13RWUtZUNvWnBfWVpmZkhuMVluOWV2c2ZSZ2ZQQ21UUW1VR3VLdW1fNVYzM0VQRU9EcC00VXdXV0I5TVItdlRabkE0Zmt5OUcwM01xbm5HbTZ1a0Q0YndzLVE2RFBwQTQ2T1VoUExvd0hpVFBjVms5OGFjYy1zVUVHLTdpVE56Z2xkN29RQUFNaTcwTDlYajlaMWpkYml3SG8yd0R4ZWU4SkhmSWd5Q2UwVUpTQ2Z5d0IyVjBtN2hDeGRtRjVfMXFt?oc=5",
+"source": "Business Standard",
+"published": "2026-09-30T01:50:52+00:00",
+"first_seen": "2026-09-30T01:58:58+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a7f40e608ef1bbcc",
+"title": "20 stocks to hog the limelight in Wednesday’s trade, including Tata Steel, Time Technoplast, Shiva Cement/JSW Cement, KPI Energy, Exide Industries, Ganesh Benzoplast, and Power Mech Projects",
+"link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZjMwQjFvTFFha25pSlp1NDBfNWZDOWJPVkVDUHJsQXp1T3RaamR1YlJlZXFDNHpvTm9nZzFhNWJjaU1BYlJwM2FqTVVjTWJmVjJhb2o0RGZkNGs1YkxVN25NV25HanE3MGdGV0xBb0MzU2FJNFpjTm9DTjZsM0szZE1VanhWUmFKZ1JNLU5VdjRUcWxUYTVpbXlWRDQ4enk1SkMxWHppS25HTXJGbkZldmZYRVNWQnpyMFlfUHBIb2wyUG4tNkREVGtWYVViWU50Y3dVU0JfQUJtQWNjLUE0YkZuMlk5UzJWRW10NWp0TWpXYVhhRFYxWnVGdUdsMWFGVEVQNmJ5RHljQTFMSFZCTEJPdGpPREhrWUxhSWc2UkhSUVlrMnNmR1V2SmFBTXFfWEVhSFpzR0ROdHcwcGJjWUM1eV9XVllyRTZkTjFtMmZuNW9zUTBJaGhid1luV0xnZ0g3V9IB6wJBVV95cUxQZ2dvZVZkSG5nTFRiMDlLWVFlWkNTTkpaWTRuTGhpcnBpUWI5dXNHUndYZjNYM0x3MW9VT0RRbE82YzRxY0RMN1gwQnNoaG5wZ2loR0lraWpxcld4c0NVLS1UUkhDMjhZaUtKLVNjTGVZcHV2VC1udVNITi1haE1rbmktODNtVUxuNm5fdTNZaGxTOGZ0MTdZakpHSkkxNFVncTFiVEp2R0wtOHdtWWdUTFBHdzVaYUV6UWx0MFR1YUpjRXlJbjZLQlZockZIR01LQWpPZGhsQTdNcS0xeHpjMHVPdENaRkNodDZPUE1nZ0VUNzlwT2tPNnNlWnM3NU1tbjlaZG1HNHZBcmpxVTBSWkZvMHZwQ21IeVVHUVpkaGhwakFnUGtuR1BuTG5yRjJpbGRaQ0xRQ3U1VFhCaUtDX1BYclF5bW1saUpURk5FV0VVR1MyMnJDYUxERVE3SU1SU0ZWTTJJTWJCZDg?oc=5",
+"source": "BusinessLine",
+"published": "2026-09-30T01:46:30+00:00",
+"first_seen": "2026-09-30T01:58:58+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9b997bacca09a98e",
 "title": "Stocks To Watch Today: Tata Steel, Dixon Technologies, United Breweries, L&T Finance, SBI Funds Management, Pidilite, Britannia & More",
 "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS0FKaEN5XzBNZWd5cEY1QU9YVjNoNVpZUzFHZ2xnaUVKaW1xZmF0QXVoaXF5WEFfWWRWTTVPTWJ6Y0ZvVG9SblhWelI1bEhDb2dVUUZrdEJQNTE3MXpkZTRhZy1NQW5IUTZteFZZWmpHaTJqUTBaenJ6SjJiX19hQkwtUzJvMGV5S3pwR1pHM0pDLUx6WDZ5RnFaNDk2N0dlV0ZQWVdtQnNyWld5Q2IxankxSU5jMHBxVXlmRTU5ZzhZeS1VaEk1MkdiQzl5WmtSeVZCMjdoemRYbjdGUFE5TjlrNDRHZC1PUkN6dEZXck95YnRUNHJJSGotak1Kd9IBhgJBVV95cUxPNWFCMFNnaVByTnhHRmR4bWxSS1dqNHNNaE8xbV9SYm5sSlhqN2NMUHQ0RlFtOG54S1l5NHdBQjRDdG1MajRrdE5NRmZ4elplbVpzUXlOWllhSGFXQTN6d2UxUW1teGZDWm02ektvZkVrb3B3cFAwdEM4M2wtSTM4RGdabVplLTFGRDhvMlZJQTQyZkZUbUpjblBabDliRUZzTnJaWDBoUVdnQ20zYk9ybmxNVnFiMzBaT0xmTDZEUEptWjNDbmFuS0pYZUprVFdLd25zR2xmMC1iYUZrSHRoeW9JQTJSWlA0OXBGeTJacnVwN2N1OFZ6U2wzR040dTdWaVpVTDR3?oc=5",
@@ -604,6 +636,26 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ee679e5d2781d614",
+"title": "Stocks to Watch Today, September 30: Aurobindo Pharma, Coal India, Coforge, Tata Steel, HCLTech and others",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOEl5UzM1THNfTmwzdkZBM0UyVi1Cb0JvakYyZUpsRHozQWs2MzM5eG9ja19laVZxQmdxdDNUQmFSa2pFTzVtUmxOZ1dUODRidjVWSkJGMkJTUlBMYjhNQVRxSWpmRXRKb3k5MHJFQjdtY0wtYmlxbUNWT0gyVW0tTDFkeU9aZVlBV0h4Mm9JWktuM0VyZ1Y2Tk1KUlNSUVpfbl9IR3JBbkhvX09wRFBJTUxrdVl6OC1NN3RkUElHLV9EUzU3T2hSVTR6THo4aVBFY1JMQjQtWDgxYkVXQ3FiS2hMRnR3bzTSAewBQVVfeXFMUC1naTJ4TW9NaVpxTEpiWTdsenJPaDZsX2FYY0p4SHQzVDg2WW52ekJ1eVJIOExyOVp3Z0pOU0tFTmpMdmNJUnJkS1JQZHJXcnFDU2R2aWs0RFhFZllQcXB3Uk53NDg3elhiRE9lME5KbkkydmJDVFVBZVg3cWhoODdCSENKTG94eHp6Q1VpT011M0ZRY3hqc3R4aTVMYlA0aU9NTVFsOEFPR2JBQnhLSHpFd3ZaNEtUNV9QM3IyYXdfSzdzR0w3NGRoNHEwMy00WFN1elB6MU9oSmlQdHZvVzRac3d5Y1ZjT29jN2s?oc=5",
+"source": "ET Now",
+"published": "2026-09-29T23:59:51+00:00",
+"first_seen": "2026-09-30T01:58:58+00:00",
+"symbols": [
+"COALINDIA",
+"HCLTECH",
+"TATASTEEL"
+],
+"groups": [
+"IT",
+"PSU",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50372,58 +50424,6 @@
 ],
 "tags": [
 "Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "d75604a36fad1e8c",
-"title": "NTPC, Adani Power get nod for nuclear plant feasibility studies in Odisha",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeFBkN0VTcW8wMGY1dzN0bFVFOFRobkFYS1BXRVJ0OW5hZDJMU0s2cmZ3Wm9vOWY1dEhna2FfVTkyYzdtUzF3U3BEVC1CSkF1dTQ5ZFdNMERpcnJMdkJPd0NvbHdMb2JSZVZtMzhDV045MWdFU2xtZzBzbHA3WDNHN1pLTUlYbkc0T3JybzJzOXVMdzdsbG15NEo3NWlxMDYzZ18yTmg5TGJtOXozT2FUZHVHa3VZLV93R1BoSkdBZXl5YVAtWThUU3A5YjZ1Y1h6bkUxOUxVY9IB3AFBVV95cUxOelFXRThkZ19VczI0S2NsMFd5aERaNXFNM3U5NGpKcDBuR0NaQXVpUUlWSkpVN1JNdUpjZFROang1ZFo2RnlFdkkzbmx4elQ2OVNJd3REOFlOZEVMOHJjWHdyQlNlWldhUGdzcjM2VW13cEdzb1JvR3FyaGluaVluS3UxZDNweWY3Ti0waUhnTmpfcnJCU242RVVoR0NYanR1VTMxVWp2MFp1ZXpqQmtmWlNBTXgyTW5LTTFFYVpmY19USjN3NTBQdDlXdGZBMnJfazJBdUJBV3gtTGow?oc=5",
-"source": "Business Standard",
-"published": "2026-09-23T15:27:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5c67c5b040b8404",
-"title": "Chainlink and Infosys Paint a New Era for Banking Blockchain",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UEF4SFdTdGFSNGNXQ2lQTW0yWjhuYVJfU3RLSjUwb3RfZ1AtRDl2cng2aExkYTI2dm1oVDQ5cFg4M3JrOHRVVURYQlY3TXZHcEZGa2xORnU4VW5xeWpFdFJUV3NZSzVKS3pBOVQyLThtQQ?oc=5",
-"source": "onesafe.io",
-"published": "2026-09-23T15:22:03+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "286037007e354c23",
-"title": "SBI expects surplus from new UPI MDR as issuing, acquiring bank",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLS0wZnU3LXB4UkRXNHhJcllDRWtTM1JRZzhWYmpFY3RHMmRlNVFTX1pGQU4xYlQwcm54TnhUNER4ZV9WZ2hUWGhoc3NBbzg4aklhWnpJWlkteG1Xb0JJajRoR0ZoTTBLR1hPV0w2VDJZbU9tX3FiZGNZWWgtaUpERlVpd1Q3dndlTnlETWxFU2lDemIwemRjTm9lLUtyeGdSMEFfLVI1MXBKclZlbDA3eVRoRlJMaThoRXJPYnR2NTlWVV9rR1dNNWc1RTJzaGV0YVHSAegBQVVfeXFMT0w2LW5XVFdjcE1zWEpQUkRaN19TcF9RT1oxM21keVRWQVJxalV6d2ZkUnRxWnppbUpnNm9NX0N2ZkgxY2pJN2dOb3NxcHFPSTBUQ2RaWFpOSXA4X3Z0eXN5Wm5MdEpMWndwcVlrNzBLYk9VcTVNVHAyUEtRVU1WN2RYZThzcE9OanUwazEtQklRTDlVZnFfbEtaYzNlZmpmUTUtZVpveExxUWlxZU5LX3Yybmo3NHlGTXBJZS1seEZwa2ZxR2h3Nm9kWjY4ZDd4TzRHZEo4cjBES0FJenEzQ19JcGZFVzZ2bA?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-23T15:19:00+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Order/Deal"
 ],
 "sentiment": "neutral"
 }
