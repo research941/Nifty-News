@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T05:35:22+00:00",
+"updated": "2026-09-30T05:50:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,189 @@
 ],
 "items": [
 {
+"id": "96fb189ad7a7ef44",
+"title": "Axis Bank Brings Apple Pay to Visa and Mastercard Credit Cards",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1p1YnBWVXFNMGZ1ZnlDX3RLNkd5eXBFTVJkVG9XWmRKT2wteDk4WTA3N2Qyc1hqQ1QzdTFfS1NRZXdxejRqS1pnM3NmLTFuV2FRNWJPT1Z2M3hYT1lqeHFvQ0FRMkc2U09qYkprNEMwU0h6WjhOWVNBdkNsamRXYURXYVotbUNvZXB5TjVuU0xmcWxISkp3OUk0SXRhOEJFUW1kTkJlc3dTZ085V0c0akozR01HT3Z0ZlpDVA?oc=5",
+"source": "Siliconindia",
+"published": "2026-09-30T05:45:17+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "41e5bcd7b28530dc",
+"title": "Indian IT stocks slump as Infosys, Wipro hit fresh lows",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3hpbGNycHMzUE53eE9pQUJWZW5PNWMxSE9ZTVBqeGo4UWNXZm9jWkJ2cnd0QzRvMkhSVmFIa3c5SS1tWmxCRURRTElNX0FIVXF5TGxlR2lrSzdNcUtYRkF6UFNWbEM1TW8zdzFfaHlyNkhIX1V0SktBQ2x6V1FIRkZkSnc4RlU4YzkxdnZKS0ZXRUJYck5fTGxxZ01JRFg1U0Etag?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-30T05:44:19+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "0ff5c3d0e25e138a",
+"title": "Reliance Industries to raise ₹12,000 cr via bonds at 7.9%",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY052TEpOQ3FHa3hHR0kyM0FVQVdkNnJadko1NUE2TWxRa1phYlBQZHp1X3RfdEJHU1U5cjFsWHhobzRxaDgyUmttTFQ2OEI4VG5fQ2xEMm1aSHFxUEFqellZQlpzWEMxcENuTF9vZWdHRFY1OVhqZVhtRno3MEVqd3FoeDdFLUVfQ0lId1BEa0xmZFprVUlwemZ2dXFjRTRBU3hpZXd3?oc=5",
+"source": "NewsBytes",
+"published": "2026-09-30T05:44:18+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5cdcb4db96ab373e",
+"title": "Trade Idea of The Day - Shriram Finance Ltd Target Rs.32 - Religare Broking Ltd",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVgwWEVLd25OelhtTlZYWWNHbGR4cEFObGR3dlhGMlpjUHFDdUZMcGJ5cVluT0otMDRETUtLNUlGUUxMWG1pSVY5M3lySEZ5SDhhZUxvVWRyZXZrNUdlTEJfRmxmamkyTnY4VU9xRU1TRDhvSzBPWEFLU1FhWUdRY1dwS2tLM3lUUnhTYXRGR3QxX1hiWHdMbjNfRnVIMmRvaFZCUE1UcnMyMDhXRS1lcF9KeGRfOU1vYUhPanR4S1htYWZNTGFj?oc=5",
+"source": "Investment Guru India",
+"published": "2026-09-30T05:43:39+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e71f0b0b957116eb",
+"title": "Apple Pay launches in India with Axis Bank cards; Juspay, Cashfree enable merchant support",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlp3WE14Q3gxUUtYdGU2NnAyU3ZrX05mMFJhVXNvY0w4aXk4M0k2alh4SmJZS0x5LVhzQU04bXZGUWNyZXJzUnVIcjF3TDVLVXpFbTk5UDdBRloxbnBaVUZCNzR0bGdHNlRHMlIxRFhHdDBJeHE2QmNKZldTaVFxNFh4QWgzQ2ZMX0NfMDExOGNTQVZDNjVTVkN0U0o1Qmo3Q19RNGk0cUdIYko3ckZNZkdIeXlHN0xLN252STRvZHPSAcABQVVfeXFMTzJad1hNeEN4MVFLWHRlNjZwMlN2a19OZjBSYVVzb2NMOGl5ODNJNmpYeEpiWUtMeS1Yc0FNOG12RlFjcmVyc1J1SHIxd0w1S1V6RW05OVA3QUZaMW5wWlVGQjc0dGxnRzZURzJSMURYR3QwSXhxNkJjSmZXU2lRcTRYeEFoM0NmTF9DXzAxMThjU0FWQzY1U1ZDdFNKNUJqN0NfUTRpNHFHSGJKN3JGTWZHSHl5RzdMSzdudkk0b2Rz?oc=5",
+"source": "Entrackr",
+"published": "2026-09-30T05:43:35+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "501d05be771ac4a1",
+"title": "Apple Pay India Launches With Limited Axis Bank Rollout",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EWk5vczVFZGd5QVNkeGlvM1NjcXdFX05KeXVPOEstOS05WlFSV04ycURUMi1SQ29vZEdpbXN5YjRGLW9OWGY1V2FPbnBRSk1zcmFiODFBMkpSODYxaFZsRlM4Skc?oc=5",
+"source": "Business Viewpoint Magazine",
+"published": "2026-09-30T05:43:30+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "976530e2f1ab02f5",
+"title": "IT stocks rally: Nifty IT jumps over 2% as US Fed rate hike bets ease; TCS, Tech Mahindra, HCL Tech lead",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLXZhd1VLTGVNSE9TVncwZEpBVFEzcGxpQmlDbmY5SXhTZ2hFNlBZZXpUY3RvSUgxbDQ3QW9oQnA5aDc0eW9wUkt1dzAwNnBlaDdRTzZ4NktyZVpRYS1iV2ptMkFZOExrZGE1TVp1STZlV2Y0eHVFUzFCdVpfT215OGhwbzYxd1pWVEQyTTFvSWFuUXNZZDhHZ1ktV3RLdVdFalFlVnAzVlRiSE0zcGxiUFNscnA5UC1qOWt0SVI3bWFsRWpVN3BYdEFlc3p0MUNxbnJOam5pYmNGS1FscnA0Mkg0bVp5R3dHOXRGcjlJTFpGLTjSAfgBQVVfeXFMTVBxcUFFYmxMeV84UjNzaW5ZbnZkS19XdV9fVnQ0VVdqMUM4NGJDQ0YtcktneUN0c0NjWTF3blYza19RNTNWQWdOQXU5Ukg5UFgyMlJJM0w5eElRcG1fcHdjdGRROThIb00yOEJCY2lLNno0eG1ZMlNrMC1za1NfWThnWW03eGFwV2ZtdkVoYzktd19vUGIxZG5TVnZ1a0JlM1ZNLXBQZUtoc0pFczVUUVdtYkFOSHdocmxSVFJKV1pHUVRmMWlLelY2UDFuTGZUZ2xZeXItcnhHbVVxT2lIVkZwVXEyZDUzZzZJeFFYaVh5MWgxb3BvSjk?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T05:41:53+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"HCLTECH",
+"TCS",
+"TECHM"
+],
+"groups": [
+"IT",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "cd9ce8f3f0e47805",
+"title": "Apple Pay Set to Launch in India with Axis Bank Support",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTNySVRVZmZTelBmSGpJbkxGSzY2TTJrSDBfQW9WcFppaGwwSVJUNk5LaEh4THFUbkREbTdXWTZfSzN0MUJZeE5ZbGFnT3dia3BWQV90UHYyY1EzeVk4SHBpVGZJZFFYNmVvUG1SOWswNEdUUllyN1NKUWRRYnlidTBEclRpR0ctWTN0MmdwOFRkRlU?oc=5",
+"source": "India News Network",
+"published": "2026-09-30T05:40:49+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7f517605cbefa699",
+"title": "Apple Pay partners with Axis Bank to launch services in India",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVGlTWEhYTUVRWkM0aTU3dGRFblVnaHY1T29vZTlyQXUyVVF1dlRNYUs1bUFMYnB2NkxxXzNFbVdNazVUNDd2ZlVRMEJTc05yQWFfc183aHhOVnBGZjRicFlQbndoa2xGQjM5REtkbkIxWnF4Zk1Mb2pybWo3cVlqb3ktNVl0NlYweVVBUUh2UzktbnNMQXQ2ZFlnTkpwaHhvZHl6bXEyazlFRGc1SkhuMzJwOUNnZDRNOWt4NnJ1MmwxOG1VVklIUdIByAFBVV95cUxQVGlTWEhYTUVRWkM0aTU3dGRFblVnaHY1T29vZTlyQXUyVVF1dlRNYUs1bUFMYnB2NkxxXzNFbVdNazVUNDd2ZlVRMEJTc05yQWFfc183aHhOVnBGZjRicFlQbndoa2xGQjM5REtkbkIxWnF4Zk1Mb2pybWo3cVlqb3ktNVl0NlYweVVBUUh2UzktbnNMQXQ2ZFlnTkpwaHhvZHl6bXEyazlFRGc1SkhuMzJwOUNnZDRNOWt4NnJ1MmwxOG1VVklIUQ?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-30T05:40:00+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2d5d4ff56e1949f7",
+"title": "Rajeev Mantri Joins Axis Bank as Group Head and CFO",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WYkkwb1BuNUN4OTZLc3N1M0d6THNlQmEzU0wtR3ZKNG9ra1ZneHF0U1dMWWJrVU93WW1lREk0YzAwSHk0RnIxTlNrZzVJa0lpUllJdENsRWtkRGJIbDBfdHlqMGV0R3BoOWoxcXoxZEpMZEFCM2c?oc=5",
+"source": "TradeFlock",
+"published": "2026-09-30T05:36:45+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a8ecab3f8e58cae2",
+"title": "Stock of the day - Axis Bank Ltd Target Rs. 37- Religare Broking Ltd",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVG5SNG95UlZKTEk5SDdPSkpCdVVVYmhCMVFrbENMMFJuMm5vbk5hdlMxX25FWTAzNHdiUDZIQ0lEeko2MnFYUXFYbnRJS1BQYUhWaldKMVhScW1kQVdFRDFPZnFoUmNYMDlBdExmX0xHeWJBa3JWVXVGVDhSOEJHZEhBUGpHVzZEdl9UQ1pNVkwyZTRlUjJLYVRSWDg3X2MzS09mUzRZNTNybVcycE1KeF9PenRkSHc?oc=5",
+"source": "Investment Guru India",
+"published": "2026-09-30T05:35:37+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0fc273e4b4b02e69",
 "title": "Metal sector stocks today, September 30: Welspun Corp falls 4%; Coal India gains 1.38%, Hindustan Zinc up 1.30%",
 "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTnpLTzJYNkFiYVpBRzhtdllhM0NFbkFhSTkxUDBHTDU2dU13S0g5MURmdF9zdUNYWFE5QmE4dm5tOXR0SWdjMk5wR2NMOGxWLWcyNVNtME1ob3VDVDhGSHdONlM2VHlrdWd4d2pJbk0zQVd2ZkpQMGxucmdEVG1wLXgwaHRrdzRpTU5jZ2EtaXN4Wkg2RGdtSlVCZEJtemhSai1td05yZDdUMFI4VFc1Vmd2eHFEY2pQWlNRS0xvaU5KTnZEOF9PdW1lbHBxU3R1dm9jd0ZwVjcwTmplQkpoSXdCQkhPcHJO?oc=5",
@@ -456,6 +639,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2bdf56b951ebb0ba",
+"title": "Apple Pay launches in India: What iPhone users need to know, Axis Bank cards support, how to make payments, apps and stores",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPam9hWVE2QWpCdWlvUWN4MU9lUTdaTzNXeWwxQ0VDZVF0NzhPSzFaR0hqNXpKMWlINGRiOWNqM3FMRVFfdWJkMzF0YWN2NW5aVjJrUkZYOFFORGswTlJMTjJvbHU5NWlzc1R0UjhaSkc0c3NUZkFZQnl4c3dyWlFSVjBkVFBuY1hiM0FpVHhCZERtLUpYa1RlR3FfZnpjRnFhcExvaGJWZEw0SHgwVXE2dUZ2enhFQ0NkNDZobV9ZNDlfY01TZlVlU2hPM2VFbWx6RTNTVGtrS2UtcEFvYlRQc21BcWdhQVJ5TWI4b0M5cjNUSjJ5Q2NhMQ?oc=5",
+"source": "Zee Business",
+"published": "2026-09-30T05:33:29+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -625,6 +824,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "1385097a1a77411e",
+"title": "Apple Pay launches in India: Service launches for Axis Bank Visa and Mastercard credit card users",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmp2OFNDY1hPYnVBT3ZRTkluTFpYNDNsbGZaejJaaDVlQVZEQ0djRVRaUUV3ZXBNalJBUURLSEJ2WWNlTnJLOHd6Y2xSMm1JNklTS3E1MDUySVdrajBXWjczMXFiV1Z1ejdrbm1uU24wWGNMaHVMZkFHU3pIWWV3Q1VXaGZKWFVfVGRTbmJONjFXYTExSS1GazRFM01wTGFfYWUwS1F5NDUwbjBVdGIzbWtzanVYclhUUjBGY1ZBSGVlZ3FmQWlKVmNZR2tyZXNuUWdv0gHYAUFVX3lxTE1rNEtiUnc4cHlvZmJhYkI0eUVISkdvWm5qUmlWRXZOZEdiN3p3WGlVZ2txY1pwZ19JVElEdkJ2V3Z6VndDTndIZWtkbFVXN0FmVmlYNjVyVTF0Z2JMNHc4M09QRWtnRXA5clFQa1U3ZVdIQkRYRkVQS3FCak91NDFMUjhEbVY4SXJTbU1rOXVvaWNuR0xFVmlDeEFLSm00cWE0OFBwLWlxUlNwbk91enVHd2VPZWExQ1Q2eW1kWkItYmxLUjE1ZmtjNF95VTdPVlR0Wm16ZkpqTw?oc=5",
+"source": "Mid-Day",
+"published": "2026-09-30T05:13:00+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "2e33c81812bbfd19",
@@ -869,6 +1084,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1a5d4ecff662d2a",
+"title": "Apple Pay launches in India with an Axis Bank partnership, no UPI",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVQ0aktNaXdkdzRCLXVBYkpXc2dwMENsWjBmclh6VGhwdGhoR29xbDRuQ0l3dzdwcjhpVFUtU0pOcDhIUWZ0a3FkbUtfdEFwZXJjemw0LXY5MWpFeGh5ZEpydmdncG9Wb2N2TzNodUxmN2RYTXdDR05Ba3lhVTFLNk9CM2hqS3NUdVNDWkpxV0hXUVowVlp1OHJQcTRxOTlGaFNOeUpqNC0yd9IBqgFBVV95cUxPeVQ0aktNaXdkdzRCLXVBYkpXc2dwMENsWjBmclh6VGhwdGhoR29xbDRuQ0l3dzdwcjhpVFUtU0pOcDhIUWZ0a3FkbUtfdEFwZXJjemw0LXY5MWpFeGh5ZEpydmdncG9Wb2N2TzNodUxmN2RYTXdDR05Ba3lhVTFLNk9CM2hqS3NUdVNDWkpxV0hXUVowVlp1OHJQcTRxOTlGaFNOeUpqNC0ydw?oc=5",
+"source": "The Tech Portal",
+"published": "2026-09-30T04:53:38+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1327,6 +1560,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "aa71e2c1ff437f3e",
+"title": "Maruti Suzuki Victoris On Road Price Kanigiri Sep 2026 - ₹13.29L",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGtoU2hQSkFJUDMxZkp0cDZuOVBkUjRGay1uZVVKR242dXdNcXIxdlFyX0tXNF9YRHBkV0E2V1BIamR2WlFRSlY1Z1NBWksxOGNDNlV0bDV6b0FCRXpVUDZXT0NMUjRVaGxCT2Y2UmNSUnU1REFFSnlkdjllYVBXc3hzSQ?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T04:04:53+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "dd4923f70da4dc28",
 "title": "RRC NCR RRC North Central Railway GDCE Recruitment 2026 Notification Out - Apply Online for 656 JE, ALP, Clerk, Technicians and More PostsRecruitment 2026 - Apply Online for 656 Assistant Loco Pilot, Technicians, Junior Engineers, NTPC Non-Gradu",
 "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXNhWTZ4TGNENVJpbm94UjY4dTNfVm95dmF4NVZPRE84bldSOWdtUHg1NlFyYUZfU3JabngtdmQwaERhNTF3ZFRrUWhkdnpCYWN6VWtMcUFqRTY3UzJ1aWFmcDlpejBOajhleWZ2Rm56c2pIM3dObzZMMXg2ejJSR0R3N3p2THFkVHAwR2pVYmNBYXkyT3lSSXFtdlFLTTQwbHgtd1UtQVlGaDF1ZDZjR2hrY3RNWEVld29Ydlgtc0FHeXhwR25MYVl2WFB2UTloU0VrZkUwNDhjRnI4NGpCZDBwOVl2eHROcEE?oc=5",
@@ -1476,6 +1725,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "2494e3e562ccb819",
+"title": "Reliance Industries Stock Update: Share Price Rises on Bond Issue",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFhQWGhSTzBWRHNRRmxTbGhuLV85ZVF1UFVTaDVkYTVNMDh3aXhmZkRBVDdLRndvVV9ucTA4eVpYQW1ueUZCbWRwX0NEcTdMS0tTbno5RFhhQ0xYY1JmM3dpZzRzUV9CNnU2SDdYNmoxcWsyRDR3dnhWZXo1WmswZkJBUTU3cko2RHZDdmtCUXdfZ1luc0xkdTRuZkVTWkU3X3ZOREgtT0ktT25FMmNMbk1ISVpHUdIBtgFBVV95cUxNSFhQWGhSTzBWRHNRRmxTbGhuLV85ZVF1UFVTaDVkYTVNMDh3aXhmZkRBVDdLRndvVV9ucTA4eVpYQW1ueUZCbWRwX0NEcTdMS0tTbno5RFhhQ0xYY1JmM3dpZzRzUV9CNnU2SDdYNmoxcWsyRDR3dnhWZXo1WmswZkJBUTU3cko2RHZDdmtCUXdfZ1luc0xkdTRuZkVTWkU3X3ZOREgtT0ktT25FMmNMbk1ISVpHUQ?oc=5",
+"source": "LatestLY",
+"published": "2026-09-30T03:54:52+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "15443b0e582cf486",
@@ -2032,6 +2297,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "32041b9f6fd5c590",
+"title": "Mahindra & Mahindra Ltd Technical Momentum Shifts Amid Market Pressure",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0xDNXVEY0xXVUlpVTRFbjBtT3h3MGx2MFhUZlZsNmt4MnZFNjN5WUgtNVhsakFWY25ORDJDVmNzLTZXTmJHUVQ0MW10VDF5WlByUlJaMzBMUmlEeTIxVlgzOHV1VzVXNGZiR1ZJbUpSeHdJVzFheHlxTG13NE4zUTJXaGxWVDh0dkI5UzJQNGVrbm9kLVlia0FtczhkWV82R1prNGJRTVEtdWZqMWNTTW5OUTZrSmQ2aXNoZ25oQXlVN2Yw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-09-30T02:49:20+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "495fa721cd8b9ed1",
 "title": "Kotak on AMCs: Buy on SBI Funds Management, HDFC AMC upgraded, ABSL AMC cut",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0ZwbjRzNmtVcVhkcS0yREc0MnZSLUJSSkFWWXZabEhKTXlnZWkwRGN2a01YY1lVaGkwNExpc3hPd3dRMVNiM0I1Wjk1bmM2MzFXV0k0VVZnNGRrbjBGVVBaQWpzSnB1VXgtb3dyV1Vkc2NjaGU4UTRLTC1LUHV2anlXUEhkQUt4U1owOF9YZjV2LW1yOXZIYUNoM2pyTGc0eW5VNGtXeV9Fclk1ZWo4Q1dqMlJ6cHBxRDlZRzVaWGZMV3hvOGZhQjJfU2g?oc=5",
@@ -2506,6 +2787,22 @@
 "source": "News24Online",
 "published": "2026-09-30T02:22:11+00:00",
 "first_seen": "2026-09-30T02:46:56+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "245252dc7130ab67",
+"title": "Apple Pay launches in India after years of global rollout, Axis Bank first partner- Moneycontrol.com",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1lIZ2h1WlAtUUlta3c0Tmd4ZG01Z3J3Yjg0eWpHVWN4VmRZLUxTM2FDSnB6aDVheU9rZlFyQ04tRnU4Q3RNR21TeTlObDZvTU4yZ0s5Ymx5Y1VBdkFmV3RvS0FQblAxQ0pXMkFkQmdhMzJYYUNqNzBJeTM3aHFwMnBycHpXMXB4OVBtV1MyN00ySmR6OGpBYjc3Y21ZdGpMVklBdlVpWjJwTWdOTTBvZWlsWnYyT3l5Q1J1aQ?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-30T02:15:05+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
 "symbols": [
 "AXISBANK"
 ],
@@ -4308,6 +4605,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "76dff57b0d9b44f2",
+"title": "Sun Pharma plans ₹10,000 crore bond sale to refinance Organon acquisition loan: Report",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWGhmTmJBUzdOUTFIc3UyNVpJU0swNEE0R3lwcU4zNGV4QVp6MFM2aEFwV0IxT3VEYUdfVU8yR09RMk5nYUxHaUgzaGJSbk9Xa3FUQ215NXNsc1ltcGhlVmw5bVpnZmhfZDRPQUN3MTZ3dG9LdkdJczJDVjZHVVM3SjMzREpOaEljTFNCOHFnVU5RVXpQbmczN3M4V0hSc2l2MW9NNDVRcXJWbTV1d2lUa09Wcjg1TzdQODIxdjhpdFdrdnVvZlZFNlNjUHRZSnY4NUgxdUVoeHNTX2VCOUxQd9IB5gFBVV95cUxPSjdpY09mVC1wNThpM003bV9hdU5UbHYta1E4NWhNMk1hcmhwbWRoc3hkc1FSWnB5Yk5HMHVMcE9pZ3hJcDhhZW9BX0pGRTlmRDRPQWxzZUMxMTBvcjJfc2hlWi1MVXpxOGJ1cHp2MDQtcElJeGEtNUtJRXY3OEFkZzdHT0FMZzI3UDJicEtGMnhVWUE5bVdyeThaRVhrSDN0dERsYjNmSzR4bFZLaUUyOFdCbWVCRzk2SU51bzBqN21OT2ljMDVCTWV1TnVnaWs5NktSd2tzNFhjZkVjeXJhWjlxejZEdw?oc=5",
+"source": "Livemint",
+"published": "2026-09-29T15:45:10+00:00",
+"first_seen": "2026-09-30T05:50:01+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -50085,325 +50400,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "f2f36bfccb396633",
-"title": "Eicher Motors Share Price Live Updates: Eicher Motors Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-24-sep-2026/liveblog/134450682.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:40:03+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5f7542149903eeb",
-"title": "Eicher Motors Share Price Highlights: Eicher Motors Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-24-sep-2026/liveblog/134450682.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:40:03+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2a780bb49e716b54",
-"title": "Infosys Share Price Live Updates: Infosys closes at Rs 1010.6 today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-24-sep-2026/liveblog/134450648.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:35:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7c93cda337bfe8bd",
-"title": "Infosys Share Price Highlights: Infosys Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-24-sep-2026/liveblog/134450648.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:35:28+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7b3f2cf2576ada34",
-"title": "Board of Aditya Birla Renewables allots 23.15 cr equity shares to Grasim Industries",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYXZhdlVwVHd0dlJJaXRIZ2sxREd5ZF95ckRhRVdPNlI3YUMwOHZZdmZuUDZSYXdMeV9pbVRnZGNCMm5qbjVYdFdvQ1BfZjRuN0xCODMtLWZWSE9URHdFSURkcnJMWnEtV1JIa1BfT3hOaDZZZjZOS195azdlLVRlTTZBUFhJOEZhN20wUHJrd2xUQVRaZXJWRE5naEhKWHFPY29Ld3VXS1dYeVhLMDBZREt0RFRqSFd6RDhyNUlYbUczdFE1RGliakJhU0k1ZXdBcHVfTUNWTmJmbVhIdVlMcjVraDl3TjVlZTZlV0FVNkRick1EeGsxUNIB_gFBVV95cUxPdjZIV3FpTnJZYVlzWHVDT0hGazZFREEycWJGS2syU2tfZEtScU8tVVo0aTN4YnlUNjJQenpDVW4yazRpMnFUcFUwWFljcVNkOFFWWnpvM3lMUHROZHR6bzlzejJqY0t4YUFkRVRIeU9qZGtPMEJTd3lRVkVLS0ZORDBabTBELVZyM3lHTUpTSmwyR0d2YzVNR2RfQ0x1eVY0V3VCd0tTVnNPNWdxV2NSMkpKa0hIZl9MSFIwSEI1VkdPRDJpNkNCa21MeVBocm5sd3NNYVJDaVhvbUNoaXhkXzRnV1UyV0JOWndRdHpfSW91aVE2ZTZCS0o4SFZpUQ?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T03:35:17+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "de707423314a7be0",
-"title": "Power Grid acquires Barmer HVDC Power Transmission under TBCB route",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdlpqTVZYQVczZUdTam1uc2E0eHE2TXd2dWd1bVJ0MXdybzJ2NEd0cjBxYmR2aVFHU0FBVVBkaUZBQ3ZyZHk5UHF5bUJYSHV3ZHh0REFqTG52Ymo5Z01oMUZEXzZzRVdmQkhrT0xFWXRoNXB2S3lic2JBa2MyM2FMaXprOTJRazUtZHIyXzFHZUtyS0FFOHBrbzc0cW5maU5rYnZEclpxcHhQVVFtUy1YRHNqU0d0RmF1ZjNWOHA2TTlTekpjWTFodWl0ZlRIYmNSSWVGNUtqNDZ6YVJ4c1ZJZTZjSdIB6AFBVV95cUxNSUk5N1l4QUlHYVVJaENxdEpxTUZLWmdENWY4LUhFbU05NHlZY3pESDl5Zi1vSmZ4VnU3bEt3YVdiRjZEQ0Ffa0pEYXFGRlFDZWxwZGtaUFBnNzZ4Wm9mRTNyLTFURVBHS0Yzay1QX0N1dlQ2ZlFfMjVxNnN6Y3FsUVlEZXB0UkwtZXBmdE5EU01JSG15UFB2ZU5KWWRHSXR4QU5XZkM2a29yRGFCQVpLSE0wMHBwcTFLdWxidjY3bXpxUjlYZ2RjbWwtOVd1Vld3UnRSZzJDeTJzSlZ2MzN5dGZsZnR2SlA4?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T03:34:49+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "056bb1f7a774d140",
-"title": "Board of Bajaj Finance to consider fund raising proposals",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTXRkWHVCUjZIYWlobk5QYWg5TzF2UVNEQXlNbHVwR0JOczRrVmpWZ3dFOHJkRHhOVGdsbVVOV0o4WlBKMmZBLW5hZXhwa1hjX3R6U1k0V3JiUENTQzhtNFJxVzlPWl9tNXNUV29zT0hBbkhFN2JhVGZKNUF6aDhMWXRic1NscGRNZG1Ic1ZvUlIydDQ3SUNVSExfWDVFUDlCNUZ2ZHRESndtQWh5cDc2RFRjLXJnVi1KUmpxQVpKTkdDc1Q4R0I5UEpVTXduSU1DRWJxcW1nSGN3d0HSAdsBQVVfeXFMUE10ZFh1QlI2SGFpaG5OUGFoOU8xdlFTREF5TWx1cEdCTnM0a1ZqVmd3RThyZER4TlRnbG1VTldKOFpQSjJmQS1uYWV4cGtYY190elNZNFdyYlBDU0M4bTRScVc5T1pfbTVzVFdvc09IQW5IRTdiYVRmSjVBemg4TFl0YnNTbHBkTWRtSHNWb1JSMnQ0N0lDVUhMX1g1RVA5QjVGdmR0REp3bUFoeXA3NkRUYy1yZ1YtSlJqcUFaSk5HQ3NUOEdCOVBKVU13bklNQ0VicXFtZ0hjd3dB?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T03:34:35+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2e0dfeb4222b125c",
-"title": "UltraTech Cement commissions 4.6 mtpa cement capacity",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1FOMk5GMTFvWjB0aVJDVl8tWEg3RmNid2NNN1ZFa1RqNkhtWWxzZ0RuUlhmMWpIaVcyeDZ6NkdWdzdVenYyeDlDZkZjX2pCWmZlN0FmbVpoblkzTWVHTThTOTRQczYyZlRTT01ua29CSTZ5dFowYVR2czhKUUhhQ0hmYVZkUnNsaWo5TDFKVFNPWGNSNnJrX1UwVW5jS0dGa1ZkVXdQUnBBU2FudmVrSVEwV2JXWGhpcV9iTV9Ka2VUUlRxaXVacUZOamlMRU5KZmpjRTdB0gHWAUFVX3lxTE1nUU4yTkYxMW9aMHRpUkNWXy1YSDdGY2J3Y003VkVrVGo2SG1ZbHNnRG5SWGYxakhpVzJ4Nno2R1Z3N1V6djJ4OUNmRmNfakJaZmU3QWZtWmhuWTNNZUdNOFM5NFBzNjJmVFNPTW5rb0JJNnl0WjBhVHZzOEpRSGFDSGZhVmRSc2xpajlMMUpUU09YY1I2cmtfVTBVbmNLR0ZrVmRVd1BScEFTYW52ZWtJUTBXYldYaGlxX2JNX0prZVRSVHFpdVpxRk5qaUxFTkpmamNFN0E?oc=5",
-"source": "Business Standard",
-"published": "2026-09-24T03:34:27+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b8b43472a702c1f4",
-"title": "Titan Eyeplus’ Insight into Preventive Eye Care Awareness",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlkzUFBvRGthbEhwMHV3NVpUQ3VFa08yLW10c1J3ZzRpTTdBWkVQWWxzbDZpczRjdkQxTkVnSmcwbFBuTm5BZDVHQkZ6RGFVREFBZU83Vjg3LTN0dWZBbE5LRTZza2RmRlVPelBYZk1ya04tdmRLNERQZ1FNN1FWdEJQNjFDZnNxM2NRdzJSUC0?oc=5",
-"source": "MarkHub24",
-"published": "2026-09-24T03:30:03+00:00",
-"first_seen": "2026-09-24T23:54:31+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c657f5e6a6bbb048",
-"title": "HAL to BEL: Emkay sees up to 26% rally in 4 defence majors targeting Rs 3 lakh cr output by 2029",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOS0xUmdvWUxyRGRlMzV4QlpHS0VSZXRhZXhZUF9sQjVTS3JBRHczbU1rUXpKSkNMOElqN2ZkMmR4NWlhN3hwVlRfdHdwZGRPbXV4T0N5eFFyWXdnb1FraFNNNHI1N2luUGdZdEJJV2llaEQ3bGZRSlJKTnNxcnlSdkFOU2FvMFNLZlFPZVhwcmRiZ0xka19CQnhjOWhOV01BWFduRWUwZ2V3OW5pRlY5VEF0cTJGMGVmbk9Zb1J5b0U5cVpDdFhPRzN4azhTOEZZYmZ2ZjQyUENhVUNtcGRVVHN30gHiAUFVX3lxTE05LTFSZ29ZTHJEZGUzNXhCWkdLRVJldGFleFlQX2xCNVNLckFEdzNtTWtRekpKQ0w4SWo3ZmQyZHg1aWE3eHBWVF90d3BkZE9tdXhPQ3l4UXJZd2dvUWtoU000cjU3aW5QZ1l0QklXaWVoRDdsZlFKUkpOc3FyeVJ2QU5TYW8wU0tmUU9lWHByZGJnTGRrX0JCeGM5aE5XTUFYV25FZTBnZXc5bmlGVjlUQXRxMkYwZWZuT1lvUnlvRTlxWkN0WE9HM3hrOFM4RlliZnZmNDJQQ2FVQ21wZFVUc3c?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-24T03:24:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "94f07dc0e3db0005",
-"title": "NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVEZtT2JQcFJzcFk2M2RpSldweE1qcmVveUhpbF84aG1fWUZiOHRzTm9xVFBzbDJ0RkMwV3F4Y2FGVWIweVd3REQ4VjdNNDR4Rk5RRldZcENOTkpqM3pZTk12bXZZSHVtU1hYXzQ2MXZtYzB3QTl3cVFaLXhJQjIycWxBNEhiZnRHR0tlZlBWRkdlaE0yUkY1WVAxZ3NZSUhrdmM0UXhIanhJUm5ieW9RN1dnWWRhdVp6b2ZEeHpmUWh5bEE3TGJteWFqSTREQ21jdGMta0Rra01kczE5SlNyS2NOeWp4cXdQQjVj0gHwAUFVX3lxTE1HY0s0eHM5RFFJc3BGY1F5Yk1fUVN4bjlRWXFHU1hjeGtBNVZSVGFTTWhjV0hUWnAteWpIUzRUUzB3UzVhNGh1NnRNWE9HLW9vODdrdHdrY09fQlJUZVdrQVZKb3g3a24tNjBNTG1laTNnOWxfUlNydDJneXZSNi1yMzRKUnBLelhXaDdPdUtoYjdhTUJXNnc2MmxOT0JicGV4RDRaZUJvQjV3azU0ZV9ubmw1R09ULWY5WFd2UHMxS3dmU0dSWlYwNXBIbzk2Nm9QeXY5Q1NJOVJsbmxlaTYxSmdGV1VzVjhVYmtkOTZ5bA?oc=5",
-"source": "Business Today",
-"published": "2026-09-24T03:17:40+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HCLTECH",
-"INFY",
-"KOTAKBANK",
-"TITAN"
-],
-"groups": [
-"Banks",
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "584c1bb9b6083582",
-"title": "Bharat Electronics ने नए ₹6,795 करोड़ के ऑर्डर हासिल किए, शेयर की कीमत में 6% की बढ़त।",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjZFNHk1bmlhWTFtVDU1NU1PVmZuNXBiREU5aDVKUzF3T3hJc1lxbm1jbDZfRU5TamZLSFNqRlI0UVZta3IxVEVLczZuNTlkTEs1d0xORXZzNDZvZWVLT0haeGlFVDVSMnJFdnpGcGR3cC1yQUFxYm5nSHdlWkZjT3JXTC11N0lkaDNndnJ4a2plYXhWd1JLdlF5OWpsNkMxSW1UZk9yek1qVlBVNkNyUnBZbk9TNnBwc0dSTHZkU0ZVUQ?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-24T03:13:51+00:00",
-"first_seen": "2026-09-24T13:34:37+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5b1b11422ba14815",
-"title": "Bagchi or Bharucha? RBI to take a call on HDFC Bank's new CEO in 7–10 days",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVZPV2pXU2tsM1loaldrOWF1ZU1YQVhsSTZWLTBSUWtNUFFrZ2c1cy1faVo3R0N3ODNTOXhPVXlFNTV4amNXMVh5SnVON3ozSlVVaE5YVXdOdTQ4OHk4dk1BSGlLSE5oMnN4OTNIZ1RaWURIQUxzdkZUbVVfWWdtRFhyN2ZpV2U4bWY0alNGMmlGTFZGZkU4Ni1OMzU0SkU3YXJLRDAtMXhtTjNjeFNOdXF6bmJiZU41cUd2NmZzamh2NzVIQ0dQM0tZVmHSAdIBQVVfeXFMTVh2eXhaWjczME41bFdERVlfTkk3cm5PQlMtYTdDQ3JRYURFUGFhSm9pRS1lR0NlbGRIWHBOY2JiajMxcm40RlRhLVRISmVJVWRXSUV5cUptVlU4WnlqWG91czRmMFJvSjJoa2dRVFJNeFdwd2oyY0VtSlNOSVZxQTJkY2VHU0xpRFcxRkxPNDhtZExPOWRnQk9acEtONnBoNVRvZ3l6c0pBaGVvVUM4TnhnMEdCak5CMmZJdXZPbndKUlNPakVRUGEwUEw4bDdzUjZn?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-24T03:12:59+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8d2e8da354595ce4",
-"title": "Bajaj Finance shares in focus ahead of board meet to raise funds",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanhZd0dudS1mclN1VWhqM1dXOVhkTHlucS0zLUkwaENyUVktUW9SbHZCM1RYaWlSeF9Yb0EzMWxjTTEtQnE5TGEtTjFtZWNwbGFqcmNYNGZBaGZydXAwOWJtdldMcUxpYUdVT3hBX3V6b3NFTGZMUkFvWU1xZXlDbTRUal9TZWdWNFNxeEo1d0VaSVZJM0F2V1VsR2NMVzNlZEJCNE5YTm5MNzhia3FNcDhjbWlaZGt0Mkp2bzlHRmd5S0dxWW5BQnU4VnPSAdIBQVVfeXFMUFJwSnJWSjZvTzJFaFc3RnpGZmlMemZHV2E2bE8zeGlQekRwNkZUem1KNWtFMEJMYnNmanNQbThvbXI2SGNwekFtdHBudGM4bjVtZ3JzZ0JoMTQ1cTAxcjJfS3kteXQxVTFQaHZaVFhWLW4yZldKSnRZeVZ5WGh6ZWRiVWVuQ3lCMXpNM0UyeDVJSTVoNDJCMGVqVVY2YVp1RllLdl9HeTJaQmFUX3lYUFZGU0tWY1k4bzZkVGxVQ0lYX2c4SDBaSWdDVE9STEtuaURn?oc=5",
-"source": "Business Today",
-"published": "2026-09-24T03:10:40+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4ea5fa2d8aca3a6e",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services experiences a downturn",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-24-sep-2026/liveblog/134450329.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:10:11+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "76ff6e5c646f1b2c",
-"title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-24-sep-2026/liveblog/134450329.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:10:11+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6095aa7ddfd9ec76",
-"title": "Stocks to watch, Sept 24: NSE, insurance stocks, OMCs, Asian Paints, ONGC, Britannia, HUL, Avantel, Bharat Dynamics",
-"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZW9hVE50T3N5VkR3NkpSYU9XT0hEb0RMNDlpVWFsQjdzaEFpdlFuaDJiTFc0SnRUeVZBeW90TkdURlAtOHJYS2c0Tm84VkVhTzhXdFVRendheFRDOVNDR293eHg1Q1VBeWRES1drWVNjcW1zN1d2YllwT1c2cTVnWFlSOWFrSjJpS1plTWh3aWtJUjNTZ1llNkVGWWZ5YmV5OHVOM0pFbHVweExNanV3WmRFZWZTNzdmOHhma1hhTWUzcmlJNGhVN29uTFdlTDVhaHB2S280ODJtMzJ4SF9Dd2VtWEs5RkphSFVoNHBCTVVEUlEwZWtNX0pDV05LTDNROUN3WDZ2OXVYcHRRcWptd3FhclM?oc=5",
-"source": "Dailyhunt",
-"published": "2026-09-24T03:09:17+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ASIANPAINT",
-"HINDUNILVR",
-"ONGC"
-],
-"groups": [
-"Consumer",
-"FMCG",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cda2f74e57feb06e",
-"title": "IRDAI Unveils Five-Year Expense Caps On Insurers: SBI Life Among Key Winners; PB Fintech Hardest Hit",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWljZW85dUd0Y29FQXk0aS1JbEdkLThBWVFNLXhPajN4NllwU1RzMXhQM3UwM2pFeDVXcVpnT2lBeWRpYldvemtyTXlIcjVZbW55aXQ3TGs5RmhsVk50MmdzcHBoSUhPSTlnd3ZmNFZyWGhJTENERTRWTzdEM1pucWJET0s0T2s5X19VaFdMaVZad0dWaUxaVC1UTDdROFgxaEk3MHc1LXk5RXk2akpjVndYUXZjM251V0xMd0lQdVNxWlpvWTJfMGQwS2lZOUNRNkhqY1ZIbnZRM2E1dk5qbmcyYXZlSDAxd3Zud2dad9IB7wFBVV95cUxQeWljZW85dUd0Y29FQXk0aS1JbEdkLThBWVFNLXhPajN4NllwU1RzMXhQM3UwM2pFeDVXcVpnT2lBeWRpYldvemtyTXlIcjVZbW55aXQ3TGs5RmhsVk50MmdzcHBoSUhPSTlnd3ZmNFZyWGhJTENERTRWTzdEM1pucWJET0s0T2s5X19VaFdMaVZad0dWaUxaVC1UTDdROFgxaEk3MHc1LXk5RXk2akpjVndYUXZjM251V0xMd0lQdVNxWlpvWTJfMGQwS2lZOUNRNkhqY1ZIbnZRM2E1dk5qbmcyYXZlSDAxd3Zud2dadw?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-24T03:09:12+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6d75f2b7efd7847d",
-"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV's Price Decline Continues",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-24-sep-2026/liveblog/134450291.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:08:10+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
