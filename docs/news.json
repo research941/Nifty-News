@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T17:58:52+00:00",
+"updated": "2026-09-30T18:21:49+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,38 @@
 ],
 "items": [
 {
+"id": "1246c710328573de",
+"title": "Mahindra & Mahindra transfers equity shares under stock option scheme",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2RyZ29GNmtIU3pxaXhWVTQ4eW1vcm5wS1lrUE1HdjJ5NEw5UEloTEtOamM0dzNZcUtfMlJLbURWZk8wUndZc3dGT19jSWZDdnBJdVpCdFhOaWhOeURaTTM3N2dMQTV3Skg5Y2J2eTN6d2c1SDd2Q3V6Qkh6MWl0eTdlRUFaX2otbmIwN3FhOEZfTXZnSWhibm43MlpUdjV0djVYeTFFcFBOT0xL?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T18:20:09+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c1895407b586d85e",
+"title": "HCLTech raises fresher pay for specialised skills as AI reshapes campus hiring",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlNuS0dBS1FhMHppV1otaTlwRU1Ld3YxVFNELW15WFhreDRySE41WG5MbmRVZFNxRFZLcTM3WGVKMGtGLVgwN1BjRGFqcHpoay1hM0NLU05fVTN3NklzOV9WNGUwdDQxczNjcmhxM01WelpSSzMwSmtkMTFkNW5jV2tpZFJMb0s3SnJmb1EtN0dkMENUY2thV1B3akowMWxPY3dZZlE4UVhJOVJQNUZ1T3BIa0kyVFg4MU42ODdEWi0yMnVWY1hXSjBMV07SAdoBQVVfeXFMUGlrbG9feGdmUnpMS0dDUHB2SGZrcjNrUE45Y09GYlhJMjJXQTc5cmtZaGI0Vk9qMlZPdkVkMGxidndablI3bmJtU0ZkODRmeGVlVzdLWWV6Q0RWUHpJVndmdWJOYTh4WGhiREhRYlktLTFMU2xPbHczTTRjaTFfMVEzZmFyajN0ZEhNV19JMXNXV1dQZTFOOXd1R3kzUVJsS2V1Uk9KYTZNVllEVGV3S3ZpcEFUV3dyQzhsZU85MXZYQkxONFI2QXNOY3doVWg0aGtUUzZFVndBb1E?oc=5",
+"source": "newindianexpress.com",
+"published": "2026-09-30T18:08:19+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "33a0f658e3520c1c",
 "title": "NTPC Green Energy declares commercial operation of 50 MW solar capacity in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm1kSDRyT016aTY3NUR0SUNrVVFNc2h0MWo2OE1pNGZ3Vm1DajRaU0lwRThxRTBES1ZvVzAtLXkzT2lrN3RCd0M3MUI0dHJDdmhjeklybllkMGdUTjh0dXBIdkVHUGVKY252WGJXOU13UGxyRGRVQ3FwR3FTMFB6RUZ5bVRGeTEyXzNlOUZvZGhtOHJZZ1hhNUYzYkdTb2dzMjlQM05pM2xEMXVPbEZsMUVRZGoxcWVoLW55Y0ZuZVJNdEk?oc=5",
@@ -578,6 +610,42 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "e802f31131f9995c",
+"title": "HAL, BEL, L&T, KEI Among Jefferies’ Top Bets; Brokerage Picks Defence & Power Stocks Amid India Capex Boom",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFo4bGhndmZZamxpN08yNDBxSS0zS2Nmc3lncXN0TklDWUllSTlCR0lEY00tbkNKVkpOOWFacmFXWmN0Ym1vX2VwLXhsaDV3NHg1NVNfc2JNMFp6dFdmZnlJSGFSUVRzLVFVU2lFU3R4VGRBMDFJZndkbG9WSGNiXzZNckc2Wkp0RVBTMGhJUUgxMjhWUHR3dk9CcHZiYTNNeHhzOFNXWURUeVFwcmxfdjRRZU1rNFd3RGVjQjFoQzNrc0JONkkwSzhGdkx4RlF0SnVCUnFUeVc?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-30T17:13:28+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"BEL",
+"LT"
+],
+"groups": [
+"Infra",
+"PSU"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d0d0e4f4f83a4218",
+"title": "Jio Financial’s ₹4.95 Crore Start Is Now a ₹375 Crore Insurance Bet",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjNYd3RuOFNncXQ0MWN2ejJsWUhKOWxnVzF6TzlxTlk4dnVNaWdyZXRqR25ycmdEel9vdUJEQUFXQXBPOXNIMkpyUWRYRlplRmRqZ3pXZnpPbnppZ09JUURVNUE0NE5aNkR0ZU05MUREaldQdUlSZlVJbHRaSk1YSW1lRkU?oc=5",
+"source": "NiftyTrader",
+"published": "2026-09-30T17:10:25+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "2b42d8c3c4134ebb",
@@ -796,6 +864,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7b5c828ff962b9fe",
+"title": "L&T Finance opens Pitch Point ’26 to AI startups focused on BFSI and enterprise use cases",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEprQWNVVlJQTEwzanZoMDI0M3hjTDY5dzU1QmE0S2xUc0gzZklKSzRldi1uODd4U1lhUDBEWWhZWVptd2lvY0hhYzViVEFDb3dqWk11SlA0ZmpubTNtRFhvUS1sMHFCYUN2bXp4ajE4NDZSVENIalZkVG9fRE9CRjRWQVNjeWZxOW1IR1RYakNuSUlwRU90WGNONXdkM1hmU2ZqQlBQNXdJejFpZXJzMEI4RFFoaTBHeEE?oc=5",
+"source": "VCCircle",
+"published": "2026-09-30T15:52:09+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "5ef6251cadb5bb96",
 "title": "What does it take to build a career that keeps moving forward? At CNBC-TV18’s Future Female Forward, Priya Nair, CEO & MD of Hindustan Unilever, shared her perspective on leadership, growth and creating opportunities for women to rise and lead. A conv",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHpGekw1MFRRdTBqMFhXb0c5N0IxWEwxcHNUWGpPTlI3WWRSTTdaWTc0Q0FuUVlGdm1OeUQtUE5aSmw1MHhtSjJBRHFsNExUc0xqZ0hzQU5veXphUGpUMnhIQkpRN0ZMR3p2YnB6OWNPaFBDcDNMRzY2OEJzcS1UZ3FWaUVyRE9rQXdPUktydmNZQnhId3JWQUdnZ0hxSkd6aVhueERPeDFXbmNrY282TjB4SmYzUQ?oc=5",
@@ -844,6 +928,24 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e733b1dcba754b21",
+"title": "State Bank of India Buys Nearly 40% of Reliance Industries’ 10-Year Bond Issue",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85aGw4d3MzQjVGOV8wejlaZTY1MjBnVW5kcTl5OHQzQWFjdkNnMmxCSHVlMXlIXzgyQTUtdnhGNHFoTnJjMFlSQWdDaUlHa3ZmTFpOVU0xMm9PTDFLdWVN?oc=5",
+"source": "Межа. Новини України.",
+"published": "2026-09-30T15:28:39+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"RELIANCE",
+"SBIN"
+],
+"groups": [
+"Reliance",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3192,6 +3294,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "52e3f6ebc34f5ebe",
+"title": "Bharti Airtel slips Wednesday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTJaN251clV0RVBFUl8xMktLdGpxZ3k2NzNIOTBadTd6YllYRHhlOEhXSVhzY2UyRjY4aDlGd09ib0RIdDhVN0xPbkRDNHlnZHdlaGlVVVdyd3J1ZHZkM2FnWGEyRlpHS0VzandPWXhCYTNGNTFCQzRqcGJnbUJKMVh1MVBhTU4xWlN6YkdMbXJYRHdrR0xiOF9NdDZndXhaMUNGUkxPamFkQkRaZ1QxZTE4S3JnV2VnaEpUR2UzY1RQSWc5dkdr?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T10:33:00+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "cb4435aef9a3dce6",
@@ -11086,6 +11204,24 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "ba40e467529cc54c",
+"title": "Bajaj Finance Q1 FY27: AUM up 24% YoY; Citi, Morgan Stanley, JPMorgan bullish",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJFTzlueDB5YjVqT002UmZQOWVNQmtmLThoVnRYenljbzFIOWhfa2h1YmxRMUVCa0VwTy1vTmNpQXZzckJpbXdZeEJUdXd1MnlpeGFkS2tMNGhaZGhOeHZZbFdtNVJZeDBvc3ItUF84WlNNVEhqNUdzYWp3U2RCcURBMVY2Q24taERrbmQtVjZwNmQ2NDJETWFBUEN4czRIc2FORklFQXVQMVRQbzBpcg?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-29T23:19:13+00:00",
+"first_seen": "2026-09-30T18:21:49+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "66d30d227563e7ab",
@@ -50296,139 +50432,6 @@
 ],
 "groups": [
 "Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dd0a223512fbc934",
-"title": "Tata Motors stock falls 2.9 percent as Q1 profit rises",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGQxb0llRzVyekQ5ODdIM0VlbENSUlhpX0hxeTJLcWVjVG4tNVUxTDdTX0EwZXoyWmpMbXVHd296U2NLLUFaTFlGNkxZQ1BudFdEaWtmTW5hTGt4bGMxX2RQcXJBYmsycGp3bTZRMXRFYVNsTU1XQkREVmtNY3YtZFpndHJnY1o2TWVCN1o4dDhEVUZwUmZVT1hGMlUzOVBGZVQyd3FrZmlpdl8xd2pTSDBXQQ?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-24T16:20:49+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0a4ee71fe71af92e",
-"title": "“The East must rise”: Adani says Bengal essential to India’s next growth phase",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONndqX1ViZzVVNWoyTlRzVUpsNFByVnBnTnpub1hESWtLMjcyQnRoTW9LTWpwVkYzSG4xLVVSemNkNTZHeXdCSDlYMnNpMGR1TjA2enRUQUlQcG55RVRTdF9SQ0VKU3B3WjRiblF4QmxLSWJ6RjFaRy1NYnB2WjBhMGI5VHlhS2Z5UWVqTTlzVUJDZ2otM0xBRHZqY3ZkNkpvelA3VXU4ckZFUXl1?oc=5",
-"source": "nenews.in",
-"published": "2026-09-24T16:19:47+00:00",
-"first_seen": "2026-09-24T16:34:03+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "c34245e5f9a54c33",
-"title": "Wipro Shares Jump Over 3% on $1 Billion Mega Deal With Olam Group; PL Capital Maintains ‘Buy’ Rating",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzF2WnB1cnYwVXhVbjg0VlRuUGR0VFNucVZPanpQVnhNcTRiU2U5a3E3ckhQNXhXQTZOVmo4b1Ixd083eUExMEs5bVNLb3BESmFZdkpGMzNWYjBaejR5dFBFaE93Q1RJczltSWgwTW9yM0pRNEdpNC14ZmNmMFR0eEpIRlNOajJrYzJTZjktVnVVakQwSnFVYUhjaVNneDFqcmRac0tUMzlCVEN4c0pkNF9BbmFQdEJwOHVzb2pIaDloT1QtQTY2VWRUZVdKRkpScEJ4MmZJNA?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-24T16:18:58+00:00",
-"first_seen": "2026-09-25T01:54:50+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal",
-"Rating"
-],
-"sentiment": "positive"
-},
-{
-"id": "0d43134252a17412",
-"title": "Journalist Ravi Nair gets bail in Adani defamation case | Tap to know more | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzFrUkpsM2k5MFRtWHREVTV6Zmw4TWw5MlljUlVDa2p3Rm84UG5xc2w0MWY2b3ZsSkE0RXViTDFEVjREbjRYYkJVb194ZjQ2WGtpTW5VLUdvVnpuMl8wZlhJZkpwNEZpYUViZWs1SXFpMlNtOElKQlRrV3RuUXdYNFFtX092MG42d3ppcXJJclNDY19haHpEUXJYNHpRRnPSAaQBQVVfeXFMTmlvTXFkbFR6YWxVdDR5cTcyaVB1RG9Vekc1cHNreVROclIyWTNiQ0VzcEVlVl9OZ29jZ0o2QVJvbmg3bzctS1ltN1FIT2dmZFQ5YkxWVjlkZ29lLXY5WlQwbTNBeUk1OXBfZTFIalpPWEJxeFd6SktSbFUyb3NkOFB6cDVaMjdYM0wweVJub0VuaF9VY3BxQ2NEZGFXWU5WSkxpN0E?oc=5",
-"source": "Inshorts",
-"published": "2026-09-24T16:16:13+00:00",
-"first_seen": "2026-09-24T16:46:45+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "13f6ac21ee7d4288",
-"title": "Maruti Suzuki commissions green hydrogen plant at Manesar facility",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFpUMUhUNkh2MFVHRjFFWGtoTTdpRVpkQV82WkZkMi1NLTA3R1pIR2U2WWpCLTNaSFpMZmhFV1dYTi00YndLbE9qb1RQTEhscG5ZeUFvbGNKVE5KMENjSmJUWXJlNlRNTkthdWJQY3RGQXdLZlcxSmkyT2NSSVdjMWxKRkppdDdXMk83aU1zNFpuYzJHVFZuY0gycUpuN3N0TlF3UkRwOGxkcGI3bUtEVy1aalk2QmhGUkx2ZEdJUkJHQXVTczdhZThkdWRfUFFWeHhIQzJNSQ?oc=5",
-"source": "motownindia.com",
-"published": "2026-09-24T16:15:46+00:00",
-"first_seen": "2026-09-24T16:19:40+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3cded55bde0e2aa3",
-"title": "Axis Bank Launches Nationwide Tourism & Hospitality Outreach",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTlhTlktTE9OcUMzS2pLYVVYR0lTaEpPcjI2aE4wbERvbEF4SENVOEpiVHBwU0JkZVE1ZFlxTzk5UDg3NEd0SnpHSnlSWlg3OGQzaWVvMF9KbzN1S09ZTUF0NFluY09QOVF2S3IxalBCX3JIYjktU0twZDY1V044b2FGNVlMU0s2NlRKMGJxZDJnMTdGcmdOakhZcFE2ODlySDRLd1k0QklfMXRpZURWbmNXS1bSAbQBQVVfeXFMTWE5YU5ZLUxPTnFDM0tqS2FVWEdJU2hKT3IyNmhOMGxEb2xBeEhDVThKYlRwcFNCZGVRNWRZcU85OVA4NzRHdEp6R0p5UlpYNzhkM2llbzBfSm8zdUtPWU1BdDRZbmNPUDlRdktyMWpQQl9ySGI5LVNLcGQ2NVdOOG9hRjVZTFNLNjZUSjBicWQyZzE3RnJnTmpIWXBRNjg5ckg0S3dZNEJJXzF0aWVEVm5jV0tW?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-24T16:15:42+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dedde71ca8a27b25",
-"title": "Cipla Global Supply Chain Head Venkata Sai Mungara Moves to Cipla USA Role",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVM5dDFQQTRpOHVWMDlJRkd2M3k2TGgtLUpCeExLYkdxTThRODhBdVppNlFGQ09tU1hVUWxsYldxT0pwbWNYbDQ5SnZBa0FjU1dLbFYydC0zZXM2R0dyVUFaam1XQVJScjg3OFdfcTY5MUFpOEJaeHhwa09Za1VzaXhVUWVob2Z3MmlwdnZHNDZXbTMyLWtfay04S2FJeVlpQmxyd2pMOXYyemFFY0RES0pxYUFCLXU4OGN3LW1XcEpSRGJNcktQY0JR0gHPAUFVX3lxTFBITVVzNDRha1U3aklfQzJVZWduOFJYOXRzTVVIMnNRVUZ3XzhVUGxYc1dmTjFTNjJVN1MwUW1tQlFYenVlV2JmR0FMXzRxczY0VU1QMXJpSWxSYy1WR1Q4M3c0MHVJa2g5dFFsUC1EMFBpdVotWjBIRFVBUkphLVlZeWp6TjJHMjhQZUlmTklWV0Ezc29nSlB0ZGdjVllvUDhQRlU4V2lsMVN5OXpYLUtnTnRpaWpCYmthOXJlTHc1WU5RWEZxOTJsREg3UmpOUQ?oc=5",
-"source": "Medical Dialogues",
-"published": "2026-09-24T16:12:47+00:00",
-"first_seen": "2026-09-24T16:19:40+00:00",
-"symbols": [
-"CIPLA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e7fa6f3588d3b24a",
-"title": "How Tech Mahindra & AWS Operationalise Agentic AI at Scale",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVFtWnAtSnM1ZndCSWJTN3EyTVpvNU1iOVh5cm9GbVJwRVhsTTN5Um5naDA2Njc5cTBkZHpfVkVZZ2tKTFZKUkZESU5OU24zOXkxc21RWWdfeVUzbHA1eTlyME9wc0hva2hYMFRzdzlueVdxRkU0OXVDZEhDUHFiT01IeklDQXpIdHVlQjF1UDVoYzNjZFJB?oc=5",
-"source": "Technology Magazine",
-"published": "2026-09-24T16:09:07+00:00",
-"first_seen": "2026-09-24T18:36:59+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
