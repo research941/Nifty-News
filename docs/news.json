@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T05:20:00+00:00",
+"updated": "2026-09-30T05:35:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,88 @@
 ],
 "items": [
 {
+"id": "0fc273e4b4b02e69",
+"title": "Metal sector stocks today, September 30: Welspun Corp falls 4%; Coal India gains 1.38%, Hindustan Zinc up 1.30%",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTnpLTzJYNkFiYVpBRzhtdllhM0NFbkFhSTkxUDBHTDU2dU13S0g5MURmdF9zdUNYWFE5QmE4dm5tOXR0SWdjMk5wR2NMOGxWLWcyNVNtME1ob3VDVDhGSHdONlM2VHlrdWd4d2pJbk0zQVd2ZkpQMGxucmdEVG1wLXgwaHRrdzRpTU5jZ2EtaXN4Wkg2RGdtSlVCZEJtemhSai1td05yZDdUMFI4VFc1Vmd2eHFEY2pQWlNRS0xvaU5KTnZEOF9PdW1lbHBxU3R1dm9jd0ZwVjcwTmplQkpoSXdCQkhPcHJO?oc=5",
+"source": "Business Upturn",
+"published": "2026-09-30T05:33:51+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "86df425b06963abc",
+"title": "Coal India and HURL sign MoU to explore coal gasification based urea plant",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakI4dW1uc3R5eDBVVHlBZ2FablI4UzZEdVJySVVpMG1XeXctTlRfSUQzalc1RllNM056ZHlNMFFmZ3RtYXRFNE9TWXR4TGFqNVl4VWI2N3hCRnVObmdtcEp0MUdDZVk2cGNCMnBzUl92NlRIb002T0tEQm9VZkdQZlo4QTJGZFl2d2oxeU9TZXpwMkVCVHd4bmQ2UDJGMDhqX3VjbXJ5OUhyV3dOcGF3UkJlbw?oc=5",
+"source": "Powerline Magazine",
+"published": "2026-09-30T05:28:13+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b05deae4976807f4",
+"title": "Apple Pay arrives in India, Axis Bank named first partner",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGkyZTRwTnpHNTNQX2hKLUxEd1VLekRIcmZTUGJya0pDWWZmUmhRWXJuZzNWSFFTcVJhTGpRd3NGTURfZTJCUFZrOFJGQ3ZKbGxkOVhIVVEwbW4wUnhLMndDSmp4U1c0MUJKREpEb3pWazFIQ1VaT3BNX2lKTUVJMlpjaFhZS25SMllPWkVzN0dYYnlBRjlHQnB1S3hFbXk4Y0ZkUldnMk92MXZXaFRvakVUSE4?oc=5",
+"source": "The Hans India",
+"published": "2026-09-30T05:25:32+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "78f4fd083e118362",
+"title": "Jamshedpur News :Tata Steel Zoological Park to organise series of programmes as part of Wildlife Week Celebration–2026",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRWVvVTY1RjVzQzhaWC1MMzE1RUxKb3dkUTkzcktyVG5GY2lpN0pNVzhoTWFmXzJKS2U4MzVtaGhpRGtWTHlkc3ByNE1XczdpR1NneC1KMV9YM0lZRFRqQ01RUlZQRXlYTExMODFZZ0VLa2ZVd3cyMHJwX0xsTU03TTJ3YnRTclNKUFVvQVVvc2NLWXR5ZXVXa1BqYkpKc2kzWXUwUDgzQ3ZXUDRQT19KV2pUckpFbXFGVzk1c1g1V0VIeHNxWkdvd2VTUWpLbE4yNnhfUkpOTDAydTJTaG4tR0t6TmItcWRtQlE?oc=5",
+"source": "Bihar Jharkhand News Network",
+"published": "2026-09-30T05:20:42+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "973451eed74fc6a0",
+"title": "Maruti Suzuki's Production Director resigns; new head appointed",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRG1XSWZLTGlsU25YZXBVWFN0S1dPWWpSdHNJcTRGNHhPam1MLUVOeHh2LTV5UTRqX2NjR3JubHVOblhMaUxJZTRfREktdjJWUXhkTDl6eTAzdk12S2hiQ2ZnLTdZZF9VUVFQR3lxa2F5eDZYaFNYWUd0TnRvWDZwU0hFQUVGMTBuUE53SkZUeFlkckN4cXVmek9oMUZDZzJYbFBFMUtLaURITDRfR1FxVUNuRjZNRGdlTkV0VjV2b2RYaTJhc3BiVWxncC10ekk0ZWZyRjUyWdIB3gFBVV95cUxObURZUGMzTzQ1OWw4aGhUd0xmTjdrb3AzSE40Rll5a2liaGlheTRWUlkwM3FfV0pLRG1BYmdqSkRXbjV6YkhMV1dXdHluZUZrMXd6U1FmSHg5OVU1X0R5RlFjRU1Hd2c1Z1ZVb0E2ZU9HYTlsbFliXzVzNTNueVJHdTFUajBCb1VMN1dYd0ZWM00ydG9ZeTdrdnVpaU9EQ0FGc21qa003OExJUmFmcHlIVjJuOTh6NzRTQ0Uxelo3Nlo4N0pvV2FjMHNCMXBiakpxbGdzNUFRVHlkNVFtbWc?oc=5",
+"source": "thehindubusinessline.com",
+"published": "2026-09-30T05:20:40+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "633514948400e296",
 "title": "Buy Shriram Finance Ltd for the Target Rs 1,220 by Motilal Oswal Financial Services Ltd",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFFiZG93eGl2cDR0ZXVmUHpwRTJlYWVMcHp2V2prcE9fLVBPRHZrMTNtWVB1ZXVDNFhybkY1X3dIM2xJcy1OekVPU2tZRWtELWN0T21zQWIySWVmSlllNUVrb0Q5ZThUbF9WX3poOWNOTHVHMGpwbThSNDJuTTVKM1hjTzhiTkJMb2pRTW9XTnRVd21tcXcyam5UaWlYcTVCS2ZpNHlxQnlRNDVkd1Y1Ym9QLU9nZnp1Rl83ZkNoMHpGRXpIa2RrV3M1c1JWRnlKUFE?oc=5",
@@ -476,6 +558,38 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "28b76f79c526fbd0",
+"title": "Apollo Hospitals, Yatharth, others fall up to 6% on SC's 'corporate hospitals don't spare anyone' remark",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb0tTZ0ZaUGdldFJYQzJ4TzFJSEZUUW83R3hOMnZGbVFqUERjOHdJckJfUVc0MlpCSVB6dWUtVlM3RUhCNWZSLVlMTDM0MklmTEVmMml3amdRMDJKNTc5cXJIT0gwUUJham0yd01nVE9fdEhmVWxXYzZ3VzE5UGZHdC1WNWgxM3lWUnZhdjU3WXJpZkZGbl9XOHN2X1l5ZmFzQ0s4WWxIdjgxZm5HN2ZLRU5OT2ExenR6SEdoZXd3UG55Rjh6ZFJtS2NrLXpoUzVHWkxRRUJtdUgtQVB4OHNKdnlNcjNSenE2TlhsM1BwclpfVU9yNmtn0gH8AUFVX3lxTE9oc1hVYUZBM0dPelFpQzljYk5kSWRPa3l3b2JCUmVZNDlqTHBIVXdGbVotU0g1RG9ycVJjVU8xb2JzRzllTXpUZ0trdVJoYXFJZlhlVUt4ZF8yci14V0VvdHBOZWFhNVZxMnRRdmZ2YmRhZVQ3N0d0WWpFdHBRYzQ0dnBlRmNuYVhoZ2UyX1Vhbm9JX3FXbzBhSjV3UWZkSm1tdXZtTUVtUmZNdVhBdmFiaDVpTlJYYlgxVHdnekR1cUNNaXJtU0ZlczVxaDFsSmdBU19XYi1LbE1DRnhVWmtBa2loVVZYa3BFSDJIaGZPUGcxUzVOMGxLVnRYeA?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-09-30T05:17:08+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "a2915e4f9438052a",
+"title": "Video | HDFC Bank May See 30% Upside In 12-15 Months: Parag Thakkar",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWY5X2RJankzZlRsWEFvOFNQN3d5aWoteldVNGN5MUNldTVscXhKSnNqRzc0OGYzbWM4dXBWbnJNVldCWldjckdRQ1dFd3loZVNtS3U0UDFHYlZkam5ST09iQk1SNXJ3eWZteE1oZlJXMlpVVHlVRjR2aGppYW1hOFJYLVNiNFdoVWtibWZDdG5mQkl5N29yUmQxbDdIV2pfQjJOVWxHTW1PTnd4?oc=5",
+"source": "NDTV Profit",
+"published": "2026-09-30T05:16:13+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1788,6 +1902,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "6207ca94e2749569",
+"title": "Power Grid Share Price Live Updates: Power Grid's Current Market Price",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-30-sep-2026/liveblog/134578732.cms",
+"source": "Economic Times",
+"published": "2026-09-30T03:00:05+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "40bcc266a6a677f2",
+"title": "HDFC Life Share Price Live Updates: HDFC Life's Financial Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-30-sep-2026/liveblog/134578646.cms",
+"source": "Economic Times",
+"published": "2026-09-30T02:57:26+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3e7765c7990c049e",
 "title": "BSE Shares Enter Nifty 50 As Wipro Exits. What Should Investors Do?",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVkxOWhjWk5lTEhxNGV6M2E1Y25lcjBRdURSdWZPSzRqTnJ3Zi0yQWF3T0poNTlFcTlQMzJEcm1ST2YwY3MzTFNpTUZfaWNPZG05SG5Iei1uMlAzNFBCbTVJbWlMdy1uRnVLN2xxaTJmVE5lNzUySXVGRTJhdUhGZ2sycVNIOGR5SUpXbnJqTTh6TW9xdWlzbkR1elc0cUZQMDhsTWVuemFzUThWQWfSAbYBQVVfeXFMTlFLTVB0YklIRllJQ2N5NXVtVlZKRlR0cTVwc1VQT3VZV0RxREVtN1gwVmUycDZyVVdNdXVYVDhfMXd5cnd4dW5pUEMtX1JYTVhYWlQyY0I5ZHpOWWw5akxLaUMtQkZpWllCNE9GV1ZGYkI3LUF1ajl4MjBrTlo4TTY3b01WYVVlaXlYU2VoQnRCUHZndXlUVHJkQmNJQ1BUUUU2bFIxOWVBcmNnV09XRThDdTJ4U2c?oc=5",
@@ -2078,6 +2224,22 @@
 "tags": [
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4e444036ee6ebf43",
+"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-30-sep-2026/liveblog/134578049.cms",
+"source": "Economic Times",
+"published": "2026-09-30T02:40:42+00:00",
+"first_seen": "2026-09-30T05:35:22+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50242,166 +50404,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "b98ee9fab4597dcf",
-"title": "Tata Motors PV Share Price Highlights: Tata Motors PV Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-24-sep-2026/liveblog/134450291.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:08:10+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2b1a83de34d1c46d",
-"title": "Titan Company Share Price Live Updates: Titan Company's stock shows a slight decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-livestock-price-today-live-updates-24-sep-2026/liveblog/134450275.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:07:37+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "1faf529dae25fb19",
-"title": "Titan Company Share Price Highlights: Titan Company Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-livestock-price-today-live-updates-24-sep-2026/liveblog/134450275.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:07:37+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cfdb76e45e511dc7",
-"title": "ITC Share Price Live Updates: ITC Limited's stock price closes lower today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-24-sep-2026/liveblog/134450261.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:07:02+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "557533b76fb60317",
-"title": "ITC Share Price Highlights: ITC Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-24-sep-2026/liveblog/134450261.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:07:02+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "57229b0eb7abe69d",
-"title": "Cipla Share Price Live Updates: Cipla's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-24-sep-2026/liveblog/134450254.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:06:28+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"CIPLA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b9b9f14a63984874",
-"title": "Cipla Share Price Highlights: Cipla Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-24-sep-2026/liveblog/134450254.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:06:28+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"CIPLA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fc90a6f0262cea12",
-"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-24-sep-2026/liveblog/134450251.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:06:12+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "390bbad18f9f9ebc",
-"title": "Bajaj Auto Share Price Highlights: Bajaj Auto Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-24-sep-2026/liveblog/134450251.cms",
-"source": "Economic Times",
-"published": "2026-09-24T03:06:12+00:00",
-"first_seen": "2026-09-24T12:49:51+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ed1664bf18378c68",
-"title": "Telangana to procure coal from Coal India for thermal power needs",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1AtZE04a2wzZms1ZXJvZTFDcnV0YWZZdzd4UldXV2daNFBzeGZZMnlzX29OS0JiY1RrUmwyZWF6bm9vU2ZCV2w5REJjNmFReTdDc1hBaU4zXzA1ODhJYjZjV3lnWTU4RFdfSGtMWFVlQzg5OVA4WGM5LVp2bGdjdmxNVHN3U0llaXFMak5weHBWX1dCdnVlYmo3LVJYQdIBowFBVV95cUxPMFRSX2dPNUt5dDJ5NlpTc0JobUdpcU9pSV9uSjhYSklzdGdXOXNCUHFzSEFjVkxiRlhJTHNnSmxnUWt5X01oNzJNUW9aRFI5ZUR1NlhPeDIzQ0dhbmFMSWVzSDd6cHJyUGxrRVRkZGR2bHhqNFozUTA3UW5Rci0ydDFoLWR6OVRKOHRfWDZoN1Z3MlJnV3BhUk1jU1FPbTg2MVB3?oc=5",
-"source": "The Siasat Daily",
-"published": "2026-09-24T03:06:01+00:00",
-"first_seen": "2026-09-24T12:25:23+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
