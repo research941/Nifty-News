@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T22:57:16+00:00",
+"updated": "2026-10-01T23:16:21+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,25 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "260c186432891379",
+"title": "Adani Group reaffirms Rs 6 lakh crore investment in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUdQWWZxeUNiX1VFY0s1bzh1anBrd3JYa1paU3Y1SE5LRzdVNG9jM0lQUnFPZTRDcTdoQkNlMHpoRVkzRk9uRzFLRWpFX1NoeFVSeHdPaTdXQ3U2OWdrWDdHWVc3VVpxWW5QSDJzOF9WOEczcDdwbEZIUmdVUHZaWG9Yc085OU00a1RHNDJHckdnREhPbDhVNmR3NWRzR2ltM196bG81ZEtNT0cxaUREbG9Wd0R2dUk1X3g5eTY2ZHI2NGPSAcgBQVVfeXFMTjBvNkM3SUVVLTNCUE9yLWZ4S1c3REhIcWNLRjY1SmVDUmxKbU9XRTJEUTNLVzZXMmNyc0NKZXBzblVnZjdIM2k5VEI4YWk4SUktT0IyWHFOVV9QTkF2S0VBRnE1TV9NcHdfVldxeWRvVE1YWXR2cm05YWR6cFpEczNhcWoxSHBUM3FwdndxSjlGZDkybm1Jam03NUVvbzhGTHN6NzlrcmNvVThLMHJ6LXV0OUplSWFxYnBXeEFMSVd6elk5dWViNi0?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-10-01T22:30:27+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "4a0ec5c4de4d1849",
 "title": "Powering Maharashtra's trillion-dollar goal: Pranav Adani highlights Rs 6 lakh crore blueprint",
@@ -510,6 +507,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f8cc9d3f9d144cb5",
+"title": "Anup Bagchi named HDFC Bank's next MD & CEO | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMENldFdtckx5RmY0ZHYwX0h4U0hPV3ZmUm5Qa0J1Si0wQWV0YjNhZVZmaXVSbEk1WVZydEVZYmpkREZlbWwwQUNuaHlONUxRc3V4MlMtOVJvSkgzS1NSVzRCVEF2YmwwS2NXN1RxMGV4TkFZX1hQOERxM3FLUnZ2NzMyamlzYUFBdU5xZTI2Umh5TWN20gGUAUFVX3lxTE4wQ2V0V21yTHlGZjRkdjBfSHhTSE9XdmZSblBrQnVKLTBBZXRiM2FlVmZpdVJsSTVZVnJ0RVliamRERmVtbDBBQ25oeU41TFFzdXgyUy05Um9KSDNLU1JXNEJUQXZibDBLY1c3VHEwZXhOQVlfWFA4RHEzcUtSdnY3MzJqaXNhQUF1TnFlMjZSaHlNY3Y?oc=5",
+"source": "Inshorts",
+"published": "2026-10-01T21:26:56+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -1256,6 +1271,24 @@
 ],
 "groups": [
 "Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e13289131b696c7c",
+"title": "Tata Steel receives tribunal approval for subsidiary merger By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDhUcTB1TkJRczBucHFoQjVidmtfNG9PUnNkYXJBWFBjUUljczBnc2k5RlJCM3FNdElQblhQS0VwcmdJOXNiQmRub3VNSzJsdEc5THBvSmJMNkU1QW83SDN3WlN1Nk1JM2trX1VQSXI3aE02cXhqSXBaWDhyRkxFQ0pPaGpiU0FQZkFEMko4a0dzcktZY2IwcWp3dUJWSk1ITER3SlkxdDdFN1I2ZFlYT1RIWDhJLW1wdlZJcQ?oc=5",
+"source": "Investing.com Canada",
+"published": "2026-10-01T17:44:43+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [
 "Order/Deal"
@@ -2330,6 +2363,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ea3fbf7b89b118a5",
+"title": "HDFC Bank Limited (NSE: HDFCBANK) in Focus on Deposits and Margins",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVExkemdyb2lkOWR4UmpEbU5aRkdfdUpRZXpQQjg1T3lEZjNBaWNlN0tqSGdXUzJLenBkM2t2aGFRSU9HU2JtY0drM3pWdnpvTXIzNHdQRmxmMllldlQtSGUtSzRmcVJNT0w2OXc1NlB1YThPTTRDa29IbHdtZUFvMVFMT3l4STlWTTBKNUk5R1Jmb1F1TnFpQm1EZmc2dEQyWU9LNy1jd1p2TFRCWmxNNFoweU5QZDhueVJwWlF1ZUZPVl96ZHRGR3pkWmhQN25pR1U1MWIyVQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T15:27:00+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -18035,6 +18084,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "62d29e4d99c16686",
+"title": "Second Hand 2012 Maruti Suzuki Alto K10 LXi for sale at Rs. 1,75,139 in Hyderabad.",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFRrRUJoSEppLWZNOC1rRy1HYV82bWdxN19vUGptVy1zcVpYa1gxdXU3bW8wYmVUV0E1SzhkUFdOazVfSHA2d0k3ZVluLTRKZFZvd215TjJySzdBM0hmWko4OFltb1dkazh6ZWw5cTVfSDd1YjVwOHp5eFJxWDNGVA?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:35:54+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "85d8ece90d14b299",
 "title": "HDFC Bank Names Anup Bagchi As New MD And CEO",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDR5WWFITEVJS0xwbE9ETVFnWWI0cUVZcGdPeUQ5N2dGRE9QdXdmV1g5d1dXemVxY1c3R0pWcmN0Z19CMkhjLXd1OHFETzJ4Y1k5aVQzTjQ1NktFSEpLdU84ZzlHRk80aGJBcV9fcUlRYzVaYjVKcEd2X05JV2xtNERGLW04NS1vNkEyRWlwY0RnUkU?oc=5",
@@ -18448,6 +18513,22 @@
 "source": "CarTrade",
 "published": "2026-09-30T23:39:33+00:00",
 "first_seen": "2026-10-01T06:35:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "adc7dd810c32ee21",
+"title": "Second Hand 2015 Maruti Suzuki S-Cross Delta 1.6 for sale at Rs. 4,13,291 in Hyderabad.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdm9hb1R3VVlHQ1BWbTNfQk45eTE1R2JCU3lub3BzY0VlS19jME5Ua1JiNG9IVUdqVjZsb3RyMmtNczk2NEVMR09HWUlDbV9ucWtkQkJWWXN3SUs4eTRPM0JFWEpiN0FmdkFUSFhDVFcwSHF6ci1WRGRYVWtSYURCZWJPZ0M?oc=5",
+"source": "CarTrade",
+"published": "2026-09-30T23:17:35+00:00",
+"first_seen": "2026-10-01T23:16:21+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50690,104 +50771,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4e54d5b3cc8aae6d",
-"title": "HCL Tech Share Price Live Updates: HCL Tech Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-28-sep-2026/liveblog/134530687.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:10:04+00:00",
-"first_seen": "2026-09-28T10:12:49+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "725e38a1ef91f0f0",
-"title": "Dr Reddy's shares may rise 45% as Nomura flags biologics milestones",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTBHQjRLdUh4OGRqWmVXS2ZIMXlXeVJIQS0wVnNuVU1CcGdLOVRaQW5Ma0FUQUVYQlh6LVZfUWVyY2xGZjN5Z0lGNXp3T3hjM1gwak91d0Rka2ZfcXhVazhDTWpEVG5jMDZhMzk0Rk5uWHhHSFNGTWhGZFRLWTR5WGc2ZU1zcXc4b2pPM1VQWDRQNFNRQ1d4U1huLWM4U3NyU2lOUUprc3l0SjNSdV9DekN2N2tuZ0V4ZTdNNjk1LVBFYzJGZEh3?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T03:07:03+00:00",
-"first_seen": "2026-09-28T11:35:46+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "c0c89dae021facd0",
-"title": "Infosys Share Price Live Updates: Infosys Market Performance Snapshot",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
-"source": "ET Markets",
-"published": "2026-09-28T03:06:13+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fc93cf9338bed793",
-"title": "Infosys Share Price Live Updates: Infosys Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-28-sep-2026/liveblog/134530630.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:06:13+00:00",
-"first_seen": "2026-09-28T09:06:25+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fabcd59d42610d5d",
-"title": "Sun Pharma and LIB Therapeutics announce global licensing deal worth US$3.7 billion for lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxnakU0TUUxbURJcEdFMy1nNExqd3FXdkdJUVJQcHNGZVlaSzVMVDRfVFNEUXd0WHctY3RlMjhWZUxZTlQ5Sy1MYXhnTmdWRU8xZkE5YmQyRE5RMUxTdkFuM1hwMEQzSl9GZzNnQWJYcllZeERaSDkyVnhIbzBVR1lYNXN2MUZOUjJQcE9fcTh1SXRkc3JNWmFpdjZuZEJxTTJhcnptUnZrcXd3WDk0QnVaMVdmd2FrTGp1bDRJYjBGeElNRWNQaC1kZjFPVmVIdTZxa2FoTVM?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T03:05:57+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f0b5b50d50346cce",
-"title": "HUL Share Price Live Updates: HUL's Daily Change and Long-Term Returns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-today-live-28-sep-2026/liveblog/134530624.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:57+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
