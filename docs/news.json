@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T00:53:29+00:00",
+"updated": "2026-10-01T01:20:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "cce63ed14513a162",
+"title": "Wipro Bench Policy Signals New Pressure on IT Workers",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclFpVzdjYnh6TlBHdmkyMnozVG9kYVJnQ09fbUEzRGE2b2dXSTB6N1ZVQjEyWUJHU0RfV0pNR1RuRFBVeUdmLVMwRlJPYTQwMjNQbEVhQUI5aG5mSXZ2WFN0Zm90VF9VeXhCeDZ6WWZvNzMzZDBBeVhFNGtGWC1LVHVDQ0pGeVg5dGtva1dyU0Vab3hXb3c?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-01T01:06:58+00:00",
+"first_seen": "2026-10-01T01:20:03+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "81651ecd19095d39",
+"title": "Stock to buy today: Kotak Mahindra Bank (₹417.60) – BUY",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWkplaHZzZmNVanBWbEFTNm5rQUxQclh1ejRKRldtWHdTdjh2SGRSd3Z5a1MxanB1SkhRaWZ3TmNvTnYteDdEVVpUVVRvSjFPVmJCUGZDYmN0dmh6TVR0ejdMTzJhb2o5RWs5NEJnakpTb0tTMjJ6Z2YzdzRWWlRncGlaanVEWERvLTNleHBuNUc2OEQwOVJSNlRScS1QdHg4RVQ4d25vZG5RTTVqb0xCOWg4M3pkMEFvNGRxWVB0X3BmRGYxSHMwem5ocDd3YVnSAdYBQVVfeXFMTU5ZR1BrcU1jNUE4SFlNSFQ3cFB2ZXFGU1hWUVFwOS1xdGF0NThVSG9LX1hBbHZUelhRbFgtN0xKUjNoTHBDZHhRU1FrT3luTjFnSXJodEU4YnFUTEs4ZWxiOXhaWEZUX3ZmV3JfRkd6Nk9qSThKdDRvaEZDSm1RQWxzeGdFWkxhWjBVZ292Z3hFdlhkYzY1MU02LTAya0JTWTRyeU02d0dBYzRCaFZyUV80NlJyTVFQQU8xVVJBNzZRRk9HSzhqcWlJNTNtSjdHZDU5WkhSZw?oc=5",
+"source": "thehindubusinessline.com",
+"published": "2026-10-01T01:00:00+00:00",
+"first_seen": "2026-10-01T01:20:03+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "52127c8d2c89cb42",
 "title": "Andhra Pradesh: NTPC REL Issues EPC Tender For 1 GW Solar Project In Kambadur",
@@ -3402,6 +3434,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "033c66880b1bf7d1",
+"title": "Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tOGU1TFY5eEZXQ0hKeFR0MUNSYkdVX0VGLXhlSHFtNzRZd1UyTHVQNUI5cmI4cjFOdFMtTlNsd2h4WUFEak1BTTRWZ3V5Ymt6d1pqRVlKR212TDJWN2VFWi1rSzE0andENTNsMldmVFU?oc=5",
+"source": "Upstox",
+"published": "2026-09-30T11:21:27+00:00",
+"first_seen": "2026-10-01T01:20:03+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50370,59 +50418,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "376a563fa42cdffc",
-"title": "Tech Mahindra, Verato Partner to Strengthen Data Foundations for AI-Driven Healthcare",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVdNc0xpcUtvaXdXak9YTmUza1JBRUR6R295RmlRTzVvT3JvaksweERRdVI4ZHAzZXVKbTRMT0M3WTRQeU9QSUtER01hY2MtWW0xWW9lY0Z0bUwwTGJiLWxITXJRQ1kzNS01V2o1SVVERkpnaXdyN3VfZXFGVG0tSFFNYUhPU3pCa3pyOEZiWll3bHlaNUZHbkpVNDNPUFJ1ek5vc2hFNjNNM0dpenMxZFdUMlc3cm5KbGMzbTkyVmZfS1p6bElJ?oc=5",
-"source": "BioPharma APAC",
-"published": "2026-09-24T23:15:00+00:00",
-"first_seen": "2026-09-25T01:28:38+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f918fbb29f72034d",
-"title": "Airtel Money Targets Up to $9Bn Valuation in London IPO",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelM0a2FEeDhtUTlwVmM2Ni1mbTBjY21KTmRYcmM4RmdFWUFwVmpEWlJDTm1IWmM1RmhadG1kdHY2YkxyNlFzdXpGNEtZMmVRWDJ1MmE3cTRaYzFBN2V1ZllqWUlaRy1LUHVRaXNVbGlzWmNwdld5aGJfSGs1VElWTUFsZ1B0Q0QzS0JrOHZCeks0NWRsXzNPTzV1OUExSFBjcTdhRHZhVEZHbFNLMTdJ?oc=5",
-"source": "Nigeria Communications Week",
-"published": "2026-09-24T23:04:08+00:00",
-"first_seen": "2026-09-25T01:17:05+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6a2baaf8f2cb166a",
-"title": "Dr. Reddy's faces securities fraud probe after Q1 earnings hit by semaglutide batch issues.",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcktlWnRRQ3JPNjhjWmFqR0FZZEJHN3l5UzV4Y2FlV1NhZk8wdXJ3ZHAtV2pTeWtxMGx2Tzl5MGFtZVo3WFJaeUhJZk1uRjlEMXY4c0dEU093N1V0MkRKRVlXcURpVmE0Vkoyb0o2VWI2aU5rRmdjMlV5TVliWGs4bVk1dXduQ01rd2RycTI2UGlzY2NCaFZobkdYWTM?oc=5",
-"source": "Pluang",
-"published": "2026-09-24T22:57:00+00:00",
-"first_seen": "2026-09-24T23:16:43+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Results",
-"Regulatory"
-],
-"sentiment": "negative"
 }
 ]
 }
