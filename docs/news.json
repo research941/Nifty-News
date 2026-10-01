@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T07:31:45+00:00",
+"updated": "2026-10-01T07:48:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,130 @@
 ],
 "items": [
 {
+"id": "ed49d8ccc71bd70e",
+"title": "Maruti Suzuki India sales rise 24% to 2.36 lakh units in September 2026",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzVidjBMM0EwRXJpYzE0WTZUNGpXRUV6Z3BIQkFNbFNzQXZpMnhSS1I3X3B2WWpBVGdtUUxINFFNQ2NhbUlfc2xCNDBZbXZqdExGemFUcjhFeWlidzdRWlVrb1VkMGpDbklkOW5aUGZuWEhZQkN3RnVyMDhGVFNPU3JIRGRtSk1BM1ZEUXZ1QjV6NUhZZWozLVNvTjZZRzBtV085cHpDY3ZwWDA?oc=5",
+"source": "businessupturn.com",
+"published": "2026-10-01T07:38:44+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "93b11ce2107258dc",
+"title": "Video | Kotak Mahindra Bank's Choice Of Saha As CEO Positive: Parag Thakkar",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0hHUmpvNEZXOTAyVE0xbDFRRF9CLU01TV9mX1ZBUlFOQzl6aHl1Rjd4ZHFMYlNIUG9BNkNPc0hCaG43R0hydFc0RVZwODdfcmMxNUhJTGM3TXBRdWx1QllRb0JIRXB1UnVrNmpyWnhSSkNtMTlPMC04TnNRQ2NSTzZmalREVDg1UnNkaGZEbjI5bGt0XzVhUzJ6ZmVDQzBXdW1OQVNOTlQzdWFp?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T07:38:41+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1b775fe4c1c3614d",
+"title": "Coal India SWMA E-Auction: 93.64 Lakh Tonnes Allocated in September 2026",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmpuSWxTWkpvNWl0T2pGS1dxWGF4OWVqTGxxcXFBLWNudHAyQ1E0MC1Hczh6c3F6dGVvdktPM1lxbzQ4VFMxVS1mbzJGYVhFQkVpbTZSTkR1SERxdGhqeXN0djBuS2Vib251T1FYRm5ad3RyamxOU1ZfTThjTkJ3U2UwWkJBaXE4ZGc1bk5rU1BscGZzZ3k1clo3NzJha3Q2OWFXUHhzNnpfdw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-01T07:37:00+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ca9ae6f864ca6877",
+"title": "Why Nomura remains positive on Bajaj Finance, Tata Capital, L&T Finance and Shriram Finance",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcnE0RGxPNWJzLTNBOVlIbVE2MkdOTzhmbVR3RVJpYUVBYkZzM1lJdHp4UlhIQlkyV1M1S014dkhmUmkzdTkzMy14dTJ4Q0VwUlp2VGlYd3pnWlFDb0NGdm1qUzBuLWRZcGthMjNhNm9Wb3ZldVpLQ0RpMktRWDU3MVZJVXNKc2tyUVp5U0tIVUtWeURISjV2UktMV0ZYQjdHS3U1VS1qeTVNeUFlNGdJRVpoamdYZnp2N3FkVjU0MEE1RjUyaVJFVWktcGxkZ0duSTZ0RTI2T1piTVV1dEZURERTU0pxV0Mx0gHuAUFVX3lxTE01bVIxUlN4R09yT0NLX1JPVWs2eHVMRlNtWHg5XzhVQTVvVkRhd0RycDlFbV9Zd2I1cHFqU1JGRm14bzB1a3ZPWXY1OVlPOFFTZlNlUUMtOGY4LWFTY24xQ1REdXE1cjFnVnR3YU1LQ2JwdHdDUFd1VWdLaDZkOWJNUlAwWWtCVldBZkN0WXRWSlJjS2RYUHo1a2hQWk9GMk9VSWhfY2RscVM3SFp4Nmp5bzczOTFDcUs3SzlsTnh4RS1jX21UMGozSXI1a01hY2xlcmhyaDZNU2xmWktEVjdLajhRTFNwNzAwbndFLWc?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-01T07:36:14+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"BAJFINANCE",
+"LT",
+"SHRIRAMFIN"
+],
+"groups": [
+"Bajaj",
+"Finance",
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ee94c1f6af64b1b1",
+"title": "What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, metals and heavyweights slide",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQlBaUkd5T2FScVktLWtRM215TjQzNmJGSFZvV0FuNF9PSURVUW1SZlJ5eHVSZ05iS1kzWXBjOFV2X2lkd0tHaEt2MThqZ2NEM3VuZjdITERBQ055V1pHT2pvZlEyTFhKbWE5T0dhbU44S1lwVDluWmpDNVlDTUlkeEdJSVVqc1dwQ2ZPM0tGSlB1ZmtJOXpJU0pPYzNCcDdqZlprNDh2NG85cTgyTHl6TlBZaWs0LVp5LWtvTTZrOVUxUlBpcTgzcC1xQnZ3Y1dISnBWQnlPb3daemhrc3k5Vzd3OTZtMGd2Rmtn?oc=5",
+"source": "businessupturn.com",
+"published": "2026-10-01T07:34:07+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"M&M",
+"MARUTI"
+],
+"groups": [
+"Auto",
+"Bajaj",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "a91c1aeeba632019",
+"title": "Four ONGC Executive Directors Superannuate Effective October 1",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVg1RjRPUGphQ3lzNTZtT21HbTlMT2RLNWJmZG5qVUVnWXBiQ1ZuM3NYT3NuS3pXcGpLRG1UZUdzSWZZMHRSODJpU1pBUWp0RkRXX0JWS29TVUItblFra050UG0tdzVObGlJSXZnbzJzRkVqYU41MnFmMGI4TDdCVjI2WHlLU1ZJNW1feUJEMmVweHp5SGdfWDRqS0lZdw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-01T07:32:00+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "57e6e91a16fb360f",
+"title": "SBI MD Rama Mohan Rao Amara says bank passes on Apple Pay, backs UPI MDR to offset costs",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0NQdFhzXzk4bGhzVjNGSDFmN0lLLWIyam00Q052dFNWZG9fdllVd0Ytcnkta096NEZFanB2Ulhrd3lNekdIVGtqLVpTemdLMWpPaXpIdFotOGZFOFh3bzRjRzQySTBSa3drZmlUSUtRc1pPNDZVbFQtVjVwTW9FYlhTNXY3SEZuNGtyWmFubjhHLVBWU2VXNDNQckZLM3dmZ0xSOWUtRmtwVFRBU1FUWFlnTk5Hb3FranM0Tm1FNGRnVWhBSHRSSjl4aXnSAdIBQVVfeXFMTzR1M0Exa0FVOWNLVjhEUUxNRTJka2tCTXYzRkVqMjFlWENnRVc4VWdSTlZFTjdVTWVUeVY5eFhGbEVpZEJIa0x0bmQ3Ynd6N2FYazk4LUlmOUh2c09jTHU2VjRjSDdxYVV4SGtPZkUyOHFySndfeE03cUxEa1VaUEtZTzBEclhPYTZ0eVZDcXdmYmRSUmhnTzBlUjZ1eGdja3h4MlF1TmE4dmFuUW55ZmVvTTJKamh0N1QzN2JSMUJlRUFvMzBQNU1WS0VFRk1KMExB?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-01T07:28:59+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "79978da88eb35c1e",
 "title": "Bajaj Auto September Sales Reach 5,38,443 Units Versus 510,504 Units YoY, Missing 570,000 Estimate",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM1akJ0SEpQbDE5aGpsQm8zdGE1SnliU1JMXzVQUFF6ZGVWZElzOUxkdVN0NDBwamxWV1MwNmd4SGVqcmFPdzIwZVA3RHBDVGVwTjhlVHNMRzhjTjM0cDFFNmpZeVpOME1Ra0R3WUNBai1jRHQwU19BTmEySjlVVEpPTlE0eFgwSzF0MUxPSnFQNE5CT2c?oc=5",
@@ -456,6 +580,56 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e7b4037abaca5c95",
+"title": "Kotak Mahindra Bank's Choice Of Saha As CEO Positive, Valuations Attractive: Parag Thakkar",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXN3YWpDZ0w0RlN6b01oVmh5UE95WTUzNWEzVmM1TE5mRjVQTEllTzJjRThvT3BJNW96TEZhZTY2WGFYVGZyWkptSUQ1eERSc1pudmRRWERMWGpaZEFFNFdQM1FUandhc1NaOHJyNmVBMFRhd2UzbmNxQWpiSS1DOENLSjFJSENvMVg2alJYbmZIT3ZCNU5ncHNuWnJ6REhROGFUMEg4UE10WktvTUZqOHVkN291WFhkWjAtSVhiR3JmY09KUVJvLWctX1DSAdQBQVVfeXFMTnhJbkJxZjgwdjZoekFHZ3NOVHhiLXA2UVhSbGM0RWlFRzJDZVNScExZbEZqU3hCc3NrRTBYa044ZWdtMlVYQWFScno5MUptazJFLTQ5anpuZHlzSUVvb0hObk1KOTBqNWZRNlNvWHU0eTlIVmJQSVRlTzVkZXBzUHhhMkQ5ZHh1NVBvRjllZ0dGM3dtRlFVUFduRWhOdnA5TTFQOHpwUXR3bjA1XzF1aUlUNzZRWGotVmQycHVfbWNpN3d2WjZEeWZaQTh4alVERW9XSGg?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T07:26:19+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ba2734532fa3c8c",
+"title": "Axis Bank wants to double its Rs 8,688 crore data centre exposure",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWE9JYWc2UFZnR0VmVk4yNlFHUC1lanhGbFVYbm5NYUJUcDZoZ21pT1k5WTl1WFhXSFpGOEhjVm9sVUpLU0c1cW9heWdOZ2hEMVhhdFQ4RXEtdlhEQWFVVUJXVlFGY3VDZ2FYcGxQZndaS1VKSGJrWDk4WUFYbzcwQWExOVBISG43bXQzSlZGMF9OSkZWN3FmSndXYWlSZUhKclZYeHpNRGhVMGxmVXpMLV9tRmwtUV9xTG9FdmF5SFcwRWNmT0NpeG9scjNWcm9xOTJLeWhjcGVHNnJId3RESjlXSUFBQdIB6wFBVV95cUxQeDJCcXdxaHk0MDYwb3hmbGdOSFZBdFJIYlZGQXRpaWNDUnZDUC0xTE5VLUh1VnRKd1dPdXdmSG5WQkVXMUJIeGZMS3dyTHV6ZDRLdmgwRWhmVTNkT2YyUGQ5NGhZN3F4N1F0c3FvQXZ1elNvQnpGdVlLS0VWWXVQemVSUTFFdDRPNmpWTnh6R2NfWWtUdkppelNvVW9GVXlUSlY3dHJrTG04NW1TYVRfNFowNThxZUY3UldWNVAwLXhPOGxqYWVTUHAwQ09VU3I3dXpzaDRnQ09aVzkyWDQ4QXB3a1k2UVU0XzZ3?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T07:25:27+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2e5ef325daedb3c9",
+"title": "Adani Enterprises : Green Energy expands battery storage capacity to 6.63 GWh; accounts for more than 50% of India’s operational Battery Energy Storage System capacity",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaXZxZk1TME0zN0pud2xaRENjRHBoR1Q1OGpnRXJfNVZQNUQwUkdGU2dtbHU1UFA5MnhjYlNZSkt0bGF2M0g0aS1qTlhjdzVxNFdELXVUaTg0ZzZxSE9McWNJNFExU0RJb25iUTZaUEo0QmdueURBT0RLaGNmTjhvRjMyLVZFYnpfMG9aRmxRWjY1VnRXdW9vUlU2WWhYcm02ZVUzS0NxRmNTYzQxN09nYnBwZWlBSDJzZDdGLUFJQTRtVW0tWExzTkdRWXhXaU1YQjZQMktmMWgxZ2ZDU1BNbldJeng?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-01T07:25:06+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1230,6 +1404,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e91dd1845443525e",
+"title": "Coal India: September Offtake at 61.2 MT vs 54.4 MT; Production at 53.5 MT",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjVxa3pyQlQ1Tjg4TDNLbU04Nk5zd0JERVBVZkM2a3BQdjdOdlBfNGNvV01VQmpwX1ItLVhIcW9ieEZrY1pxZzIxYk1VWWNLNTRBMW04clZORHJzTF9mR2lRU1hvbkk0LTJtYWZEUE1jZ0tLTTlOdUNySUcyNU5lTVJNZTdBYmFwdTBva09DWjMtUy1Sb1VyTy1jTUNKeWs?oc=5",
+"source": "Sahi",
+"published": "2026-10-01T06:22:15+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3a35631321ce8876",
 "title": "Coal India Production Jumps 9.2% in Sept to 53.5 MT; Offtake Rises 12.5%",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QVGNNb2dlaDVGOWFtbldnT215dGFaUHFQZW10N3h3cVFTczJ3NVRKcmd0S3AtV2Fyc09jU0otMTI3NVNEYXM4OVdVWDhyc0lzTTFMUm9LbXR5ZnpoUmxham5XOFpDZmthQkxWZUFodGxuNS1rSnkxUnFpM3dMUQ?oc=5",
@@ -1243,6 +1433,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "positive"
+},
+{
+"id": "97e1344b06875b17",
+"title": "Kotak Mahindra Bank shares gain 3% after Anup Kumar Saha appointed MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEIwcGM0ck5VcWpaZTFDSTJXN21rTVVhNGlhWmd3NnNIWkxCWXVobkdONWY2TW5zQXREeWFhTUxBbkQ3RTUyQTBKZWd0dmdmcXZaWllwZ3RWT0ItMXl4cnVuc2pEVHZYQURWOFBEYUtESlRmZEZyRjlrRDlMU1R1QWczekFObUdBMldxRkxUSjFxcmVvbldQME1LRGt2V1ZFZVRhM25fbVUwSHRyUWNZOWRId0JwLW02MFVnYU9acmxVU1nSAcMBQVVfeXFMTVhCMHBjNHJOVXFqWmUxQ0kyVzdta01VYTRpYVpndzZzSFpMQll1aG5HTjVmNk1uc0F0RHlhYU1MQW5EN0U1MkEwSmVndHZnZnF2WlpZcGd0Vk9CLTF5eHJ1bnNqRFR2WEFEVjhQRGFLREpUZmRGckY5a0Q5TFNUdUFnM3pBTm1HQTJXcUZMVEoxcXJlb25XUDBNS0RrdldWRWVUYTNuX21VMEh0clFjWTlkSHdCcC1tNjBVZ2FPWnJsVVNZ?oc=5",
+"source": "DNA India",
+"published": "2026-10-01T06:19:18+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "positive"
 },
 {
@@ -1736,6 +1944,22 @@
 "sentiment": "positive"
 },
 {
+"id": "9c84099495a9519e",
+"title": "Eicher Motors (NSE:EICHERMOT): Did Royal Enfield Hit Record Sales in September 2026?",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWF9Fb3ZoYkwtTV9BcUpsM2twUnZFRWI2Rnh6MUJoOERodWxicnVPVWpmMkVjU0U5YzAzam5mMTNqWTZ6VTNaUmpOUm50a0cwN2F0a0ktQlh3bTlxVWVzYjZPYkNUOXEybTlmRGFVUWtvYk5LNmJXTGRwN0kyWE53ZGt2cW5adXowX1VwdXJJeGVWanpJV2hVZzVYeHpXaXlDRU01ejFhQml6TmM1dmpqLW1XMEZkRUZheGJiQVh5VzMxUlE1ZFE?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T05:48:00+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ed1ae3ff473a94ef",
 "title": "Why are Kotak Mahindra Bank shares rising today?",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE1kZHA4SlVzLUxQVGdLRTRkTVowa0VHdGFzQlV2N0Jub2J6RF9ZSkpNNHh1em5HQW8zRFltTy1SX1pLQllxRFp0S05QTW1PTThsS0pIWFR6TkRHMHgtVzFfVW5xSmZyYmZXUmxUUGw1ZmNkR3dwTnc0SkJCOXRBYW5FRnU5Um5uOFBqVFZFRzJpT1hiUnZ2MmlfRnFxa0pJMHh1TnVXamplb0F6SHNJcDd1MVdDZmVOYWJFamJGRzdKbW0yRFBvenRadGw3ZUQ3U2fSAdcBQVVfeXFMUFAwVWxIV2xxSDRrdDIxeDNPM204dXJGYWZORy1EemczbmM4N1RWc3hPdUEzRHdYTVA1MzBPVE0zZHpjWlRfZE9DdzVKYVFOZ3lZZDBZSTdXYWZwRkFpN0FXbDZwWkpJS2x0a0xBQlpvTHJqZk85TGMxdVhLUFYwcU96NVk4WklGWFVzckNQSXJzV2JKRjY0TEdxYTlhdmpmMjNDeW1fX0RBRE5FOUhnWXRrSV84UlNaMFpyNVZrdGdEd2F3OVF3OVNPRkhtLW1RZUtXaGVEZ1E?oc=5",
@@ -1825,6 +2049,25 @@
 "source": "Business Viewpoint Magazine",
 "published": "2026-10-01T05:38:51+00:00",
 "first_seen": "2026-10-01T05:54:56+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d4ded33419dae69d",
+"title": "Kotak Bank gets RBI nod to elevate ED Anup Kumar Saha to CEO post",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaEloa2pYVmdfREttOGNPeHo0bzQ1WjItOGdwNzFxWUFIQ1h1S3l0VWJDbEZpb3NPNWVVTE1KV3hrTE1ueXVxQVFvVncxeDlSZ1p1YkpBTGxuSjVzNmw4R3I1cnJYaHNMY0t5UGt2czY3SGJ2S1dkcjlQRm0zWVhjd2Q3YXBTd2FjQ3FjRE1GTDQ5NGYwYWJ1cG9MZWRYWl9nR0NpV0l2dy1lZmhZTWJCaGJJUi16NDhhMUVaUjZnS3NYaTloRGFGX3VaeXY3R3oxWUZNdl8yVDM5Zm14empsQzZXT0hVRFlwcXlF0gHrAUFVX3lxTE9oSWhralhWZ19ES204Y094ejRvNDVaMi04Z3A3MXFZQUhDWHVLeXRVYkNsRmlvc081ZVVMTUpXeGtMTW55dXFBUW9WdzF4OVJnWnViSkFMbG5KNXM2bDhHcjVyclhoc0xjS3lQa3ZzNjdIYnZLV2RyOVBGbTNZWGN3ZDdhcFN3YWNDcWNETUZMNDk0ZjBhYnVwb0xlZFhaX2dHQ2lXSXZ3LWVmaFlNYkJoYklSLXo0OGExRVpSNmdLc1hpOWhEYUZfdVp5djdHejFZRk12XzJUMzlmbXh6amxDNldPSFVEWXBxeUU?oc=5",
+"source": "The Times of India",
+"published": "2026-10-01T05:38:00+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -4102,6 +4345,22 @@
 "sentiment": "positive"
 },
 {
+"id": "5af3a2fc285ab9c3",
+"title": "DigiPlus Fest 2026: How Kotak Mahindra Bank is scaling hyper-personalisation from consumer insights to exper..",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWlJCZlQzZGV3b2xyazl2R3pIOTB6WS1nZnRqZWRpcThOZTVybmxGRlIwUnpPQVR6RkZDYkh6eUYyNlY0eWZVVlNNa0pYUDNYdWhQYjZiQ29kVlFsQlNfS1AwdmE0N1lWdzBhbEVPeFBxY3hvekdOSm9CM1pRMEluVHpidWI3eldyZWt6WTZFVkxOZ05wUW11eTRSM0wxQ3Rsc3Z4NmJ2WUxDMjM3ZVk0b2k4cEltTTFRTjRkcmlJS3A1ZHlBQ1dCT3poc2V2ekxwM1dLdW5iUDJsYWRXYVA2djBHQjRYOGx6T3dqVFg1anZNN2hPWVRjdW8xcC15WGp20gGGAkFVX3lxTE1mWi04T2pXTm1va0JUYzhUZXhCaEl5ZlZXdkthUkVpOVB0aTlxUE1RQi1zd3dhajlmMDR2WTFnYVZRcGVRcHptZjRJUmQ0NUZkX09qV3pwYjFyNjJGMnVPakhEMXJ6Y1ZFZzhvR0ZfV3dPVjlxRHBzQjZBNWl3N1ZFYm5VTDc0TWV4SG9LNExTdUFEaVNhZnZEZlk5M09JdVpVaFpKaDc3N1hBNWpKZS1tT0FIdjU4TDBFeXlBZlBPbFBiN1BpbmVXQndJMEJWa0FTc2NSd3pmd0dpN3lfaG13Tm1SWmpGWnpKMlEySmRUNWxYZEgtWXJWZFpwRUZ5TmtEd01sckE?oc=5",
+"source": "ET BrandEquity",
+"published": "2026-10-01T03:35:10+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4edd8f4a018a71d2",
 "title": "Who is Anup Kumar Saha? From ICICI Bank & Bajaj Finance to Kotak Mahindra Bank MD & CEO - Full details",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmtJVFh1MmhiaV9fWXJ1S1MybkFWWFhBaWJmZndiYXEwTnpaelVCY3FNUHpNdG5MSmdYbXloRDd1c0l3LU1NSUNwSDBud0lhNVJEYVB5MlVXMFJWbEt4OF9PZVBQNHBkMlFGekNaaWY5Z2g4NVRxRW5uMXE2ZFVxc3pvRjNFU3VuLU1DOVRkbnJNbF9CV3ZFaDNWcTlMMEtlRElwaGlGb0pkSmduZ0pWS3hzVXhNWjkzQ2M5d00wZDdnVWhkNi1XcmUzanJMUDNVSmNFLVFPZw?oc=5",
@@ -4288,6 +4547,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e0953f4c56c03f79",
+"title": "Bajaj Auto Sept Sales up 5% YoY to 5.38 lakh units, miss estimates",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlJfbXlZRjh1TmhfQlhaOTZXcTZiVzQyVldTeDRLWmpfZUhRMEJHcHBwN0VGbTRjQThOOWdPZk9hamlSQmVnclFuNjlzeVM4SFpldjlIY05FV3VPNkdHMDE4dHlqRnB6OXhTN1E5Zjh5eFEtTFAzeFNUanFpOGlhbk51bC1TbzM4bi01X2xUZndYVUxKZE9UVW5XU2F2Rm5vSG5tXzhFNW9oSjlUdWJPYWRFVDN0ZG1kSGplT0pnZWltbG8?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T03:30:28+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "45bf7fd8dbf7250f",
 "title": "Tech Mahindra Bonus Issue, Dividend 2026: IT firm to consider free shares, cash payout with Q2 results",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG9aaTh2OXZRWEhmVzlDcDlsdnVxUFJFMGY3ZVdlRjFtbUtudUNTcUFpSEwzd3VhMnNRWmVVRGFoZ25wOFl3OEw1Yk1NSEc3anJyU2phQzhsTDcwUUFuQ3hHVW9kQVhldXBRX2dlZ01LdnoweTI1OTBSV1I1d0dKcmdTVDdudXBrRGNYZ3R3TGE4TlVuUmxSYU1FQVQzNnBjUnN5OFBZRmhROVhNWGdaZ254djBhQ0puTVYxQnlEMy1xU1NwSXRtV3VMMFFtMTkwa2pjMnN2dXhnY3JvSU9hN0xMcw?oc=5",
@@ -4440,6 +4715,24 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bc4dca1104cd4ba",
+"title": "Kotak Mahindra Bank names Anup Saha as MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2w2U2FSTFJyX3RaaDdLUXNCYWFQcGtRdnBrMWZHZ2pBeGxvcUxIUmJJTC10bGx3UXRXZnFWd2l5NnU0dXdVT3JHdU9ZOFRabnJWWjdRWXJPdEZNQVZRSGhpemNBcEVWLUZjbUtaYVlrb0hwUWtUWGVLLTllMWx2VG1jZ05GbVJOOTUxeGJzcGF3X25STWNTdmVhRHlEYjdEUlg3MzQ2Yk5xX05jQVRWRmlyb1YxMndiMUQ5UF85VVN3LUXSAcoBQVVfeXFMT2JlMThPMGJmMzlMOWtYTzhVMERxUWhDV2tCNGNZYnhuZUx0b2xLSlplbTY1akZUQTNaZ183d3E1b2hwaDk0V0Rob0daUlVSNkMyVnpNNC1JU202SDNCQVFkXzh2ak1lalBUMXZOVHdSUzZWVFhseXJHV3RrakdFR1hXVmJqekhGdkhpTEZkTEMzREFJcGtwTHNvOGI4WFVnVm5VUTR4dzdCS0NXRGlTX1BLMUs1NkNKbXpGQUI3SkFFQm12S0tMTlpwdw?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T03:25:40+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -11513,6 +11806,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "935cb3c41e5b6561",
+"title": "Business News | Axis Bank Brings Apple Pay to Mastercard, Visa Credit Card Customers in India",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckJrUlVRWHZxNnRqcFF5N2xVSnB6U25fRjFIUE9EaU5mbzV2ek55ODNJVXE3clBod3hJbFNWeW1lNXAwMnBCWjNuUDhZTU5ScUR1c1JtTWRzSldQNHZJQl9fdmJ3d2NabmJ2SGVSNXJ0YzM3d0tQdE1QLXRSQnkwdjhoVVBFR1dLNnRDZHlsWTJ3bkVUc2VZQTNiWE5oSkZ5UjBfaExBeXpnZjJhaUZCbzdheUVtcmtQVkxROGZRcERpemFPYXBlY1UwZ1FRZ3h5cmU2QUc1ONIB3AFBVV95cUxPX3ZudnFkd0EwZjg2Tm9xZFpObEdzVHJySHFHa3Rsa0lub09kQXJMMXJuN3dDMXFWMDlLV3k1TjI4elNQNkRFNzRxQnpseERmQmVDbjJaVWFfRll4aGpyY0J1RzNwTVVCUkhRNWJNRS1hWjgtVVZSNEJmcUtGaVhCT1R0c2Y2ODdkQ0UwNnBXdWtRSE9ReldsOWlYX253NDRjV0VJaXN2Z2ZfdDc0ZFppZWVOUWNsTVctZUl1LWlGbDRKeW9kbTRJZkZ4RVZiTDZSWTZKeDdYc0xkWE9t?oc=5",
+"source": "LatestLY",
+"published": "2026-09-30T08:48:23+00:00",
+"first_seen": "2026-10-01T07:48:33+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0903bdcb5e338d23",
@@ -50318,298 +50627,6 @@
 "first_seen": "2026-09-25T12:50:11+00:00",
 "symbols": [
 "TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "947064cdcd195e3b",
-"title": "Top Gainers & Losers, September 25, 2026 at 3:30 PM IST: Axis Bank Leads Gainers",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13cGtlU0Jhb2tqZ0tKOXJLTjhSS0I5NWtheFFMZXFjN014clZhal9jQzNqWHI4bHFvNmNvSzd3SC1ha1h0S1d2ZFRWUDA4b1lsXzNyVDZvZXV0ZEJoNTFJS3B2cUFzejIzRDFGaFZVcUc3aFR1MVFhaW9BRVQ?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-25T11:04:50+00:00",
-"first_seen": "2026-09-25T11:18:56+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "625bf11407999ae9",
-"title": "NTPC Green Invites Bids For 3.3 GWh BESS At Khavda",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb09mNWNpNnJKbVpfRDdlTTVWYkVUZHc5NkpmbTdNRFJibE1QR3hleXR6Y3M3bDA1QW9qbEI1LXFWWTFzVmhseG1GZkFXTkxOcmVmc0hkTWw3OTlqY2lhdkd1aGN6VlVQcGUyUTBsX3k0S1FnLW1DWlRNQlA3SzcwcXNzRDAtQQ?oc=5",
-"source": "taiyangnews.info",
-"published": "2026-09-25T11:02:58+00:00",
-"first_seen": "2026-09-25T11:18:56+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cdfdf377ff83cb53",
-"title": "HDFC Bank CEO Announcement Live Updates: New MD & CEO appointment expected soon",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzhlUjNpZ1dSLXhYRXF2UWlNUnBBbHFpNGdJZVp0d19tN05MaEdyNmJyTUlpZ1NEbTM0bDJuMi1NRXlBQUVVVHdGR3BZWUp0cVlOUGFrLW9XU0FtT2Z0UER2cFNWYjhKN3FIZGRrTjdlSHFPa2hTNEVrWHBqR0JfOU84VkE2cnZoeU50Q2FldzNEdjluSEV5dnd2dzNYZ2kyYVNCcjB6S1JwbnA2Z3I2Y050bzY5QXljdzZRZ3gtU0czOGpEMU1UajdvSG11ZkhaakZTcG94c25jN1HSAeABQVVfeXFMT2J5MlQ2R1l4T2tBWjJDbC15ekx4T2pHRGtxeTJvbWRhTDc5Ymp4ai1NakxlY0REclRvZS15eXVTdWhvLXI1OENDbkhXa2RrclQ2cFNrSXhNQVNrQ2IzZEJ5U2I3SkJyMG05SnM3bzByc1B3Z3VjbkZRYkU1NXlhYlRiaGRtOXV0dEpWZDJUSnljcThMZlJoUmRIcVlrWkFMWmJjSnRQQnNGUVlIMERpSFVDOG5VcjJmMzQxRTFSNVFQd0NlZTMtRGRXZWd5eDhJVExIbFJQTDlMNjNXd1lBWnI?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-25T10:59:14+00:00",
-"first_seen": "2026-09-25T11:18:56+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9c369a3e79e476e7",
-"title": "Tata Motors PV may take further price hikes as commodity costs pressure margins: MD Shailesh Chandra",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0ROUUxpRDU1eENESDBEdDJDR1Jsd1RGRFN5T1FwNmE0V0VFYXVxbzhlc3dCaGNzb1ZERGhOV3BKeTJjOThhcER5NjkydkVfTExTQ1Q2Q2J1b2xCQ0paRENGc043VEMzTGwyUU9MaFpDXzBXMmZRRHVMLXdyb1NhMmthV1pNYjVTM0ZkZFMtSGhtd1hkcFU1UEViVElvUnc5OGtia1o0RmNoTDhpeE5FTXdWMlp6QdIBwwFBVV95cUxOQkRMcEZycEVNLVduQVpNMVNlOHh2RWdBa0NOUjBmWm1xS1hpeFRLWXYyd0hocEZzRkZ5d3pEN09ORTYyeFZXMFlDNjJwai1COXl4U19VeFZYUFJCUHRoWDNxT0ZtZmI5M2FxVF9paTFydElDLXR6SWhhdXI2UG4zYlF6WWg3TEo3M1F0M0RkNDNxeTRXREdQaTlzVmw5RnRwN2RTSXlRMW5Gei05U2dsSEhJaDVQUzc1STg3T0xSTnE1MFE?oc=5",
-"source": "Fortune India",
-"published": "2026-09-25T10:57:15+00:00",
-"first_seen": "2026-09-25T11:31:50+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a4d2f9192b676e00",
-"title": "Maruti Suzuki India Limited (NSE: MARUTI) Production Capacity Expansion Roadmap",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmVreXVyQm5FZklMWW1LVGRuM0p3UTlacU9JUXFFYnFZZGdaQlBJRmpVaTJZa3Q0VXBxOWJsYVVxejBIekRjVHpsdlBHZUFKeS1kY0ZESXkzQ2wyVndFdTN1VnpWN3lrdThNRS1GbHhzZFVVd0h0dWxFajIxQWdfOGpVZTF1ZG9OeXBlTGtZN196SXBFa2RvMnVEdmJaSy0xMm1ST3dwWFBleDdvUUFHU0RxSVc4MndzYS00dm55WHRrT2lWWkJTNF9iZVNOckFaZkxwZkcwQ2ttTDVibXRmQmRoZ0RYUGtD?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T10:54:00+00:00",
-"first_seen": "2026-09-25T11:45:14+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "972cb7bf8f55ba71",
-"title": "Mahindra & Mahindra Ltd Sees Significant Open Interest Surge Amid Mixed Technical Signals",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZzRJVkhmdXpvZWtTYVA3Zm9zTGh3T3IxNXNiajZsS1duTzV0UnFBeGZNVUo0Z1FoeEZFMERWSXdrQ2piTFRKMmpxbHFzd3Q5azJlYVo5ZVlFVlE2MHN2MkJJN0hBZTFNYy1YQjI3RlVjLUVPRzRSY3l4LVp2ZDdLQ3UxLWNod3k1OF9MNDB2d2p5YmZxOHRxY1hac1VqYURxT3gtbmhGQXNXZExnaUxUM1hZTGdlVjd6bkY2clY2WGJIZ1RSeHh5X0NJSlE1THBxZDdoaml3ZmRlSUI1U1E?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-25T10:52:09+00:00",
-"first_seen": "2026-09-25T14:58:24+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "829a3d78ca396f18",
-"title": "Infosys Share Price Prediction for Monday, 28 September 2026",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHpiZkNGZEtBU3NFUWVJVHlBNGUwRnBXTmwySnNJRzZtcW5yU0wwWm4zbnBhVkI0cWFEdEJjel8wbFZxbjY2TGhSWnpBcG4wYUVfbVZJeDZrYmFQVXFzM3JNTEx1YnNsX3pzdVRVRUVicmd3bE1lYWxNa05menFBUjhHTm5XTDM5Mnd2WQ?oc=5",
-"source": "Univest",
-"published": "2026-09-25T10:52:00+00:00",
-"first_seen": "2026-09-26T08:21:19+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3764016bfbcded0b",
-"title": "Tata Consultancy Services Prediction for Monday: 28 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbm1xQTZPM3hMcWJnb1o0WmUtcndUS2RxNXU4NVdVZ1loaGNIX01aWG5uS1NUeEc5OW41eWsza0NGcGtkZTRacE9sd2ZHUWlTYlRTbUFlN1dnckpBMXRXOGJOYjBsWFc5R1IzNWY0a3dpVnRkeGZkWHg5WWdpbDA1M0dpdWl5VjMyYzFmNllGV1JCV3RVSDJXSVBFVWZzcm5teWlxVw?oc=5",
-"source": "univest.in",
-"published": "2026-09-25T10:51:00+00:00",
-"first_seen": "2026-09-25T22:55:46+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c7c0e67fb31c1e7c",
-"title": "HDFC Bank Prediction for Monday: 28 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQU9TTXhzTHpfX1FVdnpYc0VVZTdoUjR0eExxMHk4T1Z1dDRRLUhJVlpMejhyei1zZWRoY01ZSGVwYVByTW55TUFldXVMRFBWd0dURDZnTkJvRGQ5MHNwU2ZCTDVSdGQ1eVdXS19BbV9iS1lyeVlYeEFpQTByakJUTnlVLWpNNmttQ3FVRmRtdw?oc=5",
-"source": "Univest",
-"published": "2026-09-25T10:50:00+00:00",
-"first_seen": "2026-09-26T05:32:39+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "10b4bb039716bcd0",
-"title": "Infosys (INFY) Receives a Hold from Wells Fargo",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjBJLTl0TzhzWDZ3bzdjWTUzbmx5SFhTcmVIVEp6OVVDVHRRWk42NGE5OTYxejdYdWVtREozUjJ2XzBDeWlqY0hKVzNNdkZqU3Y1b3d1V1Z6LXhxYVFNaHBiZjBGand6TllhZ3JDcmtwNXFaX0dYT0hCalFtNjFadkpaUGdRUzlWMHZ6WDVkSjB1RjByck1nQ2lCU3JHaE96ZHR5bGhBc3ItU1VxTVhadG93LUwxUUtZNVF1OXV1ZUdBckRPOE1VRW53?oc=5",
-"source": "The Globe and Mail",
-"published": "2026-09-25T10:48:00+00:00",
-"first_seen": "2026-09-25T18:35:05+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0ab4423ed3c68545",
-"title": "Rs 960 and Rs 980 Puts Draw Over 18,000 Contracts on Infosys Ltd Ahead of 29-Sep Expiry",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2t3ZkZCTUQ3cmFtemR6M0xiNFdGbThFTTZhYU90R1dGLUJjS1NSNk9lVjdEQ2tYblFoWE1UQUE1Y0lYSVh3ZlZUcVF2NlZUMWt4NHh1V2tHS2Jjd3NvV1EyS0lsS1RhLTdaSjgxR3V6dHlMaDY0MFhLUHpzNW5kNk9Qd3ZWZE4tNWVwSE1pQldqWk4tUHlIbnRDcjk3QlJEMnljb2s4cE5sVnN3RjBybV8wdXgtZXhEdjRoNnY3MzFuam9VZ1FJX2RnSl9ZenpxZkh5R1NxX2hHRzg?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-25T10:45:17+00:00",
-"first_seen": "2026-09-25T14:48:04+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bdc2af5b0b980a66",
-"title": "SBI offers free online courses on AI, banking, finance, marketing and more: Check details",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanBqMWNqRlZxUzl1eDgtckdvb0RJTmRpOGtRd1otckpfR09TWGFIRHV2V1h2ZzdtS05ldF9vYnZhUmdtQktLekJjTFItaC1yWThzNk5yS2UwWUM4TjlFY3prR3NQbk85UFQzbnhza2YyLU1BS1R0ZEZrT2VaTTVZUUhVb0w2M01jbzNvejJ4UzhDaWlEX2puZW02QjZWSUVHRVVSSi14azI5ZUJRZmEwdE1yWW0wdTZreW5jQU1wQmRGTDlmLU9fQ0hYYWd3aWY1OVdwMHlGNmFQN3RzM295ejNCMHFnTWpnbktWT3g1MTBYZEtqbHo5aHpB0gH6AUFVX3lxTE1qcGoxY2pGVnFTOXV4OC1yR29vRElOZGk4a1F3Wi1ySl9HT1NYYUhEdXZXWHZnN21LTmV0X29idmFSZ21CS0t6QmNMUi1oLXJZOHM2TnJLZTBZQzhOOUVjemtHc1BuTzlQVDNueHNrZjItTUFLVHRkRmtPZVpNNVlRSFVvTDYzTWNvM296MnhTOENpaURfam5lbTZCNlZJRUdFVVJKLXhrMjllQlFmYTB0TXJZbTB1Nmt5bmNBTXBCZEZMOWYtT19DSFhhZ3dpZjU5V3AweUY2YVA3dHMzb3l6M0IwcWdNamduS1ZPeDUxMFhkS2psejloekE?oc=5",
-"source": "The Times of India",
-"published": "2026-09-25T10:43:00+00:00",
-"first_seen": "2026-09-25T11:56:05+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "151694f96ead120c",
-"title": "Max Healthcare expands Africa footprint with new centre in Tanzania",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcXNOS0VrMDM5OGZvTHFhc19haVM2R0IteGUzbXZPREdaT3FyUXhyajdqZUtfYW9fNTBlamo0SWpRbUhvWkZYUUwtMlNCRGhOVWpROC1kVHpkVm9fNENGaHVJS21rWlh4T1pWV092Y2tkRVNzOXM5VkxQYkxMZE1FTjJXZHk3emV3WUVGQ0txSEdTbk9tOTNUYVVzQVlvUUVRVDZlTUFSYUg3ZlBjWXJ4NUQyb19LdW5WVWpFRXZNeUZ6THk1VkhiS3otTTN3bjNKRnZVSWRMUGtSUGI3UkNZMXFJX3l4UWNrbW1XUnlETTI2Wmw0bXd3btIB_gFBVV95cUxPQVA3Q3B1a19UNldNVmo1V21Ucm1EaUpaWGh4dWJfN3p1Uld2XzRva3VWc1hFcFlvMVhWS2k5aDdUbk1qQlFPRlJ3ZDhiVEU4M3BYN09BS2FMZi1hNXRWbkY4RzFFb2loSmtXeXdkX1BrNm0xVHBrYzN4MVZicHRZQzI1anBkWWhYQnEwVDNWS05PeGtoVEtrV0tXSGVUSTd4dk9hVlNVQ2t6TldZOHlDR2h0NUl5dFVOMnRCUjZNY0dCdVdWMy1NaUhqWm9laWI4VHRhaVZ1R3pXb3ZBbjQ4QTAxa2xxRzhOckRwVXBqWVNBTG56OEdLQVE5MHhSUQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T10:40:06+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8d8b0cad63d6ef5d",
-"title": "Tata Aeris vs Maruti Dzire: Mileage, price, engine, dimensions, fuel options and transmission comparison",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWhUSzlWU1dWOUwtSHJXdTMzYjkzcmt0QzZUSWFmNjdXNXZUa2NSYXBReG5UMGVRZjNiVFlTZGg3TERSS3pYUy1iZE8wenFoVjF6S28xWnZUQnpQZURmN04tY3k5b0NjLTZnSkNmNU9ZVzByNmNYQkliY0cxNHBseU5vYkp1SFFpcEg1ZU5taDJVNUNkRmc1ZFE3LU9ocDZHTHJ0S01ucS1JYmk1eks1UzlRV3pEMnduSklHMTdJSlNoaHNaeUk1dHpET3VRR1ZKaFlyR21HY3BuTTBTdmZvc0lzbFFJWHhGM0JWX2NVZnQ0UnRvTVpWRHFZN1B6c2fSAYQCQVVfeXFMTWN4aF9lVzVEbTVIVmdCaVN1R2JBMk54a0dGc2I1SEJ4V09TYTAwZ3F5a2Y5MmlqWmpFWHBxaEFBSnhIaVNsdnNDOHZQSkd0QlJ1dml0dE5xRS1LM0p3ZDBBT09hWDJERFo3RkZjYXV6VUszbl9zWkFiUVJPRld6UmEyMnFGT2RMUWtEV1BWNTBnRUIzM2dTZE53OVR3REhfSy1Bd1NKTUZIclNkZktvSC1VM0JOTkdkTmk1SXk3c0RCSmg5MlZDSXhickRhV2R1enVaQmd3dldoOXdxc1dSNUk0N004MVBjdUw1Tlh2ZWk4RjgwXzd6cHNHbW9vMGdVY3BhVHg?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T10:39:26+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "38ed7ec35ebf8346",
-"title": "Tata Motors warns of uncertainty over commodity costs as it braces for another margin hit",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSFdoMmFWMWhSc0VFZmxkQ2t5TURWZVEySy05ZEtpZTlWREs5SEYxc18zS0JISi1hVm1zSU8yLVB4NmhFYUUzajIxUnlZZzNBSVQ1ZHVKZ1BSZ2psZEVaNDFjNnFTNW5RU2I2X09WRFk3VmtLQjV2eEZSM1M4QjNvNXJIMktHTHFNWmZDcC1hNUxidng2cTJwNTVNVXpYY0xSaU1zMEoxdVltVVBVZS1ITEd3V0xqMXdncFBpNDVNQVRtZFhUUDF4eFNxd0NQYlhHY0xnWS1qWnJTdw?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-25T10:39:08+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5615bd5ab751b305",
-"title": "Tata Motors Eyes Further Price Hikes as Costs Rise",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUZzN0tRZ19MU2daSHlCOEg1ZGNIa2oxWngxaldJdll6UndLYTBmaGhzbjlqRG9mdnlLUDVRa2RJRXBmcDBBNFAwZzZxUjNEc2d3cHhlTHNhY05xRzhxRmE2MWEzXzctNnF2RmFQNVZIeUJkNy04THRjaDZGSUFPTnlNQkFEQl8yOGZVdWJWQ2tNNzFNOTNzR2d0Yml3Q284?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-25T10:36:58+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "acfbe82b1830d069",
-"title": "Max Healthcare Expands in Africa with Tanzania Centre",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDQyazZhN2lSQ28zcml1alJaMmZxYzdxUkN1TWtmNXRuTkIwazF2RFNYYUc3UHNhdkNPRG9adWxlTGVTNjFYN3VrNmVmSkhjbVBEVzEzV0ZvT2p3WUFiYmJMcDNRb1gzR0FGaVl5VUZmMDVxT3BnMDdqNGhCQ2VjQUVTcGFDZVlqanUydXlGVmIta1ZVeTZDZlRKZFQxQko1aWxabmtUTHrSAa4BQVVfeXFMTl91QTh1R002LTlHTGNoekNRM2NyR3hKUm1GYl82NmQxTWNqYjcwc1c2Y1V6WVpjN0VyTUVqT1hCdWE1Uy1WYmJENWVWYVJFMm1laXZPS1FpbEYyUkdwSmh6WUo0Wmd2dHVRRDdGVHBpUFRFZWFGRDkxaDFtcGtoX29DVGp1dTZZY2pBZU9oajZRSnR6UW0yRkJZalVSR2dNX1l2Y0VfNUpCb1pockpB?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-25T10:34:04+00:00",
-"first_seen": "2026-09-25T11:18:56+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bf8793c804d3435e",
-"title": "Tata Motors weighs further car price hikes as commodity costs bite; increases to be gradual",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcjJvWks0dC1ZMy1jNVZVdmpLNjV0Q1NyNXZEeTkyT0swX2ZPU3k3dC15MUtxcExuMVlCcXNyVExMQWJKdDZHYWM0d0l2M0c1YmJEZlM3bnJrQkgtNExoSXFPdmNlQ2x2YXQ2WHo5SlFoYkNUalIyYjdTQXJaajQtRVRhWll2SXRyT0lvdkZ4MEFwU1FMYzFpeDh5VlpaX2xzXzhSZjB6Vmpkek9tQ3Y4bEYxR3FrZEpoeDJPNUFLRVdtdElDaXZVa2tfQ2JDVUZ2WmowLUw4a0tQYjVPUE5PUlRuQmh1Z2UzNVVTemdLZnpVdWlTUUw2VnZxUUnSAYICQVVfeXFMTVRvVXJOZ1JsbU05bzQxTU1vdElUYVMxNlJPNHRtb1N3NFBMTWpQd3NGQ2pRdGFGclFBTEJFTFJTSFRuY2tEZGZiRjVXVjRPazlieHFfU2FLRHVnR3VfY29xNmRfWHpySGVaaXl1WkZXbndJek14VklpVUthVjF3V2M1OTJ2TjB0b29EckVkOW0xM3JrcVRYRzNib1dNRU1LWVRnbklkUkhkYmQ4aG5BWFpZcTFudGFQMjJWX2tfTkdwSDFiNTNCSmhUZ0tQZEtIcEEyVnpmX1U1SnFTVVpuY1ZmQjVVUUdXU2hqQ3FzaHEzQkRkNXZ3S1ZhMDB3XzF5c3dR?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T10:33:36+00:00",
-"first_seen": "2026-09-25T10:47:56+00:00",
-"symbols": [
-"TMPV"
 ],
 "groups": [
 "Tata"
