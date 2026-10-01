@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T17:01:07+00:00",
+"updated": "2026-10-01T17:19:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "7c888846875c46ed",
+"title": "Reliance Industries stock after-hours: FY26 revenue rose 9.8 percent to INR 1,175,919 crore",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObC11ckowZWliamI3M2kwNjNkaVZ3ZEFLUDE0WGNVTTFsZTJZSWp0QXg1dHJxak9uOUtwSzNMeFFsYTVNbHlwdVUxWkx1TDJHd3psQ1dVZjB6STRFUGVEeThmWkZ2Z2E3QzktT2NYbXd1aG1XSEtQY19lYm55NTZfczd1MjRfMXpQUHBxZ04yN1QwR2NnYVRtaXlSQnZ3Y29BUWVHVmlqdFFoYzJYejNkNVRLaU91UzZqUnVwbnZFZ0loMWNyS1pCdQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-01T17:10:05+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2ecdb0b576aa2870",
+"title": "Immigration experts concerned over delays in H-1B extension for Microsoft, Cognizant, Infosys: 'There has",
+"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSWpoRFdkX25pR1pUZEFwWmV3cXNBRENRejJub0JBV3RFRGRKeTRqTGp6QTRidXRLam8yVUNYM0FmUG1wamdQWlpZSjdubTFzdElpcFQ2MXppUWZvNmlfNVhNbkotbDZtRnhKTXpySU40Z1BPREk5LWxwNFNXU2NneFFWOUM2UFNfMFN4bzdMRnVvVkFoVEp3TUs0Q0t5U2ZZSVFMeU80ajRLYzRpWUpxOU9PTzJBTlppeHVpbFBZTzdQc3F4c0t5dGhfSEVKQ1h2dHdUdm5nRlNYdVl4RHZ6MWJZVzZKLWVpcmp6dFJsTnNhOUUwUEpBUkROQ0hJRkpjeHJsWFN2aEstNkFhTEV0NklEeEV4Y0tfWC1PTzlkUdIBpAJBVV95cUxOYlo3aGxkWWdvcVViRnJUY29vTFdSOUVQMVdSTE96cG1kTkZTWTd6X1lucElsdTczVnI4NTBKRDZoM0tid1VlRzJzVHNOUDBkZnJiNXNraVhXUW0xdm4wcjNEdjdUR0FfR3JtUV9sazc2NW8xNS1tMTN5bl94RFNIRzFpVUpEX0UwYzc3cFNCNGlxeVc3c2g4XzhlVHFKaE02NlZxMkVTbnk2WEpyUktGTUFEZ1hzUzJjYVNFYUJMLXRVZHdmY3VWY2dYU1piVHVraWhsRXl0clRGUzA1cXlpeGVuOUxlNnk4ckh1ME5sUC1DVU81YTI4ZFNmRk5PeFNKdkI1YlEtVDZYOEpEdVVTQ1hoRTRyQ0YzNU1MODBNcXRQeTVx?oc=5",
+"source": "The Times of India",
+"published": "2026-10-01T17:09:00+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "36b9d674c3f6baea",
+"title": "Bajaj Auto September sales rise 5 per cent to 5.38 lakh units",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWNyWi16S2c5MklSTGhqcFREZHBtU3pGLXlvTlVEd2ZjbTBWMVB2YU9RY0lqMGtfS25WX1I1VlpFb2x1d3BHWmdtODJCTnd5QTZMQzVXMmlaeDRVSmVUYmw1TW05TDdXNmhaWENnVndYSnktMlV5TkNJWW1mMDB3RzZLMU80ckg4R2hNV3REcXdodEJIMWJISGtYWQ?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-10-01T17:05:31+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b34f5575867230e1",
+"title": "ICICI Bank to decide on Bagchi's successor at ICICI Life in 2-3 days",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFQ2NXJFeWJ6RDl2cEY1YUl3MHYtRi1XYVFPX2hDckpTTlQxbGxQcjNIeUNyV0lTRGwtUXRheHVTRkdtTFVsNXB4cTdGVEZBSFZIUlBrUFM3R3F6Q1lLUEg5MEUyeUdQYmFvUmtENVFCMDZVaWs3cVpuTGI2LVFlMUFzOFpyc2tzcTBxT3NURTUxSlRmRVlwMmJhalVlTXhVYlhES2d3NEQyS2FkNFFSSFJtOWxEd0NwNjNSX2F6cVVNT0ViTWfSAcsBQVVfeXFMUFN3TjQ2M1ZRUWd1TU9QYlZRUkcwMUhiYS11STNTRVZ5ekZYek1EMzBKUHNjRzVCMWlkZGRlcVZwVzBycjRnSFBoS29VQ2FLSkx5NTJLUVpVU0RhWVNxNjNoeUdZelZZRmFGbDZoTmRaVUdKcGhZa2VmblFJbFhvMHI2RklqcUJNNEZfNFpMWFdxbkRtSWRtbGNMRll2c3A0RDQtV1huRGdfVWhjY3hUY1Z4MmdQc01vS1d2aGx5YW1jZ2hXUkhjM2loNHM?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-01T16:56:38+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8793e1e989b6e983",
 "title": "How Anup Bagchi got the HDFC Bank MD-CEO job: Timeline of developments",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkpYUy1oVkdhRFFSQXBmV3o0UFRmaHhseU1WbXVjeTZuRlpabm95aHZjb0IzX3BLR0VGdnVzY3V4YngybUNjQWVCd2hnZ1FXRHFCekVveGk3bm51MTFDQkpjb3dLX1FMV082bVJTS05lUTdnb0wtTmhZaGdoWWNzc3hya3o1NTlYenIyN0Q4a3YxampjZGRraXh6UHljTlZvcWpGYmhndHkyVUVWRTNLM2Z6SjNKQ255ZDNBQU5HVUZnTTJaOE8wUTR0WdIB0AFBVV95cUxOWmZtX0hmZWlEZC1rQ1BmeHJxcUJXbUY1T0w3d19yeF9IbFI2NTNsODE0cTB3VFkwak9fUHRabUFpMXp6SC1QaHJfendMb3BiaVFpOFFjRlktZGZUM3h1aWNyU1hVMnVlazNlMWx5SGNzQnBmcVhTakZpSWFZZ2xGbFdKdmRSN1hfeGpoVHFnd3AzaVJ2Sm1wTi14eTlIcXJKOUVSNWlKZzVIUGlaNHFOYXlYeDdrVk9yeTJHb0s3ck40QkNwZ1ZpTUhUWXhNYW8x?oc=5",
@@ -694,6 +760,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "324e1ed11ccd45e7",
+"title": "Anup Bagchi To Be HDFC Bank’s MD & CEO For 3 Yrs",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalNwM0ZHdG5zZk15VVZBaTBsb01MLU5FTHQwV043dV9DOVloRFMyY2pNSVNKbm5iNTVYOVQ1TFNsTUJkXzZCeE1qdDVMbEtRRENyeWhvS1V0SVN0SFBOb3B0WS00Qjk0TkIwc0JRTGUzdVlXVlBaZ0JCeVJkdHdMWlNCX3o0WktneEhzdW5ySnlRNW5U?oc=5",
+"source": "fintechbiznews.com",
+"published": "2026-10-01T16:12:49+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -1023,6 +1107,27 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "266f5f244a41da82",
+"title": "RBI Approves Anup Bagchi As MD, CEO Of HDFC Bank; Anup Saha For Kotak Bank",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzJwOFNFcXVXLTc3NlNhNmFkRWl4Z01UT2FQSF9sa1kyTDVmcjQ0Q2EyUXYyRXkzOUpwODMxVVpKNVkzbmRBZU9ua2ZtcjNDR0hzN2xUM2t4WG9xUldSRmlDQ3ZTNWV4QXVqUVBjQXVOMTJ2Y2pYUklna21tVHRTY210QVlfMl9zWko0VGI1ODZJR0h2bEpWbVRwMWZkMDRUeVhtUE56ejBfNTJYQTJTSC1YZ1ljWUZBS1NFa0QxaFDSAcABQVVfeXFMTmcycDhTRXF1Vy03NzZTYTZhZEVpeGdNVE9hUEhfbGtZMkw1ZnI0NENhMlF2MkV5MzlKcDgzMVVaSjVZM25kQWVPbmtmbXIzQ0dIczdsVDNreFhvcVJXUkZpQ0N2UzVleEF1alFQY0F1TjEydmNqWFJJZ2ttbVR0U2NtdEFZXzJfc1pKNFRiNTg2SUdIdmxKVm1UcDFmZDA0VHlYbVBOenowXzUyWEEyU0gtWGdZY1lGQUtTRWtEMWhQ?oc=5",
+"source": "Deccan Chronicle",
+"published": "2026-10-01T15:29:20+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"HDFCBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -1469,6 +1574,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "31854e95015d55cb",
+"title": "Kia Carens vs Maruti XL6: Which Is A Better 6-Seater? | Space, Practicality & Comfort Compared Video - 5207",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGpEOTRrb3hKUFM2N0F4a0pMRWhrOEQ5UGdnczQzanVpWFZNYlZ1UzVEbDIwbl9JN1hTR0tScnZoQzVRWnpKTXhlM1hxYmswZUNBVFhjRUpZWkRHdVd1Wkl2cUdVLXZhRld6U1FjdVMwQWxiTWNDSnI5b0R4aDUzSWZKWFRmVWl0TkVHNFFfYURfT3hkM0tWcXFocFhlTjB5bWFrd0hvNmRpMHp0SnFwTmdSQTJQYkthM1JPbkp5UUE1RDZySlUwcXlmVQ?oc=5",
+"source": "CarDekho",
+"published": "2026-10-01T14:30:30+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4612,6 +4733,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "71e7b45efc4f0576",
+"title": "Coal India raises September coal supplies 12.5% to 61.2 MT on higher power demand",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlpPdm5YbEl6QUpBTmRCOV9wZ1RoSnFKejRBSl96eWp6SnM3UWNlQ2I4MUxSbmxjRE9CR29GWmlmeVBva0dkRGZHbEhmU2Q5SHBLWXoyb0tuMVdLN0toUXo0aks4MjdzV212VDBkMHVLSkhhUExtZno2Zmo4alU4b0VlcENLZkNMTFZYOWEyZVQxQVpST0JMaVZMQ0tORzcyUGJVY0p0ZTZSc1BRNWNseHlLWGIxT2RvS1HSAb8BQVVfeXFMUHhNeTFBQXlqMEJwS1JSOXgxQXlWdjY3WGJ3cHo1M0VQeGl0b0gwR3ljUFBNTWRWalRkc1k0enNQSWtvWkp0amlwZWNEd0xQWHBFaktJSlNDREdmVnV1eUlMd05kbzc3MEZUNjhWbDc2SGdGYlBOYWlWSFJqbUZ1NThpNC1yV29mcWRnS0tEdjUxdE9ESjUxRTlad3lBX1Y2bXRjRkZncWFmV1RMVmxuU183amZoT0VHU2lzOTlYVGM?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-10-01T10:45:53+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "ed0fb3f0ed5f2d85",
 "title": "SBI Chennai Office Achieves IGBC Near Net Zero Certification",
 "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSFRYTVE3MnZVTTN2V3pIcmlrTmgydFJndFQ4SmRia1F2OUtxbWFJN1l1eHJXeXA4ZEh1T1ljeVo2M3QxenpVMjBYY1NJUDNHbThUOHNySGY4OXdtdzN4dDh1eUFKRlJjeWJXM0JFTmpVVElJbnZZZnJpbTg4Y2dGT2ZBS212UEt1WkY1NnRPb0NYQ1ROdkhNZmgxcTZwTnhJeGEtbzl1Sm5VSGpTSFB3eUUwclo0R2FOV0tJOFhQY0hEOVpZNklXY0xLM2EzZXZDUHZWcTAzYUtkNHB5aURPRUlMTTdfS1NzbnRma1ZTRHVTOTRMWEVwRGdMWHhvWXNNMXhXeVN1dEI0T190NWFJ?oc=5",
@@ -4905,6 +5042,38 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d056d9aec8a700d4",
+"title": "Nestle India slides Thursday, still outperforms market",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXM2eHVqQllQTzJmMnZ6ZXp5MTdPRzNsdnUyNWZZUkEyZEVoY0RkZ2pIVHplVFFmVWw3V1F1R2o4Rmx1QktFWF9PY21QY0FoNmZuNzVWN3NCakFEWEU0RzB6Mjk0OVdsd0lkdmtjQU9LaVhoMkxqWEJnczNfWllWbjE5STNjQ0lTZkdhY3JsTFJJMHl0UEhIalN3dThGb2gwOGRleGhUVTEyMTNMMmVvQzR2cllpd185aUhielA5YkFNeFZxendaYjk0TQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-01T10:32:00+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "539c4d7cc70c17f3",
+"title": "Asian Paints (India) slips Thursday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnI2Z29kT0M3azRRbi1idGpPZXI2Q0JvbjlCaGV6ZkZoejBhcjhONDM5YmlVbTdsRE5fV0s0eFdjZzZ2eW90a09NZ19WU0NmcGtETDZjTTlDdDRkcG1CT2ZseFZkNUFESDdUTmpzSTg3Zmd0ZUh1c29ST3RpQVhwZk83RV9zdG1vaGxpcHN3bWtYZi1velpDWjRFeGpCMFE2NjdZei1wR0xpOEtOa2NfMjNmWjA1d0ltMERzYUJWNC1qMnVqOFRjNGx3MC15OXY2?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-01T10:32:00+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "1b03ba37a1a5d8d5",
@@ -14178,6 +14347,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15b0ce7ff574eb7d",
+"title": "Interglobe Aviation Share Price - Live NSE: INDIGO Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjamxKNHRzV3pMT2NjN2IxVlE3SmI1Rk56SEczNl92RXJ2Z1JQSVZuVzMwdW93MjJUU1JSbHVsUG1oeVBOMFUzOEdRdVQyYU9YV2Q5UFVVYjhIUTlVWGJVUFR6MmNZR3dnLUNRb0JXNA?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T03:21:33+00:00",
+"first_seen": "2026-10-01T17:19:59+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50531,184 +50716,6 @@
 "groups": [
 "PSU",
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "879de4b6701502b0",
-"title": "49ers top Cardinals to reach 3-0, but lose Mike Evans, Trent Williams to injuries - The Athletic",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSll5STlHZjlfcWVpbEpxeDg2X2w3SjhJQXdleTB0Q0NBenB1VzdkdC02b1pHN0NUYVZMeTRiYkJjSFljaGhqeWtNU3NhNXBoajJhMlZMcnJVY2JNUHRjSTYzMG01aTEyaGFNYl9Jd0VYN3dnWGJKRXBEcnl1MHBRVmlITzNkNU8tck9LaktxeEhEazVidVRKWGthaw?oc=5",
-"source": "nytimes.com",
-"published": "2026-09-27T23:54:39+00:00",
-"first_seen": "2026-09-28T11:35:46+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "34a8387ed0897ce9",
-"title": "49ers top Cardinals to reach 3-0, but lose Mike Evans, Trent Williams to injuries",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSll5STlHZjlfcWVpbEpxeDg2X2w3SjhJQXdleTB0Q0NBenB1VzdkdC02b1pHN0NUYVZMeTRiYkJjSFljaGhqeWtNU3NhNXBoajJhMlZMcnJVY2JNUHRjSTYzMG01aTEyaGFNYl9Jd0VYN3dnWGJKRXBEcnl1MHBRVmlITzNkNU8tck9LaktxeEhEazVidVRKWGthaw?oc=5",
-"source": "The New York Times",
-"published": "2026-09-27T23:23:12+00:00",
-"first_seen": "2026-09-27T23:44:14+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e5f0323f53cf9a52",
-"title": "49ers’ Trent Williams exits Cardinals game, carted to locker room",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWFWQWtRZVN6eTBxZTZWZ0hQaHlCVU1SN21zX2phaWMxelA0UFFXOVMwVUFiMEluS0d3TkowYzVyMURlX0kwdkR5alVreW91YU53QUdEdkFYYS1PWU9oN2k1X09XVVprZ0dJQWFIb2ViTzVmTFhwZU1VNGdEZXFYRmc3MkNZTmlLYlFfUzY1eEdnMlBFa3MwWGhuaTFvWVE?oc=5",
-"source": "New York Post",
-"published": "2026-09-27T23:23:00+00:00",
-"first_seen": "2026-09-28T20:17:57+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c840953db8cb9272",
-"title": "Maruti Suzuki mulls assembling SUV Grand Vitara by next year in India",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUt0YzlFNTZSQ01LWEkwc3JxbEZwZ1Y4emw1YTVwX3BVM2FKNU5TdGVTVFdIRHVOcEt4ajc0Q2Y2MDdCdzR6SEdoVmFzOUhtNHg5LVNZbk1kdUZ3SkhxUTlnWnVManFmT0c4U2ZHdnNqUndLXzRwc3I3SlUzTzNtUlo1Zmh2NnhhVkV3NE9RandfbWxidFdabGFnMmtHdkhqM3pkYWJoQmVFY1JrbFlXTFg2M2djcGvSAb8BQVVfeXFMTVpzNU0yZ3hLSlFpM25xb1pwWGhLc0N6NDNuT0FhYVpHcFdBSkZ1RmFXQlRiWjl5cEI3VUZxbXFQdnI0QzM3MDNsU1FfX2pfTkhEWU1aUW5ZVm1RTlhsaEhZeE15emdvOXpBNlVqNDZlRk5iVWpYZklqU2dzX19oU25DY3kwMTdJcEFtU01TMk1RNGhPWTlIQVZHcGxaMURXWVMta1J5aXRUaVQxYk9rYUlNNFFLNEw1b0c5OEFoYVU?oc=5",
-"source": "CarDekho",
-"published": "2026-09-27T23:05:21+00:00",
-"first_seen": "2026-09-28T02:58:04+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2f732f54e821d674",
-"title": "Mike Evans, Trent Williams Carted Off in Cardinals vs 49ers Week 3 Battle",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOURtZDJZMzVTRjdsR1p4Y0xtZkp2NWcxemZjTnJlZ2lBOUxoaFU2dThMN3JyRHNqRVQzUy1ZWkRuUXlZeVJWRjk0c0tjV1p1SVNMX0xzV2V6M0pGOTVnZms3cTZEM1ZTTWN5aFVCSkF6ODRnYnVJc3pWbi1mRnlZTFh4VElVQjM1T0NER2t1TW4xWm43Z1V1RkRHV2ZWVThiZGZSMFkyRkViT0hrdUJlNVJYMjV6TUJnM0hiMEZsNktKOGRi?oc=5",
-"source": "Sports Illustrated",
-"published": "2026-09-27T22:15:20+00:00",
-"first_seen": "2026-09-27T23:57:26+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4db1e950e697d304",
-"title": "HDB FINAL DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages HDFC Bank Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - HDB",
-"link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNVVZVTXZ2eHo0dFJXUHdsYU1Kd1FSOGtaZ293emhLd1daWXdZMjRvb2dMWG9vd3BjV0hqZy1tcl9jRzJpTFhtdXNBblFSSlFmcVdESTU2cHlnS3VBSWJrRUZOMXVSb01SZ0ktRWpZWHFhazRrS1dxNzJWd3NrV2FvNXhiMGdXd0RreHlsQmFvX3VMN19kdUJ1ZTlGSkJMajFaUUM4SDJybmkzeHNVVVNyQzB3Z2JXMWVDRG1jMC1oUUF6Y3V4a1pob0NTR2hVNkNINHVpYWRZUXp3S3hZSms1cGg0bVBidkVnck5GVWhFbzM1UkhBa3BDYmk5emN1TERyYWRhb3RiUndyR2VoazB5cUVOZ0ZkRHhTWmJCMjVQcm5GMEtxTXUtTlp5QzVlbWtqRFlFREo2OEFzZFBwZVJr?oc=5",
-"source": "TMX Newsfile",
-"published": "2026-09-27T22:05:00+00:00",
-"first_seen": "2026-09-27T23:18:35+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "ebfe9f40cbeb1110",
-"title": "19,000 take part in Spirit of Wipro Run in Bengaluru",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBmYkVkaUxJVE85Mjd4VlBHYklkcVFmM3A5M0swNkN4Yzloa0VSZUFRRElzNk9xbjV6Qk9pWkprbzhlVVMwdDk1SEZReUV4VXJSRU1NSWItUnFRZDRRS2hFQkVJdk8wekdyVjNvTS1mb1BBa2JEQ2tteTQxS2o5X3djSHYzS0x3ZU9POGluanFxcnFZaUc5eHFDa3JJcTVmTlBhNlp0dE0tbXlta3FlRXhYekg?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-27T20:09:43+00:00",
-"first_seen": "2026-09-27T20:20:20+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "33f910b29c19d01b",
-"title": "M&M Financial Services sets July 21 AGM with ₹7.50 dividend",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXZrdHJsZXVGa0hOY2x5QTFUSFJuYWM3VE1Pbzl5VjFDcGEwTnRVNXV6aVk2LWJuUDJSeTBTMk9BTkRCR3RlR015Nl9RY0F0TG1kYXpFczF4NVBXODVUZUdKMVdsS2ZRNUpKMjNvR2xVZHMxOG5VTEFiWi1IUUh3a01TSTdoTmI2dXV4ZXY0TEt1THBiM0tNQjc2d3lHM1RXTXh4TkZweFlFRVNMYzVjRA?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-27T19:49:07+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0d1dd428afd146ba",
-"title": "Trent Walker (WR) News, Rumors & Videos - Houston",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16bnc2RlFWWkRvYmtrM0lEVnRVRTV3Rml2emRDU0M5WEE5T00xUGRfNFZrdG5DSlljRkkzWUY4M3NBMmR4akg1OU01enZiRkZzV3FkMlVaVjBUcGxGc0Nv?oc=5",
-"source": "Yahoo Sports",
-"published": "2026-09-27T19:24:14+00:00",
-"first_seen": "2026-09-27T21:45:14+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bacee8aa70d6bedb",
-"title": "Inadequate water, congestion on route mars Wipro Bengaluru Marathon",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0k0OW92cFpvM3dpRW1CMkpuTlFpX0hub0tYMU1qb2tuX0Z3QkR1eHdzU193QjZsMkQtc1FxcGQ0OGN5RWlpX005VWtTVF9EVTloekFxUXprNldGeEs3elJuakVtdF9QOWVhUndwM1ZEZXE4T21lSFdiTjZ1U3lyMDVMTDlicHJrN2hMVWI5S21TWTVES1k5em9EeGp4a3owWlZFZ1hEWldld095andOT3daaWdoOTgyY3llMTZBSFl6YzZvSmfSAcwBQVVfeXFMUDRPbUVzTXBiSXIxczBnT1VLaXJXcDY2RWtTZmJ6MTJkYlNOR0M4eVRIMVdPeUlhWF9KWTcxQXNTaUJoeXNCUEZHdExWaEVuM0hkS1NzQUxtT0xobWdick9KX0h4OS0xaTZnM01tRHNYS21FMU9mVlNVU2VxZVZ6TWVXcHNienlaQjQ2X0RBVGVaX0ZuWFB4djFPNWh2YmhtR3UzWU5QWjZvZjhpNjF4TjRjOUd3RWNoRWFpV1FRM2ltV3l4QUVuWmFIbTVJ?oc=5",
-"source": "The Hindu",
-"published": "2026-09-27T19:24:00+00:00",
-"first_seen": "2026-09-27T19:43:46+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a1b14f79fce86cbb",
-"title": "Power Grid commissions 20 GW Rajasthan REZ transmission system",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzdQOXdDS1Z3ZUlaWXFVWGpsN0JSaDJCOEZWYTVZZF8xTjRjUU5sako3dl9VTFVrZ091Vm1CbXd2aEQycFlMVUg3cW9aV3JZdjROQzdGbWlmbFNSMmhFMk8xdUp4VU5YcTJfWmt1NjVkVnFBTFMzcDV5NlFvQ0FKdDRjRUJhMkx4My1JekRDdHdmdnZTaWJfaHUyLWpGUGJBUHJUWHFiQTlQMWV4Mkc2eU90a0RpWnc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-27T19:21:22+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
