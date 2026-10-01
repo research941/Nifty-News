@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T20:20:04+00:00",
+"updated": "2026-10-01T20:37:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,95 @@
 ],
 "items": [
 {
+"id": "78adaa815076bb57",
+"title": "ICICI Bank Flags ₹229 Crore GST Demand in Fresh Show Cause Notice",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelBFSHFoazBCb2N6S3FTRzdranJTNkF5UGtFVHVMYVRHVEZWX04zNnQ0T25qNmM4Y3FZb1VEeU5ydjIyWmw1TWxVMF9JQlNtUDVVdkhKWDBGdEl3RlR6c2h5dVI5QXBxclA2VS1pcHpsLW5VMVQ0cDllVmkwY0FkVGNqaTNERmlBQ1lhamZsLUdLYjl0aUFPSGRwenJ5cEFROGY4dG9rUWNtdFU0a1A1dHhIQVhPdGc?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:32:24+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e74792908f8d3408",
+"title": "Bajaj Finance Board Clears Rs. 17,500 Crore Capital-Raising Plan",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1lWR3VpZG9XbmxXUHMyNUswSWpXa2ctZm1QcUlVUV93ZDlDX25ibkhOOXg5cjJqZWRNQk5GWEVOeEZsN2xLWW5rMHY0aUxmODBSVG1aZEJUOWtDOW51VEFOTFowQXVfWlJGVlF3SGNtV0U0TGU1RUV6QjUyY3o1ZzNwcTQtd3Yxa3Z5WVpyTzVueHdFQ0lwVXl4OXEtdzFYSkFDVktlbEpxY3ZNemhUa2l1V2Q?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:26:23+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "267005c3895d8ba5",
+"title": "Bajaj Finance Plans Rs 17,500 Crore Twin Capital Raise via QIP and Warrants",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUnU3REFkM3I2WFRBSDdKbUE0ajZqdXNSOThoZGo4U2ZyTkJOcXhPTnF1bzVocFpHdjlSMW1EMHpWeGlHQkpVdGlBZ2VxWXN4NHJ1RVZFYm0tS3JTTHlzczQ2R2Z1RE56VjJaaS0yMEV3azF6WkNVR3dUZGR4bmRvVHp6RHJNbWxkSWNZVGF3TW11ei12NzF2QW9NVFFPYk1hUUpkRUx0djc5WXE5NjFCdzFVWlNZZU1XVDFMdW5EMk9BMmhk?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:26:23+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9b74dbbc3aa084eb",
+"title": "Bajaj Finance Board Clears Rs 17,500 Crore Capital Raise via QIP and Preferential Warrants",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXpzekdzeFRHR2RibkdBb1F4N290d2pzaDh3aDNtU1U0WmY4bk9lS0NvTmFFd3NhTUd5aC1jRDNHR05tWENwOTloT29XRXloVkhBQ1JsaWNTb2hyUi10Y2tKdjhtN20wSHRXT3FrRHNfV0lmOXV6cjVDSThFRl9BZnR3WW9FLTcwLU5kTXhUay1wTG5VejNkODZrbFN2TmFSZ0RYT1pVdE1rVjBmNE5tSTVkYk82aGIwLVlOV1Y3UDhSS0VUTU1haEt2bjFPV1E3dTBlcThwZW8?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:26:23+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6c3a35f6b76468d6",
+"title": "Laser Power & Infra Wins ₹72.77 Crore HTLS Grid Upgrade Order from Power Grid",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYy0tWWIwSU05M0VMME90RzB4alZnY3RPRXRLRkNqakVXSGNHNGdlYjVrVEZQZjdWNlJncGtoaV9XS24wQmdNR3I0WldsQVd2OHpSbC1wR201QjhrMmZSd3I0bllIN0FEaHNfZHR2RHJLeU5qZTRBV0ZnZEV3ck9BUUdBdTRTUHdqMzZjbEZqYjRfWXNycDdXOHhPTmxDcU1xRWwzTWlNQ3Zma3NYTDFoRVBmTUFsdW9OMktzdVlnTVFETFZH?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:26:23+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal",
+"Rating"
+],
+"sentiment": "positive"
+},
+{
 "id": "3c18d3c91d46fc2a",
 "title": "[6-K] ICICI BANK LTD Current Report (Foreign Issuer) | IBN SEC Filing - Form 6-K",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWxYSUhtYnptS3pCaXhKN21uZzYteC01NGxvVjhjSGhUbmp3UnZFX19QampjX21ONm9kVGIwcmpqY0tyWXFqWWdaUWJpTVJISEdXT0daaEplT1lobmM5MkxRenR3dDZ4N1VwdGl6OXRxc2FZWVNRaG5vSnpRZjZ0Q3VlTUJlZ0tESUstaEI2aEt1c2ZiZ1VqUVlDTUxNeVBkZjVQdTgyTGJBWDNoaXc?oc=5",
@@ -529,6 +618,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ee369dde5f251c1",
+"title": "Infosys Stock Wobbles As ABN AMRO AI Deal Expands",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQm1WTnlKYlQxSWVKTVVmbEI3c2NwNE5YUGN0UmRod3JZQXJFSm5NTTNwZW1QQV9RZV84NlU0TEhnT21hcF91dHBaV0o0STBraXhBNk9jcVRSRERtSmZ0bGpBUEpJTkg0b0hpX3A5WmJlLURXN2ZUOF9VWQ?oc=5",
+"source": "timothysykes.com",
+"published": "2026-10-01T19:02:00+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -13065,6 +13172,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9795f1322a0ac8f5",
+"title": "Second Hand 2019 Maruti Suzuki Dzire ZXi Plus for sale at Rs. 5,45,000 in Lucknow.",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTWxIQXMtU1ZjNjNSZXdrM1JtaHQ4T1dxbms0R2o2M2Z2R2Nka0lqZl9uOV9ET2xXdW05TVRvd0s5YnJ4SDBXQW5wQnFzeFBKRi1rTkFtckg2TXRPOENjMVVkYWtKV2ZnVUFndkE1VWJrb0Z0b2hMblU5aGs5ZDExZi1WejJNZw?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T05:01:09+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "024c381436b073bf",
 "title": "IKS - Jefferies is bearish TCS, Wipro, 6 other IT stocks ahead of Q2 results. How many do you own?",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkpSVmt6V1M4UC1OY1NxWlJaUWwyc1RXVzVrblZFWWRNUnltRUxZR1NzalhXcUV6emFqUmd1WXI2Z3VQdFVzby1JTHBDcnVDOFVpUjI0QkJVRjRTaUd4NmJ3YUhRT2RFa2xQdjVxYi1pZ25sMjlyc0VNeTRVOURCNE9hZ3FlMG9vVE5RVVozMUt6X202XzJQdjRoT2RjcnY0X3pXMU9jUE1Tem1OODBqREZHOTBQdmc0dUxBVlJZaWl0R1pWZGxvaWhPSDJ2VFNZNkVMMTFsSTZmWDAzVEd4eUYzRWRPLTNYLVZiNnlSNFJIem5XaFVj?oc=5",
@@ -17479,6 +17602,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "772b84c3666f4332",
+"title": "Second Hand 2014 Maruti Suzuki Swift VDi for sale at Rs. 4,35,000 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xejBNeHJYbFNHcW5mN1hucDZRbW1uZHdvc2xHV3NmU2Y2ZlFaZVJjWUlvNEN2TEc2cDZRclRXNVhmLWFVT0VzaFdfM0h2SHkxVlh0RktBOF9OUDEzTm5wYlR4WDg0SHJZTktSN21vN2NaVkxFZDljdF9kWUVodw?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:06:59+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cce63ed14513a162",
 "title": "Wipro Bench Policy Signals New Pressure on IT Workers",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclFpVzdjYnh6TlBHdmkyMnozVG9kYVJnQ09fbUEzRGE2b2dXSTB6N1ZVQjEyWUJHU0RfV0pNR1RuRFBVeUdmLVMwRlJPYTQwMjNQbEVhQUI5aG5mSXZ2WFN0Zm90VF9VeXhCeDZ6WWZvNzMzZDBBeVhFNGtGWC1LVHVDQ0pGeVg5dGtva1dyU0Vab3hXb3c?oc=5",
@@ -17683,6 +17822,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "87fb09d90bf895ba",
+"title": "Second Hand 2015 Maruti Suzuki Swift Dzire VXI for sale at Rs. 2,67,463 in Delhi.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFEzajdEX21zTnVOaDByZjV0ZlRUeFNVV0RHUHh5U2lIdmkzR0NQaEc0Z2NudnlxelpTcHZyMzFka1ZsSXBlcnQ4d3hvUHg0amtjWDhDT3MtQnE2M3RUWkJvWkRfYnZ4X0QtNENYLTdmMTA2OUd4TWI5M05pX1gtc3E4eHo?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T00:14:39+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7ac0817a6e500046",
 "title": "L&T का शेयर चर्चा में, भारत भर में ₹2,500 करोड़ तक के नए ऑर्डर मिलने के बाद।",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaVJ0RDVWbTdDbjZuQVU4R0piSkJjWkF4TGdvbDlxNURxSFdNaW9LbGhGblRYSnJPNXBSaVlnZWlTQnVRdWo1RU9fa2dkOW9SR0VSRDFocWdzYU1pa1R0LXdrSGo4a1Fxd1F1SUExU2lyZ2hIN3dZM21IdDRlb29CUUxoQjA1aUp2Q0UzYkFzel9fYk5oU2dtdXBkaEVDcEtObklrUkJIZ3FMN08yeGVPWDZzNmFFYm5PNE9BS09SNG9CLVF1SEcteEdIUQ?oc=5",
@@ -17789,6 +17944,22 @@
 "source": "CarTrade",
 "published": "2026-09-30T23:39:33+00:00",
 "first_seen": "2026-10-01T06:35:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8b969a7992d826be",
+"title": "Second Hand 2025 Maruti Suzuki Ertiga VXi CNG Manual for sale at Rs. 11,50,000 in Delhi.",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tdjBRMDlkN2FsblZyOHZDMVlGbHFGRXk0UkJFdllRV1lvcjZMTkU1UXRVeWYzNkQzbTFtM0JJMzJoQnhhbEdDcVh6SXozVFVzdXFWbEFvblJnRkR1bldmcGY5MXVCaHZmLVRMb1VYUVNmODBjVWY0N2Z0c3Bpdw?oc=5",
+"source": "CarTrade",
+"published": "2026-09-30T23:09:52+00:00",
+"first_seen": "2026-10-01T20:37:56+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50588,170 +50759,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "52acb909fb4798ca",
-"title": "SBI Life Share Price Live Updates: SBI Life's Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530450.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:55:19+00:00",
-"first_seen": "2026-09-28T09:06:25+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d6818c094b5c8ae0",
-"title": "ITC Share Price Live Updates: ITC Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530446.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:55:06+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "10e92977243834e6",
-"title": "ITC Share Price Live Updates: ITC's Recent Stock Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530446.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:55:06+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a0e1c93cb832064a",
-"title": "ITC Share Price Live Updates: ITC shares experience a downturn",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530446.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:55:06+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bf7e2d3477a46671",
-"title": "APSEZ, empty box depot operators work out compromise to end strike at Mundra Port",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEdEVUVGaDVUN2pNLUtZQlBiOGkyS280eGM1ekhJQ1duSlFzelcxWXlVUFhXWGVFX0h1dEpTQjhXQmJlejhuVmJ2S2hPMUowYkUydU5nVWs2ZzFqU2RZTmVIT0FUU2FOeVA4STZHYldVcE4tdFVLdHJLSHpXbnlrXzlQOVA4Y0FUVlJaVGg1SEZFWGN2TG5CSEQ0SjVLeW40SzYwdHdsMENvakJUbGFSVUhtaUY0cFRVei1lZEJJSmNfUEJST0NuRTJBRlIyYXhIelVjMG5XeW9peXZEU183bW1lNVkzdzk1YktfdExR0gHuAUFVX3lxTFA0R0RVRUZoNVQ3ak0tS1lCUGI4aTJLbzR4YzV6SElDV25KUXN6VzFZeVVQWFdYZUVfSHV0SlNCOFdCYmV6OG5WYnZLaE8xSjBiRTJ1TmdVazZnMWpTZFlOZUhPQVRTYU55UDhJNkdiV1VwTi10VUt0cktIeldueWtfOVA5UDhjQVRWUlpUaDVIRkVYY3ZMbkJIRDRKNUt5bjRLNjB0d2wwQ29qQlRsYVJVSG1pRjRwVFV6LWVkQklKY19QQlJPQ25FMkFGUjJheEh6VWMwbld5b2l5dkRTXzdtbWU1WTN3OTViS190TFE?oc=5",
-"source": "ET Infra",
-"published": "2026-09-28T02:52:38+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "14a609b7d06646ad",
-"title": "Asian Paints Share Price Live Updates: Asian Paints Daily Price Change",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-live-28-sep-2026/liveblog/134530409.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:51:27+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eae7e1a4058d0599",
-"title": "Asian Paints Share Price Live Updates: Asian Paints Trading Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-live-28-sep-2026/liveblog/134530409.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:51:27+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7f26991ac47a0ff5",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-28-sep-2026/liveblog/134530405.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:51:10+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a65102fda380ccc5",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ faces a price decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-28-sep-2026/liveblog/134530405.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:51:10+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9838a4aaeea47228",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ's closing price drops to Rs 1741.0",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-28-sep-2026/liveblog/134530405.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:51:10+00:00",
-"first_seen": "2026-09-28T11:19:36+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
