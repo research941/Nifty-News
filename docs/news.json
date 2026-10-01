@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T17:50:25+00:00",
+"updated": "2026-10-01T18:01:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "7a0dfe24ab816908",
+"title": "Bajaj Finance board approves ₹11,700 crore QIP and ₹5,800 crore warrant issue",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1dxODlIRURhVEJPN3ZDeXZoOWJjcGd6bkJEZmJTRWxFV2M0aXFaSVgtWVZxQnNGYkZDN2Q5WmpKVlliUE1OTXJudGNNM2c2QlllM3VucHlyVEc2eGFwYlY5RVpudnpHU2VHcTZYRmJyNUZ6dmRuWlRrQWJwTzd3d2xBTVB4dnFteDdoVlNyRFF3NnZQc25WOHRjYzBRaXBvb2pnVWhqWGg2R3VwbEpmanlhUUxtTC1NT2ducjNUWQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T18:00:43+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "baa8d726e1986330",
+"title": "Vipin Paulose Takes Charge As Cipla Head HR",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzZ2U3hlQ3dEVGVObUhFV043cXJOMFpKa1ZXNGRiQkkzdXM2dkVSWG00VnJPUUR6NElWbDhNNE9lWXF6MkZaaVZmX1NCeXV3endCNkdQcFJ1SjdYallTU01zemlEMW9UamdidmhIOWstR2Q2ZEJRT1NLOWg0UzJWNWxYbkZuNmJYdHc?oc=5",
+"source": "BW People",
+"published": "2026-10-01T17:58:24+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cb55e4f52155c6ec",
+"title": "From Airports To Dharavi Redevelopment: Pranav Adani Highlights Rs 6 Lakh Crore Maharashtra Blueprint",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOU50UVV1WS1ibEFtM09WMWViZjNjT1JtQ0xyZUFLRFFRd29rbVFLVlVWSzhMYTY0N1pZX2ZqNFhhV0JvNXlyempOMkc0bUY3UlRkTndPdVRKZWZhZzFtUm5EWlhJTnpPTzVnU3NNR0VXMjVjVE9lTjFNcnVfbEpwSU1vdTlxdEZUVFJHbURaUENfTTV0ajNGZ1pGVVFFb0hyelNOU1NfUmJzeGFaemtvOVQxT2pXQnNmMEdfNUdpMGVILXlUUXoyOC1nNjVsbXBucnp2SlhfOGFHeVdKRmfSAeYBQVVfeXFMTktteFhiSVh1RGkyUjI1cEhBemNTLVdFQWFQUGVuZjhfMzZRbHpMdXRCYjVGUHoza3ZhMXBkUnBwbG5fcmhmQ2FrbTJoenlUZGJaVFU3bWctc1ZvRTNSVWpNRkpZclpiRUlJcGNHak91LXQ5Z0YtcUxMdGtrbXRYQVJUenRsMl9nbXpYTFhqd3RIWVVNbUdFVk1NY1lrVnBYMVc5aDROMnBDYVRaenRlVWtHaUZmSUZKVlI2Ylo4SHExbGlBdlk0Q1NOelNKN21wX1VnLUJTTUtMRGRWNFpzZVVkenE2TlE?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T17:55:59+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "929a2426f9cc388d",
+"title": "Bajaj Finance plans to raise capital with Rs. 17,500 crore securities issue",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXV1Zmp4WjByd0c4aXo5YTRpWHNQUzVEeGd2YnJxTW44X0dYVmU4a3JDX3d5dXozQUZxWjRidG5PRTZpdVVwTnhSNEpobEQ2UlNsM2lpck4xT1Q1NkZtYlQ1ZmlseVQ4ZWhSQkNMS3NCRTBDNVlOaTVJclM3R2xBcjVHRGVkZlNPamtMTVhCNmJmUXM4YnhLYUwtWENIUGpXVXZEc1EzZEdUY25RUzhnNw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T17:54:17+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c3d08b21b6355bca",
 "title": "Hindalco Industries terminates AluChem acquisition due to delays",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGdEM2wycnZEWjZDWEY5QmZSSklIbjF3WWdVVkJlT2tEa3lZbDM2TTdOYkMzbmtxQkFMVFpoYTlLRGdURF9MTmVwMTJjd01vQ1gtSXJFT3B2OTBhbzNiWTNNOEJrajROSVRlLWpTZ3R2N3RaRFZFVVdGLWF5ajhLUF9iNUt2QVN1cmRJS2gyQVZkc2wxTlRsXzBPajN1ZktyWmVsSHp2XzREdjAxNjhzOV9fRFlFdGdWcHc?oc=5",
@@ -748,6 +814,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "9987e9eaeb453e03",
+"title": "NTPC adds 50 MW solar capacity; group’s installed capacity rises to 91,506 MW",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHlGYkRDRFUtdUhGOEJzUjJVYjl3WW14dC13NnlZMTZEb3p2YXAtZmY5R0RSUzRnNGxoVXhyWTFjNVFUbTNvTC0xeTJCRDBpM2NYRVVlbzZReTQ3SnduZUtKZGhyS0M2ckpQSlVhNlVfMXBTRExYLXBPQ1Y3UnBMV0oyYXF0LVMwUWYtQWNjdmhWQlNsS0d0TkNueWRtOFFRWVlobzl6NFR2QXZ3ODNaQkw2cGdmbU1Z0gG4AUFVX3lxTE1MeUZiRENEVS11SEY4QnNSMlViOXdZbXh0LXc2eVkxNkRvenZhcC1mZjlHRFJTNGc0bGhVeHJZMWM1UVRtM29MLTF5MkJEMGkzY1hFVWVvNlF5NDdKd25lS0pkaHJLQzZySlBKVWE2VV8xcFNETFgtcE9DVjdScExXSjJhcXQtUzBRZi1BY2N2aFZCU2xLR3ROQ255ZG04UVFZWWhvOXo0VHZBdnc4M1pCTDZwZ2ZtTVk?oc=5",
+"source": "PSU Watch",
+"published": "2026-10-01T16:25:28+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "f401dd3fff259428",
@@ -1151,6 +1233,26 @@
 "sentiment": "positive"
 },
 {
+"id": "078eb1ef16ffa80e",
+"title": "Auto Sales September 2026: Maruti Suzuki sales up 24.4%, Tata Motors PV rise 15% and EV sales cross 47,000 units in Q2",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWdkY2hGeDhYRzZEV0h4c2p3Z18zanVFaWE4OFFFMVFjVjNYX1Z0a2hSODY3QW1DVkxYRnRjTmFBSGhYSExhTjFEeVVCamZrWnJRMmprdHJmOERTTUcxMTNaY1R1cFd0UjY2aXg2S0N5UWg2dTBSZnUzRUNpUVc5MkFpV0RReURwaHhKWFRNSFZjdzJkclp4ZF9TekpNd0VNSThqVm9QUE4waUljS1ZlSTdmOVgwOEVKYW9YN2xpUVk5ZncwdHdNSmt0UE9FbnUwYS1kdGx5ZUNHVGtKQUt5eFJrRTQ1aHJnZmNYLUxjbk5WN3Vm0gH6AUFVX3lxTFB1VWZ3U2M5RFR3ZF9aOW1wb1NMZVE3RmhfaDE5SmhzUWx2dVIwZDEyanV0SmNXX3luTzV2RFZoNFhQZFVhLWlxOWJmU0xLWHRMMUNCdkl2RVU1OWNPNXd4bHFEVlNmdS1YMG83Q3VtX0VDeGhQS2ZNWEZ3cm9PWVBkaVBIb2RKT3RfWGs1WGRab3Nlem83M3JCWWJQc3lEOG95ang4QjNsdjM4UHJVM0lQcUFodjdjODNrdVdGdUNKY05Wbi1WVWJtMS1kT1MyQVhJblFCNlR2bHNtWmtNRjY5UFBfZmtkOTEyTnBLa3F3WVpWYmt3UF8xS0E?oc=5",
+"source": "etnownews.com",
+"published": "2026-10-01T15:35:00+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "960c5800217c175e",
 "title": "Why Infosys (INFY) Stock Is Up Today",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTmFRNXlLc3VaNWZfZ2JIXzZTbTNuT0p6djFMU01xOEVrVzZ3VzlzNUxFZEFaNk9WWm8wZVFDaXc2ek5qbEc5TU1Ba2hubmdkek52dWtNTUVKUkMyMVhJTEFuVFpLNFIwWDFvVGthS2c5YUh3Q3lrc2hHdENxdw?oc=5",
@@ -1341,6 +1443,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "2ab58a0b95bb959e",
+"title": "Jio Financial Services and Allianz Add Capital to Jio Allianz General Insurance",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVGwtRTdocEpleExfWkFtM1N6ZnJNa01oMXlMVUJHUDk5R1VsQ2VyNmNwd1ptNmRranNXMllraFFWQW1tVmR2aDNoazFPQ252SGFVMU1Bb2dGUnRCYm05aV9oTkJ0R3hSNXByT21oNFBjOE96QVpwaUFySnFWMl9VUjNBZS1RTDhIclFSaFpPZWZROWNSNU0zZkt2VU5XMTJsVDA5WVZNUjB1aGpQVXREeHRSX0lqa2FSWUppMHZub2RKNVUzYVZ5TW9CalVyeHF6QlkyOXFHVmR0VjhWMmZNTEpnS0Fja0lIWjJRdV84VXAwQkU?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-10-01T15:15:00+00:00",
+"first_seen": "2026-10-01T18:01:47+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50606,124 +50724,6 @@
 "Rating"
 ],
 "sentiment": "negative"
-},
-{
-"id": "c6b9f404ac72ab32",
-"title": "Stocks To Buy or Sell Today, September 28, 2026: SAIL, Adani Power and Vedanta Among Shares That May Remain",
-"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS2JrTXhFbHdzQmtjSExDZ3ZtUFY0Q3ExR0lBa0Vfck1UcWxfc1dqeXZMeS1qT091ZENoQXkyVm5HSGpWNUt1SWpnRUdrenhnTGtJZkhzcmpNYmw2dUp0azhqSEhOampzT3hTTGNZSXUtVTd6S0k2azJuSGN4U1FEbTZBRURkUE5xSHJRbFpkVG9ZT1NlQ1ZjV09uVkhzQ2EwN1MwME50WE9LTkdEQW0zLVlHY2Y3WGkwYk5YMGM4Wmh6NFNYVmUxdHk5SGw1cExnZ3B6cmxnd0dKUUJ6aHVreFdUVkRLQlhUMngtSzd2c1lFSVVRVkJjVmxrd1dFUWt3bURB0gGDAkFVX3lxTE9LYmtNeEVsd3NCa2NITENndm1QVjRDcTFHSUFrRV9yTVRxbF9zV2p5dkx5LWpPT3VkQ2hBeTJWbkdIalY1S3VJamdFR2t6eGdMa0lmSHNyak1ibDZ1SnRrOGpISE5qanNPeFNMY1lJdS1VN3pLSTZrMm5IY3hTUURtNkFFRGRQTnFIclFsWmRUb1lPU2VDVmNXT25WSHNDYTA3UzAwTnRYT0tOR0RBbTMtWUdjZjdYaTBiTlgwYzhaaHo0U1hWZTF0eTlIbDVwTGdncHpybGd3R0pRQnpodWt4V1RWREtCWFQyeC1LN3ZzWUVJVVFWQmNWbGt3V0VRa3dtREE?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T02:10:05+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ccc2fb17eb58736a",
-"title": "ITC to strengthen presence in fresh dairy segment",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWml3TEdRRTdEcEhYYUhCbVZFNmwxVUFOcm5CV05WYnBzdlFKS1kzQ0otN1pSX2pBMGs1U1hIUGV2dHphUHBFemRMOC15YlREbUlfRWFLYnBRdHpnb25vRVZvMGhiOXlFSFdVd2x6N2dqTUNDZG1UNjhiMXdLMzM1ZVlZdThVUTU5WTg0aUFybWNUalN5WEQ0Y1lKS3ZhVEpzNXlTbUgzQml2VWd1ZWFZWXEwN1ZMTUNaWThvSkVWdVJNcS1HbW54UkY5V1B4ZW5wU19oZHZB0gHWAUFVX3lxTE9aaXdMR1FFN0RwSFhhSEJtVkU2bDFVQU5ybkJXTlZicHN2UUpLWTNDSi03WlJfakEwazVTWEhQZXZ0emFQcEV6ZEw4LXliVERtSV9FYUticFF0emdvbm9FVm8waGI5eUVIV1V3bHo3Z2pNQ0NkbVQ2OGIxd0szMzVlWVl1OFVRNTlZODRpQXJtY1RqU3lYRDRjWUpLdmFUSnM1eVNtSDNCaXZVZ3VlYVlZcTA3VkxNQ1pZOG9KRVZ1Uk1xLUdtbnhSRjlXUHhlbnBTX2hkdkE?oc=5",
-"source": "The Times of India",
-"published": "2026-09-28T02:10:00+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "85e4680f121832c0",
-"title": "Top stocks in focus today: Investors must watch Power Grid, Cupid, SAIL shares on Monday, 28 Sept | Triggers",
-"link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-today-investors-must-watch-power-grid-cupid-sail-shares-on-monday-28-sept-triggers-11790558892670.html",
-"source": "Mint",
-"published": "2026-09-28T02:04:57+00:00",
-"first_seen": "2026-09-28T02:18:46+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7e10c3a8c0d108c0",
-"title": "Stocks to Watch Today (Sep 28): Tata Steel, DMart, Kotak Mahindra Bank, RCF, Ola Electric and more",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczllOWQtSjhVSm0tazFNRWFYZl8tMS15ZFdxYURwUDFEMFBsajY0bFA1VTVmQ1oyc2tBNkVBNVJKZDUzNWlJb3gtZEg3Q1kxTVdWTGc5Um1KaXNDNEJ6RmtnaHpoaWJYTzRvOGpFS3Vva3ktZEg2a1lkWGhrdVljY2p6a3l4ZHk3TkVRS0ZOcXhtN3RhcHMyNXpaeXVqekl3bExiSkJFSXdsYUQ4czVaR2hMSUlMbUYtcE5EdVpOUXFlaENzUURla3BOT2tpV2xIc0VTVQ?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T01:58:30+00:00",
-"first_seen": "2026-09-28T02:33:37+00:00",
-"symbols": [
-"KOTAKBANK",
-"TATASTEEL"
-],
-"groups": [
-"Banks",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e782dd6b22501ce0",
-"title": "SBI vs ICICI Bank: Citi bets big on banking stocks, sees over 30% upside in both - Check share price targets",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQek1Tc0t1THFpY0FIQnlpcHMwT0VyZzhsZ3FNYTF2ZFJWaTh1ZnVYckNVTEY3NDZDS3NuODJiRDBHQXpZTzYtV2drNVlHZldncWwzMEJtQjZucnM0TEZkZTVXRVZZZHBkZW1PTnZvcnY3RnFzc0tITzBtYzRiRmJxRV9PX3NTY2RMUzJQdGM1bjdhQUhjZVdRMHJQdXdfc0lqYnY4V19ZRV8tajNkN0M3a1pfUHVPb3RHRGlydWVIcDZNdk1UZXE5SEFBOXBUSHR6d1UxVnk3Q3BfbHFVSE1XNGp3SDFuZmZoWFc00gHwAUFVX3lxTE1YaF92V1Y5MHo1ZGE1c1dOT09MSVJ4WjQ4NGV2VVY2MmQzREZUSjFEdlpOQlFqOU5tQjZwME5sSGpCc3pEby1QUDZpZnJMNFFkUEhwR2thRUtEdjdrZmtmck1Ja0FDR3BRd1hTc25qb2QtZEpTeTY0UzNRZDdJV0JGWE5kakNYb1lDT0hZUnNPRlI2SGpJcDVRZlQzYm54SWtaZEg1b2FlS0xUcHo2aHh0TWRqeWZZcjd5cVZaOVNVdjhZS19EVzlRMjY3YV9QX2h3dU1BVmQwb0xhZHpYUHU0S25VUWZJTFliOXV3ZC1uZA?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T01:48:19+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"ICICIBANK",
-"SBIN"
-],
-"groups": [
-"Banks",
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6ce34e38000cf4b9",
-"title": "Wipro Bengaluru Marathon: Participants run 10 km without water, call it ‘absolute disaster’ | Trending",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOElXQjJIWlRyT0ZFU040MXptbWxWdERXcnRIblF2cUNNckxQdlVCQVRhNkpYMFVLTVNkRjc1ZkxRRWxCX3BQNEVFQmVQZzI2REJUOG95NXJwdjRNVUxzLW5ReDJTcHNkV3ZSNDJQNUVndF9LVVN4aEhjbWJrRTJ6a2dZV09Vb3lBQ0hETzJmNkhzRFdiOTFPN2UxRnEzZ1dfaEZvdWMyMC1LeEJGQWowbnN1cW5yTDdCb2xJYUMzZ1NxWWY2WFUwYWx3TExpV2d1Z09oSkRfRFFEV3hwSmdxR3Bn0gHnAUFVX3lxTE5naURBcjVQdjItMVZCMkk5eWZHM0s4LXJET1BtR1MzendQTjlySEtqWXNNcmxIS2w5MmdPb2hEdGtPZkxVWG1yWlBQbW1wNFRtaF9HMm53R3JPX3RMdFdRTlJ6QXBQb3h0R1pnemlwZG56aW9jMjhYQ1JVQXRCLTE1VDdlcW55bWt3eVlMVHFobGxEeDBQWmRPLVZGd2R3dkhhczZZak9udzNkdVc0T3pacGNGY25BNDZqeE5BZUZZMERtOGRBdEJsQnhrSDVpeTQ4UUFXeTBqbmc2MS1JTWMxei1Jb3Ffdw?oc=5",
-"source": "Hindustan Times",
-"published": "2026-09-28T01:43:49+00:00",
-"first_seen": "2026-09-28T01:56:23+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cdad61a6e4a57044",
-"title": "Two dozen stocks, including NMDC, Adani Power, NTPC Green, Sedemac, Aditya Infotech, TVS Motor, Chemplast, will remain in focus on Monday",
-"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPa1hCaHZHR2J1bklBTlNRWV9pZXhqeEY2RVFvYlVhdFAwNHYteGZTTWlkaGRhZzhyWllrZk5KWDFMN1VZRU1mb2N6TmRkaEE5cEpadzFiTE5qYURLZ3JuNVV4LUozT0pIams2aVI1ZE1WXzdKM0hfc2tRZWdBdlc5Vl9SMzdBcnVkbERSMVQ1V1o0YW1pWUEwSmI0RlVOR05DNXFBcjZlQXJOVTNuZWpUb1J4LTBaaERRZlZ2cXFDa0JtcFBnc19iX0gzeExmNmNUazM2OHNZcDlMaGdvVF9HTnFVQl9MMUcwcUFacWU1RjhFY2VheDJjUFJ3Nk5tdG9oblViM2RmdTM1TXo1V2NGZkZibXFVck5HN2cxV3Qzc9IBpgJBVV95cUxOd05qdWh3TERtMU4waW92aElyMVM0NWRUX1VSMGxONWVZc3Nib1d3NGdRN3lKazhOTEo3TXI2a24xS1drVGJ5eTVNX0tpdG1XU05pX0hYN1Fzck44ZjlxQTFIZUFJUEJOUWk4SkV4eERDUkx4cTktZmtBUEFjb0d6UEpQSzdKTmdwZ3A5dC1fNFkyNlNqbjVxU0c4X3N1MzFJbG9ZNmZzSndoMUNxZjZQU05mTW5HS0xQZks5bG9FMFp6cjNtTENfbTY4ZG5TVHRyUjNMQkY5X2xBaDJMeDlWTS1PaFFJWlNKZkw4RXBDTlNTVnRtY0lfTEo3UkVvWkxZWFVlX25LMFU2Z1J6U1IyTHVuWGM5ZGswY3M3bjMxaE8yb21EZXc?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-28T01:31:00+00:00",
-"first_seen": "2026-09-28T01:44:46+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
