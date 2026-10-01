@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T18:50:35+00:00",
+"updated": "2026-10-01T19:00:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -17013,6 +17013,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d3cc2d99718a3a45",
+"title": "Second Hand 2015 Maruti Suzuki Swift VXi for sale at Rs. 3,39,444 in Jaipur.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjlkVXQ2ekg4MlB5N2wzT0lyT2ZuTTZkVjlmUG9hNm80cG13bTJoaFpIbzFwdjBLMVFlYVREeHZaY0RkaS1MbmZycWM2RkplSWgzYzJxb05KY0xUeXdsNzF4dGtYX2dvZk01bHp2bHNpelNJdHM0R0Y3YjRqU0doOWp3UzU?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T00:56:08+00:00",
+"first_seen": "2026-10-01T19:00:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50709,22 +50725,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "5403f023a428979a",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Price Movement Signals Caution",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-28-sep-2026/liveblog/134530217.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:40:09+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
