@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T19:00:53+00:00",
+"updated": "2026-10-01T19:20:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "4542c8855abae87d",
+"title": "Kotak Mahindra Bank to elevate Saha as MD & CEO from next year",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9WNkIzMUtjY3podG43eGlMMWZSSkt2Z1dZSVpGM1NKenA2bmkydUVxeUtTWUJPNVl3aklTNWwtY3YwOTNfUzJ1c054eEt2WVRYWDlvLTFEcHplYnpWeElKVHdmMEhqUEdKWk56SmZGSEdrX3R4R2R6S1NNQzlyVEZCLTNzcEw1aW4xTjFneEE3Qy1OUGVpM0R2RnVsUDdwZU1iSWVjRllwd9IBrwFBVV95cUxOUElrOU5PZ1pJeU9pS3A4Y01La3pvQ2RSR2VFYlF1VXk2bFBkdml4RVlGTk5RZjBKXzlWX0E5WkVtQWRDdTNBeC1FSkRDaEppcDlqUlBOMm9mdDN6eHVIcGFvOUtlTHZaY05vUmdVakRITmVSNjhsVFZTSTJHZXptajB0UUpSLXY5TFc3dlBIWlVLMFNjSDJxcHFuOWUwY2lJTnFuNzFwWlNqTFBiRHpJ?oc=5",
+"source": "MillenniumPost",
+"published": "2026-10-01T19:11:38+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "268211358e6a7125",
 "title": "Why Did Infosys Stock Pop on Thursday?",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenVIeGotSWNac2p4MEJZT0RXSEd3VU9reTZxcElQM2JfeEVqN3hzRE43dXNsV1NUZ0pxemQyeGNxclpxYVdYMlpzZG1QQnd3Rmo1OUpNWU9rYTZuTHM4TU1aN1ZvNzF3SFloVzgyOUwxZkFpZ3VIR2kzQXdSdWJ5ODVDMHpRa3M?oc=5",
@@ -755,6 +773,22 @@
 "sentiment": "negative"
 },
 {
+"id": "c284f2ea8759325b",
+"title": "Hindalco Industries terminates equity purchase agreement with AluChem Companies",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzdsckRuSEp6WEdTWGRGeVVvVnUyMG5Bdk1CYmhKbEhrM01qNWVheUFjVEhvWV9TWkdjZ2RNS01HaGQ4ZHd2UjlqTXRjbXZwUXdGazF1bXJyM251NS1zZTRsZjFrc1Bjbk40ODk4WVVQcVZmZGdJMGIxREM1MzcyME1OeEkwbGVTOFdFbkhxaGtRQ3J6WmVycXdSNHQwb1liQlZzZEVwSUpsY3kwTXhvMzhtWVlrc2s?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T17:40:11+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e956741a5032c70a",
 "title": "Anup Bagchi Named HDFC Bank MD & CEO To Succeed Sashidhar Jagdishan",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFZQZVZmS2R5T3E1TFpZd0F3ZDQzQWFYQy1xaGpQSEtmV1ZhYVB5M3cySy1jVGJpV08xM1d5T3NTaWdKTGxnQVBueEJyY0hYTExpLVVhSTNWUlNVeWEzdDFxTGpvN3B1M0NiTEZSNWNxTnBlb2JsYU9HaXZBNi1nZUstb0pBV0lsc1U4X1J6dHFhLWFQTl9ibzRDNU85dmVyNEZkVmRUd0tHdzjSAbABQVVfeXFMTm9MaDI5ZDVTejBYY0lCQ3p2akkyQmx3OUlZWXJrMnhyWnBQRVhZWUtIa2RvTFVjNUhuUXh0RGNPeDItQ2NpQzVDcnBQUWdjcHFLZ0RmajZBR1ZGN1NwU3A3Q2tSQXdKQmlEeVVIRGxQMEZxekxVUzlqRGhZcmgzYXJvOW5WZmtONXhQT2VndzdlOElUSjRiNDVQbU5CRmNlR0hWLXd0YkpOX0RMMWFUUnU?oc=5",
@@ -871,6 +905,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "76241dccfd7fe653",
+"title": "Infosys (INFY) Partners with Columbia University to Accelerate E",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDFydDNPN1dPNS1OSWdib21uczNpNjhmY0g0RXBrV3huNTMxUDFRaERRYUVlWUgwNGI3dnp6RXhWdWVlZkNiSl9ISkU1RHpkLTA0LUVpdFowMFZYYk9qa2V1V0c2MVp1MDFwWFI1MDhtREtvUmNsSlVKdHlCUTVJREVxUDY3UzZTVE5LMlJkeHZoRzNpMG92d3VpNEwzdWpBUFVXeWZLU3ZpcXlONW9ZTVE1eTVmblNCV0p1NUVRUmhqUQ?oc=5",
+"source": "GuruFocus",
+"published": "2026-10-01T16:53:39+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1178,6 +1228,22 @@
 "Order/Deal",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f036ced215600bd5",
+"title": "SBI Establishes New LHO In Pune To Tap Into High-Growth, Future-Ready Markets",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXZkS05WRThFNy10WjVET1VSMHBTM1E4cXE1eTlDeFNuZUVkcWxqWXlDX2lqNC1zUEVNU2kwd0cxSmRHMjdNQ1htZkZxYUVVM0lXTDdZQjZNU2hmZVhhcGtIdzRfYllFamlJTE1xdzhHQU16VkkyRVZSeHFMLW9CNHk5RmVfX1BUSjRMamQ0ZEdoRFRNcUZWN3RjVllManFvS25EN0dOcURpQWxXY1pSVXVTM3NZMXF0NlE?oc=5",
+"source": "fintechbiznews.com",
+"published": "2026-10-01T16:12:13+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2170,6 +2236,24 @@
 "Regulatory"
 ],
 "sentiment": "negative"
+},
+{
+"id": "a42ccf8051aa5696",
+"title": "SRF receives show cause notice over ₹266.32 crore ITC disallowance",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXJLTEYzXzRRbWpGY2MzMUdKd1FlTzJGZm5TMnBWYlVzdUVNQmRNREtwVzdocnAtT1FyOUxGeHdyWnUwQi1mOEkwcWJrYmR5ZVBqLU5BanhYQlVvWUVHN3RMY3djbnJzX0VYbm9WaUg0TFV2anViZGJ5WXZad3RPVXF4am1TalZvTV83OGVWVGhVamNmYnRnYW1jTFlaMDVDS3hqdXdwUQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T14:29:03+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "365b5cf09ca9e001",
@@ -5020,6 +5104,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ad9957bc75a55087",
+"title": "Tata Motors Commercial Vehicles Announces Stong Sales in September 2026: 42.4% YoY Increase",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEwyUUUxWXQ5SWhPalE4QXp6REh4a01KOXBVdGNpMWJqUW56WGxBa19OWF9tZDk5WEpfRDczVjBqQWgyalU0Q3dIQW95SUZiMFB4ZklsVVRLTVRkd2dUMlkzeV8tRURGN2lkb19Qc3FWckhZTUVQYnJOYUVUQkR3cWdyMTcxZUlhVFBsSVE4SjVqeUxEVDA2YXVLTTdPNUZVczg5U2xjelBqbGlTY2FaSlpTVUdzdm9ZWkE?oc=5",
+"source": "ACKO Drive",
+"published": "2026-10-01T11:14:56+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -10326,6 +10426,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9381a97348f0fe82",
+"title": "Kotak Mahindra Bank Names CEO Following Regulatory Nod",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHRPeFNGVVZpMTRETEdKWnBMNHl6Q2lLalFHRmM2M01YYUhnSU92dFdyLXFPaEE3ejdUTWVjMUlKczRHZWw1eXBaSEJrZFFkdVoxRTlITnBMVGRPZ0xOX3FTVVVtX2lhMVh5enlTTEk0RGRFak85aGNHX1U3QV91MExCLVUzQ1FKRnN0UEhzeWVJa0V0ejNsaWhfblkxbl9jZ0oySzA3T05CSVE?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-01T07:04:20+00:00",
+"first_seen": "2026-10-01T19:20:11+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50613,118 +50731,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "27477aa9e070d6ac",
-"title": "ONGC Share Price Live Updates: ONGC's Recent Decline Below Moving Average",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530252.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:41:17+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "5ab2a71c2e4ebbee",
-"title": "Tata Consumer Share Price Live Updates: Tata Consumer's recent performance raises concerns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-28-sep-2026/liveblog/134530248.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:41:12+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "804226e6f093a606",
-"title": "Tata Consumer Share Price Live Updates: Tata Consumer's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-28-sep-2026/liveblog/134530248.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:41:12+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e8b7775bd607966b",
-"title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories shows three-month performance decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-28-sep-2026/liveblog/134530242.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:40:55+00:00",
-"first_seen": "2026-09-28T03:29:20+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "fdd6eb1fc2ce107f",
-"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Decline Continues",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-28-sep-2026/liveblog/134530236.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:40:43+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4999fa3cfcbf9fd7",
-"title": "Cipla Share Price Live Updates: Cipla's 3-Month Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-28-sep-2026/liveblog/134530224.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:40:26+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"CIPLA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dbe4ec137339e6c2",
-"title": "Hindalco Share Price Live Updates: Hindalco's Price Decline Continues",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-28-sep-2026/liveblog/134530223.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:40:21+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
