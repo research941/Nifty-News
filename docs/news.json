@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T01:34:13+00:00",
+"updated": "2026-10-01T01:47:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,43 @@
 ],
 "items": [
 {
+"id": "e54e965448ff9912",
+"title": "Stocks to Watch Today, October 1, 2026: Jindal Stainless, Tech Mahindra, Blue Dart Express, Interarch Building Solutions and Highway Infrastructure",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGlnMExtbVNCTmtjS3FETW5kV3JGQ2pKTUdFX29FWUlncTNEUkdtV3kzTTZNbmRRcnlOeEtNdFEtZC1iNTlTQzNGc04yZ1VVY0U2NWY3R2xCNGtLWFlzUG1qNWYwc09RaDZYaGtiSlIzbXkwMmpCdFZNb3BYcWcyN2xnX2ttSXQ5S0xmYkRRY0Fnb01fZGFfbW1yS29GeFRqcHN0M3E5dDFYX3BXVmlRbjlnRzZmME1BZXE1UHRISVdrUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T01:40:05+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "baa7690fdb10ecce",
+"title": "Stocks To Watch Today: Infosys, HDFC Bank, Wipro, Waaree Energies, IRFC, Tech Mahindra, Cupid & More",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXy1BTS1Cc00tUHQ2d1VRMTZVOWRjeEJPVjEzeGFFd2NITndPQVY0cV9aS01aRVppMnZSQktnd0I5VkR4ZG9xMlNqbnRMMnlLQXY1V0VNaDhxOUZZWkZHNVBxNTdUWjYzOEY4MHFNeDcwZV9XTnB2SXA3MDVQX055NWl4dEZtV3UtSC16OXRrVWpwVE5vSU5zaWV2TDZ4WjVFNGkyOUJMZDFIellUU2ZnTGJYZnlGdXR3Z1ZRU2V3TW9pODdPbUdFNU9vWERMajN4MDQ5UWVZaHM2NnhqNllQRVJRM2lOZG1R0gHwAUFVX3lxTE5MblQ0N2NXemJuTFAxQnlILVJobkgtZGhCVHlMa0hORnJod2RfOFlqLVV4NXdHVFlsV01SOUJwYnNSbF9KcXN2NFpMV25EbXV6eEF1aWlCSTVFVkRQZ040Zi1CNS1lc0paRk11TEJyU3pGOTNYcXh0Y3F4LU10UFgyRGZ4NGZ0WU9ORFpiLWpOV2hRS0NoWHBKR2JGelV6bWF2dVpTc0NJR0ZSalpDcUZPSlRjMFU4S0k1ZlRESTR1RDFqZTJweDNqS3hiRVE5YjVfYm9rN2poZGdBVWRfcFRNT3lzSmNUYmVHWldVZ19CcA?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T01:30:01+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY",
+"TECHM",
+"WIPRO"
+],
+"groups": [
+"HDFC",
+"IT",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "79ff9f4cacccc40c",
 "title": "Bharti Airtel vs Vodafone Idea Rs 3999 Plan",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2hTT3JkXzFDd2tNMmJaNnZvWVVmdXBEZG1GZVJpTlYzZWRxUWNEc2kyblVuMnlXclc1RUNOSjYxSG1iZVR5RnQtNzU1WEtJTWVPVVpFaGN4SWRZY2dIeHBMVXNRbnR5SUVtcmVjLV9UamdUcGFjVnpTWlRadWxCdWdR?oc=5",
@@ -562,6 +599,24 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4f1ded7d0b6c881a",
+"title": "Stocks to Watch Today, October 1: Vedanta, Jio Financial, IRFC, RBL Bank, IndiGo and others",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE5tcTdtbFhvMDZhZ2F0eWFOeGFaSFN4a2c2c0xEaGRCWWhwTTRDNWVoWHJwOXpvS2c2ZXJJTzBkVERleXZFdW1xQklWNXBUSGxKVXBzLXFvbEMzU002WC1BY3l2NHRoTm51b3R0MUhZbzU3bm5XTk55NkxHR3lEXzFJS2FxOFBFTTNvR0dERGI4M2pDajFRQ3Z4aFRsOUw0M24tT2xvVlpZQmdCVXpYVHdsdDRaelY4STZBN3N6dU9zX3pEQ3hRNUI3RUxMVjBoNEI3OEhMUjLSAdgBQVVfeXFMTlBObXE3bWxYbzA2YWdhdHlhTnhhWkhTeGtnNnNMRGhkQllocE00QzVlaFhycDl6b0tnNmVySU8wZFREZXl2RXVtcUJJVjVwVEhsSlVwcy1xb2xDM1NNNlgtQWN5djR0aE5udW90dDFIWW81N25uV05OeTZMR0d5RF8xSUthcThQRU0zb0dHRERiODNqQ2oxUUN2eGhUbDlMNDNuLU9sb1ZaWUJnQlV6WFR3bHQ0WnpWOEk2QTdzenVPc196REN4UTVCN0VMTFYwaDRCNzhITFIy?oc=5",
+"source": "ET Now",
+"published": "2026-09-30T23:54:34+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"INDIGO",
+"JIOFIN"
+],
+"groups": [
+"Consumer",
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -753,6 +808,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "82b3ff81da06ec18",
+"title": "Tata Motors Group Globally Records 13% Growth in August 2012",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbERqeWhUNDZfdGpNOEtrSzFwbFRMZnNFNTBabnB1VHZKUk1xMUlpS3oxZ3Nhb2M0WlRSRVdhZFdmTjJOTmMxcDZnaEZGQVphQ0taN2VYQ1lKc1VEc2dGQktNeXhaWnZpdVdYVlluaVRuN2V3YmItREZCRXZtdEc3dUYzNVhnNS1UZ1Q3R0ozR0RjZWFjamY4NWl5eDNLU0ZVZ0lCeFZRcFZad9IBsgFBVV95cUxNRmlsdXRwaEFjQ0w2RTVRX0QwYU11YTUybUtzMnZnVHN1MzlrM2hZcmZ5WWprb19Ka0hZcjAzY01QbFNyTlN5S2hKS183ZUQ0eGpObkx3Y3B1TlJ6TDlUQnplS1FBTm04TkJ6Q05SNHhuajdrRks2RnRySlNYVmp0aWFnTDJ6RjFzVnFGS19jaHlkejRERGt0YWxNVC1rMTdHZWNDZUhSa19DdFlheGNZVGt3?oc=5",
+"source": "CarDekho",
+"published": "2026-09-30T19:18:22+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1802,6 +1873,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "a957e6fff9d2482a",
+"title": "Ishita Drugs enters ₹11.75 crore loan deal with HDFC Bank for facility upgrade",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2pkMzZPazFReTRkWGNmVEM1RWNlYVJCeTlqVnlKZEVIblk5b096cVIxSlQzb1JSYmhQaEpsdXZheVR5ajRYbjhvZjJ0ZDF4MHFrMVlELVNjVGMxUjlfZ1B3NWxBYmNkZ2xXREgzQW5tN2NMQWdnZ0JpWjBRckR3azdRbGpnX2lwY0hvUFdmQ3ExZjVxVktfLXpuQl9TUzFwZUJTXzBBLTltTWxDVXJ0Z1BR?oc=5",
+"source": "scanx.trade",
+"published": "2026-09-30T14:46:23+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Order/Deal",
+"Rating"
+],
+"sentiment": "positive"
 },
 {
 "id": "08812f5a2dc33b7f",
@@ -9930,6 +10020,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10521b04c49aa52a",
+"title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
+"source": "Upstox",
+"published": "2026-09-30T03:42:48+00:00",
+"first_seen": "2026-10-01T01:47:59+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50317,104 +50423,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4b2bdde267626b92",
-"title": "Silver lining for UK equity market? Airtel Money targets USD 9 billion London IPO",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkcyQ2xCOFdVSlMtVndVVVYzWmx1VFkwSF9KUUtOYWZ6RkFrTlNMSlJLd0dsdVdPRGhTUndZQVRkSWg0OEtnaTZEOHpCS1dvNXpWeEk0ZEV5QkJUZFlyUzVzX2FMU3B1YzhKa3BmbE5kQ2JQVEc2eTRSN2xBRlB3LVZLeDE1WTVwaGVmTzk5T1JzcFNhaGR2X0tGSGZjc3N5YXdyQVpvVnM3dnZRZFdHMWhjZnJzUDJwbnVZZVlmSQ?oc=5",
-"source": "internationalfinance.com",
-"published": "2026-09-25T01:00:03+00:00",
-"first_seen": "2026-09-25T07:48:40+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "e339f0aa989b6025",
-"title": "Chainlink rises 5.7% as Infosys adopts its tech for banking software, but impact on LINK token unclear.",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVdFNktJWHRfY2JqcTIxUFBNb0c4S3hGQ0VFSEhhVExBZDVYYTdaUk5EQ1VEcjhTSWh1bkVVTElJcGgzYm1kQ3VXSlJxdDdVWmJGZnFJcWwwcWNLaWRWUkd5SlB6S3dQNHVYbm1OUFVhallMOWp1eS1xaFJKN0N0LWhRT21VdEE0ZkVfa3FkTVVjSzhl?oc=5",
-"source": "Pluang",
-"published": "2026-09-25T00:35:34+00:00",
-"first_seen": "2026-09-25T01:28:38+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "bc5a21f4777e2cba",
-"title": "Chainlink and Infosys: What LINK Holders Check Now",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGNzRaeGM1RjM2MUlhemF6R3lZMjZTamhPT3lvc081Z3Jwd2x1NFctS3J0V0ZubG1FRXJNMFFxbEtpMVI5QVZVdWo0VW9qNEp3NEdUbE1ZbXBpUndoWW9HdGZ2emFsSjZma0l6dm1IbEJabnBsODlveHNuQWJ6UQ?oc=5",
-"source": "cryptoticker.io",
-"published": "2026-09-25T00:20:12+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4de7307b334060b1",
-"title": "Stocks to Watch Today, September 25: Axis Bank, Sanofi India, Godrej Consumer, Balrampur Chini, Inox Green and others",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVzBLbXBZY3lBUEhTSG9ha0k3OFdERVU3aW9TQ29YX3JnR1htQ0tUc0JEdkZyYm9uUlNnc2RIWUdoS1VCRzl4RHFjUTNZdlA5WHU4TjljLVctRlZTbmRIQ1BpcElkQ00yMDJtaldTZVB1NlBVbkZvUHdvaVAwYVRyZzVwelV3ckp3cnZjSF9VM3JZMzJaVjdoN2pLZTJrVEhVQ3oyTGNIaDkzLUhNelFzdGdVMzNTS0lKZmJWWWRkVzhLWEN0UlN1YVRkTGdSTE42WUZ1U3kxbzU4c21hZm9oRE1JQlBoTmZFS1NDXzBHQnlrVHVnMGfSAfsBQVVfeXFMUFY2WkhteXpwSFdEdXpmTHFWU1ZaZzNjQnBza3dnN0tvLWhXSHFScXlqY2lienpUaXotN3UyMXJzM0VJY3JWOFdkd2daNzVWRXFhOUpHUUZNbnJSSVZvLWVZY2ZWazJoWVpxYnk3UWU0MXA0QVRWLXA4MW5hMTBXUVdEbDNUYk5odHBxVjZWcHVHMDNYcFMxQl9rMm1xQ1Z0b21tbER2THdMOWZIT3RvNEFJQW5RODJXd2xOei0zLVBZRXkzSGpUeEIzcGtoSXVYVXVmOFJzNGNWMHhLQ0N5QzVDeXFsSElhb2ZxQjUzOVZCVzlqN0xmQkN4Tzg?oc=5",
-"source": "ET Now",
-"published": "2026-09-25T00:06:53+00:00",
-"first_seen": "2026-09-25T01:42:45+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d5cee6511209e3b9",
-"title": "Beyond Bajaj Finance: The 3 lenders quietly dominating India’s new unsecured credit cycle",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQakRVcEZCYUZWTURXX01XOTk2cUs1YmoxNkMyYXhZSTVPbkhZdjFRaUh6dks0X0RsVjVHWllhQWNDUmh6VjI1WGc5ekY3Z3BxOGVUUVd2bU1HcGJsdnRqeHRFbzRhNVFZODVNYXBlMnNDaXpvU3Rkbi1xVXl0V0NWajN1Tm40LWFQSjBRenRNX0V2LUZpek1aM2VfUVYxYzFZZlVZdThSUWt4ZHJ4VF92cnpXcklFWmN5OS1yWktWVVNPV0pBanBzYlBOeXo5RmJKZzltbm9Tb09xb29lbl90T252aTFHdw?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-25T00:00:00+00:00",
-"first_seen": "2026-09-25T01:42:45+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b932f50683a46715",
-"title": "3 Power Grid Stocks To Own In September 2026",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG8tNS03TVljZTVrR1RkYUwyaDdaTU82T2djckMxWDJhSkhSVDhpZHhrMFJtV3lrM291M0lreE1GZFZhTC0tNVZtZjVqRm1QeXZlTmhiWERUSFpwRVFYdjUxQXUtRTd5bHFqc251TW1LWDF3bGFlSGtaQVJQZ0ltV2xkRjFKNUhzNjVpOVVoQkdvcHVnazg3WHVVTUxUNTNLcldDWXZoWFBKVFZfSUllM0ZmMnZPMUNa0gG-AUFVX3lxTFBBNjA1bXN2amlvalBuUElSUEdOanVhRUVWaUg4eEVjZWpSWmtPeHIyeF9EUlk0WGpnV09jVnVwV0NOZnhBbHFwbFZqSnJ6bm1FVDVLR2htcDJKbUNBcHlRXzRiMkdiWmZaVXN5ZUdKSDVNd000UllfVHNBa09TN1VDZHZxV2Jza29oaFE0Vy01OC1aNzlrM2JMenNvSVlkVmRfdkZsMmFHUUprR1NPZ2I2eGFjS2J4YkdqLVByQlE?oc=5",
-"source": "simplywall.st",
-"published": "2026-09-24T23:54:04+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
