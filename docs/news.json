@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T23:45:10+00:00",
+"updated": "2026-10-01T23:56:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "1de9d537ead06a32",
+"title": "Stoke-on-Trent and Newcastle to get funding for more affordable food projects",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE5ZZ2cyeE1FNkJpV0dTbnhkakE5b3Q1RURUT1otODRrWlpoM1dfc25ESlJQcmF2VVByOHQ5RWFDMFljWjlnbmpXbVY2Wm1ySWVXNk0tQWw0NmpEZmJRaG9fdVpKN3E1ZGxESXIxcHVJOTY3dGstMjJ0ZzdGenh3b2dTQU5CSFR3eU15ZUNVaGE?oc=5",
+"source": "Rayo",
+"published": "2026-10-01T23:48:45+00:00",
+"first_seen": "2026-10-01T23:56:24+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "463a1f3abd4ffcfe",
 "title": "What ABN AMRO Bank (ENXTAM:ABN)'s Infosys AI Tie Up Means For Shareholders",
@@ -17965,6 +17981,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "3dc7be4cd20ce2e1",
+"title": "Second Hand 2014 Maruti Suzuki Wagon R 1.0 LXI for sale at Rs. 2,25,000 in Delhi.",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oOU02SHRUZVBzMWdyYURwdlY2ODlPME84MlpZcW1aTE1IellsUFk3MGN3WURCWWJqaEpMUGpBbDZIVXFKdm9kN29kQVpnckFIeFRKaXVHQWNTZFdybDRiajdtZkQzRDl6RHlocGZBTElXTXF1NlFPTG5McktzdlE?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:56:43+00:00",
+"first_seen": "2026-10-01T23:56:24+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "d6448bb35fabda99",
@@ -50740,40 +50772,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "c7ea7b1abdba0abd",
-"title": "IndiGo appoints Deloitte’s Sudeep Anurag as Director of HR Analytics and Transformation",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTNkb3dfVllLWV9qWVVLSzhJUzExNm1XZHQyVUJCNWFnalhYZm9way1sQVlhMXo2U2d1NWJDTzQ0RkpvcGtRRGpUS1Y5VXJrd3NBYjgzMkhhN1VuZ0pKbGdzYzlaSzA0OVV2NkptUjdfYVB4dkY3YnhwbEZIQ2JLWDNVSWhhRHhVRjV1RjFyWERzeFd0Z0lrWFpYTkN3bGJnRmxMQXhheXA1aUxkbnV1NENxcG1JLUgwMnpPanBYa01fdlZ3LVN6Ym5WUlZBYkVEdzhN?oc=5",
-"source": "peoplematters.in",
-"published": "2026-09-28T03:14:16+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5eb20519bd287b6c",
-"title": "NTPC shares may rise 40% as CLSA flags $178 billion capex roadmap",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1o2N2ZkM09MTVBQNDFXLUFzWkNURTFiNDl5ZXp4bWlFckcxTHA1REJIaUlXdTk2SlZYMENveGs5d1hGRTF6Q1RlMTcyS1I4SU0zRWthemJwTEtybmxZZ3l2RFZScHJfOG9NTDJleXk4YlBnaEFBR0NSTWFCclJpVFVXQjVqT2RaVERDaU9KOXN0cThvNWZhNzlVUHNRempkYTJPaWlqenJubXJicHJERkJGTFJLTXNCN3JKODRWZE9CMlRkaEE?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T03:10:07+00:00",
-"first_seen": "2026-09-28T11:59:11+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
