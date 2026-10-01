@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T03:12:36+00:00",
+"updated": "2026-10-01T03:30:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,130 @@
 ],
 "items": [
 {
+"id": "e7a6689937997e01",
+"title": "September 2026 Auto Sales LIVE: Maruti, Tata, Mahindra, Hyundai & More Sales Updates",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHJ0NV82NG1tcDRXR0Q0VXN6S2k4N3hZWnBjcFp3OVliVFNzbWJIX01mUTZQRjlQN25pUE9tejZVRWp6Rk9BOXpmZEhsdmhRVVp4ZDBWQVdNOTl4bUtuc0NnUllBVWlkY3N3Z3h5V3RvRzQweWlkTzR1eFREdkJqbA?oc=5",
+"source": "Auto India Daily",
+"published": "2026-10-01T03:26:01+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "178c500fe271a32a",
+"title": "IFC may extend $500m loan to India's Kotak Bank",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9od0ZVTmpGSVB0TWE3MHNCOUx5ZTV2SERFSHp1X3FOcWRrM29Zdm8zVWI2M19XbUtSeW9xOF9oeW41Zk1sRDhHOURWaEdfQURidVNrZFk4TFdCQ3ZDYmw4RW0tbUNtczlfUF9QZ2NVRDg2cnc?oc=5",
+"source": "DealStreetAsia",
+"published": "2026-10-01T03:23:04+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3c0ce0f1d59bb710",
+"title": "RBI approves Anup Kumar Saha as Kotak Mahindra Bank MD & CEO for 3 years",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVlNPSl9hd1B1dVVOUXF6VVNzOUFrbEhvanJxQllMSGE2bHdFQ2xkNUZKUnpsRkNHRUN1cUV4WkxpV2VCYjRlOE1XbFdSX1VEaUxMSW1yXzJrUVNmUEdtNXd0YnNuNmczeWNrVTZ5eExCbHhZZ3AxZ1NLNzNFcXBlZ2lfaUNOLTdDQUdtTXFLN3hUZFByR1I0eGxmdWdsc2dsdkN5R2E2Z0oxR2R0UlY4YVpxakZsZWRkc2dMa1NoSjZORy1XMERMc2ZmRUdYYUF5Q0xiMF9MTGZsQzFxY0phRFdPWTlyT2Vhanln0gHwAUFVX3lxTE9ib1ZyMGhnRmZwX3ZlYUNxTll1emlKQXpCekNYWkFIdF81ODJzZUtWRzBYa3M5ZVhreUpfYUZzb3dpcnV1b0ZYdEJaM21ZWGZiT2l0S2FueUc5V1cwTFd0ajY1UnU1dmNPSjVtbVBWTE8yMUNlTEJsMm1BV0ItWmU4QjNTVDdaamRPclNodURwQURQbFV3X2dXZVUzLWJDYVY4UFpfUFJfVzludjljQ3Y4RmVyYWlHMldEdGl2QklKdFBtTUxGOXlpSHlYSkV3ejFUSmRXT2RiZGRia0hvWFFmM09QWm45T1dGTG0xdW9VYw?oc=5",
+"source": "Livemint",
+"published": "2026-10-01T03:21:40+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "37eb5a8ffecd7689",
+"title": "Video | Kotak Mahindra Bank Appoints Anup Kumar Saha As MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjlnWDNQMDFWZkg2MEZEdXVIamtFeWZDeDV4TkQ4YUdCbElsSGZmU1lMc1h0eVRzTy05YUxyaEFrMG51RGFVeU16SXJxdUNFZ3ZlTlV5ck9nUFAwdk90aWlDckZ3NVBseDJWWkw3NXRiV0pjYTlmY0hmczBuRWhnVnM5VXpyblp2SnhqZ2VsVTNxa1dkVXVNY09iOVgyR0lCUU5qaERqTEk?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T03:12:13+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "067e564382f4be71",
+"title": "Apple Pay tie-up to make Axis Bank card a preferred payment choice, says CEO Amitabh Chaudhry",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVNtTzVTM0JXU01FR04yTGpkVXRfT25BZjM0a1c2NjBPSTdGeXpwWHJGMWM4V3RkNDVRaUI1NVo5ZjhaTkh1ODhhTEVKdWlpOXFBS1FwRUJhQkM5a3NsTmd2Rk5YNW5CamtBbGJYYVdiQ0dUV19Da1pBY0hEc0locnR2N0xOSlhvcVVzUFA4WXo0ekVaWFBGWWZoaFFNczNXeC1EbENSRkJpTjRlT2xGa3VZZ1RBMUQyTm9WOXdFc3RsdkV3QTZJbWp5YmViazQzN0FndVpWN0JwOWtndm5hYnhGem0yd9IB6wFBVV95cUxOeTFSOXppMTdyNVIzSUFob0FlbFlVbVkxSWVWTzQyQ3NJcmVPYS0xMUUxU0VtcFBQd0lCZGRpU1pOQUZjUHJpbS16X1R4ZXRHUjFxc2RrOXJJc01FaGtCSVIyRnBLaXZ5aVVmdTJTQVo5RXJIOVctYVRjWGppOUVuNHJVOXRrdEI4N0g4ZTB5cnNXbzlneHFfWU8yUWhmbTBJMUY0eUdRQ1BUS1d4bkFleFpseUE3cFZzTHR3TzRJbjk5TGgtelk2SHQ4bmNKaTVCZ2d0LVBBd3BlWkZTQ0REbnlISllBN0Q0Ykww?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-01T03:10:26+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0bb7a29daf48bf40",
+"title": "Kotak Mahindra Bank gets RBI nod to appoint Anup Saha as MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHctUmc2ZXcwNXA2ZmV6U0JYWmJEdngwc04zdDQtczhXbk9tM1JPWW91RlhCT1o3S0tQcTh5R2dXRWtTbERHSGZuODJNbHpvemNsWFM2OEFtUTRkWE9YYllmWnFHck9YVEVTOW9FaGRVRFptU2w2Ym9vUzRyN3l6TGliSzRuemM1dElKSTJ0Zjc3RXg3SHlESEtTX0poem9FREgzVU9oOFg2RTU2RFdDVm9vVVdSZ0x4d1FMQTBhdWh6NTJnczlOSVpZZWJENENmeDNvaE5MZHpPZTdQWTk5WlRYOWrSAeoBQVVfeXFMTy1KRm1WNDBwZHNUVW85dUJSTGJ0WXlzbnhiYmxHcG9TdUVSSTBXSndHci1CcXlSTmRPWHdYd09pbGhVTkFBdEhPdUpDYVNvVEduODFzVHJ6bTYwQ2tMVl90d2NaUmw3V1FhcWZlRGN2UDBTeW1TVWVnLU1qM0E0c05yNExKR0xWbXMzX0twMjc4NlM5TFZsd3lWV19IejlyanpYaHVldzlFeHBLMnIwQ1hKUEhnMmgwNGJ4VGw5cWtja0xOZTdQWHZpbVhuTm9CWjg1ZFlpRkZhNlM0UUlZRlMxY0o1UmR2UXdR?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T03:09:58+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3a09fcc6b3dede21",
+"title": "Anup Kumar Saha appointed as new MD and CEO of Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHVEYlQ3d3VEa2pqNzhEd0F2QVNxaXJ3a0RzaUpJOUNOVnoxR3RZamxlZV9DdHBadGxTR0E1Vzl2Z0NGbFJMSjd0aXRPNDhodkc0ZHdFTjJFbGFlUnNaRHVVUDFCMTdXU0hra2I4QnlEbEJpUllZMWpCay1CMHFzMFhCWGc1V3lwbVlPbXJqNTN0QThJSWhsUXl4VGZ5a0JTZWt6VnVlcnpKc0NNWDZLYzh5RU5oeDRXWVc1NlJnaGthSlNf0gHKAUFVX3lxTFB2bzJMWDVnNldWUmxQWEZXUHR5TU5QakhjWFljRW9DdE5wVDRnQjhzWnNGa1NaNWx4NWxZcFVQY0RXRW9RM1pVVFlTRTNuN2YycS1iOE5PbUdUb3hpblRRcUVFbUl0NXB4NDVtTHBxUTlrMUJLNnFwZEdTeXNGTG14OGl1S0g4dTdJakNyYk5oRUpKVHRpbW14TUYzcm4taU9CYllNOVVodGdMbFdNYzFheU51RE05cGNIY0tIdS1XS0I1NklVdXFEd1E?oc=5",
+"source": "business-standard.com",
+"published": "2026-10-01T03:07:07+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "69d8d5aea04ac700",
 "title": "Kotak Mahindra Bank Gets RBI Nod To Appoint Anup Kumar Saha As MD & CEO From January 2027",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWJzYmdNd3NWSjd0VW5nLXFIcjRyWGJYeC1JN25DODN6ejh4aE4zbzctdXdxTjY1a2xTWmtJU2tPWjdRUVFjRDh0TFFmZ2RvYzc0YmM5aHRYSG5KS1BQWmhGa1o5NXo4emNYVXI1a2RPMmhWWWJBOUJjYTR0YVowS3dtS2REakpLd3p4eXVvZnNWVHNWNDNsTlhLY3FOOXJKTWJ0N2RONjJaYjRobEMwanVpT3hOQlZWY2ZTWS0xeXMyTXhBck42a2JSSGhJYlFBSWhaaENBWXA5NlN5cUpMR09Rc9IB6AFBVV95cUxQS1g0RW1DZGRLeTlTWDVnUkFaMFhFWTVqejRXZXVfOVpTeHpOTTVBcF8yZUp4aUdvTlRMVTFwV2J4OEhuRHZCYlZhNUttYmI5cVdtYXQwSHlUN25GVGZ0NlZLellsN3ZjMXNkVW0yTW1fcFRrcG5hM3VOMi1xTWdmV1U4Tll0VHYtRGQ1dDQteDJDZW16dGRyR25GNktXT1pnSnFQY25wa2Vzb0FNVnM5dHBMSDZBQW9weGpUb3dqeWhBdUpCMTRXa19naFZadml5Y1p5ZDdrVlRVYjJYdV9BY1pjX3pMMzBE?oc=5",
@@ -665,6 +789,24 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "2eab608153e32f30",
+"title": "Stocks to watch today: Infosys, Jio Financial Services, IRFC and more in focus",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemkzdndzbzNuaVczOHUybDZINDByc3FjYzRxMkJ2NFE2SEMyUmpCRWZfMXB0LThfZnlXWVFYR0MxZTlMbVRMbHFuSFBwWUpZSmdvNHYtNjB4YzI4WDdVa29BSXJtanRHUkw4YmdUZ0M1cFV5c0Z2OE1vWi03QkNYOXlqTk43NUFBcXhBZzQ5NGRvZmw5cm5aRTlacE8tNldwXzJydFpSdjJSbnBWc00zRXJ5VENfU1JnN1A5eUswLUtKWnB00gHKAUFVX3lxTE1PMlhKSzJleFFmSmxIeFpjTjZGZ0FBZ0JGaXhJYVpMOVU3VjRqRmY1ZzN2TnQyTWhiMklsdHY5RWpFWjRMOEd2LXl4d2kzRFFlVkZWbnFtd1ZFYVdSSndGbDFNQTN3MmJ2UkZtVjlHTDhWeU80cVFPZzB1cnp3NFEzX0JQX1M1YTdDWjh0NzBJdXFnTWt1ejJwRlktaE9lNW44SEFhaFlmVEs2em9KTk90QmoyWEF3OWNJbDdUX094cFRZVmRGLXdTVXc?oc=5",
+"source": "News9live",
+"published": "2026-10-01T02:41:41+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"INFY",
+"JIOFIN"
+],
+"groups": [
+"IT",
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1064,6 +1206,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c89e4ca0b9d0dee7",
+"title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T00:23:28+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2763,6 +2921,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a27abe5b353da578",
+"title": "Maruti Suzuki Victoris On Road Price Naidupeta Sep 2026 - ₹13.29L",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmlIenZqQkhWRlFPY2dHTHdGdkpodFozSnRHUWZIX0VHeHNrb1lld014WnZFRHJlbHZHOXVFd2o5dDBXalpNOF9TY2p5ME1WUElzWlIwVVBRX0cwUkdqQkI0cjVmVTR2RVNnWU9qUkdyTnVrQ0RuSVlZX2lPMXNqSUNoeXc?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-09-30T13:52:46+00:00",
+"first_seen": "2026-10-01T03:30:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50300,166 +50474,6 @@
 ],
 "groups": [
 "Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d4ed54d414febf2e",
-"title": "Dr Reddys Share Price Live Updates: Current performance of Dr. Reddys",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:31+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6278525cbece61c2",
-"title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:31+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f5b6a34eabe81cbf",
-"title": "Hyundai Bayon vs Maruti Suzuki Fronx (2026) - Price, Mileage & Features",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2pDdnZZcWxCLUdBWGNpa2RER192T2gzMHptSmU0NnBCdU9nU2hDSzV3U042UnVYa0oza0R1T3N1bnF1cmU4UlBaM3FSZXFNc2JOS0xfYkVtODFWT3p4RmdQcU8yaEdGY0l5RnZHMVZDSW1IRV9NaFJGN2lqR0JkdWxIUnQ?oc=5",
-"source": "Autocar India",
-"published": "2026-09-25T02:51:24+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "094deec1d8ab616c",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries shows a positive shift in market performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-25-sep-2026/liveblog/134473703.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:14+00:00",
-"first_seen": "2026-09-25T05:38:05+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7af70515b53447c3",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries experiences a slight price increase",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-25-sep-2026/liveblog/134473703.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:14+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5178122190809c5c",
-"title": "Nestle India Share Price Live Updates: Nestle India Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-25-sep-2026/liveblog/134473694.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:50:40+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9b3ef993205ea3b7",
-"title": "Nestle India Share Price Live Updates: Nestle India Trading Insights",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-25-sep-2026/liveblog/134473694.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:50:40+00:00",
-"first_seen": "2026-09-25T08:46:12+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "926a4d8c3950a940",
-"title": "Tata Consumer Share Price Live Updates: Tata Consumer's stock struggles with negative returns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-updates-25-sep-2026/liveblog/134473690.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:50:22+00:00",
-"first_seen": "2026-09-25T04:15:46+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d76959e575ce9e85",
-"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Current Price and Performance Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-25-sep-2026/liveblog/134473681.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:50:04+00:00",
-"first_seen": "2026-09-25T05:24:33+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3dd93cadf9b3d11f",
-"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Daily Performance Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-25-sep-2026/liveblog/134473681.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:50:04+00:00",
-"first_seen": "2026-09-25T08:14:28+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
