@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T21:18:53+00:00",
+"updated": "2026-10-01T21:35:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "27bc8574ef6a7320",
+"title": "NTPC and EDF Power Solutions form 50:50 JV for pumped storage and renewable projects",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTZ0WmxRTjgwdU5zRlZMekRYTTZ4bUo0Z3FtcG1MV0lnZWRRd0x3VGdBY2FzNERGdGJ3RHlBMHIwWktuMWZQTEk1UWlwc2hza0Q2SGdqaHlzelZPODE0aE9laEtIZG04Mkd0TmhWcjV4Mjd4TG5HSkhUS2N1NC1ON1QwN2JBLWRzNlF5VVczRS1uMEVxbVpGc2M0ZzFrODc0bFhScm5HZUlBQjAxVmtZTkg5ZXZzN1laYW91TFVTX20zYmlJTGNOMFc1bTgzRnZ3LWc?oc=5",
+"source": "Prop News Time",
+"published": "2026-10-01T21:30:12+00:00",
+"first_seen": "2026-10-01T21:35:25+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "84feb685eef26823",
 "title": "WIT Stock Firms Up As Wipro Extends AI And Cyber Push",
@@ -1085,6 +1103,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "c8129b3462703899",
+"title": "Laser Power wins Rs 72.77 crore order from Power Grid for reconductoring works",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMndfUGJsRU0yZHpvLUJFTFpzczMxTUp5UDZuYUQzc1o2Z0tPd0xKTHJESWo5enNRQlZtTkRvSHRaNG9DRHUySmhCaktjMzdhWjhoQm5EWlc1ZS05dzMzSlBHc1k0VGRiUTdYN0NUbmNsclprMFNBUnZjaV9ZejdYSmlpeF9JemVtVnM1X0d6SFpMWjQ3RkVMWVhQSU1PalN5SE1YTzhOT0VhSk80TDk3dmlrZ19rbjl2YlpUUEJSZWFfZjA?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T17:53:26+00:00",
+"first_seen": "2026-10-01T21:35:25+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "2441bcdcfe874a98",
@@ -7191,6 +7227,22 @@
 "groups": [
 "Bajaj",
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "adb5b4fda9948334",
+"title": "Second Hand 2024 Maruti Suzuki Grand Vitara Delta Smart Hybrid for sale at Rs. 10,75,000 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblBsLXRpYmVOa3d3cXNDdE9oOFdRWVpLWURPLU1CNHhSVE9Qck1GQy1rSERrVWRGU3NGNngwSHdqWEliMlZNNTlLNHlmX2NwZkFpWjBWcmFyaVRqeDVOckxfa3VxYVNkd0tfdEg3UVM5eWFETk94Yk8zZV9ZbWJod05FcHdkSmNlRmZDVjJR?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T09:54:34+00:00",
+"first_seen": "2026-10-01T21:35:25+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -14067,6 +14119,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7ebcbf0d979a7aa3",
+"title": "Grasim Inds Share Price Highlights: Grasim Inds. Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-live-01-oct-2026/liveblog/134608226.cms",
+"source": "Economic Times",
+"published": "2026-10-01T04:35:31+00:00",
+"first_seen": "2026-10-01T21:35:25+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3097854e348d29e8",
 "title": "Ultratech Cement (ULTRACEMCO) Share Price Falls 2.21% in Early Trade",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02TkVJem5sZmFZUHJHRHd1SnFWRHJlTW5kT0RKcEVyUjFMLVp1dk93c055eDVpSFB3WkZVRGJrUHBaLTlFZVlxUVZJT0tENFU5WjQ2R2R3QWR2QXZKdTI0X0tjRnRhOVpBUUtXWXpZVXZmeGpxc092RGJ5MTFxZw?oc=5",
@@ -17903,6 +17971,22 @@
 "tags": [
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8d6c3d659bf3a717",
+"title": "Forbes India Rich List 2026: Gautam Adani reclaims top spot",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWERaUVZpaTZ0ZEhUbFd6OS1GVDRJTVl2aFU1cHF1NmlhZVI0cmd5dDVWaEpWbDdFd1dYS2szb3pFWHNtUzJHNGhmYkdXWldFYUxBeUMya1g3cmtJbk1jRTJlQXBrckxPQ3ZUbXBXbTNuMVZpUXpJdTFycVFXY09Ha3I4WXVIblZBcXk1NVQ4MFltYWFBYlFnOGpodUJjM0dtaEpfSTZQRG1XWUpRZld1RGduMjR0U3BHUUtlQURB0gG-AUFVX3lxTE9YRFpRVmlpNnRkSFRsV3o5LUZUNElNWXZoVTVwcXU2aWFlUjRyZ3l0NVZoSlZsN0V3V1hLazNvekVYc21TMkc0aGZiR1daV0VhTEF5QzJrWDdya0luTWNFMmVBcGtyTE9DdlRtcFdtM24xVmlRekl1MXJxUVdjT0drcjhZdUhuVkFxeTU1VDgwWW1hYUFiUWc4amh1QmMzR21oSl9JNlBEbVdZSlFmV3VEZ24yNHRTcEdRS2VBREE?oc=5",
+"source": "Forbes India",
+"published": "2026-10-01T01:01:00+00:00",
+"first_seen": "2026-10-01T21:35:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50682,88 +50766,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a547ae20b3e121d6",
-"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Recent Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "56ddc14ed57ffc57",
-"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's market performance reflects a closing price of Rs 1774.6",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bced5dbed024c223",
-"title": "Wipro Share Price Live Updates: Wipro's Stock Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T11:19:36+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "76c6d5e93b036450",
-"title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "81ff45743b5f2446",
-"title": "Stocks to BUY Today, September 28: Petronet LNG, SBI, ICICI Bank, Aditya Vision and others",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakR2b1g0WkVTR3BualdpYnFTS2hCNUYxSXhlblZGNnB6WnV1Yk5Bd2l1XzdSSXJVXzhUdHl1NjVZMTlOZHYyRnkzOE4wdG5PQ1FVTGhyRThDUTZMM1ppdUtEeEp6Yzg0RnltMUpDQXNHUmltdVllSE9ucS1NTkJXTXRiTmMzSzJkVVcxbFB3V1dOSEx5c1RYcDFCbmlMWjN5eVEzSkJ2UVZaczJsSS1zVHNkNG43TTdURDJvaFZFSlZkaENNT0NrcWw5bm5xYjBZVmMtSDNrUEzSAdgBQVVfeXFMTWpEdm9YNFpFU0dwbmpXaWJxU0toQjVGMUl4ZW5WRjZwelp1dWJOQXdpdV83UklyVV84VHR5dTY1WTE5TmR2MkZ5MzhOMHRuT0NRVUxockU4Q1E2TDNaaXVLRHhKemM4NEZ5bTFKQ0FzR1JpbXVZZUhPbnEtTU5CV010Yk5jM0syZFVXMWxQd1dXTkhMeXNUWHAxQm5pTFozeXlRM0pCdlFWWnMybEktc1RzZDRuN003VEQyb2hWRUpWZGhDTU9Da3FsOW5ucWIwWVZjLUgza1BM?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T03:02:49+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"ICICIBANK",
-"SBIN"
-],
-"groups": [
-"Banks",
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
