@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T16:48:53+00:00",
+"updated": "2026-10-01T17:01:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8793e1e989b6e983",
+"title": "How Anup Bagchi got the HDFC Bank MD-CEO job: Timeline of developments",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkpYUy1oVkdhRFFSQXBmV3o0UFRmaHhseU1WbXVjeTZuRlpabm95aHZjb0IzX3BLR0VGdnVzY3V4YngybUNjQWVCd2hnZ1FXRHFCekVveGk3bm51MTFDQkpjb3dLX1FMV082bVJTS05lUTdnb0wtTmhZaGdoWWNzc3hya3o1NTlYenIyN0Q4a3YxampjZGRraXh6UHljTlZvcWpGYmhndHkyVUVWRTNLM2Z6SjNKQ255ZDNBQU5HVUZnTTJaOE8wUTR0WdIB0AFBVV95cUxOWmZtX0hmZWlEZC1rQ1BmeHJxcUJXbUY1T0w3d19yeF9IbFI2NTNsODE0cTB3VFkwak9fUHRabUFpMXp6SC1QaHJfendMb3BiaVFpOFFjRlktZGZUM3h1aWNyU1hVMnVlazNlMWx5SGNzQnBmcVhTakZpSWFZZ2xGbFdKdmRSN1hfeGpoVHFnd3AzaVJ2Sm1wTi14eTlIcXJKOUVSNWlKZzVIUGlaNHFOYXlYeDdrVk9yeTJHb0s3ck40QkNwZ1ZpTUhUWXhNYW8x?oc=5",
+"source": "Livemint",
+"published": "2026-10-01T16:52:33+00:00",
+"first_seen": "2026-10-01T17:01:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "68a550382ca563f2",
+"title": "Anup Bagchi: The ICICI veteran chosen by HDFC Bank for the top job- Moneycontrol.com",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWFmNGhYbWJKdkRjR1l2ODdPdXR0QzNWai1aX3FWdzlRQ1dwZHllY2I2cHVMWHZCMGZHV1lnclA5RFEtck9ZRE1yNFpUblFTZW56SzBKUG1aN3F0bDZrbGZjTHVJMUlZdTNsNlhqQTRSQ3pXMEFyVHRjUHZiREQzMXJpY0JVOVkxcG1UZlRyR0xoY3NJUGpRQWtNdjBvTmQ4MDlTcFVZYlVzdUFyUlpNUFp2Z3I2WWxs?oc=5",
+"source": "LinkedIn",
+"published": "2026-10-01T16:49:17+00:00",
+"first_seen": "2026-10-01T17:01:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "d4d3465d18ba758f",
 "title": "Tata Steel receives tribunal approval for subsidiary merger",
@@ -1006,6 +1040,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "30503a6a1faf7329",
+"title": "Kotak Mahindra Bank Limited (NSE: KOTAKBANK) in Focus on Q2 FY27 Growth",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRnJLb0FyR1lWSFJfaDBLTERQeDV1SnZUeDBnM0FJWXpldlNxYjlCRVA4Y1pUczZGWWx5dG1LeGVvcWpkanlYT3Z6VXhzZkVUWF9XVnY3alpTWUhDSzM2TWdVRlRwRXNEMC1VNFpaMVpDTUlVSGNfTHBOU01zaUNEazlxSFVsSEt6TFM5c2ZKTTFzSThvZnhzQ21IYklDVzBxV3JDbjRRVHpfVDI5RjNBbjlwa0N1RU5BSDlyX1E3d0NIR185VnE0OEw2M3ptbEVycUE?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T15:27:00+00:00",
+"first_seen": "2026-10-01T17:01:07+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
 ],
 "sentiment": "neutral"
 },
@@ -13541,6 +13593,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "6fbc2b9f0a5f9f54",
+"title": "Bajaj Auto Ltd (BJAUT) Earnings: September Vehicle Sales Surge by 5.5% with Strong Export Growth",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc3BCaVhtRjNCdGxOeFBIYlJTSHkxbmI0Q1ZrOGxMQmpWUGo3Ty1GQTFZX1Z0RTFVMnpiVUt0Wk5oR1VfOWtvN2c2R0dNNDVxNm9pUWN5cXRvcDJPVUhxdHlJdmVUUFRIUGRFTmNDeHljaUJwWlpHMW9iZ2hWWV9YcUo0TmJUNnJGLWNRTS1GWGNTV3pZTDlwUEpPU0VYMzM5Z2U5TWM3UDJROW00ZGQxdXZZZHR3VDhHb3ltSGVrdFgwajBxdnBFSWZ2UkJINUN0ajJ1dFBkVzBJSm1NOFo2dmVHb0E?oc=5",
+"source": "smartkarma.com",
+"published": "2026-10-01T03:35:04+00:00",
+"first_seen": "2026-10-01T17:01:07+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "4edd8f4a018a71d2",
 "title": "Who is Anup Kumar Saha? From ICICI Bank & Bajaj Finance to Kotak Mahindra Bank MD & CEO - Full details",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmtJVFh1MmhiaV9fWXJ1S1MybkFWWFhBaWJmZndiYXEwTnpaelVCY3FNUHpNdG5MSmdYbXloRDd1c0l3LU1NSUNwSDBud0lhNVJEYVB5MlVXMFJWbEt4OF9PZVBQNHBkMlFGekNaaWY5Z2g4NVRxRW5uMXE2ZFVxc3pvRjNFU3VuLU1DOVRkbnJNbF9CV3ZFaDNWcTlMMEtlRElwaGlGb0pkSmduZ0pWS3hzVXhNWjkzQ2M5d00wZDdnVWhkNi1XcmUzanJMUDNVSmNFLVFPZw?oc=5",
@@ -17070,6 +17140,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4dd702e462066a9e",
+"title": "Second Hand 2016 Maruti Suzuki Baleno Delta 1.2 for sale at Rs. 4,93,000 in Mysore.",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2hoNUJkcnZ5azQzMldjaVdCTENCMjhkTmZEbDlfcDV1clBzQ0wxUWtqd25pZlVsRl9rZ2NsSGc0UkRvWmQyN25xYlhvYnFyaTlVSHI3NmtDZDc0aktmMTRaQWVxYnBiNXRWNG1CWWpBOE5EM0tsa3lJSHpSVnpFSUo0ZVB2dw?oc=5",
+"source": "CarTrade",
+"published": "2026-09-30T17:29:15+00:00",
+"first_seen": "2026-10-01T17:01:07+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50623,92 +50709,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3582db130ee0c125",
-"title": "Is the Strait Of Hormuz open? Iran & Trump's New Warnings; Reliance, ONGC, Other Oil & Gas Stocks In Focus",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVU5QRzd2VGRYblpwX1dEMnVURW9kbTJBT2RYLVk4YllTVVRUTy04MC1zRmJGMVYzTVlpNFdJeEU0bWE3bEt3QW5NczNlQVUyTVFaeWZzRC1jaUp3TVRsanBDSGdXTFl6bk1ITHRmbm1jakZsU3ZuTmtKdURudW82UDE2aF92UndaOEViVmVNYmxFZW9uc3V5cnlFejdlZUFNMnFhTmVaXzd5dFhObURtZVU0SmEtTFVfbTlYRHBQelZZM0E1SmRyRk5fWGxPQVZlOHBNQWk5M2J5UQ?oc=5",
-"source": "goodreturns.in",
-"published": "2026-09-27T18:55:06+00:00",
-"first_seen": "2026-09-27T23:31:53+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "16dbe947d33682f8",
-"title": "Biyani takes on Zudio, HDFC Bank plots a comeback, Chinese AI finds Indian takers, and more",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFlVN0lPenF1dnBCTF93OU9najBmX2hfOXN2UmhiVUlRTHkxTnVBSk5WcUgwSldFQkl6eHdCVHBnbmg1d2tzSEJLOG9FLVcxU3FuTl8ta3ZVNW5sbXdCa0lDb3ZMMzFoWWZHeW5PX1NWQWpMSXhIZVNiZ0VGNmQ5ek1iS25KM2ZtbzJMYmRHZjQ1dFE1N1M1RExsTlN3dk1jQ3k0REpyRS1ocndTZk15azd6US1GY2hJOFN4bmEtVEVSc2dkcWN6dQ?oc=5",
-"source": "The Ken",
-"published": "2026-09-27T18:47:57+00:00",
-"first_seen": "2026-09-27T18:59:09+00:00",
-"symbols": [
-"HDFCBANK",
-"TRENT"
-],
-"groups": [
-"HDFC",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "afed9bb3185204df",
-"title": "3-day bank strike deferred: What happened during union body meet? Will SBI, HDFC Bank now remain open 5 days a week?",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdVVqVjR2Sk44RDJqZUVPamhtX1VzVG92cmc2eU9ORjlyT2g2YjBNNHRJSkRGdVMyV1JjWmUxaUNrR1ZTUXAyaWpsb09sbnZOdENSckZwNFRxclVCYVU2Z3FnY2RHMkpWNHpuN1RVRUpaejFIOHBKNmdvb0FYc2xucS1QN1hJN2k3MExVZHFaZlUwTU84NV83bTNSVGlGX0hhWVhYdWJRZTdUOXk0Nm5zZ2RtM3FXbGFDNzhSZ29sTDNjR28tWFlBVE93WWJIaW12Z3o3eEV4ZHlnV0xpYV83VzZiSkFxb1NQSG5CUkFCdG8xa2hR0gH6AUFVX3lxTE1GVTNoeHM0WTdrVHByR2FKRWlFekYtQ29aWU9RY1VzeHZaczhKRmUzLWk1SExUVEFkUWNaMlQ2Uk5Ddms5cXZEenRfZWZob3l0MW9rX2ZUbEVkcWVyTzVaMFdwXzljT0lPQWRvZE4xUVJGMDhhdDlmSlI1TTAyaFRkWDJxbmNZTnl2VnFiLTBOZk5LSE9uX0JyTGp0WFl5ck44MkxLa0ZEakphZlFiRWdFTmFyZ0E4a0NIMld5WHkxZkNqWlNqQ28xR0RGamRNdTRDejFNNjQ5UnFPOWRGbGZQam4weHgwVEt5QjNUM2RwbUphSFhUbE1tY3c?oc=5",
-"source": "Livemint",
-"published": "2026-09-27T18:41:55+00:00",
-"first_seen": "2026-09-27T18:47:27+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "befdb9dd4be77344",
-"title": "Over 45,000 participate in 13th edition of Wipro Bengaluru Marathon",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1I4WC1hc3g2QWpTc2NreWdnVG1LNnRrX1k1T3dRd05lNV9UTndOTWVhcFNVTDBOWnpvd2tzc1F6S3ZyeGtxS1hUMi1wUmhZR3k5ZlF3dWlsNF9uOGZqRGdlckEzc19nbkpJZGR5UEFOcXBjY1lmYXJ1MVBFVmFHN0JvZHhUbWRFZWoyMXo0ME5wWXJuMjY3Y29HZmVhaF8tWWNNTDQ5OWRCMlZjdXJyM0lVaWtVcDF4N1pHM2lqXzlIem9UQTJlUVdXX0dDbGxa0gHXAUFVX3lxTFBpaTl1YzlWU0ZWd0hMSTFSM0dBN285SWh0VlVUZFVybHZxeUNETEhleWc2eG5TMmN3ODR3WGotck9EZk1MRU9ycTRBLVZuaVhkYjVfWTZCNkZ2aExna2o4R2NHM014WnA1Nkl5R1ByNDM1TzBDV3R0MHlpRjJKTHMzU2RSY1EwR1p5bGZSRS1FY19xLW13Rll6eHlIUlJSM2dNLXBvSW40LXhpRFZoZENJb1ZsNGtVV0tOdElZb0pFWDdtYmZ6RVVZdFZGTkpGSnBCNExzdndB?oc=5",
-"source": "The Hindu",
-"published": "2026-09-27T18:30:37+00:00",
-"first_seen": "2026-09-27T18:47:27+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2e5ad513c17ba485",
-"title": "3-day bank strike deferred after bank union body meet: Will SBI, HDFC Bank remain open on Monday, 28 September?",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQR1ZGWjFnSjA2NEsteHNtYlBIRnpESnhvM19nT0pwTlVialpUR3BzajVzUGtaZ0NxdVFtRXEtSFc5V3NZM3NmaTlZZDJvVWxmQ0loOF95RlMwS1FwTElHOVlQNm9NTGhqLUI4V0lrQW1lMENIZlNvMVdlU2JnUF93ZVpUVUotRDNuLUtOU0JocHdSdE1OOGNaZEgwcElxbU1idVdIdzRCVktRUTEwXzdHVDhfb0VWZTJEU3RGS2hBdkFvOVlmOGNGSXZyT3pfTkEtQnBTRW1ZUVQzM1FWX2xVVGtoMUhxMy1uR3dWTVJ5TlFmTHBzZUdKNmowWTlXdUt5SG94Z9IBigJBVV95cUxQMGVmSXFTZGE2bWhna1NNVm14WXlEZlV3UkY4MUhweDhpZ1V2SjhuTGZFVUEyWlJrSmZkMHpMdFFjNXNtT2hxZGVuWWlfcEF0dmU1ZHNKU3gtdjlTRUp2OWktVF9odDI0MW15d2xfNnB6ekJuTGVRdV8zcWhTLTBnSXdFaXNoZlF5TmxQTFZ5ajRVUi1kejV3bUxUOW5YZWZTakx0UFdnUTBia0JGM1NVVjhKLTNfX1FBdFFiSmJmVENCQlppejlja1duQ2VkNGtqUWxQTmdkT0FHUDQ0dGU3TUZidEM5aVR1Y29FRk5tUHNaNWxNZDJQaXM1QjBEZFExTWttVHJxSHdidw?oc=5",
-"source": "Livemint",
-"published": "2026-09-27T18:23:36+00:00",
-"first_seen": "2026-09-27T18:47:27+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
