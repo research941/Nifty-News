@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T20:37:56+00:00",
+"updated": "2026-10-01T20:57:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -463,6 +463,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "dcbe452de619d87d",
+"title": "HDFC Bank, Kotak Mahindra Bank put two Anups atop banking’s big succession puzzle",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObGxNS3VYZjJDUlFKRXhlZF9FMmpvZFl2akV6cmlnMk9idXczZEhGT3lJN09ET0k1MHROQmktVlVkWXRBQzdTckRDNTlwQkd6c3lHSFZKMkdrVHJXYjFJbmk0eXdXTXRDTmFHTWFKUURyZEg3QkNqZTdjUGI0VUV6SHlWWk5QSW1Pb3ozSm96ZEZTbDlIUHZkRUlvNm9tOVZ0dldJdEdsMUw0STRmTk9VQm1zd1V1bHhSQjN2cGd4T0lKLUt4eEpmR3NSWjZzS2d2YTVOTGRBeWlFaGtFQ3k2LW9ubG11dEd0bXd2Z2VMY0tDQXFSV3FULXdB0gH_AUFVX3lxTE0tOFpVSjBOXy01eDN6dllza3BkeVFBczFpbi1CVjhWNDlxTkQ2VUEyVnJiV3pqTWJJb3lXUG9YeTRYQk9pLTJzRWZtZ1ZibzRMNUVzX1RUcHJNVlR4SFVBWTVQTWcxbjdydzJVY0JtR2QxM1dWU3gwUFZZeEJXOGZPTDlkNWRMVnNXRzNuTS1xNlVJOEV3SldrUmtGSDdIMVlMbXBPVzA4UklzTjQ1YlJvdjFUOFZvVTk2c3ZMRUd5T1B4WHJhOUlQZEt2R19xYVJGS01iSkZ2V1Ixck16bl9Ta0RKUlNSVFlCbzREOHEyaGRSR1VqWUhSakhfbU10VQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T20:28:27+00:00",
+"first_seen": "2026-10-01T20:57:31+00:00",
+"symbols": [
+"HDFCBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e74792908f8d3408",
 "title": "Bajaj Finance Board Clears Rs. 17,500 Crore Capital-Raising Plan",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1lWR3VpZG9XbmxXUHMyNUswSWpXa2ctZm1QcUlVUV93ZDlDX25ibkhOOXg5cjJqZWRNQk5GWEVOeEZsN2xLWW5rMHY0aUxmODBSVG1aZEJUOWtDOW51VEFOTFowQXVfWlJGVlF3SGNtV0U0TGU1RUV6QjUyY3o1ZzNwcTQtd3Yxa3Z5WVpyTzVueHdFQ0lwVXl4OXEtdzFYSkFDVktlbEpxY3ZNemhUa2l1V2Q?oc=5",
@@ -532,6 +550,23 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "eff01eb8cd0caa80",
+"title": "Bajaj Finserv to Pump Up to Rs 5,800 Crore into Bajaj Finance via Warrants",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlY3c09EQXZwZXVRQTBsQW8xVlFKZ0psakZmRGl4MzdjLWJaMWVkOURSUlR4a29kVGcxV2txV29UMVFaNGhJQ2YzcWNMUGpiZmgtbmJmLXJKZ1o2SU5nOHZSX1VNLVRaMUdWd1FDcWZhTUU2aTNrRE5TTHpMeEtsYjhacmF1bDR5WFhZNi1xSXdmeDFtVVl1VTFrV2J5enNObjVvNVZiMGlTX3V0ODZiYXFBQlJRZWhnZDQ0LTJvcFYxR00?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T20:26:23+00:00",
+"first_seen": "2026-10-01T20:57:31+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3c18d3c91d46fc2a",
@@ -818,6 +853,22 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c5fa9ffbeb1d94a8",
+"title": "ITC employee, pillion rider die as water tanker rams into bike in Gurgaon",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNkVScU03a21YYW5oWDgyTWlkQm1falRPN0w1d1h4VHhLWFhBblBaSjVOOWVmUzhEeG1iRzI2Ni01VEZ5U01TRmsxcnU5S2tSY3N0MzJlN29iOUVEcmk0bnBnR2VVTXNwU0cxRDZDcXFjUm05dnRNajZabG5Bb3Ita1p3b05qSEJRVzk2WjUzRFdfREN0VkZqUnJfU2lDeU9FSHIxNVJWS1pGci03UVh2TlBnOUJCN0ViblhMZVVZQmVsaE5yODh4Q0Rjems0N1BkT3dqVEhra050TzJUb2txal8wY241d9IB5gFBVV95cUxNNkVScU03a21YYW5oWDgyTWlkQm1falRPN0w1d1h4VHhLWFhBblBaSjVOOWVmUzhEeG1iRzI2Ni01VEZ5U01TRmsxcnU5S2tSY3N0MzJlN29iOUVEcmk0bnBnR2VVTXNwU0cxRDZDcXFjUm05dnRNajZabG5Bb3Ita1p3b05qSEJRVzk2WjUzRFdfREN0VkZqUnJfU2lDeU9FSHIxNVJWS1pGci03UVh2TlBnOUJCN0ViblhMZVVZQmVsaE5yODh4Q0Rjems0N1BkT3dqVEhra050TzJUb2txal8wY241dw?oc=5",
+"source": "The Times of India",
+"published": "2026-10-01T18:06:00+00:00",
+"first_seen": "2026-10-01T20:57:31+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2061,6 +2112,25 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "84c1a55be0ce9749",
+"title": "HDFC Bank shares rise as RBI approves Anup Bagchi as new CEO",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0RiUU0ySGVkSnlNWjFETUZ5RWRjUy1Vdk1SdFJrcDJEN0s2VnBZaER0ZWp6bjlja0pBVWxIX25rSDA1MWRtTy1zSWVxcXdtYnFSNGNNWGFnZ3BpdGUyMExfbDZ6LTZ4UkdOQnp2ZG42QWRhSE9MYnhaWHIwOU8xa0M0UUVZdnhBcVBRYnhac2t1UjVsd1lwSGpxaWdyZjBBaU1uMEV0Nkh4UQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T15:25:58+00:00",
+"first_seen": "2026-10-01T20:57:31+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "positive"
 },
 {
 "id": "350e7a5ee44b4282",
@@ -11337,6 +11407,25 @@
 "source": "ET Edge Insights",
 "published": "2026-10-01T06:36:00+00:00",
 "first_seen": "2026-10-01T10:51:51+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bbe574aa1d4b62fc",
+"title": "Kotak Mahindra Bank appoints Anup Kumar Saha as MD & CEO after RBI nod",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVVVQUpzT0FPZlo1OEExR2hybFNMYXZvd3pHZmZ1SThaRDZLRGhQUmMxOUphNnJFa29qaWc5X014bWN6X0cyZTU4YzYxSHNOV0M1UG45aGdUN0lYczhmTnpvRGhfVnFzQ0Q0bl9WTFdNNVpGdlVzQjNvUDFrdzBYX1Y4bjlQRDFXZm9lczBGQnlWSjRjMGNkSS1nVFFJaWJfUVZKUG9IdXFsdFdS?oc=5",
+"source": "ET Edge Insights",
+"published": "2026-10-01T06:36:00+00:00",
+"first_seen": "2026-10-01T20:57:31+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -50674,88 +50763,6 @@
 ],
 "groups": [
 "FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "af18ef841cf8ab4c",
-"title": "Nestle India Share Price Live Updates: Nestle India Price and Returns Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:07+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a7f6184f8a862cb0",
-"title": "Nestle India Share Price Highlights: Nestle India Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:07+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a025bae7bf00c20f",
-"title": "L&T Finance shares may rise 34% as Citi maintains Buy at ₹380",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTDIwWTN3ZktpT2VwY2pNazIwR205YVJqYThGX2tnVjVic0FtcllkYlhTVl9OUlBhMXZiSjROSUhXdVNxby0xTUpqTDhsLWcydHNYQXFCR1pnNkZ3Y0huS0lHSy1EYjMySFJTUmJ1eWRvNjZqakc2Vmpyd3FNc2dRdExObWxDZjNfWFZIZWFhRjNGdjFNVzc5aDAwSTZSZnp2aGVsVlYzbFBDZHAyM2tJMEdVRnI3UHFvclVZUThFSTk0OUFSTktfZFBrcXR1MHY3?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T02:55:28+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "476bd61cc2840a3b",
-"title": "SBI Life Share Price Live Updates: SBI Life Breaks Above 20-Day EMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530450.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:55:19+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "984195e58872c041",
-"title": "SBI Life Share Price Live Updates: SBI Life's Daily Performance Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530450.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:55:19+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
