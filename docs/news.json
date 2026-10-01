@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T19:20:11+00:00",
+"updated": "2026-10-01T19:34:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -535,6 +535,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "c27e5447f54e646b",
+"title": "Rs 30 lakh. No equity dilution. Last few days to apply for Kotak BizLabs Season 3. Kotak Mahindra Bank, in partnership with T-Hub and other incubators, has launched Season 3 of Kotak BizLabs — offering selected startups up to Rs 30 lakh in grant funding, wi",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBELXRSakR5V1ZsT1ZVa0UxVlVWY1hIU2pyUXdiWjNCM0pIeGZIUjFtXzhITFJCb1YxLVFGODRoRUxrY3lldEM5TUw1aF91c2tMWEtFNEdR?oc=5",
+"source": "instagram.com",
+"published": "2026-10-01T18:19:09+00:00",
+"first_seen": "2026-10-01T19:34:59+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "25bb85ab2bd8af17",
 "title": "Bajaj Finserv approves ₹5,800 crore investment in Bajaj Finance through convertible warrants",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkhMSS1DNkxmOEFuVkhnRVFFa0lhZGw4MmdoYzh2NmU3aEFnVU1FemlwRVRScEl4TmhTWnhXb3oxcDNSYXJDX0I0TmYtZElaWjZSaFllYnk3aHhkU2w1VER1djE5UFRIcG9HVzJzcE50aGZNV3FvWVJtRXkxVGZFT3AtVXVOcUVHaFJaWl80Ny1FLV9pZDlvM0lYZXFzeF9saFRuZ3BYbmdCYVZ4UmxPa3E1VnhnZGItTm1QYS1oUFdHd1p0QWljN0tCZjI0bEU?oc=5",
@@ -737,6 +755,28 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f96a40507c13688b",
+"title": "Nifty extends slide to eighth straight week, longest in 25 years; TMPV, Maruti, M&M, Jio Financial among top drags - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHhmU01JLVlBZUhwNEtlcXd2bk44YkNWaTVOTFk4eGdGMkl1eS1LRFVFcFJqc0I4MENQa0FfMXY3dnIxS1UzYVZZblA3bEdsS1F0aWM2WHByTEVLMHJ1WWdjX1lNVUFhMnEyaUVuNFAyQkxYYmJuT2VXNUtTMkJiTkgybjZzemJkamx0ZERGTU4tMHlpMTdscnM0NGs0MjdITDFCRWtPVmZNNXBlQ0V1cXhFWVctNkVmTzBFb3dWZTFZTHYwWi10TWppWXFwWVd0TWpNNXUyMUd2ZkF1OFRJUHNLU2FFUUxNejZmeVJ1TQ?oc=5",
+"source": "IndiaIPO",
+"published": "2026-10-01T17:49:50+00:00",
+"first_seen": "2026-10-01T19:34:59+00:00",
+"symbols": [
+"JIOFIN",
+"M&M",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Mahindra",
+"Reliance",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "c3d08b21b6355bca",
@@ -7759,6 +7799,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4a884cd043880171",
+"title": "Bajaj Finance Share Price Declines: What the Numbers Show",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBERUVRZHZOOXYwdHhKMzQzWndFc196MEkwZS1WYk9nQVpXVGNNMEJQZXhCSXZXRnlaWFNoLWNaZFBubnU5ZkljSnpidG9MQlB5Z0xOQ1VIR0xRVHdMRVkzZGdjZjY0MUt0WEdJZExiRGd5Vl9rZHZQQkZR?oc=5",
+"source": "Univest",
+"published": "2026-10-01T08:59:00+00:00",
+"first_seen": "2026-10-01T19:34:59+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "13cdad3b691ef47d",
 "title": "Tata Motors Reports 15% Sales Growth in Sept 26, Significant Shift Towards EVs and CNG",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWtxTjNJXzIwczFKbEZrTWZjeFg4a1dCVUhDMHJlUDF0d1lCZmN4WnFqVXhuVFY0OXdFZ3hiRURuU3BzazdGZVN5TW5ySEVMRDdJVFZRdnhxYkRoMXpndHI5RXJyaFR6ZXBhNW1saWVNRVl0dVBKaWhQcWxkV3J0ODFDZWd4RXdqa3RqeWdZbGFBSFVpVkgzVkdjVVQ3emRPODliXzRPdU5EUE1NX1VnbEZ3?oc=5",
@@ -7825,6 +7881,22 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "080c877fcb6599fb",
+"title": "Larsen & Toubro Share Price Falls 2.03% Today",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBna3cxdVU2QlJtc3BDVXp5VzNKVmxGUjZ6TXM2RjByM0wxbFBBQmZxTlY3cG1FcGlzTlhhbU5LWWpXeDZjcjlrdUpwSWIyRUFhMXhNQlpORHRacEhJZHBYbkFtSHdVQUYzdjhhcHNFZllTRUlsOV94VlZKTEExMHM?oc=5",
+"source": "Univest",
+"published": "2026-10-01T08:56:00+00:00",
+"first_seen": "2026-10-01T19:34:59+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "b901c0356191be4a",
@@ -50664,70 +50736,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8af3b4716f285002",
-"title": "Axis Bank to increase campus hiring to 12,500 as workforce shrinks by over 3,100",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUpaM3VvUXJZeEgxOU1Bc2U2dmtJSHZseVdsME56RnhYMEtYT1JUcFE3a2pYMUFFa3Y2THl0d2RESFZnSUF2bEZFYXBXQkFhZmluV3JxN2s5am1xUnlVR29ob2UybjJQWmZhQVU5aW9WQS0zaEVyaWt3WjFHcC1vWWtlcWpqLW5jWkZBN3RENjQ4U24wYllPdHpWa0FUNzYwUE96cTlvQmVEdmxXaE4wMmc1cExzVTZPX1RQenZpc1c1MWg2T0tYVUF2RzU0a1A1SW5zUTNGVmhSUzJl?oc=5",
-"source": "People Matters - HR News",
-"published": "2026-09-28T02:44:10+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d9aeba6230b4cb36",
-"title": "Maruti Suzuki to Boost SUV Lineup with Next-Gen Direct-Injection Turbo Engine",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3RLNFQ3LUszMElyUUZmZmt1OU5Ob2VRci1BbF9GdzVjWERVZkhQcXBsWlhMdVVaSVA4NzhueGdOYzVhQ0Z5SlRQMm5xUm92ZlJBRTIzczNBRllOUHZaNUJDYW5IS1cxRkd1eVNENW0zTXJ0Q0JQRFJiUmhFdGxibnptLWJPWjZiOGNickxDb18taF90MGtrMDZoMU5yNG9hemlsSXlPaEU5UQ?oc=5",
-"source": "Car Lelo",
-"published": "2026-09-28T02:43:04+00:00",
-"first_seen": "2026-09-28T02:47:07+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7921162afb623d48",
-"title": "Axis Bank Share Price Live Updates: Axis Bank Faces a Small Drop in Market Value",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-28-sep-2026/liveblog/134530264.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:41:45+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4c78d82070d41a91",
-"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Faces Weekly Setback",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-28-sep-2026/liveblog/134530255.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:41:29+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
