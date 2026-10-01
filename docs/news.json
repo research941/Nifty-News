@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T19:34:59+00:00",
+"updated": "2026-10-01T19:47:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "7f1ee129bafa411a",
+"title": "Rahul Gandhi asks who ordered TCS to change Form 6, whether firm was pressured",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjdnNzNGNERfc3J1YktSb1pCZmdLNlVfNU1lVmllV3NXM1JVYTcwQWFVWFA1ZGxyc0xfLWZ3dGFNRVNPV1o4enpYTDdBajdQa3FlNEk1QnEzN1JacV9tSzVDdTBOTEswakZKV3FkRnR3b18zUTFtb2VBOW1oeExlLUFYcC1Hbkctc01pUzZBY09DSjlCaWdibnQ1UFBYQm9jYmpVejI5UG5Va0RmdnhyenZuSzJMTlpYeG9oYjFhbXJLU2hTcGFzTjZEcHFEemc3X0lXSy1pZFJpdlhuMnFCcUtiODRIX1ZVdFlScl9aTWxsYTBPYlZvcg?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T19:31:21+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "19706ff384c54513",
+"title": "TCS to take over Best Buy's India GCC under multiyear deal",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejQzNzBvWEJqS1kzNHhtYkUwUU9pMzAzRXFJemhrOXhEUWVDcHByZVVDaXVaNlplaHZwRUlNMkstMFIzblhYS0VtZUl5b2xVazNUS2Q0S1RxQnBUcV9WMmdZWkdadVZ5UE9iQlY1bHZNQVc1WW1JN0xQSFdBcjVsN1ZndjhzdU84REZ6YUhhdmxxSXRiblQ0VDNrS3pXeU5UUlEtcEN4a3o3a0hvYWtoRjZuaDNmdEptT1VxZ3l5TkotdlVsaXBicm1PTdIBxAFBVV95cUxNQWxGcmwzT1ZhN25yR1ctTVo3bnphUjNZelRMdVo1VDBNMEVuc2dSaGFHXzRFbWxyX0tGRGRTa1JHUG5rREc4U1BHS3JvaGJHTWFVbWF4VG9SNnFJU0lXUEZhMXlZNG1lbHVBZjRHZFluWWVNbDVVYXdzMDNJQk5rNzJIMW50c2U2S1NqOWd0eThHZkZNRnpncFQycUlfV3dXNDNLVG1TM0piQW1ST1RoblFLaHhjNjJBa0duMFFlMzVWUzZG?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T19:24:43+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4542c8855abae87d",
 "title": "Kotak Mahindra Bank to elevate Saha as MD & CEO from next year",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9WNkIzMUtjY3podG43eGlMMWZSSkt2Z1dZSVpGM1NKenA2bmkydUVxeUtTWUJPNVl3aklTNWwtY3YwOTNfUzJ1c054eEt2WVRYWDlvLTFEcHplYnpWeElKVHdmMEhqUEdKWk56SmZGSEdrX3R4R2R6S1NNQzlyVEZCLTNzcEw1aW4xTjFneEE3Qy1OUGVpM0R2RnVsUDdwZU1iSWVjRllwd9IBrwFBVV95cUxOUElrOU5PZ1pJeU9pS3A4Y01La3pvQ2RSR2VFYlF1VXk2bFBkdml4RVlGTk5RZjBKXzlWX0E5WkVtQWRDdTNBeC1FSkRDaEppcDlqUlBOMm9mdDN6eHVIcGFvOUtlTHZaY05vUmdVakRITmVSNjhsVFZTSTJHZXptajB0UUpSLXY5TFc3dlBIWlVLMFNjSDJxcHFuOWUwY2lJTnFuNzFwWlNqTFBiRHpJ?oc=5",
@@ -674,6 +708,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "db466f4103baa198",
+"title": "Four deny murder of man stabbed on Stoke-on-Trent street",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUUFCSXU2UXZRdVBiMDdoN3F0ODlpTzhNUmw2N1N5UDFJZ1ZBVy0zNkdKS1ZJZnhES3hLUzZVaXBHbHlMcEdhUm9jaEUwalRpXzQxVzNrb2FHRWc?oc=5",
+"source": "bbc.com",
+"published": "2026-10-01T17:59:55+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -914,6 +964,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "193bb90140e67408",
+"title": "HDFC Bank appoints Anup Bagchi as MD and CEO for three-year term",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXY0ZTNRUXJZOUVIRGR4ZTNVdi1OR2NnQmlwQjFVUkV2eldEYmpQZFo1WkUyWEo0ekF2U2k3eTd3ZFBaTldrb2p3dGVWbmZOdW4tYlFUTVJwbmxnTE9GU2JySUFpaU80OXBPRWY2c0kyU09tOF9NTUtPdG0yTWRfc3hNNUtXX2RlMlhfeFdlalF1YkdQT1lvcXpNTms?oc=5",
+"source": "Bodhi Wire",
+"published": "2026-10-01T17:00:05+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "0c92e76cb0074ebc",
@@ -1198,6 +1266,25 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "cec4f4604469d1a5",
+"title": "Jio Financial Services and Allianz Inject Rs 640 Crore into Insurance JV via Rights Issue",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wajdWdEVOOVZFWkVsLUlBMUZuUGRQQUdfSTZfRkQ1ejRBNHU2NmJIaTFNQlM4OVBCMkgzMkZkMnpPcXhDb202NEtaam9CVW5BMEpLb2g4dEFSdS1UZzgw?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-01T16:22:28+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -2339,6 +2426,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "554b69f3c51f0e45",
+"title": "Infosys announces strategic collaboration with Columbia University to enhance AI research",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdk4zbWRLaG4xTU5QcGhGZDhYX0Vpc25hcG5iY1RkMW9EeFIzREtpeGQzbkxFWFVFVUs3QkpvV0FGakZXUVVNd0JKUWpiOVdRTnZ2eGstbjBqa3hqSkVJdlhxTmFLTnFUd3JxQVZ2N2RIbG9NbGkwMDgxU0VLdmRvaFNBWWFaSkxrRUFMSkpVYU5KUkh2WUs4X1JDVEE2TUZHbDdsZGtSM1ViRERWTG96WFRITFIzNnd0c1M3SWh6aVpZLU1m?oc=5",
+"source": "businessupturn.com",
+"published": "2026-10-01T14:19:03+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5745,6 +5848,22 @@
 "sentiment": "positive"
 },
 {
+"id": "3f3394828f2ef9e7",
+"title": "Axis Bank falls Thursday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFQ0d1I3RkE0ZWxTdkZ0Q1NVRGlmNjlEekRodG9CSUdvMFNHNl96MktlVXU5RHBsQ0pwUXJfVVItUmFNTmRLejVySF9pSzN2SnNmUXZma1BTMGcyTmNkNGF1WU9paXFoeW1NMVVFRXkzcF9saFZobm9Xd1J4Xy1OYXV2OTVESHF1WldYdVVNcXQ2QzRjb3B2YjZEdm9MQkFrSHNuakZYMHIwQXdKbDVHV1hxSTZvRTFZZXExMUNNUFRQV3R2X1pV?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-01T10:33:00+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "afa4b0bfa7d8444c",
 "title": "Hindustan Unilever slips Thursday, underperforms market",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTnNYRUU3d1UtLUJlMVo2bHcxdEQzU2prMGs4ZTNZZ1c1elduc0J5bnVJSktjZXVpRDlTQlJuMFVSSDNxUVUwTWt0TlhNbnpHaExHb3FqaFh0QzFabnVSNnRzVHpuVkloTlNwZmxlOGZyNWl2ZmhyOG5qN0xGeFIzSnMxTWtsUDJWOWY5bmdwSnM4ZjlEWFhFdUlCVHlGblZPMkY0bVFuZ2RjUi1PMW03NE9HdzZmMWFsWU1zYTZYUHRYb3FVbFpzNk1jRlQ?oc=5",
@@ -8212,6 +8331,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "9cdb4f6464fa2501",
+"title": "Power Grid Corporation Of India (POWERGRID) Share Price Falls 2.25% Today",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLTNVLXFaeC1lRVJuU21sX1pOY3hZcW92NVdNbU1kcjluMWtMbkNUUUdtelpPU1JsZUdFWXh0bG5KOXEyNFRwZVpCcmRvYm1qdDAtUnlqMWlTbGU3MnNXQjRXRURsSHcyOF9vSUVuQ2lnU1JOSGFaMG5zQ3dGdmx6aGc1R1QybU5Ibk9fZ0VDQUEzUQ?oc=5",
+"source": "Univest",
+"published": "2026-10-01T08:44:00+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "c4fe36d4a9de9c17",
@@ -10834,6 +10969,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bba8888ac6a7a016",
+"title": "Trade Idea of The Day - Coal India Ltd Target Rs.15 - Religare Broking Ltd",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRV9zWUxvU3JTX1Y4SURSOVlVbHdGaG1EdlgyWVE4Ujl4dzA2N2kyeXhQTkMtNEF2cGUtaUNGd3dDb1AxbHgyQ1JuVVZieW9nRFFuMEVDam84WFB2TjltQmVxWENaYUZJTl83NDdGQjJBODlkUm95RVdrdU1hNzlESHJuZU1MQTVTV01paUNxOHIzRnl1QUpnOU8wTmVDdXNBM0xnR2trTXNtTUgycDQtbzJMSWxKQUVDSVo1ejN5bHE?oc=5",
+"source": "Investment Guru India",
+"published": "2026-10-01T06:43:59+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8ae8213c5ecbbdd4",
 "title": "SBI Chennai Local Head Office Achieves IGBC Near Net Zero Energy Certification, Setting a New Benchmark for Sustainable Financial Infrastructure",
 "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbjBzamU0UmZRTnV1Sm96TU9hTjJudndxV1JfV29fdWZEbnkxR1p0eWpSZDVrdnc2cDBib0Zrd3lLa29kMzdfWlB3dy0xaTFaMmd0ZENlTmFXTnRyQ3A1Q19hVzRZSlpsSDVyNXJtZ25yV0h3TGdrOWliRWRRRkRJN1JLZkVmTVNoRW1MNXRuUEpSa2F2Qk5sSy01c00xTG9GLVhvcm5yYk5QSUxhMFBFUnJsdDN3ZUN1YWxDV1hvdDcweDFLcVdhWlZSVENnMnByZm1HNHhZX1lLSy02M0J0Ri1vRkpwNmpmVFlTRG9DMjlZMHhNek1tMHgtdktfN0JC?oc=5",
@@ -12739,6 +12890,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c69e05fc56b712ef",
+"title": "Second Hand 2016 Maruti Suzuki Alto 800 VXi for sale at Rs. 2,11,140 in Lucknow.",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS09LS3BzTlN6Ymp3U1BKMkhEcC0zcXhjRkg0OVdLNEwzazVIdnltNjlrSjctN3huV3poNktyOFdIc3YzVVNUckVNV3VPRkRhMzZWaG1qTkYxa1pXWFRpX2g1eFpNcTIzeTJlZGhQZFF4TDFzNWl0MnB6bDJUVnV4QVZJaVRhY2RsOEE?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T05:01:50+00:00",
+"first_seen": "2026-10-01T19:47:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50578,166 +50745,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "12c3b400bb822e31",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Faces Market Pressure",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530372.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:49:23+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c97288e5f28daa00",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530372.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:49:23+00:00",
-"first_seen": "2026-09-28T07:20:22+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9a0291dbbf97e653",
-"title": "Jio Financial Services Share Price Live Updates: Current Price of Jio Financial Services Drops",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530372.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:49:23+00:00",
-"first_seen": "2026-09-28T09:57:05+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "767be3325d996e50",
-"title": "Power Grid Share Price Live Updates: Power Grid dips below its 20-day Exponential Moving Average",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-28-sep-2026/liveblog/134530368.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:49:04+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "752938c2975565ca",
-"title": "Power Grid Share Price Live Updates: Power Grid's Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-28-sep-2026/liveblog/134530368.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:49:04+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6d64e84ba7b007a5",
-"title": "Power Grid Share Price Live Updates: Power Grid's Current Market Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-28-sep-2026/liveblog/134530368.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:49:04+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f75e2a9db97583f2",
-"title": "L&T Share Price Live Updates: L&T Experiences a Drop in Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530335.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:47:57+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "e998a9c2d8b0f206",
-"title": "NTPC Share Price Live Updates: NTPC's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-28-sep-2026/liveblog/134530330.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:47:42+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d8c7c3aaae362147",
-"title": "RIL Share Price Live Updates: RIL Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-28-sep-2026/liveblog/134530332.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:47:42+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8ee24b10768b7219",
-"title": "NTPC Share Price Live Updates: NTPC's Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-28-sep-2026/liveblog/134530330.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:47:42+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
