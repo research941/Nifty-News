@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T02:48:58+00:00",
+"updated": "2026-10-01T02:59:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,99 @@
 ],
 "items": [
 {
+"id": "a385221572c07e86",
+"title": "India's Kotak Mahindra Bank names Anup Kumar Saha as next CEO",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFA1bU8tZjJkNnEzTjVrN0R5TV9MaUF3dEtnZTZEYkp6bE9XU3RtY19sODdnN1kwbWZsUEtRZmNON19CQTFadFl3UHpvU3plQUtJRTdfbEVmWk85ME1oX29PWFRDWXdKUjlCNURQM2hyMTkzZnN3NktSN1lxVkszaG5zd1R6N3AxYnpoZjI4QlZUYS02TjNqQ182SFNvVGotVTJ0MkVmenBVcUtySGprMUZfbDY?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-01T02:52:13+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4743cff1b60191b2",
+"title": "RBI approves Anup Kumar Saha as Kotak Mahindra Bank MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnFlaENfSFJORk9uNGtISTBNc0RLcWFhTGlKYnNhcEJzWVFrQi1jNHpaamg3RXUyUWRndzEtVXMtZWNhWWl6NG5oanNvb2h5VUhEQTNlcUQxbkFjOWlIaVJsbW5Vd1BXTVhmdEVtSHBUOURKMDMwUlNQX3RMc2VDT1o5Mmw1aFZyN1F5U0ZTNnY2WmR2ZXVHZG9YbWd5WHg0LUprTGR2QTl4Q1lnTDA0elVR?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T02:49:05+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "817829060a01246a",
+"title": "Kotak Mahindra Bank appoints Anup Kumar Saha as new MD and CEO",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWVNQ0kyNktZTGU5dk9pS1NNOFgtNld1VlpwV09tanFTVFdVRWNlNEE0WTRiX1NibC1nUjNqOVFZc2R4Z0k4OWpEZ2VfU3Zhdk1qajZBTl81ZXB2c2VpLTl3bTRXYVhtdV90aVBmNmJHUm5BN3ZuZHl3YkNoTWxEMEJ1UHRjVXRSNWNBd2l2bzlmdTk0LVd2SFJtdjhXekpocHA2ODVQZHNuWEdlX3lpOENkVzJCWTB1ZXAtMmEzZ3J2X294RzlVNmJpaUZxQUlaMnVudmtody1hUEgyNkg0d1Ztc9IB6AFBVV95cUxPZHludDRneUpzZmhxdEYxVGd5R18tOHU5OXlfTHExZXJfM1VCVTVxRWlFeWw5Z2NSWW5IUnJsaE1XcVRwc0lYeXNVYXhoczlfRXpyYzhyVmkxOXpfOUJ2d3pvOUR0QUxXWXJGWktLQ2tVR0REX3Q5bzliUElwUkV5cU1tdnA2RElxM0U0M3h1V2tISFpQNHhRakpKblZYcU96aUFRcm9rU2diTmNOdnROamVFdUtmZTZjeUJUWDE4SWtZalZkbU5oYlVKNE5WZ09PRXpyeXNjMGJXbEI0N3lISGlHbVRuV01V?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T02:48:49+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e3a5d9cec19f9b12",
+"title": "Stocks to watch: RIL, NSE, HDFC Bank, IRFC, Infosys, Cupid, Blue Dart, OMCs",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRkJWcmRzYUZMUUp2a2FscFhZRmhXejhiMGJQNFB5dDNGaUhJb3V1MUJZTXNrNUZrZ0xrWmpKRmRXV2tTVzZ4N1FkeUhkSHpDLW1INnptR1ZTYXB2VlVDN3FTMHg2U0xBVC1DNVp1emVFTzJUWlJGYVU4ZmlxYmxfR3dTem1xREdIcDFkREwzSVlLcXRsNUtMajJhbGV2ajZBdGxrdTVsVGdpaWlrVllRRndoRHN3eWZ4N1o4WS1PNkVFcnA3di1XNDl3c191OEnSAdQBQVVfeXFMTktQazF5ZDQxTE1YbEtKOXNvbDBxSTAybElWMUJKaG1mUmVTcHk1OWhQenVpTFBlZUpqUWRxSkhJSDNreVZiem81aVpaWmYtaVlfZnpRRk5IZ3V3Q0tHVkxpR2lMalc1MFdMMzkxSkZHWlIzRUhUSEU3Yk5GUkJPZlpBYXhDalctQmhJYl82MFQ5R3BiWk9vS0xhZGREVWhrWUxHVDh1V2Y3ZnBSSW5uWE54MTVoN1NtYXNZZUdKbUdEYkZMMTVPcTdPTVhoMTJiZHMyS1Q?oc=5",
+"source": "Business Standard",
+"published": "2026-10-01T02:45:36+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY",
+"RELIANCE"
+],
+"groups": [
+"HDFC",
+"IT",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fbe01886e3fee142",
+"title": "India's Kotak Mahindra Bank appoints Anup Kumar Saha as CEO",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjZHOEtFcDM4MzRsUlVrajJPbF9pMnlKUWt4eC1QUHhFcElFOElUVWVXZHJTa2tsQmlsazNuRUcwSnZzWHNYR09KVEVGdVNWYnlUZVA3eXAzcHM2VWl4Q1hWYzN2UmlEd0pNSFE5TnRRYy1UWVB4OEVwNUVmY2VjUDJaYnB6aWR3cnM0bHdOb1BFWHc4Zk93ZlBlenBma180MUM2a3BB?oc=5",
+"source": "Reuters",
+"published": "2026-10-01T02:44:00+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e745c7af81d9a2ba",
 "title": "Kotak Mahindra Bank gets RBI approval to appoint Anup Kumar Saha as MD and CEO",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVk41WXBCMUZGRUVsRDlEUTlOdDdvQUNaVmQzRHV0MDc2eUpCTzNoZzJqX05rSEVhOGM0c2F0N09qZ2xqTEkzczFlUzFicFdpOEdteGEyOHVOUzBTY0JPRjloQzBwTDJHTVhCYWpUOHkybHRuRkU3M1QyeE12T3NaWWFDWHp2cWdNSFZXaW5rVHpHQlNsamtqV3Qzdl9qZExYT0ZNamVPV2sydGN2aWpJSGpsSzhObUp1d0h2d0JyZw?oc=5",
@@ -526,6 +619,22 @@
 "source": "Upstox",
 "published": "2026-10-01T02:31:57+00:00",
 "first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "29121464e936c335",
+"title": "Stocks to watch, Oct 1: Auto stocks, Tech Mahindra, NCC, Aurobindo Pharma, Linde India, Mahindra Lifespace, Transrail Lighting",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlpaTWRlTWFhSERweDFaaFIxRUgyRjZNSWdzWENoU0w5TDhTcmlBUWQtY0M5Y2J6STVLb1dPRTRFWExUTDVKZ0ZwWUItVVBBUk9zWkpmNDhDbEVtVlg3Y2ZVVGhoZDhnVG5PMWZfWC1EbEs0T3M4OHBLelVaY2VhQnRvaGNRR3RQZkFTN0l2NTBZaXhGNzFGN2JOWVloZy12Sy1qb3ZfQV94ZU52ME0tX3lLN2U3WUEtWElZenp1RXhVRTkwc0tfSVpFdXQ0SFdoWjc2ajMwUlZET0RLRjZvdTVrNXZDVjQ4UjBPR0lXTGNjREFjekkyR0RVV253azdC?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T02:31:57+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
 "symbols": [
 "TECHM"
 ],
@@ -1215,6 +1324,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e44e2b98a20927a2",
+"title": "Second Hand 2019 Maruti Suzuki Baleno Zeta for sale at Rs. 6,11,000 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaUhFN3NxR01LX2c2ZHhfUGV1UzVqa2UzZUl4YVprVm9PLWZOa1J3UEl1VVNEZzJ0b1NTMHdtZ1JCa0lESGNlNTZRV1RSWmFCZmtkX1Y3a2tHZlRYRTc1Z2xfdlZlSWtKYnFjOTMzTFlaX1MyUWwydGtEZDUyVVk?oc=5",
+"source": "CarTrade",
+"published": "2026-09-30T18:09:30+00:00",
+"first_seen": "2026-10-01T02:59:54+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50318,118 +50443,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "207c75624d18763e",
-"title": "Bajaj Finserv Ltd Technical Momentum Shifts Amid Market Volatility",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblZybDR3TXNkN0VVZWZvT1h0X1N0VXBlQ0tRcHRaejMtdm16T2dRdXdteThETHJNak9yVWhwN290dU9sZjZQRTFwTUd5bW1QYi1LVkhqcThGbUhiY0ZDNUR0dG94aE52TUU2UHdqNXNvUGEtNGR5TjZuUmN1dlFiUzAxc3V3U3dUbnNjbzdsV2R2MWhDWXFYRTNpQnVveWMyUHNCVjN6c2V4X1VKZl9UU2FtejhOOEpTbUQxN3M4MVY1dw?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-25T02:45:25+00:00",
-"first_seen": "2026-09-25T03:24:48+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1e85be34e5bc0989",
-"title": "JSW Steel Share Price Live Updates: JSW Steel Surpasses 100-Day SMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-25-sep-2026/liveblog/134473582.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:41:49+00:00",
-"first_seen": "2026-09-25T03:59:12+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0eb5a376ba657885",
-"title": "ONGC Share Price Live Updates: ONGC Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-25-sep-2026/liveblog/134473578.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:41:33+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7c778922e590a807",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-updates-25-sep-2026/liveblog/134473571.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:40:59+00:00",
-"first_seen": "2026-09-25T05:10:09+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2ba22d32773e81a6",
-"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-live-25-sep-2026/liveblog/134473568.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:40:42+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7b8ef02efacef1c7",
-"title": "ITC Share Price Live Updates: ITC Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-25-sep-2026/liveblog/134473552.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:40:08+00:00",
-"first_seen": "2026-09-25T05:10:09+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ef573cb88363ecaf",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services reports a drop in three-month returns.",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473547.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:40:04+00:00",
-"first_seen": "2026-09-25T03:59:12+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "negative"
