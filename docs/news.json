@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T04:54:00+00:00",
+"updated": "2026-10-01T05:06:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,159 @@
 ],
 "items": [
 {
+"id": "0b6ccc31cf58df53",
+"title": "Why is Mahindra & Mahindra stock sliding today?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWQtblZnUUNFUzBadlcyZGhPWkZuRmU4NUJTcnhrMmg2cDF5Y0o2RzMxVHFmLUVBaFRZc0tMVmNZdHFKaDFYb2lSQlBBNV9KaFhLdUlDQUx6QUVGSnZZdC1LWW1Vam1JZXI2Y2E3UzBiZF9GRlVabGJ2QVVycnRCZExQWFhRVktnNkVKeExpam11c19mOHdPM0gtYnpkUm5zTlZaaEpsbTAtLU0?oc=5",
+"source": "Investing.com",
+"published": "2026-10-01T05:02:34+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b4ec19a672f58768",
+"title": "Bajaj Auto shares tumble 6%, M&M hits 52-week low after September auto sales data. What went wrong?",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWjVaVldXbHBMeDJwblBDQUtjUHdhTmpkMEZydnlFZG1mc25nMEtjY0NnWU10b2xudk50S19wcXVCdHc4WVlRUnRhOWNxNFFFWHVVVXJUdkNDM1VzT0dqS2hIMHN3MUhrWmMwY082SVVNQmNHM1EyZWhWakNBTEx2SlNfQ2tlQWZvSlNfREx3TFkxZVdnaGg4UkJHV0tBZFpSWGRGMTM0TVpRMmFYTzI2YUQzS3drM3hiUi04Ul8tQzJQYklJNnJ1VHVDdFI2c0pETHpTVHZGVThNc290S1lhWURHM3E0RVJSRkhOQ1pJZmZQekxWanZoTk0wU0dXYzNBMUHSAYICQVVfeXFMTVo1WlZXV2xwTHgycG5QQ0FLY1B3YU5qZDBGcnZ5RWRtZnNuZzBLY2NDZ1lNdG9sbnZOdEtfcHF1QnR3OFlZUVJ0YTljcTRRRVh1VVVyVHZDQzNVc09HaktoSDBzdzFIa1pjMGNPNklVTUJjRzNRMmVoVmpDQUxMdkpTX0NrZUFmb0pTX0RMd0xZMWVXZ2hoOFJCR1dLQWRaUlhkRjEzNE1aUTJhWE8yNmFEM0t3azN4YlItOFJfLUMyUGJJSTZydVR1Q3RSNnNKREx6U1R2RlU4TXNvdEtZYVlERzNxNEVSUkZITkNaSWZmUHpMVmp2aE5NMFNHV2MzQTFB?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T04:59:00+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"M&M"
+],
+"groups": [
+"Bajaj",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "e61d8c2dfead3450",
+"title": "What Kotak Bank's choice of new CEO signals to investors",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUprYXNLaEpKcDZUaGF3VmlUZzFMTEZ1V2JhMUo5QXk3YW9GRVpPaE1RZGF2WDJpLW9WVTh1SDZRa3p2dF9wX2ltYnd5bVV5UWhVNkRvV2RCTTdDVGpuRnZlWnNtanBGX1NFVTBOVmRNbGxxeGFfZXltWnBPclVlaU4zTGg4bWtRZlB1OGdMbmlIOWtfaHJ2TGlYUWdmNHVfMVE3RnpQdGZzdlNsclpzdFRVRXpsanlRbHdPek80YTF6Q03SAcgBQVVfeXFMTTBuWEh0akJYSmxfRWVHUTZyMWFIN0Y2WlFvbWVYZlpscUpPc0JlT2stazhLRFR6QnRNejVoVWF6bm1DWjFJUFhCbjBOalZDUU02dnk0c2MyaWdTS3J4c0N0aGJYcnRPdjQzQlQ5bVpjOGpfd3E5M3k1bUpZTzNmQnZSRjhQV2RjTzRGdWZyQ3c2WlhTazkzUDhaeUxnb242R2FjV1BYNi16ZmhKRkphdFlyYkdraHBCY01leUY2TzU5ajNwcmdNZ1A?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-01T04:58:55+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "62f620bc355f88f1",
+"title": "Bajaj Auto stock falls 7% as September sales miss estimates; domestic 2W sales down 12%",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0w2TTZzUlpzbXVRcF9oblZoS01DRXE4NFNpSEx0Q291WWNpaDNoMG02NzJkUTdyV3ZfdVhlWjdDOHQwV3lsNHY5TVRpTXFQTm5iMUpSMnh3MmFoR3dkQ3JVWkpQbGpQYjJoZW5xMkd1MkFRUXdpLWNwWjFHNFBhaExON2VnTFdrZ1NpTkJ3SE9jblBnbk0xVHZjVm9BeHdrUzRGQ3lSaWhta3ZWdDN5a2QybzZlSGdTSGc1MU4zS1VVdUlkMDl3MkpuNA?oc=5",
+"source": "Zee Business",
+"published": "2026-10-01T04:57:46+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "8558f6a244f12268",
+"title": "Shriram Finance stock gets INR 1,220 target as Q1 profit rises",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHFLWVlCdHN6RThxS3pTWl81M1NxY1h6QzlWcXo0ZjVnbVh2NmF2MjZMV0dQbUREdlkxOC02M0lDRUxxaUFxcDQ0bHlNRHlDbnJySk44QWxVc0E1d1h0TDZjSjJTeVJBYU1lQXdlMUJ2dmJuTDhNNklMMlBoTS1pRTJQVnpJWkVpR3RPQXQ2VUhBSDhxR1RGTk5nQW1qVmR0WHNGTThEdmJ3Uk81WkFHV3NQc0RtTzZDcWx2Qy1R?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-10-01T04:54:56+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "a4ccc14fabeab735",
+"title": "Bajaj Auto shares slump over 7% after September sales data",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeDlxLThSYURoQUhvNTM2dERGNmxEMnZmVjg3aGxpLUViT1dkOTdDMTAxZU1CNjhXNjRBb05wNVJya1Fhb253aFBOa3FWbnpVWnN5bjRhaGJfY2tlNV84TFFPRHJBMUc5dy1FRkZ6bml2UURNQWNYTm5fTTZ0R2Z5RFdBN1hzWXN4QVBOaVRjdzMyUTVWR1cyeU1PYXFNa2lLNDlfMmhFSENyeHBHaWZxMWJ0UVgwX2Q5bllkTTFDYXhlYTjSAcgBQVVfeXFMT2RQY2N4WTJONTdGdFNVNWRCeDlIaU9NWHVWMXpDcXV2YXhxbFU1eUNzNDlHTlFPZkVMVEEtTVp0cy1zTGtJb1plN2pwbzdnV2RKd0paOWhnN2UzRmktUURONVV5eGg4NDhpamFWY1ZSR2RZLVdfS1ZiR0JCNG1JYnJsc21xRE9mWU81dEI1Q3JDLWxWcm5KZ1VaSzBSOVc3bENKaGZ5MThKY1hSb1lUUXBtMVIwWlFhX3gzUG9lbDFQb2FaRXV0TVY?oc=5",
+"source": "Business Today",
+"published": "2026-10-01T04:53:52+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "056751cccfb464c7",
+"title": "Kotak Mahindra Bank appoints Anup Saha as MD & CEO; to take charge on Jan 1",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVNnNmRHTGp2NDJIVjhldzgzdnNmWElpVV9rZWNiLVMxYjlDU1RNUk9GT3RuN2lSQjVtQzRyc1p5b0NNSDVGYmdWN1FsZXBYXzVkbXpMZHc5SmtrY1pKYlNzaE5JSnFGcHpSMmxfdmdrSl81NVFJbVFHS2V4eDAtc1F3SWI2OVRJUUZ5cmViY1NwZmFXMlhpY1d6WTRpZXIyS2FGbG5feXNjYkxtUmRLbWV5UTk0MjdvbkJ6RVl6dHZiSzA2ZGp0T3Q5UldJQdIB2wFBVV95cUxNOS1OcjVKT2ZXV0s2dzR5VHBSakN3THBxcTBkTWJVWVA1S2tfOHJjZkFWTG05Y1drQ1FrWnhzWDdKcFV6dzg1WnhVLVlPd1FYM2tKcFJ6QVBDNS1DQkU2RFBQa21MTTBBUW5oUkEzMnJ1Z3F1RTBUajdWVUowbnRGd0FNbVRsZzNKb0o0SHBCZm1ia201dXdfRGhlU25XSmxoU3F5X04waEgzSzFBRkhPTmgtazlmYjJ1YXBBR1ZMeEdYSWZnb0VDUWx6Y25EQXEtWEQwNVViYTliQjg?oc=5",
+"source": "fortuneindia.com",
+"published": "2026-10-01T04:53:36+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8e35f882feb2cf56",
+"title": "Adani Ports Doubles Capacity of Colombo West International Terminal to 3.2 Million TEUs",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX19BdU1lOGFKZW9BQWVYUFJRV3prRTREWWJ5NEF2YzRYVE5EcldpNDR1aUJETXA5UHpfTE0yRzJCUE5FcS13S19EbEUyT1hFZlpOb2FPdHVENjFJWFhzYk5zTWEwc2loOEpETVV5Qmp4QUZFYlluTE9kT3FSZnFBeWQ0VHBtNVhSNXRHZ1ZkTHdfQWl3dUpSLWtPbFQ0UUhSM1doYXFKWUdQSFg1TVlwY0FsN3puZjlTVUw3aWY3T05wYkE4bl80?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-01T04:53:00+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ffdc5526f2e34d99",
+"title": "Bajaj Auto September Sales Rise 5%, Domestic Volumes Down Sharply",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjdyTlFUZS1waUR5NlJYT2FCdDRFaVRzS0RMMVdKcG9zWEQzeEpFOW9YRXpJdWNNR1Z2b2JjbERfNVBPeEl4UEIyWTVIb0YtOW8xdk90YkJBcGNWV0owMndsX3h4UHBOVlV1Xzk3TnRJS0h5bUpPUDNIbjZWMk9DWG1CaS1kZE1JOVl1enFOX1RiYkxjM1FxWHFvbHp4UEwtS2ZVT04wN3UxdExaSkFN0gG3AUFVX3lxTE9nYWJLMUhVaWNhY2QyMGQzTmRBVnR3QXZzeG1xalRGWk5IUzJTSVNJb0hTYkZZQ05RRHNlaTBGSTRyNWt3SzJvN0RPMGFDZGRscElrcTRoRXBUTG53dHNXSFlmVjEyb1k0R0Z2Zk1qTzZWejk1ZFIwTTJaRWZ6UlFXY2FKODdBQmdZd2dDcjFqZklvcXJncGNSZUwxeDZ1VzRiQzBReDdvQmMzTTZGX2pNY0dvTHJUOA?oc=5",
+"source": "autocarpro.in",
+"published": "2026-10-01T04:51:43+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "7fa3359524d791c8",
 "title": "Video | Bajaj Auto Total September Sales Up 5% YoY At 5.38 Lakh Units",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2JJb05xUjVXSjdJczBNZkZqckNVemJleVpfbXhQMGFNLW5UaHRnNHFlLWRyck1uZXpHUG1zX0otUzZHVWxvZzF3RS1lSlluWi1KbjNNVVNpMWRIV3UwZXNuRDVySU9wTkk2VDE2ejdYQS1abk9qZmdMOWZ3OFByWDFtdlBya0FEa2VlRXBrNkVrMGp6STBVUDNNaVBSTDA5OVhXa2RRM0Z5b0YzT0xvd2JmbGlyM2s0a3BJZjJLekpZYXc1SWplcnQzRnBYc3djSmQ3bWgwOTBsUU0?oc=5",
@@ -495,6 +648,24 @@
 "groups": [
 "Adani",
 "PSU"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "18193fdf591484f5",
+"title": "Sensex Today Trades 113 Points Lower | Nifty Below 22,600 | Eternal & Maruti Suzuki Top Losers",
+"link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNcFp1YXI0UFpqaGxNYXA4WXNhNGJnTE9SWEpNanZHbEZlMGE3cHE5a3dkSnU4ZDI2M000XzhMU00tQzBuQ3pSaE5QWWRiUWljb09ZdUx1bmlhRVkxdUxpUmcwNHpvT2V0aXZ5NTF3WVBqRUIweC02Y29KcGdBenFNU3VIZm52alh2RkFIYTdGZTdLM2JWVmRpN09LbGpQcW1CMF9SQUY0b0pvOVdsa0h5cHljR0k3NWQ1b0FPLU9LU3NYRnNYaElFSkVUUS1FVHMtVkx5aHMtSXlpdlI3eVNwV2NxMnZhZ1dTRW1XbVFlNHZVRDZVNktrOERNc3NHdjhxQlY5NTZJVDBIdktyN0plTUN3TXlnR3M4eEdmRkplVHAzcEZ3YThaZjB1Unh5OERhUmFOTG5tTjZoUnI5M0tVTUI1c0VxWHpGRlE?oc=5",
+"source": "Equitymaster",
+"published": "2026-10-01T04:45:44+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"ETERNAL",
+"MARUTI"
+],
+"groups": [
+"Auto",
+"Consumer"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -864,6 +1035,26 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "661c3b2e5b0d2504",
+"title": "IT stocks shine: Infosys, TCS, Tech Mahindra, others lift Nifty IT up 1.7%; what investors should know",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHJ2aHMzRHB6WmJMTTJCNUdiX1RtcmZUWHlMZFoyazRkVlk4N01EVkIycmx6cFVMcW1qcG5LMC1mR0JOM3poU0hidkVrOTlKbjRBOFYzRGNNM0FYdzNpVVNOUk56Z0h1MEQ0RzI5Y3NJSHRsRzJJQVBDZEhnNGlqdF9fUFNXSDZWRldrT2lmNEFIZWxDUnl6WHU3LWk4NmRUY1VhSC1jbHZDUEtQUHVnY1FsM1pLRERKNUxaakdMMkpSNGc1M0VOeFBPeGdPOVRRX0xFQ0JmcmZYbzNuZGpxeG9mbkx6NlRTanBEOXhyRFlMWnMyeUE?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T04:18:37+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"TECHM"
+],
+"groups": [
+"IT",
+"Mahindra",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2000,6 +2191,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "d6a8d7004a96edca",
+"title": "Gautam Adani overtakes Mukesh Ambani on Forbes India's 100 Richest list 2026: Check top 10 richest Indians",
+"link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZkhjalBSVWV5ZGMxelY2U3hyaXVrWFB5UWpucGFTODBScC1iQ3piMGZpb2RQWjRCYnpjVmt3OU5MYjUtVzl0RHpBTzA5TlhUMDBqb2R2UFpVbks3VDZOWGRjWjNBb0lxelpYZWlCVkpOck13R0ZjVWNrZVRGbFBLSzJ4bEJRSG5zYWlheHNpRkd2VXpTRHZRS3lPb3c0czFxaHJTeUNzRnNXR3R1ZUJrNVFIUGVxQW1vcjdwU1FCeWxzTlRadTZnbzE0SkQ2RnpOQTNOR2l1b2dqSHdGWnpjT01LZ0xKTllJSmV0VmNYQlNnNDk2QlVwbWtJazhEbnhuRG8xQ2MwMVp1dS1lbnNLVVk5cmtvQkFIV2J5MHlyak9FSVpkU1ZneE1TVms3NzjSAa8CQVVfeXFMTmZIY2pQUlVleWRjMXpWNlN4cml1a1hQeVFqbnBhUzgwUnAtYkN6YjBmaW9kUFo0QmJ6Y1ZrdzlOTGI1LVc5dER6QU8wOU5YVDAwam9kdlBaVW5LN1Q2TlhkY1ozQW9JcXpaWGVpQlZKTnJNd0dGY1Vja2VURmxQS0syeGxCUUhuc2FpYXhzaUZHdlV6U0R2UUt5T293NHMxcWhyU3lDc0ZzV0d0dWVCazVRSFBlcUFtb3I3cFNRQnlsc05UWnU2Z28xNEpENkZ6TkEzTkdpdW9nakh3Rlp6Y09NS2dMSk5ZSUpldFZjWEJTZzQ5NkJVcG1rSWs4RG54bkRvMUNjMDFadXUtZW5zS1VZOXJrb0JBSFdieTB5cmpPRUlaZFNWZ3hNU1ZrNzc4?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T02:59:00+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"ADANIENT",
+"RELIANCE"
+],
+"groups": [
+"Adani",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "569680c36d88f725",
 "title": "Kotak Mahindra Bank appoints Anup Kumar Saha as next CEO",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWtNUnFZX1VVR2RFMmVVNE02dzNiWWR2aldOVTdLaG5LYVdQWXFFUnhaNUFPMG1PSnJocFVJY0tsd0k5bXpCbHNNVXkxUmpZSjU1Y0xWbGs5cUQ1eno3aklTNDEtY3ZfZndmbDk4UWRzMzVlQ1lyZFowWG90TjBFTnFPS2VTa181MUhPY2NDWDhJRTJlYTBCYUZBUW5INnUzZDVxMlpNRzM2NHlQazV2M9IBsAFBVV95cUxQaWtNUnFZX1VVR2RFMmVVNE02dzNiWWR2aldOVTdLaG5LYVdQWXFFUnhaNUFPMG1PSnJocFVJY0tsd0k5bXpCbHNNVXkxUmpZSjU1Y0xWbGs5cUQ1eno3aklTNDEtY3ZfZndmbDk4UWRzMzVlQ1lyZFowWG90TjBFTnFPS2VTa181MUhPY2NDWDhJRTJlYTBCYUZBUW5INnUzZDVxMlpNRzM2NHlQazV2Mw?oc=5",
@@ -2258,6 +2467,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "37bf6661202da3d7",
+"title": "Kotak Mahindra Bank elevates Anup Kumar Saha to CEO",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmNRYThLbUcyeDBqZEJhWXVZbEZGQ0E0bFBWZkJXTU41dl93Z0FJVktBU0NfRVZRRVZGaldTcGpheVQ2LWpWQVBjV0ZqUVEwSlF2V3RoRWg3Rkc4a21wMUtzODVWM19ac0pkTE5JM05iODdNMGV6QUpybU0tXzFZdjU5UWhGSThaYWlHUG5CSTYzaERhYzlTY19HR0ExVzBPY3pWU1B5ONIBpwFBVV95cUxPMmNRYThLbUcyeDBqZEJhWXVZbEZGQ0E0bFBWZkJXTU41dl93Z0FJVktBU0NfRVZRRVZGaldTcGpheVQ2LWpWQVBjV0ZqUVEwSlF2V3RoRWg3Rkc4a21wMUtzODVWM19ac0pkTE5JM05iODdNMGV6QUpybU0tXzFZdjU5UWhGSThaYWlHUG5CSTYzaERhYzlTY19HR0ExVzBPY3pWU1B5OA?oc=5",
+"source": "ET Now",
+"published": "2026-10-01T02:47:32+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -2540,6 +2767,38 @@
 "sentiment": "neutral"
 },
 {
+"id": "3d72136d3287e20c",
+"title": "JSW Steel Share Price Live Updates: JSW Steel Price Movement Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-today-live-01-oct-2026/liveblog/134606481.cms",
+"source": "Economic Times",
+"published": "2026-10-01T02:32:21+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c22584aace8171a2",
+"title": "Titan Company Share Price Live Updates: Titan Company Price Movement",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-updates-01-oct-2026/liveblog/134606478.cms",
+"source": "Economic Times",
+"published": "2026-10-01T02:31:59+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a4eb6cdc285b44fe",
 "title": "Stocks to watch, Oct 1: Auto stocks, Tech Mahindra, NCC, Aurobindo Pharma, Linde India, power stocks, Transrail Lighting",
 "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlpaTWRlTWFhSERweDFaaFIxRUgyRjZNSWdzWENoU0w5TDhTcmlBUWQtY0M5Y2J6STVLb1dPRTRFWExUTDVKZ0ZwWUItVVBBUk9zWkpmNDhDbEVtVlg3Y2ZVVGhoZDhnVG5PMWZfWC1EbEs0T3M4OHBLelVaY2VhQnRvaGNRR3RQZkFTN0l2NTBZaXhGNzFGN2JOWVloZy12Sy1qb3ZfQV94ZU52ME0tX3lLN2U3WUEtWElZenp1RXhVRTkwc0tfSVpFdXQ0SFdoWjc2ajMwUlZET0RLRjZvdTVrNXZDVjQ4UjBPR0lXTGNjREFjekkyR0RVV253azdC?oc=5",
@@ -2665,6 +2924,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9db081cb6ee2a242",
+"title": "NTPC Share Price Live Updates: NTPC Stock Details",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-01-oct-2026/liveblog/134606430.cms",
+"source": "Economic Times",
+"published": "2026-10-01T02:30:07+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3113,6 +3388,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "932f82a108301874",
+"title": "Insurance Stocks Crash: PB Fintech, Max Financial, HDFC Life Tumble After IRDAI Proposes Commission Caps",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZm9JQzBHcVpsMmI2S2t3NFpaZU5FbEdLSDkxYmljdnF6QVNOX0hjUVdPTlJHazlPMzd3cDRNaW9nV0NNMjFBQ19SUFNncS1Hc2hQMm9VZ2JzbndKa2V4Uzh1VnN2Yk5iN1ZaemRzR0RDWmxyeGU4bGRQbXhEaXd2VmhPRVdGYmMtOFloWVQ5Q01HR1Qtd2F1cHZzOFhtaXVCQ3lIMFVqdUdTNnpaTWRfUDBSTHBaWXFHYnJUMTgybnJXOGxiZEQtMV9UbzR6SnJjV1BsYjBZVmY?oc=5",
+"source": "Goodreturns",
+"published": "2026-09-30T21:42:16+00:00",
+"first_seen": "2026-10-01T05:06:01+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "6d97f387119777f1",
@@ -50255,296 +50546,6 @@
 "groups": [
 "HDFC",
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b1c0d6cce65856ee",
-"title": "Buy, Sell Or Hold: Bajaj Finance, Bajaj Finserv, Cholamandalam, Shriram Finance, Muthoot Finance — Finance Stocks",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pNMVFWeW9YQ2s3Qk5lTHFaS0FoMXNPX1VjZmg0MndlRWJ6N2V0SUNrR3hzNUVxR193M0ozZzFaaTZfSXh4Y2Z5emYxSk55STN0Y3B1QndISG41bWxGUnlRZFcwOW90OG54N201QXd6eVU4M1BPdFRMdkxhZ0wtYTdCMGg3U2RxQjloYUR0YlNSRi1UVGltejkwekpVNXpwWk8zbk9iWno5Zw?oc=5",
-"source": "Univest",
-"published": "2026-09-25T05:11:00+00:00",
-"first_seen": "2026-09-25T19:43:22+00:00",
-"symbols": [
-"BAJAJFINSV",
-"BAJFINANCE",
-"SHRIRAMFIN"
-],
-"groups": [
-"Bajaj",
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2a58c060305c9a5a",
-"title": "Maruti Suzuki Baleno Headrests Image – Baleno Photos in India",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoa3pLY2tUdFUza2NuN2dGYjFsOXA5WU9wcGVRMTNiQ1ByZmlpTWxjUFphTW9VSkZiVzA4RHlpZUV4YnB5VW5lVC1zRHNkTDNzYmlwQmhpNHNyMHRnOGdUQ1ZWbWl1bmF3MFpvQkNyS01GcmRLbnhwZGx2OA?oc=5",
-"source": "Autocar India",
-"published": "2026-09-25T05:09:59+00:00",
-"first_seen": "2026-09-25T06:18:21+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ae293c66481581cb",
-"title": "From ports to power: Gautam Adani unveils vision for West Bengal; to invest ₹ 1 lakh crore by 2035",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUtFM1Y4TnVkbHNnanh4VG1iWVpDZG5sSndRb1NNa0MzNGRlb1ZSOHRvWWJlV0daWm00cHh3MzJuWmxaWEN6VWFEbFdmbHhRenpXaWxyWWdteE11WWw2UF9ZU19MbzJjMXJ5c1JkYkxjdEJ0M0J5Y3kteDBYeXBobGZJMF9tdE1nOWFXVlJkbTZzaU14cUp3ajhwX1JXaEpsU3ItRGYwRHBsaDQtdmh0NlV1UTFZN0lReWRvbnVxWUhNOWdHS1g1UURWX181cGvSAdQBQVVfeXFMTjRQX3YzeFA4X0x2ai1uSFZzNnpSM3RqZE0zZFdnWWdYallZRjNBNms5VlEyYUVXeWFjMGItOFJWNVY5VHRiR0luMlpCYVYwTlZHX0JpZDRiMG5jTGt6bi05SUpUVkhhT1hXdHVLb0JySDMteFZHblRTUWFXOUV4QjlLQjJsbjBlOXBsZ3hEVHdrTDB4ZzQ5SFhqM1F5QTdwb2VMSnNQeHJTRHRQenNCYmdHZFpiRGlFenNlLWt6eVE5MWVGaVhTT0dBcjR6a0E1TkU3aGY?oc=5",
-"source": "theweek.in",
-"published": "2026-09-25T05:09:06+00:00",
-"first_seen": "2026-09-25T05:24:33+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "57b58bbd46138ebe",
-"title": "SBI Life, LIC face least impact from new commission caps by IRDAI, says Harshal Mehta",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkxpTE50V01EUFgzYS1Ba3AyTXJDWGVyZGZVaEhnTVhmdkxzN09ZUUYzUVJfeXk4WUNWaVFqM2lkckJnTHpSOWgyWGtGXzdWX1BnY1hFT1A4bTV5dm15bEZFREl1bEE2YkNVenVKYi0wLTVsOG5kVlNXbTY3b2FEY2ZObGdiMjhzSk4zNF9wMDVmaHdqR1l0YkRxbW5MdDBUZjI4MEF4RjRUQjhER0p1eWhnWUxIUDZSaVdUOVJiTmdSQjk0VnN0RnVUc1dnX2510gHWAUFVX3lxTE94cFBtS2NLbTQ0NFZSR0VJYktMTmJOamZXbHQ0RDhwVk1pYUpPOGI4TDQyWlN2bk5RbENmc0psVF9BSVdXbVZxS3FiUnpMRWRCWVdPLU12NGxHSzZTX0tFcGpzNGgweFExWUM0enZlR2tBX2J6OE5OaWdzeGZVRTlvSWh2bDlQTVZkM0F4VGRaRjZuWXZ2MzVQTW1mdFNQOTlvQnFOTDJhaEs3Y042dV9aV0FlN1NRbF9JM1ZYemRwMHh6TjBoVGtzd0ZyZWlNZlN3blduWEE?oc=5",
-"source": "cnbctv18.com",
-"published": "2026-09-25T05:08:19+00:00",
-"first_seen": "2026-09-25T05:24:33+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "24c406333a4b2f6d",
-"title": "IT shares fall for sixth straight session; OFSS, Infosys top losers: Here's why",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0FKeFc1MFdzbXhtZS15dGEtZzhtOTVtVHlaeWhBc2o3U2tBM3lNOTlJUWlIVkRybVJZSjRjTG1GMVFESDlqMWEyS21PWWZUNzgzOWFPV3htcHNZVjRIX0JFMC1semM3Y1NCUDdxSlkyQ0xOQ3ZtNU83N2dKRkNnVG5INGwtZkFpTXpQNndzUmFEMG9mN1oxQmdFWnYwV0Y3Y2pibTFzYXoySXVrZjBNVFZEQ3BtaXdSWWZvLXE2em51NnQxaEtJX2NFTUhUTFpSZTZIb1hjQ07SAd4BQVVfeXFMUGFCazBVY0dhUkxVMmRsZGFTZ0wyMVF3R3JMazh4MklROHRaeEQyRGd6VUxBd0VRSklKRTlGVm9mWHFfLVYtblczVzNkZ3JZR1Zkai15Ti10QjV6M0FpWmZ1QVNreXRKV3VnR0xhMm95QURYNlQ4RTA0eGxWcXJhMUVRcXdwRFh4eUVIY2QwYzBOREJTUDFuYUdfUTEyMHo1ZTZjZkJuSm1HVXYwTENST1UtbDR0RU0xMGZMMnp6TVgwVmx1NDVTLXI4aV83djZ3eWo4RHZTcnRhdFNxQk13?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-25T05:06:35+00:00",
-"first_seen": "2026-09-25T05:24:33+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "47e410c4e1771021",
-"title": "Jaswinder Sandhu Appointed COO – Real Estate at Reliance Industries",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDNwQk54ZmZZRVJXd2dzRHlZVUdlZEFlNHRhMVkyY2VtaHo4dWlLZm0tWTlvQkdsaGZVX3dZM2trQXBiRG1IT05nRnVkd2psaWlrSnlxWFhybTZ3azZqc3NnWXhaR0RtRGd1Yk9sY1B4eFlNR3N0SmFkWWhnVzFhVnFBMmhCb1pRS1BPUFpNUHNVbTNa?oc=5",
-"source": "Veloxx media",
-"published": "2026-09-25T05:03:05+00:00",
-"first_seen": "2026-09-25T05:10:09+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "808f1f4a64f8acd4",
-"title": "Delhivery - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcTlUMEE4Q3ZTY3h1N1hLLTN4bHlrcHpvWUh4U1M1eW85NVpLU3d2OVJQNTdtQUVZa0M5QnVpcGVuazhORnM3RTFLZ2pZMVNzRGI3RmxDQ1AtcGlBU3N1T3ViUkUzd2NJMUhZTUVKLWloUURRc2xsZU41dm9qRzEydGJDVll2YmJVWFA2LTM1bGVuWXdINmx2NzJjV2VRUl9vamJhaGQ2c3k1OEh0dU5kLXRoSjN1NWdWZmFNdnA5M0VPTFRPbXdQUl95cWpTRllRNHBKSFN5d2s2dTlpSm15a1BLVWFRaWJXLTdnLUJQcW9JNTFlNlktUDhjTVA5ZnE3UE93WQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T04:56:31+00:00",
-"first_seen": "2026-09-25T08:46:12+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "624b987100da313e",
-"title": "TCI Express - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR3cxa0lfRkZEcVdLQTVmWi1oLWhGSU9qUkJHVklWcVVnVDBUUlZGZW9NVmVOY1FYS3p2ZzhVVmlTM3VXOVlCYncyYXY5NWt2b241c1p1dnVZdEkyOUQzZVRBU0xYZ0gwaHl6T08zYkIzVWJLNktSZ2Iya0FaYTVfYlUzUWx2X0dOZXRuRkJmTEI2VmxPNU5ObTg2eDByNkZXQVVYMlZlZjc4VW03Ujl4NTI1OV9sMUFXY3BaazAxWGlTRGVFMV9KZm5MY0ZSV0dlZWJBOXRyWVN4QTJ1YW1BRkZNYkpOQzRLU3RNcTVmQnB0WFRkV0xTYnF3dG5oT3V5bDdLeG9mRQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T04:56:31+00:00",
-"first_seen": "2026-09-25T17:45:14+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "c5cfe13b49e8ad5f",
-"title": "JSW Infrastructure - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
-"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZDlYdDRDakNHa21HMXZpZm15Q1hlcEt6Ylh2WVJsR1NGaHVuMWNCcWVIU3Z4Nmd3UWR0MEVlU2J2WHUtdEtUb3dRa2ZXaGpVNzdKakN3aExXRzB4R3NQbUNwaG1IUkFtY2pOUkVOLTh0cV8tWGZKRkRwRmZhVmJ3V2NMMy1uYkpueUtZM25QY3N1TUVqRWxncFJaeGdFSGZHSFFCeFFIa3pRSmxtbldNSHl0R1JYMHNJSUZZZ19KQ0cwTWZXSkJPeGdVWm8xLXVOd2x3ZUhZYk84UWJFMUk2aVBGY2JQcjFIaXdXRGVVbUVQQXNSS3JLbU5GdmVRYWFWUEw3SDRNV1NIaWxVci0wcQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T04:56:06+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "bea248255e8638fe",
-"title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers",
-"link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdXR6a3BMbFZZc19QNTgtUDN0QjU0REhVZkhXYUZLUzVaWHhwY3FOdE9xWEFZTHBSX2dNZVVTNXJOOVJFaE9wSzBiMWFCanhyZk1JR0RLd2E4S3k5YjM3Z2E3TTNmMUp6Z2tqWjNLLUsybHFpYlJONDctVERIS0E0VmNfOWFmOE81OEduRGZTV0ppOGdOVFNmYVNuZWZKNkVqd0pydXlMUTFVWTRqb0JLb2tCTFFreWdOd2VnTmFpcDhVWTdoTDNhYWpxUk9XSDZpRk4xcW1URUhTeEtmRWxJYlRmbDFGSW9IU0hUZ1RSOG82aU9lbk9OWHRaN09VZ1RjZVVuWC1aNTlLaGJKZ1MtcGpnbU9aOGVmRmVnOE5qdjZkYTFhUjBzN213OTQzRGdZNk1oQy05ZTM1Zw?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-25T04:52:40+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"INFY",
-"TECHM"
-],
-"groups": [
-"IT",
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7ef24076d3983f78",
-"title": "HDFC Bank’s losing streak and SBI’s dream rally have run their course",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY3BFTl9BQU03dW9PN3FZQ2FRbEg4b3NhZzRnajc3TGNHaVBpaC1jTlJ5Q3Npa1hsRzM2WjZ5V2dpNXdYSlhsY2d4eVZXZ0ZneUtGQVFrX0MzVGpzbmVmQ1FIeWVaWmsxazlZcHBSbHA3VlpJQlhoVEpNNmtiUXRQYWJUTzVYQ0NWTGxwQ1ozTHVMbVNBdkg5aHMtZkNQaWpxWi1EUlVGZE9KOXhTc2hfNmh1STJzWTlnY2dqYnVQNjZNS1hJU1FkYndqSENCb3RWRVNUamlucTRna0pId2lLQzhtd0lhaUhGRDNr?oc=5",
-"source": "the-ken.com",
-"published": "2026-09-25T04:50:26+00:00",
-"first_seen": "2026-09-25T06:18:21+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "fc331de50253c931",
-"title": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5",
-"source": "Upstox",
-"published": "2026-09-25T04:50:14+00:00",
-"first_seen": "2026-09-26T01:45:28+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e784f3aeb4b2765d",
-"title": "ITC Hotels closes trading window from October 1 ahead of Q2FY27 results",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVZBb2t3dVpKeUx5NE8yYXdFVkEyemxvU0F0RmQ5bDNRS25hLVRpMXhZZWFPdV82R0NSWWRZa2U3YlRPbTY4Qm1HcEdFaHg1M2I4dzJxdzJja1NmMlBza3pRVlFmNUh1QlBvZFA5SVRfX0NRM3RaaEFyZ25tWjFEUWFUTXBnYnNfQkp3d19GUHZHXzdJQ2RUWVE1TTlKZVByT1lLeXNTNkphQ1VZYXgydDlycFdoblVaMGE2Xw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-25T04:49:50+00:00",
-"first_seen": "2026-09-25T23:54:36+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9a99d4dca5c26109",
-"title": "Max Healthcare Institute Share Price News: 2.22% Decline",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOF9ORWZGM0hRVl92cVE1Q283dTRUZHdCa3RLTHpFTVNqMUJjeDJSV2Y3amxqMEc1c3E2MC1mOXJiek9PMTF4UVYyVkZDM1dkWFJBRGVBckZhYURMSXlPVzdmMmNTQ05EeHVUM04zY09CWTk1ZlZxcEh5TlVmSjVhZTdJR2laYl94cDBYQk5vWlo?oc=5",
-"source": "Univest",
-"published": "2026-09-25T04:49:19+00:00",
-"first_seen": "2026-09-25T17:45:14+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "6cb89fd35b7ecdb6",
-"title": "Concor - Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3V6S1FCUEdudy16OENreGE3QTdFdi1VT04yODJDcXNIQnJMQ2JXNFJaX21mc3dBbUczbV9CelNBMGU4d0lNY2M0TEpSUTFxNUhRWEVONmFZZlA1NldkaW4tc1RpMFg1WEVidUI5T1lCQUJ6OGJ1N2FiMGhqcFBnZXFzbFBBU2V1Wl96NnpYTlhFWXI1cTYwa3pEZU1Rd1RFMjlXc2wwYVJoTGRTRFI3T0ZzbC1nOFp2aHdtbUo3Q0UwMEFGMjV2dENiUnpDRm9uUUt4MW5ua1E5NzBwOWNQNFVTMUZOaExJN3o2NXdPclRYWmd5U3dUMXdvRWxkNk9L?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-25T04:48:25+00:00",
-"first_seen": "2026-09-25T05:50:04+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "ecd79e8ec6fbad42",
-"title": "ONGC Begins Offshore Data Acquisition Campaign in Western Offshore under Samudra Manthan",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGhEZGVaeXN4RTR6MGxxVGhwU1pZTHI3Y0EzRU0tZVhiQ09oT1NFT0wzdUphdlFZT3dHSWpfQ2Y4Tl82V1RmSzl1M2xjNWY0eXJZMGNtVVIycTU2dklIa1dQcHZtVTR6Q1duT3lJckE2NEY1dW1tdTNwMVJLNk13V3lTVHE5bUdsd0NsYWgwVjRqVTZkZGxZWXlxQjVZOEVvSmZtNE1wZk15d3dqcEFIaTRfVkdHdmJZWmFWa2RJa0Q?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-25T04:48:00+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f4e35c4911248b2e",
-"title": "Adani Bengal Investment: Rs 1 Lakh Crore Plan Explained",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1ZPbThDVFlPRkp0bTVpUUs5VTBISmliNG5Zdk9oNTZEbEN1bjdTRU5lMUxMeW00RklvN2E4SHpYeFNiQlo0YnhFRklmWjNOYmhLaTFDZnE4bkxsVlQ1ckZZYjZZa3Z2YnZVcHZXWXdvTUJHYzJjZ20xYVZOZGh5Y0NDQ2dZVHFHcnNFRTNmMHhONFFW?oc=5",
-"source": "urbanacres.in",
-"published": "2026-09-25T04:45:56+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
