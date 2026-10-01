@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T03:30:43+00:00",
+"updated": "2026-10-01T03:48:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,188 @@
 ],
 "items": [
 {
+"id": "2342eb6c2f605d2b",
+"title": "Bajaj Auto September 2026 sales rise 5% to 5.38 lakh units",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzhTSW5yaUotNUJWRHdBanE0YVY4QUlGQjlOMmhaVFBYYjd5UWphU3FsbEJGeDgwd0w5ZkQwQkkzb3NYQW50QUFEYkt2eE0wclpEakxXV1JIN0Fjci1YUFZ4WWlnSnpVaFRCa2ZwNkVkdkNhN1hoZ0Y2bWlnWW9ncUh1ZkxqN0ZmMHU4Z003blY3YjlSNFg2cUdB?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T03:38:34+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b61b4b9aadb206fc",
+"title": "Kotak Mahindra Bank Secures RBI Nod to Appoint Anup Kumar Saha as MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGptekZLUVlsOU5BTkVURGRnY1RLNWk5UDdRUU0zcXRvWU80YVQxMFRJZldYRUVDNVJZdU5YMkFMNjZjRktaOXlEQmxzdFJOMkY2S0ZBV0ZxdWJEanFvM1lBM1pNaXhqMll4WkJWY2hqb1VxV25JTUxoaFlZN0dFUlplazJESENxOWl6NHlEcXBaU2ZmMlo3YXA1NzlHdkR6U0dBeVE3TFdrWndmbVlFZDlRVkw5WVc3S2lENWhyQk9WQQ?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T03:38:21+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "positive"
+},
+{
+"id": "4edd8f4a018a71d2",
+"title": "Who is Anup Kumar Saha? From ICICI Bank & Bajaj Finance to Kotak Mahindra Bank MD & CEO - Full details",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmtJVFh1MmhiaV9fWXJ1S1MybkFWWFhBaWJmZndiYXEwTnpaelVCY3FNUHpNdG5MSmdYbXloRDd1c0l3LU1NSUNwSDBud0lhNVJEYVB5MlVXMFJWbEt4OF9PZVBQNHBkMlFGekNaaWY5Z2g4NVRxRW5uMXE2ZFVxc3pvRjNFU3VuLU1DOVRkbnJNbF9CV3ZFaDNWcTlMMEtlRElwaGlGb0pkSmduZ0pWS3hzVXhNWjkzQ2M5d00wZDdnVWhkNi1XcmUzanJMUDNVSmNFLVFPZw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-01T03:33:45+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"BAJFINANCE",
+"ICICIBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Bajaj",
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "909b9edc302756cb",
+"title": "NIFTY Index Earning Revision (Sep): Wipro, BSE, HDFC Bank, InterGlobe Aviation, ICICI Bank",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWhDNThudEk4UWpwVFNsN1dmdVZNLVNqR0hrc1RKWTMwalAxOFhjUWswTDVTTW8xRE1yc3dpUFNmbS03eEJaeUJ6aXNzZnF6VF95YWVKS2hkVWRrMGV4cUVJRzktZFhiMUhuSHlGZ2VsWVJ2SS14T2Vhdm9JSnhXLWFkX3lsWUhOX3B6WnFXZ2lzc2ZFTEpnYjNqUUNBRGdwb2RERTRGY2h6ZTRSZHZQMGxhaFQtVlNDVlUw?oc=5",
+"source": "Smartkarma",
+"published": "2026-10-01T03:33:43+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"INDIGO",
+"WIPRO"
+],
+"groups": [
+"Banks",
+"Consumer",
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f9a48a6ee7927a80",
+"title": "Bajaj Auto reports 34% increase in September 2026 exports",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFlmZWJqV01uSG9pWkFXWDRkcVVXa3NlaE50dHdzaGFLWm0yNVhwdGVzSkstbjZjYTlJWlFfenFlRnItV2RFWFZyZkFsYUtQXy1OVVEzOWRNX0FnbUtFek1JQ0JvUjNsOXVWa3lHRVlORHhEYnFyRDk0WWNncnczVHduRktFT1FqOGtGSHA5SHFuMWdUd3FpOA?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T03:33:34+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8985cf5149820b67",
+"title": "Kotak Mahindra Bank shares in focus after lender appoints Anup Kumar Saha as next CEO. Here’s what Nomura",
+"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQ2s3alRnem14U2ppaUlIV3ltc2JGOGhIMmNIa0FWUnFYc1pPdHhhdVJqX3NWcUhLMlVZTkk2YnNQdERuV3F6cHZ3LS13dlBnNm1EcW1vTFBpbkN5SXV5WGgtN2NLS1cyRmtQVzk1TFF2VC1BcE5lR3NIQm9rRTlyQlhUd3BnOHFGRVEtQlQ1bUk5T2d6UndXdWgzZWNJQnE4MlJ6TEwwWWhsdldsQUJtcE9aM2N1MnZYV1p6Vmoxa25KUWdMRUo1NEd0cUljNGkyZmRvakhKWDhJaENGeEp6U1JMU1FJTWpHS1FtV2Yxa21WUTV1b3F0MWItRlRLUWhFRjVabUhGMHBkai1hOGVRc1pkT1dmQVE1UkVIMUJBUjBTQkJh0gGqAkFVX3lxTFBLekRzYmp1cy1XdXRCVDY4WEZfaVpWV3BlbjNEWVpqTXNMM05zemdWRzM3TEhNSGxMSUg3YUxLeTlIdnFjX2psTS1PRktwUmIyUFhmcHlONXpoZFlvNXF1YTZudTRYcGNfSml2UWdKb0NFXzlHeEFVLVFNZjdFTkc3Yy15bmdCcTJ3aE53c1hweGhNMmZ4OVMxNFJCM3ducE8tbEloWEJXeElZQTFlYmxHMk1VcWhpR0h3VU1UUVBzRlJJYnZic0hrZ2pjeTNINFk1cVhXY2I2UzZBSWc1cHd3N1lucEdJam4zc21mZTZBM1FlYWJlRURzaGh0VGF5S3JKUlFyZUZVNmthVXVUVEFPOEw3WXYyM1I3bTJqcDlCOERPLXlkMFU2cnc?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T03:33:10+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b72a16780c571173",
+"title": "Bajaj Auto September 2026 Sales: Total volume up 5% YoY to 5,38,443 units",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlJfbXlZRjh1TmhfQlhaOTZXcTZiVzQyVldTeDRLWmpfZUhRMEJHcHBwN0VGbTRjQThOOWdPZk9hamlSQmVnclFuNjlzeVM4SFpldjlIY05FV3VPNkdHMDE4dHlqRnB6OXhTN1E5Zjh5eFEtTFAzeFNUanFpOGlhbk51bC1TbzM4bi01X2xUZndYVUxKZE9UVW5XU2F2Rm5vSG5tXzhFNW9oSjlUdWJPYWRFVDN0ZG1kSGplT0pnZWltbG8?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T03:30:28+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "45bf7fd8dbf7250f",
+"title": "Tech Mahindra Bonus Issue, Dividend 2026: IT firm to consider free shares, cash payout with Q2 results",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG9aaTh2OXZRWEhmVzlDcDlsdnVxUFJFMGY3ZVdlRjFtbUtudUNTcUFpSEwzd3VhMnNRWmVVRGFoZ25wOFl3OEw1Yk1NSEc3anJyU2phQzhsTDcwUUFuQ3hHVW9kQVhldXBRX2dlZ01LdnoweTI1OTBSV1I1d0dKcmdTVDdudXBrRGNYZ3R3TGE4TlVuUmxSYU1FQVQzNnBjUnN5OFBZRmhROVhNWGdaZ254djBhQ0puTVYxQnlEMy1xU1NwSXRtV3VMMFFtMTkwa2pjMnN2dXhnY3JvSU9hN0xMcw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-01T03:30:20+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f1b5ca9f77662916",
+"title": "Kotak Mahindra Bank receives RBI approval to appoint Anup Kumar Saha as MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDU0d0lYRDZJZDBsTmpyQkZlSGMwTktmelpNVlpsOV9rei03bUpPYnJPcGJsSlRYaVZUUnQ1ek5nVlpPNV9ZaDRhRUpHSU5IeDY3bkUxS2dadW9mNlpxdE1VYkJkOXlPd1Q3Nkx2U2R4VDAzMkh6dWJ1eVE1OE1NX1lsZVUtT1NjeDhDZURqT0Q2eElXR2x0NW1SSDVyLWt6cmg0T0Jvazg3Y1cweXBNQjhXd1ZlekZCN2xXb2FhN3dLQW1yVHRQZGdQcVJFLWEzYzRMNlFpRdIB1wFBVV95cUxOVDU0d0lYRDZJZDBsTmpyQkZlSGMwTktmelpNVlpsOV9rei03bUpPYnJPcGJsSlRYaVZUUnQ1ek5nVlpPNV9ZaDRhRUpHSU5IeDY3bkUxS2dadW9mNlpxdE1VYkJkOXlPd1Q3Nkx2U2R4VDAzMkh6dWJ1eVE1OE1NX1lsZVUtT1NjeDhDZURqT0Q2eElXR2x0NW1SSDVyLWt6cmg0T0Jvazg3Y1cweXBNQjhXd1ZlekZCN2xXb2FhN3dLQW1yVHRQZGdQcVJFLWEzYzRMNlFpRQ?oc=5",
+"source": "StoryBoard 18",
+"published": "2026-10-01T03:29:11+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c88b4d949c432bd1",
+"title": "LIC Housing Finance - Max Healthcare Institute among 3 F&O stocks with a sharp rise in futures open interest",
+"link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZXFoc3JRbDlBUTZVZlZOQ29CeC1QY2hvS2UzZGRVMFlXWWlIQVZxTWZWelF3cFlfdWpoSm9QUnUxMVV5YjZ1S0laRHByUllybmNUVU9UVk42eUV4eVNNWDZsUU0zSW9hdUVnbkx0ZXlYUWhyNy00TUNFckk3QVVpdTFKaVh3MjVvUElUQ0hheDFHNmJHTlpTZzlzc2tFa1VPSDJYWkdlYTF3QUNZNHE0OEJvYWc4elRBNlFrX0FDUmk2Q2NSU0wzT21tT1kzT2ZmTHl6S3g5cm5jT3A3U1VvMnd1anNrNHVQZy1sbGtBemsxQnZNTWl1RWtsUGhZdm1HWWxCTk41WnVkcVNCbGlRN0I3R1UxcG1G?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T03:26:52+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e7a6689937997e01",
 "title": "September 2026 Auto Sales LIVE: Maruti, Tata, Mahindra, Hyundai & More Sales Updates",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHJ0NV82NG1tcDRXR0Q0VXN6S2k4N3hZWnBjcFp3OVliVFNzbWJIX01mUTZQRjlQN25pUE9tejZVRWp6Rk9BOXpmZEhsdmhRVVp4ZDBWQVdNOTl4bUtuc0NnUllBVWlkY3N3Z3h5V3RvRzQweWlkTzR1eFREdkJqbA?oc=5",
@@ -458,6 +640,40 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "036ab0a52f6c8554",
+"title": "Max Healthcare Institute among 3 F&O stocks with a sharp rise in futures open interest",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/max-healthcare-institute-among-3-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134607334.cms",
+"source": "Economic Times",
+"published": "2026-10-01T03:25:56+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "5800e184e4738dcb",
+"title": "Anup Saha to be next MD & CEO of Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2w2U2FSTFJyX3RaaDdLUXNCYWFQcGtRdnBrMWZHZ2pBeGxvcUxIUmJJTC10bGx3UXRXZnFWd2l5NnU0dXdVT3JHdU9ZOFRabnJWWjdRWXJPdEZNQVZRSGhpemNBcEVWLUZjbUtaYVlrb0hwUWtUWGVLLTllMWx2VG1jZ05GbVJOOTUxeGJzcGF3X25STWNTdmVhRHlEYjdEUlg3MzQ2Yk5xX05jQVRWRmlyb1YxMndiMUQ5UF85VVN3LUXSAcoBQVVfeXFMT2JlMThPMGJmMzlMOWtYTzhVMERxUWhDV2tCNGNZYnhuZUx0b2xLSlplbTY1akZUQTNaZ183d3E1b2hwaDk0V0Rob0daUlVSNkMyVnpNNC1JU202SDNCQVFkXzh2ak1lalBUMXZOVHdSUzZWVFhseXJHV3RrakdFR1hXVmJqekhGdkhpTEZkTEMzREFJcGtwTHNvOGI4WFVnVm5VUTR4dzdCS0NXRGlTX1BLMUs1NkNKbXpGQUI3SkFFQm12S0tMTlpwdw?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T03:25:40+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -583,6 +799,24 @@
 ],
 "tags": [
 "Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "49837fe7c14c972b",
+"title": "Kotak Mahindra Bank appoints Anup Kumar Saha as new MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDF2b3ZUQVFyWm1ybmk2LWFpNmVxcE1XUFhlMU5mN2YtdWozbldlby1EdmZJS3Z0VFFLYnFfejFOUmNHR0Zta0p6WG5xS0RVSHB6d0JsSmRlRTZoT3dDUjlzRzBCX0VpLVVjUVBpbzVfUkdPWUZPVU1ndDF0alZsZ1hCSDljWUVXbHVIdGNhcFBLc3BJMFlYSmpvaDZpYVUtYnFNRm83YU1mY2I4c2RKQmJhSGpPNVZiS0pwN3VSbGFqcGhpY0HSAcYBQVVfeXFMT2wxdm92VEFRclptcm5pNi1haTZlcXBNV1BYZTFOZjdmLXVqM25XZW8tRHZmSUt2dFRRS2JxX3oxTlJjR0dGbWtKelhucUtEVUhwendCbEpkZUU2aE93Q1I5c0cwQl9FaS1VY1FQaW81X1JHT1lGT1VNZ3QxdGpWbGdYQkg5Y1lFV2x1SHRjYXBQS3NwSTBZWEpqb2g2aWFVLWJxTUZvN2FNZmNiOHNkSkJiYUhqTzVWYktKcDd1UmxhanBoaWNB?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-01T03:04:37+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
 "Management"
 ],
 "sentiment": "neutral"
@@ -723,6 +957,24 @@
 "source": "Bloomberg.com",
 "published": "2026-10-01T02:48:00+00:00",
 "first_seen": "2026-10-01T03:12:36+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "390668f51a2ad758",
+"title": "Kotak Mahindra Bank Says Regulator Approves Anup Saha as CEO",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnlySkU4bFNWQ2w4R3JSb0szOGduX1plU0h0ckg2ajUzNE5BQ3BFdy1RTzdlWmZzRk5mQlQzYzVjanY0b2s0dXFLN1RISTVydm1mY3Ruc1dxU2hMWGNLNV9QRnhTa3loNldsa1VmMzBHM2JwenV5anlETFFieTQwbmU0a2lsU3FWRDY1bUZVOFhHU0dTS0RqdlhwTFJ3N0poUFllMzRKMWZIQXltMmZrLQ?oc=5",
+"source": "bloomberg.com",
+"published": "2026-10-01T02:48:00+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -911,6 +1163,40 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4f9e396b3173c350",
+"title": "Stocks To Buy or Sell Today, October 1, 2026: Fortis Healthcare, Infosys and HDFC Bank Among Shares Likely",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPb09iWFExTkxGVXVXN050NWtjYVZ0RzNQMHFDbU1PeWMyRGR6RGs5VXlyVzFUWmNBQXBkU1pNQTJrRjdDWEY3anFiNGZRSlcxdUdWM1QxLXdUZTV4cmdWYWdJZ28xTlZnRzJWQldXLUlvdldMYmczeXZ3SURSeWZvN3g0bEltVXdSc2lwYjBPNERlTTVxUmdncEt0SlI5c25wcEtoa214VkZ3dE0zaUp6NjZxeUZ1VUlFZm8xR0EyMEZvcExFWmhDOF9YclVoRlN3c1pYY1dLeXNORnhzeW1HMFlYX1drbXN4ZEk4b1hCSFRoR2lSQmRydWQ1UHQ1M242RTcxUDNyampGR1l4VUcxWDNn0gGSAkFVX3lxTE9vT2JYUTFOTEZVdVc3TnQ1a2NhVnRHM1AwcUNtTU95YzJEZHpEazlVeXJXMVRaY0FBcGRTWk1BMmtGN0NYRjdqcWI0ZlFKVzF1R1YzVDEtd1RlNXhyZ1ZhZ0lnbzFOVmdHMlZCV1ctSW92V0xiZzN5dndJRFJ5Zm83eDRsSW1Vd1JzaXBiME80RGVNNXFSZ2dwS3RKUjlzbnBwS2hrbXhWRnd0TTNpSno2NnF5RnVVSUVmbzFHQTIwRm9wTEVaaEM4X1hyVWhGU3dzWlhjV0t5c05GeHN5bUcwWVhfV2ttc3hkSThvWEJIVGhHaVJCZHJ1ZDVQdDUzbjZFNzFQM3JqakZHWXhVRzFYM2c?oc=5",
+"source": "LatestLY",
+"published": "2026-10-01T02:30:46+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY"
+],
+"groups": [
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1f319edcb2b99ba5",
+"title": "HDFC Bank Share Price Live Updates: HDFC Bank's 3-Month Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-01-oct-2026/liveblog/134606451.cms",
+"source": "ET Markets",
+"published": "2026-10-01T02:30:45+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7805,6 +8091,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c79b8909ec31347a",
+"title": "Breaking new ground: Remembering BEL’s first woman engineer who modernised INS Vikrant",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVh2WmUxZDRwUWpJd0Y2dnRpYVZKRzhfTFBLNFpKYkwwNVQ2amctbDBlMi13UWlsSFpES1R3STE0T3BfdzZ5RkNNeHQ5dXd5WEd4QUdsNVpYVU5PWVd1MGF3MlNqVWNkU29qUlhIR2k4LUlHNVJqRExOeFhQQ1lRemc1bnN2VURhSFZyd083ZTFkczBPd20yRnYxVDU5Zkg4alFOeVBCemVlZDJsUHJJTFdaODZEMlNPa1I3R2wyd3RjLXVJc0tWMEhrOVJEQ3RoTEVV0gHmAUFVX3lxTE9TbjhGS0hoNTAtSzlaVi0tdldWR2lKY0k5VnFhOFRZSkpiWE84LTFjSVFOV0k5RWlDVTVTVktkZlhxeXVQbVRyalpNV0l1dzZuUm1MNDN2ZDczeWRxMzFFQWZkS3dCMU1lRXhsamI5eXp4MGZGQWowYnRqRHVoUFNoblV5RW1mRmk5ekdkMm1xdFdyOE9BZHQyNC1SNkdrejlNbm5rM1JZM29qME9LUmZhN0xZVVhlY2dLMkFBVnBNZFd0N3FmcEVCdTVvcWdkQ01OMk14UzJwYmtmbWlzWXR0UVRRVmFR?oc=5",
+"source": "Deccan Herald",
+"published": "2026-09-30T06:50:00+00:00",
+"first_seen": "2026-10-01T03:48:31+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50196,281 +50498,6 @@
 "first_seen": "2026-09-25T04:46:01+00:00",
 "symbols": [
 "SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0f6f1a764b7abb37",
-"title": "Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:56:22+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e00a4f957bca7084",
-"title": "Sun Pharmaceutical Industries Share Price Live Updates: Closure of Trading Window",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:56:22+00:00",
-"first_seen": "2026-09-25T12:50:11+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "95d5bd9792169cc5",
-"title": "Sun Pharma Share Price Highlights: Sun Pharma Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:56:22+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3eb359f89bf52090",
-"title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:55:51+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "71bbb42336eb7856",
-"title": "Hindalco Share Price Live Updates: Hindalco's Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:51+00:00",
-"first_seen": "2026-09-25T08:46:12+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b90af0324de973b1",
-"title": "Hindalco Share Price Highlights: Hindalco Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-25-sep-2026/liveblog/134473774.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:51+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a14c0c7222e684f5",
-"title": "SBI Life Share Price Live Updates: SBI Life's Market Close",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:35+00:00",
-"first_seen": "2026-09-25T03:59:12+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0f4203b700d5a85f",
-"title": "SBI Life Share Price Live Updates: SBI Life's Current Valuation",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:35+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f75e6712205d5d14",
-"title": "SBI Life Share Price Highlights: SBI Life Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-live-updates-25-sep-2026/liveblog/134473771.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:35+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "193e263deb0aaf69",
-"title": "HCL Tech Share Price Live Updates: HCL Tech's Current Valuation and Performance Insights",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:55:19+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fcd730790512e9c8",
-"title": "HCL Tech Share Price Live Updates: HCL Tech's Performance Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:19+00:00",
-"first_seen": "2026-09-25T08:46:12+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7944a19112917cf5",
-"title": "HCL Tech Share Price Highlights: HCL Tech Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-25-sep-2026/liveblog/134473760.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:55:19+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "821097effa1f6881",
-"title": "US DOE announces USD 5.25 bn funding for 31 power grid projects across 26 states",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUlTTzlybVY3bkI1ckNiWmpxRTZZTm5rVFlMZ19DM0tRdkFEQUdkQTRORlhfc1BzTmwwLTVVNXJ5QXVJZ0lhc3NRUXlOR0xkSlFIR3hTcDNnWnZJb2NHcTlYTEJRa1ZvNmR0VXVkMGt3a1YxSElKMXFNV3FZYXlGZTJaZklSVTI1ZFc1clludlJYWi1XdUNnaVV2QnRCUTFPRmRPRWFsQ3M2aEJkZFNseUh1VGd4bm1rQUZGV3hFaDlaQ2JVOGY5a0pB?oc=5",
-"source": "ANI News",
-"published": "2026-09-25T02:52:00+00:00",
-"first_seen": "2026-09-25T11:31:50+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0bd8f10e4a4488fa",
-"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's closing price analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:51:48+00:00",
-"first_seen": "2026-09-25T04:15:46+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f5e5e4c1364c2e90",
-"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's Current Price and Market Dynamics",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:48+00:00",
-"first_seen": "2026-09-25T09:12:17+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "219ad50c354d536c",
-"title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-25-sep-2026/liveblog/134473711.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:51:48+00:00",
-"first_seen": "2026-09-25T13:01:12+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e21721f54594f329",
-"title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:51:31+00:00",
-"first_seen": "2026-09-25T04:46:01+00:00",
-"symbols": [
-"DRREDDY"
 ],
 "groups": [
 "Pharma"
