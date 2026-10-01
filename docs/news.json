@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T01:20:03+00:00",
+"updated": "2026-10-01T01:34:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "79ff9f4cacccc40c",
+"title": "Bharti Airtel vs Vodafone Idea Rs 3999 Plan",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2hTT3JkXzFDd2tNMmJaNnZvWVVmdXBEZG1GZVJpTlYzZWRxUWNEc2kyblVuMnlXclc1RUNOSjYxSG1iZVR5RnQtNzU1WEtJTWVPVVpFaGN4SWRZY2dIeHBMVXNRbnR5SUVtcmVjLV9UamdUcGFjVnpTWlRadWxCdWdR?oc=5",
+"source": "TelecomTalk",
+"published": "2026-10-01T01:29:41+00:00",
+"first_seen": "2026-10-01T01:34:13+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "cce63ed14513a162",
 "title": "Wipro Bench Policy Signals New Pressure on IT Workers",
@@ -50399,22 +50415,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "55d20811a42fec4b",
-"title": "Bengal govt signs MoU with Adani Enterprises to explore Durga Puja-related cultural initiatives",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMEktY2swcWZqR2JiX1V3QVpBMjFYSnlDSnNHb2dzQy1SVDAyUWx3endTWVNHcGJpTTFBMm5fTk1kdFdueGJBa3ZQdEpxNHFaaTNlcnlncy1jaDBSeTVWVmlMcnFtck1BTmdzYkZmbUFJdk1zQk5QSjdEa2p3YmdsdnJrd2RLMEQ3TkRaS3ZnNzlGRUVkWm1GSUlORTVnQlNERHhkYmtjNVdnWjlCaDRUZFdfd1lLdmRLdndoRFB0NHlIcjAwamgxQnk4SVpUSTh5WXYybHpaeTZlOUp6T1JuWXFqWUluWmhSb2wzQ0doeF9HTFJrYnZWYUdlN3oxUdIBgwJBVV95cUxPNVB5VzhlcGk4TkhxLUVwUHBOTzF6MkFydWtKdHZVdFZxdE5yd2pTdWJxR0lMRU85TlhwMWxZMDdfSVoyZkFqeWI4cmU5MWxicXpELThCc0RhV3dTZ1FTZy0tSmtLeUJ2b0trMkQyRGhHOUtFQzdGRXlwbDJMSEh1ejNnSE1DVWlQSHJYOHFQWWtTUWpzX2R0am9NUkI3ZEQ4NjFpMjVVZ29ZaWFJUUswWkhNLVdVWmtkTTFPZThnOUtxcTVrVEZ2Y2xpVWZNWnRKRnM1WGgwX2RQZnpCMWJpNkdJR29vcU5zSWVVMFNET1d3YnVoZ3Z3VzVVV2phb1V1eXdN?oc=5",
-"source": "Telegraph India",
-"published": "2026-09-24T23:45:10+00:00",
-"first_seen": "2026-09-24T23:54:31+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
