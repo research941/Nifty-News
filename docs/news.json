@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T17:35:28+00:00",
+"updated": "2026-10-01T17:50:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "c3d08b21b6355bca",
+"title": "Hindalco Industries terminates AluChem acquisition due to delays",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGdEM2wycnZEWjZDWEY5QmZSSklIbjF3WWdVVkJlT2tEa3lZbDM2TTdOYkMzbmtxQkFMVFpoYTlLRGdURF9MTmVwMTJjd01vQ1gtSXJFT3B2OTBhbzNiWTNNOEJrajROSVRlLWpTZ3R2N3RaRFZFVVdGLWF5ajhLUF9iNUt2QVN1cmRJS2gyQVZkc2wxTlRsXzBPajN1ZktyWmVsSHp2XzREdjAxNjhzOV9fRFlFdGdWcHc?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T17:46:37+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e956741a5032c70a",
+"title": "Anup Bagchi Named HDFC Bank MD & CEO To Succeed Sashidhar Jagdishan",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFZQZVZmS2R5T3E1TFpZd0F3ZDQzQWFYQy1xaGpQSEtmV1ZhYVB5M3cySy1jVGJpV08xM1d5T3NTaWdKTGxnQVBueEJyY0hYTExpLVVhSTNWUlNVeWEzdDFxTGpvN3B1M0NiTEZSNWNxTnBlb2JsYU9HaXZBNi1nZUstb0pBV0lsc1U4X1J6dHFhLWFQTl9ibzRDNU85dmVyNEZkVmRUd0tHdzjSAbABQVVfeXFMTm9MaDI5ZDVTejBYY0lCQ3p2akkyQmx3OUlZWXJrMnhyWnBQRVhZWUtIa2RvTFVjNUhuUXh0RGNPeDItQ2NpQzVDcnBQUWdjcHFLZ0RmajZBR1ZGN1NwU3A3Q2tSQXdKQmlEeVVIRGxQMEZxekxVUzlqRGhZcmgzYXJvOW5WZmtONXhQT2VndzdlOElUSjRiNDVQbU5CRmNlR0hWLXd0YkpOX0RMMWFUUnU?oc=5",
+"source": "ABP Live English",
+"published": "2026-10-01T17:39:53+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "13aae6754eff9be0",
 "title": "NCLT approves Tata Steel merger with Rujuvalika Investments Ltd",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3BhTGJ0VTFzM0daMkpOOTNvV2JRR004aXp3MTZhX2staDFaSHpES19sal9NdzR1b05JNVRxRzkyN0ZyVGw2ank4UzBhR19KS1NyZGhTSFFoZHc0VFNHNWVkalE0V29LX1dMMzJVdHF6UEJmQWJvRjZjajlDTlB3d2ZrN1BPLTdfT0VKWG9SUmJqZFBVQUtfU3J5YlNydUc2VW1EbUlKQ2s0T1FQdGZDNg?oc=5",
@@ -838,6 +874,26 @@
 "sentiment": "neutral"
 },
 {
+"id": "d6c1d6be322d2586",
+"title": "PV wholesales surge 21% to 4.6 lakh units in September; Maruti, Tata Motors, M&M post double-digit growth",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRDk3cUZSbUxqbFZZOW42NENobXRJR2J0ZFdaeHFNd2FoQUFXd0dub0JjbjVhSnFxNzl4WkRFTjJHNzdENHJ5TndzSy1waEMwWGkySWdGVkdhOVNEeFAxenpraVBCMWJCVFFkTENOQWdGTC0xMjV0MUNzalRsNVpabWpIbndXQ3ZFTHAzY3lXcTBTZjJxRm1GM0xJYVdaNmpPa2g5Q0d2UjBVNFRvVGpjb1ZUQzd5emlLZENmeTB5VjZSY1dHTjJGcjRaTE1aTUdZRXUzSTZUYXdwbDNfOElGZkZ6czF5Wi04MXJfN0ZoczVoV09rV2F0c3lsenJfbU5TTWlhdHE5UnNZTknSAYsCQVVfeXFMTUQ5N3FGUm1MamxWWTluNjRDaG10SUdidGRXWnhxTXdhaEFBV3dHbm9CY241YUpxcTc5eFpERU4yRzc3RDRyeU53c0stcGhDMFhpMklnRlZHYTlTRHhQMXp6a2lQQjFiQlRRZExDTkFnRkwtMTI1dDFDc2pUbDVaWm1qSG53V0N2RUxwM2N5V3EwU2YycUZtRjNMSWFXWjZqT2toOUNHdlIwVTRUb1RqY29WVEM3eXppS2RDZnkweVY2UmNXR04yRnI0WkxNWk1HWUV1M0k2VGF3cGwzXzhJRmZGenMxeVotODFyXzdGaHM1aFdPa1dhdHN5bHpyX21OU01pYXRxOVJzWU5J?oc=5",
+"source": "ET Auto",
+"published": "2026-10-01T16:09:57+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"M&M",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "76771b745b247828",
 "title": "NCLT clears Tata Steel’s amalgamation with Rujuvalika Investments",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGVwVi1SNmMxeGxvb3ptdjFwQkZCS2VUWWNRcHZ4VTN2blBENUpkdklQcGptRFBlNTlJaDIxdnpsOEtQNTJiOHpyYWNjS2VRV1hSdkJTUExDQkh3SlpDaW1QRlh3NVBWOEtpeThWLUpoUzFIcXphdEpWMXF3X1VLUzBLOGt1aDdvd0dkMmFHMUo5dFZDaFgtX0hlRGJveXFLLXQ0Qjd0Y2twT1ZoYkdjNXI1OFV3T2c?oc=5",
@@ -951,6 +1007,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2b1a87fcb3ba812e",
+"title": "Airtel Money Announces Share Price Ahead Of London Listing",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUxrbUpBblR4YlBfVG5iNTBfTFVER0tPY1RsdjI3NlRvbl9CWUZ4RUk2cEo5ZTgwRVd6S1ZZTXN5QlVwRHNIQ0k5d0M2RG1tbXBsUGtmb1lzWk5fTy04VExqMDZQcm1oWWNvSUtZMmJHRnJFWkZ1UGp0NzJVN1lxTTBmUWpNWktIWVZtTG1YYUx5UnE3UFF5RQ?oc=5",
+"source": "The Kenya Times",
+"published": "2026-10-01T15:48:48+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -1217,6 +1291,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "10aba129974225eb",
+"title": "SBI ATM rules from October 1, 2026: Key changes customers should know",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZFlNeUFISEF1aER3ejJ5aW5nQ0lQamdpX1NqaFZ5anFtd1IyZHJUcUtBMm11WWhfQ1lQQlFBY180RDh0dFRGLVA4ZHVveThqWG9ldFV1MWFNS0pYN1lsRWlqeXY0R3pNcUp0ZlpqY3dCR0w3R3huUkZkZXhQaGQzd2h6TTlHZm1IbWk2VHVOUnQ1bGVVdi14UzR1bFJlWC1QQXRDbFZXSmxpdFptX2hqVF9ScnVQZFNUeGhjaU9BWEsxTXpLcHVhb1FBcnIyX3RjZm5BYjFoZVhOUEFlbXMydTFOVldlNDkyeFZhbGQxZnZpQnpOLWFTdA?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T15:22:54+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6852,6 +6942,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "349ce6ceb40322d1",
+"title": "Wipro (NSE:WIPRO) Extends Alpha Net Acquisition Completion to December 2026",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3VHY1V2akctQUVNWFFaVUR3V3RlTnFKcGd3em5KQ2hvZU5uZnpEamg3aGlHRXFtUDBmRUJKU0FLWkcxd0tZMGdjZDh5Ukt1dWZKU2g4WFI0bzBmcDE3cFJQTXNIUlJteDcyMDBLM1hCT0I4V05QTGpuMHZJb1VORXo5bEpLcGR2c0R2ZGJOeHJXVkN0bDVqWGRnVDk4QmZXaGJLTzZKSTFqM3lEMXBfVlhKNFhjekYzazhLZTFDeDgwRTg?oc=5",
+"source": "kalkine.co.in",
+"published": "2026-10-01T09:08:00+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -16640,6 +16748,22 @@
 "source": "CarTrade",
 "published": "2026-09-30T23:51:17+00:00",
 "first_seen": "2026-10-01T10:18:58+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4a8905652436b7e7",
+"title": "Second Hand 2015 Maruti Suzuki Swift Dzire VXI for sale at Rs. 3,64,342 in Ahmedabad.",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3JtZmRxTlQzMFhmNkEzcUU1YVFVay1rMmNveVpsODl3Y3hnVUVQdGJrQ1lzbGZDTU1IVTR5Ni1RZlBvdTZlQWRJSmJGdTVrWnp3eldMLTFEY09QdjB0S2h6aGVUWV9GMjliNE5VV2NwZ2pxY0xQTllsYzdSRDZySEl1VFhZTTRVV3c?oc=5",
+"source": "CarTrade",
+"published": "2026-09-30T23:40:49+00:00",
+"first_seen": "2026-10-01T17:50:25+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50597,122 +50721,6 @@
 "groups": [
 "Adani",
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "04eb1549ed37e8aa",
-"title": "Kotak Mahindra Bank to integrate Kotak Mahindra Investments' operations from April 2026",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWl6QV92WW94NTFURnB3TTBhYkFOd0YzWWJwa2FRQ3p6ZzdyRzd4QVJhNTZweGM3Nmh4OXBGUm9BS2NZYzZHMjZoV3ZRbE51Y2hmb3RSalZFSEltYzE0QzhVUUNCLVVGQzVYQS1CMmp6WDkxaDQycXdUUHZrcUtFXzlCVmZxM0tHRnFKQWZTMXI5Z0JRb0ZiejVzdGY5UGxDV3hsczhjX25IZ3lpNGFtSVBrWExjeVhuUS03V0JFUjE?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T01:29:11+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eef0cb0e393462c7",
-"title": "Tata Motors Commences Voluntary All-Cash Tender Offer for Iveco Group Shares",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjFtbVFpd09PNEY0ZUpLai1ZdlM5MUxHTXJzaGpBY1hnRFB4cWNXZXlkc0d4Y2tsMW5ZLVZCMm9yd2lacHl1bzhJUUVxOEE1NFUtbXRrdkVSVHpIUldEakdMR1ZMNFNkRTlsWkVJWm1VblpvTjg5T2FxZmFlNy1jV1dxM0hWZ2FzV0Vfek1iWVZBZkhPUnN6UDNMOE12anpkY05pYTRkQ2wwT1ZIWDZN?oc=5",
-"source": "Machine Maker",
-"published": "2026-09-28T01:25:18+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "69d1e110f2c8b287",
-"title": "Chartist Talk: Nifty’s 23,000 support at risk next week? SBI Securities flags key levels, 2 stocks to...",
-"link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNMHhaYmN6NHV1RW95WnlpaEx2OVlFRS16eEwzSkNEYkhacDk1RndMaE5oU25OZTllcWNNVlBzSEJadWtuYi1FQWs3aHl6M3RZQk1GZDczWFF4LTVNY05WZWNnVXZ6Z0M1dVJhZ0lwbmtIUVhYUmVaZk01ZEdfcWhRbDFndTZYa1ZXMzFFUDJieS16VkxqWXp3amhmU1FxMXl1VWhOUHJpN214RnRzR2ZPRXI1bktOTFdBMmNILUtHWDFfMXYyZnhNdDM4cUh2V2pCTzFGRXRwQzVqbk5Bdkl0VkhtWUthRFNNbDlXZl9TcV9TcllYMi02ZmxnS2RGSmpiN1lXdFZQbmtUSFZjQjlQbTZkTkU1bnFGVUgxRUNudUxxUUJyTHFyR2VvV1I2UjZKbjZ0TGFsLUZJbThOdlZJ0gHEAkFVX3lxTE01LVh5SE5FS3hVNW9oVlVrWEdrVTJzZzVpV2NtX3R1TWlTY2hrUDBhbXd4dDAzU2J5RVgydDkwWW1FemVwbDhPTUMxMlM5SVNKOGRwcVF6YnZ2Szd3LWRKdHFiM1l4VW5MS2RqbzBZLTh1Z1FOM19SZzFDaUpDVmRqZFpoOWJZOF9DZFdlTGRaUHh2ZGYwTmhsNGNydTBIQ1BERnQ3ZUVOYnl6VTNUTWRiSFlHUHJ0cmxLZHUtZHRtZTQ1aS1uS01vQ2E5bjczNzdwX2xqeERNU2tWbWdUSmVzSlR0ckNSVkM3OGsydXNFU3ltaXliRDlQQm5waEptVkpzb2VGcl91Q19FMFMtV2x4OVRtNURRdUtwZ1dyN3R0Mmk5STJ0SHhGSG93aDV2aU8yd2hsMy1DenhvRVRyanpDSGlabA?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T01:05:53+00:00",
-"first_seen": "2026-09-28T01:18:12+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1b8f3c97b90d8f16",
-"title": "UFBU bank strike deferred: Is your bank open today? Have banks confirmed work on Monday? What SBI said in a late-night post",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjFkRWpDX2VMTHdQWS1IeVhMYVY5d0lGSTAtbm1Fbk5GdFN0WXY2bmVxOGRyT2s3Szh2NGxJU0Vvcy10a0t4Q1VxaGRRQlVrQldaNHI5dTJWNFB0NlNWM05vME1ONlZQOV9BVEN3S2pUSGRkQUxIZHBnc2pfTDhOVHZ6dHMzbUNPZmlGcHRWT1JqS3BFcWwyOFZZcF9abk1ZTUV4TWtUcER3dzM1OWVGNGtWbjFBRlRVMkY2ckl6YlFfemRUSnNTMG41MWlFbE4xTUFrQ3RCbGFpc1HSAeABQVVfeXFMTWZ2eFBaYnRqWmJNRFhsZjRYa1pPRGZJNmxZeVFaQTYwakRJMXluQ1duX0dTNURFZmhEaXlVZnpTSmxnYUZ3TnpzVEg1bUFUU2lNd3l2eTlhZEV4a1lCSThoNDZIT1FtMHRvUkZ6MUltSVkweEFBUS15a05ZZ0dBWXVtaG40WVhzZFNKbmpBTndmRUNNVHk0anVzdDNsSlNkSXdhUEpzOW45U2k0RHB2SWJuT05JVTV0TGR0UTJVcmp5SmJrdml2SnFDREo2N29QdkcyaGFRdG5XU3VxT0oxVnQ?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T01:01:42+00:00",
-"first_seen": "2026-09-28T02:33:37+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fd1c039962c1c292",
-"title": "Weekly Recap: HDFC Bank ADR nominates MD/CEO and share down 25% YTD",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHp4WFBXSnhwMDFOTW9ZWExQa3FvcjFVRm9iSzVqdjhURjE3eThlMjloSnVnUGY4Q3FDSm4tb0JDVW9yb01pcFdMWmZ2LXV2Ylp3dk9SS0xoeU5wT1pNeGZZT2x2dTVGMEh6T1hKUXB5XzdGNkVMS1hmcnNuZzdpcmtzYTVzazlGSTRaUGJ2N3FDUFBEZlZId0pyeEZweXYxT01yZDRuT0xBbVFmY3dFVEtNWGRUN3FSUFN4TkVZbnJJTEtWWkE?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T01:00:00+00:00",
-"first_seen": "2026-09-28T01:31:32+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c55709dbf0fd8803",
-"title": "Stock Picks Today: TCS, SBI, BPCL, Lenskart, PB Fintech And More On Brokerages' Radar",
-"link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaklHYTl5N3pzTDdnR1o0clhQMU4xMlJZUGNLNVZfd0tHN21ERmdhNnAyTnN0QlV3cFFPYkZLYUlOb09rTGs4bTduTzQ3dkhBZGFXT296RHRLNzVKejNmQnhHYzduTjNGTjBXQVZNVnhwWFpYR3EzYmNBUjRTeVJRaTZxQ21ldmI1dXQ3MENNeHpQTTdydU91LXo2WktpQmxyQ2VfMVY1MnRMNjlXQzV0czNnNl9kdXFydnlVLTVpY1o0ZElLT2VycEhHbHZrTndRaGs5LWdXOE1ucHdscFU4NFlOM1VZek5PY2t4SEtRSXNTSXJXN0s4ZmtFV1EtMGtBM0JBZ3ZRZWFBRGg5a003amU0WnN0QmRRWXIxcHBn0gGmAkFVX3lxTE92MWV3UnVqSERpOHBuRGNjWG1QT1cwci1ZSjFvcWtaS2xJM2VVUTFnT0g5MGNJTkZRd1Vza2NkSm1oRUxzR0paRkxFVmE4cVY1NTRjUXJlX1NWMHMzMTI1bkVqNkRiVnhyenozVGF2T1JqYjU5bFA2clIxOUpOQVVwUUxlS01sNmZlR3RYY19RX0ppTlI0QS1mbkhsUTVfQ1ZYTm1raVRoMjlzTmN2MkZDLUxsYzdGRnpVLTBSMkNlRUVCZTdxUHowZFJ3Ykd3UDI4RUhNMy1XSGpFeWJ0MS1wYmNGak90WUcxelRjYi1weml1N1JyRHllR1cwRG9OM1AxcDZ0bjhXU3FEWHdMSy1CQjk0TDN0ZV95TTVpdENweVlKcXMtZw?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T00:55:30+00:00",
-"first_seen": "2026-09-28T01:18:12+00:00",
-"symbols": [
-"SBIN",
-"TCS"
-],
-"groups": [
-"SBI",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2d4ff221da22e0ce",
-"title": "Faruqi & Faruqi, LLP Urges HDFC Bank Limited (HDB) Investors to Seek Counsel Before the October 12, 2026 Lead Plaintiff Deadline in the Securities Class Action",
-"link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcVIwZEhibnFxZlNDbkpFLVJTUmFNNFFzTm1BMnZOd0U4ci1LdWpwT2pHQXlZRGd2X1VTa0dSOWJjVWlIVzZZeGUtdnFBRnl2ZXRnTmtYS1lneldYY04xQ1QtZFpUbmlUNW54YkFWek9qbG1KMVRySXZDSVFWb2pkSEk3TXhHcDlrS29ybko5eEZJNkRwc2FwaGFGQnIxY3dWR0kxSnV5bFUydkt1NXRCQU9pNmVRWnNnZHlNeUJmZTJhSG1XcDVTWW5weWtzUTRHLW1SS25Fa2k5cHJSb2J1V0Z1c2tfNDZyVXowTmNvZDJpa2d2Y0dXcWNYVEJXMGFMWGJ0NFRVSGVOUWdMR2w2cnI2a2lyd2UxRERNTHU5dmNwVXM?oc=5",
-"source": "newsfilecorp.com",
-"published": "2026-09-28T00:54:00+00:00",
-"first_seen": "2026-09-28T01:18:12+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
