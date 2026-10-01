@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-30T23:56:34+00:00",
+"updated": "2026-10-01T00:28:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -472,6 +472,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1b96ef834fb7af4e",
+"title": "Infosys Ltd. ADR rises Wednesday, outperforms market",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1BWckhKcEJXUTFBbjI5eDRYX0NvSmk2UjdKS1FkUWVHRVNWUUpuMUlROGt4VnlzLXdMTlcwejloZG9XTUlldWJmenFER0JzdFNMLWc3SDEtQ0Q5YXZMMVdRZmRGUWRiUTVzUGZrM2dPMWwyX0hLVnJKREE0QjNVbTVtWjZYMUlBTTVudFFsVDNJaVRVMWxzY2U1VkFWZXhad1VySVZ6a21xTTVDTG9YcTFfdmZRVGFzSGR1OUJIU0pkNFoxUnlz?oc=5",
+"source": "MarketWatch",
+"published": "2026-09-30T21:26:00+00:00",
+"first_seen": "2026-10-01T00:28:46+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -1154,6 +1170,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "90dc883888ae6080",
+"title": "Trent Alexander-Arnold tells Thomas Tuchel what he wants to hear as Anthony Gordon responds",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRF8tQ3JTRTBTcnlyTlF4UGx6cWdWUVB3WlBuVkdsS0FVR0pVbnRoQTlXRHRBbnA2bDFYQWNBNXhYOFBkY05EdkxkLS0tbDIyWnlWb28tTVYxM1hyZENWaTNnOGlGdTFaZDdBSmFUNnF2LU50Yk8yaTJIemwxNThOblRFbGNkS3JmSDNPZzg2bDlEV09fVE1EbFZkZnhmRFJ4T21vR3ZqT2UwUVVHQU9R0gG0AUFVX3lxTFB6U2luOGlfaHdDQk9YMWJWcUYyMWIzWjJWVWI3NkxyMmp2UTRFdGt3aURoOW4tbzR5c0VBT3ppNTExcFE1c3A0eUs5d2l5SjJ6Ml9GN0pRYUZTcDM3OGhCNFNCU0JrWjlRa0JGdDdYT0xZMmdqQ1hiZHJpVkJyTHhKTEs5MVh5RzEzODBTVXVFMzFOb1JaUUNuT2dKel9WRHRFVkJZV1hsZUllbjlkWmlJRXY3WA?oc=5",
+"source": "Liverpool Echo",
+"published": "2026-09-30T16:29:00+00:00",
+"first_seen": "2026-10-01T00:28:46+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50382,40 +50414,6 @@
 "Pharma"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7464e1d238ef1e83",
-"title": "Infosys Partners With Chainlink to Bring Institutional Finance Onchain",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lbVUtNXdNNmxhcHhTUURST0hIWlJQVHYyQUdhX1E1Q0I4XzNBQnc0MVNab3BPZ3g1cnFKYkhGaDFCWDNFRkxGRmZKMmpqTnoycGxmWmxzUExOMDRxa3k4NzJNc9IBY0FVX3lxTE1lbVUtNXdNNmxhcHhTUURST0hIWlJQVHYyQUdhX1E1Q0I4XzNBQnc0MVNab3BPZ3g1cnFKYkhGaDFCWDNFRkxGRmZKMmpqTnoycGxmWmxzUExOMDRxa3k4NzJNcw?oc=5",
-"source": "Bitget",
-"published": "2026-09-24T22:30:15+00:00",
-"first_seen": "2026-09-24T23:42:28+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ef09ca1fd4df5a63",
-"title": "London welcomes Airtel Money’s $800m IPO",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHFMUVJ5eXhONDgtZVNfZzlIV19HLXRHWE8yWVA5VEgzSldFU1pMTmVQOXFsUjFKWEUyRDVpcXFHRVFiZXFYMFBmeEFuN05sYmVtajNpam9vNHpqMEM0QUdFNVM3aEVnb1U5UHQtM0lwM2xzSDRmQjlBaDV1MlZCWWprWQ?oc=5",
-"source": "African Capital Markets News",
-"published": "2026-09-24T22:20:24+00:00",
-"first_seen": "2026-09-24T22:30:32+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
