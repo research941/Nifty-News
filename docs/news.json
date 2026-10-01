@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T02:34:32+00:00",
+"updated": "2026-10-01T02:48:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,97 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e745c7af81d9a2ba",
+"title": "Kotak Mahindra Bank gets RBI approval to appoint Anup Kumar Saha as MD and CEO",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVk41WXBCMUZGRUVsRDlEUTlOdDdvQUNaVmQzRHV0MDc2eUpCTzNoZzJqX05rSEVhOGM0c2F0N09qZ2xqTEkzczFlUzFicFdpOEdteGEyOHVOUzBTY0JPRjloQzBwTDJHTVhCYWpUOHkybHRuRkU3M1QyeE12T3NaWWFDWHp2cWdNSFZXaW5rVHpHQlNsamtqV3Qzdl9qZExYT0ZNamVPV2sydGN2aWpJSGpsSzhObUp1d0h2d0JyZw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T02:43:35+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "71ee08eb7f04b972",
+"title": "Kotak Mahindra Bank Appoints Anup Kumar Shah As MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2NXUmdrclZfQV9VNVhIQjhveUZvbFQ1NTBnemtsVEIzWXp5VF81Zk5SRVJSY1ByRnVhZzBsSXFYRjFCN3dLbmRXdjMyNXAyZ3RPcHp3alZBQ2dhV0E3dEFjb0ZrQ2FaOXBKSnNHYnhabHJDSHlnQl82TnZPWFkwM08tdlEycHVjbFhjQWZZVnMzUUdHUkdBU1NTZklNVk3SAacBQVVfeXFMTzFtUmdUY3JVTGZFMTBlb3RhUmxjMHg3Wm9jMW9wbnJyVWZRejRiVDZxZHJqZ0ZtN01JbjdWN2hxVFNpLVVRTjFremdqT0dtOVh6NzBLcFc2NmUxYWpuUHhrZnI2QlZwSHdFTkpNeGtYeVNNQUs3cWdfSU16SGNGZkZyc2RLZU8tamRLeVdMcks1Rk40S2x6c3ZpUUppcHVNYklTZGZqWGM?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-01T02:39:44+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "88c2cc1a79f05d7c",
+"title": "Infosys, ABN AMRO Extend Partnership to Accelerate AI Transformation",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmh0QWhUaXlGY1ZUSmpGWTFVcmNTSUdUdWc5REZuZVdlNjR3VnVHUTUtZkdwRlZLRDAzQVRrMk1JbXNaajd4WUJCYkdtRC1HaGhEaF9SRmM2N0FpZGpGTVI0aHZjWW9NZldqUTc4NkplREVWak9KWEZLSm1hYVhfZmdsMFBjOXB5MHVyTldQekxLU0pYS09JaFVYbjMwbFpBMUpWOFNCN1Y2SmVGc3pxdXZCYnk3OW5pQjNYSw?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-01T02:35:14+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ffd4545912743bac",
+"title": "CAFE-III Norms: Citi Favours Maruti Suzuki, M&M, Hyundai; BofA Sees Tata Motors Best Placed",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0NlWXRtbmVFdXdSRzBxRFA1LVdkcU1Uam1RVjV5OTduWWIxRHFJMTlkMnFRbi1zNWVXd1ZIZHV4bE5iUjVTSkNNaEI1eFRaWXBoejBGTkpfaC1GZHRsaS13MXRvZTJQX21VbU1wREcxaTBIT3RSbkVTZVN0RktaT0NhLTNmb3E2c2gxRjFfaDhfMVc1by0xbTV4cDI2TGhEeW5VUUVaaGxtUkp2Mng4dHVCMVFOWExXRnAySjVZdFJtbXI4eEhka2ozWdIB0wFBVV95cUxOSWRqQXN1b0FrN1BsczdDa0V5NWNYSk5Sbm5qSWtaTFliTUdHTFRuQnFjSWt3NnUwcFJVOHFoOGV4OVNTNHZZME92NlFtOGE2Qkg4THoxbldYbDZwcmtfYm5yZFpGZFI2TVg0bjRGcl93dFh5eWlaV3VHNjQySHB0aGFHaFFtZ0ZtN1Zfc2RPREpyc0ZhOVAxa1hQcUVnWV9FUUhocnl2QWVfYlJmSV92WDhHZGRyNnlmUWYtSG45ZTUzTURrd0RacnNmWWhOSlBrcHU4?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-01T02:32:46+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"M&M",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a4eb6cdc285b44fe",
+"title": "Stocks to watch, Oct 1: Auto stocks, Tech Mahindra, NCC, Aurobindo Pharma, Linde India, power stocks, Transrail Lighting",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlpaTWRlTWFhSERweDFaaFIxRUgyRjZNSWdzWENoU0w5TDhTcmlBUWQtY0M5Y2J6STVLb1dPRTRFWExUTDVKZ0ZwWUItVVBBUk9zWkpmNDhDbEVtVlg3Y2ZVVGhoZDhnVG5PMWZfWC1EbEs0T3M4OHBLelVaY2VhQnRvaGNRR3RQZkFTN0l2NTBZaXhGNzFGN2JOWVloZy12Sy1qb3ZfQV94ZU52ME0tX3lLN2U3WUEtWElZenp1RXhVRTkwc0tfSVpFdXQ0SFdoWjc2ajMwUlZET0RLRjZvdTVrNXZDVjQ4UjBPR0lXTGNjREFjekkyR0RVV253azdC?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T02:31:57+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "38b5001e8f668958",
 "title": "Bonus Alert: 7.1 lakh retail shareholders of Tech Mahindra to be rewarded on October 15 - A look at past trend",
@@ -3043,6 +3134,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "939e92d2780c1bc9",
+"title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-09-30T12:42:34+00:00",
+"first_seen": "2026-10-01T02:48:58+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50326,102 +50433,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "ba3b5d338efa6bb6",
-"title": "RIL Share Price Live Updates: RIL's stock faces a downturn with three-month returns at -7.19%",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-livestock-price-today-live-updates-25-sep-2026/liveblog/134473548.cms",
-"source": "ET Markets",
-"published": "2026-09-25T02:40:04+00:00",
-"first_seen": "2026-09-25T04:15:46+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e8f95856506c0e91",
-"title": "Apollo Hospitals, Billion Hearts Beating Foundation And Marsh India Launch Smart Ambulances In Vanagaram.",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHgtaWtfbmZlXzVydkthOHU4VnlrU01MLUFHTHBOMVY1SHp3bFBOTTM0QXZaZDE3ZEdIRE9NeHhraUhiakliZWVNNG45S29EQXFOdXJWdTJNWjRYS09YUnNXUWZhbkJpaEtUaXYwdVUzaDF2d1VWaC0wdHpEY3E3cEJqRVM4bEhDUWpkODhJMDVxcGJGQV9MMWVpQU9rOGR5ZEsxa3NBSzIxMXhvYlBIa0tiZV8tNHYyNEpHcDZ0ODItTmc2dVpmTk1lVDVIeG1zS2c?oc=5",
-"source": "TRIPURA STAR NEWS",
-"published": "2026-09-25T02:38:57+00:00",
-"first_seen": "2026-09-25T02:43:59+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9df319e22417f359",
-"title": "Power Grid Share Price Live Updates: Power Grid's latest closing figure",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-live-updates-25-sep-2026/liveblog/134473438.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:31:00+00:00",
-"first_seen": "2026-09-25T03:59:12+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9db081cb6ee2a242",
-"title": "NTPC Share Price Live Updates: NTPC Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-25-sep-2026/liveblog/134473425.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:30:26+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aa3e590140552a57",
-"title": "Infosys Share Price Live Updates: Infosys Current Market Position",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-updates-25-sep-2026/liveblog/134473418.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:30:10+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5d92ad4fe8dddb58",
-"title": "SBI Share Price Live Updates: SBI's Previous Day Closing Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-25-sep-2026/liveblog/134473416.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:30:08+00:00",
-"first_seen": "2026-09-25T03:59:12+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
