@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T01:59:10+00:00",
+"updated": "2026-10-01T02:19:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,60 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "83896aa0b4cf1f73",
+"title": "Top stocks to watch today: Infosys, IRFC, Muthoot Finance among shares in focus on Thursday, 1 Oct | Full list",
+"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSTAzMlNwZVNWNTNBZlROazI1YWRwelNNTUpZb2FsaHhFakk0MEoxek9GaTUxVWI0WUNIVFdLTFVLUHRUdGhaWW1RN3NEWklfZE53b3dDOXgwRGZORGY2M1RkZHdmR1kzRTBmX09KbGd2cjM4THhIX3R4QkcwQXhKc2h2ZzNSak8yMmw3anN2U080eXlhSV9RMzlHWVhIOWZIajBKb2pYRU5EZnkzR0xfOUtQSWY0YTdOa1dhNndITGZWazdkU2s5MXAxNmMzdkRKTFpXdFE1SnNaVXFFdFJyVHFvSlFySm0zWWdjLUJuWVl2VnRyeEw2b3YxX2ZMemRmODdVT1dIS0VEN1lMRU1v?oc=5",
+"source": "Livemint",
+"published": "2026-10-01T02:05:02+00:00",
+"first_seen": "2026-10-01T02:19:16+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "40687d99d98f150e",
+"title": "Stocks to Watch Today (Oct 1): Tata Motors, Tech Mahindra, MCX, Bajaj Finance and more",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmhuMGxrWlRaTXFhTmpDVVlkclBibEU3eXk4NWFVemJjc0lCLVBLSHdleHdwcU15UHFETDZZVFJxdzEtMkNyZUNiMlU5NTNXZERacXdUUlVMbEh0M0NpczJJS1dsWUM4N1JHWFNtSktVWDhTalJZNGdZdHJUWHY1WGdFLXFnVk1LeEx1NVlubnNoWlA1bnhEbVM3dElaVVZHcEhHajFDMWpKem1IcFBMSF8yWkZxSnpvTUFlQTNBdkJlTkcxNFE?oc=5",
+"source": "Zee Business",
+"published": "2026-10-01T01:59:37+00:00",
+"first_seen": "2026-10-01T02:19:16+00:00",
+"symbols": [
+"BAJFINANCE",
+"TECHM",
+"TMPV"
+],
+"groups": [
+"Bajaj",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e59972f685b063e4",
+"title": "Stocks to watch today, October 1: NCC, TCI buyback, Avalon, Apollo Hospitals",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVlUbVNEUmRLdWtIbEZlS0M5dldWX0JiUW1ZRGhGZzRxNFFpR09lSU5jN1htWVBLbnBmM2VROWdxU3FLd2I2U09WRXB6S2VyTzZ3dGVjUVNfOHJLdTZZeU9BazNuQ3RmSEt0cVJEWEo2YWFBcEc5U095cm1UeFZaYmZjMXVybEh3Wk9Vb0JsMjRQMkQ3cnlOaGR3TEE2NGlKaEF2cWZpMFptYUFvcnVGejdpVzAzdlJicHg0S2hoaTNHME1Id2pR?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T01:59:05+00:00",
+"first_seen": "2026-10-01T02:19:16+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "e5fece73934ecba0",
 "title": "NTPC TALCHER THERMAL ORGANISES ALL INDIA COMIC POETS' SAMMELAN |",
@@ -50370,58 +50424,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "d3a246315b013265",
-"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rises 50 points, Nifty above 23,050; Trent, SBI top gainers",
-"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-waaree-energies-pb-fintech-share-price-25-september-2026/liveblog/134473224.cms",
-"source": "Economic Times",
-"published": "2026-09-25T02:08:45+00:00",
-"first_seen": "2026-09-25T04:57:14+00:00",
-"symbols": [
-"SBIN",
-"TRENT"
-],
-"groups": [
-"SBI",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "bf0fba60fba2c139",
-"title": "APSEZ, 3 more firms in race to develop Vadhavan port offshore land | Mumbai news",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGxsajExNE5lVE1lSGl5bUJ4R2ZURkhiMGFwVW05dWZQcTBuYzZkR3V0OEwtMk9OeTE4VHdlOFl4MFhOX0lXazB4UkFDRWFKaEpzQUFJQW40azdJQWNtVmZoSmszMGRkYUFuTkpiM29jaGktalF6X1RtOFVEMnJjbmxGRFV3WWsxTFRFajllS3lFRVI2QWt1cEV2cEg2d3d1b00zZHpQc1hCaFowS25MWU1SbTZQSGJ4MkZwcHd6MFFmQVFweEs4RTFqWmRCREFlZ2fSAdcBQVVfeXFMTmpONEdaUVpIcnR4UjBCOEo0VEs1b0cxdWlHSThFY24wTnVNWUFEZFJzU1JVbWlmdDdLMS15dWszdElpVERqMmxINlJVb0pSNUt6R25VQUpGTVE4RFBJZEpKNkdMdk83c0JOQUhyQjZPLU5ZTXkxc0ZDSVYxQ3E1UXlmMHRMR2VWcERoem82RTJyRTdEd1FPZzdmYjYxNmRkWmFlT0NUS3dvRUMyOTVjOUFaRUQtYzc3X3VIZ3dQLTA4Ul9rTHZQazFOT1lBdnJxdlYwRzkxRHc?oc=5",
-"source": "Hindustan Times",
-"published": "2026-09-25T02:03:10+00:00",
-"first_seen": "2026-09-25T02:16:58+00:00",
-"symbols": [
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "30e70939afacbc0d",
-"title": "Daily Brief Financials: National Stock Exchange, M-DAQ, RBL Bank, HDFC Bank (ADR), Spring Real Estate, Bajaj Finserv , Insurance Australia, Link REIT, Metlife Inc, Chubb and more",
-"link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxObTc5cDRaaU1XZ29uUWlsQm9RVzR6SmhfZWpEd3lQN1dCcjgwYmEzdURFSDUxc215TDE4QUJ0OXoteXM2aTRMcjdQdHRPYm80a2x1aGFHSlBDSFEyRjVEb3dCYW5POTBOcXpwQjZSYlB0UlAyLUx5cElROE1MMnZOR3F3dlNySExRSDRxeEc1OU9ZenlLR3pLRHNmUlRsVVUyeXA5dkpHekRKUjh5YU00anBheHVZX2R6R0t5cWpROFYxbkdiTEVRMkpqaU1LcUpiR1Zwc0FXZHptWXJ3TmlaUjV4aEFiMWpBX1JhSVRqRHRFTVdHOG1wX0RvaFVmUTRlTjdIZWZPeTByeFNWWnYyYTFUUm9GVVVWV3RPekc4dE5wd2xoUHVrMGZtcE8wV3E0MEZ6NDJn?oc=5",
-"source": "Smartkarma",
-"published": "2026-09-25T02:02:04+00:00",
-"first_seen": "2026-09-25T12:50:11+00:00",
-"symbols": [
-"BAJAJFINSV",
-"HDFCBANK"
-],
-"groups": [
-"Bajaj",
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
