@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T08:54:41+00:00",
+"updated": "2026-10-01T09:08:08+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,123 @@
 ],
 "items": [
 {
+"id": "e4c05d4958975807",
+"title": "JMJ Fintech allots ₹2 crore NCDs, secures ₹5 crore loan from Shriram Finance",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUgxMlhzcGU0bkpjczU5ZU40bVJIaTlwNUh0WGNRQVF2S1JtNjM1Vm5jV1FPT0llNm05RFJ0aTZNZVlqNExUVTVZZmFNVEdtUW5ac24yQkZxdTJMaVBGd3ZtUTJYQl9mWkNZNFdZWlRSREloTU9TQkt6MFVJdjlId0pjaWFiUHp2YWRQT096MXNqYlowbWFhYUtHUldOY0N6ZDJyWVpiSlQzQkpGcUw4QnlUa3ZPQQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T09:05:01+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "f6e2deb7b0288fe6",
+"title": "Tata Motors' PV Sales Hit A Record Of 2 Lakh+ Units In Q2 FY27, Up 40%",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFJ0clR0X0Rjek5QRTNSamJYN1p1SlAtLTU4V0JXUzhlUVpoSFNmRkFxekdYc0JBVHRjSVNxNWhIc2c0TlRWcmRKWHFwaUN1WW50aUlnYlhEQWppM3ZLaFhqUXl0eUlXWjNkOUhGNmNRV2FuZDRmQVA4UEpoS3Mxak1pcUpmbVBWT2c2eHlydWxSbHhq0gGUAUFVX3lxTE5kUnRyVHRfRGN6TlBFM1JqYlg3WnVKUC0tNThXQldTOGVRWmhIU2ZGQXF6R1hzQkFUdGNJU3E1aEhzZzROVFZyZEpYcXBpQ3VZbnRpSWdiWERBamkzdktoWGpReXR5SVdaM2Q5SEY2Y1FXYW5kNGZBUDhQSmhLczFqTWlxSmZtUFZPZzZ4eXJ1bFJseGo?oc=5",
+"source": "Gaadiwaadi.com",
+"published": "2026-10-01T09:01:44+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e515ccd8db1c62fd",
+"title": "Tata Motors PV shares fall over 3% despite 40% Q2 sales growth; Nifty Auto index down over 4%",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb01VMHY5b1BidTFKZ3lzRThTdnFuMlVBeFFOdFBtSG9wal9tQ3p5RHNFY0VEd3UycTBJLXNkbHA0b2NkX3RyNFNWV0t5WmlmZmgwaVMxcGpNZGtUNlJaWUJtS09LemJPM0hhRkk1UkpOSDV6U0FqTXJnZHhtMXJKYjgtZVJaZjhWd2tORUEtNzhtNHBJZmRzR2xDUzBpM0tsWXBsenZmNTVTd3JiV19nY2FtVnJEZWJIUTROTjBfNW9Ydm1hejVXS0JyVlRXSE04LXBBYlpJWVFNUnpsZ2xzZm8wb3NYcGhFYjBnUGJNdjM1d0pRa1NXelFqMNIB-wFBVV95cUxPb01VMHY5b1BidTFKZ3lzRThTdnFuMlVBeFFOdFBtSG9wal9tQ3p5RHNFY0VEd3UycTBJLXNkbHA0b2NkX3RyNFNWV0t5WmlmZmgwaVMxcGpNZGtUNlJaWUJtS09LemJPM0hhRkk1UkpOSDV6U0FqTXJnZHhtMXJKYjgtZVJaZjhWd2tORUEtNzhtNHBJZmRzR2xDUzBpM0tsWXBsenZmNTVTd3JiV19nY2FtVnJEZWJIUTROTjBfNW9Ydm1hejVXS0JyVlRXSE04LXBBYlpJWVFNUnpsZ2xzZm8wb3NYcGhFYjBnUGJNdjM1d0pRa1NXelFqMA?oc=5",
+"source": "economictimes.com",
+"published": "2026-10-01T08:57:00+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
+},
+{
+"id": "1798d4d543aa4114",
+"title": "Four factors that likely helped Anup Saha get the top job at Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29LUzQ4eHpaTTNTNTlIZFhPaWw3SFZIZTdwbFNBejhTZVF5X3Y5aEY5ZE0xcVdTQTE2V1ZaVkxVdnVDV2Q4OVRyRG13NTNwLTNCTWp3clAtbjlxNGNrY2VXdE9MNGp2UzRLU0NJMGh6elFnbUQwMDVKbmtBYWZvRHVuUXZKTVJWWnc3eUpFb0pmUU5xdGRBd1IyOFBQMHpoYlFyMjNtY293VWdhalZSQTV3ekVxLWNnRXRNNWstMnZlLUs4ekg0Q0FuS1NJa2V3Zk5OOXhPaGgtazDSAeABQVVfeXFMT1Y4S1lNLXZDSGVHb1lvNUFEdV9RLXJKWDFVRXJtT2FidFZCR1JLd1E3M2JZOHY3Rlo3S00tZFdyRUtIM0U2Tmc1U2NJQnJ3d0hUaDBVcnI0NWtVaHhLSjFoTkFqQnptWmVULWcxd0w4S1ZqMEpITndIazN6RE1IRlp1QU5wd3FQOWxPMjFPME13NS0xTXhtNHJ0WkJ3bmJKTzF2Xzg1QVMydVZ4ZFdpU2ZIX1c1Szk5YkNFSXBzZnRrcTZ3eFRfM3ZKVkhuWjREWWpiSWE5ZlVOdUdxM0RpazI?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-01T08:54:41+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "48a953f33094a1b1",
+"title": "M&M races to number 2 spot in Sept passenger vehicle sales",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1hpWmE0ZnJtVzlfWGVBODlZUHhiQ3RUY0QtanFtNzFHd2JCME9jd1hoTzFFZ2xDMDNDNEdJSy1TNVBfMmQ3cU1LT3lDXzV6anV1SE1RN1p3QXVVMlpVS0ltd09VOXBGcmlVckdRaUZIazJJcU5EeWVWWFBnNUtjblpwSVhDckRUTEhWcXExWVZaOU5CR1dmVzZyN1NUWXNNYV9naEd0eFBiOFdrWHlLU1FKb2JhRTNkZ3hKbl9KOWlQMGU3MDZEaDJfSXFROVHSAbsBQVVfeXFMUERneHlhS0h2YmI3cTEteFZ5OUQxbFJ4aFV6LXFQQmJoeE9JNUQ4b0ZVV3lIYl80dUMyb05rNFh1aUNCcW8wVUhaZVU5blJualJ4MnR3U1REVzB4b3hPYnhsQmR2RU5feElOR1pIREhLWC1oWmRiMzNUaVVPckd0Mkd1djJQSTBuMVl5UnlBbFFEZkdoUFREb1BEcVg2ODN4WURQeHg0MkdISkF1aThKQy1wS3ozY1RFckRLdw?oc=5",
+"source": "Business Today",
+"published": "2026-10-01T08:53:19+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "92ebbabe4a38be18",
+"title": "Adani Ports Colombo Terminal Doubles Capacity To 3.2 Million TEUs, Total Investment Reaches $750 Million",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTZjLTctZTlWM1BpLVUzWWE4RUNIR2F6eWFOQ25vTS1uOERKYkVsNFpqdk9uVHhKeUczM0FtNFhJZTdOd25QQ0pMOFhvT3NFZF9XQkNIVks0WUFCN2s1emxva0VmU2xfbU1XUjRPN3hzWm1CZnhHYzZtZnVwNWFSdVhOVVRUU1VtYXV1dnM0TXZCalpsaTNPcDktRmNjLXpKTXg4SWR6WVFWZVVOSmVoUGhVUkwyaHp2cDVTMXBQcE0wczRDV081UjBvcVFkQW81TGZhUFZNWmVuQdIB3wFBVV95cUxNTHJEWUZRQ1lTbDFwbGFiUEdmYjZDb2diZU5CN1NZdVdzVWZpaHRPaU5PNUZubUFaRnVSSU94c2k1VGRqdTVlMjBaSTB1NTlVT3lVZmNoSXFpMjZKRXZBTHRWNWtMMTZJNktEQVI2WmgzTmRQSlFKQU9BQ1hVUE9vd0tNeXI4aTRLZlJzSXRZLVhJWExjdzlrdnJwWlg2bWFfYW5falhVN2tlV0NIRjRQd1ZVcHFrWHZxVnVBcm0tbFJaWEVWRC1sMnBhOWlZc0duYWNKVllwNWxIN3Y4WWhN?oc=5",
+"source": "Free Press Journal",
+"published": "2026-10-01T08:52:55+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b2e0b24ccdcfe2f9",
+"title": "Coal India September Output Jumps 9% as Offtake Rises 12.5%",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkQ2XzBmakw3V0k4WTBlTHlmcGd0TGZfb0t3bHpZWHhrNTVXcmZoUmktWWpXNlI1VWRwamtxcWNMTzlJSnZpSWxoZE92UlVNU1dNQUtqNnpxcDJ3S2xnUEo4MmNDQnhZcElfZ0pTQnVKQWMydzl1aXZsbi04TGNKbnF1NFZ0UWhwcVJmbGlZdy0?oc=5",
+"source": "equitypandit.com",
+"published": "2026-10-01T08:52:18+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "a4728d1b60de3180",
 "title": "Maruti Suzuki Sold 2.36 Lakh Units In Sep 2026, Volumes Up 24%",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXVPQlAyb1Z3YnlYLXB2VUVaWEx0MUFlZGdfWktURXFuYUlNNVRFV3B1WTJyRmJtckp6VEFWcnRPYWpxV2NLY2k1RW9jZDdqM2VYcGtsaWZvYzBQZWJLRlN4VFgyaU1GN0hEZjdvNHJWZnNOTHRndW5IRUNZM0Y4X0p4em81cHpFYmRpUNIBjAFBVV95cUxPcXVPQlAyb1Z3YnlYLXB2VUVaWEx0MUFlZGdfWktURXFuYUlNNVRFV3B1WTJyRmJtckp6VEFWcnRPYWpxV2NLY2k1RW9jZDdqM2VYcGtsaWZvYzBQZWJLRlN4VFgyaU1GN0hEZjdvNHJWZnNOTHRndW5IRUNZM0Y4X0p4em81cHpFYmRpUA?oc=5",
@@ -459,6 +576,40 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "168fb10413b8c748",
+"title": "Maruti Suzuki India total sales rise 24% to 2.36 lakh units in September",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVUtzSDA0NWxEOWk4ZkVqS1F5allqTTNmZHlDT29Tc254ZGRzeGo4X2xIaGZ5TkxsaG03S2hmWFd3QnRPZU9MTWtxXzJwWGhoOERnMVd6UGpjWmdfWnRQWDN2ZE8tYVRXMHAzb1UyWnBPd09ubGxqZmgzMDAzVF81QkgtOFFuSkV1VEpKNmFRdklfcVpySGl2TklEclJ4bVZjV0liNlp0NWNQOUg4eXk2Q21NUGJpTklFUVZjS2REN0wyLV9DVWNNaU9SODBrOU5NaERoLXYxdnZNVHlHUVUxNmlYV1BIMEXSAewBQVVfeXFMTzJiUDh6clR1elVBeGYwU0RVTXVyQ3VpZXd6UkNrZDRxRnJoeGVkb1RrMlVzVUhOcWJDUVFLRnE2TVlJTFhyTlI4cUFXdDFJYWU1MC00dUdYR2hYcDNrRUNqQUhrRDRlMU56TDh2TVFzT250VFg0TjlYU3BQODVRQ1BwSEI1Q1dhY2JvTk1leFNISjRUTVBXY2ZPMzNhWlNjRnFaYlZEeGpwbzlqeFY0bzFrOWRVMjRjMGtCTHBSVVlJNzNHTEVHRzZvSG54RXpqOFlnNUtUeTBNd3NpNE44eXQtMjZrSjFsOUg4SzM?oc=5",
+"source": "economictimes.com",
+"published": "2026-10-01T08:50:27+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d13c5bc0fcebb561",
+"title": "Tata Motors passenger vehicles sales jump 40% in Q2",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0ZJMVlwalJackpRTndaM0RMWVZ5aGVTaHRkeXFQWFJ1TE5xUjNvSmpPb2dwZ2VlWDdkSWxMTjQ0MzN4UUp5U2pKOEpIY2NLMzNCN3FGbDR2ZFpfc2U4cUV3YmRPMTdkWWdHMGdlZXlCd2c0aEZLbmNKc1R3SlpSYWFOMjJrSTVIcWNUWFc1dVlnNEVXSFFjaS1mczhzbEpHZXlRT2FpakNHT3p6NmVxU2VxdWtkVHZZcHU5Wk1uSUYySWVlRm040gHMAUFVX3lxTE83blNnYXROMTZjdFVKamRmNWFyX0ZDaHNmQndnRGVYaFZlREJhODdpR1dtdUU4dXh4cWw4VFRWWmxEcndRMThrcnAwcXJKNU12YWFWWHFYY0ZYMlhDeEZFdnd5S3ZVa3lWNHFuem9LZ3pjQU9KcER1d01vVC1PNW11T0NoWE1NN3FOSmZxakpUM3lsa1ZyNS1SX0Nmc3VOemdqRGU2QlZRazNOZ3NKSTBJVnZXUlFydzQ5VmRFQXM4SWhYQnJ3aS1lU01zcA?oc=5",
+"source": "economictimes.com",
+"published": "2026-10-01T08:49:05+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "c97c7f1dcb7f1ec8",
@@ -891,6 +1042,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "952652f051dc03fe",
+"title": "Best Affordable Automatic Cars: Maruti Dzire, Swift, Tata Punch, And More",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcHREQkM5ZGQ2V2xTX3ZScFlNaVF1SmdTbGxudGdaTi1yTTZXSzNMd3poazB1REJ4ZjRpNVJwMEdRRWlybU9OWklFMkhTOUd3Zlg2RWd6dTFCaVA5MHNyM0xEMjlDYzM4ZERGV0pJQnVnLVFDZjRyS1NTVFpST09SdTdXV1RQSW5OT3lYQjVaUFM4LTd2TTF1dXVqWG5ua1Y4VXZFZnVXLXdENzjSAbABQVVfeXFMUGVrWWZoS2lhV3VGM3ZfQURSM3MzaDNCa3JVM1hHcEE2cVFuVjVHcktqZktrVm9qaFUxLWM4OE8xSHhERjV0R2I2QTM2Sll5bVo0cjRvdUFaeUxMVUtMVjRLOXNEMVBEMUxfQlpZS2pReXRoS1RSZFJEd3ZweVlNYXVyOGtiT1FWdUV0YXlaZHpKOHplX1hZMy1sekdWNDRkLXFkUlhFUi1UcnpCamc4d1Q?oc=5",
+"source": "ABP Live English",
+"published": "2026-10-01T08:15:41+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1443,6 +1610,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "dded5357eea92908",
+"title": "Tata Consumer Products (NSE:TATACONSUM): What Is the Special Window for Physical Share Transfer?",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY1A1U0plTmFYb21KLWVEcm1lSGhPdnRSSTBFSl9GRkx3emd5Tk9PUk1yeWhRcEhkOWFhZUlDaVlfNVNSRENyWVA4bUM4QnVZUk4zWVpBelVUcDdlWlBSd3JiRGktdC1GbGJjYlNiZDMxZ1BHblNVZXFBbUtvZ05sWC1kN0xNY252bVVKQks0dnFkamg2NUxpZlB4WmFWVlROZ3ZwWDl0SEtrUzBTLXl1QnI5N01YcWxKcEJjRmFBNTY0MFd3QTRjblA1VTJrdUFtbFJOOTdn?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T07:41:00+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ed49d8ccc71bd70e",
 "title": "Maruti Suzuki India sales rise 24% to 2.36 lakh units in September 2026",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzVidjBMM0EwRXJpYzE0WTZUNGpXRUV6Z3BIQkFNbFNzQXZpMnhSS1I3X3B2WWpBVGdtUUxINFFNQ2NhbUlfc2xCNDBZbXZqdExGemFUcjhFeWlidzdRWlVrb1VkMGpDbklkOW5aUGZuWEhZQkN3RnVyMDhGVFNPU3JIRGRtSk1BM1ZEUXZ1QjV6NUhZZWozLVNvTjZZRzBtV085cHpDY3ZwWDA?oc=5",
@@ -1733,6 +1916,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "30003fbf408798c9",
+"title": "Adani Green Energy expands battery storage capacity to 6.63 GWh; accounts for more than 50% of India’s operational Battery Energy Storage System capacity",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUZlNXRFUnRQc1hpSndKYkgzZlFXazB3YkZIcXJaQ2IyN1pYbHdaOXhhRGJhbFhSRGpCYmMycTd0a1FFdHpIOFc4aHB3WnMybjF3bVlpeDR4OHVteDFFZWl0cFUxejZwN3dvSk5EV0gyT0ttSEh1UHROaFFHalFMdzZKVGNOdDk5TjhLR0ZLNmZHT1NEOWE0ak1UN2s4aDZGamwyc1FrdmY3dTQ?oc=5",
+"source": "Adani",
+"published": "2026-10-01T07:24:24+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9d892bf374800c6d",
@@ -3023,6 +3222,23 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "bb670da6bf593a2d",
+"title": "Adani Ports doubles Colombo terminal capacity to 3.2 mn TEUs with $750 mn expansion",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVTN3R3BIWTI0eGpaRUxIVWlIMWhWR3QxbzNDRmlYVGRQWlhROVVLTmNDaENKOFpBMXpoV1ptTHFVNFZjWFNvYU13bVZaYklibEY2d0VST2hsQTIzaHVqMzAwMGg5anJYbWd0MjF2bDd3U1B2NFZ4TUtVX1owQndQY0FnU2ZaT19GSUJvVlRrODNIRjA0NU9QN3k5ZUpDdS1fSnozV2puZWk0eG52OTRtS0hxWmJfbE5saEkzRDdzSlRoUXZSY2JnQ2Q2WmZjSmV6WEJVNENBenBEOTh4SU9IenJQU2p5QzJkVURsSzB3V0zSAfABQVVfeXFMT1Uzd0dwSFkyNHhqWkVMSFVpSDFoVkd0MW8zQ0ZpWFRkUFpYUTlVS05jQ2hDSjhaQTF6aFdabUxxVTRWY1hTb2FNd21WWmJJYmxGNndFUk9obEEyM2h1ajMwMDBoOWpyWG1ndDIxdmw3d1NQdjRWeE1LVV9aMEJ3UGNBZ1NmWk9fRklCb1ZUazgzSEYwNDVPUDd5OWVKQ3UtX0p6M1dqbmVpNHhudjk0bUtIcVpiX2xObGhJM0Q3c0pUaFF2UmNiZ0NkNlpmY0plelhCVTRDQXpwRDk4eElPSHpyUFNqeUMyZFVEbEswd1dM?oc=5",
+"source": "infra.economictimes.indiatimes.com",
+"published": "2026-10-01T06:07:48+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4671,6 +4887,22 @@
 "sentiment": "negative"
 },
 {
+"id": "3e880405ce9893fc",
+"title": "Grasim Inds Share Price Live Updates: Grasim Industries Shows Weakness in Today's Trading",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-live-01-oct-2026/liveblog/134608226.cms",
+"source": "Economic Times",
+"published": "2026-10-01T04:35:31+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "341d18eca124fae1",
 "title": "Anup Kumar Saha Elevated As Kotak Mahindra Bank MD & CEO",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlHWkVJanlSWEU2dGIxT21OU2g0RjJ6Q0xNeGVKX3Y4QzRuQ2dqcmpvLWd6Q01ELUhJRE85QXVZOUNfMWpZaDl4SlVYcE9RbUtkWmlyc0lnbzE1eHFlVU5fOExRRlh6RTU0SjJJX21ZZDB0bjZLWTJmVktPTWM1WDFYOFBMbFpIRHZROXBKbWpMdDV3UDVCTA?oc=5",
@@ -4870,6 +5102,23 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8a79901f71fde12b",
+"title": "SBI Life Insurance Company Ltd. 52 Week Low Streak Continues",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0N2cFczZ1owbnl5Rnl3WmhwVUtiWnc2RHU0T2F4THJVMDFDekZpMDg5cHBlQVdQSUtTQmNyT2V0NUJueFFJYzNLV1JBS09iTEx0cDdlMlcwMUpIUHhsak9GcE8wMHlwMmFvb1MyYU5teGhIa2NBN3FxdXhuR3ZrcnFLWkQ3aUR3RzVFNnl0Y0VuQ2RRbkJCY3NlQmprYWU0?oc=5",
+"source": "Univest",
+"published": "2026-10-01T04:25:00+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6302,6 +6551,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "70cea7256c49576c",
+"title": "HDFC Life Share Price Live Updates: HDFC Life's Current Trading Status",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-01-oct-2026/liveblog/134607232.cms",
+"source": "Economic Times",
+"published": "2026-10-01T03:20:53+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c38b70d988399175",
 "title": "Power Grid, Adani Energy, Exide Industries: What the ₹1.86 lakh crore PM-DHARA scheme means for stocks",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVkljSnJSYS11dlRRRzdlS1BWRkVJMDE2eEJzd2tJaE9IWGNHNlh5TFhjNV8tRnJQMmhUS0p1dG0ySy0tVVFDN2FEcFQwVmJaYnVUWGx4Um1qVTAzZzVRMUJyOUIzSmxJNUtlYVdRanRuNTctaG9FT3huaHdMZlZPRC1nQzE5VnFub3BNNWYyOFFxcnNadWFTTXJBd2NOSnd2ZFkxNmxVelp6dTNvY1JxZDBteWl4ZEdobm9XWmozM2ppZm1IVTJKeklmNTRXMXVSRnNQYUUtNlpVZkZOdlI0LWUyZHM4SDQ5eVhlMzJn?oc=5",
@@ -7657,6 +7922,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "985be38b426ef39d",
+"title": "Apple Pay Launches In India After 1 Year, With Axis Bank: What It Means, How To Use, Safety & Device Eligibility",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWJNQV9vOGttR25xRUhvNmk2UWFpaE5yd3pPSmxJUU1hRGhxM1FLVWppalhQd09UNXBKeEcxNU5paGdkZlRTNkZUenU1eFlBWEtTeHU2VDVZZDltZUpTaHRpSy1Bd0dpakpJM3o0cnh6MktrblJPOXhfR3h0clFVYkQ3dnJOQno4MS1sX3pJTWQtVGxmMnNiS2I5SDJWYVlNRkx5aG1TM2llbVN1ZUtnX28xSi0tWC1BcHhsT3ppeFJaSjh1LW9aWHN3RlA2SjNCMXdwclRNdXAxZjEwSmhuQnhOUEpJOWhwWWU0VdIB8wFBVV95cUxNNVZ4TnJUZmdOb2VIekZNQ2RlbWhVMVpQa1ZjRDR6MENOc2NFNjRIbDlhMzk4UUV1QlR6akphREtQQmNwZzFZV0tyeEZ3Tjh1bkVGcUVhZG85TWxDYnY1c1JwY01pRmNqTnc0WWNGVFZJQmNETHAtcWwzb1prMFFqY1VRVVlDalRCMmdYLWxXbng4eWVyNDZEcDhTQWx1OEFMUUpCaUtQWXFQQ1NnWjdESng4anplUlo3VFFzSGhBeXJoQm9FZHdpbFJpYlJwQnZYellnZjVtbkdFSlJRQWtGU2hub2t5Y18wR1Z0ZHZzTzg4STA?oc=5",
+"source": "Jagran Josh",
+"published": "2026-10-01T02:20:00+00:00",
+"first_seen": "2026-10-01T09:08:08+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50342,311 +50623,6 @@
 "Results"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "00166a8008274f66",
-"title": "Jaguar TCS Racing Extends Partnership as TCS Becomes AI Partner",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0hQM084WERkYXZjMTllOHJNcmZ1Q2VKUnBvcDNIMG9idzZ5TzBsRXBjdVZfQld0ZVlQaEpSUXhaQll3VDdpU0dXZnUtTjZ5aUFTNF95M2ZtTWlCcmVGTl9oejl2ZWdZRXctd2htQWdJSV9uWWtNQUtjZDhubkE3Y3Y2Q3YwSUdZUU54cXVzWXpBY1ZHWk9oUXJDZk5tck10TjdCaFlMNTcyVElpUU9RWHpoR2t0MkxtYjNFcmNTU3JRUlRDeWg4SnRlTkhvUmxOM0s3VERfSU9PYlV6Qmx0QVFJZ3luSmJBc0FfZm9hOEZqVl9EZ0hfWEN0WFdwUG8?oc=5",
-"source": "Fuel Cells Works",
-"published": "2026-09-25T15:27:00+00:00",
-"first_seen": "2026-09-25T15:56:02+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "349b29b7c0a72294",
-"title": "Wipro (NSE: WIPRO) Up 0.16% at ₹163.91: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1RnMVQwUV9qUDExcEJhanNBcVp1X0Z5Szc4SzNLR0QwcVJPdkp2akdZQ1RKcFFtUHpMVnhmOFotLUJKY0FUcXpjS0lVd1drclM0TWJtMWMwVVMxQ1hhYmJ3dDJFZXVUcXVjb3lNa2dPZVFtMmdLREV0VnRyR0h2QlZzTGZEUFEwZGJlSFlWcHRhd0J3bE1lX2xtS2tTMm56T3kwQWFsOWpBbzB3ckgzNWtUdWJDZlJlQVdCU0FqeDgzenY2aGRtUG1R?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:25:00+00:00",
-"first_seen": "2026-09-25T16:48:15+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c13895f9e80afaa8",
-"title": "Dr. Reddy's (NSE: DRREDDY) Up 0.19% at ₹1,202.7: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMVpTMTZvTVVQa0Z3QkhUejJXN3ZtQlB0RTh1aUQtamxLeEhoR1JlR25vc3AzcjlLd250NjRWLW5sSXZJQml6Q3BMMHdvYnNyd2M3MlJWMld4Z2NicnlzQXRvSklDQjRMejh3SzhzZU02SG11ZzRfeVpObnlPUkxmVXVWU3JpMkxZYWt2SWFjRzZKRnBUYmJuZXBnQzhqZkZueHUzUm4xZk1uQ2JCZUYzb1pHMkZTMEVUS3VielJkZ0xfRG1jcnZnUUdPd2hfN0pnTFRz?oc=5",
-"source": "kalkine.co.in",
-"published": "2026-09-25T15:25:00+00:00",
-"first_seen": "2026-09-25T17:17:28+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ed89d40e9299bcab",
-"title": "Tata Steel, Dutch govt extend JLoI for green steel project to 2027",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFFOMG1CWmJ3SGJIQ3NHOVJfbWpVREZKc0FvcFZYa0JfV1hGdFZEUGg1UTFzU3ZEWHA2RFUwWjBxcWk3MUFjaG1yZEVGdVp5Rkw3WUJuRF9vcGNiTWR2c0NMZHJ4R0N0V2VZZHo2QmRSRE9zYS0tbDhka0pyajBIM3ZCRGtjb05nRktGX3FvVVVTV0gzelpkbjF2dzcxSkt1b0tia0JEaW1nekdValJkdzlkclpnT1J5bUVsWWF1UW82aGp3MTQ5aTJKc0ZkZ9IB0wFBVV95cUxOMkM2OG1hcEhmNUhYdmM3blFBSE5WZV9LdEYydmEwdnB3SW41dlZlZkpjT2cwY1dUbFhCVkEyRGpydWFuUWJWQ3hXSFQyWUhCNm1DSEJpN3YzU29mMzdza2V5cG95NVFYei1oU21ZWWt0U3NJdlBHc1gwTzBURWdMandHNi1JY2NIV01WVU9mMnFBWGNLQkJ2M25MQ05LX2RlT3FCb0ZCaTlfd19lbjJSendzaTk1d1FiZ1l2U0JnVzJvOWp3eTJic21yS3NuTF9nTmNz?oc=5",
-"source": "Business Standard",
-"published": "2026-09-25T15:23:42+00:00",
-"first_seen": "2026-09-25T15:45:37+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "669c1c01a0f06e89",
-"title": "Tata Steel, Dutch govt extend joint letter of intent for decarbonisation",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFFOMG1CWmJ3SGJIQ3NHOVJfbWpVREZKc0FvcFZYa0JfV1hGdFZEUGg1UTFzU3ZEWHA2RFUwWjBxcWk3MUFjaG1yZEVGdVp5Rkw3WUJuRF9vcGNiTWR2c0NMZHJ4R0N0V2VZZHo2QmRSRE9zYS0tbDhka0pyajBIM3ZCRGtjb05nRktGX3FvVVVTV0gzelpkbjF2dzcxSkt1b0tia0JEaW1nekdValJkdzlkclpnT1J5bUVsWWF1UW82aGp3MTQ5aTJKc0ZkZ9IB0wFBVV95cUxOMkM2OG1hcEhmNUhYdmM3blFBSE5WZV9LdEYydmEwdnB3SW41dlZlZkpjT2cwY1dUbFhCVkEyRGpydWFuUWJWQ3hXSFQyWUhCNm1DSEJpN3YzU29mMzdza2V5cG95NVFYei1oU21ZWWt0U3NJdlBHc1gwTzBURWdMandHNi1JY2NIV01WVU9mMnFBWGNLQkJ2M25MQ05LX2RlT3FCb0ZCaTlfd19lbjJSendzaTk1d1FiZ1l2U0JnVzJvOWp3eTJic21yS3NuTF9nTmNz?oc=5",
-"source": "Business Standard",
-"published": "2026-09-25T15:23:13+00:00",
-"first_seen": "2026-09-26T02:19:23+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "55c90fae75a7a3a6",
-"title": "TCS Q4 Results: Beats Estimates! CC Growth Highest In 7 Quarters, Margins Upbeat; PAT Up 29% QoQ—Full Report",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNTd4LXdSX2ppcnBkaWZTNlFLM1pJcmU4eEVIaTJ4ZWs4OF9FeTlIbEdvRjZSa21jUmJkQm4wS01HM1dWLW9mOFdLNHFGOUN6a25yVVhhbjVuRDByLVZtSDFkdWoyUFZiWWh6Z09MTUhPb1FfUFd0eGtPSFAzQ3g1X2xlNzNMMFYzRlFxYi1wajZhQXF4cnV0VUdLbk5xVkhaQklvMGhSQW1neEhXc3RIMy1obFpfaDBBVjVXcGIzVTlpWWhuRzJZTWlsMjdmUkZOYUJaYmg0bFZCQUtO?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-25T15:22:31+00:00",
-"first_seen": "2026-09-25T17:30:31+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "3829b9cfa4c79cd2",
-"title": "SBI Life faces ₹1.13 crore GST demand for excess ITC claim",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnktTjJSV0w3MEs0dDIzRXhrelRwbExSMWFacDYtZmNEU2t4ZWlya3JkTDg3bmtWV3BWZE1odVZLZmMzSk0yblJGNHNIM2ZTcVpFeHpfZFpzc1kyeXVubTlhcExKN3lZT3J1c201Qkh3SE8xRWhOX3ZSaGJhMTVCMmM0V0hkOFd3ZzVrdEt2Sl9pZkkyNlZtdkM0X19GeVVaVXo2TUJCZkN6S2dj?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-25T15:19:45+00:00",
-"first_seen": "2026-09-25T15:33:19+00:00",
-"symbols": [
-"ITC",
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"FMCG",
-"SBI"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6f1e6c7c5cd3f47d",
-"title": "ITC closes trading window for employees from October 1 ahead of Q2FY27 results",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmZWenVOQ0JXckNPNE16Q2x1NjRfaDFJanlFUVFjbWR1NWhkcXVibW1GRzFLTkp2b1N1Z0tER3lZcWlsR2p6X1NmTTFYc0ZCQXQxcVpMeFAwZGRIYlJUSi1qT0Q1RjY3QjhsYUxPRnFQTnROXzlXYkpBVjRPUlZTVVVVM2taLTZuNmRSVk5DX0gyYXRBaDFLek15NmtxQ0lISEJkT3dsZGw1clJZek1GSy1OaGJ5OFVld0h5aEREZzQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-25T15:19:43+00:00",
-"first_seen": "2026-09-25T15:33:19+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4fb98e222c315767",
-"title": "Highest-Ever Qtrly Profit By SBI At Rs21121 Cr",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUk9ZR3RzTERTVlA1VHN2d3BsUEhIT215YThTalhlay1NSldxaTlleHVaMTMteGl0UnF2aVMtVVNUT2kzYXFMRFhvVVVzRVVxeGNJUjQ2X2FHNEtxcEpjSVVJZnQtYThRR001N3VPZDh2bU1hbEpScHBCM3ZwQVBwc0RRdm9KRklRdExJeDBYNXNlWVhJSkE?oc=5",
-"source": "fintechbiznews.com",
-"published": "2026-09-25T15:19:16+00:00",
-"first_seen": "2026-09-26T07:00:26+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "56b54c764845c32b",
-"title": "InterGlobe Aviation (NSE: INDIGO) Up 1.19% at ₹4,948.0: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDBMTEx5SkhBU1ZzY0gzbnA2ckdfOFlibVhfUUFMVG51Zk9hazhicE42YWFQQ1VwUWt6YUhBQ0RjakZtTzdwZWduV1Q2ZnJKUW9GUHBVbnZTWmhyNVJzczJBYkZHMkdNUFM2cG5tcVNsVVE3TC1JRFVmYW1XUU5ycnFhQjB1VUxTVHFDMjZEbUdjT0hXcVlqNy1yNm9LNGlUM1oyMmljNWFTNHljQkM3LVdYcmhfMjlBcFBuVk40M3lUWDNEakNJb1R4cUpwaFBvTHZV?oc=5",
-"source": "kalkine.co.in",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T16:19:45+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5012d327f159cbff",
-"title": "Bajaj Finserv (NSE: BAJAJFINSV) Up 0.32% at ₹1,768.0: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFRwWDhqa0pmR0lVMHdkelVCT3FhbWxFUmJPS3N4SDlNcmotTk02QWo1bllQNl9TX0NLekwydUthaHhiV0JoYURqcHpYRTBDemg0TmZWeXlyTWJfX05HLUtqcWhoMkdlOF9qSUlBb2xDaERpdkV2cWY2TXY0U1BSRTRhVVJIWFhoWFBjTmdzcU5PVVhXWVk2R3RtZWZocmxqSHJlVmFvYl83anhqRFcydlltbDBoY0xCbXBSR0pFRGFHbzNrN2tVV193ZkI5elA2ZmVvUGFvVDNnQVNGSEE?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T16:34:38+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a3cfbe9415d0362f",
-"title": "Grasim Industries (NSE: GRASIM) Up 0.43% at ₹3,180.0: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHhZS1JqanlPZTI2ZmpQMkZjY254OHJYQlhjVjI0d0R2SUsyeGEzOXBBVE9mYWlRX19VRGF3Ti13WXozQURHRktZR19xOXoyWDRyUnR2NDZwT18yLXd3bzlXcW10T3lONHRYbGl1WlFsaXg0X1Q1RnQ5dU9BWXptSXhkNjdsNzFmVDZ6YmtFNFJUODlqUG1fRVVkMUJLZmh1UGZBdDlyV01qNWctTjFxWDBEeEdJcEJ1OXZ1VDlJSm1iNWxQQU1VckkzOUpBZm9zZUF3dE1YQQ?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T16:34:38+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9d00282fdc014b6b",
-"title": "State Bank of India (NSE: SBIN) Up 0.33% at ₹981.70: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHlySHlWMXF4NlpyclJaQXIxS3kzR29MSms1RnA3NmU5Nk8xaFVGb3g2MzFXYkd2VTJzbW5tb2JTZ2RDWUdMekRGak5hR3ZqeHRjZmNWZThmdm8yb2xrS015am1KVDBuZ21qazUxQUhRMlFqMXJpc0N5aUtEX1ViUFVPZDNIMzBRTmFnZ0xWbHZkMHRKRmtTay1mZ0wweC1aeW9CbUgzUExsYmlzS19GeWthVkh5SjdHTHFHRl9OV3UxMXN3bjBvcDVOOFlSNDg?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T16:48:15+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "062b7b2396c7efd3",
-"title": "Maruti Suzuki (NSE: MARUTI) Up 0.48% at ₹12,047: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONllEOUIyYVZFWU5RM20xRTVqSy1ERkNIbUIzQVFUUENpZ3pIcGJLZFhhdlBIUWtVdG93RmE0ZEV3ZGZJb1pGUUVaVzg5RFR3TXpJWTUzbzJNc0dYa3NYdk42SnpGNlVIYmdXMUl0b2oxT011cC1DMUhDN1JfOWtRZm9DYlVIaVVwdWZJZ3ZtSG9rTjktNU1PUk9mTTdqb2ZfUWVsakxUemVuZV82Z1lpbkVSUk1hV0I5MTVIZnUxV1c3T1RNd0JUeTNmNGxZTFdSeEE?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T16:57:08+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "677b1cb5ba17b0a4",
-"title": "Nestle India (NSE: NESTLEIND) Up 0.57% at ₹1,358.7: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0RVSldIWkhha21pUllqV2ZTSjFSbk9kcURTb1hVRVF3UkhqOEgtMlZNWUd6MFlOV3dtdzVZbXJGRFlicjBCNFNZdDdDVzVUQmdiRkIzeU5YemZ6aHVQOGVRS1hMeW5fYzQ4OGdrT2JuaVFLbnNrbjJFU3YyMXNva2JtNDRFMzZ3MWNpVUJTWTJoY050M21kZHozNE14azdpSnF2VFVhZGpvQW9SM0N1YXpFeS1PbnQ2c2NUWUM1M29SV3NseE42el9SNEJKbVJ6bkJaaXotYzZjMTdoa2ZUbw?oc=5",
-"source": "kalkine.co.in",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T17:17:28+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "47eac432c2f35182",
-"title": "UltraTech Cement (NSE: ULTRACEMCO) Up 0.82% at ₹11,147: EMA 51, RSI and Q1 Numbers",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2hTZmpPWU5sblNqN2tDR0dRZTA5NzQ3N3JGeG0td3ViY2xsOVNVdHJ5VW5nQzFEUXd1NWpraFJFTzdrQVhJeno5cEFOSmxFTE1VQU0tRzdLYnF3ZGp1blRJVDJleElLZEJvcWQ2YXBxTVpsSWFBc1VlYkNlc3V5cW4xNmxTM2pCZVlnS1BQelFXcGdja2pIVmxvV3ItOVFQTER2NU9vOHVxQVYyWjNIWHd1anByTnNCUWw4b2x3a0tIZzdHRmtzSFY3U20?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-25T15:16:00+00:00",
-"first_seen": "2026-09-25T17:30:31+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "57dd873128b86865",
-"title": "Rashtriya Chemicals & Fertilizers wins Rs 797 crore order from L&T for Ammonia plant revamp",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWFldUxhTVlZTWtWdWtyUHRTUzQ2b2djN09wQUlJS21ZV0YxTy1MWlRyN19xS1BQbmk1RXB0c0RSb1d3VUhoWktDcXgxNHhrYmJOdzBvQ3pwTlNfNHE5cHlVX3RSRHJrMncyNFVCbDJjclpPaW1oa0U1WXpVWXI3bDVrYlNDZUVNQ1lGVU5fOXRuQ0JLUFpBWWh5VFFtTWdjSDBtZjl1aHNjRkhrRWhyWjRWYlh1c2Q1SDhlS2ZrenNUdw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-25T15:15:33+00:00",
-"first_seen": "2026-09-25T15:19:53+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
 }
 ]
 }
