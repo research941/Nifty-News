@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T20:57:31+00:00",
+"updated": "2026-10-01T21:18:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,57 @@
 ],
 "items": [
 {
+"id": "84feb685eef26823",
+"title": "WIT Stock Firms Up As Wipro Extends AI And Cyber Push",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lbVBSNGtCa3kxQUc0b3hiRVpfcm1wNGJSU0ZxTnBIaEdRZlZNaHpNdFVEN1NvUVp6QTEzdjd0LUFrd3FJdTFmaURHaGN5QndlSXROaktsLWpDVW5LUWJGRm5BUm1pNVFTMl9NNmp2R3FUM28?oc=5",
+"source": "StocksToTrade",
+"published": "2026-10-01T20:48:00+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1a20e3e17eb015ff",
+"title": "HDFC Bank (HDB) Balances CEO Search, Lawsuit, And Choppy ADR Action",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vY25sTWRySExpSVc5eUpJb251ZnE4TEVjV0NKUFVjRkJuQTN1dEFRcnh0WXpvYTY2clNib1phaTZYNFlFTVp0ajFpSWotSlVTcENyWjl6VGFXcnB1VXpyV1FDSW9xbGJ2MXRXQklNSzVLdXVjQVd2RQ?oc=5",
+"source": "StocksToTrade",
+"published": "2026-10-01T20:47:00+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "202f8daac18db607",
+"title": "WIT Stock Grinds Higher As Wipro Lands AI And Cyber Wins",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBub2xucjFya25OUi0yMDJqOXVaeE9VYmUzY0VlOW1ENjRPVW4zeENDYlpKVXlHTWpWamtDUThpR0RqYW1BUFZPek1pRXd3S2dGb3hpb1JfQTBFNzFEb20zaVZ2TWlEQ3FXWlE4cHJvNUJ6TWdoSW8w?oc=5",
+"source": "timothysykes.com",
+"published": "2026-10-01T20:47:00+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "78adaa815076bb57",
 "title": "ICICI Bank Flags ₹229 Crore GST Demand in Fresh Show Cause Notice",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelBFSHFoazBCb2N6S3FTRzdranJTNkF5UGtFVHVMYVRHVEZWX04zNnQ0T25qNmM4Y3FZb1VEeU5ydjIyWmw1TWxVMF9JQlNtUDVVdkhKWDBGdEl3RlR6c2h5dVI5QXBxclA2VS1pcHpsLW5VMVQ0cDllVmkwY0FkVGNqaTNERmlBQ1lhamZsLUdLYjl0aUFPSGRwenJ5cEFROGY4dG9rUWNtdFU0a1A1dHhIQVhPdGc?oc=5",
@@ -602,6 +653,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "61cd5425c4cc8b10",
+"title": "Govt warns Nayara, RIL-BP against fuel sales caps amid diesel curb reports",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0R4dkZBOWx3SkxvcWpYWHlMaWdtdHpvMWsyTFl3cmVyNWtFOEYwamVNeEdoV21oeDR1czh1VjBSeHlMV2NnVUV0cmYzeUFCeXhoQ29kb1lBbGtCSXhBN1VteGQ1bWxfWFRpNU95cTVfbTZXSUU2a1JHaFIwaVdJN3Z5ajNCaFBPejFUTHZaLWlxbzlOaXpkMVc5eXQ1bjFFbGJQOW5Tb0xDTFFCMXhZSXFTZFZneGE5amdoMzNiczVGbno2aEJQaFNLZ2NHRkU4QzFmUkRVRnNKdGVOX2hWUm930gHiAUFVX3lxTE13RHh2RkE5bHdKTG9xalhYeUxpZ210em8xazJMWXdyZXI1a0U4RjBqZU14R2hXbWh4NHVzOHVWMFJ4eUxXY2dVRXRyZjN5QUJ5eGhDb2RvWUFsa0JJeEE3VW14ZDVtbF9YVGk1T3lxNV9tNldJRTZrUkdoUjBpV0k3dnlqM0JoUE96MVRMdlotaXFvOU5pemQxVzl5dDVuMUVsYlA5blNvTENMUUIxeFlJcVNkVmd4YTlqZ2gzM2JzNUZuejZoQlBoU0tnY0dGRThDMWZSRFVGc0p0ZU5faFZSb3c?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T19:44:00+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1124,6 +1191,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "63628a5a131b2ab1",
+"title": "HDFC Bank reshuffles top leadership, stock rises 1% | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHBqQlJ5cmFvaURCYm5fMk9QZ2NfZ3VFcVNGTmNlbElTWDRTWC11QWV4SU1yZDFuX2ZZd09GMmh3T0NXY1kyTkp1WnhzWVdIUmg4bWl0RTZuSlRCdklCZ1RVTkc1UEItRC1GSUxpMUxpNG1xbkVDZm5HRk1SdGNuTEF4S3FkaDNxQXNZUHBJMHo0bTRhNWpaV0x30gGfAUFVX3lxTE40RnF6ZmxNdUJNRldPTG9kbGFaOEtvQXpBbkFSam9hamw4S0pibUdTYUo5WlJ3eXlfRko2OS1nVElxajBwR1I2dTQ1SFhlUTY4TEkzOEo4OFhidHc4QUQyMFdVUjhRaFBxSnJnY2d2WHdtRFlfVWx2S1VBRWNjNkdHV25kd3RsLS1QdU11bExyNF9iLU9CdXNWVklWX05wOA?oc=5",
+"source": "Inshorts",
+"published": "2026-10-01T17:33:42+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "13aae6754eff9be0",
@@ -2214,6 +2297,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "903460a2d4ba1178",
+"title": "HDFC Bank Picks Outsider Anup Bagchi As Next CEO",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fMFNpTUNlSmFIcUdEQk15b1N0Z216RG56QnhmQzBhWE5yNnlMaVF0ZjZwa0hZeWlhdzk2TzJEbEJaT0VXWkhlTVZpMV9BU3k2dVQxcHlETExLdkJ6OHJhTk96RFF3Sm1NTEdrOEtIc0xfbndNdDRVQV9ETE0?oc=5",
+"source": "Finimize",
+"published": "2026-10-01T15:14:17+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -5865,6 +5966,22 @@
 "sentiment": "positive"
 },
 {
+"id": "24cf799e1349f7be",
+"title": "Mahindra & Mahindra reports 15% YoY increase in September 2026",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlp0QmV6TFJURDZINDZPYjBtY0xLWTlJSXU0cUtuZS14aW9Uc0hEQU9hd3FVY1dDSVpxVjJfYUVlQU1mZHF6dFJzUXRDMkk4THBrX0V2Z3FEMWJlNEhJOUxVUEFyX2k4SFNDVGpLNmVjMkEwMFlibXpmdkZ5N2tXaGoxUVA3UzNVWlNpNF80TEJvS2NvTnVkalNB?oc=5",
+"source": "Adgully.com",
+"published": "2026-10-01T10:44:28+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ed0fb3f0ed5f2d85",
 "title": "SBI Chennai Office Achieves IGBC Near Net Zero Certification",
 "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSFRYTVE3MnZVTTN2V3pIcmlrTmgydFJndFQ4SmRia1F2OUtxbWFJN1l1eHJXeXA4ZEh1T1ljeVo2M3QxenpVMjBYY1NJUDNHbThUOHNySGY4OXdtdzN4dDh1eUFKRlJjeWJXM0JFTmpVVElJbnZZZnJpbTg4Y2dGT2ZBS212UEt1WkY1NnRPb0NYQ1ROdkhNZmgxcTZwTnhJeGEtbzl1Sm5VSGpTSFB3eUUwclo0R2FOV0tJOFhQY0hEOVpZNklXY0xLM2EzZXZDUHZWcTAzYUtkNHB5aURPRUlMTTdfS1NzbnRma1ZTRHVTOTRMWEVwRGdMWHhvWXNNMXhXeVN1dEI0T190NWFJ?oc=5",
@@ -6139,6 +6256,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "cc2be51c8e33d0fd",
+"title": "Bharti Airtel slips Thursday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFduN3BRWnA3aFlleWxWTzdadXpiYWhKVlgzMVdtLWwwUzBVaDN1aUZJX2dVOUoxa0RCNFJHY0JDQ0NWLUszOFJOWGZxYmJMN09DWlVOMGJyOFgyczg0bVkwX1drazNHRUFoUnNCOGVwWWduSTRfV0pNeElZOUd4QXU0dnVHNms5eklGMHhuWGUwOTBCRnB6c0tXeVkzNnJXenkyWHVJVlBGOTZhY2ZLbDZDeExURXBLV1VUSmY2VHRZME9GUmc?oc=5",
+"source": "marketwatch.com",
+"published": "2026-10-01T10:33:00+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -10297,6 +10430,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "38432240ac50ba85",
+"title": "Titan International, Inc. (TWI) stock price, news, quote and history",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtV2Y1Ylp1dGVNTmN3VTBoeS1DNDllMUowbFNQOF9TcHBSZHFySkczZzZxUUJHWGdfNWpwV2ZHNDREMWZWSXFuTjZkSmtZS1px?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-10-01T07:27:52+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -15737,6 +15886,22 @@
 "source": "Economic Times",
 "published": "2026-10-01T03:21:34+00:00",
 "first_seen": "2026-10-01T06:56:16+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a7f6184f8a862cb0",
+"title": "Nestle India Share Price Highlights: Nestle India Stock Price History",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-01-oct-2026/liveblog/134607249.cms",
+"source": "Economic Times",
+"published": "2026-10-01T03:21:34+00:00",
+"first_seen": "2026-10-01T21:18:53+00:00",
 "symbols": [
 "NESTLEIND"
 ],
@@ -50599,170 +50764,6 @@
 "groups": [
 "Banks",
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "90886400b4786681",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-28-sep-2026/liveblog/134530571.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:02:14+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ba96681262be26d9",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-28-sep-2026/liveblog/134530571.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:02:14+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "457251cdfe81b8fa",
-"title": "Video | Stocks To Watch Today: Tata Power, Cupid, Jain Irrigation, PC Jeweller, Power Grid, Key Updates",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc25paUZzTW10RllhV1RWT1RGQVJYeDJRVG5mVEVzQmFTT2c3M0ZxeEswWnlFWVQ1X2xENThfMmZjZG1SeWxNMTNWc3F0YmMxblVkLVBrOW10X3ZzMUlhUDBlUFppMlRrRXRJcktGYjFiWk9xSmJSa0ZmSFdyMV9QLU1UY1A0MUJHS0lxa3l2b3R5cTkzUWxpRXlrT2Z5NC1seVdJRmd4aTJTLW9tZGJrRXFCQmk2aGlQV0cySWw4VmZaVkUxNkVz?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T03:01:10+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a194d3c1a0ad07f5",
-"title": "Stocks to watch on Monday: ITC, Power Grid, Paytm, NMDC, September 28",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGliOTg3VngyR1lacDNvTGRNQkszR2FKaVNvMHItVlZEcmltWTF6aGtCTXN2WGhINUV0RTZ4N3ZROXA1dWpKWVJxdFBnOHBMN2EyX1l2WTdLa0RLaVdBOTNlZnJVemMyNmFYZEtPcF9odlFzMEg4T1d0MEFaMVVtVHZGcHp6SVUxcnZwWFFzNXc1d1VsM0Z2amJ0cVlQb2NyTFNmTlBieU5qVUI1bkNHTHUzaFFDVWpGY3V3bEdNYXRhVmtaWWdySjFTcw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T03:00:28+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"ITC",
-"POWERGRID"
-],
-"groups": [
-"FMCG",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "069640b112867be3",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries Trades Below 100-Day SMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:56:39+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f013c53ee70a8a5c",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries Reports Decrease in Stock Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:39+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2d7c7eb5febfebc2",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries sees a dip in its stock price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:39+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b99d68acb844c49d",
-"title": "Grasim Industries Share Price Live Updates: Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:39+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7ebcbf0d979a7aa3",
-"title": "Grasim Inds Share Price Highlights: Grasim Inds. Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-28-sep-2026/liveblog/134530479.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:39+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d749e38b8405d92b",
-"title": "Nestle India Share Price Live Updates: Nestle India Market Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-28-sep-2026/liveblog/134530469.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:56:07+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
