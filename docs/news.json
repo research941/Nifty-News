@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T00:28:46+00:00",
+"updated": "2026-10-01T00:53:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,78 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "52127c8d2c89cb42",
+"title": "Andhra Pradesh: NTPC REL Issues EPC Tender For 1 GW Solar Project In Kambadur",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWFGTW1VZERzUHRJY2pLZl9NUnloNVJMeWpodkdIWVp2VV9YOXJ4SkZYRzJUWlRWMG9YeWhzZVlQU1ZrN2k0RVl5aHBUd3EtWmx0MDlMTHpja1llZWJYRUhXNUxvQWNqeVU5RnZpdl9pOER5TG90aGpjOUY4XzZDcnBWQy1hQS05SmNpS1dULVh2NFNBZ0ZjNmc2bm5NeUNpaXpCUmtmdVBhd2stcGlTZDkyTkZHX2lDS0txZXZ2SnZnb2RIUE9wYzR3?oc=5",
+"source": "Saur Energy",
+"published": "2026-10-01T00:48:09+00:00",
+"first_seen": "2026-10-01T00:53:29+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ef24b842c9e1536b",
+"title": "Tech Mahindra To Consider Proposal For Issue Of Bonus Shares",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTloYmR1NTEyZks4WmxOeFN2NUpKOWFlWFc5TUh5aHRVX1VxLVNPNGJEcExFVjl4WlJzT1hRcGdHdWpfa0h1eWh0M0h2VXJ3R2FhU0NjMzRhcndzbGhzSk5DN1VDTF9DcFVlRDM4SEQ1Mlp0VmdXM3J6V3FGTk9wWkdaYUxETlpSWXRHeEw1VQ?oc=5",
+"source": "Sahi",
+"published": "2026-10-01T00:31:09+00:00",
+"first_seen": "2026-10-01T00:53:29+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "00b24f0de368ad21",
+"title": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWU0WUctcWt3NF91Tl82T211V2RoOXA1TTI3eUlmdDVZQ2pVYk55OWJRRWZXbm1VTmk1LU5tcEZvMjhpajRiZi1adkRTUGR5b2NPQllmQjV1aG92YUtuU0dZa1hSUV95Y05LZnJzaGxHZnhLdmRXZlUzVm8xTXhyX2N3S3lUV3ZTYV9jZXlFelF3a3Etb2hBSk9DX3RRNjgycmVsZzRXN0cxQ0NkUlJWb3VwcExITXJsVWhqdVNSOFl4NjM3emprdGZ5R2NaclRweE9BS1ZtalZsUm82WDRheNIB4AFBVV95cUxOSWU0WUctcWt3NF91Tl82T211V2RoOXA1TTI3eUlmdDVZQ2pVYk55OWJRRWZXbm1VTmk1LU5tcEZvMjhpajRiZi1adkRTUGR5b2NPQllmQjV1aG92YUtuU0dZa1hSUV95Y05LZnJzaGxHZnhLdmRXZlUzVm8xTXhyX2N3S3lUV3ZTYV9jZXlFelF3a3Etb2hBSk9DX3RRNjgycmVsZzRXN0cxQ0NkUlJWb3VwcExITXJsVWhqdVNSOFl4NjM3emprdGZ5R2NaclRweE9BS1ZtalZsUm82WDRheA?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T00:30:00+00:00",
+"first_seen": "2026-10-01T00:53:29+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY",
+"JIOFIN"
+],
+"groups": [
+"HDFC",
+"IT",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "70270b36aef24498",
+"title": "Coal India Explores New Urea Production Project | JSW Cement Approves Shiva Cement Merger Plan | Top Buzzing Stocks Today",
+"link": "https://news.google.com/rss/articles/CBMihANBVV95cUxONFpGeS1pZllIX0lXSXFHaFE4M3N0Wmt1SWFLb3FoQXM2eXZKRjRqUDd4RUlzdDgtdlpEM25PVTROSl9QR091Y3NZOGxDV1B4UVB2dmhwTHQyMkE2MTFaQ0NNMEhwQ1hrTk1NbEZrZFhfUWxicUNHRldSWVJGWnpKS0djSHRtQ2Q3cC03UkVVYnRFWS1iWThuSmJfWGxwcC1zMDFOdTQxQmhublB0dWdEWWU2cjBlX014RlNSMVlqOHR2WXZKSGhiQUNGNldsMTlzNW8wWXByYVBLc1J1cmRBYlk1N0w1MHA4SDJaTmxZWVlmbHdVRmM1RGRMcm1uNzB2UkpTM2JleVFxUWViUkE4dnl6b29QY3A3bGhoMkl1UzFuSlZFUDExNUxBWUJqanNUMXJ1T21CRnFnaS1oZDRvaGt4VDhoSGFwTHJVWXlFQjRaWmNWd2RSN1pWTmJ5d2Q5bFc2dk9pS1JaS0tYMWFGMmY5UnVVcW9EcjcycXFhbFVSd3Jr?oc=5",
+"source": "equitymaster.com",
+"published": "2026-10-01T00:30:00+00:00",
+"first_seen": "2026-10-01T00:53:29+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "3808d5e404b40d7b",
 "title": "Robert L. Trent Obituary (2026) - Knoxville, TN - Rose Funeral & Cremation - Broadway",
@@ -50351,70 +50423,6 @@
 "Regulatory"
 ],
 "sentiment": "negative"
-},
-{
-"id": "5f12f3414fd98079",
-"title": "East must rise, Bengal essential to Indias next growth phase: Gautam Adani",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZoSGNqS2dhNmRxTWZhazV1QVlFc0pQeHJfaDFvTjB3cTA4VE1zTVpjbXRYcGVHOXNwWHJUSldYb2tnWlNHLXN0UFl3QllfZXZhdHgycEpGNEVBOGZoaUxhYVJyZG4tY0o0ei0tWTgtU0VWWEdKcXRuTXowQXM3MUQzWENGR3BtWWRMNXItU0ZBRUlNeHlhcDJzOU9SLXgySDQ1SkVLVdIBqwFBVV95cUxOTERwYU9CcmFMbDVkRFozMC1mY0VvVXBnc3lLMHIwOW5SaUd6VzVZVzdEMlo2UEpXUGh6YlA1UDh5Y3QyWUk5dGZsS1dZdlJsZnBuZlpPcVhwbFR2OFN0RFA2VUZhbjJBdThzMGNyTlZCTEZuNVdzMldXOE5Gdk03V25vejdMWm95QzRaSDVyZW1VZFliQUdaWTdHWk9qc1NVdWhmaG5qNTFia0k?oc=5",
-"source": "Daily Excelsior",
-"published": "2026-09-24T22:56:02+00:00",
-"first_seen": "2026-09-24T23:16:43+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "6b8b0f7456e00e8d",
-"title": "ONGC Stock And India Oil Plays Worth Watching As Crude Risk Rises",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUVtcUZEZ081ZmdfUjJVZHBwd2pWY18zQUV2QWRmOXBTWTFFdDRFOGhjalNlTWo5Q2Q1QV9jWkg0ZWEzd3o4WlBmdHdldE5FZWUzYTRrT2FwWlJjcm54b1FrNHVPQTFDcFhIbDdLeTRWSTNyb1pkaFpDbnZzMEUxOC1xVUhub1BfQXp6T1RRSzVtaXJlNU1jQUZaSUFjU1cwTmM4RmJFQU5FbEdwV2JUUkctLUJENlBGUk95U29vVjktbEFQeE4wSXY2UnR4WE55WWNZcnN30gHbAUFVX3lxTE1RMEpoWUVQaWc5VVcwQzhhZlh4T2dDcG9TMlQwV0ZMUlNOWGtEYlV5UjloYWhjQTQ2UXBtdkxhOEtlTTJmUnhzbWhiZmVMT1l1S0NNdnA4d00yM1p0MU1PUFI1dGkyX0FYQmdfZkZOS2toOG9laXo2TnZlWVk1b3Jld1o3czNpSGhTMm5rLTJaOVU5Q2dhTGFpUE5oWEs1WkZxeF9HeGYtdWlwZEdoLW1Ebjd5WnBYTDR6NWh2N0xnX2R6Qk00TllHSTFTWXc1Q1BpSDRNZGpWaG9yaw?oc=5",
-"source": "simplywall.st",
-"published": "2026-09-24T22:55:56+00:00",
-"first_seen": "2026-09-24T23:16:43+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "19e73a3a9b431eb6",
-"title": "Maruti Suzuki Baleno Open Fuel Lid Image – Baleno Photos in India",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFN1OWM5WGk0Wkk4TG1BLUZkVzZ2R0xwelJxbUprM0prZ2xIOWZsRXdha2Q0Z3lYSnVZemhSeUpLVkE1MS1EdDJaYTlTRF9RR2FnZFlzUTZuWXRBa1RSSGNUX0JJVTE0TkdnVXBBYVRxaDJPQWpRdU5CMDJ6cnhCRg?oc=5",
-"source": "Autocar India",
-"published": "2026-09-24T22:40:43+00:00",
-"first_seen": "2026-09-25T00:26:54+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7c21adb2059d04f4",
-"title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY",
-"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRnQ4dGM1cTNJU256eU9ZRHZBTXRnNkZxaWRVb09WUmlESDBSbTR4TFVaMndCbUVpYUJGZHhaYkl0eGkxZTFQS193Z0RmNEhVZHEwbEZlalh0SzBCLTJSdTBXNFNFV0VhcXgxUnJ5VllfbmpTVXI5NU45clJlQnFvR1VJRkhjUlFwZU9URjZZSHEtWjJ5MjdYSzFJWjJYWXRZZzhYV0lXQ29Qa1dTclNSZ044VTBmdHQ5dUFJSjVSd2MzN0I1ZEc3SmxHaTJrN29acTdwa0FBX2c4dC1YbVYyZTZobWVwNDcxbXJNYzhDbDJrOEVseXlHc0k1WkIxVnZUNVE?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-24T22:38:00+00:00",
-"first_seen": "2026-09-24T22:42:48+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
