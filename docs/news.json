@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T18:01:47+00:00",
+"updated": "2026-10-01T18:24:25+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,77 @@
 ],
 "items": [
 {
+"id": "12c5610d51b4b118",
+"title": "ICICI Bank gets show cause notice over Rs 229 crore GST demand",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelFHVmx6UXRhTE5LdGlDRnI0aXlFbGZiNkhyRUpfQ0N6M0RlSUltTHJiZDduXzg5cmtiRWtaWWY3NjROQXlPNk5jdlBjVWNoekhEYVljVUM0UDVvazF4X3FIODNKYnh0Mm1Fd2pTTHdqRVZidGFaYkpQVHBBSjJSdUR1VjI3R2haNTJJQ3F2Z24tanFBclQ1T3RjMmRLeF9LelFVOUJJZGhjOXlNSnc?oc=5",
+"source": "Pioneer Daily",
+"published": "2026-10-01T18:21:26+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "25bb85ab2bd8af17",
+"title": "Bajaj Finserv approves ₹5,800 crore investment in Bajaj Finance through convertible warrants",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkhMSS1DNkxmOEFuVkhnRVFFa0lhZGw4MmdoYzh2NmU3aEFnVU1FemlwRVRScEl4TmhTWnhXb3oxcDNSYXJDX0I0TmYtZElaWjZSaFllYnk3aHhkU2w1VER1djE5UFRIcG9HVzJzcE50aGZNV3FvWVJtRXkxVGZFT3AtVXVOcUVHaFJaWl80Ny1FLV9pZDlvM0lYZXFzeF9saFRuZ3BYbmdCYVZ4UmxPa3E1VnhnZGItTm1QYS1oUFdHd1p0QWljN0tCZjI0bEU?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T18:15:20+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1562c748f4019927",
+"title": "Bajaj Finance to raise Rs. 17,500 crore through QIP and preferential issue",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamVwanF1bk5UMDZ2NjFtaUh5VUpJRzZiY1Q5Y1F4alJwajlSQWJyTkZCaFFXUWM0ZXJPQ21LVjA0TjZFdGFXOE1scGgxV1lnRl9HaXBjemMxcVoyXzRFd3hpSWk0TGYzS1RhNFR5SmNLcUFIQnE3VGxYbFV3d0wwTzF5cnpsQS1DdjluYmExc0V3Q0wxMFNzZE1GLXBmcHZQMktvblJmZXRPSUt3TGIw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T18:14:17+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0e03fdd6d020acc2",
+"title": "Bajaj Finance announces capital raising of Rs. 17,500 crore via QIP and preferential issue",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0NjRnQ5VHdxZU9Fc3dNYU4zSmRuREpEQUxXcWl2N0hJbWhiOFptMnJOZGlTVTlMdFFfUmI3UTRZVW9MaWtxY19MVUdUMmY1aE9CY0ZLdXNpRkM2ejZjQUhLTDloWi1nd2JET0tSLUhObHk0SjhnMS1NUzMxc1ZranBXeUR4TUJSNmtka3BZd3VxOHZ5NlhJTVNUbi16eXpNM0RjTzNBeUNhbVljekFCNjU1czlQZ2FnVDJXWm0xMGFESjJ6?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-01T18:14:17+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7a0dfe24ab816908",
 "title": "Bajaj Finance board approves ₹11,700 crore QIP and ₹5,800 crore warrant issue",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1dxODlIRURhVEJPN3ZDeXZoOWJjcGd6bkJEZmJTRWxFV2M0aXFaSVgtWVZxQnNGYkZDN2Q5WmpKVlliUE1OTXJudGNNM2c2QlllM3VucHlyVEc2eGFwYlY5RVpudnpHU2VHcTZYRmJyNUZ6dmRuWlRrQWJwTzd3d2xBTVB4dnFteDdoVlNyRFF3NnZQc25WOHRjYzBRaXBvb2pnVWhqWGg2R3VwbEpmanlhUUxtTC1NT2ducjNUWQ?oc=5",
@@ -463,6 +534,40 @@
 "sentiment": "neutral"
 },
 {
+"id": "50d6f0b42e4d100e",
+"title": "ICICI Group veteran Anup Bagchi to head HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1libWxIekQxUmpsQkY5N0cxRUFtYUhhelhlNDgyYVd4UEhTNHY4SXk5SnZBanZVb1BoeEtGV1R3b1VvVDhNd3BCRUlDbnZSOGFKNXlpWWxvdElJYzhWMFRFU1pFQVU0eG9lMkF0bVA2RUQxQW9iTE1ndGRqS2xCSEJKNnNaU19BbkRfNmY0WmZwY0U2RnJNRzFyUTlZVnBaVllqNjBhdjhfbjhRVkgwdzAwS3dTZ0hCUFhkYkxBbTRjQdIByAFBVV95cUxQaUE0UEt0M3d4NzZiQ0pIQ2g1dXpCR1k3dzhfSEt3cnRuUG1CQWdMTkdfWWFzOTdFaWVSaWZwZzNwTHY5WWhHOWpmM2Y1eEI0RDZaVHJCbjVtbWg4UHR6RnJfU3lxRXRtOS1YRUF6Q1V5UG1vMElRVWNwaUxOMjZVSk9LYTB6RW5WQlJROFY1T1FlVWdXMXdkRnJuem1wek8xYXdnSC1UUVhGSHBlMXpodjZIOEpKX083dmNISU9vMVBtS1puSVBENQ?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T18:00:00+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e0a82e67261bfa5b",
+"title": "Kotak Mahindra Bank’s MD & CEO designate Anup Saha could shift advances mix in favour of retail lending",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdEhZdE0waGJCWjlGNWpvSXJsOVNOS05zeG1vRGNOdFdTZUZvdm1yQVlzcVREdFMwMmxLcXRvaXdmemJQVXpOTk8tS2d1MTlWVG5oSEZkakdVajhaUHFndDFqV2EyVEhxY1ZjZWRLa2NzbkZrZzA1ZnR1dWdZcGZFbHBFdWxNZE4zOXpoN0Z5dm5DMDhGam92XzJZeG5NWGZSRWlqb0h1N0VTZUdhT3ZqN3MzdXhESFdPRUF6RkRaaFRSUGxkZVp5QXhBNDIxX0cwMzBNSWVEZzlFRzBURW9COTlWbkNqNXZkbm1vTHd1V0ZTOHowb0dsazNBek5ENDBhQnFBZkRzdUxqNU3SAZICQVVfeXFMTlJMcnBPUVN0ZlBzT0l6dkxZcHdqLTFHbnFuM1ZzQ3JOckV3SlRRY0JaWjBwWnZyQm1IVE10UTBMU1RuM0R1SHItbzZGaHFfN2ZhWmkxT3A4bEViM19CR3FtTEhfbDlBNkkwR0NvVkVXWXVWZkRIbE9TMnFFUXNfY2ZUN1Y4MXNDWW5NRGtfTVJPTmJsdVVfTHNPMW5YakhKY0p4cmR0OWxfbkxmSHdpZDEwZmVOcTFYbHlJWVVKNTdGdG80T19PcmtDZDBlblFsamdnWlVDYWFYcGRxeUtraURWbTBoTXlPcXlVbzR5Q2I1UGREQjZwMFNTU0U3SmVPSXVXN3V6NVZMc1FFeURONWlQUQ?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T18:00:00+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "baa8d726e1986330",
 "title": "Vipin Paulose Takes Charge As Cipla Head HR",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzZ2U3hlQ3dEVGVObUhFV043cXJOMFpKa1ZXNGRiQkkzdXM2dkVSWG00VnJPUUR6NElWbDhNNE9lWXF6MkZaaVZmX1NCeXV3endCNkdQcFJ1SjdYallTU01zemlEMW9UamdidmhIOWstR2Q2ZEJRT1NLOWg0UzJWNWxYbkZuNmJYdHc?oc=5",
@@ -474,6 +579,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6c3d7174ae06da17",
+"title": "Video | Pranav Adani At Invest Maharashtra | Adani Group’s Big Maharashtra Growth & Investment Plans",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXpOTXpWNkMybzlieW14dVJmOW9jQWJMZ3ZvR29rbGF2TTVQYzJjcUpfQ0lIeEhJOXc5bk9KVGQ2d3NsVUN3OHZWWTh4TXM4aTBXSHAtTmt4SDltaS1SSnZfY3hfY3k2a25lajBfamFfTHFGd2dCNzlhS0lkcnhCdjF1RG9RZEktRUxQUjR3NjM4MGM3alRZZFJRelBoVVZaU2RwWXN1bEwzV0gyaEJ0NnNoaGxrVlhkYUdpME1xcThjb000dlZXZGNyVE5mUWxHcG9vai13?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-01T17:57:35+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -506,6 +627,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2441bcdcfe874a98",
+"title": "TCS to buy US retailer Best Buy's India GCC, develop an AI-native centre",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXkyREh0ZUllZjB0eHlJLU5WVTNucGM0clgxdDg3RUNVYWJZUFYtemEwSk1Pekl2MWJoSEUzcEJEQkdKYzVLWUxTSzc3eEN1UmFwUkN1LUVGQmdid0xsUnB0Nl9nWm5UX3U0UmxBLWEteHZ0dUdDbGNoMW5lcW9PT1UtTFBxNDlGSGlpcFpaS1U4cmNPa3BfWE1qU2RvbXp2YzR1YVc5Y2h3YTF6R2FCLWQwTHVmZC1tZE9Xdlc5dlhpOHhRTHktZmFxQW1TQmRhR1A5bGl6UdIB3AFBVV95cUxQdV9CcFRxVVYyM0NOS1cwS3BtUHhFaDFfOTY2Ym9qYVhLZnhvNnBETlY2S1kta1lOcTB1NDBjTFdCMDZ0elJHWnBVM0Q2bUVwc01hcU1zNnp6dzdsd29weFAwaTRVTmZNZmhpUDNQNWdxSi1BWW83ZjViS2Z2b3pTTWViSDVTaWdJQlliejJmYWFYLTg5cnJQMUhJdlltMVRCaG96U2VhMjVINFZrOGFwV2dub2NkTV9MeW9vN2xzeWRCYTJLd3RqaFh5OXNhbzZBOHVrUFRGQjRtNEo1?oc=5",
+"source": "Business Standard",
+"published": "2026-10-01T17:50:55+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -614,6 +751,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "0c92e76cb0074ebc",
+"title": "India's HDFC Bank appoints outsider Anup Bagchi as CEO",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxTZWNtQXFucmJXdmRxR01taG5SOEVfT1RYSm9JelhiWWNqRl9BLTRDa0p0R0hqbXRkTm41bGhzT0hiSkdoTVppVkZzSlp6aDNBdXZ5a2NlWG80M21yWFNheHF0MjZqQlNWempyNG5qRHhlbmoxQ3ltVFBXLVVxYkw3UkQ4eVdfejdYNDJkLW1Famc?oc=5",
+"source": "Reuters",
+"published": "2026-10-01T16:58:10+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "b34f5575867230e1",
@@ -1060,6 +1215,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "461173a87a78ac18",
+"title": "Apple Pay Launches in India Through Axis Bank Partnership",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUG5ZUVRuQVFCZ3hDQWx4V0lOS3YxdkJGUFY0TmhqYmNFT21UWV9RV0VZZjRpc0hseGYtTFg3Vnp2MHNQRnlvRVpDa0N6NmF6VWpfYm5fUnBpZlNhMlhveXlfY0NBY3YyN3lCOHYzTXRSSTZBRkM0?oc=5",
+"source": "briefasia.com",
+"published": "2026-10-01T16:03:10+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4896894e262bcea2",
 "title": "Satchidanand Joshi Named Global Head of Marketing – TME at Tech Mahindra",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGhRRTUwaWRta3k0ck5hY0JKWUh4M1lHOU9MWEVGWGxRdC1aeThObUVmZzN3bTFyTTVLdUQwYm9Qa2Y5UWVLNTRLOHlUUUhhUk1hcjI0Q29ZaHkycEEycUdyTE5WTFh4Q053NEpOZ0ZpaURZN2ZUMXU5YWRkSVZLQk1wSjdXaElwX045RE5QWlVrNUVfRWNwUnFMeVpKUno4V2txRmRsMlc2SERsWklhVFlaby1kZHV1MXg0ODFHZkl0Mkk3?oc=5",
@@ -1160,6 +1333,24 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "e9d2292a9dc1f01a",
+"title": "🚨 ICICI Bank: Inside India’s ‘CEO factory’ ICICI Bank has built a reputation as India’s ‘CEO factory’ producing leaders who have gone on to head some of the country’s biggest banks and financial institutions. From K.V. Kamath and Chanda Kochhar to Sandeep",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNfM1BaNmpsZFNjYmFKUVVqTkVYZldEckxXLUdXZXVqTC0zUDVoQUZ4N1QzQzNTSFcwZ3loaVVPaHdQMjJuSTJSTFZNeGNzV0dvZ1c5NjdWdFdyQmhIem51bEpFUmNpRkl6WDFLelE0VTIzanBmWENjMkhHVU1GWHpYWXJ5QzBLTWpMYXNYQ3lVU29qUDBCdzZXQktUZ2dqdmxwTHg1WFRmQQ?oc=5",
+"source": "linkedin.com",
+"published": "2026-10-01T15:43:29+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "c7e9eea2d934994b",
@@ -1374,6 +1565,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ea37d424aa75ee99",
+"title": "Jio Financial Services Limited (NSE: JIOFIN) Adds Capital to Insurance JV",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTk5aG9QTDlNSnhBdjc4eGdNbnBBeFhJNmhxNV9uNnktNmp3cGNLZVlHVER0YTV1UmVIV2FRUnpoenI2eWpzaXlSQjRjMnExcWZkWXJGaTRlWU1QZHhiTFNicGR6STZGbnU3cHQxRlJQV3ppOWE0NWFvdWZNS1EwbkZaZkt4Q2k2YmdyX2hRQjFkWThDZUtTbTZ5RDhfclc3SkJ3TjRuNVBzMUtFNkZhSVItOE42VWpNcmFpUUtkN3pKUVlsOUtYclU0ZjhVLXloeC1vcC1raw?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T15:27:00+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -14052,6 +14261,22 @@
 "Management"
 ],
 "sentiment": "positive"
+},
+{
+"id": "a047d78d588f8045",
+"title": "Sivasagar forum protests at ONGC Assam Asset, seeks jobs and flood assistance",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjRSWFFrNm9TRVVuOTJCT2p0WmZFTktWXzJiNk1VYmQ3RUFRM1o2OEc1dHRyczVZcC1ZZ0ZnOWlDWi15dkpPUlN4X2JMbGViMGE0QTJVbUxOLW9uUUJVYTE5blRoSDNyc05LdEl3aGpMaWt0dU5aN0JQT253YVpvc0VWd0VJOXV6bkpfYURrWUlHYks4ZXBvbThjYi05eE1mSGFKaTR3WDdIeDA?oc=5",
+"source": "Assam Times",
+"published": "2026-10-01T03:37:35+00:00",
+"first_seen": "2026-10-01T18:24:25+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7d86816de7db2818",
@@ -50501,228 +50726,6 @@
 "Metals"
 ],
 "tags": [],
-"sentiment": "negative"
-},
-{
-"id": "68ae53be539085b1",
-"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Reaches New Low in 52 Weeks",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-28-sep-2026/liveblog/134530069.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:30:43+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9937b707284e1a36",
-"title": "UltraTech Cem Share Price Live Updates: UltraTech Cem. Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-live-updates-28-sep-2026/liveblog/134530068.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:30:38+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a3fd3bc4f0272387",
-"title": "TCS Share Price Live Updates: TCS reports negative returns over the last quarter",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-28-sep-2026/liveblog/134530063.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:30:25+00:00",
-"first_seen": "2026-09-28T03:29:20+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ce79df260f3e614b",
-"title": "Adani Ent Share Price Live Updates: Adani Enterprises Struggles Below Support Level",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-28-sep-2026/liveblog/134530055.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:30:10+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "64a8fe532d44c746",
-"title": "Titan Company Share Price Live Updates: Titan Company posts strong quarterly performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-live-updates-28-sep-2026/liveblog/134530050.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:30:06+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "f4dc7845b1c51194",
-"title": "SBI Share Price Live Updates: SBI's beta reflects its investment profile",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530051.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:30:06+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9945d5b0d1e36f55",
-"title": "Maruti Suzuki YMC Electric MPV Launch This Year? Check Expected Range And Specs",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlNJN0FGclpndG5PNl9QdnlGYXRmd0kwYU42ZlRrQUJMbzFpcC0zRUh1elBVWWFzVS1YR0hHNWVTaVNqQmJWZkRDc1BNTWpWTEJOaXNhZk1rUXB6dnpHbE1oRTFnemttMUtJQTNxVEt6VkwxRmZRMnNCQUltVnpMUVN6aGlRZzJ2TWhaVzg0TFF6cTZqNmJIU3EyZGxpOWkzRTB6dnFUWWhHaFprU3hYUEZta2NpRlQ1cDNKLUozRGJYXy1aZXZXM0VlYmhXQ29ObEdj0gHaAUFVX3lxTE9XMkdoMDExMVVSMFpudTZrSk44TjV1aTRKWlpfM3dOc2o2QzBtOFcyQUxpTGtLc2tXaDd5Z2huQTgzWlNnQVdiY2o3aHV4UExnTHI3Y2xNSjkwVU55VTFNbDZGWmxZeWtSbkljUVgzVy1qSnUtM2J0WnlPT0VCRzdzSXliMU9DYUlBbUFXNWV5RDUxWUlxcVdFa1p3akI4QzVSaTVnWXhxcE12cG54WXp4WkNNNm5ENEdPanoydEVObGMxdG9NVW1pNk84NDE1eDJWZHB6Z0VObllR?oc=5",
-"source": "thedailyjagran.com",
-"published": "2026-09-28T02:29:00+00:00",
-"first_seen": "2026-09-28T03:29:20+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "154e9d454ec1730f",
-"title": "Monday's Focus: Two Dozen Stocks, Including NMDC, Adani Power, NTPC Green, Sedemac, Aditya Infotech, TVS Motor, and Chemplast",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTEdPeDBVR2pseTVveGprMUxoTHRQWGVSeFBhUmRCMExRRnlpejFMTkhyRXE5amoyZG1Cek1xMDREWWUwM3ZxR0o0T0RXaExtcHBiM0pocVkwREh3SHpkRFZ1T0Z5dW1iSzBFMHBOcXROcUNoamViVWEzUWNfYzdTbGphc0NHcm1YaFdoTlBKUjhadjRlckdURExZWk1PY1FVV2xUVFhZSXY1NmJMbzZqRElld3pvbDZ3aC1OSm13dlRZa09kUlE3S1lJckJad0tBZUpPQkdQQjJaUHhNX0JRNXFlWElKaHB1SjROYjBGSk12Tjl5VWc?oc=5",
-"source": "intellectia.ai",
-"published": "2026-09-28T02:28:07+00:00",
-"first_seen": "2026-09-28T02:58:04+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "934aa5da5777d0f6",
-"title": "SBI retains 25% debit card market share in Aug’26; HDFC Bank continues to lead credit cards",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2RMb1d3Tm16em42a09xSjcwbExQb2dOM2hJcjN0dUZDUUxWcGtzQ19YdUdWYng3N3lXTHdkN0Ytdk92Q19tS3poeFVraGVJM0VsTUtCVWloZngzTHVSSDR2VGJfUVJmN05pMzV3WldDbjVtTlprTlZIR1ZmWF9BX3JWM29fVXh6MWk5TzRialNnV1VrdkV6NW5yM1F6OUhqTUxqal9seXFERGY5V2xxRmZVQzU0MDNCVEtVU0ZKazJQbmhrTE5HUnEwTVRiNFBKZm84VHUwV1g4Yk9TZDB6NWxhcDdTVkcz0gHoAUFVX3lxTE5fZExvV3dObXp6bjZrT3FKNzBsTFBvZ04zaElyM3R1RkNRTFZwa3NDX1h1R1ZieDc3eVdMd2Q3Ri12T3ZDX21Lemh4VWtoZUkzRWxNS0JVaWhmeDNMdVJINHZUYl9RUmY3TmkzNXdaV0NuNW1OWmtOVkhHVmZYX0FfclYzb19VeHoxaTlPNGJqU2dXVWt2RXo1bnIzUXo5SGpNTGpqX2x5cUREZjlXbHFGZlVDNTQwM0JUS1VTRkprMlBuaGtMTkdScTBNVGI0UEpmbzhUdTBXWDhiT1NkMHo1bGFwN1NWRzM?oc=5",
-"source": "bfsi.economictimes.indiatimes.com",
-"published": "2026-09-28T02:27:51+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2ad5c00952a66268",
-"title": "Coal India Unit SECL Taps Banks For $800 Million IPO",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFF3U0s3STFfQWZOUUVYbVhaWERKX1dPdm9mSTNpUzF6TTVwWVdyLW14WlNUN1pIdjdkTjloTmNySlhOS3lsamt0T0h5OTZFZVJ0dG03b24zOGY1M2ZwRmZZN2ZKd3BzaFpteVpNRjQzQmo0M1BmVzRFdFlFOEJFN1lQa2J0cVFkODJqeE5aVzEyd01NS0pnSmt6bzJZZ0J2ZUcwOTh4MA?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-28T02:24:32+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6840f9a8b9af6c7c",
-"title": "Trade Spotlight: How should you trade Balrampur Chini Mills, HDFC Bank, Samvardhana Motherson, Jubilant...",
-"link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNQW5Uc21HRk5iVjUzeHJhSThrVEgwUDVUZXJaanlIRjNHN2RDRjRjLS1IVUoyMkh4dm9aUEtJY3JIMWtpbVRORXBzR1VOLXRiV2ZBLXZrOU9ySXpEdWZOUEwtMVBidjBfQmhkNDJPaEM4OVVxZmY2Q3BiZHBTWHBtbHpEdEJzUFh5Z0RNbXBhYUJBVEo3ZzdMNkFIVGVKUVBZci11c3Q1Nnl2clRiWDQ4bndJNF9pak9XNFJxak1ZYV82REVZMmJ1RHFsVHJ3eEtzSGFiQ1o3SDQtb0xjZnphYW9ubjZNRGpjZnpRSnpwN29LUk50cVZRNmRfdUVwbm5ZMTBOTzFCVjFKZEZwVmRjclVvOEhHU0ZRTGR4UzRma010YTBWdUtFcS1PNjJ1cktZ0gG2AkFVX3lxTE1WazA0YWlxa2Y0THAzQ2VRWDl4MWxmQ2Y3dWlpa1ZRQl9FcjQzQU9VaWU3bWJfUEN4aWVaZ1NhclR0cTItYjVpazhibGlPeG15RGhXcmpSdGJzSEZaeU01RGQ2RTlxWlFqSzdSLTk2NEVpOE9EeGFQMjNZX2FGVDlpVC1GdDlnQ3NMOTRvRkNPMnAtempGSHVKbW01LXNkdzYzS0JnVXFtNWxYd0ZXZVQ3LUh5alhfbXNkVEdXSFJNQ3FWc2drUkVDQXZTamtxei1Bb2NJajYtN0M0SWI2RENXZnpfcEwzTnhCdFJybE5iZUdONVN0X2dHeklYdGpOeS1wb2M3bWdHd3A1Y2NNN09xYUU3ZzFOVVNOVG1qSHZ5ZHd3RzNrb0R5dl9BbHMwMTYtdGR3d1E?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T02:24:30+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d08434d777a24bc6",
-"title": "TCS: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFZad3NnRzdpOFBFVEM3T2ZlVHBNTGZOVy1TWWVKZFhNWGUxekh6U09zcV94Z0tFblIzMjlpcHBHMUJKajRrUzJjeDd3TmdVYVJxZlIyQ3VZWmhqZjNSa21TQUhDNDg5MDg4VGJwTnhyU3pzT1JPUWFrOE9uRWdKMWtnaUJ2WTVucDJXRjFZYVBBNXZJS2RuOEVHV2hJUGs5STJRY25xeHdtbnRhamx0YmZDcXlXNWFqYWV1QU1zT3FrSjRpOUN4UEZiOVItZEgyRUxkQ2wzSzFqUFFKbVV2dGNpRWl2VmNWaGVSV0c2cVkzWVXSAfsBQVVfeXFMT0g1a0RMZ21lWTdNejRtRlF3Uk1PRzVGUmM2Ym9CNlVwd0ZQdnlMOU5Vc2hOMHF4V3plRUNaSmVvWDBBLXB6bER6RDhacGd2YUV6UHZxbkdNRVFxZWRkRWQ5NGhhNUVzOEU5bTlocGRNRnloamp6R0piOGVnSWJLTWRYaFVNRDFPajlGVjVRXzNST0ZacFQ5b2hMOFp6VDBFTjRoVHRZaTdjeHNUbXhuQkZjN3NJaWl4alNNOFVKbUYyTHRWRmgxWUl6R2xFZ0xxQVhQSjRYVlVFTEx6ZUluRXprSnh6OUM1R0xYWDQ2XzNuc005TU1yeE9oWEk?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T02:24:16+00:00",
-"first_seen": "2026-09-28T02:33:37+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "negative"
-},
-{
-"id": "80515e9332d169c5",
-"title": "TCS In Focus: Citi Cuts Target, Retains 'Sell' Rating Amid Sector Challenges — Key Details Inside",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeFZad3NnRzdpOFBFVEM3T2ZlVHBNTGZOVy1TWWVKZFhNWGUxekh6U09zcV94Z0tFblIzMjlpcHBHMUJKajRrUzJjeDd3TmdVYVJxZlIyQ3VZWmhqZjNSa21TQUhDNDg5MDg4VGJwTnhyU3pzT1JPUWFrOE9uRWdKMWtnaUJ2WTVucDJXRjFZYVBBNXZJS2RuOEVHV2hJUGs5STJRY25xeHdtbnRhamx0YmZDcXlXNWFqYWV1QU1zT3FrSjRpOUN4UEZiOVItZEgyRUxkQ2wzSzFqUFFKbVV2dGNpRWl2VmNWaGVSV0c2cVkzWVXSAfsBQVVfeXFMT0g1a0RMZ21lWTdNejRtRlF3Uk1PRzVGUmM2Ym9CNlVwd0ZQdnlMOU5Vc2hOMHF4V3plRUNaSmVvWDBBLXB6bER6RDhacGd2YUV6UHZxbkdNRVFxZWRkRWQ5NGhhNUVzOEU5bTlocGRNRnloamp6R0piOGVnSWJLTWRYaFVNRDFPajlGVjVRXzNST0ZacFQ5b2hMOFp6VDBFTjRoVHRZaTdjeHNUbXhuQkZjN3NJaWl4alNNOFVKbUYyTHRWRmgxWUl6R2xFZ0xxQVhQSjRYVlVFTEx6ZUluRXprSnh6OUM1R0xYWDQ2XzNuc005TU1yeE9oWEk?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T02:24:16+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Rating"
-],
 "sentiment": "negative"
 }
 ]
