@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T17:19:59+00:00",
+"updated": "2026-10-01T17:35:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,25 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "13aae6754eff9be0",
+"title": "NCLT approves Tata Steel merger with Rujuvalika Investments Ltd",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3BhTGJ0VTFzM0daMkpOOTNvV2JRR004aXp3MTZhX2staDFaSHpES19sal9NdzR1b05JNVRxRzkyN0ZyVGw2ank4UzBhR19KS1NyZGhTSFFoZHc0VFNHNWVkalE0V29LX1dMMzJVdHF6UEJmQWJvRjZjajlDTlB3d2ZrN1BPLTdfT0VKWG9SUmJqZFBVQUtfU3J5YlNydUc2VW1EbUlKQ2s0T1FQdGZDNg?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-01T17:27:23+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "7c888846875c46ed",
 "title": "Reliance Industries stock after-hours: FY26 revenue rose 9.8 percent to INR 1,175,919 crore",
@@ -1058,6 +1077,22 @@
 "sentiment": "positive"
 },
 {
+"id": "960c5800217c175e",
+"title": "Why Infosys (INFY) Stock Is Up Today",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTmFRNXlLc3VaNWZfZ2JIXzZTbTNuT0p6djFMU01xOEVrVzZ3VzlzNUxFZEFaNk9WWm8wZVFDaXc2ek5qbEc5TU1Ba2hubmdkek52dWtNTUVKUkMyMVhJTEFuVFpLNFIwWDFvVGthS2c5YUh3Q3lrc2hHdENxdw?oc=5",
+"source": "Quiver Quantitative",
+"published": "2026-10-01T15:33:00+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1dee86c64cabc3af",
 "title": "Wipro Limitedhas completed the acquisition of Select Customer Contracts from Alpha Net Consulting, LLC.",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalRXQ2pWOUEtZ3NWcGdDUXVzUmdVVTR0V2tfODdrdDNGWHVidGR6a0lmSXpXQTdmYTVCMVdVVWt2cmgzMEF6TFMwYXU0bmVZNlBRQlNuMElQaUpWQ014Q1VPanJWSmZSaF9uWlZCQjUteFZsZ2NkQk01UjFSSWMwTk81UzF1bGtzVVBtaUtGUnR6VldRUXg5QzM5MDViMkx2azMtNXpLM1lGREZiYmx3dTJDMEdQZFNjV2p0dlFJN2pFV1hLWFMwdi1fRDd4UFpzY0dSdTRDVUItT3dGR2htSzZQTFRQTDQ?oc=5",
@@ -1265,6 +1300,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d22546d2e2c674f6",
+"title": "Delhi High Court Allows Proceedings Against Ex-CCI Officer Over Witness Tampering In ONGC Cement Cartel...",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeW5NSjBTOWFuNlFEZG5TUldBaUtHUnREenNsQTNhSTZmSlhqcUwtdFB1bFpxem40M0t3MFA4V3ZjSlJWZURSeE5OSFVPcEF4cHZNaERrSWN3d2ZiYjdaeWZpaWR2d2pKNll6V2kxdmkya0hMZHJZLWdNWFdic1k5RjZJcG9nMEE5NjUyNFFkRVc0WGNnNjdGWmNadUNIaURPeTN3TnZRLUVabU9adjZLNE1IdFlYcWhhOXBqV2RUWWFhU3oxV3FGS2sxVkhKWG4tM1cxWWl5UlM4NW14bkNpQUo2ZThQdXFmN3dodWl5Vzh1bmhwU1BLb096UTU1TGlsZFJud9IBhAJBVV95cUxPeW5NSjBTOWFuNlFEZG5TUldBaUtHUnREenNsQTNhSTZmSlhqcUwtdFB1bFpxem40M0t3MFA4V3ZjSlJWZURSeE5OSFVPcEF4cHZNaERrSWN3d2ZiYjdaeWZpaWR2d2pKNll6V2kxdmkya0hMZHJZLWdNWFdic1k5RjZJcG9nMEE5NjUyNFFkRVc0WGNnNjdGWmNadUNIaURPeTN3TnZRLUVabU9adjZLNE1IdFlYcWhhOXBqV2RUWWFhU3oxV3FGS2sxVkhKWG4tM1cxWWl5UlM4NW14bkNpQUo2ZThQdXFmN3dodWl5Vzh1bmhwU1BLb096UTU1TGlsZFJudw?oc=5",
+"source": "LiveLawBiz",
+"published": "2026-10-01T15:07:01+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
 ],
 "sentiment": "neutral"
 },
@@ -1613,6 +1666,22 @@
 "sentiment": "negative"
 },
 {
+"id": "365b5cf09ca9e001",
+"title": "Coal India September 2026 Production Reaches 53.5 MT",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVlneG1LZWozTm92enhzb3REUC1LT3Z3YllJU1RmY0dJSjVIOExTQjdmTHd3eUdrVWJxc0J6OFh6Z2dSTlRSS0JaYmRDMEtSOVpZT0I4eWw1SVItaENzLXNpeE5xckNlYWxIVzM2bjhLZ3B1bW1VMjhObzBJV3FVb0pIU2tEdFpsejRwZFotZzRxc0g5UXFlMG9PeGpCcTUzeXZ3X3hLczFvZHZuc19XOE5xUVZkMUpfUFNBZEpuRVg2UnJUdjVZRm1kRHc3eGtFeWc?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T14:28:00+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8732697683a27a8d",
 "title": "Severn Trent Plc (SVT) Allocates 13,269 Shares Under Sharesave Scheme in September 2026",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmxRUFI3cWpjMXQwNEpBWkgwblFzel9hLWVNbmpDSzcwcUMtX1NFZUtMVHo1em1UeVFuS1BwQUV0cEkwTXNPSUFLQ09IVm1NRklsRndrVEVkSjhmZ3p2NXNWOEp3ZWxTUW1STkRobE9fYzJISDlLZXVQbWJkTld4TE5XTmpjN3R3NUo1enVBSk9MWTF1elpTd1Fyd2ZDWnpza0lBSzRPZ09LZk4yV1ptY1k5ZGNwYUNfSVlMUldvMWJEQy1YZi15dHNpNA?oc=5",
@@ -1706,6 +1775,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "decacc32581d002c",
+"title": "Infosys and Columbia University partner to develop AI R&D activities",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaXg0eTV3cXVucGdYeGJSQm42MTBfNV9QMlVjY0FQbFlVS2xhMUpDSjB3RmowT1YwWk9yTVVuNy1faE9vSDVmVTlmc29tTTB2NEVYakpfeE1mMDJQM1BFRklZdnczRDRkRVhNbjR4SHhYQ2NJZXJHUUxweGp6eEs2N2NmZndaRDdRSEhNN29hd1lCTWoycDRkN1UyLUFzcTFkbzRLTVM3TUtGUjNvRUVqVnRtcmtzSkhhNmZyZXZMclAxdm9MWEVLT3cxTk5nNEdfN3hSTXkxYmo1VTZGVGVQY2RROF9KREVnYjQ5ZlpQZ09DX2s?oc=5",
+"source": "TipRanks",
+"published": "2026-10-01T14:11:23+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -12075,6 +12160,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "1597a908690815ce",
+"title": "Bharti Airtel faces ₹11.25 lakh DoT penalties across four circles",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlSSVppeHdNVGdNandJal9NRlIzZXNUdURQdlNHUzNVcnNseVo3UUg3SFhKVnJuMDdwYWo5bFUyelJuN1h0eDViczVnQkE1bDR1VDdZZHcxNjR4SnFObjYwSzhzZjJyelgxZ1VxekNtdFNnaVc5UEZ3Y05STlJYVXpuYWRvcnRFa0Zfb1FwemZuYnl4NVpCTXEzaHF1TTI1MVpjc0lFYmtoeHQ0eDFRNkw2TXN1dTRZSGRjRHA4Rnc?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T04:57:06+00:00",
+"first_seen": "2026-10-01T17:35:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "320406b8ccc3f132",
@@ -50612,110 +50713,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9684b3b8679bd98f",
-"title": "Stocks in news: Adani Power, SAIL, BCCL, SAIL, Cupid and CleanMax Enviro",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbzNKX0VTTVhSMlp6ajhkZ1BCbHctT3M3OEs4VG9OWHRYZ0lwbGRHczZWZElNaDRfMXlfZnVfYmlUVE12SmlZMDNBTXBIQTZWMTdWYXQ5Y3ZFdFVfbjJNODVEQy16OHZyR0p6VFRnVjdRR3E3aTVRd01Bc3ZWbzNqLV9yYTU4WjdNQnU3MHpFc0Fob0dPcml4T29CaU1TUGlqMU00VEpTLVB3T3dmUy04dHFENVp6Nld6S0s2ZmUwWXB0bGphUEVvZWNMbkZMVjdLRjBKQXdpVFfSAd4BQVVfeXFMUDZwMTdLZmdzclNBRFl1QUNDQmlzRWlUeWwzM2ROYzgzbjJMQ09tR3ROUVRrNlBGMmpDQ2RhZlJSNXlUMHlTcTdHaVRkaHJBckczd0h5MGxkTFpaLUY3NUEzcnpRNDRBTFZON3A5cVlJNjJMOFhNb25nTDZXSEppZGhYQnNFZXhKeUw1Ukg1eWdlTTAtd0ZQeWgyZkFReF9kQ1l3dnlyUU9XWHdJUldnN3dHUldQbGYya3hhTjdPTHF5emdwRTlHMExpTjdwWDdhOG5aeHYtbEpnMVZtM2Rn?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T00:30:00+00:00",
-"first_seen": "2026-09-28T00:50:54+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6566e8208b4fdaad",
-"title": "Mukesh Ambani’s Reliance Plans $1 Billion Bond Sale Ahead of RBI Decision",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeV9lbGdyQnMwVUpJLWxUT2ZVZUVCVndaX0p5Tkg1dmVxaFczbHJna1N0WWdyZjBnUUhwcWZMTlVLN1gwN1lsMTl2WjlzQzB4YzlNeHl1UWxuN1E2WmJNS1lxeVo5aTdWc1VUYW1naUNjWUx6amlZc28weGFaNFFkZVY4NDlvbmQyUE05eTVZOVQ2djlFcmo0Vm92aTNBcHZTd25ESUVBdw?oc=5",
-"source": "CEOWORLD magazine",
-"published": "2026-09-28T00:25:00+00:00",
-"first_seen": "2026-09-28T00:27:34+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a084b82217660ffb",
-"title": "India has 391 dollar billionaires: Meet the 10 richest — Adani tops Ambani",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hMeElqblE5UnQxcHc0eU85RllJZlEzMjRPS3NIQkFkdENMc2NYcGtJOXctc2F1SE1zaVFXVU9MZlB5Q1hLejNOaUtkMjlPdExobnR4N3QxNVRibWJfd09vNXVteTRqb3otbmlfVEtBWWNTb1dxU2JGNHgtaUxqVjBEWVZOZEpTSzNRMnY3aUh2RXhydm5VRnotamRsSE05XzFwb2xfQjBJQ09zNW92LVhMU3NtdW5taWV1ZG5B?oc=5",
-"source": "gulfnews.com",
-"published": "2026-09-28T00:21:00+00:00",
-"first_seen": "2026-09-28T00:50:54+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "927160a5d32643e2",
-"title": "SEBI Lets Adani Settle Public Float Case",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DZ0pFQTZHU0xBWjhnbU1pX3B0WEtydUcxUnZfRlk3X2xnS1BNejRDT21fcEQ3cEd1TVJzUVJPdmFRZ2ZMRmJEQnQ4Zy1BZXZLNFFtTm42MU5LMGF1TmdkUzVTUlYyV0J3UVVScUxGeE5pT245aUlHSg?oc=5",
-"source": "Finimize",
-"published": "2026-09-28T00:17:51+00:00",
-"first_seen": "2026-09-28T15:22:08+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8a960a996ca88679",
-"title": "Dubai is an important market for us, says SBI Funds’ MD & CEO Debasish Mishra",
-"link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-debasish-mishra-b100-dubai-expansion-11790438563413.html",
-"source": "Mint",
-"published": "2026-09-28T00:15:17+00:00",
-"first_seen": "2026-09-28T00:27:34+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b09b6bc43c7f736d",
-"title": "Stocks to Watch Today, September 28: NSE, Zydus Lifesciences, NTPC, Tata Steel, Vodafone Idea and others",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONll1a1M1eVRDa3BuZmxNeE5nLS1KWXVfb1I5V0V4MHlERExJSW11UEFqM1YzMEhrWjJ1d0xWOTJUakF2eG1iOVhhYW8wbkEzbks3WS1wSWxNNVZsb2hocWZBaV9aRzNxWEwwcjVFZXQ4M2UydjJWY0cwQ2l5VDVYY3huR2JoMW1Jc2thUTlLMktKcXpxdXRuYkZZSm1ac2d2Q1g3YUZ2VUdnTHlNTGtxZjhWdUtjaHhZRlFoX0lQdjJNaTNMQnVRbjFCN3BScm5Dc3dLbTNHQXEyRGhJY2xqY2lmMlTSAeoBQVVfeXFMT2psbjEweWc5ZEk4YUFsSXJNYWFkaFNxbkctMEoxNV9DRnlKdWpybmFfeExucThSa3BVcnhwZ0xJTVB2dzZnbmlQY3FEekl5RGhTNnZCTm9EWGVCWUYzNDZlbHcxNk5MV2dCX3hMWndaX0VEdllPeGtqSUlxam5iXzcwODdpeHNiMmk1NDdaTENFN2tReGJmTjFrWVlBNXNuTHotX251SldXbWg3ZmFPYzNna3ZwaFB1bWVaSTJxc3AwSnkyVmNnLXlaTHVJY1FNSFp2aDJtLXJvSFNRQkdnWTJ1R0huWnFRa3FB?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T00:07:55+00:00",
-"first_seen": "2026-09-28T01:44:46+00:00",
-"symbols": [
-"NTPC",
-"TATASTEEL"
-],
-"groups": [
-"PSU",
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
