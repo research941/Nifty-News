@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T10:51:51+00:00",
+"updated": "2026-10-01T11:02:28+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "75d8e57cd7cd2678",
+"title": "REG - Severn Trent PLC - Issuance of shares",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjI1OVdxY2tEaFNoemdIUDRlQTQxMlIxaGxGUDhBenFhMkxvZGE1ZU5LTFV2OFpDZ1VOWjNuR2lKeTZYZlI2WUZkRGZpclRBMVotbzFrTTAyQWQ1cDVpZGlncE5fSlZqZEdLY09EMHBqT3dxU0NMU2UwYlNyRDg0WE94LVc3UkRLcFM3ZEVBRjdMV1FWSFh4VkloMUhGMS1lMWxsTGw1SWd4WXBOOFJ2eWJUS09Bdw?oc=5",
+"source": "TradingView",
+"published": "2026-10-01T10:52:41+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e6d74a7737fcc30a",
 "title": "HDFC Bank Names V.N. Srivatsan as New Chief Compliance Officer After Rajput’s Term Ends",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHJtX2dVVHNPUGltLTFpUnZKQ2JfOUh6dzA1N3lMcXltSlQ1QnQ3QTY4YjdKRDUwSXhKRVVCanFvQ2toOVd5aVJkM2lIQlVrcV9tV2VJUEpQUkxMT0VFWm4yTnRVUXRqQkItcWpyNDRnc1hYcVB1Q1JuQzlqMHFubGwtSTBWSEdxSmhYVmlvZ3J5N2hLejZaT0lMQWd5OEtJSkhPbXB2bHRvMWVQenQtY2xOaVRRNDQxbDlkNkNRQjgxSGpWa21DQ2tXV2tINlh3LWRv?oc=5",
@@ -540,6 +556,42 @@
 "Bajaj"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "991f7de7e18ed74a",
+"title": "SBI Buys Nearly 40% Of Reliance Industries’ Rs 13,000 Cr Bond Issue",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzJxeDZvS01UZERqcGtueEtJYWI2NnVHRXVkcl84MWtpQlBPbE84VFdIX0lmeUpGalNqZ2ZWdnVWVy1KcGc1T3ZJRXVCTnZYRkVZc01nVDF0OUhkelNWNjAwRk1KeGhvRVl0dlU1ekFTd0dCWVJEYzllQ0NUdmtzNUdnZlVVOGc0THAxblRqTmVuMWdUVTFDb2JxY3BTM0xxTUh2dGhETW9xTnYwblM0YW9PekZBSUx2cURjajNuaw?oc=5",
+"source": "TradingView",
+"published": "2026-10-01T10:36:56+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"RELIANCE",
+"SBIN"
+],
+"groups": [
+"Reliance",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8c0ea1ff21d9b24e",
+"title": "Jio Finance, Allianz Invest Rs 320.05 Cr Each In General Insurance JV",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaERNaTFWcG45aXVGS0Y4TWh3QzZsTUg5ZjdYVW1XY3Zuem95TkI4UXpLc1dOTkxCWlNfZlhqUmV3ZnVMM3JPMWVueWdvUEJSeUNYN0hkZ1BvbzRFOV94THJUekN0WjRvT0xfRGlVRzk1aGRfYllSNVFWRk8ycHBrRjRfRzNqVkZVekFjQVNyRmRUNE9YZEhyUUl0Tk12TzVIZl81WEtKOUxaLWM2OC1FZnZyQTlwM1JFRlZ6UjlDT2cwS3c?oc=5",
+"source": "TradingView",
+"published": "2026-10-01T10:36:55+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -1102,6 +1154,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "319ec31b9c64a066",
+"title": "Bharti Airtel Ltd Sees High-Value Trading Amid Narrow Range and Rising Investor Interest",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2FfQ0hCUlQ4bzgzWWFxZ0xrUjE4M1dQTmRRM2c1akdDc3pyVzUzbGZBcFJyT2Nad3lYVTJ2R0xoMkhuSkk4WGd3RTVfUXhTcmlaSVV1SE1KVGUxbC1OdHVvYUNsN0Yzb202WVBBSmRReUdzWEpkVnhlOGs0QVdjVk9kQ3ZvZ0hmdU12TGpwVndNUXZpSFJYeHFISEhyZTlmRWJQWlpKYjlOUUhIZTdKNGJRNnV6dndLUWl4eU9HWWIzaGVlRTdyQmY2SEdmMm9veG1Rc2Z5QUtDWVgwc3JB?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-01T09:42:21+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "98e1f67c72c3399d",
 "title": "JP Morgan bets on India capex: ICICI Bank, L&T, Dixon among top picks in new growth cycle",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVBaemNYeW5zYTVIa2JLdUxjSG5sSDNPR3Z2QnlhYVM1N0FvUTRMUGFoaGNlWXlVdnI0cGJQU3YyNHU1MnZnbTA1dXVBVEVJZE9HU0p0eEhzY1YzMHh0d253by00LUZmMlJZeXh0cUZ6ZUdmT2ZzSFowMjlqb3ZXS3VuVmFUZG9zWE5BcnBUZHQ4ZEVuQnYxa2lpRlVpNDZqOUtiT0hTVWhsUzVVNDh2VEhWLVUxdmV5eUlXLTRnOTFiWUFzNVQ3Rl9Dejh4RkpDVjRr0gHaAUFVX3lxTFA2c083UmlmM21VUmIyU0RnTU9TRjdZV1VvMmxyZ3BiUjlXZFI5V2M2QVMtblBLem9TMS1fRENoMDIyQUF6eEtGUHRyaENfb3lEVTFCUTFrckM4ZGptQ1VyZ21mN0Q0eFF5VFYxZG81OFgwMlN1bnJJeFlvYlV4NTJvZDY2U1dTZXdtWEJCcUNXWGM1YnZDcmwybHE2SU9uOGtOT29jb1NyU1N1WXhlbHM1UEtJYmthR19sRUpyWWtFS3YzUy1Fa2RVaHcycFA2ejBlTm15RGs1U2xn?oc=5",
@@ -1185,6 +1253,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2c4f8fab56ba6dc7",
+"title": "Adani Enterprises ADANIENT: Subsidiary Bond Issue Clarified",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajA4UG1kelc0c1BYOVMtLUxjeG5BYmx2X0RzalozRUZ0VGVHOWltOXVPWWRDSkVsek1PYmhQdmFNZDFJc2hJYVdIQ0NBeE9qdVFsd05CNEliNWV3NUlic1c2TE1rR3FOTnhQbm1wbWFidXUwS1pSREY2eExwR3NwUnhOdmVMa2JoR2hsRi1Cb2t4SWxMVjFBSC1ZX0ZhcHJiU0Y1cnB6b1hiSE5NTUNEVk9XWGpyYU1rUV8yX2RHaEpRdw?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T09:40:00+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3340,6 +3424,22 @@
 "sentiment": "negative"
 },
 {
+"id": "cdb63fa3123d38e8",
+"title": "Bajaj Auto shares crash 6.5% as Sept 2-wheeler sales disappoint",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQm52b0JpazYyc0xuRmI2OEozMi1YbGI5eGRjaHFNSmxvMlhlRlFpRkFIc2REVy0wSlFMaFpuWFJmUVEyUkNNdk9nTmpmZkxTcUdhOWpsaEpIbWIyemhOVjdsRFlBUWhldWduUUh3N3Fvd3BDTlhILXhWVi1Ga01lZUVDZHJwN2hTWkFQREVKMHB3QU9oYXh4bDBBTW5FX2JfOXFGTERrUUhVQkNIZG9zdmh1MXRuWjk2QXo5Nm9yY1JLcDlpdmRTRlJHUXhJcWk4S29CWFA0MEJWTWxhSFFZTUp6d2xxLVN6cG8zQ0VHQXTSAfcBQVVfeXFMT2p6eGV4bjJHalB4WnowNXZ0WVVPWHFtZUdKY21nUUNzSGY2QlItMC1vYUltT2ozNVUyaklac21DUGpIOHAxR2RSOGd4RjdGTDl4Ny1ndFd5UEFwWWFmdGtZc0pvQnl1Z2Q2VjRnZ2I5N24wRml0SHRLbzduLVJoeTRsYzZfdEFFMUotSFdwUS13Mm40akJDdVl4MHdRSXNFRnZGajNidjRhX0YxdjBmbGREaDVnSnpzRU9xNEJlV1RXQjlodlRDamJCdWc2VDczenVxejBDbEdwbURmbkdQM2k1TUpfeDZ5RlRqcHMyeFBQVXlnNnNCVQ?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T07:48:57+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "dd26a44547902f1a",
 "title": "Maruti Suzuki September sales rise 24% as SUVs lead growth, OEM sales fall",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzVnOHpibG44djRfSHIxUjc5ZzlKUlFROHhzcHZOVWhZbGFVWXVXUTE1Z1cyUnpzM1JHLXhWLUJGa0llYmdZN19QLUd0dnhTcmQxU0Ytd2p3QXpBX3B2a3Q3ZDEtOV8xbmN1MzJiZl9tRTBuR2ZXVzM0WDNMdVo1bFRZLXNnSnJkcXNtV2s2VXpoQ19XajZkQ3FsdGxuR0JvZHBRNld3OUZYWkNtS2YyZjAxRWVEemVDOWNoVEF30gHDAUFVX3lxTE5sSkVodkFwenRGNkdyYUVYSU1wWDJYNkpaU1p4d1hyOWoyd0FaeG1JSWVVaXgyRWJEUHpCcDlKTDFXeDNSRm43dnduZ0o0a1JDV1NqZWtwMEpoWnZ3eUlraV9LNExoSHZlZmdrQ0pMTl9DaUU4TGktVjNQZGtyeWlkSVBoX1A5ZGw4aW5OaVpnOVo1S0phT1Q0QXhxajhtWXRRNkxBcWRVcjlkRV9rcGw2WUJvSEVTdkJTd2Nsanhzc0hWdw?oc=5",
@@ -4360,6 +4460,22 @@
 ],
 "groups": [
 "FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "29128d43ef22c624",
+"title": "Rahul Gandhi questions ECI over Form 6 change, asks who ordered TCS to make the alteration",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWFiT05zS1c1UVp6OEgtbUFIdGxmM1dGSC1EM0daTm5SREgxQzJBZUc4UVJTWDRfd1I1TkJxNEptaGhMdFVJUjZ5dFlkUVkwR051LWNOU0VRZHBLbzdYb3VYNkl4dmFaSXU4MklDSlI2M0NqWFFadUFSQlFYOHBmLWtDeXZIcTk2Q2RsYzJINFJiX1FkWmxuNmx5UHlJaXRsR0pGX2xrTVFnY0haNGpHMVdlTl92ZkJ0SWxEOS1vZVVLUkJJN1l6dXlzMnk5anRNNkdzNk1uVE5nU0s4YVdESXl1NmjSAeQBQVVfeXFMTkFhYk9Oc0tXNVFaejhILW1BSHRsZjNXRkgtRDNHWk5uUkRIMUMyQWVHOFFSU1g0X3dSNU5CcTRKbWhoTHRVSVI2eXRZZFFZMEdOdS1jTlNFUWRwS283WG91WDZJeHZhWkl1ODJJQ0pSNjNDalhRWnVBUkJRWDhwZi1rQ3l2SHE5NkNkbGMySDRSYl9RZFpsbjZseVB5SWl0bEdKRl9sa01RZ2NIWjRqRzFXZU5fdmZCdElsRDktb2VVS1JCSTdZenV5czJ5OWp0TTZHczZNblROZ1NLOGFXREl5dTZo?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-01T06:49:00+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7934,6 +8050,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1bff6f4efc2e8f52",
+"title": "Bharti Airtel Upgraded to Hold as Valuation and Financials Improve",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3piRzhLazUyZjR2U2dDTThJNmFqZUVTOUtXcm5tV2hLVW1MUUktejQ5WVVYc3pRNFNKTm55bGJXc2drZXhpVEsyWm9lU1YyYmM4YjdLUTV0cTZzdlVkSWVldEVnWFFxSGJqU1VMVnE1ekgtakNWN2VzVUlKR0Y0VE5jblNLTV9rZkktUG9VSWxpVURrY3J6ZlRrTHo2aUV6RkJxa0ZGZG9Fa3czeFdnM2ZnNmF6cmJPbjlDZDlTMkoxRXp4YjFr?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-01T03:44:02+00:00",
+"first_seen": "2026-10-01T11:02:28+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "80424c470244f469",
@@ -50493,136 +50625,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8fafeef1fadb9435",
-"title": "NTPC Green Energy Adds 81.34 MW Solar Capacity in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWdSTlZmVDliZ2NFTjluQmtxTU5ycE1ZTG1xcmZvbUZUTFJKU3hDU2VjU29jcXJCLS1lemRJTEltUzRXQzlOT0hNUjZtVC1XX1FWUnA2blJzbkpLdDk1b2FQZWlGMS1IRG9qak1hMHpiN2k1SllxWE0yWThyank0QUdXdGJpTTBXR1pOdkFlRzF1LThKWkpnU0Jn?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-26T05:11:00+00:00",
-"first_seen": "2026-09-26T05:19:00+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "707e0effa6052771",
-"title": "Maruti Suzuki Dzire Infotainment System Image – Dzire Photos in India",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDIwemtUMmpTV0pZX2xodVpDSndCRElsakxYaHI5OWNJNm9ZeTZKejdfaFNnbkRwYXFVX0xWWktBbGxKbkV0LXdKeUswZXB4aE00dTdBS1ptWVFsSVN6Qi1nTGFkR3pNbVRhUTAxX21OcGR6Y1pfcGpFWkY1cjJ4QlQ1ZFI2NWM?oc=5",
-"source": "Autocar India",
-"published": "2026-09-26T05:07:07+00:00",
-"first_seen": "2026-09-26T07:00:26+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c6aee7c285366c5a",
-"title": "Power Grid approves ₹5,000-crore bond mobilization",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVlFeUh5MGFHVEJVM1dCajI3WkExREplbk8zRmh3Y3Z5aTVRRG1nX0NzUlNvMVZzcWFDYU1jYzFDTlEtNDBkRWJFQU1lTHU2Nmh6OTRQc0d1dktaWWJYTVRWVFdzMkNBRTZYQ3FlWVp2NnM5RlMzODIwUnY5N3ZoVGw1ekpNZjdlQXJFcmRiTzFCUQ?oc=5",
-"source": "Whispers in the Corridors",
-"published": "2026-09-26T05:03:35+00:00",
-"first_seen": "2026-09-26T10:19:04+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7792ad326e1e4c89",
-"title": "Driver: 'I've lived in six UK cities and Stoke-on-Trent has worst roads ever'",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhiRzNFLUk2UHJ3TXUtbWN3bkk1d3M0WDVheGswSjlwbENxeGQteC0yUVlfMk9HRm5DajdnWWlwS2VadGYwTlAyeDh6RmdZM2FyTXczVHp1UDltcnBGVnZtSzZwQ2NyVW10S1ZNaTJWS0ZSeDB3U09uUXd6V1NENUdyWm0xalBBQjhFWUlkbExlVlU?oc=5",
-"source": "The Sentinel",
-"published": "2026-09-26T05:00:00+00:00",
-"first_seen": "2026-09-26T10:57:07+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2f9377e0e1c37d53",
-"title": "Khaitan & Co advises Reliance Industries on ₹12,000 crore NCD issuance",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEpxV1E1SUN4ZGE4U3FZV3pyRUdHUlY3TzBuUm8tOGoybG5MS181bEQ0N25scGx3bG5jR3c0RExwcGMxcGpNS2t2Qy1PWExQUTJDRU1peVRETHVGampyNGg4VXNtakxKRS1UV0wxbHpILUFGNnU4QUFuQmlaVkRvM182RmF0NWc3SkI5MzlJZXdnd2xSdzRNQzdQUDRyaE5LYm9UblNPNktVWEJyX2VuVFVqNmFUUdIBwwFBVV95cUxNRHhHRzNxcXdGVUdvZVhTeVNFRkJUZkJDY0RRRUl3ZjBVc0piekxNREp2Y1JjRkN0eFhxa055ZWdzUzcyeTE0M2w2NTI4WFBteHBjWXUwM3pGZ2o3bXpheGIta21CWjl6M0RnWW5CZi05SUZrTUluWXY4QWZqamJtUU4zQmo5TXIyN3F0czNxSmxPeHFJMGw1ZXE4SW9yTVg3WEY5YzB1ZzE1T2h3NDJpUmJ1ZHdzTTIyQmUwUEtkTXpiaWM?oc=5",
-"source": "Bar and Bench",
-"published": "2026-09-26T04:59:23+00:00",
-"first_seen": "2026-09-26T05:19:00+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "87ec07c101321bcb",
-"title": "After Mahanadi Coalfields, Coal India readies another arm for IPO; SECL eyes $800 million",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUE9oc1NIWG5KbFAxY0dHTldMVDZKTFYzeHJOSFIxdmdIM0NKWi15MFJPZGk0ZUYxRmlZRWlFM0pKQVd0RVF5eUtiZ0RSa1VqYktoRlFxclI3eDBnd2NkTXlWUkJlMm5ZVV9NWE1zYWxSaUZtbW1jQk5DT19JbHFCQlhUNllLNzVBWmJUV1ZoN0tpdXVwUkdRckwxc0RWZVJPdWFWaDR3Tzl3UURaZk5QV2pWOUVjVVpDcTcxVUNNc3E1cHpIMnVrTFk0OWxmMmxNTDdKY2traXJaX0ltMHIwdFpUYnF0QdIB5gFBVV95cUxPUE9oc1NIWG5KbFAxY0dHTldMVDZKTFYzeHJOSFIxdmdIM0NKWi15MFJPZGk0ZUYxRmlZRWlFM0pKQVd0RVF5eUtiZ0RSa1VqYktoRlFxclI3eDBnd2NkTXlWUkJlMm5ZVV9NWE1zYWxSaUZtbW1jQk5DT19JbHFCQlhUNllLNzVBWmJUV1ZoN0tpdXVwUkdRckwxc0RWZVJPdWFWaDR3Tzl3UURaZk5QV2pWOUVjVVpDcTcxVUNNc3E1cHpIMnVrTFk0OWxmMmxNTDdKY2traXJaX0ltMHIwdFpUYnF0QQ?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-26T04:56:01+00:00",
-"first_seen": "2026-09-26T16:20:33+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ed2711545f6f0629",
-"title": "Eicher Motors Ltd is Rated Buy by MarketsMOJO",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPell4SW1hQlFORUhKMndSSTRnN3liMFhQMXZndFVneWd3OVFXenhsZ2tzMDFzX05wWlZDVzhVUFFmTllYVXJvMHJOZFZ0R2tFSkFrYUo0Ujh6SkhlM09ZdS1hay1SazdodlRwZXVfWkJuOHh1WkNRMUhjb0tOWmJuZFNOSkMwck1PTlpqUFpNbVUyallMdDFSeGVsOERpMkt1eXk3RHFLcnNVc0k?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-26T04:54:17+00:00",
-"first_seen": "2026-09-26T06:49:13+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "251f7e41e94055aa",
-"title": "Bank Strike: Banks Will Remain Open on Sunday, SBI told it’s Customers",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXl0LVBkYzJuTXEyek1QdDAyelV0Nm5WSnI5bjd1dEpaYWx1bkxMa2c5SjdTanotTFo2WW10ZW5sY1BtT1ZlZ0hYcDc4NzZHOVZTQlp2eHBPZ3pqOWRlc2tJSS1yU1dtR2FqSjJ4bm5PSjlTczQwbUJJSXNRQmc1UElGendGMmZ5R3BlTWxyUURDZUpycUdPMdIBnwFBVV95cUxQWGVpak9VaEVGS1FMYTFHakNjY1Y1cWVIYThSNllZUkZlZ3VVQWZCQ1JOTGlaY2NJSTJrSWxHc2JyLWhhSlk5ekVMS0pMb3RFbDI5SG5NVVJtRFIxdWhyeGtoT2ZUQlM0WEZpdHJDSjRXeTRvR1g5Wjl4Rl9NMzU0TFhmYm41R19BNWI5d09ZN0Rod1hQQkU5LUpnNnR5YjQ?oc=5",
-"source": "Times Bull",
-"published": "2026-09-26T04:53:39+00:00",
-"first_seen": "2026-09-26T11:18:45+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
