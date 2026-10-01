@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T19:47:36+00:00",
+"updated": "2026-10-01T19:57:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -640,6 +640,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "4d1150ba540df86f",
+"title": "Kotak Mahindra Bank Jumps After RBI Clears Anup Kumar Saha as Next CEO",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rZE1xbzhUQ1gwZnMyUzcxSjhra0VTZXBRSGtkVDBVbGZjWl9kbGNJLWpHa05TZEZiS003bkNVY3p1aHJEU0VvcTFUSTJNa05idUhkNjJZb3ZrRnBYdFI4V183dWpDZ3BleXRsWWdZdmdwNXc1eHc?oc=5",
+"source": "finance.biggo.com",
+"published": "2026-10-01T18:11:44+00:00",
+"first_seen": "2026-10-01T19:57:36+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "positive"
+},
+{
 "id": "6d2f91c91c31dde3",
 "title": "Anup Bagchi to lead HDFC Bank as RBI clears appointment",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFlXajZpRVdQenBkZDR4V2pzNENYbjViR3RSdmh2elcwT1RfdllmVXM1Q2lHVXZuazhzRFZtNEJ0b0JyaW12c1RobTUzekNKMW9RNVRGY1ltVHhhYWNtMnhxSzNkNXVZMVZnTUlBdXFCV2RTVHB6YnAyVWNacHE1ZDFENktIS2pJYmRIZnl0SG1VUUFqamdiakZPdVlaQ2V3bUtySmkxMjdXMmxWSEphZzBJNXhYdEE?oc=5",
@@ -1032,6 +1051,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "7bd8247e80acccb9",
+"title": "Maruti Suzuki Wholesales Rise 24 Percent to 2.36 Lakh Units in September",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczg5eVNBZ0hlcEtKMDh5SU9LS3lwZi1ldGVqemRMSmZoNDhORDRHUEhKbzdEeDZHaUNsR3ZqRUl2Y0JYNkJiOXk3UkFDUC1vZjJ5cFBEajRkRHRLMjN1M2ZWR0R5YW5QdUxYTVU1Z3h0RDAyMVVOTmlKNGNTMFFnYXlYSDdrXzZ6OV9mQm04bGx6c1l2QVV1NVhBUklZVFZMNEpacE0zTG11ai1BLUHSAbYBQVVfeXFMTV9MY0JSX196WXlxZ1NUMXZfeUx3aDB5YzRBWjFHYnJmWFBlQllFSGlwVmZ4dmlxRlV0cTROdi1JTjYzTXBfTENNaXJmQThvUm1UM2h6TkEydlJLMTNDWVdtWGZ4dm03SG5fU0t4cGZ5R1h1eHdBdkpaZHFZR0lQeDJzYVRVRENnQ2c3RExmQWhZbDE4ZF9UUWhObmlSdmROWlBsRFhsSV9fRHlTaVRDR0RiY0Q5dlE?oc=5",
+"source": "Autocar Professional",
+"published": "2026-10-01T16:52:45+00:00",
+"first_seen": "2026-10-01T19:57:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "8793e1e989b6e983",
@@ -14704,6 +14739,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a097afbcd2dcd978",
+"title": "Mahindra & Mahindra (NSE:M&M) September 2026 Sales Update",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkVkZDBOSXBuMkZXWTk2Zy15c0xNU1Z5eENyZjN4aUZiYy1hdktHcE04OGFvMHRjWUJvUVlYN1VxMmszU3dMVndjZ2hsTFJsTWt4UzhuMGRWZWpEMU5SMFcxM3pYZGZZdkpFNkpHMGt4UGUwb3ExYTBxemdSS0xfb3lBZ3hZdThTalloN2U1YlRpS29iSTNESVNWaTZ5eEtiemdVTTIxcVdvUGJzZ09IVVNiR2tNUQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T03:41:00+00:00",
+"first_seen": "2026-10-01T19:57:36+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50693,58 +50744,6 @@
 "PSU"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4f1e29bf8695ac7a",
-"title": "M&M Share Price Live Updates: M&M Stock Price and Returns Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-updates-28-sep-2026/liveblog/134530380.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:04+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c2b89aedce38bfc8",
-"title": "Mahindra & Mahindra Share Price Live Updates: Announcement under Regulation 30 (LODR)-Credit Rating",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-updates-28-sep-2026/liveblog/134530380.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:04+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7d582535fb4ad0ef",
-"title": "Sun Pharma (NSE:SUNPHARMA): What Is the Global Lerodalcibep Deal With LIB Therapeutics?",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1RJUWtHYklMY0RlbmlIdUZmc05md2ZTZzBaV3lkWnhRNEVra3FlcXZWTFNXTUlWMzVSZlNGZVo4ZnlEOW5aaVNLazJQVXp4NU43RjBFLVVsQ0ZwalBQVmltcmg1cVRMUXJIZ1M5OXVDaEpiUnY3aEZSMnFTTFkwa3ZpS3BYaFVDc3V3b09WempaWmEyRW9HeTBzSzhNQWZwVmYxeVB1ZkV4VExCU0V5SndZUHRjLW4wM04tcTFJNUxYS20yTi1nSEFB?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T02:50:00+00:00",
-"first_seen": "2026-09-28T21:19:00+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
