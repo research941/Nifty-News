@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T11:50:07+00:00",
+"updated": "2026-10-01T12:01:41+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,75 @@
 ],
 "items": [
 {
+"id": "ed2e27fb66a4c7e6",
+"title": "IT stocks rally up to 5% led by TCS, Tech Mahindra, and Coforge",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTE10LWxIZnp0T2NkaE80aHc2OWpXXzc5RG84ejljeWJMZGVxZkhrWkxDQzZuRXYybm1tSEVTclFVdUd1WEljcTZva29wendnSlAxWmN6bmZQck5RUklXSlBTUU02cVpoSl9GZDRMM3BFQ2lla0dqdlhjRXdMQWFwT2pmQlY0MnBCLURSVk5VUGFvN0swQWhmR3BCaUxQQUl0TkNCT1BkRHlJT3M?oc=5",
+"source": "Trade Brains",
+"published": "2026-10-01T11:55:07+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"TCS",
+"TECHM"
+],
+"groups": [
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "65ebf8bed6472419",
+"title": "Infosys to support ABN AMRO’s wider AI rollout",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkdTeFRMek9NOUJiYm4zX0lIYnBlMmFpNkNXOEMtdjRMU2YzWnRyMml6bFBmWG5STk9wclpnUHVlNm5qZzJ6X19sLVRCQWRtandSai11VXB6OEdGdC05eXRlQUtQa0l5cHp1bTN6QzBKa1duc3Z3YnBISmJ5dDJZbw?oc=5",
+"source": "Retail Banker International",
+"published": "2026-10-01T11:51:18+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1507cb33eb5bde2f",
+"title": "Infosys, Wipro ADRs soar up to 8% as strong Accenture earnings forecast lifts mood",
+"link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-soar-up-to-8-as-strong-accenture-earnings-forecast-lifts-mood/articleshow/134617937.cms",
+"source": "ET Markets",
+"published": "2026-10-01T11:47:36+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "880ca070c8134373",
+"title": "Tata Motors Passenger Vehicles sales rise 15 pc in September to 70,210 units",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dvWWE3TDc2bkVfVXlMSGlUdVFyQlhtY01wZkY4cDFKTHBWazdkRjByWENlVUM4TlJ0cmVQaV9uXzBxbzNlaXNkWEhHdlBJcHEtU24xOG5BSzl4OWtCOUhndjdkR0JyNU1DanhhbG9uTTZtQ3l6a0VKOE54OEFkckl3ZXB4VktOOXVBSUxiaXpfX1B4RDhDbVo5OEQzTjBDMFFxa21fU2tudmPSAa8BQVVfeXFMT0NqZzZicndodnFuRXRzZ1UzY0RnbExudmJlLURmYjhTSy15SWQyR3lCYi1GOGlrRDA1WlhKWFZMQzhSMy1aSUp4MG9NeWhDQ3JNSlo1R0FmQWw1UFI0ZkhjbmV2UzdqMXRyekFCY2FsN1o1N3Y2ZFRuMENad3ByUlJOQzZkeTU1ZUpDMXJVOFp6TU1QTDNnWUl5ZmlYYVA4US04Qm5XY0hlMXhVT0lUSQ?oc=5",
+"source": "Daily Excelsior",
+"published": "2026-10-01T11:46:48+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "4179dba28529325e",
 "title": "Tata Motors passenger vehicle sales rise 40 per cent to 2.02 lakh",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkxHT1RCWWVLU0NjeGtYZ2JvRlJwT19XTUhEY09zNWdyRElNYnYzV2lmaVBYU2E1bUVvRzVVeFVTODREWE9kU2QtSVYwWEtIVGZzUnlGeVRDWDQ2RUQ1b040NWRkU19KSWdJUkFvOEtVUFo1T0hPSzBWZzFhVXBZSTlOVE5YSUdMVHBhT3BJNVVTUGlRNlp3N3UyS2QwVGJ1?oc=5",
@@ -459,6 +528,68 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "8b2f6ad742ea5ac6",
+"title": "Market wrap: Infosys, HDFC Bank, Bajaj Auto, Maruti Suzuki among top gainers and losers on Nifty and Sensex on Thursday",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-hdfc-bank-bajaj-auto-maruti-suzuki-among-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134617786.cms",
+"source": "ET Markets",
+"published": "2026-10-01T11:45:56+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"HDFCBANK",
+"INFY",
+"MARUTI"
+],
+"groups": [
+"Auto",
+"Bajaj",
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "ca51c02b3cc2a479",
+"title": "Market wrap: Infosys, HDFC Bank, Bajaj Auto, Maruti Suzuki among top gainers and losers on Nifty and Sense",
+"link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMkpKaWdXUXFFRVZzZEtIU1F5YzM5LWxBVFYwNEtYdUktOUJWRzJZUWU3RUIzUEVRUHU0N0stbHVCMDNjbTBEY3QydDhoRWxqeGRvR2RHMXJrVzJMTFZMOWlFTzJOY2ZjUFFLeFFUMjJvd3VlRVJzU3l1ZGFVYm9QVWFBY2E1bXBRWGNGS1ZqUkNVXzBITjVCaDNYelZsTFh0YmI1XzIySk9NdjRZcnBPVEEtaWkwaUlORmZfbnhlVmNPU1Q0VE5aeEVJU0hNMXhBMFdqU2ttYWJxWi00ZEtMS3FGNFd2Nm5fSUpPbm1CYV9TZF85TEJiTXJwQXBhbnhBcHJvSEZCX2hzQ3huT1h1SV9iWXRwOGY5SmFYdzNn0gGeAkFVX3lxTE0ySkppZ1dRcUVFVnNkS0hTUXljMzktbEFUVjA0S1h1SS05QlZHMllRZTdFQjNQRVFQdTQ3Sy1sdUIwM2NtMERjdDJ0OGhFbGp4ZG9HZEcxcmtXMkxMVkw5aUVPMk5jZmNQUUt4UVQyMm93dWVFUnNTeXVkYVVib1BVYUFjYTVtcFFYY0ZLVmpSQ1VfMEhONUJoM1h6VmxMWHRiYjVfMjJKT012NFlycE9UQS1paTBpSU5GZl9ueGVWY09TVDRUTlp4RUlTSE0xeEEwV2pTa21hYnFaLTRkS0xLcUY0V3Y2bl9JSk9ubUJhX1NkXzlMQmJNcnBBcGFueEFwcm9IRkJfaHNDeG5PWHVJX2JZdHA4ZjlKYVh3M2c?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-01T11:45:00+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"HDFCBANK",
+"INFY",
+"MARUTI"
+],
+"groups": [
+"Auto",
+"Bajaj",
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "66b81f315e956c51",
+"title": "ICICI Bank receives Rs 229 crore GST demand over minimum balance services",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ25jQWpnX3VZQ3RLUWpneVBURzlrd3FaUGhVeDBOWkJ4SnRjWnpnQ3NsUGFJS21EbjdaaHNyMHBFYjRRQW9kMEYtbDVEaFVHYWJYa1l4OThERGNnRnlEdTIzZGZ1bVVrcm9adjk3emlhbjF4RFI1QXIya2JpS3UwQlJzZWpoMGFIMlBac1dhSEIzT0M3dDBzS2N3QkpUejN6RzBIRGI0Z0V0S3llVDZGZUJRdW4tYmMwLTQ5Y0hENFJTckZUeEh1dnZ5SU9xZG5CemtWcmRWRlZEUmJuY05Jc29iRHRIQVhwR3k5YVd1cDdXdmfSAewBQVVfeXFMTnp0b3RHdWRFWmNwVTZJd25sVmZ1MVF3VUQ3NzVSYVFIVlkzYzNvTWt6VzNZeVFBalY2NVNRSmZuZnozVllCZGtoYnFRaUp5MW9fOHFLYVJZcGlnc09Sb1hqNWxfcDBZLUtKQUlsdDV2MHFIRElIMEh4SkttM2UtYXVmOHVrY3NKSm9HSGRFako0dzZTQUlHY1ZOVm9ZY3BlSWV0Sm0xbUtvOEx5NEM4Wi1VNnY2X3dRc0RZLWxId2Q3a0dKLURoZXJsaDl1SHFkSG94TlFNeFhoQTlXTWZpdlFZMV9NNjBUN0I2cl8?oc=5",
+"source": "economictimes.indiatimes.com",
+"published": "2026-10-01T11:44:00+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "b314f0cd7ae4415c",
@@ -599,6 +730,22 @@
 "source": "Livemint",
 "published": "2026-10-01T11:20:03+00:00",
 "first_seen": "2026-10-01T11:34:52+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "beef1124c4df8209",
+"title": "BSE-Wipro index rejig case decoded: What happens after stocks enter or exit post reshuffle? Explained",
+"link": "https://www.livemint.com/market/stock-market-news/bsewipro-index-rejig-case-decoded-what-happens-after-stocks-enter-or-exit-after-reshuffle-explained-11790851872164.html",
+"source": "Mint",
+"published": "2026-10-01T11:20:03+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
 "symbols": [
 "WIPRO"
 ],
@@ -803,6 +950,23 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ca092a8c30bf2bff",
+"title": "Adani Ports expands Colombo terminal capacity to 3.2 million TEUs | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVhucXhlYWRhT0M4dE9XZ2VVaDE4Q3JYOVB3TGxveEhzMXcyRF96MzFrbzVHNk53clUycmJNd0lJYUJ4dXZYTEZGWV9TS29fTm1hOE9zMDN4aHZURUZvQlIyc1JpT2NPeS02M3M3SFdScDNLbHpVaTRQT2xEQzZ6Nml0ZU80LXVBY3FJaWVTaHVCOHJvUU1TQW1mVUNmOUtjNmdwUE1YemR3eEk40gGyAUFVX3lxTE9sMWVYcTBrQXpVWVhmd0JuOFQtWDlFYk1HV0k0cVpieVhfMzBUbUptWnkwX1JiZWlpc2tFQUoyQzVZYzVNbUQ3T1BCcFdTbF9PQnJVNXllMFZCOTJRT3ZIYzB3THpUWm84RkV0ZEVTLV9XODBzQXZQaXR4N0lJWG5wdGc1TE80ek1PRURqaUd4NzhoLWlnY0ExN3RMb0locm5VUi1DT2ZRd0UyVXZhcjhfMFE?oc=5",
+"source": "Inshorts",
+"published": "2026-10-01T10:57:09+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1474,6 +1638,24 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "2c0c722da0b8d6bc",
+"title": "Tata Motors Passenger Vehicles Sales Rise 40% to 201,723 Units in July–September Quarter",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3ZlRjZiV0JSaGM2SWg4S2k5ZFVMcXdWejR1X05VWVhIM1lGakg1TmdvMFUybzhxUmVralRPeHl2Y3FBT3JTUzFKbHh5NmJlQ016dzBxYzdmMlo1cmNkY0FhY3NzSUlYc0pXbXFpTldDVGhWRGE3N28xa2Vhb1hLNlF2ZTRBNHB3Rkd4NFAtVFlkY1Z6dU9ia1RWakJEQTNCWjRTcU80Qk1XaklLaWVxZGp6aU1ReVk3TWdRR2diVmRkUER4X2hDM3hXSdIB0wFBVV95cUxNUW95dzR4bk1peVp0LWNZdHRmM1lQVHVScG5OTHhNeUtfcXE5WEJGLThZMWd6dFNXVWNobG8tN0NRSk9CZEdsWFFBekVtY3Zjc0pwU0UxSmJtRmhMemplTVM2U3pZekZFb3ZPMFYyc2VvRjZGbml3R01mN0o0R3RIdEtxbHNkeTlYT2Z1UFJ3ck9PUDFQdk1FVFo4LTJKSjRXYXo1cXhaQzVId2U4clgtdU83V0t3YzJPMUhFdnJNV3V4NFJleVFLOGZDUTB6a194UFJJ?oc=5",
+"source": "Autocar Professional",
+"published": "2026-10-01T10:02:02+00:00",
+"first_seen": "2026-10-01T12:01:41+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [
 "Results"
@@ -50464,168 +50646,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "8a881e6efae82a45",
-"title": "2026 Tata Aeris Vs Maruti Dzire: How Different Are These Two Compact Sedans?",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVFjVG9HZUlJR2RJbmdWYmNoVGFmeDdld0VPVEI1aDloQzJNX2NFRUx4VXhsUTNQOGhDcHY1NnplWVVUVHUxNjU4a1U2Tl9FdjZMaXJXSGxMNmFPRUtzY1MyU0NBcXE3LXNwOHlfWmY1em5vQWs0TElTSFRIUWFYdW1aMXAtbUtCaGhvdmczQlRnTHQwd0dOS25DZDFHTDE5cFRIR0pWU05PUDVjdll0enhoX2hsOHhqdi11b1pFU3E3dFhR0gHMAUFVX3lxTE45d2pLVUE1OUhxUHFXNm95R0Z0QnVKZXJaTmNrNFJqS2J5UVp6S2xVUU5ZUDRoZVhiRGxBRWhQQ3kxVE11dEE5LTFVQnE5RUh4UHFmTEg2ejRobGY1RmFtME9uaVVfMU5sM0pLbExoOTJIY19lRl9zQkR3R0VyTnJmRnFDUXhaU3lpRGMyQk1qbE1KakdwUlU1andQaW43ZDNrV1ZJY0tUZ3F2UFpJd3FfVnFKUm1BOWVra3ZsbGVBcDY4d004MG9lSWpXRA?oc=5",
-"source": "CarDekho",
-"published": "2026-09-26T08:30:00+00:00",
-"first_seen": "2026-09-26T08:48:37+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dea5875a1d13d54f",
-"title": "AI-driven retail operations with TCS and ServiceNow",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnVZUVFnTXZzUHBDWHI1X3FxRmlUMC1WQUJKTkRpX1dHblZZbzNYRllEejJrUkRVeUVqSk43UjNhLV92OGw2a0E2YW1kWFJIMEFhMDg3TVNWeGZxSWttWnRqbE1jcnFOT045M24tSmc5cUZuY1RwR283OTg3TnlRTGlGUHF6SFMxdWVmX1JpLTNOTW5FVmZSRTQ5M0Y1bDRMcVhscnpDYVhPZw?oc=5",
-"source": "Tata Consultancy Services",
-"published": "2026-09-26T08:26:18+00:00",
-"first_seen": "2026-09-26T10:19:04+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "da8125d564b6667d",
-"title": "Video | Tata Motors May Hike Passenger Vehicle Prices Further Amid Commodity Cost Pressure",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYkxhdVBPdHFWSmQ5YTNpQjJMQUt4bWhnU3RlVFNockpiTWY0c1QwOFMyeXNTLW9RLS1vTThNZm0tamsxNlk5OF9UQ29hcFZrSGFScU9aY2RiMTBDbmZlSmJxWUwwNG1SUTE1SURwU1JSNGhTQzIyYy1JWXN5U1E0UzZVSWVqQ0pWZGtlbGJIbWliZk9STGg4UXpReVk4Rllld0JjYzZ0RkV5YTRycTBnNlM0TVpJT2toblA3dXlQTEh1SnE2RkR5VDAxRUxSQQ?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-26T08:22:27+00:00",
-"first_seen": "2026-09-26T08:35:38+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7378b91878deccd3",
-"title": "SBI Saturday Branch Opening Proposal Sparks Social Media Debate of 'Toxic Work Culture'",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXBwQjFMMmJuWnVHdHRFYUpYeDducEhibTBqcFdlSnBvQU9zcVhCZ0Nqdkh2ZVg2TGdMXzBsckNHTVZIc0N6alNoWmNFUzkyYlpKQUdPendZbU9wYzdpWUgxNkJCMXptTktPTHhoVnEtZHVhT1JXOFRSZnk5NzRzMWlUTU9UdkxKUVNTUmVqSVdRLURMNGRyVzJnVW5WakxFaDB5RmpWWWtjUUhsSEZhd2VOYnNMVlFXcXh0Vm1ZWHZETW8?oc=5",
-"source": "thekanal.in",
-"published": "2026-09-26T08:20:57+00:00",
-"first_seen": "2026-09-26T09:19:47+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ef61b03c6cbca53c",
-"title": "HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTzhGSUFMZ1NyVWthWVk2cEZ3RHZQc0VuT3BxQTBWM3B2V2hIQTBBOENtV0loTTBwXy0tczFvQXEwZlRLTlVhS2hmSkdJb3hFX3JlSlJBTU1weTg?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": "2026-09-26T08:11:34+00:00",
-"first_seen": "2026-09-27T04:20:25+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bbe18971f811a88a",
-"title": "NTPC, EDF Power Solutions India form 50:50 JV for pumped storage, hydropower projects",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHNnR3Q4ZG41NTVnb1V2MVRCR3pZTXF4bFM1NVFmd0hEYU5lZGRFWHU4aEpVR29rSld6RndnUE5fYlROU3RyRzBIbXFKYlhlbHFpd1o5RTJOWERNSEN6dE5ZbktDTVFlVkV4OUE1SUZfbnhZSmhEUkV1WDJISzFDLWpaNEFBc09BMDl2SWRZRGd2VmtQdWJlc0NGaEJPNDh4S2FDT3N1SE9vNlc3LVBpUENyX3pVNzRtWnpGRGl0Ty1HcG5xclY0YTNSYmdrS0F6UVpaRWFVc1lyTHJpaXJxctIB5gFBVV95cUxOUzVCT3dvTFNaRXoySWtpV2NCNmJUSzBFMEQ4X3c4eHNYZ3lIUVhZN3JqMjJWcXR5Z0wtYlJkbWlzVm5ldFM2N2t2MHdpSE1Gcks2aVdMRGRqRHBwUVhnTURvMVRjdUo1elpZcWJ5MXJTUm1sYkRmZUhzblZWY2l5TUpMU21QM3FuSVlzNk9jd21pelN0bmM3Wkg5Sm9GOU5TVWhvNzVDeDkxSllYSTFROHhxMTZSbDRtbl9SeDNXZm56ZmlnSTYwOFNoOG1oNTdqNVBBLUY0TlhCX1djaTJWSzR2bTFaUQ?oc=5",
-"source": "ET EnergyWorld",
-"published": "2026-09-26T08:11:18+00:00",
-"first_seen": "2026-09-26T13:31:37+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c7a35a803bd4bc2f",
-"title": "Gold may rise to USD 5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDJ4eTVyT2pFSDMyVmdPRUNOX2REVUdSWm5Td3JqZldwZFVpR0xtVkV4anRJS2l6TFlrMjUxcnpKSEctR1dEdzlVOTFET3lWVEQ1UmI4WEp6d1RWTjBkZ0prWWNRM3Fla29jZ0lTQ0FpZTBpQmU4TVVEOUxoSGp2ajl1MmhPQ2h2S0tRYkVsOVhRODUtY0FlN3QyZjVkY1ZWeGNUQjQwRk53UXI5UzFIRkdzRTVZQUlXZnJFMlNISHRTdkNrQUpQRHlB?oc=5",
-"source": "ANI News",
-"published": "2026-09-26T08:09:00+00:00",
-"first_seen": "2026-09-26T08:21:19+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "9c08bd4b134dbe2e",
-"title": "Tata Aeris Variants, Features Detailed For Maruti Suzuki Dzire Rival Buyers",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDlZWWRXemRIc19uVFNFVzh6bVgzbFl2M29KUzRpVmRicVNzSUdndkZ6V3JqYUpVVlNCWVhGdUhURWdXaHNhSnhvbEFMYkNMTHJCcWdiSzZhRHBWWW13WWU3TGp3SWdqMUJFTGhZZlhrTXVrWWhkRU5CRTQyaWxESFZfQXZHVHZJRHg2Q3E1clpFYnl1c0cxTFY1cjJfb0JGZEZUeTJNcHNObER5MFHSAbYBQVVfeXFMTWhCN1cxRmZHaHozalo1OWVzdVh1U0ptdHB6cWI0MElWXzVJeEF0eHZSekZTS25BOGNLVFdzV0ttSHV5ZTFzNG8zUmgyVTA1U3NVaFoxdE1tRWZfUG9HMC1IS0RUZlI2c3RqUndRWEFKLXZ0Q24tT3p1am5JN0U3cU9INjhmM3RycnlFRVdyTzRxeUJOSFZKZVJvcE1HS3N2Z3RMcUtfcTI4SkVwdzVLSjZrdDljVXc?oc=5",
-"source": "NDTV",
-"published": "2026-09-26T08:06:52+00:00",
-"first_seen": "2026-09-26T08:21:19+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d1ab9981f84a0601",
-"title": "ATM Charges Waived During Bank Strike: What SBI, PNB And Other Public Sector Bank Customers Get",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9iczhqN3J0UmxTNjBmWlhYQmhWX0JfeHdQODk0RjFrMmRqdk4tLXU5SXFqalhkdmM3WDFGZ0NCMjZjdXFSd2taTFo2NkZscWFRbjgxOW9sREhTcjZkRXRSV3prRXZEZTNRbnBYTWpHS0QxMWJBUUZwdnNXMjJ4TG96akZDUGk4aUVWeU5wYlZVbmo1YlN4MUd2aWR4UkFFWHJ4ZFctclpRSlhFWjRubndyVXR2cUtDR0NZZ3B0S3FkNkhvRks1WV96SmEzOWVGNDktNnZjSFHSAdgBQVVfeXFMTW5vYnM4ajdydFJsUzYwZlpYWEJoVl9CX3h3UDg5NEYxazJkanZOLS11OUlxampYZHZjN1gxRmdDQjI2Y3VxUndrWkxaNjZGbHFhUW44MTlvbERIU3I2ZEV0Uld6a0V2RGUzUW5wWE1qR0tEMTFiQVFGcHZzVzIyeExvempGQ1BpOGlFVnlOcGJWVW5qNWJTeDFHdmlkeFJBRVhyeGRXLXJaUUpYRVo0bm53clV0dnFLQ0dDWWdwdEtxZDZIb0ZLNVlfekphMzllRjQ5LTZ2Y0hR?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-26T07:57:40+00:00",
-"first_seen": "2026-09-26T09:19:47+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "900e8640a23ee039",
-"title": "NTPC Green starts 81.34 MW solar capacity in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVExTnEyWGZ0c1BvaWNzWkxHOW9neWdhR3d5Vlc2Ynk4OGNNTkFVNGhUZmdCS2hZNlh3bl9aVVJNRUtzZC1qUVVzMDY5SnRZSnd3MjJuTkk1TkJtOHcxaFY3cGJpLWVMSUdrUUMzMVdjZlllZE8wb1B5S1VJZm9pT0JHZnNUbWVWRjNGWHNyV0M4RVRqVGE0LU5nQVRGalZ1QjNiWFFZUFdfX0k?oc=5",
-"source": "solarbytes.info",
-"published": "2026-09-26T07:55:46+00:00",
-"first_seen": "2026-09-26T08:21:19+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
