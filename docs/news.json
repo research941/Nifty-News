@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T23:29:49+00:00",
+"updated": "2026-10-01T23:45:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "463a1f3abd4ffcfe",
+"title": "What ABN AMRO Bank (ENXTAM:ABN)'s Infosys AI Tie Up Means For Shareholders",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkxQRkxrWmFOemtHRHZoN0RCWE04cGZsTnlVWDA0TDBQS0xzeE5CTFM0SHR6WjdNSzNPY0ktYjVGVEtGZTY4X3BBNVVvWkJSMXQyNkZKeEVpMVBwb3NZaTR2dUphU2N1QUp1RkZvd190QnQtd1VRYzBfeWtrRjBURFk1bThlbk5hMjJ0ZEx6SUI3RmJVXzByOVYxR3hicDJGMDlRdHZ6MDlDS0Q4bVhfdWtDMzF1d3VyMnVPVDdDWFVwVGF1Mzd6eUdNX0PSAdIBQVVfeXFMTW1Zai1Pemk5VHdIQU5xR2RWVWtraUN3WWhkWnhrenNndG5MbUtoU1Y1YXhBUEhYdFN5dnBjSXg4TGYtd0x2M1lyUmVoc1VxcnRTYk1FeVV4Vzdzai1PR3U2Zk5IdzdmWmtzUlREQ011LVBNYnFRUGNGenRRS3k1NDNKVzR0Tm9UY1FUQ3Y4am1TR1NqUlFERE5HQWJkdEduNDlJOFk2d2lMajBWYVFvVFVGZXN6eG9SVHBOdDJPclJLR3VqSGF1Q2M0bzVzQ19NR2ZR?oc=5",
+"source": "Simply Wall Street",
+"published": "2026-10-01T23:37:35+00:00",
+"first_seen": "2026-10-01T23:45:10+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "260c186432891379",
 "title": "Adani Group reaffirms Rs 6 lakh crore investment in Maharashtra",
@@ -18150,6 +18166,22 @@
 ],
 "groups": [
 "Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f36ef9605e2868ca",
+"title": "Second Hand 2016 Maruti Suzuki Wagon R 1.0 VXI AMT (O) for sale at Rs. 2,53,000 in Kolkata.",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzBvYnN5UXl4b1VtOElCWXFPYmpkWDNnRHI1a21KLXF4c3dZMGlJX18yakZlTWFnbnA4eHB5VlFfcGExSFNZM1RnRUU4VlA0YnIzWDdJdUo0TGk2SWl0T0o3bllzNjZaRFB3MWVXTEdSZUVWZl82OVRKYXBaR0JCLUoxUWJlS3JD?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:24:13+00:00",
+"first_seen": "2026-10-01T23:45:10+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50742,38 +50774,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "ea9afa80a89b9327",
-"title": "HCL Tech Share Price Live Updates: HCL Tech Sees Minor Decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-28-sep-2026/liveblog/134530687.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:10:04+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "7da82699c80b8e24",
-"title": "HCL Tech Share Price Live Updates: HCL Tech's Current Market Position",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-28-sep-2026/liveblog/134530687.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:10:04+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
