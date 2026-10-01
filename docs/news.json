@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T19:57:36+00:00",
+"updated": "2026-10-01T20:20:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "3c18d3c91d46fc2a",
+"title": "[6-K] ICICI BANK LTD Current Report (Foreign Issuer) | IBN SEC Filing - Form 6-K",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWxYSUhtYnptS3pCaXhKN21uZzYteC01NGxvVjhjSGhUbmp3UnZFX19QampjX21ONm9kVGIwcmpqY0tyWXFqWWdaUWJpTVJISEdXT0daaEplT1lobmM5MkxRenR3dDZ4N1VwdGl6OXRxc2FZWVNRaG5vSnpRZjZ0Q3VlTUJlZ0tESUstaEI2aEt1c2ZiZ1VqUVlDTUxNeVBkZjVQdTgyTGJBWDNoaXc?oc=5",
+"source": "Stock Titan",
+"published": "2026-10-01T20:06:45+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e94c0c11529593f1",
+"title": "Infosys And ABN AMRO Widen Partnership To Push AI Across The Bank’s IT Estate",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTR4M2hWWlRPVWlWMjNlZUlYeHZQekw3WTNaV25nQnFLWXVzYzBrekNTbXdsc0I0THlNODBzNFF0b3lRWTFQWXlLa18xYWJEMzZyc2MxSGZnMlJLNUFORmVWMzVDV05uM0ljaHE1d2lKckMxeW5wS0JKWk83Yi1hLTlPLXBCeGFwUXY4blFobVhhcS1jLVJjRzN1NXUzZFVOYlJ5aFEwZzk3djFPMGVN?oc=5",
+"source": "smbtech.au",
+"published": "2026-10-01T19:58:59+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7f1ee129bafa411a",
 "title": "Rahul Gandhi asks who ordered TCS to change Form 6, whether firm was pressured",
 "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjdnNzNGNERfc3J1YktSb1pCZmdLNlVfNU1lVmllV3NXM1JVYTcwQWFVWFA1ZGxyc0xfLWZ3dGFNRVNPV1o4enpYTDdBajdQa3FlNEk1QnEzN1JacV9tSzVDdTBOTEswakZKV3FkRnR3b18zUTFtb2VBOW1oeExlLUFYcC1Hbkctc01pUzZBY09DSjlCaWdibnQ1UFBYQm9jYmpVejI5UG5Va0RmdnhyenZuSzJMTlpYeG9oYjFhbXJLU2hTcGFzTjZEcHFEemc3X0lXSy1pZFJpdlhuMnFCcUtiODRIX1ZVdFlScl9aTWxsYTBPYlZvcg?oc=5",
@@ -757,6 +793,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "85bf0e5a72ac2f67",
+"title": "Adani Green scales battery storage to 6.63 GWh, eyes 50 GWh in five years",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWTNISGF2Zm01RTJsVWRjN19jQWhZOHlkNEpkSjRGTmY5VFpnUjRpMUJKUDVFUnl1cFVjSE14cUZXSDc3S2tNZDJQcnQ0QWR5LVg2Q1drVlpqZjJad0dUZ0dxbnlEcTdrdHdUS3Ftc1d6OE5BMXdzWGZ2d3hoaFFtTTY5Z05xcVhoNXFEM0JhVTd5cHRQSTlneUdncDdQcWp0THQ0bjBnLVRkb1dpS2Fia1lFZ2pBd2dPNnpuQVM0akliVXR4VkVLVjV4NVZva0hHRzNz0gHTAUFVX3lxTFBZM0hIYXZmbTVFMmxVZGM3X2NBaFk4eWQ0SmRKNEZOZjlUWmdSNGkxQkpQNUVSeXVwVWNITXhxRldINzdLa01kMlBydDRBZHktWDZDV2tWWmpmMlp3R1RnR3FueURxN2t0d1RLcW1zV3o4TkExd3NYZnZ3eGhoUW1NNjlnTnFxWGg1cUQzQmFVN3lwdFBJOWd5R2dwN1BxanRMdDRuMGctVGRvV2lLYWJrWUVnakF3Z082em5BUzRqSWJVdHhWRUtWNXg1Vm9rSEdHM3M?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-01T17:58:23+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5652,6 +5704,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ea5005a346bd3aeb",
+"title": "Maruti Suzuki reports 24% YoY surge in September 2026",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1NNY2ZsdjRsNVZ6eTlUYUh6VmVBOExPcFNoLWtkQWRZQkhZVkRBeEcyUmhMMlNET3dneTZIZDJWMmhuVDZXQ0dxXzlJNFFvcEpsV1RDWDl3S2xXS0w2NURNdklVc1Rob1pPSXdueEFYV3FuWWhjZHZMN2N3aXRoTW5EMlRKTVI1RTZ6aGFkb0U?oc=5",
+"source": "Adgully.com",
+"published": "2026-10-01T10:43:26+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "e6d74a7737fcc30a",
 "title": "HDFC Bank Names V.N. Srivatsan as New Chief Compliance Officer After Rajput’s Term Ends",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHJtX2dVVHNPUGltLTFpUnZKQ2JfOUh6dzA1N3lMcXltSlQ1QnQ3QTY4YjdKRDUwSXhKRVVCanFvQ2toOVd5aVJkM2lIQlVrcV9tV2VJUEpQUkxMT0VFWm4yTnRVUXRqQkItcWpyNDRnc1hYcVB1Q1JuQzlqMHFubGwtSTBWSEdxSmhYVmlvZ3J5N2hLejZaT0lMQWd5OEtJSkhPbXB2bHRvMWVQenQtY2xOaVRRNDQxbDlkNkNRQjgxSGpWa21DQ2tXV2tINlh3LWRv?oc=5",
@@ -8643,6 +8711,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "bf0751de807c4343",
+"title": "How Businesses Can Simplify Fleet Expansion with Tata Motors FleetVerse",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSWJkb1djOGFjRWlyZTZSaVlzb0JGZnhteEIyZTExT2NIOE1TR1IyRGpZUWZYdFBYS21rZVNURG1pSV9CYjhyazVGbG0ybTF2SFZkTGtYM09JUXRpcHQ2NHdXUlhLaFNCNURaaVFZb3JuN2kwZzlUQmhLTTROc1RsNVpaZWgzcklqYXR6SHBpcF9PYWdkRFFmNnZlNk9HS3c5R0QzYjk1LW5PazhtV3UxVGx3RFd0S3ZLU3p6YTVHc2ROVlMzdFBYSjA4QU1KY0pUMGY00gHYAUFVX3lxTE9DMnAwY1F0YXE4SjdlR2FKY3RIaTZrbW1ZSjFIZlZTZkZoWV9QRDhlNXpLSWQ4cDNBVTBXdXFSdkkyQ1ZOTlN6eC1udTJuZ0NKeFpyUFRkN3FDemxnWFp1anllU0taR1dxV0phaXlJOVcwaVMwRk9JX2FzMDJCcFZmU1dpN2JHMXdPeUxXRVhUUjVJU0gwZENIVmxOV1JPS1FmWGRGMW5WYzVaYTVTVXE3TlRnT2dadjJ5SDAydmRkRllDbXZrX1BVc2RCaTZuRnpLcTBDSVIzQg?oc=5",
+"source": "HT Auto",
+"published": "2026-10-01T08:30:29+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "e49a3eb2b9ebb0ff",
@@ -16783,6 +16867,25 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "91058cdbb42fa4a5",
+"title": "Kotak Mahindra Bank (NSE:KOTAKBANK): Who Is the New MD and CEO Approved by RBI?",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnZXR2ZsX1lVdmF4dkJjMXgwc0pXckVLVzNud004Z0pENGM1b0NmNFlFMGpSVjRwdHE0bkJnUm5DNjQ2NUFxXzltSFBHV3IycU9ob3liQnZLbW5ZZkxsOF9EaldMWTlFSXc5S3QtR1gxWXJmYTJ2SUI0NmdobTdPenpfeGI1WXJ2cDJGWW1KSGpzSEJlVEhPbFJyYVVQNXFZcnlDYUd4MlY1a0hKT0JCQTVBUUpzaERMb2dZM2dIMA?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T02:36:00+00:00",
+"first_seen": "2026-10-01T20:20:04+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50649,102 +50752,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "1b29913adda437fd",
-"title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:37+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "47e3bd792ed2a2bd",
-"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:37+00:00",
-"first_seen": "2026-09-28T07:00:29+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5df447414533d536",
-"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Closing Price Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-28-sep-2026/liveblog/134530396.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:37+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e4986a82ac96c6ba",
-"title": "Coal India Share Price Live Updates: Coal India Price and Performance Insights",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
-"source": "ET Markets",
-"published": "2026-09-28T02:50:20+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "32eea937883c9cfd",
-"title": "Coal India Share Price Live Updates: Coal India Current Market Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:20+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "182c90c11eee2771",
-"title": "Coal India Share Price Live Updates: Coal India Ends Day at Rs 421.8",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-updates-28-sep-2026/liveblog/134530389.cms",
-"source": "Economic Times",
-"published": "2026-09-28T02:50:20+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
