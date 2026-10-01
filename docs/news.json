@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T21:49:19+00:00",
+"updated": "2026-10-01T21:59:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "4a0ec5c4de4d1849",
+"title": "Powering Maharashtra's trillion-dollar goal: Pranav Adani highlights Rs 6 lakh crore blueprint",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaVdROHhpM1dURWMxSUM2WFlWZmE3R0Jmek5qd2k4VkZVdE9iNmlvV2hxVE5FX05hb2R1RG1qSEw3dnZHNl9DTDVEbWpjal9SYXJDSk5zT01pbDE2dWtoTnFUeWt6Mk5ydXJUSG04ME9ubWZQLXNnTGZmdVBEdVl3aktIQmt1aWthempXS1UxOXE1TDVyOTE4V1c5SVZrMlFvMnpZVVBmcEp6R05yT180aDdRR2staHNYbHRNZkNHeVgtcFlCdEN3X243a09IR0F5OU1RMzFaVFJITVU?oc=5",
+"source": "ANI News",
+"published": "2026-10-01T21:52:00+00:00",
+"first_seen": "2026-10-01T21:59:30+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c1ba8be52d7ff37e",
+"title": "Is It Too Late to Buy Infosys Ltd (INFY) After 5.5% Rally? GF Va",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFB5bVBfR1hEb2hGRnlRN202WEdOLU5nSGZQN1dhVDlIT3l6cDl5cXRHaHdZR3hGeF9rMnhXT1B2cmZaY0pLYmZQaHRHcTFsT215Y3p4d2pGb1lVQkQ5VEtQd1d1UTdJUmw4UThvMEVFeFdDaEFoWHRETHQ0V05rZWpUTkVwYVo5aUhMLWVZVVh3Tk1BbEJfbVB4a1BuYThZOERaM0NPT0tEX2lRb184a1lyRV9sZG1NUGc?oc=5",
+"source": "GuruFocus",
+"published": "2026-10-01T21:50:36+00:00",
+"first_seen": "2026-10-01T21:59:30+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "27bc8574ef6a7320",
 "title": "NTPC and EDF Power Solutions form 50:50 JV for pumped storage and renewable projects",
@@ -7996,6 +8028,22 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "b24e92755693b458",
+"title": "Tata Motors' Sales Climb 42% in September",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVQ3MkJZaFdZc0tnY00wbGtoeUl5Zmx4UU9VS0FQLTFYc1E5RGtyOTE4MVY2cnFocXludGl2UHZDY2UxOEhoYVM3LW5ySzMwS2VmbEdkOXR4clVUS3Y4Ti1mbXFpbVFxa2lTMGdteVlUdnJEZS1oSVZOX2RHb3drcU92YThOMXJZSTQwUFRtX2NLT2V3WUdJ?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-01T09:18:46+00:00",
+"first_seen": "2026-10-01T21:59:30+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "2abd3bc0eda056dc",
@@ -50718,54 +50766,6 @@
 ],
 "groups": [
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aed95ac95770675d",
-"title": "Sun Pharma secures global rights for PCSK9 inhibitor lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmZGVVBFTlVGb3VPSC1IdnByRS11b04xU2VrU1R0cVRKNmlDNTg5bDk4S3FlZ2NBRjlEWmE2c1RLOElmR0paLXM3bTNKOW9XWHhPZFVSTXk3Tk1lb3o4QlhMTnpmcDJzM2xlT2xZZThkV3ZSeTllcGViWllBbVNZdmk3ejNpd1VnZ0JWX0c5UWFLTXBPLU5VTE85cDBvM2pncVJITF8zQVNoUk9Ha3d1N1QzZVpRTmx2LWc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T03:05:12+00:00",
-"first_seen": "2026-09-28T03:11:56+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "8abb0ad8521819f4",
-"title": "Wipro Share Price Live Updates: Wipro Sees a 1.68% Drop in Weekly Returns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
-"source": "ET Markets",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "6cfe90ef99c23353",
-"title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Stock Price Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-28-sep-2026/liveblog/134530605.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
