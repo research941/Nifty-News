@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T11:34:52+00:00",
+"updated": "2026-10-01T11:50:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "4179dba28529325e",
+"title": "Tata Motors passenger vehicle sales rise 40 per cent to 2.02 lakh",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkxHT1RCWWVLU0NjeGtYZ2JvRlJwT19XTUhEY09zNWdyRElNYnYzV2lmaVBYU2E1bUVvRzVVeFVTODREWE9kU2QtSVYwWEtIVGZzUnlGeVRDWDQ2RUQ1b040NWRkU19KSWdJUkFvOEtVUFo1T0hPSzBWZzFhVXBZSTlOVE5YSUdMVHBhT3BJNVVTUGlRNlp3N3UyS2QwVGJ1?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-10-01T11:46:37+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b314f0cd7ae4415c",
+"title": "ICICI Bank Receives ₹229 Cr GST Show Cause Notice",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYk93dWZTY18xSkNERmZ6Tk9OdWxpZ2xXVWNPNm1DY0VhaWN6V0Y0R0VUbXhqX0t6aDh4Z0ZfcU96Q3BncGlXMnllM2l2emhZTUxpTi1OZEhPV0ZETURtbVpWbHBfNFFvTlc1WnFMWHpBb0VlYi1jcVl1dzV0SGJLd2pwVW5udmVMTVpOYw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-01T11:40:00+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a5156f39cf282783",
+"title": "Nuvama keeps INR 5,583.00 target for InterGlobe stock",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEk5UFZmSzRmVkFoZVVNSi1aQm01R2pTRkhTUlNmOFBVcE9qaWlCaUVXN3B3WFVyRndTMVRBemFqYnNVR19rTGZqbTZFY2lsaHpuYldxSFNKZUxHR3h6VVp3X3FXQTg4U3VpVWo4MHRPdjhsY19GeEZWV2RLV3k3X19uWDFOakUwajRMVnVTOW9DenQ5UjlfZ3dzSmwtLWVwRDJfZUY1bWw1SW9FeXljb093?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-10-01T11:35:38+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "79df5b9126ad8b38",
 "title": "Adani Enterprises discloses NCD issuance details for half year ended Sep 30, 2026",
@@ -956,6 +1006,22 @@
 "sentiment": "positive"
 },
 {
+"id": "e7bd84cab731e1b3",
+"title": "HDFC Bank names V N Srivatsan as compliance chief | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3kyU2pzM285NmVNMUJrT1BPWGdXV1NGWk83dVVSR09mVEdXN1RjbTA5Sk51V2MxYTVtZC1ZdDdfZF91WlltQVN1M05Dc2NLOTQ4VjRhUWFlaUhFZHlOVHUwaUpkVDV3Y2hXWVBhWkw0OXBSQkNySmNHbzVjaEQwbHJDZzZfOTdHSXBXYkxQV0hnTGpUcmgtb1RMdUbSAZwBQVVfeXFMTUt5MlNqczNvOTZlTTFCa09QT1hnV1dTRlpPN3VVUkdPZlRHVzdUY20wOUpOdVdjMWE1bWQtWXQ3X2RfdVpZbUFTdTNOQ3NjSzk0OFY0YVFhZWlIRWR5TlR1MGlKZFQ1d2NoV1lQYVpMNDlwUkJDckpjR281Y2hEMGxyQ2c2Xzk3R0lwV2JMUFdIZ0xqVHJoLW9UTHVG?oc=5",
+"source": "Inshorts",
+"published": "2026-10-01T10:33:32+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fc96287b31e754ad",
 "title": "Tata Motors Reports 15 Per Cent Increase in Passenger Vehicle Sales for Sept 2026",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTRsNWZvVl8zaG5uM0c0Yy1HVlpJU2F0VXV0M2RqSkwxN0RwVVVUM1RHNk93My1VNFFPVHQ5OG9CdzN2UTVkUl9sQ0x3bjFsQW5IMUM0S2dNSG02RURwMTlqb0ZlYjhhRGxXNjRWMzgzclU3WW9DMUxyV0F3NnZkVnN5V0g5V1JTOXhuQjJSSnJMUXotbk5QZE1LVUhsR2N0M0Z1LXN4QlZrUQ?oc=5",
@@ -1431,6 +1497,22 @@
 "sentiment": "positive"
 },
 {
+"id": "d87875a5ec28e010",
+"title": "Satchidanand Joshi Named Global Head of Marketing – TME and Strategic Programs at Tech Mahindra",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnY2WnVmbGQtcWFsb3Y5WW9LT3pkUUptVW5YWjBDUVNLYXBqNE1ySXZHdVAtQmZLaU1sN3hxbUtIYmpkTmFkbi03NzBySVVvM0FHUVlyQ0JkYWd1YlZPTWh2R0g0d0x1N2FIVHVlNXFtMkRVZkQtNEVHcFZQaE1Fd1EzbWp4NW5LN25ja1hLTndqZ3R1em1hbDVHUEdxa0tQSEhZZWlqT3I5U1g3ejJWcXZDTUJQcV9ucnJxc2JSdzJoQkxZaFZKcVhB?oc=5",
+"source": "EventFAQs",
+"published": "2026-10-01T09:59:05+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "cbe221144fa2a159",
 "title": "Who Is Anup Kumar Saha? Kotak Mahindra Bank’s New MD & CEO – Know His Age, Education, Career, Net Worth, Family, Background & More",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYVJUZTNIZm9SaGdiRHRJN21NMWt1b1lyX1E4TUxraUU2ZS1Na0pYVjJMWlRJS0t5Rm5QcWFwQmhhM3dDN1BjdXNraU1QaEQyd09nckp4emNHVUNGX1RFbTY1UE04N245akVTZnctZEotcHNCU2RjMktTVU1EekxEYW5TWGY5cFhPbGYwLVFNb1VnSjJfNDNsc1B4UjdaY0NNckgzaEFYUkMwSXVSbzVVd18tNjk2MW1GWjZJTVZibFBoRGpCbUN5eFcwQnFlWVlfcXZsV3NubUVaYUl4VHFfYWZOMGQ4elNzMVdsbU04aWIwMml50gH6AUFVX3lxTE8zWEdKdTVJMkRoNl82SEdxbG1sMG4zaEl1MHAzZmoxSnBGa0JDcGNtWkpWM3dXYUtXWG1BWW1zekFMU2dkT3FpR0Ryc0ZWYmtZbXR4aEdZanpMamk2WFJfYUlKM1Z4ZE9BeUxuOUFucXJSTDJvNHJiQzVjVG1oNUEtcHdkdWQybFU4NExSVmlqVWVVcUdCbDhsRFNuREotdTAtUEdFeDRQc2kwdnZUd2ltYTkzcEgxak5JeG5MblV2c2RLNnhqVmJ6TDhNYllMN1BDVmVNUl9lYTR3Y2pfRHhFNFBfV18zS19Ucy1yZ2VZU0cyaTdKUlZ0MWc?oc=5",
@@ -1707,12 +1789,44 @@
 "sentiment": "positive"
 },
 {
+"id": "7d010742176e65c2",
+"title": "HDFC Life Insurance Company Ltd Surges 3.09% to Day's Hig...",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWljTmlDeWJfRm9QNVozT2ZFVHdNaTA3TzU0dmdTTkVmNkg2TnM1bEFIXy1Qd0pEdG53MFhQTEY4WmZLaGk1cTV2RW1GcDVVQnVka3Y2V25OalFSdlltQmdKaGhROFZoOERRYlR5c1ZBT2IyTzVvUjQxU1BlZnVhcktoYkNVampNSjdTSm5yYWpqUmZJWG9ibnQyLVh3dVZMb25mRTk3Ml81Y1NHajVIZTNhUXVEczBVRVZpNXVVOTIwY0lrcHlpeXhSUnJBMjBYZjhF?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-01T09:41:29+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "76dadcd66570be04",
 "title": "S.A.L Steel avails ₹75 crore term loan from Kotak Mahindra Bank",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzBxUE1sNkl1WUY2anJoa2xvNXVzS3ZPZ002eEdTckZoRUhjNjFnSnJMYWV2LWduTkhOOEp5MURPNE9tanpXbldRcFdUQzBCdHlycENRd1BtcjVmQU5lSjBsWEM2UzFiazlVaWhOVUJQUkJLSFphVU5DM2l5WTAwZ0lTSTNsdzVIdTNteU5BRk12YnJVY0lqakhwaTcweGRRN1lKaXBPQ1dJTjdZZlp2WmNR?oc=5",
 "source": "scanx.trade",
 "published": "2026-10-01T09:40:35+00:00",
 "first_seen": "2026-10-01T09:45:01+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ff225a7c3a5c4030",
+"title": "S.A.L Steel board approves ₹75 crore term loan from Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzBxUE1sNkl1WUY2anJoa2xvNXVzS3ZPZ002eEdTckZoRUhjNjFnSnJMYWV2LWduTkhOOEp5MURPNE9tanpXbldRcFdUQzBCdHlycENRd1BtcjVmQU5lSjBsWEM2UzFiazlVaWhOVUJQUkJLSFphVU5DM2l5WTAwZ0lTSTNsdzVIdTNteU5BRk12YnJVY0lqakhwaTcweGRRN1lKaXBPQ1dJTjdZZlp2WmNR?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T09:40:35+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -2372,6 +2486,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "fc89b7c7cf5e2d16",
+"title": "Tata Motors CV Sales Grow 42.7% In Q2 FY27",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJIWnhMcDZuUWpEU1pfME1PXzA0Z3c4cnF0S1RMYTNqQ19jeGF1enM3a0M4T2hmckF3MzR5XzFBYWNneEw4QlhJNDJ3T1ZTcHNYUmpDVEp6VHk1djVFcXcyc1VROEQxTXU1bnA4cXp6ajUzYlZUd2FYaExyYVNtcEV3ejZVYTIzVDBmTjB0d9IBlwFBVV95cUxPNHFXN2N4ejlOS1F2VjNSUkVCY29ib2cySkNSelVVWEx4Q0JBSlNST2VSM3pMQi1UTTNKSm5YaWpYbGJVMmFJTUNPMWdQbklFM3VGVUpnNmVhR0Z6ekhmWndNTmhCMHhmeU1oZEZaNlRreTJDWGxRanY1bmFrRTF3aEhsWjRSd0xNOEtURHVjR2ZOLXUzcTY4?oc=5",
+"source": "Autocar Professional",
+"published": "2026-10-01T08:59:40+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f8511e0a9d9931e5",
 "title": "Bajaj Auto stock slides 6.52% after 12% domestic sales drop",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZHM2c4Wkg5M2JjbnUxQ0UybHczUk0tc3EzX0Jqd21ZWmJXUzdGS0RIQzdIbnhaU0NJMk90Mi1xbGhSZTl5ckhHdUh2Y3RnZjgweWRMSWJNT1ZFeTlkc3ZscVFHcmVpNTdXMVVTU09kQ3BOY2RkTmtnUnp0cGtwd0EtSENpZjBTNE41ZUp6MEN0cTFaMDN0SHlUTGFDRkVYUEZ4cFVQZw?oc=5",
@@ -2399,6 +2531,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "13cdad3b691ef47d",
+"title": "Tata Motors Reports 15% Sales Growth in Sept 26, Significant Shift Towards EVs and CNG",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWtxTjNJXzIwczFKbEZrTWZjeFg4a1dCVUhDMHJlUDF0d1lCZmN4WnFqVXhuVFY0OXdFZ3hiRURuU3BzazdGZVN5TW5ySEVMRDdJVFZRdnhxYkRoMXpndHI5RXJyaFR6ZXBhNW1saWVNRVl0dVBKaWhQcWxkV3J0ODFDZWd4RXdqa3RqeWdZbGFBSFVpVkgzVkdjVVQ3emRPODliXzRPdU5EUE1NX1VnbEZ3?oc=5",
+"source": "ACKO Drive",
+"published": "2026-10-01T08:58:52+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4562,6 +4710,22 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "cd7190a42dd8b352",
+"title": "Trent Share Price",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rMko0cG80WFpzNFh4clB2SXR6Zzh0QVpxdGlVdnh1QXo3aG9EVjh2d1EzUW1YZldSWDZCeGtySXZ1ZmJrbnNyZV9Gb2RtbzFtYWhKalVrRWpOMWJf?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T07:18:28+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -11140,6 +11304,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "be2ae284c6066acb",
+"title": "Second Hand 2015 Maruti Suzuki Swift VDi for sale at Rs. 4,85,000 in Delhi.",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41VkRvRFZoWGtYNWdHSkxVYllndEdvd2V3djI2eTZtZXYzTkdtOGpGWkI1c2xVdUNuZ0ZhQmMzUDJocG1CUVN0aVZEckpUUzU1eWY0d2dZTGFUd0J4Y0JGWHNhY1ZEQVpjYjliZkR4V1pPbmhid2dFMGg0TlI?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T00:36:01+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ef24b842c9e1536b",
 "title": "Tech Mahindra To Consider Proposal For Issue Of Bonus Shares",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTloYmR1NTEyZks4WmxOeFN2NUpKOWFlWFc5TUh5aHRVX1VxLVNPNGJEcExFVjl4WlJzT1hRcGdHdWpfa0h1eWh0M0h2VXJ3R2FhU0NjMzRhcndzbGhzSk5DN1VDTF9DcFVlRDM4SEQ1Mlp0VmdXM3J6V3FGTk9wWkdaYUxETlpSWXRHeEw1VQ?oc=5",
@@ -14102,6 +14282,24 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c32fdaf1168ccd0e",
+"title": "SBI buys nearly 40% of Reliance Industries’ ₹13,000 crore bond offering",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTJmcm5EOGwwR2JDQjJHLV9MVnF3QWczZVgtd3UtTW0yTnRkU0VqZm42NFBaTmdMV0VsMmQwRVIwblFpTEpJc3ZELW5zMjhwVmp5alI1ZVZvRjFleG1ZRmtmdnJjSUI0ZmxTVS1aX0VuUHI5X0pXa2N3bTRIOFFERmt4OEpIUktqTG1hWE9IM3BlSDllS0Z3TVg3YXdXNU9wY1J3bDF3Q3UtTS1oRWsyWUttY0E1LUN2U1o5cWlLVlJZdzA?oc=5",
+"source": "tradingview.com",
+"published": "2026-09-30T12:06:29+00:00",
+"first_seen": "2026-10-01T11:50:07+00:00",
+"symbols": [
+"RELIANCE",
+"SBIN"
+],
+"groups": [
+"Reliance",
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50425,212 +50623,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6ccd0396f534b393",
-"title": "NTPC, EDF Power form joint venture to develop low-carbon energy projects | Details here",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3dCSmV2QXI2SWNpQ0hOeHAyQThSZ29mVkFHbkI2RUVUQ0tlTktPMjZocFFPNXc1d3dSbVVnLXdnZU9JYlZiWHFmOHl6MzluM2pfUHFrQzNOQ1p2TFUxa2RHN2V3djZjVVpTQmJkWFJkUDNzQWV4UDdzNXRfZHRsQnhidG5EUThqNTRjaHRqcXU2QlZqSkluemRfNzI1blY5UUZrZGtJOXpuY20tb0ZVeW4xa0ZwYzFzbU9xUzlUMjdzc2ZJeFRfREdhaEMxU0Rrdm5wVmRRTklodF9OYnVrcDd30gHiAUFVX3lxTE1vd0JKZXZBcjZJY2lDSE54cDJBOFJnb2ZWQUduQjZFRVRDS2VOS08yNmhwUU81dzV3d1JtVWctd2dlT0liVmJYcWY4eXozOW4zal9QcWtDM05DWnZMVTFrZEc3ZXd2NmNVWlNCYmRYUmRQM3NBZXhQN3M1dF9kdGxCeGJ0bkRROGo1NGNodGpxdTZCVmpKSW56ZF83MjVuVjlRRmtka0k5em5jbS1vRlV5bjFrRnBjMXNtT3FTOVQyN3NzZkl4VF9ER2FoQzFTRGt2bnBWZFFOSWh0X05idWtwN3c?oc=5",
-"source": "Livemint",
-"published": "2026-09-26T07:40:05+00:00",
-"first_seen": "2026-09-26T08:35:38+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "17816a557521a2d4",
-"title": "HDFC Bank to Open on Sunday, What About the September 28–30 Bank Strike?",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE4wTU1abEh3T1F3ZktpanpYZEJLR0kwZDNOVzE2c01sVVJzZVR4MnRGU2pYUGJxZEFZZTdBRGtLNzlIYWNFeGtsY2pOT0xBcHQ1MGlXaHhrcTQ1VktPb09ZQnJNVVN4Y3ZVT3ZRY21HZW10MFNYVG9zZEVsTktKcWlmbGpOaFZQMmE1QUNFUjI0NEtiQXltaUU3WHPSAaMBQVVfeXFMUGp1bTlYbThCdzl2TEdqdHp4emhXQ2ZuMDdPWFdIdl8yTW1uS2phOFlJdU1UTG9sV3VqS3BHNVFMbmlmdlBOb0xmbGRZV043MWdDV1p5QjR1VTNKQUltNzBQakliU3UzSXh4NWlOdTdrRy0xVWtqQlpyVUNJY3p6bnRGNWdNWUdUeUQ3Z0RBcmZVRm5haU02NnlGdE9DaTJLTks5QQ?oc=5",
-"source": "Times Bull",
-"published": "2026-09-26T07:39:50+00:00",
-"first_seen": "2026-09-26T11:18:45+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "168bcc238ccc4732",
-"title": "Tata Motors Commercial Vehicles introduces Mr. Surak Shah mascot for Suraksha AMC campaign",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1l1SDUxZXJLeC1rRlIxTS1rWnQ5Zmh2eFdQMlM5QmJlYWczRDIyS1F3N0dMN1lCWE5pUklYQWdjUnRpbHpCNUszS19rSUttSDBaR002SHJnM2FERU1XZXBQZEljOFdPRGRLYWNHQVhXeThlTUt5bzczaHJUTzZTakh6aS1MWWkwZ2E3SFNPV1FBRHpNNGVEWmdBNXczZXhPQ1hvMVc1S3kxSGw4VFUyZ0VCRVl6ajRnVVE?oc=5",
-"source": "MediaNews4U",
-"published": "2026-09-26T07:35:41+00:00",
-"first_seen": "2026-09-26T07:45:05+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "918f46bbca9089ec",
-"title": "NTPC-EDF Form JV for Low-Carbon Energy Projects",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGJFMGVacmY1QXNTN0xial9BUVl4dW5UVVJFbDlVTTFnV2c3N2dsbUx0dlgyUDJPNkVRVE0wSlN1Z3JNWlFpZXkxZ2NNQURwRzZveV9QUTBSSmlYSW5YRzdnVkc2QTFMSjI2aDItVG9zZ285U2FrTUJ6WHJLWGU1RGFpLUVTWWEzeVZhbDlSdl9ha3h1V2paUWxwR0VtTW1mR1BmRkpYazUyZ0k?oc=5",
-"source": "english.dainikjagranmpcg.com",
-"published": "2026-09-26T07:33:18+00:00",
-"first_seen": "2026-09-26T07:45:05+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7b142f6757d03103",
-"title": "Adani Global Acquires 50% Stake In Monvarex Aluminium Holding For ₹20.8 Lakh",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREtBeHk2cmo0WGljVzNQQi01UEM5WFVjbEJNUGcxMXlqNTJRVzlyUlFHVnN1VWN4RkgxOEZqS0IzUDZOSy1YdHYzLW83dkFmeUVxQjFFLU5rWHB6NFZsdzlCWWdTQkdTYjQ4RmtYdjZaNEF4R3lvRjIxZEdWb1NyYXg0Z2FPUEN2cU1uYzRJQjNCNmZHNlV0d0J1UEhwLThBM19RM0p2VUNxRHZaODBkU1h0Y1DSAboBQVVfeXFMT25mc19ER21mcTZXV2o4aVFmeFpDN1dhQ1FHNFdTS3BPTDgzd1d3Q3VVaUV5TWVlNzE3bllqV3hWbW1QZUtBS0J1WjdOdW9KNXE0NzYwaHFPS0ZMNHVpNXpRRU9mWjNYQ1ZYZlhyeVY1bnVvNmE5bXNyanh1U1EtaF9fc2hRWk9vWjhPdGhUV1hCRW5WTC00elVSZWdiMWVlUmVLX0w5MGJRZlUyNTFsVVlDWGFLN3BsN3l3?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-26T07:33:10+00:00",
-"first_seen": "2026-09-26T07:57:19+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "373d8617fcacda75",
-"title": "Adani Enterprises Arm Buys 50% Stake in Monvarex Aluminium Holding RSC Ltd",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUY2cjY2ZlhySGNUV0RFSGttek1aZS1wNXBhRUp2X1FBdVAtcm53VGRVdHo0RXpIeFRycWRWbDFndnNZUlRCcFpId2xORXdvUFFqdGljaXAtSmZmdUFkMERFWTRvME1LTmY5MDJoOUJMVHpOTmpHbFF0c3pXYWlWNnZqUXBseUJ5QWJXdlVKeWYzUEdMNkF4LVB4Y09rZUljNnNaM1hWQ1c?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-26T07:30:00+00:00",
-"first_seen": "2026-09-26T07:45:05+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b410f7e433b50d1f",
-"title": "Adani Enterprises' subsidiary acquires 50% stake in Monvarex Aluminium for USD 25,000",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDh1emZTOG5fUm42VFE5bEVraXAxR2hFQ2xqd0pFeHQzNGFoV0VhR0JqU0kxdXdMQjloNVZQR29qNk4zdDVkN0lMQ2RqdHJ4MXJWQ0tlV0g2bnM0XzF6NlVJaHNCNjJ4Q0FjT3ZzSWdrR0dxU2hWZm8yd0hFRUdHN3hYZ3VxWDFsaXhSdVhRWHhnUmpoQ0RPMndaWTZYam15b3E5d0VVTFZJU3c3OGVNMFlqZl85ZFhNUDlnTw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-26T07:25:33+00:00",
-"first_seen": "2026-09-26T07:32:35+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "737c0f40d57857b7",
-"title": "Adani Global acquires 50% stake in Monvarex Aluminium for $25,000",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQy03RXFucTdGX1dEMVk4bzJJV0llLVA1d21fT2lGR3MyeTZyb2FoUXU2YlZJbDNqVTNWNFlBd1BxUklPZ0JweWx6eF9SWEFnNXNzWkxKUUZzWnE0WWJCWHdhZ2dqbnJ0WWZpbnBzaDVuOXhhQlg0UGNxeG8tUE0yUmpKcmRJRHRPNHJuX2V6LUt4T0IydHFWTGVZaFZiM1dxYlJ5ZkVPR3pwSmZheV9Dc3dPaw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-26T07:21:26+00:00",
-"first_seen": "2026-09-26T07:32:35+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "eddadab0d3889bac",
-"title": "Apollo Hospitals Expands Advanced Life Support SMART Ambulance Network to Vanagaram",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTzVBak1hWUN6RVJlWTMyZElHdUI2OVpNRUtWZE13NEN3YmVUcUgzUW1MZHBUNjRhMkZWS3UzelQ5eklQMFZuN29WX3FIc0NfQU1UaGZDWUFTWUpGSnlnQTE4dnNvaXd5NDduNUpIeWpIWHpQd3lIcEZHNkY1cGRIeTlqRW1pRkI4WTBuT0NZMmlIUHdMQ2t5anRfejgtQTlDcjRXcWhUYTcybndpdmVaYkI5MVI0S2JJalRvYWJVc194NTVkZ1NmMU9PVnZrWUE?oc=5",
-"source": "Apollo Hospitals",
-"published": "2026-09-26T07:18:10+00:00",
-"first_seen": "2026-09-26T12:48:38+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "74c414f580b5fc11",
-"title": "Adani Enterprises (NSE:ADANIENT): Did AGL Acquire 50% Stake in Monvarex Aluminium?",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVBxS2w1U1l0R1RmMFEyRzNNRFFBVXhFd3JrM0djdzFNOU12VDR0b0ZreWFoZlNmQkt2TzI2aTF0c0ZQUXFIcnA4RFJGWFJqbTQ3NWxoOURkZHFwR3RTT3dIaE1lWGlSTy1RS1R4ZjNvb0I3ZTJmNFJ6T0hBSkx6VlBCUFRicERZT1BrcHRlTkNNeEl6dHlta1cwMElGSlFkRUd3eWFiOFFxQ1Z4NXR3TU8yRzdCMjNScjNNbHo0MnV6Zw?oc=5",
-"source": "kalkine.co.in",
-"published": "2026-09-26T07:18:00+00:00",
-"first_seen": "2026-09-26T09:19:47+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "381ff3552d789a0c",
-"title": "Axis Bank’s ‘open’ campaign explores what happens when customers get used to better digital experiences",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWhoOG5lS0tkUlRZNDBvay1YWFZRUlJRTkFvVzJvRzZwaXg1TV9XUzl1LWxqbC0xZkVpU3BsRTFQbDBLWVVzZEJzVlBQaFBCNXlzVllacU56ZEIzV2ZiM0JxVUozTDFUbC1panN3dUMxU21vbjhmcGNUaU5udDkxUlJ3TGVXYm5KeW1JMVBTYW5KWnJuTmMwS0JZRDd4SVUyUFdnamFjSkhtSXdMbEJXamVUd2NtMFhxNndNNW1lUGZwMGxjeGt0Qw?oc=5",
-"source": "MediaNews4U",
-"published": "2026-09-26T07:15:48+00:00",
-"first_seen": "2026-09-26T07:32:35+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "15ec37ec97decfde",
-"title": "Apollo Hospitals Kolkata Launches Fellowship in Robotic Uro-Oncology and Pelvic Surgery",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMjhON3g3dDVxNmN5RlYyWVhBTDZxbG0tQWhQVkgwM25MSWlNWlk2aFJwUXNlN1ZLQ0Y0SFhNeUZXUkFqVlNCYjZ1UmtNd1U1RGJ0WEpCRFhJRUY3NHc4WVJZck1TZDE1YVVGc2U0TmlyTmFaa0o4a0xkMzh1cFNUeFBrTlF6Y2pGUFdqRmExQWR4bVBlRVUzRUZScU9vYnJjNWExWUVJb3phYU9kcmQ5ZXFtTVRDMUVpcXRFM3BaaWQ5RWFmWkFkYm8xbHVtSXl4ZHExWA?oc=5",
-"source": "Apollo Hospitals",
-"published": "2026-09-26T07:13:19+00:00",
-"first_seen": "2026-09-26T12:23:41+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
 ],
 "tags": [],
 "sentiment": "neutral"
