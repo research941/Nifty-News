@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T21:35:25+00:00",
+"updated": "2026-10-01T21:49:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2068,6 +2068,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "e4278ebb3bbe7eab",
+"title": "Nifty 50’s longest losing streaks in 25 years, SP- Group’s Tata monetisation play and Arup Bagchi at HDFC Bank - Editor's Picks from Moneycontrol",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTQ0STNEZ00tM0xSUllqNmt2ejBvSTVlV3E1bndhT2ZRb0xTN2FkUURzQ2I0anlxNzN4bEV6WlJUY0EtU3FwcGk2RUZRTUVYTU5tbi1EcE9NVHJ6NkpOTUFPcjgwcXdmZ3NpdVNkRnNjczRRR19kOXRuTXRabTJLYXZIaE4wX0lUeVc5aTdEdGVCVVA5QWs2MQ?oc=5",
+"source": "LinkedIn",
+"published": "2026-10-01T15:39:24+00:00",
+"first_seen": "2026-10-01T21:49:19+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "078eb1ef16ffa80e",
@@ -7772,6 +7788,22 @@
 "source": "BusinessLine",
 "published": "2026-10-01T09:31:06+00:00",
 "first_seen": "2026-10-01T09:45:01+00:00",
+"symbols": [
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "03d9f8b7f3186382",
+"title": "APSEZ expands Colombo terminal capacity to 3.2 mn TEUs with $750 mn investment",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTi1Mc3pxTjNXX21wRzFXRWRBWVZoQ2tFUjlDSm5RQ1hfODVud0JvMVpfd1RFcE1DZG5UakRXTFczcnlhNDhGNERNNUhlN3Y2RHQ2ak44SVNKc3VVYnVyUGEtbEVxMEhEV29YUk1SeWdHZDNCZmQwZVFfdEJsQzlMVzZQYllDanlUWWxtT1ZHVGFUSVJsTUFoaG5HbklnYmlhbXpHQUxrTGlnbGRxVWZfbWdKakdfUXlpTFBLQkc0ZWEwMGUzOVJwcUlscXJNRWotM2N3S3REYzhTazZNbnJTbHBhcVZHVkUybjhuTWYyZF9ZUdIB-AFBVV95cUxQa3A3RkVUTzhMcVZKQnNUaXJ5ckVMZXdBRVRMMGRvNGhUS1lvM2ZPZlVEQmloelEycGRodmtDYnhFekNUbmUwUUxOUV9tWnpzMFM5d09PRzdlMnJPQVQ3azdFX20wSTBuVTVqd2FpS0hJOGo0X0lFQTA0M05zejduWnNuMmp6MmlpLVAtNExkM2l3aE0wcFRKRFIzUGZpSWFnbHB6aXgxN1pmdWZRYWw1OWQwN1Joa2xYWDdHSU9wZUFURUhISmlvSUpSWlRGbzdkNFQ4OFhaTnVacjJEVm5xVWlnd0o0U0RHTGlyd3ppZWhkc2hBZnRpVw?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-01T09:31:06+00:00",
+"first_seen": "2026-10-01T21:49:19+00:00",
 "symbols": [
 "ADANIPORTS"
 ],
@@ -50734,38 +50766,6 @@
 ],
 "groups": [
 "Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "60bf35ed6e78d9f4",
-"title": "Wipro Share Price Live Updates: Wipro's Stock Performance Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2c75c6efbe4d5d07",
-"title": "Wipro Share Price Live Updates: Wipro's Current Market Position",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-28-sep-2026/liveblog/134530606.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:05:04+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
