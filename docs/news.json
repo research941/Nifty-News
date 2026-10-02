@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T08:52:59+00:00",
+"updated": "2026-10-02T09:04:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,26 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "a61850fc26b81309",
+"title": "TCS, Wipro, Infosys, HCL Tech: Why experts see IT stocks' price jump on Monday — What's giving the boost?",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTklPbVFwNlh5dk96T0FiLUpOMU1IMHBKTkd1WFBzcnZTUVdLdTRBU2FOU1FhREx3dGpWM3E1a3BUcms4RXZSajFaaWw0bnRJdUVqV3FTTEIydjN2V0xpTVFYdXcxZVNsSGtvNWROcGJWWS1SMlZVVGZBWDQ5RHpMRlo4ZlZHLVhZMFltdm9LOXFud1FBYzRDTmZ6bFFTYllzMEdiem4xSUJoVWI3U1hvQkRPRXF1Vl9QZ1lVbG9mN0RuREZqOTlMXzBSdW1UelhlWjQyc2w3b2NwZlRXZGRkWXpvS1ZmMERmQXo0UlMyb3BnTUk1a2FqTlFB0gH_AUFVX3lxTE1lSnNNYVY0QlNLVXRTTm1zbV9lNEk4SnZDaUdzTW9IUlhfRGRJVGpYTTJaYmtiQ3J6ZkVKYU1YTm9xZWlyYkVMc2pJakFXNUJiNHNLVEZDTWkxUWYxOFkxeXkwRTVPU1luTDdQdGR1dWQ4MFljUldablB5d05YM2NCS19xdTdGMnVMczJGaVZyb3YxMG16Z2tJLUh1VWVSSkNNTEVTZm1VM2xibFZQYzVEYUxZdngxNWcxSHI0dlgxVXVIMFh1dnNPb19sMFB1RTJpZ3BmWG8xV05tbk5mN0d6Wm9RMXZ3ekJ2S2tkRkdVT3RicHg0VFhhLW1FeV9Naw?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T08:55:11+00:00",
+"first_seen": "2026-10-02T09:04:36+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "aac94dfb41c66fe1",
 "title": "Adani Ports Cargo Hits 46 MMT in Sept, Jumps 11% YoY",
@@ -1189,6 +1209,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f3329aae6e0112df",
+"title": "Business News | TCS to Transition Best Buy’s India GCC Under Multi-year Deal",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRG5tTERYZHRxeHFPRmZUWHpmbEtRdExKUGJmU3htNkVBclNVUGNETlowWmRkNWdoTjhwaXFTVzVuWEVQaVNwaGtFTlM1SjJiY3JjZjZ2ejI3LTd6TG9NblJoUU9LSDd3cWZpamlCTlZ1dmVYcFJ6M2xnU0w4Uy1yU3lOcXA4V29SeG9GNjQ0V3dGWThFTG13UmE2U2RVZ2tkYlAtZlViX09DRzZsVUxLYU9wYnA5SjVtWGJQVEdBRnlqYmlYNWfSAcYBQVVfeXFMUERubUxEWGR0cXhxT0ZmVFh6ZmxLUXRMSlBiZlN4bTZFQXJTVVBjRE5aMFpkZDVnaE44cGlxU1c1blhFUGlTcGhrRU5TNUoyYmNyY2Y2dnoyNy03ekxvTW5SaFFPS0g3d3FmaWppQk5WdXZlWHBSejNsZ1NMOFMtclN5TnFwOFdvUnhvRjY0NFd3Rlk4RUxtd1JhNlNkVWdrZGJQLWZVYl9PQ0c2bFVMS2FPcGJwOUo1bVhiUFRHQUZ5amJpWDVn?oc=5",
+"source": "LatestLY",
+"published": "2026-10-02T06:32:23+00:00",
+"first_seen": "2026-10-02T09:04:36+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -50841,39 +50879,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "8ad58f212a992ba0",
-"title": "SBI Life stock trades at INR 1,733.40 as APE growth accelerates",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1ZhTEREOGYtT1Z6ZkFTTjAzakU5OW1kNFBCalAwZDQyMU5ic2k2MjMxN0JHUWIxeC1yVnVLb3I1eEdUSUx5UlBFRi1DRURXdk1IOHprcXNTZllUeXlwcDgxN3NhU25ldkdhZ3ZieVVtQ1hzbVNldEVNN1NhVlFzV3ZBTmZpLWdzbk1JS2VrdUFFY2dNbjZHUmJocTdYWmp5VG5RY0NwTXZxTzdHR09BR3pMSTd2TUYycjRBemFMSQ?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-28T08:53:17+00:00",
-"first_seen": "2026-09-28T09:06:25+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "248be60c6601757a",
-"title": "India Energy Pivot: Morgan Stanley Bullish On Refiners Amid Demand Shift — ONGC, HPCL, Among Top Picks",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOXRQcUVDZnF5R0tGUHNlMGpIb2wyNGk2NEZfd1gwWlBldHB0SldKQVZMX2tlcm9ibXctX2JNbGVZWi1GRHN5cmxiWXpodktCOHNUaTgwM1FSNXlJa1hSTFBxei1uQVpaTm9fRGtJTjloYnk2WWE0S3lKY1d2WDR2cXJFYk5mYnVaZ3FvN1l5SktlWktZeVRQaG1lVjBwWjVONlVLNko1TnJmOVVxVWkxMUh2clBkU1lpalpyMk0xSHczTHE4Y3laOTRJd0pZMGNiSXEzMXpFWnpwRkNMajBnWdIB6AFBVV95cUxPMmdtSU8xT2luTTd6bkpYUG9Fby1uMmw3bENXYlFlRHh1UG9SVTV5aWY2UEV1eU5QZVp0RjFfY0t3eThQbTdvTUlob3hjcUdPNTk0UVQzc1pvMlBobDZIR3lZTzBSYUI0bGFVOUh3ZmdKUjhqS0d5dmFRVnVEU1dCRFE5cjI1dW5DN25YX1FLMzBUYUUtWEhOeWpFSzJDRExOb0gtb1V0cjZUcWNNQjRSOUlQaG9XUVAxOWVlaXFzbmhBcVBrUTBNUTFxdURJZUlRVVAtTjdIU2pPcjJiblNwNHQzdnUyQ2sx?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T08:45:55+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
