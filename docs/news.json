@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T17:34:36+00:00",
+"updated": "2026-10-02T17:48:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -528,6 +528,26 @@
 "sentiment": "neutral"
 },
 {
+"id": "ff870ae7b3d7ddaf",
+"title": "SBI acquires 40% stake in Reliance Industries' ₹13,000 crore bond issue",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYmd4RnpDaUZ2LVk3WHpFRkY4WkVaUHJhUTVRNW9SRjFxU05EVTFPZlBtbTB3ZG1NdU93UUZteHFWZ3YyZV82d29xNVZlRlE5VDFCektwOVJHVHM?oc=5",
+"source": "Motilal Oswal",
+"published": "2026-10-02T16:31:30+00:00",
+"first_seen": "2026-10-02T17:48:01+00:00",
+"symbols": [
+"RELIANCE",
+"SBIN"
+],
+"groups": [
+"Reliance",
+"SBI"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "d79b2e57913c6f9a",
 "title": "Sun Pharma's US Business Under Pressure: Can New Launches Drive a Recovery?",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXhTNTVUWlppRDVjcGFVM0ZVdlExdHRsV0ttRk5kSmJycGNnNmVEbGt5RFl3VTZzQ19iSVBxZTZ1VkFrRDNxTFJxTWJHazNPaWJ0SFl0MzljMmtoakQ0V3BCLUFzRVU4TzctTXUyXzFJX3J0WTVadFU3dzktdmlJMG5rUENCczY1VV9IVVJualVKdDZHME5Ia3JGblJrejFVMmU0THN6Y3FuOEFWeTdJWXBsakxIYU1ic1Jn?oc=5",
@@ -800,6 +820,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "7679a28dc38db084",
+"title": "ICICI Bank discloses Bagchi exit, Mishra entry at ICICI Life",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQm9HYl9QUzV1eXd2b05MMVdySndsbW9ueExQMkdhMURiTDVGR0t5bU5fS3VPd1RaX2lYazJrWUpXVmlDbFVIZ3FLaXpXQ3VNbWFOX3IycTNQbnFmQnZ5anpMNGxtRjJrUUFxX1IxYUg2THJHaTFmQnRmWXNQRzRIUW92a1ZQaVhrRHFwSllWNU9uVjVKSFF1ek0tMS0xQ1dCY2VmMmlTeWNfZGRQNDB6SUtoOVJKOVJnaVg4SUxn?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T15:35:11+00:00",
+"first_seen": "2026-10-02T17:48:01+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "56d1ef13c5714445",
@@ -2384,6 +2420,22 @@
 "first_seen": "2026-10-02T13:21:31+00:00",
 "symbols": [
 "POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ce5479078f5c5013",
+"title": "NTPC Recruitment 2026 : Apply for 19 vacancies",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlRxU2I3QmtjeElQdjZTaW82WUh3endKTU5yMGdMbHI4OURMaUhsVV9tWWEydU9DdndrVjEyWEhhNEJNbmlIOGZ5ZF9kSVpRSkVhbjFKQTAwNTdRaExocXkxaUhBWng1UkhSaG5Ka1F0N2RIdHpoNjJKV2R4V01VLXVPYWxDZ9IBmwFBVV95cUxOSDlPUTFtSzBNLW5leHhYTzAtUGExSVFmS1hyTmJkT2NVQ1NnN2Q4cnNNM1JSSG5lTmZGRjNOWVZjX0pLdjBOUFNCdmc5VkpOSEc3bC15Ni1nYXlKZ1RsYVVHX0NUcXljVXEwTzVoMkx1VGh5eU01S3FBd1pQai00eWhCMktVUHZmclY5aUd3U3hwdFJtd3F3ZDRfcw?oc=5",
+"source": "NE NOW",
+"published": "2026-10-02T11:59:04+00:00",
+"first_seen": "2026-10-02T17:48:01+00:00",
+"symbols": [
+"NTPC"
 ],
 "groups": [
 "PSU"
@@ -50882,58 +50934,6 @@
 "source": "timesofindia.indiatimes.com",
 "published": "2026-09-28T16:56:00+00:00",
 "first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4faee59e9dc4d475",
-"title": "Tata Steel vs Hindalco vs JSW vs Nalco vs SAIL vs NMDC: Which Metal Stock To Gain From Aluminium Price Shock?",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWNNdVZsa0tFN1JCcTZISnBZUEdfejdnWXNxZVlOaE4zZHFLMjhaUS1ta2JLc3VVcEwxU2R1bHJnSWsyOXlvb0lrcmh2Sl9iMWc0em1LYXhSZEFtZU9CVUM5aXBWdGMwSWd4Q3BkR05XbHRTOXNrdWJ5SVhNa2hxSHpuM1A4c2lRWURTb0dZdF9tNEVldEV1SDE4SmpVSEdrVmpfeHVhY0hQbXNRX0FxNzV2bXpBWS1MeFVPMEp0TlpILWRVRXBOM3JkY0RVSENMeGsxSHRiVDJqMGhU?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T16:53:38+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"HINDALCO",
-"TATASTEEL"
-],
-"groups": [
-"Aditya Birla",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "e1ea2fefc1083db1",
-"title": "Hindalco’s Project Siksha reaches 6,800 students in Belagavi",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjBiT2NiN1BWZ3dxSF82M0F3eDdFWEtvdWNkeDktNkNOWTRYY3dSZnpzU0N3dmRWN1R3MEhZVXdjdzVKUWRjTlFadnlyYlAyRzBpNTh0YXJtSHBEc0VZVzRMRTNLbmtaa043dGZQZVVFOENGamkweURZV0VKMGRWRWJqWVBlZHVqZ05Fci0weGxzS3A5T3Y2YU9LY0RLWi1TRkQ4MmFfSzhQZ19UcUN3TGRNMVZqX0NSQ2RHMTNaWUNNQ3YzSGNWZFROZWlRTTDSAdQBQVVfeXFMT2VsNnFBWkNvSk05Qzd2dnNTenRGT3RwbU42ZEJxcXJZQks0T3RtMkoxMGx4dWtfelpQNHpjU1ZTQ2NkVExrTmxfeFpvelpDaEowalBpdGg0UHNEQU9lcjNoTDJKYzBjRGNZcDQ5c2kxVzlHN0ZzeUlvNTk1SkR0ZUFDalhVV1dYeGVaZFNleEUzd2dGZUxra1RjZkpkaWMxdF9BOUxGM1BFZW9xY2dyVGN6cFpxbkJ1RFBhcTQ0VjBpeE8wUzJ1Mnp5WGZBdWphUTNqNmU?oc=5",
-"source": "timesofindia.indiatimes.com",
-"published": "2026-09-28T16:52:00+00:00",
-"first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "86f82a5975b81880",
-"title": "SEBI clears Vinod Adani and settles Gautam Adani in MPS violations case",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcE5FWVlYSEI2cVJrM2pDUnBrMTY2dGZfcWxNMHN6QlhkemdaRlpNTHdnX1otb1FiVHNuM0xtdWdqLWtyRGF0QmpVdGZHMlJKbWZpU09Db0tHZURYYjVYR3F4U2NkakNBQWxSSE5EdWtkdXJtck9wWFJSTTlZQkpmRXpXR3BUNjNVbWNuQ24zYVpkeHlRMGFfSlByMHhnWUh2OURpdTJIbFE0UExMSEd1c3V1R0taNmhKemI2bjA4RjBIOUHSAcoBQVVfeXFMTWtiQ2lsQU52Z1dkX0xiNGVjenA1dUhPQkt0ZWZDbEZNd3AxSUQ0ZnlJcFJtbVNKZUsteEJydE5NaXpuLUI2LWhMaDg2VVgwcVdmSXFkekFZaUlSbzctVzFMb0FNa1l2NW5CcTdiZlZOX0tPa1VaM3dpTjhCMTFDSHhGdW9pVXN6b2plbEhLZzZrbXZ6V1VYQ25tYUZkcFNfNzRJTG0xYWdlVTNIcHZoLU1zWER3WGprWVVrd1hoZWoxbmZ2MVFfSnBadw?oc=5",
-"source": "thehindu.com",
-"published": "2026-09-28T16:51:20+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
 "symbols": [
 "ADANIENT"
 ],
