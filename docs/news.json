@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T11:48:46+00:00",
+"updated": "2026-10-02T11:59:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,76 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "3a45acaa92fc3fbe",
+"title": "Bajaj Finance Board Approves ₹17,500 Crore Fundraise Through QIP, Warrants",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGtjN3pjSUVNQ0h3a3pDc0pieERhS251bzdqdTYyeUVJSGJzcnh3bmlUU3dwdXpIVllHcG1MWDdwUVh4LW12NFhwUlRncEhtSDVCVmljNExjbHlDVE9PTlRDZ1pPMF84eVdXSlZrWlBPbWMyb0psVzBrZWdzQTNzNlZYSW43LUstMmtMVmdaMks1RnAyMjV5TlBSNTVOUFFyX2hUMUJxRUMtZURpc2toQTRn0gG3AUFVX3lxTE96R3k4Q2wxY29qSW9oVGpFS0NLdm9yUnZRNi12SlNmMHlkc3AtTE9sM2hOYWJiZmZGdHZ5SWU1NWYwa3pjTWJFVkh2U1FJNjVnZS1OcjhHclNycGsyQWVaSk5DTW9YS2RUd3dnVXhHT2lVUmN6NGg0QWdBaTlFeGNTOUVrNkRNakdDUlJIbVY3V3hiR1I0M1NQOWZnSjM5TlNha25ZNnUtV09HYkcwQk0tLVY1NDFsSQ?oc=5",
+"source": "Free Press Journal",
+"published": "2026-10-02T11:55:50+00:00",
+"first_seen": "2026-10-02T11:59:17+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c327f46e3d9a01cd",
+"title": "Bharti Airtel sets trading window closure: what it means for Bharti Airtel stock",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTNYTTZsTHN4TmxyWDRfOTFTVnNhRU1oWU81a0plNU40dG1QNm9fXzBibUZMRUlhdEQ4VWxBR0V3ODRNWE9WTHRlTzk4MGYtNEF0dmJjdmtyQjVZUDlfVGpHeDVaMG5xbG1DT1BsMVZhQnpBYV9qRWZZejBaZWZvUnVlczhsNGFOYjdZTnRHb2FDZUtINUY5bUVNTUF3aHdTRmcyZlFKR3d3R2o3Q1pLeDFfb1F0NG5LX203RklhR0xlQXNLSmhXSVVZNHQzRFI4akE?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T11:48:25+00:00",
+"first_seen": "2026-10-02T11:59:17+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "068afdf1d310f766",
+"title": "ICICI Life Insurance appoints Sidharatha Mishra as MD & CEO as Anup Bagchi joins HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ0RsVk9LUzhWcVNaa2RfU25wOGZPZ0lKRHhkTzg3OFBRSWFBXzR1OVZfLWlCcm9SYnBTWGlpblAxSVdfUWNQNzZUZXF0bU5BaTN4VmpCMHk2NkQwTktEVldYaEpxN1h6WEROcXBNWmVzM2liWUh5UWYzRlNPMGJmNUpLS1ZKaXk1bEttWFJlVkk2S0VwdGFzeDlfcDc2LXpFeV9vM21KZzRic0VNUGNaRWtwM2VCVUV0bHd4X3hrOC1GSHVUQmcyY3pYemdIdTFOdjJic1gyU0hhdWJmWmtkQm5pNzBoWVVPMk5pdFBvTGhZdWVrM2RqbG0zSmZxQlR1eVNLUjdjWnpjVWRDM2Rqd9IBigJBVV95cUxNZlVCczJBdkdUcWs2RFo4cHFjNjdlMXZVam9XUHBSUlhFQnNLbUpxTnhsYVNndjNtVVJDX2dxbGVSWU9nLXFFcUI3S3JldEtObVVKOUwxSGFES3I0LUNqQTlUMDBVMkNoSnVIc21YdkZwZGdKWkF0Ym14cHBBamNHSVJrWGlkUE4zcjJFcHc2Sk1veFlDNENWYU5GcG9DVGhSRlJTc1huZWNJVTZ1a1RiaC1WZEV4ak5wa2MtbkQ2c0g1Qm4xdzhZaDVZN3o1X1RxRkpmZGFDTW44OUxNRDB4ZW5fN2I0N2RvS1FuUHhGZU1scWs5Z1RzTGZPWGZVcVpNR0d1V2J6NmtIdw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T11:43:46+00:00",
+"first_seen": "2026-10-02T11:59:17+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ad239ca6a09e453c",
+"title": "HDFC Bank ADRs Extend Rally, Jump 3% Pre-Market After Anup Bagchi Named MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR0VjVEhsc0Rrb29GLWJUNFFXSnV5UTY5aERYTmJHUk9NMVJqTjBKR3F2bDRlMEFfQzl6bTNWT0ZsZXhyZl9odFJ3cG1Wd1Jfbmp1dGdoZ1pxZ1hjMmhFZWc1eFN4UkdMY00zN1NET01qdC03ZUFZNE51QnVNS2s4VmpZVWN4cGpRSTd2REpmWmhaWjM3dWhIOGN4clFXTHExR0JCZVMydHVxRDRKNHpGZ045SnBhVFRmSWZEbkdXTm9pc3Y5M3hlMVFSUFfSAdQBQVVfeXFMTm1oVUdhV2loeWFvM2FpTjg1UGVLbTlINjNSWjl3NmZrYlZ2YXZpbFZfU1RxTm01VTdTRWV2Qlc3amNtMURLSWdrZnpOVi1iSzdRd0N0REZ6UFdFRDgxaXZTaVRJOWI4QWwtbEhZdVRSUWlaRU9YdG01RDBqZEFHcHdmMURFN2VoSC1SRkI1QjZaM1RFSlFUOVhHRy1pZXJzSnZ2YXZQa2xRM214ZU9lajFiQVlYeVpNTHR6bFVGRDhMd2xDNU1YdGNzTVFEYmV3c2tUemQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T11:43:35+00:00",
+"first_seen": "2026-10-02T11:59:17+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "positive"
+},
 {
 "id": "393132eb092683ac",
 "title": "RBI likely to hike repo rate; CPI inflation to rise over 6.5 per cent in Oct, Nov: SBI Research",
@@ -1622,6 +1692,22 @@
 "source": "Goodreturns",
 "published": "2026-10-02T07:30:35+00:00",
 "first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15ae3d1453cc59fd",
+"title": "HDFC Bank Ltd (HDFCBANK) Share Price, News, Stock Market Cap NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTTZEM0d6dExZRVlWUF8tV2VmOFk5aGpqdC1nX0YxRVFOMWZ4UFNpd3YtT3drTUJua2RVZUl5QXN2OFJUY3lRcWhRLW1saHEtUTh2NVRzdnBRcjF2ZFhNdmpR?oc=5",
+"source": "TechGraph",
+"published": "2026-10-02T07:29:37+00:00",
+"first_seen": "2026-10-02T11:59:17+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -50837,88 +50923,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "48fa859725385180",
-"title": "TRAI August 2026 data: Reliance Jio adds 24 lakh subscribers, Airtel 21.1 lakh; Vi, BSNL also gain",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlqaExkempxTWh4by10U0tGTGJMV1ZJU1I4VWdYOFFwU3BaZlVFUFNzYXJqUEtLRXY0b0VDU0piVEQwZW10aG45d3JpckxCQ1BIajdmRW9GbWF3VkY4RVphbW1mUjNyYVhxMkNBU3ZZNW9aRWVtaUc0TktzbUZjRTR5cTZNbkIwUm1UMjNrR2Nqb1p3OVlva1JMSldxX0t3b1R3VUg3Qmh0LTE5RDRVY2hXbFhveUdsXzV6QXhPdkpIdFZtaDRSNkRTdjFOUHFsbEswU3R1Tm1FdWvSAeABQVVfeXFMTUxTRUVFbTZFNGk1OUduRlNqdE9UWlRDaTZzNk9nQ2xYRzBlVEY0Z3pxOU5jZGgwbzc2ZmVETW1aNDBSMTZQa3QwTGJieTQwcXJ2THlURlVVdkNoSk5zdkZpX3libElqWExQMDJGVWZaVVRrVFdpSWQyUjJhN3NPMlRqYXZMaUl2NGhCU2diOFJEY2xLbE5iQndWbG4zZDBQZWo4WjQ0VkRHa2hJdENSQ0tsWDZFZ3d3N25icGZGcF9LOHdyQjBBRmVWUUVJUUt0b1FqN1E1UDBMLUFUTkZrcnA?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T10:45:38+00:00",
-"first_seen": "2026-09-28T11:49:57+00:00",
-"symbols": [
-"BHARTIARTL",
-"RELIANCE"
-],
-"groups": [
-"Reliance",
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "5e930d144066158d",
-"title": "Top gainers and losers, September 28: Tata Motors PV, AEL, Jio Financials tumble 3%; Dr. Reddy’s up 2%",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUFlOSlloZ3h0RG5PX3NPX012ekFueVg5emxHV1h2OUJlN2hfeVMzLUdnalZNaUpSVnZBUVRjMEZQYmN4LVZUVFpWdl9KUnhXMmxRYkJDd3Fkbmx2TW9TUVFVN2VvZnFCVUdUTTJUWXptUEJzQmpfdXhSbzEzZno4cWlUSHFON2o2SlB5bWFWSjhsMnV5YVJRT1VIZDlyM1E1X3NkN05ZamRyQWJUdVZ5VUdUb2dFdGFEQnVJVnFfelNBWFB3c0RpRjRpLTljOWdNb2loTmpJN2N4NHpuSlhJR2ZYTU90ekxN?oc=5",
-"source": "Upstox",
-"published": "2026-09-28T10:44:36+00:00",
-"first_seen": "2026-09-28T10:58:29+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "430f4f99ba34f0f6",
-"title": "Volume Gainers, September 28, 2026 at 3:30 PM IST: Bajaj Finserv BSE Top 10 Banks ETF Leads Volume Jump",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3R2R4RkgxM1hrQzEwcVlFX2o3dGpvdnFTY1labE5HN1lwRW1UU1Q2M2l2ZTZMbl93RHBMZWRoVnpBSFZCWmxxaWczZWFSQy04LVkxMTk1clFiQ3p5eVlYcHNTOERDRmVGRVRrVnY3cXp0UmZ6Zmww?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-28T10:41:00+00:00",
-"first_seen": "2026-09-28T10:58:29+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "0e90b2aa22a1f7e2",
-"title": "Adani Power vs Jaiprakash Power Ventures vs Tata Power: Which stock to buy amid soaring demand ahead of festival season?",
-"link": "https://www.livemint.com/market/stock-market-news/adani-power-vs-jaiprakash-power-ventures-vs-tata-power-which-stock-to-buy-amid-soaring-demand-ahead-of-festival-season-11790584872429.html",
-"source": "Mint",
-"published": "2026-09-28T10:37:16+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "e8b75ad1a5350c34",
-"title": "Bajaj Finance Personal Loan Offers Tenures From 12 to 108 Months: What Borrowers Should Consider",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZTEtRkZxVS14QXVVSjNiLUh6YUFqUnl1b1BhelQ3ODlPV0IyNUI0R2ZkeHNFX0YzeHZxei1PZ1p4VUtKZmN2QjlmaWxOUUdVZEVsWG9BQUNoR1d5WkZUaHJSVjE5ZFJ4U2JqUWNsb0hiNFlHNTYzaTItZjJOVEN6RXlELVhoeV9yTGM0MG9XSlY4VV9lSm5sZWtSRjByT1ZNRXJhNW5SQUpjbzlPVjNLbTV3SjZWaXQzUXRXbGc0dUo0VHpGSmc2Mzd0U2hhNzNUd2lDcFA0NFhEcHEzbFBj?oc=5",
-"source": "ANI News",
-"published": "2026-09-28T10:34:00+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
