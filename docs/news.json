@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T16:59:01+00:00",
+"updated": "2026-10-02T17:19:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,23 @@
 ],
 "items": [
 {
+"id": "149ae3c5250e2d2c",
+"title": "Adani Ports Posts 11% YoY Cargo Growth in September 2026; H1 FY27 Volume Reaches 280 MMT",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4bjVkdVllendWa2NGUkNGaWZvYnVNbFczb05KTjQ1eFBvYjFMMWpLMnUzNnJYZm9wNEVWMU0yM0RSNGJWclJkenBmLVZKLVV3RzZ5MjJHU0hpa3Jmcldv?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T17:00:17+00:00",
+"first_seen": "2026-10-02T17:19:46+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d79b2e57913c6f9a",
 "title": "Sun Pharma's US Business Under Pressure: Can New Launches Drive a Recovery?",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXhTNTVUWlppRDVjcGFVM0ZVdlExdHRsV0ttRk5kSmJycGNnNmVEbGt5RFl3VTZzQ19iSVBxZTZ1VkFrRDNxTFJxTWJHazNPaWJ0SFl0MzljMmtoakQ0V3BCLUFzRVU4TzctTXUyXzFJX3J0WTVadFU3dzktdmlJMG5rUENCczY1VV9IVVJualVKdDZHME5Ia3JGblJrejFVMmU0THN6Y3FuOEFWeTdJWXBsakxIYU1ic1Jn?oc=5",
@@ -492,6 +509,25 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3d2e4da8f63be7d4",
+"title": "anup bagchi hdfc bank ceo rbi private bank ceos",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWFnNi1lYkFYREtGWjBLWllQRWp3U0hRV3Q5Ty1PcFlJejFwZVJoMHc1ZFY2cjRGbFBxVnN6NU9wMnJqTEIwdEVBbGFXMlEwWkF0Rzhoa2RaRXM1VmRZWHdOVkZEWDNEUWdEUUtWdTVxbkg2RlRCNzJtUjJ3VFRjQ0lxT25jRllhc096elkzVTBFRWhDTW1Id3YyOE9XaTlHaXFObG41ZTJRUFdEYkHSAbMBQVVfeXFMT0UyVWNiRlNLZ3MyWnFTLUdzOG9qNUZwbC1QaTV6VmlaaUdBYWs3NFNsRUN1b3BDbmxaM2kyUktEczNBZnhmTkE3QmkxaEZSSWNhWThQRGQ4c29QS3JJQVRUcFA3T2lOa1plY0pYc3FyRHJFSWpKRXNFRFVSQTZialZGWDJTNG9VeVdnOG5Ia1VHV0w4NnlOU3lnSGhiSFd0UzdNNERWUlZORmJocG54THdKUUU?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T16:18:29+00:00",
+"first_seen": "2026-10-02T17:19:46+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -561,6 +597,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "20e3178ccd5a271e",
+"title": "Video | HDFC Bank ADRs Extend Rally, Jump 3% Pre-Market After Anup Bagchi Named MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmF5dlFfcm5pTThUanhrakIxT0NvU2x5ZkpxbjRFUURqb1F5dmJnMm1jVlJtcXBkLUtUSHBwTWFJVkxHX3RGTExRZ3BCdEhmVzc2emVBMXUwNTRaWnlkeVFBTXE0V09Sb05vR2ZSbnFLUDRycTJQWnNZVC1STzd0ZEwwZjNKWFhHUDdZMHFGazU2S0g3RFM4Z2lYSEt5X2EtbVo0aWppSHFlMmFEbXZLYXNKRmhncHpUbzhBZUw3RS1lLU9xVFE?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-02T15:58:06+00:00",
+"first_seen": "2026-10-02T17:19:46+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "positive"
+},
+{
 "id": "c7f40bbc3a1a3418",
 "title": "Tukaram Mundhe-led Maharashtra FDA cancels Cipla warehouse licences over violations",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTlfcS14OW9fcmgxRWtqTy1CVld0OWt5VXFQME9oM1pSWlJ1MmVrRDl4VVRfMEk4R25OQllaalFjU1JGZFNMZUV4dUkyUk1yNWxpNDR6X3VOMjFBem1wdl9FRVZtVUhtakdyREhEQzFEcWpMaDQ2Mk5oMzBfTGx5WTZnUWp6OGgtRkNiNmNkWDdQN1pQQUhYeUdYWFlCajFrU0psckxOekIwUTlaMHBFeEMtRXNFUXpUYkxtYlJuakp1VGp4OWZOOXo4S0hnbHpVbTlv0gHYAUFVX3lxTFB3ZVlUM3MzUGxlR0FRM1h1SEhwWmNjQVZUaWVUR3oybGRoenROQ1JnRk12bWZyUGY1TnlzcGVRZ0lpTWhBVjZULXdMU1FKNVlwU3Q4anAwQzJCLUVYeFZUQVBCTkM4M2JWNEV5YWZ1ZTZ1ZTE1MFlZNXF6aWpKWlk1dzlBLWNXOTVDREdTTVFaTUtCLWZFb2NzMDBaVEktRXVhYk1aWlZXZUhnNU5OLUt3X3hGSjhvX0EwN3g5VG9UV3hRQjlqcmwyWEgwb3pIdDlPbnc2dTFkTQ?oc=5",
@@ -572,6 +626,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "36a5a208f214eade",
+"title": "Maruti aims to produce 40 lakh vehicles per year by 2027 | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVdoM3BxMGkwVFV4T1VVOU1sNWlQRV83Q1FkZHp5eTRqbVhoVzZOZUx4YWNUZ2pHa3pOQW9XTklwWVhGaXNvNVNmbExUUHhVcDd6MmdWdzk3ZWVvZW9ObFRrWUdFVDRFWFBfaWdsaXcwR04ySmo5MFZMUjhpRVpUZlRPYVZEQ2Vwa0JYelJOYjJkR0NfOWFkc3dfU3ZmbGFpaXUzZE9R0gGmAUFVX3lxTE5lV2gzcHEwaTBUVXhPVVU5TWw1aVBFXzdDUWRkenl5NGptWGhXNk5lTHhhY1Rnakdrek5Bb1dOSXBZWEZpc281U2ZsTFRQeFVwN3oyZ1Z3OTdlZW9lb05sVGtZR0VUNEVYUF9pZ2xpdzBHTjJKajkwVkxSOGlFWlRmVE9hVkRDZXBrQlh6Uk5iMmRHQ185YWRzd19TdmZsYWlpdTNkT1E?oc=5",
+"source": "Inshorts",
+"published": "2026-10-02T15:55:39+00:00",
+"first_seen": "2026-10-02T17:19:46+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4995,6 +5065,24 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "034ce08ba90e22a3",
+"title": "Club ITC Hotels Offers Up to 50,000 Green Points: HDFC Diners Black, Regalia Gold & SBI MILES Can Help You Earn More",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1dPS2xyTm9IOUgzT21CVGdhQXp3ZEpJS0N3UzBsT0ozd1lIa3V4TnZrNHhkZy1uT0tQVGx2cnBPcGhuOGFPc2FhellXUkVra0F5ZmhqN3F3RzBkNmdpd3V4Z2FGYXA2XzJQeGRVYUxMZDdXeDc0bDgtY21QY09RRmh6T05iYUxoOC16ZHB4dUNfdzBodlBzUnB3MGJ0TDlJT0o0WjYwM2t5UjVzY3dhYlpSR2F4eS1hMFl4SnA3VncxbDFTLVJoX0NwQS1CeGx3NlJ4Z0VzcVR4UFNGblZUZEJmZw?oc=5",
+"source": "Trade Brains",
+"published": "2026-10-02T04:40:37+00:00",
+"first_seen": "2026-10-02T17:19:46+00:00",
+"symbols": [
+"ITC",
+"SBIN"
+],
+"groups": [
+"FMCG",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50863,96 +50951,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "c4388f5321d5403c",
-"title": "NTPC and EDF form clean energy JV",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVndjaEp0Nm43NXQxQm1ySjU2c0Q2enNDRTNaMkJva1N1REtkNUtEZGlWZVpLWG1uenJHMy04ZXlmU1lkakpXMHdVQXYta2Z0c3VYSlJBUHk4UW8zUXRzNFo1ejRCNGdCMURxU045MElQNUFtM3hSek05OUR5TUtxTw?oc=5",
-"source": "Project Finance International",
-"published": "2026-09-28T16:44:13+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "277ea31a75bc9d0d",
-"title": "Adani Group, Gautam Adani Settle MPS Non-Compliance with Sebi",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZWYzNEa3dRaW1FZzRVUHBYeFk1QTlmZWtGZE1UclBsYkpXSEdYZHJuRThPSmItek5kVnpBVGFLNmRoSk8tREVVVlZEaWc3YmZYcHJQSmFxRGlvN1FmR0s2aEVBUWVlNVQ2ZThtSENDcmZYNjQtMmNYX2RkN25lOGlGZS1uSXdVdmdaS3phcjBwUGNCYWxDazhqcnlLajc3bXgyc2tqMWROMVJtN01LY0pB0gG3AUFVX3lxTFBQTlFhLTdCQlVMSk1ZWDdqUlh3Mkh2Q2x3WHhsU21DRThuXzlWMXRyOFo2akZFOUJNdzlKRlpmRm50TzUtOFZfRzVYQXVVMUlLYndyNzRzRGZ4Q0RJNndEM29lZlkzZm04SFZDY3ZLZTV5aEE5VV9wMlZXUmVtR3hINzhkeDZXbllTVmFiTHlUZmpMRUU5WHdGdk5NX1ZDOGd2d3ZrTC16di1IUFF4NGRxeTdHZjBLQQ?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-28T16:40:16+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ba54099ac4f44795",
-"title": "Gautam Adani, 13 Other Adani Group Directors Settle SEBI Proceedings For Rs 1.48 Crore",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGk4N1hRMVBiTHN3TG1idmhzc3JyX3ZXcVZGSUg1SElTdnVqTnF6UnhqeUt4NFM2Wm45WnkyZHFQTmM3Y3MyRG1sVi0zclRXaklKLUhlVzktbEVqUUJKX0dxVVplcUh3UlhFNjVDajZZMF9lM1pxMlVLVkhZX3dWeTZmRzRqNlhZSGdzcWJQRjJuNkZadmQwOEt4X2pjZUpBMWJ2bzNqRUpSTHBWOWZMRnAxV0s3cnpGbS0xVHVhR2NLYVl2cEHSAcYBQVVfeXFMTWxpODdYUTFQYkxzd0xtYnZoc3Nycl92V3FWRklINUhJU3Z1ak5xelJ4anlLeDRTNlpuOVp5MmRxUE5jN2NzMkRtbFYtM3JUV2pJSi1IZVc5LWxFalFCSl9HcVVaZXFId1JYRTY1Q2o2WTBfZTNacTJVS1ZIWV93Vnk2Zkc0ajZYWUhnc3FiUEYybjZGWnZkMDhLeF9qY2VKQTFidm8zakVKUkxwVjlmTEZwMVdLN3J6Rm0tMVR1YUdjS2FZdnBB?oc=5",
-"source": "TheWire.in",
-"published": "2026-09-28T16:40:01+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "fc17aa2d0e9c8206",
-"title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXNDbWtlZ0tuTVQyQTFBRS0tenNlcHJhSjZncjVYUlFDVjJCQ3lwcmQzYTVqQnV0b2VxLWljTVlNREQxV3JBbm5QcFVLeFlqeHVxbHUxbDB2cTNTbHoyOVJBOWoxaU10anNpeHVNMXQ4SFplUnFaakJCY1ZhTVNSS0xNVkYxaFlvVjZFbGNtZVhPS0ZyZDFFWWx4ek5qZVNMRGU0S2RJbG9Ud0RQZVFOY1BaTE1FSXlZZHdlYnA1MWl3MTFX?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T16:38:35+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"HDFCBANK",
-"ICICIBANK"
-],
-"groups": [
-"Banks",
-"HDFC"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "01e3049cee0eb479",
-"title": "ATMC: ITC final vote clears way for relief from unfair trailer imports",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzlyak9ZWWtObjh2NzZIRjdQODE1NHJoczJqMU4wdnMtbTBBQm1FR0J4ZHduZGk5WlZNNHZ3UjN2dk5wSGtTSzMzR1A3N2VjLWFtRlBfYmJiN0Y4QjVQQldiYzdodkpqNWVYaS13WGZTcy0yVW1XWHQ0R0I3Ni1yTUNWSzFVYUJFNGpEcmFJQ1RiVkJDY0ZoMWF3c2JHZkl0QV95a1kyb1ZCXzdtRTJseHBoVkNoZnVSdmI0ekNR?oc=5",
-"source": "TheTrucker.com",
-"published": "2026-09-28T16:31:18+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
