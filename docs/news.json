@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T01:48:32+00:00",
+"updated": "2026-10-02T01:59:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,60 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "fbc2b752671681d2",
+"title": "September Auto Sales: Who Sold The Most Vehicles? Tata Motors, Eicher, Bajaj, Maruti To M&M, Here's The List",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQm5XZFRtSThRdXFlX3dGZS14OXJuOFpTVkFvOWFud01vaFBrRzZ6MnJXUHVSX1FJUmtZdnZZUDVYRVhWbUdaWkYwZnZhdU9ZcUdjQVpBREppdjAtWV9NNHZBbmZOLVVGc2gyM1lNUm9DSGdrRWowcTRCa0R6RXRZTlNHc1czYVJRVFczS1VNVExmSkxfUlhDdG9EdmpsS1RnZ05jYmJTcjl5NGVocHhSSVBpUEdiZURpVTFZa1NqemlyVFpaQndySzQtQ0xXSDVvOVhkbEFDTUJueHFEcFJIek9pbEluQdIB7gFBVV95cUxNcEhmWGllc2lxUVF1aE9qbE1PbzRJSHdFNUM5OFBzbjZDdzZCRVBRWnlSU0RPOXFSdkRUbHBTVllQcXpsN0JsNk0zNDh4Rm93SWFsR3AtbWtDemIwTWc2RWFHbnBDeXFPVnRqSWtOZ0dOTTkxVTFXdlJhYjZ4OGlrMWQ3VVc1YURDOGp3ckdoUTJfN3JrQXo2bmFWcE8weUNWdWgwRlNPS2tvX2lsc1VPd1l4NjE5OTlObElNSXFVMG5vckdGWGVaQUtGRld1Rk5mX2xidHRoUm16bGdHYjNVeXFLWEVXYWUxRFpsa2xn?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T01:52:39+00:00",
+"first_seen": "2026-10-02T01:59:50+00:00",
+"symbols": [
+"M&M",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a63a75746ac9faa3",
+"title": "Shriram Finance settles tender and JPMorgan targets Shriram Finance stock",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0pLbnhUbFhvWDU5WEVZVVdmQkswenVnckxOSkE5X1hFbDRGdDRxS1NqcnBHQk94d3ZpdFFMY1YxUkNHUmFzNElDUG4yaFMyZjEzS2NVWFBFR1VaUm0xZVBLWFhMQ2RQTXV5eTNvV1BubE1RVUZZd24xSjdOV0hzamhfM0RfTmV6TWJSeTdaR2lrdU94Vl85aWlLY05kY0Z5ZGZneGRSaDhjUmk5bkVUMFlMbTVnN2daR0ZudnI1d1QzZU8yUmcxV3dEckI?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T01:47:54+00:00",
+"first_seen": "2026-10-02T01:59:50+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f2111b425a0de491",
+"title": "Jio Financial, Allianz invest US$33.3m in general insurance JV",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHdxVDRBZVREdjBSbU9ZRGtzQjd3eGRyUWtlaXdJM28wM1B2SnRMX1d4WG5qRzM5VmdWRklwY2NKUml4X0g2dFJOSkpqRll5dVJwaE5OZlljQ3FmUTcwcjg3TWRvM3luaVJfSUZaR0IxeldYTV9aVW1qQlh6QkEwbXNuRTFncjZncE81eWVEbkdTZlg0c2JkVTh5WmdTd1hIZ2k4a1BGLXJQeFJhekJHVWMzMVVoRWg5dmtVbXVhdy16aWMtNVZxUE1qY0pQcHEtVmFuenktVlJJbllxeWc?oc=5",
+"source": "Asia Insurance Review",
+"published": "2026-10-02T01:46:55+00:00",
+"first_seen": "2026-10-02T01:59:50+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
 {
 "id": "5f20d96c0c7ea0f3",
 "title": "Anup Bagchi: ICICI pro who'll steer HDFC Bank",
@@ -2936,6 +2990,25 @@
 "HDFC"
 ],
 "tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5b071efa55c34c0a",
+"title": "HDFC Bank Appoints Anup Bagchi as New MD & CEO Following RBI Approval",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ0FkSVhYcW9oX2JjcUxDZm0td3RNOXh2Ykt6ZGM3UmI0MHUxcDAzV0NQdDNKam85SlljNkNkblpiaW5peDZPV25vaGhrV3ZWWEl0emJxaVBwSGdCdGlTSXNwQVNIdHhOX011aHV4emZscjl0WG9VZWRCMUZ5X0ZlYWotZUNhRHFIQkZOLTdWUlZzbGVVeVJKNnBjV0d1a2NuSHVibjAzNDRLUTRaTDY4QWF2c0xDV0NobW8wMjV5YU9Pa3p2QmxFUEhTejU1QQ?oc=5",
+"source": "GujaratSamachar English",
+"published": "2026-10-01T14:50:49+00:00",
+"first_seen": "2026-10-02T01:59:50+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
 "Management"
 ],
 "sentiment": "neutral"
@@ -50703,72 +50776,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ccf758f9cfc152f1",
-"title": "BPCL, HPCL, IOC, ONGC, Adani Power: Morgan Stanley positive on oil stocks, flags 3 surprises",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUTVpakROYlUwNFRNakJta1UwQ2M0cmtpMTllUF83R25CSDBUSnZlbzdaYXRVeXlXTGRxNTNkYmQxU0xJUTZaUGtjbVhzVktIeFdoaU1oTHhkaGw4Ny1Sd0hRNWVTY2phMnNfUTVkYXdJUWxRVHRENF9hVlcxNmYxaEw3ME9nVzlXS05DN0RUYTVaMmVscVJfUjNnRTc3akRmS0dCcTFYWHpFSUlKMkRyb21CbGhkVXl5T1FPOTZwbU9wV0I5QjNUV2dIUUtYdlVlSW9mVzRiZHgxYnR2a2R4SXhGUHhJdHpZV1HSAe8BQVVfeXFMTWRvY2x1Z09oei1hZ3hPMUFHN2sta3Q1bnowWHFwcDNpTFQtZ2VSM2k1TkQ4cUlCWFJXNExzSDczZGY5OVBrQTdVdk5MVjJ6dVNRcllVLTIzaDl1cjFNajEtODVPOFRKUXZtZVhUSU5TQzFmMHdnak9MUlFFdndCb1BFcHg3NXdCbk5Sd2ZKeGJtS1phNWxLZUt6b2txVVJEaU82Q0RCandXdWNpZXJYS2lmNEtxdUs1VmN5eEFNYkJ2bUVnS19keEJvRk1adEFHdWlQSDd6d0kxYmZJNE01YVBWSjhJZEtsTmx6TEpDMlU?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T03:58:51+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"ADANIENT",
-"ONGC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2a6fab819d8094bd",
-"title": "ITC Targets Eastern India Dairy Growth With Tailored Regional Value-Added Products",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHdtN2pFS0NRX3E5b3ZkTjhhcVh5dXdFVFAtMGgxMnZxRGJKWFMyaG9LY3ZneG84UTJSWmJVR05kaGxta05Sc2lYTDZWblpWcEdHTDNoX2JlMFJUaVVhbXZ1Y0JWMUNDX1FRNTNoMzdPaWU3b05zWnNfN1o5X0VkNVZVXzNZLXljSE5PX0k2TDN4aVlyTnRIOGY5ZWpuVC1GUXFRTF9JZzhsRHpu?oc=5",
-"source": "sahi.com",
-"published": "2026-09-28T03:56:07+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "35f8c758939027ce",
-"title": "TNPCB Says Sun Pharma Didn’t Expand as Proposed in Chengalpattu",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1NRYXd2X2hTVkZ3WTl0cjZkelVpODZ6SjRhTnJyRUtKSEVndk90eEs2RWFMRW5HSkFuVmJMQVNRb3czbkR2Qk9TSEtMU0l4UnV4eE9sYm1PajMyUFo2V0hyRUN0azBvZVM5NkhBRkljQXJvczlRUzBaWG5kRk1GWUNHYmtmUW9QNTJsR0RyeW81T3pjLXVsSUY2cXlKM01pSzBDQdIBpAFBVV95cUxPU1NRYXd2X2hTVkZ3WTl0cjZkelVpODZ6SjRhTnJyRUtKSEVndk90eEs2RWFMRW5HSkFuVmJMQVNRb3czbkR2Qk9TSEtMU0l4UnV4eE9sYm1PajMyUFo2V0hyRUN0azBvZVM5NkhBRkljQXJvczlRUzBaWG5kRk1GWUNHYmtmUW9QNTJsR0RyeW81T3pjLXVsSUY2cXlKM01pSzBDQQ?oc=5",
-"source": "Chennaionline",
-"published": "2026-09-28T03:54:56+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c7cf7362d62411c1",
-"title": "Shrikant Chouhan recommends buying Torrent Pharma, selling Bharti Airtel",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlFKY1UwTUhabTlWY0tDLVV0UVRGZHM5RlBVWUVOYWNBTDZ2Y0RyelZZNXhUdFBqY3dGaXotS0NjajBqelAtVDFrRDBhdXR4NW91U1VueDVRcmg2VDQ2dHRlZXVHYTJiM3Vrc2RUQXhpbV9YUXM2c0ZWZ284bWVNcGU2cm5zNUNHdDlqNHcxWG85X0RlOUN6LWotY0VManB2SEhIdi1Yc216MmpRREUxR9IBtgFBVV95cUxQc0lfR0lzeVk1R3RCeXdWeVlRcFRhcHBob3c3VDFFMTVqaHlpMXJDc3pYenpSQnIzeXZpaTJLMkgxcXlZd1lFTk1BYkVIWm1rU00wZEZRYWFldnZkZmxsQW93QU0zUmpxaUFKZUpCMHJUMFE0Sjc0RGNhWnBlZTlkaEg5UE9NOEpXX1FPQzlPcXp4ZEYwckNpdE9BVU9lVWwxYjVUNDlpb0RENW5jMGFRVG5CVldPdw?oc=5",
-"source": "cnbctv18.com",
-"published": "2026-09-28T03:51:00+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
