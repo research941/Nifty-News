@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T01:34:47+00:00",
+"updated": "2026-10-02T01:48:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -4161,6 +4161,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5530e8d34e3df9db",
+"title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T13:18:17+00:00",
+"first_seen": "2026-10-02T01:48:32+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -18343,6 +18359,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "97da5218da845bab",
+"title": "Second Hand 2015 Maruti Suzuki Celerio VXi for sale at Rs. 2,26,920 in Jaipur.",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmVBaktISzMxRTBvZWhnSkZ2c0NCRnk0My1Ccno4UFpSa2ViR0MyTUpZMWRfVUZrdUNEVm9RZ2xFZE9vcnVOS0E2V3N0d1phenNVZTBrenZuaEdEb3NMcWZKbEpIcEZSeVNPNTh3SGlGRDAwYWVrUWVwdjF1cjl6UWMtd1ZMRjQ?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:50:31+00:00",
+"first_seen": "2026-10-02T01:48:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50737,38 +50769,6 @@
 ],
 "groups": [
 "Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "445f81503d4fee24",
-"title": "ASICS partners Tata Steel World 25K Kolkata, brings running club to east India",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVlsdHJPeGZZVmtpT3hYVWFVS21Lc3BvaWZYbWN1bDVHMi15cHpKR2NXY0hfNVp1LWdxaF9ZUnlsUmdacFREeVJqQ1ZCaXlKd2JKWEx3TTdDZ2hTZm5iWncxUDZONDVic2NRLUVsZHlRWHRIVnI4UldpQ2QyN21MUkloNE9Cemw3czRrUWdQMXo1bFBWTUVaQlVEdVVRNnRVSkh6MFBXb0NsbktqOE13Z2dn?oc=5",
-"source": "Adgully.com",
-"published": "2026-09-28T03:45:00+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5bfebf13462fde89",
-"title": "Tata Motors eyes 20% PV market share by FY31, hints of another possible price hike",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWFLWXpobG5QdTlXQjBWNkJTV2hDSTlaRWZEV3QzUW5aTTUwX3BXRWtxZFhBYUhhcVVIUDFFd0s5VWZrVXRza0t1NEttUmJWZllBWVdHYU0xSlMyaHRxVmZVTWVNZHhzU19wVjV2bFpibnRDY1hBNm9XODlMa1RBSDF1U25LYjE4TEtBWHotUk9jNURJanczSHg2aEtaMWs3ZFRjRjFLWU1NR3lTNFd0bmJmX3Nfc0tGSGdEY3oydWJ2c05CQktwWnp0NEJmUHhKOHZjeXFibjJkaGxKN1kw0gHfAUFVX3lxTE9NYUtZemhsblB1OVdCMFY2QlNXaENJOVpFZkRXdDNRblpNNTBfcFdFa3FkWEFhSGFxVUhQMUV3SzlVZmtVdHNrS3U0S21SYlZmWUFZV0dhTTFKUzJodHFWZlVNZU1keHNTX3BWNXZsWmJudENjWEE2b1c4OUxrVEFIMXVTbktiMThMS0FYei1ST2M1RElqdzNIeDZoS1oxazdkVGNGMUtZTU1HeVM0V3RuYmZfc19zS0ZIZ0RjejJ1YnZzTkJCS3BaenQ0QmZQeEo4dmN5cWJuMmRobEo3WTA?oc=5",
-"source": "HT Auto",
-"published": "2026-09-28T03:43:39+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
