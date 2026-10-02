@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T06:44:38+00:00",
+"updated": "2026-10-02T07:00:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,77 @@
 ],
 "items": [
 {
+"id": "66ac83609378b12a",
+"title": "ZF Commercial Vehicle gets favourable order setting aside ₹1.79 crore ITC demand",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNKbmt0NEZ6aXNnMmNNNlNRM2czeG02aHRUSWJGMmVGMUZuamF5c1MxR0VBaDltUTJ2ZWFVX1ZRMTJQTm1nQm15Wk9rb1RqRjBGdWhKUEc2d1VEZFM5MjlNVDJ5TW5XMzVma1NPV05RUEdsNktDQkNsNzk2ZW85MmN0dkF6ODA0djV1U21nYUpwdm1yWlkzQnRYUGZ4Qm1Qa1hwM1FsbEpTNHJYUmR6UkZfc1JWNDBRWGlvMGdBaFNCTzg?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T06:50:56+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8719480c0e14cb3d",
+"title": "Coal India, NTPC among 360 ONE Capital Research’s 8 stock picks for October. Check full list with target prices",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb0k5TmVtZUlhMTc0aUktdHhPMU82YlFab0UtdlhpWmo2YTlMWlAyWXRJVjBjb2ZzZzB3aWRHazBnM24zWm83T1V6WF9vN25XbzcyQ0JPTG1YTlNzaGdRSEY1V0dpckhWcW1pMm5JeHhrTE9wNDh5WEYtMUhpNzY1VnlZaGZpSkxGd3kwbE5sNkJlQ1haQmlwMlRyMkxEekRFblFIcGRiX2p0SGd0bDVqSVVFMU9ra2VQWlhLdEt1cmlfd0lqa1dfQUdYQjNrdVhYQWJ1TVdMTnBHUm1kNjFwQk5VMGRwMUEwYmotN2NpUXVhMHFPZlBNR19zNEZZRmZlckNKU2lCcXV2bTZI?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T06:49:51+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"COALINDIA",
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "129d45a9c4abedb2",
+"title": "HDFC Bank’s Anup Bagchi Bet: Six Priorities For New CEO",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS29KbGdFdEdhNGR4Z2tWUkNrQWlCRF9rZjRQeUEzT2JYYV8xb2J6ZXFDMV9pTjBjUWJJUjhNbjdsS0pSd3hPNXp5OWo0aGdGaEZqSlppUkFnR3F1VWZVUm5BXzZDcURFcEZsR2pkY21oQ3QxNjhCaWNMS2ZuY2c5M2M5QXc0MDg0bkNFc0lGckZPellFYk1KcTlLMDhpdl9GaGtHSUVpU0YyV1luZ1gwQnpn?oc=5",
+"source": "businessworld.in",
+"published": "2026-10-02T06:46:08+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8b0ef29c6d1fe122",
+"title": "'ICICI is CEO-making factory' trends on internet as Anup Saha, Anup Bagchi named MD-CEO of Kotak Mahindra, HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSXliLVRHTU5kdXd2TlY1Qm02SWVua0tLMDRZbGQxX2VvQ3FtZDhkZmk3b0lhaXNTNHZjSkp2NnF5eTVzbUN1TTB0Z0l0d3pFQWlOb25RRHhLWHpDZkpoRTRjOE8wVzlXaWhsb0NrcEJFZFlUNkRFSkFoRmRSZEhoTHdYSlRCemNpVmtySHU5VVF3TGE4aXlCcTZIZ3AyMnp2OEpNUzhiWThDOC1Mc3lmZGpvVW9pZF95ZThvZXN6N3NtUDNUdlprcW82a2laMzZWRmg2ckRTcWNzT1E4WnRWN0FVSFB4aFQyam5OYjZWV1JkQjd6djFENTVqd0gyNXhlTTY0bNIBigJBVV95cUxONnpwb0F3c3dwTGVyMFFFbjdfR21LWjBQWTRBVHJfd3l6R3paVUE1VDlReTZxUDBDbW1DMDJhTW84dWw0WDZEdkhldWlUemlqWnFINlRfZ3NMRTFnQXVkMGstMWFGRTNod3JFUEhnakZjcGJSMVRRTUZsR0hRaUJaTnlkdDlGNENmSGMybzBNZVh2ZmZLZHE1UkhBdDY5YTBMaXB2cko1V0Nqc2JGZVlqUTAxR3RKSXRuNFNrU3dIRUpweW83LWNwNE5DaVdOM2E1eGkyQ0dZYmVyNFdZQnc1dWwyMUhEbUFVMTdUckpDMEJrS2VZZlFxNjBKcWhia0l6YWozNEdvckNEdw?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T06:44:54+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4b238595f27fbd5d",
 "title": "Adani Group reaffirms commitment to Maharashtra with Rs 6 lakh crore investment blueprint: Pranav Adani",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQODlSY0stdkROdFUzNk5zMWl4cHdwaE0wVzBKeXNHY2REd1BYT1BJcHdOTk1iTFo5X296OFZMaFF4ZG1DOEVrc2R6WHJoYkl5NkxrdmZLMW1PN3NnMXJNNUhiM1pkMERVVldUeHBmczdLWWhWRHhLSFR0RU1TMVU1MTdSMWZZNUhaU3Z1ejZQZDNTRHBwZ1FQM3NSS3k3TTlVZzR0NEw5aDVpYkRvV1FINURYTVlMUzdlQ0RGdTB4N3lCZm9pWFhQbnJRVUNKRkRPR1dfWF9sU3JCYUhlMDQzSVV1TVJEZEs0UFhQb2hFLUU3Mk5xTXc?oc=5",
@@ -512,6 +583,42 @@
 "sentiment": "neutral"
 },
 {
+"id": "5821df22aeba9ad7",
+"title": "Suzlon, KPIT Tech, RIL, IRFC, HDFC Bank, Infy: 56% Nifty500 stocks in bear grip amid market sell-off",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVTZEZzVOUjZYcWd2NXd6UlFTWWtJMlNmT3p3X212MkhnTDE3NWt4N29acGgxZm9PTVg2c1c0Vm43ZVZ5VENOYVRCbmNwNzVWV0tGNDBVNWl6T2tPTDE1cnlRZ21XdllVSXN2LV84c2Q0alVLYThCNEw5LVRPWHlLUnAxV2xWZEZJb1lyZ2tsZGE0OVY2aTZsMzk1UmJILWRFTW5nNUEzTzlaY3prd0lXRldqQy02b24wV2czSWF2ajVBOEZiQlM3ejBoemJXeTFNU2liVWRSZWhVdzJJWDVOQTVmNHFlb2RNUUhzS1FrOHl0YXPSAfgBQVVfeXFMT3pxcTN1ODdDYXY5OGhqN0MySk1YLW5HMmVXX0swV1NxeEJITkk3LVEzVnBMcmJmRGlaOTB2WUNOMmhtUkZtcEdQVVRXZTZXT1pNTGJKMzV1Q1EyUnQ3blVKaW1sLWdtVlJjYTZnTWhHTGRrVTZKckxwbkRBSWRiZWstMnNqQlRjWVZlYmxlZFhscDFFcDNUcTJGOFF4amFMOEVmc01fdVplM2o2d01Obm9sbXZLOEhScFJLcEk4YXBNeHhEM2VuX1FMUGZuUVF2bjZoUVlIa3Bha3pVbk1JT1htdXlSX0xGOVB3LWR5TDB0eTZvd1NNMjM?oc=5",
+"source": "Business Today",
+"published": "2026-10-02T06:33:58+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"HDFCBANK",
+"RELIANCE"
+],
+"groups": [
+"HDFC",
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3fef0ce30d4bada7",
+"title": "ZAWYA: Africa: International Finance Corporation backs Airtel Money IPO with $90mln",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcl9MWUpLaE13aWZ6ZHJOQmxveno2UWdxc1IydzBQRXZtdTBabXRQR3RFcl83MHBobjF5YVBlYVVKVTB0ODVveURpY3F4OHdMSTRaQmFYREJOWDF2MWZrS2pkQ0Vna0lMazRlM0lzbFhXenZUaFcwbUdiYTB6WXpRSHNLb0pBa00wc2pncXlMSWhNRDBWZHFRT0RENVAzQ1I3LV9sRXE0T0dfVUJBdDM3OERTY0szQkI3dlgzU3llakNSVGd2VTI0LURGcU9kbDBwOHdCenlyUXVDREhia09ndGJrRnpnVVRldDZ1VA?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T06:32:00+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "96ef46cda9e9e856",
 "title": "Tata Motors Reaches Close To 15% Market Share, Aims For 20% By March 2031",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkpEX0M0bFNaMWJNc3BkZmlLSXhaU0V6enlrcDljQVpaX3F1ZjlCb1p3eE9nOUJnWE9oU2tyckRQSUlHRXdJTk4zVU41VXRnYWdSUHJidngwTHpnWEFva1hCY0RrTVFRTjEwQ2pxaFNLOTZQZnZ1LUtPUEgwbDlsUndvY1E1dlpzcW9CdUpEYXhRUjVlTEhCdQ?oc=5",
@@ -539,6 +646,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c6ae5d0e68d2d505",
+"title": "Maharashtra is India’s launchpad; 43% of Adani Group’s ₹6 lakh crore blueprint completed or underway, says Pranav Adani",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUjlsZmVkOEpoNUZoNDZtcmZyOW4ydEVMVVNPRGFLT00tUGJsemdtTmM5X19DSlVySUhQcll2MzNLOW1oVUZiZnNOakdvMS1SeFRaRXJmRlp1NGU1UFB3anh5bXJKODRocnFMdkotV004OE81WXMzdl9qaU1nR1Q4emNBXzFHRlVxY0hmQUF5MHVHZVdvM3JaLUN3bTJVd1VCWUhLWWQtdUhEOFgtbl9JYXVrM1lPOU5oMExSSGZ2UVB6dTd4YS11WHRlZGd1bHh0cmJBNHVYM2lOZENfSWtoeTU2ekJjWFFQWkY3SVVZN3BvNjg5UzZtZUo5NjFOYjdrVmRJSm9mN0YwbXU2?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T06:26:13+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1801,6 +1924,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "91c610803c1424c3",
+"title": "HDFC Life files BRSR for FY 2025-26",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmNna3hmMGhZbjlRSWVQZjMzUDRzNURmQi1sSm9vb05raW53U214c0Q0ZDhUa2dHSFpTSXQ3SzJMY1VibHRhTjdIQW5DdWJkbW5vMWRNYzFBNkpBenBkZTQyQjBSRlBmczdxMm9PTUtmQ3FxZllpbkRWX2FydDkzYTRZMlBfZFZDRXlvMDgzLVdxWUxpU1Nj?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T01:50:50+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a63a75746ac9faa3",
 "title": "Shriram Finance settles tender and JPMorgan targets Shriram Finance stock",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0pLbnhUbFhvWDU5WEVZVVdmQkswenVnckxOSkE5X1hFbDRGdDRxS1NqcnBHQk94d3ZpdFFMY1YxUkNHUmFzNElDUG4yaFMyZjEzS2NVWFBFR1VaUm0xZVBLWFhMQ2RQTXV5eTNvV1BubE1RVUZZd24xSjdOV0hzamhfM0RfTmV6TWJSeTdaR2lrdU94Vl85aWlLY05kY0Z5ZGZneGRSaDhjUmk5bkVUMFlMbTVnN2daR0ZudnI1d1QzZU8yUmcxV3dEckI?oc=5",
@@ -2430,6 +2569,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e02792e6861ff2a4",
+"title": "‘Who ordered change in Form 6’: Rahul seeks answers from EC, TCS",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0d2QWRnUVc2SGZvTTdPaUdTcFlVUHJ2YUc0X1B6UldJYUhvOWttamc1QUk2aXdnRHNadURLdDRuX0NLWU5SWlRnSFo5dHhONVhiZGRXblFVOFFVNTVmU0V0dHZmMzJpZ3JTajFSYkxjMGtGYW9LcHFIdlloZU5sN1JNZi1CTEk2MDM0VDlobURxa0xQQXZrTFMwUTB4RTBfd1R3RmwyMNIBpwFBVV95cUxNV0d2QWRnUVc2SGZvTTdPaUdTcFlVUHJ2YUc0X1B6UldJYUhvOWttamc1QUk2aXdnRHNadURLdDRuX0NLWU5SWlRnSFo5dHhONVhiZGRXblFVOFFVNTVmU0V0dHZmMzJpZ3JTajFSYkxjMGtGYW9LcHFIdlloZU5sN1JNZi1CTEk2MDM0VDlobURxa0xQQXZrTFMwUTB4RTBfd1R3RmwyMA?oc=5",
+"source": "The Tribune",
+"published": "2026-10-01T19:34:12+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3575,6 +3730,22 @@
 "first_seen": "2026-10-01T16:35:11+00:00",
 "symbols": [
 "TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "349d281b7bf299a1",
+"title": "TCS Partners With Best Buy to Transition India GCC to AI-Native Hub",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORUZ0Rmlvcjhjdk5RZ0d2OE5ya3pBMERhaWdJUDNubXF4dE1UcklOcWtHcGc2eUFIc0x4VGVSSnNkeC1HQWEtUTltMkhMTHdLczduM2xROFlZNzduMnFPRGhqY3oyX0s3dHlIUklxMVMwbzZldVU3QWxtdVVwSDczMS1hTjduakxNUldHdWhjcXFNQXI3SG5WZGstc3F3aG4wbzVCeXU2cVo3aE1nYWdwS1k5bHFfSURTY0VFSTBSend1eno4RE5DbktPZHZ1S1NHYURaUWJ1NzhvTDNuaGFLQ005d3JDdnhE?oc=5",
+"source": "whalesbook.com",
+"published": "2026-10-01T16:18:21+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"TCS"
 ],
 "groups": [
 "Tata"
@@ -7909,6 +8080,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "e03e5bb4ef858690",
+"title": "Royal Enfield September 2026 Sales: 8% YoY Growth, 1.33 Lakh Units",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY00xcjlSVGwzRFM1NFNUNUxyMUkxNlQyenFGbU5RRUkxcU9zTFRBZjNaa3luX1QwQ1lVZnBCN2daUldvVDRDM1hBQXJ5RjVOWE9DVjM2X2Z3Wms4TWJzTGhSUmdxckNnN09ic2dvc3IxVUpzWTFQZnk1V1hYeV9la3lqZlgtSy1jTURPUUZmYw?oc=5",
+"source": "BikeAdvice",
+"published": "2026-10-01T11:03:21+00:00",
+"first_seen": "2026-10-02T07:00:45+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "c9a1a845690bc36b",
@@ -50657,190 +50844,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "edd870407e63debc",
-"title": "Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOHVkbEdNZHFBN2plNm9yQlBTWjFLaDM3Y0NIVllTN0ZxaE9aOVBNVFhiZDdRNENudkxzamFRazgxel9RWDZaZ0tuV1FuRU53OVFoSTRIMXNXZlZhS1RnaTdVRWQzdnVLQmZsTkhDSTdWVWRTUFZMdEJLcW9LR01MLVl0TlFRMXdBbzgtRG1zaDFLNHAwYmN1ZnNKSnhZNTJFOWI4WHl6SlAwLTh0WnQ4c29QZFEtLVpLcE5ITElZWk00ZXVXZGlxb2l5VHdXZ0h1el92cHo3Tk1TdmhSTm5oSVB6VHZsOXEtMkVlQUFGWTk4RkNYZ1phY3ln0gGCAkFVX3lxTE1tT3IzODlSa3pjTnhfOGxmenJyNU5DU3FWRElwenhXZDZFbTJxWW93eWttY2xRMTVTc1BoWWV2dnhtajFHNzBoalFoMVpkR0FuSjhLTDlmOFF6VUtocjZIWkl2am5pREZnNzVFcU5FUFVZR0VpaVZtMUhhaG1KQWVjdlNTMzhKbDJsQW9HcDhLNXFFZHYxRVlTNGt1MmprLTNkODBjbDZBTm1NRzZFSlFGUTdBMzNqWHV6clRhZnhKR3FzRFpZM0IyZ3V4MnNpaGxHVEEwYXNTZ1RVZEw4bDB6VXBza3g5b1ZvbzRVVURjZy0tem9TN1VCOXNuMGdiVF9nQQ?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T06:59:45+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"ADANIENT",
-"SBIN"
-],
-"groups": [
-"Adani",
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "045342d860d9076f",
-"title": "Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward: Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks",
-"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbU9yMzg5Umt6Y054XzhsZnpycjVOQ1NxVkRJcHp4V2Q2RW0ycVlvd3lrbWNsUTE1U3NQaFlldnZ4bWoxRzcwaGpRaDFaZEdBbko4S0w5ZjhRelVLaHI2SFpJdmpuaURGZzc1RXFORVBVWUdFaWlWbTFIYWhtSkFlY3ZTUzM4SmwybEFvR3A4SzVxRWR2MUVZUzRrdTJqay0zZDgwY2w2QU5tTUc2RUpRRlE3QTMzalh1enJUYWZ4Skdxc0RaWTNCMmd1eDJzaWhsR1RBMGFzU2dUVWRMOGwwelVwc2t4OW9Wb280VVVEY2ctLXpvUzdVQjlzbjBnYlRfZ0HSAYICQVVfeXFMTW1PcjM4OVJremNOeF84bGZ6cnI1TkNTcVZESXB6eFdkNkVtMnFZb3d5a21jbFExNVNzUGhZZXZ2eG1qMUc3MGhqUWgxWmRHQW5KOEtMOWY4UXpVS2hyNkhaSXZqbmlERmc3NUVxTkVQVVlHRWlpVm0xSGFobUpBZWN2U1MzOEpsMmxBb0dwOEs1cUVkdjFFWVM0a3UyamstM2Q4MGNsNkFObU1HNkVKUUZRN0EzM2pYdXpyVGFmeEpHcXNEWlkzQjJndXgyc2lobEdUQTBhc1NnVFVkTDhsMHpVcHNreDlvVm9vNFVVRGNnLS16b1M3VUI5c24wZ2JUX2dB?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T06:59:45+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"ADANIENT",
-"SBIN"
-],
-"groups": [
-"Adani",
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "5c78f013bf4a61a4",
-"title": "Axis Bank To Increase Campus Hiring To 12,500 In FY27 As AI Reshapes Workforce Strategy",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzRubXNFVXd2VEhDTFFQRGdZU2FzNVZOMUNCSTBwYVF0X0d4VFFMNENrck12VVpfWU16UGdYZFRXVk1vV2ptLW1yTHN0NTZoRjBzZ01NQjZHSlZoTHdlc1lsVmw2empJeEdYejRrUTRlNURkanlMdEdlbU9ZNDNBUHlnX3Z3QU0takNyRmpncEZ3Yi1NS2lCWWFyQ3ZtVHQ5cHRSZW9YUnloTHFOUVVqRDVRZGRMbDMxN0pzY3JVYzEwTmJhMlHSAcsBQVVfeXFMTzBQTmFmVDN3RVpvVnhZUXVJbld3dTlvb2h2aUhydDdwRXM4R3NEb0xVSVc0eW1YX3VULVZGdG5SRXY1eTg2Z3NTb19POVhWZHFHMmJSODFkdzZlak9BSTNwcGdyRkFBbDk3Sjl2c2htemc4b183MTN5U1M4Vl9YajlGVkpybldDdkN2aFM4di05UjlJbXpodEJxZ3FYbkxkdmMyeldlQUJtOHphcjJLVGloOWtRWnJYazlGd1k0OXZ4QV9nU2FBNVVBWHc?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-28T06:55:27+00:00",
-"first_seen": "2026-09-28T07:20:22+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d52b5eb25c578afc",
-"title": "Sun Pharma in focus after tapping into $3.7 Billion ex-US/China PCSK9 inhibitor market",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1hQcEJlUDlLUmVlV0gyNTgwbEstZlhONzNCQ19hQ0F2RHVWUDg0OWg4TnB1WTRiLTFYbnFobjlobk1VZlFBSTR1OTZyTEJlZS1QNlBzS3V3R1NLSXB3RHIxUlZVem43RTJKS3lIZGVkMy1MN3kwVXBMcVUxcEhZVzRVM1JXSmpMbGlIc1pvYnhoNTA3Rkg5VzlyVllReU1TRTJtQnBRUHNsRVlyalV6SHZVZ2k0cjhGS21zR0drdzZvb3I3MUg5TjdB?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-28T06:54:59+00:00",
-"first_seen": "2026-09-28T07:00:29+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fb8ca83f123217fc",
-"title": "Sun Pharmaceutical Industries Limited (NSE:SUNPHARMA) Secures Lerodalcibep Rights Across Global Markets",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYk5RZ0VzUjZQYWd6UkhBMXRObnNySFI5Rksxc3dxT3N4VUhsdWZyclhDbHo1Zmo2TnlZY2Nxa0dhaXhuUHYtZThpaThKelgzVUJfd1FibFY4NXk3OWh3TldPQjBaRDAzOTZVNVQ2SS1vczloYmZWclhIT2tjQjN5dllNMGF4aGxGM0VTOVdkcUN5NW9ZUkNvdW9Eb0JlYlRNbUxNVzhGYjR6Vll3NmcyeC1JRU9URDliT1BFaUM4dGhFYTVZV0VObURMb2hjNi1wMThYdzBxVlc5a010ZjRyYkk0QVJoVUlrQnRTRnJkWXlaUQ?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T06:47:00+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "3c7ea33e191245f1",
-"title": "Tata Motors launches Aeris at ₹5.29 lakh, targets 7.5 lakh-plus annual vehicle sales, EVs remain in focus",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMl91M0hELS1NSFVwYjBCcUtEUTF6Zi1CVWozSEVfSGR4Q04zNzBVTVUwTEZ5bGpXdGtZZzFNWWctZl9RSWlZZlB4RzU2Z1VRV2ZMQzJkdmdHUTdqYUxrZWJVT1lYbFFteG9GRnpNN254eWxab0U4Mmdlb3MtS3VMNUx4TUk3c2N2U2JjV0E1bzRxeEFKQ3pQWFotVUZKc01tX2FReHdyTjZQUGpHZ2Zic1N3dkpRVzVDUjFNV0RzeEt4QnRRWDM1RnpWODdHOGtlOGxocWxLX2FqdzFVYjF4MHcyVjBscUZ6Nmc4dVpmbnJRWHRVX2M0?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-28T06:46:16+00:00",
-"first_seen": "2026-09-28T07:00:29+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1e439636d44ca716",
-"title": "Government Changes Mobile Recharge Rules: What Jio, Airtel and Vi Users Need to Know",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDUxWFdpbk50R0xvRnFJa3VMY3dtS0VsdmNNR0ZiaVZSRmtkX05VamRoQzE5Z3BkV3UzcHhwYzNBX3VScy1yLUlkbnJWZkpTTS1sRGN1aFRPQXhQQ091SlZ1bV9MN2pKNEtvQzEtOEctek0yWkNqNENiT21YSnBWdnIwR0VxV0hlU3M5MXdPZWlsenNuT0hscTFGY2llM0xabHpfWWZKUy1La01LN0dOc0dqTTlnUk1PNVE?oc=5",
-"source": "Mashable India",
-"published": "2026-09-28T06:45:34+00:00",
-"first_seen": "2026-09-28T07:00:29+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f1338bc2405e0a2f",
-"title": "ICICI vs SBI Bank: Which Bank Stock Has the Better Growth Potential?",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnRuamRObEp0bmRyeUVlUGF6c0U0RnBHNTlHUkRoOEpjQ2c0SHM2TTJSdkVJOXc4MEtMZlN5ZUdoQTA4U2NEblUzcndVWmRxNlNxX3NiTVVxTVVpNl82b2hWRVZNT0kxaHhPN2c2RWo2MDhLblNZdjJ6cXNqa3hoS1dxa1dkUF9WUWd6aTVsTnhVc19CcHJmMDVLRG9NczVtTS1BUTg4amx5Mkc2clFEMjFNWQ?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-28T06:36:34+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "549f298781dfb15a",
-"title": "Sun Pharma Signs Global Licensing Deal for Lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzV0UU91dTlFaUF3clZETnNtQ0luX29ZRGdpVGNYZ3E3NzlOd01mWXRlLTNMQlRfYnptdGZRUEJnTkNIYWs3bnZIV1lTMFliblExTVFCVTRHVFNxVHcxeG9tc3dkUk1mekpSbWpmUzNFVFdtZWZqbXN1Vm5OTXpCN3FLdmNUTkR1OFNkZzFiSUFpWjY4QXU4a2JSOGd1alFvMV9nN1ZwaXNna0pYS212ZF9JNTJrNm52TXc?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-28T06:35:27+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "cc462ef763245baa",
-"title": "Sun Pharma Secures Exclusive Global Licensing Deal with LIB Therapeutics for Lerodalcibep Ex-US and China",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTG4zd2F1MUtiTVl6ejA1UXNURjNOZlp3bHdEV2Nqa3dWc3Rzcmc1NGlmODFGQXNtT1hqaXBhYmZVS2VTR0dBdTh2ZTZ5blBkU21vaXRYMHZOWGFzQ1BN?oc=5",
-"source": "EquityBulls",
-"published": "2026-09-28T06:32:38+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "31779fe09a64ac45",
-"title": "Maruti Suzuki to ramp up production, targets 40 lakh units annually from FY30",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNME9oam55NFhfR0pBek05dXlhT3RRS1g3QmJhWVZKYTRxWEpia1dDcHc1TUU5Y2FBZFJ4aWg3aVZ0WUtUeFQySVVCVUlOSmdwVzgyeUlYTV9sUXIxMXRCSEFBV2x4b2tuRjBHeXdHVjRsUGhZSXlEZHpkRlNoaVFRbU44UTBwUm1YQWs2eWRfdm40NUpTQzBCaHNNU3FRTmp2QVkwNHFYR1c5b2lIN0xvQXpjUDZhVDhDalNQQzFQcE9nclJPamlPWTRYcXpIOEtMZWx2WtIB2gFBVV95cUxOLVZqT3NCbzdGemh6ZFZqb3FKZ2lURTFlRmtLRWNUMlJVeGo0S196RUpERkI3M200ME5RNm1RT1ZXR29GTF9QblhRZFhGOTUwSkhJT1gwRnpRU3FrTlZpd2dKRHFwUW9IWW1xVDNfX0NzOVRLaVhLYkdSeUhkRW5jVUgtLWFNdmVudUxrbEw3TzFEX0RwVWpkMVlZN2gtN2I3RUZGVy1RUGFpc25HamFaQ0xraDlPR1hKUjN1a1dTNmpwQWdvU2dyT1prX3lkMEN0VDZOc1Ewc3hFZw?oc=5",
-"source": "HT Auto",
-"published": "2026-09-28T06:31:49+00:00",
-"first_seen": "2026-09-28T09:06:25+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
