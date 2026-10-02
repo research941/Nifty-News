@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T08:02:30+00:00",
+"updated": "2026-10-02T08:23:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,152 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "258ef09b5a5be451",
+"title": "Laser Power & Infra Secures ₹72.77 Crore Power Grid Contracts For Transmission Lines",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGpHU3pKNmtQNmU2YXIwVEd3MGhaVzlzNUduOEhQUHVWU3F1Nl9BWmxwYTBBeU8wM0pfdWdCem5abVZlNnRVTHFWQVRFeWRXQjJMUXRoY3hPNmNTM3FRUHpUemItYW11R0dlQmtJR20ta3Q0VVVQNHZEZmp5a2g3d0dIYy1PUm8zdHhub0ZXYXlKMkRaZ29PVVM5Vm10TUsxVjB1OGJVSnp1QW8?oc=5",
+"source": "Sahi",
+"published": "2026-10-02T08:20:42+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "08549a567903a1ad",
+"title": "Tecsys Inc. (TSE:TCS) Stock Has Average Price Target of C$38.90",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmFLNFdrcXRmMFcyek9BTzlqelBQU3Z0a3ozVXFXSzZmYXJDWU1HT1o0dWVyQVB6VVlDZ3daa0JOYWlLN0dsX1JhbHozTThMM2piUDJTOFp2UzZ0SW9vXzZGMVREM1VNUjYzeWtNU2VzOUc2WWRmX0laT1VRU2Z2ZnFGT3VGTkNZb0NjcHg4N1FQd0xkRDRMdzk0dS14dUk2MThJLXVjMThQYU5COG0xUHM1VTdNU3hIWERLMGJNUQ?oc=5",
+"source": "MarketBeat",
+"published": "2026-10-02T08:18:57+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d54db4e616ad80ac",
+"title": "Pranav Adani says Dharavi redevelopment must put residents and jobs first",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE5ic2k2dF9hc21Zc2pfNGNqT3ZkNVNfbm1iLTQzWXUyejVfV1o1a2FxN1ZhVVRYSHQ3VlNTLTRHbzFnRXN1c21SWkIzcXJsTXpDaHkybTN0Vnh5RGxndkxkZlNUX1NPdll0aUF1OUV6V0tQenZiV2NsUVc1VDFDaDVweTFOaWxCek5ucnZiaHhuVjhRN2N3Qk1sUWpiXzJpMVF5Y0FGRWozbmQyZjU4RDJOUDdCYXVTTWVua3AtbV9xeXphSnVxM1hlONIB0AFBVV95cUxPNHl6SlExR1RZWUxJRHBwTmFzYkJHTU9WdWd0a29nLWFUaWloWnYzYXFNWEdISkJldXRvbVBnZGZQc2VtSDNJTF9NX1JkbVVWNDI4ZW5LZjdfRzVTV1JoUGFyVFVVVG5LdDdpZjJqZGV6Vkl1VW5tTEtSV29TR18zX2hiY3Z0M1dZeU44NkYxQ2RoWEo0YTNmWmswaGFqQU5tQVowRjFZWGgtQ1pEcV8yMnhQUTk3cTBqLTczSll4dHI0Mll3dTgxYlhtQ19ycFBQ?oc=5",
+"source": "India Today",
+"published": "2026-10-02T08:13:30+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "81c52429ec5567ed",
+"title": "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdEtZSkNRYkp3UzJGNkJ2Yl81bGlsUnVodVY0dVdJdUhiWnYyWkpwWEhtRHcxYTFGT3JwWTB2V3EycUVsbE5WVFpXQW15U2hsMWMwa21mbmxHODRobmpnQW1hcmhOejVrbFJXWm1OU0lrMld5OGg5dXg0aFUzTnZzN1Y2YjNWVmgxZEIyajh6N3dlOFAzUjBZRm9aWU1HaVJXUXVCclNlUUlHbnNSeEFHT2UwMnpwVkhPX1dad1F2ZmZRdFJnZHRBVXRYdjIxWm8xelJuZjVGblhzNVBDcXMtenBsdjZvZlI2UHdLQ3ZNNDN6SjduWXdJ0gH8AUFVX3lxTE5MUktJdGoxU3c1S0E4NjhJaHo1V0Rwb3BkRUFIeENpcXZpR3dUSy1PbGNtZ29IaVFNTnNrb3V4ZUxfNmFnWDBONkZyUUVmMW15a3hBcVFZdXJfcGdpSUNJVWRZRWpqcVVUUFIyOEh6aWhxZ0pTV2RuN3JmWXdkT1dxaUN2aHhqUV9OczVPYXZqY3Z6WTQ4X2J2WUFrS01kUEJpUzVLa1h1R3FmZDl3OWZ4dHZGZUlDSmpPalJGdm1NaWNQbkp6b3Q0a2NKSDhSSDdscXRmeUd5SThGd0xBVUtiaTdKX3dEMVN2TEtHZkhLUkRWdmFVZ2duVWluVQ?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T08:12:19+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7690890f88ec7728",
+"title": "Bajaj Finserv Approves ₹5,800 Crore Subscription To Convertible Warrants Issued By Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdNdzRUc0ZXR1VtYnhnRzhrcFlTVlpoU3VxdlA3LXlvME1wTUE2NkxMNTRXcWxzUWJRakgtcXB5SU0ycU9ZNmNMZTRHNnVyYjBScVlvUm0tbmpoRTNJcFBZNnlxSmpoRFFUWnRVNUxnNnk4NFFuV1cyeGtPNEljSEdLWmppRG4yVEkteUlQVDhqT3ozY1RwQVVIY2NCNFhjSVlJR05lUlh1X0ZDSEhaaVE5M0JEOGU4YjVOLWtB?oc=5",
+"source": "Sahi",
+"published": "2026-10-02T08:05:39+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "403e17f1577ed42e",
+"title": "Bajaj Finance to raise Rs 17,500 crore via QIP, warrants issue",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVG5jREVIYjh6VnNtV0ZYU3BiODZBY251RWpzYmc5UVdIZHdFM2w3TXMyZmEydm94SFdaNXNBQ1dpWG1fanNQN291UjdNT2xaMExTMWF1ZkhPSkRCMmxjS0hUQ3l4dVQ4eHh2NmlLekNGUE9QN2dNcnZ1NERyVUVQVHNkeXZEX2I0eXhTLTU3cGpGdTM0RzJyeFVCNU01LVJQbzd1SXV1NkRWQk9YS2JkYkkxS3o3SDlSMjlTSUhOYS3SAcYBQVVfeXFMTVVIWWZZZTFoMU1SZkxNMXY5U1NpeElIOWx4LUFmSkVTRTRaVEdkR0RQa1hrWlUwWldfNmlRRDh1UHM3bldXZ2FCQUhRTDNLbHR3OXkwbmlGazYtdkE4c2FuVHlkdG1FTU1UTjAyQzFtVTFPb1o0aUJCZXo2bFRjN2VVamJqaFYtV3RsVzdNVUpaVlhkNDlyVllRR183V0FVakZzZGp6SEttSW9QUS01bDQ4UkpmV2cwRzhUdVYwdk5MWXZMTy13?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-10-02T08:00:25+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "40968fb83eef6ec3",
+"title": "TCS, Infosys, HCL Tech, TechM, Wipro, LTM, Coforge, HEXT: Fresh target, Q2 previews for IT stocks",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObm9lZEhyZzVjTktyTUVKTlpSN1BrNDBHMGxjbVpoYUVWOElsRDJtcnp2RkhtTGFzLU5nd1A3S2NzaG14V3ZhTkJLVUtMdG40U210ZXdwRUNldWNLSW1EY1JzMlE3MllPeDJPeEF1T3d1eXZlWEdHQXdwZjh2NXJLR21BbE5vWjEtMGdWZGhBaE8zU1J6RzJyMS1kVTBXLTdnOEcwRkFEUjd5TFJTenN6eEFqZkVUdUZQYXlIa29ONEkxSE1QNmJPX2lJRXFGNzhucTFkMlpKQ2VpdXR5bDFtbG1hbEN3Q1VwT0k1eWtpM3JNZm5QMGRJcdIB_gFBVV95cUxNVDBfdUdkVWFzc1EweG5Bd1UwWkpOSnpVdFdITWdRbFlyLTl1VGczRjUwMFFYcDF6aHQ5YTBmWGdmWDBiSlhkYU5sOFpIV2k3YlgxNHU2Rkc5MkxaNnNpV2kta29za2stcnRhMDJJcmE1N3VrVndIQ1B2UW1DMXJ3ZmN4X0VKWlg4SlhYYWQ2UTluaVc4S1R2LVFESkplTFc4Ukp6YzVrMW9ScG83ZWo4Sl92MkpLN08tTWNZa3NiLUEwRDgwVzAzTFhMcEdsZzlrbkN0aFhza0tBUWQ3QTVjNF9iMlBqaU1RUnZEVUxZN01FWExnZE10bkNkZFlpQQ?oc=5",
+"source": "Business Today",
+"published": "2026-10-02T07:50:36+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5d39077bfbd2011d",
+"title": "Hydro One (TSX:H) Stock: Ontario's Power Grid Monopoly Keeps Lifting Its 2.79% Dividend, Just Don't Expect Fireworks",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVN3N18wb2dPcTBMRjBWOUc3VHk0eG5ubUluQkIwYW1kZUVmNm0wSnoyS25SX2pRVVlYUkpETzB2d3A5UUMxc25OMkM1aFgzOTR1cG5jaGx0RHkyOFNfbmxEMk50Z1k1RjJWVG50QjhrWms2ZHI4ZXJ4LW9sNk1vbDFkMGpfVk4ybnZsQzQ2cUVqMXUxSG5sd0IyWmJ1SXFoUXZ0X0g0a04zVVBaZGZ2WlNHOTRLVWxjLVlLWVhvbEhwS0ZoR1ZqNUtNVDRWS1ZBMnNIRVppcGdaTlNIa19hYQ?oc=5",
+"source": "kalkine.ca",
+"published": "2026-10-02T07:50:00+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
 {
 "id": "18939651862cfc29",
 "title": "Dividend, bonus, split, buyback, spin off in October: TCS, NMDC, PTC India, JSW Dulux among key corporate actions | List",
@@ -531,6 +655,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "b17b5be0554c4cd1",
+"title": "Maruti Suzuki registers 41 percent rise in hatchback sales in H1 FY27",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWJZUEJTMGtXUXZpY1ZpLXVfVjAyYjhIWFh3OXNoXzRaMFFWVzU4R3p3d3U1cE92NnZDV1Q0Z0NibmVKeW5Ic3cxQW5IV3IzVzJrVUVfTXQxNnhEZm16Q3JVekI5RDVrRzFlX0M5Q0cxYkhsUC1scWRNRzhSUXdOYWpOLVFnNzlRN1dHX1FXV2YwTGJ0RXYzMDFHeUk0M3NGbng4?oc=5",
+"source": "KalingaTV",
+"published": "2026-10-02T07:32:25+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "4f3df8e881f378b8",
@@ -2827,6 +2967,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10998c4f173cc237",
+"title": "Kotak Mahindra Bank names insider Anup Kumar Saha as next CEO",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDM1RnotYTd0MmVuLWVkN2pJQVVvWW5KVzVyZ3ZWNVlxYlpHNmtaWnRXLVRYM0hoNVZtMmp1bENWb3FFVUtHNW5OeFJ2NVQxNzExaGN5cmJmMEZLTU52d3lQQk9wc3Y3ZWdvVGlDRkhmOWhhR3B6WTdMM1lUbzctX1JvVQ?oc=5",
+"source": "VCCircle",
+"published": "2026-10-01T20:47:41+00:00",
+"first_seen": "2026-10-02T08:23:35+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50701,177 +50859,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "f71fa27342021d1f",
-"title": "BSE Share Price Falls 2% as SEBI Weighs Self-Listing Panel",
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRzE1RWJCWlVBcTIwOFlLQnRoMG1xc1pWMHZpa1RhQ2Q4OExRMkROclhoczZvVU9CMkRXXy1vQkU4VGJnNm4xT0luMU5nNjN3RlF5M0VRSVFnMGc5RVFac1JXenJoVWFrMUgw?oc=5",
-"source": "Univest",
-"published": "2026-09-28T08:20:00+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Regulatory",
-"Corporate action"
-],
-"sentiment": "negative"
-},
-{
-"id": "9e154eeb8e2b5966",
-"title": "HDFC Bank CEO appointment nears: Jefferies sees 3 execution triggers that could drive rerating",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQXZaeFVVUnAzclliRzBLMEM1TU5ZcDJLbnpJMF9IZVpuRGNUa2xrTTljMGZLV1QtV3pDa2ZLQmtkbGRoVjVCb2ZPSlp5dmJpbGpzSnlVaVRmRUpIVUV4Z2xxdzROR2tUQzh3V0pHUFc0NVV5ZjVTX0lsNVRDb2poZndVZXh0U3BjUy1YUW5ub196Ym54dFA5QjB0UTY3V0JXVFpzMUY4c21WeGlWcVVMdmtCNFp6ZzkyV2xRVE82YlYtbDNtSFk0cVhjYTV2MjYtYnppM29QaTVMQ05oQ3c?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T08:19:13+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "74d6da9ff7b8097c",
-"title": "Bombay High Court Quashes Reopening Notice in HDFC Bank Bad Debts Case — No Failure to Disclose Material Facts. Section 148 notice under Income Tax Act, 1961 set aside as reassessment based on change of opinion and lack of tangible material.",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oY1MwNE5rNTgzb2VVdTg2aGJwOS1zSzFJazMycVl4OGRNcmVqSzdSZFR2ZnNqclFrNmM0b3ZwdGFCSXBkX2RTV0dFTDhUWElZbjhLUEtOeE9EVF9QRTFCRHNRLXR2RWFo?oc=5",
-"source": "Lawtext",
-"published": "2026-09-28T08:14:22+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4394b265f69fae43",
-"title": "‘Wide net, big hammer’: ITC proves popular for data centre litigation",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNam9hMURKZGd0LTJQMTFuRERwNG10TmVhUzhodkV0Z1dGUVpnRDJmRjQwOXdwSTBHNkpiQU1LbEg5Q3lOXzVrZnJnLUVFQ0dINk5LTDlOaWd3ZFBYRU4xcFgwanhUNG5pLW43N2loSmt6UWJmRElIcWVCcG9XT1loTXlNaW1UUUxDVW5tMVhhSGg4MXVwa3k2RDV0R0twOEZpZU1aSFlyV29XYUU3YzFJUC1KSzl1S3NZTzAzdGVYeElZakpkWDVKVnF3?oc=5",
-"source": "Managing Intellectual Property",
-"published": "2026-09-28T08:10:14+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5b715a42b3924be",
-"title": "HDFC Bank, SBI, ICICI Bank Fall: Rs 83,500 crore m-cap wiped out across bank stocks — What's spooking investors?",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXhudzUzbGlEeUExeDFjeVp1NmQzd052LXRBeHNpSWxKdW5fX0oyMDF2akZCdHBxdFAya3pxVWstMVdBSFpYOG9FVlIyamR2X3YzYjJoa04xejhjcVlRMVVXZnEzSHlYcHBwcVl0RmhEcmdKV0hBSHRMUnVCdFI5NFVWOE82S2owT2VjNTI0S2x5elZjcEJtS3pIV29IVnB5Q2kyc2RiaXJRUWlKcGRPZk13MDN5R0lMZDhqTDVpQW9teHB1N3BOYjFPTkVaWXBGeDBmV3lGRTlvREc0X05QTWdkalpidw?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T08:08:04+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"HDFCBANK",
-"ICICIBANK",
-"SBIN"
-],
-"groups": [
-"Banks",
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "986e579d0dc2dbb9",
-"title": "New Maruti Brezza vs Kia Syros: Which Compact SUV Offers Better Value for Families?",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVZObHlBdDFoRTdzSzhFdDhZeDdRVEUzUGtlcEhtbXZSZkF3MGdWanByUjJieFhuUnp6ckRCcUFDSEpydGtjOV9yUl8wT1VzajcyckZvYWo1YnJnNW1UOFRJOHNKeklQck5LT1cyMml6alpqNlV0LTNNRU1lVDlodlN4cGhOM2VzejJxWWJ6UDQ3RmhJZEFLOTB5QTl4MTJHMHZTZjgydjdCMmFfYVEtNTl5dGs4clFncGw4UHhjSFlNNFnSAcsBQVVfeXFMTVBIUV95VEdVb241cWQ1d1RPNkl3d2M3ODVNTERPcjVFTWFTMkxid1ZDdVBrQlg0Y19sSDRNSTlRU2Itb1lpclE3cC1OMjkxZ2xXZVJ6SmhsYlF2R3o1N3lQNEg4TTl3TFNjendmUlNhNjB6MUxDRENTdmFscFZwOG9rTXY3YmpsM2NYRWlFb0x3QmxpTllmYlBNRWtHcXR5Q1lwVk1EU1c0RnZfbVdMcnhrbTh3Q2dNTllROXIwS2VtUWhMTWdfUjR3MmM?oc=5",
-"source": "carandbike",
-"published": "2026-09-28T08:02:57+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01502bfc96c7354d",
-"title": "Jio Financial Services: Turning Financial Fitness Into Financial Foresight",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzdKNGZPbjl1MnZnQU4zem1ENEJZWHJBQ3JkUGdLSHJkRDR0U2tvTHREWjhUQWVQWWFqRkFrSVNjN1ZHX0Y4bFpOMEJRb2pHUjB6M3lQR0h2LTBqOE5JMG5CdURYZndHLTVIZ1p2Y3ZIcXY2eE0tbjRFQVNLVXNHUmVxbEFXU25VcThWVE1MVXEwZWZSNlB6QjRjWHhxSmNLM1hYNTFpdGtidWluWERQYUQ3aElaWU1QQm5OZWZDWnRuUVowU0trOVJJWVTSAdIBQVVfeXFMT3N4QVVIekxLN21SN3ZjZUFLdlFWRTBON1FaWmhwbHYxaVR6cEJOdjdabktJZXVtdVhEZGJIVjBHdTdZTEV2dHRkV2VwMVhvX0dmM3U1c3k0bzNsTUVOM1o5MkVZV3ZuVnU3cnFybllrLXh1ZGFOdk1PTHo1SVl1T1hCaEhLSmQwQ0dmSUh4OV9VVEhxQklZN2FDX1R3U2xodldjdDA5X1lIZDY2LUMzSXRlNkZ6Xzg3Z2prSzE3MUg5Y3k1UXpVaEhMaGRtd0ticVJ3?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T07:58:09+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ce5cc462a8cbca2f",
-"title": "Sun Pharma gets global rights to cholesterol drug; enters $3.7 billion PCSK9 market",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT29jZTZWbVRCWXIyaTh3YmpBbExvWk5oQXFqWHdJUXc4OFJLYV90Skhia1ZfajFYVlUyM0hOQzFnSENVZWtsZFBCaVQxTDVLWlFIeXhUT0I1ZUJnQklTX3d3dHhTV2J2NUhybXZqLUZfOW5KNGV6bndfOTllSTBzNGdrNGxTYmtoeUtFbnVvUnlxbWVOTzQxYnJEaEpqWHpDdkZ5SEZvenpoOTF6SF9JX1NiT29WZC1RUDVYanIwOEltcm9wTV81b0h2Tkc5dHFMSUhEUG9OWVlieWhLZTFv0gHfAUFVX3lxTE5Pb2NlNlZtVEJZcjJpOHdiakFsTG9aTmhBcWpYd0lRdzg4UkthX3RKSGJrVl9qMVhWVTIzSE5DMWdIQ1Vla2xkUEJpVDFMNUtaUUh5eFRPQjVlQmdCSVNfd3d0eFNXYnY1SHJtdmotRl85bko0ZXpud185OWVJMHM0Z2s0bFNia2h5S0VudW9SeXFtZU5PNDFickRoSmpYekN2RnlIRm96emg5MXpIX0lfU2JPb1ZkLVFQNVhqcjA4SW1yb3BNXzVvSHZORzl0cUxJSERQb05ZWWJ5aEtlMW8?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-28T07:55:48+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c889747aba6f4fd7",
-"title": "State Bank Of India Share Price Today Drops to Rs 962.5",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjU2VFdodkx0ZUdmaWFUaTdIWmRIWXNyOFpjdDYyRlg3bEUwSnpBLTFvTjU3NXVDR0ZuZzZyaGtabEFKc2FULUU1MjBXVDVsN0stenBWMkNVbGdZVkppMGxtYVFzRWNQUHFKay1kUW9TcC1FN3BDdUtMZk1acDVYM2ZSUWNaczhFU3c?oc=5",
-"source": "Univest",
-"published": "2026-09-28T07:52:54+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9e40d56a09252162",
-"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for Rs.2,498 crore | Details here",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTkJNOWxIVGpSckZDRE9FWkI4Yk1jeXA4VmtIbi1wNDRZbU1GS2VZbUNZOEc2dnRKTTF3azJNcFBtRk1DUnFFaWRrUThMeVJtNTZBOFE5ODIwNVpOTFB6RXBJZWpKd1ZKUjhnNE5DMDJ5V1RkQW5CZnBvR2VpQUhMMWRhN2FVdUpSdkc2WHRKUG11LWtlQUU2QlF2RzNFS2NfaVpSQ1FFdzJaRV90T25HeDE4Z1ZDQmNCMDkxZXhoSk9KUGNodWhOZFc1V3RLNHFhdnlfNV9zOWRKS2ZqSndST0lkOHJwd3dicGhnczVqS0VDSWN3T1VMYUNydw?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T07:50:48+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
