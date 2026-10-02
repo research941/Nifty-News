@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T19:49:36+00:00",
+"updated": "2026-10-02T19:59:33+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "949be3086c736fce",
+"title": "FDA cancels drug sale licence of Cipla in Pune",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2UyQUVjeE9ZUm5ad3RFQUlEMEd1Z3N2Q3BGMHpLX0Z3Wnhpa09iamlmRUF4VzRxVUhJeUJ1SG9weWxxM2Fja0dsdHRLc09jQnJpc2JmUWY1RDZYMWhhLUVGRF9ab2hVbmh2ZXA0WURTa09Lb1YyeldGUW5IVlFQU3laczhLSGV2ZkpmN25KZTdQeGJW?oc=5",
+"source": "thehansindia.com",
+"published": "2026-10-02T19:53:07+00:00",
+"first_seen": "2026-10-02T19:59:33+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "5437ec956933805e",
 "title": "HC upholds rejection of L&T bid for Jewar link",
@@ -4291,6 +4307,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "de7f0b656f813dbe",
+"title": "Infosys Pseudocode Questions For System Engineer 2027 | infosys system engineer preparation",
+"link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xanZ5VGxneGhCTU5FUHlsM1NMZV9samZWZkRlTnpJQmdzek1qSFp4eW5JYmZ0LXRYVDBOWTFQQ3JvQQ?oc=5",
+"source": "YouTube",
+"published": "2026-10-02T07:49:28+00:00",
+"first_seen": "2026-10-02T19:59:33+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50887,42 +50919,6 @@
 ],
 "tags": [
 "Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a27a6c80814f499a",
-"title": "HCLTech arm HCLSoftware to acquire Croatia-based Robotiq.ai for 9 million euro",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzNZb1Z3cWl5dk10LTZNXzBkbkdGSW4tclRyd3NJUnpwaE5lUkw4MkNzMFFZTW9NcDJxVG1oajRQV3MtY2ZjUnpGSXFScE9iUTNHcUdZbU5JY2VYX1g1ZkoxdndnQm12LVFWXzcyT19OZG9WV0VSMzNualVIRl8xOTlKWHNRQTR0SXlNYXg2c2NjX284TVByVjI3YVJZUnpMX3ZIcXYtNllzbFBFRzhSUnFIbmN0UzM3LU5tSNIBwgFBVV95cUxNemxMeEt2OFYtYS1UYV9udDZ1X05LbmdNa3pWcm1scTFpam14ODNWSGtPQnVNdFNfZ3MyTEdVQUFPN0Z4S1NoTXAyRHB4andrQWRyU0ZlazBqbkU0cEJlUGlsM1VwbE9YQVoxd1N1TUl2Z1ZLSVdXcWpwVmVSQVQ2Q2FnZU5LRXpuNU1RQkN3aTNYX0paV0dDTFp6X2lmdEc4TGN2TkZLNlc5VENzaURHemtRRWVrU2xUVXJnUFpxZklGdw?oc=5",
-"source": "ABP Live English",
-"published": "2026-09-28T19:00:01+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a136fb6503badb40",
-"title": "HCLTech Expands Automation Capabilities With Robotiq.ai Acquisition",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1pGb1N3SS1jdlVrSlZ2ZmRkRHV0U3hvd09nTDlZckVxLVQ0em80RktqWWIxWnE5U0VCU0pZYWxEZFh1VC1OTlNWemZGOGxxcUFLV3A1aFFmZkJRSElQWDR3UGNCUzdhX2UweHhkc3QtbUZpOUdnd09aSngtdFVOUjVRaV9IWndSY2QyYUp3TXd1NkhwR2hOX3A3RTN0MFNBZDNr0gGmAUFVX3lxTE5iMllPbkpGd1J1Nlk4R2RuRUlzdnBzNVVpWUhSN0FlRWtMLVg3OXVQblo0OHhVZWxQb053SnctS2JBV2xZcWZNWlo5SkdKUFBqODhmZG85ZXU5bjJmZmVpUW5SYVZTb3lKNUd4UjhJYURNY0RUTVlZR3pheXY0Yk1IM253TE4tdUh6LThCNDRqZWtyU2NZX1BIMUx6eGMxd1BScHdqSlE?oc=5",
-"source": "rediff.com",
-"published": "2026-09-28T18:54:40+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
 ],
 "sentiment": "neutral"
 }
