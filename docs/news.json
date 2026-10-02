@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T11:04:50+00:00",
+"updated": "2026-10-02T11:18:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "6fcfa9194105f707",
+"title": "Tech Mahindra Q2FY27 Results: Earnings call scheduled for October 15",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlRTX0tDME9WQTZyMjkwQnUyWXZCSzUxaFBuN1EybW5ZUmExY1RsMlhlV3JIQ0VTTFZJdjlQRWdyVURYckd1akNWSG56RU96UHhMemFnbF92Q3I5V1F1QXJ5bEVtU1NMTlZ1RmV5VzRmVW1LSmI3MzNNZU5IWUVqLUlkRDhsXzJjSGd5OHlfLTNrRnMzaGJqQUF6dWhWamRIcWRSTG5mOG9MR0Z5ZDR4R2RJS3lzWUJpQk5aLQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T11:17:53+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "de10f0239231f942",
+"title": "State Bank of India appoints new Bangladesh country head",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXRVOUVBdG8tbHRFQ0d5N0NaZzFvQmRvek9QdHJtZXo0YWMzQ0ZVVTEybGRvZ192eWI0WHU1Q1JweWpYc3RkV2FkQ0tnRnJYZHI2QzQzYXgtc21UdzlHOHB2emlYOGxqWG1IV3NQdEI1VTNkdmFFTU1FdTVyUXhpTmthTHpsekgzQzlqWGdWRXRhMjR4WnhZT0VIZUZNUQ?oc=5",
+"source": "The Financial Express",
+"published": "2026-10-02T11:07:42+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "454942ce8e5d0c0f",
+"title": "Tech Mahindra & Infinite Uptime Join Hands On Physical AI",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1BjMnVBc3BmaWFtdm95bTNvWVhIN0ZBQWgyNElSd1dhUVkzRGtPVGowMVNjWnJONmw5aHllcGhPbklfSFpMUkxRTURZc0tKYjI4QjVxWmp5MUR3TG5meERWTTZVYjhWZjFiblE0ZXdXbmo3dE93LWNTNmliU1JBMWRpYWgta0YyUGd4NzBtRVU5dHJ2d3VpbTJUa2NZY0E5Y3FlVDZYeG5VSFI1UXZFUVN3?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T11:01:21+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "71c0aa50052eff39",
 "title": "NTPC Nava Raipur organizes Swachh Bharat Diwas-2026",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMEo2LTVOZW1OSlMydFpvTUlmQnA4MHFiNEhDQlYzd21MM1lRNEpMcGZuTTI0SUs0a19hbHlKUFVSZUZVVHdLVC0wdEFIaVVoS09vbHZHS2N2VThGb013NGtrVHI5bkk2eV8wZnZHangwVEtOUURoaGJqaGU0TmZ4T3BMNA?oc=5",
@@ -836,6 +888,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7305ba2eaa50b67f",
+"title": "Wipro Completes Alpha Net Customer Contract Acquisition to Expand AI Services",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHVQcjdjbTZRODc5Rm13QjJTLXhFMXc4NVFwNUpJMFpQY3NqNV94S3pKT2M2ZmFhbW9aRGZJLXA0U291NDBtOHZ6MEpydWVmWVMzMFlsM19SaEFlTW5Dd3NTcmtOZFJsRHQ0bC1OSWUyeHFNZ2E4bjFNeE9wY3RqRVNPN19HNGtaYTI1bkxXeFZPMnh0bWR6STY5WHFPa0N4YTNOQUNsYm9qZ1J0NXlLUmZ3?oc=5",
+"source": "konsulteer.com",
+"published": "2026-10-02T09:23:57+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -4156,6 +4226,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "37e013dfda831adc",
+"title": "Infosys Ltd,Infosys Ltd LIVE, Infosys Ltd price NSE, Infosys Ltd price BSE, Infosys Ltdprice today, Live Price today",
+"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05WWQwRTdxXzljNDNHR0Vsd0JOank0OS1NZkVLSHpfbk5NVUVXWUZNM1dyNHpOYnJacXBSSEFneHZpQ2FoenJSdnRTemFuWjJ2a1lnVUQ2WGVZV0xqMXMyZA?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-01T20:37:31+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "78adaa815076bb57",
 "title": "ICICI Bank Flags ₹229 Crore GST Demand in Fresh Show Cause Notice",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelBFSHFoazBCb2N6S3FTRzdranJTNkF5UGtFVHVMYVRHVEZWX04zNnQ0T25qNmM4Y3FZb1VEeU5ydjIyWmw1TWxVMF9JQlNtUDVVdkhKWDBGdEl3RlR6c2h5dVI5QXBxclA2VS1pcHpsLW5VMVQ0cDllVmkwY0FkVGNqaTNERmlBQ1lhamZsLUdLYjl0aUFPSGRwenJ5cEFROGY4dG9rUWNtdFU0a1A1dHhIQVhPdGc?oc=5",
@@ -4361,6 +4447,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4f8840130cc6097b",
+"title": "Jio platforms IPO in final stages",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLU1xOHdZM2hpRzdhaTFQYVRuaWVvZG14N0R6Yy1MVFFDeVFfQ2hiSzIzUzhkRU9XVV9pdDRLVm50Y3RBSUgtT0FNbkt2ZnlYZnM2dXJDVGxkN2g0T1hnejB6Sk4zRW5YWEI1Z1VuNGZheUl6dHowNVFPcVBQMUlQanpSTXpybUx0ZXRJ?oc=5",
+"source": "Pioneer Daily",
+"published": "2026-10-01T19:27:35+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -5996,6 +6100,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7c91c01c6a04946a",
+"title": "Second Hand 2018 Maruti Suzuki Eeco FLEXI GREEN for sale at Rs. 2,85,000 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEJjbk5LODZpMUwyLWlybkNCanVUbllFeVBCbmt4WFI0YUNhNzVvN0kxY21kbEk3aVRPSmcyUmlrclRPUml0RWl6MzRMdjVQcHlYaUNuc2dNM0kzdFBjWjlNdzgzWXFBNDJaNTAwZUF6YmZaa1RBalZTdV9oblgyZ255Yw?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T15:32:50+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9202,6 +9322,25 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "d51d24fbd6ab1588",
+"title": "TCS Q2 Results FY27: October 8 Date, Revenue, Margin and Porsche Deal Expectations",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51amhCNFBDTXBIU3JySndCbEtGM2liNG1CSkU3YTM0U1VWaTZSSjhtYWNJTy1GaWxuclFUTFQxNXhkRkxPY3lNUDd1S1Z1aThlb1RCSGRYcC1laHNHUWxZck1lT2UySGQwelZZZkE1M0VpbXlfT0d2dGxEdHFKdw?oc=5",
+"source": "NiftyTrader",
+"published": "2026-10-01T11:53:19+00:00",
+"first_seen": "2026-10-02T11:18:54+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results",
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "65ebf8bed6472419",
@@ -50773,134 +50912,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "d93740cc07f12456",
-"title": "Maruti Suzuki India slips Monday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlpxUGY4bS1aZmt0V21uOHBuUW9mRW05YklPZHBNdGlVZ2VzbzRieTlRUTJDRExXam83VklDVVVMbG5xa2Q4cFh4cWpJSW1TWEcyN3hYajMyVGt5ajNZbW1YeFV4b2NrTDhKUmJ3cFlRTnNWeUdMVEF4bVRNN1Nxb0FRd0pHV08zclhTOXF6QjFKSHZyM2dheUNNdHpzTXNaSms3bGVReE5GemVuRjl2WWZn?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:33:00+00:00",
-"first_seen": "2026-09-29T07:47:31+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "5792429a859b379c",
-"title": "NTPC falls Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEZpZEg3YVlPSG5OYURmQ1hJa0FmM0xWakxyRlJRVGIyYW9QVjRhZGlXX2F5QW1pbFJNaEVna1RmMDZ2S3ZEM2VGQ2I1X0l3cURVcHRGWndDVlNYeXZUOFlXQ01zSFFxbDhQSl82TzJma3hWcnk3RkJVZUE2TmxYMXFnUWZ5QkhoQV9tcDRORFBaMjNGX3JUZWRVazNjMzhE?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:33:00+00:00",
-"first_seen": "2026-09-29T07:47:31+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "2f2e4652575c6066",
-"title": "Bajaj Finserv slips Monday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHpHRDdoNm5zZWtBdGlmTXhKWDhzQ2g4MEJGSUN3Q195UHhPSXdqNGZLdWhpSWhDak9ncnU4MWY5YWN0ZzZUd1hjZGVocWk3TkZVM1QyVEhiOU15LVRLWnR3bVI4Q0FuOUVlUjVtR3h0dlFyeUM1NHMxNkJQMEEyRHY4cEF5ZnhXeDc4ZUdwR3NDV0ladjlGSDk3LWswRHByODJDSmN3UXRYUQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:33:00+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "0ae35cc8bbcac961",
-"title": "Hindustan Unilever slides Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGNGM05zUlNMeXpjVDJ0RlpkaDZsbW1FRmFjNE5jVGoxZXVVTjQwckZDTDd3QWxUM0prSUtDbXMzbDJ4WDg1MXdlZ1BQbFI2LWFESUhINU9JQ3VGZnlhUGlBRkFvbnVsdDJXbFpPZ05vYkpqenVRTHJIVkRoOUNHMEMwc1hXX2ZieHJJXzBJb0V5aFVTZ0dHanlqX3VKUDRaajQtUF81X0x3ZkN5UDFUQUw0QlZwdUlIaWlvNTRsR3hZR1RmT2twSHU2N1I?oc=5",
-"source": "marketwatch.com",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "a7be6a4429121b46",
-"title": "ICICI Bank falls Monday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbC15N0V3SmtzMUpkM1FQTS1JNzFyWjBqU0NjSDJtWl9oQ1Z4Vjd0TzlTWkhQQWFaZXhnMTAtUGxxZnhzZ0IwMmZ5dFR5dE96cVVPa0dsZ3lRci1lNVFvSTgyWXd5OENOdnR5OWNWUGlHSWpsMkgwSEJLaFE3WVNFQnlOWEFNLVR0YUt6ak5LY2w4MTJxUEVOMS1vQlloeThCSzdFZXFON21pcF9VbFdQY1d4LVVBdV9reU03T0plUQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "7728b4f965095b82",
-"title": "Wipro slides Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9EUWxtMWtVQU43ZjhtcEN0enlXX2J6enZmRlFELTRqN0JZVW1mNFFLVWF1NllTT25OOExRWmp6VXdjZjMwRThOY01Vc09aLTMxanVhLVlWd193cmh4ZkkxbllsSzBWT0lmTC1UVjl6ektWSHcwTXNMTzNnU2hlcVBLXzhCR3Z6X3RNMnBYMVczWmhEb1VQcVRjMlJIbF9ram5aSzRRRk1BblhlS3dUeUVpOEt5VlJTX0Vj?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "7b52532863026f7e",
-"title": "Nestle India falls Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjlQUy03T3RUWjdJbzZ4bzFEU1h4VTlYbHNfSG1HZy0weVZ0bVZfUXQ0b0FLNlBaTEt3ZXB2NFRENzE0aG1QdHNnZlJFa3R3dHRtVjNOWUUyVUFoSkVlbXNnZk0yblppLWVnSFZ2ZnlXNXgxMHFPSVZNWDZPNmd1bEo4Z25mNGZqMTU2SVBDWDdVNkw1aU9fYl8zdUdTNFhKUGRCUXRsZXcyNF91MGJrV1hoV1lQaEQ5QkdCZ2NINlF2VVpMQ1hR?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "769ce8c44a3dede7",
-"title": "Sun Pharmaceutical Industries falls Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFN2Rl9Damg4OWtNRk1HZ016OHdzSUV3dG1RbzFweHp4bHZBUXp3emhoeTFkS2NWOWpjVHZ4RU5VS1FjZlQ2R0xsbHNPdHExSktYUEkxNkhZRFF6NVBEUUR4WTlxTnBlZS1taFdvT1NRM1ByQ3FuQnpxcEg4XzRsQllLNUtNai1EbDdOTllFd1dVa0JvX3dwaVV2Y2swSl9yTll4WDhlWVZNbGoyV1NJT3VSR0k0dEc2MjZfQkdudzdwUQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-29T07:47:31+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
 ],
 "tags": [],
 "sentiment": "negative"
