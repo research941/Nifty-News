@@ -23,6 +23,8 @@ jobs:
         run: python backtest/supertrend_setup.py
       - name: Run backtest (EMA 9/21)
         run: python backtest/supertrend_setup.py --ema
+      - name: Run 5-minute momentum scanner backtest
+        run: cd backtest && python scanner_momentum.py
       - name: Save results
         run: |
           git config user.name  "backtest-bot"
