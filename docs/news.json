@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T21:18:50+00:00",
+"updated": "2026-10-02T21:33:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "e997df4230d26049",
+"title": "49ers' Mike Evans, Trent Williams questionable for Week 4 game vs. Broncos",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXdJTHIzdE9uR2cydnVFWlFsTXJLcFg3ODNiUEI4MERQV0s3Yl9HX1pSLUhCRFp2bnhVQzRuZFFhSWk0R1ZGUmZZMWczM2VsQm85Q2p2LUMwRzZUWTFGU0hfM1c5YTR1YlhPS1AtSEVtb0hiLURIYjYtQ2RZMWN6ajNseFV3S1dhd3NUNHk5VGdibUg2MnRpeExmMzNhalRkSmNFeW5oU3ZCRGdycTVJX9IBuAFBVV95cUxNZ2RMcTRicHd5bW5mOERMbEZpMzU5Ym9OX3JNOTVBQVFFR0wyd0JqblNpb2tRM3J1Z0VfNjN3RkRfOHc4SHNMSTdPOTNxOTV4eGhnUDhDWnFKM09zVmlGeV9HMll4MGQ2U1RKMzVDLWdBb0sxdmg2R1NJdmc1ZWVRaThSN3FPRkhBZFpWcjZ1ZmV5eDZHMHZVelJSeHJ1bnBCTmFWRmpkY1BoUi1jMS1sT00tUXE3WDQ1?oc=5",
+"source": "NBC Sports Bay Area & California",
+"published": "2026-10-02T21:03:50+00:00",
+"first_seen": "2026-10-02T21:33:46+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "949be3086c736fce",
 "title": "FDA cancels drug sale licence of Cipla in Pune",
@@ -50896,24 +50912,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "3a3505967a985b99",
-"title": "HCLTech to acquire Croatia-based Robotiq.ai for €9 million to boost agentic AI capabilities",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNN2s4T2Z0My1kSTRLa2JuMld4Sm9qTDdZX292cXVRanc2emxkckpiSlYzb3NLLUw3clBBYnozUldycllaMGMtN0ZkZ1NaNjc4UkdKVWlxSlFCb2lrOGZiSEwtVHZRNjh2eEsxemM5VmdBbWFpZDlhOXVGV3NUNFJFcFBtTk4ydlQ4UG52OThMVEhONXJzMUNLU1N6amNHdzM4cUZxNGUyOUR2SkNKX182NzNVb3pKUlJFeFE1TndLNTlMX3FlWFFNQV96NGc1Qjl0bUxlNUFad0VKanhKdFA3U0VFZ21mSVRRYk1rX3h6YW8yMklHTHB3Z0J2TFloWEnSAYQCQVVfeXFMTjZocEUtdE42enBoS0RLZ1UyTWlYc1pKRE53cGtsZ1F0WTV1c0dEUmJxRHp5LWsyVWQzOHYySXVlUFpmdHJ0T2J2MldpMHFuUDB2S0I5bXJBVUh5YmctNXFNbmhteC1aYmRHWm9OZncya3JPVzFkTWRISENLbHI5RkE1YUw3WVlkbjd4MDBtM0wxamJsTEItaVRqZ1Foc2NmS2NULWpNWWNpb2VjRjBuSWJvQ2swd05uSnZYYi1OUDRrTXJnd2tQNlg1Q0ZDcm13LWRPMVQzcG1VVTQ1UEhZUERzTDVxOXM0UWlsdTdIZ1M3eDE1TG1DdThHemFIZG1lTDdfWW8?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T19:11:55+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
 }
 ]
 }
