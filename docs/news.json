@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T19:35:18+00:00",
+"updated": "2026-10-02T19:49:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "5437ec956933805e",
+"title": "HC upholds rejection of L&T bid for Jewar link",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVgzbG5iZlNYbzlRclhKanFHSHZod1VrUHE1RDBqNlQzRnkwZGFwY2xZdHlrcmFYQjhpTzhOaHFJOHRwd3NSWGFIWTVuakQ1NTZDRVJsaHZ4ck9xWXMtZTZXODZkN1JKLV9HT2loT3haQ0UwRm9VOE12M1BkMi1Jd3g1bHlXcjBmM0ZsRHJ6b1NrbVJGRk1pQ3VyRGVHbkNxdXhyaVFXQ3NUdkI2MXk4eUtueF9mOFd6VHZ3WNIBwgFBVV95cUxPMUc0Q21EaG0wdGE0NUNfVWtucDZIR1hGM3Y1VjMwenFDQmh3eUE5bDhqc25SMlVueHRweXNFM3ZhYjZGMkROMTdoenZQNnUwWDItUFZuc1Uxa3Z0ellFbGdDME12dnpvbmVnMlRtTER5VldoX1NOWTF6bzMyMEMyckNFNTJLeEZQcmk0MmFpS016dEwtdUdIb2otMnVOb0pTWFhzN1Y4YUg5OHZDTk10ZDJtaXRHOEJ0QzlDalJwYksxUQ?oc=5",
+"source": "The Times of India",
+"published": "2026-10-02T19:31:00+00:00",
+"first_seen": "2026-10-02T19:49:36+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e024925c2d2ab680",
 "title": "Adani completes projects of `2.6L cr in Maha",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU83V2p3Y1RuYzNuTHVYNXBTS0o2SG9tLTY1eGQ4WUI2aG00ckt6SW4yaDhwNzZ4Nk9HcHpsUktGWFBMQ1cwY1Z2eTh5UER5blJ1MnhGYUw3MlRuUU9tUTRjcnM5QTR2MEJsUkctXzlvLUVfcHViYTVwa1kybFFNNi1tTmM2c3V2eUR1YS1mV0MzUdIBlwFBVV95cUxQRFpxZ09GMWpxMVNqNnJNcXZnMXFDTVlFQWJHc0ZDNG9MM3pfUldZWXl1MkR5N0ZLOGVQeC1UVnV5OEo4SDRuWU1WRkw1djBQYS11eVI2bXFRQ1BzLUVKM3NwMm0xdWJhN3U1Qm9JZU5BeFFUQjVxYjhxOXRieFhRdGZxc0MyXzBRTkZuZkY0YjRNVTh2RXhR?oc=5",
@@ -748,6 +764,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "89b77ffb572d2469",
+"title": "Training with Trent: ATL Beltline 6-Miler",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkFIekFNallNSGN5UlZBX2ZvNS1zblBrZ19mb096ZFRZd0RvclMwRWgzTmlTcEpCYTVRQXNzbjY4RGs2X2xhVGNBX29vM2NCdHA3dUIxX1g2VHlldllNTVNldWZ0WFRMeWYyR0trbk1SOXZvaF9sRnA4emJaZ0JUTdIBhgFBVV95cUxPU2RkeUN0Q3R3U1pJb1lJSm5JdnVMZjkzMy1HLUUyMWhtX0lTQ2ZYc1dEdG5MMldzZU9aVVhLWHF5eWFudFMyNXQwQWwtWkN4ek5tSkNjT1RhUGFKNG5yMy0ySlJ5aGVNQWg2UE55UFFTdWt4MnRubTg1WThHY0g0SzVfRlFXZw?oc=5",
+"source": "CBS17.com",
+"published": "2026-10-02T17:12:36+00:00",
+"first_seen": "2026-10-02T19:49:36+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50892,38 +50924,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "cee99cad8ff329a5",
-"title": "Tecsys (TSE:TCS) Hits New 1-Year High - Still a Buy?",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXlJaXZwVkZodFhHVmc3dTk0VzZUTVBPY0tpOTZhMkVma3ZFVVVBX29qT1VtcnU4VTBnYWJBZ09CNHYzSzVncmh2a2lmZUdrUnFQbmpuUW9zT3NSSk5oOWVlN3daR0FxUmZWZW4wWkVaOVpRSFo4YkpLQ0Z6Z3VKazdBbjRyWEVvTTFzbXFMVktNUjFkSHI5RFJTTlhGcjd6QllsSVFhUGs4aEE?oc=5",
-"source": "marketbeat.com",
-"published": "2026-09-28T18:54:10+00:00",
-"first_seen": "2026-09-28T20:47:01+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ca4f6e0e8f05fd8a",
-"title": "Jio leads India’s August mobile subscriber additions, Airtel close behind: TRAI",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0JOeFNMandWek1IaFhkc0J2TVdKNGZsd3R0aHY2ZVdTTWtpNlFFT1ZrWlIyRzRLUS1Yd21DMjBSakUwNS1fTVRPaUJtQUdiTG9DZ0xvWlk1Y1doVWt0WmhMazVvUkdCNHVTQ1F2cVloMjBLWmdXMFR3dW52T3c5R1NmdTFmS1BrOExCcGpZWUxFeVY1akl6LVNIZVRGYU1iTzNYZnR5dnVkVGxmRXJSRmQzUGRHeHUzU0JTUmhkT3lILTJPVXpPNlJPZ1FMWW83M1FXd2xoTC1DWVhfTFlidU9NbDBKVHc5NUZfbVZmSTBQSWJtZVVGVS1zMVNwd9IB9wFBVV95cUxPMVluNElHdWROcl9KZi1tZ09TaGVRNlgxdWtWbm5LZkw1WVd1bnEyZDRrckpaWmJsQWZvalAzbkU0Q1JkSXJrU3VpeHc2Z3B5YnZfZm1pX2Jndk1nYW1TbGJLV3hXd0h2aEVIZ3VQLWVkXzJOUWRNNW8zZ1Z2cFg2Y0Rxbjk1cTI5OWhqYmRFMDJKenp2Yk9XaTNfS1lqWFZxRWtrd2RTRm52bnktVTdvRDRqTk5jdGdWMkN3WFBHd3dCajBoU0ctdEtMd2U5NUU1QzlJQXpvVkRGQmZ0a2VwSGlQVFI2R2xDVzJBSUlBUWVaX1RYRDFN?oc=5",
-"source": "economictimes.indiatimes.com",
-"published": "2026-09-28T18:51:55+00:00",
-"first_seen": "2026-09-28T19:01:24+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
