@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T13:38:07+00:00",
+"updated": "2026-10-02T13:59:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,86 @@
 ],
 "items": [
 {
+"id": "b739ef38065f0bd7",
+"title": "Surya Narayan Panigrahi takes over as Executive Director (HR), NTPC Limited",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzRRZVlwdWRTRWk2bTdhRXc2cTJqaVR5bXpuR2YxeEpMSnkxM19EQWplRnRGS29mZzVrVjJHMUMwdVRLVnZPVm1QY2d6Wm52MF9yMnRiRGNWTlFGdTF2UGxwY3laLXFySzh6NEpTSkZuRzVYMUFfenJmZElvUlV4dEFBNlVpQ295ZGpCWGIzbDd5Sk5ZdDlFY0g1bmUzazJIMWFocHBR?oc=5",
+"source": "thenewsmanofindia.com",
+"published": "2026-10-02T13:53:04+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "346bbffd3f44cc34",
+"title": "Suzuki asks Indian suppliers to shorten production week as Maruti targets 4 million cars by 2030",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYWNUZnpPOHhCYVNCTkRQLTBmcFdPMEFrb25aU051NUcwXzg1Y3ZoS2xVQkhoM1FOS3p5SEZqUHdRcmhtYnlpd24xSFl5N2JpYk5ERUhhYl9lLVZ4emtneHFSRG5DbVlzUEpVUEpNQlhDNk9ZVk5TX2hKV0RpdktkRXFTOUFjQ1MzZm9zdElFdm56MGxpc3hzZDl3RUIwSzRGbS1rY3NDa1Q0V055eWh4MGhLczdQSl82WDRYY3ItZ05vZV9TdlJxaFVLRVdtT3ZnV0hR?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-02T13:51:18+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "512218651794ff80",
+"title": "Bajaj Auto Reports 5% Monthly Sales Growth in September 2026 Driven by Strong Exports",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kYS1aTU5uUVBKNTA5ZVBGLUpCZmZTaWxjQ2E5elpRenJQTUtRaXJCdEtWaENQUnpWRk9kZGlRX0VjQmhnOVVmX3ZHeDg5dzRTZ1F3Ym5MYnBWSXllOEpr?oc=5",
+"source": "equitybulls.com",
+"published": "2026-10-02T13:50:20+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "5cc4aaaff5904942",
+"title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over drug violations",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjc3T1VxaFEzMDFxNVptUUF1RnFiLUJGdmo3YjdEYnVtQjZ0aGdoU3VyaEFUaU9NZGlQSzBXcDVxTUY0N1VtaTVaWl9EeU5NOUR5SlFpLTZLNXV1ZjRYQXZVanU3ZmZ5Ym9GMEgtUXdFaU43d2NMaFI3SEdiTGxxNGlKNXB5VHF1djRhYUdCaG9EaDBiQldmUmlzOW10Nk1KU2JibGdZT0NaOTg3NE1GQkhONmpycHFHNmFKT2o1WVpZMnRobnJDQlNzUUdWZFNXTmlGVTZpelpvVkNqcENLckdxNVpyY2Z4R2M2RUs0MWVwN3pCOC1uZW1ha9IBgAJBVV95cUxOQ0NuS0NNVGZnb09VVlB5RkNEb1RzS2FDemdhTVE1azktZFI1dmZNbFJkSXg5UXMyUVdpVmFLMW1QMnJfMnc2V1BtX1NKWWZONWgzd3ExVml6Ym5JRFR3YkdHaGVmcGxvdTFYQVp1c3Y5dHgwekZZVXdHTlRPNTB1eFJPei1tN19YVy1IaDUzZWp2aklCXzI4TjlWRlhmdEV0eGRhMU9femZhVWhuV0ZZUzFUekJpaXhtTXZqYUQ1eENnRUhNdE9GSnpqMjYwUTlmb3p5M1lvNFpwTUJwejRhOXNEU3ppcFVpYUtXSHJlV1pocnZhSFFMQ3BySW5zM05m?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T13:45:57+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3f4a8e01d5c4924e",
+"title": "Nipun Siddhrau Joins Kotak Mahindra Bank as Deputy CISO & Executive Vice President",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTJCSkpiU1hBbl9SeVloREhYNjd0aTJPOEQyT3l1b3daeWhrYlhualVHMDF2akk4a0NWcm9ubUZsWUstMTJUa3hwWlRRaGJ6TjN2N2ZjQ01PNkVMYVFqODVkQ3JGNjIxb2QxOW0wMDBzZnVnZHRWcm4yb3o5RTFQTTVOTTZ0OWd2Z1VLWE5xSlJFVlJZbjNXbk80ZUF4aXN1Tjk2bTVvdFpJXzFUREszSTZBYw?oc=5",
+"source": "CXO Digitalpulse",
+"published": "2026-10-02T13:43:13+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "186f140fa4c80762",
 "title": "Adani Group has Rs 2.6 lakh crore projects in Maharashtra",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjdpLVF5aXN4bWFaVTYyWkx1U28zLVJYbnRRaDUtbElxVVR2SDhvc2lsOHBqb3ZQVjJSTHBZN2FxWENHYmpoNE5SdzFfb2RvM2VyQXYwOGhfMnAtVjB1OUoyYVZnb1A3SjB2YnFGSy1udHJQc2RZYjVVcGUtYXpTTUtwTWJib3c?oc=5",
@@ -461,6 +541,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "500ad886286af5fd",
+"title": "Coal India ramps up supplies in September as power demand rises",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2xqbHJtQ09fSzNxc0ZuaUUwcFBVbmU2MnhaN3VWR0pxMkNKSzJGMVN2OWk2N05ZT2QzeW16TFJqcUhqQnNPNzFkYjVWeUZHcXNiNnVFMkZXTDFiZy0ySFpTTk1RYWYzTkxOWXItaVNUOEZ6cGxGRWZaQWJQajZlWGQ5QWNjVUxzLWZCSlFteXdDUjg1Z3V0bWV5WGdSaldWcVJIWEdYcjdWUGJXd1ljVkR4Q25BcVZ5anVXbXJLem9LVFJRcU13Ny1R0gHQAUFVX3lxTE5ZdmdaaEtDTTdtempVbmV3dTNxNzR0dGdUcTVTY0VhbHBrcllXclp0cm13R0xoS3BWLVIycWhNbFpPQ213ck9nUG5PTlprLTNCdWRHbTNhcUNmUW5YMzdjLV9qTzVRNGlIeW1ta0x4SXhOZE9kdkhfWWhpRzNaWUdEQ21iZWx3bzVzQ1pqTWRHcXJ3TTNnZ3RvOGpLbDg4aUVuQ3RUOGppeFprVmMzWTBkYjVnWDdEV2Q2STRianN0LUZXdmFSS0Z4TXFkUjN0Wk8?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T13:30:32+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "536ed26d701b1f95",
 "title": "Pranav Adani Says, Adani Group To Invest Rs 6 lakh Cr In Maharashtra; Rs 2.6 Lakh Cr Projects Completed",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVV4YndhMkdqdXRLNEdCQVYyWXhrN0I0SER3TXZac1dZWUYwQWRUQWp5ZnMwZGpnRm1VQWp3UW5pVnl3RG9yWGxiSnZjbzBRSGdndXRxTnEtNzhqVWJsd2pFeDBxNTkwbFZuUy13anZFLTdLNnJ3SFZXZ0dlS0o5YmNtdDZfYVVhQ1dXaXRxQ1ZwcG9tbDN0VklONkhyLVQ5QlBrQXNIYXpxaHU3UWdscllhbVgzTnpfMGxocE01S0R5RW9XcllaTFBpYzRLQ0VmdFphaE9TQmQ0WEJk?oc=5",
@@ -474,6 +570,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9e7c89439efba8aa",
+"title": "Hindalco terminates $125 million US alumina deal after year-long regulatory delay",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0V3VGwwZnNSWEh2LXRNYS1mSkVUdFNuQkhfcGRadUtjRjZnVTdzUVFtMFR3aEJfUU5kTmxGTUR5ZHF0UnBUVVZiWkdVcFhXSk1RYnM2b2hMckJySzZXaDBiMmgzLW5UUlFTQS1ySXp0X29HTUZhbkFfcUFMeUtoSnplU0xfY1dyY2Z4U1JINzFIWTNLb2tMVmJ4bUIyVWxIeWVNcVVQdVBzakFUQkpZWkV1Sk1qZjRFTUh3LTk0a3JyM3NjOHJMdVgxVEFUZVdRWlRSR2J5UWtrQk1ZaDFIWdIB5wFBVV95cUxQZWFFSWp4R1R1aHhhUTJtZEkzcHNva3N0eFN2YTYySTNmVXA1dHVRUDJJOFczY1J3UkkxWUVtSGh1ZEI2ZzhDWmNhOGpQdmdGZmYzLUZYOF9tejZsUjZYT2hZa1hMT2RtbG82MU91ZzhlczhTa18wY2ZTM2s5UGtUVUFUcDlqMjc0WGppYU9WUVNyWlk4d3k1UTJsOGREMUp5ZEdPYUZqMlhZdklid0R0T3pLTHZuckU1Mmk4OWtFcTNmbXRyRVQ4ZXRCM1NpVGU2UDlJQ1hOWElIZ0FTN1oxSlBNdUh2Yjg?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T13:24:43+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -526,6 +640,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d4f494cbb2801223",
+"title": "ICICI Life Hands Mishra CEO Role For Five Years As Bagchi Leaves For HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3pCLXpyZHFMSXQ5YUczaFRPU2JKeHVOb0FxanQ3S3RHS2FGS0ZRT2psUUJsLVE1cy1zcl9IWDhXdHRFTnExVFJCRGhEbmFUTUx4am9RTUpZZ1FIY20tVUxiTy1ob0FMbXJtbkkwOEJxbkIyTTVzUFJLRGZUYUZ0QlVjOXhOVVd3T1F6bnlOdzA3Y2pONnY0UlBjTDFjZl9NWWRBOHZvdmZqWW5PM1lwdlZMdk12S1NfZ2Z5TNIBygFBVV95cUxNMVlFaU5mU0JTTmFGcHJlVHp0NmFHd0duZDRQSFFQWGp5Q1J5LTZ1eHZYU2c4M1M4TkliRXJHSXVCUjhKd21QUjFGQkduaEk4U3dKR2JKN2ExLUdYRElnOXJtOVdCSXFUek83NXZrYUhnQmNTVTM2ejdSbDdkY2U0Q2xuX1lWYVVJeXhSS1VpVVBNMHRub1NtUTRiMlQyRUptd1JwSGZDam1ZdW5tSUNkckl3YnVlSVFzcmtQNWhrMWhwMlB1UXdUV3dR?oc=5",
+"source": "outlookbusiness.com",
+"published": "2026-10-02T13:17:59+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -651,6 +783,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e7864cd8df8723a4",
+"title": "With Anup Bagchi as CEO, a deep-dive into how bank stocks fared after top boss changes - Yes, RBL, IndusInd, HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdE9pTmZpYmFodXJyVnpSRHViVTRBQnNYY0VRckQ5QTlLRGVpdDVvbE9XSlR1dEtRandneE1kanlmN3FOeTVyTmZMMDlERHYtbWhqU2pVLWg0YVhTRVY4T0lEMy1kMExPUkliYXZzd2pmUmRuaG9UZUFBMEg5UkN5cUE5NWxVMGwzX0xoZC1HNGIyVGk4aGw5enVMM3ZfMDI2NUllZkZ6RVdLOU9zTW44SzI1aVlXZy1wY1pJeGZ0SXplSTMtR3hMaXFOcmo1WFRxd3dUQzlaT0g0VlFQTjJtUXBlZmluZElxS1N5NWdXMzVfcTZIQnIxQ3Fjb2EtdzFia2xTbTRNdEYyMWo0Q3RvYtIBlgJBVV95cUxNQmppREJ6bFhTR1ZMUWVZdGtXQWZVZ1lOMFJKaDVGeGxqNF9GeDIwNDRwaWZQcHRJZ0pNRHhNbFlHZzNNTl90UU40Si1TSVVjQml2THNLd2JJdnp2QVMtZFVIVHRkQk9VXzhJbERXYzVKMmxSTHFYa0FDLUttdmRUN1pXVERQZDlRYnJXWGNYdGNNYm1DeWdoemloNXVybk5QNWNMZmlkTFcyWl9OcTJnTmFKQlU0NVpGMkRHa1U2MVhBamstY2ZKRlRCUEx2R0Zrby0tcDZIUlczWTFTbTBMdXI1bTczMkZ5T2R1amM0ZUVBM0ZVVGF5ZzRnc2Zsc0t3ckRXdURoVEtWVFAtc1FNczdpNUFrUQ?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T12:47:12+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "b360e104fc934154",
 "title": "Sun Pharma's Leqselvi shows sustained hair regrowth through two years in alopecia areata",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEJ2MjhzYW9CQ3dQWkZ4RjF3VTM0eUtvS0tmYVRhQXc2X1d3MnhXMGlWcm9Yc1JJY1JuM2ZqTkNEU0p1dlRrN0FsSDdpd2NxOU53S1pxa1NzR3BpbEJhd01pNEpveTBUa0UwaXRGVHVSTlN4TGtQaFNzdzFQYkx5RHZJaUpfNWJYODJEZC15Y2p2WTV3WmtEQlFIX1F6QmpoY3RhdkNTcnZ4VF82djc3LWhXZXc4Uk93WGRFMlZUU2FtWkN4Zy1idWFiZmZ4Zw?oc=5",
@@ -678,6 +828,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3dd3a1fe06d6164a",
+"title": "Maharashtra FDA cancels Cipla godown drug sake licence alleged pharma advertisement irregularities",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0pXOUdOMVR0RnhWOU5DNV9PNzN1SnBzSF8wa1M1dFkyQnp2RnFrV0thWm9QcDlFc0N0RHI5cmN0MUdWREk0Q1ZfSnZWQ1hDYUNFY3ZKczhpd2w2YkN1cmF0Qi1pREpMSDdDbVBsZHppRFJHRjNRdW5kWkQ5UGFjTkVMRWZkb0c3MXZCVHdQS1lhSWNqV0ZmUnZCZUp3bndfdV83dHZiVXF0TTV4azVrbHhuWk9SdW9NWWEyODRyTWYtNXFBVFJGMkZzUTJORHZLakFXVmJLLXFxU3BMRmw1X9IB5gFBVV95cUxNRVAwLWIxTC1aVWdNTzRzUWpYVVhUckxWNGg0c2kxNVVGR19BN1kwTmpnSy1nLVZURDFkbjJmRnVIcmpveGhQcWtSVjlqdkVaMGh1TWN6bUZyYVc4YXZEb1lIWlJpRDhDWFNWZGNDZjY1SGNScXYyOHc5X2JUOTlRbmIyZ1VhbWp6UEdfdkVDVUE3dWdqd0dCTUllUGV0cUNWVmJWSklOdWJzSmgwY25oOVdkSlhBWF9NY09xT3g4MV9PS0l5bVhUdW5vM3NGMGI0NlkzTllDb3Z1ODhvQ3pvN0NsMkc2Zw?oc=5",
+"source": "etnownews.com",
+"published": "2026-10-02T12:33:15+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -735,6 +901,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a3a174890c225850",
+"title": "Why are leading Indian banks holding back on Apple Pay? | Apple Pay launched in India with Axis Bank | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVYwTWJpazdHZjBRRW9VcFFNdVBENENiRHhzWFRMWGM5QWZGWEtVcDNPcnBTS0Z3TldLTk8wa2pOaVUyRUE3VTlGTXZEQUpQdVhIX282eHY4cnM2RUo0ZHAxWDc5RjJJOXlaR0M3UEoyNlZiTy1xVzlKUmFoSm5RNDd4N2Z6TTJlOFlUOFgyRzZ2QzFiZzA2REp1SU9GcXlsMzlVYtIBpAFBVV95cUxNSVYwTWJpazdHZjBRRW9VcFFNdVBENENiRHhzWFRMWGM5QWZGWEtVcDNPcnBTS0Z3TldLTk8wa2pOaVUyRUE3VTlGTXZEQUpQdVhIX282eHY4cnM2RUo0ZHAxWDc5RjJJOXlaR0M3UEoyNlZiTy1xVzlKUmFoSm5RNDd4N2Z6TTJlOFlUOFgyRzZ2QzFiZzA2REp1SU9GcXlsMzlVYg?oc=5",
+"source": "Inshorts",
+"published": "2026-10-02T12:29:20+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3e3bc6db81583bab",
 "title": "NTPC Bongaigaon Pays Homage to Mahatma Gandhi and Lal Bahadur Shastri",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUd6b0JLRkpHaTJUXzhWNl9nLTBIdmQzNWYxZ1FKLXhYX1M4Z3F6VERrV1FjMVQzU29HUHgyR1V0MmZTXzlGSEZ2U0ZSWDQzRmtMN1lqYVFIZFRIY2pvRERtaGVvdzdGZlNDSDhYTXpqdHU2Q2VUM1hCUXZ0NlUzX3BNMmsyaS1DeGZUbzljY29QSFE4c1FmLXNTcFBtLUt3WmJsZHB1cw?oc=5",
@@ -749,6 +931,26 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "fec32090d01452d2",
+"title": "TCS, Infosys, Wipro, HCL Tech, TechM Crashed: Why IT Stocks Are Falling? Jefferies Downgrades 6 Tech Shares",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2tCYU5lUGwwU2Q0NWlXaGtzSm45cDB0OFJQSS10MWhMX3pyeGlOSXZsa3Nsc1dJbEI0ejdVUF9ndGxnUkNLdVNjZ0kyX0xhSEpTWGVsUFJ1V2NBVnVlUDRidWYxUXVvMzBEOHIxeE1STks1S0xPaW9nWFh6UGstN29UMGd2ZWVNZnEzNVV0T0RCMlN2UWptb1F3MHEwekhTRjZYU2d1dGZ0YzJSRGhhM1pGWjFsQ2dHeXZnZHp1c2FXT3JrdGl4QzNva01LTDQ3REJrc2kyX1JLYXMx?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T12:25:29+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "f7e5bb6f0121dee7",
@@ -2143,6 +2345,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d7b05e68feb0d0f0",
+"title": "Maharashtra Investment Blueprint: Adani Crosses ₹2.6 Lakh Crore",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkNUUzJNVDRQSEx6c2d6OF9VbDZnbGhaV25Xam43akZOWlBZM3dyWmZCeVhwUDNtNjFHbVZ3SnN5M0dReWY2cEFBcVpqZFV2UTY2cXlueTRvaWFLWEVKNWgxaDIzSjNjWUJIODQyQktaYkJMREtDYWd4dm5mbnF1TmhscnpHcnp2QVpocFQwbzk?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-02T07:50:09+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4841,6 +5059,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "bc1a79def2962e36",
+"title": "Securities Fraud Class Action Filed Against HDFC Bank Limited (HDB) - Levi & Korsinsky Reminds Investors of October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDB4N2xBdEg5QjVWbEdHUmpEUnUwdy15U1hOa2tvdFhWUl9qRnM3cFdSbWU0ekFtWFJKTGd5bDd6Y29uV21tV0E4NHFuNTNtSHEzNzBULUQ4bmR3SWVUdHlna3Z4S0g5UzNQVjhhQWNVQXAzaWl4VXlNcUJzYk5HVE55d2dpNGxPa0xBM1ZSNy14R2hmc282MGJyM0JhVmRza1FOZ1NqYW42enp0dUE1XzJTeEJYZnBydU1qMmhfTmI2dlM1UHgyU3M1T0RWczRwaGZkVENyX1JXcWlYampUQlB4THg?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-10-01T23:04:52+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "09c0073ce123c140",
 "title": "IFC Commits $90m to Airtel Money ahead of London IPO",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHpQRl9sZDAxNFlzczhDc2FuQnU2U2hORjBQNHE5ZFRDNVd4Mlp1YWdFUGwwb3hSYkVGRmV2ZWNmMlJ3dFRKaUNvZVBUQXNpWGNDck5Zd0c2VF9yZWRpeGxTbnJleDNtQm1HWTNLMC1DVENIekdlYmhEcDd6NkRUUUFSLWd6SHdMNEFZbXU2SVVMWnE2b3N0dmdLbU5vRi1YRWVCQmRldjRfMms?oc=5",
@@ -4974,6 +5208,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "e19832bff082ed82",
+"title": "Second Hand 2021 Maruti Suzuki Baleno Zeta for sale at Rs. 5,60,000 in Jalandhar.",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDlIUE55bld0cm90V3R6V0hDeVh2VUZ3eGtPZEU3amxpSUM5V29fR1piLUQtaGgwN3pQV0JiUFFRUUstcXpJSGN0QnV2YmRDcFBCbE5FRnlMalI2b2h1dVUxampjd1NPTUdfNWNoczc3UTVpdzRsZFgybmZ6bFlBZ1doem9iZWp0NXc?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T21:27:03+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5423,6 +5673,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8037a543be6e578e",
+"title": "Reliance Industries Share Price: price action and valuation",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzdfWEowOFZwRm9BRGtlQURURElBY3laa2hXTGowQ1VpNnJrdW16bHROZHFhb1JWWjUwT3R5dkdXQXBrcG14U0dnYnFQOHdEYktUZUtnZi1OQWVjdWpmSC1vNDlxREk4S3d0bHQ0cnhqbG1WWGExTGJ4b1dkMmtLMVhsbF9ObzBQTlQzWEZ2bUo?oc=5",
+"source": "Univest",
+"published": "2026-10-01T18:56:24+00:00",
+"first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50679,270 +50945,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "3ef719a4474839bd",
-"title": "NTPC (NSE: NTPC) Completes Final Dividend Payout for FY26",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUNvejNEVUw0c0RFYk9BWXBoUzNoYUV5d01vVnJTalljaTJiZDBNUjJDR3doYXNBZWNqbEhFZmxRWDRjVjFfOUdHZUhVOFhXNVQtVHVpWDZkZFdzWkFuNklfdHdWUkNwVzBGWUt0TVY0TnVLanp4dDVTSjg2eEVKTzA0OXgwTVlqVFdIcVJsQlhzRDFfSzZvTmd4MWNZUQ?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T12:49:00+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "97682f54038e73be",
-"title": "Mahindra M&M Weighs Fresh SUV Price Hike on Thar, Scorpio, XUV 7XO",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGhfdVpIRk9MZG5mRFVSZTlpNFBHTlNtbkhGeWRvNFJGaDIwNHlEMW9qS0ZqWU5aLXIxdHRVNzNpeTZTLVpGelNLLUdOMHdta1ZGcXlBaFV3elB6blVjck02bGZaUkpZd2lBWHhDdVEtaG1nbDBuc1A4OGhCNnNTRXEwZFV0dVNoOVNpZjlGWXZRSGx1UFFiMVIwa1AzYjJXY0hPbW1iVzlVc3hUZkpfLVJWMmZPZw?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T12:47:00+00:00",
-"first_seen": "2026-09-28T21:19:00+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dc0664defbc30271",
-"title": "Rs 1,020 Calls on Infosys Ltd See Heavy Activity — What the Strike Price Tells You",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnZGcEF3TC1LcERxZTZyLWpXelpQbkJlWFh5TDgwYm5MMlM4OGR4NFJsVlN4QXRvVDNtOERqOTJLVlZaRHFBTm1Mc0VBRE1nMFQ3VjlPVks2cUktS3RtLS1yOGxqMF90YkpBUzBOY1ZmY29vUU02ZzFPdmd2WHNoSmphVjJaSElGT3dZakZWWHh5M0t6RGdiNG5iWENpRXM4Q3NhVUdjUmtPeTY2UUp2ZFk0Q0pCdW9GWU94SlZ2ZGt0aHlm?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-28T12:41:52+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b073de5ef74d8ca1",
-"title": "Maruti Suzuki India CCI hearing adjourned to November 2, 2026",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2lYcTN2OXYtdWJKN3hjbTBvNFFDM1ZBM1BhV0JoNkptZzctWWpiekZ0Vk9GU0NvNDdKaUVrSTBJeWFrcmxsTTgtdFpfUkZURHZ4ck9YNFhqbU5tX2R4NDN2Y1Y5YWtBOXl5R2RJTEZIemtESGhkVE0tVGtaZ2RBWTFFZzhEOHRRaDUxSmFJRmhhYkI4dm9abzNPYUltNks5YWlHQjhDeEZFdUxJSHVmYm1MUDA?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T12:30:54+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "d4b762535c3782e2",
-"title": "Exclusive: \"So L&T Doesn't Lose Heart\" - Defence Secretary On Fast-Tracking Zorawar Light Tank",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckNXZkNPUC05SDhCT3BCSnJSSW5Oam90LTd3dWVUWHRVb3U3aEVZeEZHdktzMDJTekxaZHFzV0lzNFdjWDZWYnRnemVWeTlnVWVJZ1g3NVpQdXVnSVM0bGkyYnNhMG5BMUJ1eElSYWtxUHJxX3FiYUtrLV92UVNPM1IxU1gzZ3R0VDJTNWh4eDJnbDRpMmJISVIzSmhUeHY1LUZRYko3NDNtdHVOLXNDaFhqVmY4RGY3RzE4U2pSNHNBR09lRnpkONIB0AFBVV95cUxPdElxVUlFMUp2TFRoSzVWV0tTOUR4WW5YaGZUS2JwOG5IZWl4d2hOQnYtVjBlTExnRzdjRzhnc19sTVlsUVpLeHUzamIyM0oyT051dWNELWtIaHdoQTg0VG1xTEhiU0xNdUlPc016NjJ2UVFNZ050bE1HTGVmWks3eXo1V1Z6Wm5makM2d2ZfdjJabm9aeHBwaEpwZy1QTlV2SjBkUUcySlJMc3JScUtacWM5VXM3UEhkSlYxT3NlSnN2LVhWQXcxVUtLbnJueTB1?oc=5",
-"source": "NDTV",
-"published": "2026-09-28T12:29:12+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "851a063318d80374",
-"title": "Over 1,100 participate in Spirit of Wipro Run in Coimbatore",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVV5T1NwS1lRWmdUUXc4OU1TeWVqV0l3MktQWnJlZXBrV3VGM2tDaFJIMzBVN29CNmdMdU4wdnBVRkZlcjRfUXFpTk53c1lQNEtwWjBfcFl1eWYxN1VONjlRTmc1eWRFMGFNWFNITTdrcUE5Q0kyZHRZNGtTTE5IVFN3am9Ja3IwWE5XNVpYRU1UTjFfRUtLU0dmRHF0OWoxMkltREdmekNMUnA5WmktSlJ6T0U0a1B1aGdOWmV1eGJzRVRk0gHLAUFVX3lxTE5qdldhZU1aU0tHUGpmM2IzNXI1S1JwVmFOVmNzU3M5QWtJWkxYemhybUJoQ3BPdDJOZG9kSVVvaGJGZy1XQVE4Y2wzMzVZSXN5RkEzNThWV2NlbjlDM3lSUzUwYXRtcTc2Y1ZacmFDN09QQnljY2ZOUlozX0IxS1hrMXRpWUs5a1k4VWpfQVc0bVcwT1lCUlp3QjdfU2Ztcks1OEFUa2J5c0I5NzJMeFgzaXphWEo5SmQ5UkJXTEt1SEdmVklxNkJLaXk0?oc=5",
-"source": "The Hindu",
-"published": "2026-09-28T12:24:16+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "973136b3ec95c123",
-"title": "Rallyist Phoebe Avoids Crashing Her Maruti Suzuki Gypsy During Rally Of Himalayas: Video",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWhJOEU1UmJaVTZLVWU3MzZXazR5RTJRSXZsRGxmNTNkNlRPNktFVXFjUGtzMElhUG1OR1NCMWJLV0VMS05FMWlKUTVaZ1VacXIzM3ZaVlVNZnRyay1tY2RPZDNoak9BRmxQN1dmLVR4bjBPZmI5YUxQbFZsaXRUNnRDdG0zdUlrWXZYcHZDbGFrMjBjYmtiUUNIN05hR3kwc2p1bG82U3ltYkJQY0IyUjJKdkxYQWlSeDhVMlcyNNIBxwFBVV95cUxOYlpoOHhGSVF1d2o4WkxYRzJYS2ZZenVnbjVFUkNrdzJfRUdSMnFIU1ZsSnU1RTBIUkkwaUVKejlWZHZyUzFwWkQ5NzN5WHhxVjlMS0drQlFqZldzUlJ1TEZFZFBDMlhHOUFNQ0V1NkFqRF82bmxnUTBIbEpWV21HeV9pN0NtM0RySWRjRVFtXzR3Z0hwUGRwQlllLWJldHJzQWp4V3BNenNqZ2dzZmpCRlNKeFA4N29ibktZd09XM2ppaGo4M3JZ?oc=5",
-"source": "NDTV",
-"published": "2026-09-28T12:23:37+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0ae12d64a71392fd",
-"title": "ONGC CBM Asset Leads ‘Swachhata Hi Seva 2026’ Cleanliness Drive at Tenughat Tourist Spot",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxrd1lEYUEtSkQ2eFpZa1pyTno0YlZrRHJlUFBjS2dHODRZSThUazlTWW5rVFhPX3J5Zy12UjdPbDQySURmeVpVaTNVQjBSekNVZl9ITTNBUmlvV2EzbENldWJ1U0N3clhaX2hOOVR0XzZqd0dEOUIxTXFIeFNrajYzS0hRM2FXRE5VcURrd21zbXBreEs2aXAteEhyX1BhcVB1eGFBZmNjQW8wR2FMRU40ZjJfN1BoV2huTGtfQdIBxAFBVV95cUxQcFZCSzg2RlBELXllZE1kdzFZNEpXbDVZU3ZOZ1g1LUFvdjZnZEV3VDduVlRXaGNwVERNOG9WRC1rdFRJNXh5NXlBQ3JnOFVseVhLaUxCU3FaYm1BblNVYkJGNXlhVkp2MVNDR1BVbnk2UmUxYmh6MTFNZHdrVFJMY1lYX3Vib25GU0JnX2tPZFg4cTVKVXV3V3I4eEl1c0h0OFg4VXlXZDkwUzNiY3ZNWnB3SFRIaks5Z1g3ajR0MVdFdTRB?oc=5",
-"source": "psuindia.com",
-"published": "2026-09-28T12:22:49+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1492a6ca26a6df5e",
-"title": "Govt vs private banks dividend comparison: SBI, HDFC, ICICI, PNB, BoB, Axis, Canara - Which bank tops the yield chart?",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNnJYX1AxRUZlZlFnOWx0UXBIZVZiS2dGRldGQ1BFaDkyZFdQYlh5S0xtM0lRdFlEakJVVlhjRGJrSVMwSFNTVW90MlVjaEI5elZDRTZpNG5vVzlzRHVWa21Wd3h1U2tzLThOOHU1RWdUcWk1a0dDMlk3eFAzZEl2ZUJ1NTExaGp2NVNYemZlX09NaWw1aUlsZGtCbE9WT1N0SjhKQ1VfZjMxQnRYT3J5RDRCS21lMUhFcmxrS1J2bW9UaTYwY1JrRHNmWllJTlJQNDlsdEhtQ2M5NzhqS2s0UVNMR2RkeFkzdzRKZ3c5cWlWSzZDZXZUMVpvZ3kydVlxcXFGMW11ZEpaUdIBjwJBVV95cUxQT1ZOandvOUhzOERQRjVxeGpEMzFMRDlkX2hVTnNlTTBKZ2dqeHBxM1pCR3RueDA4Tm85M1Q1T1A5MlE0cU94ZFJkSXd0bVlZMnRFU2dLaUM1LU5WSFQyVmZOSHo5TnRVOXE1aVRHMy12bGEwbTZBdXBOWk8wdTJldjA2eVFSOG9xeWs3ZDMwZGIwM1dfQmFMNWxiZnFFVVpUdXFDaEFEVVJnV0hNUkd0T1k5NkhJa1B0b2RUaEdqYmZIZmJwVkRzOEJfY1JidEQ3RDEtdDFOdkVaY19JRmx0Yzl6LUIzYlcwa0V1cTNkWkRaT3F0dkFPM21ySUtjZF9TWlNLakpkMWxvaFVxVUY0?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T12:17:27+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "97da7483570c7220",
-"title": "Bajaj Auto stock falls 2.28 percent as exports drive August sales",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEd5bi1OV0NnLUtuRmpIdDd3YWV0djVRX21wTngxejhmdGMyT09MYzBreW1mN3NLLXRrS2dwRjdUamQxMVJxVmpxSzI2NmV1bk5qOS03c2N1N01xTGNtdmlaT2VadzRpNmtwS3lXRHNXby15WFE2MURjN2ZIWEhMQktPbGVxazZTeHFGNllTUFpSb3dUemhPYU1TNlZGRHJLRE1DSl9JYlh4bldvdGQyZkJRTjc5czJJY0ROVmFqRWlQQQ?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-28T12:09:25+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4a0dd5fc8e6331e5",
-"title": "JSW Steel Board Meet 23 Oct for Q2 Results",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUERjZm9MZDRpSzc3UXpnUHk5X2d2TERadHRJNjEtTDNGcS1BYkNidDUtb1RNNVcyWVh4Q29TQnZJMndjaHM1U0VDYkRiMF84MTZfWFJRWkpveGF0RHQ2YjBSSjRlTEtmY0dPLVplemFxNnp5Y2xudy0wU25oaENwVi01SHM?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T12:07:00+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5a1d8e7c96e11556",
-"title": "Sun Pharma To Commercialise Novel Bad Cholesterol Drug Lerodalcibep In Ex-US, China Markets",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmU4c0pLak9jQmN5Snh4cW9MNm5ZSEpEMHFfblRVQWJGdUxsMkJHbFhoekFQamctN1ZyU0pZU0pKbHZOVVFHY0JKUVRMdklFemt5cjlCejZqZkF5ZjFYRTQyZ2pIcHNiR2t0OGtxelRTOXd3Q1pnRUZhNVk2NFR1TzJUTlMwODhwOWV1dVFnQnpZQkJwaUllYjVDNU9Ec0JGWFh6UW91QWtSQzdrWDZNZzY0WHhFamxzUmJvbmlXdV8yLXh5Q2tKc2t2djhtWHFZ0gHYAUFVX3lxTE1mc0R4OXVIRUctMmFEWkItSFdhOGNkQzc5QVBIV196WFIxcDVHNTluODBPR3ZVWlBlOGVkQXRwbllHb3M4WnZXNlZmemhmeDlUS1p0REZXM1dvVllZOTc1UzNRUG1OY0U3OVVYNXE5OHVmMUNEdU5QWUVLcDlFYjlOTFh5YmVXRm41LVhQdzZJaHRMOUZrUjdCTC1BdjRzMG5MREY2TktsaGt2cUNrZVhDcnBPa2gzYzlpeFh5N1VOdDZIN092X2dheHgtakJmbWd4MEJwRjVOYg?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T12:05:59+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "67a277740167a3c9",
-"title": "TCS, IEM Kolkata Join Hands To Set Up AI Centre Of Excellence",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE1QbHFSX21XR1dvXzA3Q3lkX25BUDVqVUNpUXpsSHNhYzBIX2htYjlramtnS1dCeHpoSmRvWEQyUFNlWWNhbzBGMTBfY1N0Q29ucEFYd21GblNlc21WME1tUk8zY0p4b21aN0dRSC0zdWxCMjhhLVJLWndpd1E1YktzeGFoZnItSjk1b2xTdTR4NWVDRnZqNDFWeXVtMUV5cmNCM09NMmvSAa4BQVVfeXFMT0dKb2JCaTQxcTVGZGRHYnQxY1FpZ04tYzJHWWpOdVYyWnlrbWFXQTdWeTFaX2l6UHZqUHJkUlNPbWxxME82US1sNWVxcnFfTC1GQUllRHI3Z1I5RFlMbm9NblFDN1VhUEE1NWdaOE5YMVZMaVotS1NyUVphYm1YRTFnVmxMYi14ZnplRzlwaFhCWmVmczNVc0Z2TWNXUktCNndtRG9vc3FXQjlOMXdn?oc=5",
-"source": "freepressjournal.in",
-"published": "2026-09-28T12:04:09+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "36c8beab2ca5e1ab",
-"title": "RRB NTPC Graduate CBAT Admit Card 2026 Out: Where & How to Check, Download Hall Ticket @rrb.indianrailways.gov.in; Details Required, Important Instructions & What To Check After Downloadinging Admit C",
-"link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNQkNpdnBQTFFFUmt5QmlaZVhiRU5SZDRmYnRqdlZadm5wenhSZlFwNFdoZTh5b3diYkppYXo3WEZaaENYWnRER3RYMmQzS0ZudzI1QUlHaDg1ZkswelNVMDFUQ3NQV1l4dmF3Zl9pZHhFRE1NSjZHaUZPbWJ5UnBHZjdmbG9mOFBsWVhnX0pRQzdhSkExVTBTY3FIcFY0c1k0emtydDZjalRQOWdJRjBJZDdELURsOFVsOVh4SkFXUHZlTzRBaHhaSmtNZjNGcElRTXAtSUpUVDg3aDBYSDlYYm9NcE12LWt0RkIwZGZSNFJLZWVJR2l2MDhMRGdKNDhjcmlacF9tcU5xOEhCYmI2RVl5TE9IaWlxcG1EVWh5aEtCUzM4czFJY2pLNHRteVJ6S2RUSjlDUXVhR1pMZlh0Z2NTTUROSV9WUThVblhJbHpoTVNESDJN0gHcAkFVX3lxTFBWblRBbzZRSjkxZHlmSGhQTXpmdEdKaUd4TlktbXc0ZVJWcFMwT1k2LWt5UDJqN0hQdUtQU0c3ZkdSeUVWdDJUbE5URjRMX0VOcmg5bG15bHFDNUhSRUI5VVdSS3oyNnZjZUQzMkxhZFBkWGZaTVJrR2RXNUI5Yml2cWNjM19NMGFEb0ZPYTZwZjZzSUxuUmpUTjl5QmM4cGlrTkF0MjlUZ1dJOFpRcDFxbGIzLVRmYzR3cjVLZjdWd2NzWFVrSzBjZ2JhU0V0cERyWnZURmlaZVlZSFVoS2lXY3QwMzllYkV4UXZub3pSdGktdmhSZUc1R2NfRFlsekhhWWxqSzdneXBQa3pKNFo3M2NYTnhOai1wMFNoZ2xBaGxPZ0tqX2Q1VmIzNVBNM0s3d0VPV04tdnQ2Nkk3WHN6dkdYLTBFajBFWFlKclN3Z05PY3ZLbVNJQjJUSw?oc=5",
-"source": "The Sunday Guardian",
-"published": "2026-09-28T12:00:21+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2966f39016127dc6",
-"title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commercialization and Manufacturing Agreement for Lerodalcibep, a Novel PCSK9 Inhibitor, Ex-US and China; Lerodalcibep (Lyrokaul®) Approved in the EU",
-"link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPU3hyZ1FOdGlfT3ZmOFVkYWZOT1hXYkI4dGFuZ3NnRmhiSFdjMmVTTVk4djNISlphZnZXU1RSTlhIclJuaEMzQnFMMFVlcndhcWt2RkRVbUtIb3VjWW5UNTk5Q0ozNU53WW5IZjFsQlFWRTFmNVBUU3o2bTdnUlFFaU43cUVQNnN6V2xyV09adkktR2tyaVRzdE1lWnEtMUl3czZIUXA3VzA1Umltbm1kOTBUZFpKVy1fcVVmWHN0QkF0T0VxWkNqSzhMWlFidmtQWGlzZ2xnN1RKcDRJRms3ZXlpRGZKNnRlU2JNZGNzanJOTEtrTW9vc2R6a2xDNDJXX25zTENPTnhlODAtRzk2eVkydDQtOHl3X182bUJTbmpGeWhDcTlKUkNNN28xU1RxVThCNzRGSGpVOE9HT1BkcmxRRHNnYUlqbGFHRXJIcWdQLXdXOWFKU0lqczQzVllrUGx1TlI0XzN6WFB4OGlmZEdidnA?oc=5",
-"source": "Business Wire",
-"published": "2026-09-28T12:00:00+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "22c8dca570a91507",
-"title": "BSE stock may test Rs 3,000 mark, says analyst; stays positive for long term",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUkE4ZXVBRVcxRjdENnBPUnczbkJTM2NzS0VCN1ZEUFFsQnl1dHFxNVdLZ0JGM3YtNDZuR1lBWVVQckx5RDF3bGRmRHR1LWZrMVB4OG9kbDA4a24xR1V5S0tfOWdtMXEzSFNoM2xfUmNIVEZQbGNaQWR6dnpmRFpaazRTMGZxYUhFX2hJdG1tdENtWEpYOUVwczI0SHNwNXZWX05jck44ZTBEZVBrWnZiSkgwWUtGbEVrNUNfWTJ5TE85dHdMOFZiTnZaeG5wa2k0OFhUWDE2UlfSAd4BQVVfeXFMT0JXbFVpbHNoRm9LbGxsVnlWeFoxcDdyTllYejZiLXl2YW9MNXMwX01PY1VJNk5LS3dlSEs3MzBJY1UydlEzeGctS21GRXREV2ZmNUE2OW1hWVB6bXdPenZyODBPZmVLN0RKaXlONnFFQVpIYkZ6RFVkSWE4NFNhTmJmZndWX2tPNXdPWkY3ajVzRVRFNEl6eTV2RVdoZHFKcUVMTXpvaGoyYm1TQUlFNUZwNGpzNmx2TzQ1VENhX1c0ek96LUxreU9XOXd0NFhRWTdhbHlTbmFKcmN4cEdR?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T11:59:53+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
