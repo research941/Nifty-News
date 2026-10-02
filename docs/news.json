@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T14:21:59+00:00",
+"updated": "2026-10-02T14:39:13+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,78 @@
 ],
 "items": [
 {
+"id": "40f6e26211f7709b",
+"title": "ICICI Life Insurance names Sidharatha Mishra new MD and CEO; Anup Bagchi set to join HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmRlay1TOW9fUVEtX3FYVVRJR0pRTHFOY09Xb0V6N3BxN2RXSGwyVDFHRDJVcXBZcnlvd3dBbGhzRTNfRG5UR3NjVFozTFV1dVo0YlRHdXNJTENDWXB3WVBTM0pKV2t4ZkthX0MxT3NLeUFQYWtJR3ppU1JSUElxcGR4TzY0VUlFTlNNei1YQUp0LWlmSHNXZ042MFRsLU5wNkxITHJHZ0J3YjJpNTd2ZWhjR0hpUGFWcG9FMDhIclVjclFoUXhFZ1hvdF93Qmp5b1NUXw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-02T14:32:09+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fa925e412b38ac20",
+"title": "Mahindra & Mahindra Financial Services estimates Rs. 16,490 crore disbursement in Q2 FY27",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjVDeXkyc0xmaURpMkZEWnNkeEhFaHRyX0FLU3Q1eXl4OGdlNHBxWmJZX1NwTGVJVmU2d3A2QU5FcEFEbGhaNWpKQmUwMjBYdTg5R2w4ZkN1eFI5RDNtVkVub1gwOUFJa19INFZHaDhvNWdsWldHMmRWamVPMEdOOEFiOVFwbUg0OUJudllhb1ViQXE2eWVqQWVxQ09Db0FQY3NkNGN4OHRPalBRV0QtZllpc0VhTkNlR0FwTEFXVEdSVXM4a3c?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-02T14:31:01+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f948f479c26a3134",
+"title": "Tata Motors Commercial Vehicles Reports 42.7% YoY Growth with 1,35,114 Units Sold in Q2 FY27",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fUGN6SWcwS21yRngyMGZLbmNManRtUmUzem1WcHBnWm5wd1hsVlpoWGRheWl4cUtFMUR1M3pscl8yRDk5VU1PSjNuSVhDbnl5N0o1ZlN5UUtZZ050ak1F?oc=5",
+"source": "equitybulls.com",
+"published": "2026-10-02T14:30:40+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "62ff52ef2a9ecdda",
+"title": "Tata Motors Passenger Vehicles Reports 40% Sales Surge in Q2 FY27; EV Sales Jump 90%",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaHY1Q2Y4UDBVQ0pTRThtZXdxN29rV19ocEtvdmF4OV9CSUkzS0RGR0hwMkxTS2tQU3pxcFhKcmJMLXlOQ0tBRl9KdEh4TkNzUkV0cW9PNGJqNVozNy1F?oc=5",
+"source": "equitybulls.com",
+"published": "2026-10-02T14:26:32+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "0ea0370c9e461c79",
 "title": "Maruti Suzuki Reports Total Sales of 2,36,013 Units in September 2026",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTnlfWF9QOTFkaEE5aGpXejFJWW1zel9Fc21tNEdOLU9mTVZsOHZnck1VQzRsRXlyN3RWbXd2NkZpMUJpY09nMWNPWHpReXFhUXJfSW8xZTNOU0Vrb1pj?oc=5",
@@ -474,6 +546,24 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "589888e4826f9f4b",
+"title": "From power stations to corporate HR: Panigrahi becomes ED – HR at NTPC",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFpLMjYzUlN1eU9xQVFSYjF0TGFxRWYtejJCTF9qaVBCV09NRTlTOUdKR1R6ZVZzOFF2VkhKbWFOVWlqYmh1VlBwN3Z3WUNBc1R2Y252R3A0QkRJdV96SUtSOGRhS0g4ZzdURjJ3UnVEd1VuSDJJOVpKc1I0UURDWGc3S040U2N6Wjh4cXd4NEFaRkVEeF9iNDliMUtmZGhYX25yWHcxcGZmalBL?oc=5",
+"source": "HR Katha",
+"published": "2026-10-02T14:20:56+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -518,6 +608,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5168b7509fbed116",
+"title": "Maharashtra FDA Cancels Cipla Pune Warehouse Drug Licences Over Violations",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzhrdE9UQWpobng2SWo3end2MFdJMmlpTDFtSXA5YTNMbkVKV3l3bTVIcmEwa2Q1LWRxRXR4Nm1iRXhuZDNlWmlGVHhSUTFoTzNOb2tLMU9Eb2Q1TXhuNVFlRFVOOUdzUXZ4MXlUbzBicXhwZGlrazlIbUplazFLMTRyRHRFcExQbXRvVlAyMlJTd0FhQVhLSy05U1ZKZllZaU5mZFRCT0h0RWRITDNZWVlUTF9OR1XSAb8BQVVfeXFMUFpyUDRsLXpjN1RiRGduUEVEMDBoV0dlUW9KeFpoeGlaWG5zMmR0Y2tVaUJkWXhuaXdFVmNVQWhnTGVvY1RxMHBubUNDS1V5LS0xVEJCYkp0Wng3YWNRSkE4SXdDM3NwQWtJVDhwd28wSVFSVTdkVjdRWmtodWg5R0w5NC1tZWstWGpQT1pHX3FCR3pNbEVyLWpIaFNKT0NxNklNMkNqMmlpR0pUOG9GQWl3ZVFyOVFVQUg0UjJzNTQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T14:17:15+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d90add6f18ad409b",
 "title": "Coal India Allocates 93.64 Lakh Tonnes Coal via SWMA E-Auction in September 2026",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mcGpGNE9ZOWd5WTVWS1dyZzM5MW84Q3Z3dktCNXA3U2JiLVVrbDNhbDZhREcxcmFEeXcxVU1iQzgyTHZiZzRhZnJLU0RmSzBOc3FQRG5YY29jM3dSZkxj?oc=5",
@@ -531,6 +637,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a7e9e4fde2d770a0",
+"title": "Bajaj Finance plans to raise up to ₹175 bn via QIP, preferential warrants",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXBVdnMyMEtOMnVodVJ0SVFNLU9XUXNEbFZkcWQxYTlkcFNNc2NCa1lhZjg0dzB5R0UzdWs0cFhlYVhyRWZZeHZPSGhyM1J4RXRvR1dEVUtsclpJUUlpclBiV2swUnRiTjBDMGJHbkU5eUUtamxZWE9QejRjbXNvZ3loM3dnUFVDTU9TSUJrYjR4eVI0M0sxR1FWVFp0TDZXMHJFa3Y3bm9Bc3NBaGliU0JXdTM5bHM0MFBTc2h2S040WHFWMFVPd3lRZ1h1aFdxTWxvMm1Ra3Q0Z9IB3wFBVV95cUxNdTVBMVNJdndURFVqTG1KVW5DbWdwaXBqaDdLNFdnblcya29IYzg4Q0hWZHA1cUFraW0tVzctQWk1OUVUS3hFU0dvc3NzaVQ4Z21MeWtncm5rSlVrQUQ2ZkRzejJZcS1rcHJGWkFjNC02WmtxRURnb3o5TWUwdmpmaEo2UVFIeWEyTnpFdmhxMVJXTndYTmZKUkRfNUFhSDdoQkxrQmJQRnFIWEZ1ZXBwNUQtWWQ2aVZhR2RsbmtkTEswWVJISGw5MUhId3hENDRZQzNicXhjb2twV1VTQkJJ?oc=5",
+"source": "business-standard.com",
+"published": "2026-10-02T14:09:45+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -870,6 +994,22 @@
 "sentiment": "negative"
 },
 {
+"id": "382dc6444ec1d752",
+"title": "D-Street Bloodbath: Nifty Crashes 500 Pts, Sensex Down 2.2%; HDFC Bank Falls 5%; Why Is Stock Market Falling?",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbl83MmNpN3o2NEo1US05b2FPNlBrMU5SLUp4NmJEXzZySDhQSU5KTTBTRG5xbVZ0U1RUZVVBZHdEc2czdnc0VjVIMlh2NDRIVnNWSkFzUTZ4OGJQV0pSY1VaWXNkUTlQM2ttOU51R1ZSR0dyTHhYRUZwNzRHR016aU8tRG9iMEYzQlVTNHNuc3U4UFk4RzY0ODNQSXMxU25uUEdrX0ZjdDFYSWw0NExCeEFBQ2pFNnphS0pGWHoxY01QN3lwajNUeTZMSDN5b0pTc0E?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T13:07:30+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "30ef50391c6a35e3",
 "title": "Sun Pharma Publishes Postal Ballot and E-Voting Notices for Shareholders",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlA2bnhaNE1wd1NhMjR4SXYwM25wZVlXQzJDRElxbkEwODVhcGY4c3JDQWtERGE1b1pCc2hZaUl6SHZiWGQ5blkwdndKYkJyVE01bWMyWlV4S1lYS2gyQ3JHMjlRRnVxVmZCOFZzZXNXQVlnX0RjVmowWUpHMWdJTWozelpCQzVsbkRWaWd5S0xLdjBxd1FKcFM0MXZsSVIxMVFGZlpjbUpXNUNVZ0p5eV9oR3oxcHhvOGRoUFZha3VkeUp1?oc=5",
@@ -971,6 +1111,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7d14e2e1a17086c7",
+"title": "Il Volo tickets on sale in New York at Infosys Theater",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkhKUFVreC1WeTZkSWFfbkgxaXVnWjZ4RVBZaE5td3VPZmRiUUZvWWcyODNfaENBUjZHRDZwME9GdUtuSm1XUDJnTmcxTTM5OGxFcmRMZElYVW5RbnhKRVpRRXZWNG9Ea1J5SEtiRjdlVFpybE5EVmEySXloYXlyeGhwUGJNdnRTeDRaODc2RlJTaS1n?oc=5",
+"source": "ticketnews.com",
+"published": "2026-10-02T12:43:59+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6743,6 +6899,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "99e981bdcd2d9129",
+"title": "Second Hand 2024 Maruti Suzuki Baleno Zeta Petrol Automatic (AMT) for sale at Rs. 7,49,000 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDVjUU1fVXExNTZPOG0zZG9EbVRQc09sbG1JeTFXM01sYmF6bDVDQ2pFMEZDSFhiZnhPMGFja0hoeHIzV1pZdXdIUjh5d01GcURwS2I3OVlzOU9iXzlXaXlJaDV5bzdHOEQ1T0lTUnZCekhucFY2bEZHVkwxeGdLalB1Z0kxbVU?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T16:49:31+00:00",
+"first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50775,173 +50947,6 @@
 "tags": [
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "67967c6cae8a4425",
-"title": "NTPC NML Recruitment 2027 Out: Check GATE 2027 Eligibility & Selection Process",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wa3dmaGNQeUdxemJpTVM5NWlKQnd5b2l0aGdzTGE3YVlmVVVjVERSemJPb0FmbTdmbWFBbVc3RFJXVnlLbVEwTXdRemhwei0zc2tjb3diaktJR2NMOXgxSk4wUG8zaGs?oc=5",
-"source": "PW",
-"published": "2026-09-28T13:45:31+00:00",
-"first_seen": "2026-09-28T13:52:52+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4b0381c5a4a617e2",
-"title": "NTPC Green Seeks Qualified Coordinating Agency for Its Solar Projects",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS29qS0xuM3VvTjdyaGhINTJRcVdFd2hQZjVzRk5DQVRucVNRYThPRk04R29xdzY0VV9Lb3F6OEtXY1dMci05R0ZDNEhQMXpjak1mWFBOU2hfbVJwdFhEQml6UDlGMENxaWRSX1M2d2lHRnZHSjJ2NGZnRzI1eldPRndYaWowTnBvOVFFOTg5cTVJX2c?oc=5",
-"source": "Mercomindia.com",
-"published": "2026-09-28T13:41:04+00:00",
-"first_seen": "2026-09-28T13:52:52+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "90f217e2168bd379",
-"title": "India adds 5.5 million mobile users in August; Jio, Airtel drive bulk of gains: TRAI",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYl82QXBLbW50VW10MGM0aEUtbGZTOTlpbVdzMi0wVk55Rk5WVDRVNnZZdDBHVktsSVVjdXF5Vk01eFNNRzB2eWFkY3BqVTB4VC1kdWZseDFtYnNab1lQMFFyTTJrUzFLZ2wtMWRrNWg5WjdDY1RTMTZjUkd2aU5JT3l2Y2F1T0doN0RJejM1WWpaaFBPb0RaTTVIUFphUjB5ZFpZUEgybzE0MVRoclhWNFF5QkJXam5GQmg3WmQ0Nk9jOHFuX2xJaDBPNkxKOTVQMGRWdFdScGVyaUJFbFZscFRBeGZsTkJhMURwNFpNR1Z0MmgyQ3Bfc9IB_gFBVV95cUxOVXhsamV1aTdHallpQXN4OXJmZmRjcE1lU3haemVHbkc4Q01KRVB4dVdaM1lwMDVFdWotUy03bGplZGZxcV8ydkRxYnRFREtuYm5LZGJHWmdVWWxPNGx5S0pkaEhKbTdlOFFkZU4xVVd2aktpVjR6T2c3YXNVc0dubzd3ZzlmZVFoLVFlYkM2WXI2UXZlalI3cUQyRm9MbENfM01oT21JSS12UVh5ZU5ZYmFDOFJhNXVFdUtTMC1QRFh0aWh6RG1vZkdMZWZRc2V0R1QzQmgtQjU3dXp3eFFTOVRDQVM2SHJ1TldXVXBmTGl2ZmxLZWlEV2tfbGs3Zw?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T13:39:00+00:00",
-"first_seen": "2026-09-28T13:52:52+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "b45ad3652e8e3ab6",
-"title": "NTPC Invites Bids for 200 MW/400 MWh BESS in Maharashtra",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXR2WnJNSWpieW9MTFRYakdnYzJuUi1SREFFd3M0NkJoc21KNm9WbkNkX095V0Jid0llTXAzRE82NkhGbUNxRjR3QVdBS3J4Y3RhSVNHZ2VVSk9Wc1h4RVd5WWZDckdHQ2lQUUp5bGJuSUF4aGYycFFwb3d1M0lscERJSFQ2RXpnMHc?oc=5",
-"source": "mvapulse.com",
-"published": "2026-09-28T13:35:23+00:00",
-"first_seen": "2026-09-28T19:01:24+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bfa1ffa6186ff0c1",
-"title": "CMPDI Dividend Alert: Coal India Subsidiary To Announce Q4 Result, Final Dividend On THIS Date",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjFWdE4xbEZ5enR0cXRRTWQ5R0RZSjNNZWtMMmhEWDVNSkV3cDYyNFJ6N2t0OVV5eVU2bTEzU1psN2RHQkp4am05YWVzLWRHcmhtY0xwVTlSWHc3MDFoeHd0bk52N0xOTUg5UHNoUkpEM0k5Mnd4UkZicWFuWDlTamN6UWJUU0NXbUdpRGZlTHVKNWx4MHZRSDEtTTZCeC12eTQzWVpwSmJITW9zZldFRzhXN0Vpb3N4bm5vMjNiRktyVkROaXBMWHlrc0owaFhoZmkwXzJ3?oc=5",
-"source": "goodreturns.in",
-"published": "2026-09-28T13:31:22+00:00",
-"first_seen": "2026-09-28T15:22:08+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Results",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "43d9f34630c519ac",
-"title": "Adani Green to HAL: 10 Sector Stocks Trading at a Discount of Up to 59% From Their All-Time Highs",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTMzamJXNXRuY3c3RWZ4SmoxR3hCSnlWZlZWb2VpRXJ5Y0p3QVppWmg2R3FFWms4aU10NTVyUGJhTVNRUGxRMXNaUkRoUXo1YkFIOXZmRDNzUXNWV0ZDOFlycldsekJVQUEzNW9MQUxTUHZWVHNVMTVUSll6N3YwNWZuaHJnNzZKSFYtNGVxeWZOSXNXLWVaZXdUTTZDU0h2cHNNdk9SZTZMQlhOR0poTDhOR0x6cU1Dcmp4WDJpTU5qOVlZbW93ZlF5N2xRR3VVT3ZMQ01yRWV4QQ?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-28T13:30:37+00:00",
-"first_seen": "2026-09-28T13:36:50+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f3404142ddca1b4f",
-"title": "Chainlink Price Prediction: Infosys Partnership Puts Tokenization in Focus as Remittix Opens BINANCE500",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlBZc1YzX1hFWjFLYjA1OFdsOWFkaDZrdkI4OEVKUTMwSEEya2FtRU5CZ1Vtcm9NX1lmNW1kNTNWM05qcGpmRWFhRHpDei0xZTZZWVJHNFhLRVpDcWU5dVA5T3FmRlF2ODlRUlJZODY1S2ozVGFxREFJNWlrX0ZUVzNDcHFWS0kzZWFfd1YyRUk?oc=5",
-"source": "openPR.com",
-"published": "2026-09-28T13:20:49+00:00",
-"first_seen": "2026-09-28T13:36:50+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1b1b04d183923e50",
-"title": "Axis Bank Names 3 KMPs for Material Event Disclosures",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNThUVmMwTXlLNFJ3bEl5VjlISGRtcE5tYmtoTUlLOVgtanlmanRtTHdOMXF0VzVLMWNyQUhBaUxxNC1IU3RBVXRiMzZUZTJ2YWRFal9VRS1pTm5ZaXU4WGt4TzJnZ2M0b0hqeHR3N0VGOTVhS2RzTVBhS2tnY3p6UE5vS0lQdGRkcUNWWDFvbDQtckk?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T13:19:00+00:00",
-"first_seen": "2026-09-28T13:36:50+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7e80ae27e7370f50",
-"title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2ZVQkw4c1lTTmY1eTMtT2pYSTNTTW9KUGRRazcySVVHS2J0MzhHSTZYeGd0d21DMjRuRHMyRkxUV21Ic0tDcVJfV1FfRjFsUXlERHJnbGpmbVg5MnlTWXpkNFY2cXJNUWVkVk14WHFkOUdYdGt0WFV6VE1wTXBuWjk4dnZqZFFjc0djVzZaMlA0WWJQM2s4ZDc5Ym5MeGFSV1dqZHpNWTMyQmJjZGRIZWoxUE9FUUhPT29hbnhKZmJONlnSAcgBQVVfeXFMTmFXcHV4UWhnMjNIQXZsTXE4bDM3LVJTTVVwYVFZbXhYVkg1UnhmSk9tM28zNVByRFh5NUZxNHhZVUFDdmF1M01yZVFKQzdpYWNXQV9XbGtCV3RRUHRHQmlnMFFpVGVSVTNCdHRVWjJ0bU1kdTNpNzBqNHE5d3h5SnoxeUtvSl9GYms4dlVTakZFUTZHd1BzeDhyZUZIUkM2ZlpnSm03N3VjUXdEeVdNSHd3dTlqeG42dkJwQXBNZWVIRWlId3JEUU8?oc=5",
-"source": "Medical Dialogues",
-"published": "2026-09-28T13:15:03+00:00",
-"first_seen": "2026-09-28T13:36:50+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f1596c311db52235",
-"title": "LIB Therapeutics and Sun Pharma Announce Global Licensing, Commer",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTEwSUpOTnpZcEo0c21jTFpQYV9KWWEwRmFLV1g1dTBQRFlpX1BhbzJWS1NqVXFGUXRITXlQUV92VzBTaG1NaXl6WXA0QUhZZm1lcExoU0lKc0xLck9wMXpKcHF6cE51bVVlT2VlSWpkRWpqU0ZWNzZFV0FlZkRwYnpXYnB6YkdXMV9razdoa2dlWTVRdjhSYUhZbmZrdWg1Zkl0Y3BaQ1RGWXQ0RGpUa1dGX2JvQQ?oc=5",
-"source": "natlawreview.com",
-"published": "2026-09-28T13:14:37+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
