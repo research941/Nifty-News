@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T18:23:41+00:00",
+"updated": "2026-10-02T18:50:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "aff3c4cea5659ab9",
+"title": "Surya Narayan Panigrahi takes over as Executive Director (HR), NTPC Ltd",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk9LTFFFRjZYS3ozQW5jYkltS3YzRW93cnAwbVVTZUstYkxuU1g3SjEwMXB1dGoySUkwdWJQM3k0VXY5X2ZQTE1CYmRHejNmMnJFeUI5UVlVM09VSzBzUTVGbndKcTBqbV92SC11WW80ZV95dHk5SkhOR2ZBa3hmMy1BVEFhQjRZR0JGN1A4MkxhcFR5R3B1NGFHeVQ4WUVEM1Awb3dsXy1NUzlaSVFUNm4zd2nSAboBQVVfeXFMTUxISkY2bHNlRVlOa2xHa2lENmhkWVFVUmdmOUd0aGNSQXRnWUJSZjV0NGJBZE4xd3JZX3BseFYyUkRIOFViZ3I5SEE0M2RqM1c2RE5kd3FBZUVPdUQ5SVhXM1dUS0o1N0g2VkhfcFNoSlVVVWhXY2UzdVctVkZPQjhDMTFhYktLQzNyMXkwaDlxLXBwTWc2MGNfcFlfOUVhOHVQOERIQU5WdjQxYkJxWGxxalA4bkxEaUFR?oc=5",
+"source": "MillenniumPost",
+"published": "2026-10-02T18:26:23+00:00",
+"first_seen": "2026-10-02T18:50:16+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fcfeaefda74a4ca0",
 "title": "Titan Machinery (NASDAQ:TITN) Shares Climb 6.8% - Here's Why",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWNPSGgxUDJGQ1dzaV9NOUNTWnVEQXBPZ0hzdldlQ3hmV1pJeGZydEJfTkRjeU53SWtoS0t3Qk9VaGJSdWt1TThtYlpjTUxzSkhObFg2N3pXUm1lUWlNWlcxN3EwTWFZcUNnekFZX3RpTHcydE1sS3BiNElXMU1QN3pXVWpzWU1aQWw5enU5dHhZZlpWQkUxVS1ZZTBqbVhBQ2p0U2R2cjV4akhIY1lyRWc2bw?oc=5",
@@ -592,6 +608,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e1a3a63b55ca0334",
+"title": "Cipla Disappointed By Maharashtra FDA Action, Says Pune Warehouse Complies With Protocols",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGVoRlU0cWtUQlRPUk5SdGlKRWVUXzNzZE1RSjc4cEVrbl82dGJaR09CRlV0U0tCMGliNTl0UjlzZ3JsMVQ2V0xxODRFeHBFUERIOWttcE1PZ1UxSVBFSEw4Z0xJeWJnd2lWOTBQZDQwekVRd1hfc3ZwUHByMFlQMExRQXNWVGtISzZZZXhBblllQTFoTFd5c1l0LVZBM3FHLVF5QmxGZFZnUDA5Y2dzRU5kQVlZZDZ4TU5QeFZuMkxNS0JFUU9kR3pn0gHSAUFVX3lxTFB5U3VlbHNuT1ZaX0F6SEpKSFVlT1NiMDdkTzB4Nm96MlVLaEZITWVnSGVoUG1ENFFhd284MlN5a2NIQ0lkbTBtb2d1dWFKTTJlRjgtdEVRdm1COXZlMnl3ZkdIVXJYZXRwdXI3R2htUFFOQk56eEVFU2N0ODVSRDd2WHpIRDJIdWpLdU5qd0c1Q2lHbkRVSnlvdFZIblg0SHlsaVZkZTZYM3IwcXB2dklhcDc4Si00cVNyTmRHck5YYnd3cW5FNDd0ZnIyS0hYT1VrZw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T16:42:23+00:00",
+"first_seen": "2026-10-02T18:50:16+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ff870ae7b3d7ddaf",
 "title": "SBI acquires 40% stake in Reliance Industries' ₹13,000 crore bond issue",
 "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYmd4RnpDaUZ2LVk3WHpFRkY4WkVaUHJhUTVRNW9SRjFxU05EVTFPZlBtbTB3ZG1NdU93UUZteHFWZ3YyZV82d29xNVZlRlE5VDFCektwOVJHVHM?oc=5",
@@ -625,6 +657,24 @@
 "Pharma"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b4682aa7d52423b5",
+"title": "RBI Rate Hike Ahead? SBI Research Flags Inflation, Rupee Risks For October MPC",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzY2aEZoN081VWpBYmlHY0l1MFdDMlk3aGZZN0VFdlZfdzNlVERaVUVHUXhwSzBOWUVRdE5DM2UxVnBvT3ktcXdUaW1TdGZOS0FBZTRLV1NfM0kzYUdhUWIxQVdtTVV0YkpVNC1NcG4yYzk5cFB0VGM0VFR6bGxDQnBPd2JWdEZvay1qTzVfTHg3blZQMkNyUV9BeDNPODQxUFVQc3VJVWlHV0hDdGJTX0w1N3k4NUdzcXFHazRn0gHGAUFVX3lxTE5WTTBLU0RZUHhCdWRIZXhESWRYU19wTy1hcV9BTEhWT3FTUDkzUVVEenh4RlN5dEoxZ1BrTnh3Z01abzBjZEF0N01TM29KYXFpb2tES0Nzejc5YnZiN3Y1TXBaN0pDX1dZUDcyYy1TLUZFLU9ZQ1pYdnNwQXZaVlh5X0VHZlJwcGVPX2w1UUVxX0FGUHVORDU5bVVrV3AyRm9HTHZ1MXl6UU15U1J5MjZDZlBCZVBnTlVHZ2I4T3IyRkxDa21hQQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T16:30:20+00:00",
+"first_seen": "2026-10-02T18:50:16+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -1031,6 +1081,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7d30cc56a9c34cf4",
+"title": "HDFC Bank's succession settled, but Anup Bagchi faces execution test",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFNSQlBHeGFwYTRkNGVNUEtKNzl3QmRRSzNSaFl6ODNUR3JRT0Y4ZjlPR2NPVFZ2OGxINlB5WEZZODFMT2RZaG0xellUcTNJQ1N5Tkh4QTBTZVR1bVk4NUxHeE5TQzJ4U0ZGb0FqUDFJYkhEakdmbThNSFdGOWFFVnlFYWREQUVORno1OEFBLXdEcFRiTGtiSlZpVlFrXy1lZ3BRTDFWLS1rU0lkeE95TzRyTHJuYlJHaUdyOWlIeFpvWVFoUEhsZHhvTGpLMTZfRFU0M20yX1LSAd4BQVVfeXFMUG5leGE3SHNPX2VQR19oLWZoTGExSDRWM21RV3o2bmZVZjVKekltajJyT2REcURRN2lfaHZ5Y0V1T242SUl0Qmtja0kzVEtJUWRyTUhGSVZPVWpoWGhMbGpGNUxQcXhlSmNRekNpWW1jbTU4RnVqTFRkVTA1eUlCX0JHVzZCM01CSzJXc0hTa1NSbERleDNDRWRJTTdiVmVUWWJONmUxSkh6Z0NlQ0JIRjRoQmpwRVRNdk04RVhCanJDdl9iNDRETjRWTTNwM3J5eVJleUszbU5IM0VuS1JB?oc=5",
+"source": "Business Standard",
+"published": "2026-10-02T15:21:28+00:00",
+"first_seen": "2026-10-02T18:50:16+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3450,6 +3516,22 @@
 ],
 "groups": [
 "Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "166fc3bef5f3c9b4",
+"title": "₹2.6 trn projects completed, being executed in Maha: Pranav Adani",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbnpFY0V6VzhvYUM2cGRkY2s5TWV6T1A0TDV2QzhZOEg1b2RzRUJBUG1DcWVRa0x6cUt6LXl2OG8xV1ZjaXZvdVZWSW1Sc3FfS2lqYWZNTEo3bGpRNUJ1ZWVTOUNDTkJlUGFGWFRlSnVZcFdtZDJFN2NKT3JwT2JoaEhuOThwM0oyUm5WLW1GRW9WNTRzYTFkSUtUc21oOV8taFAxRGVtUXQwbzhfOVo4dGxPckdoV2xNSGk5SVZFeE1uc0I5cEUxSFlpYjPSAdIBQVVfeXFMTlM3VTF4U3Rtc2NEd01zbDhnX0k1bmJGN2lHNWFtOThKTjZEYlEyUWFRUzNJejQ0TDhNNmpGZS1BbGE1aUkzeWY2ZjY0N3B5WkxDMU5BOUlaVmFPNE4tUzlieE9KUWVVQXZkeUFTbVZ5MXVBQVNRVzU5RWxyYjFOTGtPeDhUSEZVVG1MR3V1OWp6MTBlYkYwbkp3ZTItbTRORGpkdjUxUXZlUUNYZjZzLWVIRnlNOFBPbDRmdHVBOHpHanJ1ZU1SMkNCM3VUUFp1OHh3?oc=5",
+"source": "Business Standard",
+"published": "2026-10-02T09:17:20+00:00",
+"first_seen": "2026-10-02T18:50:16+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50851,88 +50933,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "6802a8cf9fc7bee4",
-"title": "Apollo Hospitals Puts Bengaluru’s Auto Drivers’ Heart Health in Focus.",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXhqS1g1OS1uQXRWaFlwUzB2aGdaU2pXWWxaemN1MlFuS3lIZFo3VlQ1dUV5d1ktRTNXamZKakRfSy1zUEUxZXJ4RWlydTloNnV0NDBqWTd3TkNXX3N4Q3pyZmdzRTV0MFVhQmxubS1teGJEY2U0VFFnRnV5ak1FZC1TcEV1dkl6bmdZTWhMMDN2aHR6NnhWZlVoNTdxMl9RN2c?oc=5",
-"source": "TRIPURA STAR NEWS",
-"published": "2026-09-28T17:36:00+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a9223c9e10828440",
-"title": "Bharti Airtel Sees Sharp Open Interest Surge Amidst Bearish Price Action",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1ZtXzJvSHFhbHdHcmJOQWhPaG9Oamh4aUlhbzFsSWo2ZDYtS3FvNV8zT2Rpd281M0taSTVFSlp5TUpwNmxzLVJ1VGR4VEtkZzJqaXFiT2NweVhzV2lJZEFNYW9JbEhfQU5DeWZmMlNGd2Rtd1JfenRGaEVQUndoNllvdzVXRXk2MGV4MjVxMU9sU2ZfR184bnlveG4xc1piMzdyUld0c3B0Y3RnMElyS2NpbHpOcERGY2phNW9UaHUxcjNjdEVxbUVR?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-28T17:33:17+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1c126648da3822e3",
-"title": "Bharti Airtel Ltd Sees Significant Open Interest Surge Amid Bearish Price Action",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGZnZDIzblB0R0ZCTHNhMzlqLXEyNkdDendjbjAwU2M2Y05HQ2pXZUJkMmc5SVJPeXNDSEhJYVhURTRGamNqQ3ExT0J2Tm1NTGVJdWZKbFp0Um9zSWhoX0diTGx1akVOYlcwdUhNYnliQ0E5R1JQWG5uQ25GRE5SVUt6Q19aZkYycUNPQTZ6SFdzWGtNLWd2bV9KRmx6bjdCc1JWNEhwVW1Ha09sM0F0WVE2NHpHbHAxU0hxTGVrOW5IZEUxRE1TaUZaVDNwT0IteUltdw?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-28T17:33:16+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "79b502c5f868b689",
-"title": "Mukesh Ambani’s Reliance Industries eyes to raise up to Rs 10,000 crore through ABS deal",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblhWTnpQZzZUODktNWN4OW0zYktBaHFJMzZKSVc4VTVoaGVrei1ReUZIYUJVdWFJT3hubFpNUW5Sb0dvM3gyTndLaFlTX3Zfem5qcVNWMHNiVjZ6Z25FN1BuQ1l0b1dGRjVNX1dfMDFRQVBGdzdxanBQLXRzTk5XdW44WDN6SURydnpCN1RISkVfRUQwalVsN19hM0JKaTh2SzJldWpDVjZRWmU0ZjFMampvWWswMGswMVIzSlhaQUYxUUZ4UmNqWF9sRldUT1BDM3pkTXNRY9IB3AFBVV95cUxPWERWQ0hPbXk3cm9xanpleEFjX2Fsa2xaNUphSC1BZzVkaW55UnhiRGZDOFBpU2pDT2w0b1R5QlNuZG5jbUFGSjdSY1hsNkh3bXhCLU81QVBYMWRVS1FCdjNIRW0tZmxEVVl4Rmx1dUV1RnJRbG9JZk1OLW5BZ1JtbFh6UnFlZUZVYzhZTGRTNk96ZVBtOGRDdG1GcmVmMlZFRk8taFNCRTF3WWNERy1SVGhWQzJURUtRay1zaEFUUlVPVEVaOHVBajVVYk51YTE0QU9oR2V1TUNpMEMy?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T17:31:20+00:00",
-"first_seen": "2026-09-28T19:01:24+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "28537feba01a95bd",
-"title": "NTPC Talcher Kaniha resonated with laughter , Hindi Pakhwada 2026 concluded with great pomp",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZnkzc0EwT0NTeHRwLS13NmdqMFUwZ0FaWlFlc0JLTG9aOTdZb1lXZnpSNUFyQi1zNV9qSldRVl83YW1rdS1OYm8yVURLejRDeU15QTZqeTgzS0ZUaVFkSnZBZmNta25WT3c3S3ROYXlaQ2w0NHFlUQ?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T17:28:00+00:00",
-"first_seen": "2026-09-28T17:32:47+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
