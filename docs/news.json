@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T17:48:01+00:00",
+"updated": "2026-10-02T17:58:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1103,6 +1103,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "db78d1bd72160d73",
+"title": "Maharashtra FDA Cancels Cipla Warehouse’s Drug Licences In Pune Over Multiple Irregularities",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG1PUEVTR0Z5TXRvWTBxVjJjSVBGdTFoaFpwNkJzRnVnR3RZY3U3am9LR3B6QXljdmw1ZFVZXy1xN0Q4TlpSaTdqT0lacVdBaVFlQVVnd0gwTVlYZzZhMGNzTzMyS3dLc1dsaGt5Q0FMSlhwVmhHYVRvX1NiMmVoLWQyOUtmeDNBRjU4SzlYWnJCQkI2bmtHVlNpMzJsQml6aGxuVmRrMk5XQzBPbWh5QmlQZVZpTE5YeWpQdHMzd3pnbmhEeFZ0Ti13azHSAdIBQVVfeXFMTmJqR2lsZENBVXFFQS1xX2RZai1ETWV5V1dVN0VtLWZ0UkZCelRIbEpFc25nUl9wQ2UwMXhLOUdWbENqczE2TkJ2SW5JcTAxLWsxRVNDTkxUUjV1dUJzbUxOeEx4Y3FDZ1FyWFpkc1hIWjRURndrdXBocS1LdlpqMGtrbEVXWEZJV1pJSjdibUNkemZXNXdGTy1hU2l0ZkM0QnM4ZllJZ3N4VmRFbFNZaVY1NG1XZTF6aXF4LXFaQU5adndNVlM5NVhwRE43R0JMWkhB?oc=5",
+"source": "lokmattimes.com",
+"published": "2026-10-02T14:52:08+00:00",
+"first_seen": "2026-10-02T17:58:59+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50925,24 +50941,6 @@
 "Tata"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "394b98e8f16dcf69",
-"title": "Gautam Adani, 4 group firms settle with Sebi in minimum public shareholding violation case",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeGs4Mlg0RE0teGpPaFN1MXBDdDgyVTYxTy1MT0hSUnRDLWppM3VQM3NZbWFZTl8xM2txWUF6NzNXcDVaOWZtRUkzZDNEbHVfdWpsQ3BqN0tIRG5CUGEtMmNFTU04NXFrMFJTOFR6ZUFuTTFlUVVxb25PZzV6OHk2SkVwZkJQdk9SNGM1dEFfMnpYcl9XYnhSVGxuRV96ZzlEWVQzeWF4bTNJcUxPLU5rWTUzZExIVGNDRWs4eS1oNmlfSHBQckY4OXV6eDhxZ0dkU0l5RVlzZEZXUUFRSkFqNDdDanFpb0R4WTg4TU5vaDhSSUhvVFUwRW5xSGlyQnNGU3JRenZ30gGLAkFVX3lxTE1RVlp4cGJJU1RZLUE1WDBKbEdodUpla3J1S2dsWkdDMUFJM1Z4NU5kYmhhZjVrZG9XTWt1NkZvSm1Na21fb21RTVVnUlBYZG9ZZFo4d0RmcG01WTk5OURoNWR6UzlMNGFTWEpZM2lYSGNaZUhFR1pnSnltbFRoNWRqdklldEtHMXlnV2haZm85OFRwOWJWbWxiMllBUWZaUmZHVGI3cUhXV3JSSGRHZGlFeHV5YV8ySENjXzkzbUdNeC0wTF9sY3I5eF9wVGJ1WXNDQTZuaFhKTmRVclp3Nm5IV0R1eTh4SndxeWtNRl9EalkyMXcteUdOSWFNVGdXTTV6Y0ozblc3S0NHYw?oc=5",
-"source": "timesofindia.indiatimes.com",
-"published": "2026-09-28T16:56:00+00:00",
-"first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
