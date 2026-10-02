@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T02:46:30+00:00",
+"updated": "2026-10-02T02:58:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "10d5e0f9120c2a4c",
+"title": "JSW Steel Expands Retail Footprint with the Inauguration of New Branded Outlets in North Bengal, West Bengal",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1lPUmc3OHJVRU9YSXNXS1RPY2NBb3ZiZURIWk5FQThIU01IOUVrNmF2LWVTNjZEWF9obmZybFB1SUNoNUpncTUyX2VJOWZuMnhHempWb2ktMmFPZnhhSEJ3YXVvZWFFVkl6Wko2UW5nekhWU3BTNDdZeXpKUlgtalRNZFBFNHk3WHN5by1VR184d1MwTUtQVDFhZUlfQVdKd3ZFcTN4eWJuUkU5MUF3M0hwRVVDTVgzenNlTFhUNkNLV1VKZHFyWXF0LWhBZm0zMXd3WmwzZ3dBM2M3RUlMT0xvcUs?oc=5",
+"source": "businessnewsthisweek.com",
+"published": "2026-10-02T02:46:56+00:00",
+"first_seen": "2026-10-02T02:58:30+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "168b08f25c66eea4",
+"title": "Bank Holidays Today: SBI, HDFC Bank, ICICI Bank, other banks closed for Gandhi Jayanti; is October 3 a...",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTDd2NWxtUG5MWV9wZVJSdmx5ai15TlVXel9ld190MnM2VkZ3ODMzUG1aT21wUnFxOUg0Sk9VeFFSdGNLUjREQXBLOTlYNE14TnVBUTBlVWRlbHBpVE5JS1JmcUVkMXZvSVdGSDdfa3ZFTmUtVmZfWUVJWFQ5dC1pRjNwWnhFYWR2U2l1eDUzXzdVSm1EekdfcE9CekJLajV0Mks3NTZfWk9RVzYxTk94Z3NmN2xZSTM2c014Y0VuaTJhTE9OUFhDeF9zVEM3X2JxbDlaeXR1REZLT1ZsWWlMSjBPazdGMWh6blFZUVZueVZ2UmcySkNuQkJsNjJ6Z9IBgwJBVV95cUxObDhGcVNLWm5aV3BpME81ZHBQeUFCZ1RZVDFyaG9wYk9fdzd2ZkYyS2ZQQm5EaWl6REszZXk1TERvWFZIb1pmOGpsRk45aUlwLWNqU24zeV9JTWVod2U3elNMYk92RXc5c3pleGxSYnlTTVVpVTh4ejd3RzVRbW5iLUVLb0o5U21NTlZMSm5XaEJxbHRGSVFBWGUtbUlNS2ZST3ZfNUFiQUM4bUo5TktsWE1LQ2xjel8zVG10dG9QVXZpeTJFUUh3aElrNGZrak85Z1BoOWZlVDFzZ2VpRlp4ZzZGSXV1ekRRODdMUU05d0owWWM0Yl9jdW5IYlZnLXpvVVRz?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-02T02:42:00+00:00",
+"first_seen": "2026-10-02T02:58:30+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0a226af755f035a3",
 "title": "HDFC Bank shares: Will stock finally reward its investors after Anup Bagchi as new MD-CEO?",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd2hkOTRLUy1pZ25EYWFnci0xVXJ3YWgwcmtkTUl6RW1ta0VsUk1sQnJiUTlKX3QwWFpETjVLQnJ0UXFJN2JjTllGaEVONkxjdzFfM0cxbFVkMkRTU2JtRHozdmFNdlJwckw3Zk00MmxhMkI3cHp0aEpuUk9xckVDdVNUNDM5TUJsWE1nY252SUlOV3lWSzdrQjFWLU5YMkl5VVB2Uno4ZnJ0bVJhVEJ3QzI2TnhkLXNWa09xMnY1eWctODFVRVdlTW9wZUEydUowU2pzSGNIUXZtdGJKWkJRb2NRZ1VRZkZXb0EyT3o3Ti01aWvSAfMBQVVfeXFMUHdoZDk0S1MtaWduRGFhZ3ItMVVyd2FoMHJrZE1JekVtbWtFbFJNbEJyYlE5Sl90MFhaRE41S0JydFFxSTdiY05ZRmhFTjZMY3cxXzNHMWxVZDJEU1NibUR6M3ZhTXZScHJMN2ZNNDJsYTJCN3B6dGhKblJPcXJFQ3VTVDQzOU1CbFhNZ2NudklJTld5Vks3a0IxVi1OWDJJeVVQdlJ6OGZydG1SYVRCd0MyNk54ZC1zVmtPcTJ2NXlnLTgxVUVXZU1vcGVBMnVKMFNqc0hjSFF2bXRiSlpCUW9jUWdVUWZGV29BMk96N04tNWlr?oc=5",
@@ -546,6 +582,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5a4df7a16c03741f",
+"title": "Kyobo Life Teams Up With Circle, SBI and BDACS on Stablecoin, RWA Commercialization",
+"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RU1ZLeUQ5Wi0ta0VhdUZEa3RXTHozUUdTMlhGRS1LbGJDOVluWmlBcjV5R1NRdGs2OEhHZWI0UVZZaWMyTkdsSkJRd1I5WkpvcjMyeA?oc=5",
+"source": "bloomingbit",
+"published": "2026-10-02T02:15:46+00:00",
+"first_seen": "2026-10-02T02:58:30+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50735,54 +50787,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f5703deed7a1d805",
-"title": "JIO Financial Services Share Price Hits Fresh 52-Week Low",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHEzT3dfa1JGelVHd1daMFh6V05ZdGZESXhjc1EzQVcyeXV2OC16LWpvTThLUTM1Z25ub3M1UFN2LVFrbE51NTVScUQxaXcxZ0l5anRUUlBRZU9RMXdxaWM2bGd6Y3ZQTFBsUy05R3JhcWxCZEFlbk82T2FVbjRxU09FbDJiclhDRmlHT0FRZk1Tb3NB?oc=5",
-"source": "Univest",
-"published": "2026-09-28T04:22:00+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ab1c40a14fce2bfb",
-"title": "YES Bank shares fall 4% on Citi's negative watch; Axis Bank also in focus",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUNPamx5d3d1djZuWHFGc2hmNE5aYmw5S2tfNkVhaERoeDh2VTg3RXVmclBqZzVnbEE0dk1STmFuSTk0blp2SnRkbDN3WmlKTTdqU2dFejlrTk1PSFJuV24zVi1EZnoxd2tta3ZfVkpjVnVncW43YVFBZkZPRkRXYkdUX2hGYU9zRjFlVllzcEJ2M0FQc2xZenFmTC13MFp3SGVuOTF3VFZMQVBqMWxuZk5wOXp3T29PMnR0RFl0cE5xM0hlcjVxUjc1b0lPRktOZ3MzTNIB2gFBVV95cUxPaEdXSDVLZDAxYXhaLVFSVzNOVWhBc1lsZW80Z2d3ZzBFTkd6X1FodnhRM080LW5uS3J0Z1l3UEdWUEczRG94b1FOQk9DRFg4bmlBbGMtTnBwczVTX0tycDZDVFFvOWhycHdLVFF0NlNOeHlRdkRYck1xUzkwNnlLdjhTUTlIRU1ZWXZqem9aVUJHTEdEY0xPR1hFUGZESUJ6djZCZ3JhT2NSLUhZLTBmM2poSEZ3dnpyQ0lUR1JkNlRFU3E4S2UyLVFpTUlBdGNwQy1aWHBpTmx5UQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T04:21:13+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "09db68d39de58ac2",
-"title": "Former SBI Branch Manager Handed Prison Term for Siphoning Funds from Deceased Customer",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWNaSE81Z0kteGxnQ2xZeG5rY3hSYlE2bWhQSk05dm5IREt0cUVjMjJoWVVmN3NibjFtZzFmcXJZUUpIanphNUdHaGNnblJRNmxXTU1LeXEwczYwb3IzNV9wakFKZkVyR2ZQZHdlQnpxaXcxMUxEMUtGSXJ0RlkxRlNDQVA5T3ZxbVVtQ0xUc1JkUnpibzgzdERXdGN3Qi1kVlhtOWRCWWtDSDRB?oc=5",
-"source": "Law Trend",
-"published": "2026-09-28T04:20:45+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
