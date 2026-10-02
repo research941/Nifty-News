@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T16:37:37+00:00",
+"updated": "2026-10-02T16:59:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -479,6 +479,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c84080a7ff143319",
+"title": "Fadnavis opens Dharavi Experience Centre as Pranav Adani maps ‘Mumbai 3.0’ vision",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVVMWldaTzRMODNoZS1JNVVmRmJRdko5amdFY0Z3YXMtUkI3QVEzUFpSUlpDTDdteUozb25LM3J3Smp4TDhBTGNmZ0xfWk4zMmJMSm9heW5sM09rTlFGbERNYmVhai1QZjN2VWV0YlFmeTBZcU9CSnZsWXU3VkhoSFdCekhiOGF6eGhUZzlqR0lROElHZlF1b1RxY29ndzV4NmY2VUp6ck1wSTU2ZTBsRkt2bTRHOVU1amYzdtIBygFBVV95cUxNOWFETHRMTkw1SmlrYjdDa2pmaVE0ZEpER19TSlVKNVFxa181S3U0azg4NW5OVjhzU3FacDNVdE9aakx4cXJDc1h3OXEzMWI0Z2tPN1ZpTjZMMU94eVZoTGpiV0pCdnotS2xLMU5BNmlpUzJpbFZ1WFVZdmtFYVRNZ1FoTlNRRGhBYS1jdEY1WmJfSWg5ZmltN0hHYmdyTE5teFF1RFdja2NaVmxCZWM5YXJTZFdadkFRYzlJWnJmN3dTUENQaWY3d2lB?oc=5",
+"source": "Fortune India",
+"published": "2026-10-02T16:18:56+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "87e4b17f92340291",
 "title": "Surya Narayan Panigrahi Takes Over as Executive Director (HR) at NTPC Limited",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlDT0J6R3pGakdWZGJPempOUy1WZDVsUkJJckJBVmNRdWNMMjdFZUlaNXRoLXpJVG00WVZKLVREY1NZSmdOTlJvMkVqNU1MN2pVYTlGdGFMRnZjZUltdFVqaUNsamtOb0NBOGxUaGxTOXNLdHdKYmQxTnR5bUFVSWFGWm8tSm5hS3pXc3hicGdLV2VVa2NUNHNnMA?oc=5",
@@ -613,6 +629,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "62f4cef477a62e34",
+"title": "Cipla Pune Warehouse Licence Cancelled: FDA Flags Misbranded Reactin Plus, Drugs Stored on Floor",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSE43Wkc2czRWVUQ4TVViU09LLV84UVVCbkhEd0FVN1hkZU9WSEV4d1R4bER4ZTd5S2djM3hZR29MMXZpbzNmaGtYNTIyQTNpZUhpX0ZBMWgtbUVoNlBMbGR1YTh0NEo5cm8zdXYzbzJwNHQ1bXpMajFaVXNNbXg1eE85ajkwREdtczNaR2FnbDBYUlJkcExFeG9ROHVSZXE0QzZnVHRwRDBJRi1MdEl5c3ZUbTM3RkE4MHE3YTl5M0R0ai1fV3hjblZSbUlKdi1uTUVSVU1oQUZWUGvSAeABQVVfeXFMTURGYmNOX1hKaGctUThreER0dU1hNThJNVB4dnBHd1dxRGhIeU1SMWlCRXhUYm5WX21mNnVpaUVMUG5rWll2UDhMTWp3dHUwU2FNVDBVUUFaRUVQNjltaUVsZXF5c3RiVGEwak9zSjZXVEQxdFdkT1hmYmRpWDNkdFZNanAwT0JQMG1zQ1BURTBnem5yWHBFZzlKMElZOTdDbXlRU3ducWZLMUk3NTg3eUU0U0Y5Und6UE5JR0d3LUF2Z2IxaUxJeVhQS3h2VVRlUXZBUk85eTYwelNTZmR3dUY?oc=5",
+"source": "LatestLY",
+"published": "2026-10-02T15:37:14+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -797,6 +829,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1e4c4f442ae4a26a",
+"title": "ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbkRqV3BNNWx3Rmw2SXdYeUpOR1BsTUJUY0NHQnNxbENOMWhJcmh4SGdDS2txdlFCZ05jU1RlN20tRTZnSS1rOUMwMHpaWDBlZTdYeWxHdVFsbHZ4cF9senhSMXpXWnJiNnV6cXlzby0tMlZZckJZcVlLS2FkQi1pSmU1M0hvRFYybDdPZjNWa0ExSGZCUmdDMTE1UkJXVFg4UnhjZmYwdkNjUm5yMlBRRWFxMlhCSFpTZzdGOGtfUjAwclRfejRBRjhWZEdQXzZmakVCMVhlb18zbmdi0gHcAUFVX3lxTE9uRGpXcE01bHdGbDZJd1h5Sk5HUGxNQlRjQ0dCc3FsQ04xaElyaHhIZ0NLa3F2UUJnTmNTVGU3bS1FNmdJLWs5QzAwelpYMGVlN1h5bEd1UWxsdnhwX2x6eFIxeldacmI2dXpxeXNvLS0yVllyQllxWUtLYWRCLWlKZTUzSG9EVjJsN09mM1ZrQTFIZkJSZ0MxMTVSQldUWDhSeGNmZjB2Q2NSbnIyUFFFYXEyWEJIWlNnN0Y4a19SMDByVF96NEFGOFZkR1BfNmZqRUIxWGVvXzNuZ2I?oc=5",
+"source": "ETHRWorld.com",
+"published": "2026-10-02T15:02:39+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -1369,6 +1419,22 @@
 "source": "The Economic Times",
 "published": "2026-10-02T13:45:57+00:00",
 "first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "750c0eace4a83d84",
+"title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjc3T1VxaFEzMDFxNVptUUF1RnFiLUJGdmo3YjdEYnVtQjZ0aGdoU3VyaEFUaU9NZGlQSzBXcDVxTUY0N1VtaTVaWl9EeU5NOUR5SlFpLTZLNXV1ZjRYQXZVanU3ZmZ5Ym9GMEgtUXdFaU43d2NMaFI3SEdiTGxxNGlKNXB5VHF1djRhYUdCaG9EaDBiQldmUmlzOW10Nk1KU2JibGdZT0NaOTg3NE1GQkhONmpycHFHNmFKT2o1WVpZMnRobnJDQlNzUUdWZFNXTmlGVTZpelpvVkNqcENLckdxNVpyY2Z4R2M2RUs0MWVwN3pCOC1uZW1haw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T13:45:57+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -6032,6 +6098,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "52658fdfa8c3546b",
+"title": "HDFC Bank CEO Sashidhar Jagdishan took home 15.13 cr FY26",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR25NamxEajN0bTV5UXRXQUVuenpXWDdEMjF5eG93UnZKTFUyR282ZTh2eWhMRl92UmIzX1lJVlozRXBmc21nYWZzbXRia0w4Z2NoVzBTX2xiVEJZNDdJbXBYakR5RmprNUcyNGlsVnRvczVfNWJtT01majdVREQyU0pyOWJDb1Q1OVk0VW5Na3ZLUGJTdklLdGdlaGkwTlJpMFJ5dVVLUQ?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-02T00:57:08+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7aac516436870747",
 "title": "Anup Bagchi – strategist with an all-round experience is the new face of HDFC Bank",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUs1V0pRZzFYRjNjRFNrSFFlSUhuQmFVZUh4OXk5SlJKTUdpQlFJVEw1V0QxTnJyT1FKd3ZHVVFwTEpaOGxxaEJka1ZJNWRUcE9mZXlzVkNjQTU0RUVUeVRYX0dHQ1BjWXlfTXdOMlZyQlMycDZGS00tYkcyUENoV1AxUkJwSmV6bUNFdFFZZFdLQ19vRDZ2ejFqcDdWaEdicm53bDBsQzBxanI1T0lHZkNxZTVoZzJyZkwwNTBoX3ZCbGNUajZRanZhSlE5OGthS3Q0WGNFWdIB3gFBVV95cUxPcGRCaEI2NVVBTlNCS3JfY04xWHhvMHVjZ2hFM3E5Y0xBTlJmVG1vV0JWdWt5eEpKaVNTV2d4RTVvQUI3Z05LYWQtWGktN3VrQ2dPTUF5T2hiWUJpM0RGd1F4TWhEV09LN3NFeHY3ZWJaS2d6eTJpa3lCbnBlcnQxUTB1c2NJanRUNDBfUWRSYlpuX1owMkw1QzNzS1JlMy1iTVVSWXVnODlaVUtXNWJqSlU4X2Q0Yl9FRDNQTVNRX3JGeUNyTUVHT1FFNGNYU1lVcnJZMlNNSTRjM01aaWc?oc=5",
@@ -6296,6 +6380,40 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9cb38f83e035f91b",
+"title": "Levi & Korsinsky Notifies HDFC Bank Limited (HDB) Investors - Lead Plaintiff Deadline on October 13, 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSjJHRENkZmt5YVVHOWdKdWxiN1QyQWpKcW5oc2xJdjVpckYxcjRLcFV5T29XalYzTk5iNlB2bXpyRHlpVmRnX1F2aWlZWmtqQ3BlTW43NVEzM000NFFBM3hVU01DTHdzVWhfbmhWWjFwZlFoS3FqYWIzMHVWb0xxN1JVb1dFZThCU05DeW5MZXV4Sk5yNzFJbEZuVzZLelRzWWRoNm11WG5hV3A5WHR3RWJhV1NuNG8wZXRsYUxtZFdFRU5udUM5OFBHNHBzOVVlR0wwYmVXSVBDU0EyX3RWUE5wYjI?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-10-01T22:58:38+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7ca56fc8c67343e9",
+"title": "HDFC Bank Names Anup Bagchi as CEO in First External Leadership Appointment",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWZOR25MbERZcFFlUGxMTnZubng2N3JhMk1aenNOWHd2dnQ2ajlTcWNPZUxKelhwQjlfM1ZVOFAzblJaUERfUFJicTBZeGJKWWdXTEhkNTNQQWFGRHBPeF9NVWFTb2stZkxBSnBoQ2p0R29DNmVNUUZYUzQ1V1ZVSVdEVV94UWlU?oc=5",
+"source": "Brand Icon Image",
+"published": "2026-10-01T22:48:00+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -6962,6 +7080,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5e02fe881264c33f",
+"title": "HDFC Bank appoints Anup Bagchi as MD, CEO",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhfNkpJOGlidElWQjJxUTJpNm9TMnA4SklNX3o4T1RBVktWeEtSUEhBcGhZeWlzTTF0WHkyU244RVBEckpQUmlSWGJNanBIenJpVUNNNEt2Qzdid3JqdGtzNGduX2J1MU9IOHFFR1F2R2FtMUFvamoxMi0yMGxOYks0c1dNcnJlcjF6SjhsUHZIbldf?oc=5",
+"source": "Pioneer Daily",
+"published": "2026-10-01T18:31:55+00:00",
+"first_seen": "2026-10-02T16:59:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50817,146 +50953,6 @@
 "FMCG"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7692ff701bb924d8",
-"title": "ITC acquires full ownership of Yoga Bar for Rs 645 crore",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXlodG0tR3pTSElVTmxtbjBBclRtRm5EQWR1OHNQUUlKVWc1T1pfNGxEbjRGWl84V3JDMEJOUUFTX1NJc3ZReGFITEEzWHE2ODRRallaaHhYNzA4SmJsQjZjVmMxNEVTaHo4cmRSOWttOG9SRHBZXzZ0bXplQ0RGMmtxODU3NEtldFNLTVN1b051NlhSOVV3bFlmampvUkFlbGJWNkFtT29hM0lwc29UQkJfN1pNdHfSAbcBQVVfeXFMTkl5aHRtLUd6U0hJVU5sbW4wQXJUbUZuREFkdThzUFFJSlVnNU9aXzRsRG40RlpfOFdyQzBCTlFBU19TSXN2UXhhSExBM1hxNjg0UWpZWmh4WDcwOEpibEI2Y1ZjMTRFU2h6OHJkUjlrbThvUkRwWV82dG16ZUNERjJrcTg1NzRLZXRTS01TdW9OdTZYUjlVd2xZZmpqb1JBZWxiVjZBbU9vYTNJcHNvVEJCXzdaTXR3?oc=5",
-"source": "StoryBoard 18",
-"published": "2026-09-28T16:28:51+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8ebbae9f394b307d",
-"title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5",
-"source": "goodreturns.in",
-"published": "2026-09-28T16:27:06+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "d08a7d7658b672c4",
-"title": "U.S. prepares duties following ITC trailer injury determination",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEF6dHFVZms3Z0hlcmR1LXZ0eWJiVnlOUVNyR3J6aTVndkhzdVpnNkxsaDRVUmNwdUhwY19haldGVE54ekJSVUh2VUFVSEZTSVdhSUVhNW14ZnZrbXJTLThIcXlaQ01RZGdEQVU5eGxWSGJsSXU3cDVraTYzMUk3MXo5VEM2ZzFXeFdqempXa0JYaDM1Z1d6d3ljeGxhMUk1U2o4YV9UaXQ4NjQtQ3doeDViZnZveUJpcjJHM1RIOERvM291a0NxaFVKQzZpX05INUE?oc=5",
-"source": "Trucks, Parts, Service",
-"published": "2026-09-28T16:22:35+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f20dc0562bf7507c",
-"title": "ITC acquires remaining shares of Sproutlife, making Yoga Bar owner wholly owned",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2ZkX3haTFh4WXRGdkU5bWVKVjNJUFMyNGgtUmNpQUJmUDVtWjRobTlWS2RkOE9zTlM1S2Q4S09kQ2NpOEhUcllmWFhEVFpfdGRjb21ETUxIcE9oejJodDc5OE51UEdQcnlWRGVsUFhiamRsOVJvX2JkVTh5UTJVYjloWjNlVURSX21oQ2tMSUQ2NzB2U1oxUlQ5OU11MFBNRGdnTzNHa2xrU3JLZjRkUEh6eTBWS3ZSMGc?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T16:19:37+00:00",
-"first_seen": "2026-09-28T16:22:23+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ee4602609dbf2a89",
-"title": "Five IIT (ISM) Dhanbad Alumni Part of ONGC Team Behind Mahanadi Gas Find",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3pfZWVNYXlSQTU5ZUR1VmgzR21pN0JKcnJGNXBnNW56RldPWWpDNnFhR1ZySlc0QU1VNnRIVkQ5VmF2NXQ0QlcwdUsweTB4RHNSWFFiVzBrRzhwMmloV2U0N3k1OFZrc1Z0RFd5QmYzU2JsVjZ6VW5sS3RMSVVSNHAtZ2l1UGRtYnJnQ0FsUWVwQTZrXzNtNE1DM0phcTZZdzAzemJFY3JhZ2hFWXNoRE9hUU1OYmVKRG5IRi0xU2dvZ1BYNENhTkh1ald3RS1OYjRUWFdQdFRCMkZw0gHiAUFVX3lxTE83X1lnUlY2Z2ZzampsTXMzQW0xczhOdllHaTJWeUZ0SDZzRkIxZUlnRm5acndja0JXYTdCQldaTzAzQnpvNUNQREtmUWFHdWtUbVp6dzZzZVJIN095V29WdGdNUEptYTREYzRLRjJfNHNRcm5oSGFDb2FkZkFzbEtIWEhtN29lMGNrRThSNTE2eEFhVnhLcjFfeUNlUjJoUFVCMDFheVNsY216eElNa1NzeG9nXzlKQzNodTBwa084bmllRDA2X0ktQTktTThXcU5pVE5wZTVIbWEydWs4SWFaS1E?oc=5",
-"source": "The Times of India",
-"published": "2026-09-28T16:13:00+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "54f14b1921b37224",
-"title": "Sebi drops minimum public shareholding norms violation case against Vinod Adani and 4 Adani group companies",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-minimum-public-shareholding-norms-violation-case-against-vinod-adani-and-4-adani-group-companies/articleshow/134546792.cms",
-"source": "Economic Times",
-"published": "2026-09-28T16:07:59+00:00",
-"first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "25ca99cfeeb954f0",
-"title": "Sebi drops minimum public shareholding norms violation case against Vinod Adani and 4 Adani group companie",
-"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQakVvOXpveUJVUXp0QW1Za2dLU2hrM21iYk5Fb2NZa0NNZ3JKN2lVSUJlaTV0Tm83QzhCTERIS3dpaExJR2s1VVJTSkdXczdlNTVaZnNJdTVyYmhueFMxQ0stdTRSR1Y1QmRzNkI4V1ZZY1p5QzVjci1XcFlUNGFYSHRkd3EtM3VzV1V1N1lzOG8wMUZlb2tYMFN0M2hpOHotU0dZTk9XbExIRzNia2VwRkpXM0R6dUNJYWFCNnZqWVFUaHB3ekVUcjU3UGFCa0VITC1VNTJmQW1aU3UyMGE4QzNHYzdvQ2FlUWxQdHFPR09MWjFmdE9rWHM4MVBhWTF2Ynprb21pZ1h1X1FFdDE2UW96a9IBkwJBVV95cUxQakVvOXpveUJVUXp0QW1Za2dLU2hrM21iYk5Fb2NZa0NNZ3JKN2lVSUJlaTV0Tm83QzhCTERIS3dpaExJR2s1VVJTSkdXczdlNTVaZnNJdTVyYmhueFMxQ0stdTRSR1Y1QmRzNkI4V1ZZY1p5QzVjci1XcFlUNGFYSHRkd3EtM3VzV1V1N1lzOG8wMUZlb2tYMFN0M2hpOHotU0dZTk9XbExIRzNia2VwRkpXM0R6dUNJYWFCNnZqWVFUaHB3ekVUcjU3UGFCa0VITC1VNTJmQW1aU3UyMGE4QzNHYzdvQ2FlUWxQdHFPR09MWjFmdE9rWHM4MVBhWTF2Ynprb21pZ1h1X1FFdDE2UW96aw?oc=5",
-"source": "economictimes.com",
-"published": "2026-09-28T16:07:00+00:00",
-"first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "0483ac630d3aa1eb",
-"title": "Four Adani Group Companies Settle SEBI Proceedings Over MPS Non-Compliance",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYS10c0F1VHB1M0kxLUNncHVpSHQyRFVXbF9JNF9jUFRGX2FkQzV4LVlGVUItTnZJV08ya1NRTEFOQzV2akxlRFhxZ0t3dDg5b282V3lRdFZOZXNtMDVJS1BLQjBULW5LbmVHWjdvbFRNdWlGb0ZMX3lpbXhZUjdFUVZtRzJUX3JLSWthZEpmZUhqWFNKVG1qb0c3Q18wc1RIMmtEMEtsQnZwNExXVHY5VE5LMTlvaHo5UUR4TXBRLVVCeklBajVpTlgwNU5abXAyMWxwejg4dThUWHRjQVNrNkI1aGVjRlF1djNabGtJeHBDX3VZdGw1SHBSTG5Hd2PSAYQCQVVfeXFMT2dDR1p1UVEydWhfazRZSmtwaFM3OWlzWllHY1B2andLM1R2U001Z2VtTHpYTWxZS0oyVVVQd2p5RWFvVGZCaTVsUUp6UHg3eTRZM19BbWU4WjFIWVVSV1RHMFRsR2dlaFVmSEh1cGU1UlhGV0M1SVhYVGdQdnZNbTFoQk1yaF9xUDVoNEJfZDdiRUJScmljZkEydG9LaVBJVjBEWXA4enpSNmtSQmZjbXVHTGd5STNJSUZjdklhYVd1NDBzM1Z6T0J1MjhxMk1MU0d5OEVOdWJyUWNRTUhrTURKTFY4NXdzQjB6ZmxTZlA4aW5JaVAtcDByekY4eXY4R3A0MlA?oc=5",
-"source": "LiveLawBiz",
-"published": "2026-09-28T16:04:50+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
