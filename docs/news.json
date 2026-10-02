@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T00:51:35+00:00",
+"updated": "2026-10-02T01:03:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -608,6 +608,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c3be77f8523f9487",
+"title": "Infosys Ltd. ADR underperforms Thursday when compared to competitors despite daily gains",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGprN1lqZmZHMFJUZEoxSkFIRUNYeXZnZi0tdEtlM3JpNWRYZHRVRUJ5X0o2bkRwVjRLMmFnU29JbGJlNWJPYVVqNUVMTVJCc2JnVTJVQUlEeTlhMXh0a21sX2JEV2F2OGZzMncxdnhLUEJXcjJKTlJDSFZmdVkwUXMtejVBekZyejUybjg1MWs1QWQ0a2wwRmVzNjMtSTJVSUttY3hnRkNqX1Z0U1c3dzZ5d0RWa0dSN1U1eGRPaHYwWXlzc2EyLVpZdHpRSFIwd3d6N2dxYTd1QWJoM0RHR1VoY1dWS3dtMjRyd01objhETDdVMDhJaA?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-01T21:23:00+00:00",
+"first_seen": "2026-10-02T01:03:15+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1595,6 +1611,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "b5f63038af2222d2",
+"title": "HDFC Bank appoints Anup Bagchi as MD and CEO",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVCWDRTc3RqNUkwVWNDNzl5RWpRN1NaNkh6a3ZIT2k0U3lYakV0Y1RVVGY5eEtxLW53NzloelE0YmhkQ0lSYnhOTnlEMV9pOTI4MGNvTDZxOUpZY1VLQnhVU2MwcU4wVkFjTjFEVmZ2MU9jc2JDRHdYTk50LXp4WXpLRjVIb1JIUy0zZl90QTg1TDBuckpaVEdnb0d0UDlza0ItUg?oc=5",
+"source": "The News Agency",
+"published": "2026-10-01T16:52:43+00:00",
+"first_seen": "2026-10-02T01:03:15+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "8793e1e989b6e983",
@@ -50738,38 +50772,6 @@
 ],
 "groups": [
 "Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "de21cf46a124c0db",
-"title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:35:05+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "27daab200fac43c1",
-"title": "Sun Pharma signs exclusive licensing agreement with LIB Therapeutics Inc.",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNek8tbGZ2TDdXOHliVDEyZmtRQ3I5MWwxay0xRDQ2eXZ4WE16MThreG9aNWpuSFFqeXlTdjBmd1ZFRHFDTWpSRFdkZEdjVmh4OVN0M2xTWUl1cmZsbHhOeG9QVXUydEk1aGpwck5WeWdKWnpsaHpyZnZoLXA0dkZnZGw1eUVCem5UdVQxWlRxTTgwRVVZNUhKdDVpZFAybVl0TmRWZXZ2T0NVZ2RjYWxGQnVxTzNRVGJEd3JLMjA5MEZ3M1pmUXNOR3FsSGNWTzNRTFRsSXZQb0VvRk1RYUw4X1N0bzE4a25ENFHSAe8BQVVfeXFMTVBTR095LUZic3p5SVhhRERjdG5ONXJsMzluU21seEF6RGYwZW11UkxuV2F2by1qUlJNcmJQSHU5UVJNTU1CS0RHMW5OREFtQl9aMEg0NmFpcm5yQTRHdzFrUVV6czEyVmdmc1hCXzJpaXkxd3hCUzNDeDE1U21Mc3JZRzZGWGFfZUd6YjhwaGM1UmRBUzlpdFIwUGY1QkZoYjB6MFhGbkdWNVUzOGhfYVRSYnhCeXk0VDI0MHZpVk5ObW83NXpXakZzUXdkblhndkRQNHZMYUtGMlN2aGRjbjlvb1lUQlBUZl9EaVpfZnM?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T03:34:35+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
