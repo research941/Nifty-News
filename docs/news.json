@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T20:59:27+00:00",
+"updated": "2026-10-02T21:18:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -5560,6 +5560,22 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c42f7b5cbd7c13db",
+"title": "Bajaj Finance Ltd Downgraded to Hold Amid Technical Weakness Despite Strong Fundamentals",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMk4yWFB2SGMyYXN5bWRMLUxLWUtUdmJfSDlkZmExUFNGM004TVlJWGhxMFFza05mUDcydnNJYVNEaGhfalE1U2FINUNpUjhEUk9IUnBsWUluZmlQd1cwTDUwNldFUmF0cko3dDdiSVRUa0lGSzNPLVkxTllnVWl4N25HWDdMYWhsR0F3aF9uQTE0UU80ODROWmdXNFFTTTNqdkg4Vms3bmdoUVFmV3B0SEt2MzVEY2FVZldjQWZSeTJISVFfc0pfVl9uNFUyYVNzQjVHdzZJdGZlZllDMkZxMEw0OXA?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-02T05:39:54+00:00",
+"first_seen": "2026-10-02T21:18:50+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50898,26 +50914,6 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "593648841e7e24c1",
-"title": "Adani Ports settles SEBI listing violation probe for ₹37 lakh",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjA0VmtJWW4tSFFRVUFCQ1BzckFyUjBLQm1nNnBZbkg3SThnbzFnbjZHTHhvay0zbWNDVENLR0FCZ3ZfS1FERFRwbVF6ZkIyQVlYX2hIWUJ2NjQ1SWZUZldLMmZPaG1ISVJSeVQ4TEF2aWRrUHJNYVV3LXFteFdXSVE3NmZqYnFqYVJmdENmYnVFNm5nZHJWSEFjYUtzbHFTSGFXODlXRFJZNFB5MzJqaWE5bw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T19:11:06+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory",
-"Corporate action"
-],
-"sentiment": "negative"
 }
 ]
 }
