@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T19:19:34+00:00",
+"updated": "2026-10-02T19:35:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "e024925c2d2ab680",
+"title": "Adani completes projects of `2.6L cr in Maha",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU83V2p3Y1RuYzNuTHVYNXBTS0o2SG9tLTY1eGQ4WUI2aG00ckt6SW4yaDhwNzZ4Nk9HcHpsUktGWFBMQ1cwY1Z2eTh5UER5blJ1MnhGYUw3MlRuUU9tUTRjcnM5QTR2MEJsUkctXzlvLUVfcHViYTVwa1kybFFNNi1tTmM2c3V2eUR1YS1mV0MzUdIBlwFBVV95cUxQRFpxZ09GMWpxMVNqNnJNcXZnMXFDTVlFQWJHc0ZDNG9MM3pfUldZWXl1MkR5N0ZLOGVQeC1UVnV5OEo4SDRuWU1WRkw1djBQYS11eVI2bXFRQ1BzLUVKM3NwMm0xdWJhN3U1Qm9JZU5BeFFUQjVxYjhxOXRieFhRdGZxc0MyXzBRTkZuZkY0YjRNVTh2RXhR?oc=5",
+"source": "MillenniumPost",
+"published": "2026-10-02T19:29:56+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "89fc54a5750a0b7e",
+"title": "Price check: Hindalco wants to drag alumina trading out of the shadows",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0ZGMDQ5ODVPQzFuQzVkaDRMRC1RcTdQVG83ZjUwNklJQXdIU1Rhd0FQMWIwa3I4UXpFckphM25kakFEaV82X0ctZkxsUW5keWZqTU9oMTlLV1hhdEV3aGFlYmg5QkRjemRrNXQ0aE16SEFoa2thWVlfV2xNYTFpSDVySi1sSFhsaDNDV1pFWUI3UGk0WjVxbw?oc=5",
+"source": "Bilyonaryo Business",
+"published": "2026-10-02T19:29:55+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bdfb064e0b877529",
+"title": "Trent McDuffie & Jaylen Watson: Reunion in L.A., elite mentality & more | Right On Q with Quentin Lake",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0xFbHFkMXc2dDRjbllsZm1Td29tSkx6ZC1xZmt6M0drVGNDREV4UDY5MkJaMjhCOWNsQ25ReGhwOFduZ0JNWUhtTjAwOUNPdm5FSlRpVGZRMWJNbzlubUEzeDdLTnFQRWpuYS1UUnhpRndDWWlkWE4xRDhpbEdDVUdPd3p3S1dvUlNtMm9idEJYVXR0Z2dQOE9UUUg4d3BuN3ZyS3hycEx1dw?oc=5",
+"source": "Rams",
+"published": "2026-10-02T19:29:07+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2d5bba5e667098e4",
+"title": "NCLT admits insolvency plea by Kotak Mahindra Bank against Unity Realty",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPLU1fNXBkaG9ncVgwa3JxMGc0VlhQV2hYdWNweUdlWHR3WVR3UDJSQUVzdDhvZVVKaXJmWmY3T01LNlRHVEU1Rm5heDNVRmdKZTJpbnE2TU1NMUU1bUd4U0RWN2ktSG5hUWtaY3NrSkgyTGphM0JYYjZuX1FmdVgwTTZaS3VPa29GcF9HVzM4UGxRblFRTGFyRDJPQjJFUVhJMWdMVFlsRWNjcHQwN1JtZUlUYWN6amtPT21HTWV3R3JFWGFVY01NMEFFQmF4dDVETkp0NUw3bGVXTGl1VjdydTR0LWc4UEl6ZkROOHdvSFlRX1Ba0gH0AUFVX3lxTE8tTV81cGRob2dxWDBrcnEwZzRWWFBXaFh1Y3B5R2VYdHdZVHdQMlJBRXN0OG9lVUppcmZaZjdPTUs2VEdURTVGbmF4M1VGZ0plMmlucTZNTU0xRTVtR3hTRFY3aS1IbmFRa1pjc2tKSDJMamEzQlhiNm5fUWZ1WDBNNlpLdU9rb0ZwX0dXMzhQbFFuUVFMYXJEMk9CMkVRWEkxZ0xUWWxFY2NwdDA3Um1lSVRhY3pqa09PbUdNZXdHckVYYVVjTU0wQUVCYXh0NUROSnQ1TDdsZVdMaXVWN3J1NHQtZzhQSXpmRE44d29IWVFfUFo?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T19:29:00+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "89ff21d31375df07",
 "title": "HDFC Bank Ltd Stock (HDB) Moved Down by 3.03% on Oct 2: A Full Analysis",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0Rienh6T191OGJONlV2YWg5NEc3cHctUVNIOVFnX0lWVUVNMzZfYWY3RzNCWkFZV3hSVU9Wc0RMRWduTl9JSzV4NUdzbGlINnBpS0VHeGpub2E4U0Nkc2lSR0NwLUh1VjJ5dGw3aDNSbGlVQVpTaEpKZllmZzFzcm92Z0V1dDNvY1E?oc=5",
@@ -456,6 +522,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9e96b1b79f5203e2",
+"title": "Three arrested after fire in derelict Stoke-on-Trent building",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOelBQYWRYSTVDV2stNVRXVllMUmo1a1B4Q0ZaWHU5aVhPOHZwNUViNl94ck8tbkJrTThVX1RoSEwyOFA4Mnh6Vnd3cnJaLXBKRkxKemZoVlhsWTBxcDB0R0lObFBVQTRRMzd2U1ZfSGVuWVpaQmFocU8yUWZUY2tSSFJLRFl3WXlON25McHJGWlRUcUlncUhYbVJqcHFESXRIUnJoUkVva0pEaUhKaUZQMkRQTGhFRXlncmM0a0RzSUt0dTlvOWU0SjJaYkdxVjVrZjZ4MEtHOXJ4OVB2MEpMNGZYYw?oc=5",
+"source": "BBC",
+"published": "2026-10-02T19:09:17+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2976,6 +3058,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5fb2d24596644fda",
+"title": "Maruti Suzuki Record impressive Growth for both Small Cars & SUV’s",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlllSTVObHowVmdUX1NCbFp4Q3ZQZGlFSFgxUlRXWUgxaXpYXzN2OVlnWi02VjJRZmc3MjU1dVk1ZHlCWDJudlRkT1Z0dUI1WXVVRTVqdTByekJraEZHSlU1UFdKc0EtdE42SGRCZG1LUlNrU3BSX0V4YURGZENWVFdUXzR2WkRqNEFvWnRfVGRsV2w5VW1GYUlzX0xpRm16T2FsMFNOcW50OGVuc2h1a9IBtgFBVV95cUxOa0JMMGFKY1JfR0FFUVplcFIwMkdCS2xZaDkzS29YMGgzWmNHRDl5eDdzNkZXeFNCZjhrWkZDRDdTblVfOUdBSWR2UHpIZ1A4eTZKU0p0azhTZ25vZTVTNk5BZm9xSURVZ0tIWHEzV0luS09fU0dZTFhfaEIzcGZlazVxc0c3eG1qMS1jc1d1cTVxUDRxcFltcWR5MEpWYk96LU1QekFScmFJVDY5dDdQV2JCbXhVQQ?oc=5",
+"source": "BizzBuzz",
+"published": "2026-10-02T10:59:42+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6463,6 +6561,24 @@
 "Consumer"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9a5c3c844a5897ca",
+"title": "Airtel Money Launches Retail IPO Offer Ahead of London Listing",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkhaR2VpRUlzcWdMZy1YQ0hFMlNOdm5WRXlJbVE3QTdpUUtIc1MwMjZPQkFhWmk0d25YekpZWi1VY3prNW9YREZNbkpVMTVlYl93TFh5RWVxWXhNS3hUMFRuMGU0blR5VXhoZWlObnVuNy1OOUhNZGJGWWFlVHFJQ29WZTk5d1JXR05zZkxkVlhKOTc2R2puUHFpWXZPQlhCTTdXLXhtM3I?oc=5",
+"source": "Dabafinance",
+"published": "2026-10-02T02:18:00+00:00",
+"first_seen": "2026-10-02T19:35:18+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -50801,123 +50917,6 @@
 "source": "economictimes.indiatimes.com",
 "published": "2026-09-28T18:51:55+00:00",
 "first_seen": "2026-09-28T19:01:24+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1b5a4819f99f19cb",
-"title": "SECL CVO addresses NTPC Sipat executives on ethical public procurement",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGpCV29ldmIweThIYlQ1T3RXMU1DWUpXNE1ob2tPMlI0Ui1icm5PRUNnY1o5UENqV2xVU0FBYjg3RDY1ZEhlNHp5WUpBSTN5NjFiOGZkQ2FyRlZwa1VzWlRhMjZZSE5RNC04YmZWWENwX3Fkb2drWlFxVTFYM2dzUE9yWVgzbzdWN3YyRjRoV3Z0SGl2b0xYMDhITHdpdXg3Wjlib1E1LVZkZl9SblQwTTRFbF9sSWvSAbcBQVVfeXFMTUhqQldvZXZiMHk4SGJUNU90VzFNQ1lKVzRNaG9rTzJSNFItYnJuT0VDZ2NaOVBDaldsVVNBQWI4N0Q2NWRIZTR6eVlKQUkzeTYxYjhmZENhckZWcGtVc1pUYTI2WUhOUTQtOGJmVlhDcF9xZG9na1pRcVUxWDNnc1BPcllYM283Vjd2MkY0aFd2dEhpdm9MWDA4SEx3aXV4N1o5Ym9RNS1WZGZfUm5UME00RWxfbElr?oc=5",
-"source": "PSU Watch",
-"published": "2026-09-28T18:39:20+00:00",
-"first_seen": "2026-09-28T19:57:24+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d7d61b1042998975",
-"title": "Airtel closes in on Jio ahead of mega IPO, market-share gap narrows to 1.3 percentage points",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaTl2S01fS3JHRkZEMUFIcTBvT2E1eGhEMl93WXlGX2U0QjVrZWNXcTVxTC1tRlFqSVV5cFlnQ0k2OHZjb0hzMEZFZ3dVT1NpWFJ3Q25VbUZYTmJPbnJwOVVLNDJZSzM4Yk9ScTA3b25JR1AwRlNxd2RrU29CTFlGel9PTFJFS0xpZUx0U1plMDE5VHNDWW1WbXdFeXE4VXFUS1VhaW9OVHlWdXhjU05mcmVtTnFQcWdUaEdHQXQwZmtDTDhfNzJDdGNLOW8tVjlLeTVuOEN3VjluMmkwSEYxUFBud0hPb0gtc0HSAeoBQVVfeXFMTWk5dktNX0tyR0ZGRDFBSHEwb09hNXhoRDJfd1l5Rl9lNEI1a2VjV3E1cUwtbUZRaklVeXBZZ0NJNjh2Y29IczBGRWd3VU9TaVhSd0NuVW1GWE5iT25ycDlVSzQyWUszOGJPUnEwN29uSUdQMEZTcXdka1NvQkxZRnpfT0xSRUtMaWVMdFNaZTAxOVRzQ1ltVm13RXlxOFVxVEtVYWlvTlR5VnV4Y1NOZnJlbU5xUHFnVGhHR0F0MGZrQ0w4XzcyQ3RjSzlvLVY5S3k1bjhDd1Y5bjJpMEhGMVBQbndIT29ILXNB?oc=5",
-"source": "The New Indian Express",
-"published": "2026-09-28T18:34:00+00:00",
-"first_seen": "2026-09-28T20:17:57+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "6b78f1f24afb0479",
-"title": "Axis Bank expands tourism and hospitality outreach across India",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFZXcGtUYlNEd3JHYjZUbEo3emtCUnU0eUxPQUllcVZfOTFNVGxqR1oyRU8tVlFBT1YyQkNPLTNUZHMxQU51clFaTk4ybWFOa01sQTVhTTBHZG03THQ5QVhRWVowOS16R2REdVI3d0xYMFVvbTN6ZTZkZXNOOUJ5RzU1Y2g0aXE2QVlBbUc4UDZUR2RNbTRDUGJPT2RnT1ZfYWtmUkRUdE1ENXhLRm9pMlhWMzY4UQ?oc=5",
-"source": "Prop News Time",
-"published": "2026-09-28T18:30:56+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "eeeb49874321f4b9",
-"title": "Gautam Adani, 4 Adani Group firms settle SEBI minimum public shareholding case for Rs 1.48 crore",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOHVPNGJrc0RwMFVmTkJud1ZlOUhnNTVEbEFLajA4eDhtRDZ3UUNRd2JZZ002MzRKekRuMll0QXJTcmMwaWJRaFY0WUp6Tk1ndjA5eFY3UWVaM0dwZzlQbEpyTi1tblN0cWJfOU1PaVIzcXAyUHp2Yi1WQXlvM3RKMlljNEVIV296Z0hvV1FqNFBCSFd4c1lFRWI2cnV2U2o0N08ydEJsZGJ1cEZfVjRHb1J6cWZnTVV1N09sdGxyQlBsZkFXZTIydEhSMzNxM1ExX0xLMU51V2d3OUVMOFJ5N2c3YVRTM0Rs0gHoAUFVX3lxTE84dU80YmtzRHAwVWZOQm53VmU5SGc1NURsQUtqMDh4OG1ENndRQ1F3YllnTTYzNEp6RG4yWXRBclNyYzBpYlFoVjRZSnpOTWd2MDl4VjdRZVozR3BnOVBsSnJOLW1uU3RxYl85TU9pUjNxcDJQenZiLVZBeW8zdEoyWWM0RUhXb3pnSG9XUWo0UEJIV3hzWUVFYjZydXZTajQ3TzJ0QmxkYnVwRl9WNEdvUnpxZmdNVXU3T2x0bHJCUGxmQVdlMjJ0SFIzM3EzUTFfTEsxTnVXZ3c5RUw4Unk3ZzdhVFMzRGw?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T18:25:08+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "98bf442c917a0ff2",
-"title": "ONGC director's big push for E20 petrol: Can cut imports, boost India's self-reliance",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcy1PbHdWTFFMSU15VDdSdE5UNElCRzhJcXk3WXp6ampPdmZUT1N6OVVteW9NZUw1SUFsd2J5UVJHcUw5TFBuS1ItZFMtOURRcTRnNUFSOXFqRmdmWEYzLWpxVS1IUFV1emZ6Rk1BMjhqaGhobHdXR3VYVUtwSzVqc00yb2d0SGJ5eC1hRkViOXNaYlVHMTFlaXk3aFNFYlVhSzFmS2VVOG0yM1VORHJJQVpNeUJuUHBtc1NjdkJjTER3cnZqUWFZbXZnRVlpMlRaRWJ5TU51cFl4VHBuRFQ2ZW44b1N4T25xcFh1eUF1VTDSAfABQVVfeXFMTXMtT2x3VkxRTElNeVQ3UnROVDRJQkc4SXF5N1l6empqT3ZmVE9TejlVbXlvTWVMNUlBbHdieVFSR3FMOUxQbktSLWRTLTlEUXE0ZzVBUjlxakZnZlhGMy1qcVUtSFBVdXpmekZNQTI4amhoaGx3V0d1WFVLcEs1anNNMm9ndEhieXgtYUZFYjlzWmJVRzExZWl5N2hTRWJVYUsxZktlVThtMjNVTkRySUFaTXlCblBwbXNTY3ZCY0xEd3J2alFhWW12Z0VZaTJUWkVieU1OdXBZeFRwbkRUNmVuOG9TeE9ucXBYdXlBdVUw?oc=5",
-"source": "India Today",
-"published": "2026-09-28T18:24:55+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "a071e1d357f68212",
-"title": "IRDAI pushes LIC, SBI Life to seek further cost efficiency",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnlBQ1kzcWhkSXhZNW9RanQ3aF9KR3ZvRlQySEU4czAxd0piVURsTjdoa2NINEVDbkdyTzg2ZDcwMDNkM1haaHRUampKSkF2a2dPN002SzFXMmhsSUpFc2RIQmt2UkZJLW45bFdUT19Rdk51VTRrdmVpTmROLWN2eFd3eU5wVG1CSWNTTDRFRldzZHNydDRSQzNsc3g4dF9GQU83RDZzYm1sOEhPejNXQnVWa2dhWHJoQkJhbmdrX25XTDN0U0R1SXI4ZnQ1ZTE4R0NwQjR5dGg5eVnSAeABQVVfeXFMTlRiRWgtMEtkNnJkUU0tTUctX3BSSm1hR0NxTnFDVnlJZUZTbkkzSlRsTXdqbFhNcnJzUmh6X2dBOTBvMkNXMEoxUm1uc25aamZQaFVoWkY1VjdJbWFFd09NdHNUTUIzaWstdGFxWXVmT0VtLVJsMlpyNUlaVnBMcUhtMGZqbndoR0VqcUV3U0tKTG5scWxZTzdUSTBkdXU3aU9EUzRtZllSdnA0MktMdUNFS0xoenlKMFVpWXJiM1hlQm14VGtFazlubDFGUnlYbmFFOUp3bGxjQ21NZHMtczg?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T18:24:32+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "faa9ee83362354d0",
-"title": "Bharti Airtel stock last trades at INR 1,771.40 on September 28, 2026, down 0.78 percent",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdERQNGRkbzgtb0piQ3RGQTAteUZzRTJ2XzQyVlR4TDVUMjVJdy1RTDVDdkFFdjhfNm8zWjJsanZlU1JBR0xOSWVUZmNja2R5RUhUa3h1QnNCdmcxd2I4c2JZYnJpbC1GdHhGYUd5Nm9LZDZ4VC11YkNZM3BiS0hFd0piTGZoQ2pIRW95bXRfSnhhaEg2OEhKT1JzbFVrYy1fWXJ1LWFLck1XNWVCTEZ4QnJWdHBpbGh5bEhxVHBpQ0ozbVctRHc?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-28T18:18:59+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
 "symbols": [
 "BHARTIARTL"
 ],
