@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T09:40:36+00:00",
+"updated": "2026-10-02T09:55:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "8592d45e0d0bb197",
+"title": "Hindalco calls off AluChem acquisition amid prolonged closing delays",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDFReGpFMHR4NEtwWVpwRnA0bG9FckZjNVY3T3IyME9laWNodV9PLU5DbXdGazI1SThyRU82cFpzUUI0ZjBOeG5tQUxvTUczN2VENGExdmVmTWxlUU5jRFBMVFJZdGQyd0dFdHVpZGd6MnRZNFU4dE55RmhaOXdvVXBkMFQwdnB0cXMzTW5OLTRaZTJNQVduNHAtWDNPbjBVZ2dZMWZQZkZDbHhCYTF0Zi0ydTlGanBsQ0E5U2Utd2VnUjN6R1ZvaEtXdjhySU9W0gHXAUFVX3lxTFBwcHYtTHZHUWdYVlRrRmZwQk9aZkpkYVUzZ3lOTEZkRkVUVzVDelpodFVlMVUtck9MS3ZGMjE2XzZoYTZ1TnpZTVlJNEhqUllXU3JVSFlqZE1RSVVzY29iYVhrSHFOZDdnSXFGb3dlb1pKMFo4WWc4LWFpb1JHRXRkWHZKdXBfYVAzc1JST2xMREhHbFFnTWE4d1lDNGRVV090UnJNQlNHYXlXd2E5eTVsODMxUmV1M3lCX2pFV3o1WGQ5dEUxUi1VY1NQOVdsbGsyY1hHb0dB?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T09:36:43+00:00",
+"first_seen": "2026-10-02T09:55:00+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ab731f0e45554145",
+"title": "Maruti Suzuki trials automobile rake movement through Vallarpadam rail siding",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd285eVRsa09fakpTaVFQcUx3d1k2R2lPQkRUNEtIQWJwdVdOdXAtZ2hQQ085c21sVktEX0VOMGh6U0ZoUExFWlF2SEVERGw2YjVLNUliZVlWNDl4X1JWZHVxVll2MEFfZUp5Szd5YkN5TjZwWVk4aU1Qb1ZCUjg4MkVzbVdqMHFmZlE5QVIta2xvMTkwLWd2RGxzVV85dGRtTUtGVnhjSUdLZkRrU3R4VlNQa1pEdjcyaHppMWdtem9PN21wX2YwWGRuWEZQXzMtdEloeG8zU3FIRkRSNGhXMU5kOHEtcUXSAe4BQVVfeXFMT09JU0h2aW1uejV4ODgtTDhORHFBLXU0aDZIdlJTbWV2WWVuRFg1TUhDNkNpcUYzcG5mdml6QlkxcFJKN0Z5cTV0dmNGZi16RjNrT3VWMVo5QVIxNXcyT2ppWVZnRDZVUWd5aWI0OURiZ3JPelRTVnFxS2UtNUtlV0JWazlJVU5tYzNSZGgwckJISFZUYnI3bVZmS3pwT29xb1YxNlp2V0pnNGUzMW5helhEMXBzSjV1VU9ZYVIxVWM5bnNtdlVSb3ZxbVJFNlBaOFBmcTloSVJlRl9rUklCM1BWR2JLN1NCY2dTQ1U5Zw?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T09:33:24+00:00",
+"first_seen": "2026-10-02T09:55:00+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "ae0489d607c9567a",
 "title": "Adani Group to invest over ₹6 lakh crore in Maharashtra",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2gxQl9MWWlpTkVkRF9KbTh5WGZiOWxLWGZhbVVRanBrRzFDbkUxTXh5Q3lHOU0tRS01cVFWdERLY216Wm83OTRueC01YWRHTzZUYWlNRzdXYjhQbmJDdlNOeHhUbElPSzNEWi1lVjhwaTc0VXlQdnNvUnBkRDNNMVgyNHZ2VGI3X3h3UGdDNVprSmtpOTBnc2ctLXk5RjZYZjExYzlR?oc=5",
@@ -546,6 +580,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "81e25d942416fe8f",
+"title": "Hindalco calls off proposed USD 125 million acquisition of AluChem amid delays",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHZLaTNHNWcxUTllZ0xRc0NScVFQZTFGOEJUTlUzWHZDYlZqMVJZcGlrTF9CTWdZbDdPQ0ZRbng4WHREV2N0OWlXSnk5YVZ5MHFRaC1XTkw5czJMUmtBbURtNDZtaTliU3pXSEdLc3EtUWttdlJiNWJ0VDJfeFFGWWZYTVJIRUVtMC01d0UzTEFfZkM1ZkZCLXRZcVFXT1owekc4R1NQOGYtN1JGN08wdUU0Wl9wMHVQdDBWMkVid0FrdGlOa1V0MkxVeDhocHVpR3FiSWIybmZmd9IB3wFBVV95cUxQQU1mLTlHYmE1ZjNEOU1NbzR5VTIyVzh5ajVIRk5qVTAwQXNSbnhTbEZacDRaVTBKeDhjWjlWLTBvei00ZVpnVF9DN2h2eU9FSGd4OG9vVWowbkEwSEVuZmNVVUk3R0dwbTM5UUY3Y3pVSVdPcjhPZzFFQ2FqVXYtVTdRcEQxbnF0N0dER1NkM2ZyclVFZGNfN0dlR2ZjM3prNzlQZVFyVHg5Tk1ZSVZFM1RsYW1YTnNyNUhTVDkwdUZYUHZETGxtbUVXNGJPSjd5NFozSC1Gbzl6aVhoRmNJ?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-02T08:49:00+00:00",
+"first_seen": "2026-10-02T09:55:00+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "aac94dfb41c66fe1",
@@ -860,6 +912,24 @@
 "tags": [
 "Order/Deal",
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7ae79cb4c406304c",
+"title": "Hindalco, AluChem end $180 million acquisition",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBScThfR3A3aGo4TV8ySkhuNDEzeXF3dGZUYm5PSEJ6TTBpVmNpd2E0ck1RYTg1NTJFYjlOZkZuQnVuVFIxQzJibEFiZTdSX1hLV2lZWXpLTE5yNHBiRjR1R29aOFVkU1AtbHpDM0pqcnI1bjFyMnc?oc=5",
+"source": "mining.com.au",
+"published": "2026-10-02T07:44:06+00:00",
+"first_seen": "2026-10-02T09:55:00+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -50805,72 +50875,6 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
-},
-{
-"id": "e513b1e2662061c3",
-"title": "Dr Reddy's to reintroduce semaglutide in the market by Dec, says CFO",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXN3bzlRVUZUWnFYd0Z2LXRzdmpBX19EMDlRM1h2Y0wxT240RjFhT0d0eXNRamwxVndzbkdXQW80MV9JMUY3VFpielBFazVJWXVqeDZibTRoeWdzd1U4d01hNG5MZzVCZ2NCeHVqNEpPekVsZjRkS195NlliNWpyRW1yRHc4eGptejF2VW1zXzJFY2Zsc0EwUXRWWmZmS1JOLXBsWEdjZk05U1N3NDdtWA?oc=5",
-"source": "informistmedia.com",
-"published": "2026-09-28T09:38:13+00:00",
-"first_seen": "2026-09-28T11:19:36+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9507251672aee266",
-"title": "Max Healthcare opens new PAC in Tanzania",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PeUkydWlDRnIxdWJxTnBzY01IRlBiSHlNWjRoSHBsZHJYc3ozZnBXSUJjbm03azl4ZVY3RTN2M3FMTEdmbVV1RjRtd0Joeks1SDZ6MUpGRUlpVEw0OXRrd1VJaXc1Rzc0UVAzTHJNYVpIQVBEY280?oc=5",
-"source": "Medical Buyer",
-"published": "2026-09-28T09:38:04+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9f732e8f07fd4745",
-"title": "Sun Pharma Gets Rights To $3.7 Bn Cholesterol Drug Market Outside US, China",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDB6eGV2Y1VkcUNqb0lQRkdBNlg2bUlqeXY5andfY2xWUjN1X2JDNm1LODRoeWRFRkd1TG9meUFuSnNpZGstWlphMDFMNjZ3NG91TzBiMUhDckc2YktsME9xTER2dVl1ZVdETEFxWlktalVvT19aT3lLU25ybFh2dFJxZ3dMUUlWckJyYk5tYTdzTGVHV25ocDhzZTJmNGU3ZkwtRW5zZzAyU0dBRVhqWHJ3UG43Y0ZoeV93eXBRTG9LTnNCVmdsSlBR?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T09:31:32+00:00",
-"first_seen": "2026-09-28T11:19:36+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c3cdb43d684aea59",
-"title": "Tata Steel Colors honoured at CII SHE Excellence Awards",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WV1JGbi1wQWFtNUk4U3l3LWJlM3hOWktTeDdBM3FMRGI3V29KR1NmMmRERkdJRE9reE1uNWVpZnFjRFhVc2g4b0R6MHdVQVdKUTdlU0s3Ny1aMUpnZnFxRUZjU1l3OVhtZVVxSS1hWUNRcy1qMEQzMFJReU45emM?oc=5",
-"source": "Manufacturing Today India",
-"published": "2026-09-28T09:30:59+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
