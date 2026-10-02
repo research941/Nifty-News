@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T14:39:13+00:00",
+"updated": "2026-10-02T15:00:21+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,104 @@
 ],
 "items": [
 {
+"id": "8c45bd83139a4978",
+"title": "UK Government commission £1m review of Tata Steel’s extra funding request",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTl1d2REQktpZDdZOGdIeFVEYmc1azU1bW1BZVpncTRJSWxfZzEzU2xCMEh5UmYtYlNwRXMtQlozdUdDdkVpOEhGRUxkb08tcS1VRFBreGpzWnR1WHMtSG82MFF1VWx4VVlqMUpjOXlkWnNwazBHNk9wOWczc3pydEs1eW9rRFpBMXN6eE90d0tJMUhSWWtKQkpHZk1iOEk?oc=5",
+"source": "nation.cymru",
+"published": "2026-10-02T14:59:23+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5538d79dd83b7176",
+"title": "Tech Mahindra trades marginally in green on the bourses",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0Z5UGpDN3pKcjEwRzBBd3hyLXNtVDNraFl3QWktTXVaV0ZSRm5hQTVhd2dyalhrd3BVOVFjOVBmQ0NqU3doV0Z2MlV0SU9lVzZSbVRvanpsamlGZHFfdjN6YUVHXzVUVjUzT0Z2UHlpWUtYRHNROURkOGVtNVB5eFR0VDNTa1Iw?oc=5",
+"source": "Udaipur Kiran",
+"published": "2026-10-02T14:48:31+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d1b0f3d61e393ae8",
+"title": "Sumeet Bagadia's top 3 stocks to buy: HDFC Life, Cummins India, CG Power | Target, stoploss, Nifty, Bank Nifty outlook",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMW10NjctUG5ZaHpJSEtWXzQyS2pkOWZjNzNUVDJvazZJNW5jR2V6X2ozc1N6ZGEzTElCN09FT0hwd3BWMjg0VWNXV19SRHBmRENVR2s1XzJkalF3VUdQQnZsZzZfR1pkMkIxZkFjWGxjZTJNa1pGc0d1S0NaY3VEV0VTdHBRd3lHd1dLbE5VbjRPaGlvcHBXQXR6R3pyZlg1a2Nfd0hFZXZzSDI1RHFBQ3BZS3NsV0tsZXZpQ09OYUtxX0tqdF9YWmlpdW5VM2habnpiREo0bkxMNTVVaTJkV0ZPbUZaQmYwd3RSSHhLX0NOV2RoYi0ybzVqU0ppRlRCNmRlUHB2VW9ySUnSAZACQVVfeXFMTzBDazhHYnBpMnAtd2FnU0F3MnlhR1N5RlpfeEhGZlpha1gwZEZsdFJpZWZrTHdiRUZwYmstNmVaTHI2TWxQZ0E3VGlYZm1BaTZxRWF1bUw5NDFmdWYzVFBpQVoxd1Q4OF9nNTQ3dWQzdndUOTFlVElkTHFvUXR3Q1VNTEFRYVY4WjMxMXVBZXFGRHZ1dTQzTVNzQ3FwcmM3NnFqamJEVkpjQ1I0dUdDZUNlX2dyckNPN19Gd21FX2Q5OHJ0NUhQT0RNOTFDLW1tTEZKZVpMblFnaVZuZmdtVzZ0RzhST0QzVEY3LW5fTllhR1R6RERDN29vUDlzTW03bXRvNXRMdzJnMUYwZWhucWM?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T14:45:41+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b75eb181c310c5b0",
+"title": "Wipro's Junior Employees Can Now Sit On Bench For 6 Months",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORzVzZHJZOEhQMnBxaGMxU21seEhMVHN0cWRVVGN4cU5RUWlxNGloQm9WSmpnemVrVGVwOTByS09nZUdvVmdDYjM0N2J1S0tWUmF2NncyOEZyQ2swY3J1ZjhnTHpIMU12SWswTEo3ZWg4WHRRbV90VEwyazd0WWpGU1RIT1NaYlY0eXc?oc=5",
+"source": "Trak.in",
+"published": "2026-10-02T14:41:35+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0549c993c1b62c73",
+"title": "Maruti Aims 40 Lakh Vehicles Per Year By 2027; Sends Special Instructions To Suppliers",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWQ4NlNsQ3h1VTlfbVNma19LWlJnVGI0WTN5YUJrdnBjTVpIc3ZpSm1XaWRKSGhNT0NyVVFGV3F0TjBEOThTcU1HMG02Rk1Zck9WdmxkNzFHclBvaWJpNnZCTDFIQ2dNR082cUZVWFBpMy1tVEVuOU5iMmJhVnVKeVFlVGh2NDFVM0dQZ3lsV2J4NXhsRUV3QnhMXzRpb0ZfTXNmLWM2V1pFektBcmRB?oc=5",
+"source": "Trak.in",
+"published": "2026-10-02T14:41:31+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0a236e305435e82e",
+"title": "Kiska BaaS is the best? Tata Motors, Mahindra, MG and Maruti EV offers put to the test",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQms2OENOSTVNQVdFVk11ODl2aFlDVEhtUUhnWkUwakRoQklkYmZLVlBwaG9YZjVxLXhqZUFtNHpXRFZ3aGZkeU5yWFNpdVZkNzc1QTduSW9ESlp3OFNpenE5a1FsM2wtTzdtT3VfeWVkNlhKbGFnRmpyRnI3SGk0M1NhSno1N1lfZXhDaDc0aUJJVFBIN2EzdWVERUU0ZFh5eUlWMlIwaXJyZVlCaVd1cmpHVHJNOV9peWJYMi15X1lxbWVsYWEwdXo5b01ValBxOHl5SEQ4YVo1TkRyUW51QzdRMmjSAesBQVVfeXFMTjBEOGk0UURCYXIzNkFLdEVXLVB2Yllaamp6T1Q1Q01mdGdYQkdCbXJNZFZ3Q0YwTkF0Q1dFcFJEUk90UzBTNGVoX1paVF81M2w0V1BUNzAyWVRTdllOVzRZdjd5ekd4Uldnb2dHTTZtNElwWm9OSG8xaTBhSUloRTJWUnpocGItWDVHNl81TzlqWV9jN1k2bXRzVXR1eWFKTndKNFVQN1ZYZUZqQnItRFRuNnltYjUwMUsxRW5Od0RfVWwtNGd1VUtNOTFORU5RcHdESWFQQ283Rnc4S01DNWFHd3g1ZEsybVhfTQ?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-02T14:38:27+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "40f6e26211f7709b",
 "title": "ICICI Life Insurance names Sidharatha Mishra new MD and CEO; Anup Bagchi set to join HDFC Bank",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmRlay1TOW9fUVEtX3FYVVRJR0pRTHFOY09Xb0V6N3BxN2RXSGwyVDFHRDJVcXBZcnlvd3dBbGhzRTNfRG5UR3NjVFozTFV1dVo0YlRHdXNJTENDWXB3WVBTM0pKV2t4ZkthX0MxT3NLeUFQYWtJR3ppU1JSUElxcGR4TzY0VUlFTlNNei1YQUp0LWlmSHNXZ042MFRsLU5wNkxITHJHZ0J3YjJpNTd2ZWhjR0hpUGFWcG9FMDhIclVjclFoUXhFZ1hvdF93Qmp5b1NUXw?oc=5",
@@ -515,6 +613,22 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "72e34ec0e384b435",
+"title": "Apple Pay launched in India, supports users with Axis Bank credit cards",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14OGVabHNHRnRURzNLWWk5TVIzQkhnT3NoSWU4RnRIRzNHZjJZejM5SXJqeGF6UTVqaExtWHhNNEFfd0ttVXJyRGJuZUdJd2c1RFVwb3ZweHVtRkFsVEY0X0ROcw?oc=5",
+"source": "DigitBin",
+"published": "2026-10-02T14:21:45+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0ea0370c9e461c79",
@@ -764,6 +878,22 @@
 "first_seen": "2026-10-02T13:59:43+00:00",
 "symbols": [
 "CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0be38a926d36f236",
+"title": "Sun Pharma’s LEQSELVI shows sustained hair regrowth through two years",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXJic283MTNtcUdBWXJUU3pENVoxMi14OXlGWVVYVnhSMzhpT3UyNXRWcndIY0h5S0MwbjJKSnJMYlRGN0N1THVuYlVyakV0SmcwdmhpWkk2TTNCUVltbC1FenIzNzh2SnhtZEZLWXpaVnVkcUxBenNYYmkyQ1hiMzFXck1XSGhBQk1iMjFLNmFKMklPVTdRWl9tMnpPa0EzaEV1QkUwT2xHWmQ5eVY1cVdB0gHHAUFVX3lxTFBHc2k0TVhlRDRzMUpwM1hlVHVoVHRaRVNnS2U1bEUyTnBTNmxCbnhDRllWR2h6LXk3aFluZl84Umk1a1dDX3pGVzdHMEl4NjNzQlRrWUk0TnFya2stZ3NwSGZRNTM5ZkJuY2FTY1F2YTd6QTdMc0ZkY1dYTGJJcVl5elYyREZZNG9samRqY0drYi04d2l5S3FOU3VFMXRvbXdBdFhfN3hZR0xqY2NJU3YxVjJWZG1KaUZnNTZTR0FNVGJJeUx6SXc?oc=5",
+"source": "Indian Pharma Post",
+"published": "2026-10-02T13:45:04+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"SUNPHARMA"
 ],
 "groups": [
 "Pharma"
@@ -1168,6 +1298,22 @@
 "source": "etnownews.com",
 "published": "2026-10-02T12:33:15+00:00",
 "first_seen": "2026-10-02T13:59:43+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c27c8fbb680e84bf",
+"title": "Maharashtra FDA cancels Cipla godown drug sale licence over alleged pharma advertisement irregularities",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0pXOUdOMVR0RnhWOU5DNV9PNzN1SnBzSF8wa1M1dFkyQnp2RnFrV0thWm9QcDlFc0N0RHI5cmN0MUdWREk0Q1ZfSnZWQ1hDYUNFY3ZKczhpd2w2YkN1cmF0Qi1pREpMSDdDbVBsZHppRFJHRjNRdW5kWkQ5UGFjTkVMRWZkb0c3MXZCVHdQS1lhSWNqV0ZmUnZCZUp3bndfdV83dHZiVXF0TTV4azVrbHhuWk9SdW9NWWEyODRyTWYtNXFBVFJGMkZzUTJORHZLakFXVmJLLXFxU3BMRmw1X9IB5gFBVV95cUxNRVAwLWIxTC1aVWdNTzRzUWpYVVhUckxWNGg0c2kxNVVGR19BN1kwTmpnSy1nLVZURDFkbjJmRnVIcmpveGhQcWtSVjlqdkVaMGh1TWN6bUZyYVc4YXZEb1lIWlJpRDhDWFNWZGNDZjY1SGNScXYyOHc5X2JUOTlRbmIyZ1VhbWp6UEdfdkVDVUE3dWdqd0dCTUllUGV0cUNWVmJWSklOdWJzSmgwY25oOVdkSlhBWF9NY09xT3g4MV9PS0l5bVhUdW5vM3NGMGI0NlkzTllDb3Z1ODhvQ3pvN0NsMkc2Zw?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T12:33:15+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -5585,6 +5731,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "edec20bb05dddc80",
+"title": "U.S. trailer makers harmed by imports from China, ITC says",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HbmczSUctTWYtN0NCdG12eXRDbDM4bmthdlVUWE1LXzJCeXFTXzRBMXlRSUxBMXpQQzMtUlVZZnZMMGNlTHNGcUVqXy05WE9QNzM0a2N0MVExVU4xMXNoOU1OMnk1T3NFZ1hWbHN3?oc=5",
+"source": "Transport Topics",
+"published": "2026-10-01T21:27:00+00:00",
+"first_seen": "2026-10-02T15:00:21+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50784,170 +50946,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "7c6fc2f8cbce16ff",
-"title": "Reliance Jio leads mobile subscriber additions, adds 24 lakh users in August: TRAI data",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzFaeHpnYmM0QWVjNGhWLWZlMVd3SDJWUFJyR2c1OGJaeW1rcDlZR19pWWctZDVjcnVJZGZnTFRkanlaSEVFZkJLV3NiT3JVWFJ6Q3pEdkhTVXhWWU9RZVlhbVp1TnJHcFZsWUYtTkxvd19LeklQOEJFSTVnRTl0aFl3VzlBUGprekxXRUtla0ZRTkVQeGc1VFgxcXhJV014MERtckxXVmNYNXhsV0Z1cWNqLTRyM1hqMGRqN3Q5dVNZb2I5QUk4adIBzAFBVV95cUxQSUlLWFFDdUVrcEI4UURjSkdzRlhUa0dKbkxkWG1BOTBmSXNIa0ZwX0hjV1l4aEluUUd0MlRFRWhhVXNQUTh4MVNjWWJmYnh0VkE0LWVKN3NseE5yR0dFRlA5M2NyaDFFWi00cG80YWc5ZXVGNGdXclFGaGRPTmhuRHU0TldtY1ZTN1RQZGd5ZDJ2VTdpaGdsTzRKY3h4WURlTWNHd3pOV0hTcFpVa2NSbHljUDZqMXc1cGFqYlRKVmFtdWRJQWE0ZXpoeDQ?oc=5",
-"source": "The Tribune",
-"published": "2026-09-28T14:17:33+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "21a2fe5cdabb8653",
-"title": "Wipro ADR tests $1.61 support in bearish channel: Live levels By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T14:12:15+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "fe0b0f8be5f25393",
-"title": "HDFC Bank ADR battles $22.45 support: Live levels By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T14:12:11+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a55fe4cfe479538f",
-"title": "Infosys ADR tests $10.30 support with oversold RSI: Live levels By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnZic3loWUpVSWlIbjBfUlRWM2RWOFNwd0ZKcllib0FMMTJnYm1hcV9QT0o0dTR2Mm9SZDBZY3pJeU5YNk1hQ2R1bXVtdFNlaTJxQkNvZjlJN1p5U3BMdUhNVi1TSUxPcm4ydEZzWk91ay03STJDaWxxV0lZM3o3czhyNVBhdjl6dG96VE8yd0I3LVpPT1FlX2IzOUk0MWZFNjducEtYVGJvUE9HcGl5alZVWGE0eXlfSDNPV2Z3?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T14:11:04+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a86faa8816da0fea",
-"title": "HDB Shareholder Alert: HDFC Bank Limited Securities Class",
-"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWnljZWlFbVVfX2JTZjJRcDdDWWFwYmkwYjBWRWI2ZHRiY3p0aEZ5dk96eXBLckMzWFZiSUNELWZUSDhWTF9Nbk5QZzVYX2RUYndzVlUwak5uVW9qNF9mc0NndTZETmVqZGd6OXp1MndWMFpKWGZmaS1QczhqNzVYR2V3cTJQN0czMm9lcllTaFNsQjIyTDZ5bFlOWG13ZDdwMWxaUEJDTkpSVHppdk5rVzdVVWJRVUxELUE2MXotOFVVQ2N4ZkhDdDk4SHRSbHhZVUpPWUt0V2oxczNNQkwzd3E1Y1dFdE9SWkFGLVVDUHJrdnFPbFcyZlZWdHV4cXl6RFpIMThYeVFkSXN3TXNjNlQ4SUw?oc=5",
-"source": "GlobeNewswire",
-"published": "2026-09-28T14:11:00+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c8b39770722f5a81",
-"title": "Airtel Money seeks Middle East tie-ups and is open to future dual listing in UAE",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUFIdnhGbmh6ZlhiLWxFVGNxQmNpenVGUzVmRThSakNkVFE5cVNWY252VWFDOThBbzRfTnRNaUp0YlEtSHJDQUhLcHdmeU4wcDF2U1JFakdmN1AwZ1VPcUVSdWsxZGhRc191WHBlbGN5ekY4eWtPTUdJRXZzc1VkLUJSMERkaklTVHI3czRxTm53R0NfQ1h0M3hNbHdxdndMaUF5RzBzZi1VZXoyTGxyaDN3Rno1Tl9aaTdpcnN4QmlUT3lycHV0U0JmQU9yazNrd3VzOURkdDg?oc=5",
-"source": "thenationalnews.com",
-"published": "2026-09-28T14:09:40+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "10e3f7299e0541c3",
-"title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
-"source": "indianpharmapost.com",
-"published": "2026-09-28T14:09:03+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "62d2fb75d22814d0",
-"title": "Jio, Airtel Lead Mobile Subscriber Growth in August: TRAI",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlxaHJpZ1puZTJGQ1o3OVc4QUpHNjhVR1BfWmJSSWVjNDZ0WW9qQUV4UVFkY1FDMlp5d012LU1sLTd3eS1iRkFnMDRCdGxPQ3hZMjJ2Y1pRYVlSY2F4TTdFY2ZvRHZ0YnY1WHo0RWNzVnBTMWRXdTNFNHkwZ3JCbVhmN2FBZHJET2p1cEw2NVRfcUJyY0FFazlMNlBDUE5USE5qMTB5MVgxWnfSAbABQVVfeXFMTjNyWUNfTGRDYm9JWHhheWczNlhtd3hjN0s1eHpPeW56cDF3Tzk0SUtSbTBWZ1ZvbUp0d2NGT2dIdGxBYVBCQlRNeHM1X0FsTWpyTkVMSnJ6S1ppcVlTWWcyVkwxOFUtR1BBZzItSlZ1c2F0Q0t1eDhNcm5kY3BCbm5pbkVGVTR4cmtZX0lsZHNfU0k3Q0UtU1MtTS1Cdy1oRUR0MWxUSkkyTHVlNm5lRWs?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-28T13:56:35+00:00",
-"first_seen": "2026-09-28T20:47:01+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8c9c921d25b725ea",
-"title": "Jio, Airtel, Vi add over 5 million mobile users in August as industry base crosses 1.29 billion",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXBLM09tTWFXUTFrWWl0U25aejNrRzZSSW1kaGY3Z1NvSXAteFhTN1NkTnNRdGt2eHhhSFpsanF1eU10MzhZVWotV1pXR21MTUpabk1Gc19Tb25zQU02TTlGR1dEejAybEFmem5yWmRMOVA3b05vbWl4cWM2Z0ZuaTd3VFBQMDlGRUlZNndjRENQMWcxZDdIX016d3FfYlhJY3BINGQtMUFsWFVOR2ozVVBoQnlUYnRXUVRwbUp1aEJ3MjhlM1JiMXBhY19nTzJUeGsyTHIwNXVTV2NWMmpvNnNjONIB6AFBVV95cUxPNENNS1dhVl81Y3F2ODBWY2kxbV9sU08xcWcwZXVwOWQ0Um4ycnpnbms2aWJrZWRlTTVIRVdUR2IySmZhRXpDTTN6aUtHcC1TTUNNM3M0R0NFS3NzUHdxak1FdXhnaW1IdXBxRklhbkg1ZXdQOFdlN216U2toaUVxYUVhdzlydEhUYjlyX1d1RnZTX3JNREYyc295NnI5T0Ftc09idW43ZXJDVVJvb3RRTFkzSlZvOVhITVA4MVJ0WENYeWFmMkNNcGhkVnNpRmp3eERUWWRJZXcwOFV0ZlZxS1JSc3cyS3pG?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T13:56:30+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8657734f1040d91b",
-"title": "Best Indian IPO Information Platforms to Track the Jio Platforms IPO",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNE10ekFGT0twdmFYbVNPcWR1d0VLUWJwU0VoUGN2UjJ2UzNJMEZuT2RtcjVydXB5OUtwZmV6TWRGa3oxZkNSZlEzNFItcDlyYi1NOHdjSnB1WVVqX0JiUE1ySmVuVDFXSG9BVU10MjkwN1dJcmRfbVpnbnRLSVNOS2JpYlpIOGNxb2FfZVJ4cG44U3RGNjJ5Unp5NFdZenhXT3RGZGVBZUNHVmpEa3lwSjU0eGxJLVA2X25SMzhsM0N5cG80cTZCY1hfNA?oc=5",
-"source": "FinancialContent",
-"published": "2026-09-28T13:53:00+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
 }
 ]
 }
