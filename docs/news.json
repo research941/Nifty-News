@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T18:50:16+00:00",
+"updated": "2026-10-02T19:01:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,54 @@
 ],
 "items": [
 {
+"id": "2ae459f469a933b2",
+"title": "Hindalco drops plan to buy US' AluChem over extended delays",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTczTFp6bVFsaERKMlpmdktoLVZTVEEtdEVqRmhhTEoybTRjU015cVpwYU5aLTJZQ3FpYURSVDJtZGF0cFZKN0FwQzFnbmw4LUVXY2dYcnE0amlSMzZ4VmhMQXhLT1NQbWREcmxnYXhpLTQ4MTQxalFhRkk3TVdiUzVuWFNXMXZtaFNkWUhRdk0wamJUZFJRVTJMS2FVMWhqQmlzbW12S0FXZmZaSzlueTRzNUVvSk9vOHVrWVducnJMUUZEMFhOS25TSlU2NDBMZDVkSHlMN3lCRWRJWnRQZk5XaHfSAeoBQVVfeXFMTl9HdXZmU2tTWF83YVY1eHBncUFXMmx0LTZwQUtfcDZMTk5qWkRVeVJDbUdBTlhKQzlaYnlteVlwWGNfTUVSaGVVYXNZX0lDcFBNaVRQVkVfZkRxclE4SnJhelVpZlJwSUhRQ2V1NWJnVWtCQXFJcEkxbGd1cFJoMWlXWmtLWHhZeWdtMGp0NUFSbVgyYTZ6YjRhTVZNVzBWdGx6cVNwM3Yzcmh3UWZYd1Q4UDVuQkZGcGRUVmJkNTd6UEJwN2dMQ0RHaEUtZFNRb042bVkxYlBWdDk5VzVHampwT1g1SzV5aEln?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T18:54:02+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "082e15cbb8707ee6",
+"title": "L&T pushes Metro exit to Dec 31 as T hunts for Rs 13,600 cr loan",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFB5eWExZWZtVFV1MFBRV1VBcTVpVGVuOTR5ZnlQRFpCM29FRDVnTkhMX3lfM0hLNldPV1VEUTBFM0hSd1Q2ZHN2akpkVG5yT2F6Y01Ndm9mSEtZekZRNXFNTWlaU0luMXZlWFBMZWFPdzkyenpCLW1Qc3RMd2FYdlhZQVBHU2xwUUdPZ3RGWWhMQkhkdE9kYjFwaVpYbmNVZmJTZEliOXlFdnA0NVJiMkJ2bXFncnRDRWljX2pVdW5nekRwOFJOaDg3LWxFVzNrWEZMSWNB0gHbAUFVX3lxTE1QekhJNU55QzYyR2NhX2gtZDNRZVdYdmtjeUhXUGVuajY5Qlg2UTZHdm5ONWlRNUNza1dmWkVzMFN5djVCeV9Za1c5akQwRzk3cjNrUElLQ3lJQ29RZXdvR0R3djFoMkk4R2prSkpUeExWN2wzWlBUcmxTT1c1dmx0Q0xkUVpoblZjdFZVN2lpT215MnJpM3JIVGtKZnFJbGlmUE1lclNUVjBmN0NOUTdyU2ZsbG9DQWxTSDNzRVdJZ2Eyd0Jkemc4TnNOQ29tUFZrcS13ZTQ2YUhJOA?oc=5",
+"source": "The Times of India",
+"published": "2026-10-02T18:45:00+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "34f79467957a1ed3",
+"title": "Anup Bagchi's big test at HDFC Bank is winning back investor trust",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdlY0akZwRi03cDBrRGlfX3ZBSk1pbVg1Y2MzbzktaTVmcHQyc3lKTzdPMXBudGItSDNYVXFnZ2cyQmZfMzkwdU1tTlRUcHotOHZRTEJnSWtBQXRkUWQ2SXNKQzBudlFfU2JRNzBQV3o3bkl6X3VLbGRoamE4VUhOczNNaGtqLXhCbmUxaFd3dGlsR3NROWVkWWlGYjFvV1FybjRlUFh2b3MzZkZTSjJPNjREUFM5dkk0QjRJcjlCZlA1NzJHNEozeUV2aHp2bHBUcGViN2hlUlpxdUNRbm1IMlh6cmtWbHfSAewBQVVfeXFMT0dUcEdUVy1mTlhkcjV3TzJ4bVp1cXZDMUMxYXlnN2JPMk1zQkowOVVPSWZ0NVhQVWtiWjhla0c1OW9Wb1NrX0VVXzRlRHhQMk5nbGRDZGVMZDdfT25pMGl0OWJSbll6aUcyMjdsT0swTzZlRnA3MEVTbkJrM1ZWZEhjUHpZX3cxWDZSbXFHZ1Ryd0d2S0wza1ZCbUdPaVlaRHVlM0ExMkdfQVhtdHR0d0FDVERfTTRoWlNnX1h5SW0welQ1MWRCSVJOUnhVVnNZTnlWUWhlamVTcXAwMS02bW50NWVWWmlMbU1QUWg?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T18:39:12+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "aff3c4cea5659ab9",
 "title": "Surya Narayan Panigrahi takes over as Executive Director (HR), NTPC Ltd",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk9LTFFFRjZYS3ozQW5jYkltS3YzRW93cnAwbVVTZUstYkxuU1g3SjEwMXB1dGoySUkwdWJQM3k0VXY5X2ZQTE1CYmRHejNmMnJFeUI5UVlVM09VSzBzUTVGbndKcTBqbV92SC11WW80ZV95dHk5SkhOR2ZBa3hmMy1BVEFhQjRZR0JGN1A4MkxhcFR5R3B1NGFHeVQ4WUVEM1Awb3dsXy1NUzlaSVFUNm4zd2nSAboBQVVfeXFMTUxISkY2bHNlRVlOa2xHa2lENmhkWVFVUmdmOUd0aGNSQXRnWUJSZjV0NGJBZE4xd3JZX3BseFYyUkRIOFViZ3I5SEE0M2RqM1c2RE5kd3FBZUVPdUQ5SVhXM1dUS0o1N0g2VkhfcFNoSlVVVWhXY2UzdVctVkZPQjhDMTFhYktLQzNyMXkwaDlxLXBwTWc2MGNfcFlfOUVhOHVQOERIQU5WdjQxYkJxWGxxalA4bkxEaUFR?oc=5",
@@ -523,6 +571,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "71fc363f3a7e04c2",
+"title": "Adani coal shortage cuts power supply to Bangladesh to 500-600MW",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHF0TjZ1dFFKdE9aSVlXcDRCX01kQ2NLM0FDZmIzYk5LNXh6TWx0WUJyTTBKbkxYOGJ4UzdiYk8yVHEza0FkcmN4U082bmVOaDJoalRCSEVZbG5jYU1PY0MzSlJjbC1kdkQ5X2xRN0JnaFFLOW9laDVsY0FQSXRidVExQm1QVmhfRnZ2UXZaQXpOdFpabXFLZllrbUlURFZHa1VB?oc=5",
+"source": "The Business Standard",
+"published": "2026-10-02T17:36:45+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "dd0100eea8775e26",
@@ -2117,6 +2181,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d65032e22eceb4c6",
+"title": "Surya Narayan Panigrahi Takes Charge As NTPC Executive Director",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2pGaHRUeElJLTVmN0VRYl9OOFVsVHBUSF9MYXNoOHFCNElXeTM5RkVrRGhLZkduZFdIYnFTRlhYajJfYzNmaTRxUk0zbkNWSVI1d1k5dFk0VlM3UWtTeWZwUEFCVFMtVDh2cWhKcndXTnVZWVQ0ajR1bV9RZVpfb2J0cEk?oc=5",
+"source": "Sarkaritel.com",
+"published": "2026-10-02T12:52:08+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "0a09a52d3f61a11a",
 "title": "As HDFC Bank names Anup Bagchi as CEO, here's how bank stocks fared after past CEO changes - Yes Bank, RBL to IndusInd",
 "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdE9pTmZpYmFodXJyVnpSRHViVTRBQnNYY0VRckQ5QTlLRGVpdDVvbE9XSlR1dEtRandneE1kanlmN3FOeTVyTmZMMDlERHYtbWhqU2pVLWg0YVhTRVY4T0lEMy1kMExPUkliYXZzd2pmUmRuaG9UZUFBMEg5UkN5cUE5NWxVMGwzX0xoZC1HNGIyVGk4aGw5enVMM3ZfMDI2NUllZkZ6RVdLOU9zTW44SzI1aVlXZy1wY1pJeGZ0SXplSTMtR3hMaXFOcmo1WFRxd3dUQzlaT0g0VlFQTjJtUXBlZmluZElxS1N5NWdXMzVfcTZIQnIxQ3Fjb2EtdzFia2xTbTRNdEYyMWo0Q3RvYtIBlgJBVV95cUxNQmppREJ6bFhTR1ZMUWVZdGtXQWZVZ1lOMFJKaDVGeGxqNF9GeDIwNDRwaWZQcHRJZ0pNRHhNbFlHZzNNTl90UU40Si1TSVVjQml2THNLd2JJdnp2QVMtZFVIVHRkQk9VXzhJbERXYzVKMmxSTHFYa0FDLUttdmRUN1pXVERQZDlRYnJXWGNYdGNNYm1DeWdoemloNXVybk5QNWNMZmlkTFcyWl9OcTJnTmFKQlU0NVpGMkRHa1U2MVhBamstY2ZKRlRCUEx2R0Zrby0tcDZIUlczWTFTbTBMdXI1bTczMkZ5T2R1amM0ZUVBM0ZVVGF5ZzRnc2Zsc0t3ckRXdURoVEtWVFAtc1FNczdpNUFrUQ?oc=5",
@@ -3352,6 +3432,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2d5e4c35012ed510",
+"title": "Hindalco Industries Limited ends US$125M AluChem purchase agreement",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWttLXI1TVR2d25JeUpGVmxTaGtqNWVmMkhMSGhzazJZYWc4NTh5cW03Q2pfZ2Y2MWpiVTJRM3VEVFBkd3pnTDFMZXRTSEdCcEtOT0NaaWVNa3VFR3Vkc1lYTTFCdzctbXpwZmZqV0JXUEFjVUdwRW54c2NNa0xkRlhFVUZzTHpKOWc?oc=5",
+"source": "mugglehead.com",
+"published": "2026-10-02T09:41:14+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7692e6adec47f882",
 "title": "Accused ex-Stoke-on-Trent teacher admits acting 'irresponsibly'",
 "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YSTBFcng1Zms1WjBTMnZxcmh3b240a3ZyMlRVWWhXX2RCQ1ZOVE12Nm1tdi1NRTNGY0JSa2N6NnlqYXJGY3EwSFNRQ2VKUmRrX3pfR0piYzFFdlE?oc=5",
@@ -4466,6 +4562,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "24202983387c93af",
+"title": "Top 10 Adani Shares List To Watch Out For In October 2026",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Q3dWt1S3V1MkNyMU9rZlJoWU5uY053WXNyb2JTQi0yTTAxTnJiYmFOb2RYcEF5NFFYMzFjS0RSVjBWYmxfTFJHNUFOc2MybXl2cXR3dXJZbDdodUZiTUdXTmw4VGJSMDl6VHM1QXp0QUNCZmdJNldGLW5CWWRJVWNnSFk?oc=5",
+"source": "Samco",
+"published": "2026-10-02T06:51:04+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6600,6 +6712,22 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8bec6d655a375011",
+"title": "Airtel Money Sets $7B Valuation for London Stock Market Debut",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnk2SzRfLUFxSGZ5Zkk2Z0VQN3ZnR2JuS3M2N3BVbld4dmFXbHpwc1BlSlFPNEw2SVNValJQdWtxbWwzVXJoT1JjUjlmUjAxZUdWVFhyb2xJUWtrSDBFeVExMEk0Zm15SndSTHNtWTliLVJ0V0E5SjNKZWV2MFREVThkVFd3d3N0c2lsbk5JZVhNSW5IaVRCMHZkYlhSMFV2YU9saEhZMmhCTzBnQXhN?oc=5",
+"source": "Dabafinance",
+"published": "2026-10-02T00:43:00+00:00",
+"first_seen": "2026-10-02T19:01:35+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50797,142 +50925,6 @@
 "SBI"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f989008c5a6bb12e",
-"title": "Adani MPS case takes a twist: Group pays Rs 1.48 crore to settle, while SEBI finds the same violation not...",
-"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbWFfMm0ycTU3cWdTMVFMdGNCcmJtZ2dzb004VUxUMU92WElCYmtFQUcxUkJjNS1oUjI3cWpHOU5CNkdmLTU3T3NHVmh1UE1JT1RCSDV3WkRMQ1RGTWlVeUhzWHd3aG1XeXFRVjdocEJrNVRSTW0xbmM1NmthdTJhZHZaVkFhVHc5T2pNb0pVNC15eThyODd6Rkg5aTh2R1lHejRlUnoycURGLVBPaGNXMWo1bVd5YmJuTzFlcU52cTZPV2FsanBxU09iOExqZFNNcWZmMkVTczBlZlN0SXZCRHI1c3JVTlRROXBDNEt1bGJ0VldJY2toODRuM19WMGQxamlMU0xUenJmS1px0gGSAkFVX3lxTFA3WUpuRjBNckFmMlFxS1FWaTdsOGprMXI5bThlSEd2VVlEQzRoWTBfWkVUdHNseWlnZ201YlVEX01aRDNmTUdEcC11amtEbWZ1Y1hSMVhCRFpVQkFSQmtnYXp6WnZSeDBxRVJFSFQ5MjZRUWlXVGxVS3RYM2NEOVdSMGZoM3c3bWVMMndVcVJUNUE1QVdSdlc5WHB6Sl90NmM0aDRYSXl2SVFzbUJVVFFic2VuMTdBRGpRSG9ZdkpHTGR2cHY0OTBmMjJsLW9pZmZiamZ5V1dnNS1pTFZ2RXB4eWxubzlsenZpbGtfS2d5bGxZMWNYREctQzUzTzMwWlhRajF1S0FZVURGdnJYcVlGZ2c?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T18:01:43+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9609ccae67dc5f9c",
-"title": "Bank strike deferred: Will SBI, HDFC and cooperative banks across India stay open on Tuesday-Wednesday, 29-30 October?",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYjdXUGxQcnEyb1FqTU84c3V1bFZ5NnJuaG51Z1dVNUkyaEE0bVZ2SkRqQmg2S0dvVTU5M0I4QXEwbWRXTm0wMXJMMUd0U1lwMXgwbUVSVW1mUzBVZVJZN3BZT2FiZVBJaTVfNTZZaDk4NHd4ZVA5dHl4QW13VGtqaTd1LTJENVRWbExYTVdBbldtdlE5aV9iTmVabHZCZnBZWkllbDRWQU52SUU5bXJBWVFEVzBDSjZBd2hzZ2J5QXI2anhCVDB2X24tN0U2ZVBGYU1NSzU3al9iWDJCWGlTWjVyaFRfTlhRRjdhUFFkQW9QZ080bkRxeDNWS3BsVV9H0gGGAkFVX3lxTFBLUTJpX0l1YWpGVWU3aGo5eUdfbksxNmJPTTJwYnFsNkVCT1Q0WXNWMFJwbE1UUnFPRVhhNXhtMGU4RzRqcGJOVDVZalNLZWRiaFdxMUdqWWhLN0lDVEVBdTA5aGRHQlhxakZGWk81WDNaRG5Va2ZGQnFjd2Rqd3F5U1FBd2RVOXlwLXEySkhpRjZUWGlfLW91QnRTRTZ5bEdZZHNRN0drVm91Z2J5cmFrdW8tVF85RUNBYTV4dENydEpaNjhZTWRMU2piVDdMLXR0c0FRQndrODFDQ0xwMlJhLW45QXk0cWExWEF6UXNySXVUUkJmX01FQmd2VnZ3ZDZUUkstdkE?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T17:56:55+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1411a5a3fbcc53a4",
-"title": "Indian billionaire Kumar Birla's family lifts its Grasim stake to 45.07%",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlA2eXM1eExET0dkaW80STJ1X2tRYWFNVWlodVc2MFFTdlMzenVZLXR1TDAwLXVwS0JEU1RJOWkwNGo2TUw1U2YyWmFJTXJ3cVhOVVotZmUwRTFpUDhwNmdrOU9VbGhRdDhlWUNTd05XV194SlZ0ekQ1R25xZ1Z3NE5iRFlaTE5MbmtWTGEzS2NhUkxuanR5bkNOd0J1cDFFbHZiSlRjSHBjVU4xSUs3VGhoRGM?oc=5",
-"source": "billionaires.africa",
-"published": "2026-09-28T17:55:47+00:00",
-"first_seen": "2026-09-28T17:57:50+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4c4e46b6b1f11903",
-"title": "TCS employees lead weekend Jakkur lake clean-up drive in Bengaluru",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUk9zejdlYkhFdEw0TG5VQmpHY1lETkVYT1M0Y21sUG9GQ2d1Y2dlc25ZWC12QW1LZElzZ05XMnlkYjBGaThSbTZ3dGFQbmNTblE5aHNCMGwtSm5KOHhaR1ZnMnVzZUQyWHd5RzJmLWwtdnRsS2xuNlZiNnlaLVlYdlZWTlJmdlNNemlVV24tTXpYVU1vWGJYM0tNbVBMRzc1ME9RZUZLMzlVLTdXaVEwZ2RaTDM3Y29TNF81em5XSDVUOXJuVXBUcE9vNko3V3pNU0VGR2VCQkE5T1lya2lJNNIB4AFBVV95cUxOUk9zejdlYkhFdEw0TG5VQmpHY1lETkVYT1M0Y21sUG9GQ2d1Y2dlc25ZWC12QW1LZElzZ05XMnlkYjBGaThSbTZ3dGFQbmNTblE5aHNCMGwtSm5KOHhaR1ZnMnVzZUQyWHd5RzJmLWwtdnRsS2xuNlZiNnlaLVlYdlZWTlJmdlNNemlVV24tTXpYVU1vWGJYM0tNbVBMRzc1ME9RZUZLMzlVLTdXaVEwZ2RaTDM3Y29TNF81em5XSDVUOXJuVXBUcE9vNko3V3pNU0VGR2VCQkE5T1lya2lJNA?oc=5",
-"source": "The Times of India",
-"published": "2026-09-28T17:49:00+00:00",
-"first_seen": "2026-09-28T19:32:41+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "761cdc7d3163dbdb",
-"title": "E20 petrol can reduce India’s dependence on imports: ONGC official",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzZIT0t5YUpwekF4dUhYeS1rU2VBWlR2ZEJEOUNta2k0YVRLNEU1blFZY2thdkJwNmpWUVFGcnd2NWZLOWM2cFpKeVJTSEFSWlF2N2wtVXpCYkFzNjhTNE9DckJXRUtDTVVkbWRURFpIVTh0SklHX2N1bUgyZ19ka0hBUnRjaDlhWVBJelYtTmFSandiR09XUmJCaDVCSU5k0gGmAUFVX3lxTE5uVlk1LUNMSm1tY2VXTVFQY2ludnYzVE9qODZkSWh1ODNsRC1IZ1pQOThPdm9EM2RaMDd4ak03VWx1ZmgtVkx5dG9hS3VsMmpxZXhtTnVYWUZWeTRXT0tzVS1HNWV1dDJCeTkyQ2M5ay1kLWJVVll5bk0xY2tGd0s4NHkwX3NJTTBLVksyeTRiLTlueXdkUVVRTnRZZ0x3TjdrWGd0YXc?oc=5",
-"source": "ThePrint",
-"published": "2026-09-28T17:46:46+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "77448094abedf73a",
-"title": "India regulator allows Adani, four group firms to settle public-float violations case",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
-"source": "Reuters",
-"published": "2026-09-28T17:40:26+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0880690f67ba88e2",
-"title": "Adani Group Companies Settle SEBI MPS Case for ₹1.48 Crore: Adani Enterprises, Power, Ports and Energy Solutions",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2pBazR1MWI0NFViRmNuYnRqNkd5UVdDUVhFX1VSRzdab1BzclEtWGhjSzUzNVVfX0ZKRnFBT1lPU2FFUk5adjVJdDFVbkVsNUVaX1FrcU5VNVhMUTNDYklJbXQ0UE9BMVZsS05BbXFMaGpRUkdJUWtWaDRHNllSbHI1MzFKSlNEUjQwcG9HcUlHUFFZcE41VlM2TFYwYlQwNHM1bHpDNEZwT0MxTXkxdkVfUlZpT0JQTFdsVnJQSUEtaDFnZnYzTkhTUnhZODVEN2loemlqZ0d6dHAz0gHiAUFVX3lxTE0xVW11d0tyTkNEUjZQUHlxZEVrQW9yNlpQZVFndVBHUVVybnJPTEtHV2FhOHhKbWw3U3JTUHF5RFNzcW1WeVFZa1duZ1hJZXFCNEM5Wk5fVF9qY1lJT0RPejNzWkR6Z1pFNHloaEdrOXU3bVpsTXdSNmxsSnkwbXVrZjBzQnQxcF83UUNtYlBrb3R6MkRRdnpjZ29Lam5vNTVKSVVmOXlldEJzTEdVYnMwOE1FVzI2b3REQ0hmNkp3Z19IUG1Za0NGUUt6MkYzNGkwTTZkOUs4Wk81YkN6WXc3dmc?oc=5",
-"source": "sangritoday.com",
-"published": "2026-09-28T17:39:42+00:00",
-"first_seen": "2026-09-28T20:32:15+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "d2613a5bc12d6e60",
-"title": "Adani shareholding case: Sebi says charges against Vinod Adani not proved; 2 individuals fined ₹20 lakh each",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazBxOExRYWxtUm1HeHdwYWJfYWRvRkw3aTJndHlQanJsNzR0SmVaMU9sWnlnRjVTTUlsZnpMUTZ0OVlabXF5RUVjdDdZSWhVYTJJc1dhckY5QXVvNnUyQnZGSmo0LUtWbF9NbUhWck0zWC1fdXNCOFhONkY2V290UXJrY2VhbmoyNTNFVDFlMWJBc1MtVnBDMEVZUktQdW40M19VbkxhS0lqSVNidTlNQkRKOFVoaGEzSzRIVURFVDJhM3hDanc2OG9GbkE3dTJzZWFCRlVHYXlqUDM4X1NDUjdUMmtIcVB2YkE1eWZ1XzbSAfABQVVfeXFMTmswcThMUWFsbVJtR3h3cGFiX2Fkb0ZMN2kyZ3R5UGpybDc0dEplWjFPbFp5Z0Y1U01JbGZ6TFE2dDlZWm1xeUVFY3Q3WUloVWEySXNXYXJGOUF1bzZ1MkJ2RkpqNC1LVmxfTW1IVnJNM1gtX3VzQjhYTjZGNldvdFFya2NlYW5qMjUzRVQxZTFiQXNTLVZwQzBFWVJLUHVuNDNfVW5MYUtJaklTYnU5TUJESjhVaGhhM0s0SFVERVQyYTN4Q2p3NjhvRm5BN3Uyc2VhQkZVR2F5alAzOF9TQ1I3VDJrSHFQdmJBNXlmdV82?oc=5",
-"source": "Fortune India",
-"published": "2026-09-28T17:39:26+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
