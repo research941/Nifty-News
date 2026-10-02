@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T01:03:15+00:00",
+"updated": "2026-10-02T01:20:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "402702b6d40bf5b8",
+"title": "ICICI Bank schedules October 17 results as 3 reports cover ICICI Bank stock",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2J0ZktiOWVPT05EOFlsd29MV2dvaEFfbC1xSnNsWW5qSGt0U2hjX0pkb0lZSXY2d01kc0JGaDBmd3hBWUd4NjVtOTZFQjdxZ1hnNjI0RF9SemhSMmEzbWRJS3lGUHdFNjFOOUtsbFJtSWNFTjBUUjlXdi10WlNDR3JQZTEwOHRmQjNiYXMwOVlqYjB2NjZDVkxCZzNsc2ZlVGp2WGk1QlFWdjByM3dFaUF3U016YlQyQ1BTMVVBeWxROER5TTZJ?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-10-02T01:07:45+00:00",
+"first_seen": "2026-10-02T01:20:18+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6dbb0cfb1d47f6ef",
+"title": "Growth, deposits and faster decisions await new CEO Anup Saha at Kotak Bank",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHBEUE00T2RIQmlPXzZCZ3dVcTYwclpqSzAwNVpyZ1UxZWZyUGxrRDlaMnhNOGlicDJYWWtIbWVzSHppMTJpNVJxel8yekpnTTU3eUFvMkxpRUZPMWE1SnJ4QjNLX2NQOUlld2dwOU5ralJOVC1kaXQ3TlczWGU4V21zaUY2NkJRTzhYcUxZeEFvYjl5N1JkVkY4Y3dGTU5NUDlMeWJBdlFtbFd1cm1JcHNKdURFWmJtUTZkREFhMC1ncXNUSGFJS3FGRlpfMEHSAdQBQVVfeXFMTzk3RXZnWmNubmFRSHl2azhTQmxvNkhpMDBWYmo4ZzU5Unk3UTJVZWJzY2VpanRWZUhrYVlsRDE0TFZJT056TGpfNEVmbVBmYTJGVlUwbU0xd3RzRVRwMVBNb0ZKZG5KTVgtTlcwNGhWMDdxSEplb2REWlpnZ1NuUUNHLWhNakQ2UFMwLWVIYmxUWFZaNlRNU3lYTEY0ZFpMVGxPaHhQSzZnZEttanF3N3ExNmI4amZ0aS1yOU5sX3dLSFF4SzJuRThLajRlMWV0eXFCTHU?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T01:01:03+00:00",
+"first_seen": "2026-10-02T01:20:18+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "80ee7dfb87fc720f",
 "title": "Apple Pay in India: Why Axis Bank made the cut before HDFC, ICICI and SBI Card",
@@ -3384,6 +3420,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1075b82b7453ef8d",
+"title": "Royal Enfield Sales Rise 8% In September To 1,33,958 Units",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTYtbGExVFhWaDFMRjlkWEtzN2lDWENiVVV2cWpMaWVjaVRiODZIN2d5clh5UDhNcU1YRWJMLTYwN1UyNEc1ekFqVUtGSjJVRkhiWGsyZkRkUFExNGJ0Z0RSQkdZMDN6TmpRbm1EOGdBenBYemJnaDVZWEF1VDgzRXZnbHZpQzBvX2ZuWE1qREtvTWh5eGhEWjhYS2Q?oc=5",
+"source": "bwautoworld.com",
+"published": "2026-10-01T13:58:27+00:00",
+"first_seen": "2026-10-02T01:20:18+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "42801040acc0fa71",
@@ -50725,55 +50777,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "8085d5b99b59d5f7",
-"title": "Websol Energy to Adani Ports: Key stocks to track as West Bengal steps up industrial push",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTdPYXUwRmFYVEplZzcyWThqTE1lRlNwb056bkd4OWV2R1dkMEZtdEwycU1LMVZxOXE3aXBITFo3WkNoVXRhN1I1dGhMUHBnRVpHV1hHQnNJSlUxRmZGQXNsdndNVlJzMDFJYUxiaWQ1ZFVlSE5jNjhQZVdVSUNPTU9nMy01UEhJTzVwNnVEZEVGSUNXNkxUd3EtQ2VZRERnQUk0bkJrRkUyMDhKTzhTOWZpNXdIak54WmoxVWhTU25MYlVHMWNLZEVteVY5T0kwdDVhZl9NcW52YmRXNVUyTg?oc=5",
-"source": "Upstox",
-"published": "2026-09-28T03:35:39+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c7a525bfed949708",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Price and Performance Snapshot",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:35:05+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "30ae1f900ac53b60",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:35:05+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
