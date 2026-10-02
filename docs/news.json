@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T20:18:34+00:00",
+"updated": "2026-10-02T20:33:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -540,6 +540,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f63806006e0b2098",
+"title": "Adani Group committed to investment plans of over ₹6 lakh crore in Maharashtra across energy, airports and",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdTd5bFR6NjFMdVllOUJPbFFkczJ3ZDlreGV1cDZFRVRMUnBVenBRNndWc2VaQmY5N3pYQkRXQzNReXY0Zll2d0ZsdlpzY1daSjRWVlFmYXB3aWpFREs2NnlraGYwdkRvbmVoSmpmcm1ScjJjcVF0c091ZUduT2JPT2dVeXpNaUFtRVFFV1p1N3FVb29DTk1tbmlmMVlLc0VReXlqM3dGSFdEQXlaMmFtZWRBUXU0SlotNUVoSDkya21YTVpSRXQ3RnBMQjl3UVJ6d2VicHlKVXYxRFRXdkJUSVFYZ2lhUFJzTjNOZ2tLeWlTdmREWVFRWUdzTllodHRPanUyYkpB0gGGAkFVX3lxTE51N3lsVHo2MUx1WWU5Qk9sUWRzMndkOWt4ZXVwNkVFVExScFV6cFE2d1ZzZVpCZjk3elhCRFdDM1F5djRmWXZ3Rmx2WnNjV1pKNFZWUWZhcHdpakVESzY2eWtoZjB2RG9uZWhKamZybVJyMmNxUXRzT3VlR25PYk9PZ1V5ek1pQW1FUUVXWnU3cVVvb0NOTW1uaWYxWUtzRVF5eWozd0ZIV0RBeVoyYW1lZEFRdTRKWi01RWhIOTJrbVhNWlJFdDdGcExCOXdRUnp3ZWJweUpVdjFEVFd2QlRJUVhnaWFQUnNOM05na0t5aVN2ZERZUVFZR3NOWWh0dE9qdTJiSkE?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T19:19:00+00:00",
+"first_seen": "2026-10-02T20:33:27+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3913,6 +3929,22 @@
 "sentiment": "positive"
 },
 {
+"id": "704bfe4f62e41177",
+"title": "Tez Industries Bags Two Prestigious JSW Steel Honours",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2NQLTE1dW1YbUtwUnB2Rmhkb29rZjJ2TmVMUUVZdUJrLVZRYmRHNVVtUlcwTDNzellmLWx4Q0tqcWkyV29YeEI3U0xKLW5HNTEweDRvTGFxT3lReTVuWm5LcVJPd2kySnlseTUyWGxwc2szSTdrX1ZSbkhDa0VMbHdOSGVWUQ?oc=5",
+"source": "PressNote",
+"published": "2026-10-02T08:49:13+00:00",
+"first_seen": "2026-10-02T20:33:27+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "81e25d942416fe8f",
 "title": "Hindalco calls off proposed USD 125 million acquisition of AluChem amid delays",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHZLaTNHNWcxUTllZ0xRc0NScVFQZTFGOEJUTlUzWHZDYlZqMVJZcGlrTF9CTWdZbDdPQ0ZRbng4WHREV2N0OWlXSnk5YVZ5MHFRaC1XTkw5czJMUmtBbURtNDZtaTliU3pXSEdLc3EtUWttdlJiNWJ0VDJfeFFGWWZYTVJIRUVtMC01d0UzTEFfZkM1ZkZCLXRZcVFXT1owekc4R1NQOGYtN1JGN08wdUU0Wl9wMHVQdDBWMkVid0FrdGlOa1V0MkxVeDhocHVpR3FiSWIybmZmd9IB3wFBVV95cUxQQU1mLTlHYmE1ZjNEOU1NbzR5VTIyVzh5ajVIRk5qVTAwQXNSbnhTbEZacDRaVTBKeDhjWjlWLTBvei00ZVpnVF9DN2h2eU9FSGd4OG9vVWowbkEwSEVuZmNVVUk3R0dwbTM5UUY3Y3pVSVdPcjhPZzFFQ2FqVXYtVTdRcEQxbnF0N0dER1NkM2ZyclVFZGNfN0dlR2ZjM3prNzlQZVFyVHg5Tk1ZSVZFM1RsYW1YTnNyNUhTVDkwdUZYUHZETGxtbUVXNGJPSjd5NFozSC1Gbzl6aVhoRmNJ?oc=5",
@@ -6833,6 +6865,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f56784241a1c5b8b",
+"title": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VakFpRExUYldXMkNsOENVSHQ2NUIyNDhRZklKbjVtZGJBMzFsSXpfRGJyVzdQWkxCb0oyYnZIMTRBblBmZl9WRmlRVTZ3Qm8tR1dJS21pQkl6WGpWOWJ0dllEMVpKZEJTaE8w?oc=5",
+"source": "Upstox",
+"published": "2026-10-02T01:46:12+00:00",
+"first_seen": "2026-10-02T20:33:27+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50869,57 +50917,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "1521a30036294060",
-"title": "Adani Ports settles SEBI proceedings with INR 37,05,000 payment",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3BmRkhiY0F5cE51UmpLMy1meGJ6ekY4SzdZaWc2bUxZWWhrSWFyTkpSTDZMcVpBNmRsWFZra2ZJY3c2cWFIc2h0ZHo2OWQ5US1qamQ0WkFGTzlDNmMxNlRWVmI5OFNOTEo5NnlfU3Zjbk53V1hia1FkZ1BoeGVlRGl4S0JXV0hYZ2xfYnlJdmVRM2lMWHBvRTM4MHk5eDhKRlE?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T19:06:31+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "e8049e13b9c13414",
-"title": "UltraTech Cement Super 4's Twenty20 Tournament, 2014 Cricket Team Records & Stats",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFJWa05HNlAtY3BaYVN6eGxJZWpPTHpCZXVrV05QZzZ3NkR6WlNxRXBGUV9MdGgyRnpDN2FpUkRUanZkYThQNE5qOVJXNUItMEhZMWVaQ0tmWU5NRlQ3LTVHdzVBVDR0R1JtcnRGbnZfM2pxNW8zZ3dVN1pTMDBHRzFKUnBFd2x1Wm02RFRYVkZHVkVJREhkY3VfRWRCLW15a0RnUF9NZGowNWJkb3I4?oc=5",
-"source": "Cricinfo",
-"published": "2026-09-28T19:03:04+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f6444d7f85537791",
-"title": "Adani Group Cleared Of Minimum Public Shareholding Violation Charges",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2tYWUhEallLal84V3Z6VlNXNkpmOVVLTFVlclh6dnp3b3RuUFJDazlxZU5YdElHblo2UTRVVURyNnVHc3RpWFo2ak0zbV9vdnh3MHJrWEoyUzV2TlJqR09jMzRkVkpkcEoyZTh4eXdqZUNMRnRLQ2ExVHpyaU5QOThkU21MTzMtZFdMcHAxd25xc3JUdXRuOWsxTENkY3RIcjZmU3U0QXcwU2JYS2fSAbYBQVVfeXFMUDk2QnFOa0VaOVRmUTBKYjdXMXZMVkVlVG8wQVZJZXNMRTRXamdFLVVIQ0l3WmlQVGxzVGdnNlJqeGVpUzBOWXB2ak1vemNaRzY2QURudXJkbU5jX3UtWmQ5eVFoOFhoVHQyM1hHbVF5YnhaTTlaLUpJVnBMeEpycGxmdk9pVExxQ1RJbEt0NHI4WG1DdE9yVFluU3VvTS1EZWl5QlVRUGM2R19kZmdXVWdweFowc1E?oc=5",
-"source": "NDTV",
-"published": "2026-09-28T19:01:56+00:00",
-"first_seen": "2026-09-28T19:18:07+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
