@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T19:59:33+00:00",
+"updated": "2026-10-02T20:18:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -556,6 +556,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bd0be45255a68725",
+"title": "Karnataka High Court Affirms PMLA Proceedings Against JSW Steel, Clarifies Law on Cognizance and Standalone Nature of Money Laundering",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3ZhdXlTeVpKczliV2k3enJCTnBjLW5SQk1yYzJubXN5SDFJS25wTXJ0T0kwV1JMZHBsdUtCV1c0cGtYM2lKRWhBQVFCSFlVTzRsLVdEWk1yTlFGclViQURZUDJLWV9FZkw2cnZEU256bFluSTduN0RNU0V6d0YzLXlKaGU3NHYwUlZRLWVmeFNlME5SaWR0eUEwVEdNYllsOGZ1aVlqWldaMW8?oc=5",
+"source": "TaxCorp AI",
+"published": "2026-10-02T19:11:38+00:00",
+"first_seen": "2026-10-02T20:18:34+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -50902,24 +50920,6 @@
 "Adani"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "add5a2fedfb4c5c9",
-"title": "Adani Group Cleared Of Minimum Public Shareholding Violation Charges By SEBI",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2tYWUhEallLal84V3Z6VlNXNkpmOVVLTFVlclh6dnp3b3RuUFJDazlxZU5YdElHblo2UTRVVURyNnVHc3RpWFo2ak0zbV9vdnh3MHJrWEoyUzV2TlJqR09jMzRkVkpkcEoyZTh4eXdqZUNMRnRLQ2ExVHpyaU5QOThkU21MTzMtZFdMcHAxd25xc3JUdXRuOWsxTENkY3RIcjZmU3U0QXcwU2JYS2fSAbYBQVVfeXFMUDk2QnFOa0VaOVRmUTBKYjdXMXZMVkVlVG8wQVZJZXNMRTRXamdFLVVIQ0l3WmlQVGxzVGdnNlJqeGVpUzBOWXB2ak1vemNaRzY2QURudXJkbU5jX3UtWmQ5eVFoOFhoVHQyM1hHbVF5YnhaTTlaLUpJVnBMeEpycGxmdk9pVExxQ1RJbEt0NHI4WG1DdE9yVFluU3VvTS1EZWl5QlVRUGM2R19kZmdXVWdweFowc1E?oc=5",
-"source": "NDTV",
-"published": "2026-09-28T19:01:56+00:00",
-"first_seen": "2026-09-28T22:18:24+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
