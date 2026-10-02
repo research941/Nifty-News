@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T08:23:35+00:00",
+"updated": "2026-10-02T08:38:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "ab1f1f23f7036736",
+"title": "Hindalco Calls Off $125M AluChem Acquisition Due to Delays",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXM5TGxmY1E1OVVMclFwZndyV1VDcm1rTzZyTFpvQzdyOEdrYmk4TnY2cG1Hb3NGenhjZXY2c05sTDVfLUtpOWtEc3BPYUhZVUJUcXhyTU1JR2lXekp1QTZGMjBlZVFkckZFbmU5ZGFZSzVlVHBXa1cteDVJTGF0TWlhNkxZOTlabkVWODVISjU1UHB0OUJEMk5ETnlrX0x6UnNBbW14ZUs2ZEx1bEHSAbMBQVVfeXFMTzZIM0FYeEJ5bmFlRThuaVdiMmNXVDRBUHJ6aGFSVG5SclJpaDktSmRuTUZaWnhXUFhETk82TU5EemNBTjhLeGJhVFNSTkk1SmhndXRjYkdDSFJoRU8zRTFCNGhkRURjeE5vWjRaNUNoSlItVmJfVDRodVFaYXViaG16c1NMbXNHdVlqYU9CaE0wa1RtdW9aUzZhNEFVWmtCQTExbExMNUtSZFJ0LWlqR0V5SmM?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-10-02T08:32:12+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "616b6a2bf006ee0c",
+"title": "Airtel × Apple: Which Apple Services Come with Airtel Plans?",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0lsbVhlM3UzOTBmdm82WHlCNWRTSjEwaTlNOG5aN2hvdzB4NUFTVjhpdXRNZVpSNk1iTEMzTzktcDNzUmFBWkc2dWlINzltRTlKcjJqVkhjck1mdGtUOFRuWHhLTU5DdktfZEJjaXF5NHdxc2FNb3hFU19Gd05xRnFCbkJodzZ4Skl3NXd5dVY3S3pfeEJOZWJ30gGnAUFVX3lxTE5tVEpGcm5RUlhBcEo0SHo4am1abnhOUVE1MFJRWFQ3djRyUm5Ga2xzYkQwQVo5eTl3RWlXTkd5eGU2azhFaFVaOGQwUGxBY0hYcnloMDZ3Zm42dnZCa25FbXVLQWxoWVJqUXk1YVQ2cFJWWUxzZFFqeXQ1S21QbDZDd3ZEQlQ2eGJCUExuMVNqbUsxZFRqZE9FTjhFU19hdERONXhUeWxB?oc=5",
+"source": "Analytics Insight",
+"published": "2026-10-02T08:23:52+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "258ef09b5a5be451",
 "title": "Laser Power & Infra Secures ₹72.77 Crore Power Grid Contracts For Transmission Lines",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGpHU3pKNmtQNmU2YXIwVEd3MGhaVzlzNUduOEhQUHVWU3F1Nl9BWmxwYTBBeU8wM0pfdWdCem5abVZlNnRVTHFWQVRFeWRXQjJMUXRoY3hPNmNTM3FRUHpUemItYW11R0dlQmtJR20ta3Q0VVVQNHZEZmp5a2g3d0dIYy1PUm8zdHhub0ZXYXlKMkRaZ29PVVM5Vm10TUsxVjB1OGJVSnp1QW8?oc=5",
@@ -495,6 +529,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f86fddc9a2f89b07",
+"title": "Adani Group commits over Rs 6 lakh crore investment blueprint to Maharashtra: Pranav Adani",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZERIMGE5LXlZUFNuaWpLMWlqQlBreGNOUTR2dWc2bUNjOE43bzEtNER1MEdBQjRHQjJkRm1JWnZIRG5rQlpJOHczdGZHcDJhLTltNzNVVURNdUdLeGxod3lQSmw0TXpKSFppdl9FRFkwYUJJUTdTN1dLeGhyeTYwWVlnWkhzTmV6Vkx0VWhVM0VuMVZvcXRIUjZhZXRyQ1VfZnBMUjRxRm0tcUItTG1Ha1JUV3QxU3VLbU1XenBiSjA3U2VwTlNuYUxTMjM0NjhVak82NkhGZEZFOEF5Q3gtMXo4QWd0MWdEUmRGVXJ30gHuAUFVX3lxTE5kREgwYTkteVlQU25paksxaWpCUGt4Y05RNHZ1ZzZtQ2M4TjdvMS00RHUwR0FCNEdCMmRGbUladkhEbmtCWkk4dzN0ZkdwMmEtOW03M1VVRE11R0t4bGh3eVBKbDRNekpIWml2X0VEWTBhQklRN1M3V0t4aHJ5NjBZWWdaSHNOZXpWTHRVaFUzRW4xVm9xdEhSNmFldHJDVV9mcExSNHFGbS1xQi1MbUdrUlRXdDFTdUttTVd6cGJKMDdTZXBOU25hTFMyMzQ2OFVqTzY2SEZkRkU4QXlDeC0xejhBZ3QxZ0RSZEZVcnc?oc=5",
+"source": "mid-day.com",
+"published": "2026-10-02T08:13:00+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "81c52429ec5567ed",
 "title": "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdEtZSkNRYkp3UzJGNkJ2Yl81bGlsUnVodVY0dVdJdUhiWnYyWkpwWEhtRHcxYTFGT3JwWTB2V3EycUVsbE5WVFpXQW15U2hsMWMwa21mbmxHODRobmpnQW1hcmhOejVrbFJXWm1OU0lrMld5OGg5dXg0aFUzTnZzN1Y2YjNWVmgxZEIyajh6N3dlOFAzUjBZRm9aWU1HaVJXUXVCclNlUUlHbnNSeEFHT2UwMnpwVkhPX1dad1F2ZmZRdFJnZHRBVXRYdjIxWm8xelJuZjVGblhzNVBDcXMtenBsdjZvZlI2UHdLQ3ZNNDN6SjduWXdJ0gH8AUFVX3lxTE5MUktJdGoxU3c1S0E4NjhJaHo1V0Rwb3BkRUFIeENpcXZpR3dUSy1PbGNtZ29IaVFNTnNrb3V4ZUxfNmFnWDBONkZyUUVmMW15a3hBcVFZdXJfcGdpSUNJVWRZRWpqcVVUUFIyOEh6aWhxZ0pTV2RuN3JmWXdkT1dxaUN2aHhqUV9OczVPYXZqY3Z6WTQ4X2J2WUFrS01kUEJpUzVLa1h1R3FmZDl3OWZ4dHZGZUlDSmpPalJGdm1NaWNQbkp6b3Q0a2NKSDhSSDdscXRmeUd5SThGd0xBVUtiaTdKX3dEMVN2TEtHZkhLUkRWdmFVZ2duVWluVQ?oc=5",
@@ -525,6 +575,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0ae284c780b9fced",
+"title": "Coforge LG Electronics Shriram Finance Sagility largecap midcap stocks to buy long term",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWJtM3JsdmFaVS1tNXNwVVNYR0JRdW5YajhnU2hoZy1jTDZtSklRX3MxSUo2R0F5ZHpqejI1bkNlUDZxWkk2S3ZGaFBkSHRZUzlrSHMtNEJaRkFEQjZmaGVERFF2M0dKV3A2a2lycG1vVllVdXh0TFItT0kxNWNFdzA5Mk1aMzQ2dHVWbktrZDl1bXNDbmJabjNSUDVCV3hqYm9QLWlyelJJZlZ2dHdyajhYdEdQYlozc25nQjdQY0NEbERjejkzOUJkYV9DYndRcUdwMzZEdE9FeW8?oc=5",
+"source": "Zee Business",
+"published": "2026-10-02T08:03:00+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"SHRIRAMFIN"
+],
+"groups": [
+"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -673,6 +739,24 @@
 "sentiment": "positive"
 },
 {
+"id": "2c5f7d425fa42ce2",
+"title": "Nomura Adjusts Infosys' Price Target to INR1,310 From INR1,290, Keeps at Buy",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHR1R28zYy1RWEIzMDFUZXd0SjVKdlJ0UmV1T2tueF9JNTBuU3k4WFBCd3FaQnRLczF3S2E2dlJkQ1FobEhJWGNvWWZVWjBhSDUzOFhHcU1yNVF4eGt1RnAydGNFMjdzb3B5amloU19ERUQ5T2VzOWNpckY1ak5NQ2llNm5YM2RpYld5VlZRSHhFdGFkNkk5YUVMVktKRkhQWm1laEN6MUVGSzhkNDNRVEhQbWJtaDE2YmFxcTFOdkRSbjF1ZUE?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-02T07:28:27+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4f3df8e881f378b8",
 "title": "India’s EV sales nearly double in September. Tata leads as VinFast, Maruti gain ground",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElRcHhSa3A2eGlqMTZmSE9OZm9OT2hsVk4wWUEyLVRoZHR3UEpFN080TlFvVU5iMzZrTGtMd2ZIUlhscUxzMVlydU9ud2NKMVNjVW5US2llcE8tQ3V3S3dNekMybmU3eGpGMHNNZjlLRkZ1UWQ0Z3VqcXR3alFlLXFJTkNvYms1cS1kUEl2cEFpTmZNaDRteVItNEFpQTBDQ0Z0aHlmdU10ZFlKanpCcldB0gG3AUFVX3lxTE9NWXI5RlhhWGxrYzMyeHdqM0c0bmlOVFNZZmNpQ1hKTHVJcG45SThDbHd2bDlLcmVUQmlrblIzY29xeVl3Ql96VjRRZGhPdFJEam9rRVFjWnJ3bmpRVlZzUnV5aGNsOWVJdHphZnNxOWpZVkNLY2tZeEpjMVpfUk1tRFdhbWtJS29RaEJvQmc4X0FOVTAwdDlScTFVSHZpZ2JRVmd0M1pHbmllbFlCMHNrTWN5dkJvZw?oc=5",
@@ -703,6 +787,24 @@
 ],
 "tags": [
 "Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "97e554cb4c09423e",
+"title": "Nomura Adjusts HCL Technologies' Price Target to INR1,310 From INR1,290, Keeps at Buy",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTkwb3RQTzBGQUVRUmp2OHVMR3Nhd0s2UGxKZU45VVAxZ0pKSDV0VkVnT1h5MFhRVkExRFVZV2Fua0xHd1FFNzBwTDJTeEpBWmREUzdNc0tUbW40bjNoS3J6LXlaWm9FX29yVkZXaVcxRG9SdkNFNWs3MTRJSVZrSU91NnM1Ykp6M1J5bnFIM3FWUUE2UDJHR1pzdDdVcDBMeW0yUGlaZ1RBYVJ3R29hRjVFM3hCZ3VjWHpmMlB2NUJ6WlliY2oyWHpWTGJvMWs3dmc?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-02T07:24:22+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Rating"
 ],
 "sentiment": "neutral"
 },
@@ -827,6 +929,23 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "278658f90f0fc921",
+"title": "Adani Ports cargo volume jumps 11% in September, rises 15% to 280 MMT in H1 FY27",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHl6OHpldE5nMXlIZUdkSVRZbjdHVHVmNjlzQ3dqZWdjaTg2b2QtOFpMdk80M05ZekQ5dUdQZm9vRlNJS1ljbWdZcDZRVlFTVVJzTDZ0Rjk5Y2h3NlRMZEc1aDI3UEctWjhMZDhieGFGNERZcTQ5X1pLTUpUeUt0ZW5TVFlEWHpqc25kcmZpdlhwZnF5dkFyZjEwNVgxeDdOUGpDYlpXbGhIU0FsWEt6eGtscjlQbUwzRXhCc29TR180cTk2OWV2RHpHT0U3RzJEby1v0gHaAUFVX3lxTE5vcHdFdDBsVEJZUjl1Q2R1OUhVWHg2NEw1U0I0NkVLZ3VqYWNYa05Udm5hS1Z6enBvUFIzNGdfWUMxd1VwbXpjVVlXRGhfSXFiNXRkRW1URXIwUUk2S0dsS3FaZGNnRTdzay1SdDd5YUdYNjFCQTV4MlFLQXMyZXlMUnIzMTByaHl2TVgyYmNNRlY2dWdOQjVoRG1ReWE3ZEktMzQwYW9YOVRoalRUaUxNanpyUmFSbVdkOFMxNUhwcUdhRVZ3RG5sS1ZOOF9hODAzaWdlaHd6SjdR?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T06:59:25+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "b5658eb9eb3f2e03",
@@ -1015,6 +1134,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "29f24eb1838d9986",
+"title": "RBI clears name, Anup Bagchi to lead HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczA2QnBuTDVxSllKdGtOSnhid0FzbzllcW03OU9rNVd0ZGVsWEZLNzdUbnAxVVA4TEVzVjRJcFBXY1ItWFc1c0ZxSlVLc1dmTEJjRGZlMWFMNGg1NzROWUM1anF2SlRzQno3ZzJJZnNqcFhCaV9rMjdNN3RVSklnSTBZT3d5OUxwQzBnZDJkekVsdWVsNlE?oc=5",
+"source": "Ahmedabad Mirror",
+"published": "2026-10-02T06:33:48+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -1551,6 +1688,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c79c3929adf6d707",
+"title": "NTPC Green ने नई सोलर पावर Khavda में शुरू की, क्षमता बढ़कर नए उच्च स्तर तक पहुंची।",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUlMODMxY2ZlN2ptSEJSNlNremxVNlVwd2w0eWREQzNXSUUyanFaSVNTVVdKRjVMVnVfM2EtQjV6NENxT3JDWGN1UzhPVHpBQUE4TjYya184RjR0R2ZYdGhkMk9KbVE1enF2bml0OUU5VDZOcXJERDgzS3ZYZ0ZIUkNRUkVsU2NoUzN0aEtWUVYyTlRaQVYyUXRORV9IMG1rcWphREdZMmxlYnFS?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-02T04:54:16+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2722,6 +2875,22 @@
 "sentiment": "negative"
 },
 {
+"id": "3420a2e094842473",
+"title": "Hindalco Wants To Bring Pricing Clarity To Alumina",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFp0VDQ3MTFpM1ZCcE83S3JqSE9OQmhoeWtKVVNGemZDajNnVG1uWFV1MEptemZZX2VxNlNNZnRmTEpZVEVNY3I2LTZ6eVpsN3N0UThOZklubXVlbzNiUXJ0QmJSclRNNE0zbEJFRHNGT2k4NjJFQldfLWZicEhvNVl4X0tpZw?oc=5",
+"source": "finimize.com",
+"published": "2026-10-02T00:10:12+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a8d2ffe18b8ecc68",
 "title": "Jefferies sets INR 1,260 target for Tech Mahindra stock",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHZkbEpGN292REdaa05rUHNhNUtHcDJ0ZDJic0t1LWhfSzRINVlJNjVDY1VIbU1WVzU5SUFGZ0lJdGRLdEMxNlVpWW9GMFdsMFJHUm41SWJiXzNCWU9wdGItX21iN3dIVm9TREp4OE9aMWxTaURtT0k2WE9RT0N1V0MzUEMxZE93cG9hei14eFUxTjlaeVd3aW1YZGVIUzZESF84Ym5qZ3FfOW9OY1dJcy1QVjQ?oc=5",
@@ -3809,6 +3978,24 @@
 "source": "scanx.trade",
 "published": "2026-10-01T17:46:37+00:00",
 "first_seen": "2026-10-01T17:50:25+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a9d52303bb164248",
+"title": "Hindalco terminates AluChem acquisition due to closing delays",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGdEM2wycnZEWjZDWEY5QmZSSklIbjF3WWdVVkJlT2tEa3lZbDM2TTdOYkMzbmtxQkFMVFpoYTlLRGdURF9MTmVwMTJjd01vQ1gtSXJFT3B2OTBhbzNiWTNNOEJrajROSVRlLWpTZ3R2N3RaRFZFVVdGLWF5ajhLUF9iNUt2QVN1cmRJS2gyQVZkc2wxTlRsXzBPajN1ZktyWmVsSHp2XzREdjAxNjhzOV9fRFlFdGdWcHc?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-01T17:46:37+00:00",
+"first_seen": "2026-10-02T08:38:56+00:00",
 "symbols": [
 "HINDALCO"
 ],
@@ -50674,188 +50861,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "399a539fcea3bcc8",
-"title": "Sun Pharma and LIB Therapeutics announce global licensing agreement for lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHVncW1XRlJxcG82eVJDYWUzbjZuNHJOWm9pUkU1T3FnUHlMdzRremtQYnpxcEtnN3NBN0NNc200NnRxZVNNTVpMOE5GU2tKLXJzTVdCY0xvNm1leGl5ZWlnTVdSQlBsS250QjM4ZFJTeTBEN3I3UkNzY2swaU1heHllV0Y2ZEFyWVgwRkQ4N2ExYWpsYUtEVkxZNDIwOExJX1dOSjUxVkRFZmdjZXFicUs0U1ZTbWcxRWlLXzRnYmZiWXZjTXJnTWZOZjlmRUFjQ0E?oc=5",
-"source": "BioSpectrum India",
-"published": "2026-09-28T08:33:30+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bb7367f2654de0de",
-"title": "Big change in mobile recharge plans: Govt brings new rules for Jio, Airtel, Vi users; Here's what you need to know",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHpEYTJnb19wdjFnVXR3VzNGZDVqUVd4eVhnc0JsUmwxMjY0dEw1bm9jSk01d0dMRHViaGRONEhVaWVUdU90a1FFMUl2S3Q4UU1PRENkTEo5MVhwcGY4WFoydnVuWFIyV3dyOHBzT1d2NU1QNlgxTFpqQ29UV0ZqTmdtLXUzWV9oR1liekdtN1JZalE4N0Eyb1AxSkxkaDNLNlpRSGFQWXVka0JMYlJJeUhScHVtdHoxWDUtTmVGcDhCWEI3cHdCUjdJRUpoUnpBXzBhZl96dlc2MU9QZjFsN0Q5d9IB5wFBVV95cUxOeTJYV1RlblVGNHhuZ05SS2pvdVRXTllfSjlLUEF2RnF1dlplcFdWVGJUODlmT2UyVG1xZEhSRFRzbm9YYjZJdFpjcWV6NmNlemUzRnRkVUJPSDB4WVpjRGlTTGE2cHROQ2p4SVprQzZqckJqV2czbXBoempQQ3d1Y2VrX0U2QlpERlpteUNlTGpWQ1ltemFMeHlmZUlPdF9mSnVOcDFKYVdvSDlSRExZZFZnbkRJQ01yTm01LW1DbDNaUVFSX25HdFhkT1ZleXFGWEZOOTRCdi12V2xTSmhpSm81Smh0emc?oc=5",
-"source": "News24Online",
-"published": "2026-09-28T08:31:55+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c7f041219915bd15",
-"title": "Savyasachi Gowda Appointed Head of Marketing – BFSI, Europe at HCLTech",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0JqMmdxS1p0MU5xM1VZVzByT0tRbjYtSS1nWUhRaTdnU0lyVFZvRTJfd0tjNDROdHhQaHdwaXNxQzBDay1DWURVNl9SQkR5RWZsYnZLRXdIbUpSUUV6YmpMU1Q5TnE2M1VxczZadU5oZlRLUEZPREFLRU5FdWN6cFdYMFRCVURDaDZvaGdKLUo?oc=5",
-"source": "hrtoday.in",
-"published": "2026-09-28T08:31:27+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "cdef95c1d7d98935",
-"title": "Reliance Jio introduces JioShield for family safety with location tracking, SOS alerts and parental...",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcVQxWGtnMEtOZVd1ZlViOE5OOTlXMjgtV2xGQ2JfdGFTeEc2MWRmVFNiNkN4ZkJaU2tkY0xLYXlHT1lXY3JGMHZtZ0tsSUt1X2xqdTQ2V3BTYUN4THlaT2c3RWVVTE53ak1MYXhaRG96RjI5bmhzRUdNUnI5VlNIRWk1ejZ1eGtOcnRfNFE1NkY0X3g1RUVsaDd0Q3Y2cmJNb0xKMkpCSVF4TGVfM25zb2djVjBSa3hoTkVmVldLZHVWMzI0a2VNVk1tNl9OeDczUGY1MEMxUGpNYmM4ckM0RGtrSlFUaS1wVUpmUzNvSVZ2VVV6cXoyQk95RjR5UdIBgwJBVV95cUxQRTVjMEkxOE1oQWg5NUZNVDhsYWROM2NKTTZWNHVuQ2FBZHVvNml3RHdSYTQ3UlpmcEZoNldJM2lTOWFPeWt2Vjk5My1Mb3JPcDE5WnVXaEh0MHZkMkVIbHFDMnJ4UUVsdTloLUJjUldhRHF6OF9JdmkxR0wtWkJVNGJOUDhGSlg0RW1kVHIwR09oTHdUQ2VEeFVyUlZENVBpSWNRcWpfcC1xYVRPbTVpX0FacDlKYUs0WE55UVJkczFNZjNfbTRaUWZVdldZN2VWdVdzWUxBdzFjcHB3dEJsWnR1VE0yWF9BbTN1RENMWU5WRkhHS2J4b3hZeHhmbFlFRjdF?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T08:31:15+00:00",
-"first_seen": "2026-09-28T09:57:05+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c6fe1ee24b2768cf",
-"title": "SEBI Finds No Evidence Against Vinod Adani, 11 Others In Minimum Public Shareholding Case",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzZSWHJBM2VfNVhXZ0haTVhQNmpHaUlydnBONkY5ZkhuanRoQmw1OHpaWE9ndUZfX2xsM0VlNGRSSXJfM1EzZkQzZ1JaYWdPazBlMzVrdkFncVgwa0NKRklTRVh1aVE5dkhSb3haRENrWUhLcEZxY3FQRkhkTVlMdVh1OXNLSk1xYVllSDA4cFlGZTlVUlBpMWFUUkYxSkNwaDUwN2xTNW0xOEZ3SW54SWNCbE4tTHY3WHc?oc=5",
-"source": "Menafn",
-"published": "2026-09-28T08:31:01+00:00",
-"first_seen": "2026-09-28T20:59:00+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "52f4205598f09c4b",
-"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for Rs.2,498 crore | Is it a stock to buy?",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU09sX3hhSVZLcFVET0hocG4tWGhhS2Jxbkpfc2VCcGEzQ0d2LUFwYTluSUFzSGhSTU1ZbnZnU0VfREtvOGhIQWVOdEtzNThZamVvclJaczBubGRNYlBBaXNhOVBoTTJlLVkzYkYtOWpNQ0htRWFrZGd2QTJIOWJDRHBjRnp2RUhsb0w4dktmdFM2Skg2VEhST0hFa0pJUVpBd0FoRFR2SUdrNHJpNldzLWEwRGhGQ0dncjhaZE1tWU9BTHhTaEtOUUxOZTlJdGxfQVdSb3E0R0o2eXhPVUxYUFYzalh0dUZ6NjRNcEgzTWFxX2dDeFZlN1FlSEwxUXo3UU1WR0VR?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T08:30:26+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ee1ddf9c9fad9c8d",
-"title": "Hatsun Agro partners with Odisha govt, SBI to launch Go-Dhan initiative",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmF6UGc4eGg2T1VNMldlTVZoSG1vdnRkX0EtUDEyMHlCeE1DN2VNTUlvX0RRUkJ1MjVWMDhjTksyM3RXZEVuRjA0NXNwaUp6M0tNVVJaQ2Fuc21xZjljTlREVFFFWVpUaV9ad0tKZmM5SU1VVkZfdE90dTZuWVYyd215cjE2U3lVYlBDV0RLTEhBSFpZdUJyLTJRS0paV0dFZi1ISDhqOWV1NmZ3dlFBTmdhTS1aLVgyOXcw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T08:27:38+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a92c9b0563b54e28",
-"title": "Join Class Action to Recover Losses from HDFC Bank Limited (HDB) - Contact Levi & Korsinsky Before October 13, 2026",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUW4zYmZ6dWUwcTI4c0xPdXduemxKUkQxMl9NeWN6QllpdTJ1TE9ZN1pjVEdfRUI4Vm96aXZKU0pDVldwTzJ5OWNXYWpYZFk5cENoRWJrbDNlSUJXbTBxVXpFZmtUMVZOSTFnc3ltUTZQY0ZhaEtKdUhwbFVXWTFBeXF2bTg3UXRMNVppZXA0OFBRblJjdlNIeXctVVNGYWlZcTdlaXZwbnZOaFFCN2k1RlhjaUxzMDBXckVxTjZ3Tmx4UTl4Y19VMUZXdE80enJKZXlRUUh4VUIzeElxWXJFektSakQ?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-28T08:26:11+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b81e3b9185024fb4",
-"title": "Jefferies sees 27% rise in HDFC Bank in bull case; what's driving optimism?",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T08:24:38+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "a55a47fcc94d2747",
-"title": "HDFC Bank's rerating hinges on CEO transition and execution: Jefferies",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTJwQVUxaUc4SThjU0dIWC02TlJ3NVduVXFrTjlBN0tSTnNEOTkxVG9qSWt5QkJHbzFsc3BUcFk3TzcxdDlkSDZCcVIxa0RBZmhKVGdncGltZXJYZnJwSHRPQW5KcjdZRnFhZ0FycGttcUJpbVM3elluXzBGMTNYZE5WbTk0QXZITUNjbzdnZlo2QWtWX0tROTRmNFU2cjdncVFQQnMzbDdXVkZKS2k1Y3FpR2RuNnVKaENIVnY1eVUxMExGSF9UQkJScExrTi1EVWfSAdcBQVVfeXFMTjUwNE9Ha0ZYZFVmcFZPX0FfR0M1OG9DZklKYlY3SFQ5VkN4Y1dOUVNTNmJMa2I5V3Yydm5KeEl0N3c1YUdlZXd1OERQc3Fua0hDQTA4TlNQY3Nqc1JjZjZFTVlSaGprcDJoN3FSS25uNlYxeGEzR1hLV1g0STlyWGkzTGVLUl9mZjB1dmx4SEQxNGVITEdhbUt1Zm5EaUVsMFUtOEtlZjVvamM0dkxlcmFoaGF2NzVQdjFQSTE4UGpyb0lKV0VWNEdtMXNUeWVTYjJNc1VVUG8?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T08:24:13+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b7afe522a2ea1197",
-"title": "Tata Aeris vs Maruti Suzuki Dzire: 5 Features That Give the New Sedan an Edge",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVVRY1hxZDgyU19fWUxQNDdBZzdCaDFpUDRIRmVQa1JkVkFwaVRjLVZNT0FTWmJLYjd5TjZON0pZcHIwSmw1XzgwZmRQdTZ4eGo4N0ZyQ2dFX1VGVWd3ZmhyMGo1SV9iT2pmdVhaQk5nXzJJSmhwU3FxR3VtaUowREhOcWM5VGxtNU9ZZHpPdG9NSzB3bUNwYWo2bV83UQ?oc=5",
-"source": "UdaipurTimes.com",
-"published": "2026-09-28T08:22:47+00:00",
-"first_seen": "2026-09-29T05:58:03+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
