@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T02:58:30+00:00",
+"updated": "2026-10-02T03:12:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -456,6 +456,22 @@
 ],
 "groups": [
 "Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6beb8c52599a19f8",
+"title": "Maruti revs up production as booking backlog crosses 2 lakh ahead of festive season",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORndpYWp2bldUaXJfYUh6MzBQLWN3ZUVFbTVwdGtQcTdZbFBFMGkzamJaMERqWkkxeWVrZEo1V1JDbWtsZk9YbnctOUhkcEswNV8xZWVkV21EeXg1c3I5VkI3dHduNWs2eldGTmZPOExDLWZSZkstQjN1NWN0UkNzNG9QQmNiU2ZNcENpci04ekF0aFVjaVlXM1FmZGliQm5oYWoxblI4aFpDQzNaYTh2a3pVVFVVNGo3aDFwSnZTbDNGcG1OV290aGNMMmlLMWh1bDRKV1BsUHdieFRyV3QtRFN6aWVlSG15UUpJUXVZc9IB9AFBVV95cUxOWkpUdHR3ci1kZEVQODUzR2NyWExZa0dWNV9ocGM5bGVibFZSRkFidEtpem5WWEtZaFlnTVcyeXdzZ0NuTGx5dEVoRllHbGRvaGtER0d0SGh4ZVIySGVFMUdBR2dzWHQ2amFBWldFUFprbTBDUW9yMXlSZDhYY3NoTi1hekxvbHljTXdBMFJmQ2I4TV9uMllNTTJCT1puWUZKUU1reG8yTUljTzRmbk9rQXc5S3g0NHQ0T1VacHItM1d1S1I2OF9VRjNoaEFlVWR2bDBWRGlZYTdwYk93WjFnU3pPMTZSOHpudERsUDJ3R3pSaThL?oc=5",
+"source": "auto.economictimes.indiatimes.com",
+"published": "2026-10-02T02:45:19+00:00",
+"first_seen": "2026-10-02T03:12:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -11609,6 +11625,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "679792b380945565",
+"title": "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CYnNoLXBwRzBIX3NScHRjbHFWcnRYOXZZblBIa29EV3hsLUg5aW84Qkw5aEx4c2JXSmNKYWxodmIzT2pDM1J6N2pxM1d0dTAwRmpzcWxLM1Q2ZWk3UUVldXVXYw?oc=5",
+"source": "Upstox",
+"published": "2026-10-01T07:18:17+00:00",
+"first_seen": "2026-10-02T03:12:32+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50755,38 +50787,6 @@
 "groups": [
 "HDFC",
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ee7fd311b0fd3cdc",
-"title": "BSE Share Price News: price fall and valuation review",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42NXRJVjVVZUJETXp3RjVBRy1KekFHWU1ETEtxSThYYjhrYUs0c1NZUzVMUzVqMG50d2JDMGdja2RQX3dCNTN5dGlsdnRzQm1DbzV0M095c0xpVGtfX2xJVGRLbXJqS2FqWGVLX01Vd1lpM0p1?oc=5",
-"source": "Univest",
-"published": "2026-09-28T04:24:34+00:00",
-"first_seen": "2026-09-28T07:36:19+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "5478c87c67ba8aa4",
-"title": "NTPC, Railways discuss measures to strengthen coal and ash logistics in VSR region",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHlkSWZVN2ZxbXRSaGNpbjdkSE9JNzlyOHNGSmVJSEY1b0o5V0pWUEMwaFc5Y3U3LVpOajRXeHBHaFVGLUFnZ0VnemZPQzkxNFU5OFhSdG4wMUtUeUxjUllYZjdpT3M4N09jV2E0Rl9RUi1RWmJnM3dkVHF0NUxWWW04ekJud01YWE44Z3RCNUVIQWVYNkFEV3NBWWo4M0lUUGtrOVpsdXdOQ29DXzZRRzdLczDSAcIBQVVfeXFMT2I1QldTa3JfWUdpeG5yWFExclBJUnJNVGNPUUhyQjFGY1Y0dWZIZ0hZUGxyeDV0ZVkzcjR0eFFfUDh2Nld2OV8xZjBReThfbW5kRTBOdGJjX3BiSkFReEM2RHJ1M182bnVSd0RxZ2dYb3dYaTQ0UHVULXQzRWhUTnU3a3dzT3M4dEN3MUhSVUpnckhRR0ZTWnNnT0RMdFBsTGcwdlRTRko4WERURmVaellqc09QcXR4SnNZVDdFc3RpY3c?oc=5",
-"source": "PSU Watch",
-"published": "2026-09-28T04:24:23+00:00",
-"first_seen": "2026-09-28T07:00:29+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
