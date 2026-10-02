@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T07:37:01+00:00",
+"updated": "2026-10-02T07:52:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,59 @@
 ],
 "items": [
 {
+"id": "18939651862cfc29",
+"title": "Dividend, bonus, split, buyback, spin off in October: TCS, NMDC, PTC India, JSW Dulux among key corporate actions | List",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUU9idElubWxpMkNLUnhiazVZREozX09sdDUtcXpYR2ExcWVxN3I1UzI2enVTc3JaaVJFREh1RC04ZENHSklmLUoyWjZmRkpoZVp5S0lXS0FYMk1vQnYtbXlsdGtKaEJlMnVreC1NWDQteWU2UjJnUGxRT1hLOU1TamV3N3owSEtJbk1jV3BSbk9yX2NnU1RXcFkxVkJFdmNvSnU2aHlPRUQ5UXZIMXV4NW5sNDNxeFZjOElaR2EyekdBT1JYTjM1eXg3QkdNNmN1ejlUdm5zcmV6ZUNaZWZDSEJ1MFZVUDRKWUNodk84SUNsNEFmMEJlWl9lMmhVYUxKLWxaZklfVHZPWExv0gGSAkFVX3lxTE9hX0k5YXllMnhacDloWm9zY0tyRU1GY2t2cUhSVTZWNnBzVV9sNGNYanlMdjJWMng5VEZNd1N5akNuNWFKUzlneXh0RUo2ZHhsR3lpTURXeFh3ZnZHakI5cmJOTGxXcVd4ckJoR3RqWWZIUXJXV0dETkczb0NJbzlTYkZUb2NsQmRwTGRBOHdHQU8zanhyZjZHalRpWkU4cmdPUXRvU2MyUG9FTE42dDQ5N3FhRmFCTGZwdExDb0NMTFZoa2ZWbkhWZmJwM08wUlRFektNb1RSR0tEcG1pNmpzSXRqUmtnVWJNQnhBRjUtVlpsNEZOS3MxVFRGUEU2SlVVb2hDUnFYYTk4SU1JVG9XY3c?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T07:45:14+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a4808ed838d684f9",
+"title": "Airtel Money gets $7 billion price tag as investors prepare to sell shares in African fintech",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORU9DZktLdWhqa29GQlpSUXVNOFlTeGR4eWNxRV90bTJCRURvUm1naVBfRUFVTHZsOG8yQlZQdUJ0QWIwUmpLcFpKWXVCY1ZFc3FxeGJ2VkpfUy16QmhGX01kN0k5d0MzeWhYcXlTRkJjRDQzSW5UbGdBcGlJWW9DSmxyeEVNa1FuVU1maWhwS3dKajNHNGtuNGY4MWJoRkdmUnZjZ1VjYUctYUNhWnFWU3FpR2k0T21Na2ZxQ2MtcFgzYTMyU2ZCV0V5cXZQWXhabkFfU3Nn?oc=5",
+"source": "Business Insider Africa",
+"published": "2026-10-02T07:43:12+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c426242ea9671b6",
+"title": "Bajaj Finance board approves up to Rs 17,500 crore capital raise through QIP, warrants",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWXVfQlZORjNPaFZIbkJpWmFmWUNlc3BKaXNVbVZlU3FrUkRiTkFBSHpwNFR3OXRITjBOejA2NXJUWGk3aUFDWFg0R012RFVTeVIzd2h1LU1iVTJNa3dYS1gyM3pGdU9xa0w5UkM5bmNxYW1aZzEtWFdDLXVOSG5MNElmdVJyVnMydnptSVJ5MjZNWXJuVXU1VVR5S2VRWFpIazcyeWRUOTA0S3ZiOFlIeDlpZENoUEhxT2lJUDdYQWhvSmVvLUFYSVRobHI3UG1i?oc=5",
+"source": "ANI News",
+"published": "2026-10-02T07:42:00+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "8cee19b98bda5665",
 "title": "Chaos, Confusion and Rumours Surround Selection of New Head of Maharatna Oil Explorer ONGC",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMZWlkR3BPZ3lLYzQ4Q2ZTQ3RfOUV1NmEtQUFvblg3dWhVcFNtN0pNTlhmd3Y5d1ZzYTRNNDFXLXlIU0h0dktxSnJMWXJyZ3pqa1N1SW1sTkk5S0MwUUdXRUUxbU9XOTJIeE83UWpXSWtfVGEzUUpYVkxoM1VyQQ?oc=5",
@@ -704,6 +757,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "7d6a7c8c1ed36be8",
+"title": "​Coal India, NTPC among 360 ONE Capital’s 8 stock picks for October. Check full list with target prices",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-ntpc-among-360-one-capital-researchs-8-stock-picks-for-october-check-full-list-with-target-prices/slideshow/134633712.cms",
+"source": "Economic Times",
+"published": "2026-10-02T06:39:12+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"COALINDIA",
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4b238595f27fbd5d",
 "title": "Adani Group reaffirms commitment to Maharashtra with Rs 6 lakh crore investment blueprint: Pranav Adani",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQODlSY0stdkROdFUzNk5zMWl4cHdwaE0wVzBKeXNHY2REd1BYT1BJcHdOTk1iTFo5X296OFZMaFF4ZG1DOEVrc2R6WHJoYkl5NkxrdmZLMW1PN3NnMXJNNUhiM1pkMERVVldUeHBmczdLWWhWRHhLSFR0RU1TMVU1MTdSMWZZNUhaU3Z1ejZQZDNTRHBwZ1FQM3NSS3k3TTlVZzR0NEw5aDVpYkRvV1FINURYTVlMUzdlQ0RGdTB4N3lCZm9pWFhQbnJRVUNKRkRPR1dfWF9sU3JCYUhlMDQzSVV1TVJEZEs0UFhQb2hFLUU3Mk5xTXc?oc=5",
@@ -823,6 +893,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "4df424fe6e2730fd",
+"title": "TACHU 8-K Filings - Titan Acquisition Corp. Units SEC 8-K",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Bak0wYlNMNWljbnpSckxPWDQ1TVhNZHljVGpXTW1TdTZ4R3lOMUNqMkYzTlM2YmkxajRTOEdaRkVXZHhOdHhGeTdLWHVNMzlRMkFCLUh0YTRjdlFwM2tpMmlERQ?oc=5",
+"source": "Stock Titan",
+"published": "2026-10-02T06:29:28+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "96ef46cda9e9e856",
 "title": "Tata Motors Reaches Close To 15% Market Share, Aims For 20% By March 2031",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkpEX0M0bFNaMWJNc3BkZmlLSXhaU0V6enlrcDljQVpaX3F1ZjlCb1p3eE9nOUJnWE9oU2tyckRQSUlHRXdJTk4zVU41VXRnYWdSUHJidngwTHpnWEFva1hCY0RrTVFRTjEwQ2pxaFNLOTZQZnZ1LUtPUEgwbDlsUndvY1E1dlpzcW9CdUpEYXhRUjVlTEhCdQ?oc=5",
@@ -885,6 +974,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "77b799231ee5312a",
+"title": "Hindalco drops proposed $125m acquisition of US-based AluChem",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdUFIcS1lcF9Ba202QlhCMnU5bm1qdUhuRnV6dXRsV09pV0tyVkctaXp5eEhUdEhSVTBMV2tsb1ZFUVJBVUVVbDJUaWtYdGNDeENJUVoyYkxVc3A1NFctVWo2Y2ZFeUxOR1FQbnVMbnJGazUxMk1Tc1dfVGpUQV80RmZ0UTFkaGtSVGhxSTRKRDFpMmRTbUpPNTZuQzk4am1ITzVid0NHbVFIZUJCUEFvdm9QMklyN0VtQ2pzd2VjaE9oY2ZNOFhpRHZkZkQxX1RfUzNLNzgyUdIB1wFBVV95cUxQdUFIcS1lcF9Ba202QlhCMnU5bm1qdUhuRnV6dXRsV09pV0tyVkctaXp5eEhUdEhSVTBMV2tsb1ZFUVJBVUVVbDJUaWtYdGNDeENJUVoyYkxVc3A1NFctVWo2Y2ZFeUxOR1FQbnVMbnJGazUxMk1Tc1dfVGpUQV80RmZ0UTFkaGtSVGhxSTRKRDFpMmRTbUpPNTZuQzk4am1ITzVid0NHbVFIZUJCUEFvdm9QMklyN0VtQ2pzd2VjaE9oY2ZNOFhpRHZkZkQxX1RfUzNLNzgyUQ?oc=5",
+"source": "ET Manufacturing",
+"published": "2026-10-02T06:22:41+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "negative"
 },
 {
 "id": "8566d7ca633a8931",
@@ -973,6 +1080,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "0ae67ab443408cd0",
+"title": "ROI-Hindalco aims to kick-start an alumina pricing revolution: Andy Home",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnk0WG51M1lVVlN4dGRKb1dfY0ZvYUZOb1hCSFc4Q1RBTVJYb21ERWdqWmxNbUhCUE93M1ZoSTdrbUo5VEVXS3ZoamxNN3J2T2REekNaUS1uVVlYbE1ndUxWZnhlLVl5RkVnWHo0V0VZRVV3ZDRoMFlranRJRkF2TFdmZXlfYXoxUTJ1S0VNSFRURmVFLTNUUVZjaElla0pBaUtiMFd4WXZaTFR3WHlfLTE0ck82SXNOYmotb2VXXzY0Xzl4WWxhb3dqd0l4ZXfSAc8BQVVfeXFMTzJ5NFhudTNZVVZTeHRkSm9XX2NGb2FGTm9YQkhXOENUQU1SWG9tREVnalpsTW1IQlBPdzNWaEk3a21KOVRFV0t2aGpsTTdydk9kRHpDWlEtblVZWGxNZ3VMVmZ4ZS1ZeUZFZ1h6NFdFWUVVd2Q0aDBZa2p0SUZBdkxXZmV5X2F6MVEydUtFTUhUVEZlRS0zVFFWY2hJZWtKQWlLYjBXeFl2WkxUd1h5Xy0xNHJPNklzTmJqLW9lV182NF85eFlsYW93andJeGV3?oc=5",
+"source": "Devdiscourse",
+"published": "2026-10-02T06:00:18+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "efd377ab8dcf4058",
@@ -1951,6 +2074,42 @@
 "sentiment": "neutral"
 },
 {
+"id": "397178b2f8e0af93",
+"title": "Adani Power Reschedules Q4FY26 Earnings Conference Call to April 30, 2026",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3h2WGZ0ZXBPM2E4bU5WNmt6ZF9sN2dUV2xoSnh0S1VFVnlpSkZFalFGLVN6em5xdHJtd04xVTlGNG10dkJQWWhsRTB2bUJOZnkxM2VGSUVoTEtCMGUtLUlQVlVfd095SnJjT0RuZzB5TVRWNUlBQ0plSldsSmhMN3pyVU9acTloaHprTnFkZ0pUU0RjV0xrN1NDTDBNbUFDcVd4MVlZdDRRbk5ETkUwTlJhc2hZQmE2THhKbWtjbC1HVC0zcVM5azg4Mm9odzZCbGc?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T02:41:21+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ff85fba38b08324d",
+"title": "SBI Posts Record ₹80,032 Cr Net Profit in FY26; Files Newspaper Publication Disclosure",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZm5HbFZoMDc0bzJ4MnZQXzJUdFBBbEZnSEZvMGs4aF9nNU91cVotTk9kZzNTOU43ZjFQbkFBaHY1RHdQLVZwQTZNZlZEbnNnbGhhcE4zYzliS05pZFZFb2VWd0FJZ2hrelp0SGN1QjhscGRHWXlkd2VMRlhuLVNKY0FtWUxTd3dOd2V6dmRiZERtSXQ1STNKVkZ6emtWZU9GUjYtSzJ1Um9aamhzMm1iR2hGMEJJelRWNE5UQ2xlV2RYX0xyYUlhcFdaR3dpSEY0T3FXbU02YjdQbU4xWjJn?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T02:41:09+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0a226af755f035a3",
 "title": "HDFC Bank shares: Will stock finally reward its investors after Anup Bagchi as new MD-CEO?",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd2hkOTRLUy1pZ25EYWFnci0xVXJ3YWgwcmtkTUl6RW1ta0VsUk1sQnJiUTlKX3QwWFpETjVLQnJ0UXFJN2JjTllGaEVONkxjdzFfM0cxbFVkMkRTU2JtRHozdmFNdlJwckw3Zk00MmxhMkI3cHp0aEpuUk9xckVDdVNUNDM5TUJsWE1nY252SUlOV3lWSzdrQjFWLU5YMkl5VVB2Uno4ZnJ0bVJhVEJ3QzI2TnhkLXNWa09xMnY1eWctODFVRVdlTW9wZUEydUowU2pzSGNIUXZtdGJKWkJRb2NRZ1VRZkZXb0EyT3o3Ti01aWvSAfMBQVVfeXFMUHdoZDk0S1MtaWduRGFhZ3ItMVVyd2FoMHJrZE1JekVtbWtFbFJNbEJyYlE5Sl90MFhaRE41S0JydFFxSTdiY05ZRmhFTjZMY3cxXzNHMWxVZDJEU1NibUR6M3ZhTXZScHJMN2ZNNDJsYTJCN3B6dGhKblJPcXJFQ3VTVDQzOU1CbFhNZ2NudklJTld5Vks3a0IxVi1OWDJJeVVQdlJ6OGZydG1SYVRCd0MyNk54ZC1zVmtPcTJ2NXlnLTgxVUVXZU1vcGVBMnVKMFNqc0hjSFF2bXRiSlpCUW9jUWdVUWZGV29BMk96N04tNWlr?oc=5",
@@ -2293,6 +2452,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "96a2a87f8c1737b5",
+"title": "HDFC Bank Appoints ICICI Prudential Life Boss as CEO",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnlSbGdXR1NhQzNqajJ2TC1PdUNXVnhpN1Roc2NuX0dLZGREdUxwQXdWTHNEN21VM21TNU5TblNVX2xLTEtDV3ZQR0dlMG1uaEppdEFJdUN3OHZyMUduOFN6NHJKQjVfcGpqalp5SUMwdURzaUR6Y2lpbzJuQ0NieWFnZS01cWlZWGl3QUFrZU4xai1TXzhSQ21zR0JOU1hsekJRQ2tCNFg?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-02T01:07:11+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -7787,6 +7964,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d91443979501a479",
+"title": "Second Hand 2017 Maruti Suzuki Alto K10 VXi for sale at Rs. 3,21,000 in Patna.",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMlR1eGlYVWdiUm5SNHZZUVdKMlUzZzE0SjFZYnRCUXBqMVdqSXpxQUhOVlJsR3pzQkhfV0JIWVBIUlBHV2FnRlFTV3RTSFgzZ1lxWjE3M21RdjhoVURkb2hvT1RXT2xpM0JaSUlZbGR1akxlMG01elNJLUhUc2hJZHlR?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T11:43:45+00:00",
+"first_seen": "2026-10-02T07:52:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50660,194 +50853,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "fbe654404a552356",
-"title": "Biggest midday movers amid market fall: Vodafone Idea, Adani Ports, NSE and others",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGxTX0Q4aF91TzQ0OUQ0dU5OY09VaXFrM2lsV08yZjR5eGxjRkxNM25wWEpZOVJNLXprbnVrTDBSZndyTHp5SzBmZ1hVOV9UTHhGV1BTSU9ob195NU1mRUMybkRSTTcxS2k0QUlmdWFBRWhQVlZubHlVamF0UW1VSVRBcTVsQU9fVElGT0RSdmhOUUE5V1BrRTA5OElYZW5qdW1XV3E4bWlLU0RSRVdjaGVjcjhGbks1cXA1MVlGZFRZbTdaQmRoU1BlZ2pZc1V2MmfSAdcBQVVfeXFMTXVDdXM1LWNEcHNzNEk4NTVzT1FxR0NGVnhSakQxMFo2VjRyWDFTNS1vNm5GeGxhVUF6V2xJc1c0V2FOVnB2eG9mSzdLYVdqQVZMZ2JUX3hROWRKT0RtYmpkel9EMlhPUjJqMEFtRW5kUUpaLTdodHY5MFJWUU5uWFA5bjd6WEFiS2J0ZUFYajRZVTNfZ2k1eWhnRU5NQWtjc3BORHU5T2lGUk5jMk0yRTV5dFFld19JOXVJMjAwdGZsbVpzREU4WmlWUkdGZ0Ryd24wRnF6RE0?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T07:50:45+00:00",
-"first_seen": "2026-09-28T10:12:49+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "2b9c12458ecda024",
-"title": "Coal India unit advances $1.14 billion IPO",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZXh4NGMxUTJ0ZHkyd3piSFhYajhnSnU3bmlPbVYwVC03c25FSFJKSllqYnVzSW90cEEtM0Vzd1VoY2trQVJXNlA3NGs2UmtDTjFaUjVQc1o2TUN1N3JFRUZHMExMQ0x5X2FtVzJOdkk5Zw?oc=5",
-"source": "Mining.com.au",
-"published": "2026-09-28T07:50:10+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "020f16b5c7219087",
-"title": "Infosys plans to move up to one-third of workforce into specialist roles",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi10M0RGZ0NQWmxDSG9oa0prWmNodVZCaWlnUFFOWnhjd2dPeEdYZTdJaU5GSjJjZ3lYME5fTzUzSHpGZ2F4OEhjcGdsZlZROWJsUE53dVJoeWVPcFhQYzNIUldFR003ZzVDSzhmNV9kQU5fOUZvMkszc3BVNlpDR00zaVN0S2JsZTc4VnFFWG93bVJzREZSN25jSEhaOXpZajF3Ug?oc=5",
-"source": "HR Katha",
-"published": "2026-09-28T07:44:21+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e3ca60513aff0084",
-"title": "Sun Pharma Obtains Global Ex-US And China Rights For Lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2oyUnlSb21TdGQ4ODdjSGZjaEtrbUlRUElhVGV1bDlHUVVmTjBZNXdOTFdhN21PQ0dCTE9ncmUtSEdpZE15MzNZcWdjUGxyVmpfSm1mZ0xhVjhZTHZhb0w5WHR1VlpERVN4ZkVkVUlyZmt0eDhtcENFNFhYeFhKVmVmQ0pVajRVQzhPTkpYZkdBZWxCaUJiZ2gwaFlqY1QzNzhDR3pjNzlJcVM3c0E?oc=5",
-"source": "Sahi",
-"published": "2026-09-28T07:44:17+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "becad5e665f6518a",
-"title": "NTPC Green commissions 81.34 MW solar in Bikaner",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFFJVHNzQTRWWkhuMnhkcno2cF83NGEwcERCMHlubkNwTE1UaXlUaGZVUnJpeDZ0Q0JIY2o1MzY1endsY3dPc0lKSzg0QUhIVl84ckIxRExWYUZvakRRX3dRTldORnluUkhOc1hSU0MtSGo3eUV6cHJUWWZLYmpmeTBIdkotaGdLdDFuRFBfenNCMU53ZU9mVUpn?oc=5",
-"source": "pv magazine India",
-"published": "2026-09-28T07:43:44+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "69b20bd120be17a1",
-"title": "BSE Stock Falls Over 2% After SEBI Mulls Forming High Level Panel To Revisit Self-Listing Rules",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3ExdlA4cDBOZFA1aUtiNEZ4OWdkbFhDam5vYjlOdTZ2NE1oQ0JIWTVoWDNGbFZSNzYwM0dYN2k2SlpjQ1l6MHRWa0VnZ3VVZFpYWHE2alZkWUw3T3NxNUFPbXJtUWw5MTQweWcxOFRzTEFHTmpvdVh3cll0V0J2VnlVeWVfdGRQQTZBWjBDQ2pKNl9lcFlwbzlUcDhPVWhWQWxhZEFYM2VkSC10NmlFbnpjXzJFTUVRaUlpbmd6NEtiTlRYMGg2ODZ4eG9PNDhLRU11V1RXWE1uQUJKV2h0ZlVYUdIB6wFBVV95cUxPT205by1pZjNFNmNmY01zbXhwNzdFOTBzVUV1ZGdYcktaS1ptR0dZa0oyNmV5ODVxcjN3UHFPZk1DX0syVG9zSjBrOTNMTmFEd0JraFRvUTVGQ2s3ZldrU193S3dzeC1rUkw5M2JaNWNEYml0MXB4ZDZRTGh4YVNGS1VBS2w0SC1RUkl5aUJabWdiOWxrNllUNkJzWnFFVWlhMUIteXppVXdLSktWcjU3bUlmaVVBRmVuTWptZFdQMzdHNzk3S0dkMXRsNVJhRXdyLVpGcGVGbUdRalF4eXNjc0kzME81V1g1MnZ3?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T07:43:32+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Regulatory",
-"Corporate action"
-],
-"sentiment": "negative"
-},
-{
-"id": "1cb4c3e92d409b82",
-"title": "Siddharth Sawant Appointed Director HR At Tata Consumer Products",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnFzLWJ1Wm5CSVRvcGRyS2lxR00xZnJMN1ZYZWN3UklVRlRYZ2VDb0pFb2ZoQlF2eWkwVkxCSXRJaTNuRkpvZ0t4TndERVVMLUVMY1dsclBlaUZBelJlRVNjX2VmOF9IYU1nUkJZQm1JV051VFZQT2FlY3RwUzJkcmhsblA3RmQtRlFmUzB5dXQwNG01TjgyUzBCSUFQTXFucWc4RGlR?oc=5",
-"source": "BW People",
-"published": "2026-09-28T07:43:24+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "79b150292deea437",
-"title": "Wipro stock trades 1.09 percent above its 52-week low",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGttMC1SYUZXMjg0d2sxXzdqYU1MeFZQYWdNeV9XTks4WGVGMVB2ME5UaE1rZkdBNlhNQXZFWTZMY3Fac3RGTktwRklyOW1oVTdMTmx5aVp4eU1tQXpqM2lndGk3WnhVVEJiRndUVjI0Qlo2WFE3X3pzZFpMdGRZUl95cjEyWW1OTUlZOV9RZklrd21CWHJCendFR0J2WGJ2WW9QU3JNeDRhOUh0eV80MGxn?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-28T07:41:40+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1df87ec0c8d7f3d5",
-"title": "BPCL, HPCL, IOC, ONGC, Adani Power: Morgan Stanley positive on oil stocks, flags 3 surprises - BusinessToday",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamdWSXpMa09KaEkySFJoUWVEM0lXaHBlMXN0VTFZbVlIaEVXUFdmX00xWGNXcW50ZlZkU2d4OFA4UzZ1bF9mRDJyN2cxQ0Nhb1dvYy1mYXNfV3YxMC1ocG15YW5jWk5HbjVEX0Q2TmcxMWh1RXpfY1JYTEVRMjBpcjE0T1hleUotbmRWdjB3RzlNTGJDZW5XcFNnNUZ3SlBWVFVSQW54VzhLbl9xdmJHaDUyOHlNS3NIXzVvakNNZUlQWTJ3Z3JBN0Y4SE1COFJvcUE?oc=5",
-"source": "indiaipo.in",
-"published": "2026-09-28T07:41:01+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"ADANIENT",
-"ONGC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e6bdab804c3cb4ae",
-"title": "Sun pharma signs exclusive deal with LIB Therapeutics for cholesterol drug Lerodalcibep outside US, China",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0lDQXc4MzhPSzdwelBVajJ4UFNhUWNGMUs3Ty1tVldpaXBWX25Ua3FtT29Nc2x3MlFYeV8xSzBLb2RUVTRrNGJVSmJVZm1MNl9BNzY1eTRsLS0zeVpSa2FHeW5YY21Kc0puYndpVmxYMFNidVNzRzM1bjBUTk1PM1BPLVBoZmVDeFEySG01UUVEX1dWRERHR0lnVzZHaW1QWVlERTF4TU5NdWJ6d1JCSUo3UGlWR0RmSTFWT3E1WEJ1akRvNFliMXBGV2lweWlVNjJLWFRiaXJtNknSAegBQVVfeXFMUC0wVC1uUjgyc2ttVXFSQmFFQi0wckJBc0xldHd5Tkg5S3VCbkV0amRZZkU0a2pHME5XZ0FtLXF3VVFZcHBybzlXZERJWG93RXpPeEVGSTJiN2lfSm5CS3JGV2hZQlRSWmhzM3ZLRGJOcDNRaFB1ZC05ZkZjQjl1RkdETmw1VnV1UG5lbWNhTFM4Q2dmZHZ5QzlKR0V1cTVlR1VMRnhwZ0xpc3lBSk53YjBwbVFMYXB6eWtkdXhEUGRXSG9naTVwY05vcnJtdFhJR3lKWFpWLS1WTWN5T0ptZ0wwc19vVkFEbQ?oc=5",
-"source": "fortuneindia.com",
-"published": "2026-09-28T07:39:01+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5c9e8b0e04f81541",
-"title": "Axis Bank to raise campus hiring to 12,500 in FY27 amid workforce shift",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOajNUYnJWSVR1MVgzWmsyTTE3NnJiRXl0N1VaNnQzT0NlMW1mY2kzaGt6WGZPUXQ4T0hTU2xxY1V2eExzdjlOOTktY2p4WTJUdk8xTmh6U05BT2ZHRGdtVnNCYXNMVHljMG9vQXI0dmNQcDVJVHpleTM0SzYwMUdFS25wSHhQMDZCXzNkZ1gwWDd0YXQzSmFwTHlQbEFrenJ0LVE?oc=5",
-"source": "HR Katha",
-"published": "2026-09-28T07:38:14+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
