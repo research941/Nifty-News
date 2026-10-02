@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T01:59:50+00:00",
+"updated": "2026-10-02T02:19:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "7b2fbea2baf0afc4",
+"title": "Who Is Anup Bagchi? The ICICI Veteran Taking Charge At HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2xudWttS253UjBydjlhUG9nNzVsM1JxbGFheUlEdFF0bUZCcDFVNnJzYlBlMFFScWtwZmxCMlhwYWJHT0J6aVpOZG00X1NEeGtpVkY2SjRBTjZjdFUyZFpERzBITEJBdHg1cUJrMEFiS3hPRU9oMlIzeVFQZV9oUHh1OXJoZ2lNdTNYNGVaMG5reXl4OGU1QXhZTWY1MUY4RVZlVk9RSWZVZlNzNTJOMTczTG5raHdTMUw2aURDMEE3RkXSAcgBQVVfeXFMTW44aU9lb0lQWF80Tnczb2QxRW9kYjZJeURNSjg2N0lTaDE0bV93S2ZLdXRiVnJfMkpSa0lZdlRVSURNbTFHVzZ6VVZKWWpzTU1tRjFYS1dMOTlHZGxRSG1VSTZ1aXBma25fM01LZUs0UjNIcUlkeWtaN1RSTXZFWlhOY2lwOW1qQ1J1dUl4NWdWczMwNHVUQ1BHQTA1T1FleHRmQW9OUTJ3Z1dyTENFakFIMmRocFIyOVdLS2lVQjdhOWZJSDBjeVk?oc=5",
+"source": "News18",
+"published": "2026-10-02T02:09:26+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5e63c6809276635",
+"title": "Motilal Oswal rates JSW Steel stock Buy at INR 1,340.00 target",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGZwd2N1Qk9QOFNNY293TVZPdUJaRWFVMW5ya1RHY0s3N0x2SEppbzl2VGNfRl9yOUxqdDU5UUYzVFFmRmJIVWdpeDJyM29yaWJhQWk0eEVMYXVHSnN5XzJfekxLM3NvMmx3LXBVRjZOX1ZMdk5WY0lIYUxvT0pZYkZFeno4VjVaVS1pX0FwX1daSlBIZDBqR210RWlxcTMxZUJjTU5VTjNHbWVqU2VLZ1BiUy1yZ05ldUEwemRB?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T02:00:08+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a802aac6cb5f39cf",
+"title": "HDFC Bank names Anup Bagchi CEO. HDFC Bank stock yields 1.50 percent",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk1QVjM3QWpJTHIwV2M4Uk1hZkZ0Zkp0RTdiQnluMUtEZTE4OXJranNVUXp0RlBRZmVzdFRvNUlLSjN2anQwZF9ISkNielJJODR1UXpQVDdZZWZSVkNFck5ia1ZQODhOMFhkbEYtWnZDQWdmSW1Wancyb1N1YWhiVUlWb3F4amVOYXRUOENPTlc5Z3hFQmptV1RESkx4anBmRTlSVjdEaUhzVTNCYUZlU3MxckhvSnVwc3ljeEhFeVM2bjNN?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T01:56:03+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "fbc2b752671681d2",
 "title": "September Auto Sales: Who Sold The Most Vehicles? Tata Motors, Eicher, Bajaj, Maruti To M&M, Here's The List",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQm5XZFRtSThRdXFlX3dGZS14OXJuOFpTVkFvOWFud01vaFBrRzZ6MnJXUHVSX1FJUmtZdnZZUDVYRVhWbUdaWkYwZnZhdU9ZcUdjQVpBREppdjAtWV9NNHZBbmZOLVVGc2gyM1lNUm9DSGdrRWowcTRCa0R6RXRZTlNHc1czYVJRVFczS1VNVExmSkxfUlhDdG9EdmpsS1RnZ05jYmJTcjl5NGVocHhSSVBpUEdiZURpVTFZa1NqemlyVFpaQndySzQtQ0xXSDVvOVhkbEFDTUJueHFEcFJIek9pbEluQdIB7gFBVV95cUxNcEhmWGllc2lxUVF1aE9qbE1PbzRJSHdFNUM5OFBzbjZDdzZCRVBRWnlSU0RPOXFSdkRUbHBTVllQcXpsN0JsNk0zNDh4Rm93SWFsR3AtbWtDemIwTWc2RWFHbnBDeXFPVnRqSWtOZ0dOTTkxVTFXdlJhYjZ4OGlrMWQ3VVc1YURDOGp3ckdoUTJfN3JrQXo2bmFWcE8weUNWdWgwRlNPS2tvX2lsc1VPd1l4NjE5OTlObElNSXFVMG5vckdGWGVaQUtGRld1Rk5mX2xidHRoUm16bGdHYjNVeXFLWEVXYWUxRFpsa2xn?oc=5",
@@ -681,6 +731,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "5801fb1954d773e5",
+"title": "Anup Saha is new Kotak Bank MD & CEO | Business Standard - newspaper",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzVuX0dEQ2tNYU5nbUFfdkV1d2RwVm92M2JkTkd0NEtSSmc0bmtjZDc1SkU3b2Vha1ZtN3JDaWhDTlhTbHpIb1ZQNDlrSDI4b1Y4azNHNWVDbWJxeWpBV0lFNnRneDBfUWRUbGc1MjVraXdHTk5WSjlSNnJvLVl6TkRwbDBVMl8tRzRLczJVb0NObmFqT2UxZlR3?oc=5",
+"source": "Magzter",
+"published": "2026-10-01T22:08:54+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "4a0ec5c4de4d1849",
 "title": "Powering Maharashtra's trillion-dollar goal: Pranav Adani highlights Rs 6 lakh crore blueprint",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaVdROHhpM1dURWMxSUM2WFlWZmE3R0Jmek5qd2k4VkZVdE9iNmlvV2hxVE5FX05hb2R1RG1qSEw3dnZHNl9DTDVEbWpjal9SYXJDSk5zT01pbDE2dWtoTnFUeWt6Mk5ydXJUSG04ME9ubWZQLXNnTGZmdVBEdVl3aktIQmt1aWthempXS1UxOXE1TDVyOTE4V1c5SVZrMlFvMnpZVVBmcEp6R05yT180aDdRR2staHNYbHRNZkNHeVgtcFlCdEN3X243a09IR0F5OU1RMzFaVFJITVU?oc=5",
@@ -814,6 +882,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "97159901cd3d1b86",
+"title": "Infosys Stock Extends ABN AMRO AI Deal As ADRs Lag",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DWjJkYW50bWRjRnF4bDYtX3lCRk13clYyekpOTG9lOHl1S1BDYk5Ebnc1cjVLWHNCVm01Y2xMSkZtdHJKQkptTmwzQXdudGZZQ05XY21CUEYxU3J0MUZOblZtakJGM2FqT3R0S3lfMG5oakFVdVAyTlF0Q1VRZw?oc=5",
+"source": "timothysykes.com",
+"published": "2026-10-01T20:47:00+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
 },
 {
 "id": "78adaa815076bb57",
@@ -1055,6 +1141,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "53ebb78fbee43115",
+"title": "Bajaj Finance Takes Financial Literacy Drive To Three Villages - Newz Daddy",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDFVeHVLYjFJMFVQZXM2NFh0TjZLMDhYcWVqS3UwaXVFRlU5cGhCU1JLdlRHLTFSN3poZnpSVE5qcmZEWFhjeklxS3BCUHZnSENaNWN4YnBqRWNFYjgtR294eTlQeVBUZU9obDhlRG9wa0JMQ3dVYTYyNDI2V0pvN2ZvNktCY3pfYzNnSzJfQzE3N1VSaDN6SXBTQdIBmwFBVV95cUxPaDFVeHVLYjFJMFVQZXM2NFh0TjZLMDhYcWVqS3UwaXVFRlU5cGhCU1JLdlRHLTFSN3poZnpSVE5qcmZEWFhjeklxS3BCUHZnSENaNWN4YnBqRWNFYjgtR294eTlQeVBUZU9obDhlRG9wa0JMQ3dVYTYyNDI2V0pvN2ZvNktCY3pfYzNnSzJfQzE3N1VSaDN6SXBTQQ?oc=5",
+"source": "Newz Daddy",
+"published": "2026-10-01T19:10:09+00:00",
+"first_seen": "2026-10-02T02:19:22+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50680,102 +50782,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "14d8a35fa54b0332",
-"title": "State Bank of India Stock Update: Shares Dip 1% Amid Sector Headwinds",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEljTUNUeVdSbG5jVDdVZkRZTVI3MzNJVVNhdy1SMTV1UVhZQXdQQkpVdU5Jd25ULUtXVEZSb1JySXQ3ZTAxSndtbWphYWVVRDJHY1dEd09fT3pHcGpqUWQ2dzQwSDlxQ3pxaVZrYWREUVk1Q05xVU80ZGcyRWFXR2ROaG5PR2xEV2NlUTN3UWZsQzlPS1g4XzVsUHp0dFY3cmcyS0VIV1kwVWd0LXVIMXBVUjXSAboBQVVfeXFMTkN5SEkzc1BZb3RJNzhtR29rSDBpeWZNTFRoNmNheUpYVVhReGVsTTZzYllBR1RIZGNyQzZTQmxuUUp1OWJUMkdLYzRJQmxoWkNmczFhMVV2VWhxS0dBTnRQZGdvMnN2WnVCbXFVRzM1MU0yUHNuNWtsV1AtNEd5NnF1YWU3UDVMelNxbHoxNUxfQ3h3OGoxWnY3dTRVY3Q2WmJKa3A2Yk9RWWtPalFER0JQYTNpVmpGRjRR?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:01:43+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7e5813e7eebccc4b",
-"title": "5 Stocks in Focus: Power Grid, Godrej, NMDC, RCF, SAIL",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDVtN1RiYTBCZVpveTJBOGJVQ1pBeF9tUmhyNkNDUmpaUTJBdTh4RFhtVUtoSm52WTRSZmVoLThBRnA0R29DdFNQbGJ6ZnJNQ3hPczNTZkZZb2l2TThoLWxIM2JId1NJbEtWSHVkRDg2b0o5a2UzVVJfZlAwYnJaUmxMX1ZaamFUWEp2TzIyZHIxVEZ1ZEtTS1hfYl9Od05FaXVUbVNRRWtnU20xN09FRVA4cF91clpTalhtdmE4VmtxWko4NzZZdldsTzd2eUZuZFR2WHYtWWtXVVlBbGVz?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-28T04:01:42+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ea71ce6b67a61b73",
-"title": "Reliance Industries Stock Update: Share Price Slips Near 52-Week Low",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObFg4Mk5QdF82eDl4Vmg5X2NWSllVX1hTNEtIVHo3UkhhZjR5c0U1QWdMNUpnZTB3VkZUeFpJaHRkSVQwNmF0OHRiOFQ2amdOX0lsXzhYMDh0Rl9fZlFnQWNxR1Q3S2hibktTQnVmdmFWaGFhSHNWUkw1NVI3Z0RRT21CS3h0MkZJdnM1S05kOFRXQVc4MlVHNm40QURyOXlHSnRoQ2tWNFJoMzVxcUoyUVBhTWJkblhZdHfSAboBQVVfeXFMTmxYODJOUHRfNng5eFZoOV9jVkpZVV9YUzRLSFR6N1JIYWY0eXNFNUFnTDVKZ2Uwd1ZGVHhaSWh0ZElUMDZhdDh0YjhUNmpnTl9JbF84WDA4dEZfX2ZRZ0FjcUdUN0toYm5LU0J1ZnZhVmhhYUhzVlJMNTVSN2dEUU9tQkt4dDJGSXZzNUtOZDhUV0FXODJVRzZuNEFEcjl5R0p0aENrVjRSaDM1cXFKMlFQYU1iZG5YWXR3?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:01:40+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c42f807856ef7e14",
-"title": "HDFC Bank Stock Update: Shares Slip on Market Weakness, Legal Concerns",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0lfWWlWZHIzRURHSWNnNmtOMWlMM0FUVk9zQU15ZFdlV2JHNlNZN3FPbzdWcGNXN19mWm5yUjJ0UFY2V2tHaVA0VkxlOVNyYl9zT2RSYlJRV2x4cXRsNTFiVzZUaWNkaFA0eUtRVHY3cGJPUlpBMjRNQXZPSmo3Y1B4RUNocDF0LWlEZ3VVcEpfNUdJWGFqQ01GUW5yM1VpSDRmbkFZLXdCeVZ3TDVBYThjOWpDQ3luWFZr0gG7AUFVX3lxTE93SV9ZaVZkcjNFREdJY2c2a04xaUwzQVRWT3NBTXlkV2VXYkc2U1k3cU9vN1ZwY1c3X2ZabnJSMnRQVjZXa0dpUDRWTGU5U3JiX3NPZFJiUlFXbHhxdGw1MWJXNlRpY2RoUDR5S1FUdjdwYk9SWkEyNE1Bdk9KajdjUHhFQ2hwMXQtaURndVVwSl81R0lYYWpDTUZRbnIzVWlINGZuQVktd0J5VndMNUFhOGM5akNDeW5YVms?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:01:40+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "046173e9e05d385b",
-"title": "ICICI Bank Stock Update: Share Price Slips Over 1% in Early Trade",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktLMFllNnpuVlVmS0Q0d1VvX3FUTEgwUEpEb0Y5UzFrRWZOWExlbkZ5Ynd5NW5oa2hZREoyWURtaURVS3FwSlYxMldHUFBYYmJxMm40VXFuSll2ZUVVYUlPazhZSUxadU1MLU9IRVMtNmcwQm5sb3BkYWdfNFA5dk1RenBFZ0QzaXVkOHYzT1FWRUdOalNtcFd6NExMV1NHSXhhNWM5VEg5dWpWUWt3djFBSU_SAbQBQVVfeXFMTmpLSzBZZTZ6blZVZktENHdVb19xVExIMFBKRG9GOVMxa0VmTlhMZW5GeWJ3eTVuaGtoWURKMllEbWlEVUtxcEpWMTJXR1BQWGJicTJuNFVxbkpZdmVFVWFJT2s4WUlMWnVNTC1PSEVTLTZnMEJubG9wZGFnXzRQOXZNUXpwRWdEM2l1ZDh2M09RVkVHTmpTbXBXejRMTFdTR0l4YTVjOVRIOXVqVlFrd3YxQUlP?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:01:40+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5ad089339ce04509",
-"title": "Infosys Stock Update: Share Price Slips Marginally Amid IT Sector Weakness",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2hUd0pDRDBTSVVvT0RqVktENXpoblQ1THBHOXNIaU9wT3N2X3dGUWprNjJSTk9vckZITXdmUEtPalF1TmN0QkotR2VvanpYWklGcXJYdlVsYTdhOW10YlhsdDIxNjBIVTZpYlFROTQzM3FBMExoZFhNYmhOSHVXRndVcmhCbVk1eGs5UW5mWUh5U0l6Vkd5UFUtVXpTT3NGNFJtWFJ4SGc2Mnh5UEtSLURDTGg1NENhMThYbNIBwgFBVV95cUxPSm91Wl9weTdtNHdSWE1oeDZ6MnhIU0ZfX01TVTdKcWJDM0xZR3lDekNESHpaWGRXclpOekY3aTlaVTJhU291aW1OZnBhdlNhWDJfRUlMZ0tPMm9sTmdlS1Jic1BlRC1NVUNGb1Jfa2dGdEJGcWxsZVhkUjdFNEFUSUhKN2FBb0RjSWZXeXRTZGc0LWpsRUpmeEVseGV1U1JZYnB6cTJSZHVjQUNWZkZoSmxrajFYQWVrQXVKNXhlcTNBQQ?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:01:40+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
