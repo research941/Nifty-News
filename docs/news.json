@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T22:18:23+00:00",
+"updated": "2026-10-02T22:32:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "90039d1a5ef545b7",
+"title": "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS0tWHUtWE1NSlhwNzA4WWl2R1dsMEZpV1dqakl0eXZMRkRBazh0NktiMXFhQlY3aURjdjBsNldtaHNFcDRLWkpKOE52QjJrakJNbGZyLWtmLW5rbUl3WTdLSWpQZm1oRko2SzFJdTRreDhEVHhhVGpzd1FNby1LSjVTU21lblVVSGVqX2ZUcjBWR1g0YkZpOWtR0gFWQVVfeXFMTVd4Qk1EY3R2MU81U08tc0RtaktOS1hMTE9zWC1FODN6MXZHd2dVLURKXzJ6cTBoMkN0TzdCTFQzbnR4UDhLS28yd1kxU0R0VmtvQVR3c2c?oc=5",
+"source": "Law360",
+"published": "2026-10-02T22:24:21+00:00",
+"first_seen": "2026-10-02T22:32:57+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d666267f4fd4c2a6",
+"title": "3 Power Grid Stocks With Revenue Growth Up To 34%",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2FKUWFMMzN0dmE3TmZGbFBNYllPRjRvSDlONnAwd09DZnRPTFljWEVMUVpOa2tqVnlKdEhjWG1CR2hiM0JoRUtDekRJYTJ6ZUd3eHIyaHAyVW9BWVhMQ0RWSUI2TjBJMTluYkx1WVhDZHBENTVTUXFtdjM4Qm5ta0FES2FoQ0JmMGt0Sg?oc=5",
+"source": "finance.yahoo.com",
+"published": "2026-10-02T22:07:46+00:00",
+"first_seen": "2026-10-02T22:32:57+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
 {
 "id": "e997df4230d26049",
 "title": "49ers' Mike Evans, Trent Williams questionable for Week 4 game vs. Broncos",
@@ -50880,38 +50914,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "020dbffce974d39d",
-"title": "Wipro ADR downtrend deepens near $1.62 support: Live levels By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T19:34:10+00:00",
-"first_seen": "2026-09-29T02:17:16+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a4bbcc9d5c071d53",
-"title": "IT Sell-off Drags Sensex and Nifty Lower; Eicher Motors Leads Losers",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDhRVHlJdnhPd1c3aHN3VUZsWlNtaHhLLTVoTDE2bWJtcF9oamJnTXhXRGtNN0l1bzQ3QjlaX1EtTF9iUGNGY3gzM1pwTTNlaUl2Nm5iMFRuYnExWmtwVkoyd3JPblFPSkN2MEc0ZHg2VUZZM1pDU1h4aWFvNGs4aFVTcXM4MlQwZmhvakRZT1c0OHd6cFh1N1owMA?oc=5",
-"source": "The Indian Awaaz",
-"published": "2026-09-28T19:33:00+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
