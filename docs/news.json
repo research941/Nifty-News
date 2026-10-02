@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T22:57:39+00:00",
+"updated": "2026-10-02T23:15:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -461,6 +461,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "0ea35bcab44e6f5f",
+"title": "2.6 trn projects completed, being executed in Maha: Pranav Adani | Business Standard - newspaper",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXZkWVExQTZZTlM3S0tUbXZxc2VHTXZGMHNHdmRmbW1Ob082Um1iSWg2Y0loUGFTTk9VWVpZSDdORE9wcWdrQ1p6YVFHZTB6WG9mbFpvUVZDNTVpYnBoUVE5MnoxV1dPb1RQamlRRDZabWlLLVJBNFlKS1lzbWlxejhSaGtqMy1NMDc2eDY5bjBwMnlTMjN5VXU1czg1OTFBTVdHbVRhdi1GWlEtR2xPbGpxMGc3WlZrSUF5ZC13?oc=5",
+"source": "Magzter",
+"published": "2026-10-02T22:14:08+00:00",
+"first_seen": "2026-10-02T23:15:40+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f903cdc800108eba",
 "title": "HDFC Bank’s succession settled, but Bagchi faces execution test | Business Standard - newspaper",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUhwa3VRMTFUYy1WTVdHVThNYldobHA2cUZsR3N3WWFGZGNKbmZycGQ5WDdNV1RJSm0tV0hFQ1l1QUtSd0hxYkFYZXMtVzFYVjV4RGkwbm02U21YVWJZeHZxazVpcDJRaUQxaEJDOWRsX1hqSVQtMVBHbExTeGtlalE4bmlUbEZ2QjZJTFRiOWl6TENEd0puMzk1bmFYaEhqUk9uY2F2M3JWQmhQOG5ZVUU3dUdvazlEUlY2aHZB?oc=5",
@@ -492,6 +508,24 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "46281fbc78faa79d",
+"title": "Bajaj Finance, L&T Finance, HDB among NBFCs facing higher funding costs; EPS cuts could reach 12%",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUVMyMTlEeEg0SEpfVUVhRHlGU21qZ3F2aWJ0c3dPdzNTQWhkQlNxd1oyV2RMYjZTY09pYUJPM2xTN3ZxZ3NVaG91OXFFcC1rQlBkelI3Q21RaTNaeU9IWnRNVkR6T1VMYk85dm1KS25HU1FpaXJXWGlLLW5yMWVnMW5LakoteEFBV1dRbFJmVkRsUjEyR3lOU2ZCemp1TC11R2xZc29pR1BfQU80NHcxRWN4UkZwUWt5SjdWUURKODFYbmxpYzdJY3A4U1VRNUpaNkRlcnp2UW50SEVfSjJwOER0cG8wWlVk0gHuAUFVX3lxTE91MTh0dDRVdDdCMlg5bjJKeWItUXBMYUhDMFFGVWVzc0xsSndRSUtmVE1GTUlpSVo0VWlhT3ltU2FNSHluNGZhOFp1NTE4WlhqSXF6eEF0bU5KZkItMzl6N2Nad1QwSVIzakYySTl5eHJyOVRGR0Mza0VVT1JkZU9SZnNFV05QMzNtWXg0ZGU4Yi1WUTJyM05FWDNkNERHUnZGcjBsMExVYXZycF91eHNqcTRiNk5PQk02eWFUb2NwbHpxRUpHWnU1Vmk4aWZtRkNVZHhCSW1oRGQtOVdEa0Y2cUtJWGhTRjE5bTI0THc?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-10-02T21:16:10+00:00",
+"first_seen": "2026-10-02T23:15:40+00:00",
+"symbols": [
+"BAJFINANCE",
+"LT"
+],
+"groups": [
+"Bajaj",
+"Infra"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -4730,6 +4764,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ddf6375fbd02e8c4",
+"title": "Eicher Motors Share Price - Live NSE: EICHERMOT Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pOTR6MUtLaU9iZ3l6QVAxNVpGYUdyaWI5TVFnRGVUQ1V4TVl5VGtsWklwV3JONHFqOW5fMlNsR2pEczQxaGVibnp0Z0xQYk9IeVVwNjBSQkc4YlNieFFLSktoR2Qwb2M?oc=5",
+"source": "upstox.com",
+"published": "2026-10-02T07:23:33+00:00",
+"first_seen": "2026-10-02T23:15:40+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50863,54 +50913,6 @@
 ],
 "groups": [
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "637855c6fc3d863b",
-"title": "HDFC Bank ADR rejected at resistance, eyes $21.77: Live levels",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T20:03:45+00:00",
-"first_seen": "2026-09-28T20:17:57+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "335a17fc74d7c66e",
-"title": "Lost Money on HDFC Bank Limited (HDB)? Join Class Action Before October 13, 2026 - Contact Levi & Korsinsky",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSjllVXhBdm52Z1JHaVZmZHpLUHUyd2lTZVNIdHQzZHMzT3ItQ2JYazRQMUNNN2FXcEtnVy1yS181aU1nOFI1NHZMaDZNdWpvNm1XWEV4b3pZVnl5Z1c4SmRmSGJ2RU9MSHRnNXJJVWlmMEtDS043Mml4TXlzUHRYM1VEa3ctSkhUMmdqRExhYjVrVElmZ0g5WUV6STlnbjBXbHRkbW1LRFB1QlRiSTVpTUUySkV1anBieU9hLTN2MmxCNmJvVHJwT0hndFgwZUpJSXM4N19zTHVfbjNFR3FnNDA2Qlo?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-28T20:01:09+00:00",
-"first_seen": "2026-09-29T16:49:26+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f3f0bc57048d3e86",
-"title": "NTPC CVO reviews PHPS operation",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TUndCTm1JcC1mZG50QmFCNGhnYmhyTUdrRVotRXlYbXpkQmNxQzRha1RFcTB6Z1FiNmtzRm9Qd2paQ01USHdRTkY0RDJmVUZwUjhtUEEtcnIwUkljSVlBczRGOTV2VDFWb25lWklydUpscDdqX21RRFNzOFN0Zw?oc=5",
-"source": "arunachalobserver.org",
-"published": "2026-09-28T19:38:40+00:00",
-"first_seen": "2026-09-29T06:39:59+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
