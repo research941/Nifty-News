@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T15:59:15+00:00",
+"updated": "2026-10-02T16:20:20+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,72 @@
 ],
 "items": [
 {
+"id": "87e4b17f92340291",
+"title": "Surya Narayan Panigrahi Takes Over as Executive Director (HR) at NTPC Limited",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlDT0J6R3pGakdWZGJPempOUy1WZDVsUkJJckJBVmNRdWNMMjdFZUlaNXRoLXpJVG00WVZKLVREY1NZSmdOTlJvMkVqNU1MN2pVYTlGdGFMRnZjZUltdFVqaUNsamtOb0NBOGxUaGxTOXNLdHdKYmQxTnR5bUFVSWFGWm8tSm5hS3pXc3hicGdLV2VVa2NUNHNnMA?oc=5",
+"source": "hrtoday.in",
+"published": "2026-10-02T16:12:12+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "19d3d4503c75f397",
+"title": "Bharti Airtel stock highlights expanded Apple services in family postpaid plans",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUxlMFl3UzdnQjE4ZWNxX05uUlQxN091QjVpbjNlRUFNVmFaRng5RDVIQVI4VkZnTkFzV0tNMnk3akFGZHBVQ2VYTUhZX2JhRGxIZUpuNXNDRHR4SGNlY2VJWEgwM1BENThBVl9UeDNZRFN6MkFIemtrcjI3Z1FpTGkzaDJ4MjZyUFdobTNxeDNwdjkwenJNVkRHS1FVdk53TjZjcVllbzlDWE5ZNTNBT0ZUSWtDcVhjLXY1a0JKaW4zSzVpODFuZDJLNlM?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T16:10:40+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "860789089481b732",
+"title": "Cipla Pune warehouse licence cancelled over Reactin Plus, storage lapses",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXVIWmg4czRGa3p5Yldhd1hPMnZzOFNwdnNPMks4UEtVcnZBUS1XR0c0a0RkY3JWOHBjNEpDaGNfci1qdVdYLUxfNnowamZjLS1XTExMTHFpS0hUcm5mVTlxWG15UHdyS1R3TUEtdnAzblh1RTlMVW5seTVKZDBUSEdPbkt1OEwyR3NNYWpiazBsUkM0SlVaTTFTUy0zdHAtY3VHTzhpU3JyUEVqVXVnUDdzeDBQaEk2VUlheFMwOXNTT3pIcGdDaUpZMlFnQQ?oc=5",
+"source": "India Today",
+"published": "2026-10-02T16:04:34+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "64d0fc1ea5beb942",
+"title": "Anup Saha appointed Kotak Mahindra Bank MD & CEO, effective 2027",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2dpZ3ZIeDNDQWJyeUFDajFUUlpzV0JXeGE0Y3k5YjlBcEpINmJ6VzJRLXJ1VE53UjBUVkZHYnktOVBhNEYzWl9ZcldXTE1RZVNFUG5GSzg3aUt6a3EzNkFCNmRsX0V6X0tWMGhhMFctS0g3bk15czdoSlVTeWl1TUY2N0VtLUZuc1JfeldKZHJsMFlFbTJDNWZQaE02Sk9Lck5GaXMwZ3NYRlIwVWVMdlgtZmh0d0hXaDZmOWtLNlVZQjZoSXNKUU1n0gHMAUFVX3lxTE5uenhxNl8wNkdoRUtIX1RGblFMdHBTdWpFZHhwS2FhMjFqbU5CV283RUZrc0Q2b3pWWFJzSFpkb3FwMHBtdEJMQnRCNHJ2ZktKY0VVU05FRDNiR2RKYXFqUkJLTGpQaUtCZi1zOVQ0bmtsQVVsYm9mYmlPY3dZa0FSQ0R2RHhteWZTSDNENHVGbnZHRDQwMTJscXZKLXQ5MUVSWEpWOFpscGQ5SVIyY2JESWZNQm9IRTRaN244dFEyOGJBdFFUelZQVkZGZw?oc=5",
+"source": "Rediff",
+"published": "2026-10-02T16:01:17+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "31abe035aa198c4b",
 "title": "Airtel Money sets London IPO price at discount to expected valuation",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlBKamdpNkFnV0xkV3NxQ0tEeGZ1ZnpRWVFybDZNU3JNcGNFU3VmUHhxekpHdkZVSWhsaWZLWjhmODZINzJzRnR0RlZoN0szdFJJSWU0Y3ZRQmMxX3ZwUEpBU0lyUElxU0Y5a2VGU2pIUjFKcmpocHAzMllKTjZsUDVFRzJoSEwwUzhFcW9XZ24zTExrMTNTX0cxbm0?oc=5",
@@ -521,6 +587,22 @@
 "source": "NDTV",
 "published": "2026-10-02T15:28:54+00:00",
 "first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e77f86f5eaece5cb",
+"title": "Cipla faces fresh FDA blow, Pune warehouse drug licences cancelled",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1RxSGo0bUYxQldJSWxDZXlPMjRMdVUtS2RoZUVoWnNGOWtLUThQZmdJdjdJbkl6Wl9WZVd3aThIUG1adG1DTkNnYnFCcExrODgtZE5VVVdReFFMcEt3QlQtdE94ZGVjUmI5SWttaEU3b1FyMFpMWlVETkpfeTk1QXhBSWNtSGI0MGdLSFV3amtsU1U1cmdZd0s4Vk13VEwxdy1tdndDODNlZHd4aFpOaEpCZ9IBtgFBVV95cUxNTm1xVFNmcHpGSC1XWkY5M2dHcWdRMjE0ZUs4NUJsYjFsWGFUZlRybDdkTldkYUVpLWFNSHBUUkI1b3Z2Zjl2UVY2QTd5M3cyYzN2SC1OdjBSeGEzZ1pPUGFJMy1LekNkY2xYRFVpSEFZeXdLV284ZFdZZmZtYVJNZXNveEROU1NETzNUWmg2UXpHVWZNejBJR1VWTk11MDdBNjZMNUwxc1ZSc1ZSZzBmQUJLQ0VPdw?oc=5",
+"source": "Rediff",
+"published": "2026-10-02T15:26:14+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -614,6 +696,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "9d517bab5a358a44",
+"title": "Suzlon Energy vs NTPC Green vs NHPC: Wind, Solar or Hydro? Which Energy Stock Deserves Spot In Your Portfolio?",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdS1KbFJzS09KU1pQYm1qYU5ZTVctdVhyak84Zjd5dzFkcVBNdWpwbGhjLW9ac2RNRHRyRENhNU1temdpSFBUOFFveEVseVZ1aXJlZkZabjhJSm1qbDRrdW1OSlRzSWQyUmYtZEVlQmlpWGdXeVhOemcwM3VMOXpMWlU2VXRZdnV6bG1aYjBpajBSM1NhNWxxYXk2b1F0VTcwV2hDQTlsWnpFeGV6TzdJUTI3X3kxdHNlX0VmYWZHbEk5SjJnNHlhVA?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T15:07:03+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -728,6 +826,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6853b8a6295a7d80",
+"title": "Maharashtra FDA cancels Cipla Warehouse Pune licence over alleged packaging, storage lapses",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWdQRUtIeE1zYVNDY0ZMZXZ2YjAzYjlqblMzeFNmNmt3azlSMmpHSzY3cFgzMHFyWnRUNDhXcjBtQV9SMWJoTy1Ib1NxLTJHMkVRdXZyZ0hNYjdYT096WlZ3b3lOUzFwUWQ2X3ZEak01d21WVnR3LVNjT1JmMFl1RHRHQ1NqN1RzSkx5clRYYWZ0ZnlreWJuYUdYSVRUU3FJWWlSS1RUQjU0Y1lVYU5CNFNXb1RIaHlCRlRHWDdjd2ZDbFpKaU9OVQ?oc=5",
+"source": "Social News XYZ",
+"published": "2026-10-02T14:45:16+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1126,6 +1240,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "4d1b6cfd73680bd0",
+"title": "Bharat Electronics Stock Volatile Ahead Of Q1 Results; What To Expect In BEL's Q1? Check Timing & Dividends",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMU5TTks2RDJKVDZ4NDVOZTlLYUhpb0d5dVhxcWU5Q1BmRUVCa2xVa1ZJVkZqMDRqblRHQVJCTnNCS053T0NiVWhQSHJmQ2d1cXZlVk5ERTlpT29HOHpuSGlrVWJ0cS1vTDFBbUdGSHpOVjl0dlk1aFVpaWlNWDBReTE0LUdBTWpaaS1DcmR0Q0Z2QWV6RjBrUG9DcXlEbmlnTUR3c3VGLTlXa0pNdHZwWklZekFzOEx5dGhSX28zc2xXSzJfUGIxd1gtS2E1bVFqSnlGbl9XM25TLUFZYkE?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T13:49:02+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
 },
 {
 "id": "5cc4aaaff5904942",
@@ -7231,6 +7363,22 @@
 "Order/Deal",
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "45c52e79e1e5e7dc",
+"title": "#MCExclusive | 🚨 ICICI Bank to decide on Bagchi's successor at ICICI Life in 2-3 days Sources say Bagchi's replacement will be chosen from within the bank's talent pool across various businesses, with Anuj Bhargava, Rajesh Rai and Sumit Sanghai seen as f",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlotRGNLMVhmVmNUcHpKdzRudDhCaHpnY1MxQmRaV3pNWWtpVDdrbThQU2xVNXdxMWFKVThPYnBiTDUwNnhZLXB3bnNnTWxVcEVlNWllYVhvR2NSOW04aFNINS1XVzVhNXZhTnFnd2VVR09Qa3NxZEdIaHJOT2k1aTlNYjFtODltZTJPbzlZcThMRHc?oc=5",
+"source": "linkedin.com",
+"published": "2026-10-01T17:16:46+00:00",
+"first_seen": "2026-10-02T16:20:20+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50795,162 +50943,6 @@
 "source": "Business Standard",
 "published": "2026-09-28T15:28:57+00:00",
 "first_seen": "2026-09-28T15:37:18+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "382d6cdfebf4abda",
-"title": "Gautam Adani, 4 group companies settle matter with Sebi on MPS norms",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN2V6clJSSzZyYTZOckdwdlljUWpQdXVZUmhvY1dic1RIcGRnNldmLW9laWhjb3VvM3hFcUVLUmhQUkRlWVdiMEl5c1V6c2E3anBQZnZ5TUNDMENkNVpDZnhKLUlRYzBzSk1ZenFDWHdZSV9aMTJJeU1TN3dCd2JyTS1GNEI4NmpvSjBaX09LeUJuRlF1WjRyVk9NbkdObFlkdWFsQmVoR2xaV2o2N0VYbkVEaVVsNHpPX1NUZWNCYzdGaVZEZVp6MGkxTWpGNTjSAdQBQVVfeXFMTnByX0VSRU93aXlHRHlGeW91ZE81NGtscDZiX0pqc3pwTkVCZndrZnVaSURVLVVVWFd4MnptU0dPR1FvXzlEMlNoVUhubjF3XzlNbVhCXzkwRUEwRDRueHU4NGRja1JXRm9IRXNkRUdoQ00xVWQxaE00ZU0tZjNzOXNRdkc4WGpla3NfLTYzYmJPdzZFREZLRkk4MkdxUmZLVlczXzNaUHVwZmhQbTlMYnY4NnVMVjVsdjdYXzlfS2ZDLTFIRUFnUkhyb2F2aDZpZ0hDRzU?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T15:28:57+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9314f09bd76e436f",
-"title": "SEBI settlement order: Adani Enterprises, Adani Power, Adani Ports and Adani Energy Solutions settle MPS case for ₹1.48 crore",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUXZmRlZVTk9qNVpkdm9DNlhwcnNlRmtwaUFpd0NJYXZWQ0lEWFV3RVN0bnE2UEdKX0cwQXpxRFIyY2hJZW8xSFJhUHVHWnVuZ0Y2aUZTQU1ycGF1VHRURDRRYmRWQ1hwZUg3bk9TRkNZRVA5RW84TFJ1VG42ckFQaUJZNUhmQmRDekVPalpJbVJfa3FDcmxhUmxjNnNjaWRoenA5dzAtQ3A4V2hpZGIyV0ZpREZQbXd1cWZLX2JDUWJrWVhVZUtleVFOUUNBS1kxUkFzbHV4eXNpejgxamVUbjdGWWVSNjg2enZpbVhMRncxMXpCekZBN1lGNG16MTRXMU5XS1JR?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T15:26:24+00:00",
-"first_seen": "2026-09-28T15:37:18+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal",
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5a96cae0ba1a9f59",
-"title": "Sun Pharma Gets Lerodalcibep Rights Outside The US And China - Newz Daddy",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHFDSllBM3VOeW40WGVOd2tBQTc1dFctd3pYMTZDdWhwRkxqQUxscUlfeFZxaGhBTFd4bUhGaTBmREpTWkNYUVR4MWpkV2VFTmJ0U2xoT25HT0M1VzNyV3BydzdkRjRnUkRJNTdwa0RlemJzN0NOS2xrNl9IUEtTT0NUdF8zdzVhOG1aMlQ5bHHSAZgBQVVfeXFMTzJkZWFLUllTWEktWWtCOWxQb3BfYk1Nc2FSZ1pPUnN3TFlfUnNwbXQtQmVRR0gxUEdVZ1lvSW5UNzNDcHNPdjN1OEQ4eE1hek1ISzMyUGpJMXhseGNGSVg4bmxieTJmS0kxbnRwTnBlVzdqZ3BNclJTOEN2cTdNQVpxdnBLUWpCR0VXZFVoT2FHdFVYMXJRZUE?oc=5",
-"source": "Newz Daddy",
-"published": "2026-09-28T15:26:16+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4b9d7af95da621f7",
-"title": "Sebi settles case against Adani Group companies over public shareholding allegations",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUxJalRGckRiQk9meUQ3Tk9XVDctRXVWenBkT0FNSFA3WC1tU291am9GY1ZQbV9aTzgxQWQtQXVQSTFtdmtrQ1hfZmlaMW9kbU9lRG1WOTJnTGNMMG1pZjlEZEMwd1FxUFh5aGs4RDF5ejFJc3JZZzJpb284RmhueGw1YmluNk9uWVBqZmtxNzhqQVoxZVN2MTNqcEEyb3o1Tk1iVXdCM0d3dnNRa0I0TC1BcThXRzkwYnVxZE00MGxRNGk1X3fSAcsBQVVfeXFMUHFrZ0QtV1JpVzNGNGxTTG13TFlLV3RPaGtoUEVBS1M3MnZSaTJqa1J1aDBEZl9YUTFUSmJ3dEdqN3VieHZ2ZXNBdDlwVHhXSzJ4U1B2REhXME9SZ0hlTmRnbi1vdksxOEZJVmVPSk1yYXVuOXZ0N09ta19jVkZia011cGM5Z2dYUzB3R3VMVmZTSHAzcXk1SHVSY1ZkWVpTQkJyT3FCMDRwb1BWUklSME9iTXlNNlUzNEpvSm0zWVNjR3ZXbTlQd2RpY0k?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T15:25:13+00:00",
-"first_seen": "2026-09-28T15:37:18+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8b572dba91ffc1ad",
-"title": "ITC Acquires Remaining Stake in Sproutlife Foods, Makes 'Yoga Bar' Subsidiary",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZW91NkFCXy04T09RRl9VeFUwbzJoN1Z4M1pSM2RJUm03VVJaUldJSUc1cDVQNTBveTMwZnVCUTZna3VpRFFTWnpsOXRjcnctSFE3Q2ZyNDJLR3lHZFE0TG9xNVpiQURGX0FzeDBIbFQ4Z0liTmlMNjhmMi1rbG43R3BRZERYZFV3a1FTWjM3V0R1RzNOY2I5UkxwLW5wQkl3N04xNVY2a01RUUwxUHI0dFEwTWZmVHlOSkRVZms4XzZXX2szNWU5LS0yQVJLSFNkTGVGT3ZiRC1mamtrRlpxM19uVlA0YkVaVllVUjJWUDZkdm10VHE0NVFoUQ?oc=5",
-"source": "Whalesbook",
-"published": "2026-09-28T15:23:20+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "93882194a40541ce",
-"title": "Financial rule changes from Oct 1: SBI ATM charges, UPI MDR, FD rates, NPS, LPG subsidy - All you need to know",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1YxMmRIT091ejhLRmZyY3JzdG83MlVSWXItN0xzX2dFOTY2a1JlZnh6bEZVdFFFeHR6cndyUktJc204U0R1WThfNVBWSGk4bEZVWXRmdEJYRlFZeHh5YU5wREVva0dGZ2JnSWRHMVFvejlIZTJBS1FTYjlKQW91eVJBZERDMGRCX1NTamNiV2U1R2FweHVRRjBTOGFoeVZ4R3lpeWhqR21uVkpXMENDWlVVRF9FZ1BHQkZtU2ladlZMb3NSUlY2eGpjRWducXlRWkhLQ3VOZEpwQzlMN3B3dDU5c1ExUm4yODR4b2l6c2xiTEs0VUZR0gH8AUFVX3lxTE5IYmNwRTR6S0NtWEc1UHFqY1doUEVWNWV2VWhtcHE5VldkN29mMzFXMUN3eDk4aHdwVTJPM3Zqb24wZFpHYmdsYWJLTFpneElxeDNrbmlUZVdDNGxUTkNDM0pvZGVjSEhINnV2TlRQLUhqME41VGJocHp3NndqbER0eklCUGtsVjFabFRTTktQYUFaNjlHNFBvQlNyTWUtZk9wU05fRXdIZnZLVUl3X0pyVHplU3h1YXJPU3lLWnlNRzJRY0dDU0RtZlpOby1qRENiYmFvVV9PbHZTN2hRR0xERUFmY282YU03eXNPTExPaEJZREJCSm03blZZcQ?oc=5",
-"source": "ET Now",
-"published": "2026-09-28T15:23:10+00:00",
-"first_seen": "2026-09-29T12:25:25+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b99083ce20da2977",
-"title": "New banking hub set to open in Stoke-on-Trent at site of former Shoe Zone",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTZ1OTNDbzhWa2tMbVRuN0VmZ01nTUZ2ejdNNldZU1BhTUdvaGY0aXJDV2tISGJBR3NTMDMwbVBnRDFreDVvT19EQVNYTVJVdnM3NTljX2hRWkxPX3YzZEdJMmZRMG5VZmpiQWRHOV8tQmlQNG90YnAzdXRJTXpBdzhmcENhWTBPVTRqZ1ZzcTcwb0dFN2U1em1lSWNXSnlFNnMySmZjNUdNQlRoMmZxV1VGRzM1dkZCOENj?oc=5",
-"source": "Stoke Nub News",
-"published": "2026-09-28T15:21:00+00:00",
-"first_seen": "2026-09-28T15:37:18+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "081a65353cc60ff7",
-"title": "India's market regulator allows Adani, four group firms to settle public-float violations",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
-"source": "Reuters",
-"published": "2026-09-28T15:17:46+00:00",
-"first_seen": "2026-09-28T16:22:23+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d6808b6e2b44aabd",
-"title": "Four Adani Group firms, directors settle MPS case with SEBI for ₹1.48 crore",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDZpSXpZeFBhNnZCY1B6R01oODJJWEtoTU4zWkEzUGQwN1prQUppT3VJTWFibW41Y1NvQmpxUWFzaDZfTHRTUzFGN2NXenZqWmkxRmt1SWdoSUZMYXYzYXZZTHk0ajJaMllXaElpODBCU1V6ekdENVhvb2xnbU1qbnFvVm5YTGJhbjV2SXdxaGNzMzd3VmNNWWFCTkc0WElmVUtSaUctNy1rd0t6X2RPYVhxY1pudEwzcEdraG9n0gHDAUFVX3lxTE9VWXhXeXE3S0tIdG1zQnB2NDhnV09UOUJRUVJ2YldPSWdoZW04WE1YU2lrSkE3dTkwZ1g2WFBMV1NFc0gza1JsMmY1MWo4bEppelJVaXpKRHpGdWY5ZHY5MkJzbnpsb0F6NTdPMEJabWFobGVNUHRsOU9UTkJxUm93X3k0dnk3U1o4dlRPYmZ4NG03X1doM2hzRTY3VERRUTZqaEZzd2ptMGNtZ29aVFo2Tk5GY1FqRWl4MlpkTlRZYW1zMA?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-28T15:14:23+00:00",
-"first_seen": "2026-09-28T15:22:08+00:00",
 "symbols": [
 "ADANIENT"
 ],
