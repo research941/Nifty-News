@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T10:24:01+00:00",
+"updated": "2026-10-02T10:39:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,74 @@
 ],
 "items": [
 {
+"id": "36a819bd8ae3dfe9",
+"title": "HDFC Bank Taps ICICI Veteran Anup Bagchi as New MD & CEO from October 27",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjhXUVRXRUJHSi1YQXcwajJHUGFNLURuc0ZfUjNmemk1Y2ppc2VhYUtSM3RXcHFnYW9DYXJTcEVGTXN6TVV6MGxMY0dPb1h0bWU0WWs2ZGk4NUJRcEZIOWQ2OFBFRWVMLXRPS0RZQWNCRTY1VzU4Tmw3MUNmN1pyMzlHOFZ3TnF5bDlLRkhpc0hfWERibnF6UGl0S2xpY3R0QTd1WHVCN3dRVFF4LWtwZHFQTllBRzd1VVB3Wkxncw?oc=5",
+"source": "tipranks.com",
+"published": "2026-10-02T10:38:29+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "99ed002835fc7a1c",
+"title": "Only 9% up since last MD but Jefferies sees 10% more in Kotak Mahindra Bank shares after Anup Saha's appointment",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNlZkQ3BnZm9LUnNnV3gyZGl0LUVIRGJ5TXZjV3ZxOTQ0eHdxMGJGdkVyaVlvbmNRSXAtR21PeGtTWDNFVFFCQklUOHdOVkdHX3pRUWw4X2ViUEY4eUhYVUd4ZGw5OW5YZXR5VllmWTE5am42eWJNWVV0bXBFaDFXWDNrTjRWWFRuXzNxXzRXVDAwZ25reFBpcS1Vc3I2aTVoanlkUG5heG5XVEVoNW1JeGpRR3YtQlZZZm5feUF5ODRjRTF3LVV2SkhpWkdVOUM0SFZ3VDBfN1RBMUtyRGpDSjdaenN2ZzFwYk9ERF8ybnBlYkE0eFVDc0dySEZVRDFOM0g3bkNBTFQzVkJvMjFmZ9IBkAJBVV95cUxPNlZkQ3BnZm9LUnNnV3gyZGl0LUVIRGJ5TXZjV3ZxOTQ0eHdxMGJGdkVyaVlvbmNRSXAtR21PeGtTWDNFVFFCQklUOHdOVkdHX3pRUWw4X2ViUEY4eUhYVUd4ZGw5OW5YZXR5VllmWTE5am42eWJNWVV0bXBFaDFXWDNrTjRWWFRuXzNxXzRXVDAwZ25reFBpcS1Vc3I2aTVoanlkUG5heG5XVEVoNW1JeGpRR3YtQlZZZm5feUF5ODRjRTF3LVV2SkhpWkdVOUM0SFZ3VDBfN1RBMUtyRGpDSjdaenN2ZzFwYk9ERF8ybnBlYkE0eFVDc0dySEZVRDFOM0g3bkNBTFQzVkJvMjFmZw?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T10:31:54+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f847c3d081dbc970",
+"title": "Apollo Hospitals: 5 Key Growth Drivers That Could Power FY27",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWNuLTBmck11QzNBd0tTNC1FQVl3OXdDejhrTkZ1UWJSdE5MNTczeWduWFBaYVZUVUdXWXZpc0M2ZnlhWmpWTWpaaDlORURWOVdHcW5FWjdIdVJUcEp1OTgtaTJWdVVYbnBXcFVDWklFWUZjMnJEWU1jTE4zb21NOXhabUJPRmlzejBtb2lxdGlyNEk0SktGamxoenlUMTBFSTZkX2l2dFN6dw?oc=5",
+"source": "Trade Brains",
+"published": "2026-10-02T10:30:38+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f1028f95ffc748ef",
+"title": "SBI RTI Reply on PLI Data Draws Social Media Reactions Over Transparency Concerns",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0dycGw2ak1TWVlFemJwdjZZQnh0WkNWaVdJM3hONUVqZGY2TzRYQzZqSXplN2tvRG5iTzNUQ3JBbXBnVjMyV3k2Y3M2RWdsVHdpR253M3ZFMmtybEVubGJiNGstZUFuY3hlaEcwSHV2b2xhelV1dGJ5M1FnRlhSX0lteEJLVVZRTXFQc2VVcDd3VHJiT3FvR2FKZTRSNm1Pb0RtcWxMbG9QUXFoRmdLUjE3ak9WMDl5MklRWVJn?oc=5",
+"source": "Thekanal",
+"published": "2026-10-02T10:21:36+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bd1c12f4b1ebac5d",
 "title": "TCS Takes Over Best Buy's India GCC for AI Hub Transition",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXM5NHl4dWthelc1SjlNajRYRERkRlJrY2VsWS1hQzk0QURmekNBdjJ1VGhpWmVjenJjMm1tQ3RIQXhqTTdESVRoTU04VFByaHk4LTdWRTdqZ2pUN0gxUW1hc2ItQWZUQnkwLTl5MXVSaHlKUUxSeVVGd1hDV3NOU1N1bmNGNmRQLXNv?oc=5",
@@ -474,6 +542,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4c88c0788445ba8e",
+"title": "A three-year CEO term is approved at HDFC Bank (HDB) for a life insurance executive.",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGlIaWx1TjZkMFNadFJPbHRTN1lfaWhvenhDSk1ESHFXc3dYNWZ1YzNTNUFReEVsZzZQaWk2VzZoTXZ2dHFWTndKbUdGTkVxZ0JaSV9DZS12YTl6ckZPTjlKZFRtZFdkam1zSEFuR0lQdFUyOHJ0bFVZOUV1YW9TMFlfdng5ZXM3MlRnT2lEZE5tdFlLWXp6M1pncl80WnI3ajhOWWtFd0RfTS0w?oc=5",
+"source": "Stock Titan",
+"published": "2026-10-02T10:05:16+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -568,6 +654,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "109a9083b709c1a0",
+"title": "Hindalco Industries Limited ends US$125M AluChem deal",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWttLXI1TVR2d25JeUpGVmxTaGtqNWVmMkhMSGhzazJZYWc4NTh5cW03Q2pfZ2Y2MWpiVTJRM3VEVFBkd3pnTDFMZXRTSEdCcEtOT0NaaWVNa3VFR3Vkc1lYTTFCdzctbXpwZmZqV0JXUEFjVUdwRW54c2NNa0xkRlhFVUZzTHpKOWc?oc=5",
+"source": "Mugglehead Investment Magazine",
+"published": "2026-10-02T09:41:14+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "8592d45e0d0bb197",
 "title": "Hindalco calls off AluChem acquisition amid prolonged closing delays",
 "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDFReGpFMHR4NEtwWVpwRnA0bG9FckZjNVY3T3IyME9laWNodV9PLU5DbXdGazI1SThyRU82cFpzUUI0ZjBOeG5tQUxvTUczN2VENGExdmVmTWxlUU5jRFBMVFJZdGQyd0dFdHVpZGd6MnRZNFU4dE55RmhaOXdvVXBkMFQwdnB0cXMzTW5OLTRaZTJNQVduNHAtWDNPbjBVZ2dZMWZQZkZDbHhCYTF0Zi0ydTlGanBsQ0E5U2Utd2VnUjN6R1ZvaEtXdjhySU9W0gHXAUFVX3lxTFBwcHYtTHZHUWdYVlRrRmZwQk9aZkpkYVUzZ3lOTEZkRkVUVzVDelpodFVlMVUtck9MS3ZGMjE2XzZoYTZ1TnpZTVlJNEhqUllXU3JVSFlqZE1RSVVzY29iYVhrSHFOZDdnSXFGb3dlb1pKMFo4WWc4LWFpb1JHRXRkWHZKdXBfYVAzc1JST2xMREhHbFFnTWE4d1lDNGRVV090UnJNQlNHYXlXd2E5eTVsODMxUmV1M3lCX2pFV3o1WGQ5dEUxUi1VY1NQOVdsbGsyY1hHb0dB?oc=5",
@@ -653,6 +757,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5aac2c0f177814ff",
+"title": "Hindustan Zinc, Nalco, Vedanta, SAIL, Hindustan Copper, To Hindalco: Why Are Metal Stocks Falling Today?",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2lsNmdjV0FidjRkN3U4bzVhaTlBUzAzM3BuTl95aURvckZwYnJSS0liaXBIQ1JQMXRfQ2ZUbHFBcktiSzdwajZFOG5vZXMtUXhVdFlFekpLcFNyaWYteUpJaVNjS1Bxb19ycjJEX25vT1ViNjdtT2lXaWYteEhmUTRyZ1QyTHVsQWhsaWFCMS1zT2NiNjY2WDE1b1JwSmthT1gwLUNvV2pyQmtjaExRZFpNaHFNWUNWeTYxTUtJUVlUYlNvZkxpbjl5MmNlYXpoNUU4WGN3?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T09:18:36+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d1cb410c0ab8f345",
 "title": "Adani projects worth ₹2.6 trillion completed or underway in Maharashtra",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbnpFY0V6VzhvYUM2cGRkY2s5TWV6T1A0TDV2QzhZOEg1b2RzRUJBUG1DcWVRa0x6cUt6LXl2OG8xV1ZjaXZvdVZWSW1Sc3FfS2lqYWZNTEo3bGpRNUJ1ZWVTOUNDTkJlUGFGWFRlSnVZcFdtZDJFN2NKT3JwT2JoaEhuOThwM0oyUm5WLW1GRW9WNTRzYTFkSUtUc21oOV8taFAxRGVtUXQwbzhfOVo4dGxPckdoV2xNSGk5SVZFeE1uc0I5cEUxSFlpYjPSAdIBQVVfeXFMTlM3VTF4U3Rtc2NEd01zbDhnX0k1bmJGN2lHNWFtOThKTjZEYlEyUWFRUzNJejQ0TDhNNmpGZS1BbGE1aUkzeWY2ZjY0N3B5WkxDMU5BOUlaVmFPNE4tUzlieE9KUWVVQXZkeUFTbVZ5MXVBQVNRVzU5RWxyYjFOTGtPeDhUSEZVVG1MR3V1OWp6MTBlYkYwbkp3ZTItbTRORGpkdjUxUXZlUUNYZjZzLWVIRnlNOFBPbDRmdHVBOHpHanJ1ZU1SMkNCM3VUUFp1OHh3?oc=5",
@@ -675,6 +795,22 @@
 "source": "Livemint",
 "published": "2026-10-02T09:11:04+00:00",
 "first_seen": "2026-10-02T09:24:19+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "384be287282739a4",
+"title": "Adani Group Completes Rs 2.6 Lakh Cr Projects in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORktaWlZsY1ZETjZqaWtLZmRmZnhwWUhlZzFyeGNlcWpESVgwTnItS3NweDRMQU1QMzE2RWNEOTd6UEVXNU9NanJZX2x1RGFoV0hhNjdlZTVfbS11amhtVi1XaEtmMUNYZHA3Um5sMzk4T1hlWEtKeFc0cjczamxpTWpJLTJiZUg4TGstRkMwUWhCMXFiazNPX19ucXZIcnFUbGo3YU00SmRiNUpFQXhZQmVrZ21HaDDSAbcBQVVfeXFMTkZLWlpWbGNWRE42amlrS2ZkZmZ4cFlIZWcxcnhjZXFqRElYME5yLUtzcHg0TEFNUDMxNkVjRDk3elBFVzVPTWpyWV9sdURhaFdIYTY3ZWU1X20tdWpobVYtV2hLZjFDWGRwN1JubDM5OE9YZVhLSnhXNHI3M2psaU1qSS0yYmVIOExrLUZDMFFoQjFxYmszT19fbnF2SHJxVGxqN2FNNEpkYjVKRUF4WUJla2dtR2gw?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-10-02T09:09:10+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
 "symbols": [
 "ADANIENT"
 ],
@@ -740,6 +876,24 @@
 "sentiment": "positive"
 },
 {
+"id": "ced20fd14a734b26",
+"title": "HDFC Bank names Anup Bagchi as CEO, with shareholder approval pending",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLeXFtZXhod1BIVHZ2RWZnd3JnU0RKM1R4THJYUGE5Ym5XS1k2elJlZFFSNmxkSmRpMVJUQ0JBOV9sdG9WejZoS3ZZMkoxczMwWHRXWHdsV29hcWpTN2FWUTRqSmhWT3c2bXFZQ3ZSelYxM1BHS0ZFVmsyaEZGTUE?oc=5",
+"source": "iNews Zoombangla",
+"published": "2026-10-02T08:40:29+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "2b700dd70db352b9",
 "title": "IT stocks to buy, sell or hold before Q2 results: 9 picks from top brokerages — TCS, Infosys, Wipro & more",
 "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnRPQ29la2xzcFZjT2c3YVVOY3JsVmIza3U1WlUwNkJVdm5YVEx1MEt1WlZtUnpnUFBXMnFrUWFGNW9WVE9oQll0Mkx3M25Cb0FZRDNzUFRkVG56RERPSE5uVEVwZEpGT3l0dTI5NnNqZ3VxWjBCUzlFSlNyZzNTSm5XbjkwQlcxLUZWU1RneU9feW5iMWx3MTlzTlVxNkYxU3FLbVN1RmJTUjBvVFVZQ1ppWkV6LUJwYXBzdW5FM1pyMHc2RzZGOEJydWtheGppZ2RfLXBRNy1WNzNKaWdTS3F1YmxhcjV4?oc=5",
@@ -776,6 +930,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "9d2b0f8431274fe6",
+"title": "September 2026 EV sales: Kia overtakes Maruti Suzuki for fifth spot",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnpLSHdwYjBWWUxvbUtqNzV0UkZqc1Bpd05LOTQ0eXpEMXpFbzRYcHY2SjU4TlhFT1E5QktaNTZHYVRXNkxDYWVoTDhHS2RCOWlMNk42Q2MxYkZib21oeDBPdEtsWE1LT1U5RWQtR3FHWHJPRW03aGRzYi1GRjM3OFRldkZqeHF4S01hQ0J5dzZNM2JoZ194RW5oRDVWQ3pvQlN5NFZDVEZxX29DdEpFbmlLTllYUdIBtgFBVV95cUxOTnpLSHdwYjBWWUxvbUtqNzV0UkZqc1Bpd05LOTQ0eXpEMXpFbzRYcHY2SjU4TlhFT1E5QktaNTZHYVRXNkxDYWVoTDhHS2RCOWlMNk42Q2MxYkZib21oeDBPdEtsWE1LT1U5RWQtR3FHWHJPRW03aGRzYi1GRjM3OFRldkZqeHF4S01hQ0J5dzZNM2JoZ194RW5oRDVWQ3pvQlN5NFZDVEZxX29DdEpFbmlLTllYUQ?oc=5",
+"source": "Autocar India",
+"published": "2026-10-02T08:30:32+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -907,6 +1077,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "91a1992be16d1a12",
+"title": "Stocks to Watch Today, July 10: TCS, NALCO, Anand Rathi Wealth, GM Breweries & More in Focus",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVZwb2JSekpNYlZNanlWZjlrTUFreFI0aWVzenByaXc5a0ppc3RfU216ZGZKWklmQXBCbWZqVGp5bFg2OU5leWFLVnJGSFlIc2QzSlpCSVhqZU05QS1ta0N2dGNyaWtLTlRmNVdsMGtyUGJwQ21KOEdvZXBtQlJjVmhWS1Z6MkxMOElrcEVQNDBYd0xvSnYwZ2lLMWQ3dGh6Z3FlaTczMXZTdUl5eV96dWV0U09PU2VnQW5OUGE1VHBveVk4a2hIS1NNa2c3OUsyNnhzUkpfRFlpdw?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T08:04:58+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1284,6 +1470,24 @@
 "source": "Babushahi.com",
 "published": "2026-10-02T07:12:00+00:00",
 "first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6666acb21b0da5d1",
+"title": "HDFC Bank gets new MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZV9jT0d6RGRVQlNsdWwxZEJzalRMN0pmMHM5MVVyY1F3ZVlUcGJLeFhiUmliMnQtSjRMMF9TLXdvZmNmaW5IbkpvSUdodklFdWdadVdIUmpMam9JaGJxMkFQNmVUX3lUWE85dDNRQ1ktMW5GTXdIVWxPNzA0X3BmYnlfZzVZc2pxM1pGcHhwMA?oc=5",
+"source": "Babushahi.com",
+"published": "2026-10-02T07:12:00+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -1865,6 +2069,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "06432c45da685a2f",
+"title": "Adani Group’s Rs 6 Lakh Crore Maharashtra Plan: What Comes Next",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWZrU0hTZHVnVkktc0k0Zzc0T3lIXzNsWG9QZTl3QUVaV2dOQVdJTTRueFl4Q28wVEg0dV9IMllqUlo4OENpTXpXWm9SbXF6a0ZJQlpXZGNxMXNwNGtMS21IT1NfSVlQd3cyaUNBOWpzbHBoX3k4Sk9MMGdtRFdmdzlVSzVjZ0Z0ampERU9WcFpvRmJkNE1qaEFMZEdfYlY1bjA1bXNXdlVJN3ZBUmYyOElWOHXSAboBQVVfeXFMTVVjNjByRzhoMndta05PUTlOUkVHTFhJZ1hieVJEY000d2pBTmxZUWRhOHlNMnRtZlBueGFndWk3Tm1ZVkx0WGVLNXBROFZnWlVvdHBidkxsLXhZVktfcGRCQlR1LXg1bXozMDJHTjFKZDBSYUpsTy1iMF82WEJXMmI1UmNZX2kzRGgwN2dMTUtabXQtNzJQTGJpQjJnZ25WeDVubE5jUFZ2Q1cxTXRKVGhvMGFWcl9aaGtn?oc=5",
+"source": "Newstrack English",
+"published": "2026-10-02T06:00:31+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "0ae67ab443408cd0",
@@ -3459,6 +3679,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ff5ffc7d1ae38347",
+"title": "Attention Investors with Major Losses in HDFC Bank Limited (HDB): Kahn Swick & Foti, LLC Highlights Legal Deadline for Class Action",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFEzU2FKcmNoazV6cGVwUHJxUm00WGptTnJzQi1wbF96bmxncDNGdWkzTm1uVVlRNDFycXpwV3IyR3RVSEZMaHFTV1dqQU5nU1Vkak8yVjY1V0F4d2FhZVNWYTRuckxraUs0T0RDYUVOLWp5azlucVd2OE15dmM5dVFWMXh6X2pFOF9WMGZMUGVZQ0Mxc3lTRUIwQnp6UEVmOGFIM1cxdGtfOWo2YkJGczByVUVobVdtTmVnOFVpdXN0RXpHVjltZWVHQ3NPUFIxUHMzWW4tanZSTnZvdi1MS3RlT2g?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-10-02T00:04:15+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6373,6 +6609,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "782045a1c2228882",
+"title": "Bharti Airtel (NSE:BHARTIARTL) Pays ₹3.53 Lakh Penalty Over Subscriber Verification Norms",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekp5ZUJmSzV0OXRGMjlYNzVUdEswMi11WThlRlZ6MU40M2ZPSFVpejlqYnJKOGczRWsxeHcwZXl4UXFDbkNJVXIyUUhuVml3Q09ESjJwak0wdXp5LVJEbWFLTVZXbVpqVUt3NTl2X2g0RkkyaVloMGUwUVd5X3JkR3FncE1uY1lEcjNZZ0JSUGZEOWZLYU44UjFDemotblFycWpRREcyZlFFMGpvM01sV290Y1FkdUFFM0tFSGdqbnFSanU5RVlRNVAyMks?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-01T14:28:00+00:00",
+"first_seen": "2026-10-02T10:39:34+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
 },
 {
 "id": "8732697683a27a8d",
@@ -50643,250 +50897,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "5fae0842e112249d",
-"title": "Bajaj Finance slides Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWdGbG5UZmppaE9RczBtWUl5SDB3a3ZCR2J3bVFmSGN5dzBzenlqZ2s0XzcxUk80UlhYTWhlTFUxYXJiNjJzSjkzQml6NXc5MFJuTXhmSTJPRkUyRWJIX1o3QXFCMmVFQjhhckZ2YlVwcTQtZ1E1eldVWHZpaVU2dVdqWEg4RlMxVEtSbmFvTXlZMDliOU51OVRWeUNQYXFHLUNPeTdtYWZyc1M5N0I3SFI4Vy1GTDhNemIyN3VZT0puOUIycTdQZGxB?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5a55e5101d999645",
-"title": "Tata Steel slides Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm42WVpEQmYyOTRQUWc5S2lzNVYzdnE2Tl9XMmxTdnp6ZTZIa2d3WHJuZXF1cXJBVGEtN1BQOHJnUkt4bF91a1BhQjBNS0VoU0hyYUZ0UzBabzQtQWhpSEd5M01pb3ZmRFZmdlBoSUZETWVPUUxLd1hyV05HcHlmOFlPRjRjVDlrR20zRDRVU1RubDhxai1lWU9McWlzQkc5NjdoQjRiMWc?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-29T07:31:04+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "68f596a23df4aa77",
-"title": "State Bank of India slides Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmFKSU1ZM0NVOFZiaThXSktYdTlZR3VEZXhNMHpya0pUN3BGYWxaU1hPZFE1SXhTWmlmaHpkQmVRUV9rcFZtWWdyLWVOYlpySTV6Q0hLbmMxSHBWaGxOc2ZNQ2NHaUJCNDVvQS05Q1ViZ3U1c0RQV0xMN2FJalNqd1VpYTN2ZDBmVkZJeEJyZVVEeWpIRWRTS1cwWkMzQm90SGMzNnVFZGZ3dHdfblh4Nk14ay1aN3ZablFqaDhIc0pNZGFGQVI3Y2dfNVVEZw?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-29T07:59:37+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "11af2ca9fb4e0104",
-"title": "Dr. Reddy's Laboratories advances Monday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEtYYll3bnJwck1XYnE2SDJWZWdhbnNWNmNwSExMNmRXakJ6RTRTWDVxeEU0ODdJUDBSbFpuOFFZaGpIYXNZVTFJRzZxZVBqUlVNc0xlV0RZLTVHbEtleVRlNFpYLUVuYTNrWDZlQVR3NFZNZXlFWkMtVVNLRkxlb3hDSk5fVGowNUhVLUFoczRfZG5zRU5RbmJ2RjRXZDROZndfN2xGcnRvMktJNUpBRzFnVUVxellqMkc0?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "1acd2a1f6245febd",
-"title": "Airtel's AI-powered cybersecurity tech blocked 1.42 million malicious links in spam messages in India",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY0RqdF9fWjhTS1hwRDVyUEJ6SXFNVHlFZlIwVjEtTG94MHB6WGozSE5GeXFwTlNjVzVadERsZEg3eWFtVUVNa2FRYUVFNGNrbmpJR2txejFsZ3F5dGViNVlobXlLTG9TcjZxSURsTDlaUkFtak1pNWlkRE1jaEZPVHl1dlBSQXRsQjhxS1hfYmZienNrV1RhOE9pTjJyNmd5dGpURDlkRkc0VTQ1b3VtX3hnUFFVa29BbGlFeGZEU3FPRzNLUlkzSjY3RVdPZ05GdW5TdW1seDVJN255Y0lUMQ?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-28T10:21:45+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "128bfc2db779d39f",
-"title": "Airtel's AI-powered cybersecurity tech blocked 1.62 million malicious links in spam messages in India",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWEVjRF83bWpwYU91OFVzQTVUNmpvZ3dLMXg5RUF1TEUzRngyQnZWcW9renJuYl8tc1cweDVsajk2R0xBVUxVNXh0X0dDaTFoakhjNmtqSVNVb0VnMWdJSTh6aVdUUGdWcGFwcHByZm9CU2QtTi1JX0lPUXZMSGs5QWMzaEJsVlM5V3pwQ00xcUdSVmNQY3NlTjlER1Y0ME1oNUVWYk9FZVQ5eGh6ekdTdzFYSFJ0b3licEJwNzd6NzhMcWpfYV9oMkx5N3pnVGxrcUx2NHFCNkwtM2ozeEtDZFFTZFRadm9uTlRYXzBnUE8?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-28T10:21:00+00:00",
-"first_seen": "2026-09-29T09:23:07+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5c08a3a2ad702294",
-"title": "HDFC Bank Share Price: Why Jefferies sees up to 30% upside despite 27% crash this year",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXNCVlJkb1hJbHpxODdUekhTUE5RZ1lCQlRPM0tpMUJ5cXJGR2tpZUtOUWVPcXBDMUFaQ213UWN6U1FqeEJjbDF0enJyRjhiMG1iUFVLQUJYS3B6N0FQY3ZneUJBWmVfQnhMcE0zTUxpV1JTM0ZjLUhGbU1FUU1qb2dETzZhYXJ5RmtTbUgxNzFQMmkzRzA2QmxneXQ5dkdnX0Y4bEhwSUJnQVJLMjgxUzJzXy15T0oxTGVRc2NwczFPSWZkY0tGWEdB?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T10:20:23+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "744667ab75d5c712",
-"title": "India should enhance power grid capacities, dynamic congestion management: Ficci-Nangia report",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2pzeUd0WlhrRnNSREVrM0FuN3I3TGxWOHVlOXVDdVRtdVJsZ2RmVjNRS1liVV9MckpfM3liWE9Lc3lqdDloVnFfMTdnY2s3VF94VGcyN0tiODhzZ0ptRGlSU0QySGlRQ3RkdFpmczlaUTRNN0otRmdiWk1rcnp3dnNfWGtfN3hzSXZkS2NIYXlKZTBwMld6YmxCRDhiR0ZSa3NqOTczYVQ0OVZHX0UzRE9aTllxbXc2eUEwdkNZTGE3OWxsODlVYVFIT2NkN0pHTTA2Y3lTakFiRnMxZUFWUkVzQ1h5MDFWNWpmTHltNTJCVXZCYmtrYmhacU7SAYICQVVfeXFMTTVNa01tR3NXYU4tc2dkQ2RTSHphSG9WQ01wODNUc19fTEppNVdZUmtDamhKU2N4Q1doT1BCcnB6Q0xSM2x0MmotbE1WMGN2cm9ZMnRoRnU3NmtidjJwSlhubUk0QzQ4clB4SnpmNEwwazY4cTRhUlVkMzBEQ250UDY2bjRTcnVfRnJqc2h4eVB4N0Y1eDV0NXFNcmxyOXAzMmI1WkY1aUdRaEROQks4c1UydTJzWENTaE1LSjFnS2NVWlVUNzd0SGZlSnR2a2JXYl9OY3hzT09JdUVhLUJVMWYzRFpZU2hSMUc5cDFicTAzeE93empPRHhRMmlVMHdwZFVR?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T10:19:35+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "191e94a2436d28d4",
-"title": "Tata Steel has received Odisha state-level approval to establish a 7 m",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUd5bmxQcHBaVGRrVFU0S3lUREF2T1c5RkdpSlhHckpxWmhPYVF1enpEM1o1M1Jsazg3REJocTBrXzRjSl96c1BodnJabEdzNjE0UWtJS2dUZDBmODUwSUk1UktGeEJ0Z1NlajIzVUxvaklEenBfdVBpUWpkUUhXY2ItWnN4NFU4NGNhblRTNE51TkdrYUZyQVRpWUwxQkU1UW1jaXlub1hkWnVjVkhjQVR6YWN6SWR0a1RNYVJyNXRqTF9hQzJWaFdOU2dZdVpzRnpkSEd2MA?oc=5",
-"source": "Shanghai Metals Market",
-"published": "2026-09-28T10:17:00+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "205bdc7d7d485c99",
-"title": "'I wish scientists were mobbed in this country': Eternal's Deepinder Goyal introduces Temple researchers",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1lvemN5N1JNclBJaGNNanpQTkJLMS1xc2p4RjVueDRBZzBqdjB3WC1yZ0FvTXV3anhJdjkycmVJSzZsdjhOTzJWLXB5bmhVN3pZRkxjQ2ZYNUNaelJFeGVsMkpBcFRGMGI4b0FMeldONzhVRFdIX0hHZVlOWngyUElQLW5OYnpxZC1zY2FzRDlqXzFqN1JVNENGdl9Bb3NlMVZhS0FoZUsxNnlwVW5KUEV3ZGRKV0dnOWRBU3FuSk5aR0NQQlJGOFl5UlRpajQxaEgyWEYwS05ORUJxbHdUY1B3OXpLRmI0YjdLLV9YeGtCUdIB8gFBVV95cUxPQ1lvemN5N1JNclBJaGNNanpQTkJLMS1xc2p4RjVueDRBZzBqdjB3WC1yZ0FvTXV3anhJdjkycmVJSzZsdjhOTzJWLXB5bmhVN3pZRkxjQ2ZYNUNaelJFeGVsMkpBcFRGMGI4b0FMeldONzhVRFdIX0hHZVlOWngyUElQLW5OYnpxZC1zY2FzRDlqXzFqN1JVNENGdl9Bb3NlMVZhS0FoZUsxNnlwVW5KUEV3ZGRKV0dnOWRBU3FuSk5aR0NQQlJGOFl5UlRpajQxaEgyWEYwS05ORUJxbHdUY1B3OXpLRmI0YjdLLV9YeGtCUQ?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T10:15:09+00:00",
-"first_seen": "2026-09-28T10:58:29+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e0308efd9fb8307f",
-"title": "Tata Motors expects over 7.5 lakh annual sales, launches Aries sedan at ₹5.29 lakh",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMTc4N3FIblY0c2hRbXZOd19xSnlMREVPSG4wcV9PUHA4aGNGMjMyR2hrZkRBcVNFUVBTcS1YYVhYaWlORlY4OGNUeU1tSnR2bUdnZEtjdjFqOEgtVDh0eEFUYUtreWx3QWxpc3RvQTAzaUYxZFd6ZEdDbEI4T25ieWpsTmRMYWhXQkswR3VEMkU2NDBkUXRNY0Q1Qm5OS0dQUWp6RDNBNThiZ0VMU1R4WEdhbjVQYWlJYm4yZTlHdFJSNzlOa3lid0FPSTVHSFVMaUNGaERCbUhNZzdpZjVIQWJOVnZwdGNSemY1WGx0a9IB9AFBVV95cUxNUUgwdEQtS3REdW44T3NGVDNJMGdla0JEcUNGblJRYjJEY053bHBvU2E3eVNSd0NJRE5nLWNKZTNUZDNreTdBSGkzbUxTXzJsUmszVEI0RFFaaC1lR1hySGVqOGhHaWN0VXAxNlAwZVFDNjduYkU1Njc2THhtbWY4YUp5MUxWUDg2OVczVGpPQXYzU19zejR2NWRkUFNPMWJrYlFocFZ2Q3l3UWZ5a2NpMmhKOHZHM091ZXEtUnh2RUVUOEdfa1cway1UeHBrMl9WRXBoVkFiWmtueXdnT1I1d2VCUldYM3lfaFlac3lOY3VQWnlX?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T10:14:34+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3d1e7c4d37b6da6f",
-"title": "ICRA Reaffirms Mahindra & Mahindra’s AAA Rating with Stable Outlook",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaktmTU8zV0dVbUtoWGV3Z3JUdHlrQlA5WTM5VjdFS202N2ZaMTBQNVExQ0pEMzI5czMzY3lQMXlmNGdxcFA4QlRtbVduazJyQmR1XzYyRExyTnBrWWc1TDZ5dnFWSHdra3lraGh5SXB6UzRYdUltT2w4U29aR0RIWHVyeDA0Y0RCakIydVBRWmN2a2JCYl9SZlVGRUdoVktF?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T10:13:00+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "neutral"
-},
-{
-"id": "aa985fde780796af",
-"title": "Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7%",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWnBaMVRueW5CRUJsMzRkQzhQUnZLWi1WcEJmVUp3aTNlNGxuX0JCMW1odkpyX0lUTHFjMzc5OWZEOWN5TEtLbnVwRUVZTC1Ca1FIRG1zOURrNjVtOW1NaDhsbm1yYWVwZUd2VFNZeGZQWVFzVjYtUjdmWUpvWDNVd3lLeXpfUXR5Zkp0SmRyOUtGTVNJblJadWJiaVdESUxVUWdhcVR6cExkSTk3d3F0QlNPcUpjQ1JDcDFMS1JseWFLWk12cDRhbVpqdC1FVzFaNVo2NXlUUVEzMWRXeEJvYUlwVERFNm9qckw1RmgyU3FZbDNaY201MHBMaEtoQ29SVmlRZTZTSEpFRlk?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T10:10:43+00:00",
-"first_seen": "2026-09-28T10:12:49+00:00",
-"symbols": [
-"ADANIENT",
-"JIOFIN"
-],
-"groups": [
-"Adani",
-"Reliance"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "d7d07122df361e56",
-"title": "Bharti Airtel stock gets a higher INR 2,180 analyst target",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekVNMlRLS3FDbnY1ZVN6bzZUVFdHRVNkeUNfQkV5QVFBZUlWNnpNdXhYMDVnXzYxVDI2cDhCcGlacHI3TktxSE1raWRpdkFVZTZ3T3FDUkltc28wQ1M0ZWtOQ1NKYU0yYmt4Mm9uaVNubUUtMk9MeG1RemU2OW1IMlM2SVhjUkM5NDdIWm9sTFVCSVEyXzMtbFlXUEZoaktpd05zb0NWR1lyNnZtaWVxeTRXWjdrUm16Y2o1c0J3?oc=5",
-"source": "ad-hoc-news.de",
-"published": "2026-09-28T10:09:43+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "447bab7306fac713",
-"title": "Lilly widens lead over Sun Pharma in anti-baldness contest with paediatric approval",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV1pvc3h5MlJCQ1NJdzNkTHZKQ0s3M1B3M0V6R0NNcHVKVnpxSEdpZUJDNzlmV2NvTEp6WlJxQ0poZmd1VEFYX1ZJcWNZN2JhUk1MOFVCOE9vc2EySk5Nd1dJTndTSmJUVlVoQUd0QjdNX1l6d25Ea3AzUkxwTS04endiLXlOWnp4M1RtZHgxYzRMN01LQ2FQb2hHOFdXTEk4QnJXeDVwWWJHUTB2MHdya1o3V19fSWY0QTc2TUxzMEhuajBEejlnVmlkbUdMb2lmSGthbkVCUzRZLWVZX2NUcnhWV2NUZnA5MWpfaldKQVIxemhRTDlTcjhHNk5sNmphMVZ6U9IBhAJBVV95cUxPV1pvc3h5MlJCQ1NJdzNkTHZKQ0s3M1B3M0V6R0NNcHVKVnpxSEdpZUJDNzlmV2NvTEp6WlJxQ0poZmd1VEFYX1ZJcWNZN2JhUk1MOFVCOE9vc2EySk5Nd1dJTndTSmJUVlVoQUd0QjdNX1l6d25Ea3AzUkxwTS04endiLXlOWnp4M1RtZHgxYzRMN01LQ2FQb2hHOFdXTEk4QnJXeDVwWWJHUTB2MHdya1o3V19fSWY0QTc2TUxzMEhuajBEejlnVmlkbUdMb2lmSGthbkVCUzRZLWVZX2NUcnhWV2NUZnA5MWpfaldKQVIxemhRTDlTcjhHNk5sNmphMVZ6Uw?oc=5",
-"source": "ETPharma.com",
-"published": "2026-09-28T10:08:11+00:00",
-"first_seen": "2026-09-28T13:52:52+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
