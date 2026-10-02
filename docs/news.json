@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T15:38:35+00:00",
+"updated": "2026-10-02T15:59:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "31abe035aa198c4b",
+"title": "Airtel Money sets London IPO price at discount to expected valuation",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlBKamdpNkFnV0xkV3NxQ0tEeGZ1ZnpRWVFybDZNU3JNcGNFU3VmUHhxekpHdkZVSWhsaWZLWjhmODZINzJzRnR0RlZoN0szdFJJSWU0Y3ZRQmMxX3ZwUEpBU0lyUElxU0Y5a2VGU2pIUjFKcmpocHAzMllKTjZsUDVFRzJoSEwwUzhFcW9XZ24zTExrMTNTX0cxbm0?oc=5",
+"source": "EasternEye",
+"published": "2026-10-02T15:42:42+00:00",
+"first_seen": "2026-10-02T15:59:15+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b31bde43b3e57be0",
+"title": "Bajaj Finance Board Approves Mega Capital Raise of Up to Rs 17,500 Crore via QIP and Preferential Warrant Issue",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SV1RRWnRRZEtZLTItd1NqSXNLdmlGU0IzTHBGckgyNXVTdEVyQjZaSjdiZkxnMndqUkgzcUk3dzF1WFdGWk02blRmWWlfNjhyenJINC1WTzMzaHNYUGU4?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T15:41:04+00:00",
+"first_seen": "2026-10-02T15:59:15+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "a0839b7c48e4df55",
 "title": "Laser Power & Infra Secures Landmark Rs 72.77 Crore Order from Power Grid Corporation for HTLS Conductors",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vWGdzSkY3dl9XcENuWFREdHdYVzAxd25aMHdqN0VqT0tUMVdYN3ZsOXA2LU9Db2hRTE1rRjhtMkFKUGdEYjFWS3R2NVhZRi1PQXYyTm1XMGdKTWJWZGNV?oc=5",
@@ -461,6 +497,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "c125759ef0136d14",
+"title": "RIL plans ₹1 trn investment to set up CBG projects in Andhra Pradesh",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0ZTdTRGdm51WTNaaldrRzdXcGNpVm1zaGtqQWY3SWxTRk9HUm1XZ1VNb0tRNk9DQkFRT2dDNVBHR0NoSHE3c3NkYnJ1OVdlUHJOTlZiMFU1eGw3WHZwZU0xelYwa1NheURrRzNGTkhtclU5NkVKOENQX2dPenRBWGFVVmtVdTlQMElnWXV5RlZ4RnBuU0x3UXlaYXB2ejhWdGN3NTd2QTJ3QWFaR25CLVZZSTdQZFJveUdOeGNDcW5UeGhmbWJhZmRUNHBIWnFu0gHWAUFVX3lxTFBselVSRWFqWWkxNVIxOE81cDlMZ0RTRkhkVkU4NWtEYVloRHZkcmNnU3I4OUo2UUxPR3lOcXhIcXJZcmYxdS1xWHdHZ3dZVXpSVDRteW80U1RYQm5QODBoSGlqcE1GRWJrenhOZDlhRHlxcU9nTUhGZFpWa013UGVTek9CTjdmREl5Vjk0ZWV1bjNNUk9wR3pjS1M2RllXNmtnWXpRbEtTdG54SVNEUmpjRDluNDFEbVJ4VlpiVWxuTXBnaDQzRjY0eF9HM1MtaGlscVV1dGc?oc=5",
+"source": "Business Standard",
+"published": "2026-10-02T15:30:51+00:00",
+"first_seen": "2026-10-02T15:59:15+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "2c06e2a135fe0e1a",
@@ -1504,6 +1556,22 @@
 "source": "facebook.com",
 "published": "2026-10-02T12:39:31+00:00",
 "first_seen": "2026-10-02T12:52:44+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "19f7d32af5328ac6",
+"title": "\"A son of Andhra\" A request from the heart to Andhra Pradesh. 🙏 At the Indian School of Agriculture foundation stone laying ceremony in Madanapalle, Shri Anant Ambani, Executive Director, Reliance Industries Limited, asks Hon'ble CM Shri Chandrababu Na",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzNibmxoYU16OGJ6d0EzZTJhWjMzS2wzOTRMUGZabmFTWC1TX1pxMDExT3pUZXN0bWM4bWRDeVM4bm5ZR3J0UWJ5YWZObXZZSlk2UEJIUENyYTZXVjYtX19uODUtczh0blhCa3dZMlpiYzM0Z0RxTGdTZlpMZU5IVDJGX0VyWi1YNDJSUm1oX1VBS2FqbUNnVDdJWXNQRmZUeUFJRmlJRktENGZjM0xrdDNXaGM1cEZGeWlzbEI3ck43alNxYkF6YWExMHZMaFRnY3NtX3Z6LUZPV0o4eUgzcDVYYWFoaDNVTi1FWQ?oc=5",
+"source": "facebook.com",
+"published": "2026-10-02T12:33:36+00:00",
+"first_seen": "2026-10-02T15:59:15+00:00",
 "symbols": [
 "RELIANCE"
 ],
@@ -50892,75 +50960,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "ca603e943353c3cc",
-"title": "JSW Steel Q2 Results: Date, Dividend, Share Price, Earnings Call Schedule And More",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVNzcUgyT1NNaGdoVzc3eENyWk12b3VJaThEQzRtYlU1RlF3cDcyTmpxME80NmxzTXdZb0ZLcHFVNF93ZGJGX3l4RTJjYkoyS0gydWdVZlF4QlFPbHA1a3VjRUlzLUhmMU42RDZzaTZsRS1VeklxXzlBWVZIemQ4d3QwVEFYQkZOWkhRcEs4LU5tQVljLVlSZ0w3RTdldDhhRWdHMjN3a0hEYUpMSldzUWs4MExCMG03SVlBcFZvY9IBxwFBVV95cUxQbUNseVlxLVJ1eHdkX1htemt6a21PMXhxYWZDanhBdzZkYThrMjRWb3Z4bmtXZDFIandPR0F1cldVR28zdjJBZGZFbG5BSHJqNTZ5OW56LXVGaFpTSlIzYlBrLUJBd2hIV01XSUNjXzAyTnZhUkJUYVJNMGMtYjE2QUY2bU1BaHNheXhweUEyR24ta3l2MkpIVFB1cDhVZE10NGRVbTgxVHh1LVBoaWt3WDRXUlBlTEV1eDBMLUswaU03Z1JhUlVj?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T15:06:21+00:00",
-"first_seen": "2026-09-28T15:22:08+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [
-"Results",
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "db28621d8174bc6a",
-"title": "Axis Bank updates contact details of authorized officers for material disclosures",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEd4OWtUc2ZER2R0a3FYVjJ2c0NEdHZWQWoxZ242aXlQdUZELW1Zd2tEOFhJeDQ0NVEyZGJTTVlsVmxzLUVULVRXNlZpcVBKc093RTYtdUlRQ0pNOTM3ZDJlMVVlQWltNnltdEtmbVU0d0VvMUVlSTlqN1hacnJ0NDk5YzlxaEVjdmM0TFpJMUJsOXlfMXpCelQ5MlpTZkJQRFhxLW9xbWpISnB3Z0xvTEZrdzRRMjFxMGkw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T15:05:26+00:00",
-"first_seen": "2026-09-28T15:22:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b33260d3a970ea9c",
-"title": "Top Solar Companies in India in 2026: Adani, NTPC, ReNew, Tata Power, JSW, Avaada and ACME",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3VZbnRhdnNyOFZVNWh6cmt2T19YSG1nT0NadDBUQmI1QzA3RnNuYjQwV2lQRHBzVW53V0RhV0FuWFhPUWhpbnB6OV96cFN5QnNVLU5HQ05zay1vOFhJZ1Q4bmhuWjVlWmM4RlhLWDdlRGdVLUs4X3hTdWUzQlNYZzJtQ2xtY3JZWmhTZ2VfVnV2b3N0V01uMERmWlFtVFVVQjUtYjNjOTRUZXpkMjBCQkE2cDJnX1hldzhUMUEtaw?oc=5",
-"source": "GreentechLead",
-"published": "2026-09-28T15:00:25+00:00",
-"first_seen": "2026-09-28T23:44:53+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6a4b1ffbcafc47ef",
-"title": "Landmark Cars Expands Footprint with BYD and Mahindra & Mahindra",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUTR2SEFPa0ZIZlBvYzlrckhKdzVBcGN1aEFtbVJJWXBVSlFYdGxDMzAtWU9vNlZoZnFaQWVyc1MxSWN1aE9lR3hOYzFjM2dBR2MzZDN3bXJZZUwwWUtr?oc=5",
-"source": "EquityBulls",
-"published": "2026-09-28T15:00:18+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
