@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T00:27:32+00:00",
+"updated": "2026-10-02T00:51:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "80ee7dfb87fc720f",
+"title": "Apple Pay in India: Why Axis Bank made the cut before HDFC, ICICI and SBI Card",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUJtbmpFdG9NV28tcFh2ZkZwVWRmaDNfOVZNNTB6aWpOT0c0bC1TbklsVjIwWDV3TjVxdHd2bjFCaVlxby1tcmpjXzRYV3NFdU5zVWNlbjI3bjBvODRsX3hMeTY0UFdOREZ4NzNycjdrV2dRQ0MwR1dPS1RlN3NzNktGN0VQUTNLQmZ1UWdYelBXTVBkSFBlVUJkZkhGcFNNM1FaX196LWxmN3FrNEtNd1A3X0NzbWtnWVpIbHRCSWRTXzhOdGZTSVFBVVhwRXg3ODdOaUNFdWctME1rakRnVEFn0gHnAUFVX3lxTFA2cUMwSEtiUWNsNVY5aDltTGRqT0Y0THk2N2g4YjRhUmRwemNiX0tvMXoxekZObmN6MXlhbnBmMGw4a194amFoZWdENGhiX0FsU0hUZEszSkhRbGdGTkV5MFdFUjdSMHVfdnkxbmZrTV8xczIyVF9zQk10VjJVQ2pJbFRPX202WTNQNEZMT1U1eEZMTFpOTkw1N1dvc09IM1cyZ2pfNDZHa2lSYkM3aHppZDdRR3p2eTNIMmpSWWdmR3ROTDNMTjFUQXoxU052b3A1c2J1SXJ2c2NfMmthRXc5SnczbWRzZw?oc=5",
+"source": "Business Today",
+"published": "2026-10-02T00:30:33+00:00",
+"first_seen": "2026-10-02T00:51:35+00:00",
+"symbols": [
+"AXISBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"SBI"
+],
+"tags": [],
+"sentiment": "negative"
+},
 {
 "id": "a8d2ffe18b8ecc68",
 "title": "Jefferies sets INR 1,260 target for Tech Mahindra stock",
@@ -50747,22 +50765,6 @@
 "source": "Business Standard",
 "published": "2026-09-28T03:34:35+00:00",
 "first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9fda8e1e18c4a0c0",
-"title": "Sun Pharma Gets Global Ex-US and China Rights to Lerodalcibep from Lib Therapeutics",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2oyUnlSb21TdGQ4ODdjSGZjaEtrbUlRUElhVGV1bDlHUVVmTjBZNXdOTFdhN21PQ0dCTE9ncmUtSEdpZE15MzNZcWdjUGxyVmpfSm1mZ0xhVjhZTHZhb0w5WHR1VlpERVN4ZkVkVUlyZmt0eDhtcENFNFhYeFhKVmVmQ0pVajRVQzhPTkpYZkdBZWxCaUJiZ2gwaFlqY1QzNzhDR3pjNzlJcVM3c0E?oc=5",
-"source": "Sahi",
-"published": "2026-09-28T03:33:42+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
 "symbols": [
 "SUNPHARMA"
 ],
