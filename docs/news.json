@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T06:00:14+00:00",
+"updated": "2026-10-02T06:23:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,73 @@
 ],
 "items": [
 {
+"id": "a2e4b137d46a0c9d",
+"title": "Bajaj Finance to raise Rs 17,500 cr via QIP, pref issue",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWVOcXVkaXA3azBNVTAxcGRxb09QMTItOFdCblBxZl95VjlXUWc3Q1E2ZlVsYXluZDY1bFUwakFpVVFIcFpoMkFTYi04dUlMcXJieG9CVEZMbmM2RWVOOEFaZkJSeWJDUnFza3hqTWdMV0pHajZKenJwbW1VejBRN3huTEs5TTdRakI4dU9oQUVxZkJqMlNXa0JaZ0JuNjFFbV9MVVlzZXpRSW14bl9pRHhuU2xvbThFcGtSTmozTnBwd25TY2pXTnRWa1VkVXZkbWfSAcsBQVVfeXFMT25ZNHpvWXN5YkdYel9HZzhSUUJWNVZ1NHNSTmNwUER4QzlpQnNzSGx5b2lrd2JIZjF0X1ZtaXlHQldpOUFKNkJ5NmxTRHlyaTNtR3pEYUZHczRPNnRDaFYxTl9ST3N1cXRGUzc5c21tNEl2WjVlRWFNSTgxQ3VYWTk0V185VWZNUXhhM3k3cVFXSlFWOXpHX2ZoUVIteUJfaXRFbk9uY1ZNLTZaa1BRREFMWW52bHR4ekhQSktKZ1FEOHBBMmJ2X0d1TDg?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T06:05:44+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fddf6a260c09a740",
+"title": "Infosys, Wipro ADRs rally as Accenture outlook lifts sentiment, Fed rate hike bets fade",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVU1tUlFUaFptTzBGU0RLdXNCN3lIS2JZdWptT2lvcWdxelBqUm5BVmxrOThMeHI0dm9Sc0dFLVhpQy00NXJsaU1xY09qeGUtWExLRUlobjZ0VGpCUVJlc1h3ZXFJUG55UDZ1Qm5GZ1JxNDg5ckRHWU1mM2tpdGxiVmFmdWtTYWR0enpVMDFkV1phV2lURFczcjJUQ3lrbmpkMnFaaDFYWTRoMDBEUmVtWDNFd29WVU9KblR2SzRtbEJrYkNxV3BZQtIB1gFBVV95cUxOUzBrQ0xKNF9lb0lYOXhuR2lCYVBHNEpKRjRQMkNjRFR3c2ZUak4xalh6eUstbGpNcDRmZFdtMm50VFBNUUNuVGxkVVFDd0p3NlMyV1RIR3hoLXdlTERub014a1N6N0x3R1BUemZmTUQxaXo5eE81SWtYOTNYMzloelhHa3M1M2JSdlp5NnpxdTdYOUowZnRIYXdyNy04NnpSLVhRcXhQMmE5U3dNMnNFYU9LZVZxQ0JIQUp2cTdHNmdGWW10ckRXNlFxUG5aTHd2VnlTeWx3?oc=5",
+"source": "Fortune India",
+"published": "2026-10-02T06:03:16+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "efd377ab8dcf4058",
+"title": "Hindalco aims to kick-start an alumina pricing revolution: Andy Home",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnAyLXpydW1aSEZiVWdvNzZoSVFKdFlfbGlWOHVKRWtjRnpGUllTNXJaUlJtaUtvQlJUU1JYZFU4VnRUcmN1ZUkwaEVQWHp4QTl1cF9BVmNjXzRCT2c2MlpnMFM2RDJtLUJ3RzBBeXFIeFJEam5MS1F6ZGNPLTYzUGtYTzQ4Y1BTY3QtNlBLb0tpMWtPbndOd1BEUlZaUWw4a1FyNDNnZDBIVmFaM0tRcDZlMHUzcXd3RDIxbHc1bHZtY1VISjdvOHBPZHVtRWpyN0s0?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T06:00:00+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "63554b7d6bc56164",
+"title": "APSEZ operational performance update shows growth in cargo and logistics performance",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb2tzYmxfTVlEUGVIMGVCS3ViSTNVaEFIbWNlMGVqMnRxSkc0bHZCSWV0SDZXX0VRbHlhVFd0Y1Fia0Noa0c1RGU1bW44ZzZwZHEySXVMeS1ucHRqUnhtbXRySGRDems2VTU0bjF6UTVKR3YtT3hOVEtLbUVXMmZDbmhTLUdzMTN4cmV5NnZadkRmQ09XTkxLeFBqSEZzQVhwdmNoa0REM1Z3RldrVTdLcGtXSG9tWHpVakx1Z3RKend5RG5mMDduSWtuWVVjMm0zTWZ1T001LTZyazBuV3dPY1pobE8tc0lBcHVwRGw3aHZKX1AzekNsc21hSjMySVRGZmdWd0N3T3pNa1FZSDQyYQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T05:55:37+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "45a835f1cb7d7c2d",
 "title": "Coal India shares | Nuvama upgrades to Buy, hikes target price on higher e-auction premium",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ25vTDNNYzF3dzRQOGRWdDVkYUM3aEFQb1NnUkF5ejVLSFNPdDBoZ01OYjV3U0tvV0FkY3BXWG85VFVxNFB3WXpEUDlHYUIwZmNDLVVtYVR5NlktY0NnYjVyb1lvcHNvSVJjNnlnR3hRMWNNTGhxLUlqY3JLNkhLdFBSVnFNUGVsWUZ0NDdiWFdhMVBSV1hiUENfcWxnUWJmckdlbmdhbzBicllTNTVYbENsVmdFMDYwU0taQ0xRZXI1X3huQ2xJX1BkWDU4SmdyTl8tV200Q0RlRlVtLWQ1T3YyZ1pWNExGbWFjVEZ30gHzAUFVX3lxTFBOYmxmcFlIN0pLeUIyNFNac1U0RndiMmpxQzl2VVMxdGwzT3l0Y0dYc2R1R2h5MFFGLUtqeUpTYXZBUUpiaFdvenZSaDNkSTBpQ0l5T1hFU3RudVhMTE5rNEc5OTRvTEplUV9jUTA4Q3lEQmdsSXhHckdVbXJLbnhXMDBPajVVX2ZLbzZBZ0ZOaEVMNnVBOGFURXd3RnpxVzNfaWhEdjJaY0Nkb2Z2SnhHQWtnWUt4Y3BONEJZVGx6QUtxaERWTVBUMzlpSjUyUC1OZWFMV1pFc09hRkNfcGJmU0c3aE5NY0N6Ulk1VVRCeHRRTQ?oc=5",
@@ -461,6 +528,25 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "d2ffc55613c8446b",
+"title": "HDFC Bank appoints Anup Bagchi as new MD and CEO after RBI's approval",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWNKaG1yMXQyU2FlUHgwb0VRSXJMX1ZGRTRPQTJ2cG92SV9mcW81WTRJZ2FZLTRUcDl3eUh3ZFNZdHRCdlNXY2ZQVlNITDNtSTdGN2JGNkFnbDlMSkhVNzl2bHlLZ19CQ0w3bDZMOTB5MWwzY2FUYTJUc1JUVVZsQ3JjeWRhaEh6SnI4NU5lbGVDaFJTaTI5Ync0M0FtSHh4TlRPZUtyRV9uWmU2WUVkMWhnU2VYVGc2WXF5NzlhaXpkZEQ3T3VwQnVpa0xBVjg2SkHSAdIBQVVfeXFMTzljSmhtcjF0MlNhZVB4MG9FUUlyTF9WRkU0T0EydnBvdklfZnFvNVk0SWdhWS00VHA5d3lId2RTWXR0QnZTV2NmUFZTSEwzbUk3RjdiRjZBZ2w5TEpIVTc5dmx5S2dfQkNMN2w2TDkweTFsM2NhVGEyVHNSVFVWbENyY3lkYWhIekpyODVOZWxlQ2hSU2kyOWJ3NDNBbUh4eE5UT2VLckVfblplNllFZDFoZ1NlWFRnNllxeTc5YWl6ZGREN091cEJ1aWtMQVY4NkpB?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-02T05:49:00+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "29f2397fb754ddd6",
@@ -550,6 +636,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "03b750c51033c51c",
+"title": "ONGC’s big crude trigger: Kotak sees 54% upside as Brent stays above $100",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1FCMnJIS0J0d0ozakw0anlfaE9UOXFKM2dTU3d6aF9Gc1lPUE5TYTVrS0tpUzVXRGdCeFRzMjFnQTNaMWJmeGFrUS12NlFJNFV1Y1EzY1BwUE8zdmozci1vT3ZYS2FZZkEybmdNb1JhcWJ1ekFmSlJ4VUZwS2UzNzBGa3hyT0lLczVBcDJUTXRmeS1ock1SMkhVa2JIcXVZYmxDUmxUMUdwQjVBVzViWmJhVlNjakRYaEpRTmthd0nSAcABQVVfeXFMTU9RQjJySEtCdHdKM2pMNGp5X2hPVDlxSjNnU1N3emhfRnNZT1BOU2E1a0tLaVM1V0RnQnhUczIxZ0EzWjFiZnhha1EtdjZRSTRVdWNRM2NQcFBPM3ZqM3Itb092WEthWWZBMm5nTW9SYXFidXpBZkpSeFVGcEtlMzcwRmt4ck9JS3M1QXAyVE10ZnktaHJNUjJIVWtiSHF1WWJsQ1JsVDFHcEI1QVc1YlpiYVZTY2pEWGhKUU5rYXdJ?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T05:06:29+00:00",
+"first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50749,102 +50851,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "2af0a0a09515f6d6",
-"title": "Government Changes Recharge Rules: What Jio, Airtel & Vi Users Need to Know",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3BrSlBaX1g5UWRrWVdPRnRyM1pxZTJfcGJHQlQybjFwT3FMMTRWMkF0eWdxQm9MakNnUjhtV2VrT1BaaUd3cVFsd2dKeUtrWGVHalFfVEhlOXFTYXR3OEp3bXE4cU9XMjg1LWhNTzVBV2k4ZFczWFJxZ0pCQlhMaXhacE0zbzR1N083cnVBNVpodW5NaHprcjd4V2hrWVJjR1FrV1otQWxnbEtzVHhHaUR1bw?oc=5",
-"source": "The Hans India",
-"published": "2026-09-28T06:14:52+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "227c5a2ca8d793b8",
-"title": "Grapevine: Coal India unit, Prosus, Porter, Rapido, others in news",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWtHT1RFd2ZXN2pzN0JGSTA3cVd3a2pwUW9WcTNiREl0WVJ3Tk5XR1ZZcHE4NjhPUkxYTFJTSVcwY3RfNmpGNHNiX3p3OWk2S00yc2NNbzB4ZGZfQ0dUSDNNVERuaGZFZXMyWTJiNDRYbWpVX1lqVzBtYWgzdlBOcW5kWm1WT2kyVm51YTF6anhKNDYwcXc?oc=5",
-"source": "VCCircle",
-"published": "2026-09-28T06:13:22+00:00",
-"first_seen": "2026-09-28T07:20:22+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "66d3492a5f785804",
-"title": "Adani Group to Invest Rs. 1 tn in West Bengal by 2035",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnpQTjNHUkhrNVZSZC15ZWxxWHh3SVVvVVJUaVpqdFY4OTk2TjZMNGZFV3VCa0t3V2Y2elFuWS1BZnRkQ25RNzg2djgtNnVQSWtCQXpZcjdrWUlsT3BjazVhT0xkT1JSZTJ4V0ZmRUt4TzBRQk1uZ3RubVl1dnMwdnN1eGsxSV9nRDRENk1CRmQ4c2pNeFI5UERrYWc3YTI5ckpFQWsweXlSbl9MQnFfVnVvQmZGM1RJdmN6bU1XeGRUZVU?oc=5",
-"source": "Construction World India",
-"published": "2026-09-28T06:10:28+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5abfd47933295e4c",
-"title": "SBI Customers: No ATM Charges From Sept 28–30 | What You Need To Know",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2dPcXdscHNrNWFIOHhMY1c5ZjJaZWFGbFRRSUwxSndSblYtQlBlTGU0VjZOZFJ4Q0NtR3ZhNnBpTkw2ZEhldS01b0NJeUJjQUxiSm5QQnc2Mk02V0ozMXlVOFZOaE1oMF8wSFY4ZFVGZVd0RThpdE9UMXh3SHVJakdVeU1zYXJzdTRRZG5GOElhSHBnbUp5NFRSZ3lJR2Y0RnlFRjYzSjNIbHRma2dGdnVxODR0ZkloVlRmNXZpRTVpRmhLd1F3aFBkWQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T06:09:18+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c3a6e40f2496b331",
-"title": "Sun Pharma inks global licensing pact with LIB Therapeutics for cholesterol drug Lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2w2ZkVnTmpNMHc5OXIxNk9hZ09GeGxtalB4VzlTSEphSno1ZVR5eFJlMHFOb0dFd3p1by1vSjdTc0xCc0xQWDgyNlQ1MC1KSmRLV0M5NFUyYmhSVURWMnZ2a3JxMDNLY3JVNkdMem1ZVk5TT3ZHdl81d1FBREg1NF84QXM5Qmpub3REQjQwMlNBaV9tZEtxWFczcml6Y3lBeVk3eDVSanVsMktOMjVScnlzN2QyZ2hLYnQ3MFhWdndwNW1nTkZLMWFPQWhIbFRidmJvdTg2ajhvc0JSNWFaOGFodkpzNWZ6Tmg2TXpDUGV1QdIB-AFBVV95cUxPNzc0OHFxblh1YXlVN3daaDNmM3FzenNjcFdsdElFTHpCblZaa2ZRX1Z6bnowYWpBcHFTdGJXV1Y5OWJwWUFnOU0xQzc3aG5VV3JMU2NZOE4tZlMtNWw3Xy1xT052cDJvSnUtVFZLVlpwWkpUWlV0UXdZaG93ZzV4Nm1zYU9fMmNrVGlOVnZ2MlZBNFh6Y3lDLWEyMFBUVXo4d2tWV0dMbWNQc1RDQ0pxdkM0V1kwY3hhY1ljcjVfam9VREZNSm9rYXBiV0hURXBqMlpvMnVDcTE1ZFFQeFlzWjRDUWVxTlN4YzlYQkdTdFhURUt0bmxpeQ?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-28T06:07:58+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4fd7d1899ee08175",
-"title": "Axis Bank To Raise Campus Hiring To 12,500 In FY27 As AI Reshapes Roles",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXZVMWMxQ2piRFZrQzNPTWR5WjkwN2xkUTVLbGZtdDFDU3ExZUxlbDd6MVpOcUN5RTFqUlljU2c1YjFtWG5kMkJZZFc1VmZWN1lFQS1Pa19UdUY5bk9yemxTRnVNR2lURWJSQXVua0RyckxNSXBGblVlZEhZZGE2eU1MV08tR1N0ZldCcGFmeXo0anRWY1JKN1F4Wjl0WXJ5V2dQTVNEaUNVdHVpcFFn?oc=5",
-"source": "BW People",
-"published": "2026-09-28T06:02:58+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
