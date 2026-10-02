@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T05:18:42+00:00",
+"updated": "2026-10-02T05:34:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,43 @@
 ],
 "items": [
 {
+"id": "d3f7461654e63c3b",
+"title": "Down 10% in a month; Bajaj Finance approves ₹11,700 cr QIP, ₹5,800 cr warrants to Bajaj Finserv - Share value impact",
+"link": "https://www.livemint.com/market/stock-market-news/down-10-in-a-month-bajaj-finance-approves-rs-11-700-cr-qip-rs-5-800-cr-warrants-to-bajaj-finserv-share-value-impact-11790917497603.html",
+"source": "Mint",
+"published": "2026-10-02T05:29:48+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d79a01bddb9bbdaa",
+"title": "Hindalco terminates AluChem acquisition deal after extended delays; alumina strategy unchanged",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVjE1NGYzVmZBU3VLejZxVmlYbm5ZWEdsTnFJeE5nRkhDS2N3cklZSzA0WGF1Tm5rc0ItWHJleU51Z0RvZFgxYmpYUVVwQl9vWGoyel9uelhWNnZub2tTWWx1clVZbzJ3d0pFY1NtN0s4Wm5pS05vMDhHMW5mWnRWNjdic0JXWmV3NG4wd0FFNGF2Q2R1THQ1SHc1d2VUelJVbXI0WTFSRk5SVmMxN0ZqTDE3UGZ2c1E4eUNmTWw0ZEFMRkFWQlFtNktqa0xqYWNPc0V0LXBxbHpMaGRiSXJnOEdmVEtQXzZNazVwa1ZaMl9ZdmPSAfgBQVVfeXFMUFFxa2psWHlyWDVFRTVaaTdlMXU3anRwVmxSLVl4RVBZNENFMW5uSDRWb1JmZnJWRWQwQXdYMUlxbHBtZllKbTMwZDE1R3hCRHZ0emVXdVNfWkFFdExQMlBlNEpLQWlVLWZSOW84ek9RUktnXzdtaHkxRjlHZDJBQlFndExkM0RhUmQxNXdnS0cxWXdLdmpCaElyTHBUcTRvME5JaTVNS3U1R2VCNks1S1IzMHVNVUYwdUU2RkY5VWh4dHBCMU1HcFh4cGpYY3J2UmxsejlsUm55YU1NMFd5Y0l6c1N1NHltbjdobGVUZGZQdGhMYWtHNFU?oc=5",
+"source": "Business Today",
+"published": "2026-10-02T05:11:37+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ca497d41581818a3",
 "title": "Hindalco Terminates AluChem Acquisition Deal Due To Extended Closure Delays",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDJ0NmtHN0VBN2tTWVRCclJTWUZNRTFIb0hYVmgxVERPeTlKb181OTdpbGlIMEhTSE10MVo1Um81YVZaV3JmdkpRZW80ZmJZQzcyYVY4T2dKV3lLaHctaG9fX0thQURzVTQwdTVoSnVmN29VdTlaSkFPcHNkb2pZNno0b25WODRaYUdFREd4TXliU1ExcVZfTDFncXkzdEdxNXQ1aFo2Vkh4aVFpUGNQb2hPNzNRcTDSAbwBQVVfeXFMT0FYR2kwS0xhNTJONDZYeGZMQXIyMUNiVllWRGJxb1YzRi1NS2phMTlQUV9kMkNZM1B4QWFiMkNSSWZlNVhvdVZEYk1vS09QMnVmZ2wyb0twaFJtZ19CMWpZbDQtQjlNdnhPdzJlc21idVdiMDFQZTVoZlJQUFBJeVNJRlYxUkNuYTZoUXROcW9Zd1Q5QjdYVjJBeFFqenZFZ0ZuYmY5RkJtNjhYZWtzUU95azFyWEl4X0dkODU?oc=5",
@@ -503,6 +540,24 @@
 "source": "Whispers in the Corridors",
 "published": "2026-10-02T04:55:28+00:00",
 "first_seen": "2026-10-02T05:00:52+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c11a9f9acba788ce",
+"title": "HDFC Bank Appoints Anup Bagchi as Managing Director & CEO; to Take Charge on October 27",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUxJZGRZQndZSkNteXNHQ2ptalJyQ054Q2pDUTJHWGFITWFLaE1fUWs2M2tlZUprTWFFbktVN3Zacmc3UnpLb251elBQd3FRWVJWRUVkWi01cUxaQnlJX2VqNHVzUXBDRHB0MmxRUWRha3lZUUppRk5Lb0I5aDIzZTZ2ZjJTVDBaeTg1QTMtODdycGdiXzNiYTZqYVVZUS0yYVE?oc=5",
+"source": "hrtoday.in",
+"published": "2026-10-02T04:54:58+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -704,6 +759,25 @@
 "sentiment": "positive"
 },
 {
+"id": "58a2cdd60c39ea23",
+"title": "Bajaj Finance plans Rs 11,700 crore QIP; Bajaj Finserv to invest Rs 5,800 crore",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVF1MEc4V3BPbXEtVWcwMFhIT2hfa0E3QXFGVGcyR3U2eF9sNFBSbGNFVjAwY0l5bm5KS2tqNnRwNkFCVW5SemJzaFc0aGxxVlZhMUhRMTkzb3doVkdDbDVfWEZndUZLcjBOVHdUWXhzcENycTBLS0VvaDhaRXVXTTFvRGtpZno1eG1PRGVlT1lxOExBU3pWS3ctRElHS3hRa19oWmhpOVdKZ09xTlhpREFqS1M3eWVCTlBWV29vRnQxbV83S1FJeENMNktNQ2ZOd0xtT01PdnXSAdgBQVVfeXFMTklRdTBHOFdwT21xLVVnMDBYSE9oX2tBN0FxRlRnMkd1NnhfbDRQUmxjRVYwMGNJeW5uSktrajZ0cDZBQlVuUnpic2hXNGhscVZWYTFIUTE5M293aFZHQ2w1X1hGZ3VGS3IwTlR3VFl4c3BDcnEwS0tFb2g4WkV1V00xb0RraWZ6NXhtT0RlZU9ZcThMQVN6Vkt3LURJR0t4UWtfaFpoaTlXSmdPcU5YaURBaktTN3llQk5QVldvb0Z0MW1fN0tRSXhDTDZLTUNmTndMbU9NT3Z1?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T04:16:57+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "065fa1cec2f193ae",
 "title": "Tata Motors delivers strong sales with 1,35,114 units in Q2 FY27",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0w3NXJhNkJ3R2xLQnBDejJza0xjZnotYVpSeS1lRXlpSkxLN0g5NXBFX21tc1RCeG9QZlM1Q2lYTXZHRlpUSTByaW9uQzVtUTdOdTQtZk5yaW52d3JNS1JpS3Azb3VURVV3T04wY3NiSGUzbmctazR5a01FbjhFa3ZnUV9UYnF1MV9iYjZlR3NDdkdIMWVzemhVLWFMb1lUMldNY0FQc041ZmFhTGc?oc=5",
@@ -737,6 +811,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d487f1a82ea5d09d",
+"title": "Kyobo Founder's Third-Generation Heir Shin Joong-hyun to Bring Blockchain Finance to South Korea's SBI Savings Bank",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42MVNjcjdpM09aX2syTHJLMHAxZ3VOQU4xaU4zbF80U200TkNSN18yVS01d1NWYU5jV1pkRkZmU09rcl9nZXpHVG1abkRCXy1uSmV2QkkySER0TTRYN1NjWmpCTEdyLWFxazh3OGFPMm8xNkZWNVE?oc=5",
+"source": "finance.biggo.com",
+"published": "2026-10-02T04:05:00+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -13729,6 +13819,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "ddcc0d01ce0ce5e2",
+"title": "Business News | Hyundai, M&M Post Strong September Sales; Festive Demand Expected to Drive October",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVlFM2NGQmxHODlEdnNhVzZtLWVDd1BSekFjbGpLMXR6aHlnVVVJaG51bWg4a2hFOWZ1TVZUM2ZIbDJlb1dIcTRoUmlYajlWYXRldnRtNVllTDl6OTNkYzdoTzhybWNabFBZdmkyY2xGelVQc3BKaWdvQ2dxSHR4eDFmQlFpMUNVdHZ2LWNWSTRxLTJKVWJSYnVYRFo0aDJWcDlJSjJZcHpuelZ4cS1mejdfRHbSAboBQVVfeXFMTVhGYmpTVDNGQ0tVdHM2bnI0dkRZQnRETVpRWmEzNm96WjBTeTl6M1N5NENxVnVxT1pqdHRreVZTbHdPaElpcEhwNm54M1JDVnltT1BXd1lhZzc1UGhRTWtzdmRJOExVamIwd180T1NieTN2bnc4YXB2TUs3clBMZFNmenYydmxyYTNuS0p3SWxBOUtGdXRETVQ0U3hDMzlaNVZORkF2Q3U2MjlIQmZBSWNpQVdPZEN2RGJn?oc=5",
+"source": "LatestLY",
+"published": "2026-10-01T06:20:25+00:00",
+"first_seen": "2026-10-02T05:34:24+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -50728,102 +50834,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01371178c0640f8f",
-"title": "Shriram Finance shares may rise 22% as JPMorgan flags MUFG effect",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXhkN1pBckE0NzIyUVdiUVl3ckFnN2hFZGV4ckFIMnNVMkRPc1ZBc3FPSmZXRjEzQ2RKU2dKRWY2MWhDT0o0V2ZhM0QyT0lDQzlla3o1ZHJVWWhmZjh0bzUzMl9CZm96Tko0U1kwQUF4bGRMMjNaVjFsVjcwNjktMkFCVHNYRGt5LVF5Z0h0SFhUeUNXbXNwenNRM1IyMTRfZjF5UGVxUWYzUk9tdW1EQTRsOTFFVk5EQ0NxZlF3NmNnXzI4T3piMEMxbXpPMnhM?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T05:39:02+00:00",
-"first_seen": "2026-09-28T11:35:46+00:00",
-"symbols": [
-"SHRIRAMFIN"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "abee3653ad32eb79",
-"title": "HDFC Bank shares fall 2% as banking stocks decline amid market slump",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhoVXNlTjFOazdxZHVDS3RCUDFIcERSMGRxX2tPXzItc2xmcjdWNWVWcVFnbTYxZTZwYXRZeDdRaHFxTFktMW85SDNoOVpnY2VYQVQwTGlSNEpvMnJacTlRcWNqVnB3aENrRnlHR2dNUHJPMWltRVZfWXZJNDhLWHJ3ODZubHlVa2x4bjAyWnpLNWNqa0VEQ1NIUDM2QlhCU2xaTHJ2eHVzUGRtTldmZUNqN3otZlN0VXY1dE42TDVWVHZaT21oUTQ2NUxTTnhpMjd3SUtPYzA4SFZyaUhR0gHmAUFVX3lxTE5YbjRjc1ZwbXJBclpBd2RPbE1ScGxiTUVpQjRRdGNndDl0SjNRLTY2aDZOcVlLV19DQkNyRVYxQUZ0SnhZWnA3UDRGQU9pdTNHalljejVfQk5ZTmxnVmJJRDhURndXb18xVVlLcVdjZmJQYlhwN1NyVVBCcm9iTGtDRzVvNjZxR09lVHFvRElHOTdDM05Od1BJWk44eVNnakw2U3hiWGlHaEZPNG9XOEZTc3N2YXBCZjRILXdEeUNmNFlGNFlUMjhlWmR0YzF3d0ZPQ1RFS3FhX0hLWHZXNVZ1MWd0SUl3?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-28T05:38:19+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4a65034a405839dc",
-"title": "Why HDFC Bank shares fall 2% as banking stocks decline amid market slump",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhoVXNlTjFOazdxZHVDS3RCUDFIcERSMGRxX2tPXzItc2xmcjdWNWVWcVFnbTYxZTZwYXRZeDdRaHFxTFktMW85SDNoOVpnY2VYQVQwTGlSNEpvMnJacTlRcWNqVnB3aENrRnlHR2dNUHJPMWltRVZfWXZJNDhLWHJ3ODZubHlVa2x4bjAyWnpLNWNqa0VEQ1NIUDM2QlhCU2xaTHJ2eHVzUGRtTldmZUNqN3otZlN0VXY1dE42TDVWVHZaT21oUTQ2NUxTTnhpMjd3SUtPYzA4SFZyaUhR0gHmAUFVX3lxTE5YbjRjc1ZwbXJBclpBd2RPbE1ScGxiTUVpQjRRdGNndDl0SjNRLTY2aDZOcVlLV19DQkNyRVYxQUZ0SnhZWnA3UDRGQU9pdTNHalljejVfQk5ZTmxnVmJJRDhURndXb18xVVlLcVdjZmJQYlhwN1NyVVBCcm9iTGtDRzVvNjZxR09lVHFvRElHOTdDM05Od1BJWk44eVNnakw2U3hiWGlHaEZPNG9XOEZTc3N2YXBCZjRILXdEeUNmNFlGNFlUMjhlWmR0YzF3d0ZPQ1RFS3FhX0hLWHZXNVZ1MWd0SUl3?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-28T05:38:19+00:00",
-"first_seen": "2026-09-29T00:51:29+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9677236364e2d7e2",
-"title": "ASICS joins Tata Steel World 25K Kolkata as official sports goods partner",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2FtV2tRS1F3NGFoLWgxd0taNHJsOVdHX1o1SEkwNlZrUE0tYXgtS1UzaXBUN0pQNWRyN3p0MXZmSUVZVlVJbjZPOTZrUUk5NU4tUFlqWkNJaDVoRzhpaEpWRXVydm1fTW9kR3FnS3JJMUdUVkpFMHlTMmpKNUdyVy1rWFFHLVpBek9IUmVod2JJZTJoY3JhZkV5U0xJZ2NNRnBDWm9wRjZUWDll?oc=5",
-"source": "Adgully.com",
-"published": "2026-09-28T05:38:00+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "67dd9183d57ae371",
-"title": "LCC Projects Wins ₹70.35 Crore Civil Work Orders From Reliance Industries for Kutch RE Project",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTVgyZ2drTUoxQTBPQ2daWU0yakhOQ1lxMUttSjZ2bTdOVVRzVjJGbk5qNnlfX2pXLTFtSms2SUtuYklJVnVPamhzWlhDUF9JbkV5eGlOZ3dLY3ZTeFB4cW1fcXlOcHYzdml2SkFhd25lMlZFWkpYT1hCYzZ3LXBac1ZjeVJnTHVqN3BZNF9DOS1DM3FEbGhCOGV0SXctV040X2ljTFc5M0xwZ0JPRFdoNkRUSkR1VXVnOXBHSzY0Q2tTOFNsUGkwekgzQVdTMnhzMGFPcHZ3?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-28T05:34:49+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "7603f53819c72162",
-"title": "BSE shares fall 2%, down 30% in 4 months. Why Macquarie is bullish while Jefferies is cautious",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa3VDS3EzZG5zNVNTSE5iWUV3TUZGa01NMjFTaWdiTEY2cGJhbzlqLTQ3WDNzT180WERXM2lwemp3ck1mQW8xX2F5U0NpckxoZml6cy12LVJ0NFMxVFloUHBxbFhhWm5WWE5ia0NQZlpjTzNIeURGYXNyVTZfMkRLQWFpd2gtTF8yS2RyMHZZcm5tTWg0T3RPazVGakV5UjBxdlVFNHBqYkwxX0s0N2lRX05VamRwZTc2MVBjS2VoX1Bpdnh1YUVoVGdMRG5pSlRPaVVVeWRlYm1TNmpwdnU0V1dMVnZEV2Ezbk53T0RGVzRFNmdGbkkw0gH8AUFVX3lxTE1aNU5LenprcHJRcXYycmxkMk9USmdmTVFvYkVqUllPTDZwWENZcEtqRGtXRTZPRG1pbDBZNVFDVjdQRncwaEswSFo3T2ZtQ1VUQk1JMk85cGtnY0FLcGk4THZpeFNzSjdDQzcyNVdFeG9aT29hMURCRGNvaEpNOG5Jbmtkajk2V2RYSEliY1V2VGh4dDVHUDJEUEFMWVFHTHlma2E1dUtudFlYVHBjMlBRbGRrUHI2WVdmdmFZa3g0Ry1jd0l3b21HQnpndFB4Z3ZndGp6dHY2OUQ0WFFlRDZWN2xfZlRSNnFwc2hIS2ltVFJnWjNzUEprUnp5UA?oc=5",
-"source": "economictimes.com",
-"published": "2026-09-28T05:33:36+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
