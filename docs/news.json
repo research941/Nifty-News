@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T16:20:20+00:00",
+"updated": "2026-10-02T16:37:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "d79b2e57913c6f9a",
+"title": "Sun Pharma's US Business Under Pressure: Can New Launches Drive a Recovery?",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXhTNTVUWlppRDVjcGFVM0ZVdlExdHRsV0ttRk5kSmJycGNnNmVEbGt5RFl3VTZzQ19iSVBxZTZ1VkFrRDNxTFJxTWJHazNPaWJ0SFl0MzljMmtoakQ0V3BCLUFzRVU4TzctTXUyXzFJX3J0WTVadFU3dzktdmlJMG5rUENCczY1VV9IVVJualVKdDZHME5Ia3JGblJrejFVMmU0THN6Y3FuOEFWeTdJWXBsakxIYU1ic1Jn?oc=5",
+"source": "Trade Brains",
+"published": "2026-10-02T16:30:37+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "54c56051819e0d07",
+"title": "Tech Mahindra, CoRover.ai launch sovereign AI partnership",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSC03M0dLeWl1R3FvdHkwOHdNbTBFQ215RkozaEU1OU4zb2Q5ZGNMWjVGamViS1ZIV0Z0VmRZWHVDMDRrVVlnb3d0T3FrYkNQSUViWW9ZNGg3b2V6Sk1Vc2VkaUF0Skl4NDJVNXpMRG94Z0lKcmctWUxhcjFhclVhSjVIeFo1aGkwdUZtcWI0ZVVoQQ?oc=5",
+"source": "channellife.co.uk",
+"published": "2026-10-02T16:30:07+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "87e4b17f92340291",
 "title": "Surya Narayan Panigrahi Takes Over as Executive Director (HR) at NTPC Limited",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlDT0J6R3pGakdWZGJPempOUy1WZDVsUkJJckJBVmNRdWNMMjdFZUlaNXRoLXpJVG00WVZKLVREY1NZSmdOTlJvMkVqNU1MN2pVYTlGdGFMRnZjZUltdFVqaUNsamtOb0NBOGxUaGxTOXNLdHdKYmQxTnR5bUFVSWFGWm8tSm5hS3pXc3hicGdLV2VVa2NUNHNnMA?oc=5",
@@ -511,6 +545,41 @@
 "sentiment": "neutral"
 },
 {
+"id": "c7f40bbc3a1a3418",
+"title": "Tukaram Mundhe-led Maharashtra FDA cancels Cipla warehouse licences over violations",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTlfcS14OW9fcmgxRWtqTy1CVld0OWt5VXFQME9oM1pSWlJ1MmVrRDl4VVRfMEk4R25OQllaalFjU1JGZFNMZUV4dUkyUk1yNWxpNDR6X3VOMjFBem1wdl9FRVZtVUhtakdyREhEQzFEcWpMaDQ2Mk5oMzBfTGx5WTZnUWp6OGgtRkNiNmNkWDdQN1pQQUhYeUdYWFlCajFrU0psckxOekIwUTlaMHBFeEMtRXNFUXpUYkxtYlJuakp1VGp4OWZOOXo4S0hnbHpVbTlv0gHYAUFVX3lxTFB3ZVlUM3MzUGxlR0FRM1h1SEhwWmNjQVZUaWVUR3oybGRoenROQ1JnRk12bWZyUGY1TnlzcGVRZ0lpTWhBVjZULXdMU1FKNVlwU3Q4anAwQzJCLUVYeFZUQVBCTkM4M2JWNEV5YWZ1ZTZ1ZTE1MFlZNXF6aWpKWlk1dzlBLWNXOTVDREdTTVFaTUtCLWZFb2NzMDBaVEktRXVhYk1aWlZXZUhnNU5OLUt3X3hGSjhvX0EwN3g5VG9UV3hRQjlqcmwyWEgwb3pIdDlPbnc2dTFkTQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-02T15:58:05+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "51519ded175594b6",
+"title": "Wipro gives junior staff 180 days on bench: Where do TCS, Cognizant, Infosys stand?",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVJKT3hYenh5UlVtQ2pTSVBJOUZOczltamxWZFNRODB4UmY5d2RvSE91YW9qZTNneGZZWjlfYktULVAzb1VqSElScGJabkQyeTZQNW02dUI5R2hhRU42MDdGUXc0X25nUGtLRkpOMlRJZXR3OWFudVZkZFZ2RjlGZC1zQkNCRTVlZkhWTkJkc0lzMXlpS2VZY0taQkY4SGMySDhTdmtMMTJVUnRCOHRjLWE3Um1FVkp3TkxfVVpldnAycUNOY0ZCTGZUb0dlbjJXQmlxMmFVMVU5cHlIRmZmQ1E0UzJkSnRVa1g2akRtYTZGQW5Bc0RsMUJB0gH_AUFVX3lxTFBJX0FESmpKeVplTzdtNlRjbXFQbjd0ZW5ubXhKRnZ2UzRuYWphMnhIZUJYdDQyajBCaTZpWEZIR2tMMm9YQ2dBa2hrWkkzSGktUEdoR3RjMUtRQmFyV2Zfa1BMYUt0d19tVmdTRDZBRE0tSjdnVkhxdnJzcjk4MkplbDc4YUNFNGpFRkhNeHRWdV9ZSldYeW52aW5EczZ6YThoRG1YQ2JiSVlPanljNkRseS1CdWxjSllYMWd0X2tZTjExT0tBLTVZTlMtOC1CSm9MWTdXeXlUalNKWmNKWkxNS2hVM2hLZ1FiNE43b3liWmFVcEpBVjU2M2pkcDJmdw?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T15:53:23+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "31abe035aa198c4b",
 "title": "Airtel Money sets London IPO price at discount to expected valuation",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlBKamdpNkFnV0xkV3NxQ0tEeGZ1ZnpRWVFybDZNU3JNcGNFU3VmUHhxekpHdkZVSWhsaWZLWjhmODZINzJzRnR0RlZoN0szdFJJSWU0Y3ZRQmMxX3ZwUEpBU0lyUElxU0Y5a2VGU2pIUjFKcmpocHAzMllKTjZsUDVFRzJoSEwwUzhFcW9XZ24zTExrMTNTX0cxbm0?oc=5",
@@ -563,6 +632,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "56d1ef13c5714445",
+"title": "Adani’s Rs 2.6-lakh-crore Maharashtra investments underway",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGpLSDB5VmJGZXVvZVlGMXYtcHlZcE1WWTREcjlJaE1mRnRTcE9nZUZGUHFsNEt0Qmt6N0VkOHpCeFd6MVljY2VNSElDdFlVeHV6MGJPWUI0VmlOV2cxNnJTbTYxTDk1dE90bEtpOF80ZUdXWk42T3BVZXJBRHo1ZUdsalBaRlhFaW4xM3RDanAtYmRBc3dlY1lxaUJCR25SNEVnSFRSTUFrRk1VWEstNy0yb9IBugFBVV95cUxQX2xHTnlua3dUcWhoLXVvMXZpeW9vZmttYVRFWW9JbUE4dU1fbGNiUUxuVmY3WVkzZ1pqUFFIbE5WVTRnYVlQMG1VbWpCRGd5WlpIb0c4c0R2OXdTTWhzV2tUWGJpdThaMTRNQW5MSGRVc2Y4bGJxUGUwaHRNQ0w1STBBbEpCbDNaV09HdGZ6czBYRC1HUWlUaWg0Q3JVdnZvNG5uNXc1cGljTzJYeTRFVmRtTDlfcGoxb1E?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T15:31:06+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "c125759ef0136d14",
@@ -1176,6 +1261,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "2046ba1e892c1ba6",
+"title": "NTPC appoints Surya Narayan Panigrahi as Executive Director (HR)",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmNEWkh4OE5PcmMtZVhCakQ5Z3hVaHFGTU85ZXFmSmowNXpUZjNfNU9XWFVLVDdadUFUZDhBbjFOTU1MdWt6VUZDMk5nMkRKM0NkanhQdzNpbjJkMFllNUIwV2pRT2NwRmFDQ2dCc0hZVFh1TGdmbGZKd2NvXzl0blNWRkpyaTBkbmJacnpQUWxaZ1diWTF3VjBwRW5ab1FHU2V3ME1xMjBoQkE1aWpiUEZWYXI0N0hkMnEzNmo1YnU2elRT?oc=5",
+"source": "ETHRWorld.com",
+"published": "2026-10-02T13:56:17+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0d1150b665182d74",
 "title": "NCLT Approves Tata Steel’s Amalgamation With Rujuvalika Investments, Scheme Effective From April 1, 2023",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2dvazFfSHVpZ2pCeGw3ems0TWRMY1kxamlEXzBLb0xLLW90alpPR0dOTW8taHNHSnBlM2FLellGOHc5eVVXX2dLSllFZW9VMnhsa2htZlp1REZNdS12eVBNeTNIN1NBQWFRY3FtanYydEVabllBZzgzdUtXRkJ6bjVwTUtZdkFBdTVwYlBpcHMxcmk4OE0xeVdWaTNGV3NPR19jMWQ2aWlkZTJNTEY1eUU1NkFCb3hUZTN2cF9CZEh0d1dYR3NRM3FCS0lYOWVyQ2JLc1ZzWTFDd9IB3wFBVV95cUxPa01qLWJXckRGOFN3aUFiOTBnVHlnLVkwemthcXBqcTZjcXVFSmNOR3lHbi1Oa18zNnR3UlZwQW5qYTVneng5YjFURzVmOHg0NXpuY181WDhSbGNGdWxfNmVKOHNjNG1JbGMwdlBycXFER2NwWUZwcHRxc0k0TGN6YThPMzZhcmtKWjc4NUdvVGIyWlpfLU9xdWtpd2xfeGgzZXZNTGNkZ0RCS1hmcFZ6N1NnRnlqdjFycVM4ejFnVWk5Qmh4V0tNWTVOdU1sWWIwdTVrQmVzQXpGSUQzWUdV?oc=5",
@@ -1372,6 +1475,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "89c2904d7842d989",
+"title": "Titan Securities Ltd Upgraded to Sell on Improved Valuation and Financial Metrics",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaVZxSG1wTUhWa2E2SU04dVo2dzlDZTdVSnBnNVRkMFp3d0ZWVU0zazVRVENqUGZzNENIOGgwcGZHYjBoQnZVbHdRTkVIaVNaU1dBcHpUUDJOMmRzaUlqWjFaNzNaS1lHcTV2QUluQnoxdnU5VFZnbVhpWV9xTUhiU1B0QzlLekZkbXNKUWh0YkNCeC1mYmo5OGk0WWs5MHRTTHRiTW0wbElOT0xfd2k3MDhUdDNtbVlNQVMyZWJSSkZuZGEwU0pQcnJVSE85Zm5Pc3NDNWJ1T0dZcWc?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-02T13:28:34+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "9e7c89439efba8aa",
@@ -2231,6 +2350,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "9f1e51514de02f77",
+"title": "Hindalco Industries (NSE:HINDALCO) Ends Proposed AluChem Acquisition",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzRIWVQ5bExPYk84NS1PLVdZRDdGekE5eGxUMUJKdEZJdnNBdTZhX1IzSHkxYXhKRTRLdGZLcnJuUVZDWXRENEFQeG9mNzVseUlnRzJOb2VuRUNFZ2tONnROcWdOYlpWb3VYbXJPRXVva2FDT3NlSzkzOFNid1o5QTh6UjNqWno3R3UycjZtYUstQ0NObU43d2oyTXR3a1ZpNG9sMFA0RHcyd3JXX2JraHlHa1BZdnFyeGhiUUJyUEZCX0k?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-02T11:08:00+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
 "id": "de10f0239231f942",
 "title": "State Bank of India appoints new Bangladesh country head",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXRVOUVBdG8tbHRFQ0d5N0NaZzFvQmRvek9QdHJtZXo0YWMzQ0ZVVTEybGRvZ192eWI0WHU1Q1JweWpYc3RkV2FkQ0tnRnJYZHI2QzQzYXgtc21UdzlHOHB2emlYOGxqWG1IV3NQdEI1VTNkdmFFTU1FdTVyUXhpTmthTHpsekgzQzlqWGdWRXRhMjR4WnhZT0VIZUZNUQ?oc=5",
@@ -2399,6 +2536,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5df75a45e72fb8c6",
+"title": "ITC Takes Full Ownership of Yoga Bar with ₹645 Crore Sproutlife Foods Deal",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmgtb2dMVjI4bjJMRWt4dnR2c1plU3h1eVZNUXZESmR1MkpLbmwwdlZVajRDakVDTDhWLVZWYkZDWktlNDBuRk9BVFYxUTI4a1BjQ1lqQi1mdDRjaHY5MjRhXzVNaUxSREp3VGRmOUcxdTFyOFp6bkZ3ODFpbVB5TlB1cExZcWpfUEFsWVBEZ1dWcXc1cW1VRWdmZV92TWxXRXg1OHo2eE5aaGxwNXp6TQ?oc=5",
+"source": "MediaNews4U",
+"published": "2026-10-02T10:34:48+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -3796,6 +3951,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "10cfba9f95bacdff",
+"title": "HDFC Bank share price in focus as Anup Bagchi to take charge as MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVg0TnpTb3B6ajBGcUQ2TGN3WG5rd3h4MmtLeENDdkNpcW8zTmthOHotSTZiQ0hLSjQxdy1DY1UwaHZXTWM3RG5hdTZQZDBDRlBaQWx4c3N1eXcyRGdTUXhHbVVYbWtkeEtxMWJWWlQ0aDZ0TGpkVlB1VW1wNlRTVDBGWk80ckh5eTljNUo5b3RYYVZqTGJ0X2s0X3ZUUlRZSktkaGN6ajUxY3FiTnVTUnZRUTlYSUd4SjFMNFI3c9IBxAFBVV95cUxPYXp6ckZOOEpCY0RPVnkzMzRsSlJBZ3NrbmRLNXRGaWdEdGhKWDNNOTZBcVk1SzZHY0JVaHAtdzZ6VFo3eEpVME44b24wU1RWTjFZcWNyY0dtaHRoZDJBWXFpRGNOUDVjb1BSZlBLTkwyUnZXb1c2Y25MZUNuM0ZUVko4NlJLT3pydkhqalVmOFQwV25PbVhMZWdIc0NScThOcThoYkxQRVY1NjFDNjdibUZiWHF3SldueHhxMWFTckdlTHlo?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T06:55:20+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "66ac83609378b12a",
 "title": "ZF Commercial Vehicle gets favourable order setting aside ₹1.79 crore ITC demand",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNKbmt0NEZ6aXNnMmNNNlNRM2czeG02aHRUSWJGMmVGMUZuamF5c1MxR0VBaDltUTJ2ZWFVX1ZRMTJQTm1nQm15Wk9rb1RqRjBGdWhKUEc2d1VEZFM5MjlNVDJ5TW5XMzVma1NPV05RUEdsNktDQkNsNzk2ZW85MmN0dkF6ODA0djV1U21nYUpwdm1yWlkzQnRYUGZ4Qm1Qa1hwM1FsbEpTNHJYUmR6UkZfc1JWNDBRWGlvMGdBaFNCTzg?oc=5",
@@ -4483,6 +4656,24 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "20ac96130ae1c496",
+"title": "Anup Bagchi takes HDFC Bank hot seat: 7 challenges await new MD & CEO as focus shifts from leadership transition to execution",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVDB6ZG55UUdQZF9WYVFoUkp5b0lXNDZkTERnUkd1STBDQmdXQkEzNktzOEc1cjcyYzZUUERDZ3VaVWRHc085OTJyQUFWV0dSUnNVR3FjOFlLdXJ0Q2xSMDFpZnllTEJMcERySEpoXzFQM044dElyT0U1aTRjMnItY3czZVVwNXdtVmV3b2d3VnA2ZXhaWWdpV2VENFhHbkI3a21OU05KZldLYTRfcDl4X1FFdmd4c3doT2tUM1RtS01DMV90amNKR0pIRl9UaDN3RXpwN0FtNjR6YktSOGxVY2tKNWg5bF9rSFpZQ21wX0VtcUd6QWJlWjlqT19yX01fUFAyRtIBigJBVV95cUxQVWdNSUNOOXVBT3J0MS0yNzlra0s5ZlFUWmx1WGdsd2hjc2J4M0tiSkxJb1ZxelByRURlMHpZUFdJQzBnVXVfUGE1SjVZdlgxUjB5MXZxX3FIcUVYdGgzRTQ5SFMxVjhqVS16NTlPOWdPQ2F0eG9JWlB0d18wdk1HVUFla0ZfWmdreTc3bFU4X0RoUjJGNWs4aXpiM3RNRlNXWUFHbVhOWGNuZkp1UGEyT1Z5NHdhQ3lRVjRXdC1oeHhvVlU5cmlXVDIzUnNoeGpkOXFoeUhDT3ViLTJxc3hWYXFUd0s2R3RMZkZSUFBQRWliZ0lvREtKUXlnLVVhY3kxWTVMNFpMbDhLQQ?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T05:26:38+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -6271,6 +6462,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "621a644e39315da8",
+"title": "Power Grid Corp Share Price - Live NSE: POWERGRID Stock Price & Chart",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z0M1TlZBcTl0ZnYxei1LeDBXN1hNaElqT3lJTUlFZmpEZGwyeDliNER1N0VsUkNnMEtEWWdDYURHd1haMHR6c01uM3F1NU9Fb192NTlYek1nUUdpV1M3dVJYQS12TzFNTFE?oc=5",
+"source": "upstox.com",
+"published": "2026-10-01T20:55:32+00:00",
+"first_seen": "2026-10-02T16:37:37+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50741,208 +50948,6 @@
 "source": "LiveLawBiz",
 "published": "2026-09-28T16:04:50+00:00",
 "first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a19be9c1ccb1a92f",
-"title": "Sun Pharma and LIB Therapeutics ink global licensing agreement for lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWt0eE1jOG5veWxBb01uYnN6QUVmbFdRWDhnNTMxLUItRFFVMk94Ung0bTJ0cFBVT3RwMGt0YTN2R2FXclNoMkVRMnlvSXlZM3QwZVJUSzRIaVBIZ0lKZ05tV2tKWThySHNBa2x5ZnYweEllcWJUVXF2Ny15bEtFb3poUkZKbWplUTlhQ3l0NmdjM1J2WDdvWnB6ajQ2SnF2ZDBBZEZyeU1vZlFHTzNaaFdrVEp5dTZ6ei1CNklxRHd1NGR1ZlVKZHo3VQ?oc=5",
-"source": "BioSpectrum India",
-"published": "2026-09-28T16:04:19+00:00",
-"first_seen": "2026-09-28T16:22:23+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "88e3168a72367d81",
-"title": "UltraTech Kukurdih Unit Reaches 100% Green Energy Use",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC14bll6QWhhS1pRQXFxMWlRM2FpX1VaZy1VWTI5enYySmdTeDEzcHZlYmc2NHJ4ek5zTmotTU1zanBvSElWM2l6THBVXzJGUkp4TWZmcl9KU3ZzZzY5MVZBRmFrUjlVV0syVWNRMWJMSmhZUVpZc0FIWkN0dFhYYnA1OFU3bVBKUXJjNTNnUTJNemgx?oc=5",
-"source": "thecsruniverse.com",
-"published": "2026-09-28T15:48:00+00:00",
-"first_seen": "2026-09-28T17:57:50+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6bc11478d00533d3",
-"title": "UltraTech’s Kukurdih Unit Achieves 100% Green Power Use",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC14bll6QWhhS1pRQXFxMWlRM2FpX1VaZy1VWTI5enYySmdTeDEzcHZlYmc2NHJ4ek5zTmotTU1zanBvSElWM2l6THBVXzJGUkp4TWZmcl9KU3ZzZzY5MVZBRmFrUjlVV0syVWNRMWJMSmhZUVpZc0FIWkN0dFhYYnA1OFU3bVBKUXJjNTNnUTJNemgx?oc=5",
-"source": "The CSR Universe",
-"published": "2026-09-28T15:48:00+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "397bbe87e7f93cc2",
-"title": "SEBI allows Adani, four group firms to settle public-float violations",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjdjNUhPc2xFU3NNOFNEbHMwZ0NndVhTX1J0N2dFdDBjOGRoY3FkQmFMNTJUQUpIZjd1WFhBVnlIeVVIRmhpQ1ZYWGZEYVYzSDc0Wk9PTFBSdkxXSm1qeG91aTI4UEg5ak1CTUZPamMzVnQzMThmOXZOdmFkV1dmaVpfd2RsNU1uQzBhNzhKRmRYUGV2em9wVk50ejNuOXMtMjdGZUUyQ1pFMEhNU2JRQVRCaUI?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-28T15:47:14+00:00",
-"first_seen": "2026-09-28T15:59:05+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3a265400aa981d9f",
-"title": "4 Reasons To Buy Coal India Shares Amid Macro Tailwinds For Rs 500 Target",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjFCWEw1NTI0UkhnRy1yQXZHY1c4cGZJT0tyenk2U2RLT2FKR2o2VlJGbUkyeHBpak54dXYzbzFqTzRPVEgwWXZnVVhIQ0gxMEp2clZ0YXJzR3VOaUREYm9kclEtZ1RpMGlYamxoMnJyaXgyRFdCS0NKYzJOQnQwanJBdVdjZTRIOEZtcHhKOVBqNEdjZUkzYkp4TFpTREZZMWVkeVpvUVNBRk1Jdm5RQTFjcnVHbEJ1bUE?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T15:46:48+00:00",
-"first_seen": "2026-09-28T20:32:15+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a0ec39dfb7685d36",
-"title": "India's market regulator disposes of proceedings against Adani Group companies on public-float violations",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakNnZElDUEU0aklJWFpRbFNHSnJyOF9USzFGenl1bHVySkZ6TER3dHFrTFhhM2pSTnZRWmo4TWZ6QXRabjVRaXZ3STBqbnE0ZF9wdTBOdFViM25YTHZjNlBFVl9BMFBDS1VXQ0JQM3g5V2lfb1JfQ051OGdlMGJFT2VNMklKYlFCc184UmxaYk9sVFBXUk4ydkttUkxtV1QxeUl6WERnaGJmM2lYQXlDVGQ4YkUzUTRJQmtOUVFJckt4aDBjaHc?oc=5",
-"source": "Reuters",
-"published": "2026-09-28T15:46:24+00:00",
-"first_seen": "2026-09-28T15:59:05+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "422f824f711681b4",
-"title": "ITC takes full control of Yoga Bar in $67M deal",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcC02aXdLaXhqNlgxVnczNkVxOFlZZFJNbHlVYzNBbWxFblRXOVFPc2VJNUluZzU2U3Q5dzUwRTM4cWxJX1ZiUGN3UkRjYzBGQ2swUGRvdFk5UFVIUGRSN24wV00tNFYxNlRWdkZ2X2NQWWZ4TGlhY25sUTdqNGxuZS1USEMwTlE?oc=5",
-"source": "Dealroom.co",
-"published": "2026-09-28T15:45:25+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8c397c1b760afb19",
-"title": "Sun Pharma inks pact with LIB Therapeutics to sell LDL-C drug",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDRfNi13QjlaYlpkdlFzX2lpbFhrQUNmaFNFLTlneDFqWkhKR29wbzNzSkwzQ1ViN203MldsWWloeE1pZWkyNG9FTVppQS1QVXV3VDF6NE9qOXNNdnpNYU9VdTBMY2ZjX1ZFdGpab3J1TVRuclJRdlBROVBlamh5aGs2V0FCZXYybHdvV3lIWHZXM0VvVUVhVHNydGh2SW5OYkFjbkV4cXFlSjQ4OUlpLUh6MzVET0NuNDZvSEFTRXA1QdIByAFBVV95cUxPeFQ4YnNaVTZOaTZfSWU3S2hMTUR1ZG1EX2pMSVpyQWN0c1daakRpNDRrN09oaDcxd0tmdnBYWm9JemZlXzNoYk1jTWF0aTFqZE5mT2JKV1Zqal9mTE9SWGZnXzR6Tkx3cklua3pXX1k3YWRQYUI0REFYZWo2QWhvd1VZQ1p5dmF1Wk0zTTdlV0R1dG5paFN1dTV5YkVHVTdtTzgwN1FSbkRIc2FDV0pMc1dsQWJreE9LUWdmOWNCSWVPeHlHMzllOQ?oc=5",
-"source": "The Hindu",
-"published": "2026-09-28T15:45:08+00:00",
-"first_seen": "2026-09-28T15:59:05+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "60eab25c62691f32",
-"title": "Infosys expands partnership with youth development program",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWU5V1YyWGE1c0h4UW9sN3RwVmRkc1FZVVRpLTVVaUxTYnR2M2N0TTFHRTdzY0J4OTJyVVB4RExpWVNCcnVXYlBCdFRRZnk3RmE5eDhPNjJib1JzNjMyWlZLNFJWZkhkWmFQdC1xMHdpVmNxUVRMdVlpb3BPVlkybXY5b1B6Y21FRUliUUs3OXF6NmNZZjluSFlmUzVid0h0OHp6OE9yONIBpwFBVV95cUxPMWU5V1YyWGE1c0h4UW9sN3RwVmRkc1FZVVRpLTVVaUxTYnR2M2N0TTFHRTdzY0J4OTJyVVB4RExpWVNCcnVXYlBCdFRRZnk3RmE5eDhPNjJib1JzNjMyWlZLNFJWZkhkWmFQdC1xMHdpVmNxUVRMdVlpb3BPVlkybXY5b1B6Y21FRUliUUs3OXF6NmNZZjluSFlmUzVid0h0OHp6OE9yOA?oc=5",
-"source": "Consultancy.com.au",
-"published": "2026-09-28T15:37:06+00:00",
-"first_seen": "2026-09-28T16:48:10+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3a412f6e72c30a14",
-"title": "ASICS becomes Official Sports Goods Partner of Tata Steel World 25K Kolkata",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByanNiS3ZJNHJSLXo5dE4wSGw5WUdQeXEwRElBNzFGQnlxazVIQWhmbkhVRmVvTHhaUEpLeHZpT2dBLThSR0N2V3ZGMVM2Sl9fVnU2cGFZcW90ODNUYUJhNmJYMFZ2NU1sNS1LamE0ejBHVWhkekE?oc=5",
-"source": "MediaBrief",
-"published": "2026-09-28T15:35:00+00:00",
-"first_seen": "2026-09-29T05:14:15+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "007acff5340265f8",
-"title": "Adani Firms Clear Another Regulatory Hurdle With SEBI Settlement",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUVCLXZUNjlEbFJCLXNpS1BUN21YblFFOExhTll0NTd6bjNUS2xreWxzVVg4aUx6ZmFhV0ZRRmlMMld2Z25qaXBOTXlkUWx0dUFNdm1QYkRMU19FTVctMGQ1akM5aGt6dXpHVlY2NjAtNVV4TGwzVmowZS1ONUFhVGZLN3hKdE1mTTg4bUFGd3JVU0hFeFYwWUZwUWxUcmpZamJpbGo5ZWF0MlVreXFRT21pWmtYdw?oc=5",
-"source": "Bloomberg",
-"published": "2026-09-28T15:29:03+00:00",
-"first_seen": "2026-09-28T15:59:05+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "26bedb7af2f85b2e",
-"title": "Gautam Adani, four group firms, 13 others settle MPS case with Sebi",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN2V6clJSSzZyYTZOckdwdlljUWpQdXVZUmhvY1dic1RIcGRnNldmLW9laWhjb3VvM3hFcUVLUmhQUkRlWVdiMEl5c1V6c2E3anBQZnZ5TUNDMENkNVpDZnhKLUlRYzBzSk1ZenFDWHdZSV9aMTJJeU1TN3dCd2JyTS1GNEI4NmpvSjBaX09LeUJuRlF1WjRyVk9NbkdObFlkdWFsQmVoR2xaV2o2N0VYbkVEaVVsNHpPX1NUZWNCYzdGaVZEZVp6MGkxTWpGNTjSAdQBQVVfeXFMTnByX0VSRU93aXlHRHlGeW91ZE81NGtscDZiX0pqc3pwTkVCZndrZnVaSURVLVVVWFd4MnptU0dPR1FvXzlEMlNoVUhubjF3XzlNbVhCXzkwRUEwRDRueHU4NGRja1JXRm9IRXNkRUdoQ00xVWQxaE00ZU0tZjNzOXNRdkc4WGpla3NfLTYzYmJPdzZFREZLRkk4MkdxUmZLVlczXzNaUHVwZmhQbTlMYnY4NnVMVjVsdjdYXzlfS2ZDLTFIRUFnUkhyb2F2aDZpZ0hDRzU?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T15:28:57+00:00",
-"first_seen": "2026-09-28T15:37:18+00:00",
 "symbols": [
 "ADANIENT"
 ],
