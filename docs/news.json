@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T02:19:22+00:00",
+"updated": "2026-10-02T02:32:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "0a40b8345ee4403e",
+"title": "Asian Paints Launches Hydronaa, Ultraa Wood Adhesives With 384-Sq-Ft Wooden Mosaic",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTZLR3ZnT28zLU9QWnJWTnNucVlaYkJYdVVQU08wYU1oOENJcW1VSUJvX1VpMGstY3IzWGRNU2FReFE3Q1JoSDBmcTBQbk4zU1VxbkNVV09ZY1pHUlJQYktDbWRrZ2VIMkNFSk5TVXpSX3ZoTHhFcWxQcERWVUlPQk9VZl91cG9jV29kbElpRlc0Rzdhczl5WVRaQkVNNkhmNTBrZjFaNDN5UHhOOTBhc082Z00yWjZwN3NXVGlweEc?oc=5",
+"source": "The Kashmir Horizon",
+"published": "2026-10-02T02:28:02+00:00",
+"first_seen": "2026-10-02T02:32:14+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "7b2fbea2baf0afc4",
 "title": "Who Is Anup Bagchi? The ICICI Veteran Taking Charge At HDFC Bank",
@@ -12714,6 +12730,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d806eb997122ed84",
+"title": "Wipro Limited (WIPRO.NS) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MeVdWQ21kRnZNeUZmZFFNaTUwYVppS3V1SE1hWG5hdGhrR2FXTlVnNnltaHhRRzlKZUgxamN5UzdjNHZ0OTUxRVduZThYTnN3N1JrbDlxUQ?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-10-01T06:15:22+00:00",
+"first_seen": "2026-10-02T02:32:14+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bc6d3167aec22f6b",
 "title": "Adani Energy Solutions share price jumps 5%, outshines Adani Group stocks- What's fuelling rally?",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQlZvb1JocHY2SlV0d0hkNU5MRTRkbkIyS2hQZWtqVThkanppYWFUQUZfTHk3cVFFWDNNVG1FX2Y4N1pqV0tJaWZ4WEg3X2YzazhkTXlHM2tUU2RZT0k0aUJUeXM3Q1lsV0g2cnJpb042ajhxNG1Xbnd1ZTdCWGtfTmNSQ1U4X3c4V3daaHNHVngxNE1LTDdGdktUMG1iNld1RkI2ckdSVEY1MEFwZWc2b2hDaWN5VWU4b1VnUXI5Y01OeWJZeVJCc0JiSjB1aXc3UWRudFFXdTlsNVBZenVMLTlzdnNRU3QtUC1vbDhFSmo4WGN60gH6AUFVX3lxTE5jNVRQbHRTSTkxN0w3djBNMjl6bWlEUmNZMTdCdWxEaVFETWdreUVqYVoydjhmdjVDVnBhUEx2ckN2Nk1nbDJDcDNNX2pucHdxSWJTczFrQlZuR0RRcXpaUjJDRXV5Tnd3aXdHSlE1SUExMkxJUVRBUnNEa3hEbUxzWlZHdE1xNGlJajg3ck1XUExCYVBjanN4aFRrSUFMR2VpdjZEVXc5MjR0eloyQzBPMnhpZG5pV0JuSUZ0NWl6UVNWMTlzS0F3bVhjWm1yeS1OR3R3NXRDRS1qS2kweFJCX21MOHJEbDNieWRSM2dRU0Jkd0pVUFJJUFE?oc=5",
@@ -14571,6 +14603,22 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "cba25532db0855cb",
+"title": "Second Hand 2023 Maruti Suzuki Ignis Sigma Petrol Manual for sale at Rs. 4,41,000 in Gohana.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1NibXViLWlWOWFJam91VTNHYlo0bHNORXJwOHlRejh6UERzdGVsd3lIU0JwWGZCQXRPdUd6YXZOVGVGSDJTcXIyN1BkZnhmTlpZbHc5UFNzZ2lIMmhVcnAtLXRjT0U1aHJZZG5rcnNrR2hkeVdRUUhad0NVbk05TWFRZGM?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T04:44:26+00:00",
+"first_seen": "2026-10-02T02:32:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "1821152a0af23ab9",
@@ -50737,54 +50785,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "795eda5d4d4edc96",
-"title": "Bank Strike Postponed: Are SBI, HDFC, ICICI, Other Banks Open? Will September Salary Get Credit On Sept-30?",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2NWRDBLamVwbTFnWHd6STJqWEIyX3JqMnp6ZDVJa2VheVJwZlg4V2hhNXFSVm5iYzhua29Ub3lHeDE5YVFFbEQ5aS1GLU9VZHFubkFDY1cydFoxZ2dyWFNFclpMNUdyc0VvYUFyMThYZXVRbnBha1AwNnJQQ2JBVU9qQnFWNXA3V3JuRWEtVzNmQU1LRUcwcDRGdWx0dWxJUmFnSnlET2k0WV8wdHJ6eEstaU4zV2Nya29jWnBUODVkYmtHZE1PM0hDekJRMlYyd2xJWkVZV0V2a2c?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T04:09:36+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "727ca4cc45b483a1",
-"title": "Spirit of Wipro Run 2026 brings together over 19,000 participants in Bengaluru",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS282Q0dwRUNuMHRBTUFVdTZQd2ktVjFFMDVwSmhSa2NUV1NwYWV3Rk95cGd4UFlLbWQ3dGxBZFJNbFIwVXB4V1JOYmRsSF9HOXN5QjNRQmdKU0x5T3FMV3hJUUczX0ZtY2U1alUxUkRMS3hZbnBUc3NQMWZyVVNyX283bVBUWl9SaWU2UVBrVDExTGxkbmowZy1VWk1oSEJnN3lLdmx5QkZPdlZrSHNLYS1LZU5UaW9xWWdqRA?oc=5",
-"source": "businessnewsthisweek.com",
-"published": "2026-09-28T04:06:51+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e7f7c469a1b14a86",
-"title": "Adani Group’s Dhamra Port makes history, port to run fully on renewable power",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHFoZC1kMEx3NEMxZDUxUnZGMTlxYUxvbEY0MnNDT0RVWFo1aXBjZzJLbzQ0VlMxdV9KTDB4RjEtdG9Cd05VbWZjdlFaWm9rZDRyTGFzR2RFcXpzbTVnUUtNdFRNSUg5RTZJTGRranFGSENaelNvRXdxMFFOb2otT3E4R2VJRFFpMFg5b1pNMTFCcWxFeEJ3a2M3eEtmXzBHZGp3NWtrOUl1eG40RkhRRk9B?oc=5",
-"source": "India Shipping News",
-"published": "2026-09-28T04:04:22+00:00",
-"first_seen": "2026-09-28T11:59:11+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
