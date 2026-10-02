@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T23:44:14+00:00",
+"updated": "2026-10-02T23:56:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -3174,6 +3174,22 @@
 "Management"
 ],
 "sentiment": "positive"
+},
+{
+"id": "0f78625fc2a48980",
+"title": "IndiGo Launches Independence Day Sale",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YaWJybjBQVWI3SGtlUXMxRWl6NUxzVENTaEtneXdmSklCSWd1TWdSWDAwWjdEVjh6TmtxSDAtQmV5WVhlVXpoTnViUTBreE1HU0JlRDNGSGh1ZHBHX2ZaMi1mSGRxT2t6emRKbFZDUQ?oc=5",
+"source": "safariindia.com",
+"published": "2026-10-02T11:42:08+00:00",
+"first_seen": "2026-10-02T23:56:29+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "393132eb092683ac",
@@ -50900,26 +50916,6 @@
 ],
 "tags": [
 "Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2b8ba960db6666d3",
-"title": "SEBI Settlement Order Eases Regulatory Overhang for Adani Ports",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYURZdzJmeVZOa3JJeml1cHRhbGk2UWo5X0xZLXpNdHdMRnlVa3RlWXZpMGh0bWtNVm1vb0F6VEhkWVBmUHh3WEdYcWIwcG9Sb3VGVHVVanQ0aW9oak9LRjhmeFB0VGk4NnhFVW5lU2lnVnppZUsyUTgtY05TS08wbzlDcnRyZFl1R3p2YXpHb19xdzluTm5WU2ZBcWtMT0paalhlOENNXzlRb0tZT0JVbHpYOXZhZw?oc=5",
-"source": "TipRanks",
-"published": "2026-09-28T21:24:43+00:00",
-"first_seen": "2026-09-28T21:32:00+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal",
-"Regulatory"
 ],
 "sentiment": "neutral"
 }
