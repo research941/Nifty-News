@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T11:34:11+00:00",
+"updated": "2026-10-02T11:48:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "393132eb092683ac",
+"title": "RBI likely to hike repo rate; CPI inflation to rise over 6.5 per cent in Oct, Nov: SBI Research",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd2VHZEdkUzNfMUQ1RHdvY0U3Y3hTQk9zUll0SVJMYWVrNlFHOFBJak44M19sVVZBcVQtRS03VDVkMmM5MDFOZnhzMDRZaklmcUVmQThVc0NyNHN3Zm5ZX2MtblJRZFhGZEhiRl9RRUxUTXVjNGJzZ0MyV2JsN2dnSXZBNVFaWm9La0tMTUV2WEdwaUtzZGVETS1CSkRqRnowY0Q2V3FzUWtXcUU0S3dqXy1lMkluR3V0WlpxTXZpb25DeVZmU2FXX2lKZjBUWDRWLWRveU5zNi14MVFpWjdVMURKWThTYnkzazY3SW5TRXbSAfABQVVfeXFMT3dlR2RHZFMzXzFENUR3b2NFN2N4U0JPc1JZdElSTGFlazZRRzhQSWpOODNfbFVWQXFULUUtN1Q1ZDJjOTAxTmZ4czA0WWpJZnFFZkE4VXNDcjRzd2ZuWV9jLW5SUWRYRmRIYkZfUUVMVE11YzRic2dDMldibDdnZ0l2QTVRWlpvS2tLTE1FdlhHcGlLc2RlRE0tQkpEakZ6MGNENldxc1FrV3FFNEt3al8tZTJJbkd1dFpacU12aW9uQ3lWZlNhV19pSmYwVFg0Vi1kb3lOczYteDFRaVo3VTFESlk4U2J5M2s2N0luU0V2?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-02T11:32:00+00:00",
+"first_seen": "2026-10-02T11:48:46+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
 "id": "6222a6967827bcef",
 "title": "🚨Reliance Industries Executive Director Anant Ambani said the company plans to invest Rs 1 lakh crore in Andhra Pradesh to set up compressed biogas (CBG) plants, create more than 3 lakh jobs and generate nearly Rs 60,000 crore in revenue for the state.",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNazhyMGtzMl9pZU85ZjBGNlRiT0h2NVpQNHlBUENBdFlROXJhQVB1RnBiOG9uaEdpZWJGczdIVExkUmtBUmFfekNmSDdWa0JaVHlXSnlVU1J5U3p0R3A2RWl5ZXBPeE9RWmZ0N3pXM21BQzI0RVNYRmYtc2RLbDluWDRsdVEzYi1XbXJWdTRWRWk4dDRWbkFISW9CUEYxS0dpVF9FQVJoNUpiNE5jN3RNZ3lSVDdjallmQTRHWHZmOA?oc=5",
@@ -630,6 +648,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "eea75db3b934eb76",
+"title": "Maruti Suzuki’s New Supplier Rule: Why Indian Suppliers Should Work Only 6 Days",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wWWVRU0lVaDh0aldzd2dMbU9YajlkcU9ueFJyWVM1b3p6WkNEa0pTcTlmVUVZRjJGRGdoTnpkdUJtVjRuZWpOc2RpUHdwTlFubnJkVVNuMUFWZEQxLUM0N3pyMTE1SGhiZEFfMXFjX0YzTXd2OGx3?oc=5",
+"source": "NiftyTrader",
+"published": "2026-10-02T10:31:30+00:00",
+"first_seen": "2026-10-02T11:48:46+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50888,38 +50922,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "cfe298128b856048",
-"title": "HDFC Life Sees Sharp Open Interest Surge Amidst Bearish Market Signals",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWpmam5QejY1Q0EtSDQzdVBaTkU4ZUlEOFJ6ZllLYjhuTm5rVkJ3SVNZRUZFSGgzTjVjM1lwWmEyVy1obTBVQzRsb3dnc0k0TnlfeHFBM25vdWx1NE5OVjMwNmhrZVE0V0tiemdPSXVmbGZNMXdOWEFaRjU0aTNpSlNnZ1ZnQjNET3R1SnNRcDhiN212d2ZJcVhOUjQ1S2ZkZXNZWUw1VTdnVEkxNG9aWWVSd2FGclJCRnN3d3A4VmdUc0NKd0dv?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-28T10:34:00+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "846b2daac00eb76b",
-"title": "Tech Mahindra slips Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnZFOUduSEJvS1VBaGxFLXdNZFU2LXJXbUpmb1J2YkVLVkw3dENhLTJhQjNlYS1sQ0RkWlpwZ3ZBSno5YlNldld1elhzNm5LSU8wZUhMSlhmRzNUekRuaWNDS09iTDg5amVSNElQcVlOUElKWnBjSUE4eGRfeE1QRmxPeUtfNDBEaWtlVGRwdWpXUm1SQzRpbS1tNkR4RFR4ODVOV3F0MkpBOFQ0QTJlNDc3LWhtMm5UdC1jRUhGMEZlQWF2SEpDZQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:33:00+00:00",
-"first_seen": "2026-09-28T11:49:57+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
