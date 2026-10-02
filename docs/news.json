@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T04:17:48+00:00",
+"updated": "2026-10-02T04:35:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,59 @@
 ],
 "items": [
 {
+"id": "6b9eaf4b5f4e3674",
+"title": "Who is Anup Bagchi, HDFC Bank's new CEO and MD?",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMy1TdXVoU3JrY0hOQUM1M2FpVWVnOTdQX01Zam5BNXFBNGREdFF5UWxJdWlkRC1YTFNKa1V0bVRqUGV5TlFyWVpGbl9uWEhnSlM3NFpUUUhxdWxOYVY0azBxdlh4bVBFSGlwZmtpcHlER1hYR1pWbVNJcGNjS0FYMjViWVZodWY4Wi1YREN5WFh6M2ZOZHNZME5ycXhjSzBabUYxSjZ1Sk9IR3FnUW9xQzBUVmJ3Zk9RZmNHUkN5U29IcC1wNmFObkoyc1N4Rk1kLWJVLWF0d1dzRHd3U2RKNzQxU3JFYkowbHNsYVItaVBEdkMy0gH6AUFVX3lxTFBOQklHMjU3Rmw2UWFRSWhYUmwtaU5haXVjZXhFTjdNNjE0elJ3Sk5ET01GcjZUZmNRTVZORGx0WVUzUXp0UmR2NDdDQXpsVTJsM2pRLTdwQnlsQnZvRzRPZFpMek1SeDZ2cEo1NEFFQmMzc2hocXN4SVNZaXB1Mm9QRXRDd1lQMzhmT0hXQ1o3NU94ek80UThLaDdWMjRsWmZjdDZIUnluR3E2d3RxQkVfbHMxM1ZQREVDNTJ2WFRhbDg5ZXI5N1BobEZFVmF4YU13RVVNX3JNUW12cndTRzRySEwtczFHaDlYbElOa00yT19Yek94QTBWSnc?oc=5",
+"source": "India Today",
+"published": "2026-10-02T04:29:36+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ec7925c5e8ab6d5e",
+"title": "Accenture Rally Lifts Infosys, Wipro, Cognizant as Strong Outlook Counters AI Disruption Fears",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTWMzQ3hKdHNCelhuN3NZdUxCT2FIZktJVHNQY0k1eWRpd0lCcDJsQmMzMDRUeUU3TENuUXJHTHJPZi1KN0FNaXU3c0U5QVBWWEVzZmxtcnZVU2Vycmh2MDIzVng3YnNkSjU0eXFCdENzYmRpMzNFM09QNWRnUXBvQkNmWFFqNkNIVVl0N3RRdG5Kazd3VHdfaU52N2UtckVkQU0tUkhBaTRGaC1fX2xvanI1SE9aeUhGOWdrXzFpSDZtSkdHbExvMEpuUlBkMDA5Znp2ZmhfTG14S2o3UlV6aWtpSkRyMEQ4dlJB0gHrAUFVX3lxTE1NYzNDeEp0c0J6WG43c1l1TEJPYUhmS0lUc1BjSTV5ZGl3SUJwMmxCYzMwNFR5RTdMQ25RckdMck9mLUo3QU1pdTdzRTlBUFZYRXNmbG1ydlVTZXJyaHYwMjNWeDdic2RKNTR5cUJ0Q3NiZGkzM0UzT1A1ZGdRcG9CQ2ZYUWo2Q0hVWXQ3dFF0bkprN3dUd19pTnY3ZS1yRWRBTS1SSEFpNEZoLV9fbG9qcjVIT1p5SEY5Z2tfMWlINm1KR0dsTG8wSm5SUGQwMDlmenZmaF9MbXhLajdSVXppa2lKRHIwRDh2UkE?oc=5",
+"source": "News18",
+"published": "2026-10-02T04:20:30+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "065fa1cec2f193ae",
+"title": "Tata Motors delivers strong sales with 1,35,114 units in Q2 FY27",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0w3NXJhNkJ3R2xLQnBDejJza0xjZnotYVpSeS1lRXlpSkxLN0g5NXBFX21tc1RCeG9QZlM1Q2lYTXZHRlpUSTByaW9uQzVtUTdOdTQtZk5yaW52d3JNS1JpS3Azb3VURVV3T04wY3NiSGUzbmctazR5a01FbjhFa3ZnUV9UYnF1MV9iYjZlR3NDdkdIMWVzemhVLWFMb1lUMldNY0FQc041ZmFhTGc?oc=5",
+"source": "Construction Week India",
+"published": "2026-10-02T04:15:00+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "095b97e3db7ac29d",
 "title": "Who is Anup Bagchi, HDFC Bank's new CEO?",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWVrSk04dGMxRlNlRk1wbW5LX1hKWVJ0YUJVNVN3NWlVaGVMX1ZOSVM5WGlQSUQxcXJYcWdsQ3dzSWJHT0pTOFc5dFkxV1dJVjJmQUtiMWxWWlZjMHpLRVJUOVMxM3F2NmI5Snd5bU1rUzM1dDlzWHVXMm5zQ1BSeEI1bGlySzN6c3k5YmJzZFc?oc=5",
@@ -481,6 +534,26 @@
 "sentiment": "neutral"
 },
 {
+"id": "6eba7d4e717efe12",
+"title": "Market sell-off widens valuation gap in HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank - Which private lender stands out?",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObzA5UGROVmFzdFNDc05DdzkySmgzMk0xTXpPblRaTS1XdGFQMWVqRnlSVVZ1MFhCb2dxLWt1QzE5YnlCV3g1WnBCY18zdVJYUWlBM3BMSWZ2b1BDMzlTWlBXQ3hnNVdLQWVuQk54YVlBM2NmcHR1N0dvSEx6MGZ4VlRtT1VwYzEwSXJ2a183U0RCSkg3NkxpNEQzYmZuS0gzWTI2eDZuZldCeFlFVERoMWZnN1gzVmNweXNGRlVROEFwSjhqV2plcWpITHc3WEhTamJvLXAzSl94SVY3OUR3MDFkM0Z0ekF2RmxjXy12dzhCQlZEUDZYYw?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T03:49:44+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"AXISBANK",
+"HDFCBANK",
+"ICICIBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "e2da1757b391c86a",
 "title": "Bajaj Finance plans ₹17,500 crore raise, with parent Bajaj Finserv in for ₹5,800 crore",
 "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmZURXBaVnlpdjVYZEVTLUtIOF9xY3FHRE9kVGlJMTh6RGxRankzcm13enhFREpvUXJkMGpqbFFOUWpWalVpLXg0YzRNeHdrbmc5WXlnWUtmTWpHN1pyNXVmcDR1d05nWDFmQVUzY0lXMFhtVDI2V1kwRHNSQ0Y4ME1CNm1sVWNHZFlETXRJY05KZ1FmeXFnVXRSRWxTN0xKMVlpaS0tMFhxR1dIWWlia0p4cGJVcUtCWUMxYjV6NE1Od2hsSngtazZmcFVEQ3U2YXJRenp30gHbAUFVX3lxTE9za01iT0xETm85YS01dklFeVJwbmhLNExWbm5rQk0ydzJBVS1tNFluWWNYeF9TX21hQjZMdkdZMGREeXdweUJub19lRXdGdVpRRlBPYndKTUJOWnJxVDRodHh6QUtuS0FYdzN1SzhJaHVyU0xRU3NIMC1mdWk5NkdjQU5OMXAxWi00UDRmbi1ZTkFENGdmaHlIbGtQZXhJN3B6bGhaQ1pQa045cEVaeHgzd1ltdzNxNUx4NFVzUVdvcmttalpDZzZOZ1lCMS1NaVlTSm9DdERPTGNLTQ?oc=5",
@@ -495,6 +568,25 @@
 "Bajaj"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4df47350db18ad38",
+"title": "Bajaj Finance QIP: Board approves ₹11,700 crore fundraise; ₹5,800 crore warrant issue to Bajaj Finserv",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmZURXBaVnlpdjVYZEVTLUtIOF9xY3FHRE9kVGlJMTh6RGxRankzcm13enhFREpvUXJkMGpqbFFOUWpWalVpLXg0YzRNeHdrbmc5WXlnWUtmTWpHN1pyNXVmcDR1d05nWDFmQVUzY0lXMFhtVDI2V1kwRHNSQ0Y4ME1CNm1sVWNHZFlETXRJY05KZ1FmeXFnVXRSRWxTN0xKMVlpaS0tMFhxR1dIWWlia0p4cGJVcUtCWUMxYjV6NE1Od2hsSngtazZmcFVEQ3U2YXJRenp30gHbAUFVX3lxTE9za01iT0xETm85YS01dklFeVJwbmhLNExWbm5rQk0ydzJBVS1tNFluWWNYeF9TX21hQjZMdkdZMGREeXdweUJub19lRXdGdVpRRlBPYndKTUJOWnJxVDRodHh6QUtuS0FYdzN1SzhJaHVyU0xRU3NIMC1mdWk5NkdjQU5OMXAxWi00UDRmbi1ZTkFENGdmaHlIbGtQZXhJN3B6bGhaQ1pQa045cEVaeHgzd1ltdzNxNUx4NFVzUVdvcmttalpDZzZOZ1lCMS1NaVlTSm9DdERPTGNLTQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-02T03:46:44+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -513,6 +605,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "6f2214c75f7e92db",
+"title": "Telecom tariff war: Vodafone Idea bundles free roaming – Can Airtel lose users to Vi?",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPem8xWGFOTXFBcmxZZXZyX05XYUI2RlpxN3V3TmtON1NxaHhHaVlMcmI5bTNSUmstelJ2a21WRVM1OFE0Mzk3UjdIWk1ZSThoUU1vcXdDb0d2UkRpb1pSRzVabllhYUdVdnQxcXplZEUzdEdyZ2FJWmJxazA4V2hvSFQtYzBnOXJUclVhcHpOQktUY0p3RFZxZUI3SXFuWUJEY3RrNDRGc1F4WVZ0el9wZFduUm1KRmRuR3VhX1hwNmpkS0psNTdMZ2lPTFZ3T3Mx0gHQAUFVX3lxTE96bzFYYU5NcUFybFlldnJfTldhQjZGWnE3dXdOa043U3FoeEdpWUxyYjltM1JSay16UnZrbVZFUzU4UTQzOTdSN0haTVlJOGhRTW9xd0NvR3ZSRGlvWlJHNVpuWWFhR1V2dDFxemVkRTN0R3JnYUlaYnFrMDhXaG9IVC1jMGc5clRyVWFwek5CS1RjSndEVnFlQjdJcW5ZQkRjdGs0NEZzUXhZVnR6X3BkV25SbUpGZG5HdWFfWHA2amRLSmw1N0xnaU9MVndPczE?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T03:34:00+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1035,6 +1143,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7aac516436870747",
+"title": "Anup Bagchi – strategist with an all-round experience is the new face of HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUs1V0pRZzFYRjNjRFNrSFFlSUhuQmFVZUh4OXk5SlJKTUdpQlFJVEw1V0QxTnJyT1FKd3ZHVVFwTEpaOGxxaEJka1ZJNWRUcE9mZXlzVkNjQTU0RUVUeVRYX0dHQ1BjWXlfTXdOMlZyQlMycDZGS00tYkcyUENoV1AxUkJwSmV6bUNFdFFZZFdLQ19vRDZ2ejFqcDdWaEdicm53bDBsQzBxanI1T0lHZkNxZTVoZzJyZkwwNTBoX3ZCbGNUajZRanZhSlE5OGthS3Q0WGNFWdIB3gFBVV95cUxPcGRCaEI2NVVBTlNCS3JfY04xWHhvMHVjZ2hFM3E5Y0xBTlJmVG1vV0JWdWt5eEpKaVNTV2d4RTVvQUI3Z05LYWQtWGktN3VrQ2dPTUF5T2hiWUJpM0RGd1F4TWhEV09LN3NFeHY3ZWJaS2d6eTJpa3lCbnBlcnQxUTB1c2NJanRUNDBfUWRSYlpuX1owMkw1QzNzS1JlMy1iTVVSWXVnODlaVUtXNWJqSlU4X2Q0Yl9FRDNQTVNRX3JGeUNyTUVHT1FFNGNYU1lVcnJZMlNNSTRjM01aaWc?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T00:44:16+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -13396,6 +13520,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "9fec36c384567f73",
+"title": "RIL share price target: Will oil to telecom major surprise investors in Q2? - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzBjWUN1QVowOTVpZFRYS1A3MHd6ci0ySzAtZTBTUGVudXM0cTcxM2RLSEJ2ZVV6dmJUT3ZhYVNOdWJlNUJxSGtPWURiVnp1SktyWFBTMHJJaHhTODZuRkIwZFFFWnl6X1RfWWdKMEpfczVocEJyb1JyYnJHcm5UN0FLOVQtYjI0dVR5S2ZCTjVXWHU5a1Q0YncxTzQ0Q0xTS1BHem14UHoxbWJJWkpNR1dOTEh1dU1RQ240TWt3cEE?oc=5",
+"source": "IndiaIPO",
+"published": "2026-10-01T06:13:31+00:00",
+"first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results",
+"Rating"
+],
+"sentiment": "neutral"
 },
 {
 "id": "b5f2212a2b73f62e",
@@ -50668,138 +50811,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "54aefd3be3d25cca",
-"title": "Sun Pharma Bags Global Rights to Cholesterol Drug Lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0NqaGkzR1NwNE5vem1jNlEwc0RxbC1hSG9OaGZUMU00d29peEgzLUp2ZnN6Z2dxczlEN2FqcG1XR0MtSTNUSV9iTkhQaklaYllWZmRoRXowS1BEZmRBSnFRMVNXeXd0OElGM2xtc3U3T01KTy1UMTcweTJJQXlSOFpaUDN3NXhPVTJ0cm81UndNWUU4QTlR?oc=5",
-"source": "equitypandit.com",
-"published": "2026-09-28T05:04:51+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "e63e4b9b59ee53ff",
-"title": "bse share price",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMjRiSFp6bFRBNEZfdnFkRjhidWxaOEFHcWtiVGZpZzVDbEFWOWZoYkg4dmlaT2pfS2VhVVBnNTAyVEFHQV9mbFFNWnRxWVVkUzJkbzVlMk9TVUZIMm0yTFNrN2pzNThJWE9OZWhJNmlDdw?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T05:01:19+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "15b7d796f453b6e5",
-"title": "Accumulate Mahindra and Mahindra Financial Services; target of Rs 350: Prabhudas Lilladher",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaWZVV0I2OUpQTUJLWUNzZHZBUGp6ZHZNU0pZTXZsNE02WTRCRUhSUmlkSXNNb2ZjeDY1Wml0a2JDaXhlLU9wZmtsV0hUSnV6RHMxMXBrNVEyaGtZY21mSVdZWmxtZGdFbm1oY0pUemlRWmFQZ0lzOGNmbFBrVHp2djRaU0VXQmMwcE00ZVpIaGcydDA3UlNudWREODlwc2NVZ2NnUHhzUWJfaE9UQ2NXWkg0SGZsSXg4cFo2emJ3blVObTR4SDl3WXlnV2g1ZXJRdDdtQjB0VTdzb09OTVZvVlNSR25WWE3SAewBQVVfeXFMUEpUS1NTbXktb0J0bE95RTl0S0xGbzR4MXJTSXlTc2hBdmlrcEc2QjJVMzk3NTlCQlNEVnpQdU1mY1VxaTJaanVRQm1LY1RsTDN3cXpTaF9ZRDlZcEIxRlNCTUFiY0Jrck9mSnhfLXRtamN1alNHT0J2M3FKd09OU2plVk5wR1NtODNFVkQ3VFlhUC1Zanc1RVRNY0diak9NM0ptbVhmdGotM2dFVlhqdFpqdjlhUE5ydjBDeVVBeGg4dFhpSDFFbkVHSko2cE5KNXN5VWh5UlVPZ3JBb3dnUTRTTEFmZlg0SWhtVHI?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T05:01:07+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "72dd2dd130a71f66",
-"title": "NTPC, EDF Power Solutions Establish 50:50 JV for Clean Energy Projects",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejRzU2JfNEMxUTJaNl9oYkFDZlVmMnR4ZVVCRFFwd3dZWUtuZC0xZkVQTU9hcHozdEJKUG1VR190VkpVUExscC1hZm96c1NEd1AwWTlaUjZlR2psVTJmNlBJQlJVZUkwdVdYUFZVSjRhU1VQVE5pUTZGUTk0TG9JS2M0V2JRSVBneHR3LTZvcllNMV83RVdsX2NZMEdMVWN0WTNsN2pUbDhOQQ?oc=5",
-"source": "Energetica India Magazine",
-"published": "2026-09-28T04:59:21+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "caf544fea9eda4dd",
-"title": "NTPC and EDF sign JV agreement to develop renewable energy projects",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjhVaU1mYlVpLS1ibVYtRnhVcHIwZWpDVDJOc29yMkRKQXkzOFNBUjlQaktsV3J2aXdmakhPQnB0OTR2RUVSRG00RzBvQXRyT1JpQmRmN3JZWUphS2dKVGxSOS10bWRrNmF6eFA5RjZMQ2JmR0dPT0dFSEdHSHFocHJaN2FGejNQWG80VzZTaXN6cGxUVEQ3SlA5QTNwc2laQkxUVy1SRFFJdw?oc=5",
-"source": "Powerline Magazine",
-"published": "2026-09-28T04:56:42+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0fe259340a8d114b",
-"title": "Sensex Today Tanks 903 Points | Nifty Below 22,900 | Bajaj Finance & Kotak Mahindra Top Losers",
-"link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOdG9ZMjl3S3k4WUF1em9tWmNlYzljbUpSYnFOUTJMa2QwbFlYQ1FSbzBULVJ4dmI3anNyRVp2b004YTRCcVRQWHpNNW8yZzdMYUtwMXZURXZvOHlJcTEta0toaXlMUHFhNmpkeTczaXNnUXd0XzdWLUZhOFZXLWF0M1lpV3JWcUNpS2otN2YtY0hxR3poS01sUm9LLWljeEg3aXBtWlpjMk9kWGktMUQ0aVVFcXdrUFpQNlc1eGVjQkliOURLcHZFcVAzVGxGX3R6bDF2b3ZRaFVsN2thX1dFU3QycnpVd1ZwaGhkN1NHSGZ4V2FlRVdlNTV6WjRlRkNRQ1NSZzNxeEtNNlVFY3NsSlhXN0VPREpYSzRKQUJBdTlNRC1rNFZ5RkE3YTVxWE5tcy1CNVBEaHNsOGdYOHZPUjRFWkh3S1J4Z2RLT0llVXhIaEtpRnVKXzY0NFp4azZpZHhF?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-28T04:56:07+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "05d2d7da28910441",
-"title": "NTPC CVO Visits Pare Hydro Power Station in Arunachal Pradesh",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUcxTW1IMEg2OFQzY0JSaHM5eFdlS0o1cmpZUDFIWXQyTXN0aDVncjBPZFVwb05YSkNqZUIzYnlzVkpKa1l6SHlmVzBfbzZWZnJtc04xYU9BNkZ3VTg4SVAzQmw4Nmw1NmFLT0F3V0NLaTl6YVRNcmIwUnd0bzZnOFdndTJRY1VDOERJMWRjbG9QM2t0NGpPNU1fNDc?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T04:56:00+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "75ad54a7d75a66c9",
-"title": "Bank Nifty Index Slips Below 55,000; Yes Bank, IDFC First, PNB, SBI Top Drags",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejk1ZlpYeDdNMTNhUWFxSlBqX25LRGxJV3FJSjRwYWRqZnVrVmszbEVvc2RMa2RlbThIMFJyenlDYWVTNkI0SDA4WWJ2Yk1kVXlkUm10T2tfdWt1SlQ3ZHZ1dmphd0hIbEs1ZEQ3b1BQbG9KMl9CYkpyQ2RjWkRMLVQtbDM4LUYyWTZJSVFvRzVxV2xxd3BqMnVGTi1Cb0lQWWZxc2F4eWpXLU5WMWUzdWZ3TXkzNzR00gHAAUFVX3lxTE5GY3dXQ29fYnFRdmYwdU1WRVVET3ROalVRTkV3RmZmU1FkNWkyR1gxbWwtRlo0QzVjMEpnOTc4WnFSOFgzeFFLVURtTmJvcDBKTU4zRmJzenRuYnh2TzNkZHBpcmk2aENQbWRLcXpyYmJTemRvY1FxUTVMUGJObGVKbW1jM3Byd0tkYWNFQW13OTVCaXdDZ08wUktpZmxYZW4yVWtvVUxmd0JzQWV2R3VVbC1vRTZhR3U0VkttbDNCag?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T04:50:05+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
