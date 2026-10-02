@@ -1,6 +1,6 @@
 # SuperTrend touch backtest (SMA 9/21, VWAP hlc3, SuperTrend 10/3, 30m)
 
-Run: 2026-10-02 16:00 IST · stocks: 52 · bars: 37624
+Run: 2026-10-02 16:12 IST · stocks: 52 · bars: 37624
 Failed: none
 
 ### All stocks
