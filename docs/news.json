@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T05:34:24+00:00",
+"updated": "2026-10-02T05:49:18+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "29f2397fb754ddd6",
+"title": "HDFC Bank names Anup Bagchi as managing director and CEO",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXFTTlFweDlXMmxQR0FaY2M5SHY2TmZ2TGFoS0lOenc5SGhvQlpBVE9kLWFWWG9femZYU0Rka0dYRDBteWxQY29pMGRPV0RTV0pLM2hfanoybnFYU3hRRHphcDFLSmhrNnAxSHNKTHlJS3gyQ1JVZUI3VU13OTJkYzRMeU5IaEYyNTdtd0xVNklpQ2U4?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-10-02T05:46:02+00:00",
+"first_seen": "2026-10-02T05:49:18+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "103c365acfdafdaf",
+"title": "Doctor at centre of Stoke-on-Trent sexual harassment case 'lost faith in NHS'",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEOHhBMk1UNGh4dE1vTnNfQ21JVDJUTXRJQ0NkeWNqMEZoSDZhNnhNaXJFbWZsRE9pTmpOZkc5czR5Z0ZYUnZHYk81NGpWaTl5OVdYYjRFbWh0UDA?oc=5",
+"source": "bbc.com",
+"published": "2026-10-02T05:37:37+00:00",
+"first_seen": "2026-10-02T05:49:18+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d3f7461654e63c3b",
 "title": "Down 10% in a month; Bajaj Finance approves ₹11,700 cr QIP, ₹5,800 cr warrants to Bajaj Finserv - Share value impact",
 "link": "https://www.livemint.com/market/stock-market-news/down-10-in-a-month-bajaj-finance-approves-rs-11-700-cr-qip-rs-5-800-cr-warrants-to-bajaj-finserv-share-value-impact-11790917497603.html",
@@ -748,6 +782,23 @@
 "source": "News18",
 "published": "2026-10-02T04:20:30+00:00",
 "first_seen": "2026-10-02T04:35:34+00:00",
+"symbols": [
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "95174ce066eb6232",
+"title": "Accenture Rally Lifts Infosys, Wipro, Cognizant Up 6-8% As Strong FY27 Outlook Counters AI Fears",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1I5VWtwei1WSXoxVTJCa1ZxeHpjUEFXTndMR01RVHNUM0NqX043Y0NXOHFCVDMwcTE4c0dtdFQydDBrV29DaG9TSE04eTE4LS12SjBFLTdNUlRiMk9WSjQydHBwU3ZVanRCWE8td0pPejFaTWNpdjFlZkFSSTZoelQ1T1FVX2FVZjJLYU5qaGdvbnliWFNKejFfU040WHMyQkllZ2xFMWZGdHN0aUkyeWFBTkN6R0NITlNweWtuZU9LTFlqdWZsRk5RaUNSWXJ6di13dGpVRkczRjBDUk1TWTlfNHYzd9IB6wFBVV95cUxNTWMzQ3hKdHNCelhuN3NZdUxCT2FIZktJVHNQY0k1eWRpd0lCcDJsQmMzMDRUeUU3TENuUXJHTHJPZi1KN0FNaXU3c0U5QVBWWEVzZmxtcnZVU2Vycmh2MDIzVng3YnNkSjU0eXFCdENzYmRpMzNFM09QNWRnUXBvQkNmWFFqNkNIVVl0N3RRdG5Kazd3VHdfaU52N2UtckVkQU0tUkhBaTRGaC1fX2xvanI1SE9aeUhGOWdrXzFpSDZtSkdHbExvMEpuUlBkMDA5Znp2ZmhfTG14S2o3UlV6aWtpSkRyMEQ4dlJB?oc=5",
+"source": "news18.com",
+"published": "2026-10-02T04:20:30+00:00",
+"first_seen": "2026-10-02T05:49:18+00:00",
 "symbols": [
 "INFY",
 "WIPRO"
@@ -8565,6 +8616,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "75dd704a28201033",
+"title": "IndiGo Airlines Appoints New Chief Strategy Officer",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZlpHZkc0eHpMc1BUR1BUYmdJMURVVFBmVXJfbVplelNfNnMwM1Ayc205VWxZZkl1M3NkY2NSZC1kWllscW9mamRkcWhTbno1X3lweFlEeXk0dGpVLVdpLXNhWWZQTDdYNFVJZHFNUHM?oc=5",
+"source": "safariindia.com",
+"published": "2026-10-01T10:07:53+00:00",
+"first_seen": "2026-10-02T05:49:18+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50773,70 +50842,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "ceb3a928c11c130d",
-"title": "Indian IT stocks remain under pressure as Nifty IT nearly 1% led by Wipro | BSE Sensex down 1.40% | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX04zMzJkRXg2d1llc1RIQ3diLWVEUVZXTXNYU2pKZV9sYlFISF9rTlJJamJ3X1Uzd2s4dnY2M1FMbWd5Tkd5X1lwMS1TNVJoRzdwZ09UcG0tVVdrc2tycVdyZ3ZoUlh1NjJES182ZTUxeTFRcWJ5anlMTlh4WGE0OS1tZXpPb2FuelVOcnAyV2RlY1E3VmRROVBSQm9ydEFRMU1pZEFBUHhRcElWY1HSAbMBQVVfeXFMT2tFdmRmNE85RXQ2TlQxWVFQSm53cVYwcWN6ajBVMWVEbGtxbEgzcEhYRndBcHpCX0pDY3ZqSk5HUVVHMkZTZWwzT2QyZFBjUXVNRnE1M191YWFyR2JqNGdIMHY5a1VjYTZzODBOZmxtdHZVVWdhU1ZZRDkxQjhuMEpSM1dlR21qSjNJMTkxMlU0ZjdXb2VxT2VQUDlKWEdtbmNkOHNpcXhqYmJaYUlHRHNqNGs?oc=5",
-"source": "inshorts.com",
-"published": "2026-09-28T05:50:52+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e4419e2be1fd4bd7",
-"title": "IT stocks remain under pressure as Nifty IT nearly 1% led by Wipro | BSE Sensex down 1.40% | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX04zMzJkRXg2d1llc1RIQ3diLWVEUVZXTXNYU2pKZV9sYlFISF9rTlJJamJ3X1Uzd2s4dnY2M1FMbWd5Tkd5X1lwMS1TNVJoRzdwZ09UcG0tVVdrc2tycVdyZ3ZoUlh1NjJES182ZTUxeTFRcWJ5anlMTlh4WGE0OS1tZXpPb2FuelVOcnAyV2RlY1E3VmRROVBSQm9ydEFRMU1pZEFBUHhRcElWY1HSAbMBQVVfeXFMT2tFdmRmNE85RXQ2TlQxWVFQSm53cVYwcWN6ajBVMWVEbGtxbEgzcEhYRndBcHpCX0pDY3ZqSk5HUVVHMkZTZWwzT2QyZFBjUXVNRnE1M191YWFyR2JqNGdIMHY5a1VjYTZzODBOZmxtdHZVVWdhU1ZZRDkxQjhuMEpSM1dlR21qSjNJMTkxMlU0ZjdXb2VxT2VQUDlKWEdtbmNkOHNpcXhqYmJaYUlHRHNqNGs?oc=5",
-"source": "Inshorts",
-"published": "2026-09-28T05:45:12+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5f655ae85db57661",
-"title": "Tata Aeris Gets These Features Over The Maruti Suzuki Dzire",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHhIcTRMTmVwYlVRTjhaN3VoVTNsM3FwZW0zUk5KV3V2Vmc5Ny1neHdFRnluOUJaLTItOWRmZnktZTVWT0gxWmkyS0hzMG8ycGFrWjc0SGs2TklacHp5MVpvWXc2cV9oMjB3bkpVeUstcGV4czc4dVRJa0VNdFBxRmdnMVhLUWlLdkNKaHFxbVJCakdLbWNiTkJ6NmtxWnpJeEljRS1zYVRzbnkxeTZEOTRnYnNsNjdFdTgyOdIBwgFBVV95cUxOM3NKa0czX0tBaU9HQmlLNUNpSmpiemk0OFV1R0tmMnd0S0NZekxWeXpBTk5UaXEtcG5XUXVXUGNuZmF5R2FoX2g0NUJWNkRKSG94OU9QOWFKYjNqMTFxRXJWZ3laM1BZNHpqaTlQN1h0b002OG9tTW1idXU4UTR6NnVNWC1YTDd0elg5ZkVFVkpBemtMRUswTVZmc0o4bkFUMHhmTTN3bFZNUG02QUNfVE5CSXBnWVc2dWFZd2M1U1otUQ?oc=5",
-"source": "Times Now",
-"published": "2026-09-28T05:43:40+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2e92a02bd799df84",
-"title": "Maruti Suzuki Starts Green Hydrogen Pilot at Manesar",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZVN2VQSWtha1MyYndoeEs2VHFQTzhSX3dRUXhPRzBvSE5OWDFvams3ZjdQeXRENkNEd1ZWVGVrQ2ZqaG02MnJBdXFkUWNXQVFNSzV5RUlfT1lYMURyYkxXdEI1M05EY2VsaVgwVElkcTBYYTh2N1ZsUW1DZ285VFFsamNYR3N0V1poaWY1VQ?oc=5",
-"source": "Machine Maker",
-"published": "2026-09-28T05:39:33+00:00",
-"first_seen": "2026-09-28T05:48:22+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
