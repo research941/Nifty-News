@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T07:20:34+00:00",
+"updated": "2026-10-02T07:37:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,108 @@
 ],
 "items": [
 {
+"id": "8cee19b98bda5665",
+"title": "Chaos, Confusion and Rumours Surround Selection of New Head of Maharatna Oil Explorer ONGC",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMZWlkR3BPZ3lLYzQ4Q2ZTQ3RfOUV1NmEtQUFvblg3dWhVcFNtN0pNTlhmd3Y5d1ZzYTRNNDFXLXlIU0h0dktxSnJMWXJyZ3pqa1N1SW1sTkk5S0MwUUdXRUUxbU9XOTJIeE83UWpXSWtfVGEzUUpYVkxoM1VyQQ?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-02T07:32:44+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4f3df8e881f378b8",
+"title": "India’s EV sales nearly double in September. Tata leads as VinFast, Maruti gain ground",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElRcHhSa3A2eGlqMTZmSE9OZm9OT2hsVk4wWUEyLVRoZHR3UEpFN080TlFvVU5iMzZrTGtMd2ZIUlhscUxzMVlydU9ud2NKMVNjVW5US2llcE8tQ3V3S3dNekMybmU3eGpGMHNNZjlLRkZ1UWQ0Z3VqcXR3alFlLXFJTkNvYms1cS1kUEl2cEFpTmZNaDRteVItNEFpQTBDQ0Z0aHlmdU10ZFlKanpCcldB0gG3AUFVX3lxTE9NWXI5RlhhWGxrYzMyeHdqM0c0bmlOVFNZZmNpQ1hKTHVJcG45SThDbHd2bDlLcmVUQmlrblIzY29xeVl3Ql96VjRRZGhPdFJEam9rRVFjWnJ3bmpRVlZzUnV5aGNsOWVJdHphZnNxOWpZVkNLY2tZeEpjMVpfUk1tRFdhbWtJS29RaEJvQmc4X0FOVTAwdDlScTFVSHZpZ2JRVmd0M1pHbmllbFlCMHNrTWN5dkJvZw?oc=5",
+"source": "Firstpost",
+"published": "2026-10-02T07:26:08+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "6ff686b8297d96f7",
+"title": "RBI Approves Anup Bagchi as HDFC Bank Chief",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVXNQVVFWOGw2ajJMbW1URGtUblpDa1VuVHlfNmRGUU50aFJpSmYzUk9kUU1zd2JuUTdEbkZOejNjVFJEMk1COHlmdFlfQ3dRVEVOTkRxX0FVeVVtTUJva1d5eG1uTXJsdkpVellJTEJJbEtlQkE?oc=5",
+"source": "GK Today",
+"published": "2026-10-02T07:25:21+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d114baa19ddaee2e",
+"title": "Experts' views: Can new HDFC Bank CEO-MD Anup Bagchi's appointment change fortunes of Sensex, Nifty, Bank Nifty indices?",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONWJySW5iQzVDVnJwd3g5Ykl4NVJ2MVhqeHk2amdYRVE1elM5a0lpcWwyWTdQRl9xV2hTYzZFbGhIM1lhX3RJM0Y2aEgybkRIN1BTV3RfX2ppZGhKNk1JNTJWZ2VpQkNwNng2a1N3RzBxWHNkNThrZ3FXeDdnMlE0UjQ1azNoVG05bjN3Q1dlNDVnZHhDZUNvUmk5ZjUtcV96WFB4VXdQclpnRlVqNFlWaXdIVEU1eFFQQzE3MHRBTFRvSVpUdnU0bi0yMVA2bFYtZ2NHTHl2TzBGcUYtMTMtQjZiajZVdnZBbEJGOTJiZzlGbnVpZVFFdHh1Mzk2aTRTVXFTdUc4M2ZybU9MNm1tVTZn0gGXAkFVX3lxTE5YQ3hPTl8yZTVvV1ZqdU5VRXEzZDdoWnJfeEdTejZZSV9PMXJGNXdoSlJIV0tXbWFTZWpRbGJKeFRGcTdiNG9rbnVzblgtY19fVUwwdGFxNElqc3RVR0RINkJzb2p2dlQwNDhDVnVocC15WkROQVZ6QTBrNHRYOVpFT3ZJMWZzOHREMmhsU01jdDRsMTJUSkpxbDhKc1lIUUdDSk5xcFJpenItdG5wX2NfU1NzajJNV1I0MnFtYWVoYktNUDh6aERGdEpjNElHY0NWa2dXVWRjMDljSVRUYWdISmE1MlVlVVhSYURJamQ5ZnJEamFaOE5ZRHV0VW9sTWY3NlNud1pmZ2Vhc0ExQW5PSW5HRjZwOA?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T07:24:15+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c02e50be531660b8",
+"title": "Why has ICICI Bank come to be known as 'CEO Factory' for financial services? | Anup Bagchi, Anup Saha were recently appointed | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVdmMElvV0FVdlZJQVZ2UXN4d2hQdlFwNC1pamc2OE1xNE9XT1JsY244RGR5RkJyWDc4WGJpNHNaa2lKUE5FcW5DXzhMb2w3emtGRUxCa0xub2xqemV4SG50ZEVQeHZVMFVMSUFMWlN3UjFMWXl6QXBEQTdkS1prWnV2NHZKQTFfQUVua3RaNElKTVkwMG1STnNFaW5KeWlWQkVUQlRDTFM0b3l1NnZwRTkyTjRoVzJBQkUw0gHAAUFVX3lxTE5xUHBhMHkzMVVSdlhtU3l2WHdiaHZmeUFWdVMwQmoxek1qdnYzNmpqUy11T1gzUFJZcmpjVkJVbmttVXlXVnNVdWx4NklEMzQ1OC1tcDdXNUlpRlVvaFhFS2pyR0NHTWh4Qlc5R3FYbWZ2UGdVWUxaOWk4T1BwLWZIWGJucklqVHBKOHFGVUkzUlBvbVVQX192OGdoQlBBdnlBNlU0UXE0MG9rTGJSbndWT1V2YUpJLU9PU3ZsekhTRg?oc=5",
+"source": "Inshorts",
+"published": "2026-10-02T07:21:05+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "da7f62a2e64d9e53",
+"title": "Adani Group commits over Rs 6 lakh cr investment to Maharashtra; Rs 2.6 lakh cr projects underway: Pranav...",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblBEeDViR1pXYkkxRjJtaXprNHFrYW9wRzZmNS1ydlN4QVlTOE1tQjNjOWZDTUxOTmgzOTNxSmRLczRCd0xsZTd1SzA1Z0RRNlZsMXZMeFhYQllpc2N4VlQtdlc0M0pwOU1RMWNwUTNpMVlfUXVJT1FRX2x6SU1vYng1QnBOWkZBOElIYzBrLXZBdkJzZWJWcGRkN2J1VUpJQ2tOOWZ3M09HMnVQT0lDMTJobExIN0lGcnRQYmhCcWd1VmJpRDVYU2tMTjgtUG8zdGdWb2JBRlFZNVRyV3RSTTRxOWdpbFBqbkU2SVFYUmxsMXNQQkJmaXpB0gH_AUFVX3lxTE1PZWtEdjQxVXJFOEgzRjl6N3RzU0NFTW5mU3o0VC1wWG9kM3l0NUszVHVsZ2gtd1NNNXEwTkl0Q2ZCWUFZandMdXJrazlTQ3ZrRTVOR2VhbzQ0MDRqYkk5QlpxdFNqQWtmdU1DZ2oxY2x6NW1scUF1TXVaWjFUak5JejBQVGFTQWJWX2RSMmh4eTQzUUdYTmNGYkxqeFhRdy1xQ1R0MGZQLWwwaGgxMVJNV2hQWUtxSW9lWG9zc0tGZ0ZWSjltUDU3VGxSZDRsLW40cDkycjFnbHZPNTBQajYxZUZWSWZrcTI4MlBOSW9wSmVUb2ZpNFlpN29XSXRnaw?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-02T07:15:16+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c6acec1d68636929",
 "title": "HDFC Bank gets new MP & CEO",
 "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dVUyNkhQUUtYd0ZHRUJPTTNBUS03SmNWVDE1UUR2Y0E4Rm5PZFB1eTFCYmNLM2RNWGFDZmJvbHI3ZnQ5SDgwaXQwX3V3T2g5V1drYWViMEhWSUFBNWc?oc=5",
@@ -705,6 +807,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7444ee2d03ebf97f",
+"title": "Pranav Adani at Invest Maharashtra launch: Adani Group commits over ₹6 lakh crore to the state",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2pLbUV6bmNOQXdBTERKX2RWNkVWQkVkdjVOdk1sRGNvQklDYmVDUTFIbWsydjY1b2NlSWwyR1gwZjd2RC0xWUNjeGVxd0Z6clJuX3hsR2wtQ3FjR240YlpUSm5DV3pkN2NueGtfLXRrV05UMkxFTUM3U01sbGY0NWw4WHlOWFg4aHJHcFA5NUoxcEliS1E?oc=5",
+"source": "Oneindia",
+"published": "2026-10-02T06:31:13+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "96ef46cda9e9e856",
 "title": "Tata Motors Reaches Close To 15% Market Share, Aims For 20% By March 2031",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkpEX0M0bFNaMWJNc3BkZmlLSXhaU0V6enlrcDljQVpaX3F1ZjlCb1p3eE9nOUJnWE9oU2tyckRQSUlHRXdJTk4zVU41VXRnYWdSUHJidngwTHpnWEFva1hCY0RrTVFRTjEwQ2pxaFNLOTZQZnZ1LUtPUEgwbDlsUndvY1E1dlpzcW9CdUpEYXhRUjVlTEhCdQ?oc=5",
@@ -753,6 +871,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "04ccf970dd7a81ea",
+"title": "Suzuki asks India suppliers to halt production one day a week as Maruti eyes 4 million cars",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZXFFWHpxLXFIMUpWZ210aVZaekZadWtPU015d2RnNmtfTE9XSGRRYzY1YkdsNkRqcThQdkM1dlV4WHpHX3U4bHJoRFV4V25UQ25uTlJQd3ZHa1U1cHZpOUoyWXdDNVFJOVhQVjRha3lId0ljS3drQjNxdTZDeEVqUWZ0YjFTcTlkdjgyeFcxRUtiQmN3M051azI2UDd3T2xzVExfWkZLN204Nl9UZmVzSHZvY0VkT20zLXFQR0tOX0Rka3BEajJvWXozV3lLRHNlQkw2M2lvb19KUVYzR2JuWFRn?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-02T06:24:42+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "8566d7ca633a8931",
 "title": "NCLT Mumbai Approves Merger Of Tata Group Firm Rujuvalika Investments Into Tata Steel",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHJ5TDRfeXQ1TmE4N0VTLURIbnVfV0RHeUcyMmJ0aHh3UjlRNW50ZlB3cGRnRHJjMkR3bUN5dndmVTI0REs1a3doN3IwM3BUUWEyZ1JmUnhlX085SVJ0SEtybU9sZnJXNDQxMmlKOVFKeFVEQy0xX2Jkck1wTF95T0Z4eWxicDRibkVtUUlrR2kyZ3ZESEdwTWVDSFdjT3RBaE1DMEZsMU11UkpWbFFMYy0yaXpCd1hHcHdQV2lJLV9aTmZCVjlKQlUzSVB1eDlTT3fSAdcBQVVfeXFMUDlvNDBLdDJScEpyZHQyX3Vjb2xNQzRkSnZibjdWSXlhMG5PSXRfWjJqZ21kOTVDQURLR1RMUS1UcVlPMi1aMmRpdWlqQ0xkQW5ZdmUwZDdfQjMzejRTeWJNOGtBMDFXTWtWUmpmMVoyNk9pWHBFZkM4YmJyZ3pXRzF4OHQyYkRqbWtLTlZDNGgyYUM3dm94M0ZBSkdQaDVWeUJqVlhVR2FoUmlXd0NZdUhCTHBqQ000RW4za1VqQ3RxSklEbERiaThuS1VRZGU3cWhCYUJoR2s?oc=5",
@@ -788,6 +922,22 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "508a5ec1a9d46853",
+"title": "Apollo Hospitals - Jefferies is bullish on 6 healthcare stocks with upside potential of up to 46%. Own any?",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQVl5c0s5ZFRRSmxiVEczV2dXdkFlTFR5Y3hnbnk3eDBvOTVQM296cDNfQjBvbGJueWtxZlRHZ21XUVNpMnBFb2dSOVFPSXRoX0RxRDZ5OS1kR05iREdKWm1ucS1hSElBV3Q0cy1hY3NzTEJmYjNhUXZqQ2F4MjE0NmV1azlIRk8weWpZVmhmUFF1Y2w0X2NabUI1YXBaQkpWMjRTdktrM3FnV0lkcWZLZVBocURrUVh2N3E4dS1BV0VYZlhaUmhGR3lKNFc1cHF0RGhtQ2l5bENJZHdaR3RNVmpFOEJWcWg2U21WaHd6eVgwZW9SMHJFc3BfamlEeHoyVkhieg?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-02T06:06:06+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "a2e4b137d46a0c9d",
@@ -2091,6 +2241,24 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a90983fde2d77a3c",
+"title": "UltraTech AGM passes all resolutions; Birla re-appointment sees 11% dissent",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkN0ZVJ1RmY5cWVHY2xka1lkc0VpMTJsUzg4NmNwZGl6RzZ5SG1WQ0ZuSlN4cVZEZW9iZUdTcXBRdWRNX290OWJkQS1CMDhZcTFONFZqSWxCWkRlRkgxOVlzTnYzRFdrUHJ6Z281VURXbkhRODdVcWJYVHNId3p2QWgtMk5pb1BvSXVzdWFmZkZuTUpqNlV0VktnNHBMaU5zM1ZydTdNV0VBbU45ZDFIRGRhanVrakE?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T01:28:27+00:00",
+"first_seen": "2026-10-02T07:37:01+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -50677,176 +50845,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cfcc875d511ff84b",
-"title": "These three Maruti Suzuki cars are now available with CNG automatic options",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOemtScllhbmNmX0VuWklnaWZ1QWZGX3o2aGpxS3NqTVQ0dm00azlGUGJZM0lZTjA4d040ekxjay1PTk5XVzFRWTZXWERtOWNOWXpJYWtEUGRpV1FYbGtRTjJMZGV2WXVYUFJoUTk1WmdVampSWEJfWE8yMHVWQ3pFUzhEUjJaZkNRb0V2bXVyUG1tWGpJSVZBN0wtdkNEVjh0cXplNUtVenNkSlBaUE5lZzVWd0F5VGtsRVk0WmVreVVzblNSM1hIRzUxMWNqZ3Q3eXpPWGZRU2lWQdIB3wFBVV95cUxNU0dsTzNKSk0za0tjWEEtRmpEc1I0Qjg3M0hFbUt5ZDk5NFd0RjdFMkM4ajdHTUlOT0pySXNGOHU1NHFEQVdyU0NHVXRfTkVsZVd6ODRKaEwwbnFkTEZRNnQzTjZ3aG91d3FzZzZ0SF9SUElZaW5rcGx5RTRQbXVKTjE3aGlNSG9hdXVOZUlFX0Juell2bWoxNXVRUXdxM2ZQLUE3TU83QXJpOXZOWUwxdlpSWk1obnRDc3NfZXpqZk1ZcTYwQjZvbEI0OVp6ZnlwSXVBVWs2cnJfRTBZM08w?oc=5",
-"source": "India Today",
-"published": "2026-09-28T07:34:59+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0b85673258ece544",
-"title": "NTPC Green Commissions 81.34 MW Solar Project in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDZ6d1RJTHZabzlTOFhCeDBMM2owLU9Ec3RSZUtHMjIxZGdVdHBOZ2tEY19rQ25WdmNrdWt3U2owNEhUQWJXeDc2cWFqT2NpbmlqWWdZS3h0WWRnU3I4c2NrckJCVlptSmxoVnNYX0lkQlZpRTltMnNrT0RROFR3VktWZFF2LU9lREJCYg?oc=5",
-"source": "mvapulse.com",
-"published": "2026-09-28T07:32:56+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1875367a62bfb97b",
-"title": "RIL, Jio Fin, Maruti, Tata Consumer, TaMo PV, HUL, Wipro hit 52-week lows",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTI2VW1qSC1YNUJwMzJNOVlWVTA5YmpHSWlSYXV6SXd5SklZTVJSREVhbDA3N3FJakVkZVpGT2l5NGxRM2Zoa2wtdEQzT1RDUnZoVy1QUVFiYjJ2U01hVE5hbTR0eDl0SlRPc3VDaUNjMU5fZF9zWm9LV1IwbkhzVkNkQkJwSVE5WUNURTZpa1gyYzRZeGRaamJ3cWhvX3B0TnVBYmxNWm5TdEJ3SlpyNjFFNTY1UHRjUW5YX3hXVDhtbkF0UF93aHpaZVhaUU3SAdQBQVVfeXFMT2ZudTJPeTI1VjVTVGtsdG5EOHpyV2xYZm5uU21QYS1yQ3hjSHBRbm16WmtiX0Ywb1lqeW8xZ2xfN041aFN2NEpweTZqbGdSRHdVMXcwNHd1b043YWZWdkhZVXdNejFVd2k1RHNkUW9tNjBtQ1U2TGJ2R2p0SUFfUkFHaEQ2QU1BMEFQUVB1YUJuRnZyTEMwTm84eDRfTzlJTWxEOVpnM3hEd1laSXk3cE9oOFFuaVFVS2l2aHIyaENSQTZjNkNXQW5SQTFyOTNNaWM4MFA?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T07:31:36+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"HINDUNILVR",
-"MARUTI",
-"RELIANCE",
-"TATACONSUM",
-"WIPRO"
-],
-"groups": [
-"Auto",
-"FMCG",
-"IT",
-"Reliance",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "14d0273fd76a77d0",
-"title": "TCS Named a Leader in Worldwide Oracle Implementation Services",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0tKV25XUGFUa2FGSzdEZnFZakJZTVgzOU84djdRNkZzdkV3UDBVMXZ5TjBOY1JhWTJOQ2wzV25HVHlYM3hmY2xQTEtTc3FscmJXNm8zU055SkxUejQ2Z1pNWWt5TlZVQ3JsWTlUbW5ZVWxTME9yOE8yeS1rNEtSTWJNZ0ZNOXdsVnRMX0VBX2ctSy1OQ0lONDRfWWJBR1hjZ1BSczBLeTduVkFZaTRuOHZyQQ?oc=5",
-"source": "Tata Consultancy Services",
-"published": "2026-09-28T07:22:13+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2ad9d782d26ed333",
-"title": "NTPC Green Energy Launches 81.34 MW Solar Project in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFHWjRmTWN2bmFwdU9yUEF0Q1RuaWJ4cm91T1NoN05pRDRyYWVVOFNYaWEwMjhEZ2htQnNBXzhiOVNCelQyMnpFTkZJNHZWenJrelM4aFhWaWR4SHFnZGwzck9Nc21FNDdwRC1WWDlyMmV4eE0yZHZFbEJCSlBYeG5faE4weVdpcDZvb1FWU3loZ09rd2R5VEpfbEhQWVlLQVRGdS1mMmJzWjNMNmZvWjFLNVpDQnQzdGhYVDRFLWJaU0Q0Zmt0Qg?oc=5",
-"source": "SolarQuarter",
-"published": "2026-09-28T07:21:45+00:00",
-"first_seen": "2026-09-28T07:36:19+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "33883dda52edc2c0",
-"title": "NTPC Green Energy Starts Commercial Operation Of 81.34 MW Kalasar Solar Project In Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFHWjRmTWN2bmFwdU9yUEF0Q1RuaWJ4cm91T1NoN05pRDRyYWVVOFNYaWEwMjhEZ2htQnNBXzhiOVNCelQyMnpFTkZJNHZWenJrelM4aFhWaWR4SHFnZGwzck9Nc21FNDdwRC1WWDlyMmV4eE0yZHZFbEJCSlBYeG5faE4weVdpcDZvb1FWU3loZ09rd2R5VEpfbEhQWVlLQVRGdS1mMmJzWjNMNmZvWjFLNVpDQnQzdGhYVDRFLWJaU0Q0Zmt0Qg?oc=5",
-"source": "SolarQuarter",
-"published": "2026-09-28T07:21:45+00:00",
-"first_seen": "2026-09-28T09:42:55+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ae6697fcc35b0d00",
-"title": "Sun Pharma and LIB Therapeutics sign global licensing deal for cholesterol drug lerodalcibep",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUN5ei1rdjhBMGV1ZzF0ZDNiYm5vOXN4WFoxRjVOSXFYWUlqRFNVWHlRbEU1VkhCbE04MFpIZ1p5LXNuelp6dHJJeEVzX0hoQ3JlQVJhUFhicGpxRUxVSHg0OGFzQW8zdEdvRHk2RkJDWXpMM1UwUGFOYlBKT1hXY3FaLXc2QWNkRHVZMzBzOUREOFFnQWdyQVo0X2psbWR0bks5SUZvRFgtWTYxc19IbUVoWWZOU3R3SFk4M3BLQVh3Qk1a?oc=5",
-"source": "Dealroom.co",
-"published": "2026-09-28T07:18:45+00:00",
-"first_seen": "2026-09-28T07:36:19+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f56784241a1c5b8b",
-"title": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VakFpRExUYldXMkNsOENVSHQ2NUIyNDhRZklKbjVtZGJBMzFsSXpfRGJyVzdQWkxCb0oyYnZIMTRBblBmZl9WRmlRVTZ3Qm8tR1dJS21pQkl6WGpWOWJ0dllEMVpKZEJTaE8w?oc=5",
-"source": "upstox.com",
-"published": "2026-09-28T07:15:28+00:00",
-"first_seen": "2026-09-29T04:46:53+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cd486f587e6c73f3",
-"title": "REC Completes Transfer Of Three Transmission SPVs To Power Grid, Ashoka Buildcon And HG Infra",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFJGcWg4M0lhM3JpU1Q0Y3RlT005QnM5LWRfdGdwMjhpaHZmMmI1T1FhY0FNQVZPTWxnb2lmWVZPY1c3ZldxNF9BcVp6WV9PS2ItRkRaTzR3Q0RhNGNDUjlzcVVUV2xwX0x5Zk5IZTBnSDNXRmlZQWw1MU5jMnhfUWpsTEw4MVdqaHNfUng1ZThSS0F1V1JWUEx0S202MjV5MXA5S2dwZnpxTjNkLVlFai1nZ0dOM3pmRUhmeXJZdGw4WFF5bVBxdw?oc=5",
-"source": "SolarQuarter",
-"published": "2026-09-28T07:12:35+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "88306cfc69c8d1c6",
-"title": "UltraTech’s Kukurdih plant meets electricity needs with green power",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajJjc2U5SkpZdHk5X3R3M0NOUGxBRTlRWkVfZVVuR0doYjJSNjQzQjZPWlFtY2pyUGVEYXZfWldPSm1YYXZJNXV4X0dRYkd2bERxOW9XaDYzMnJqVHBUQXdDeTlEY0lyNEFMTGNEaEliZE83aGpaZ085OWhQdk0taEJ2T3FzUkFQMWRhY3B6MVM2cFo5bmxoandDZHJ0OTF1ajF6Rnd3SUtMc1VRSk81eV9fOA?oc=5",
-"source": "cemnet.com",
-"published": "2026-09-28T07:11:00+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
