@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T04:35:34+00:00",
+"updated": "2026-10-02T04:50:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,90 @@
 ],
 "items": [
 {
+"id": "d4cad3048dc0a093",
+"title": "The Adani Ports connection behind Colombo terminal replicating Vizhinjam Port's cargo handling milestone",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNakJJb1A1Y0RNNkNBUFRKM2VGOVNPbnJKQ3laQVBYdGwxTm1kRUFGbmVhakJ6TVYzNExkOFFLRmdCMFZUNWpUcHlySlY3OWJnUFEyeF92c25PWng1ejFBVEVWb0QtNXNtWHllc3VfdkgtRlNpUjVKM3VfR2tjM2tJV1VlN3dDY2E4ODg2bTNxd3EzTFBSUUhkWVdPbDhERjJ0S1Frd01Wa05ocWVaSXJxV25FV0ZaMmwyUlZpUHM1TjJLYUFKZnUtY002T1BDbVJmbDNCZDhrTEtnRWhqRVlqSTYxUVJPSlQ5UF83WG1B0gHzAUFVX3lxTE5tYmQ3Z3VNU3h5Ti1BZy02RXoxWTBWdHZyV2pWN0pCczA0bG1la3JNYmxvdnhieDhSeW9ONnNaUmYtWmZhYjhmd2lJemFXZWwzZHBXdEtTZHJ3b2gwMWJVX0RfZjhjQzk0RThZS3pVVUN5VEdSRTBicHJYdDV6Vm1GZmtNZDhmMkJSVGstOTlIZEthTk01azB1ek1xc05hd3UyVmlVbUdSZ1Q2d1hlS2piWk5ma0h4ZFNOUWxvSnA4czBhb2NDLVBISUxyMkY3Vy1NUDExcGpqVV9WUnZSeWd3RmF1cHFYZURmdGtvcVBIaVFFSQ?oc=5",
+"source": "theweek.in",
+"published": "2026-10-02T04:45:53+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bf8114b016efa70a",
+"title": "Buy ONGC, Sell Oil India| Kotak raises FY27 oil price assumption to $90",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDI2MHRrYTJuUEtJTmhNMFlNR0p6Wk9qNzNOSXRtYjBYb3E0RExvLS1EY3FDSU5jc3dnenhtdUdGZjgyTDF1YjlaVng4cHVKc1dsWldoSnh4Smoyam1DWldYZFlFSXRhT19SaTJreElBdkVKdEY5LVEzdWxjY3hrVXVqWW4yOW5yVXdid1lVS2ppeHU2WktRV3RmbTFneWF6YjlUYy1zb0pONDVKWUpQQmFLejUwV2ZBdVdDZi1oLThfSmUzOFJ5cjIzRGlYLWNsbzNiaNIB2gFBVV95cUxOZHFJbVpnV1JZS1J4Ymlvcnd0cjZNWFpjT2JqSHlvbkNwbVk5LTZIOFBrSFpXTG1xNkd3UFNVYTN3YkF5Mk5YMW9rVE5SaUdTRmlRT1E5YXU3QzJSMWhHckRUTk1Ld2VTYUpHQ0JGNkhJcXJrX28tU1dBNlNVWjhWYURUdjNWT20xREl5QkphNjc1ZTFsZXdDeWk3S0R3YngxZFIxaWhpNnJ6Umd4MUREV0VnaTZiX2FBY2FxeHlLaE5IN0RkUUhlcVVNN0o1OWZBNlhjcVRYNnBLdw?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T04:42:51+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f28c5a8b2e859fc3",
+"title": "Adani Ports Posts Double-Digit Cargo Growth, Rail Volumes Lag in H1 FY27",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamU0YW1IUGpnby1oZWs2OTNnZWpOYjZGMV9iWjhQeTAzaHdlYkN4ZE5nMnhMNjNhUTJfQ3JCV3RyZWZMNWdPeVlfS0tQNFdpRWFzdURIRDhHc2phOHJibmxJZ3g5LWlqYzRJQXNITVNGQjZDc1N1YVNmc29RMTVhNFlYOTVtelQ1aEdncTlWaUVGWHVIR3NtekJQS29rNlh1UVZEZDJ0TWhESmZfYUdLQ1ZlNXVFaFJHOHczZ0tTNTg?oc=5",
+"source": "TipRanks",
+"published": "2026-10-02T04:36:15+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "608d495568f99b17",
+"title": "Adani Ports & SEZ cargo volume rises 11% YoY to 46 MMT in Sep'26",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTAwTHI3WG5tWXIzM2lSYVhZSUVOcURqWkpSMlEzbnhEcUVhSURFWlFncU9XdklyTnVFX1YtSV93TWtkMmZzd0FsTlZVdHozUzRsQks3WE9vOE5ubnotMnprdVozX0xLa3VKR3RtOWotazAySkluMmUxMGQ4XzVxaVZ5Zm4yb2ZLMEgycUVOaDNwMFZrSG5YaFFHNF9GZ0JRZWR3amh3eFpLNzB2TjY3aE93?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T04:36:06+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "6366194de36acce4",
+"title": "Adani Ports handles 46 MMT cargo in September 2026, records 11% growth year-on-year",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWtxZk1VSEpMOHlkZUZtcnlWbjRleUE5TnpKNnNvdnVvQ0ZLelM4eDR2NFFqWFhGY2hvSDdqQTlmME5JQjhsR3JLV3hwamo2aWsyclpxSlVkS19fMmFHVHJMT05lQWZWVHhRdVptSElDNThMTmN0bkI5OVViTy1ZRklIdnBMV3g5Y1h5NnQwa2p1R0hVWElxRHJ6Y3FQenp2RWMwUlRHTjZlWlQ5ZzJjbFlXTkVSalpENkE?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-02T04:34:53+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "6b9eaf4b5f4e3674",
 "title": "Who is Anup Bagchi, HDFC Bank's new CEO and MD?",
 "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMy1TdXVoU3JrY0hOQUM1M2FpVWVnOTdQX01Zam5BNXFBNGREdFF5UWxJdWlkRC1YTFNKa1V0bVRqUGV5TlFyWVpGbl9uWEhnSlM3NFpUUUhxdWxOYVY0azBxdlh4bVBFSGlwZmtpcHlER1hYR1pWbVNJcGNjS0FYMjViWVZodWY4Wi1YREN5WFh6M2ZOZHNZME5ycXhjSzBabUYxSjZ1Sk9IR3FnUW9xQzBUVmJ3Zk9RZmNHUkN5U29IcC1wNmFObkoyc1N4Rk1kLWJVLWF0d1dzRHd3U2RKNzQxU3JFYkowbHNsYVItaVBEdkMy0gH6AUFVX3lxTFBOQklHMjU3Rmw2UWFRSWhYUmwtaU5haXVjZXhFTjdNNjE0elJ3Sk5ET01GcjZUZmNRTVZORGx0WVUzUXp0UmR2NDdDQXpsVTJsM2pRLTdwQnlsQnZvRzRPZFpMek1SeDZ2cEo1NEFFQmMzc2hocXN4SVNZaXB1Mm9QRXRDd1lQMzhmT0hXQ1o3NU94ek80UThLaDdWMjRsWmZjdDZIUnluR3E2d3RxQkVfbHMxM1ZQREVDNTJ2WFRhbDg5ZXI5N1BobEZFVmF4YU13RVVNX3JNUW12cndTRzRySEwtczFHaDlYbElOa00yT19Yek94QTBWSnc?oc=5",
@@ -461,6 +545,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "c2926256f70dd7ac",
+"title": "Car Sales September 2026: Maruti, Hyundai, Kia report strong growth, SUVs boom",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR3N0SUJwYlNsd05aN0k0N1RudFdfYWgtb01KQTExSGVxQS1sVlptQXVIOEdmR1FmVzBUb0NzWkpiMmZqX0xhSFE4U2NSQ1ItSXFid29UUVdaazhHMU9vZmJPTllldV9VSEtvU3owbU15U2VHTktxTVNSVGg5SGhldF9kQURfX2JMaUFnTHkzdVZiZEdzcDRhZXB0bjh0b0xzRkJuZ2ZOTUxFTUxsdFdpUFJneXFEQkFXSkZBNUVfbVJUTW02LUNaRGZNNmpLa3cwb0cyV3RfVFdrNTZuZ2FZ0gHkAUFVX3lxTE9VTGNuZU5kMDlWeFFEN2trZElPbmFtY2V6MWFaSmxGRHhUM2VaMXFBUklIZW9uUHdPZEhyZDg1NHpJUWxOLVNxZmc2Qkh6YUVZbk1tOWZQWERBLXA4QUhOTURiSjg0WDNoZ2FnUkRlY1NXbVBBcDNJVDQzWmZzSnRYRjZHZGtjRG1iOWE2Ymwta2paSlhTTF9ZcFM0ZE1VZDJ1alVOYnlrVktybVFpNGhKeUgyeUZVNHE1Q21tcjJIUEFmTXA0TVdvNUVNUEFMT28zT3BmcWVQeVdMd2hCTXFwdU1nTw?oc=5",
+"source": "The Times of India",
+"published": "2026-10-02T04:29:00+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "ec7925c5e8ab6d5e",
@@ -1262,6 +1362,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "af4b073aa67aeec9",
+"title": "Anup Bagchi is new HDFC Bank CEO: From chemical engineering to top banking job",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb3pYS3lMNWNMOU1ycFpEcTFuUWctd2ZBNHcxdzIwOUtnSlpfZXMtRTJfT0w5d1NxLUQySkplX1ZBb3MyUUtBdWJRZFk1UkJmSVhidmNLc2dwSjZId0VtRjRDc3hWczl2NUJkSTd6TFhUc0p6RVY0bnFOZVdaYUE3bmZzRFdqVElqUEpqZmxIRjJUMWRSZ0pFU28tWmk4LVZ0VFFBNC1zV2p3R2tvc0Jfb0t3b21wQXY2ZVhNS2t4QmhXb3Y1NkI1RWNMTWJtem1qV1JoctIB4gFBVV95cUxNTEtFdUZQMEtzYkZ3akpnOWxORlZjcTJZdTVvOVJNMUVpcHdlT2pZUzdHWk84aXpYVzdaOGNiVVhLOVp6QVRWc3NjaW9NUkhoMGtyVlJKVklzSlMzX21za2x3VkNLT2RTdVUybUhaVFN2THlSX3A5VXE1X3hpbV9wYzdYcFpraUN1ZkxtX2JFVmtZM29hQnJnajVDZ0F4R2QxTTNyZlNJcDhYQjdPa3U5V3M2QThLbTJlNWxKTHZNMzJGeXlxWEloR2xRQWZMc0FBTVVFVWFPQXhpQ3hsUGVZWEl3?oc=5",
+"source": "DhanamOnline",
+"published": "2026-10-01T23:36:57+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -9496,6 +9614,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d5cdcf5957db2701",
+"title": "Mahindra & Mahindra September vehicle sales rise 15% to 114,874",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVozLWVGYlN0azh0ZF8waG9NejVEcU9BZmU1V3U2UnBTU3dHcTQ3ekRWWnpRYV95SEtWMDNrMkxHUUJpandmaG91eEpXTV9SRkluNmpvNmU2X2o1UE9ZRU1YLUt3YVdtLW45VnJJQm9jY2FDdmI5eVpMMjdndlE3NEJkem9JZ3JqZTY1RVI5RG1MZ2VIZy1aM1JhSE1yYzFLdGd5LWF3?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-01T09:05:50+00:00",
+"first_seen": "2026-10-02T04:50:42+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -50675,139 +50809,6 @@
 "first_seen": "2026-09-28T11:35:46+00:00",
 "symbols": [
 "POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bebf290aac47a152",
-"title": "India Telecom Market 2026: Jio vs Airtel vs Vi vs BSNL on Subscribers, ARPU, 5G and Capex",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmZLLTJUMGlRUFlIdFFTZTJZU2p0NmpPSndMeTZzXzhuekF3aWpiNGctU0ZhQXpSOC1ycFZWNmo4ZmRUSTUyRE1Kdk5uTzA0Z1FxeXAwbF9IVnZESDN3WVRJdzJielE1UXdPZlBmQkhqMDNrR2dqd2dhTTQ4R1lsMnp4U0NZRmw2czFkeDBXMGp6NEJFOFhzR1Q2SWROdVU5bTFKUlFqR3haUEV3N3o2MENOalMxcFdqOVhRYjVKR1JOd9IBygFBVV95cUxPZ1Z0TVR2WURZTmJrcnVSYTdud2MxekhRaTQxdE9hNWxZa1V6cnlnUHFGSmZtVVdPaklPQnNjeEV2cjZlSkY5Z2w0LVNsdVBiZE94RXJlY0duN01oQ2V1Y0RmOWFnTUpGSFlTOVhCT2V6eHF0STluTDVqU2JxZC1FakhvRXQwRmc1OFBhYVRaYkdhaGZUYXdSTGxYck5iNEpQVVRiTGpxZHJoX2l5V2NOOHota0FUUjB3azNNTnM0QWcyZjA2c2RaUktR?oc=5",
-"source": "TelecomLead",
-"published": "2026-09-28T05:18:23+00:00",
-"first_seen": "2026-09-28T07:51:12+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fbe5dc3e39134ccb",
-"title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcHlRMkwyTEFycXh5Z0JhdmtTaEphUWVtd0tHTnZMZ1BRUzEyVVhTRVpPWXJwLXNvZ1ZSUUdjcWJFeHVJVzZDRHR4Q3p3bTU1YzhPYjN0bE5sUmRYUGVtM0l0bUVRZ3hqOWY5bGZRektCVFJyRTdPUG9CMTI1OEFmZ2E4eXl2eVRWUGFwbEVNVVRvSVItdUpEbXdLMmhmNjRsVloxLWZHbHZrVzZjUzkzRkdXT2xlT1hqaERSUDRYeEFNLUJKM201bnhEREdBbDU2eU5iekV4eC1zMi1hOU1MVlRQUVlHVVZySjBLdVpmX1RiTXlzSDJmOXZncnlRcHcxSXNJWU1R?oc=5",
-"source": "Upstox",
-"published": "2026-09-28T05:17:47+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"ASIANPAINT",
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "73e0adf77303dcdd",
-"title": "NTPC Group Capacity Crosses 91,000 MW with New Solar COD in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkJLRDFjb01aVXNQR2pTblMyWVZuZGFxYjJOQ21od05WbG9BZk9HaWx0a1c3a1h6eXBXMjhJSWRINnNCOXE2TFc1NFNTdHY5bnBhZVhPbENyNm5OWW4xTEVlazRHWEZqcFZ4Mm9FUVI3ZlRHbWs1Q21EbW5ZVVZVOXE2MUhFOTdWVWNMS0MxUDdndVlLQ2NTa0lFWHRSQWhkYUZNLV9LRQ?oc=5",
-"source": "psuconnect.in",
-"published": "2026-09-28T05:16:00+00:00",
-"first_seen": "2026-09-28T06:43:54+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9fc42ad3e76dd498",
-"title": "Mahindra & Mahindra strengthens EV portfolio with Mahindra Udo launch",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUhQWGFCN0w3SHU2dURxVWljdGQwblUtTkdIZ2NaZjZ4V3pWV25HYm05Mnp6eDZ1NTJZeDlHOUx6X19FR01PYWJVd3ZfNDZtZHFXbHFrZzFBWXZaNTdUS2tzX2djeVNFcDlCSnd2VXVnblBrbHBnc1psbnZyUFBWTFZscGhTZ2Vmb0pjb2RZaVhpcFBuZVRXUS1WbWlSa3ZEWnU0X2ZQTGw?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-28T05:15:23+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ca971e0c70d82335",
-"title": "Nifty50 Rejig: BSE to see $600 million inflow, Wipro faces $200 million outflow | Check key changes",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXNVdzk5NUZnS2E3dDFlVUUtc0ZYa0Q4N1dCU1RSanVjSG1hcDBSNVZuMGtlQ29HdjE5RmpLVHNGcnJRZjFDbi11VHRwd2RBNmIyUUs3aExrd2lYVGQ3SnNrcVhmRlFpNTBkYjJ3cU1CMEFSRjY0d1hxMGhUTHVMWnMyZmJTUzlBY2t1aEpiY3lPMjFwOTJiRk83dFJwZDNSaWRKT0xta2xvUDFkTTBubEpTa3Nsb2RXY2RkbU1JWXpkR2I3emx1SWVLWUNGWmxKSXl5ZllPRQ?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T05:13:45+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "17c9e5b25ef35490",
-"title": "BEL Trading Window Closed from 1 October for Q2 Results",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEyMDRpNEIteklUWS1JSEE0Z2thZ0Q2THV4eGFYVHpiZWdNMEhCLXhRVVhkTFlUNGdac212d1c3aXM3MERHRFc5bl93YVlEY3RCOEVIMXpxT0NHWnM2ajhOWm1ZZnV4aFZRQldvTmc2RXVIa0xwOWhaZmxlWVhRMHF3Y2tvdG03WFhnMWxrY01XSlA3U3c?oc=5",
-"source": "psuconnect.in",
-"published": "2026-09-28T05:08:00+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "718dd6a6ee194d26",
-"title": "‘Post-Apocalyptic Scene’: Wipro Bengaluru Marathon Runners Flag Water Shortage, Overcrowding; Organisers Re",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOal9RdFNySHZyN1JOeFJYa3hQdE5ra0pZMm4xY21LcEhyNWlTd29RZWtQMlRLeXl0ZU9KWUx2ZVNUY2ZfRENZTmpXbkM1UzFWZm9WQWxyOW9QQ08yXzVEY0JneHZvcDdQR1RZcXhDREp5OVNIRFMyTi1HYXVlMkIxT0pVdHI5V1QtcHltNWNqRENyVnpjaTNHYWRkdWktcVZNOTNMbVFCOGREMnVHZ0pCUHNoT0thN3JlLUFfVHI2TXdMSmJwUWdaZFB2eHRHdFZHREpTMXBpZ0pXekt0TEo1T3FyYVlTckZZc2hTZUFHTl_SAfABQVVfeXFMTmpfUXRTckh2cjdSTnhSWGt4UHROa2tKWTJuMWNtS3BIcjVpU3dvUWVrUDJUS3l5dGVPSllMdmVTVGNmX0RDWU5qV25DNVMxVmZvVkFscjlvUENPMl81RGNCZ3h2b3A3UEdUWXF4Q0RKeTlTSERTMk4tR2F1ZTJCMU9KVXRyOVdULXB5bTVjakRDclZ6Y2kzR2FkZHVpLXFWTTkzTG1RQjhkRDJ1R2dKQlBzaE9LYTdyZS1BX1RyNk13TEpicFFnWmRQdnh0R3RWR0RKUzFwaWdKV3pLdExKNU9xcmFZU3JGWXNoU2VBR05f?oc=5",
-"source": "News18",
-"published": "2026-09-28T05:06:52+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "428167679c4229c4",
-"title": "Bharat Electronics NSE:BEL Trading Window Closure Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2ZGWFozeWVZTTY5UHRvVDBtbkV6MTlJUjFucWQ4NENWNXExbjAyRXpuaEp2WTRZem1ZVktXWExHQkJvWDdZZ084QTVqZk9ENWREdVpPQkRiZ1JFTjJxVnRGaVo4RkJyY3JKdHBhLTVIMEROOFB3UHhQWDR4UzZyZzFaQi1tb24xQzhMSkI3ZFBXQTBpYW1hQWRsMHROUkhMYl9QMEtxZGRQM2Ntd3o2YUUwVG1iNVhsUWlvNnJoR3JaNDBYaEZMM1JB?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T05:05:00+00:00",
-"first_seen": "2026-09-29T01:02:54+00:00",
-"symbols": [
-"BEL"
 ],
 "groups": [
 "PSU"
