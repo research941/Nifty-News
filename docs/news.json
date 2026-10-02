@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T09:24:19+00:00",
+"updated": "2026-10-02T09:40:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,39 @@
 ],
 "items": [
 {
+"id": "ae0489d607c9567a",
+"title": "Adani Group to invest over ₹6 lakh crore in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2gxQl9MWWlpTkVkRF9KbTh5WGZiOWxLWGZhbVVRanBrRzFDbkUxTXh5Q3lHOU0tRS01cVFWdERLY216Wm83OTRueC01YWRHTzZUYWlNRzdXYjhQbmJDdlNOeHhUbElPSzNEWi1lVjhwaTc0VXlQdnNvUnBkRDNNMVgyNHZ2VGI3X3h3UGdDNVprSmtpOTBnc2ctLXk5RjZYZjExYzlR?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-02T09:31:23+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1ec0686312ceefcf",
+"title": "PSU Salary Structure 2026: Complete E1-E9 Pay Scale, IDA 55.7%, In-Hand & CTC of ONGC, IOCL, NTPC & Other Maharatna Companies",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbFhKSUhLMF9hT29iSmZUeS1xM1dIb2VvdlRydGNxeEFlTUN1LVpfZzNCSWJnRGpfR1Z2YUc3V0ltNTJfSjNRenpWcE9tbHlzOTgwdlpnaUNFbFZfX1d6QTlmOVRZNHZGTngzbDRRdlBVREdoN2FXZEl3OXZxdGptSGFQSzEyMDhSYy1QWXNQVFVjUEpFblhkUmhURFVsOExOVDV0SU5GbWZNTXFxLTVHVzhRY3BxS0o4ZHIxN19yaw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-02T09:27:00+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"NTPC",
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "903397956a2d221a",
 "title": "Airtel Money sets £250 minimum for retail IPO offer ahead of London listing",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGlKSFhJTy1NREtBWTA3S2dKNUtjRGhSaU5jaHhmZWVjMlV5ZExXR0U5azNpU042ajIwaEdYRGI0Q0lUQVV6WnNzbnJtaEVzcXhJUlJqcEhPSEl3dHZUN1pFSWdFRVdvM0owVThCTFpoTnVtaktWb21BV08zVFgzOEt0T3NjMTlhTGtoZEZzZVEyV3JTMEZfb0pIdlZoQzdmSkJNRDJwb0l3YzRzbGhTVQ?oc=5",
@@ -460,6 +493,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d1cb410c0ab8f345",
+"title": "Adani projects worth ₹2.6 trillion completed or underway in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbnpFY0V6VzhvYUM2cGRkY2s5TWV6T1A0TDV2QzhZOEg1b2RzRUJBUG1DcWVRa0x6cUt6LXl2OG8xV1ZjaXZvdVZWSW1Sc3FfS2lqYWZNTEo3bGpRNUJ1ZWVTOUNDTkJlUGFGWFRlSnVZcFdtZDJFN2NKT3JwT2JoaEhuOThwM0oyUm5WLW1GRW9WNTRzYTFkSUtUc21oOV8taFAxRGVtUXQwbzhfOVo4dGxPckdoV2xNSGk5SVZFeE1uc0I5cEUxSFlpYjPSAdIBQVVfeXFMTlM3VTF4U3Rtc2NEd01zbDhnX0k1bmJGN2lHNWFtOThKTjZEYlEyUWFRUzNJejQ0TDhNNmpGZS1BbGE1aUkzeWY2ZjY0N3B5WkxDMU5BOUlaVmFPNE4tUzlieE9KUWVVQXZkeUFTbVZ5MXVBQVNRVzU5RWxyYjFOTGtPeDhUSEZVVG1MR3V1OWp6MTBlYkYwbkp3ZTItbTRORGpkdjUxUXZlUUNYZjZzLWVIRnlNOFBPbDRmdHVBOHpHanJ1ZU1SMkNCM3VUUFp1OHh3?oc=5",
+"source": "Business Standard",
+"published": "2026-10-02T09:17:01+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -722,6 +771,40 @@
 "sentiment": "neutral"
 },
 {
+"id": "c7db03fa189b8495",
+"title": "Only five Nifty 50 stocks survived September selloff; TCS, Bajaj Finserv lead laggards",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQkdMSkZoRzJXV0NKOUswN1lOeFVLa2UwQWVNZHRkZHZvc0dZSFNfRzZGOTlFc21LaDZfdHFBRWxkMWoyT2hZU2FXVkRId242TEN4all0LVJaZmg1RWNaaWs0UTFQR045TzFrTzFHVkRDd2Jha0Vjam9lX2hZYk5lVG1CRWlmekhuT0d3eDR6M1FVUnAxd1FiUlBoU3d4Ny10Q21mRVlVdTJ6WnFqcXR2T3ZiRmUxZFEyQnhTTU1MV1paQ2kyVmJTLVprZGNURzVlQWZCR2c4b9IB1wFBVV95cUxPQkdMSkZoRzJXV0NKOUswN1lOeFVLa2UwQWVNZHRkZHZvc0dZSFNfRzZGOTlFc21LaDZfdHFBRWxkMWoyT2hZU2FXVkRId242TEN4all0LVJaZmg1RWNaaWs0UTFQR045TzFrTzFHVkRDd2Jha0Vjam9lX2hZYk5lVG1CRWlmekhuT0d3eDR6M1FVUnAxd1FiUlBoU3d4Ny10Q21mRVlVdTJ6WnFqcXR2T3ZiRmUxZFEyQnhTTU1MV1paQ2kyVmJTLVprZGNURzVlQWZCR2c4bw?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T07:53:20+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"BAJAJFINSV",
+"TCS"
+],
+"groups": [
+"Bajaj",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bdabffec6057350",
+"title": "Infosys (NSE:INFY) Expands Enterprise AI Focus With New York Research Center",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTENKM05xOXZMRm5jVVhiOHZ1UU5vWGZiUGo4UlBYanp4SVBMS0Q5aXFXNS1zNFZBMDVQY0FON04zQnRMMXRLYUZXcmpkOU8yVXRzMmhwWmg5R1dGekd5YTZ6cDdNOWZISnJjdTAtR0c4bXM2TWs2STVNa3RWbExZOFhDOWU4QVlESnpyZU80MXFkZW13aE9WZlpBSTNxSTRtLVhRcGg1ZldnaDgtcld0T2d5UXZGcENCaS1GM09PSzQ2dW5HUldnRHNoTi0tb2N0M3JRTThwWQ?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-02T07:53:00+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "40968fb83eef6ec3",
 "title": "TCS, Infosys, HCL Tech, TechM, Wipro, LTM, Coforge, HEXT: Fresh target, Q2 previews for IT stocks",
 "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObm9lZEhyZzVjTktyTUVKTlpSN1BrNDBHMGxjbVpoYUVWOElsRDJtcnp2RkhtTGFzLU5nd1A3S2NzaG14V3ZhTkJLVUtMdG40U210ZXdwRUNldWNLSW1EY1JzMlE3MllPeDJPeEF1T3d1eXZlWEdHQXdwZjh2NXJLR21BbE5vWjEtMGdWZGhBaE8zU1J6RzJyMS1kVTBXLTdnOEcwRkFEUjd5TFJTenN6eEFqZkVUdUZQYXlIa29ONEkxSE1QNmJPX2lJRXFGNzhucTFkMlpKQ2VpdXR5bDFtbG1hbEN3Q1VwT0k1eWtpM3JNZm5QMGRJcdIB_gFBVV95cUxNVDBfdUdkVWFzc1EweG5Bd1UwWkpOSnpVdFdITWdRbFlyLTl1VGczRjUwMFFYcDF6aHQ5YTBmWGdmWDBiSlhkYU5sOFpIV2k3YlgxNHU2Rkc5MkxaNnNpV2kta29za2stcnRhMDJJcmE1N3VrVndIQ1B2UW1DMXJ3ZmN4X0VKWlg4SlhYYWQ2UTluaVc4S1R2LVFESkplTFc4Ukp6YzVrMW9ScG83ZWo4Sl92MkpLN08tTWNZa3NiLUEwRDgwVzAzTFhMcEdsZzlrbkN0aFhza0tBUWQ3QTVjNF9iMlBqaU1RUnZEVUxZN01FWExnZE10bkNkZFlpQQ?oc=5",
@@ -847,6 +930,22 @@
 "sentiment": "positive"
 },
 {
+"id": "9d0ad64c0aed7517",
+"title": "Attention HDFC Bank Credit Card Users! SmartBuy Rewards to Change From July; Here's What You Need to Know",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQREF4aU9FM0dIRUt5QXlUT3NpZFd4MzRQNDQyQ0toRS1XY3ROby1hQ2R2QWxYRlVTS2ttUEJuUk9BYVBMRzk0WGpaY3VzNjFWbVo3b0M4VFVoSE84WWpnNzNxSXJVZC1DX2UxSHJWa3VJZklHemhpMTFrdFliRjlkV19MRndLaTNNTThLRExyNEZhUFA0WHcyY0syR3dIbmVZZ2NKLUNKM2V3TUs5U19HZHVQV1UyUlhwNW5UMnJNUFlZZkNna2hOX3V5UEZOVnA5ekxKZk1rRE90dG5VTEtsNnFxUy1sVmZsaXc?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T07:30:35+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2c5f7d425fa42ce2",
 "title": "Nomura Adjusts Infosys' Price Target to INR1,310 From INR1,290, Keeps at Buy",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHR1R28zYy1RWEIzMDFUZXd0SjVKdlJ0UmV1T2tueF9JNTBuU3k4WFBCd3FaQnRLczF3S2E2dlJkQ1FobEhJWGNvWWZVWjBhSDUzOFhHcU1yNVF4eGt1RnAydGNFMjdzb3B5amloU19ERUQ5T2VzOWNpckY1ak5NQ2llNm5YM2RpYld5VlZRSHhFdGFkNkk5YUVMVktKRkhQWm1laEN6MUVGSzhkNDNRVEhQbWJtaDE2YmFxcTFOdkRSbjF1ZUE?oc=5",
@@ -961,6 +1060,23 @@
 "first_seen": "2026-10-02T07:37:01+00:00",
 "symbols": [
 "ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "209e24db0cab4d69",
+"title": "Adani Ports & Special Economic Zone Ltd is Rated Hold",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmNKMFJLNHZFUkpqQmNISmZMb0FORklMUVNFSjZwMkZjTENNSEFVcEs2QVBEQ3JBU3NqdVg5ajItYUhFb2d1V2dNbVpwYldRNHg1VlQwTWYzM2F3MEhpRnBuR2E3dmJsVDJwQ2diaTlSMGZ4N05pR3RYemM0WEpVTGhINzdQckJqVmpwUHRrdWIxT1NDNWRfQUY4OUhDelptaHZ5dkhOd1Q2UWl3UmxCVjlsdw?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-02T07:12:12+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
 ],
 "groups": [
 "Adani"
@@ -1435,6 +1551,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "65c4b39b67971ecf",
+"title": "HDFC Bank CEO transition: Nomura says ‘opportunity for strategic reset’, sees 32% upside",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU051a0pBMU5rQXJ0RlNRYlJCQ1FnNmJXZWpWVDcyeU1JZmZfallLaGNvdXdlakFySElXeUluLU9KZklMTHpyZGVWdXNmOWVVQnlHUGNsVlVyOTBXeEsxYUVLdTZsSmNBQ3N3ampzQ3NkMkdPREhUeDF6YjBzOTJPdzctUURWRG5BZ2l1b2pGb25vOVdfMWpnSnhrdXBRdDlGTDRHMEFwY2lXV05DNzFFMjRtY3dsenR1QmIwLVByVlpWRlV5WG5xSzliSVZDVE5wVTJv0gHTAUFVX3lxTE5TTnVrSkExTmtBcnRGU1FiUkJDUWc2YldlalZUNzJ5TUlmZl9qWUtoY291d2VqQXJISVd5SW4tT0pmSUxMenJkZVZ1c2Y5ZVVCeUdQY2xWVXI5MFd4SzFhRUt1NmxKY0FDc3dqanNDc2QyR09ESFR4MXpiMHM5Mk93Ny1RRFZEbkFnaXVvakZvbm85V18xamdKeGt1cFF0OUZMNEcwQXBjaVdXTkM3MUUyNG1jd2x6dHVCYjAtUHJWWlZGVXlYbnFLOWJJVkNUTnBVMm8?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-02T06:19:43+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f8345771b3a5c0d1",
 "title": "TCS to transition Best Buy’s India GCC under multi-year deal",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONkVNTWUxdHpWT3FGRmwzRk0wdzdLS3dvdFBoQkQzcTFQQ0dmRUNldm5ib1VYUEJaQlFyRlpSbl9BdEtTaGZlbjNObVEzTFhMQU8zeHVmakE1TmRGWEY2dVExMmtYak9aaW9pX3pwZGNXWThTUVNqQmQ0TmNnVGE5UmFyUzRRTUhLQmNVcF9FcWtnUzNxd3pRMzBuMXFMd1psZGdMNnRGek9vMDdnSjlPZ0FpVTBHWUJtNGJhZHRialVNazVmWEHSAcYBQVVfeXFMTjZFTU1lMXR6Vk9xRkZsM0ZNMHc3S0t3b3RQaEJEM3ExUENHZkVDZXZuYm9VWFBCWkJRckZaUm5fQXRLU2hmZW4zTm1RM0xYTEFPM3h1ZmpBNU5kRlhGNnVRMTJrWGpPWmlvaV96cGRjV1k4U1FTakJkNE5jZ1RhOVJhclM0UU1IS0JjVXBfRXFrZ1MzcXd6UTMwbjFxTHdabGRnTDZ0RnpPbzA3Z0o5T2dBaVUwR1lCbTRiYWR0YmpVTWs1ZlhB?oc=5",
@@ -1475,6 +1609,24 @@
 "source": "The Economic Times",
 "published": "2026-10-02T06:05:44+00:00",
 "first_seen": "2026-10-02T06:23:34+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "850b8c8ec6c4c855",
+"title": "Bajaj Finance to raise Rs 17,500 cr via QIP, preference issue",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-to-raise-rs-17500-cr-via-qip-pref-issue/articleshow/134632864.cms",
+"source": "ET Markets",
+"published": "2026-10-02T06:05:44+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
 "symbols": [
 "BAJFINANCE"
 ],
@@ -1966,6 +2118,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "d5c0e04df9dd9c77",
+"title": "Maruti Suzuki hatchback sales jump 41% in H1 FY2026-27",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWs3V1dsWnBhVHJVWkNPcFVjcHQxNnRmNzUxT2tna2lUWll2XzFCdmx4NnFwd25IaFlIWVFuM1dvaVE5MGpFSExxektEOGlvZnZvSTAwek95eFpDa1J0NTFtQkpva1FMTzkxbzFlZF8xNHA0cnlTZWNkSHFRQVBHbnpMUnVMMk5mSFB4NTdmUEtzT096Z2d5elNrbFVqUQ?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-02T04:30:25+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "6b9eaf4b5f4e3674",
@@ -4217,6 +4385,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "490e13370934d12a",
+"title": "Bajaj Finance: धमाकेदार निधी उभारणी! कंपनी करणार **₹17,500 कोटींची** मोठी उभी मजल",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOWxQR3BaS0pJMUtMa05Kc000WWYteGJCV1ROT2oyaHVpYlFUN0JVanQzUExsSFhJNXFWSUhuSC01MFRVY2RaZE44UFh4dkpObmVrUklxN2VwNFhmY01ha201YVRaLWxvb3FFcGFsY2pzcTVhWWlQUmxkWUp5R0JHei03SmNMbGQ2cHZTb29jRy1Bc3dXZld3NzJNZHpVa19KeXFGQ01abEVZemItRWowcDlFWnpaX2VMVWpfN0dfY2pZOWNoWEk1bkdmVVhoWkV2a2VRM0tvTEFydHlQQXd5TlA3NXFxX1c1WDl0M1VxQQ?oc=5",
+"source": "Whalesbook",
+"published": "2026-10-01T17:43:22+00:00",
+"first_seen": "2026-10-02T09:40:36+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50686,193 +50870,6 @@
 "Tata"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e201459459a3c6c2",
-"title": "Hikma Signs Exclusive Licensing And Distribution Agreement With Dr. Reddy's Laboratories For Nicotinell Across MENA",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajdCR0NpbmdyS2lFVi00NE5uby1sNTc1bmtSS1UzYmZOZjJSSWduVmdlZXpJX0ZtVW12N1J3c3ZDSjlRaDNEXzBiYjY4NFcySkd1YUZzQXhNS0tZLWJLWmZSaXFSeE1OVHpJZDZjNmNHRnZxMllvT3EyZmFaY3ZlQUEwY1hoVnBOU2JNOHZQQXNxR2k5blM1UHZ4VE9lWGhWTlFxeTdtUTVkX3lneV8xNXh5cmQ5U2lUWUpxckc5WkVYcVNEcEl6SExSaDczZGVFZl9pbE5JenZ1aXc?oc=5",
-"source": "Menafn",
-"published": "2026-09-28T09:30:46+00:00",
-"first_seen": "2026-09-28T09:57:05+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a8e73a3cca61b7be",
-"title": "NSRCEL, Maruti Suzuki Launch Seventh Mobility Startup Cohort",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hKMHpnSU9qb2lDSmg2Z09TeHVWS011WWZFV1FKRFZ1VEdaWUlFYXBRLV9OcHo2OGh4dzdONlkwMlJVUGZIakplNF9vNV9sOTV4R0dDT1dSVEZGSGJSMFdKQzE5Vi1zUk5EYWxhSFZLSXl0bHNjbzlMUGNSZWRxc2k1R213QzAzXy1paGVOSS1QNnZxM0ppU05yb1ZJSk9DMDJDNVln0gGmAUFVX3lxTE5nWEowemdJT2pvaUNKaDZnT1N4dVZLTXVZZkVXUUpEVnVUR1pZSUVhcFEtX05wejY4aHh3N042WTAyUlVQZkhqSmU0X281X2w5NXhHR0NPV1JURkZIYlIwV0pDMTlWLXNSTkRhbGFIVktJeXRsc2NvOUxQY1JlZHFzaTVHbXdDMDNfLWloZU5JLVA2dnEzSmlTTnJvVklKT0MwMkM1WWc?oc=5",
-"source": "Autocar Professional",
-"published": "2026-09-28T09:29:02+00:00",
-"first_seen": "2026-09-28T11:49:57+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "97102d4508ea5c65",
-"title": "Adani Acquisitions: ₹1 Lakh Crore Deals, Raipur EBITDA Up 11x",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHpMRmJjeXNPMUl2RzVOLXZGaVhXVExzVzVkSUY1b0hudVU3N0FnN3phWk51MUxqS2RDY0xGYzhhaVRuVHhLVGZXSkFNbWg4WnBra2pSVXNyeFF3WDlBcktCa21VbjJWX3ZQTFdFdkxVNzhkWFhHa2dHczNwazdEUW1hWGtLQjg?oc=5",
-"source": "NiftyTrader",
-"published": "2026-09-28T09:27:43+00:00",
-"first_seen": "2026-09-28T10:58:29+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Results",
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "90cec1b660b9e08c",
-"title": "ONGC Share Price Fall: Fundamentals and Peer Comparison",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcF9Ea042SkNabGphQldkUWNqeE1mQjJSalVra3A0eGZQOVZTNVZQUTd2MFRBbXNpaXZ4R0ZuSnUtLXVpYlRaQnJidmFRY3hJVHNOU05OS1YzWlZkczlHNzVNQVZURWxrdjhNN2NMVnZBbFZ4Rlg5eXN5ZDdSTXJmMHAwak1YMUI2d29tY0Z1dlV2UXR6Vm5FeC1B?oc=5",
-"source": "Univest",
-"published": "2026-09-28T09:23:24+00:00",
-"first_seen": "2026-09-28T17:46:45+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "e8485edeb3ae4c31",
-"title": "[SMM Aluminum Express News] Adani Enterprises has taken a 50% stake in",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejA3X3NRREYxcXhzdWZBT1pJRUVsNmpINVY1NlR0NWpiVXZlZi1tbnpMa0lkcHFDZm01cWJFU0QwdldmcS0zYTdwdzJvOHdWSC04WGJ2UWRQTS1YeHdKSEp4T2tpTE9XLVZ0OFhoYVI4aXNrejAxUkg4RDVlQm9USDJ2R2tKWnoyVkw2QUhQTGZxM2RQOVFKTGJmU0p3MEVnc2lZbF8weGhrTTVlelpjb1ZadFZEZFlxZkF4bXUxRXNoSjE2SEdPb1k0VjhGY3NVdlE?oc=5",
-"source": "Shanghai Metals Market",
-"published": "2026-09-28T09:20:00+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ff217cea391486d3",
-"title": "Siddharth Sawant joins Tata Consumer Products to lead HR for Ready-to-Drink business",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzZhZm0wLW1TOS1wSjNQUW8tNlJudnR4Y1NWTzBMY3o0ZThCcmVLRkJ3WmpWaEhiamNFeUd5S1hRUkRyN0FBN0xnLUhzdjZycWJYdDZLRUo5UmtUblM4T2U1VzZQdnFtTFBRRzU2UmI2Um42VUp1RUNfZTNjTVJocFZiRG9idUNzXzNlS2xIWVByM0Flam9YQ3ZTWU1nUlFvTmNINTl5NzYzVGY5QjQtNUlaNEw4VnZ2U0VpT3NyMUZib0E?oc=5",
-"source": "hrkatha.com",
-"published": "2026-09-28T09:18:34+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e8014b4ab37340bd",
-"title": "Panchkula municipal FDR discrepancies: Haryana vigilance arrests two in Kotak Mahindra Bank case",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3VYdElLN1dTMkRHRjI4QzNxcDhYNEh2TUZsXzhEREhQMEJFTFJuM0xXU1dqSWJTOGpxTVg5ZWFWaDJjamNTb2FDcTJxZS1RYm9SRGVNcFY4aHFNQ2R6N1g1YVZkb1hqSnVWWVF3M2JuVWVXNzVpeVBUMzJUTUtzc2tjQm5GR1NGNDlmWnNxVGE1d2paakFTNTNwcEV4SmI4TmNPNXhjSWRycjRzQ0J2U24zQy0?oc=5",
-"source": "goodreturns.in",
-"published": "2026-09-28T09:17:16+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2cb71e3bf93f52d4",
-"title": "RRB NTPC Graduate CBAT Admit Card 2026 Out, Download Call Letter Link Active",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnpuOEwzMkhJd3Jyci1KNFRONGFDRnhlYnAwaUNqcUlfX3E2ZmdMeDR4Z0l4Sm1wWi1IYTRIMzdVekhXazcwVkd6NEhRWjlsVERfYnpES0hTZmNMa2otdlZUbkN0ZXdFYWJhelE1TWpPam5EbEJ1MVN0WDJ4MmwwbVB3?oc=5",
-"source": "PW",
-"published": "2026-09-28T09:16:29+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b21e8a398edda3ab",
-"title": "ITC Hotels Reaches 25-Hotel Milestone with Storii Guwahati",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0Q0cmkwOVNCWVpkbnZUcXZ0TUtETTFlLTFDRXE3aE85ZWh6djEtQWhFYXktSjNmaTBtVklTYWNsQVlRSWx6N2MydVFzUVBrdDE4bHBiLWxEYnd1RWxodHVRTmRnTnhicjdtbE1ET2ZkcnByWXNQMnBZSkxvVzRVOQ?oc=5",
-"source": "safariindia.com",
-"published": "2026-09-28T09:10:22+00:00",
-"first_seen": "2026-09-28T21:19:00+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b3aefd485648942a",
-"title": "Wipro (WIPRO) Share Price, News, Stock Market Cap NSE/BSE",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Rm9GUlpjRGZycGxpMmY0WncyOGl3aUxFeUV3bTNpbTdwc0NsRUVoekxpd2lPeklNWnZNVGlzYmt0bzU4eXpZX0VzOXFJc0FMQzVNdnRGcU1VUy12aUE?oc=5",
-"source": "TechGraph",
-"published": "2026-09-28T09:10:10+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "39b9406377926249",
-"title": "TCS, Infosys, HCL Tech, TechM, Wipro, LTM: Check fresh targets for top IT stocks ahead of Q2 results",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQmI3aFphaEVkYjI0Mm81Z3lVcHgxN1NnTjFPOHJmMVJUanlSa1pjLXdIbjQ5U1oxYmpMRkk1XzYtT0R3cVl0NUxianIwcnlnaHFhZkNvYlVJM29faGdSOGFuQlI5OFVMWDlVcFJzOXM0ckl6Z2R2UG5SdURPdUhrNWxJdGhES3RsZVNMLTNLbXBtRFRza1hjcGhpZzZZU2MwQm16dDJ1ekhOcm1XcG9BZG04ZXZzU1NJc1hUOHJ1SUtHbHg3ZWlUeGZSMmtkZ1pFeUJLaGxpVndaelZOVWtDQy1DZDRPYU9kUTZ0MUlWUmdrRnJN0gH6AUFVX3lxTE5QNG0tM2JwMEZoU1J6T0FiMDVRUXJkaXNMUDZOMUZDazFzVWpZcU1zMjdfSktHTzZKYk1kdUdaajZLalRCdW8wVE5kTkZyQTh2LTlvODRaN2NjUllma1ZoT0RVZTFqczRXc01YVkszckpFYWZlN0VWWUFxUlNtaUh6YWtUcVlfVnloTTA0TjV6OF90eUw3ZURuenFHMURTOTMybTh6YzZTbUpCaUFpeHZscVdTcmRNZVhvRlcxdVhRWGk2a0xFN2R2Tk9hWFcxSXdua2I5ZnpUNEttS1A3THA3Sm9DWXVDZ2FEbUx6M2dLT0RMOFlsT09DVnc?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T09:07:57+00:00",
-"first_seen": "2026-09-28T09:26:46+00:00",
-"symbols": [
-"HCLTECH",
-"INFY",
-"TCS",
-"WIPRO"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [
-"Results"
-],
 "sentiment": "neutral"
 }
 ]
