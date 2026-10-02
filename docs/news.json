@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T23:15:40+00:00",
+"updated": "2026-10-02T23:29:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -524,6 +524,22 @@
 "groups": [
 "Bajaj",
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2666b86d6a9cb9c2",
+"title": "OG&E requests rate hike for improvements to power grid",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlI5VlQ1MWRkNHZsVHNhdHBWZnVqR2tqUzJUNVJHYXg5NEdVaXM0OU8yZXBGeEpyRjd2OEdSc19UcEhvVXRtTGJyaEhnMFBzSm1PQzBuQ3hWSHBpdFl2UXVLa1FpT2FCS3VTMTJkMk11MWdiOUhEMXJYNEJBa1BQd0NoQQ?oc=5",
+"source": "Yahoo",
+"published": "2026-10-02T21:12:08+00:00",
+"first_seen": "2026-10-02T23:29:19+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4540,6 +4556,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "90d427bfce6cfbd0",
+"title": "TCS renews Jaguar Formula E deal with AI partnership",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUtTYlhvN3VOMWx2dmMteXZaQ1NsM1RSQ3psRGlGUk5fZUJDcTRNWnNDTEV3Q080em1GQUk0NTUtbFhXdGdJX2lCNFY5OEZEdGNPNHNsUFNVRTR5T0J1MjJ0V3dWajQ1Q1JSbUFBM3BERndXbGJFV09oenA4c3pJS2FPOU5lV3VR?oc=5",
+"source": "IT Brief Australia",
+"published": "2026-10-02T07:47:20+00:00",
+"first_seen": "2026-10-02T23:29:19+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -50879,40 +50913,6 @@
 ],
 "groups": [
 "Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "70a3600ca4df58fe",
-"title": "Adani Power settles SEBI proceedings with INR 37,05,000 payment",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0dBWDhEODFaWV9MUFNNNl9UVTFhdXF6Y294eVFnajJwVDNzMXd1cURxS0gzbDB0WEtiVHJKNFpyNy1zRmdDa050NlZ5Y1lPelk0SGZCTE5FMy12UVctQ0x2bWhsaWdtOF9FWkR0MnppNHdSekpJSE1VdlprVVRCRG5EYnpDczJCWGNuaHFPcm1jazQwS09ZN19POWNqYzZmb3lHTzJhWQ?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T20:51:38+00:00",
-"first_seen": "2026-09-28T20:59:00+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c0b2da3f09065b6c",
-"title": "Two men admit murdering man stabbed in Stoke-on-Trent street",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LTmM5Qlpmd0QtV2FDelJBcWxrN3pWWjVBa1puREd4MVZ6X19RU0d3ZUNDYXh6QWRlMElzU0RlRU1pMDFMM2E1LTRQb1ZOd21sNGcxNHp5eGxTWDg?oc=5",
-"source": "BBC",
-"published": "2026-09-28T20:23:00+00:00",
-"first_seen": "2026-09-29T17:59:50+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
