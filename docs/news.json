@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T03:12:32+00:00",
+"updated": "2026-10-02T03:30:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,80 @@
 ],
 "items": [
 {
+"id": "33c867de53ef6f62",
+"title": "Bank Holiday October 2: Are SBI, HDFC Bank, ICICI Bank and other banks closed today for Gandhi Jayanti?",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUW9FTnUzNzl6V2llRGlkYTk5RzF2ai1YV0poVkpZR3JWZHFNS3NfUElLSTg4Z3hzTlV2N1ZYeVRFcWJXZF9rNm5uRTFRcmNDZTd6SHNtcUJ2TVVOcS1RVFo4cHBOY2Z5WGxsMFJlOFpwMzhTRXFhX19sRzEwUThnSlhwcHpmU0hWZURNdWphSnpLRDRyNnFXakp0Ukg0bUE2NjJoSmlzaXVkSUxRRnBiZWNoWnZVcmE1Uzg4U1lURVVRU0hnV0FxLVIxTDVSaG9fN0N5MHZkMm5MRmdUQ19RamFpUk41Zw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-02T03:22:02+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "47c8b8486d0607b0",
+"title": "Cars.com names Trent Ziegler CFO-designate: Cars.com stock receives USD 14.83 target",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTJid3lxLU5Sa3Njem1LN3JLaDZxYzRVY1R2dk5hT0xVVXl2U2hXTXJ6QjlWa0NWUmdfMGp1M0owcDlKOXpEaE5GTS1MZkMwblJXMVF6WDVydkRJc3pOTk1kVWNvSGpma0VfUXE1R1pTZW80UHU5R25idjNaY09HTHhjaWNSUnVlR1VCWF81MWhyTlI3SmpBcG9YeUhGa0VoRWZLQ3Y4NDVNNkpNWG1DdmpOeEhkWUJBeFF2X3A3eHN2OXA3N0U0Yg?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T03:18:15+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "51c60f27bcfd6840",
+"title": "HDFC Bank, Tech Mahindra, Varun Beverages: Top largecap stocks to buy; check price targets & more",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMnFiVkV5dllCelVTVTlYTktfbkRZbU5oZUpMenVvcFlPaU5BUTF0SDQ3c1JZWGNGdkhIRXcwaUNxcXVuWEdNc1VDcG1ockptdjlONG11aUZSeXlCR1lGaFc3UkxyeDhUd05la3JIMUd4ZzEtc2JxempUajZnS0VJSHVDcFYzN0RIcmNLUWs1ZGozb2ZvcmZZZGNYUUsxYXNtWVZtS1dEWWlzZzN5VnlBaWxaakJ5b3Z2NE5iYXZueXVaNzB5R1hiLTYxTnhKa1dzQ1NpbjU0cmFVYnlYakZ5VGpQREVUQy1PS0JNbXNIc01NNm1YaGN0U2hFaG7SAYICQVVfeXFMTkZWVmJaR3lIem5aU1BhZjN2cTFpYVFIajlsV3ZGRVMteWJxNERFcGxYRW1nWE9oYkJ6amtZMG8xZUlvRjg5YXAxVnBETTJoZmJSR3UyS0VaVFg3OXFuZ3I3Q0ppTjZwSVhsSE9MRXBJZkpxRDJDZnRFZ1NYNTBrbE03LVZRQlNYV0pjNDc3WE9FX1dtVnEzWkhUTmxta0pzMVhuM0daZnJEN2Z5Zl9RNElRN1FIbGtSUDd3cnpUd2lhbWZVeGFtajFIOEpvTFNKM0FtOWlscTJVMXRfWUtOWlQ3OXYyUFlNdFZtNUVtcGtJNXZabkc4c1RCZlhGeEt4eHBR?oc=5",
+"source": "Business Today",
+"published": "2026-10-02T03:07:03+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"HDFCBANK",
+"TECHM"
+],
+"groups": [
+"HDFC",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "baa0c67b556c700c",
+"title": "ONGC cement-cartel probe in India faces evidence questions after court ruling",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMHp6Wi1oZGFNdlM4LWZKQW92eUdsTVBqMFpncE9aY2pVcEl2S0xUNThaZFBBTVBzeWcwd1ptaWVqUXlRTWNYM19XNDRQUHFlWUpKQ2RFaHVsT2Ffak9ySmNwSmF6aDZfYlBGNGl4NDBMMFBwd3hQQm8wbFFaV191NzVQRXVJSTNSSDlZbXhacW9fUUFEOHVmUEFCMHFKb0xaaGx1QXhyVXdBeVhOR0pua1RuLVlOb2Z4eGFJddIBWkFVX3lxTE80TGtzbVBvTkEtNkszbDMwbDNrTjdnR1o1aUFNN05wQVFRd1pCYlJVWk9Ea2IzZWJCMnU2YnlsRkxkUmkyaUJldmZ3R2tIQ1ZXVnIyTWh4Y3g1UQ?oc=5",
+"source": "MLex",
+"published": "2026-10-02T02:52:43+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
 "id": "10d5e0f9120c2a4c",
 "title": "JSW Steel Expands Retail Footprint with the Inauguration of New Branded Outlets in North Bengal, West Bengal",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1lPUmc3OHJVRU9YSXNXS1RPY2NBb3ZiZURIWk5FQThIU01IOUVrNmF2LWVTNjZEWF9obmZybFB1SUNoNUpncTUyX2VJOWZuMnhHempWb2ktMmFPZnhhSEJ3YXVvZWFFVkl6Wko2UW5nekhWU3BTNDdZeXpKUlgtalRNZFBFNHk3WHN5by1VR184d1MwTUtQVDFhZUlfQVdKd3ZFcTN4eWJuUkU5MUF3M0hwRVVDTVgzenNlTFhUNkNLV1VKZHFyWXF0LWhBZm0zMXd3WmwzZ3dBM2M3RUlMT0xvcUs?oc=5",
@@ -526,6 +600,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "891533fea544b767",
+"title": "Kyobo Life Insurance Partners with Circle, SBI to Commercialize Stablecoins and RWA",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ODRkWjdwYzY2YlRNT2ZnRVpDeExvMG9oaVkwRHQ2aVptZFZFcU1mSDIwbGFpaFpSaHhkWkJVYWg1c2RTbktIRXlHT2hLb0g4Z2x2TVlBaXNFQXBlNXZpVFY4UXJidUNBMjBXQnRrb1ZjNnBMTEE?oc=5",
+"source": "finance.biggo.com",
+"published": "2026-10-02T02:35:00+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -772,6 +862,43 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "eaad12f6c813b89e",
+"title": "RBI approves Anup Saha as Kotak Bank CEO for 3 years | The Morning Standard - newspaper",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTFyZl9udzNYeWR4MDNTLXhFTV9FQnBJckdxdW1qSXNlMXBfVTJPNDlhSVVvZHBaYW1aVEdWLURWNlc3TW5YTU9weE1UTWdoMDF0elJzbWxrU0ljbU5kcmV4ZThmd2dfVVhGT3g3c3BWMEtiMHRldHN0SGVlNFozOUpVUXJTVDJLcXR5T2RUaUJmUG9aSFlTUzU5Skk4bVJENG5pVENLeDdoMktCanlVOWRwdGFPUQ?oc=5",
+"source": "Magzter",
+"published": "2026-10-02T00:43:36+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "93fdeaeb6916042b",
+"title": "CAFE-III norms: Maruti Suzuki to Tata Motors, carmakers see technology flexibility aiding cleaner vehicle transition",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT0hSMkJlaWRIaFpoYklUN0dhc2hzejVHaXZjdGRKaUdTVC1MZm9BUzRuQjk2bUFJV0w3V290S2U0SUl4RnBHNUF2b2JlQmRTd2dHNDJsZlIzWmgxeW5ZeVFxLVFyNURVYk1KejZxZno5dzNKeEMtWm5TX2NUSlluU3hJSmE0dHBSdm45MzVyeW9GUmJYaWxLQ1NjT3V4QXBtOEllNUctTERVdHNNMlFOeHhWcHdnUkhhcEVJVUFjTl9renV4VEVlUGRCVTduLU1COHBncm50RV9sRTNWempvckxVclZUdUk2QnRJRW05MXlHLXVFSWRnQjVINWg1cFR2OEktTmhR0gGLAkFVX3lxTE1jd1Z4a1NOaWhrbmtxMFJxZjlVazU0NVZsR3ZRekVBS0V0b2R5SDBIUTFpeEthbkZhU09hSFVRZEVneUpBd3JRWHc5MVV1SVRFVm1sVzJQay1IWWtFSEJWcDdJNVlQSXR2TUdLRXA2cExiaEJDOFVPZmF3ejRzRy05UWZUclZJTUhKTUVKODJyRVMyX1Mtd2NyQnFUbmhRdHdFWGhkcUNfYWxkZGVhdXhCWGtlOXNQdW1aSFp5Rk0tSkxvQjhTTkpZVG5ZMVkxS1JMelhYWS13SG5QT3hmRnFTQk82UGVNdFotR3hoVEkzNTVJMGlZNmFfUkNFSEZhQzd3dnNCOVVyanZQMA?oc=5",
+"source": "auto.hindustantimes.com",
+"published": "2026-10-02T00:37:02+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5425,6 +5552,22 @@
 "sentiment": "positive"
 },
 {
+"id": "16eb39af748bc8a4",
+"title": "bonista injection sun pharma price",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qazRsUXRVakdxX1F0WTYyd3hQUnFCUHgyU2QyZm14WkMzY1lQbjlmVDhOeTg4YVlSd2MzTUV3QXZ0WEk1cmxHeTQzNHhNck5aQ2haNzdydjl5cGxYcUs0?oc=5",
+"source": "polskieradio.pl",
+"published": "2026-10-01T12:35:45+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "9fb86ce7df4a63a4",
 "title": "Airtel Money targets $7 billion valuation, plans $703 million London IPO",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlRYTVNaa1g4RnhkUU94cnRkc2RfNURHQWtqTmtVOXdNeWxfUHNMeTdYbGd3VF9OVWxVRzdYelhuNk9SMFZ0UXh0OU13OXlvR2F2bTlld0EzdEpCZEdZcFJzUHAtSzNEaFU4aW0wRGpkSEVIWnFwa3FZZlJjS2piMl9VNDJNUnp0SmFYYmk1Sk9sRnctY1M0Y1BWT0VuWHFSTkI3OEs2cGo3VXAybjhjMG1rTnRMaS1qN2RpRGh1dnJCT2ZYV1QyMtIBzgFBVV95cUxQU0tYUnFOUFhMQ1RlSmtkT1FhMEZsNzFOdnc2Zk90eF9vcGR2U3YxMDFqUG9qVkZnSklTbEkwUHRuLXVKczlzZzA1VGNrYk5QMC01eWpDLU5PU0JobUxLQUtYbG0yRVNNLThhZk5heE8xMmNjQ0ZFVG0tbWc1UG5yWkdodzN4ZUdiemlGVHh4MUN2bzhFWjM3eTFCZHYxTUdhVXdfRmdfdTU5eDJpUHVyT0FUOGpaUFdsd05hMVBjQkMyMndjbFctVWJkTkVFdw?oc=5",
@@ -5783,6 +5926,24 @@
 "IT"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f495dafc867bb39f",
+"title": "Tata Motors Passenger Vehicles Reports 40% Growth in Q2 FY27 Sales",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1cwRnNBcjhVQW1kdnVDU0RYZDhvYl9ydjZndmhHdGc4WU1IOFBRUFBNMGkzMmRYSndsc1pKclNGMnpQT3RNYVU0Z1hKVmE1REZNcXdudWs1VnJwZTItSElPZ3RBSnNBbi1VNEg1enpzRG1tTF9kaHlHbGNVekpYY1RCMlp1YTZQSHZwWHBVN2VkYkkzdHhQa3dFN01pWjRiX2piV1RjWmkwWjdxU1ZWLUhDZHprbEM0alE?oc=5",
+"source": "Entrepreneur India",
+"published": "2026-10-01T12:01:34+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -11137,6 +11298,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "fab9ac304eab053f",
+"title": "Second Hand 2016 Maruti Suzuki Wagon R 1.0 VXI AMT for sale at Rs. 3,64,000 in Bangalore.",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVVfV3ZXRjJ4ZVg0ZHZqQUtjSFJZUHhkS3B6alQtdWRleGRXMENwTll2cnZ0UTl6TXluNy1Dd1RYRkNXTVhyRmo4SDV5MFhPdTc4d0VfMVZhY0xwdVdJaXFXQzlCRXpzLXNTSjhMT3pvcTVPejlEWXJHNG5mYnlTYXpyS3QwalVJaENz?oc=5",
+"source": "cartrade.com",
+"published": "2026-10-01T07:38:18+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "48a59fd6b8a6f505",
 "title": "Infosys Ltd Sees Robust Trading Activity Amid Narrow Price Range and Institutional Interest",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGF0clUxM2VXVlJ3TUZGakRGeHBPNVBoMWtXQkROa2poc1hqUTl6ODRRNDNQOFkwTVJMTTl3dlRZUEdSUm1CSmZ5cXJQeXdudWRzRVA5RnZmb2xTR1B5ck9GQVA5LXlNLW5NQkd0RFRoREhlWHRqNlFEcjdHdUxvRzJYSm5uVkhab3poRjZtdFFsWGFta3FBc0xxSmw1Q0lVdUZhb1NNQ0x2M0ZzYm9XZHhxcXhhV2Q1N1FHZ0lMT0xaYnFxY3E5aHpBU3ZzaFBJNlJXMncwYWpEcHluRkUyVnRYOA?oc=5",
@@ -12459,6 +12636,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "50f4804a04a50bc3",
+"title": "Second Hand 2018 Maruti Suzuki Celerio ZXi (O) AMT for sale at Rs. 4,74,000 in Chennai.",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXB3QWkway1zMnlUTkFCUjdTLXBwTDNfYmdzOFNOZDI2VEF5TjZ3a21pdE1yaW9oZ1lLUk16dkpjVVp0UHc3dDlNeEdveXZSc3NiWlpjb21Sc3lVNGE1MGhReFNRUlNBdk01RXVpVnNvRGt0Z1VOakpHWjlmWkVBUks1dDdyYmdj?oc=5",
+"source": "cartrade.com",
+"published": "2026-10-01T06:37:09+00:00",
+"first_seen": "2026-10-02T03:30:15+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50606,187 +50799,6 @@
 ],
 "groups": [
 "Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c7ceee572fb2e1de",
-"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Details here",
-"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaFVZZm1aZ0t0cmp1SEhtZU5yazIxQkx1dVdUZm9Dci1HeFZUR0pXdzk2ZktMWjROenVvcnRWS3ZUY0J3aHBSc0xFV3d4dlBnTWp6NWRmVFVJY0dUZkh0a0k3WVFKeUVqYVliRmxQTURWWnF6VUVFUkQ2Zkt6SXRhemtqY1FiT18yWUlRdDloTGp6dFdhcWI2aG16NE00QnlFcGgyMWI5WENtYnFzWU9ZTDRzcnY3MGtBOUR4YlpfSHpEV2FZb1ZWYms0VTV1ejhva252VmhXNGJocEwxSmJ0cHV0Rks3RWZFbUxmVTBsZDFENUVBWHdPMS10dmhUeVE1NWFPcVdVTVTSAY4CQVVfeXFMTUdxck1hdDJuT0JDa3lLNURHU1MxWDlYTjQ2NmhJd1FlWGMzNXJoelFoWkdMZjhfSW9pVGN4Vk4wTHBNZXZsNy1QdEFYSEJCYkZveTdCbG9uSHJ6cHNyYmJxZ2FfVWlxVG14X2swLTJ3VFdqRHhqVjRicEpCbUdxNFAwajJ5YTRic1lFREZxY0h4eUFVSmlvV29pbUNmZUlQa2R1RlBmY0ZYYm1ONEd4cmVyVGVKX1dBaHljb0Q1WFFYV0MyV3JZcWJlSEpSVTEwNUlDaHJqbXlXSTBmSTQ1ajY0VG1INnVmYS1XM09vaUVwNVg2cWdPU2lyNkt3bF84bUR3ZV9hWWUxRGdBSElR?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T04:33:48+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "d9a5417da4fe911c",
-"title": "Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Is it a stock to buy?",
-"link": "https://www.livemint.com/market/stock-market-news/adani-enterprises-shares-drop-2-after-adani-group-entities-swap-86-lakh-shares-for-2-498-crore-details-here-11790569541218.html",
-"source": "Mint",
-"published": "2026-09-28T04:33:48+00:00",
-"first_seen": "2026-09-28T05:18:38+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "3dc1574ced4e2fe0",
-"title": "Adani Enterprises shares drop 3% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Is it a stock to buy?",
-"link": "https://www.livemint.com/market/stock-market-news/adani-enterprises-shares-drop-2-after-adani-group-entities-swap-86-lakh-shares-for-2-498-crore-details-here-11790569541218.html",
-"source": "Mint",
-"published": "2026-09-28T04:33:48+00:00",
-"first_seen": "2026-09-28T06:20:59+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "bf56518db87055ab",
-"title": "Video | SBI Life Or LIC? JPMorgan Bets On Low-Cost Insurers Amid IRDAI's Distribution Reset: Top Picks",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhEUGExRWpSU3VTXy01amVCSV9wQkVXcUxCWEhSQnRuejc5ajlranB5WWJFVlF0TUc5UnB5V2hDcWpuNDlrZ2NrSWdyTVJ6aDRscDNBdVZrUHNUbjhJR0hZVjNWVzRMN3VfdTJmaDRLeVNXVExqMUxuWVNGUEM0Wmg4SGxWUWlhWDNKYnExUHc1dHVVYXBlbW9wMXJUdUN2ZHRZa2FPUENMVEU0cWtSakxxODlvMkhlUC1lc0JSQmNoVjkya2I1MmpyalpraFU?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T04:33:04+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4f8e39e2b7ce111d",
-"title": "Sun Pharma bags rights to $3.7 billion cholesterol drug market globally",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakdTcGxBc3RxM3p2QWpwc0prNVZ4aVRMNkFLVlplVFhnOHFyUG5hY3FldFBZa0lsd1ZnRUtSa1F5dFJvQzk3bDY2UEI2NnZQS0FLcGlTNlV1UElfdVBkRHU4N04yYWYyWXY2M1Vvd1NVMXJ2YXNTdk5tTFBnRzM5Ri1ha0s5cmRmR2ZEbERqYmZ6MVBLVFVNOUkyelNkdGt4bmhUNXFueEhkWWVnbU9QTXM5eFJnVkhFbU9PTG8zc09GVDdIdm82QlE3UnBPVUZmR0xjdGJmUnBGd0NEdXfSAeMBQVVfeXFMTS1pMXl1MWtzbk50WVIxUmNYelJ1dXBVdS1ULVFjWnNLVG1Pa3dZb2QwSjg1Z2lyQkxBSy1fcVRnUmZJb3JCQWtOMVlkMFlOdERZOXN1a09laTFFaXFCS1ZGU0pMT3QwUkY5Z1RvOGJBWTV5eF8xNTVSZm1uc19rc0QxUnJpR1drT0pEb2doRUFXUGVhTGJqWmk2ZlNYTDhTb0VfR25xNmw2QUJEVW1ISk00VWs5Z2pHdGhfR3JkSzhvMDJrMjdTWEFEQUdVY0R6OTg0ZjQ0SWFjb1JzTDlvSVhRRVk?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T04:31:36+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "5af88ba8dbe2bc9f",
-"title": "NTPC Invites Bids for 400 MWh Battery Storage Project",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzZjNElfdVQ1VmRaQXR2U0ZoTGlzMWRMYmVFeEdqeV9CeXJ0bFJjcWVULUw1NFZOTG1JaVBVZ2xHX2tYakFXT1NBTjA2cERxNHNULUdsc3hyN2dsSktySExrc1hIMGVTU0d2TlJzVEpUdHJMVHFOSk0wTno5SF9Bci1mTnM4ZHpxdDllRGVpa1BwcnIzSlJBTk5WVFRRV1ZBM2RJN2doZWdhaXNhaGpSbFJsZmlzdTBtbzF5Q0xiMDBDdHZZd3hYelBMRHI?oc=5",
-"source": "SolarQuarter",
-"published": "2026-09-28T04:31:18+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ea1ca12398fc452b",
-"title": "IT sector stocks today, September 28: Nelco falls 2.31%, TCS down 1.10%; R Systems jumps 11%",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0M1N1JLOWktYTNYcmVLME9jU0doQm9BZmQ4OVl4S3E2R1FyLWxkX0FPTWhodjkxMG9ySkZFQk0tTC1aTXJvUDQ2djBzdnhfdGRNYUJvT3JSb25VV2FlZjNiRFdyZG4xLTBfdEhqT0FGcUIyNjVTUUkwQXFXQ3RrUWVDTjdXandvTlRWcUpBSzlrcXd2OTFPN203cUxhUmc1NDkyc21RNlk2U1pvQzZCUzF2Q29fOEVVWjRWcmJ4Wnh4X1JLRFJMei00aU1GRi0zb2VrdA?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-28T04:30:52+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c8d8c44a30087295",
-"title": "Why are Sensex, Nifty falling today as crude climbs above $106? Hindalco down over 2%",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQl9VUVpCdDlvWEZ4OXE5V1pabEo4U0RPcVlBRXJuMVBQMzlWQ3Jidkxzc2drSUZPcEhOdG1jRmpqRXE3TDVIdEY5T3hCVXV4Ung2X19yRU1OcE8xUU1FZUwzR3ZTOVBCYWNvc1p1U0x3WF9kazVjV3h5Tk9PbElFSzN1V25BN0xDcU83cGZ1QVRTN2kwZWxjZW9VeFFZZTctcG5PWDdhbERNdzI4ZlZlLWJLYVdxUHZOQUJDWUc0MkbSAcABQVVfeXFMUEJfVVFaQnQ5b1hGeDlxOVdaWmxKOFNET3FZQUVybjFQUDM5VkNyYnZMc3Nna0lGT3BITnRtY0ZqakVxN0w1SHRGOU94QlV1eFJ4Nl9fckVNTnBPMVFNRWVMM0d2UzlQQmFjb3NadVNMd1hfZGs1Y1d4eU5PT2xJRUszdVduQTdMQ3FPN3BmdUFUUzdpMGVsY2VvVXhRWWU3LXBuT1g3YWxETXcyOGZWZS1iS2FXcVB2TkFCQ1lHNDJG?oc=5",
-"source": "newsdrum.in",
-"published": "2026-09-28T04:29:11+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "f0daec85f2fae354",
-"title": "NTPC VSR Stations & Railways Strengthen Logistics Synergy for Coal and Ash",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzVzT3FLUEdaUnZTUld3UVBIM2JNTkNHMTRrLVlkVkt6Y0xQdURfcEpRaDM5T1ZNOERMNFE5S3VBV1NtSTRrekpDNGU4TERUSEV3VlctQ2psWkw3VTkwVmNIb0p3ZWpRM1dfdkI1N3FaRlVvZEtxemxBVFB2Y3B4RnZiWkt6OUJCaklHT1VKUWJraDYwLXp5czRONmJQQXdVSVJ1RTk3VE5OWlRzOG9ldg?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T04:29:00+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6eaaed6d928e070c",
-"title": "Bank Strike Postponed: SBI, PNB, HDFC bank open today or closed? Check latest update",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnN5bGNfVnQ4OFNqY282Q2hCVTBPZmNJSmNsc1U5cDBuTmVLVnBMd0I1RVVNR3MyTzRyaWRoSElnWWZwUTRUVnJDbW9LU0dORVdJbkF1R0hCQ1ZXR0V1VUdROFhZTTA3Qjlfb0hBZXpUdmhsMWJDMGJjUXB2alhEa1pUcUdSaWRLRkN3MUVTUGxVQkJ3d3V4QXItT19GNUZiR1p1M2haUVluMnVJdXVsbXdubDFFMnlDNWJFTERB?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T04:26:27+00:00",
-"first_seen": "2026-09-28T04:33:08+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7709bf86ddbcb215",
-"title": "Bank Strike Postponed: SBI, PNB, HDFC Bank branches open today or closed? Check latest update",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnN5bGNfVnQ4OFNqY282Q2hCVTBPZmNJSmNsc1U5cDBuTmVLVnBMd0I1RVVNR3MyTzRyaWRoSElnWWZwUTRUVnJDbW9LU0dORVdJbkF1R0hCQ1ZXR0V1VUdROFhZTTA3Qjlfb0hBZXpUdmhsMWJDMGJjUXB2alhEa1pUcUdSaWRLRkN3MUVTUGxVQkJ3d3V4QXItT19GNUZiR1p1M2haUVluMnVJdXVsbXdubDFFMnlDNWJFTERB?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T04:26:27+00:00",
-"first_seen": "2026-09-28T08:02:43+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
