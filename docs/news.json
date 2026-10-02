@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T01:20:18+00:00",
+"updated": "2026-10-02T01:34:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "5f20d96c0c7ea0f3",
+"title": "Anup Bagchi: ICICI pro who'll steer HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHFuQlc3aEt3VWEwTllLdXZxZjdwSnREUFJtV2NiRjMyb3UxQWlIa1NJOVRNNG84b25kMzBFMkQ0dGltVnI0aUp0SnJRYXZid0Q3eUl6bGVFV0FoOGVPZW9qbEJZUFJyT1BMWmtkSmhqWnJNSlJlUmFiVFdLLXFUbFJJbWFBNGY3dkFjVjJELWpBcW9KZlVEaHJIY2ZaeG9uM0g5R3FGc3Q2d08za3M4cVh4NFJKdTVfQVY1S3hSTjU4a0RrZmlqY9IBzgFBVV95cUxOckVtWjN2NzhVWmxpZ2hUVF9DeDJyN2YyMG1aZUhKNFRhaXR3dmdCVHNOM0pQaFFhcTQyRzA5dVpxU2k4dWtJSTR5TUgwNFFFMnJWOGdNMDU3WE9XMTFEZlRxUDM1cEJwclFsVE5Ld3gxX21kb1cwYXp2eEx5N2VtNko5Q1dYT0lpcjN0cW8wcGh1aGI4NFdQM040STFxTm1UZE91MUpTSkE3cGI4UjJRR3B0US02cmQtOFpmTVhTZ0lsZV9SdE5MLTJldTNCdw?oc=5",
+"source": "The Times of India",
+"published": "2026-10-02T01:13:00+00:00",
+"first_seen": "2026-10-02T01:34:47+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "402702b6d40bf5b8",
 "title": "ICICI Bank schedules October 17 results as 3 reports cover ICICI Bank stock",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2J0ZktiOWVPT05EOFlsd29MV2dvaEFfbC1xSnNsWW5qSGt0U2hjX0pkb0lZSXY2d01kc0JGaDBmd3hBWUd4NjVtOTZFQjdxZ1hnNjI0RF9SemhSMmEzbWRJS3lGUHdFNjFOOUtsbFJtSWNFTjBUUjlXdi10WlNDR3JQZTEwOHRmQjNiYXMwOVlqYjB2NjZDVkxCZzNsc2ZlVGp2WGk1QlFWdjByM3dFaUF3U016YlQyQ1BTMVVBeWxROER5TTZJ?oc=5",
@@ -542,6 +558,38 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e3bfaee081a90d01",
+"title": "Maruti Suzuki XL6 On Road Price Hunsur Oct 2026 - ₹14.92L",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04MVdvN1dTWGdYNkNKcjRjOGdxWU9rZzhqUlB4VnU3MXo0a01ZdlItRHRjdGNyQ25UVHlVV1ZTaW1pSEJhNHk2ZWZFNVZPeXJQOE1qLXFEQ2Y1OUlKOVh6MUpqRzNEMmhTb05IT1lubVBPd3FobFlCZ05R?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-10-01T23:29:22+00:00",
+"first_seen": "2026-10-02T01:34:47+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f4eee7481ae8c010",
+"title": "SBI organizes pensioners’ meet",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMnZ1MDViUnZkT3Z3MXdaRjFTc1piMHlydVJQS19QZUh4WFdWMERTZWtSMU9BUEZ6eWJnX2c4SkRDUTNpcnRhRi1mU1hOQ0hqblkwY0VQSGlvdlRENTFSNjE2ZjdrSWRqY0tUYnJoR1V0UdIBckFVX3lxTE1wMnZ1MDViUnZkT3Z3MXdaRjFTc1piMHlydVJQS19QZUh4WFdWMERTZWtSMU9BUEZ6eWJnX2c4SkRDUTNpcnRhRi1mU1hOQ0hqblkwY0VQSGlvdlRENTFSNjE2ZjdrSWRqY0tUYnJoR1V0UQ?oc=5",
+"source": "Daily Excelsior",
+"published": "2026-10-01T23:28:10+00:00",
+"first_seen": "2026-10-02T01:34:47+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50723,60 +50771,6 @@
 "Tata"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8ef15ff51569f33c",
-"title": "Sun Pharma inks global licensing deal with LIB Therapeutics for bad cholesterol treatment drug",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdqLVRqSHNDME1vYkZHTk1yRTFuTW54cGQ5cXV3UkY1cW5mZXdKNTNzb2thUWRVWjRWZmtkWmRKcXhmVUI1OWlUTXR6REFoWmtqdWlPcFBDZG96SFVHWHh6Tk1hbDNyMXNBSUVqYU1ObE4xeUxFQTRPMmlmWEY3c1lEQlZlN2JnWlIxLXF1VE9FUUNTb3YwOHdjUVZQZWlpTzBaNGdxUVl2RzBZTHJWLTRLM1N5bGY3MTk1MGpfYnJid0UwdDR6N085UG54RzNJUkx5aU9vUXVmd2FyWVU00gHkAUFVX3lxTE94bG5yRkdCOURMQTdab3Z4NUhhamN6U1NacWVVR1hnM0MwYnBrSC1RNUZLMGpDZks2YlFJWDdCQW93LVQxNS12a0pPWHY0Q0k1RVpmRjk1QzJ4YzVGbW0zb1N0V0tFY01wWWtmZ1BvM3ZNWnAtQzlZNVFySVdDYjA3akhIdkVSN1ZKRlhQdHhQMHpWQTBZSmJfTktEWTNWXzJLN29kbUhDelczZkxoVlQxMGsyUGtONUUzU1drZjd1SWNDaUtNNXA2bVUwUDUtZzZNNE56ZHAwb3k1SFhrSy1LclVOVQ?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-28T03:42:23+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1c36719d094738ce",
-"title": "L&T, Rashtriya Chemicals shares in focus amid ₹797 crore ammonia plant revamp deal; key things to know",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWV96UVRVTlJPeDRGNEFrVmxLVExJcVU1TDQydVVmRzNLX2UxZkh6aXpVaXRkSmR0Y29yMmpLU09WTDE1ZGF6emIyempyWnBDTVNPV3Y4TVZlMGc5QzZaUVBHRzM0c3l6eGE2UUdCQ2JZMVdRbWh5SHNod3dUR2pyNi0wcnhabWd0UXVkVkFVRXZsdEIxSV8tU09MbTlhaWMtaXk2TU9RRncwYkRHdmw0S2ttdVdDRElEN3hsV1lDLXlnQk5iQVVsQ1BIYzJGRkpHamR5ZkRlSFB0VEFjeGRNcjRXd1dKVVg1SDI4WHhMeUhoeEg1a2tnMF9ZVUtEQ0swbjZGaw?oc=5",
-"source": "Upstox",
-"published": "2026-09-28T03:41:51+00:00",
-"first_seen": "2026-09-28T04:15:42+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "dd39532b062a52c5",
-"title": "Sun Pharma shares in focus after global licensing deal for cholesterol drug; check details",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa0tVTC1aQmd4NTJJT21SN290NFhBOHRJVWpTX3d6QXAtSTBFRS1YUWZDUHZvMGI0NWhkek04S1lMQTltTmdWNlNYU2Rzd0ZZalFyRXFwcEhQRmFTNGo4VWhoRjgxbjRNQnRRZ2J4dGh0UVdfZ1pOMlJIWTlydWE3WWlZNk5XaWROemFDVW8takFxcGR4eUFsNnVLWXQ4R1hyOXAzQnowMkx3Um5qTkZkWnZIR3h1YVpqSWtKTFNoeUgxQ0c1VkkwY1VWV0NqWkxGMW1RbXVwRUhNSWx3bnNXc01zdnV6UkVZLXl1Y0FR0gHzAUFVX3lxTE5zb3EzMWJrV0ZsQzhLM2dJQVNQUXpoSlNiTExzQXlJV2J0aWVBclZCenMtN3VJLU5QQVJ4aXd4SW8xMjlCbWM4eHZCR3JIamJ5T0xseVpBZFlhSVdfa3hMd1hBblhTTzBBd2dVYnpqS3lRMGRtTjN3czdNTzlNdEFoMDdLVkVDUk5ZSmZJVXVSWG14cUlydEhiOWxldERoa3ZFektRMDluVTJnVlQ3NkFCOTBwVFpWaDNqMld6VUsxb1NGNUxabnRESHgyS0lWNHdLaFBLNmdLTF9CaVl2Z3BpVzl1dUpXMVFfNDhJZWIybGRYRQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T03:41:36+00:00",
-"first_seen": "2026-09-28T03:58:47+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
