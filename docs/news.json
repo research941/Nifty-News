@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T15:21:43+00:00",
+"updated": "2026-10-02T15:38:35+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,126 @@
 ],
 "items": [
 {
+"id": "a0839b7c48e4df55",
+"title": "Laser Power & Infra Secures Landmark Rs 72.77 Crore Order from Power Grid Corporation for HTLS Conductors",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vWGdzSkY3dl9XcENuWFREdHdYVzAxd25aMHdqN0VqT0tUMVdYN3ZsOXA2LU9Db2hRTE1rRjhtMkFKUGdEYjFWS3R2NVhZRi1PQXYyTm1XMGdKTWJWZGNV?oc=5",
+"source": "equitybulls.com",
+"published": "2026-10-02T15:36:02+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "2c06e2a135fe0e1a",
+"title": "Cipla's Pune Godown Loses Drug Licence Over 'Misbranding, Storage Violations'",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3pKODZXdzhTVXBCTEZGZ1hvTTFRdkxRWWRoWHZFWGQzMEMzamJUTkJzcUxQVUZfTzFUa2hZWkN1YUxhaGtPeGpxbWxOYzBOUmlnMklZMW5MRFpNUUxiS0lXOVhPc0tFTTNIS2tMWTB5M2twclpjNVhNM0NacW9odWNIU2gwMDh5ZlhXRjdYOTY4RjA4dHJ2eFNlUUlZSHZLUF9Wa0lyUkFraFBDT3dwVlVodDjSAbwBQVVfeXFMUDExeEs5Y010bTV1N0N0RGhlQ0VNVzlRa3E1OFpfajFsOGhJcnBXM0liOGFZblg4WW1hZmxESGZnZXpxUjNmelNNSjBMV3FYdEd5VXVobmNoamM3cWlrN0lnZmdYZjhCTk5lRUlSckdVSlJBcjJMa3BTN3AzTTE4OVE1TE1iNWlyM2VRUmczZFFyLXhReEU2bzRLYmJ4M0RfaEYxYzBlYUx1Tk5Uck15RXltOWs1NlpaYWJhdzk?oc=5",
+"source": "NDTV",
+"published": "2026-10-02T15:28:54+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fdeedb1693b72f6e",
+"title": "Maharashtra FDA Cancels Cipla Pharma & Life Sciences’ Pune Warehouse Drug Licences Over Multiple Lapses",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWtxeHZnN3l3bGYtU3BGc09yaFMxV2VST25wM3lFeUtJeVcwUUZna2ZuQjVTZVJRWUhwYzlqd3pERDZMYnN4Z2JRZHFTZ1k4Y1dDdmpfWDh0N2dUaVl4QVMyczBIaUNhZE5yRWpFb1JPZHptNElMTlRoejI4X3ZYRkFHMzgyZUpCbnBBcHRjXzlkVjYwV0otMEN5TVFJbWUxbGtPZC1tV2JZV2RuajlxbUo5QlR4ZHNTZUd4bGpycW1WdEl1b1JqNnNoUWdhUWoxaWxzTXh30gHbAUFVX3lxTE1NVGhpVnVSVzdnMnpDajdJWkpjNmdPVlhXcUFJMGRaV2l6andDQTBlYTZmVEdQUnk0Vjh4NzZkemxHbGRNZ1RTQmt2WktUUmxrUG1yTzhGcnp4Vm1ZOGtxSWJraWtHaHRyMXhlTVE3enhFNi1aN0lVNGRrbEZFWjZNQlVHSkU3QzFlek1nR0RiSTBfcHByTUJPSFA2MFR0SjdZcU41T3dzdzlxNjdqd2gxV3cyRlphNWxiM0JUMTZIdzRaWENiZ01meV9ieVIzTjczVl91MXQwYXpJaw?oc=5",
+"source": "Free Press Journal",
+"published": "2026-10-02T15:24:33+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ed83bf43596b4e4a",
+"title": "HDFC Bank succession settled; execution test awaits new CEO Anup Bagchi",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFNSQlBHeGFwYTRkNGVNUEtKNzl3QmRRSzNSaFl6ODNUR3JRT0Y4ZjlPR2NPVFZ2OGxINlB5WEZZODFMT2RZaG0xellUcTNJQ1N5Tkh4QTBTZVR1bVk4NUxHeE5TQzJ4U0ZGb0FqUDFJYkhEakdmbThNSFdGOWFFVnlFYWREQUVORno1OEFBLXdEcFRiTGtiSlZpVlFrXy1lZ3BRTDFWLS1rU0lkeE95TzRyTHJuYlJHaUdyOWlIeFpvWVFoUEhsZHhvTGpLMTZfRFU0M20yX1LSAd4BQVVfeXFMUG5leGE3SHNPX2VQR19oLWZoTGExSDRWM21RV3o2bmZVZjVKekltajJyT2REcURRN2lfaHZ5Y0V1T242SUl0Qmtja0kzVEtJUWRyTUhGSVZPVWpoWGhMbGpGNUxQcXhlSmNRekNpWW1jbTU4RnVqTFRkVTA1eUlCX0JHVzZCM01CSzJXc0hTa1NSbERleDNDRWRJTTdiVmVUWWJONmUxSkh6Z0NlQ0JIRjRoQmpwRVRNdk04RVhCanJDdl9iNDRETjRWTTNwM3J5eVJleUszbU5IM0VuS1JB?oc=5",
+"source": "Business Standard",
+"published": "2026-10-02T15:21:59+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "a22179c6da556e47",
+"title": "Goldman Sachs reiterates Buy for InterGlobe Aviation stock at INR 5,900",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTlENTkwSjFnTFlCLU5ZZjJuWThZUXdKSndMMnJveUFkSGQtZXc0Q3FYdVh0Um5xOG5oXzJ3bmhFWHNWOGtjT0lNLWlYWnVaa1dZQW9EYkpJQVd5Wk1GbWNHa3JUN095MlVvYWs3U1FHRmFEQ1lRblBlU0s4UGtQcWUtZG9ScjQ1Rm0tUmNRSjU5MDcyazJGQWZKbEZxMEJ1dnhnSE9TZmNLUlZiWGpXazM0b0JTRUllbHBZWE9XLWhCbk1uWGpQbUdR?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T15:21:53+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f7e9e22203611c7a",
+"title": "Huge Disney Licensing Deal Brings ‘Ice Age’, ‘Percy Jackson’, ‘Will Trent’, and More to Netflix",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMk1pbkxMLVVSOEJZUm8yOGktcnp5TERJNVVZeVJfODIyamFmT3hMOGItbk4ycHBtQzBtbXFyTXgxLVRDN1E2STA0di05LXhvVjRQTDZDRllkNFB6MV9FMHNyQ3RLMnpjZkxFZGZycUdQeUN4T1g2UllDQ3VKVi1VNFdFR1A5a2RGcVJrVW9KNDBVN3MyQTAzZER3SFNkcThaUndHVFRhMkM5RzV4ZGpVeE1TMkhXWjVBTmRmSnYzeXdNRXQ0QlhtQ0tKd0k?oc=5",
+"source": "whats-on-netflix.com",
+"published": "2026-10-02T15:21:44+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "89671283b127b1fa",
+"title": "Buy, Sell Or Hold: Eicher Motors, Mahindra, Pine Labs, Belrise Industries, Data Patterns, Crompton Greaves Ask Profit",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalp5N2VPalBMXzlkcEhuWkxyejQ5aXNzVEZ3bUd1M0d1UlN0SF9hUlloVUJrYkJBZDJYN1hJQWRHRVVoV2x0dE9kTkNNR0tCUWlhWUdhc3dtTGk5TjhNcmN6UTdsMTAtTng3c2dHbDBxS0FzYjJxSUgyUFZqaUR2VEl0aWJPXzBuYVVnM1B4YWFDdW1UWDlFT1h5cm9fYXNwbWdrRHFqVURNN1VjZUFqdnBYWFdSQWsyb0xBMXR3bk9KWkpQYkpRa21lQ0hNNjRxQ1JJVFZLME03dmdKQmplU0J4Y0FLS3FTcFE?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-02T15:18:01+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "afd9bd3922e681e5",
 "title": "World Bank’s IFC Pumps $90m into Airtel Money IPO",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmdZdXJHZjNVYXQyR2F4NnB5QW03ZWNmcHlac3pETk1NaW95dGp1TlBySms3aTltbEdDSGVUR0NBNGhBWFpabEZObkR0bEE3ZERHYjdxNTlERTg1U3JvaUd0WnYtQTY1TEhyS0FObzNrazVrakJHRGN2MXVNdE45em13M3A?oc=5",
@@ -508,6 +628,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "978eb17b851969ee",
+"title": "ICICI Prudential Life names new MD & CEO after Anup Bagchi moves to HDFC Bank | Mishra has 26-year experience in banking sector | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemtsYzU1RF9EZVVISWxzU3JKNXBUbGZLYVVEWDlCNUY5d0VmV0JRZEpqWjgxVEE4WGN0VjZxb192di14T21BdDJXUUJNa3ZvXzgtYkFWa0wxYTdOZ2E5bDZWeXZCdzlsaGZYd3FVekhYY1RTeldEWFRFTkswbVhpNV9XaVhzbmsyUlhtc3JsWGRqLU9ERGJXY2xCVEo1d2c3NEdNeXNaSV95dUROWjFNQnFqSWVhMEVXMml3SdIBwgFBVV95cUxNY3VUdFl1bVZJR2xod1RiYVFka2VyTFA4amhPZjVoR0tZUWxRZEIzcmJGRURWZEFYVF96NUs4Nk51ZFdaRW53eVd6OGtDeDNZYWhIUEZFNzB4NGdvc3ZzcDVYZW84a0RzTDhOdG1ycHFQdmFHbDd0bG9rbXNhN0lCWDZpak44Qk5VeEotNnVzMUdXR291RDBkVC1TejZ4YW92dF9xY0RJX0Zwal9NSHc4N3NLcFdzbUxmNEk2MGtIb29fUQ?oc=5",
+"source": "Inshorts",
+"published": "2026-10-02T14:56:23+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -1174,6 +1312,22 @@
 "sentiment": "positive"
 },
 {
+"id": "3d1837d95b38aaaa",
+"title": "Cipla Pune Drug License Canceled by Maharashtra FDA",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHVjdVppc0lXcm1kdHp4NmlFMjlUTk5oR05aNEQxU0xjb2VEWXNMTmVIbHpDajI3T2xWZndHdGF1LTEwZkxWZThMSURsVDNaNUw3bXdydmVsWmw1NG5SbGFnYmVxZm1odmxCbk5jRTBobm9ZYlFNWTdpNkRLaFk0bG1ud18zeWxsaHEzZU81Nm5EeFdlS205WlUtMmJRUUlpYlRwRmFQZFl2RUHSAasBQVVfeXFMTWR1Y3VaaXNJV3JtZHR6eDZpRTI5VE5OaEdOWjREMVNMY29lRFlzTE5lSGx6Q2oyN09sVmZ3R3RhdS0xMGZMVmU4TElEbFQzWjVMN213cnZlbFpsNTRuUmxhZ2JlcWZtaHZsQm5OY0UwaG5vWWJRTVk3aTZES2hZNGxtbndfM3lsbGhxM2VPNTZuRHhXZUttOVpVLTJiUVFJaWJUcEZhUGRZdkVB?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-10-02T13:09:56+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1407bb80652eb9c9",
 "title": "Maharashtra FDA cancels Cipla Pune warehouse licences after fresh probe into alleged drug violations",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTF94LVl6MW5XenRnWHduVXpROVNHTW8wdzRuT0ZkQzFaenAyVlB5OVhVQjQ5V3JZZkUzNWZFWU5weDdEVUJSVzFkdGdPbFRVZkE3YlVPOURsa1ZCbW5HbFlNTE9nXzlYMTdLbVktdHR6UlcwX1N2T2VPY1NTZ0dvYnBzdGNad2Vrc0NVbjJtTmpFVmNMRGZFeTlKTkltY2tIbVlqR2dPRGRHR1BsM3N5aDRFTTU1ZnoxM1lHQTFCOXcxWXpPR2pycWg1SkVkRXdLWnBKLVplZUhhVmxyTkdxQTdoYXVrSHfSAewBQVVfeXFMT2UzQ2JFNFNjcTJGakZPc3M1VjBDWlQ0X3pTZEY4NGVJWFl3VkV2NTRyLXByMnRWT2syRDBNc1h6QnRtSlNZRE44dXBhV0FFaV9XWjJCbWZGdUFOVXlGNkh4LW51cTJZai1aYlFWVG03elJtVUhlZmRSaGwzRFR4aWlQaFFjUlBLazRPNTRhM082Vks3Rkc4MEFPUGNUb3FhbmdqMnNYdWozV2hxcHlKb1Y1djM4bjFINTJZV0t3SzVnTk1rNk9TMlY3anZVMC1yLU1DSGtpV2xoRlJGMUVpZGhxVndTSmJjT2psX1k?oc=5",
@@ -1407,6 +1561,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "94548054eb1a8aa2",
+"title": "\"Pashu seva bhi prabhu seva hai\" At the Indian School of Agriculture foundation stone laying ceremony in Madanapalle, Shri Anant Ambani, Executive Director, Reliance Industries Limited, shares a belief close to his heart — \"Pashu seva bhi prabhu seva hai.\"",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUEFYRjVGUHVTSUs5X196RkxEY1dDVkFRUUtmMUdNY0lIYkpfR25vYVczemNrcm1faEVBQmNFbWRqYmhPZjJDeVBxY2plWHBiaG9wOE96UGh6eFJ0ZGQtSTRaRlhVaDNiaTRSQmpKSlZ1VkpqNEFFeFlnOFpIcFRqRWRHUWlCUEF1X1VSMk1NSDZrTm1PNF9kbGRjaVRrSmlDMkUzcDZJcHViOGMwVVA4YUNXaGg4dDJfOThhblZmQjg2Tjk3UjFrejlFVV93Tjcxck5JRHdXNDFCa0FPR3ZTU1duclo5MjNDYXQ4aQ?oc=5",
+"source": "facebook.com",
+"published": "2026-10-02T12:31:14+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1789,6 +1959,24 @@
 "Regulatory"
 ],
 "sentiment": "positive"
+},
+{
+"id": "a21ced853713f95f",
+"title": "ICICI Prudential Life Names Siddhartha Mishra MD & CEO As Anup Bagchi Moves To HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSHVOcDNrRWdzajlzaFJQd2ZDSDZ2aTBlQjJScFo4T0d1Y21xeWFCWDFOSzJEYVhlZjRpS1hQWmtUNE5pcm14M0F3QW94cUU3V3ZLcG9Xb1NGOEN1MWYzRVd2SFB5NjRmSXdNdncyN3h3WC00VnBSMWVJVnZ2a0lINzlQS0NTRG5HbmgzZ3RONFlsU0IyaXdmQ2FtSzJEQ1lUSjM4NTYtU3k2ZUFMOFhlSEo5S2NEb0RBTjhTOHhJUmZoWkszZ0JtX3J3?oc=5",
+"source": "businessworld.in",
+"published": "2026-10-02T11:30:05+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "6222a6967827bcef",
@@ -2388,6 +2576,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "50d641b0db35c6a5",
+"title": "Adani’s Colombo Port expansion gets Sri Lankan PM’s nod: $750 million project unveiled",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUVjaFh4UVlsMU5PejlOUWdFV0VqaXlGUFZrNzVFbFdlRzdrQnRyWV9Fdk1CZ1BaSHYyUlc1WWdoU3ZmOFVlekZYdkxKZ0hjcEVlakRTQkdUaTZqQTJXdElMcnhvWjUtYkJqalJlbmRfRWQxdTBDc3NHNUJhMWxGRWZMYW1rN0x1YkJvcmEzcWczZHowd25aQ01zUng2WFdrVWhac3lBQkI1ZGVkOGZ3S1dHZDdveXZrbG9yTmFiOGFlTXFo?oc=5",
+"source": "indiablooms.com",
+"published": "2026-10-02T09:31:57+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7298,6 +7502,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "4c7fab7b27960de9",
+"title": "Infosys Limited (INFY) Stock: Surge 5% as Strategic Columbia University Partnership Expands AI Push",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1RqdllEbU1jR1U1NGI0VTM3b0tjNXZMdVpOMXlPbzNaUHMxRHFya1R2LWVXb2JiUURsb3VyNEtSeGxQNTFSYVVJMU9fMjFaS3BsX0daSUZKOE1kYmIxYl95c3ZJMEY5OUNYRGlfUm1ROEFoUG9QbG5QSFVfQnZUYzJZUEU5eEJ6eU9RaU5iRkI5YUtFd3hkMGcyZzJTR0hLYU1LTTNtaGl0VDZwa2lxdmF2VmlfNWZkRUQ0?oc=5",
+"source": "Blockonomi",
+"published": "2026-10-01T16:28:12+00:00",
+"first_seen": "2026-10-02T15:38:35+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
 },
 {
 "id": "4f90e4d12b68477c",
@@ -50737,216 +50959,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a1d07c0fc9e85ae1",
-"title": "HCLTech launches first-of-its-kind AI-based synthetic research study for the global wealth management industry",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN01Fdmk0SFllck5TbExWMVZLOXdabWRJakNZV00yREJVZUxLR0JLaFBaNFRRUnRsY3ZFaVRadjFyMUdHeHduRUN3THdwZDREdTNoNmFUcy0zLWkxbDdOdDV1LVh3bnc1WnFsTzJWYy1FYlg2OThGcDFEQk5tQUl2Y3pQY29GRm9qSDBLejZrQnZWQjVpQjRrai1IUExKNDRmdkh3VUd6MUNlNGFHdzZIV2N4SkxLa1FPYjI3N1RfYURvc2I0bVZja0tJQUw2c05RLUE1djNqVnV4X1pDX1lCNjBQVVd0R2JmTXpzS1hwQ0pxWklRaDY5VVln?oc=5",
-"source": "PR Newswire",
-"published": "2026-09-28T14:52:00+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "79cdb41087802f77",
-"title": "Residents ‘feel unsafe’ in water-damaged Trent Basin homes",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUpqdzFVRGJKZkJMTU5qRVk1OHhuaWtLZFREYjVVVXVFeFNzbksxY1QzdEFDa0NFU3B0OTYwS1ZaNVk2VEJLb1l2ZldmQ0MwVnBpc2NGOHVXRmxydlR2Qjh1R1BCQmVvM2RkanNRRGtjdTUwLWw4Sm9pbVhYd3VJLU1RS3lGRXhLNDlNUjAza2o?oc=5",
-"source": "West Bridgford Wire",
-"published": "2026-09-28T14:47:19+00:00",
-"first_seen": "2026-09-28T15:59:05+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e7acbd7daa90b386",
-"title": "84% wealth management firms believe operating models need fundamental redesign: HCLTech",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRDl2cWxuRHI0bURQcXNsUTFkNV9hdmxHeV9QVVVKb1VMbm1uWlNWRDhtUHJ1OUVPNXdtZkJIc3N3T3RaczBkb29pclpDdTljZDBVUVNtUlBDZ1BFMmxndlVMemY5a2swYVZiaVFFNUZYNGtLWC1uVDhnbUVEWHVZSzBiRzZuYWIyOVNPNXRkMVJmdTNESjZqaWxjV3h5TUU3R2I5ZURIenFsLWxoeDBROEF0X09iS3J4eEhRMThBaGlYTEdYUkNwbm83RHpkUGtWSkFtUnd4Wkw?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-28T14:44:10+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7a40741d600ccb43",
-"title": "Jio gains 2.4 million mobile users in August, Airtel 2.1 million: TRAI data",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVZheXByVldYWHdEUTd4cDhJYmxvZzRZZ1BobWtiWU9Ja1pVQ2k2eHZINS1US05LcjVhOFlnbVpOd25KR1ZKdXNId3JzeHdPWURUaEhIdlNzUUtFZDRoN2poQW9VeTVqdUNpVlF3anJsQlJndlkzSktVLWg5N2pSM28xZXlHTkZ1dFlWZkJySUcwXzAtbnBrQU91a2dzLWdOeEM2emVwLUxBQ2twWFJJaHZhbWR0azVFakJIZEVhN19DSzRrUG1tdmZR?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T14:41:31+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "375003d6352c285d",
-"title": "India's market regulator allows four Adani group companies to settle regulatory lapses",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
-"source": "Reuters",
-"published": "2026-09-28T14:40:09+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "81520ec1fa15c760",
-"title": "India markets regulator allows four Adani group companies to settle regulatory lapses",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHhaTzI1cEJYbjhzVlFGdHJfMmRDbTNDMmRudEhtOGxxOGVjRllodUhmbVRZYjI0VzdZb3hyM1doMmNEUGc2ZEZlcUpfN0pTWTNFdHBCNFYwRWtLY0UyTTdSOEQzTUlDdTRKenRiQmhmN25JZlcwSDNucFFEZ19KUU9NYmdQaXJjNThFUWhlWEFoWW4zdVF5S04zdWFKbVloTVl0azd1Y01Lb3k4VVVGRE5VSVd3aU83czFNT2xKUmdsQTNCY3ZEeTdtY0l1NVNjNU5fODd3?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-28T14:37:42+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a21517aa1cd3bae1",
-"title": "Green Energy Stocks Defy Market Crash Amid Iran-US War: Why Are NTPC Green, KPI, JSW, Adani and Suzlon Rising?",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0dyc3BxcGNhbzRzTnp0TS1lSGs1ZU9RQldXaEJRQ05pMkN0QndXOFFldkRYbi13cmhSdVFMaWIzOUtFN2tSMGczWE1HU2tEX0xtc2ZnR3lyMl9veWdpOEZUcTJUM1QyS0ExTHBpM3VqbEVLTndNZ3hjUl9VS0tvbUVDUzhKV25QUnZrbzYybUVNT0IzVmQ3N0N0Y1ZWaXFfVTZNUTFBUlVETTlQQ2VQZENuaEtQYk5WSG5MZUtmb0RVWUNZVi1kYXotbDZKcklqLXNxa21uYkU?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T14:35:01+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"ADANIENT",
-"NTPC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2a30a1070cbfba56",
-"title": "Kaplan Fox Encourages Investors of HDFC Bank Limited (NYSE: HDB) to Contact the Firm to Learn About Their Legal Rights",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcXFXeGphZUU3NnhteTMxMDRrNlBRRGw5WG96Z0ZrNDdIbExaeFhXMVFIUVFSOVU3YUJCLXVtdFRyaTFHVkwwTVRNbEk4dzUyNzRob3oxXzhxczV4LUZmVVpueExYXzdDQTlYTF94MlhJa3g1NWJhLXVCOHV1ZzRxcmVPVU5FTHZNVUlXc09Hd2x3eDFuTG5ZU0JRQkhpTE0ydFVZVjlnNUhOSzV2MFhWLW5PeHdOaFhqQjl3Z1lQWnhFZk50WWtxWUltM0pxYnFtSmU2QVM0aVkxSnNzaEwzMEdfLV9YOXAxQ2l2d2REQWFheU1WOFE?oc=5",
-"source": "Barchart.com",
-"published": "2026-09-28T14:35:00+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3347722d9d5f509e",
-"title": "HCLTech launches AI synthetic study on wealth management gaps",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONC1RQWNSSE96dXVMel9oS19CLVZ4Wm9HR3pkSUFLdFFiYnRCdFRGYmtoT0l4QUlGcDVBaVk1NDdCcGllS1VKMnVaU3QzUzJpbzQ5NTI1SFRibHAxaFlsMHBtNmFXY2VTSmZDLTJ6dHJEYmZycUpmYWJHWDJGQjhRLXUtWHR3QnN5b0FYaERoNk02OUVEaW9aeWJPOHNXVDkzWnE0SHd1OG16UURaa1JpSnE4WmtpZw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T14:32:45+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "263da91bb3ffd66f",
-"title": "Reliance Jio adds 2.4 million mobile subscribers in August: TRAI",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNENpaDBjNDE5MTNOYTJIWHpFNkIwbkM5TllZSUN6NkhjdWl3SDl5R3h0aVJpME5DVE4wQmlTc25jbG03YzJqZ1RTQm1pRHNyYmc5Q2ZMdFhlSDYwbEZ0T3Y5VlotMDBVd2JTcC01WGVnQmViX3pXNmxmY2dCRjJYc2k1TXJRUHRwMzdnRlZDR21YcGVpa2RxcjZCNEFuUFRzS1NWU0tXSmh6ZmJ1RFVGbXdYVjdUM1NEUkk2aVN5a0xjNTDSAcgBQVVfeXFMTTd4SG1mRmNQT3hRZmI4aTUtb3BPUm5aRWo3Y1MyRkhSRm5jcGZHbVFjb0w4MXB0R0dhdW1lRl82QU5CRGE5S25aNlRLV3dBU2pLeUJ0NFJ0TDlCQldFS1YzbnkzRV9pYmU1Mk5YUHdpSFNiUk4zRjQ0bjNydmQ1TjVEOVJxUlB6SHJaa0dqYnp3YVlmLV9QZWpVNUt1dy0wbU1uUWdEZnVpLW5wZVk2TzNzdWs1UERnTkVvbnlSZU40QWQya0paaDM?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-28T14:30:32+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a483e49aac33529a",
-"title": "Top stocks in focus tomorrow: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaDBqOGttTkRrcWpzNWhKYmxJdXZ6YlBMVmhxNm40c3FHaVFmT2lXTXNlWng3eU5nRUZxQ2lDOTMwM0QyLXFBVl9QcjFpNWd2OUpzaVRXRmxkSm1Rd2M4UTFlZjdmOVpDTmpLQzJRVElmTEVybE05TU41ZktnMU5CNHVOVjVmRUJRMnA5blJhS3pBV0xPRlZXTnR0WjY2bUxySVJiUXRSaG5zZm45ZThEQ2NCdVlaaU9laW1FXzRGRnR1MkJ0Qk5xUmhjMUtfNUxqSkNaOGE4ZzYyQ2ctdW5kbjlOczk4WHY1d2J6M3JPcFpBaHQyUm9qMHVCeFNXODlLV3duUnloQ082QVXSAZACQVVfeXFMTUQtUFFSS2N3dUtGSUJKZUI1YUhpT25fU0drTHdZOGdwLUE3R2k0SF9vMWhsVGpfdzFBczk2TWgwLWE1Vkh4TVBHZmRERE44dWlXMDkxS2VZekZ4d3VjUk5kV3lVVVdDNXBhNjVCT2lhU1l4WHVYNDVkT2VvN0szQ2MxT3U1OHV3a2FGTFFySEF6dHBjQ0R0bzRBT2NwaTZBNTZCd1pzWDRKc01hR05SaG9rWkc5X0NvY0NMZDVhdlYxTUlDZDRfTjlvZXRsLXNYYnNUU2NOSlVNSnRxeEJzczB4VWNNV2Jsb1NiNWZnbklnd25ZeE9DOUQtVVlzZ0lpS05wbWozbWRFMlk5SHFsN1o?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T14:30:29+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "963f2238acf7efda",
-"title": "Top stocks in focus today: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
-"link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-ncc-irfc-power-mech-shares-on-tue-29-sept-triggers-11790605116716.html",
-"source": "Mint",
-"published": "2026-09-28T14:30:29+00:00",
-"first_seen": "2026-09-28T18:50:10+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5234140ba946f9d2",
-"title": "HCLTech Study Reveals Wealth Management Firms Unprepared For AI Transition",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzVPenh4SjZUZmkzMXNWMHNVOUlnNUc5ako5UVVBWkNzWGk5MkdTNzN3S29lY3poTFBHVWJiTFVxV2VkOEg2b25Rc195MlBnSDNsM2pmUjVxUXJUUmVVVDRRUlZlQkZGRjExVTFhRVMtMUJWX2Rpb3ZoTXA0SlVaWmlFOWN6eHF6aFI4RDZSOU9XdzRPbExrRGNKMWNzRGQwYTFhZkQwTzRObVFS0gGvAUFVX3lxTFBTT3UwVzdtOFVEcDhERk9IcFFRalhvV0R2dFV0OEFrZ0J6cm5xaC1INHZsNlRFYzNtNmxDUkVHdmdtMEU5d3cyTmhGRHdmZFJwU2NhY1o2RXQ3RnUyalFTd0oyR2lfcTFYbmFaVHNsMnN0ZWFibFM4ampaTkNmdzd2ZFlhRVFvSWl3aTBQeHJqaXpvcUNyVGo5cTJ5V0h0RXRfSHNLaXdFVmg5bmVaSXc?oc=5",
-"source": "rediff.com",
-"published": "2026-09-28T14:24:58+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
