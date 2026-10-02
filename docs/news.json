@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T03:47:46+00:00",
+"updated": "2026-10-02T03:59:31+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,41 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "677968a12fa0f24d",
+"title": "HCL Tech sets October 12 results date: JM Financial rates HCL Tech stock Reduce",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbzJza1dHXzVRanFDVnVsVUNVbHJXU0d5aTR4NS1VSnFJelVaYXlYVlU2ak82RHFOWGpMSEJLM2EzbGdSeG5BbDRSUV9Fak9CaklvWF9DaTBFZThfMGtfMWY2S3lNNzkzWS1iTFJURzBuLWx1aUY1cVAyMFJVTGJzbXN2SGdRZEdFZTNmTkpPZnd6SlFVM2g3LWxraUpvRUl2Y3g0ajdQR2ttSEF4YmZfMnJxNjEyUWJIRHVqWGl2akRkc3RyVzhibHJn?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T03:52:02+00:00",
+"first_seen": "2026-10-02T03:59:31+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e2da1757b391c86a",
+"title": "Bajaj Finance plans ₹17,500 crore raise, with parent Bajaj Finserv in for ₹5,800 crore",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmZURXBaVnlpdjVYZEVTLUtIOF9xY3FHRE9kVGlJMTh6RGxRankzcm13enhFREpvUXJkMGpqbFFOUWpWalVpLXg0YzRNeHdrbmc5WXlnWUtmTWpHN1pyNXVmcDR1d05nWDFmQVUzY0lXMFhtVDI2V1kwRHNSQ0Y4ME1CNm1sVWNHZFlETXRJY05KZ1FmeXFnVXRSRWxTN0xKMVlpaS0tMFhxR1dIWWlia0p4cGJVcUtCWUMxYjV6NE1Od2hsSngtazZmcFVEQ3U2YXJRenp30gHbAUFVX3lxTE9za01iT0xETm85YS01dklFeVJwbmhLNExWbm5rQk0ydzJBVS1tNFluWWNYeF9TX21hQjZMdkdZMGREeXdweUJub19lRXdGdVpRRlBPYndKTUJOWnJxVDRodHh6QUtuS0FYdzN1SzhJaHVyU0xRU3NIMC1mdWk5NkdjQU5OMXAxWi00UDRmbi1ZTkFENGdmaHlIbGtQZXhJN3B6bGhaQ1pQa045cEVaeHgzd1ltdzNxNUx4NFVzUVdvcmttalpDZzZOZ1lCMS1NaVlTSm9DdERPTGNLTQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-02T03:46:44+00:00",
+"first_seen": "2026-10-02T03:59:31+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "310ddb46efc57209",
 "title": "HDFC Bank appoints Anup Bagchi as MD & CEO, to take charge on October 27",
@@ -50763,42 +50798,6 @@
 ],
 "groups": [
 "Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "081930d173a3230f",
-"title": "PSU Banks Crash; SBI, PNB, Canara, Baroda Bank Stocks Fall 2%; Bank Strike To Public Sector Banks Merger Buzz",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbzY3aU5Td3lKQmotUHZCV1pZdjBiQnJBakwxSGpwMjNIWEF6YUFYMHBvSEtEM0I4X2JCay0tZXRSMmo2NnhJN1NaZk9JODBUTUJmbnNBcnBjblBPUmhzQTJnRjhJOFRCUHg5dGxORTdfeFFmZHV4aDE0Nm84ZVV0THpwQUJpS1JwYmxGNnJIM2F5YWI5Nkd0SFJPb3dvc2FXX1FhM3lUbktDem1tYmY0VkpIVlF5c1dJTS1mWnVlMVdMM2hxMU9aMFlsS2xwRDFtSFRxZHdFeGNGdHczZ1E?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-28T04:38:10+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "negative"
-},
-{
-"id": "13759fc77a258c06",
-"title": "ICICI vs SBI vs HDFC Bank: BofA highlights 4 growth playbooks as credit growth hits 20%",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2FXZW44LVpVWlpWRzFpM0ZoLTlCRmZpRTg1MlRwbFRyWW1JelVYbVFjb01kOVdraS1fSXJwREZYVmd3Z1kyRHVsRFhqNjE4QnJVZ1lUcXBxeF9YMk9IcHRwM2Fja2tJeEVPaVZnZS1KcmVwSklwY05JYjFyNzl3MkhhelgyOV8zMnE0U2FyQ1F2cTh1dy1vOVNSdUVUTmRRTExBR09ScjQwdnlCTmc5Qm1QbXhmeWdqbUZSN2lLaGhaejRZQS0xM1lMTTFtNjA?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-28T04:38:03+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
