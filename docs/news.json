@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T10:39:34+00:00",
+"updated": "2026-10-02T10:53:51+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "3af698dc1cdce6d3",
+"title": "Reliance Industries officials to discuss investment opportunities with West Bengal government",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkFYTFBlWFNlc0NNY1oxUTBYSG5WSWZ5R2hlN0VLMTZMRjZjYk5EQmpGQ3lKMTQ4VVNCYm9jVTBWREM5NzF3VDJRNlVmMThJMFcwWktCZkRSRC1ZRk9ZWjRLRHFHZk5uZ2pSUWtObU10bDhRaW1QNTdRaXcxTGVEQ05WY0Z0eGRDaGZ2dDNJZ09JTmE0NFhRQ3ZRUlllQ1g3SmdLX3VWYjAxcWJRanRHZmI3MThoVFVMWTVIMG53YUd2NHFMMUtzOXEwa1FpWm95aWVTN1ZPQ0lObWlZanc?oc=5",
+"source": "Prop News Time",
+"published": "2026-10-02T10:45:01+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6d8f9241222d8d3d",
+"title": "Bajaj Finance board approves ₹17,500cr raise via QIP and warrants",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzlkMWVhVmhfTVhIckVNbkVNZVgzTnJjWTRFakc1WEVWN1NJU3AyQTlheWxxa2pTOWVZX0tteEcwQWY4X2EzSE14OGh6REQ5X3ZtSTgxRUdRa2xTZUhMVXE3Y3MzZXlId3FLaDFnbE1tZF9Ob0dHNHVjLXVZQ0lVZnZmaHdVY0t3TVhlV1U3UmlwUWxrcExYVjgxdU1UQ0JtZ2JVSjZLSXVsZERqR2xpMzlDVQ?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-02T10:40:04+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "36a819bd8ae3dfe9",
 "title": "HDFC Bank Taps ICICI Veteran Anup Bagchi as New MD & CEO from October 27",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjhXUVRXRUJHSi1YQXcwajJHUGFNLURuc0ZfUjNmemk1Y2ppc2VhYUtSM3RXcHFnYW9DYXJTcEVGTXN6TVV6MGxMY0dPb1h0bWU0WWs2ZGk4NUJRcEZIOWQ2OFBFRWVMLXRPS0RZQWNCRTY1VzU4Tmw3MUNmN1pyMzlHOFZ3TnF5bDlLRkhpc0hfWERibnF6UGl0S2xpY3R0QTd1WHVCN3dRVFF4LWtwZHFQTllBRzd1VVB3Wkxncw?oc=5",
@@ -460,6 +494,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "49637814bcc29d65",
+"title": "Adani Group Reaffirms Rs 6 Lakh Crore Investment Push In Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHJvMXAtNTVtMlRiTTVLU0sxU3FUNEh6NTc4TzY0VjQxaXBtOGdtUnBfZWlHWDFWZnFXTXdabEROYlFVbHNLanRZN2ZLWlFiRzYzYk51RURFRnpobDVneDQyWjZJVUVWRlQtd2stVVlVT0MxVlhaZHJLZzltdXp5ZnRTWDROYW45cG9qY3J0aDE3VzVYM0VaUm9Hc3J0MlBOU3ZIeGZjOE1lbnZ5YXfSAbYBQVVfeXFMT3lYVk1pM2ZBZFZGN2pvZFVpNnNoSkNzdnI1T1Q1bWZwS083cmY4ejBHVzkxampRLUlGZnNJakptVUo1eml3NWczejEtU2lHc3NVSzVNWmtrYml1eFZLVGdDdGJPTmhwampQQnN3Tjc5QU1zUmJqcnNzOXJlTzVWMWNISnZDV0lBUVRaRFowTU9ZdURwSnVnd1VibHlWMjJ5bEpxOTc5Z3paeEN0eFBHMjJsRHdBM1E?oc=5",
+"source": "NDTV",
+"published": "2026-10-02T10:37:07+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -585,6 +635,24 @@
 "source": "Billionaires.Africa",
 "published": "2026-10-02T09:56:15+00:00",
 "first_seen": "2026-10-02T10:06:44+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7c576991f7cef69f",
+"title": "Indian billionaire Sunil Mittal's Airtel Money prices London IPO at $7 billion",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU1QwTUdSQy1kdHNsQ0xrTUdYUHBKaWZyMDlLaFFVZ0Jnc0h1YUtvMTZ4ZXp0UThfWlE1RXF5WV8wSjdPZzAwTGVlWTV3R3VuamRiZXZsVHQ2SzdSN1I1bGVsT25DbVJ0TWNjT1d4ZkxYbjRvd2tqY1FBVjh3ZHBfMWhVS3JGZU1sdzRYV3FZcVNjQXpyeV9nb3dsV0wzWWN2UmNKRjdCN2Zva085aXIyVGRlazdQODE1ZGpjdA?oc=5",
+"source": "Billionaires.Africa",
+"published": "2026-10-02T09:56:07+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
 "symbols": [
 "BHARTIARTL"
 ],
@@ -946,6 +1014,24 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7670ab0d41bb5d99",
+"title": "Hindalco Industries Terminates Agreement To Acquire AluChem Due To Closing Delays",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUFFVUt2VDdHRGdzRGRydXJFQ05paUdaMkRBeU5rV1RHV2xCN3pqUW1OY01JVkw5aEtTTHhCLUk3ZUlabTJXOEVNY1pSa1E3aTkwNUFNUWxtRENwSXJHcnRUQ1hPei1oUEFDbjJ0XzR5NUdnbjktakNFaURFQ0t0YVB3VEpkRk03d29KWmNRMW1zQlQ5M0xZSk5ZM2lLVnE1OEExcFRSWTlVNmc?oc=5",
+"source": "Sahi",
+"published": "2026-10-02T08:25:45+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -2582,6 +2668,23 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "e7032d38f0c17ff0",
+"title": "Adani Ports Reports 15% Cargo Growth in H1 FY27 Operational Update",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaWxEVk15ajlWa0dVLUFFUGt5VTlxeDdScHFPNmxuTVFRc1luNGx3dzh2TTM3RDR3SzI3OWtzNXc2bVc5REtKcndLakxuMlliTVU2NHdzWGdZZEZSVnNlNFQ3UFlWWWdDYmo1bDhBWDA1ZG5qanVLVVNHcmpsMmZob0tCbUVLTkJzREptdVQ0RjVMS2I3dkFvYzlNTE9qU2w2NWhrSlJ3QjFGektCLTVtSUZySFBxbmxoUjV4eTBUc0tSeEViOV9Yc1A2YVdDV1h6VkwxeFpVQThjM0NrdUZvRlNaSHh4V0tmNHlGbDlZSG1RS3Q4?oc=5",
+"source": "Whalesbook",
+"published": "2026-10-02T04:29:21+00:00",
+"first_seen": "2026-10-02T10:53:51+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50799,104 +50902,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "a75e9f3d7524005b",
-"title": "ICICI Bank Discloses New ₹16.76 Crore GST Demand from West Bengal Tax Authority",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdXRnZm5yaWNoX3gxQUVWVzdxT1k1NzZFVjZjZDRPeHMtY00zYmFqeVdsOTN0N3B4NS1OOTN1djBpdFBicG1UMU55dkxLMFYwSmxrR3hJeEtlelpHSjExNUZIZlN2SnpKMGpLMU04c19rZXYtQ0pGME5JbEdBd3RXTWpFUWtXSi1nMUcyQkxiODIza213Zmd5eWU4Z05lZnhac1lqY0U2XzJVQ3dCUWR6bzhlcDBXNDRvWnNrT19jckYzc0ZkZDlCQXZn?oc=5",
-"source": "tipranks.com",
-"published": "2026-09-28T10:31:09+00:00",
-"first_seen": "2026-09-28T10:47:14+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "61851cf551caab64",
-"title": "Larsen & Toubro slips Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeExUMGJHZ2ZQWF92Mm4tR2tRQlNFYXVsa21oRHhkUVpadTlkQUNRQjd3Q2RsbXpTTmRXRzZtSTdaSzVSY3p0TTVjU2FiM2c5M0t4TEJLbDV1TzliUDA4d0hGX0dBYm5jOE1kZHJVNFRHZUJ3NG9OaEZFVmR0VUdTSmpZWHQwR0liaGJYMmJqN2NwOXlpalpPOHR6NW90UnhSWEl0RE9aMGUzOTVNU3F0NFMtdmJiMlpoZ0FKTFdFZGFCSFpH?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:31:00+00:00",
-"first_seen": "2026-09-29T01:45:53+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "15900851f46b8516",
-"title": "Infosys rises Monday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzFFQVFTaTM4YjQ1ZHFjeGxJUlZjSTRzOFVDNDRxOGpScDRQT3JzN3kwVzVoQWdMSHpaaVRlUzNDT2RQR21MeWRRbkxsMDJ1cElRVjBkWGtxQ010ZzFDLWNwTzFWcDcyVUFzZHNZT29zMnk2aV9UVHRLSUNzUXdMWjV3cEgzcmxmSzlJYWc1TE9vMnlsdmpEbmZKenNXY1R1dURPeXNvT09zRTJRblRicU91dURDQlh1dmJ5Um45QQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-28T11:49:57+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "283a04c9a8e92fd0",
-"title": "HDFC Bank slides Monday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkw0NWFPalNEWnNLaDNyVnRUUWVhYUptekFiRGZTVGpXbUdnX2YtWnJjWFc0bGZrMVdkRV81dENIdEJURXhNS2J3TkRmOVBzR2tMelB6VV83X3hFSHEwU2FiS2RyV2lyUlhnUXZZbkpNazB3LUdPdzVaUURtcXRTMEFObHhvVkprbEhBTmxiN1FXM2FIZXIwb3FXU2ZvdUU3a0NJTXVYRi1wTmhiZlRKRzhYeTE3S0pMUWtVSHBuRQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4d2bf06919554b12",
-"title": "Kotak Mahindra Bank slides Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUhkN1Q0OUJvM1B6dTlYamtDWlQ1MDlUbjQ3cUhFOE1DZTBZVk9JRTIzckdiSG1LYTFGZHl5UFZzUjg2SklNZHJaRWRyVktjV2ZuakprcVJKN3hVSnRBRzRZMFIwbkc4ZXNINkw1QUt6SXJsTTdNUGFTSzh1U2UzcFB0N0ttY21xVS1nNnBFTVN6Q0t0cTh3NWhvVm55aWhrUS1MZHlRYzlabzJOSHNPX3I5N1cyOU11R3NvOUVSWnZTc0o4Si1TeFhxcjA?oc=5",
-"source": "marketwatch.com",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-28T13:36:50+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5408fa3c92407c4",
-"title": "Reliance Industries slips Monday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2s5cjlISjZlYmM0WmYxYXVVb2tVcnMtaEJkMUU2aG5fNU05dHMzY2VDYXVpbjRMUjQ4RnhETXFjWkYzQlQyN0lLaEN6TTRNT2Vic1BlQ1lMdTVhc2JORmdINlhyRVJHWWZFTVViOFVIMVpSSVVrMUxxMnpjdFRIWVJSbGVxVmRSb3RjVVhBZGpxb3g4Umh0U3FiRkpURW9jbklQaU5rR0kyQzhmTzdCb012NXNMS1FpZkdqVXY4ellVcE12STV0YUNUYXg?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:30:00+00:00",
-"first_seen": "2026-09-28T20:47:01+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
