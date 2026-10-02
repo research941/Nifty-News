@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T10:06:44+00:00",
+"updated": "2026-10-02T10:24:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "bd1c12f4b1ebac5d",
+"title": "TCS Takes Over Best Buy's India GCC for AI Hub Transition",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXM5NHl4dWthelc1SjlNajRYRERkRlJrY2VsWS1hQzk0QURmekNBdjJ1VGhpWmVjenJjMm1tQ3RIQXhqTTdESVRoTU04VFByaHk4LTdWRTdqZ2pUN0gxUW1hc2ItQWZUQnkwLTl5MXVSaHlKUUxSeVVGd1hDV3NOU1N1bmNGNmRQLXNv?oc=5",
+"source": "Sahi",
+"published": "2026-10-02T10:16:06+00:00",
+"first_seen": "2026-10-02T10:24:01+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5e4df8896b0cf4b7",
+"title": "Adani Group’s Rs 6 Lakh Cr Maharashtra Investment Push Includes Rs 2.6 Lakh Cr Underway",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdldoU05jbjNneFBPazVRdUJ0eEpyNzJRMkVtclp3TENqaUFXR01VbTNXWllyMmk2dnpYb0hXUEhzclJOeElxN2VDcTJ2ZmljZGRJM1p3Z3ZXMDZ4RWhPN1c0cnFmbkFuNHRlLV9tT0tlNm1ZTXJJY0FydjVaaFlqWjFkRjFRT25FQVpLWVRwZG9yTG5QWWZKejQxTjBfUXR4N2FEdDhMYmtpRjN2cTBDS3hFWFhYRlFlM3BjdXBmV3RxRWhhNk5hT2N2UQ?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-02T10:12:36+00:00",
+"first_seen": "2026-10-02T10:24:01+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "b744287f424e84ee",
 "title": "Kunal Raval Promoted to Vice President – Corporate Finance at JSW Steel",
@@ -3614,6 +3646,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "27d1976eac6364f2",
+"title": "Bajaj Finance Approves Rs 17,500 Cr Fundraising Through QIP, Warrants",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3htV21ZRzlUMXZKaG9hS1ZMSmlUZURtMVVYcElOWUwzQWxKZ2tZRVIxdmNGemtTRFZwNEJKM2FyaURyekV1WGVXVzcxc1dHbkxjdEdxTldEa2Jwa09BSmoyRHN0dkpxZUZDMm9hMjNTS2hmN1RiMEVqVlczeXZ5T2hQM0hOUUg5OU01OFl0T1h6bTRWTHpqWEVheVVjd3hiZkFTa3paREgwLVNQdjBKdUxn?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-01T21:30:05+00:00",
+"first_seen": "2026-10-02T10:24:01+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f8cc9d3f9d144cb5",
 "title": "Anup Bagchi named HDFC Bank's next MD & CEO | Tap to know more | Inshorts",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMENldFdtckx5RmY0ZHYwX0h4U0hPV3ZmUm5Qa0J1Si0wQWV0YjNhZVZmaXVSbEk1WVZydEVZYmpkREZlbWwwQUNuaHlONUxRc3V4MlMtOVJvSkgzS1NSVzRCVEF2YmwwS2NXN1RxMGV4TkFZX1hQOERxM3FLUnZ2NzMyamlzYUFBdU5xZTI2Umh5TWN20gGUAUFVX3lxTE4wQ2V0V21yTHlGZjRkdjBfSHhTSE9XdmZSblBrQnVKLTBBZXRiM2FlVmZpdVJsSTVZVnJ0RVliamRERmVtbDBBQ25oeU41TFFzdXgyUy05Um9KSDNLU1JXNEJUQXZibDBLY1c3VHEwZXhOQVlfWFA4RHEzcUtSdnY3MzJqaXNhQUF1TnFlMjZSaHlNY3Y?oc=5",
@@ -4718,6 +4768,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "4e87b490fd1a84d1",
+"title": "Anup Bagchi To Become HDFC Bank MD And CEO From October 27",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnBEVVdUSnVmQ3ZROEcxY21mSVd5WkFmbEJCajJFOHpqa2t0R1VKVW9zRTJXeGpWTzBMZ2R5NVo4QzFRczBiS21LZmdYRWVMOG5zdWVRQjRfejBMLVY5Q1BGTVlMMkpjRE1XaURhenAtWC11RWl4WTdYd2ZoTTJCMXZB0gGHAUFVX3lxTFA3MDF4aGhWY1RHMTJFa0ZTcjg2QlVEYktSZE5yVlFfQ21fRkllYlBGYlZNQW5ERzZfdzhVRUhXSndDNW9mZ09YazEwZWFTQVY5ZGlGb1lWM190SW01MlFadEZxMDZkZEdrMzFNTGxhcnRDQnhJTzRQa2pCcU1RRVFqVmR4QW8zOA?oc=5",
+"source": "newsd.in",
+"published": "2026-10-01T17:05:09+00:00",
+"first_seen": "2026-10-02T10:24:01+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "193bb90140e67408",
@@ -7143,6 +7211,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "7e9438a660feba32",
+"title": "NTPC power generation rises 13% to 117.9 billion units in Q2",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPODRnbXhBTVpNSm1Bdks1amVUSUdBVkhlaFhiOEFjejljTXJqTi1YVm9ERWVwakxmVlkxcGRycDZQUUo1a3hOWE9adWxuTkpiaHdlU2RPLTVlM014TjlEeEhEQmUxSEFjc1FkemNsbmRfSHpDVjA4cFM5WTV2dUdfRXpRcHAybzJpak94UU5HY1VublNvSi04Zm9taGk0STB6SHBteFdMU2FqMTBYSWxPRDE4SUdRdHB6aTYzSEIzUFZSR1dtMlJTbTZ30gHKAUFVX3lxTE84NGdteEFNWk1KbUF2SzVqZVRJR0FWSGVoWGI4QWN6OWNNcmpOLVhWb0RFZXBqTGZWWTFwZHJwNlBRSjVreE5YT1p1bG5OSmJod2VTZE8tNWUzTXhOOUR4SERCZTFIQWNzUWR6Y2xuZF9IekNWMDhwUzlZNXZ1R19FelFwcDJvMmlqT3hRTkdjVW5uU29KLThmb21oaTRJMHpIcG14V0xTYWoxMFhJbE9EMThJR1F0cHppNjNIQjNQVlJHV20yUlNtNnc?oc=5",
+"source": "ET Government",
+"published": "2026-10-01T13:28:38+00:00",
+"first_seen": "2026-10-02T10:24:01+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "62369ab12bed95a9",
@@ -50798,90 +50884,6 @@
 ],
 "groups": [
 "Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4555ecdc98d1de26",
-"title": "Services for minimum-balance customers are at issue in a tax notice to ICICI Bank (IBN).",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREhldU1VNldYXy1RNVhkSVVBQUhWV0NUakpTUlZhdnBrcHRET25ndkk5STlzb2dpSjhqX0g4OW1yM2h6VEh3V3JCZVREUzZfUnBXQm9SMlZKclFIeTltdzZkVlUwWF9TM3RtX3BRUFVLVzlCMFpSalJ4a05nRzE3VlVGZ3E1YmhEc0RQRWlxN1N3VDEtM1M1RkhoSG1BUHE1SjZyTmI4Z0FGQldHWmc?oc=5",
-"source": "Stock Titan",
-"published": "2026-09-28T10:06:07+00:00",
-"first_seen": "2026-09-28T10:30:56+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "fe8e6a22bf3da890",
-"title": "Sensex ends over 1,100 points lower, Nifty below 23,000; Reliance, HDFC Bank, SBI among top losers",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMmZlbEQ0Z0pQZ3FTUXJfQ3E0YkxMTFZlY3pIRjROZTIxeXE3T05xbW1iTUpkV3QwTGlqUnplMUtNZHF0Y0ZzSXBnS1luZG5UZ2h0NkpxNzhPZW52NGUyMjZPaHpveHVHZmpHM21TNmRtS3FldUdGeFRyMEk3MzhLRVkzMWI0RVhKbHFqa2JCUGh3U09IckU2bTEwbkxwenhaSC02X2NVTVBlT0FWN0hPWGFleXdzR1FwZWhBYW1kUmVMdHdha0s2REl2LWxjczAtOTBIQjMtZ3N2SnZHNDdRY3VydlJCM0XSAewBQVVfeXFMUHQ2MUh1aFVLaDBFTVZuR05mVGlpR2V2QVkzMnJFSC1DRXROZDNRSENDMHk2blF4TGR2WllXRk13YlhFRTJJT0UxN1BPbnRBcEpJZWRSc1VTU2tfcWwtNk5vTHZYdjlRZ0FjOG1OYlVuNHFyQjN5MGRicU14eEpadzRkMjVYdmNWbG1Zbmh3ZkJicGV6c3ppMlMtLWhqazd0VkpsVHEwNFlfVFlOTDd0Zjg0OWJLeFBXMGxGWlBzS3ZheDYwdDN0UWNXdl9BUGFnTnRMamNnTWJYUVNmRWJWTzJhN0U3YzU0YS1PSDI?oc=5",
-"source": "India Today",
-"published": "2026-09-28T10:05:33+00:00",
-"first_seen": "2026-09-28T10:12:49+00:00",
-"symbols": [
-"HDFCBANK",
-"SBIN"
-],
-"groups": [
-"HDFC",
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "632e6e9200f8c98f",
-"title": "UltraTech Kukurdih Plant Hits 100 Percent Green Power Usage",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFVDVlVOdVpPb2JfX2NlQ3JzRkFzMk1TUXE4QkxidG5aZzhZdFR2U0hyZUVCbjlSclFuTm1sUGlpVlFsaC05SGZiZ2Rkam1vanJtMXFvWjQwTUZscjg0ajdrX1ZocmlCS1IwQ1EzWEVlRnE0VTRoOFRyclNka2VnY2prNG1nbmdZU0ZIbGtPUzFKTlNRYklNUnpMWnQ1QQ?oc=5",
-"source": "energetica-india.net",
-"published": "2026-09-28T10:05:02+00:00",
-"first_seen": "2026-09-28T10:12:49+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3aabaebf22c5f96b",
-"title": "Apollo Hospitals Navi Mumbai records 61,221 CPR pledges in one month",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzlib0E3WXB3WGdBeVpBWmVOYndXUG1vZUktTy1qbmNtMk5VSndQNDE4U2M1bVUtbHAxSUhNNXUyVUE2TlRzYnZmdGFUdzBRdWRJa2cwMkMyWTFFbnRVMWJ3QWQxUlAtRmlkc0owSElWMFBaMHo4TW9oZVFOWGhUM0J0OXJKeHRvNGxJbU82YWFHYjlUN0pZTG5IS19RTGI5V1Bqb0Y0TXJtQ3BOeENFN05xTQ?oc=5",
-"source": "expresshealthcare.in",
-"published": "2026-09-28T09:55:12+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "64c161cc2267b3d7",
-"title": "Maruti Suzuki Targets 4 Million Unit Annual Production Capacity in India by FY 2030",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmFVTmJCNkJNU1JSNDlPOTNLNS04SmtOSkk5Uk5UT0hXaXd4SENPZG14MjFMVGE0WUVVQ3EtUDNfSEwyRXp6Mm5pUEVRSmNJZll3ZjJjeXJSc0cyY2hXbUhxZnRkeVdIR2luWDdTTDZXYW9BQkNlMzc0MkVDd0syVVBRNWtmbU5vOFNacTV5Ukc0QjlCTFpOYWFUSHlCbFNPRmk0Q1ZZb3dsRmU4ZFh2dg?oc=5",
-"source": "ackodrive.com",
-"published": "2026-09-28T09:54:37+00:00",
-"first_seen": "2026-09-28T17:57:50+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
