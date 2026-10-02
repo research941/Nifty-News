@@ -1,0 +1,32 @@
+name: SuperTrend touch backtest
+
+on:
+  push:
+    branches: ["claude/supertrend-ema-vwap-backtest-*"]
+    paths: ["backtest/**.py", ".github/workflows/backtest.yml"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas numpy
+      - name: Run backtest (simple MA 9/21, as on the chart)
+        run: python backtest/supertrend_setup.py
+      - name: Run backtest (EMA 9/21)
+        run: python backtest/supertrend_setup.py --ema
+      - name: Save results
+        run: |
+          git config user.name  "backtest-bot"
+          git config user.email "backtest-bot@users.noreply.github.com"
+          git add backtest/results
+          git diff --cached --quiet || git commit -m "backtest: results $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
