@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T22:46:35+00:00",
+"updated": "2026-10-02T22:57:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -456,6 +456,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f903cdc800108eba",
+"title": "HDFC Bank’s succession settled, but Bagchi faces execution test | Business Standard - newspaper",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUhwa3VRMTFUYy1WTVdHVThNYldobHA2cUZsR3N3WWFGZGNKbmZycGQ5WDdNV1RJSm0tV0hFQ1l1QUtSd0hxYkFYZXMtVzFYVjV4RGkwbm02U21YVWJZeHZxazVpcDJRaUQxaEJDOWRsX1hqSVQtMVBHbExTeGtlalE4bmlUbEZ2QjZJTFRiOWl6TENEd0puMzk1bmFYaEhqUk9uY2F2M3JWQmhQOG5ZVUU3dUdvazlEUlY2aHZB?oc=5",
+"source": "Magzter",
+"published": "2026-10-02T22:14:07+00:00",
+"first_seen": "2026-10-02T22:57:39+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50895,22 +50911,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f66f1c0fc306fd55",
-"title": "Wipro ADR downtrend deepens near $1.62 support: Live levels",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXlIOWtscjJpYVpMUnE2M0VNUnVxSWlJdmpiSlhRZ2ZaclZfUjA0RjdTS1BPMHN1dFpndGdRSXFxTEpBV1lFRXhPMWlWVVRyZG9FRjk2TURxd3dkMUNfQ1VWTV9GMUtsOHJhUVRMT0JncDA5LTEycWhwNm01SXh2TlBsQ3NWRjNZeHFRalBXUm95dHItVER2SERvT2pPS2xrd0VabDZNb21NUEF6S1RkX3MxdXNvWUdWcW5z?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T19:34:10+00:00",
-"first_seen": "2026-09-28T20:17:57+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
