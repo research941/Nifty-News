@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T13:59:43+00:00",
+"updated": "2026-10-02T14:21:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,145 @@
 ],
 "items": [
 {
+"id": "0ea0370c9e461c79",
+"title": "Maruti Suzuki Reports Total Sales of 2,36,013 Units in September 2026",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTnlfWF9QOTFkaEE5aGpXejFJWW1zel9Fc21tNEdOLU9mTVZsOHZnck1VQzRsRXlyN3RWbXd2NkZpMUJpY09nMWNPWHpReXFhUXJfSW8xZTNOU0Vrb1pj?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T14:21:26+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9c31ba90a709e677",
+"title": "SAL Steel Board Approves Rs 75 Crore Additional Term Loan Facility from Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tMWhnT210WEVVSkFNZ19wbnFXLTRfY01NcV9oZ19aSmFMYlVocFBWQWVnV0JEaHB0c2pSZEplT1BjVVoxbUNicE1qYXA2ZHZRVXVNNUhoRG1FaEpjQTNj?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T14:21:19+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bc31df13130e2395",
+"title": "M&M Financial Q2FY27 Results: Disbursements up 22% YoY to ₹16,490 crore",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG9pNm5sS3ZwRGhISWNYMjRqZVBEdWhMOFZXZmdGc1hwVk9pOUpxMXpDeTRGNGsweXQwV3ZtWFlmUFc4MHRlalV4bkJFLUYtaVpIa05YV3FpOG90Z0hsWEoxNE9PZEdJeXlfRF8yaU5CX2hMRldrbUpOY1RydmhtQkc3NGdXcEQ3enlFZ0c2U191ZjRPTjdUeXZ5Unpqbm5ldDJkRDVUU2dMdEFra2NtVnFRaEhWSGJ1SzJvcHk1WThFdw?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T14:18:56+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e339e982f82cb518",
+"title": "Dividend jackpot shares: Coal India, Wipro, ITC, BPCL or ONGC? Which large cap stock has the highest yield? Data details",
+"link": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-shares-coal-india-wipro-itc-bpcl-or-ongc-which-large-cap-stock-has-the-highest-yield-data-details-11790948842766.html",
+"source": "Mint",
+"published": "2026-10-02T14:18:43+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"COALINDIA",
+"ITC",
+"ONGC",
+"WIPRO"
+],
+"groups": [
+"FMCG",
+"IT",
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d90add6f18ad409b",
+"title": "Coal India Allocates 93.64 Lakh Tonnes Coal via SWMA E-Auction in September 2026",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mcGpGNE9ZOWd5WTVWS1dyZzM5MW84Q3Z3dktCNXA3U2JiLVVrbDNhbDZhREcxcmFEeXcxVU1iQzgyTHZiZzRhZnJLU0RmSzBOc3FQRG5YY29jM3dSZkxj?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T14:16:09+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "35d70a130f5c1a05",
+"title": "Coal India Reports 9.2% Growth in September 2026 Coal Production to 53.5 Million Tonnes",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZkNLa1hxMDVQRHluZzBMM1FaTFVwbjE5dWxoOU8zam5Sd3JlNmJCSGNtRDQ4eVNtTDlGbmo0djBZQTRzXzl0VDFBM2UxdGdqLS1KS0VKb0FGYzYwV3Q0?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-02T14:06:16+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bdb3929926af4ea",
+"title": "Surya Narayan Panigrahi takes over as ED (HR), NTPC",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjltaGFSRHQtV19pRFJnQ2Y3cW15aU1VQ3U5Z294cENiNVdhR1E5bWZrcl96R2QyYXRPblJSb3RNbnZlU2V5ZUtzak01T2ZVejJnWXZrcW8wZlRPNFZKRmhZaEJuaFZ3SWFjRGlRaTYyRTVESVpYVWxzREFXYlZwTnRCeU85SGVtZlNveElqalk?oc=5",
+"source": "Whispers in the Corridors",
+"published": "2026-10-02T14:00:59+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "efe907118c3998c4",
+"title": "Maharashtra FDA cancels Cipla warehouse's drug sale licences in Pune",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQkJjWlV2UG9BMkRhdGx6VkJsSG5rNGlWdDJxQ0M1bWtJdEdqbXBYM2g2cFhXUENNdGh3R3k5dUtaVzlVbTV2YV9SVGpXdjJHTUtmYXBnYUQ0QWpYNll5aV9DbHFoVk5aRjlvbjFWN2xXYnltNnZyMmhUV2NJOVlkUlpaVjJxM2ZoZlJHZ2JOWmZoWmhGLU5YamxxTEljQ2daNmJhRWZNV2JwbnUtOWpGYzdfWEF5VlV1RkE0S0t5N1JDdEVJaFJBaTJZWXktdVE0V0ZNa3Z5MDE5WmJlT1lheTZfOE1iOE1La2FuTFQtdktrOEl2MURuaVJR0gH6AUFVX3lxTE5CQmNaVXZQb0EyRGF0bHpWQmxIbms0aVZ0MnFDQzVta0l0R2ptcFgzaDZwWFdQQ010aHdHeTl1S1pXOVVtNXZhX1JUald2MkdNS2ZhcGdhRDRBalg2WXlpX0NscWhWTlpGOW9uMVY3bFdieW02dnIyaFRXY0k5WWRSWlpWMnEzZmhmUkdnYk5aZmhaaEYtTlhqbHFMSWNDZ1o2YmFFZk1XYnBudS05akZjN19YQXlWVXVGQTRLS3k3UkN0RUloUkFpMllZeS11UTRXRk1rdnkwMTlaYmVPWWF5Nl84TWI4TUtrYW5MVC12S2s4SXYxRG5pUlE?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-02T13:58:00+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b739ef38065f0bd7",
 "title": "Surya Narayan Panigrahi takes over as Executive Director (HR), NTPC Limited",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzRRZVlwdWRTRWk2bTdhRXc2cTJqaVR5bXpuR2YxeEpMSnkxM19EQWplRnRGS29mZzVrVjJHMUMwdVRLVnZPVm1QY2d6Wm52MF9yMnRiRGNWTlFGdTF2UGxwY3laLXFySzh6NEpTSkZuRzVYMUFfenJmZElvUlV4dEFBNlVpQ295ZGpCWGIzbDd5Sk5ZdDlFY0g1bmUzazJIMWFocHBR?oc=5",
@@ -538,6 +677,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "13fd387f6a65176a",
+"title": "Airtel Rs 3999 Prepaid plan now comes with Bonus 150GB data",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHBqRGNNamRqVjE3UElCRDZ6cWFOZkZZV3oxVnVWdHZ2elZGWFYxUUNJNGtYMTJqSGNjMVlINmtTT0VvZ2E2UHBOR2xrdmNwenhRVGljZ3Z0bTVTeDJoUGxfaEQ3eEpMWDVZRzZnZjlNQ0RiSzRBMFdVZzQtWWk5X0lQVVlaME9NaU9vX3J6UENScFZ6ZUE?oc=5",
+"source": "KalingaTV",
+"published": "2026-10-02T13:31:36+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -658,6 +815,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c1c945681eace630",
+"title": "NTPC Bongaigaon Honors Mahatma Gandhi and Lal Bahadur Shastri on Birth Anniversaries",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3NXRS00UXQxclFDcld5ejNBUEZMcldoTmJET1dVUGRIbVRxeExMaTR4QlhzaGRBX19BZmRPZW9sTHZDXzFJY2hBYnhwd3NsRmwzX0ZOaGFGZ3d5bnE2MGtmVTZEenBrb1hPT3dZUXUzRjVlWUxSaFJDdFJxRk9WMVhDQ2RzNjI3cXlvc1dENndzSzBRVlNvTmhWaDFQMEZTSU9jQ3ZFUVJuNEVvWDl5VnhEMWk1Zncwdi1tYVBSZFpWbDI3QllKctIByAFBVV95cUxPN3NXRS00UXQxclFDcld5ejNBUEZMcldoTmJET1dVUGRIbVRxeExMaTR4QlhzaGRBX19BZmRPZW9sTHZDXzFJY2hBYnhwd3NsRmwzX0ZOaGFGZ3d5bnE2MGtmVTZEenBrb1hPT3dZUXUzRjVlWUxSaFJDdFJxRk9WMVhDQ2RzNjI3cXlvc1dENndzSzBRVlNvTmhWaDFQMEZTSU9jQ3ZFUVJuNEVvWDl5VnhEMWk1Zncwdi1tYVBSZFpWbDI3QllKcg?oc=5",
+"source": "psuindia.com",
+"published": "2026-10-02T13:17:05+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1003,6 +1176,24 @@
 "Mahindra"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "af83659a9dd7d85d",
+"title": "ICICI Bank ICICIBANK: Sidharatha Mishra Moves to ICICI Life CEO",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdU9xWlFNV0JHenM2Z3RHdlFESEJ0cmQ4b3M3ZW1INlJodmZGQmlfT0ViUlA4cUVIN055b0JMbmdxN1hMS0JWMXNVOVQxRGp3b3Rac211cjQ3Q1RXcVpBWl9kVlBQUHB0LTBwMTNERFNqbXIxQzdFRmZBOVphSjJKSkt5T1FnUWdxWGZRbW1YdXlRbmVvV3pCbnNsa0lKRENQREZzZXdkSEM1SGJCQUI1UkwxUUhKTXg3bmc?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-02T12:17:00+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -3501,6 +3692,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5bdeafc66ec3b417",
+"title": "ONGC Share Price",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZndBbkF4cmU5QWRoemVsNXU2dlh6bW5yZXd6bTYyUkNFVUdTWUs1ZkV0ekhaUzl1dlpqRi1PZWlXY0VmNnV5eFUyVDlXWEFNSGNXR256NjVCZ3Zlakt5c2RVTzVBS2RfZE9Sa1Z5SC0?oc=5",
+"source": "Upstox",
+"published": "2026-10-02T05:26:16+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -7047,6 +7254,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fad8be45d8484422",
+"title": "Jio Platforms wraps global roadshows, readies IPO papers for $3.8 billion issue: Report",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1ZvSUp5aTZwMmFtSnpjNE5ielhfQnRnbE52NnZha3ppRFBLSzNCUDZUTHNneEd2UkFYMTRIN1Zac2FpS0p1M0VreWpWOVRHVHBxdUx6RVlNU1YxTVVGSUtMSzYtQ2hFOHVRSkJ6NlRiOXdSNGQwcWVLaXZseHVpLXdWTXFfcDZPVU1tYlNIUmFPM0tLX2JMMldjNnJmbGxRQ25iZXBZVENsRXhqT1B4Y29ZMXVwakFoUVNQU1J5UmV0MUgwcjBXd29icDdFWGR5enM40gHTAUFVX3lxTE5XVm9JSnlpNnAyYW1KemM0TmJ6WF9CdGdsTnY2dmFremlEUEtLM0JQNlRMc2d4R3ZSQVgxNEg3VlpzYWlLSnUzRWt5alY5VEdUcHF1THpFWU1TVjFNVUZJS0xLNi1DaEU4dVFKQno2VGI5d1I0ZDBxZUtpdmx4dWktd1ZNcV9wNk9VTW1iU0hSYU8zS0tfYkwyV2M2cmZsbFFDbmJlcFlUQ2xFeGpPUHhjb1kxdXBqQWhRU1BTUnlSZXQxSDByMFd3b2JwN0VYZHl6czg?oc=5",
+"source": "Fortune India",
+"published": "2026-10-01T15:58:57+00:00",
+"first_seen": "2026-10-02T14:21:59+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -50717,234 +50942,6 @@
 "Pharma"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4fad77dfa65baa6c",
-"title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - Updates",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1UwVGlmWFdNRXBkZjRwcGozWmNBdC1STFdtQUFrWGE5RzNhakwxMTE1eXo0ZjRJMjV4YkE3VlgzS1JBVmwwRHd4N3lsZll2Qm5CV2FJN0xlZTdVUVptM2ZvT1NlbWl2eE5MVjdRQkNSeG5KZGd2bFZxcjkxUHpOUVhFX2gzSzhUMXBvcE91LU43ejhXMjNCcEc5RGlnWFppc3N4NmdoZEZpZy1IT0NlT0tnTFZ1RlFDUmxjNA?oc=5",
-"source": "TradingView",
-"published": "2026-09-28T13:07:58+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5b56318a398a1021",
-"title": "\"So L&T Doesn't Lose Heart\" - Defence Secretary On Fast-Tracking Zorawar Light Tank",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2lXcEdiUzNmcDBXaVptbDhwbHlnMFlidDQ4cllScnl2bkE0Y21yYUNFemFzNDZmUWJuTjk4RG91eHREY1I4d3RYZlJxR2ZrUnVDbmhKU3dPcWotN0J2dktsZmpMM19JVVlpbTBfR1NtQUN5Wjk1ZlozbTZOQnppenZXbU9SM2xJMUJfRWlTMzU1VVZZQmNQdEdIYW9FOG1HSnU1LUVTeTV0akVoYjU3R3gwT0k?oc=5",
-"source": "NDTV",
-"published": "2026-09-28T13:04:15+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "834e4c75917639b3",
-"title": "IIT (ISM) Dhanbad alumni join ONGC team behind deepwater gas discovery in Mahanadi basin",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1FNQ1Q2TnpONGw3d1dKTWJld2JLblZybUc4VllNNWxLQUU0eF9NUjNnVnoweVJoaG1ESDFxdFBUeVlkdE95TmtVcHJuMXh6S1M5X1FzR1I2U0ZIcklWTS1QUE85Z05VOEx0eXdPQUluNkZaZTVjdzl3MGNIUlByY3pmRWVOOTZWZ1lTRDI2QW9WUWNjZk9SWmZ3MlJWelozRm1DUWN4cU1mWlRZV0dNSEpPWF9XUG5JaHlF?oc=5",
-"source": "The Jharkhand Story",
-"published": "2026-09-28T13:03:09+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9a3fa6f6bc8befc0",
-"title": "SEBI Examines Exchange Self-Listing Norms as BSE Shares Decline 2%",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHRWb0lXeGF5Qy1URGllbDdGOGRXaTlYZ2hIX1hfeW1NODNMYTdSNG52aElobnplQTU3a2EzcnB0djNXTUcxNnZFU0RlTTVaM19qcVVjVlZ6WE1jNS1wS2JHMlVIdkhua0phMHk2YWk4emVyNnVWVEpOZnV2Z3UzbzhJSTVPMmxYZ1U0QVE0cnJCYm16TW1nV3dJZWQ4NUlnQ3ktWkJkVTJTZ1E?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T13:03:00+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Regulatory",
-"Corporate action"
-],
-"sentiment": "negative"
-},
-{
-"id": "22a8e1a41412afd8",
-"title": "SBI Life (NSE:SBILIFE) and LIC (NSE:LICI): Low-Cost Distribution in Focus as IRDAI Pushes Reforms",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3h0TzNVZ2xqMGdwcHV0Y3lvVUR3a3NCSDJiNVZIMUk5dHVqS3p1ZTBsYTAzX09tTEMwaG43MUNKd0IxN2dfdUFNbkJaSjRoX1RDX0d5a0RVSXV5LVdjMFF6QVdxQWMtcDNsa1o2cnJrSTMwZGF3UmNHd2RKSWNDakJDRDZRTGNKVlVaVHVfejRKQjhwQUtXNE1zMU9vUFNiUS0xemZwNnZqYTRrQlUtaUotQ0dQclMwZjJJOFNtWnFMMEIxcFlkekI4RWtZOV9w?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T12:59:00+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "91998ca2c64ee136",
-"title": "Tata Motors expands BaaS to entire EV line-up",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzZSMVNOZ3hEaU1wS1NENlpvX19wMlZsZWxLdWUyZ2ROMU9feDJ2c0hUUUFPajR4cGNiLUtjM3l1SzdJRjFLbUFhSWRPTWN4bUFhbjFIWW1uU2t3allxbW9NTldKZjVtVnIwek9ZR0N1MUVpU1VSR2R2S21lY290aVRIeHNubGJOcU1BazZENi1WSkJlRTEwR0MyUUpTd9IBpAFBVV95cUxPNEtMdWQ2U25qa2RyZnlJOUxDNUZCQlVlMzR6OVR6LWVqcXFGLWpiV05Ydktsd3ZZTWtZUkxLU1ByYlQ2dmRIdllFUm1rTDVRQnVXZTQ1dWJvbWtpRFRBaHlKUC1LZ0NsOUktS3loYXdmdGd1TlEyYVZGQUs2cEd5R19ySHdwX1RtdGFuQm1iSmlKV3FYRDd4dm9pTldFSGlYVmhwNw?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-28T12:56:22+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "32d129698ab56b97",
-"title": "Birla group acquires 2.01% stake in Grasim Industries, holding rises to 45.07%",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXA0Ni1tcEQ5c2RRNVJ3T2ZXMHU2Z0hWYmJYWFF1YnVFZ25fcEswU016S2x2UTU3eG5zbGlwdnhkUTdMSmthdXNZWmlOcXhHV2o5Z05FV09BNC0tM2RkTklTWmtwSXlYcFhLUjF1U0lqQWJWZTJvazV1aGF6dWFoUXhQVUNBWmgxLVRFQVlnams0Wm9PRWJpT0JKNDFLV1JfX3dMWEdzc1Z4RWgyenBTNkYxOUxTUlY0bVMyWXJhUEV4VjJl?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T12:52:16+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "a390db6bec7e5873",
-"title": "Tech Mahindra Share Price - Live NSE: TECHM Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQm0zbE8ydTFJNzV3VTNXX2FIRnA0WmI2czZ1UWE1a2k2Mi01a2dzZnBpaGEwSHo2Q0ticnJxSGQ0YWpTMzRRbjF0aDhkaG9oRTdSeGlEbERSWTlrVEVFdTdGSXR4ckZKSm4tZA?oc=5",
-"source": "Upstox",
-"published": "2026-09-28T12:49:46+00:00",
-"first_seen": "2026-09-29T09:54:42+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6de09ca21cccc537",
-"title": "Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sens",
-"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemxTeGdmVTFYUk5jSjVRSDc5LUU5VDgzVjFGNG1EUjBpeVI5d3paU2FlUVlMNkdqVk9ZWGR0R0Znc0doOWpyTE9GRmtrUjUxblpEMmxBbUx1S1RLaFJ1QVl3QjEtamVzMm8ta0YyNVVTYUpRaURoMmdDejl6RTlKYnJoSjNpbHpkZUZaZDFrNWFvbU0wbHhEeThhWHhSS09rQkV6amt5clExelpTZW1zbGsyUlN3Ry1FaUt3c1ZBZmFqb0dmY2tfNTVqZDVEZFNJM1JmZERTektDNXFYV0xpODJneXp0dTh1MlFaVDZmQS1uYm1UanZ4aUZOYVZBQWV4dEcyZ1JvQ1VLQ0JOYkN4aUdkLUYzQdIBmwJBVV95cUxPSUdqcHZVVk0xckxucTBWRXZkZGZxbUtCWE84WThqZXQ5Vnk4aGpxblI1WDJfNnpRSXhySmkwVWZuWTI4OGtITnFsYllzTVh6Vmg0X210MjNCR2VNQ0VTR09hN0VyODAzMGxmRFNZMVNKbXR1YUs0RWRwcGpSUl9MdlNiMlhHTll5TjZsRlVYMmFMbkJiU2t5bFhDZVpsbFRDSUxublRybXd2TThnTVN5RWgzN3A5ek9xbDNiTEJrM2w3SnNpQXFOd2lPVndwVmNXZlpoREJKdnpTQXdPT1BNSnItQmxGdTBhTGM3ZlpHRlJzSjRuSnFEa1hBVmtaVEV1Qm1kR2VOcGlHR1dLeWJiRF92czdKNmFXSlRr?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T12:49:03+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"DRREDDY",
-"INFY",
-"POWERGRID",
-"TMPV"
-],
-"groups": [
-"IT",
-"PSU",
-"Pharma",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "f96831bbd16f38a2",
-"title": "Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sensex on Monday",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-dr-reddys-labs-tata-motors-pv-power-grid-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134543014.cms",
-"source": "Economic Times",
-"published": "2026-09-28T12:49:03+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"DRREDDY",
-"INFY",
-"POWERGRID",
-"TMPV"
-],
-"groups": [
-"IT",
-"PSU",
-"Pharma",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "8f69695959abc1ba",
-"title": "SC Registrar Issues Directions in ONGC-Related SLPs, Matters Listed for November 5",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hoVm1ndWZsYTc4RGhPMVlGWjZxN2NacHpUUFZRMlNKM2pBN0Z3cXZSNS1YSVNEbVM5SnJpNERPaHBzc1JMZnlGSmxkMHNUZG5xM3JZOXE3VEJrRlhiTnZOV2ljVkF4eWV0T2YxcHVOd0ktdmREWWdPYXp5MHdmdk9BN2ZKdHc5SUtqcUpjenRaYkJrdkdEcnViTnFIUktzTUpiX3F0cGFpdDdmU195eXhBODViRkxlVTRHUzRn?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T12:49:00+00:00",
-"first_seen": "2026-09-28T12:52:45+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a505de9fa222f5be",
-"title": "Tata Motors Commercial Vehicles Warns of Commodity Cost Pressure",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMk9VT1lzdGNuZE5VWXQ3SUhTY3Z0dzVqdTB5VWRSS2pVeE45RGJzaEdVeGFrb25KZzc0d1RqaFVLYVZUQlItZFJpNDFuRmZwMm12dUZTdUlNSHVKeGZqUWkwQlFxUDRaWHY1N2xoVU1LN0hZU1d0S1A2QzZFS285eHl5VWx5dllWdC1scmhhOU1VY05HZ0NWQWpKMVhGdVVXMG41dmhYRmRxXzF1SWljbVFvcWVrRlJ3bFh2MVpIdnFxc2V4VkE?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T12:49:00+00:00",
-"first_seen": "2026-09-28T14:22:28+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9ae837ed9ac2aa29",
-"title": "NTPC Enters Joint Venture for Low-Carbon Energy Projects",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjV3ZmpjRDQwaDJKTnZrUF9XTFNFTE5FUHQzMmdaQWVCcFZSRzVIUV8tY0J6eG1rMGhKR2c4TFNtelNfbHY4WEZVZTZYemwyN2dGUzQ2Zk4wVVREaW1TTWRpc18yeHZqbzVtX3VRTnFQYjFEdW03aUttVkd4N2JBWVBBNjZ4Qk9zcTJkck5QUmp0eVpudmJUckppQnNXQUpncEhEZTZ0RU5fNGxTQmZ6WXFLUDVzd3FWenNQTnMwTmxadlE?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-28T12:49:00+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
