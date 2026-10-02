@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T19:01:35+00:00",
+"updated": "2026-10-02T19:19:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "89ff21d31375df07",
+"title": "HDFC Bank Ltd Stock (HDB) Moved Down by 3.03% on Oct 2: A Full Analysis",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0Rienh6T191OGJONlV2YWg5NEc3cHctUVNIOVFnX0lWVUVNMzZfYWY3RzNCWkFZV3hSVU9Wc0RMRWduTl9JSzV4NUdzbGlINnBpS0VHeGpub2E4U0Nkc2lSR0NwLUh1VjJ5dGw3aDNSbGlVQVpTaEpKZllmZzFzcm92Z0V1dDNvY1E?oc=5",
+"source": "TradingKey",
+"published": "2026-10-02T19:15:26+00:00",
+"first_seen": "2026-10-02T19:19:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "2ae459f469a933b2",
 "title": "Hindalco drops plan to buy US' AluChem over extended delays",
@@ -2063,6 +2079,22 @@
 "sentiment": "positive"
 },
 {
+"id": "ef33d37b7125c79c",
+"title": "Surya Narayan Panigrahi Takes Over as Executive Director (HR) – NTPC",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HMGZHN0RjNUhyT2dsRVFlbS02b3FsRHJfQWY4d0Z5VVpOS2RER1VsM0JvajRTSnhVYXpNRUhWQ2pCdkJEMW94NzJsN3lRUDdlU2RmZzBxRHVaMnlkQ1N3Mk9TRWgxTmFZWjFkR1YwbEFZdkZ2WWZWRWFxS1RTZw?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-02T13:12:33+00:00",
+"first_seen": "2026-10-02T19:19:34+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3d1837d95b38aaaa",
 "title": "Cipla Pune Drug License Canceled by Maharashtra FDA",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHVjdVppc0lXcm1kdHp4NmlFMjlUTk5oR05aNEQxU0xjb2VEWXNMTmVIbHpDajI3T2xWZndHdGF1LTEwZkxWZThMSURsVDNaNUw3bXdydmVsWmw1NG5SbGFnYmVxZm1odmxCbk5jRTBobm9ZYlFNWTdpNkRLaFk0bG1ud18zeWxsaHEzZU81Nm5EeFdlS205WlUtMmJRUUlpYlRwRmFQZFl2RUHSAasBQVVfeXFMTWR1Y3VaaXNJV3JtZHR6eDZpRTI5VE5OaEdOWjREMVNMY29lRFlzTE5lSGx6Q2oyN09sVmZ3R3RhdS0xMGZMVmU4TElEbFQzWjVMN213cnZlbFpsNTRuUmxhZ2JlcWZtaHZsQm5OY0UwaG5vWWJRTVk3aTZES2hZNGxtbndfM3lsbGhxM2VPNTZuRHhXZUttOVpVLTJiUVFJaWJUcEZhUGRZdkVB?oc=5",
@@ -3649,6 +3681,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "921e3f19224d725c",
+"title": "Trump Puts Off Threat to Bomb Iran Power Grid, Iranian Agency Denies Report of Talks to End War",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjNuNUdVb1BYMEYydmludWlfdURzckNpdXlDZHBnazY5b0ZjYkRVZHowZVFEa3pFY2kwMVM3MU52SEdnSnRFZFN1eGRmbXBQc1pIRGF1YlNLOFFiMXhFR0RNTTNUQTZKVVU2d1pDZ2VQTW9iTDRDQVRRelRjZGU5VHUzQVBwX3JaRS00SXpFMXBEM3k1blQ3WW1MNjk1V2NvdzZwY1dmOTdCWmxqMWFMTXhKUF81a1M2NVcwbEw4OVphZw?oc=5",
+"source": "EnergyNow",
+"published": "2026-10-02T09:14:48+00:00",
+"first_seen": "2026-10-02T19:19:34+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "89f4a3e31a7a6d67",
 "title": "Adani Group's most valuable company sets new record; shares major business update",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM1VGOGFJR0twcEZRUlJXanlyZWh0S194WVdTRTF5WVFmQTBKT0pfRVVmaDBTY1IySnZ6UkpvZnZsNXFacGJ5RlhQYW1CdzNFMGs2X3h0YnpSc3JwMXR5WUNpcmswZW0zU3NPaWQ4d21tbmpmUkhGOFFWODNXWGM5N2JEZTVXaVgtWms2elFaS0RacHVxSE02N2ltWGRsRXk5LVBycm9LV3A3Qy12SGZWTVhORVpsbHpDcGZRb0hhdWxvRVRJOURCTmp5M2RaaTVvUlMwb29oSVdsMjJHQVhyUy1nWQ?oc=5",
@@ -4495,6 +4543,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "04cbe1533b7f0bbd",
+"title": "Suzuki asks India suppliers to halt production one day a week as Maruti eyes 4 million cars- Moneycontrol.com",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWwtTWExSmFxSWg4Z2xvSjFWNHAyX0ZVQVltTGFVQUhNbjdINGhSeDlVclNhbzNQSkhJazZWUjBBRkhKNmdQUVlKV0ZjLWM4ZHhkNHFjV1hpWllqZV85WnJnRm5ZdTF1Y3dCdEFySE1ObVJPTXZlT0RMM3Q1N0FaY3QyZXJOTTZJdkpmU3pUYVhqWm8zV0tKemlMdzRuNENzandpZ2pCZEFGTFVvSnNucXFqMlhzMlBLTmxoR1psMVo2Zw?oc=5",
+"source": "LinkedIn",
+"published": "2026-10-02T07:04:31+00:00",
+"first_seen": "2026-10-02T19:19:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50859,70 +50923,6 @@
 ],
 "groups": [
 "Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "199b08d5b11f5604",
-"title": "Titan Securities sets 34th AGM for September 29, 2026",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2llUUJSU2c2WWRzcDU1Q3VvX083S0tlQTdJX0ZqaUNvZWtoSjNWb0lZcTJkQWwtX1pSNnRScnNVS2Q2MmFSc1psTVJMRkpwbmlEUS14LTJZT1hDb1NCcjdEWl9iLWp0NmdjWEhVVGU5aHROdE9tcXVxZFNOYXR2WUpwU3BNWHZMb0JURmJrMjVNSDZ4d1E5U0plX0FsWUROa3VJa0pPNEs?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T18:16:24+00:00",
-"first_seen": "2026-09-29T01:57:20+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b16dbf1699c05dc7",
-"title": "Tata Motors BaaS now covers all EVs: Check Tiago, Nexon, Curvv, Harrier prices",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDA3Q1ZfeVJUeEJLZEQ4dkp2eDFwQXUwRkQyRG9aNHpHV3c1RUxMcUZYMXE5dEdHVXR6SXduOURNaDFiY3dfVGhzUmRHUHl6YXJKd2llMUk4UXd4RDJiQ0FIb3hrdTJTczFrV2hjWHFENWgzT3hiNzJ3Y2g1VS1MRHRYb3RRd3pKMWQ1Sy1EclQtYlk1Y0VJM0N1LVZrX0JvX25kbmhlYWxXcmx3WU1qRERCemV6SVRiYlhNckpiX1pQMk5BSEkyNdIBzgFBVV95cUxNeVJvWW5uNWZ2RTEtMHhTdHRTd3JwV1BseUppbVV2cE1pQ1JJdDdUdUFpUnc0X3RNa21zcS1fX2NXQXFpcFZ4ZTBvVFFBdE1oNmczN28xbGk5Tm1RczVTLWVMT0llYmVjdTY5dVpVMFZYbDd3TEpxNlpGN2YwSVpEcU54SmZUYnN5bGltTjdMQzRZdklvbExhMG9nX2JjYVQ1R0xXVmZsU0VyV3puekZKaGFFY2N4bmFkbXhwc3p6aGwyWElUSC15MnN3eHQ2QQ?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T18:12:49+00:00",
-"first_seen": "2026-09-28T18:22:14+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0e1239aac927bb12",
-"title": "Infosys ADR tests $10.30 support with oversold RSI: Live levels",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnZic3loWUpVSWlIbjBfUlRWM2RWOFNwd0ZKcllib0FMMTJnYm1hcV9QT0o0dTR2Mm9SZDBZY3pJeU5YNk1hQ2R1bXVtdFNlaTJxQkNvZjlJN1p5U3BMdUhNVi1TSUxPcm4ydEZzWk91ay03STJDaWxxV0lZM3o3czhyNVBhdjl6dG96VE8yd0I3LVpPT1FlX2IzOUk0MWZFNjducEtYVGJvUE9HcGl5alZVWGE0eXlfSDNPV2Z3?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T18:11:15+00:00",
-"first_seen": "2026-09-28T20:17:57+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c3ce21cf603c5f91",
-"title": "New rules from October: SBI ATM charges, bulk FD rates, fee on UPI, Aadhaar verification for LPG subsidy, and more",
-"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPekFXNVVqYndRakVkVk9zTlJ4UW5IZ1VpVDZMei1vWGRRdVp5TGxCankwNldOd1NJM1Vvb1VWZFEwbGI2TWpWejlQd1p4MjhDYV8zOEhsaGZjcy0zZ0FVWjVwd2RsVlNTWkRPT21DcTlMMlVpYms2Ym5aeklEbU9id0k2S1d4c3NNZGxzR2ZFMGlOV1ljcS1SNTQxOERFZFlUQ1FyenRlRWVwZnJzOEdqdUR3Mmd3SWJyS3VZOW5aVjdEemlNTDFOZGZoYjFwQ2VVZ2llSEl6NzNwS3F0eDZ0cTZXc3RTVzVwMnJPaWVDUlV1WTJPcWF2clRaNzltRmRBa0hOTTdmTVXSAY4CQVVfeXFMTUU5ckNVTFM2UUZGNW13aWFYV0hFbmJ4Zm1UT2lkckEyU3ZIY2hNZk5PWGNkSXhFcXA5Tm9LYURFMDNSd2JoSzluRHZ1QkVWZkw0X3d0ZTY2NUdTZFBKZUtEM1FwZkR4ZEVDV2xSTjJyWDVOcllLUkdheExsYTI1SHF0YlBCbXhYanBNMkhUaHJ3ZUF4VkxfZEhiSG13elZLX2tWSWxzaHZlR2x4ZFRJSXVqY1p5XzF5emZ0NXpQSm9uU1Y0aG9NbnBpN2tKaXZ1RnhZRkozbHc0Sy1VUEFzaG02blpONDU1TFRDWjlRM1JyYzM3V1ljdVRQdmJZUFE0czhBQTU0R3JQVWJqYnN3?oc=5",
-"source": "Livemint",
-"published": "2026-09-28T18:05:18+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
