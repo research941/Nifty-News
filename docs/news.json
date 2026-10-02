@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T17:19:46+00:00",
+"updated": "2026-10-02T17:34:36+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,72 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "dd0100eea8775e26",
+"title": "Op-Ed: Hindalco aims to kick-start an alumina pricing revolution",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHZ5S2tKSnVIUThOcWZ2YlM5alpaX1dfT0k3X1ZJdGdxTTl0ME9FVzRqbkhHOUV3OFl5b3RKU1Mzd3lJV2ZOMFR1REJuYUU5VG5naVA0MV9KUjVyWUJvTHV3Y0hlQ0NNdzNHZEVUWFotbmRXSTByREtBQmxEaFp1cWZ5RUR3S2dzUE1oOUtNbWQ0MlA5eXc?oc=5",
+"source": "Mining.com",
+"published": "2026-10-02T17:28:10+00:00",
+"first_seen": "2026-10-02T17:34:36+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "98d7a20f2deacffc",
+"title": "Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzNEZTBPckxsTGhJeEM4WUtQYVZQcFBwbE9uSzdac0NqWG82dG5ZSFg3dUlOcm10TlB1OEMxQnZyNFA0NFVLcG10b0thelN1d2NnUkdJaFRySkJQTnRvazFYN3Y1c1JxNWd0aFFCalJxTTFjSkpmbkhKUWZIcDdRSXF2MW5nX2FYMDBNZzJPNTJiM1lDQkNHQzFMWUxqNUFROW1ja3kxaHNNclZRYzBuOTI5Zlo2cDhVVm5EODlyWFB3WEtvd2pjdWNsZTR6ZmvSAdQBQVVfeXFMTlBXbGlDZlZLSzRJNFU5SGdST3ItWUxZZkp5NWY5OVU4ay1DVGJfYXhfRnZIRS1MVENjVWV0UElIaTJTdVd1MWNtRGgwSG56alRSTUhuZGdCUjc3NWtYbDVDT0JIQ0VMRXY2dUVCR2JnYVV5Uzl5UDQ3MVdqaEZKdFZ5S1BkRGZ3OU51ZWNMNXN6TldnaTI1SzJ2WGQxYWx0Uk0ya180X1BWRDhFYXZMT1FPeWlrU2RkdTJrc0tsVG1odVVYWTdpejhIZGlHeExDYURyb3o?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T17:25:56+00:00",
+"first_seen": "2026-10-02T17:34:36+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c7cef01dffb6d0cd",
+"title": "Reliance Industries stock: Company allots 13 lakh private-placement debentures",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFFDNnhNaU52N1hNamxKQVR1ZFZ5VXZtU0lvTW5XdGFFYVRfODVJNkZkZ1dhZU5JT3VNV2dYZmUtcWlTYjBUN1RrZkRldnZBem54dllXX19ZTGtxSnU4Nm5XVllYVURqX1hWTHVFeFBqX0JUdW53S3FoY0pEbTdzeVM1aTJ2UnBNVUhuaUlnaTg0QW5MUDRNdVVlTGowc1l5MUcwcTNocktzU1U1c1NDaGRlNWhueWNXUVBCNHdfR29CM3c?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T17:20:11+00:00",
+"first_seen": "2026-10-02T17:34:36+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d820df37d31a1926",
+"title": "Pfizer Sues Sun Pharmaceutical to Block Copies of Cancer Drug",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQk8wLVpYZGdIb1BMdk5LNE44Z1V3U0NXVWZXS1JWeTVSV3lhNEdCenZyMmExWGdBZ2ZXZ1NXaWNXRE1aRlRjZE1FTFJ6Z1JPS3hmTFppUm0wUTVLMGhvUkNLWVhVZHVpUGJUZ2Z2R2FKQWozMDBhaGR4SFhaVFBLQkxiOUh2SmIxX2M4Smp0ci1takY4am9qaXVEVG4wVTFHQ2hLUEQxXzFGazRfU0FzRHd0cUpkSUE?oc=5",
+"source": "Bloomberg Law News",
+"published": "2026-10-02T17:20:00+00:00",
+"first_seen": "2026-10-02T17:34:36+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "149ae3c5250e2d2c",
 "title": "Adani Ports Posts 11% YoY Cargo Growth in September 2026; H1 FY27 Volume Reaches 280 MMT",
@@ -2091,6 +2157,22 @@
 "source": "PSU Connect",
 "published": "2026-10-02T12:29:00+00:00",
 "first_seen": "2026-10-02T12:52:44+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "22683dbf97ead169",
+"title": "Surya Narayan Panigrahi takes charge as Executive Director (HR) of NTPC",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1loQlJ1ekZrY1BMSVhGaHNoeGdXcTRUc3NGSEUtbjNTVnRTOW5KTjViZ0RsQ2gxUUIwRThrTGtDLWVkbkYyQVRnR3lldU40OE1PVkE5UnV6NVkxQm53QXZiMmRuTE9LSmY5cm5TMUx6NDF3MnZ5dUtwYzZSdS10eENBT1lPamZaSm9IUURzalN3ZVZsTzQtcjdxcFROUDVNd0pDaGVwUWpFOUHSAbgBQVVfeXFMTnZyTWZ1bmd2N3RuTTdRSXY0Nm8tNllaQ3hvYnphNDB5NkgxT2plc3h4MENrNExtaWhWS3BHTUxjS05YVzhEMkhFWUZDdGhmYm5aaDdyQUVEYzI3YUxhSkpTY0RFUklsdGtVWkE4VWpEZFZWUVNoV010SWtmTzh6eXJURXdZQkY5bzJZUkhPTWJVNk5XQ3ctaldrQlZ4MDBWZnlYS3Q4V3RuWU95WjlTM0FMZGdjVWxFTg?oc=5",
+"source": "PSU Watch",
+"published": "2026-10-02T12:27:55+00:00",
+"first_seen": "2026-10-02T17:34:36+00:00",
 "symbols": [
 "NTPC"
 ],
@@ -50860,96 +50942,6 @@
 ],
 "tags": [
 "Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "f83c0d6cdf521c8e",
-"title": "Gautam Adani, 4 group companies settle shareholding norm violation case with Sebi for Rs 1.48 cr",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzcwQTNNVHNQTHYtWEQyXzdfNUd0NXdmaDJEa2dTaGVuN0syQWZENFNZbURTUEd6RW9RSjJIRFRWYWI0ZjNkdWdDemJSUlhpeGs3ZjdFZGthTnEtRTVzYk02Q0FESlA4Y2ppUkNwRy03NFdvaHlpa05PcFhkdFZZaVNnLVRKZnRUekh5cWRmVy1sRnZiVkFBOENuVkJSWjduaElWNWk4UGUtd2c0S3BuSTRDQ2pHRktFMGEyWUxCLVcwQ0l4dVZYNHFNN2jSAdIBQVVfeXFMT2ZKUTVqTDhhZzBnaU94N09fNkJFM2s5cTJ1eVNtOVozX05TRXBnUUhwQ1huQVJzV0otT3NFTmRsTU1yamVvSF9fOVNkTUlBNVR6aDF5QnU2akNQU3NxLVlEVHR4ZENKUmxMX3hvcnFEUEVfaVBWOC0yT0RJakZOSUMyTTRVa0lidkRnRlY2UXh3aTY0dFpzWklnNnhaN0c0NGZUTzdpdXhsbE5RUDZBNm4tcERtU0dLNHV2RkpUYzc1ZktYaTVvbnMtSlBZTEE4YjV3?oc=5",
-"source": "ThePrint",
-"published": "2026-09-28T16:48:07+00:00",
-"first_seen": "2026-09-28T19:46:35+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0b8e0029584f23c5",
-"title": "Sebi finds no evidence Vinod Adani controlled FPIs, drops Adani MPS case",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGVEeWRUVXFRa3VtTGdjSEZOb0hZeHYxU3hzbG84QXUtMEtEemJPUTljanVUOGJfU29fVVVKZXNHMndmbDdHMjFvZlhEbTlQZk1vR2pyaVRELThmT0hab1VHWlNtM1pKMmNZQ1VnbDFETjVwN2Uyc1p2SlhCVVlEdFo0TnAtZjF0cnMwd212eHVzQTBEOXhUbkFucnZ5d2ZTSlhfSUhZWGtFMEYxMC01cDRnU0NCOHl5TTAyeUJyRHZaRERLNlYtWkhaZmhEazV3Qm15Q9IB2gFBVV95cUxQS1dTbmVRQVhyYjAzUFJqSGNwMnI4R0VRazU4Y1lRWlRqTjZUbVlkMno0LV84NDkybUwtVFY5VjI0cTg1R0tGYjRfOGhLOTNGQlRqZ3NfTWFyRHloSXVUVTNPNS1EbXdMUTJiOFNTcGtRRU0xZmRGYmdZZk1rTVNaXzQteUE0VUFkdFNwdjVxX0ZIT1RkRDFsZThmSUZ5WkhQcTFidHREVC02TWNnLXF3aUhieE92UmgzVGg4WmtzRGUtYVJBT2FfQTZKOWlFSDdtTzE4WlNNakRjUQ?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T16:45:38+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "7c912b915d20cea2",
-"title": "Adani Group firms settle SEBI case for Rs 1.48 crore over alleged MPS violations",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeThtM25qZVM1QmJscGdQOFotN2VPQlJlWDlOeGdSQ2ZnRVBOZlJQN2VNc0Q4Y01ScFhkVUxvYU9wZEFvUHBQbmFJejJRWG9nMVF3RXpoYl9GaHpMRjFVM0JLUllMSlhySUdpT3BBcU9vb1k4bUc2RURGZWZYTGFGZG1JNndzTS1lNG9OZFFPNVdVWmFqNFBnRWRuRUh4N3AwQzJoT0I0dmFhNmxmbmFXa05Pc2Z3cndfYUsxY3EtU19FcmJidFNzYTJJN1BfV3dmWU4zT3pVTTZITDJ2bVlvT2NmbznSAeoBQVVfeXFMTWowa2dkd1c1SV9lRExNdTNlSC1TaHZCUDRvRTc5cmRxZ25ZdUhEcWZJU3pBRXNDOVZGZlo2WU1SN08xbWdMcjJsQXU3MTdxQkRBQ25NTHMwZkozaDRLTkQ0cW1JYW9Vcl8wcW9neUxqVXptcUExdlRQXzNhSFVoZjJoOUwycG4xZVpzSkFYakRKMDdWOXFLaGRvQ2NMV0hwUHVMWmhSZnJQNU94b3BZbi1RZlE2QWRMVFlXbk1Cb0tFbXhDXzhDZ1dhN3VPMUdiamJubzQ5YzJ2UkhpanBZUXNwMDdIM1pRbUNR?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T16:45:14+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4f36c9081d03b492",
-"title": "HCLTech software unit acquires European firm Robotiq AI for 9 million euros",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjg0eVdtWXVkcmt4WE1TbEp3SlhxQ1pVOEZiX0s3aWpYM2NsMmpnUU5nVmtud1lyRHZkZGFRSGpnV01tSC1xbGszN0RRYnNuVHVJOWhPSzlsVFltNC10MF9nenVodjdBdTJjVy1sRG90UDFSSWluaG9BeHlnWElyZFctQVp1c0VLaWd2UTVGekJQenRYMUFRN1Y1dU0xdTRyV2VNS2d4bDgzaFFGRTM1MU5feVBXMGNxM0o4T3JURFpxUjFHMEs5ZV9KZEc4b0huMVpxXzU0Uk56UUZGb1VqM3pHTnRUZ9IB6wFBVV95cUxQQkJKOUhhZ1FacUV2WFJQQTczUkphZkloSmprb3dBV3U2TmJpa3otY2Y3OVZVVjZlcVlvRnFNQWktUXVwa2t3X3Y2a29KVHEtajJ3am9MU2JLN3pVcFdGZnQ5c3dCSG1aTDhLa1hUS1QwM3JtM3lXWHVtajJzOHctTDdHNWVycGRsMmg3UEpQelNwRVZCNDJaRko1LWhvX2xCemJMTFA0Tzl5ZUROcUV0bThrdmZXdVFQZk1rb3NYRGtRWVJ2VUtfS09fTXNoN05nSWtSZkZWN2t3eGpzQkIycjlNSDRmc3E5NkM0?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T16:44:27+00:00",
-"first_seen": "2026-09-28T16:59:22+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "82865b486951ed1e",
-"title": "HCLTech software unit to acquire European firm Robotiq.ai for 9 million euros",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjg0eVdtWXVkcmt4WE1TbEp3SlhxQ1pVOEZiX0s3aWpYM2NsMmpnUU5nVmtud1lyRHZkZGFRSGpnV01tSC1xbGszN0RRYnNuVHVJOWhPSzlsVFltNC10MF9nenVodjdBdTJjVy1sRG90UDFSSWluaG9BeHlnWElyZFctQVp1c0VLaWd2UTVGekJQenRYMUFRN1Y1dU0xdTRyV2VNS2d4bDgzaFFGRTM1MU5feVBXMGNxM0o4T3JURFpxUjFHMEs5ZV9KZEc4b0huMVpxXzU0Uk56UUZGb1VqM3pHTnRUZ9IB6wFBVV95cUxQQkJKOUhhZ1FacUV2WFJQQTczUkphZkloSmprb3dBV3U2TmJpa3otY2Y3OVZVVjZlcVlvRnFNQWktUXVwa2t3X3Y2a29KVHEtajJ3am9MU2JLN3pVcFdGZnQ5c3dCSG1aTDhLa1hUS1QwM3JtM3lXWHVtajJzOHctTDdHNWVycGRsMmg3UEpQelNwRVZCNDJaRko1LWhvX2xCemJMTFA0Tzl5ZUROcUV0bThrdmZXdVFQZk1rb3NYRGtRWVJ2VUtfS09fTXNoN05nSWtSZkZWN2t3eGpzQkIycjlNSDRmc3E5NkM0?oc=5",
-"source": "economictimes.com",
-"published": "2026-09-28T16:44:27+00:00",
-"first_seen": "2026-09-28T17:18:58+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
 ],
 "sentiment": "neutral"
 }
