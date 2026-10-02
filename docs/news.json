@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T03:59:31+00:00",
+"updated": "2026-10-02T04:17:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "095b97e3db7ac29d",
+"title": "Who is Anup Bagchi, HDFC Bank's new CEO?",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWVrSk04dGMxRlNlRk1wbW5LX1hKWVJ0YUJVNVN3NWlVaGVMX1ZOSVM5WGlQSUQxcXJYcWdsQ3dzSWJHT0pTOFc5dFkxV1dJVjJmQUtiMWxWWlZjMHpLRVJUOVMxM3F2NmI5Snd5bU1rUzM1dDlzWHVXMm5zQ1BSeEI1bGlySzN6c3k5YmJzZFc?oc=5",
+"source": "newsbytesapp.com",
+"published": "2026-10-02T04:11:40+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "677968a12fa0f24d",
 "title": "HCL Tech sets October 12 results date: JM Financial rates HCL Tech stock Reduce",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbzJza1dHXzVRanFDVnVsVUNVbHJXU0d5aTR4NS1VSnFJelVaYXlYVlU2ak82RHFOWGpMSEJLM2EzbGdSeG5BbDRSUV9Fak9CaklvWF9DaTBFZThfMGtfMWY2S3lNNzkzWS1iTFJURzBuLWx1aUY1cVAyMFJVTGJzbXN2SGdRZEdFZTNmTkpPZnd6SlFVM2g3LWxraUpvRUl2Y3g0ajdQR2ttSEF4YmZfMnJxNjEyUWJIRHVqWGl2akRkc3RyVzhibHJn?oc=5",
@@ -844,6 +862,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "19e00b1a7523111e",
+"title": "TCS Dividend 2026: IT giant to consider second interim dividend - Check record date, eligibility",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFdqYjNhT05TaG1BZzF5d2I5c2FtSmVYdWRGWE5nRGVhb3NTNENMZXI0ME1CRExEekduTVl4X2tzcHR3VThIbm95cmNmRWpkQkdVQWlKWDRGaVdGY1JyOExqd056OXNlcGhNY2xEOHplc2NWX0xGSWJub19LTlk3ejdPZnRSZDFvdHl1N2ZLb2ZCNW1MaW1fVWwwV05fUHN0eUM2UVRyMGFkOFl6SWV6NzZPeDY3V0FqTXYwUW43NnJVTVBfZ09DUXBfd0Ita3Q4S0hfUEV3REpmNmNLLXRCNzJR0gHiAUFVX3lxTFBEV2piM2FPTlNobUFnMXl3YjlzYW1KZVh1ZEZYTmdEZWFvc1M0Q0xlcjQwTUJETER6R25NWXhfa3NwdHdVOEhub3lyY2ZFamRCR1VBaUpYNEZpV0ZjUnI4TGp3Tno5c2VwaE1jbEQ4emVzY1ZfTEZJYm5vX0tOWTd6N09mdFJkMW90eXU3ZktvZkI1bUxpbV9VbDBXTl9Qc3R5QzZRVHIwYWQ4WXpJZXo3Nk94NjdXQWpNdjBRbjc2clVNUF9nT0NRcF93Qi1rdDhLSF9QRXdESmY2Y0stdEI3MlE?oc=5",
+"source": "ET Now",
+"published": "2026-10-02T02:04:14+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f5e63c6809276635",
 "title": "Motilal Oswal rates JSW Steel stock Buy at INR 1,340.00 target",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGZwd2N1Qk9QOFNNY293TVZPdUJaRWFVMW5ya1RHY0s3N0x2SEppbzl2VGNfRl9yOUxqdDU5UUYzVFFmRmJIVWdpeDJyM29yaWJhQWk0eEVMYXVHSnN5XzJfekxLM3NvMmx3LXBVRjZOX1ZMdk5WY0lIYUxvT0pZYkZFeno4VjVaVS1pX0FwX1daSlBIZDBqR210RWlxcTMxZUJjTU5VTjNHbWVqU2VLZ1BiUy1yZ05ldUEwemRB?oc=5",
@@ -874,6 +910,24 @@
 ],
 "tags": [
 "Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e75cdf2e08477113",
+"title": "Airtel Money prices IPO at £1.96 per share",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVFc0azlnemZhOWoxZUc0XzhVWlJvdDFkMEpoN1VLY1JOZE1XQmptX2MtR3JBUndWVUcxZ3czU3RCdWVDU2I2bzRubWt1THA0Y2htSXZFTzE2dUlZZFJHWGRjRTI1M1RvTFIwY2JzTGQ0dDNoNkVMZlFRenUxRmdGY3JCUnh4ZHJFWjVFYTBIaWJwNXRPVk5ZYlpjQXI4Z2xzbUZ1aHV6Sy1pSFE3MHV5RjVMSUVMalg2aVhvQXBWY3hHbWVvWC1xYjNjc2d0TVVZckNNR3Z0OHdScU1DM0l3dHFHdHBablk1T3pSXzFNWFRfcXZJcHVTeWg3NNIB-wFBVV95cUxNVFc0azlnemZhOWoxZUc0XzhVWlJvdDFkMEpoN1VLY1JOZE1XQmptX2MtR3JBUndWVUcxZ3czU3RCdWVDU2I2bzRubWt1THA0Y2htSXZFTzE2dUlZZFJHWGRjRTI1M1RvTFIwY2JzTGQ0dDNoNkVMZlFRenUxRmdGY3JCUnh4ZHJFWjVFYTBIaWJwNXRPVk5ZYlpjQXI4Z2xzbUZ1aHV6Sy1pSFE3MHV5RjVMSUVMalg2aVhvQXBWY3hHbWVvWC1xYjNjc2d0TVVZckNNR3Z0OHdScU1DM0l3dHFHdHBablk1T3pSXzFNWFRfcXZJcHVTeWg3NA?oc=5",
+"source": "ET Telecom",
+"published": "2026-10-02T01:55:51+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -1775,6 +1829,22 @@
 "Regulatory",
 "Management"
 ],
+"sentiment": "positive"
+},
+{
+"id": "94d97b2b88ef458f",
+"title": "NLST Stock Rallies After ITC Patent Action Against MU, SMCI, HPE – Roth Capital Sees Settlement Upside",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkJQWWpSbG9MUFJhb3lMbDFmSkV6cDVnaFFqdkR2dFRHUExweHFmMVZJU2dPSnhJTjltTVpwTlcxVDdJMGpyT0oyWmFQQXVZdVRnX2FSRmdOUGp2ejNEMGdUVnVWOC1JVWN1ekF2bW1TbEt6N3dSaFc4X1BOY2RvSXZjZXg2aW9jMC1od1lET1k2RnVoRGE5TDBYb0UtNzJKekVuaXdHdlU2eXVqQll5T3NrMm1EYU1uWVduVjZmWnllS1ZG?oc=5",
+"source": "Stocktwits",
+"published": "2026-10-01T18:08:40+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "positive"
 },
 {
@@ -7058,6 +7128,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "feeed6fc5dc1398f",
+"title": "Second Hand 2019 Maruti Suzuki Alto K10 VXi for sale at Rs. 2,85,139 in Lucknow.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWlvcFBWLW9DUXFGNVZKLU05QnVjaHR6QWhJQzJxTFlCeGxNRy1INWdpbk1MUG5PT2FPakU3ZThzczJmV1FNQjA3d2ptcHY5bjFaQkhNM1JOYWsxSkM2WnN5MzJxVk40dUhUd0dsRlVIbHBMZkpNRjVnZjc4YkdNVE10TEg?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T10:44:37+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "24cf799e1349f7be",
@@ -14621,6 +14707,22 @@
 "source": "HT Auto",
 "published": "2026-10-01T05:01:39+00:00",
 "first_seen": "2026-10-01T06:35:43+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d48a9e2c50bcf439",
+"title": "Second Hand 2022 Maruti Suzuki XL6 Zeta Petrol Automatic Smart Hybrid for sale at Rs. 9,34,000 in Lucknow.",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnM1MVctQS12VHcyckNLN1NVSmc3MjZQSFYwTE1SZmlQQmZ2ajdCWGdQb0kyeDZPdndTbzhicDZicHVKWGpGbHhqajF2bFBTN282Q2txWVlKR1NoNkRzNTNUOGM2dlZyeEg4Z1NqdDZCSnZFeWZOUFB5V1UtaV80aHVrdw?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T05:01:27+00:00",
+"first_seen": "2026-10-02T04:17:48+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50698,106 +50800,6 @@
 ],
 "groups": [
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "247e65f159057e59",
-"title": "Sun Pharma Inks Global Licensing Deal With LIB Therapeutics For PCSK9 Inhibitor",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblBxWlUzcGlkWXlQRTYzYUEyYS1mb2lQT3JsMGo5MzhlZXhjSDJiWWtGZHlhbnRITEpKRDk4YlE3VVRKZkxIYUEwZnBOQTVhWEhVaTlfNG81NzBjazlFYmdqTXFqWk42Vm9MYTVMMFNjNkJzR1F4LUtmYVFkcGo0dlBKMnZwYmZGWWc5R3gtQ0FfanlXOURnb3hRQkktbHkzZzJoa2drcVZIeFR0RmxDRWRjWHB5aXhwN2o0NtIBwgFBVV95cUxPUTh6Smk5eUFzbmFibEt5MFp5YTNPUGdEUlhUbHloZkZhYklJbFh4U3ppY253azhPWGpBcTVjdEhfMnNTcEptUUpLLUVwNFZndkxTa2dBa1RLblNFbmNFSnRIcmNVdzhZclpjQXV2ODlzZ3U0NTZsa21LOW9yLW9DRi1XUlNRQ1Z3QW4tTmMyQ2tpVEtreDZvY2N5cFhhRXhaNmhtNU9MZnViRUN4LVlCbmdzUVh0Ql9wSEkwYXh0emp1dw?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-28T04:47:48+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c994450f4d285b8d",
-"title": "Tata Steel, JSW Steel, Jindal Steel in focus as rebar prices rally; Nomura retains 'Buy'",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjJWT3BMckdFWHJUaXgtbDBBWUFUd0lkV05OcWlNTHBBcXFmV2JIMWd1Nmc3RkpuTFVqTThFdWE2NGl4blN2VXFZWHFhTlA1V0l1SVdLSnFxOXhfN01VeGpGQXRsOU9VNUh0Tl83TG13NEpuWmNZcEdwWWYwSDF4YXBLalFEQWZud2ozRE9sM29TdW90WTFmQU1zNjJKci13ckhpM1BvUnBwRHEzcmZuMDU3NFVpUWZJNk52R3RaNC1qQTZjVmlQTzUwY29ncXl2R2RJTm96Zk5qX1pQbVg4cdIB5gFBVV95cUxQR2JwRDA4blZKOUxzaXZjTjBBbUNQckgydU5oM2xrMnVQeFh3YjRTZU51R2tKN1RFZzFfTUlNclprcVVXcC05VGJWZ04wRm4xd2JiQXRTNDJBcEc1c3lub2hxc0otQVk3S19xd0RsVmpOZUFSVFBLLWhTdDNsV0pCNVJqOWFNbGpDcUFxWVFvZjF5OUc0bG5QWWs1akRXQTBzajZXNkVpRFJWVV83WnY5NVBTb2Q3TU90c3BFQXUxVFRCVG5EMkZtTnBoZG9LZm81UnBZVEFGb3ZGT1k2anVqaTNhdngxdw?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-28T04:44:09+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"JSWSTEEL",
-"TATASTEEL"
-],
-"groups": [
-"Metals",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "fb4468f0b06330bf",
-"title": "Living with my Maruti Baleno MT: How its going after driving 22,300 km",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZCMV90SGVlRzBveXBhcGJGVTBMeXkyN3NJUFFWbEhscURZOWNzbnVxcWZkRjFFdzllaVVqUm1vem9SOGhfNjFFMkI5bGpmeE5XQ1RKRC02NnFtQ3lkZG85QWstSjlaVWV1c3Jrb0hNdHgzN0gwR3NLZm15N1lUdWhFR19Pc0M0QUZ6dnE0Q3llNEJVeklCU9IBngFBVV95cUxNQXU5Ym1nRDBJRkJpTG4yckZVelliSDNTc2V6N0k2M1g4QXk5ZDg2akVCZUE4cjFnQW5JQWZDd1d5UFpMVVBJSV9uR1l2MVhZd09JbjlmY1djWVl1X2dobnBGQlJLTWw2cUd0SWN2djkzN0VMWXp6WUFxTlBPNk5FSUtRNVlpSUo2YUJMRzhJRHNqdDVJOTBXUFdnVU1OQQ?oc=5",
-"source": "Team-BHP",
-"published": "2026-09-28T04:40:05+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4c73499e389e6543",
-"title": "Government changes mobile recharge rules, here is what Jio, Airtel and Vi users need to know",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPa0lnUnBzLWNDdGtyQWF6MmNORUJjVXExZnY2eXZLcjVzT2tMS1BETHBBbmdYSUQ0QW5fd2dlQ21FeDlUN21iV2dHcjI2ZG4ySTdfSXlXWmFTVnB3UnNHdGtJUXo4M0xfTHA1R3d1bUQyV0RoajZSLWFtSkg2aFZLMGMyVnp6SGN0VElrUFh5N0hib2h2Yy0yLXNVeTZnOFpVRk5ORWt1anZjeXpXUnZISVZrdE9xd2lrMGUtSDZaZWZDY1dWYW1GeGFhejl1eWpTVkJydTVyNVNGSnFzRVJLckczek96Q3pmbjlXSkZxejRkbHPSAfMBQVVfeXFMT2tJZ1Jwcy1jQ3RrckFhejJjTkVCY1VxMWZ2Nnl2S3I1c09rTEtQRExwQW5nWElENEFuX3dnZUNtRXg5VDdtYldnR3IyNmRuMkk3X0l5V1phU1Zwd1JzR3RrSVF6ODNMX0xwNUd3dW1EMldEaGo2Ui1hbUpINmhWSzBjMlZ6ekhjdFRJa1BYeTdIYm9odmMtMi1zVXk2ZzhaVUZOTkVrdWp2Y3l6V1J2SElWa3RPcXdpazBlLUg2WmVmQ2NXVmFtRnhhYXo5dXlqU1ZCcnU1cjVTRkpxc0VSS3JHM3pPekN6Zm45V0pGcXo0ZGxz?oc=5",
-"source": "India Today",
-"published": "2026-09-28T04:39:20+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "421371bd21575961",
-"title": "IndiGo Flight Suffers Tail Strike During Second Landing Attempt at Bengaluru Airport",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmcwbG12R3c5TTUySTlQS3VIc0xmd25nNktzY1FTYWdsM3ZFVGI1QjgtbTRFdHdPWVpSQkRGS1ZZOW50cDB0R0Vzb0kzV1N6eWREdlJ4bTVMdGRFeUJpSTNhLW5qS0ZUUTlLcWkzZUJiSFAyTTBpTmtWNmdNamlFaU9iZHNVTWtMcldNcHo1NWVkQmVpajBWbDdGYjE3akJQQ200U2lBQ09Rci01bFE?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-28T04:38:49+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2c12a37444e41170",
-"title": "Jio Financial Services Stock Update: Shares Hit New 52-Week Low",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUhMVElMM3FXVFVVdjBfOEh5YmQ1ZEtTWUJ1U0V1QWNHeWFJRURXWUFpWmFHWkhzWE15LXowc2ZPbE5LU21LX1VsVE03MnI5ZGhXY3M4R2RidV9zXzg4aFFvOE13cWYtTVFCOGo0VFlESHRtNHFxZ0twZEIxa1dIWnJfTWpDSTZVOFdLTFRVTGpVcFl5WFVaZm10dWMtdnpqUjgxQV82NXFLdFV4anfSAbMBQVVfeXFMT3REeExBT1dhWVVkVUE1WFdWYW9tWTVzLXpJRmlyQ3FfX2VJQkNwVnp3MmNwZjlIV3NtUWRsUFBYMjAxZEN1d3pEanRRYnlTVms2U080ZDItS0dOOUNKWGpUQXVhSllub1U2dC1fejhlMTYwYkw4QmlBOVMtWEczU0NmUUxXOGxHblUwdWNBNGRiRzJsb0pvLVFoU3FyQl9qVjVQZURmS0x4QU1KdV80aFpJTDg?oc=5",
-"source": "LatestLY",
-"published": "2026-09-28T04:38:41+00:00",
-"first_seen": "2026-09-28T05:58:44+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
