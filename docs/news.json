@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T23:56:24+00:00",
+"updated": "2026-10-02T00:27:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "a8d2ffe18b8ecc68",
+"title": "Jefferies sets INR 1,260 target for Tech Mahindra stock",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHZkbEpGN292REdaa05rUHNhNUtHcDJ0ZDJic0t1LWhfSzRINVlJNjVDY1VIbU1WVzU5SUFGZ0lJdGRLdEMxNlVpWW9GMFdsMFJHUm41SWJiXzNCWU9wdGItX21iN3dIVm9TREp4OE9aMWxTaURtT0k2WE9RT0N1V0MzUEMxZE93cG9hei14eFUxTjlaeVd3aW1YZGVIUzZESF84Ym5qZ3FfOW9OY1dJcy1QVjQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-02T00:07:17+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1de9d537ead06a32",
 "title": "Stoke-on-Trent and Newcastle to get funding for more affordable food projects",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE5ZZ2cyeE1FNkJpV0dTbnhkakE5b3Q1RURUT1otODRrWlpoM1dfc25ESlJQcmF2VVByOHQ5RWFDMFljWjlnbmpXbVY2Wm1ySWVXNk0tQWw0NmpEZmJRaG9fdVpKN3E1ZGxESXIxcHVJOTY3dGstMjJ0ZzdGenh3b2dTQU5CSFR3eU15ZUNVaGE?oc=5",
@@ -472,6 +488,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "314e08de24c3b030",
+"title": "Axis Bank iPhone Cardholders Can Now Use Apple Pay Tap-and-Pay",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTFMUEowaWlOM2xONWhIMGs4Q05IMHl6RERHQllZMDlxNWV2UFZqV1lvMFpqa3F2RjNKTFRZNEJDVkJBalIwNGo5Ml9ETWVjXzNsSm1wV0dCa21MZEZzQmR1SFFJemJMeldfTzJKZVprV0JEV1R2TlVFZVRWVW1RT2U3Smt2U1pVaS1vb21Eblp5U2lmcHNiUjRCY1hZWkpiV2RudTFnUlZ2dHNUbjZ6cUVielZUQWthYlJr?oc=5",
+"source": "rswebsols.com",
+"published": "2026-10-01T23:00:00+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7540,6 +7572,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "58a1c18234f2009d",
+"title": "Second Hand 2015 Maruti Suzuki Alto K10 VXi for sale at Rs. 2,06,139 in Mohali.",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2Z4QXpBMVV0c002dFByWUVLNmo3ellyNHRRX1JEV3JKZkE2LXdLdGZKa1Jha3FFdThDR3lwY0ZueUw3cEdGOVZJNEJNcnlwNWpBY0xwWWtQRzRWV09EOGNDRkV0ejZyZElJaHFObkFmdkhUeGVuSl9YcmxKeE8wUE1Dbw?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T09:46:21+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -14927,6 +14975,22 @@
 "sentiment": "positive"
 },
 {
+"id": "fcc80db01291e495",
+"title": "Second Hand 2019 Maruti Suzuki Dzire VXi Petrol Automatic (AMT) for sale at Rs. 4,72,580 in Hyderabad.",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGFFYzQ0alZjNUtXbnk2cUJiRnZzUHprbDYxaFBidnN2MmJqM3d5SGl5ekMwLUdGdXZPOTBNb0pZaklOS2RnZkU0Y01sMlV5aGt4dFJ1OENfdVIwVm9MdWJHZXhnYXVsR20wTUpQd3g5MU54aFJhUHNUakVnZjRveUVQenNTZTJD?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T04:07:10+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "7a1e354846f31acc",
 "title": "Infosys Opening Bell Updates: Share Price Rises Amidst AI Focus",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2FMOXlPQXFhZ0o1bGh5X1RrTF9mLW5wMGt5Y2x6eG1WTFhqRjZiWWdpZWdCaFRiRzlJbjhrbkJIakFoN2xJLTdqOU43eHlCSHlHNjFnNlJraVVfbktoVDJKOG41X2Rwdnd3T3JDUUIxUDltQlhxeUJ0R2J0aUR2Z2F1UUlmREJXZjk2OG1PSllVcVljcHk5SVA3RFlBSzBRaUNsS1NDXzlnVjVXLUw2MGs4c9IBswFBVV95cUxQc2FMOXlPQXFhZ0o1bGh5X1RrTF9mLW5wMGt5Y2x6eG1WTFhqRjZiWWdpZWdCaFRiRzlJbjhrbkJIakFoN2xJLTdqOU43eHlCSHlHNjFnNlJraVVfbktoVDJKOG41X2Rwdnd3T3JDUUIxUDltQlhxeUJ0R2J0aUR2Z2F1UUlmREJXZjk2OG1PSllVcVljcHk5SVA3RFlBSzBRaUNsS1NDXzlnVjVXLUw2MGs4cw?oc=5",
@@ -15259,6 +15323,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9f68f6b5bd318b32",
+"title": "Second Hand 2017 Maruti Suzuki Ertiga VXI CNG for sale at Rs. 6,75,000 in Thane.",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3EwekpWUkYySnp5WUw5X25zNXA1ZGc4YTZ5c3JNTFlibHZOUmpoZVgxN3JCNFgyU2RtNk94Q1hRRmg0VTBIR1dMNFRvSlNlUWdKWFNqa0VzWGhaWGh6TGJCTGZhcm84a2JaUkx0LUFsQXdPMURYWklJUC1tYWR4YzFzSmk?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T03:50:58+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -17831,6 +17911,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a5de66893be58c13",
+"title": "Second Hand 2018 Maruti Suzuki Celerio X Vxi for sale at Rs. 3,22,139 in Kanpur.",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTHE4NFNhaUVBQ2lhemdTRU8yY2Fjcm5KV2Y1dUd3WVllLWo0MmF0bkU3VUg2ZVNqS2JEN1AzSVNXcG82OWxWS3h4U3BsaVJibFZieGloZHdqYTZIM3J4ekNjRERCVGxaek9TLXBRX1lhbkRieGt3Nkk0Ry1yY0w1a29Gckdhc0JldEE?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T02:27:57+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "1aa2bd7929d9fa2a",
 "title": "Adani Group to deploy AI, targets 1GW data centres soon",
 "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcTZxME5Ga3A2c2JQYzhXQzYzZzFUM1BrUl9uaWlpLThmVkpRWG9PMkppNUxjdGM4R3duTWRrWFIwcEhxSEkyTC1HWDNMZXBLMUxnUERYTzN2dTh6Vy1NdXBOb0xJTzduZTlRTzdnSnJhOVR6ZUlIbFBtdmh3TTI5YjFtbHVsNHVCdHBtRG9ocmpPSDRkTW95dWNmQlNPU1ZJZEhLMzhuc1dUUVJCUk1xSWk0WGVvZnl6a2NVYWRtR0p4ZHU0MzA0dWlFMS1mLTFTOG1NSzlGQnRKQnhIRllIZU9wSEpJb3FtNzNoWGVsdjBGbmhKenNfM0tPNjJsMEZuckVkRHYtQdIB1gFBVV95cUxPZnRYQnh2RGxPRkhkYl9nVGNsLVl1b1ZmWXZPUDdQcldfWkNfbkhyVWcxSTNkc2M5T0ZMb1Zvc3g3ejR2ZVMzTlltNXpnTWhKQUFyS0dQeGFFdU5qd0RoaUdzc2tWdURsdEhQYm1qUUVRRVlxUVVlM0dGWndKcDJpemZCUkxJcVhVTGJBYW16MW02bFJ4ZXB0Y24tS2MwWlgyaGlXaTRLOXY1TXYwTkh5RXVtZDkxNHlpaXhHRjQ5RTQzS3gtUUlYMTRwVG1EQU5jOHJISWlR?oc=5",
@@ -18209,6 +18305,22 @@
 "source": "CarTrade",
 "published": "2026-10-01T01:24:13+00:00",
 "first_seen": "2026-10-01T23:45:10+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "767afa4548139074",
+"title": "Second Hand 2016 Maruti Suzuki Baleno Delta 1.2 for sale at Rs. 3,67,579 in Mumbai.",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5RVB2cklBRXdJS1p6bXVZWEZuaDVpSUh0c1hkTUtRbElxek14RG0zcEVyS01aM2ZuSnJqZklOR29ZdTRDX0lFdHItRG5PcXNLUFp2UG9FOWFzMTdOMk9JSUlsWkFsZVV6aldHdUhFNXk4ZHlEWUdZUnQtcWVqa1U?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T01:07:08+00:00",
+"first_seen": "2026-10-02T00:27:32+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -50656,119 +50768,6 @@
 ],
 "groups": [
 "Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8b593239cacbb8d6",
-"title": "SBI Life Or LIC? JPMorgan Bets On Low-Cost Insurers Amid IRDAI's Distribution Reset: Top Picks",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3NEVVlMeS0xb2o1OUd6bXRmMEpvb0Q2b1lKNU16TFlnbXVzVlZ4WlZZazA4aFoyaUF6WEkwa1g3cFoxOTBiM0ZyOVo0bV93dmFEcERFR2Z6Q19VU0NYc3h2MzluVGZQZ1VJRnMxSzRyOENoUGtaWmpEbFhGNUNiNUNvQ2huekh6bHBJUUxMX2FhZFVrX1pQbEpDYlpJOGI0MTQ5eVd1REgzTVhpSTZMRXVKLXhSS1czUTVkOFk0RnhPUlpfdm9XYUlzd1ItTks4bDVlM0NxaHZZRkNlSURmONIB6AFBVV95cUxNQXU0NWItNTc2N003TWpuY2MyNVhoMWdjQ2NST2lKWmtMRXpBZEhDbjJOSFVXbjB4RUx3YVZlZDNNeDEzZ3dnNHRRYkFkRTJ6MUxleW1hNGZuR01raU0zY1VJcU9lTUVyNzVoOFZQQnJua21lSVVpaXlwZjRlcUoxQzdzLVY2ell5bTZZNWYxZll0RE1MSWdlUzRMZ05ka2dZOU43VzRvMGM4bW53QTM4bHpNRG5FT0lYQk1EdEtKUng2bDFsMGNqSHRWOEU4UGtJUVh1bnlERnlxczFsNjZrRnI4M0hmNlRt?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T03:30:45+00:00",
-"first_seen": "2026-09-28T03:46:34+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a88612b95d6e09e7",
-"title": "Nestle India - Positive Breakout: These 6 stocks cross above their 200 DMAs",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWV6YktkUGpkV3BMVm5sUXZIajVFQjV5cmdlTTZLZ0VBU0l0TVVBTjU0NjFWeHAxY3BpcWVXaFQ5enR1clFIWG1HMlNmaGIzcHBVbEVpUVVEck00X1loeEoxZW5GMTVDQkxENjRrYWNQRDlvRWlIVUpxcmdHNi1LR2lWVEVBcDhDWmFPZjBfWWplSlhjeUpSQXIxOTMwN3k3WE96TDBEbXVma1FyRUdraGd4dXVoR0VwMGY2MlZ2YmlYMTh6N0FBZ1JpOF83WU83VDk5MWx3UlNqaVVW?oc=5",
-"source": "economictimes.com",
-"published": "2026-09-28T03:22:55+00:00",
-"first_seen": "2026-09-28T04:49:11+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cbf47fe7e16a5bce",
-"title": "Eicher Motors Share Price Live Updates: Eicher Motors Current Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-28-sep-2026/liveblog/134530857.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:21:08+00:00",
-"first_seen": "2026-09-28T05:00:03+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "def090934981192d",
-"title": "Eicher Motors Share Price Live Updates: Eicher Motors' stock price declines amid market fluctuations",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-28-sep-2026/liveblog/134530857.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:21:08+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4a6c77d00a89dd3a",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Current Price and Returns Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-live-updates-28-sep-2026/liveblog/134530853.cms",
-"source": "ET Markets",
-"published": "2026-09-28T03:20:51+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a3cad0a616e5000a",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Recent Trading Activity",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-live-updates-28-sep-2026/liveblog/134530853.cms",
-"source": "Economic Times",
-"published": "2026-09-28T03:20:51+00:00",
-"first_seen": "2026-09-28T09:06:25+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "54b1c68733803261",
-"title": "Tata Motors PV eyes 15 per cent market share soon, targets 20 per cent by FY31",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGFhNnhyUnV6aDFDUnBGc2ZqT1Npa0hDeGk3dFJBdDdkN000eVhBRGNmdDRsVDNicnQ0TTJfc01nTDFjdk9IMnJnSUx0X1Jkd25ibW5qb2wxZmw0STVMS0RqUHlZN3hpV0hDeVdxaDhaQ0lMSU5QSVF4V0ZJZWZRYTVlQmwxTWlPUDhVaTRGZzYwcWpxSU1uX1hWa1g4c1RGM2Npb2xVZ3FWZ3R0em9JWA?oc=5",
-"source": "Indian Television Dot Com",
-"published": "2026-09-28T03:17:10+00:00",
-"first_seen": "2026-09-28T03:29:20+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
