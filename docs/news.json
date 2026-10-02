@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T04:50:42+00:00",
+"updated": "2026-10-02T05:00:52+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,41 @@
 ],
 "items": [
 {
+"id": "bc8c24c58736c132",
+"title": "Anup Bagchi takes charge as HDFC Bank MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTl9UUnJ1STZYb2w4eEFQelB5ZTI3dURnQkNLNk5hMlhhQUdoMEh2LXZGMXI1anMtUnpzSUp4MUdzUVFFYzNCRmFwZGVtSkNEbGY5a29wZ3JGWDZsLXJrTTV3TGFhcFh0dnNEdEpub3QzN19mbkRTQlNtd2R1VHB5eU43MEYtaWJEZUh3?oc=5",
+"source": "Whispers in the Corridors",
+"published": "2026-10-02T04:55:28+00:00",
+"first_seen": "2026-10-02T05:00:52+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "852d1a80bda25e59",
+"title": "Bajaj Finserv To invest Up To ₹5,800 Crore In Subsidiary Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVAtSnNWS3BFZXhIdXU4eGRVQzdFRUIybWx2VXRvTUNDdTJDUlJEVkRIdUtQM0M1WWxBeVZNYTVMeDNjc05EamtpTGZGZks0Wi16aGQwTUNWb1g2U0sxV25vaHhTb0xabUREamhtam1fSzZVRU5sbjF1MEI5WHk1NlNDM0lqWllLbk9BaEtNT2VaeFhMeVdqUnNhbnNPXzBxNUJ6bUNWcjMySzc2bkHSAbMBQVVfeXFMTUFtVGEwdDhudW1sSm5TNnlfUndGNURMUWF6V3BFdGNvck5HNk82RGNTb0wxZlpOV2JWZXRBTlcyaDl6b3dVWVNvNmpJdUJBT0VUSXdYNkpMUEw5dl9BZV9ULVkxLUpoYVNIRmdpX28wV0NDb2VXSWtKNktOd0l2clJGY1ptUnRpRHdqd0FLSnF0dHA3N1VDekhJUENiSXhoS0I2Tlc2UTJPQldLSGREbTFMZ2c?oc=5",
+"source": "Free Press Journal",
+"published": "2026-10-02T04:48:47+00:00",
+"first_seen": "2026-10-02T05:00:52+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d4cad3048dc0a093",
 "title": "The Adani Ports connection behind Colombo terminal replicating Vizhinjam Port's cargo handling milestone",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNakJJb1A1Y0RNNkNBUFRKM2VGOVNPbnJKQ3laQVBYdGwxTm1kRUFGbmVhakJ6TVYzNExkOFFLRmdCMFZUNWpUcHlySlY3OWJnUFEyeF92c25PWng1ejFBVEVWb0QtNXNtWHllc3VfdkgtRlNpUjVKM3VfR2tjM2tJV1VlN3dDY2E4ODg2bTNxd3EzTFBSUUhkWVdPbDhERjJ0S1Frd01Wa05ocWVaSXJxV25FV0ZaMmwyUlZpUHM1TjJLYUFKZnUtY002T1BDbVJmbDNCZDhrTEtnRWhqRVlqSTYxUVJPSlQ5UF83WG1B0gHzAUFVX3lxTE5tYmQ3Z3VNU3h5Ti1BZy02RXoxWTBWdHZyV2pWN0pCczA0bG1la3JNYmxvdnhieDhSeW9ONnNaUmYtWmZhYjhmd2lJemFXZWwzZHBXdEtTZHJ3b2gwMWJVX0RfZjhjQzk0RThZS3pVVUN5VEdSRTBicHJYdDV6Vm1GZmtNZDhmMkJSVGstOTlIZEthTk01azB1ek1xc05hd3UyVmlVbUdSZ1Q2d1hlS2piWk5ma0h4ZFNOUWxvSnA4czBhb2NDLVBISUxyMkY3Vy1NUDExcGpqVV9WUnZSeWd3RmF1cHFYZURmdGtvcVBIaVFFSQ?oc=5",
@@ -561,6 +596,23 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "d14ca206602ee8ea",
+"title": "Adani Ports Handles Cargo Volume Of 46 MMT In September, Registering 11% YoY Growth",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHFrdU1WeFgydkxjM0xMSzhmYVR3eXZ0bFRVMnhYSmQ3Z0xnTS16eWYtcTNkVE1NYXR6cW51U3Fqdmw5N0UtLTZQTlRUSXhQZ1hBSC1WS0tYYWlzcWhmaXh4UTVwdlo3d2JaS2lVZkVaOFF2dFJEY2NMX0tfOWdIeFY2ck5ZeEsyNklHRjZtNkZUM3U3QkhfRV9IOERoLVVOdWhUeFlsaG5QN25BRUNyaE5SSExSQ2l1RnBaTi02bVB1YzNscEVNR2pDZ1hrQlphY3BRX1AxUFJpbjRiN0V6WnZBWGpMdw?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T04:28:00+00:00",
+"first_seen": "2026-10-02T05:00:52+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "ec7925c5e8ab6d5e",
@@ -841,6 +893,26 @@
 "groups": [
 "HDFC",
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b969f7695a8713ec",
+"title": "Bank holidays today: SBI, HDFC Bank, ICICI Bank, other banks closed for Gandhi Jayanti; is October 3 a bank holiday?",
+"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUzVNRE96M01yX0xRLXFldHhTMUdvWnNRRllIYmlLLXg5cWppSFdGRmR5NllsQWVDMER3RkwtczFIZWRCNWhGVEllNnlnQjZWeHZaOFRUTjNCOEVhaklNamNQVmNwcVd0aGJ3enZET1ZuV290MndWTml5VElSMElWZ3kydmhUY0xzOVVxM1o2QS1ES0txQmQtRlFZM3A2SjBqVXYycEtubWNuT20tWkhmMk1wMzZjTExyZk1jNGw2eTltMmpvaUZOSXczQ2tJV3ZmRnJneHFUZmduYjN5QnF5eFVabG9oWjVvMWR2M1NLc2pJU1lCUTljMkluQnBRTWVPN05xOHFCRzZjTjFxRVo2QjdVMA?oc=5",
+"source": "MSN",
+"published": "2026-10-02T03:03:32+00:00",
+"first_seen": "2026-10-02T05:00:52+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK",
+"SBIN"
+],
+"groups": [
+"Banks",
+"HDFC",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50744,74 +50816,6 @@
 "groups": [
 "HDFC",
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "99cee74e45e1c2d2",
-"title": "Karthik Krishnamurthy Named Global CEO Of Wipro Aerospace",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkFtY2k4a29UNkZ6UmR6RWg2ME5XZHhGNXp5c3ZXNEU2R1h5Z3hCdlBaU2xCOG9tekM4aHJfaGpFaGJkOERBdmlySGVHdzYxMnptQTFNSU5PNGNUbnhwT0tocE1QUjMyTGgxaTJDM2JCc2c5Rk5ONzhVa1UyZUcxR3BaMVR5dEZkcGduMEtFSV9PNUhBdElROVRFMUg?oc=5",
-"source": "BW People",
-"published": "2026-09-28T05:22:08+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "b147d43c27bf502f",
-"title": "BFSI Stocks Crash: Bank & financial shares fall up to 4% - What are Citi’s targets for ICICI Bank, SBI & others?",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlV0eFhSN1FueU9mRUlOOWlHNnY3a2RuTGdLcWNmRTB3eFY0a3JrTXRhWjVIck9XejhTN2dsamFBVGRCeXhmdEJrOTVEWk4wSGItTUVtaFZmVV9zcEtCc2VQLW1xV09xclRRTnRJSGh0bllCbkE3bVp1YTlHZFN6OHZsS1REcjlwRVdDdkZBTWlyY2ZCa0JKMElhVVplY3lfdEU2eXdBdG10YS1GejFTMDVLV1pkMW5WcG8tNVR6d0Fnck40aWNLRFJRdkE4Ti0zV3ZVZTFhQ1F3S2oxcU0tbU1VSQ?oc=5",
-"source": "Zee Business",
-"published": "2026-09-28T05:21:22+00:00",
-"first_seen": "2026-09-28T05:34:26+00:00",
-"symbols": [
-"ICICIBANK",
-"SBIN"
-],
-"groups": [
-"Banks",
-"SBI"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "69133604ffe76ed8",
-"title": "LIB Therapeutics and Sun Pharma announce manufacturing agreement for Lerodalcibep, a PCSK9 Inhibitor",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUNrclNESHBIanJIU1ZsMVVsbmFkbm1sOG1qaUVJT0VNMHI1bXRiSllZUXYzMDVGSXlUVERoYmRNc1BveUpYSjFEVFZ3U2wxbGtZZFZUYkJtMDAwcm0zNFRuSW5KTE1GS29KLVpNVHhNSmN0ZWxoNHZPWGtGTnpfMWpGNkl5VXdaVV84Mlo5MDFWUzZGa1NXNXRYdV94VWVQcENFa1I1WjFRYzFOQ0tjMkQ2dDBBenB1N3NSendmTWJhdFkwckRwVw?oc=5",
-"source": "Express Pharma",
-"published": "2026-09-28T05:20:54+00:00",
-"first_seen": "2026-09-28T09:57:05+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ced2b151f17b8d64",
-"title": "Power Grid Recruitment Through GATE 2027: Dates, Eligibility & Jobs",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkpMQkZaWTRGZXAtZUxqOHJ5MFVhM0dSRTBTOFR0endWSjhiaEVrUGpMc0h4R3Q0a1RuSkZ5LUNMd0JpNWRsV0FyZW1GZllkR2pCSHlhWlYtbDNNOHFpbWV1UE96V0NDYmhyLUJSdDB5Qkd2X0JqRzhReVVjVFVPZTIxNVd5QQ?oc=5",
-"source": "Careers360",
-"published": "2026-09-28T05:19:00+00:00",
-"first_seen": "2026-09-28T11:35:46+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
