@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T07:00:45+00:00",
+"updated": "2026-10-02T07:20:34+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "c6acec1d68636929",
+"title": "HDFC Bank gets new MP & CEO",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dVUyNkhQUUtYd0ZHRUJPTTNBUS03SmNWVDE1UUR2Y0E4Rm5PZFB1eTFCYmNLM2RNWGFDZmJvbHI3ZnQ5SDgwaXQwX3V3T2g5V1drYWViMEhWSUFBNWc?oc=5",
+"source": "Babushahi.com",
+"published": "2026-10-02T07:12:00+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d272af31a56148ea",
+"title": "Kotak Mahindra Bank shares: How new MD-CEO Anup Saha's appointment can impact the stock - PL Capital decodes",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbGJZZ2FvYmlMSUxYRlctRmtjUUQ2Q3lSMk9pOTRpOGhQT24xSzN0R1FyNGRjX3pJRjNoZV9JVlJPUUpzQ18yT1pwTFpkMEItX1ZZdzV3bkdHT1FkLTNybnJreEV2b3VjNFBGSVRTLThub3JkN3prdWl2aGlKYVRFVUFDQ3hsRUktbE1reUFUSGF2U1B1REtDQmVOWGhjLXUxVTV5SV9uNU5BZUpwcVhTR1VUeTctMnBUU3hfYU1nTlU4UGVoNXNadmhvZVhZd0tKNUtTdFllUGt2emVQTDlmSDU1V1gyVU1BUW02d2dlSWhzLVhwSTVZaFdLdG9pbE5IQ2lrSg?oc=5",
+"source": "Livemint",
+"published": "2026-10-02T07:09:12+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6b362d6149911e8a",
+"title": "ZF Commercial Vehicle Control Systems India receives favourable order for ₹1,79,04,715 ITC demand",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzFEZ2puaUFiQWdFUzduOTJGR0w1ZnYyX2tYS3d0VmhkakZrdnFyVThiQW1zSGVHMWpxQk5fWWxBZ0VaMEpYZFF1QVFqbjZ0Q2xHQVFZdVBzTTR5c0w3bmQteVRrazVKVkFxVUxtbE91ck5oZmgwcXA4bnlQWFAzdkpKdlRRMHZ1bDA4NHluT001QXRqN0xTWUdsOEJHRGtfMUdZZHBDeTV4OC05NWlUUXZ2ZXB4WGhPVVBCQy1RNDdEYjNhQVZ4c1pnNkFRRjZS?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-02T07:05:04+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "abc578c322405a6c",
+"title": "Shri Surya Narayan Panigrahi takes over as Executive Director (HR) NTPC Limited",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUF1VXc1QnlpalUzQXdTeHR3cUcxdGNROWdTQWZ4QVloQUF4ZmxjZFZGMkRnU3A4OGFvSVFMaV9GZ1dGQ1M4TFNwN2VjWTJvamlqX2dnVVVDT21CczZQTTI2ZEV4VFhKTTNWTnVud3labldHSC1hQmdzQ0k1VEk0TDVyQzkxNnpRSFB2X2xrVk9IVl9LdVg4VjVJdVA1cC0wZE5QcW9ReVVCdlJlb0ktV1U1T0NrQQ?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-02T07:00:00+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5658eb9eb3f2e03",
+"title": "Flipkart Big Billion Days 2026: Is Sale Date Out? Early Access, Pre-Booking, Axis & ICICI Bank Offers, Cashback, Credit-Debit Card Discounts, EMI Deals, Top Offers & More",
+"link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMzhRSE1UX2xrc1dfTGxmZW9EblNuZGowZEhQQlc4V2ZVdzJ3UHlJeUxlNUVxUlV6QXpaZWlQUWZpdjR3NnhVY0xSM0ladFlxZGl5Y0FsQ3dUeWd6VGJnUm9SUGttYkxDZG1scE1MQlJ6UjhmN1lpNHVwdjBVMmN2aHNnMi1lUlVKWDB1VXNRWk9pOFVxQmxXckdIbHZ1V1FrUk1LRUJsLXBEbWtHc2xVeHMxNWVDcm1Wd0JOS2VLSjhWQlNYZENwdXQ4T2xUbGxKX1VmNDRMMzBCaXJsQ2UybGNsdFRBc25TS0JSR2dTY1BFYU1VdzJzbmpleE5EVnU3bjNIdndiZU5wLTYyQXNUMUkyUWlvbHg5dUZzS2NMT1o3alNvaVAycWRvTjdRRWPSAbQCQVVfeXFMTXJvcTlpcVIxMDZhMFdqal9MckFBWWs2RjFZNl9Ydm9seXZReG1KYi12SGxxQXdKTEV2aTk4QmtSVXVpd0dBdkFOUGRzblhVQ2tIN2VKempiOVBSdWdIYlh1bHNaZTNBNnNKWHkxcFVZWkZGRWttVHduanJEZE5CVUNnZlgxSzlLb3hpc08teWF3QjdET05HMkVVS09rZ2xSbHFWZ1NMdENBYjBORkt6ZDBTanR2aXNOeXdmQXh0MEMwYkdtcmxMcy1vWmwtRzlKdU1PdUN3ZGcySldQZlBDR3JpdDVabTI4WDVTWV9ZcHhJSzJKVmthMjdteUptUktPQVdlZXFRT2N6WXR1eERpQ19iLXJkeWk3SlhyUnQ1WkZ3RVRjSlJIVThIRHA4bW9nYWRiejE?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-10-02T06:55:22+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "66ac83609378b12a",
 "title": "ZF Commercial Vehicle gets favourable order setting aside ₹1.79 crore ITC demand",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNKbmt0NEZ6aXNnMmNNNlNRM2czeG02aHRUSWJGMmVGMUZuamF5c1MxR0VBaDltUTJ2ZWFVX1ZRMTJQTm1nQm15Wk9rb1RqRjBGdWhKUEc2d1VEZFM5MjlNVDJ5TW5XMzVma1NPV05RUEdsNktDQkNsNzk2ZW85MmN0dkF6ODA0djV1U21nYUpwdm1yWlkzQnRYUGZ4Qm1Qa1hwM1FsbEpTNHJYUmR6UkZfc1JWNDBRWGlvMGdBaFNCTzg?oc=5",
@@ -664,6 +750,25 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8566d7ca633a8931",
+"title": "NCLT Mumbai Approves Merger Of Tata Group Firm Rujuvalika Investments Into Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHJ5TDRfeXQ1TmE4N0VTLURIbnVfV0RHeUcyMmJ0aHh3UjlRNW50ZlB3cGRnRHJjMkR3bUN5dndmVTI0REs1a3doN3IwM3BUUWEyZ1JmUnhlX085SVJ0SEtybU9sZnJXNDQxMmlKOVFKeFVEQy0xX2Jkck1wTF95T0Z4eWxicDRibkVtUUlrR2kyZ3ZESEdwTWVDSFdjT3RBaE1DMEZsMU11UkpWbFFMYy0yaXpCd1hHcHdQV2lJLV9aTmZCVjlKQlUzSVB1eDlTT3fSAdcBQVVfeXFMUDlvNDBLdDJScEpyZHQyX3Vjb2xNQzRkSnZibjdWSXlhMG5PSXRfWjJqZ21kOTVDQURLR1RMUS1UcVlPMi1aMmRpdWlqQ0xkQW5ZdmUwZDdfQjMzejRTeWJNOGtBMDFXTWtWUmpmMVoyNk9pWHBFZkM4YmJyZ3pXRzF4OHQyYkRqbWtLTlZDNGgyYUM3dm94M0ZBSkdQaDVWeUJqVlhVR2FoUmlXd0NZdUhCTHBqQ000RW4za1VqQ3RxSklEbERiaThuS1VRZGU3cWhCYUJoR2s?oc=5",
+"source": "LiveLawBiz",
+"published": "2026-10-02T06:20:13+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Order/Deal",
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -1289,6 +1394,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "b8202725718d8be0",
+"title": "TCS to Take Over Best Buy's India GCC",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzFKS0FvaWpvS1JfUWdmTERFbENvWUlTV1ZyeWJUTmRkeExYOEFrRVFTOGRuZ0oyeUpvS1pCU0RHVU9Yd3dwM0RNa1pYbDRSak04bVZqZjRaTHpaMm1FYURMZWt4c1Y0RDZZdS15b29iZ2ROS24wNlJVTEdSNkNtcEtMRE1KZm0tMGprMzdXMVVLQURfcmIyRTZ3?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T04:16:00+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -6606,6 +6727,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "e58650aa3d86e31e",
+"title": "Second Hand 2018 Maruti Suzuki Dzire VXi for sale at Rs. 4,68,260 in Ahmedabad.",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE54dVJKZ1BEektfYmtYbWNxLUxwbTY3aXYzRUNncDNKT0trMmE5aTFrYzU4T1ZIaDhtRGprMl85bDBPdzNlc1MxZmR3Wm9CNHhfWDFxVmdqQjdlM1N4MzJPc051cUdVemxrbG1PT0JFNzRadEVKWTc2cFQ2UVhPNzhaaXVMeVZj?oc=5",
+"source": "CarTrade",
+"published": "2026-10-01T12:53:51+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "50e8367c2258f992",
 "title": "HDFC Bank appoints Anup Bagchi as its new MD and CEO",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmE2M0lvNE9HUVVPcFdFdExKZzVhVkI4REl2a0tvbEw3ZnBZX1k3SGh5Tnc3ZU1oaktfQWVYZUpaZTkzNXhuVWlZNkltbmxfSDExTjRBTmFWVDM4Y0lqZXkzVXZ3amhLZXdjWGlwQURfSFJGSUF6UnVvY25iMHF3NGYwUGRBT0M2S3BPbk5INUV3ZnQ1QXBNc19aMm5hNkxkLTZSZTZpYVE3UlJwRHd1RzRxWWpLQdIBuwFBVV95cUxNc25IWTN0a25XdzdTcjd0ejR1Z3pnd0NkaWlaVVhFeExEN3gyYklhdTBPWWhVUGxiekRuX2pyYVF3amV1Mm5QVUNiYUgtMWVuVVNjMFEtb2ZldGRveEZwdzNaWnNvUC1uTW9OX0IxUzFLekhwbnd3YXNRYmVDUDhCRFhtTU1OMXI3OUJFa09kR3duVjhhZDNWNUZkR0pwcVlsUjU3NnJ2MFY1dmxWcEdDNUhJSjRSUGp4Q0xr?oc=5",
@@ -10191,6 +10328,22 @@
 ],
 "groups": [
 "Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "71d6934739d125dc",
+"title": "ITC Ltd. Hits Intraday Low Amid Price Pressure on 1 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHU3ajYzV1ZxSDFxdlluZmxINkVPZklmTnVua3FFWGh6UlhLTDhOeUhlMnVJeEczTGlIdHVMSWo1ZTZoN3JDUEo3TWdZTGxaMWQ5MTY5X1llYjhoZ0lBNGlndXh6REJCSWI1cTNTZTZJV09CS2FQWGlTcXpBZDJmeVNwU2xvNWRYd0pINHZvWGxsenNvbXg4WTFsSW54LXN3OGkxTWtUSDF4YXVpS2lFMFVwUWFnQ0li?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-01T09:27:58+00:00",
+"first_seen": "2026-10-02T07:20:34+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50694,156 +50847,6 @@
 ],
 "groups": [
 "Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f022a6f8efc8f4b6",
-"title": "stockinsights it index reliance hdfc icici bank strategy",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1Bzdkx5b3dNamhJRHN6T1FQSlozWndHdFZ6TE5sRmx6YzFTWEhrc1NPWHN6Rlk0RWMyYm0tdnQxVEd4QjgwM3NLRmJfbFdoeDRaaEk2Wm9WeE1IRjhVUlBqTTZPQnU5VXZEU3ZkTXo5TkthdGdkNjlvWThrWFI0RV9heUN6YkUxbi1YZnZ4RUpxdkdiQkxDUUdaaVgwazNrT1RWaWJFX2xOT2k1UnpKZmxn?oc=5",
-"source": "zeebiz.com",
-"published": "2026-09-28T07:09:01+00:00",
-"first_seen": "2026-09-28T07:20:22+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4e7a649c703deb37",
-"title": "HDFC Bank shares: Valuation gap with ICICI Bank widens; 3 triggers for rerating, target - BusinessToday",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjJCSHZtc2JkR01Rd0lwTmh4blQ1WVZTbEtRQk1TV3NlMVNKeWRoWTRjcXVWRVpYOHdfTHJnTjhEeDZqcVF0RGhDalh6N0xEam1pRjJmaHFFZDRLeU9VNHYyQ1VTX203UUVPTkNSa1Q1S2Z2dTEzRmpNeEZGeng3TFdieUVjUFhtR0xBT0d3ekdKZ0RDdy1JNDZhcWQ2MENBSXF3THVOc21NRHBJbXFMeUxiaGI3ZTJQeHE4OVlLYmxObk0yMjRMcUp3M2ZUbW8?oc=5",
-"source": "indiaipo.in",
-"published": "2026-09-28T07:07:42+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"HDFCBANK",
-"ICICIBANK"
-],
-"groups": [
-"Banks",
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "164ea534b5a5a7f4",
-"title": "JSW Steel to Pearl Global: MOFSL's 6 ideas from large, mid & smallcap space",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxZNV9GUVpKMXFfX24xUHpBOWtySnNxQzVKWmk3c1BIV0Y2SktNWnNYby1JXzFfcThIa0dLWE00U0drZGVCekdraFB2eTgxS0xneVV5blRDNTBaaGNnbWlqdGFWSVRKd3d4SlQ5Zzl4UFV5QjVFd0E1TWhyWXVzaWxncVF4bk45ZS1od3BQRXllT1dNQVVxQmUyMnk0VC1wb0p4a1R0U2JQNVlHbm1nTHRUNGdKMHhVWVoyRTM0NTZMNDdpemx6X2ZXMU9tRXc1TVFNV0xxSXRoQml1SUxXenR2SVFBNE3SAewBQVVfeXFMTVUwcm5RWjRfNTFtOUJCSUhfTm1aSW1HTTBrdVNKakpsd3dlR0RIOUdXcE5rbFVOMlh2MUVSSU01MTJpdVJMUzZXaU52Y2xEQzRiQUlHdUhKWFRzc3ZmNFFINVdTemVCWHFFU2lzRTh4UXdaektLaEFlTG96WE9ISkc2b1JHR19Lcl9LWk9xdkNkUkN6M1pGZ29UMG5rQUhsZDBkQkx3akJ0ZHNBS1dKSl9iYnJwSXR5X1dscXZrNENMb3pZNExvUzJDQURpbVlEX2JIQkp6VjluQVlPNEY5aWZmQUJlX0hlRFMweGE?oc=5",
-"source": "Business Standard",
-"published": "2026-09-28T07:06:32+00:00",
-"first_seen": "2026-09-28T07:20:22+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b42f3e4ba4d99bc2",
-"title": "HDFC Bank CEO change nears: Why Jefferies sees 20% upside despite deposit growth lagging peers",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUFfR2t3Y1JicjRrakNROHNoQ1c2bDgxUklmYUhuQUVJb1FWdFUyVW42YkpPV1U4TWhhZDhFME1EVzZuaF9sX1dXRUxqT0NoV2xDbUgxZ2ctNnVrR193d2VaOEhhWjBnc1o4b2tJdjJZZTNpelBzMW9uNWNSckM5MGFyQlhGeDNScDhiVG9kSHozNkdkYU9jY3E0U2RmcUNQRkdtYjJ3YVJYNkQyVTRPV2tsR2RqZTBMZkNEblFuV0R2bmptUWpTZmJsc2ZkbzhoZ2l0SlMyMTbSAd8BQVVfeXFMTzBVb0JOdm92Mm1vN2pLVUw2OEIyZTlRUVpOVlNXNXBvVDRCMEZvaUdIc2p4MlVBYnl6NUZqX2ZQU3IyMUQ4Y0lsTlFVQ0RfT3JGNmZJRG01bmpVaVZ5LS1RQzFpZnFjdTlJaHNtLWpBU3NCbU10SnlnR091Zk1xNHo4M2RzWmw3b29mbDRTV2w0VnkwR2VJdUkzcTFQNmw0TU9xZzg2U0pIS2VfOWt1eWRSUVJ6MWFKVlVHa2FZVTQtYV9US2tkdXdaTTBCblo1NUxlanhfWDZ2VlJ0dTI4OA?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-28T07:06:16+00:00",
-"first_seen": "2026-09-28T08:23:49+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5b7f081a41ae1f79",
-"title": "HDFC Bank CEO change nears: Why Jefferies sees 20% upside despite deposit growth lagging",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUFfR2t3Y1JicjRrakNROHNoQ1c2bDgxUklmYUhuQUVJb1FWdFUyVW42YkpPV1U4TWhhZDhFME1EVzZuaF9sX1dXRUxqT0NoV2xDbUgxZ2ctNnVrR193d2VaOEhhWjBnc1o4b2tJdjJZZTNpelBzMW9uNWNSckM5MGFyQlhGeDNScDhiVG9kSHozNkdkYU9jY3E0U2RmcUNQRkdtYjJ3YVJYNkQyVTRPV2tsR2RqZTBMZkNEblFuV0R2bmptUWpTZmJsc2ZkbzhoZ2l0SlMyMTbSAd8BQVVfeXFMTzBVb0JOdm92Mm1vN2pLVUw2OEIyZTlRUVpOVlNXNXBvVDRCMEZvaUdIc2p4MlVBYnl6NUZqX2ZQU3IyMUQ4Y0lsTlFVQ0RfT3JGNmZJRG01bmpVaVZ5LS1RQzFpZnFjdTlJaHNtLWpBU3NCbU10SnlnR091Zk1xNHo4M2RzWmw3b29mbDRTV2w0VnkwR2VJdUkzcTFQNmw0TU9xZzg2U0pIS2VfOWt1eWRSUVJ6MWFKVlVHa2FZVTQtYV9US2tkdXdaTTBCblo1NUxlanhfWDZ2VlJ0dTI4OA?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-28T07:06:16+00:00",
-"first_seen": "2026-09-28T23:17:39+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "82abc01aaea82a6d",
-"title": "Sun Pharma steps into PCSK9 arena with LIB Therapeutics’ monthly-shot",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaEdHQTRzZGs5NzNjR3ljMm81WU1SSjhzSFMxX0xIem9yTjdHZjZTdFo0SUNmYWJselBHTWNwUWZSQmRWal9udF9pQi16cVVxRkpoMmxOT1hXLVdNNTZBRFhWZXk5RGNHbGpqU3BfenEzVEN3OXprc095S1BkYmJBRGctbUlxbHdTNXo1ejl1QU1FRUdWS2plZndlLW96RmJ6d3RnQy1HR2xaZ1NxRUdvNTVPcjFRek1BQnJtVENVNGg4VWdCbUZ4YnZLRXE0SHJFN3NCVk42azBVZy02aGw3OWxJSFpLZ9IB5gFBVV95cUxNaEdHQTRzZGs5NzNjR3ljMm81WU1SSjhzSFMxX0xIem9yTjdHZjZTdFo0SUNmYWJselBHTWNwUWZSQmRWal9udF9pQi16cVVxRkpoMmxOT1hXLVdNNTZBRFhWZXk5RGNHbGpqU3BfenEzVEN3OXprc095S1BkYmJBRGctbUlxbHdTNXo1ejl1QU1FRUdWS2plZndlLW96RmJ6d3RnQy1HR2xaZ1NxRUdvNTVPcjFRek1BQnJtVENVNGg4VWdCbUZ4YnZLRXE0SHJFN3NCVk42azBVZy02aGw3OWxJSFpLZw?oc=5",
-"source": "ETPharma.com",
-"published": "2026-09-28T07:06:02+00:00",
-"first_seen": "2026-09-28T13:52:52+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b2cfecc5c1fa793e",
-"title": "Renewables news: Finnfund, Proparco, ACEN, NTPC, ERCO",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3VnN0Z3MDRkcnpkbzdJSzl3aHVhVEdpRDRZeW1QVk11a2ZYemFNbnh3VlVJUHpmRXhRa1RQX0JFZjJOZExpaGpWNm1kYmRBTF9wOGNEUUVveFVUbEMwbXYzMm1yOUtVUHU0OU9QazhoWnJVemNZd2lUT3ZkbEtOZ1VnOHRBWEFjSjlaemphVVJ3RWlqY1Fv?oc=5",
-"source": "GreentechLead",
-"published": "2026-09-28T07:03:33+00:00",
-"first_seen": "2026-09-28T14:50:30+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ceacbf715313a3f1",
-"title": "WACKER and HCLTech Collaborate to Establish Global Capability Center in India",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0hWVzJscUxlQ0p4TS1mN3dJcHIwLVJnZWsyZ3lhY1RVbmV4REhHTGdCY013bFQ1Nkcza3R6c01zbHFXcVN0WWZrbktwcFBFSzdFSWdNZ0NGQi1GbUNTd21IYm50bEVySllrM21OS1UtM2o0cTd4SUVNVzRxR2lWWGFMb1Ewb2N4WHFaeG85N01iTC1KSnpaeG9ndjNwQmZhYkdwUlRB?oc=5",
-"source": "Chemical Industry Digest",
-"published": "2026-09-28T07:01:20+00:00",
-"first_seen": "2026-09-28T13:20:48+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aea11fd322f4b739",
-"title": "Renewables news: NLC India, NTPC Green Energy, CESC, Purvah Green Power",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjRMVEFKZk9EcG9DMmY5TWk0ZmVla0pndmc1OTlKc0EtbllyQ2hjNFh1b1FFQTNqMXJWZzZ6ckFHVnd5SHl0Q3FrT2J1R3A0S2dxWi1zVlVnZFl2SGJIZ0Y5OG1mUkFjNHZ1eXZxSkMwVnNYbHIxanF2Wk4wUm90ZFN2VndaeFJfckZoRkdpbTJHdlpid1V6aDVfVERhLWd6NTZiTG9iWDhuY2plRlZjcw?oc=5",
-"source": "GreentechLead",
-"published": "2026-09-28T07:00:11+00:00",
-"first_seen": "2026-09-28T15:02:37+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
