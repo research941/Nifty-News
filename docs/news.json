@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T20:48:14+00:00",
+"updated": "2026-10-02T20:59:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -4281,6 +4281,22 @@
 ],
 "groups": [
 "Finance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "aeb2d0349155542f",
+"title": "7 money changes from October: FDs, UPI, SBI ATMs",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDVKekc5RGFwdk8tbWc4NTNJdE5Xd0tUeU51V1ZzTFJ3N2w2aUVkYVpTa0RLWUxSalJ4TmRHbm1zYk9jSUNPQU1qMmVtZS1FWm1tMGV2bzM3RWRXYWdOU3dNWHpqUHYwLUhiMk1DNHJnSU01V1JzRFFuT1ZDUnNld0lKMDdfMlhfTllZdGtuYzlqc2c?oc=5",
+"source": "newskarnataka.com",
+"published": "2026-10-02T08:01:04+00:00",
+"first_seen": "2026-10-02T20:59:27+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50902,22 +50918,6 @@
 "Corporate action"
 ],
 "sentiment": "negative"
-},
-{
-"id": "0c982ee8b28bc185",
-"title": "Tata Steel shares lag peers over three months; is European business weakness priced in? - BusinessToday",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEhub1l0MWpuWTk5UWRLajcyZnBBdl9iSDE3YlJKaFN6VVVTU2NTb3FINFBsb0FDZC1FcnFvRU9SZ1dkeFIxbWV4alQzV3Q1dHlZa0xtLU9ZbEREUG5qMVVNMUxUVTNjaDZGSzduWllvNG81MjkyemsyM05IcFk3NmdsZEJOcFRYdmR0ajhGeHVQTV9FWlJPYTFBNlZTMnd6eFdrSUJ6T3FoMUZnMldhTlNkSkNwSHhXWmJjSjBVRTlSQmo2enlSUmtLUURQRFBM?oc=5",
-"source": "IndiaIPO",
-"published": "2026-09-28T19:10:36+00:00",
-"first_seen": "2026-09-28T21:32:00+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
