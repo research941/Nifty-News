@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T08:38:56+00:00",
+"updated": "2026-10-02T08:52:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,44 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "aac94dfb41c66fe1",
+"title": "Adani Ports Cargo Hits 46 MMT in Sept, Jumps 11% YoY",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmQwYktmSXNHaW5lY3drV2hHRmFDMEFSNlJzbUtvSGpFeFhUWUxXaHI3bDA1YWo1amFPQ2duT1p1X21FVUp2N19LWDYzR3hGODZpUUM2QXBLN3k1a1oyQWZXbE5QOXVWaEFhMHdrN0ZIN2JON0R3YWVIWmJkNHhLODFNTkFJd0YxQ3FkdnVwXzdyNDV5aWc?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-02T08:43:00+00:00",
+"first_seen": "2026-10-02T08:52:59+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "2b700dd70db352b9",
+"title": "IT stocks to buy, sell or hold before Q2 results: 9 picks from top brokerages — TCS, Infosys, Wipro & more",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnRPQ29la2xzcFZjT2c3YVVOY3JsVmIza3U1WlUwNkJVdm5YVEx1MEt1WlZtUnpnUFBXMnFrUWFGNW9WVE9oQll0Mkx3M25Cb0FZRDNzUFRkVG56RERPSE5uVEVwZEpGT3l0dTI5NnNqZ3VxWjBCUzlFSlNyZzNTSm5XbjkwQlcxLUZWU1RneU9feW5iMWx3MTlzTlVxNkYxU3FLbVN1RmJTUjBvVFVZQ1ppWkV6LUJwYXBzdW5FM1pyMHc2RzZGOEJydWtheGppZ2RfLXBRNy1WNzNKaWdTS3F1YmxhcjV4?oc=5",
+"source": "Zee Business",
+"published": "2026-10-02T08:36:36+00:00",
+"first_seen": "2026-10-02T08:52:59+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
 {
 "id": "ab1f1f23f7036736",
 "title": "Hindalco Calls Off $125M AluChem Acquisition Due to Delays",
@@ -1738,6 +1776,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3340c57e9326f822",
+"title": "Anup Bagchi Is the New MD&CEO of HDFC Bank, To Take Charge from 27th October",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1hoeVV0MHd6QVVFWDhRZW0wNi1pTm9oUmtNem1FVVZDNWdQb2lNSF9wRUR5aVN4T3YxTGU5MkZmbFZoTm40XzBXWHNvWmp1WG1FQW12VU9oYTVJYkNYelhCbGNTR19tbEcxdnZmQzZDSlQ4M2d3ajB6MmViTUFGUzRKVU52Z3NoeENYNkhSUFhqcWxCdkRQZ3NKLVN2WXBpbnBELUM1ZHJVTXlpSkFSa2NrQTE4MncydXc?oc=5",
+"source": "moneylife.in",
+"published": "2026-10-02T04:45:22+00:00",
+"first_seen": "2026-10-02T08:52:59+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -9256,6 +9312,26 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "dc5cfcba23a66d2f",
+"title": "Auto Sales September 2026: How Maruti Suzuki, Tata Motors, Bajaj Auto, TVS, other makers fared",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUkwWVVlR2dVT0VvajJxMXVlcFBvbDJWLVJJa0QtZl9GWDA3ZFZiR1A5NlJOUHEtdTFfZDMzQl9FaUNEY2hiSHhPb3Q2WFNuemJieUtXQW1uRTRRVjRaX1QtSjMwSkUwVHBTZDFuTW9JNXJqcExlZlFlMUROdnpzQlR3ckRXVmhVb1FkVnBHbFp5OXMtR2QzOGdwS2lCUk9TYVRkeUNXSFpFRTh1dnVOWA?oc=5",
+"source": "Zee Business",
+"published": "2026-10-01T10:39:01+00:00",
+"first_seen": "2026-10-02T08:52:59+00:00",
+"symbols": [
+"BAJAJ-AUTO",
+"MARUTI",
+"TMPV"
+],
+"groups": [
+"Auto",
+"Bajaj",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "3194f25783670f0b",
@@ -50798,72 +50874,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "42368187f07b5922",
-"title": "NTPC Commissions 81.34 MW Kalasar Solar Project in Rajasthan, Group Capacity Reaches 91,302 MW",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHdwUm5LSkRhNTVXbDQ4aHRIX1g5OXphQ3AzWURXM0dRSjhwbEY5WXdqV3NMRjFuSDBHTkFwc0NES2N6V21RQ3gyT3g4THNNMDJ0ZGdIV1gzbjlnODdzNExleXNnTlVhbF9yckt6dDhvREtxYUk0TnlNMzVxNllRSC1lR3RWc2VBT2pRdVJXMWx2emNLbmRnMFluT01VRFBnZ3ZwcGh6VkpZUQ?oc=5",
-"source": "Indianmasterminds",
-"published": "2026-09-28T08:43:14+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1dada7f9311d9c9b",
-"title": "Tata Steel Colors recognised at the 20th CII Eastern Region SHE Excellence Awards",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3cxQVpCbG1aYnU0aDNnbVNYdVlnRDNheE9NM1FsZ2dwM0Z5WWFQd3p6TEJ4Z1ZuU1I1d3hvazlyTmU5bWpING1YTjU2MU5fMF9ONTFmWE9tUFl5bkdNQkFKeHpyYUF1cklQVDJsZksyS2M5Y2h0SE1JNHFTREFXWkpBd2x2XzRIQmVMeElJZ2FIX3NxYlZnclpmNGs4Z0piZEJHNXEtVGlDbHhVV1hfeVNBTDdLOU5tNnJSdGIyMFhTUQ?oc=5",
-"source": "businessnewsthisweek.com",
-"published": "2026-09-28T08:37:39+00:00",
-"first_seen": "2026-09-28T08:39:43+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b700d599af179822",
-"title": "Steel Prices At Import Parity: What Tata Steel, JSW Steel, SAIL Investors Should Watch",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGc3S1lYdnJKZjV4b184cUQ2Q1hWWlZIMDJCZkYyWDVkVWppNjFWakVRamRFcmk2eTBIeFFIMXZTLUR5OHlKaVBSV2lOcXhpSV9qSVJhX2k5TUcwenRreDJxcWpaSFF0WVg4bFdkRU44SmhiNnlYMjV2cDR3QTdVSjRUM09Ja0JYeFJJS0ZVWFVBRmh5SVpHU1ZCaHgtSWU3THRvZ3FEMzJzd0tGZmV0RXVJblR0VUNoNU5UZ0tFOVE1RjhaMWfSAc4BQVVfeXFMT1cwZEc2SzJOeHhsU0V4d00xRXFXQjdPcDdyTlhHMDBzUnlWc2ZDUUJPeHBqNUtmWDQ0YkJVbE82am9VcVcwSFp2eFVzN014cENVN2pzQVdaRkVZNTVUQ1ZTWm5aanFWMldQZDcxQ2sycThFV3RZRW04dDU0SnRUdXQ5TmY4R0NSS2dRUnVmY25vXzVvWEtRXzcwTW9pRWxWdHA2eXdpNEFydVB2czczQ3c1ZTRjYkpVbDBXWDBNV3pvZjRxbTZMNEhjNFZCMlE?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-28T08:36:12+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"JSWSTEEL",
-"TATASTEEL"
-],
-"groups": [
-"Metals",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "24337b7178ebf5df",
-"title": "ONGC CBM Asset Conducts Cleanliness Drive at Tenughat Tourist Spot",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFYwa2toajk1LW1YR3BLUXZwUU5TV1ZFWnNnTFB6dGc4eTZER1VXb2pkQncyYjlhVVlZNkZ3QWZ6YUgyV3FBUHpRdjdqbUpzYmpWWkpqT0NUX1RUam90UDgxQTlhOVVaZjNERG4wMndxUjZTYkF1R2dhSWV1YU1wQ1BMYm5BdEJOY1BtNGFLWGVUSkI3aXBUZjM2M2lLaGdsUnhWOFZhdTQ0ZjF5ZG9uRC13NHJkMHEzVHVJVVhwWXRHZw?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-28T08:35:00+00:00",
-"first_seen": "2026-09-28T08:53:55+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
