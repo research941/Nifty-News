@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T23:29:19+00:00",
+"updated": "2026-10-02T23:44:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,26 @@
 ],
 "items": [
 {
+"id": "dc21b0571068827a",
+"title": "Anup Bagchi appointed HDFC Bank's new MD and CEO; Gautam Adani is India's richest on Forbes list",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDE2NXlVTkVrT3M3QjN4NE1rcEVsOFRaaTY4c29fTFU1RElZZ25Yc0hCQ2xTaHFkcGFpcDJCTWdVNTdvZFctaDl4VjVlTS15Z1hKNUNzdVAzWktENEtBR1h6RU8yMHA3djh5Z3BKUkMzNl8wNnBDVmVTb29yLTh4SEtTbDhzVncwM05ydVFqVmY5cE9tNDluMGxTakFqSnFiTHBoNU0wT2xMa2lBczhmX2hPUklHbEhVeVRQc0gybXlKNG9nLUg0LXNtZVlVUQ?oc=5",
+"source": "Bhaskar English",
+"published": "2026-10-02T23:30:00+00:00",
+"first_seen": "2026-10-02T23:44:14+00:00",
+"symbols": [
+"ADANIENT",
+"HDFCBANK"
+],
+"groups": [
+"Adani",
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "90039d1a5ef545b7",
 "title": "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS0tWHUtWE1NSlhwNzA4WWl2R1dsMEZpV1dqakl0eXZMRkRBazh0NktiMXFhQlY3aURjdjBsNldtaHNFcDRLWkpKOE52QjJrakJNbGZyLWtmLW5rbUl3WTdLSWpQZm1oRko2SzFJdTRreDhEVHhhVGpzd1FNby1LSjVTU21lblVVSGVqX2ZUcjBWR1g0YkZpOWtR0gFWQVVfeXFMTVd4Qk1EY3R2MU81U08tc0RtaktOS1hMTE9zWC1FODN6MXZHd2dVLURKXzJ6cTBoMkN0TzdCTFQzbnR4UDhLS28yd1kxU0R0VmtvQVR3c2c?oc=5",
@@ -526,6 +546,24 @@
 "Infra"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3e834841a030778b",
+"title": "What are the challenges before new HDFC Bank CEO Anup Bagchi?",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc01Lay1KdUlLc2NCNE9oc1F1ZGttUU9aem1zMUlDMHBGVFFjMGNKeGVPRXBzdTloajJ0Zm9veHMtQkxWdUJsNnR0ZHR0SnBDMjFIVm1TcWtWU0wydWRRSHduZ0NabGtVN0tiQ2pJNDdFSU05RWRFTXAzdEl6QUYwbDk2d3FqTlFBU2pYbExZLVB3VUdJa19DV29OcVFzTWpyWUZWeElheW1IaHNVN3NRUUhMVEhEUFdyUmhZMmxJOW5ONk3SAcMBQVVfeXFMTnNNS2stSnVJS3NjQjRPaHNRdWRrbVFPWnptczFJQzBwRlRRYzBjSnhlT0Vwc3U5aGoydGZvb3hzLUJMVnVCbDZ0dGR0dEpwQzIxSFZtU3FrVlNMMnVkUUh3bmdDWmxrVTdLYkNqSTQ3RUlNOUVkRU1wM3RJekFGMGw5Nndxak5RQVNqWGxMWS1Qd1VHSWtfQ1dvTnFRc01qcllGVnhJYXltSGhzVTdzUVFITFRIRFBXclJoWTJsSTluTjZN?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-10-02T21:13:10+00:00",
+"first_seen": "2026-10-02T23:44:14+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -50883,38 +50921,6 @@
 "Order/Deal",
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "1b071e93c508f6aa",
-"title": "Tata Motors invests ₹150 crores in Lyft - The Indian Wire",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODNjQWpTQkQ0R1FxYXlkR1VhdC1pZUxlZV9MZnFMSHJ0Rm0zbHFYbFdqalhKMFkxRTBIQkZfaW9YMUhsWjVwcG5lZno3eENSRXk0UDVmRGdqQmI0dkFfUTZsdGFvVzRUMDZrVDY3djMzOGtFeGZsUEdTRDZucFpPaHRtMlpqS0dLV3NObFE3bktmcHBpQmNodEllNlhTcWRF0gGUAUFVX3lxTE9May1QamU1Vl9mSmtBMWJQLUV4LUM4MTNQRE4xZVVEOXdiWHhJb29Fa01GN1psc3RJTHZvSWY1aVBTRm9fd19lRlJzQURnT1Jlb0VzRms2Q09oYk5Cbkt0aXZmWVBUZ3dwUFdGZ1kyaGM2WVRpdWhWaWpETE9RYXdDZklVN2tRdGZKMlk1SnphNGRyQjM?oc=5",
-"source": "The Indian Wire",
-"published": "2026-09-28T20:57:22+00:00",
-"first_seen": "2026-09-29T20:20:29+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d18517457798afee",
-"title": "Reliance Industries stock at INR 1,197.60 on September 28, 2026",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTRSUzM5dWNRR281MWRSQ21SZHc1LVRtNlBjTkd6N2lBVWp6ZTlnTlZ4YWYzYVh2V1o5ejRFOThvWUJ3M0VIMXhPT2hmMC1jd1JBZ3RjeTUwN3RQeGRKLWFjMjNPUkt1LTRfUTNYX2swNWZqdzBYZWRyemo4UlR4RUdHQ0RlNU9EOGE1NkFmNUlzS0tFZnpJY1dMelcyU19lYWdiemhKaW1wV29VcDNhZEVMdGNQMHZXdDdtenVn?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-28T20:52:37+00:00",
-"first_seen": "2026-09-28T21:19:00+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
