@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T10:53:51+00:00",
+"updated": "2026-10-02T11:04:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "71c0aa50052eff39",
+"title": "NTPC Nava Raipur organizes Swachh Bharat Diwas-2026",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMEo2LTVOZW1OSlMydFpvTUlmQnA4MHFiNEhDQlYzd21MM1lRNEpMcGZuTTI0SUs0a19hbHlKUFVSZUZVVHdLVC0wdEFIaVVoS09vbHZHS2N2VThGb013NGtrVHI5bkk2eV8wZnZHangwVEtOUURoaGJqaGU0TmZ4T3BMNA?oc=5",
+"source": "News Riveting",
+"published": "2026-10-02T10:51:13+00:00",
+"first_seen": "2026-10-02T11:04:50+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3af698dc1cdce6d3",
 "title": "Reliance Industries officials to discuss investment opportunities with West Bengal government",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkFYTFBlWFNlc0NNY1oxUTBYSG5WSWZ5R2hlN0VLMTZMRjZjYk5EQmpGQ3lKMTQ4VVNCYm9jVTBWREM5NzF3VDJRNlVmMThJMFcwWktCZkRSRC1ZRk9ZWjRLRHFHZk5uZ2pSUWtObU10bDhRaW1QNTdRaXcxTGVEQ05WY0Z0eGRDaGZ2dDNJZ09JTmE0NFhRQ3ZRUlllQ1g3SmdLX3VWYjAxcWJRanRHZmI3MThoVFVMWTVIMG53YUd2NHFMMUtzOXEwa1FpWm95aWVTN1ZPQ0lObWlZanc?oc=5",
@@ -542,6 +558,22 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "630de4beaba47a0e",
+"title": "Maruti WagonR, Celerio Set To Become Safer Than Tata?",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalI1OWJzN29YcFBXcTdDZDExWDltQ0VpUTc0VTUzWlphTFp5MlpiRldkdThfcUlFUzR6NTZ0OXg2cEdpMkJVM0tQdElMM1lLV2FKMkFJRUQ0akZkZlo1VUVGLWlvQ1VfSWlHazJERGNjR1BFQVBkZmJ2WW5BdEhQdnVMZk81ajlTeHJ5NTR3X3PSAZYBQVVfeXFMTjRMU3g4YzRQSVozYmUwSGJaSW5NTVoxcG81NWFjMERNVXdIOVg3MzFfdUpKNEQxN0kwMDlveXB6STNrS19lMThoNVlyeVppT0JKaE9VdERlSkVRN3VwUkdXaEdHT0ltenRqRUNuUG5jR01FcWsxRS1fVkREakdGSDVNZkc1SWE4LVEyQUhSdmVGV1hLcVR3?oc=5",
+"source": "MotorOctane",
+"published": "2026-10-02T10:30:00+00:00",
+"first_seen": "2026-10-02T11:04:50+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6818,6 +6850,24 @@
 "source": "Mathrubhumi English",
 "published": "2026-10-01T14:18:44+00:00",
 "first_seen": "2026-10-01T14:49:37+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bee7f46739d81562",
+"title": "HDFC Bank appoints Anup Bagchi as new MD & CEO, to take charge on October 27",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMEZLVTBjQ2g4QnRTdGVKRXlhM2pmWjRwUU5ZSHlvcC1xSU1iMG1GT3hGOEpLalBidnl3N1BPaHJGWEhfQkdHdW5jR0dDME5OeGVZbU0ycGF6QWZkZXMwT1lEMFh5VDFVYmNWRmZSZUNuMG1YUmZ0WkJXckxNQ083Ym5OTmtYYUs0MHhhZzVGTlpyT2JZMkNRdDExUEdabE0ycDVoYV9hcVpJNzltOC1SalNLcWg0RTJvSTUwTUxZdnZqWDZ2LXY3cVpIeG1qdTBMWTAtVEVNTjBPaVdzWmJJ0gHfAUFVX3lxTFAwRktVMGNDaDhCdFN0ZUpFeWEzamZaNHBRTllIeW9wLXFJTWIwbUZPeEY4SktqUGJ2eXc3UE9ockZYSF9CR0d1bmNHR0MwTk54ZVltTTJwYXpBZmRlczBPWUQwWHlUMVViY1ZGZlJlQ24wbVhSZnRaQldyTE1DTzdibk5Oa1hhSzQweGFnNUZOWnJPYlkyQ1F0MTFQR1psTTJwNWhhX2FxWkk3OW04LVJqU0txaDRFMm9JNTBNTFl2dmpYNnYtdjdxWkh4bWp1MExZMC1URU1OME9pV3NaYkk?oc=5",
+"source": "Sambad English",
+"published": "2026-10-01T14:15:40+00:00",
+"first_seen": "2026-10-02T11:04:50+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -50854,54 +50904,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "80b2bf9b376e4cff",
-"title": "Mahindra & Mahindra slides Monday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejA2Z253V0RXMGVmTnZ5TGlGWjdtZm81OHQycmJlOFhWejVlMDdpbFdJRDk2MnJieGlwbkNnN2NfY0NqZi1Bd1p5WkNCbHhOa0hJclFSLU56b0RrNUo3YVllQkRYUnNmeVN2eEF5ZUZpU2pjUEhzQlBkcEo3RmpuX0cyZVdjZFJLTENuNXg1RmpvRzZtRFRaRnNhbEstYTFIMjhBc2NKZ2RncnFneWFmYWhB?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "098036c5587b247c",
-"title": "Asian Paints (India) slips Monday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjFWaktHVEU5enZNX1A3eU40QnVldHByVGhRb0lYWmkwSG5oaVRlSm9MQm45M0hmNGplcXZRTkJfdl96OTFxLWZBMXljZUlaVFU5RHYtazFUdmtLTGlUMlJqWnBodEN2YWFVal9HdHk5ZnZTeUIweDFZRU5wcEhxNFdmZG50UWxoTk80RWJ5amxETWtSNE1xa3VLcWY5RElSaUFnUUI5SzBnUmNKQWxITQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-28T10:32:00+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "0362149007c7d589",
-"title": "Tata Aeris या Maruti Swift Dzire: कौन सी कार है असली 'से-डॉन'? | The Lallantop",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXRKWVg0NEhGbHBtb1pKTHFibDhKcXpWc2RLUFpINnZfa2FXT3dfaUpNRTRleDdOZUpDd1V2ZHI4MkdmQ2h3WUxwMzdESW42cGs2TEJkRl96U0VGWFdFbl93cFRxa29lZVdNS1V1UFk4TS1ONGRzUkZPVXpJd1ZGQWZ3cEZBcy15T3VvU0s0dElaRS1EWjZpTnVHV1NFeGNKWHc2OXpuTWRlcnNRQVg2bzM2ZVRNWG4zQ2NuZ0pB0gHDAUFVX3lxTE1LdHcyT3BmWTNnMGt4cVB4djhDUzhBd2FiSWxDcjBEZzdOWksyaFRYd2xIaXFQdVVzS09xaXphLXFZMHZ1eFd6VjlWRDhFM2xCMlhKelJYckx6cFN6eTNaRDB3T05iQzR3Z3BzZHJQMG1kd1V0anBDU1NqNFozLXdHeGFqaFZyZWU4MWZXMWJodkViTFJRNDZZMkZpbWliRERXOHRMbDNiN01ocWxtQnpzb3IyeEctcExYUGp3VnloU05Ddw?oc=5",
-"source": "thelallantop.com",
-"published": "2026-09-28T10:31:47+00:00",
-"first_seen": "2026-09-28T12:25:36+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
