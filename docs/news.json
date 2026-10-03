@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T07:37:04+00:00",
+"updated": "2026-10-03T07:53:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "a6ae431306d0cf0f",
+"title": "Auto Sales September 2026: Maruti Leads As Kia, Tata, Mahindra Post Strong Growth",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDNkY1pFZEhmNkFTbEtRMndERnE3TDVkRUxraWhSX3dkTHhQbTFmTmJSTU9JNlFGZDN0Vk40cGF2b2g3TFNIQnFPRmlzalJJTjZoVGp5ckg0Vk9UVDZWT2JfQkM5RFRHaWZRc1dOd0JKajlmR0tFOEFuMDVjQkNQRFlLOGRWRnIyRlJzX0JlWHQ0alhoRGhfVmltTlF3RjhhLUFkWjQ3Zk9lYjIya0tJbWY2ZWFCTzMxdlHSAcIBQVVfeXFMTVdZV0UyekZqVFBZMG9MM1JDY0VDZkFKSkZ6cE9QQ3dKOVBlc0hfUUpWQlJCLWtwX1Y5bGVCNE9ISUdqdFBnTmZDMjBnY01tbnlpM0NiZ3R5UUh4RUxRQ1FuNm0wSGJEc1ZVeHpKYW91dnZEQ1Q0X0dqYTFiT0I4X0xaS3JJZmVpNTgzYmpudXp2REhucFVScjJFOVYtNG11aXpiN2lhVEpLRTdaRnRLbkgyWk5xRkhPVXhyZFhJcGM1RVE?oc=5",
+"source": "carandbike",
+"published": "2026-10-03T07:44:45+00:00",
+"first_seen": "2026-10-03T07:53:04+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "064540cfdbb1852c",
 "title": "Sumeet Bagadia's top 5 stocks to buy under ₹100 | Sagility, Ujjivan, NTPC Green, Bajaj HFL, JAYNECO; target, stoploss",
 "link": "https://www.livemint.com/market/stock-market-news/sumeet-bagadias-top-5-stocks-to-buy-under-rs-100-sagility-ujjivan-ntpc-green-bajaj-hfl-jayneco-target-stoploss-11791009764369.html",
@@ -508,6 +524,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8ce16c91042201f2",
+"title": "Cipla Pune Drug Licence Cancelled Over FDA Irregularities",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnZsTGNka2hxTWhZbHZwREFQNWdIS0ozeUlDazZFcDBrbzJSd1BnSGlSVjJodXE5YXhnallKcFAxZUUxM2FrLU1ySzN0a0lud3J3Zi1LZ3dBeGwzbFZwbnZDNEhDb1N2UHNjaTVOQ3Y2V3hQV0l6dUYwMFFYSmxzemVjbEhTUGpjNWNLaUY1VQ?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T06:55:30+00:00",
+"first_seen": "2026-10-03T07:53:04+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50899,40 +50931,6 @@
 "Rating"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "4779d53f41f10342",
-"title": "Exports, investment to boost India's manufacturing growth: ICICI Bank",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTFuamNvZWE2Uno2OEM5RWNQeTg5YTZpMFlORlYzNXl0d1dNUVZ0RnZ4enpqLTFaNVRfV2RFZUlXTm9ZRG1FUnozb0JIb2NVUDdhUDR5OU9tLWlWcEpndDNjcEpjUkluUnRzSDU4bmNOazg0UTN4S1BXSEtnV0YxYXdYa20zZ0tlbVFYN25mQ0dqci1DLXRVbzNiSzBMLXo0WnloZzB2a2lENElRemZrZGFSZFgyanFMQ0U3LTdETDFnZklsU05zWdIBzgFBVV95cUxOa0F6SDV5WWlhdk5BSW5aOXM4aUVFQkQ5WGxtTFFOaGo5aFJQbVJZRkQ3OGVIbW5VN0FhYkJyQ3BRNG4tWWoyUUJpWWVZSFRpT2g4NV93Vm1FWG9Zd0tESnFxNk1hbHZLdXBmOEd6ejVFSkZNVkhwQ09fOXdLUVhSbUVWaVdHS1IxdzdxMEtYM19qS0U2NWI2MjNiVlhoZkUtTkVpeDFGNXI2dnNjNGJwcjJHenJqSERWY3RNWG9rNlc5OUJOelBSVjVhd19lZw?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-29T03:00:29+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "10fe4debdff328c2",
-"title": "Sun Pharma Lerodalcibep Deal: Macquarie Sees Cross-Selling Opportunities, Maintains 'Outperform' Call",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjBHVmtHY2NQYkFGeTdqOFBicF9rY2lybWY5YlE3Vy1jWmE2cnZUNEE3Y0RpdXJyUUp4bS1GWmpSNC00Zk9hSlJSNGdib2x3M1VYR2Q1MEhhOTRoXzhUcjVEUXVpeGxtTmNzQ1hZeW5pZy1NanpiQ1dXQmRVRlFrRFFSblRQMkQ2QWdhZXRiZ0dUTkhyU1BiTzVjc1NkVWNtUVJJSnhUMjBxeGxLY21qbEVmUkNxRTgwQjZKWmFycC00ZmE3SUhxaGhjLXdROU00cjBfMGpEM3PSAeABQVVfeXFMTnBueXYzckNMVmhabjh2NHE1NW13ZnlRZ2t6dzBtbDFNcDg5S1RRSUZGWkRqM1FCbndDS2pxYkhnSDZ2TDNZUndfMkF0OXpIOC1wSWJNcnpLYkZPRTRxbFVQZjBuekNvN0FMX0lndmVMdmlVd3dZUnY5VU84dWdWek5kNUh1MnlQZkZFOUxEN19OZ25kZXMxX29jV1RHcWh2UUdCd1FOTHdwcmd0TmV6ZkVTMy1wMFJ6bExmdDl0Y1QwdUw2bXh6LUM2aWlGZjdNN01sN05hdXBpbDZwQWxMTmo?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T02:59:23+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
 }
 ]
 }
