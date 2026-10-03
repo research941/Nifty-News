@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T09:58:53+00:00",
+"updated": "2026-10-03T10:20:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "b16ad19ac04f9181",
+"title": "Bajaj Finance shares: Jefferies India's top stock pick — 35% upside seen despite negative YTD return | Target price",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPR2NmUnZ4WVNYTDBNcWlPMGpXOGtQd3N1VlloS2d2RjRzQ1Nkel9uekNrX25rZEc5SWI5MldBejhwcnFoVi1GeWJfR0JSWFc3a0NlZnkxN1QzWVgwVGZQWmkyanFHVjJ3THRNaU5OMGI3UEhfV0d4ckJjUkRjbWkyWXdXeVpzSzdkelB6UmVlVzdYMl9saE1PLUtwVm5EY0xGZkJxVVhFZllmTnd5RUlTdVhkNUhfeEZCemVwV21pb216X2FRUVRUOXNBTGtIakpkeDRvS2xRUks3X3F6UmNvZTJDVGFJU2NzMHdJcVlqTlVpX2xIMHZ6VW9qNU5hb216Smd2V1BMWUJHZ9IBjwJBVV95cUxQNXQ0WXdpWWdxdGVmUVVIUzFZTjM3MVg3RE02VEl4SDZFc3h1OUNzQ050dFRxNVpWTVZ6amVVM0lPWHJSa1VhcnY2VWc2TFlzNFd2azRJZ0R6ajRTR1lYT3BwNGQ5V213bmhZTEpkTjZ2d3dBZ1paOTJXTkMtVFh4dHBhdExDa3RiUXprVnFzWUpyWDBIZFIyWnNqc1MzYkNLWENRUzhzYlhlMlFTRGdsTzAwYW1ITXdtRm85dUwxMDZydnFsYmMya2FNMTVHV0ZGbllPalAydkk3Q0tWaV9wd05ob2o0akJMUmF0ajFTOFFpS3Z0cEtNSlRaeDUtWDlxbERSaWgwQTBaT01Md1pj?oc=5",
+"source": "Livemint",
+"published": "2026-10-03T10:07:43+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "86ac58af78561be9",
+"title": "Kotak Mahindra Bank - Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
+"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONDNSTjBpMWR4czR6dnhZUlp1WVgtZkhDMDg1ZERMbk5vdldRNHhUX3UxYnItd25YMnZvRHRHSXdHTHY1aXhsdDdYUXhRQkY5Q0w0X0lwd1ZjLTlwSkZacXY0SF9PNnlnamZCN1JMYjFIbjdiUUNNWkdJMm5vY1JwSkhCQ1NjRFlIdzNLNm1rSFhMVTRHYmtVZktrcm5QczZtbFFGNXhmOFFzbWdhQkxpbnVIX0ZBNTBIOXp0R2NhNVRvdVM0dEdaRmwzVlJmOUxLeWdFX2RXblVLcjgzLWVpeDBaX2haa1BOa2tmVzNVNlRyMjNYMDlLX2VzdmhoRDEyTGlkN1Mwb3Bja2hsVHZV?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T10:05:34+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "85b15ae31800ea48",
+"title": "NTPC Bongaigaon Signs MoA for ₹5 Crore CSR Project to Develop Model School in Assam",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVhDNy1KSTBQZHo1UzlCcTRoenlIZGdDclNSdTNuWnFBZGlNLVA4M2lpRG5UWVk3SWtlaGtjSndfUXFmSjNHY0JoOExUdDAyeUJWM3FIYlRiRkhWYUhfa2NIQjR4NWVrMFI1OVEwNi01a0hmQmFQeXA1M2dUS0FmTjJINlpxb2RCdFVrS1U1RkkyNzg?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-10-03T10:02:52+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c3304fc8330b4ad4",
 "title": "NTPC Floats ₹12.56 Crore Tender for Control & Instrumentation Maintenance",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkhWbnFFM1dHZkJVVUFVYXgxVy1RSGtEMDhtS1YyQzNvY21mNURfMVlVS291dDYzV0lwQlFmeExtNlJlSkJPcUJOQ2k4bjN6a3BhYVNrX0xiRkplVWhnSi00cHhIUVZtcG9ucHZRTmVKbnBCZTJCRnl1TDJ4dkI5N1R2ckUxMFdQOHJVM2xUZklKOHBsLU1NRWMyWjZiU0ZZWjB4U09VX0I?oc=5",
@@ -456,6 +506,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0e52552af67395a9",
+"title": "Eternal - Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa0hjNGcwck16OFhrODByOXF0MXV2Z1hVNlNoUGlGZ3IteDBDc1p6eDlWa2xfSnJuVE9ZSl95OG9NT3o3SGc1S0pCNHp2TXU4cEgweHVMSktELUZaYTRKUzR5Sl9EaXExYVEzWWE2Q2lKTW9IcHM0a2g4TWluenJpN2h1cGNNbDE0bGxNcW1mbVpkNGd2T3g5U3N2Q3BNMHA3blJsN0Nta0lJVFU0MDBKN1h5ZDFUT3V0VTJ0SEwwaTdUX3BYN0k5T0dHY3pnNWN4ZnFHVnhydVdKYU85MGVfNGNDQnU4TVE4LTItSG5aZ1RrOG5OLWgyVGdzakxLYzg?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T09:30:12+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -474,6 +540,44 @@
 "Auto"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5b7b4f9543dad171",
+"title": "2 Lakh Maruti Suzuki Customers Are Waiting Delivery Of Their Cars This Festive Season; Production Ramped Up",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXlnWkVvVjl2TzNPT1FMdEJjRENzU2FaR19XTTVVZldNd1dFRmIzR25wOW9aVWsydkZTS3lXMFpKN1Z1TVlwYzZfU1R2Tjg5YktkUm8wbkMzUFZ5MjQ2U3J0YzB4QThrVnhVYUpjTlU4cTRhZnAwOVhwazJDRm8xV0lzM21XQ0p5UmtQMHJHeHcteU5sRGJhTTl2RkFEdnNYaXNyOVRZYkFIbDhaYmNCcFJieFFnNzZDWGNQV29Qbl9tM0NhYnhKTVhFQQ?oc=5",
+"source": "Trak.in",
+"published": "2026-10-03T08:52:23+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e23b4e07bb19e341",
+"title": "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWUdTTWs3X1ZIWEpOMHFsTktxcHA3cFFYc2J2TGk0Q0RHZDU5R3c5cWt4dzExb0YxUUhOVmhoZXNrb2kyRjBZLU9nMDluTklIUURlU0dkeE5VWkpDM1FnazZzY1Z0V0ZMRlM5Z1QxZWtIZHFrb1poVnpDOERBVG9SYTlDbDRRWDR6d0JEMEVtWS1RdFJWVlc4VUszLVdraUtlZWtXaDFCVlJ0VWl2WE1HekhyWm03bjBudENKWkMxNlQ1aXlDTjF2RkhQWFVva1JZTmNrRHkyMEE?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-03T08:46:25+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -538,6 +642,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "68da4e3a68458aa6",
+"title": "Bharti Airtel - Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZ3UwbG5KTzdUVzZYTEVJaTh1c0hvek16MEVIbFRDOVVMYlQtbWk0YlZDNjRCYUxYNGZmS2hvWms3aENhUGw5Vl9YYmR4d2F0ZVlJNUd4LTdZVTJvZVZyMmQ4UndpYks1cXZ4bkJua0dTa2dBQXNUdTBSTXp1Q0lTdUxaMWVFSm1fSzkyUkt6WTFHc2s1clpwYmFybE5wVFNLTURkZldVcXJxclFRQ3M3X2xiaVpvU2xGdWNwcHhMejNXbVNpU2s1NDdTOUM1aUhhS3NMdzdYaGlXWE5mX2FMTXhRaVowNmFpNTkxdXdKZGpEUFhmX3F0R2RJZ05IUlZ4OW0wMW5kNA?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T08:13:27+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1571,6 +1691,23 @@
 "sentiment": "positive"
 },
 {
+"id": "a99831e7df2325c1",
+"title": "Adani Ports handled 46 MMT in September, Jumps 11% YoY growth driven by strong container volumes",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1NEbXF2MFZzVDhvWkNveHp3LVNZd1BRSEJzTWFLSkJjTzNuTHB5TFZKZU1WR1FQeV85TWgwTWEtS3Q0SWx4d1c2RURNdHNUWUpIWGZrR2tVcTdtV0lmZ29zc0ZIZmpNbVVqRGxMNnEzLS1jbXVYVGsxdENIUllkdXN6SmF4RnJWckpzc0N1c0JBS0lLaXZZcUtNNXA4Zl9leVpnXzl2VGNpc0ZDZU1uZGFsVmozN2R5QTRaZXJJTWJyX3FV?oc=5",
+"source": "India Shipping News",
+"published": "2026-10-03T03:37:19+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "8c539f334f5a8ab4",
 "title": "WagonR, Dzire And More Help Maruti Suzuki Record 24% YoY Sales Growth In September",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPamVDUjBocTJmMjV1LU95Z1ZuTjB0Wm4yZ0MtdUp4SGJwSUp5Zkl0ampBV3JPTkFDYUtGUGs0QkJUczlsYV95V3VuM1pMeTl6ZS1TVUpvZ21Jal9jSDZ3aHRueHlHSU16SW1pQlA1WjZXWVg2VUphZkxuaG0zbDNJcnVlVkh0SkpaYkMxVkoydmtXTUNlSzF4REV2eWdtd0dkU2lnQjNUS3B0ZHN2UnBWVWhBM3pOR1FBbUh4OHJBRW9nb0RHMjZlUjJfUVl1cUlubUF6ZVFOekUtVHpkOWZzYmRyMNIB6AFBVV95cUxPQW0zdGkweEJsdFhTUzFXaEJycFFhc1dycHpQR3lZRnZpNjc5MXk1eHlNOENBZjlIOHZWQXI3UWQzbDMyNlBHeWVZOW1ESGpjdWFody1KdDFGeWFTSEt0djNiclRKLUMyejhzVUx5QzhmREtxVnhpX0d1TmhEMHNKZV8ybkJTVWhOMDhmODR4czZGbURkOWNraEpOUVV2Rk9ZWHd5NU5Ic0lwQk05aUtOX1B1TGdNdnVUdlhwdzRWYlJJWEJQNXpTVDFxck9xWkVtb2EtdUlBV0t4MVc1RXBvUFZsRm84TzRY?oc=5",
@@ -2222,6 +2359,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ae3c743d4ab238ed",
+"title": "NTPC fixes Sept 2 record date for ₹3.50 final dividend",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHNwa2UtTzI2Wmdla3hudDRiVkZnMGdkSmNkaFlmWXpIdFBna0VZcG4yVlExUUE4M1NVWGpzRFVWb1YtNmdFUnhLUXplVFhoeng4Y0ROOTVOZGppOUhfYnlfLTlUU3pYNm03Q0prdVMya2prcm9vTGtPVUlFMVdORTdSWURQa1BGUGpkV09nNE80MDRmYUhyYmNJV09QcFhxLUY3Zmc1ZnBoQ041Wlg0?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T20:57:23+00:00",
+"first_seen": "2026-10-03T10:20:15+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -50778,163 +50933,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f272f0992e4342d4",
-"title": "Top stocks to buy for short term: M&M, Engineers India and 1 other by Master Capital Services - Target price, stop loss",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVHBka2h1WUJKMzZxZ29zZ3JMbExGa21mejF0SDd3WWszdVluTmFTbTZYUGtUenlQVEQzUFA5TV9BdFFEaDhNU0MtelR4a0ZuVXZjQ1V2RzY0VGRGMXE1dFJFd1BKVEFXeFlDMTVCQld1NW1HSmV4dFg3WWlwMVczUnQtRDFwZmluaXhVTUJwbUdGWi1lM2lPbjN2T09nNHdvbzA3SDhwemVVSHZ1NW91a2VlcGhRbmpieFhuQTVzVkE1RmhrenRQdi1tWkduQUVSMWdiQjEwM0NUcklaQ1hYd3c2dDhSMzd6X1p0TDdCT0xHd0pnRkpwdVJHZkQ3VnRGSFA4YXVpLTR0TlXSAZACQVVfeXFMTTVqR1J2Nk1POFJ5N21vc1ZzQjFIcmZhOTkzY1czUm4xNUdZSUVSTEI1UXNWUXhPXzZrYXBlSGN5X2l1eFFZUmdZa1o3NHVvblAxaXp6aGpZYnlnRnEwVW5JZ3FXNWdKQm8xS2hGRVpWb1U1eWx4N21iOWVIdGtGdlBTMDRiMGxSNndSVFR0cjJxWlV4b2lCOENaTlNiVnlwYlFKUTV5cWU3ZXBXTXNmX2RwUDRhaFFOMXlqWGczYkxNdjVma1FVQWlndUVkbTNNTEFiMTd4UndiS21CNUNHUGpodXQxdFNZVG9pVVRnUDl1WWNOSEI1dmRmYkIyVjhna0xWMVpORUxnX3BTTmdOR0k?oc=5",
-"source": "Livemint",
-"published": "2026-09-29T03:35:02+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "negative"
-},
-{
-"id": "4147f2a8a2ea662d",
-"title": "Top stocks to buy for short term: M&M, Engineers India and 4 others by experts with target price, stop loss",
-"link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-m-m-engineers-india-dr-reddys-labs-check-target-price-for-up-to-11-upside-in-11790573842765.html",
-"source": "Mint",
-"published": "2026-09-29T03:35:02+00:00",
-"first_seen": "2026-09-29T04:13:46+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "negative"
-},
-{
-"id": "6b8a45cae3a28402",
-"title": "Stock Alert: HCL Tech, Prasol Chemicals, NCC, Rays of Belief",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlhFLTlUVkU0MzNNUi1jaC1BTGEzbU0tNUJsancwTEZsVkpkekQzNEJDTFF2ZlBrbXFvQ1IwSnZiMDVKYy1pZkZKcEZma2g0eEo2Z1ZVcGE0dWVqMlI1MnlDWGVKSHFqMXlwSHhlOVdyWXB5ZUYyU2RHdFA2Y0tfZXBUZUtXdnlCZnlYdnRmOF9uNE9yZjhIUE90QWdOQ214bkxhX0VjT0xPSXJ3M213STJYMFIzSDFyNGJaY3BwaHM0OTI2YkZuZVluaVhRTDZhbFhOTdIB2gFBVV95cUxNN1lpRGJQMmx4UmhkaXJuNkpaWUFOSWR3aTFkNVlYcngtNHM4RkN1ajV1U1loTktwSFhpdlYyT2poY0xXS1Z2SDRCR0FpMHhWUTBiMkxqWmJwM21UOXJhM2JKWXNWbUFwWGR1d095U194QUM4aWMyQnB5U0ltcklGY2hxLXYza3ZVQmE5V3ptUlJRNHZuVnY5OVBfOExXOGtPYWktMzJQeWp6bFJUZEJCUmdza1R6Wm4zSkNYOTdXOUZGUkpPYzI0N0Y5d2M5UjFFSl9lRjhqcnNDZw?oc=5",
-"source": "Business Standard",
-"published": "2026-09-29T03:34:02+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "94b16177b1d6e5fe",
-"title": "Adani Enterprises settles SEBI case with ₹37,05,000 settlement order",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGZMZkJPdERWa2xvb0RxczI0SDQtMWpKbVQwSWd3cW5vTEVIREZZSmV0c2V3TDJVY3ZkaW9FdWRRT21aazh4a21vbTM5Wks1R1pIcElzZ0UzTGpROTNKd1hEM2xsQkxwbTNjWnhZU3RBR3pjMUJ5UUtRTC1lWjdOc3V5d3VnUGdVWXI5S2lBdVhZN29ZWVFOM2NGX3Q1Sl8ya21Rb3R3QllsUQ?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T03:31:53+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal",
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "91b5928b6d77cbf6",
-"title": "Video | Adani Group Cleared Of Minimum Public Shareholding Violation Charges By SEBI",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEhRNnY1bl9HQU5sUUNtZmoxTDRxMmo3cEJ4ZVQyOVJxcEZZNE90S3pOM3VzVVpCbTJOSWctMVNVRzRVUUs5clVUMkJyM2JXMVExX1ZBRlhpclFFNXZQQkpOTk9ubnVCSURyaHlLM213eFBTQ0pCcmdnTEdZaTE1eDFKaVZLUklUank0c204LXEwY3Nvb3NHSW9yWE05ZURjVzBPbllFUWZ1dUw0SVZIVA?oc=5",
-"source": "NDTV",
-"published": "2026-09-29T03:30:49+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9ab5ce557777b148",
-"title": "ONGC to Adani Power: Morgan Stanley names top 6 energy sector picks",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEc1Y3lDdHd0Q1J0RUlCMklVeDJadHR1QUhIZ3pMajJHT0NMZHpxYTZFZkZvV0xjcEFzaXBjQjZKZ0gwZ29SY01XV1pfRExXaWRMMHh2TWNweC1sMWtGOEJkYVRqYmhIb3lmZEEyT1doS3BIOWhIcVNVRVVocGZYMGlvR2dSZ3RsYzQ3UjFjOFB2OVh6Z2xVNFhPRlIzZ19iMzlSMllZSVdqeTdQVVFuS3JETkZad9IBvAFBVV95cUxOUTdpUFM4LWN2YXBEZnJWaVpNREFyTXlFWGhRZjRBblFsY21BZFloTUtyZXNuX0dUelpkanhpcEJLbGQ1RlJINDBuX3dERW95LXh2bjRYWElkckpQbk13VExZaktiNEFXZTZEWHh4NFFaTlNRSEJzX1ppSlZBUUw5SVpTR2VzUURjNzNYei1MTHpPVGdHMkV0WjU4bTJjUUoyeks2SkY1UFpsdjlaTDZpb0dTNkhrNnJ3elVybw?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-29T03:27:51+00:00",
-"first_seen": "2026-09-29T04:46:53+00:00",
-"symbols": [
-"ADANIENT",
-"ONGC"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c2decf34f55bdf53",
-"title": "Adani Energy Solutions settles SEBI proceedings with INR 37,05,000 payment",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFNpekJ2VEZZaHZGUmlWQVA1YnNSSEduU1J1RHhJQlVPNjJxQWhhU2pIdVhRT2QyUUo4MXNvWkE5djVFa2JuMkw2LUVvYWI5bDgzX19kU2F2TXNGbWpZdmRjT1hkQXRvMWtENmFFZWFnTkt4QjBNZF8xREV6bFpiX1BHZFdxQTZ6a3BaZjRFUUx0ZVFocExUUkZtOHVhYkc5X3lrVWtvRjd5aUxNQzE2akZ5c3cyZw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T03:27:42+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1b75efc17f065f24",
-"title": "Tech Jobs: Infosys Plans To Move Up To One-Third Of Its Workforce Into AI Roles",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWdkN2h6bFkyS0R1MDAwS1pNd2F1dDgycWljSDV5ZXJBTG9tR3ZfZDE1QV90MUcxU1BUcTNSNlJqUDlCMzIzaF8zbmdqVlpjUElQaGZoYTNEd2NDU0I0WlRCRVBZTTBwWFZOTEFoQ1hJMDI5OEhYYlRqMkoyNmhtcUU4TjZXUmJOT2c3U2dBdElYbDdYSm8yaXh6SVpyeVJrbHdlMXh0YVZCMTRCTFlzcFJhM1JlQdIBuwFBVV95cUxQYTI2eHhKZkR5aWJxNmVVdHhxNDlEZWQzekttaGhmbU54SXd2eWxTN3NjMWNWY0RkUFNFcmZ1eTRjSzNsQWpFU29mTWNqREVaMzdpQUp5OXVvS2NSeGJDWFgwOHRJcW9rNzg0dnJRUEIxZHhWN0lQQ3RFOG9YYU16YV9tTlVINXE1c2hySDVPenpfT2R2YldYdVNXTmlWeU5JT09RM0wxTnFneWZpUHdIcVRrUTNKa1o4UVJr?oc=5",
-"source": "Free Press Journal",
-"published": "2026-09-29T03:26:38+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a2e00cbd7b344aca",
-"title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speciality drugs",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-aurobindo-pharma-other-stocks-in-focus-as-trump-exempts-india-from-100-tariffs-on-some-speciality-drugs/articleshow/134555109.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:26:22+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
