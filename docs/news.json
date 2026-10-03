@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T06:08:45+00:00",
+"updated": "2026-10-03T06:49:29+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,120 @@
 ],
 "items": [
 {
+"id": "82fd17e2212e5825",
+"title": "Sun Pharma and LIB Therapeutics Sign Lerodalcibep Agreement",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpPVENldjkyZWtyNW9oVU9qNkxIaUZ5UEhhNzJGTzlOU2dkSzRfYy1tMmk4U0RyQTZTa2Q3d081WHBOc2VTZWVSdzBKRC04MW9CUWt5WEhIZzJXcHdMV2FYT3A0cEpiMGFmZmxocXEzLW1SaE4tWXdhdXVZTW5zVFlfeDRtSXFGT2NTZUh5bW4xT0twcWpmSw?oc=5",
+"source": "Machine Maker",
+"published": "2026-10-03T06:39:48+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "317984b6de5a4f89",
+"title": "Maharashtra FDA cancels Cipla Pune warehouse drug licences",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuWk5Fb3JVYjFja3l0OUFMOG1jZ0RUdFFwQ09IUm1CTXY4dFFFZHhIb2lNMmNCOVltMmpzNnpfWTViTUJoOTlxNGFZbHRvc3UzdnV5aUdMM1dJemdLdU81UFdrRzUyazdUTUFHYk13NG5wcHhuMVFr?oc=5",
+"source": "Daijiworld",
+"published": "2026-10-03T06:37:06+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9191e48b73302fe6",
+"title": "Cipla Warehouse Licence Cancelled By FDA Over Drug Labelling, Storage Violations",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlZFckhiQ2E5MjdhXzVTM0pSV09EYzhOTURnNVI0c1VIRFhDd2p3UURBZTl3Yk1iVUFYRmtraE5aRWNnNFJkQnJKQjhoYmwycE5RRTJvaEtCQlJRZHdOTXhZeGRCUmZPMjE4VDRNU2pCQ0ZnZ2o2X1BZS0FoSG1GV0NqRU5HRDNWZkM1cVRn?oc=5",
+"source": "Pune Mirror",
+"published": "2026-10-03T06:23:17+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "12b86e3c4067c36b",
+"title": "Larsen & Toubro Is in Talks with Japan's Itochu Corporation to Sell Minority Stake in Clean Energy Unit",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM29OZEZvYXdGVWVUNnBYTnAyRGU0Z3I2THBWbGFRZVpBdUlFcHBFYkM1SnM4THlrQ21Ic0dVX3BLQnlDUml1QlZlS2RzcXBjYXBwaGR2c2t2bkU5ZTNRajhKVGNaVEhzYTBxQTBrSGFQeFV3UFdSU1JYeGRZRTZMb3lRZkZwNTRJRUg0ZWM4N3lRQXNLNWptTTBMbFJwcEF5Y0VkR0lsM2dZb01LblF6N1pxWC1lc3NIblFiQTN3dHY4ZGFmZl9YMjIyTDFPRVJpdENKTUlObklTRzdfM0hGUkZXSG91dw?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-03T06:20:27+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1bd86be14a1c3a4f",
+"title": "Adani Group Announces Rs 6 Lakh Crore Investment in Maharashtra",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ29CZmlZUmhpU3ZCMTlsQzRZZ1ZIbUlycDJwUkdCc1ZsaFBIV2Nsa3hXTlU2SnV2Wk9hOE16XzhWLUpFN3VEVWNXVTh0aWd2WHV0aGtiT1RsTlVQNVBOUVB0ejRvUEtWMUIxSFBhcHgzaW5YWlhybC1OMnFpbG1OUk9CdWVVY3RUT0Z5ZDhYNW0?oc=5",
+"source": "GK Today",
+"published": "2026-10-03T06:18:25+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d147a468969ea042",
+"title": "Gandhi & Shastri Jayanthi celebrations at NTPC Vindhyachal",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGprUTBoNmlXMlZQbFhTMkZqYmtYLXJTV21CRXhKTGR3M2VCNUItc3Bndjc2U2JldnEtdTUxblhzMUxWUTN2VXpyVHhReGxQSklkZkd6bHhJNkVFOEZERjZrMFdaZXQ3Qy1mVEJ2cnZ4VEE2OVhTMUdWbVVPVDFzRU51Qk51dmV3a0g0QVpTS0pST0RIb1hfM2Z6NA?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-03T06:17:00+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7f5295f8cef23ee6",
+"title": "All-day free bus travel to begin for some over 65's in Stoke-on-Trent",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFUTZnQjhxc2hveExBbnVjRlE4dklOTTZBOXBfc3BpSGdmRUg1bmt0azZrUXdXT1JLQ3B2SjdvdjNLNE5pVmFFaEYyeC1mbk91YzdWSG1MckhhVms?oc=5",
+"source": "BBC",
+"published": "2026-10-03T06:14:29+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2a4187e76290f9ec",
 "title": "Wipro New Bench Policy 2026: Employees in band 2 and below need to find new projects",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjJLMUJQZmhLc0JwMGhZT0szSWlvU2xWZllXTWI0ejQwY3k5aDlNZFZwUE15UzlULWZvZDRMYTRYc2wzT0QtWlBEc201N2hkazNlMHN0dGlKcVRDQnBYTWh5THNka2lUVUZ2WF9Lb241T1RsZ2xfZmN1TDhoMjFZbUo0S250ZzAtWXJ4M1NPRTVZczQ1TVhCNlhZNzVGbzFsbkdVNktJMDR4ZzlMVF9YWVZkU3ZJY0Q5cXlFQjBKNUZnZ2ZBTkc4WG9tTXU1TmdaZE55Z0ZhcVRYeW1EMVE?oc=5",
@@ -605,6 +719,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "ebdebbba8a1b9719",
+"title": "RBL Bank gets ₹173 crore GST show-cause notice over ITC claim",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUduOTRqdzdTUGJnbTBVa2lEWVRBek1xVy1fdmZ2cVMtRkx0Q0hZblpDeEl0WGtmVnE2NjRqSExTYkRXd1RucnBTbHpDS21XS0hMRXFFaGRnZ0xSRW9OeEtpZHhGVHgyQWlOOHNDQWlDSm5aUHJSa2hXbFRrLXBFNUU3UDNOODFROERfV1o4RGFlNTdqQWE2cQ?oc=5",
+"source": "A2Z Taxcorp LLP",
+"published": "2026-10-03T05:01:07+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "a35ac473811914df",
 "title": "ICICI Life names Sidharatha Mishra as MD & CEO, Anup Bagchi to join HDFC Bank",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazZxVURJYXN2TzVJalhrT0V6X1ZNNTZMSS14Nmpadk5qaXA4aE9TYjByUmFSTVpKREtCTW1RVUpkS0ZVTHFoeG5HR3dtZmFna1k4ODBRQ0ZKbGpwd29pdlJBMDRhblA2S1h0M2x2Qk9MSUVZOHctMzlDUGVTRk8xOXZ4SEhNRmVSUDl3YUJQVHUwWm11R3FncVlORWFDa3FGZUhvdTl6MFlJeDlXblpmTFp1QVNyUERqb2tDQzJzRDNxR1dMbDRURFozd9IB0AFBVV95cUxQQ1ZfLWg3ZHlrZjNMWWlnUnNhMFdRci00Mk10eERldVdlXy1ibVdFRW9YcWlqNnVCcFVyVUUwc2N2LTdZejl4MnFEY3pxUlNHaVUyOGFWcnBQRUxXOHZlMjFJZFlURGk1bzIzMTd0b1FiSGdSRkFLQ2o2YjFBMXRxYXdhd21aTmtYeDVaa1R2VGVEdzRJbm5mX2VQOXl2am5TLXJfOUtGOWowRVZyX0VzcVB4M3k1eHA5UWtJYVlGVUN0V1BJQzF0UXotWDdXX1pO?oc=5",
@@ -721,6 +853,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "50c208d63816d986",
+"title": "Adani Ports handles record 280 MMT in H1 FY27 as container, dry cargo drive growth",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnlOQ1MtRHVHLURERVlYZlQxT2dPXzM0NkYtdUxqTHNWVm1hM251Q2tfbUVYRHJqaTU2bWVNbTVjeE9hcEgtdW0zRFI3eXZuaVhqTjk0S0Z3bWZxTk5zeW1MRjhHVlNINlJiNENwdVVTRU94a2ZScG5VRnpoT2NlbGJrbXhDSUVEbUNLTU96ZjdzY1ZqVUNlVE15SXJpVWFWTk5JV3BJb2VYLWlac01KbVNUX00?oc=5",
+"source": "Maritime Gateway",
+"published": "2026-10-03T04:31:29+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "df156bfedd67d5f9",
 "title": "Assemble perfection effortlessly with Asian Paints’ latest adhesive duo",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVU9FLVpvOGlnd1BRVE8wTkpEQjlyZHl3elVpUjViVFNhWFZVbmpPTVFvV2l1YkdGR2lQeFR5eW1GSWc2MGtQeWhBZ2lFY1k3ZDZ0d2o2X0lBQWFGTFdZVEJpbjZ1UzBIMGRBRC04WC1sM0UwM1FFcXFWTllRekJRcXFjMUFRX1RCVHU5Q3BmdHh0djk5Tmd4YzlwZUt5Ni1XaUhibUdib2pFc0ZlR2FYeTViczNzSjFJbnRNTXNpaw?oc=5",
@@ -816,6 +965,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8d70ac22d22c8475",
+"title": "Maharashtra FDA Cancels Cipla Pharma’s Drug Licence at Pune Warehouse Over Violations",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdExNR2kxbEFQQ3JlOEE0MDNRcktITG5pdkVVdDFCNWZPazlvWTYzdmhzMngzTE9YaGVYWTE0cHRpWkZDYXJwRWViTnpFaVMzUDhsdVpyQUVtLVYyUzFpWXEwbG1PeDN3Q1ppNGFjcTVBRmNkdy1SRnhEQkFkN3FiWDMwZmdBbHgtVHJrNHg3bXJXcFljTU5Yalpma1JJZS15WHfSAa8BQVVfeXFMTjQwb2lXTWlxYmtOdGZuc21vc1MwTzM3bEhUWHZNd1BuOTIwaTRNZDF3MjJDOWt0Vy1lQWxUMks4Z1h6TFU3WTNJOXFyOURET3VHMzVBMDFEWFNxWDAwM1pxemJic0N4a0ZvdEFXYnBXR1dhTjhrT1dUUjN3X3pUTzI5a1Raa3l3UFVSTGtDdS0zTEJyODczR0t5X2pDdnRtSTN0SVduMm51eE9OcHd3QQ?oc=5",
+"source": "The Bridge Chronicle",
+"published": "2026-10-03T04:05:00+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1090,6 +1255,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "2d3fa5598958dd49",
+"title": "7,120 km in a Maruti Jimny: Udupi to Umling La family road trip",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ19YRkJaNnJlQkZZT2RFcE9pQlBqeFFWN2VRTkp1TXM4Ml91N2lDSjZkUTB4clhqc2c1UC1jRTJoS2diY2VoQ2NhTlY0elk4MExFbUR4Mm82ZzJ4Zy14TXZiYTdBeGJnWU5ZczZLelpsSldoOE1mdHV5T1Y2T3pxWF9oeHpJRHRsTXRR0gGQAUFVX3lxTE50SjdLaDNxVk5fOGlya0ZHa3dTRW8yZzBJX0JBTjVWVEZmQTVBU3dsYjhhclRQNERwRXNoRk5NcHlCNUFhdVZ4VHRGVmJxM2s5d2I3OWFJMTlxQ3MzVjE1UUdJZjJ5OUJxSm9iU3Y4bU5mSHBvS2xkT0ZFeHM3NmlrMVF0el9rcWVabmFvaXJHdA?oc=5",
+"source": "Team-BHP",
+"published": "2026-10-03T01:30:00+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "f206262350c79b84",
 "title": "Hindalco Alumina Deal Ends After US Regulatory Delays",
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVdDMUZYWnM2NERuSllyTTdsM0ZFeUdEalpmVWtrbEVCSlpsUC1QWFRmU3VNZmppT1BqYkRGYjJqYjg4SEFQWGRiOWZaYU1uS2tZVko2WnlJX1V4OUpNUk1VTVpBeUZka1ViR2N6MFpORHpCX1NpLW1jbUxLT0JaMlBuMVZESmlCUE5BQld3?oc=5",
@@ -1282,6 +1463,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "18f0feea79444732",
+"title": "M&M Financial Services Q2 disbursements rise 22% YoY to ₹16,490 crore",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHBMSjZxVV9DTVVNWUFrWUJMQXRZZXl1V2RlTXpkdngyam5aM25rdVk0anRqczN0R3VWa21yVDZSYW9DWkUtbUhBelBTQUdaMHVxWFYydjFnc3cxVm52WVM5SFo1czhMZm1RaExCRk9YTDVuVUdIWEIzOXM2Z0c4MFZkc0JxaGdWcGdpUDNpQm9HN0Jld2swVENiNGhFcTllWnNF?oc=5",
+"source": "IndiaIPO",
+"published": "2026-10-02T22:34:55+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "90039d1a5ef545b7",
 "title": "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS0tWHUtWE1NSlhwNzA4WWl2R1dsMEZpV1dqakl0eXZMRkRBazh0NktiMXFhQlY3aURjdjBsNldtaHNFcDRLWkpKOE52QjJrakJNbGZyLWtmLW5rbUl3WTdLSWpQZm1oRko2SzFJdTRreDhEVHhhVGpzd1FNby1LSjVTU21lblVVSGVqX2ZUcjBWR1g0YkZpOWtR0gFWQVVfeXFMTVd4Qk1EY3R2MU81U08tc0RtaktOS1hMTE9zWC1FODN6MXZHd2dVLURKXzJ6cTBoMkN0TzdCTFQzbnR4UDhLS28yd1kxU0R0VmtvQVR3c2c?oc=5",
@@ -1448,6 +1647,40 @@
 "sentiment": "neutral"
 },
 {
+"id": "a9ed55aaf153d397",
+"title": "UltraTech Cement commissions 4.6 mtpa, global output hits 210.1 mtpa",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcms0TW9Nbm90Q1h6am5CbG1YZUdrclY0TUJYLWhyb2VHTHZ4LVNtdjNQY0NGb2FvbnNHX3VaRjBaQUsyRm1Kbkk1U0RaMlhzX3VRMzdQNHpKZXlLYzZ6VU9RbmJ5cjNGOUxjV05nZml3SUh6bTBwVUFMdUpBZjBGZFNQa2tzVVBWQ1Y0bUtoUTl3UG5rTS0wMlBLcldzVEhVWkNZaTBrVklrdEt6X2d6UUwyS1ZpQkFOcVhyN08yWDhhVlAz?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T20:48:37+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a00851d259432a97",
+"title": "Laser Power wins ₹72.77 crore order from Power Grid for reconductoring",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMndfUGJsRU0yZHpvLUJFTFpzczMxTUp5UDZuYUQzc1o2Z0tPd0xKTHJESWo5enNRQlZtTkRvSHRaNG9DRHUySmhCaktjMzdhWjhoQm5EWlc1ZS05dzMzSlBHc1k0VGRiUTdYN0NUbmNsclprMFNBUnZjaV9ZejdYSmlpeF9JemVtVnM1X0d6SFpMWjQ3RkVMWVhQSU1PalN5SE1YTzhOT0VhSk80TDk3dmlrZ19rbjl2YlpUUEJSZWFfZjA?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T20:37:56+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
 "id": "78b473a75fa14e7f",
 "title": "Second Hand 2018 Maruti Suzuki Alto 800 LXi for sale at Rs. 2,48,140 in Hyderabad.",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUXRTSG1OMTlMUWkxSlY0ZV9NaGNCRnlRSElUSWxqMjVqNFBDRGxMUlpPUm12ckNycUE4c1B2c0VPNERGZTJhbWpzSkJfaGZZZk0xOHQyajc3YzBsbkNaS0JlanJvb3o2bG5wdzkxRFRIZlo3WS1WejdaRU5yeVV5Y3lDU2t0NnpNWTk4NQ?oc=5",
@@ -1475,6 +1708,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0d69e9ec23d96c82",
+"title": "L&T Technology Services promoter declares no encumbrance on 73.57% shares",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHdiYzBHU252Qm5SdWRTaHFVeGt1ZDZ3YUY4MU8xT3JON3FTc3VFb282RnRFdkR1YUNfV2h5Y3ZtNnNoS0F4LWZ1UzlzUVZkVHFnUElKUG5iZ0g4ek12aW9ieW5TNWYzc2xWcDJrU1h3RkVSMlVSczJhYmVDVUtfTWFkWVBiemRtb2RyVkhpMU1YaHlSbjZZY2U2NkRWUFFGYUI1ZFBfNEJ5eUFaMmgweDY5Sm5zZFZESWZhamhjTGoweVBJcU5RMg?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T20:31:40+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1933,6 +2182,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5f373a0bd297c1a3",
+"title": "Maruti Interior Products shareholders approve all AGM resolutions unanimously",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTBvRVlERUFWVndZd2xwUTAtX1gxbDlLTlNWTzFTWkJLT010TnY4cm0ya1hfMDlqUDQ4eUlpaEtMYXp0ekVCV0YwMkZLcjBQQ1ZxSjdBdjVPR2llVGF3VkdOLUVpM19ncnFhSEhVWHJIQmRRUVo2cEttUUQxcVBFWExxRjFaUEo3TUU0eDcxVFNqc3lETEt4anktQmxhb1lMOGFjQnNZSkdGNmM5bEYtWEFxemVLSjdKQm40NnZtN3J0TVlPX3c?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T17:17:31+00:00",
+"first_seen": "2026-10-03T06:49:29+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50668,267 +50933,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "7ee597368a245533",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's beta overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-29-sep-2026/liveblog/134554525.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:50:05+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f4cf37f3f97b843c",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-29-sep-2026/liveblog/134554525.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:50:05+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "556e7fda85c94190",
-"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-29-sep-2026/liveblog/134554526.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:50:05+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5cbbab0ef1b1f5fd",
-"title": "Axis Bank Share Price Live Updates: Axis Bank Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-29-sep-2026/liveblog/134554518.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:49:21+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "88c2c2fdd09241a9",
-"title": "Axis Bank Share Price Live Updates: Axis Bank Reports a Decrease in Today's Trading",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-29-sep-2026/liveblog/134554518.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:49:21+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fe5ae89a7e8e381e",
-"title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Summary",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-29-sep-2026/liveblog/134554506.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:48:45+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bb72683527a1b2bd",
-"title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Breaks Above Key Moving Average Level",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-29-sep-2026/liveblog/134554503.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:48:28+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "22ddf7dc2917524a",
-"title": "Stocks to watch today: HCL Tech, NCC, IRFC and more in focus today",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VUQ2VxREhuYUhfT1RORlhNSDdDX0FjNko5U28tRkJ6UGI4VnFRSURFUmc1amZBdk1CTHozeVJjV0RYZ2ZMSXQwN05kX2FzMk96V1ZTWXRsRlR5cmoxOVllakJsSzVkdnp4bEhGdGRvNmYzLW9pRV9YM1VKR0tZVFVLeDZEdG5jdUVBeHlucXJlMVB6bkFGWHk1VVY4VWdKWWtzQ2pmZWtKbGl0RXBwQW1PUEHSAboBQVVfeXFMTWNISE9kbEFHN0VSUWVKenpnaHhVdW9SN1VTVWRzbmNYSjZwMXVJbi1LeGpvaS12NC01d2h0NTdvQVpLX3pSdHJxRHFBNS1uSlkzaVBjcGZhQmtqS25JVWpnbmhwUzVPRHdlaW1UekpTMEVRMjNDbU5HY0xYX2dhcW9lSFN1ckNnQ2JQWG5xSVBBX3pXazFpa3p2NXdMWlpKT2NFTmpwNnh2WHRrWVlLdjRpU1pvQVVPUHdR?oc=5",
-"source": "News9live",
-"published": "2026-09-29T02:48:17+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2613cff661a27f9f",
-"title": "Nestle India Share Price Live Updates: Nestle India Faces Price Challenges",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554493.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:47:38+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6645e4db553c7db9",
-"title": "Tata Motors Subsidiary Purchases 26% Stake in Mateshwari E-Smart Mobility for Electric Bus Operations",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3ZRWjA5elJpLUZOLTZhZ2VhT09uMlVyU0tfX0x1OU5lREdhSGhxaEpqZFB2Snk0WEUtSVBiNGo5SXdvdlphUzJTdWxidlBpcE1wb01RbG9uTU1tSG5EM29BMDJFUlUwdDlSMUQ3UURBcWwybVdYR2t6bFdsTGdFNnJhSjM2ekN4YVBzZEFEcDB4czBtNkUyU3RnaEFWZks1LUhWZkVGYm5RVEdfQTZxQlI3VnI4VENocWRYaS13QmZBYmxI?oc=5",
-"source": "Sahi",
-"published": "2026-09-29T02:47:16+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "dffb8605174eb8ab",
-"title": "SBI Life Share Price Live Updates: SBI Life's stock shows consistent performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-29-sep-2026/liveblog/134554474.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:47:05+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "745179b022328da3",
-"title": "GIFT Nifty down 81 points; Honasa, Varmora, ITC, HCL Tech, IRFC, Tatas among top stocks in focus",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV0JFRmRxUHpUbXBKdnE5VjNVbXdsdlFiU0tpcFJILWxkUVhxRDlyaU5oOEF6THVqVzlScVNBUDQyUU5TQ0RDdnNrTVpEM1V0R1IwMjJFNG1URlpjNXhZTzZoWDlmVzVHRVp4UjkzYzhaUFNQTUJLNUFpVmp2TGhDTlhBM0hzUW9wR3NNa1BudDhPdDJHM1c1M0llVVA0TE9OY0V6WlNfX1B4RGRrZklzb01nVXRlZzlVdlJiWjdHTFZ5ODZBOERPM1ZZTEl0cHNoVUU2VHotMDB3TnZsRC1fYnFCcVZUQ29odXFSWlMtRFFRLTZ3Wk1B0gH8AUFVX3lxTE9kbTlSM1NVYzA4QXBWaWVzNVRlWVVBVVB4Q09YX0dGVFo1YnFrS0ZtMDVKSWM3eVdjQl9kUTRYdTNkSTZoYzI2Q1JjQnBmUXZtYXRSNFJWeUVnenlPOG82NUQ1dXByUHd2VW1Xd3ZDak4tbURzZzB3VTBpOHZEU3hjbEVQTjdXOE95VlVFZ1liMkVMVjJiTjJvTW9ZXzNSYUxwUXFsdVhqdEpVZDJlVF9BMktYMFU4SDNCa3d1cFJ1czItWHRWaGNyRlFhMmltZ2lJcnJrOVRTQ1M0UTZ3UkZYZk1Ib2FlMnV2OUJ4MnFQdzlxMEp1MjhBNkRsZQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-29T02:46:38+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"HCLTECH",
-"ITC"
-],
-"groups": [
-"FMCG",
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "03e5830f300c0cd6",
-"title": "Tata Consumer, Marico Stay JPMorgan's Preferred FMCG Picks Even As Inflation Continues To Threaten Margins",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVOWmVlRGFqQTZwZWVHTVd3VzFKSmh0SXc3R2hsUGFKbDlQcENrYURVUkhJVjFfbmZtMVgtOFJFY216ZU5HTGtBOTlkeUNZQXlLZ1RGVkplbDZRdE56YUxQUFBiX1ZfVHNIbGNzR09YOEh4ZTFtUU9ieHVNMVhDa18xZEM4RTlFWU9aRnJZYkdpNmZWRkRMcjN0eGwwZzBHSW5rTGpWcDZsY1JEVXlJTDhGcHFpVlZ1SkFYbU4zN0NpWHVpRVJHQ1BMRkg3ZjljeEpVZHdubm4wQ05kTmJaMmJZa9IB6wFBVV95cUxPdkNlaFdwdFdzbWVGUGZ5eTJHWTkwNnpubkZrMW13Y2pTSEdJdll4QmtwdnEtYnpDeDVTTHBIUGFweXN3enRoS3dYY3oxbHNhTUg0d3NBREVrcXBmcGphNFFOSDZkQVBKWGdrUTVEVFZCZWVudWs5b09oWW55ZnNDQnZEUER2MDljenpEbnJGazFkVWU1V2NwY1FMOGdZUDl5YUhjbUpMVXNMZUxnMHpPbjRwYjJwN05ieXR3RHZCVF85UUwzOU9oWXNzNG56ZkM5YjRkZ09iQXp6QlpDT1hfdElBR1lXaVFiSUFF?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T02:45:11+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "36c98f7c50ff67d9",
-"title": "Stocks to Watch, September 29: BSE, Honasa Consumer, NCC, IRFC, ITC and other stocks in focus today",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlZKZS1haWZyZktxaEoxc3NyZkdxYWpqbmlLa2tobHpTQ1lJczhwdlJiOTBCSkwyR1RnZUZVXzVKSnlZa2hrTTZRMTFDY0tUVFZOQ2k2SzNWcWcyTHZpWFhtcjRGOGh6cHllVUZkS0Zvc1NndlBvNE1VYnZ3bU1QT1oyMGxua3hienduSHd1bC02aUN0cXJvMEdNdWpLNElsdFhHZjNyRzJUTFRhRVVTUE5iMGk5cGhQZTZSbm5CT3JVM3dlRGVKMjFQcjVRTm90YUhkNmI4VQ?oc=5",
-"source": "Zee Business",
-"published": "2026-09-29T02:44:47+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ce1f42b292f4d0b6",
-"title": "HDFC Life Share Price Live Updates: HDFC Life Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-29-sep-2026/liveblog/134554416.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:41:14+00:00",
-"first_seen": "2026-09-29T04:58:35+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0aff854872170d16",
-"title": "ICICI Bank Share Price Live Updates: ICICI Bank experiences a decline in returns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554403.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:40:40+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
