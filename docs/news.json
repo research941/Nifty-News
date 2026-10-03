@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T08:51:49+00:00",
+"updated": "2026-10-03T09:05:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "719e3a55c082081e",
+"title": "Upto Rs 1.36 Lakh Discount Offered On Maruti Nexa Cars This Festive Season",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzh5TjFtdVkyQjRHTllRZkxwR0FqSUpIenNpZUpSMHNoZ3docUd4blVENUJSZUl5S183TmlDekd5MkNESWRBVXFldlNhRldaZGJkNW5qOFdka2xvMEo1SzVybWV3UXQxeHJ2Y3Q3MWprZ2VDNmlIUTRIcjZORlN3dkswLVBjSzBsZ0FxTVRwa2h6cVhiajJzXzVKOGdhclJa?oc=5",
+"source": "Trak.in",
+"published": "2026-10-03T08:52:29+00:00",
+"first_seen": "2026-10-03T09:05:59+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "99051a7ff19e6656",
 "title": "NTPC Bongaigaon Signs MoA for Model School Project in North Lakhimpur",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmN5NW1MdEpoOEZKc1V4d0VscGVHdUtnOTFRaXhyRFdfZzdZdnJpbmxWQmlBLXlOTl9fZHZ2cE85a3RqSmdTa1RwX2s0clVWTGFCdThiamE2dmF2aUpVZXU0UjQ5Q1FudElUSnhXTmMyeVBhVE1HZWNGNzRyM1Q5NmtVTzdNdHpMMDIxNFVpalZpdV80cXEwSDNYZ3paaUYyb1ppek45d2lfMlJ0YnVhNm9YRFdWUTUzdU9ZTHdLcEc?oc=5",
@@ -458,6 +474,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "559b11354bb24146",
+"title": "ITC completes Rs 645 crore acquisition of Yoga Bar parent company",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTE5UXplTEtGVldKbkpRT0hTWjlINHQ1OWx5RDkyTzUzWloyX3N4VkpzVW44bUNISy1xUXJfNnBmVnNrUW1vRmJvY3lDN2FvdTVCc3U2OTc5YTBhdHVjYkx1ZnBXeV9QT0lkUDFXa19vVnU1ZUZ2NjlkelZvbWVzNkktTHNIcEVKMi1MaGJPOWxrdmlTeFZfa1B5WVJFQ2dL?oc=5",
+"source": "Indian Television Dot Com",
+"published": "2026-10-03T08:34:12+00:00",
+"first_seen": "2026-10-03T09:05:59+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Order/Deal"
+],
 "sentiment": "neutral"
 },
 {
@@ -50897,38 +50931,6 @@
 "source": "Economic Times",
 "published": "2026-09-29T03:15:04+00:00",
 "first_seen": "2026-09-29T05:30:12+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ed2aaba05810db1a",
-"title": "SBI Share Price Live Updates: SBI's Current Trading Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-29-sep-2026/liveblog/134555005.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:15:04+00:00",
-"first_seen": "2026-09-29T09:03:01+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a089515e52321bec",
-"title": "SBI Share Price Highlights: SBI Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-29-sep-2026/liveblog/134555005.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:15:04+00:00",
-"first_seen": "2026-09-29T13:49:41+00:00",
 "symbols": [
 "SBIN"
 ],
