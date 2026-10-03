@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T06:49:29+00:00",
+"updated": "2026-10-03T07:08:05+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "545e298ffac496f1",
+"title": "Maruti Nexa Cars Get Big Festive Discounts: Benefits Of Up To Rs. 1.36 Lakh",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUdIBngFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUQ?oc=5",
+"source": "Gaadiwaadi.com",
+"published": "2026-10-03T07:07:15+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "18022b3b23f79af5",
+"title": "HDFC Bank’s Next Test Is Bigger Than Anup Bagchi’s Appointment",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlJiclJ1V0dHdklNMlFPWkdSbE82WkJ4dEpvZXh1SnN6ZWNycVBWX21hZWRNaTBMLUsxNmZSamUweGowVUVRaFg4a2puVFZIb3dfSlRDaHhqOVM0c3FhZGJmZTY4X2Q5TEVhMTFTSXZ0ZEJWc0xtSURlblFkN2gtSFB0b01Jc0ItLWxuTmZnalZZY1g3b0pUdm10Z1c2LTlGSVdV?oc=5",
+"source": "BW People",
+"published": "2026-10-03T06:56:52+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "82fd17e2212e5825",
 "title": "Sun Pharma and LIB Therapeutics Sign Lerodalcibep Agreement",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpPVENldjkyZWtyNW9oVU9qNkxIaUZ5UEhhNzJGTzlOU2dkSzRfYy1tMmk4U0RyQTZTa2Q3d081WHBOc2VTZWVSdzBKRC04MW9CUWt5WEhIZzJXcHdMV2FYT3A0cEpiMGFmZmxocXEzLW1SaE4tWXdhdXVZTW5zVFlfeDRtSXFGT2NTZUh5bW4xT0twcWpmSw?oc=5",
@@ -700,6 +734,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ef0fbc42cb1a7e8a",
+"title": "Maharashtra Regulator Cancels Licences Of Cipla’s Pune Warehouse Over Drug-Safety Lapses",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZG9DaDI1bmlaWE1sTFhUT1EteUEtSkpKMmFLbkk5cnhxZTJvTmNRSFB3ZU15QkdFX1lDQmxhSFhpaGE3a2F4UXBiSUU0MFNBSzZwVWJPVHhmX0FQLXAyVFlhUXY0bnJLc0dpb0Mxc1EtM2ZMRU1KTTZPc3VVQTZOc3lyUmQzbndfamlxNVQ0TXkwc1NXTE9acWcwX3Z3R1hJcnVDVVhVcXlBQnJnbm1Pb2N30gG3AUFVX3lxTE4tRmlnVTlRUURYd2E0VTl5cEc3WEdGSmlpY0FtQWdYeFJaWDlWVTB0T0lRZU5Vb3M4WXJpdnJNdVdLaEZ2eDMtU3VVVy13ajVDVmVuSGJqX1l1UlVDWjN3LTBMYUhTaW5id0FhVHFvbXctZVJMUmpYVHpYNGVCMGpmdHhhOGNPaEdzMldxdmdfTzFyejZBOGZINjRiNG9NTFMwTl9wWVVsRXZzSnM3eThTSXh3R0JRNA?oc=5",
+"source": "OdishaBytes",
+"published": "2026-10-03T05:04:45+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1187,6 +1237,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "99880fc4986ebb81",
+"title": "Adani to invest 100 billion USD in AI data centers to make India a technology leader",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYzZFQ1dXMlhFLTdSMUtTMHNqcTFWdUNTRHdOX0J5SDVpd05ZRC1jeDlPb0RMNFM0bDRSeE1OZmhCa3JzMk55TlhUTUJQR3pYVFJoRjJIV3lBYXEyREpmd0hKdDVHaHF6cE9odFNvNF9zcGRwRUF0dUE3UHdjRldaTHMyVE9qUXhyalR0RVRTVnVINEs0TlQtOTFMSU9WckI5Z3VienE5ZUdGbFJydzJPbUgwTjAtMHlPcDlmNWphOVpESURaaW92ZU55SlFMaHlrUURaNkFGcHh4QQ?oc=5",
+"source": "Turkmenportal.com",
+"published": "2026-10-03T02:13:27+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4c3dd07f248b20b0",
 "title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against HDFC Bank Limited - HDB",
 "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPWUpobVdVcmR0cG1XeGg4VmdfUjM5YTBsa1h6NDRSMTdwTWlSdFhfUmFQd1hhY3RvbWVvWDVGZFVlWWp2ajU2MFNjN1RFOEpCWE9sbUt0cDFTMEIyVXdtaF9xUFp5blZvdktDZHB2cFNKeVdDYTFkUEJzYklPSWZrRlhqdkFiVzhLTHQ1MmNYbDRWM0NuLVE5TmR2aEJRbmRoWXpQYWt0VzdTWjRRTU1FZ1prYUJ2ZWRQZkpZNS0zOUZZeTljWXY1blBfZzF1UWFOMzhDd29vN2VXRGR2aDZra2J3R3ZOc0JNUkJMTk9zRHBRUnptYWhYTndqUzR5dEFiV3dwRUNxZGEwRkR1bjliWmZIWkZyQ2lhbVNObkNnbXNzMWpYNVprbk1wTzg4TGdSMnhfUG9MbEZLb3A2VWR6aUJsdW1pMmt0S0F6bkhn?oc=5",
@@ -1313,6 +1379,22 @@
 "source": "urbanacres.in",
 "published": "2026-10-03T00:41:45+00:00",
 "first_seen": "2026-10-03T01:20:03+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "bff521fafd9f4860",
+"title": "Coal India Supplies Rise 12.5% on Power Demand",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFZuQWpFSy11NDliSnFiVjk0OS1KbjF0bGNDN25xRVpqaVVaMzdTZnYwWjkwUk1KQlRwZy13UTdqbklFQ2RVR1NGYVo0R0JKRGJhVEJGNWp1aVdlODlNUExWd3dYY2RGMHpHMVVKSTNQbFJXcUc2ZmFNSkUxRThQamthQmxUcUZpdjlz?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T00:41:45+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
 "symbols": [
 "COALINDIA"
 ],
@@ -1724,6 +1806,38 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ba7cf8b252dd2368",
+"title": "Maruti Suzuki Victoris On Road Price Bhalukpong Oct 2026 - ₹11.79L",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNk1NR1ItNnpZWUtwcThfVllqcWpyR1RaUDVSdmdGSWp4WTdNOTFRNnJ5Rk5acndqcEduUm1sVnNpRWY3M0dNeXZxcnNMVzNQTUg2aVE1UHk5aVlBek92MjJIa2MxQXZMU2Y3R1EzN1BRR3E4a2U1QnRtajNVb2FWODY2Rm9UZw?oc=5",
+"source": "ZigWheels.com",
+"published": "2026-10-02T20:21:06+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "423d68cc2d7312f6",
+"title": "Second Hand 2018 Maruti Suzuki Baleno Alpha 1.2 for sale at Rs. 4,70,000 in Nagpur.",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa05IWGpLOEw2UWo3M2x1S0k0UG43czc5RUtwN2lrRWlrSXRaMWd0WEZuLVB4QnB1NVlId1NqWmUxNkttS0gweXRZRVFqV1FFcVcyMlAxazVJbzl0Uzd6bmF1dFJqU0pyM2xZVWctLTctdnNaeFZsaTE0ZVU0cHRlc1A2NFJkUQ?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T20:17:03+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4959,6 +5073,22 @@
 "Regulatory",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "4a4e35df7df18863",
+"title": "Second Hand 2016 Maruti Suzuki Alto K10 VXi for sale at Rs. 2,59,139 in Chandigarh.",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmM3TnFtZlJ3MUNQS09NS0c2V0cwRXdGVDMweW5oTTlBYmRuR19mZHVkME54RmhLUnhIb2JCSG8zVHJCU1JLTEJLVlhfMXFGajhOdGdkXzJGSFhOUDcxREVLUEZjVi0xN2NYb2o2c0NONWpEZWZIdS1pWDYxVFdtUFRuYW1XRW1V?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T10:12:55+00:00",
+"first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50802,134 +50932,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b40b7c1bef46fe8f",
-"title": "NTPC Share Price Live Updates: NTPC's Stock Performance Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-29-sep-2026/liveblog/134554636.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:57:51+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "814ebd0dafd9fb21",
-"title": "Stocks to watch on Tuesday: HCL Tech, NCC, IRFC, Ola, September 29",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHU4elhMZXVUZXdoc0ZXa1pPcEFKZ3EzYkQ1ZDg5N2FhZWl6NjdOZUozY28xbHc4d0VHZWpRMUVWTkRuQV94dW9ELUw3WUdOekdzT0YwMmJwYU10eHVVdHdOVXJfakdqNzBoZVhwTTZZdlhCRXhPT0hwZlRVdzVaTFg4WTFzcTZucVZNQVY4aWN3NUh1NVNqRE9hVGtVOHMwNHA4Q3BWMXR3YXlaQ2h2Q1ByVXlYeTZzQWFKdkNsWGRIVFlERUpkdDNSUG5xSXVSbUdv?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T02:56:30+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0fd5fd95d82f5b1a",
-"title": "IndiGo shares may rise 21% as Goldman Sachs reiterates Buy at ₹5,900",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSGNPTlJwSlpPaHpHUEhfSDhHMm0xNzRiX3liLThvSnk3d0hkUGU4N211ZGVwMUZzdVdPdlVMNDlteGVNZGljdlhnbWduTUhlOVJDWFB2X3hNRThaTWZFNlRQcW5BVnloU3YtYUhJMGI0QmZOQ1YyWWM1VFJkWGVEYW5QX3Y1bzN0Sm1jUXZ6YjlCSXNuellQYzZYUlhXZkIzNDFVVmVDYk1UalZMdG5GaTVjZjV0LUFUVGhod0dpeGJwblZCZUZhYkFjR1RBVTU4U3RuUGJn?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T02:56:30+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "7e2db4951ae5da38",
-"title": "Tata Consumer Share Price Live Updates: Tata Consumer Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-29-sep-2026/liveblog/134554611.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:55:32+00:00",
-"first_seen": "2026-09-29T04:58:35+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "49e1a1a6e484e672",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries Experiences Decline Below 100-Day EMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-29-sep-2026/liveblog/134554600.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:55:04+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "22aa0aa8ac1de7d7",
-"title": "L&T Share Price Live Updates: L&T News",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-29-sep-2026/liveblog/134554599.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:55:04+00:00",
-"first_seen": "2026-09-29T07:13:07+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "669ec5e2046f99e8",
-"title": "Eternal shares may rise 16% as Goldman Sachs raises target to ₹385",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa1B3RDVaRHlwRjRnb0NHbWp1dmdJV1pqMnlOUV9Pc2V5bzdrRGkxVks3Q2xkdktaSkt0UGR0TmVqdEpyQ0ROaUdLaE0yR3dKeXZBMGFBOG9QV1ctcXE2TGF1RlBEOXFHMmpiaU1iOW1BN0dMRDlrT2NHY3dHOFBCekc4XzhpZEZ0NDczUmRyM25NSUVCNWNuUGZaQnVOTGx5UTlzaXJXWl8tZDJIWWU0NUw0S09WVEVEc3h4VlNyRE9lQmUxSnl3WWQxYldiVVdDY0xwSg?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T02:51:30+00:00",
-"first_seen": "2026-09-29T02:57:22+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "21c22060bdf9d895",
-"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement faces a tough month",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-29-sep-2026/liveblog/134554526.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:50:05+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
