@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T01:20:03+00:00",
+"updated": "2026-10-03T01:36:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "80eb74140919b06e",
+"title": "Airtel vs Jio Rs 699 Broadband Plan",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNmxtSnFEUG1EZUhSdFRRZnl4enViYnU4S0RBTjg2UU9CdFJEdktraUN2dWFPZEdsNDE1N2dCQnFYdjk2OVVYNWwwcVJkTEw0dVh1TjlNSzh3ZkpteEpYaHQzS1phbW93blczQjl4ZjZ6V2h5ejVBNA?oc=5",
+"source": "TelecomTalk",
+"published": "2026-10-03T01:31:28+00:00",
+"first_seen": "2026-10-03T01:36:14+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "079d7adbd4427f66",
 "title": "Coal India Supplies Rise 12.5% as Power Demand Pressures Grow",
@@ -4330,6 +4346,24 @@
 "groups": [
 "IT",
 "Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bbb323d71634a267",
+"title": "InterGlobe (INDIGO.NS) Q2 2026 In Line: Where Does Growth Come From Next? - Margin Compression Risk",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2lLaDBheXVkU0poUk9ab004bDU1QVNidmNDM2U3WVdUZGdRQzVjcDNhWnl6b1diS2VZN3RnV0hjUUcxbG1kZllXMUlKZFRwbndYUG1vaW5RZDhmQ2Nmd0RlMlJqWVNic25oVkhIa2lqVlZGREVxc3RHUE9qOExZZ2M2R2dsOW5Fa1g0eURwTmwyWEVKLXpLSGZHcFVSZjFHUERxMDBoa3FWUkVXRmhwSA?oc=5",
+"source": "siam.in",
+"published": "2026-10-02T08:34:12+00:00",
+"first_seen": "2026-10-03T01:36:14+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [
 "Results"
@@ -50883,40 +50917,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "72958a13282b9dbf",
-"title": "ITC acquires remaining stake in Yoga Bar maker Sproutlife Foods",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTgzYjM5MkFPOWNIZlYyTkQtNjU2T3lnbS16b1JJN3U5d01ZLWhnMklJNVBhMWhXRHpEa1NMTUg0aTNDaEZGWnlXa1MyYkVsU0JwZ05Tei02czB2SGFxVUtCd1BIdWlZVmRteEVZd3Nab0puSmhvcjl4aVBRWFRYUXZISHBpNWVpekFpd1d6dGRwZXJxdUMtZTZzSjZzZTJ2MmJyZWhoa0Y1M0hGV0tQX09sYmloOHRJNGprejZrbXlwRlYySzFZX2N30gHQAUFVX3lxTFBqclBTVDJERVBiME5kX3RCQWVXdnpEOUNwSUI4NWk4QlVwUEZkeGN0eXRLNzNYd2ZoZFQ0TEQwdWtfY05PbXctTXZzbHdmcFV4R1d2cURKdlptVUFsRU9KcHlGX1BrNE9EMnZISmgzR05KY1UzVFB2VFNkVm9aOEtDeF90ZGtFT1Z4U05UZXM4aDU3MXR0RlFhUWx5X1IwNU5VeHpsajFXV1FyQlZjRUo3OHN2VEZITlp4MlZMQVRmOTEzTE9sb0pMa3hGdC03S0E?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-28T23:55:46+00:00",
-"first_seen": "2026-09-29T00:26:11+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "831d1ce8391cd32f",
-"title": "Black Titan Corporation (NASDAQ: BTTC) Share Price, BTTC Stock News, BTTC Share Price & Updates",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wa1ZkdGNZaTU2b0Zra191Z2M2ZWdFa0oxSUplWDE4M1R0ZXBGVU5XNzZMSFZQd2FVcEplYUhDcmgzQ1lJdEUzcURIc0tySDdfSWNzVlZn?oc=5",
-"source": "Kalkine",
-"published": "2026-09-28T23:51:45+00:00",
-"first_seen": "2026-09-29T02:17:16+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
