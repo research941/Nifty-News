@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T08:22:45+00:00",
+"updated": "2026-10-03T08:51:49+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "99051a7ff19e6656",
+"title": "NTPC Bongaigaon Signs MoA for Model School Project in North Lakhimpur",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmN5NW1MdEpoOEZKc1V4d0VscGVHdUtnOTFRaXhyRFdfZzdZdnJpbmxWQmlBLXlOTl9fZHZ2cE85a3RqSmdTa1RwX2s0clVWTGFCdThiamE2dmF2aUpVZXU0UjQ5Q1FudElUSnhXTmMyeVBhVE1HZWNGNzRyM1Q5NmtVTzdNdHpMMDIxNFVpalZpdV80cXEwSDNYZ3paaUYyb1ppek45d2lfMlJ0YnVhNm9YRFdWUTUzdU9ZTHdLcEc?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-03T08:36:00+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3d73c1744ac2f2c7",
 "title": "NTPC Green declares commercial operation of 50 MW solar capacity at Rajasthan RTC project",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjB4WF9ob1pDU1ZxYU1VeS13NXBMbVhubU92dF9aTjVrUmNnbTgyeGxGMEcyVnBSTkwyN19KZHpIM1g1bFJ3cTRlU0h0SzQteUZSSXdPR0M1MlpmRDNBVURvQTA3XzYydGVrN1FkNGd1SktZdTVublRuU3VxbEY5SWF2bEhNVUJOZGdlNFJTSWpYZ2Nfc2hmdnlfSXVjNzNCVmUtLXJsZjN2Nk9YSVF6MldMcG5hc0R0?oc=5",
@@ -456,6 +472,54 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4902bbb13ecdcee2",
+"title": "Adani Group Has Rs 2.6 Trillion Worth Of Projects Completed Or Underway In Maharashtra, Says Pranav Adani",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXhKeEZHZXNzUEtlUlJ5ck5fSTYtSlhGcDNRUlBWUHJEQUlTSjdrbTRPcl9vN3BWWXZfOUdiRFNVNGhxTEpObi0zZG9qcmNRdGRVd2ZSdEVjSXNjSjc1MTA0S3lZdF9ab0VvbE85QUdBcFctc2pDc3dqU1Fpc2REaVdkTHo3X0prR2VhU1FURDQzTnJVZUhIdWwwQ1VDdlU5NDBYNks2VDZNSmJLTkJLOXFUWDJmQlFDdTJpYTVrcm5mMGlSX3hDMS0ySVlycF9zejBnd9IB5AFBVV95cUxPWlB6TzdfZEFLVzBPMmY3MlhwbktpMWNpLWQ2NXRRQktJNDlQb1NEQl9tYmxtLVRGdmkzcENpVjdkTlhNdWpBUlhXbF9qMGFpbDZRT3U3d0FPU3AtU053TGNVbXBrODNjWHJCTmd2aHdDcmJMeEFfd3VoTzhOVnNUM2hFcjZNdlBkaXVNaG5aYjJ0SjRYeTB0TjJPSVlDZWdrQlozTndramFreks1anFoNkRMSldNV3YzQWRiWW9DQ3lVLUxsdDhZS2xHQXRabUd3ZGVnelRxbWtyajJrQkFrSDJWbzI?oc=5",
+"source": "Swarajya",
+"published": "2026-10-03T08:11:50+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8842bd3409223aea",
+"title": "Mahindra & Mahindra Financial Services - Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNay0xb1RVZlZIMXluOWk4ZW16NTlvS2N6ZkNMRnA5d0FIT0lwQlhXdDJKRjA1Qk40R2Jfd1p6dFBvZ1RTLUJwX1hMY1phZFduUTI1Q1BpdEFSV2t1UmM0OWs3QkZWeVZRbHBBZDJMRHlQb0g0Rk1HVWxMOS1GdmpxR0c5YlBWX3Z6UHRGbWtrT1BoVmlFeXFMNHNibnU0czl0OXAyLXNvZnJVajROMVdlOGhBYWZodFRtalRnaVlxSE5hQ2FzY2VDRE1LQjZEbnRTODI0Q0prSUlTWUc0Tmt5ajYzUlJFaGVfcXZTZ2VCUEZzT3JsREJXTWRYOWpyeE40S3hPX2Jvel9WZw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T08:10:48+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "f6d6d24db0ec249f",
+"title": "Kunal Raval Elevated To VP Corporate Finance At JSW Steel",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWd2THNOLUN3UDhJa25rZnNpRTJ3UTdRNHlQN0NIemkyMnN0ckpONzRzeVBzV1NEMTlqV3FMdl84VGR0ejZlMkJqcXdzTC11UzFKVzg2WHR0Rkc4UmJSMXJ0bmhKUDVtQ2VmMF9EUTZmMEczUmtpd210QXFFOU1EWnZ5LVU5UU5vNkh0TmFaOHZYZkg0RVFwSWZvVjNjWTBvNC1aSVdGWUdLX2dOQ25Cd2ZDMnQ?oc=5",
+"source": "TradingView",
+"published": "2026-10-03T08:00:47+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1992,6 +2056,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0525b56cf602942a",
+"title": "Axis Bank meets 14 global investors at London conference",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnAyNEFXZGhGOVJuMFUwYUpWSGNzREdwLWktSDhOcTBIOFJxYjZhWGMyRDl5RldoTDg1bmNFTmlXS0lzdW4tQ2d6REJCcC1hSFRXdHFEUU5zRGhCRHM1SVh6ZWZNcWFkMXNhNUQ5NFdadGVvcGplWmw1UmpHbWc2SEVWY1gwRVY4Q3A3MnZndS0wUzBDVzh0VElxR3RNZkt1VFRTUURnZ21oa3NTQm9B?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-02T21:10:19+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5256,6 +5336,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "46bcdc578ebc4fbc",
+"title": "Police called to Stoke-on-Trent shooting",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3FMNFVmN3M3cXMzUXZHWkFZUllXenhFT0dQVmp3VndlNVg5WlV2OElpYjZDOTVVMjBCb1BPWi04LWdZZmkwMnBjVkYxVl9mUE1xR2x3VmZNZldaLUZQT21rSTYyX2ZSbWZXcFBjTXowQWZ3bWJpc0NxUkhwVkdsaEtwbWVhX01MZDRVMm42REE5TkNfbjVQV0RtTDc0WWQwaUHSAacBQVVfeXFMUG4tRE05WnVzaGxmRTJxdTRWNnlTN0dPb1pqOXM2ZUQwNnNxOVk0U3JUUGF6ZUNDbkY2dVFuanM3eWZ1Q1NHeE5HTXFRMlhKcUVEREtVQU9TekN1TllnUW5pNGVSYUhicWR3SGR5RHNLYmdSRFlxOWZEUThwUHg0N0QzcnhPd01oeHBoV2hzS3ZJekhLSFVMcHJ0TEttdWlYaVd1ZFBJZ00?oc=5",
+"source": "The Sentinel",
+"published": "2026-10-02T10:31:00+00:00",
+"first_seen": "2026-10-03T08:51:49+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50838,104 +50934,6 @@
 ],
 "groups": [
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "254e0e4c31a8d317",
-"title": "ITC Share Price Live Updates: ITC Stock Price Movement",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-29-sep-2026/liveblog/134554950.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:11:11+00:00",
-"first_seen": "2026-09-29T07:47:31+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e6e84d61c4f5222e",
-"title": "ITC Share Price Live Updates: ITC Limited closes with a slight decrease",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-29-sep-2026/liveblog/134554950.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:11:11+00:00",
-"first_seen": "2026-09-29T10:07:12+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "75e64d9ebb3de693",
-"title": "Sun Pharma shareholders approve reclassification of promoters to public",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNvaXlLa2g3N0JxeXN1YWhWWThTbHZaME8zSEljS182d1djSHVMY2JPTDBlZTNadHA3US1ibzNfUXd3dHF6Vjh5c1Nyc1EwTTJuaGExMjBBVEE0WWM0SHdSOXFWdHdsYklMei1VR2R4MUtLRVR6cF9xUnhDS3hPZFYzNDhUZzZTVDZ3YkZiRkVkSFE5UHR4U0EyZ2ZUM19zanFMYmhGdllRaVlkUXk1Mm9GM2RiVWZlQW1QRy1Wbw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-29T03:09:20+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6b6c3c089a54b49c",
-"title": "Infosys Share Price Live Updates: Infosys News",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-live-updates-29-sep-2026/liveblog/134554883.cms",
-"source": "ET Markets",
-"published": "2026-09-29T03:07:23+00:00",
-"first_seen": "2026-09-29T06:56:58+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f509274a801c3d14",
-"title": "ITC buys remaining Yoga Bar stake for Rs 645 crore, takes full ownership",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVFGdVBvRmxwTkNRX01NTlhveVl3ZDlXS04yQnBPMTZfOHh2MldWdVExSzh1U19LdTVsS1BVeUVwNWxUOWxUZGw3akczcWFDRnRsNFpJeEI4NHZFaklsLThvTWFqcXo2SzQwZWFxNFoyVTB4QjdzTFFqeXBHckNmWG40dUZYVEMyMjFKVmg4UkQ1YnNQdFJTUl9adk05RGRWSDMxRzN2RTc5Mk9kVEJkcmxST2NHSUluRV8ybHVPR21LcW5KNGRSdFpFYXLSAcwBQVVfeXFMUHVRRnVQb0ZscE5DUV9NTU5Yb3lZd2Q5V0tOMkJwTzE2Xzh4djJXVnVRMUs4dVNfS3U1bEtQVXlFcDVsVDlsVGRsN2pHM3FhQ0Z0bDRaSXhCODR2RWpJbC04b01hanF6Nks0MGVhcTRaMlUweEI3c0xRanlwR3JDZlhuNHVGWFRDMjIxSlZoOFJENWJzUHRSU1JfWnZNOURkVkgzMUczdkU3OTJPZFRCZHJsUk9jR0lJbkVfMmx1T0dtS3FuSjRkUnRaRWFy?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-29T03:07:16+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5e053104ea4a6174",
-"title": "RIL Share Price Live Updates: RIL's Current Market Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-29-sep-2026/liveblog/134554846.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:07:05+00:00",
-"first_seen": "2026-09-29T07:13:07+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
