@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T02:58:21+00:00",
+"updated": "2026-10-03T03:26:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "d47107ce4c770ecc",
+"title": "Maruti Suzuki Pending Bookings Get Past 2 Lakh Units, Brezza Nears 1 Lakh Orders",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWF3dTQ3UVc0WFJSZzB4UnBtWG11THNzZzhzRGlDUHc4TWNYQlJkZXl0d0xFWlZKd2I0N0dJdzJDZDdpMVd2ZXVodTlGU0huLW95MHpZSmNpenVlc1RvNTlxY1pES3NlTS1VMnRoZzBNZVBsNTBpM0RTbWs1OW5iWE9SRzZYSUFCVUpibHJZTlBNaW1PU2FRT0hlSW5xY0NFZlHSAaIBQVVfeXFMUGVhd3U0N1FXNFhSUmcweFJwbVhtdUxzc2c4c0RpQ1B3OE1jWEJSZGV5dHdMRVpWSndiNDdHSXcyQ2Q3aTFXdmV1aHU5RlNIbi1veTB6WUpjaXp1ZXNUbzU5cWNaREtzZU0tVTJ0aGcwTWVQbDUwaTNEU21rNTluYlhPUkc2WElBQlVKYmxyWU5QTWltT1NhUU9IZUlucWNDRWZR?oc=5",
+"source": "Gaadiwaadi.com",
+"published": "2026-10-03T03:10:23+00:00",
+"first_seen": "2026-10-03T03:26:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "27612e1bd0f15444",
+"title": "FDA cancels Pune Cipla facility's drug sale and distribution licences",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPelNmRENKbDR0Z3dmU21KbzdpZEdwdU0wYmZwUzJIR2xMUnhhMDhKZW1PNGtmcjdsYWZvREszS1BjbW56ck1tamN1Rm54Qm1PeDBhQ1lqVDRYWlVidDdZWm5SSWhQaGtxX3hXM1JrdTdGaHVURlpENnVRdzdVVzA1Ti1FczVpaHdiTXZCYWpCQVVOaDVkaGdUekk0dDBidzZndWk4ODNPb2lSaXZuMjlidXhtUTBlcWpVVDU0ZjRCczFQb2pucUE0OW0wekpfdExJQmpLYlJjYzFfZ9IB3wFBVV95cUxNWGlMUTJaUzZqQkVMZHB5OFNwM2pIMExJUDJPa3AtSEFzLWJxM2EyX0VUV1d3Y1BVUTgteHc4WWtubHJGVFJqWVN2MmhvWVlESlVtYW5ad3NCeTUxMHpiT2VObGF4dzh1U3FCZVQtakZTaF9haHhaRTRaZjhlMHpZOTRsYmQ3WVVmbk5MSVFxU0hUeldoc2hMTmJJRC1IMlZENUFCYnFPY2pldGo1eXVDZmdQUTFGZnJZMDBtbk9raXdoS0x6Z3FmaDVaeE9iN1ZGWGtFak8wdm1Bc25ER2Fv?oc=5",
+"source": "The Times of India",
+"published": "2026-10-03T02:55:00+00:00",
+"first_seen": "2026-10-03T03:26:32+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "992ca53cf9e03dd8",
 "title": "Bajaj Finance set to mop up Rs 17,500 crore via QIP, warrants",
@@ -1769,6 +1801,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "17c6dfe5ff16ec50",
+"title": "2026 Maruti Brezza Facelift On-road Prices Explained! Here Are The Top 5 Cities Prices!",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzQzNmsyME1hUlEwX3VIZ0JhbUlmalFRQmY4NTRvM25oMHRfbVltMDR4aUNXcEQ0UGFRdVBza0djN19lb2lpMjdTdnJLbkRXSDZDc2piZkZsWmRCS1drd0pPZjJvV1ppTWQ4ZC1MeWo5WWVsTVRmUklqbElPSnFkaHhUaVAwNU5mS3FTaHVFUGJvWjF2YkdzQ2xSc1NYc0VGdmQzNTZuS2R3YkFBeWFSbG5kZUhsOVZQWXZUVElYYTFNM0VxSXNnU3JB0gHKAUFVX3lxTFBjNDM2azIwTWFSUTBfdUhnQmFtSWZqUVFCZjg1NG8zbmgwdF9tWW0wNHhpQ1dwRDRQYVF1UHNrR2M3X2VvaWkyN1N2cktuRFdINkNzamJmRmxaZEJLV2t3Sk9mMm9XWmlNZDhkLUx5ajlZZWxNVGZSSWpsSU9KcWRoeFRpUDA1TmZLcVNodUVQYm9aMXZiR3NDbFJzU1hzRUZ2ZDM1Nm5LZHdiQUF5YVJsbmRlSGw5VlBZdlRUSVhhMU0zRXFJc2dTckE?oc=5",
+"source": "CarDekho",
+"published": "2026-10-02T15:18:27+00:00",
+"first_seen": "2026-10-03T03:26:32+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50867,60 +50915,6 @@
 "IT"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "27695c6e3c9568a7",
-"title": "The FAA Skipped Normal Notice To Ground-Inspect Every Trent 700 Airbus A330 In September",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhMRk5XM0EyUUVaT0dmd1Z1SnU5VklPX2d5dWg0eWtRZUxuV3B1MDh4cnpEb040RVdQTlVEZmNRSTRNaTR1RzI2RWg1dFh2NkJfcXJibWZicmhZeWJYXzd2Mkd2NXh4N1A2ZzJMRE1BVVBQQ0pkcFJYZjl0TWNVWDdwckZhVUVsajJJeEE5V2NPN3N2ZnRiTWxSNUllMjA?oc=5",
-"source": "simpleflying.com",
-"published": "2026-09-29T01:00:00+00:00",
-"first_seen": "2026-09-29T17:59:50+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "48b6457842b25394",
-"title": "SEBI Clears Adani Group Of Minimum Public Shareholding Violation Charges",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaV96akltUC1wa1QwLVltSEtoMmdyN1NiZDVidVZwaS0waGRVam4xZGd3MEhaNF9NaVNhVGp5RFV6NG1ISWtvd0w0SVQ4bmdHQ2w0WEk1ZF8wQXJCaFQ5VURXblY3UzhwNWxXeTNVa1B0OThOdWtqekVjU04wOF8zQ3kyeS12YTBjcGROUzFkamxnam5IQU9BNGtnOEdxMXpvU2txTHNyN3NKajJ6MWJmbWdpR0h0OG8?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T00:56:02+00:00",
-"first_seen": "2026-09-29T01:45:53+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c6c4fc6669c72023",
-"title": "SEBI rules Adani firms did not violate public shareholding norms",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHNBTjB0clhweVJUV0ppODRsdUEzSV93WmExSEdVdElmaThHMTZaRDdwS3VXU3BTbm5tOXJfZ0N1MjJDbmkzbTF1Ui1XZGwyVjYxRjNvSzRoZ2tPXzVIZWJ6SVJ1NkcyaVlteEZkclJpbXQtUmg5enZsdW44ZkE1SWljdnFoOGZOdWxsaFdQYzUzQVZtTVAyb0hLNnJaclBxQWdXSzRtS05tc3VBRExrZDRjamVBZlNXTk15SFVuVDdObVNJ0gHKAUFVX3lxTE5ZT25wQTdEeHR3SG9wTVJIbWY5SFlTV2JWTFMwX0NpSTFXQlVKMXk3ck9qRW5LVmtuSEhITVlseVh3cEFrdU1rb1VJcXp4OTJrem1NdXFNc20yVUQzN1FmamFPZ3ZPMU0zMTh5YWd5N3VFQ1Q2SVNUOENWUHlWeWFBRllxMGIyLWJpSFJSZXRXWnoyWmkxZ2djbTZ1cDNaaFJlQ1BpejhYSk5GTlBOS0RhNlp5UzB0bWRKTzdTT1VlU1VVVktKZnZXclE?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-29T00:30:43+00:00",
-"first_seen": "2026-09-29T00:51:29+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
