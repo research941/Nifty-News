@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T04:59:57+00:00",
+"updated": "2026-10-03T05:28:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,54 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "07d2fab9baee05e5",
+"title": "L&T Wins Two Dubai Road Contracts for Latifa Bint Hamdan Corridor",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzMyR280ZWVJY3BwOGNzTW9KXzdoU3VJT1pFUnF1WW5fLW5wRTc1ZFoxVmNfQ2xWb19BY29uc2hneDJqMkNrdTBLRml1U2o0Ml9RNUVsNGlnbXg0MmxQZHo4SUZkUlpyc0RYMGlwVVRTM2dGYV9DSUdYSUZocGVMTUFWZDZlejk0T1F2cTdST3d3WlRRQmk5RU4tZW02QjA?oc=5",
+"source": "Machine Maker",
+"published": "2026-10-03T05:22:38+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "995396efdc4b7e37",
+"title": "Axis Bank launches Apple Pay for Mastercard and Visa cards",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UTmtfWV9RTjNmZGhha0drTU84THJFaGlWeDQ2dWxiUnRYZE9XUTZTd0s4WjJtZnp3ZUl6Z0ZXWmdMTkZOc0hPRW1zd1doWnJMSFVtZUlRV0Fkc3NUMll1RXk3Wno?oc=5",
+"source": "MediaBrief",
+"published": "2026-10-03T05:20:38+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5e7f7165b1c18e4f",
+"title": "Cipla Unit's Drug Sale Licence Cancelled By Maharashtra FDA Over Alleged Violations",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkFkWE13TkdkZFZ1dVFiSm4wVmxxbW1ZVGc3bEJJb3NPMEJkUUxqcmhXaC1ER1d1QkltWmNMVTJaN0ZUYVJMc3ZYNkZBNTVKV2dIY0xFWEotMGJOdGJlTExFZ05scGlrTHRQT3BpVlpBbHN4c1dLUldlOHhEUjFpQW1maVBPX19zdm83ckhtYkxjZjBiRTRmd0JFYjIwLTBSZHhxWnRtbDZVbjJfSmc?oc=5",
+"source": "Sahi",
+"published": "2026-10-03T05:03:45+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "203952e98aabe628",
 "title": "SBI-led consortium tells Bombay HC Mallya owes over ₹8,700 crore; counters his claim of recovering more than dues",
@@ -1236,6 +1284,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "78b473a75fa14e7f",
+"title": "Second Hand 2018 Maruti Suzuki Alto 800 LXi for sale at Rs. 2,48,140 in Hyderabad.",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUXRTSG1OMTlMUWkxSlY0ZV9NaGNCRnlRSElUSWxqMjVqNFBDRGxMUlpPUm12ckNycUE4c1B2c0VPNERGZTJhbWpzSkJfaGZZZk0xOHQyajc3YzBsbkNaS0JlanJvb3o2bG5wdzkxRFRIZlo3WS1WejdaRU5yeVV5Y3lDU2t0NnpNWTk4NQ?oc=5",
+"source": "cartrade.com",
+"published": "2026-10-02T20:36:28+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "949be3086c736fce",
 "title": "FDA cancels drug sale licence of Cipla in Pune",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2UyQUVjeE9ZUm5ad3RFQUlEMEd1Z3N2Q3BGMHpLX0Z3Wnhpa09iamlmRUF4VzRxVUhJeUJ1SG9weWxxM2Fja0dsdHRLc09jQnJpc2JmUWY1RDZYMWhhLUVGRF9ab2hVbmh2ZXA0WURTa09Lb1YyeldGUW5IVlFQU3laczhLSGV2ZkpmN25KZTdQeGJW?oc=5",
@@ -1575,6 +1639,24 @@
 "Adani"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d3baf8a7fb2beaad",
+"title": "HDB Shareholder Alert: HDFC Bank Limited Securities Class Action Lawsuit - Investors Should Contact Levi & Korsinsky",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjNPbXc0dUMxS2JlSUdmM0Y2QjZuQV9aN3lqTmhPX0lkNEFRcFBWcEt0ZWktZlNNbEt6M09RaFpVRXNqU3VwUzNMaG50LTFkU0VmRjczV0MySkY3Q1RZVzBqRXVrR0lSTWdyWUthdFRCMC1ldXlvblo1bE9xcVRMYWdRUkp5QThPT3dWbWtVRUVfbF9ZcURaaXRJb2QzcU1QZ0hoRUw3ZDFDTUpDbktLZ1pBeTQ4QXBnZUFyZ1NIaDN4VHNRd1ZTa0lUOXBnTHJOa2ZsTDdEUF90Tmd6Rm84NXM0SQ?oc=5",
+"source": "ACCESS Newswire",
+"published": "2026-10-02T17:46:25+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -4350,6 +4432,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ba5d90a9e997bbf9",
+"title": "Hindalco Industries Upgraded to Strong Buy on Robust Valuation and Financial Performance",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXB1MjdKdWdfYmZyaHQtc2plSEplUzdJVG92cjhUWlNwSFJwSlJyMFdPM2YxZTNua3FlWnFpOWFfMFBfdWxrYlV6aV9Gb0pCaU1CSmFiTGF0VW9BVE1pSklQQXFBc2lXc0pRQ1JnUkpFaV9tcDRDZ21FRlRGa2dsak5ZTjZ5cE5rSUcwaGRpODJTWEloa043cENCdG1CcjZPbHhfY1FqRGNLYnl4eDJBbkNWdTVySGFBWjJkaVc1Um00WXBPT2JiUVlMXzNlQzBmcWxYNUlqUFJVVGdzT09SR0RuSWc?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-02T10:22:26+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "f1028f95ffc748ef",
 "title": "SBI RTI Reply on PLI Data Draws Social Media Reactions Over Transparency Concerns",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0dycGw2ak1TWVlFemJwdjZZQnh0WkNWaVdJM3hONUVqZGY2TzRYQzZqSXplN2tvRG5iTzNUQ3JBbXBnVjMyV3k2Y3M2RWdsVHdpR253M3ZFMmtybEVubGJiNGstZUFuY3hlaEcwSHV2b2xhelV1dGJ5M1FnRlhSX0lteEJLVVZRTXFQc2VVcDd3VHJiT3FvR2FKZTRSNm1Pb0RtcWxMbG9QUXFoRmdLUjE3ak9WMDl5MklRWVJn?oc=5",
@@ -4841,6 +4939,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "59ed653014e8fbde",
+"title": "Second Hand 2012 Maruti Suzuki Alto K10 VXi for sale at Rs. 1,60,000 in Idukki.",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVZjZFBMOHdvRFRvMXFmTkN2dlpTV0p6Q1VBTFZ4T1hVYWdEU005TVp5VHZhOXFYVUY5Ymt4b19RWTBzWnp6MER5Q2xsM1VLNGp1WGlSd1RWTWoxWS1Md0lUR3dHd3hheGk5NWg1YVRhWHYyOHJWdEd3UFRsNEt0X1dGRQ?oc=5",
+"source": "cartrade.com",
+"published": "2026-10-02T09:12:51+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -6626,6 +6740,24 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "e96bb0a8910ff3d5",
+"title": "Airtel Money Prices IPO at £1.96, Targets £5.3bn London Valuation",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQzl2NGpYR25WRVpRS3VvbmhwbDRjZ1YxLVRXMTNNUzRxa0NIOUhGZ3J0Q29fR2YtOG12SlJqUnhTdThVMWU3ZVFPUkxzcnJBejlTWG5mY3YtYjk1TnhnbmhhdFZjeDFmVzNWbzhFZ2VzbF96ZkMydjRLRFB6ZE9VdW5zU2E2eXY4X2w4TngzZFRNN0FaUW1SWFplNThVU1NhRDZncUs0ZzFzQU1yYWoyTmtia2ZpSmdzZDFmeVczaFRRZ0Frc3NUWnpzaDRQVnV2YmlBRUJiUV9oa0FMa3BEWUptTTl6cTBHdlVPeVBXd090ZGVsWUsw?oc=5",
+"source": "Proshare",
+"published": "2026-10-02T05:29:38+00:00",
+"first_seen": "2026-10-03T05:28:11+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [
 "Corporate action"
@@ -50776,134 +50908,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6e5da358d74b97d1",
-"title": "ONGC Share Price Live Updates: ONGC's monthly performance shows a downturn",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-today-live-updates-29-sep-2026/liveblog/134554292.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:31:53+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e0cbf4029f68449f",
-"title": "Cipla Share Price Live Updates: Cipla Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-29-sep-2026/liveblog/134554281.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:31:17+00:00",
-"first_seen": "2026-09-29T04:58:35+00:00",
-"symbols": [
-"CIPLA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4430a6a52685a354",
-"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Sets New 52-Week Low",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-29-sep-2026/liveblog/134554278.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:59+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2122437bd1bd8cbf",
-"title": "Bajaj Finance Share Price Live Updates: Bajaj Finance reports a notable decline in returns",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-29-sep-2026/liveblog/134554276.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:49+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"BAJFINANCE"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "84b89b97ea39db86",
-"title": "TCS Share Price Live Updates: TCS Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554272.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:41+00:00",
-"first_seen": "2026-09-29T04:58:35+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c3118645d07ddec0",
-"title": "Bajaj Finserv, Suzlon Energy and 5 Other Nifty 500 Stocks Trading Below RSI 30; Do You Hold Any?",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjR3NnZWenQxbW81VkxJU0d1T05kMGIwbEhjUmFqSlFxamZqbkdPaHdWRUFnVmtYekZqOXNaMnZTMFlIY0VxcVQyWnUtQjB6RG9nNlhIQzFDeTZabDZnN3lncThTYzI2NW5WR180b1I3a3lXYm91aFNMUDZiS0pUSWd3YWh5Nk8tRGdjVDE0WWZ0bURiVUJLaVVGSDRFWS1jMWlNSklCenhZLTlSWmpVY05xemk2VmxKbERtTUZFd2JmM3FNaWxFRmo4QmxuZS1wb3pFWjdzdw?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-29T02:30:38+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "28b09af6abd0ac47",
-"title": "Hindalco Share Price Live Updates: Hindalco's recent performance reveals a decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-live-updates-29-sep-2026/liveblog/134554270.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:31+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "4c7ad13ce7862261",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Dips Below Key Moving Average",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-29-sep-2026/liveblog/134554268.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:23+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
