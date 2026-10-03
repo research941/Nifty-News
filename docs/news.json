@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T03:57:38+00:00",
+"updated": "2026-10-03T04:22:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "1117776f5bfb631f",
+"title": "Pune FDA Cancels Cipla Pharma’s Warehouse Licence",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmVXd1ZaVThhYU5tQ0RURi05VmotaTVXU3dxZDktY3VheDZlQi1wVTBSSnRJRFBoVXE1LVd5M3pfT2ZYR3NkcmtHem5jTmxXb0l5S1hDZ3ZSS3BweGpxRUFBclpROHRnZExTY0FEVlJ6QV9SelktVzBIWHB6YnVnZGJDTQ?oc=5",
+"source": "PUNE PULSE",
+"published": "2026-10-03T04:13:46+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "aa4bce8702df5bf2",
 "title": "HDFC Bank appoints Anup Bagchi as Managing Director and Chief Executive Officer",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2hsOEE1MFB5NnE0Q1VuR096OW5BeFluLWNma3J5NjEyQXJMci1TbERVRmMyUzdxRFRJUnFWeUxRU3dVMll6cFNwSWFRQ2NzQXZRb2ZqQnpoYU9lWWUtSC1Na1RnUDk1Y1ZxV3RKdXI4X1lqUGpiSjJvNFllSVU1UUNjWWVsc09FdmdYVFVkZkNJQzBjNC1tT21IVGJVSGs4Tnd3MktVS3VEaGZWNDFLcERwQ0w?oc=5",
@@ -479,6 +495,23 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "fb191fd82be6c85c",
+"title": "Adani Ports handled 46 MMT in September, Jumps 11% YoY driven by strong container volumes",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1NEbXF2MFZzVDhvWkNveHp3LVNZd1BRSEJzTWFLSkJjTzNuTHB5TFZKZU1WR1FQeV85TWgwTWEtS3Q0SWx4d1c2RURNdHNUWUpIWGZrR2tVcTdtV0lmZ29zc0ZIZmpNbVVqRGxMNnEzLS1jbXVYVGsxdENIUllkdXN6SmF4RnJWckpzc0N1c0JBS0lLaXZZcUtNNXA4Zl9leVpnXzl2VGNpc0ZDZU1uZGFsVmozN2R5QTRaZXJJTWJyX3FV?oc=5",
+"source": "India Shipping News",
+"published": "2026-10-03T03:37:19+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "8c539f334f5a8ab4",
@@ -519,6 +552,22 @@
 "source": "Mid-Day",
 "published": "2026-10-03T03:20:00+00:00",
 "first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "104c44bc23280429",
+"title": "Maharashtra FDA cancels Cipla Pune warehouse licences over misbranding, storage lapses",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjBFQkNvM3ZzaUExdk5KdDlnSDZyZ2JQaFJKOTJ1OVJiSlQyNGRQWHNtZ3FpRENHNHQ1Y0padzFOckNRZmh1cXhvVndZdmRhVHdVd2JqdTIzQXhWSWFfeFVVam55R1lDRlhmVHRqUUZzOXdZX3pIcnJLcWpvbTZxT1hyeXJJSHBWWlcwaEFwWFdFSnBDajJNX292WFYtaDgzSlpuTGpBMFBMOXRxcTcwUHhUVkdOcXpGU3QxdEljMEppOFJMWVF4RXFHdTZsVGVnNTdqVEEzVUVDR0FiX1lta3RtSHQwemvSAecBQVVfeXFMUHYwRUJDbzN2c2lBMXZOSnQ5Z0g2cmdiUGhSSjkydTlSYkpUMjRkUFhzbWdxaURDRzR0NWNKWncxTnJDUWZodXF4b1Z3WXZkYVR3VXdianUyM0F4VklhX3hVVWpueUdZQ0ZYZlR0alFGczl3WV96SHJyS3Fqb202cU9YcnlySUhwVlpXMGhBcFhXRUpwQ2oyTV9vdlhWLWg4M0pabkxqQTBQTDl0cXE3MFB4VFZHTnF6RlN0MXRJYzBKaThSTFlReEVxR3U2bFRlZzU3alRBM1VFQ0dBYl9ZbWt0bUh0MHpr?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-03T03:17:00+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -902,6 +951,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "043a5f356e594656",
+"title": "Yankees place Trent Grisham on IL with hamstring strain",
+"link": "https://news.google.com/rss/articles/CBMizBJBVV95cUxPQWV3SjhkbzVxaXJLYkM4d29ZWUZBMlhhWW9NVm9tV0tmcnlKamYxaURVeWdYRUMwYmYtT01ZODY0cmdfUmdkU3JIcm1FbzNxNi1ZU0J5T05ob20wSDhtdTVDNmR4ZmlBYm1zOXR3eW11QlNzbEI1R01WdFlJYk9iQ0NVUjhnUHBqZlhid3U3OFNKekM0Q0V2S3F6eFpialQ0RmhnTU5SUW9Ja1hxZmRXUUxNSVIwUkc1RElCZW5DV05fMzZ6clFoUGRuUTY4dXlGRnE1LWFMRktTbHRxR25GenM4NEZDc2gwdDlValBCdDVnRlY4dnNLV1RNZWtRUlUyQVFWTjUxOEx1NUphVzRCR01IYXJoQnJaS29sVllWcTlPU2NzSWZfS29xdExBYVBkbVFXclo0SC0teGlWd05EX2E5empuSkhvYnNhVmZhSUNpeHBNSjhnVjAyZXV3NDRxY0RCTzhMR1RWcTBoY0x4Z3FfZkdPSFdOWU5vUkNSbXZiaUt0Qk5SYUZFeVZEMTdMZzhuMVZxX1MyVGxvaUJicVh4OU4yQ1cxUzF3WXVLdkxvcFVCRUJLM1pKbDF3R1BFVFZ5ZlVFUm5ISHhTdUhYaWhjQkJzeHctT3JBVUFwdUthZFVMcjVheUFCQ2pLcUFiYnN3ZmJ3TUtQNkR2WWQtSGJTa095a3AzS1hXWkl6cTdyN2xlVGx6Q3lWbV8tb3ZRZ3E1T1F5dmhRaG05UjlGQUxnZjBVRk5PYWgwRDlDWTlzWlhwLXdPMmV5UVgxNkc4ODduUnVrSGpPT3M1WUpJSzJwZlUtWHpwNWluTGtEWHZSb2JGSnhYS3VyUVBIUVlQSzFoUG5peHBaZXZ5SEpKd2kycWNGLTlJbE4yNlVJTGt0M1plTDB4ZnhtYnloRkN1M19lNGFMS2x6WTM2bGlCVEs0X3BhZ0FyNjJEUk9yWDE1RWc0Q0Qzd05adXNMUjVWN3dUa0JBeU9JbmR4aXVISXNjNWhxQ2F1QV90Y1NGMEE1SURzX1kzeF9pMUpBWDZXWS03QmdqYmNBandkcURudnlNd09DZGIwbzR5d21USVkwbGZXSFptb2pTNVJsRVdBNTdhSzlvYUZHVWtSZTRnaHI0WFNZenlWRHhuNHpIYWd6OUlnZE5lYkl3SHhVa0xtaXFxM0tzVm5oRjJhSFowLTZjWGxmNEdZalFRNzI2TXNIQ3JnaUxIdUNnamxOT1RSdVVoa2k2YlliaTFKZ1RfVlpqdTBEZVB0NlVUMXlHS25tRlBZeHV1Zk4yeDFfSFUzSUF2NmNzLXNDOUxNNEhxRFJZZkZkOC1UTTdCQkdKT1lSbjVSeFU4OVlsSnY1b3ZjVFhCb1hYUFFzR0VrazE0WlhTbHB1d3JIN0Zlakx1eENiV205MlZKeENEWlhGWVNLOWhTZWxRUEdPMXViS3lmTkhiVy1aVTZST2lfeUxnUWFmWEM4ck5Pd2hZRlBrOGtJbXpCODFORlR0ZUNOcFNUN3U3TlEtLTVpU0NxVmRRZnJSMlUtTjdVM25LNWlVbHZJekkxVFhoWEpHWjJ0WHZRSnRRMmtPejhQbHE0MHJKendhNk1NVWZfTXJ5Z1kyNHItRHAySnBzZXZQME5SeXFiWE1kRG5qU0xfTzZlbW1fVWlLdndTZzJmZC1nd3hSa19PY3NvNTd3MkI0cmRya2owcnBrbXRXVDktRGkwUkFoaHN2UWpEWFpLZmVnUy1ZcTd2R1ZVWElGZ1ZYTGNDN0dJYW9PSnhqZ3V4MXl5dHlfcFAzNmRXZDBDbjFtTWt0Yk5sWlVrbnR2eHRWbERsUnJlSDhRQ1M2MHNuVUhMN3lYU2VtRkxrS3JySFBlSXVYMV9CQzFVMDdEcEZucVJaMmJTZTc3UVBTVmdkUUd2cGUtNjJMM19Xd3lBWHg5U2NDQ25wWWN6Vk9Hb3lTMXo5SmhJVlJGdXhJdTJ5R0xwdUxLTHhVZG9hWF9mVmtUNG96STZ0Sk9lblJUQXJFekJHWkJhMlZWREhCUWQ1VGoySWl4R2VGRkJGd2RYWjRpNEU4ZVpTM2VVamtpNGNZNzNJcEhtb3oxZUZIa3M2S0xRNjNpVm5OeUJCY0RhVlpTZEs3S2hoT0JzSlE2UzNjcDhsU3FiYVcxNjFMZjBySW1Td1pMOTVlSlRVN3o0UzdPNmFJbVplbTRzWDRrTVBBNjkyWHl1MFU5SVFfOTRTay1CSmoyRW0zZEV0dGZ0VWhqOE5kSmVnaU1SNEc2cmdtbDhpMXNjLWdRQVJVUmdSR1JWX3FFdUxKVEpHTmc3ck9CUUtlQXdMRm4tNGRtdFRCTkNXRWw5Mm01UG5ZOF9xbGJjdV9Fa3hXQklGOU1YWXY2S2pab2ZKeWt5dU5IaGdYQS1tVUtaS3VHaGk2OEZTNlZQQUJZS016LXFsY3dJX2RxMXdTU19zdVllSGdoaEVoTXlSNlRlYjJhS2lnVGZoMElxTVZZSTBINldObVVScjlFcTBmazVrZHdPdUdJRGxQQm1tcnBZZmZhR3VuQnJFN3h2cHpuVExCZ1FVS0owRW9nZmVnalFSWVdIbnpIT1hUT2t5RXJpYWVxQXpUaVlFRXVWTmRCTkhfRllMaHNianFNOGJ2MUh3X180SEZtMnlMSW5PMENhZlkyZmZuc0gtaS0zYlBmcVc3cF9QdTc3OFNKY093OWl5NEgxME4yVzNLbFN0cVpNVXlnblF6TENmRnhUV2xNYXlqaUpGcWpLcG9NcVlZdy1IMUtCOTkwN2hVdUJHOVFhUnd4ZnkxMUdGRHp1Rms1Wmx3M3NYbm1XaWk0b25pNHFpU2EyVWRiWlVBTlNKa2hHcTRtelo0WFFNMUV1c25PSFVzTDJ3bnBkMGsxc2lXYy1lQlowZ2pmNGZjYkxPd2gwS2hBUEExNG1QTXdCelEyTWRqZHh3emVxbFhOQ1haMmliZFotaDE0SjRCc3lVYUFMbDAzd2s4Nlc3bDJBLWhObXpQMG9uWmtpcU10dFBxNzVXUEpPem00R3RVV2prV1hjRHZYSnBNZUVkejBZWFpWTHBET0Q2djFpT1E0RXV6a05LMVd4VFdkeEVVc25hY1hGb3RwWkxtQkt3Q2VlTjd5cWkzaTA4eUNrZmdNeWQ0VGtfSjNGaDgtTEZMNnVo?oc=5",
+"source": "ABC7 Eyewitness News",
+"published": "2026-10-02T22:04:47+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3853,6 +3918,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9a34d0cbb01dd6ed",
+"title": "Second Hand 2022 Maruti Suzuki Dzire VXi for sale at Rs. 5,16,000 in Delhi.",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9nTEt5VWF6SFE4QzVJQm4tX19jY0MzdjJMUFdfN19idWdPSXZyU2ZsQ1EtRFRLQ0RfTDZLOFVNdDF0UTV6OVhsc2xUbHpYVkZCQ1ZpWklYOTVuT2FudzRjZVlrZVJIWFFtY3pEMXdQa1RQTEVFZ3BwYmRKWmZncWprWQ?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T10:52:37+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "71c0aa50052eff39",
 "title": "NTPC Nava Raipur organizes Swachh Bharat Diwas-2026",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMEo2LTVOZW1OSlMydFpvTUlmQnA4MHFiNEhDQlYzd21MM1lRNEpMcGZuTTI0SUs0a19hbHlKUFVSZUZVVHdLVC0wdEFIaVVoS09vbHZHS2N2VThGb013NGtrVHI5bkk2eV8wZnZHangwVEtOUURoaGJqaGU0TmZ4T3BMNA?oc=5",
@@ -5853,6 +5934,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ac8e69c19e2f0437",
+"title": "TCS to take over Best Buy's India GCC, transform it into an AI hub",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzU0bXFidWZTRDVhN1lRTV9rUlJKaGZxUWFfVjVPM0MtVGpMS0YxOURxVk5nM3p6UVMzeUZIeEJVWmt0NUloTGx4MW1RbERzb1gzQmhjQlg3M3J6UzJRUUVuUGNmT2F4MUpNeFc4UXVXRmdYeUJTZG1NRjczdkFHeXk3LXVzR1lNUFQ3bGMzdnhBOWRlYW1aSVItOXRxY0VBMUhiR1BOcGx6WDdyc3dSRVRtMjJZVzY2cmdQU3Q2d1lmLWtPX2fSAcsBQVVfeXFMTWFvcmhPemZ2azdibU5XRThObk9RZWRkV1d1TVdiUmdjd1d0aHJhMExTQWJBeHN6RExGYjd4TXpNV3VPY21kVXkyamN4X19wcEs4ZnE5Yk9jYmxMYmtwVVd5ZXRQX1dhb0VfRVlzZnowYVAtaXFHNmRmbUM3VmJFZy0xX254YlZFSDNfdlJBOVR6SUlud0pvY0Z6SXdzZ0ptMHlRSGJDOVhwazZZYTlmZXFrd004bDc4aHZrd0tDTndOQi15R2xFWXVMWmM?oc=5",
+"source": "Asianet Newsable",
+"published": "2026-10-02T06:30:26+00:00",
+"first_seen": "2026-10-03T04:22:16+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50809,112 +50906,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "e28fe0a53903ddba",
-"title": "Eternal on radar as quick commerce regains momentum: Motilal Oswal",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVg4VmdLSHNNTzYzVWJGRzVIUVI2NWtzdGZPVDI1NjNUM0RjeXBIWTIxd3RROEtveFFncEpjQkU3WmRPUEx3X1BIRkxGNGdHZTJpOVBRTlRrbXBQcHFpS2JDOWNsSzlvdlRkT3NKcG1FNWNIallldTJmby1kclplbWpEeW54THdKWmVfTEUzTi1ZNEZTOVl5LV96LTN5NFFnaXdOV01PelZacUVaMy1ZN3hwNHdGV2pRZ2ctemRXQmVjRm9mRVNWZjZIRU3SAdIBQVVfeXFMTWtrTXE1RWc5cVAzYnl2bktfQVJvNlVxUHVvbTdqVWNIN25QeUR2OTQtWV9WNUNiTjZWQTdackREbWdJSjRPNlVrUU5OWWtsT0psSXMyanFGUmNoM18wb2xockhXZE41WWZXUHRvejJ5eGtETU94UWFONEt0T0NzZVlGQ0J3bGFtd1o5RUxyTTRWMHhOTE52SzBfWHJjdEhGbnlzV0J0RVluVENoMUFQcjMzM2c1dWdYVVlPLUdtY2NXeWNfRGdrdkx5dzNoMXhSWXZn?oc=5",
-"source": "Business Standard",
-"published": "2026-09-29T01:58:59+00:00",
-"first_seen": "2026-09-29T02:17:16+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e249f128b646fbbb",
-"title": "Sensex Today | Nifty 50 | Stock Market Live Updates | Opening Bell: Sensex drops over 200 pts, Nifty below 22,750; HDFC Bank, RIL top drags",
-"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-group-itc-share-price-29-september-2026/liveblog/134553859.cms",
-"source": "Economic Times",
-"published": "2026-09-29T01:52:19+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"HDFCBANK",
-"RELIANCE"
-],
-"groups": [
-"HDFC",
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "c513d986af7cfce4",
-"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex drops 400 pts, Nifty below 22,700; HDFC Bank, RIL top drags",
-"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-group-itc-share-price-29-september-2026/liveblog/134553859.cms",
-"source": "ET Markets",
-"published": "2026-09-29T01:52:19+00:00",
-"first_seen": "2026-09-29T04:13:46+00:00",
-"symbols": [
-"HDFCBANK",
-"RELIANCE"
-],
-"groups": [
-"HDFC",
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "288abc6c717926e3",
-"title": "Gautam Adani, 4 group firms settle shareholding norm violation case with SEBI for Rs 1.48Cr",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGanVYakplQ09MOWpuMEdPN2Z0NHJRMW9QZDgxaWg4dUxkOXV1QV8tazgtclZJaEtJN0RsR2Q2a1BuUnFsVTJ2VGpQcjE0dndvNWp6QnNhcFh4Q3A4b2phX2gyNmhuX1hlVHc?oc=5",
-"source": "The Federal",
-"published": "2026-09-29T01:48:07+00:00",
-"first_seen": "2026-09-29T17:33:46+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "704f954893ff64bf",
-"title": "Reliance Jio gains 2.4 million mobile users in August, Bharti Airtel 2.1 million: TRAI data",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVjFwRHFVUnJRblJFMmlhenZoRXg3WDNYeC0tQ3lVVmNIbmtzdzYyM0RuR0xITjFJU0lkOFJxRFJ4dFhFSXpPWjFEYThJQWRyMndXYzk4VTdfZFlJT0kycGZNZTNMckVoZEE4a0toZG5nNzFrcVMtUXVBS3E4Qno2Nkg3NzUxanc5QzI5RzN1XzhNWmMtRGszSXprS0F5SnB1R013ZmVHcm9VZlZpVER0VXdCMnh1TnRfSnFteUJwZ0JGdE84OEJ0M3hFOGxsS3JxbGFyWU44WmFoSVZYX1hWc2Z0VHlRVVotS2g1TEtR?oc=5",
-"source": "Indiatimes",
-"published": "2026-09-29T01:45:58+00:00",
-"first_seen": "2026-09-29T18:50:32+00:00",
-"symbols": [
-"BHARTIARTL",
-"RELIANCE"
-],
-"groups": [
-"Reliance",
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "b145661c7abd2696",
-"title": "Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressure",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbDl1OWY4Ym5nclVxR1FaQUtTR1JQRWt6STFiQXBYZkRncTR0a0dwZ2RUb2lFZ00wV180ekNwMThnM2k3X0F6RjVHSWRRNFhoeXZWR21nZC03eXNGTGlmM2h6VEdJaENBaGNhanR2S3ExUVFTQVdpbjRjcDI1NlluSTg4U0xvYUhWT1YtRmp3UTRGdWZoVlBqcVFrZjJFdU02eWw5Z0VwdnNvZDhiZUY0MHZ6VXRnWlowcHdhdXhBX0xxTWN2d09lcm1sQUcwNl8yVUtPMFhyZkZRNjNMb0EtYUhiRmxFclIwM0h0V2FMQnJUWEd1MFpQV0d1U2JVZy1WQ1JPYnJlWdIBjgJBVV95cUxOZ3pDMFBGcjgtOEZFWl9VT00wb3NLSFpFcExRUFNUb2RjUXZWX0ZULUM0X1dod1BoZWFEZGVDWnFiRVNINHBVeWRIQ2FLaVg0dEh0Y2h4YXh3LW1ncXlaN0lyc3pyUVVwQXVVdGR3dTRwbml0Vzh4VU1WWUlaZmQ5MTRqbUtuZ2Y4TTZyY1Z0cl9zWGQwTEJJN2xlNWdzOVF6NXdKUDFUUVgzTDZRZ1Z4d1ZScGZEd1ZqSllqbkQ2Q0l3X3hRczE5XzBuOVpfYU5KZ1NjUHBBV0JOWWwzOXUwSjI5MUNOMW1rakNoeEh3TXM2REpfenFKeE1UZXJpUXQyRXNzaDlXd1A2NldueUE?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-29T01:40:21+00:00",
-"first_seen": "2026-09-29T05:58:03+00:00",
-"symbols": [
-"HDFCBANK",
-"KOTAKBANK"
-],
-"groups": [
-"Banks",
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
