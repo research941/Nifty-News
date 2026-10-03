@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-02T23:56:29+00:00",
+"updated": "2026-10-03T00:27:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "f50c75c74ba90f3d",
+"title": "Maharashtra FDA Revokes Cipla Warehouse License in Pune",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnlYaXB4c0UtU3RWd2dSQUFNV1d0amM3Vk5QZG1yWVhDTW8yV294bnF2S1BYZE11RjJvaHdrTFNiNzJWZW4yellXS21wc2FzVG1UZkcyWkpCdGpHbXF6TDdLNWJQWkpSVENHcHVMX1RKUndvbUJCV2pyRFh6ZU5uRU8xRkt0T3Bw?oc=5",
+"source": "Udaipur Kiran",
+"published": "2026-10-03T00:17:29+00:00",
+"first_seen": "2026-10-03T00:27:38+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "dc21b0571068827a",
 "title": "Anup Bagchi appointed HDFC Bank's new MD and CEO; Gautam Adani is India's richest on Forbes list",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDE2NXlVTkVrT3M3QjN4NE1rcEVsOFRaaTY4c29fTFU1RElZZ25Yc0hCQ2xTaHFkcGFpcDJCTWdVNTdvZFctaDl4VjVlTS15Z1hKNUNzdVAzWktENEtBR1h6RU8yMHA3djh5Z3BKUkMzNl8wNnBDVmVTb29yLTh4SEtTbDhzVncwM05ydVFqVmY5cE9tNDluMGxTakFqSnFiTHBoNU0wT2xMa2lBczhmX2hPUklHbEhVeVRQc0gybXlKNG9nLUg0LXNtZVlVUQ?oc=5",
@@ -529,6 +545,22 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "3644035501b1faec",
+"title": "Infosys Ltd. ADR falls Friday, underperforms market",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUhaRzlMVFYyaldMcnVzdGVLaEUwTm81WWdjWV9sUVZ5VE0wLXhBNllxQ0V2WGo5Q3BzLUtZVE0zajRHYmZ6eVIteGFQU0dfM2J0cU1iOTBDdWRnSVBiU0puWHdXV0NHTVNqR0FiN3NrNXlTRjduV1V6MWZ4WHE3QmtJa3puMXRnaG5sTDh2eTBCQTBmVjJ3eXhsT3dpeEpQWEhXdDFSMkdycWV0VWpRYS1yZWtZZDdhOFdvUUxMX2lhVUZpUlE?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-02T21:25:00+00:00",
+"first_seen": "2026-10-03T00:27:38+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "46281fbc78faa79d",
@@ -2487,6 +2519,22 @@
 "source": "Goodreturns",
 "published": "2026-10-02T13:07:30+00:00",
 "first_seen": "2026-10-02T14:39:13+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "8d73f9e38ac42a69",
+"title": "HDFC Bank Share Hits New Low, M-Cap Drops By Rs 1.10 Lakh Crore, ADR Falls 7.3%; Why This Big Bank Crashed?",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVTR6YXBYMDE1dG9KYl9PbXZXTEt4R0VSUjJ4aGR6dTBCV2NhT0J5aHJOQUlEY2xyaDNhZlM5aHpUczVjYTR1YjVySlR4aWJtSHFsRy1NY085QllUdURQdDJCNjc0R1F1YmxVdWhORTE0Z0g3Z0hKNGRGeW1LYkFuZF80NmdNamNXaDNwRW1aWFh4TUxGY19lbEhLcjZ6REpoQS1uS2pObDlrS1VVOWN2NVY3cFg3cnZvcjdQU2JoRGxaTDVsSzNHRVdNdXd3VnF0ZVZYY3dxLXp1aHUxNkE?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-02T13:06:24+00:00",
+"first_seen": "2026-10-03T00:27:38+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -50867,56 +50915,6 @@
 "IT"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "367de2391ea9416b",
-"title": "HDFC Bank ADR rejected at resistance, eyes $21.77: Live levels By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFjUnFqa2U4aWtuVENMd3ExSEdaWHowY3ZoUG5xZmhCMXFScm9Hb3MyakFOMXlBSjE1RGNIR0hVakx2aUJwakVSY0c4TFEwSW1zMGZ0Nmp1Ty1Wb2o4SE1sNzlXR0dhRWVoZURkMG9Ycm1PdjJQNi1IaHJkUVc4QXpTZGZmUlIwcW5FZUhveHBER21uaGtOcjJTckF6U2dEUjczMkExaTc1dEU?oc=5",
-"source": "Investing.com India",
-"published": "2026-09-28T22:03:37+00:00",
-"first_seen": "2026-09-29T02:17:16+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c8b3b589d544f50f",
-"title": "Kotak Mahindra Bank Sees Sharp Open Interest Surge Amid Mixed Price Action",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1pMSE45cGdlbVdQZVBZaEpIeG1JUElSbnQ4YzEwVGR0LTdCTHktcWxNSHFfQXl1TENLdmN3TkZURkpoQjFta2w2YW15b3NZWnJsQVAyZzAtMHJqYmN5cmVYM2xOU2NWSlF6bm1LaV8tNE9sMjNCSnMzeXEteG1vSjB5NVU4dHlmb2NFenNRT28zdjRLNEN1ZzdUY3hsUGNRWHoxWkhUNW8wa3FxdjVYampCWTRuYnRXMVBBTzdJUE5uLTA0Q1ZuWkJjZFE?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-28T21:45:13+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "6e8005683549fc47",
-"title": "Axis Bank raises stake in Axis Max Life to 19.99% for ₹380.60 crore",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRjZpZWgya0V6NmVrWkVpM2Z0clVKMG5TNHJsc0JDOEdiSlk5blRXeElTOUotZ0NBRmxobEllVnJlZmVhVDk0NDNUR21xZXU2aDFsaWJEa0F2a0hlWGUzQ1FQamFxQlA4MFhpeDYzVVN4bXFfcDRZUVlGZmhFd2U4bF9WM2pVSmhQY2JHczZRanc3NWJHSWp6bERWZHRHXy11Q1p1Q0hseVU0d1pzckFVd3ZaTFhIQzhIWGlHVHNWbUlwRWI4MktCcVVVS0dWUmZpNGx3OW5VWFFJUVpBWnJlenQtOUdZSGo4MDVjREJ3Q1JjUQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-28T21:34:51+00:00",
-"first_seen": "2026-09-29T07:47:31+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
