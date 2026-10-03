@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T07:53:04+00:00",
+"updated": "2026-10-03T08:22:45+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,78 @@
 ],
 "items": [
 {
+"id": "3d73c1744ac2f2c7",
+"title": "NTPC Green declares commercial operation of 50 MW solar capacity at Rajasthan RTC project",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjB4WF9ob1pDU1ZxYU1VeS13NXBMbVhubU92dF9aTjVrUmNnbTgyeGxGMEcyVnBSTkwyN19KZHpIM1g1bFJ3cTRlU0h0SzQteUZSSXdPR0M1MlpmRDNBVURvQTA3XzYydGVrN1FkNGd1SktZdTVublRuU3VxbEY5SWF2bEhNVUJOZGdlNFJTSWpYZ2Nfc2hmdnlfSXVjNzNCVmUtLXJsZjN2Nk9YSVF6MldMcG5hc0R0?oc=5",
+"source": "bioenergytimes.com",
+"published": "2026-10-03T08:15:00+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "eccb7695ffa733b1",
+"title": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlpUZ0JKdXp1czNna0pzXy15NVhoTlZ5RXVZZURXejNuQkR4WTluemVyRzZMQmpYWEpGcEpnOEdidHZUbzlVdVNNakFYdmZLVFM5OUo0d09PMVUxYlhDTU94N3BUSFAwUlJUV1VfSEpfZGt5YW1iakNrckJYOHZES245T0RSQ3FrOWl1NnV5am44TWlqTk5TLVhOT3BVYl8zX1VrY3I2Yk5uaFpQQlJUN3E4MGF2eHhQaER4SWVweVRHenZRMUJBcFZ4SXp3aERCa19OeHloNHY0bVhiblB5VkNyR3RfTkMzU2VjTkpaWm5ncHZNMGt4ZURYSVg3ZUQteFZvT1ZxVdIBjAJBVV95cUxNZlN4c0JmaEc5XzVuaW1HYUp3VEZHcXRsbGt5YzJYT0lzWDBFSV9sdXZta1hheFZ6eGVSWTlsdnBTaXZvN25nSWFKWjBUVUZrbnVsVDlBVlNFcEFvUDYtaE1helI0M2RBUUxNazU1eXVzanVZOUVDaXdWdkYyZkpkRk9PQXliX0dBcjF6RWEzRkdsRl9ydlFzcHdseTdMZ0VnaHJzUldIS2Y2amVhRUh1V1Jub1R6TTA3Vm03NDM1Ni0xVlpyVXI1SjBwT0Y3ajh1SHhqSmstNmx0Y1RqbDZPTVo1dVNUa2p5OWNVQUJIMldyR3M0Ny0xdmxBOV82OWNqMTl5d1hzZDNiazhK?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T07:55:59+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f5409f16cdaf11f3",
+"title": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of Q2",
+"link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-22600-is-a-key-nifty-support-sudeep-shah-discusses-pb-fintech-infosys-tcs-strategy-ahead-of-q2/articleshow/134654760.cms",
+"source": "ET Markets",
+"published": "2026-10-03T07:55:59+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "bf76ecf1e83736cf",
+"title": "Bajaj Finance Q2 business update: AUM rises 26.5%, new loans booked up 11%",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUktoM0xnWnZxWUstSjh2ME53elFHelNyNFZSM1RMWEhfckxlcDRYUDFBZ3ZweTN6cXdpcXYxZ040cWlZZjdTamluODduRHdGMEdBa2ZObWZrT2d5WVhkUHNLY1BFbVhyYUIyeXNkRVE0SmthM2tDREZzLXdaeTlaTVBUcmhCbG5MWnM5R0laSUdtMzFKelU2aHVacVozbkZYdEJxVmJpWm1QVndkV3AySFNkTWRBVWUzc2xsSlFweEIzNFV4YVhzQ2w2aXpHWTU4WEV2RU5MLXgzanlQN2lXdXBwemPSAeoBQVVfeXFMUEpDQ0dseWRtcGd6dEZyZzdiQWtXYWh4dFhvLVlQVnhxa1hlMW1LVzlFMmVYbV90eU95UDFuY3RBLWZyMEtNV3JMd21WeFhlTTJSWjlSTDdNUGtEMks1bkdHaHZBd1dLRFY1bDJlOS1TZTIydmRWc3RpdWtyZnVKMHRPbTdaZkJ0c3NPbGtELVNrQ1FzWUhHVldweXBYTjZBZ0FSdkc0Q2VCVmRaaHBWNGZSR2dRZlE3YmZJamlvcjN0WnpuWVh5eWwyU096d2V6X25YLU9IWmNuUk4tbzBrU01kNVZmUUk3UmZB?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-03T07:47:25+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "a6ae431306d0cf0f",
 "title": "Auto Sales September 2026: Maruti Leads As Kia, Tata, Mahindra Post Strong Growth",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDNkY1pFZEhmNkFTbEtRMndERnE3TDVkRUxraWhSX3dkTHhQbTFmTmJSTU9JNlFGZDN0Vk40cGF2b2g3TFNIQnFPRmlzalJJTjZoVGp5ckg0Vk9UVDZWT2JfQkM5RFRHaWZRc1dOd0JKajlmR0tFOEFuMDVjQkNQRFlLOGRWRnIyRlJzX0JlWHQ0alhoRGhfVmltTlF3RjhhLUFkWjQ3Zk9lYjIya0tJbWY2ZWFCTzMxdlHSAcIBQVVfeXFMTVdZV0UyekZqVFBZMG9MM1JDY0VDZkFKSkZ6cE9QQ3dKOVBlc0hfUUpWQlJCLWtwX1Y5bGVCNE9ISUdqdFBnTmZDMjBnY01tbnlpM0NiZ3R5UUh4RUxRQ1FuNm0wSGJEc1ZVeHpKYW91dnZEQ1Q0X0dqYTFiT0I4X0xaS3JJZmVpNTgzYmpudXp2REhucFVScjJFOVYtNG11aXpiN2lhVEpLRTdaRnRLbkgyWk5xRkhPVXhyZFhJcGM1RVE?oc=5",
@@ -477,6 +549,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "011e08816ffe7161",
+"title": "Bajaj Finance Q2 business update: AUM rises 26.5% YoY to Rs 5.85 lakh crore",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDB6TWh6TWVTZ2cycWhqUkMxNXQ4SGJNQzNNdXhwQ1NUZmFfR29QN19sVHQ4MlhHdnRCM1E5TGRvcWl0RUd3TmNSRzdYc1BkTllOV3hMb2RrMTlFQmlHWERFNXR3TEoyd2o3LTZfNjhoZHhQVFJ2UGtTUy1KVzNPalFsSzE4NmYyOTJkTW9XR2dtR2NhZ2QzTUsxT2lPU0NJdVdvZ3VIYTh5a2R2ZjMw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-03T07:17:05+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "545e298ffac496f1",
 "title": "Maruti Nexa Cars Get Big Festive Discounts: Benefits Of Up To Rs. 1.36 Lakh",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUdIBngFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUQ?oc=5",
@@ -504,6 +594,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "824d3410ffffb9d4",
+"title": "Flipkart Big Billion Days 2026 Date: When Will Sale Begin? Early Access, Pre-Booking, Axis & ICICI Bank Offers, Cashback, Credit-Debit Card Discounts, EMI Deals, Top Offers & More",
+"link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQajM4c0VNU3d0VDhtNVFpZHdBWFdOVllVdjlrVkRDak9TMmhpZkVzel9kcjRZWDI3SVhfaFF5ZExSOUFHMTFsSENXUHdVYmJYSHRXMXhuVHBRcmcta3ZOMFQ1YVU5eGlzcW9rQkpBdElTZm9MTGJycGNHYXE3T0lYaTI0ekg4NEI3aU1SZUM3bENzdGxpVVZXX1h2YkJlazlybzJTZkFTQXpLM0lETm9zak9Fd2ZLdGd2bEhULW5ZMldLNEVyZkxHMHMtZ1RSbm12U0dLSnJDSjg1bkF6eF9tbEFFeEo2NDRKWlRvcWl2N0JycndNOGdJSml3U2xNVnRqbE9CMG5pZWNkQTJRaUowM1RtREZrVl9hUHZUVEdYOVZkZElTZmRBVk5saHh0aGl3cnV3a1c0a0xuOHPSAcACQVVfeXFMT2lyVWhYYmVCcUV5NjJfTUpPN00zaHZycXZGc2d0LWlpaU43VzF5Z0trb2ItZGlheWd0S3hPR1FuWnZKclRnREpHX0oxUXRKQmViLWpfSUxKZlNTdFhxT0ZDRUI0emJFdHRqczBYTVlxMjFLMFRyWGNCek1yelp5Y2d2bm40VXpiVUFGb04yRzZWaHd0dlZleWMtcUhQbnpKdDY2eEpRa3h6ekt2QldDcjdUNzkwZExKbnhraWw2WWxianFpZnhhbHVRN25vc2Z5Y3F0UkpWYWRIQV9NdVBlcm55dHkwa1VjMmMySjk2dVdMQ3FxMHlpeFVpY1E1TUZLU09NUldwWkliYzN1VFBwQWZfWWZOTkc3Tzl6U0RPLTNqdVlkZG1sYTlrZFk5X1c2VzF6UVFOUXVlT18yQ2o4WHc?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-10-03T07:05:00+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -541,6 +647,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "0bc97d3b7f150c81",
+"title": "Eicher Motors CV sales jump 50% to 11,396 units in Sept",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmljLUNmN0VYTWJTS19CWmxYTVVWMjlxNXl0X3pCR3V5UWN4QVVJaGFsb1NqMnNPckJWRW8xOU1UdTd5aEdndkpRX2RJREdvQ0ZhMFBsTk5ua3R4eXFKMHZvRUJxYUQwdFpBN2liREo3dW1zbGYzcktNeWh2ZzBpaFRaRVlLNGd2N2ZGOXpSRGVPLUFleEtVdnhHeTBTTm9xa1J2dFc1eGM1WnJsMy12RThZbGFHRWxvT1EweA?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-03T06:52:20+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "82fd17e2212e5825",
@@ -591,6 +713,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5357cfd6de7a41af",
+"title": "Why L&T’s Kandla Green Ammonia Project Matters for India’s Export Strategy",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RVaTdyeWIxdVpncm43cHVaRldfUlpHUWdTWE1pTkdCX1U4cWdsOE9kWmVPV1ZsVEZMRF9jMm5XRHhuYkV1SnpTNHhNREl5UkZUTlFnQjJTQzUtTGpnNWdPVmZ0WDNVMXh5NkJ1eGZwaWczY1NiY0hwb1pVSzFYblQxY0tsaVRFbm5yblhTUFJ0Y2lkWmR4ZVRn?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T06:22:49+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "12b86e3c4067c36b",
 "title": "Larsen & Toubro Is in Talks with Japan's Itochu Corporation to Sell Minority Stake in Clean Energy Unit",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM29OZEZvYXdGVWVUNnBYTnAyRGU0Z3I2THBWbGFRZVpBdUlFcHBFYkM1SnM4THlrQ21Ic0dVX3BLQnlDUml1QlZlS2RzcXBjYXBwaGR2c2t2bkU5ZTNRajhKVGNaVEhzYTBxQTBrSGFQeFV3UFdSU1JYeGRZRTZMb3lRZkZwNTRJRUg0ZWM4N3lRQXNLNWptTTBMbFJwcEF5Y0VkR0lsM2dZb01LblF6N1pxWC1lc3NIblFiQTN3dHY4ZGFmZl9YMjIyTDFPRVJpdENKTUlObklTRzdfM0hGUkZXSG91dw?oc=5",
@@ -620,6 +758,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ac0b9a860c4832cf",
+"title": "Maharashtra FDA Cancels Cipla Warehouse Licences Over Violations",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNm9rQlRPV2tLRlp5cHE1T3VjbTI3OXFjc1V0RVk1VmtNTVVSSy1yUW1RYVR3bEZLaU9pYm55bnZiRXNiT3BhTXVqSkxVUV9MUlAtYzJXc0hWVDhKNGk3TnhVdHVtTHkycHFRbzFxLTlLeE4wTk9vOXpnd3g3d0hDUGF0YXBfNzlNaEVyeGVSTEM?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T06:18:14+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -673,6 +827,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a811987edb06bff1",
+"title": "RIL Plans Rs 1 Trillion Investment in Andhra Pradesh for CBG Projects",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWFBNlh1cTQ5a3RoVGd5ZHNjZEhlc3dKWlJ4dDE5VW1DWEtpd1NobENJM2lHSHBaT1NDTkNtRWVncGVPTjE0cUprenQ4WS1tZUFEQUdaNXBGRVFrbjdDNHZ5ZjBmOURZeDB4a2NiMlROcEhyVDFaQ19keVExR3h1TGtlOXRfUjQ2X0RkZjJyUTc1eTljM3J0WUk4OENRUHc2cmFWVy1PcWpLa0JTTkQxNzd1VdIBswFBVV95cUxObWFBNlh1cTQ5a3RoVGd5ZHNjZEhlc3dKWlJ4dDE5VW1DWEtpd1NobENJM2lHSHBaT1NDTkNtRWVncGVPTjE0cUprenQ4WS1tZUFEQUdaNXBGRVFrbjdDNHZ5ZjBmOURZeDB4a2NiMlROcEhyVDFaQ19keVExR3h1TGtlOXRfUjQ2X0RkZjJyUTc1eTljM3J0WUk4OENRUHc2cmFWVy1PcWpLa0JTTkQxNzd1VQ?oc=5",
+"source": "Autocar Professional",
+"published": "2026-10-03T05:45:52+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4b434f50c216f8f6",
 "title": "Who is Anup Bagchi? 5 things to know about HDFC Bank's new CEO, career, salary and experience",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3h1NHF6cTl4cGs1SVJNbkxGNFpnVGhhaWY4ZGZvWWpldml6OVR5Ni0tQ0N4WGlGOGEwZTQtR3VKSU1WRE9FMlBOLUZ6eURTR25tOWF0YW9XWlZLRnFBb0FXUGI1QlZVN2J0QTFZX0tLQ2NOYnkycFYtZVJjTG9TdGpXT2xjc1pyR1VSVXBrR3RYS240MERLcjVUaFhYbGRUMmlsWE9nY0laeW5HUVBLZUZvbw?oc=5",
@@ -689,6 +859,24 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1b0827f76dbe9c0d",
+"title": "Bajaj Finance QIP: Fundraise Mix Changes as QIP Grows 33%, Warrants Jump 4.8x",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3lYZnQxZGJIc3R2TnlHZ2xPanM1LUVwMDVJTHB4OVdDZGFWUGF4cVE0MjZzRENvbXpaQXRaRXhBSHM2SkVlWm4tNG5kNml2aUZyRUU0Qmc5UEdjNk9qakpsM0JZVmZMMEV5Ni1jWjdzZDdQSGVTYzFlMjROTUlETlNB?oc=5",
+"source": "NiftyTrader",
+"published": "2026-10-03T05:39:21+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "positive"
 },
 {
 "id": "8e2989d72e212b27",
@@ -1219,6 +1407,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "f65df58a15266859",
+"title": "Hindalco Plans Digital Alumina Tenders to Improve Price Transparency",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yMl9LMkxPMlZNSTREMmQ2bXpLaW1HLWhaZzB2aXptSUYxdFRXdm1zWHQ0X3UydUFYVG43eTJReHhCdjFzZ25DdjBraWRiTVJpa2tmNV9MbTV5RGlFUHhrVjFuY2VUMGpFVnlj?oc=5",
+"source": "Межа. Новини України.",
+"published": "2026-10-03T03:26:50+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "47f18c4d631c74d4",
 "title": "Mumbai News LIVE Updates: Maharashtra FDA cancels Cipla warehouse drug licences over alleged violations",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTmUweTNGTk1mN0tVc3RONWZ1YjBuTnVnUlYyQUtkWGhoeWUxa2NaSzdNejZIV2JlX0dhcEsyMVBEZGZkaE5JeXRqekc4ZDlaZ2lmY2JMUlNCQ2hTdXJIa3VsMFdkOWxyQ2p0dElGc1pEay1qakxyWjJBSmZWNzdhbDdid0hvd0JPUEtBazZPUHZ5dlFVY3BqSzRCR0RlTW5LLU1MZ1pfZUJyWVM2NnRSSHdjTHFadV9faThMRzAzNkVUYS1QRjVWVE1UV2ZQNldfelNIa1EyLWYyYUxfTWFfeFIyQURUcEFKV3QxQlRjV2MzTHA0M3fSAfsBQVVfeXFMTlplbDU4WktlR0tWa0VKVHk5VE1MUktHc1FQQUwwc3BhY0FRYlJ5UDRySG5hZjQxU01kUmYwLVpJZmxPaFdBb0tvRnQwenpkeEk1S0hBWTNjdlMwQUlva3k0Q0xEaUQ4VUpySm1oUE1TZzBpemJUeVZ4REFMYmxadEZYM3VKOTlKRmw3WExJUkdqM3gzSVpqajN2d2dqaEg0Vy1kRHpYMEx1dXU5M21ZQjFnS3ZHMV9MZC1LeWR5VnRvTHhiUFFjVTJINkhETVczcENJVGp4Tlc3c0tkRVFQbnpMS1BGYnNIMkI1cGR5NXAweDV1S2lCX0liVUk?oc=5",
@@ -1262,6 +1466,22 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d864fb8f074bff6b",
+"title": "Renewable energy news: Globeleq, Nala Renewables, Cox, NTPC Green",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObW1lZU1mTU9JSlJWTUNZOHVZZzZhZkpiSnRQdS1rNlZYN0RFc3V6bVctLThxQ0Jqcm0wVklVaVRwLWVWc1BfQzJaMzRWV2ZMNlRBNXdMZkJUbFB1d3RNT3gyZm1LY1kxNWFwT1pVQzl2WDNaM09JU0pZMDgwY0ZxUzJVT2V0M1E2cHgxa2FzWGV4WE9rQVMteWZYWFZ4bld1TS1aanNadGQ?oc=5",
+"source": "GreentechLead",
+"published": "2026-10-03T03:04:49+00:00",
+"first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50718,218 +50938,6 @@
 "Reliance"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "16d9f9d715f4853a",
-"title": "RIL Share Price Highlights: RIL Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-29-sep-2026/liveblog/134554846.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:07:05+00:00",
-"first_seen": "2026-09-29T13:49:41+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "957227d4da0fa01b",
-"title": "Tata Steel Share Price Live Updates: Tata Steel's Price Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
-"source": "ET Markets",
-"published": "2026-09-29T03:06:44+00:00",
-"first_seen": "2026-09-29T04:46:53+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01c4b6d02eba1ae9",
-"title": "Tata Steel Share Price Live Updates: Tata Steel's Daily Price Change",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
-"source": "ET Markets",
-"published": "2026-09-29T03:06:44+00:00",
-"first_seen": "2026-09-29T06:56:58+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "17971b7c465faad3",
-"title": "Tata Steel Share Price Live Updates: Tata Steel's closing price reflects a gain",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-29-sep-2026/liveblog/134554761.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:06:44+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "a3766cb3d0204729",
-"title": "Kotak Bank Share Price Live Updates: Kotak Bank's Price and Returns Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-29-sep-2026/liveblog/134554748.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:05:36+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4ad48a7cda62a1f7",
-"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Price Drop",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-29-sep-2026/liveblog/134554743.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:05:11+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "b93e31f7eb3f3305",
-"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Market Pressure",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-29-sep-2026/liveblog/134554743.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:05:11+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d27a6ff6fe867798",
-"title": "Coal India Share Price Live Updates: Coal India Update: Price and Returns Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-sep-2026/liveblog/134554739.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:05:09+00:00",
-"first_seen": "2026-09-29T05:30:12+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c953fd7a729bcc5f",
-"title": "Coal India Share Price Live Updates: Coal India Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-sep-2026/liveblog/134554739.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:05:09+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "88d9882ace243f37",
-"title": "Pharma stocks: Sun Pharma, Dr Reddy’s, Cipla, Biocon and others in focus today; here's why",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU9HZUI1WlpvYU4tVHZrN2hFUWp0a1VNdzlVUENoS0ZkZUdYcm9aLWFtR0x4a1JteG5md1ZQTGJsM0FWVnFua3gySDB4aXBCMzZsY2xSbWRkMXJiWC0yNlNpU2pzcl9ybVVLUTVVWl96aUJNZFBLRDZWaV9uY2tXTXdxSmhUaXd0aElSSE9OOWZSeTMtaGJOQzZydEJHMGdCYmJ5QXNRMktzWXZ6VEdyQ3MxdnlRQXk3ZS1MWmlBTm5OTy1kRldOV0lGZk5pQlR2aXA5VFI5QjdRQXpkaFM4WjhkYVJUVk1BV1BPa9IB8gFBVV95cUxQSlJzcXFGR3JrQ2U2ZDVXQXZUeDRBS2ZTWGRFM3dMaDlsMmsteVpuWTI0bXMyZVpMMWtzQ0R1UTlqWUdmNlo5M2xPZ1h6enBkSFFRTlZtWlNpUm1ZM0NyZUtRT1UySkdZS28wb3ZHNHFHQWJ0aG1SUUdqeTJ0Y1gzYjZCRTdBcUo0R0p4UnZwY3UwbkdBaHRPNm9jQXlfQnotXzRYcDNad2haOXF1Q25QbS0xRHBfNThDYWN2NUd0VWt6R1l1WURMbTkwcExqU3h4RW9PWGV1cVJPUkJEQ1pKd3N5THRDZkwzaDI3RVBwdzF2QQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-29T03:04:00+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"CIPLA",
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4b02126b665bdfd9",
-"title": "Four key reasons why Goldman Sachs expects Eternal share price to rise 16%",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU5YR2hVenVIMzVZN2RqVnoyQjRmWEtKX3hlWk9fUWM1NzFGVWRkMmlOMDdrMWduQk5JN2Q1REZOQ2x2R2k0d2pBUEw0UXF5QUJYVURrQkM3aG9FYUpYM1ZpeXViZjRWcndEZEZWb0ZlTnI3bUVaY1JRcGlTXzJNN1ZCcnVoaWRQWGpfQXBqY2g5NllkampFemFZbG1Qb2V1SktVY2dIbEF3UWluQzhuVUQ1OHU2bVlNVU1vR0RtRWYtMU40MGxF0gHMAUFVX3lxTE9JcUptZ0d5RUVObmc1TDgzS2E5Q3Rmc25IUzlMVTBkdnlKSmN0NkFRUzIwaXdNTndtM3k2WUpNUmF4UmNib3pHOWt4TlFDZ01XZEFBNFJibkI1THhiZnZYdkdnc2FjS1h2cjZWTmpGSUpiQlpJWGlJbDA2aUVLRmxJTEdGaFRnQUNmaTY5dkhfTlVfRjIxdXd5Y1lldFdfUFprRERZaW9YZ0w2cDNvUXdrN1hxd0JfNlI1MWhTOXE1VnRzN3NLdVFSTTN3VA?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-29T03:03:29+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "e1e2f4e5496339a2",
-"title": "Eicher Motors Ltd Downgraded to Hold Amid Technical and Valuation Concerns",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzZrUnpfLWZaQTZZaGJ1TmFDMU9fNnV6Z2IzUzIyS3Zhb1FZRHdRSlpWSVNqSzNqcG1hcUowTXBjc2NUbDlMNllRYklSVGpKZTIwUzROelpaMmw2QkZneHpYVDg4M3FraVZ3eHMwUFJELVE3RzNVVGJZal9iMGxRVkhYckJ2ZjZ1dUtTNml4NWs5S0ZVU2lSMEgzRFMwTHVYV01PSVJWWkp6YURyRXBJRWZaTjRFajJKTDk0ZjI4ZXhOQ05rOHI3WV9WZ215dG1JdGc?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-29T03:02:55+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"EICHERMOT"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "b7381cfd47b59152",
-"title": "Goldman Sachs sees Eternal achieving $1 billion EBITDA by FY29; raises target price",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0JhcWNlTFNUSXF5X0x1MVhFU0JLYlpVVmxMMTBMMmZXdWlMMUxfQWpxaURkSlFERVVOdnk3OUk4TmU0M0FjV1RJLWNsTkxxcDJoT3FVWW83cTNiSC1qdFFVdThSbWM4UDQyZGl2b3MzWVhpRlN1c2VVYXJSNzIzbXhiNHVJV3RxUmhRTGZROXV1M04xRXp0UjZSUXRTYUo0OTJoakxZZk56WUtYaHZKMWVhZGRsNHFpazdlbUdQLTNMaGc5Qlc0dnpjNTFhUzQzVlptaFFEaEhEQjB1WUhyLXlTaGU1WGVod3Zr0gHwAUFVX3lxTE04aE1laXAxZzNRcDV4UUZ5OFJlbmRDc2wwQjJKbXYwZ2J1eEcyb0NsU1BfVXRub0JMWWQ3MmdETzMxM21PR3NQUzlwaHFSd3NCbWxRQm9FMDJjZEtDdkctMllocm0yLXBHQ0pRNVNna0ViX3lwMkpWLUJtc1Bybk56YVJSYmU3bHN3cVJXZXFHQW1qUlpuWDRKclFxU3ZPTjdSZ1I0Zm1qMG1UVzh2MXZKZEhUaEZVVnIwQUYwc2ljZFZWWktfMDlmb0dWcmtTaHVNOGtfa3dxTHNNYWpJWnRGZ2N4VVNPYmNRTWhONTNudg?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T03:00:59+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Results",
-"Rating"
-],
 "sentiment": "neutral"
 }
 ]
