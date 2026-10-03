@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T01:49:48+00:00",
+"updated": "2026-10-03T01:59:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -6146,6 +6146,22 @@
 "source": "Upstox",
 "published": "2026-10-02T04:58:41+00:00",
 "first_seen": "2026-10-02T05:18:42+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "43d514e810a3d853",
+"title": "Weekly market wrap: NIFTY50, SENSEX fall up to 3% marking 8th week of loss; Bajaj Auto, Max Health among top losers",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObXdLMUV2eVRrS1hrZl9CS0FjNXZNRUZ1V1dKT0hwZ1d4NVlpZlUxTzJnbk96UUdzM0V3WlM1RW9DZEFsTVVxSG93LW0wQ0tNNTZrZ21CcV95YUIweXdfSkxULUotVnNIbkc5alVPcG9qdUNZcURWZjhuemhJRzgwa0tHZktmR2tsMjNqbExYZ1V1ZWZFcnotU2Z1UkpsaUZLX1VFQnhLMHBURDRwa1dubkZnSTVNWmI4b19EVy1BSDFmSFM3OHpqdlJaYmx0UU5TSXNUZWVqMUFKMXNFV1FkLVc1M181bmptUl9ZaGRzS1ZJQ29Kek53aktubmNoVnpN?oc=5",
+"source": "Upstox",
+"published": "2026-10-02T04:58:41+00:00",
+"first_seen": "2026-10-03T01:59:58+00:00",
 "symbols": [
 "BAJAJ-AUTO"
 ],
@@ -50903,22 +50919,6 @@
 "tags": [
 "Regulatory"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "87aec5537e1daa43",
-"title": "Stocks to Watch Today, September 29: Coforge, HCLTech, NALCO, Zydus Lifesciences and others",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWlPUHpLRWhwRk1kUjlYcnpTd29oQzM2bDh3RlBSNHpIeWdJWk12YlhkX0hySjAyejNRRUZjSXVBUmVPTlRkMDVLOU5xWTZNdUVzY0xRb3VZeFBPck1KS2RTNmZseXYzSmQxTWxrNTJNTkk4UUw3MnNuRm5QeDNZZGdFVndSOGRWMkt2dENVN3RGYXNCWU45NkhWN1RJay1pb0xYUTZudmo2aFlwT3pMZ25GOHZOWmVWU2x3TTc2US1yQVQzZVNnUlN0NWcwa2V1UGRwMtIB2gFBVV95cUxQWnVZUkdUNHdhSlIwSjVhQmZWN0lFWWxfWUhXRlNMc1NUM2p6Yk1JRW5UWThmZGduWHlXU3YyN0xhak02WmFNYUEtX1J1MjV2UWhydTYxdWpFZUlFZ21jcDBXUllrQVpzTjZwaFFYZGtkZlBVZGMyRjdFd0hrVmZobkVEWTlBQU0yUlphWHB3OG1rQTFmUF9wOE1yWnUwc2FmRnhEUUFlbUxXVUN6TEJoZFJGeGYweFNLODhJbkpLcjJISnB2VXgzQ1NUMnZKWmpibWRJMkZvTi1YUQ?oc=5",
-"source": "ET Now",
-"published": "2026-09-29T00:06:46+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
