@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T00:52:39+00:00",
+"updated": "2026-10-03T01:20:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,22 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "079d7adbd4427f66",
+"title": "Coal India Supplies Rise 12.5% as Power Demand Pressures Grow",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFZuQWpFSy11NDliSnFiVjk0OS1KbjF0bGNDN25xRVpqaVVaMzdTZnYwWjkwUk1KQlRwZy13UTdqbklFQ2RVR1NGYVo0R0JKRGJhVEJGNWp1aVdlODlNUExWd3dYY2RGMHpHMVVKSTNQbFJXcUc2ZmFNSkUxRThQamthQmxUcUZpdjlz?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T00:41:45+00:00",
+"first_seen": "2026-10-03T01:20:03+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
 {
 "id": "47d002e53b500dc5",
 "title": "Bank Holiday Next Week (October 5-11): When are SBI, HDFC, ICICI and other lenders closed? Check city-wise list",
@@ -5190,6 +5206,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8c7ea034e15232e1",
+"title": "TCS offered me 25% hike on Rs 50 lakh CTC: EY employee says, stop trolling this IT company",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNczFLaUNfUVNmcmEzNzlqTDQxNmlvSTB0YkxhZ3V1cjdDTHlQcE5fZzVsamJsLWw3amJrQk91QXBLQnMtYnhkNHZOY2pJMXloOGI2QVNlN3ZXcno1VEcwVlJTaWdtcUVCSHVTdGFsMXdXaHg4VzNtWmNFbFRGXzVJWDhPRFJnMHNHSEpxMHdvV2E3VnZEaGhoODFKeF9BNkV6NVlKSzEzZ1QxSkJORWl2MW1wMkRqT3Y0YWJ3U2tya2Izd0pYcjFQdjM1MWN4a2U4emRtWF95NlNFVWPSAdsBQVVfeXFMTXMxS2lDX1FTZnJhMzc5akw0MTZpb0kwdGJMYWd1dXI3Q0x5UHBOX2c1bGpibC1sN2pia0JPdUFwS0JzLWJ4ZDR2TmNqSTF5aDhiNkFTZTd2V3J6NVRHMFZSU2lnbXFFQkh1U3RhbDF3V2h4OFczbVpjRWxURl81SVg4T0RSZzBzR0hKcTB3b1dhN1Z2RGhoaDgxSnhfQTZFejVZSksxM2dUMUpCTkVpdjFtcDJEak92NGFid1NrcmtiM3dKWHIxUHYzNTFjeGtlOHpkbVhfeTZTRVVj?oc=5",
+"source": "India Today",
+"published": "2026-10-02T06:52:33+00:00",
+"first_seen": "2026-10-03T01:20:03+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50883,38 +50915,6 @@
 ],
 "groups": [
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fbd924ce50e5300c",
-"title": "Bajaj Finserv Deepens Investments in Sports; Ba…",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbjJGYWRnQzBKRFI3VjZvZ0xaVjVxeENKLWhua2dCMnJHMzVYZzdFTl9ZYlZPVDE2S0p3c2ZJSzg0c0dNd19TdTBBRVV2SUY5ZXZxUnFDNVNsZGxERUJ6LUJzVFk2c04xWUJkbm10VzJZclY2YTVQN2xScmZLem1NRDI2eVg1dW9XR0QydzMwQkE0emV2Ty1zcmtpZG9iczdoOFcxZVY3TDlpcThYNi1XakFycmVqNEtoT2R3MDN4ZmFvSlcwSmNONUJOd1JmaHdTOHNHN1JBWk5DNFZzdTFIc2c1OXdEaVVEUnBuUg?oc=5",
-"source": "uniindia.com",
-"published": "2026-09-28T23:33:00+00:00",
-"first_seen": "2026-09-29T13:22:56+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1b34016dbaf5451c",
-"title": "Stock Radar: HDFC Bank stock breaks out from upper trendline of falling wedge formation; time to buy after",
-"link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeHJRWUNTajljUWt0YmN5cFdPMVFGTDFmUGF2cVVKRU5OdGFWVUNTSFdHVy14SmtqUWdMUEJyZDZpMklZX3Y0VURGdkF1V2V2Q1hBeVBlckY0TEdsbWlfU3VsdGVTdnRKeEMxMWJlOU0yX0F4VlpFNldQSTNnQ2F6WmNjaTRLQThfLWpvMFpVSUNSaEd1MUR3ZjJSTkhlVl9zb2t2VEFMUjhVZk83SUJSX1ZfdmRyVlkwZnYtS1Qzc09ITFVmRUU5aDREMjY1VkVHRjNibmplcXA1NjVENGppb29zQlVnWllSV0N2SGhjSFliQUFfbGFENVVucDc4aEpsdFBkU2FMZUNsdXJhb2Y4ZTNtci1hT0w1YmoyY0RB0gGjAkFVX3lxTE9vQTFWcFFCYjFVYVRMa3EwTkQ2cjRQSVpncU5hamZJc012TFJFc2RFYTZiRXhOQjRKeUFxTUQ5dnFsallKT0VPUWJkNmNpTmZRLV82VnZIa0xGXy1iSGgxWW51cVlLYTZtbnloQk1kdU5HT2ZILWdqQ3k3T3Y3UFJ3M1R5U0w4NmtLMHNoaS16SVBuNzR0dWhmbXU2Q2tvNEFhQTJ6Y2p6S1laV01zSFo0V0RxR0FiaGhRTWt1dTVlUUJOV2Z5OExheFo2S0RlUFM2RHBsWXQ5YWtoc1VMZFppVVdKVWhIb0FuV0tUaDQ1NFR3UUZ3NXQ2ZEdUMHpqeGRSOWJxMjhyYy11UDE4bEQxLWU5cE0xRUpCclFGMG55Xy01TQ?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-28T23:30:00+00:00",
-"first_seen": "2026-09-28T23:44:53+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
