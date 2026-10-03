@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T10:20:15+00:00",
+"updated": "2026-10-03T10:39:06+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "553639c184bff046",
+"title": "Top 5 Companies With the Most Bonus Issues in India: Wipro Leads With 14",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaExjSl8zeUxPMjJfNGcxQTdnSEJjd3poWkhXcFlodmRRbEtZSVROUW9ybzl2QkhXZUlXYVhDYTFCVGdYbDRMUUliRS1oVUdkLW5YVFFCZTFXRW05dXhIMFZNVHdOTkdwRmZhVHNBLWVxaVgwU1R4SXhEcE9VamJVM1JWOWdtWTVpMGJTS1BzYXJiTXlYMmg4d3pzaHlOcEdMWFdqOEt4WGgwLW15MDB2TlNmR2VqUjNxZE5zag?oc=5",
+"source": "Dalal Street Investment Journal",
+"published": "2026-10-03T10:31:54+00:00",
+"first_seen": "2026-10-03T10:39:06+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "fe143034ad796a81",
+"title": "Apple Pay Launches in India: Check 4 Axis Bank Credit Cards You Can Use With It",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3VRa0xzcjZEOUdGaGpRaFlXQ25XOVJvRlVCT1RmMl9UMjFIVmhZRG51d2VrcW42a0puMDA5dlpiamR0Qkg3bUNWNlRYMDdQcVZNZWZEQjRfa25CTFUtYmxnb3hZYnY3NERBeVJXYzdSQ0IyYXVUYVNrVGNpUFZmRnhMOHktVkhLZi1BUGNyMjh2dnpyaF9GOEtEeVpsSHJMTVFNOVpPNFFtclpaX3BRSXJOc0VqVDg?oc=5",
+"source": "Trade Brains",
+"published": "2026-10-03T10:30:38+00:00",
+"first_seen": "2026-10-03T10:39:06+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "b16ad19ac04f9181",
 "title": "Bajaj Finance shares: Jefferies India's top stock pick — 35% upside seen despite negative YTD return | Target price",
@@ -992,6 +1026,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ebd94643aa9bb498",
+"title": "Refund of Accumulated ITC can be treated as ‘Erroneous Refund’ u/s 73, Interest Payable: GSTAT",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzhIRTkwRWc5Ti1WMlFUMm9YQ1VVRHhFRWJHUjE1ZHZ5RW9QRmZJb0M2YmF0ZFdNdGJTS0YzUlE3QVhLZ045RlZZTzJRMXVrUndlOGxTX3FDbEVXUHQ0R1ZxT0lrZEZzLWJ0R2xBVXZXM0p2UmFPdkFOVVIzd3dnSndkTzItczNDbnRzRkI5NkREOEpFeExUcFdLM0hRa1o4emJ4ZjFyXzZZMmZ2SkxmUzQweE1ETVE?oc=5",
+"source": "Taxscan",
+"published": "2026-10-03T06:26:00+00:00",
+"first_seen": "2026-10-03T10:39:06+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -2262,6 +2312,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "0f0f0e773467ebb2",
+"title": "Adani Ports Cargo Handling Rises 11% In September, H1 FY27 Volume Up 15%",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUlRTWx5MUc0TDRzNjQ3TW83SUFuR2hoY1JkZHB3cGNpay1GV0d3S1FKUFlueHZ6X25iSkloaEwwczhmQlNkUV9HcFhrckZGVzloT2RFZEJmaFc2eVdBemJidVZrN3Z4TWI2MEFYZDFnbVhvelJuQkZTbm9kbzNJR2NpbElEVVdrVGc3aGtPWUw3NVY3RkFFVDhob2tieDRlVGI3WjZMdk5oUGF5?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-02T21:30:05+00:00",
+"first_seen": "2026-10-03T10:39:06+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "3644035501b1faec",
 "title": "Infosys Ltd. ADR falls Friday, underperforms market",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUhaRzlMVFYyaldMcnVzdGVLaEUwTm81WWdjWV9sUVZ5VE0wLXhBNllxQ0V2WGo5Q3BzLUtZVE0zajRHYmZ6eVIteGFQU0dfM2J0cU1iOTBDdWRnSVBiU0puWHdXV0NHTVNqR0FiN3NrNXlTRjduV1V6MWZ4WHE3QmtJa3puMXRnaG5sTDh2eTBCQTBmVjJ3eXhsT3dpeEpQWEhXdDFSMkdycWV0VWpRYS1yZWtZZDdhOFdvUUxMX2lhVUZpUlE?oc=5",
@@ -2915,6 +2982,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "10901a181a498d8c",
+"title": "Second Hand 2017 Maruti Suzuki Wagon R 1.0 VXI for sale at Rs. 2,75,000 in Lucknow.",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXBERnFnbzJPY2ItQWRtRWRDVVZhdm9XVUFaTTZnSG5BNnc0dzRNTUZyWklvdUZsNlZZWlhYek94czF6a28tZ0N4NWdKeU5FcHV6ay0xYWlmT1I2eTZIZEg4TnlmclZRYmVWbXN4bFk1UngzeUVLSUdZQVRRRzUzU3dLaVgwMHdNcVpv?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T17:25:12+00:00",
+"first_seen": "2026-10-03T10:39:06+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50849,90 +50932,6 @@
 ],
 "groups": [
 "FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d683e768ee813958",
-"title": "HUL Share Price Live Updates: HUL's Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134555305.cms",
-"source": "ET Markets",
-"published": "2026-09-29T03:35:44+00:00",
-"first_seen": "2026-09-29T09:23:07+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a757e6f8311ce006",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:35:28+00:00",
-"first_seen": "2026-09-29T04:58:35+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bfd59bc4d0c8f51e",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:35:28+00:00",
-"first_seen": "2026-09-29T07:13:07+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "bce094d215f9bb2e",
-"title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Market Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-29-sep-2026/liveblog/134555299.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:35:28+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "768185cc1184aa32",
-"title": "Adani Enterprises, Adani Power, Adani Ports: Why four Adani Group stocks are in focus today",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjB1UlEtd0pRbXRfYkxadnhsdk5XODM4bGRaVnN1OXBqSFN4VmNjRzh4R0p1WDNoeWsxbVkwVGdmMGxnZzVjTFdvSnd0d2F3cy1FRkktak5JQlhrZF84YkNGT1RwSV9sXzdpVmxDWHlFT1hMS094Qm5fbnFaRWF3emd4NllSR1pYeU1iSnA5SWJlNVAybFhranp2em04ZEtRRXR3anVFSDNsSEkwei1JVmVnTkZ2NVMtb3pRTGRyd0lYZl82NE9aOGZnZ0RtTEExSkt6NXBxaEZQNElRTWZ3Mw?oc=5",
-"source": "Upstox",
-"published": "2026-09-29T03:35:03+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
