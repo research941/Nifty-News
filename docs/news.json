@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T01:59:58+00:00",
+"updated": "2026-10-03T02:22:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,60 @@
 ],
 "items": [
 {
+"id": "992ca53cf9e03dd8",
+"title": "Bajaj Finance set to mop up Rs 17,500 crore via QIP, warrants",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbEppbEpxX21XUTZuWmN6V3h1dVpEQUZlYlpnUVN1c2tFclNTWF9Valgwd05KM01wcEJLbDRWS3kwS2pqSHpDU1Vzd3kyTnliZDVXLVQtOG1PZnowWEE2NFR3WjNuNlV5d3VkRll6ajlWRG1IcUtGcUJ3RWF4Ry1PZjhTcjZmR21CYmVuYkRrRmVESlcxOHVUczBZZE94Q3Y2YUxzXzVaX2txbWlDS3RPeWVZNGpldzV5cGFFNXp6aTNsODQyOWJhOGltMjBkQdIB0wFBVV95cUxPQ1NtQi1yUWtmandsMDhVcHE5bmdzMm9TOWhwRTZRYWc2U0ROc3JncXUzOXhUR1BKVnBwTHlzdjVCZXphT1FrTFlQUjNkbE44Mmtia1JKa19tU1ozeXdfVVBXMEdzaVVRMDBtUzBfRWxHRFJQNG5ia1dJR0JlZm5Ed25JR09VaVZvN3ZwN1cxSVJtUy1pbzRzTzNORWs2RTVxZkJMa09hLWN6MDZ6Z1Bwd2Q4c1NKZHlPZTlVQlNGd1ZzQmxOcFBkdUJPdFlLS0JUWnE0?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T02:16:09+00:00",
+"first_seen": "2026-10-03T02:22:43+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4c3dd07f248b20b0",
+"title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against HDFC Bank Limited - HDB",
+"link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPWUpobVdVcmR0cG1XeGg4VmdfUjM5YTBsa1h6NDRSMTdwTWlSdFhfUmFQd1hhY3RvbWVvWDVGZFVlWWp2ajU2MFNjN1RFOEpCWE9sbUt0cDFTMEIyVXdtaF9xUFp5blZvdktDZHB2cFNKeVdDYTFkUEJzYklPSWZrRlhqdkFiVzhLTHQ1MmNYbDRWM0NuLVE5TmR2aEJRbmRoWXpQYWt0VzdTWjRRTU1FZ1prYUJ2ZWRQZkpZNS0zOUZZeTljWXY1blBfZzF1UWFOMzhDd29vN2VXRGR2aDZra2J3R3ZOc0JNUkJMTk9zRHBRUnptYWhYTndqUzR5dEFiV3dwRUNxZGEwRkR1bjliWmZIWkZyQ2lhbVNObkNnbXNzMWpYNVprbk1wTzg4TGdSMnhfUG9MbEZLb3A2VWR6aUJsdW1pMmt0S0F6bkhn?oc=5",
+"source": "PR Newswire",
+"published": "2026-10-03T02:00:00+00:00",
+"first_seen": "2026-10-03T02:22:43+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6a61e7c7ee108536",
+"title": "SBI led banks tell Bombay High Court ₹8,752 crore still recoverable from Vijay Mallya: Report",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaldUQVVTTWpqQUhUNVhaWWdQVzNjcTV4OUpjWGRjSEJHaTMxX0ZZYUhZdTJxcmZHQzZxZUJVVmVsRnBvVndHcUx0QmhaYWpCM0QyLV9QNXBFZXFNM2Y2WndCRzByN1NLNktFLXM0Qm5zd0ZhclRGcko1eDVVZkxBSkhzODBxNXJCTF9uczJxOFAtd1h6RWRCa20wN29pTzFmNDE2Z1FZc2V0LXF5TjUxVmNnSTdEWkY5NEJJME9MRE1MX2JsdlVpWjRnaHZyeW5mQVk0Ui14WWh6WkR4MkFZaklsdUJmdw?oc=5",
+"source": "Business Today",
+"published": "2026-10-03T01:45:57+00:00",
+"first_seen": "2026-10-03T02:22:43+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "80eb74140919b06e",
 "title": "Airtel vs Jio Rs 699 Broadband Plan",
 "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNmxtSnFEUG1EZUhSdFRRZnl4enViYnU4S0RBTjg2UU9CdFJEdktraUN2dWFPZEdsNDE1N2dCQnFYdjk2OVVYNWwwcVJkTEw0dVh1TjlNSzh3ZkpteEpYaHQzS1phbW93blczQjl4ZjZ6V2h5ejVBNA?oc=5",
@@ -458,6 +512,24 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dca5250724b5d6e7",
+"title": "Bank Holiday Today: Are SBI, HDFC, ICICI and other banks open or closed on Saturday, October 3, 2026? Check RBI calendar here",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNck5JYjZfdXdRX2hFUEJrZDhsTkNxbTQ1dktNYU5IelBQdEhvOTVNenlQak1tOVNodW9DY2lONzN2bldlSW1YUVVnMzNYUVloUmV4b1o1RDZqVnprUmQzM0N6YTVYZFRuRklZVV80SWEyT2VKZmhkZGVGNDVnY2Q1UEk4em1jaVFtdFl5amZwNU5TYlMybmJVb3FEeEVuc0hCdEF4OGhFTDJnYkJ3WjgxMldVV3dCWXZaVmcycDNfRkI1WW1kUUkwRjB2ai1zeHoyYjB1Y2tNaHNja1VOc29JZDhzQzB1MFRId29GTS1fYVdXWjRjV29fTG1tYUJQYkw2cHltUEQ0WWxCcnV2NHJOZnlR0gGSAkFVX3lxTE1yTkliNl91d1FfaEVQQmtkOGxOQ3FtNDV2S01hTkh6UFB0SG85NU16eVBqTW05U2h1b0NjaU43M3ZuV2VJbVhRVWczM1hRWWhSZXhvWjVENmpWemtSZDMzQ3phNVhkVG5GSVlVXzRJYTJPZUpmaGRkZUY0NWdjZDVQSTh6bWNpUW10WXlqZnA1TlNiUzJuYlVvcUR4RW5zSEJ0QXg4aEVMMmdiQndaODEyV1VXd0JZdlpWZzJwM19GQjVZbWRRSTBGMHZqLXN4ejJiMHVja01oc2NrVU5zb0lkOHNDMHUwVEh3b0ZNLV9hV1daNGNXb19MbW1hQlBiTDZweW1QRDRZbEJydXY0ck5meVE?oc=5",
+"source": "ET Now",
+"published": "2026-10-03T01:01:03+00:00",
+"first_seen": "2026-10-03T02:22:43+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Regulatory"
+],
 "sentiment": "neutral"
 },
 {
@@ -3253,6 +3325,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "48d2f9b0fbd31924",
+"title": "Annual Return Errors Can’t Defeat ITC Protected By Retrospective S. 16(5): GSTAT",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZZTItLU8yZmFqaUI2OFFQYlYwV3RDUkNoeExSVF9FbWM3TWlHV1hrN25qX0pObl9jZEt5LVltUG9uc3V1YVF2ZGVqd0N5NkVIMWJkMUhqa3RpSjFXbUdLRlhOeklLdU54ZW9uRndiRkJfZTRZ?oc=5",
+"source": "Juris Hour",
+"published": "2026-10-02T11:50:51+00:00",
+"first_seen": "2026-10-03T02:22:43+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50831,94 +50919,6 @@
 "FMCG"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "625a62e9abebae37",
-"title": "NTPC Green Energy Boosts Renewable Capacity | Fujiyama Expands Solar Cell Manufacturing Capacity | Top Buzzing Stocks Today",
-"link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNY1p2NC01XzkzbS14N2E1SWNBWHdnTjE5ZE93aFd4XzVXNmNTbUgzdmZIMEc4OHc0d3p4YUZWVmxBdGxKRHpjMFZJZmk0MzZPU2pUTC1pb3hiUmluc0U1R080WUF5dEJySVFJTG00c2V4Q1NmRHI3aDNldzVNTnltWVRvckNQQU0yRGRySlRBejA1eXZNN3JEQXEzTE80cl9uWDlnSV9kM1MzTElQelk1dmRvVGxJbTREeHEzeHdNYkg5ZjQ4ckNVM3Q4VDRpVUhqenhCbElqU0M5a3I2Si1ycjNtWnVZVTQ1SEtnclJSdTdVUWlDZjhCMC1zaW9PRFpaYlJWY2t3bzBUYnZXYXFYajluWVFEdVBsZUV1R1N1SGtuMU5FMHZPWktPSV9NMFBXbm1TOTg2TVhzNEdORUhtamdCVk5ia1Q1YzVSQ3pPa0d3VF9Mc0RETnNlN2xXallrOWJ2SGQwM0FjNklaNVpkUDdLY005X3J6X3BGYTVUaWs?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-29T00:30:00+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fffcd01d37ec6035",
-"title": "ITC acquires 100% of Sproutlife Foods, maker of Yoga Bar products",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVhVSllucTFJc1hRV3h3a2Y1a05TSmFfUDItbWRETmV2dU56S08zc2VoN3BxQ0VXS3pOZThTUUZHWEczTndqLUFBTm5WVjZySDZ1MV9kaWZ1RTFsaWxKYXdFT01fbUh3UExpc3JGNm5GU0hpTFlEMWNiZHBCdF9sSTI1U0tVSlhramtnOThoZ0F3RE1sWkpwWU1yYjhMRGhnd3BvVG9CRjU1TzdvemRkRGlYU2dPa1YwNTRyUQ?oc=5",
-"source": "TradingView",
-"published": "2026-09-29T00:11:00+00:00",
-"first_seen": "2026-09-29T00:51:29+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1a877e143902b0b3",
-"title": "HCLTech to acquire Robotiq.ai for €9 million",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTBLUUk5VlRjQ1YwLUJWY1JaZ1ZrQ3BNVy1QWEFYZ2txWkxtNnQyaGFJbWhhcUx5T3RoT1JiUGZQQ1dsUlFkd3ZqVV9oR2ZFMno0MmsxQVItVkJwc3U3NmlNUG9vWGo0S0E5ZmRyM0ZTV2NQZXJoR0lsMHg0OFNDNC1MQURJM3NtV29YSS1sbVhNVFlEeTNWNU1VRHJGYzFUSXFIbURTOFNMdnZnR1lZX3Bld1NhRnF6Q2JocmFnbS1YaVBKTVdVd1RaNTN6RzhOMkw3Vml30gHcAUFVX3lxTE11dHVTYzRmOVB3UEdEMnVjSnAtQkhmR0ZIN0ZzRHktNFBYVkJVcjcwQVoweF9SQjEyOHZpSzB6OEhNQUlkNVhEZy1oQkVaNGgwTU9oTUllbmUzLWktR3V5VWNqS0ZSbWhDRFlnTWJwVE8wU25RRWJGR0Y0LXJlVmRJWUNfa1pTaWZ3QzgyMmlLWUpLS2s1RURCVjk4aHJtZnhNMXdFUG8yWkRLMWd6MFBrMUZYblJPQWlPZEJOR2gyenVJQVZVY2ZNZ0NITFJTaXBHRV8tbnkxd1Q4TkM?oc=5",
-"source": "BusinessLine",
-"published": "2026-09-29T00:09:30+00:00",
-"first_seen": "2026-09-29T00:26:11+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ca9edb8cae8aa30c",
-"title": "Sebi clears Gautam, Vinod Adani of MPS norm violation, imposes penalties on others",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQVktc1otVFgtUGxKbGVSYXk0LU1PT0k3S0FUTzFkdDdiMmdCdzYyQ0JNVnRKTGNGV1I5dXVsNmJQaThVUTl1Zl9ldWp0eWRtMlY1WGhPWnRkN3NWUlhuc3ZoODRLc0wxX2otbE85NnVUQ2RmZzhsRjY1X2k2eUgxa1psSjBHWWsybm9yUnpQWk9KbkxWM3FwRXpubzBOMTFrRUkxNy1hVThKZHBWazhmZldRaTV3VDNoaUlUczlXeV9JemV3UzhiR0RIZGphVnJocEJJZEFkYktzd1NFSmJXWWNYQjFkRDg2YXfSAe8BQVVfeXFMUG9oT2dHbWdQTm9kQnNqem5DcDViTzh3amtaem9TTHdRaUR1eFhpNUJsT280dUNVbldGa3pyZG55d1ZaWUV2UVo3Rjl6MXktWHlDUndnZkl0cWhpLXBMbE1TN05RTmd2XzFaUU9xSzdoRkg2eVJqQzRpSEtFLUUwai1TTUwzWkk4aEpaWGdUNldsOS1xRlc0Z0hFYVJNNzlHN3hKTWJyMHc1Y2piXzRnMlNFQ2E1MzFYdDItMWdpQ3ljREQteHdyRWxxM1dNZy16OHNpaFdGc1lCMmJvU3ZSU0VGcW9YeHZEN3dJaU1KbTA?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T00:08:45+00:00",
-"first_seen": "2026-09-29T00:26:11+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2bd89dc3daef0844",
-"title": "Sebi clears Gautam, Vinod Adani of MPS norm violation",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-gautam-vinod-adani-of-mps-norm-violation-imposes-penalties-on-others/articleshow/134553180.cms",
-"source": "Economic Times",
-"published": "2026-09-29T00:08:45+00:00",
-"first_seen": "2026-09-29T00:51:29+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
