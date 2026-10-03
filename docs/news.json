@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T00:27:38+00:00",
+"updated": "2026-10-03T00:52:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,56 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "47d002e53b500dc5",
+"title": "Bank Holiday Next Week (October 5-11): When are SBI, HDFC, ICICI and other lenders closed? Check city-wise list",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQUYyTjVXcXpib0I3UlNNN2MxdmE2NS1vRnQ5NVhobXoydDhqUkxEc2ZLQXc1TEhCWW5GbElGTWowMXp5cTNheGJrT1NpTnhlcFZfLTVZWXZiQnVJTGZ6Wm9UaWxlanpQaDFSLXFpMGtyQ1pFMkxRcndmaDhkTFZVVE90TUNlWGc0RDNVSnBIRVhKVHhLeVRGVHpmVXJhOWVWRkxVQ2NGbTNKalh0Q0xpQVpmLUVoaUdlT1NYYjZRNlZIX0xqeHJEZnU0UzFkVC1pUk44X0FXS0VyQnpwVE40bEJXb1RVSmsyb1lMcGU5Vy12WFRJdHBOVQ?oc=5",
+"source": "Zee Business",
+"published": "2026-10-03T00:30:00+00:00",
+"first_seen": "2026-10-03T00:52:39+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "fb32d04c1b675406",
+"title": "Anup Bagchi HDFC Bank CEO: New MD & CEO From Oct 27",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OYTNzN3ktdkNxZW1rUjB0STJDblZ6NzNiZ2N4Y2dFeWpZWjNMX2lxTnpJc2VWZXFEMjd0TlNRZHA2eTVLeTJySC1STVhCdk9wcjljVW5ISXBIcWhESWZrSWtBaWw1SFBON09PS3QycWJydw?oc=5",
+"source": "Business Viewpoint Magazine",
+"published": "2026-10-03T00:30:00+00:00",
+"first_seen": "2026-10-03T00:52:39+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1d96f03d88807aa3",
+"title": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVdFQXExTkV1MGtHM2RsMTlkSzdQY0V4bGJndGZHeFpIaVhvVVFtM1dIYjZhRUxwUk9hdENoTE43RGZqZTdkVVhpMmw3TFJaeDNYR3pzU1JiaG1SUHdYOTVEVXR4RExjVkxpdVR2Mm84VFRiZzgwVnVHcDJLWFhqYnJJNXNUcFpTSXZieVNjQkFrM2RwSU5uVFdSM1ZYTHRLMmNDdmxzanBGamR2c2JDNjlncFJJazh3MTd3MTdwT25EQ0VXZmFzTkttNXZQVGJv0gHWAUFVX3lxTE15ZmVQbXlHYU1SRnpRREdEdWVOV09ldGFHaXlQeGpjenFXYU9zQ2Q3Z0pkUVhXcWNRMHAtNHBrWS1Tek93YlBVRUtXVzZfMjlLbGZlRDV0VTNhS1FLSkhKZU5IaGZSc2tldE1VTlh4MTlYN09IajY2bUV3elpWRlFFN0FaWG9fbzk0ek5pVmEtMmZKNnFaaVNyd000cmhSSTU3cXNGbUczc2VhNllUTkxRRUJ2bWQzX2pZanR5alRaakxaZXpScmJuXzBUMGliWWpkbzdNQWc?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T00:30:00+00:00",
+"first_seen": "2026-10-03T00:52:39+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "f50c75c74ba90f3d",
 "title": "Maharashtra FDA Revokes Cipla Warehouse License in Pune",
@@ -50865,54 +50915,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1e0f26d820c57305",
-"title": "Titan Company (TITAN) Share Price, News, Stock Market Cap NSE/BSE",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUnczTmVTV1gwZmlhQ1QyNjczRjZTM3g5NzdRVDhOMTFDWTlOd2M1WHdrNGhhQUhFdVNPQ1dSak9VQWRvZWVVLWpIcjJtcjBoeDFUUHdmajAzTm1WUnc?oc=5",
-"source": "TechGraph",
-"published": "2026-09-28T23:29:05+00:00",
-"first_seen": "2026-09-29T04:13:46+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0739a70f58167c4c",
-"title": "49ers get rare bit of good injury news on Mike Evans, Trent Williams",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFByaGF1TnBibXVKTHJHLUI4Z2RWMy1oaklPSi04MnBSa3o2X1NSQ0xWS2FYRkdHMzVITE1lbzRVMlhNbElWb2dVSk54TWNTYnZHWGloZ21YUHZRR0d5aHNicElhTlo5R0FWcmxTWkpGZkVKX0xDSWhBQUxVWkpRVVNES0l0WjJtZlI1Y1FieC04Y2xldEw4?oc=5",
-"source": "New York Post",
-"published": "2026-09-28T22:21:00+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d9a8799616421514",
-"title": "98% of wealth firms are pursuing AI, but fewer than 7% are building agentic AI: HCLTech study",
-"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUJDZFJTNzg2V0phOUFVOGZqQk1BOVJIbUlJQ3hSTWJIQ2l3V3BGY3R2NGxrWEI0YVBxZTYxSHdBZHdiTlRkd2xqYXNPbUJqOGd1MXRfQll5SzR1R2RkZW9aM0g4VVNOSWRwclNpYjVQM09zRXJMOUp0bWwxWTV0djNlWUJWdkMzYnZMTTlIZldTcm9RUG5qc0x4VVgtQlh0T3JQUkx3WGU2NklwNjNjdG5IalROOXhHMGlqR3VUOGpJaFVINkpIRTV4SWh6ckRMOFRuNGxVWEx4ckx2ODl5VEVUMTU2d1hFNjZtRm9fTXhSV3Q5UmFDaElicjA4TG5zVTVUZDF3M0TSAY4CQVVfeXFMUFRKWm9zakF1RFBuU2V3ODNvOGhSMEJjSlVpRWJ0MkhObXM0LS1jZldnZUR5bzFQWUJGc3lvSG5iR3dGMXdpaUpmWmdPWXh1N1NlQzRPakM5Nlo1OVRjaDRzWmlJdlU0NkFkZ2NmRDFrME4yY2pGeEk4V1h1X3JMdWZPaXNqTThkN0RjLThSLWdpUXlORVdaT21NRkx6TjVmZ3dDOWtfMUQzeVRkeHdxTkRGTjBnUFl6SW5IY192dHRtVjFKNG9pNTIwaFlFRDNWVkNkWkxqdEw1YmYwWWM1amdIRG5HTjV3QWxiOTFJQUotVFJJX1llMjVldUpGOEZpRDN2MndWQ0dZbzJIWXZR?oc=5",
-"source": "Business Today",
-"published": "2026-09-28T22:05:01+00:00",
-"first_seen": "2026-09-28T22:31:09+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
