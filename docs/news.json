@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T09:24:52+00:00",
+"updated": "2026-10-03T09:47:40+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,26 +441,7 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
 {
@@ -614,6 +595,24 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "1bbce5f8592ebfd0",
+"title": "IT Stocks Rebound Today: Nifty IT Surges 4%; Coforge, Tech Mahindra, Wipro Lead Rally as Sentiment Improves",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOU80amlhWkhLeDZQTno4anRwNjRxUk1meHZPSkxFMEVnZXBKd2xaNkFzNVIwNlBFaktzMnZjYUlPSEZ1WS1tamg4aWw3WXU5ZDQwT3F6am5FZDhORXNKLTFDZGJPU195MlNqUWczdjkxamJLZ3JVUDNuRlh2bmduQUxIU0xVWUdyOVBFZzRsbUxjVWlhZnJwWmdiVld1OEplbzNwWWZSODI4dENTUUQxMXoxZTl2TDNzNDFXLTBSMVFfSmNaX0FEd3dPNUg0aUNObGlvd1B3?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-03T07:47:44+00:00",
+"first_seen": "2026-10-03T09:47:40+00:00",
+"symbols": [
+"TECHM",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Mahindra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "bf76ecf1e83736cf",
@@ -886,6 +885,22 @@
 "source": "urbanacres.in",
 "published": "2026-10-03T06:18:14+00:00",
 "first_seen": "2026-10-03T08:22:45+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4a94c9e337232ff1",
+"title": "Maharashtra FDA Cancels Cipla Warehouse Licences in Pune",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNm9rQlRPV2tLRlp5cHE1T3VjbTI3OXFjc1V0RVk1VmtNTVVSSy1yUW1RYVR3bEZLaU9pYm55bnZiRXNiT3BhTXVqSkxVUV9MUlAtYzJXc0hWVDhKNGk3TnhVdHVtTHkycHFRbzFxLTlLeE4wTk9vOXpnd3g3d0hDUGF0YXBfNzlNaEVyeGVSTEM?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T06:18:14+00:00",
+"first_seen": "2026-10-03T09:47:40+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -5086,6 +5101,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "093ea90118fe2f71",
+"title": "Govt Orders Safaricom and Airtel to Send Warning SMS to All Kenyans, Including Those Who Opted Out",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0c3M2RubTU4ZEVMNE1qNWdMMl9LdVIzdWdCb1BUYnNrMzN0cklJN21mUHQxOHJscWtsT1NDZnY4eW95akpDUlN5OHptZzhzTE9zQU5YRVFrQUdVNWV5M1BKT180Y3ZkbFBod3hWYXFCTE9oekYxb3AzcnJqcS1KamZrU29NZjVFcXk2VmJzRGhoRHpEc2ZtaU0xMWlIc01LSXczT0owYlR1WTNNSWxkcFNkUmtQVGtkanJIalphOE9RdFp4bF9EZl9NWTRnZw?oc=5",
+"source": "The Kenya Times",
+"published": "2026-10-02T11:14:38+00:00",
+"first_seen": "2026-10-03T09:47:40+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50910,54 +50941,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "ee4fd3342749afae",
-"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Sees Price Drop",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-29-sep-2026/liveblog/134555020.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:15:53+00:00",
-"first_seen": "2026-09-29T08:19:46+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "c37550d1aa3a3f06",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services News",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-29-sep-2026/liveblog/134555014.cms",
-"source": "ET Markets",
-"published": "2026-09-29T03:15:21+00:00",
-"first_seen": "2026-09-29T06:56:58+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "25f1b634e4154aa2",
-"title": "SBI Share Price Live Updates: SBI's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-29-sep-2026/liveblog/134555005.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:15:04+00:00",
-"first_seen": "2026-09-29T05:30:12+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
