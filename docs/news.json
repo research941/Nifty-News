@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T04:48:26+00:00",
+"updated": "2026-10-03T04:59:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "203952e98aabe628",
+"title": "SBI-led consortium tells Bombay HC Mallya owes over ₹8,700 crore; counters his claim of recovering more than dues",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbVFIUWQwVHNlYklKUmhOODJpakRxT1VCLTF1SDh4OXRrTlFEeFZoUFg3UnVFNFNwU0d0SWo2enYxbjd3cGlYTEVrUzdKWlp0cE55S3REZ0ZCUS1sT0N0b3g2RDBaemtiR3I5SDRIZXNKeXpsdGVwU2c3bkV4YUkzQWowd1F4bkRWeEJqbVoydDBfN3U3RkV1a2lWVW5OdmIybDlmQWJkWHBySGFGUG9FXzBLeV85Yy1Pdmd2REZJZnpELUh1R3MwQzUxZDNtOExGTDg4aHZVcVV5VEhZVnBuYjhjTUFoOXBJV1JkNlVhUzNEU2RnQ1dPbWtzdkhaaUVXR2F1endB0gGLAkFVX3lxTE00eHMzWWU2R2VYZWVvZGZvVkxfd0VkR0E0OFZGbE1MMFc2c1JtQmIwRmd5dEN4bk5QOWdiZjMwcWtUVHpwcGpyWVBJcnV2OEdUYjdNRzdFR2NrVE9MUS15T1pKUG1JWEp4czhwSkNkU19kaE5VbUxSZ09UTWdOeGU1aXRxVk5KQ3NKUDF4Z3ctX3dUcU9xc2lsNUtnVDBBcHpadS1wUVNpSlpyMGtycW5qVUpHSjYxcFhwTTBxZUJpM1JQT0tRVV9iMnlFckpibUFFYlM0R1hxTlFmYXlPU29RbzE0WUpWVUpncjlGS2M2NGdaLWhRTmpvZkdlUTFFUGxVTzBSTWVOelRadw?oc=5",
+"source": "Livemint",
+"published": "2026-10-03T04:49:07+00:00",
+"first_seen": "2026-10-03T04:59:57+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "af789a18aeb83fc2",
 "title": "Apollo Hospitals Navi Mumbai sets Guinness World Record with 61,221 CPR pledges",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3d0YTVFY1V3cGw3bGlUSE5TUmtCT0RGbU1ocWIyVnBXSDktaWZ1X25haEtVVXR3SXZIMjlDaFJoZFV3bndadWR2d08tWFd6c05pT3AxalYxV1gyTXdHalJUdjhIUl9GbGxfaERKNHBPWmV1dHhNdnl1WmNTcUVTUk9hV0pGWXpNTjZRTzhjby12STdpOUJfY0FpMmw0Z1JBRFI1Vg?oc=5",
@@ -456,6 +472,24 @@
 ],
 "groups": [
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cfa2009106d3089c",
+"title": "Bank holiday today, October 13: Are SBI, HDFC Bank, and other banks closed on Saturday?",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkRtY3hDamNNMVlSV2dwWU55WjFDcmpYTGlaM0ZERlYtazdxcHFTNl9fYnV4YURmWC1DZ28wM0JWMDFIdFlWc2lpaTlCSEpaeTZ0SHlIN3F1YVlPRmlzc2J4Nk00U25OOTBQeVlWU0IyMWJSc0VXSjhYYWxOSHRldjRYcEppdnI0T2R4cTVVWHVUNlVxRUt5Rkt6V1p4Z2hNbDhfNndoYVJvQkpTbk5yVzA2TVBDVnJHRmoxc0d5Y3Y5YjlQNi04S2s5bzdDdTlhNkZMdHhENHMtYndEcE9NaDU2dWo?oc=5",
+"source": "Livemint",
+"published": "2026-10-03T04:41:25+00:00",
+"first_seen": "2026-10-03T04:59:57+00:00",
+"symbols": [
+"HDFCBANK",
+"SBIN"
+],
+"groups": [
+"HDFC",
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -504,6 +538,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a347f337e4df9896",
+"title": "Royal Enfield: How a Needle-Making Firm in England Became the World's Oldest Motorcycle Brand Still Running",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0s1UVlVSnBEaldpNWdHc09iZHBQWXh0czI1VDhKQ1VOUjZoMFYyajlwdWlSQ0ZOTDVfZ0pzQmlGUTJUa3RDUlJVcFRLSjRheThzeHJSZUhkakR2VUw5eHdadGREU3NjaHRvSDBMeS1JTEVjYVhJeHZWSWdWNV9HOVlvdFI0eUdpWUQtYmE3U09vcXVOUlA0bm1CRUxoMk12MmFvNDYxcFB6LUdUd2hEd251SmFFclVMbU5XX3NOQndTaDBqTS1jNQ?oc=5",
+"source": "MarkHub24",
+"published": "2026-10-03T04:29:59+00:00",
+"first_seen": "2026-10-03T04:59:57+00:00",
+"symbols": [
+"EICHERMOT"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50854,54 +50904,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "70d0d7841d04057f",
-"title": "Titan Company Share Price Live Updates: Titan Company Faces Downward Price Breakout",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-livestock-price-today-live-updates-29-sep-2026/liveblog/134554260.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:30:06+00:00",
-"first_seen": "2026-09-29T04:30:39+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aefc84438377f761",
-"title": "Tata Aeris vs Maruti Dzire: Top-spec CNG trims compared",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObW11ZDhpNk1ZWl9pLVNad3ZaSVljQmNKNExWbk1UWlZveDFoSWk5Mk0zVmxuOEdEQ1NNbnhFOWUzaUFuMEc4aXZUQzV5Y0hrLXRMWU9TaUg0TXNwUjVTQ2c1eVhYYkV5SFJiaFpNaUh1VDlIVWNBakREYU00SW40cFR3WEc4T1VrQUZfTkFFOTR4UE1OMF9jeGJjSEhBWDVNaVcwQ1lYTdIBrAFBVV95cUxOaE1OanRxN1Q3eFotRmZYRXgyMk84eXRBcUhNX1ZQTHNxQkNRb0FPc3JQRlNSRVlFU1JqeFVTNjF6NXgyVFlvcTVfOVpuVUd3SjdkeTVBRWlVZkRvMUlkNDlxM0dUYjNiem04dU9tSWVFTl9vT2xTMjVKZ05hOXF4aFlJb2x6RmNMNFItbEx2ZEdBb0NnN0VjM2dueTU5QTZtZDYzUUNOVWoyX2ZM?oc=5",
-"source": "Autocar India",
-"published": "2026-09-29T02:30:00+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ef6b56ddd055cbf8",
-"title": "Stocks To Buy or Sell Today, September 29, 2026: IRFC, NCC and HCL Technologies Among Shares That May Remain in Focus on Tuesday",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMjl2aWhRMXFaWTVhTHJkQVh1dGFMTS1qMGFTaWNRQzB1aEkyakRaelZrb0RYRHdXaVhmbWpBckV4RXVpQ2NYR0JWQU93NWJkaUdxNHMxRm5OQkVabEp1UmFDOEw5MVJoWDdZNWZtbk03WkxnMkthYlNXMU44RkhydVJQdzhWbV9KSk1oUWU0Q2ZhUDFKUTF6ZUptN2s1bTgxMXV1UUZ1Rm9tY09mTFl0MHdsUUpHdTZqV0ZTME9XZzRtRndDcjdZVGlYbmMtOXVtU21fU1RHZ3c0NnpUUmlISnI2ZFpBcGllU3VIU1d4elREcDY2blV1dXRMU1RId3ZT?oc=5",
-"source": "LatestLY",
-"published": "2026-09-29T02:29:18+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
