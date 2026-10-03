@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T01:36:14+00:00",
+"updated": "2026-10-03T01:49:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -549,6 +549,26 @@
 "source": "Bhaskar English",
 "published": "2026-10-02T23:30:00+00:00",
 "first_seen": "2026-10-02T23:44:14+00:00",
+"symbols": [
+"ADANIENT",
+"HDFCBANK"
+],
+"groups": [
+"Adani",
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c3458fe6e5dbfb3e",
+"title": "3 October Current Affairs: Anup Bagchi appointed HDFC Bank's new MD and CEO; Gautam Adani is India's riches...",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFRhUm90a2ZWVVBqb2FVV0VKR0MtbTF1UGxLT21DWE01UVdzdWtmRVhxSEhNeUgwTHk0R21aNkxuakkwM21wRmF5ZEtMR25hWVlyR0Fka1VGbnRmNFdKby1meE5nQ2RaZU4xckMtQWM2cEY2alM1RjFPZW1sX1FnR0xxTGwya0ptVl9DRmowN0RIa01yQnVOQ0tuOHl3cEJ3YVRWOVM2eVp3N3VsT2Z2aFZYZWJLRTFzRTBGSVNR0gHDAUFVX3lxTE83SVhhUVM3MG9Odm5Hd1RzaWhFN2l1ZXIzZlpwYUt2NERNZFNjMXR2T0lqMDc4ejEtOTBYYm1ybF9IbTM5UnhnVEx3bmFtLVp3clI4NkthSE9STU5qV08wLXF4eE1ORFFhbEpUemhIQnQxcjF2OGN6eDlJZnRPXzFIcTV0QkFBMXJHM3JQZk9keDdoRDJFN1dIVVRjMm81NUN4em5DM2J4N0JOQlpueldKaC0xNzFJN2ZYcmRmUzBQNkJWSQ?oc=5",
+"source": "Bhaskar English",
+"published": "2026-10-02T23:30:00+00:00",
+"first_seen": "2026-10-03T01:49:48+00:00",
 "symbols": [
 "ADANIENT",
 "HDFCBANK"
@@ -50899,24 +50919,6 @@
 "IT"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2e5af257ffec38f2",
-"title": "SEBI rejects charge of minimum public shareholding violation by Adani Group companies",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWJkbDNESTlfUHQ1WFRiMF8yQlF5VEQyY09QVU1BcWdHcE5qNGJmRGh3VTlIUkhyalFmM3NFM1ZBV0Mwb2NMLU1zdV9LTl85ZTduV19Xc25aNFg3eGh6MFgtT21pczRwMHdJNlRpNjlDRm9WYVZJeEhvTV9UMDRZM2R3RUNmdXNFRWRNdGFkMnZlLU9LZlpidjFVTGdxbHZSRWo4QWxYNFJmWUtBOUtnUVQ3ZkM5S1FmeThIOFdpc2FuRTJvMzdSTtIBzAFBVV95cUxNQkJqTnZSY2lWZTJCM3B2VVhhV3lpZ0ZIZEF2ajNCUnFmcVlWeGo3aF9jeVVfeXlDaXY2MXRqQXZvMGhzYU5YSjM1cTVEazd4ZG9FM1FOWVB1T0Etc0pFeTNCd2wxb2lMV2czN1Y2MWFhVGczVHlEdUlZdU8tblIyOV9NSlNlN3BmU0xXdjB3bllGOGlPanFLbDM4SWlxcDY2UTAzZ0JCdnkzcTlrYmRCWjJVenlRQjNHTlNBVFJoUS1BVUN0ZVBkRlF2dDE?oc=5",
-"source": "The Tribune",
-"published": "2026-09-29T00:02:25+00:00",
-"first_seen": "2026-09-29T00:26:11+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
 "sentiment": "neutral"
 }
 ]
