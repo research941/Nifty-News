@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T03:26:32+00:00",
+"updated": "2026-10-03T03:57:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,90 @@
 ],
 "items": [
 {
+"id": "aa4bce8702df5bf2",
+"title": "HDFC Bank appoints Anup Bagchi as Managing Director and Chief Executive Officer",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2hsOEE1MFB5NnE0Q1VuR096OW5BeFluLWNma3J5NjEyQXJMci1TbERVRmMyUzdxRFRJUnFWeUxRU3dVMll6cFNwSWFRQ2NzQXZRb2ZqQnpoYU9lWWUtSC1Na1RnUDk1Y1ZxV3RKdXI4X1lqUGpiSjJvNFllSVU1UUNjWWVsc09FdmdYVFVkZkNJQzBjNC1tT21IVGJVSGs4Tnd3MktVS3VEaGZWNDFLcERwQ0w?oc=5",
+"source": "Adgully.com",
+"published": "2026-10-03T03:51:00+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "87a4709549875fd5",
+"title": "OUR PREDICTION CAME TRUE : Anup Bagchi appointed CEO of HDFC Bank on October 1",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblNHZEhRRnJ4NHNQeG4xSGxfMGdxSXZxX0k0OEZuR1ZXeE5ZR242T0tkdDhYT3ItUXBHaTBDempOT25xYmtDczFtOURJaWNFNWptYklncnhiaUU4bWl0bXBhNFBrRm5wYzNjSWxNaEtEbHR4eUdnYmMyNVdZbjBWT0kwR09YQ0U2YkJjME83cTlERHZnUElxZWhZMy1ENi0wZHNWUkhTOFpoQjY2SG9EV2k3a3JGdw?oc=5",
+"source": "Whispers in the Corridors",
+"published": "2026-10-03T03:47:33+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8c539f334f5a8ab4",
+"title": "WagonR, Dzire And More Help Maruti Suzuki Record 24% YoY Sales Growth In September",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPamVDUjBocTJmMjV1LU95Z1ZuTjB0Wm4yZ0MtdUp4SGJwSUp5Zkl0ampBV3JPTkFDYUtGUGs0QkJUczlsYV95V3VuM1pMeTl6ZS1TVUpvZ21Jal9jSDZ3aHRueHlHSU16SW1pQlA1WjZXWVg2VUphZkxuaG0zbDNJcnVlVkh0SkpaYkMxVkoydmtXTUNlSzF4REV2eWdtd0dkU2lnQjNUS3B0ZHN2UnBWVWhBM3pOR1FBbUh4OHJBRW9nb0RHMjZlUjJfUVl1cUlubUF6ZVFOekUtVHpkOWZzYmRyMNIB6AFBVV95cUxPQW0zdGkweEJsdFhTUzFXaEJycFFhc1dycHpQR3lZRnZpNjc5MXk1eHlNOENBZjlIOHZWQXI3UWQzbDMyNlBHeWVZOW1ESGpjdWFody1KdDFGeWFTSEt0djNiclRKLUMyejhzVUx5QzhmREtxVnhpX0d1TmhEMHNKZV8ybkJTVWhOMDhmODR4czZGbURkOWNraEpOUVV2Rk9ZWHd5NU5Ic0lwQk05aUtOX1B1TGdNdnVUdlhwdzRWYlJJWEJQNXpTVDFxck9xWkVtb2EtdUlBV0t4MVc1RXBvUFZsRm84TzRY?oc=5",
+"source": "Times Now",
+"published": "2026-10-03T03:30:00+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2fffef863c6e4440",
+"title": "Maruti Suzuki Fronx Facelift Launch Soon? Level 2 ADAS, AWD, And More Expected",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUZsTUVYQkdJNGVVV3B1VjQ4WWxybld1QUk2MGFEMkFfY0VCZkp2eEZOQ3BRRDBoUXVmTUNJS1RPYnRKVWpjNWxRZU9sUmZzazBDdzJHem9PWU1xSloxNHZOa1c5M3FFVW1IM3hZMk5IZ19zb0lfbXlaQ1dYWWh6Y045X0k3al9yUi1OXzZObk1ZLVRLSHZZalJhbGRXOFg4MWE0ZjRRc0pJSVVOVnJBUmd0bXJrS2p0ZDMzU2FZMWgyMHPSAcoBQVVfeXFMTmxiZFhKTmcyZW81dDg0VUcwbDhjQ3NjU09lVVZCNXZLYWk3d0M3VnlZOU9nNmxRd19DdGJqdjV2VlFkakRhYWsxbXpQUElPZmVWU1VWOFNDWWxWa3NsV3I1NV9BVFMwXzE2NWZ1eWdGZEJ4eG9IMm5yZHBhdjRyalRxMUhza1N3YmFRNmwwNUxuYlo4d2tfbkxMSHlhR200U0pBNS1manRoZVVraWVrN2thdjN0ZmxzTU1sTDJvVUExUWhFWWp5Rno3dw?oc=5",
+"source": "The Daily Jagran",
+"published": "2026-10-03T03:29:00+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "47f18c4d631c74d4",
+"title": "Mumbai News LIVE Updates: Maharashtra FDA cancels Cipla warehouse drug licences over alleged violations",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTmUweTNGTk1mN0tVc3RONWZ1YjBuTnVnUlYyQUtkWGhoeWUxa2NaSzdNejZIV2JlX0dhcEsyMVBEZGZkaE5JeXRqekc4ZDlaZ2lmY2JMUlNCQ2hTdXJIa3VsMFdkOWxyQ2p0dElGc1pEay1qakxyWjJBSmZWNzdhbDdid0hvd0JPUEtBazZPUHZ5dlFVY3BqSzRCR0RlTW5LLU1MZ1pfZUJyWVM2NnRSSHdjTHFadV9faThMRzAzNkVUYS1QRjVWVE1UV2ZQNldfelNIa1EyLWYyYUxfTWFfeFIyQURUcEFKV3QxQlRjV2MzTHA0M3fSAfsBQVVfeXFMTlplbDU4WktlR0tWa0VKVHk5VE1MUktHc1FQQUwwc3BhY0FRYlJ5UDRySG5hZjQxU01kUmYwLVpJZmxPaFdBb0tvRnQwenpkeEk1S0hBWTNjdlMwQUlva3k0Q0xEaUQ4VUpySm1oUE1TZzBpemJUeVZ4REFMYmxadEZYM3VKOTlKRmw3WExJUkdqM3gzSVpqajN2d2dqaEg0Vy1kRHpYMEx1dXU5M21ZQjFnS3ZHMV9MZC1LeWR5VnRvTHhiUFFjVTJINkhETVczcENJVGp4Tlc3c0tkRVFQbnpMS1BGYnNIMkI1cGR5NXAweDV1S2lCX0liVUk?oc=5",
+"source": "Mid-Day",
+"published": "2026-10-03T03:20:00+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "d47107ce4c770ecc",
 "title": "Maruti Suzuki Pending Bookings Get Past 2 Lakh Units, Brezza Nears 1 Lakh Orders",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWF3dTQ3UVc0WFJSZzB4UnBtWG11THNzZzhzRGlDUHc4TWNYQlJkZXl0d0xFWlZKd2I0N0dJdzJDZDdpMVd2ZXVodTlGU0huLW95MHpZSmNpenVlc1RvNTlxY1pES3NlTS1VMnRoZzBNZVBsNTBpM0RTbWs1OW5iWE9SRzZYSUFCVUpibHJZTlBNaW1PU2FRT0hlSW5xY0NFZlHSAaIBQVVfeXFMUGVhd3U0N1FXNFhSUmcweFJwbVhtdUxzc2c4c0RpQ1B3OE1jWEJSZGV5dHdMRVpWSndiNDdHSXcyQ2Q3aTFXdmV1aHU5RlNIbi1veTB6WUpjaXp1ZXNUbzU5cWNaREtzZU0tVTJ0aGcwTWVQbDUwaTNEU21rNTluYlhPUkc2WElBQlVKYmxyWU5QTWltT1NhUU9IZUlucWNDRWZR?oc=5",
@@ -528,6 +612,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "8761936a542229cd",
+"title": "Chartist Talk: Is Nifty more likely to witness a pullback than a breakdown below 22,000 next week? SBI...",
+"link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMHJBekZVaTJvc1IzNVpMeTR2LXVuRENsVUlmcjNmeDI4d3pNSnJUWEVsU0ZlMjdlOWJFdi1HMkQ4QjI2alR0S01GT182bzZCRFFLcmlwa09zQWQ1SXkzR3lMbF8tYjh2cE5nLXZSeWtIekpLT1RuQWgxSE9tbjdLTWZDcDFKYi05RGRBd25FU0dfdHhaUjBsV1hXbFdJT1JrV0dNdGNVdVhLQlowVDlSZnB1X3JVVVlSeTRSaF9KcHNlS3plLV9zRUVlWlRDblZBWkNsUG9odWpUUFpSUEZQRVRLMDUxVlRuZDF5ajlZRGVuY2ptdFV6UEZpN2VpSmNBb3p3QW5qYkYwSVYzcnc5YndDVk1ldmhWdGtHOVhRWVFqSUx0TVBN0gGnAkFVX3lxTFAwckF6RlVpMm9zUjM1Wkx5NHYtdW5EQ2xVSWZyM2Z4Mjh3ek1KclRYRWxTRmUyN2U5YkV2LUcyRDhCMjZqVHRLTUZPXzZvNkJEUUtyaXBrT3NBZDVJeTNHeUxsXy1iOHZwTmctdlJ5a0h6SktPVG5BaDFIT21uN0tNZkNwMUpiLTlEZEF3bkVTR190eFpSMGxXWFdsV0lPUmtXR010Y1V1WEtCWjBUOVJmcHVfclVVWVJ5NFJoX0pwc2VLemUtX3NFRWVaVENuVkFaQ2xQb2h1alRQWlJQRlBFVEswNTFWVG5kMXlqOVlEZW5jam10VXpQRmk3ZWlKY0FvendBbmpiRjBJVjNydzlid0NWTWV2aFZ0a0c5WFFZUWpJTHRNUE0?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-03T01:45:46+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -678,6 +778,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "aae197e2d1c5315d",
+"title": "Tata Motors to Hike Passenger Vehicle Prices by 0.5% from April 1",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2tQYzg3UG5kZXdXeEYwMVlmbWotRUVwbWFVbXdlRGFLWEtaZVdCTXhxYldPcGNrVG1sQkJLeDZQNnhXeUtqbUNiNGFNaTZzSlVNVWs3WC1HdTJ0MWZ5YkhPbE4wT2xrTUwzbWVlWi1ENWVDY2ZBZG1BeXNCcENweERSZEVrb0tsM3pzb05FM1NoYW1YRDNRR3lvaDZ2ckp1OFZ5UHBiaXV3UQ?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-02T23:43:16+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1098,6 +1214,22 @@
 ],
 "groups": [
 "Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b6cf80818f7ea645",
+"title": "MSTC: Coal India NRS नीलामी में सबसे कम बोलीदाता बना, टेंडर जीतने के बाद, के शेयर में 4% की तेजी।",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGhibDhwemNDUVpRT2tRblRiTlVvd3VjVDlLTm95dlpOeXNpM19ld2x5RlR6cjlJTXNsTnAzOUJYMGtGVHdDOGhsdmoyUmhxNVZNWXRGelY5MVA2YXc3Vk5lcUZZWExaQWd0MGFiT1R3d0k2WWhRRUJBZDlSWHlWWlNORk1YSGlsd0dVb2YwbG0tUGdBd292dFlmb0pHRFRkQm81VjBJaFFOSENVQ0RUZ2FxNDJnakhKYnNIS1g2MXRqM1lpY1BXOWJKTQ?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-02T18:42:55+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1969,6 +2101,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ec41cf292be55cfe",
+"title": "Maruti Suzuki Baleno",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1d5UFVtb1YyM21hbzZ3VlVMdmNzUXNHako3SmFwZFZCdl8xY1RUR0hwNFIxVllOS3kzLXJuN19oWnhxd3NjdzhDcjNGWlJhSEJ3cllBaEpMVkN3c0o4SjY5TzhGeGppQVpEY0NQM3FkSVdqSEFOVFhkSEJqUHJYZXhLSHZMTEtvZ3c?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T14:51:55+00:00",
+"first_seen": "2026-10-03T03:57:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50767,155 +50915,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "bbf117bfb876ff93",
-"title": "Stock Picks Today: Marico, Havells, NTPC, Orient Electric And More On Brokerages' Radar",
-"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMEE1NEEzdFppcUxLc2Eya3k5QTdFN1hyX0d6bERKUVF2SFlRQV9YVDh2UVJLZGpDRklzcUQtX01HNzBRWDE0TW1xSHpsRElPNXBxNEIyZDhOUnZmZ0N5MmhCRng2Z1BXQi12WjA4U1JaRlRGWi03cm5NX25jd2czbElKaTd2QXZrWDE5Wk5xa1FacU9iX3RjMlEydUtHMkRoUTRiaXowZ0VId25YMEVMSndyT1MwRWdiR0JBYjdhVHlienRqWkY3U1QydUUtQ2tocEhDS0hWMzFzcFNmSnNzZmxVZlkzS1JTTE1yRU5ZX1RRWnJSU2swYm5BV0pjTHFHcUVoWlNBd0VtR2p4WURkN9IBmAJBVV95cUxOWDhCSnFEemc2eHhWUEVFWHBxTG1QdXdWcXVDakZ0MnJFVmpZNFZHaTd2WFA4N0xrMDJwRG1RTmZ4Y3hUQXBvOTZTYWsyMEhOQi1hMHZ4QVdCbXRhaEktMVNKVkFuNXhPN1V2bXdvOGRjNE83OXBXZGFpVWNvZ0M4UTIzZHV1U042ZkR2SDFIZ25jZENJWlhGQVppdE5FaWM0MU12cTZfVmstSXRKOVpreENqOHpzUzc1WFVmOXNnTkpnVExwWWNSaVBfTTJVTWhyTW1PdXZnNWRNMDh2emhqQS1OQUlrVE5jelpTQlB3WkZIaHBFSGFVd2lyajh0Y3BBLVJUamtlUWVpM2JnbjVOMGFBYmc1V3Rx?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T01:38:06+00:00",
-"first_seen": "2026-09-29T01:57:20+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "87f5f998ae4b0f9c",
-"title": "Stock Picks Today: Sun Pharma, Azad Engineering, Marico, NTPC, And More On Brokerages' Radar",
-"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQVUNzX05wQTNzM09Bd0lvLWN3aTFueUhmc0xwZlJ5b3VKUXV4S20wNzhZRnhVWDFEd0tiZGRyWElpYjN2enB4SnY4Z29RRUZnMGhjWFNFeERVME0tUk44cExwWWRBckNNWndsRVNTblFWeXA3dFk5a3ZlQzY5c1VacmZlbFBiTW9DVDVIODR1TnJVc3kzeTFOQi1BejZxTWpESnJoLWJyalhmbXl1ZUJGc0VMNnBLOElNeldzaTMzbGZIQ29FQjNCdl9iLXNKY2pfeGlnNGFRTk0wbjZfQms5RWNIM1JtZnltX2ZqYTJJcFZodWlfWGdaSE5qaWhDcFp3VzBwRXNKOTBqcmlNaV9PVmZxdVpMbEszbWlvY2tGNNIBpwJBVV95cUxOLUZtb3pmaE9DSV9kcGV1Y3VkNGRkTjlGaEhYcWJycG8xMkFOMVo0VU9laFJuZ0R2Vk1Dd1hlcEwyNWdYNElWOU8zLXE5dHAtSm9xbklzR1JZVnNQN1NRUm5UcVN4clBOTzNKQ0c4QU9lRUdtdHhTVS1sX25KN1dYOU4wM1RDa0ZkNGlMVlliSjE5am9lcnZHMWtvdFNKLThqMUFHLXNUUXAzTXZQd1A2RFJzZWNBV2xKeURYREZCWHJWMkhka3V2WkpTUzMwaUcycGtpQXpLQXRmZWVpV3FVNmRvMXR2TUt1ZzhOX2xxa1U5TUdESi1uTzFrdEN0Mm9pWXZ6X2Z1anFyQ3pWb2NaUWxZT3lOZC1INEJxWEh6SlJFbDNvUzBz?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T01:38:06+00:00",
-"first_seen": "2026-09-29T01:57:20+00:00",
-"symbols": [
-"NTPC",
-"SUNPHARMA"
-],
-"groups": [
-"PSU",
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f1ab2d3576a92f62",
-"title": "Will Adani get an airline?",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXJ5dm5pLVk1VnVISnZVX1hOQ2Z6ZDdIVjZURTJxMVhSSE5OaGFDV3cwY244SmJicWhTMFRIdDlYUXNFVmVaTUZfdVVHRHBfdjdPZGZxSGoxaHR0b2l4YWpLUERWM2hIYnZRb196VWR1ZC00cDAyalR3eTNxMVhVdmVaUzY?oc=5",
-"source": "Financial Times",
-"published": "2026-09-29T01:31:47+00:00",
-"first_seen": "2026-09-29T01:45:53+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5b58910ae3b5da2",
-"title": "Reliance Jio Adds Most Wireless Users in August 2026: TRAI",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iNHZYeWRNcFRnSWVGRjZxVUs5ZUV4UlpzOFBlQnVBWDVzQ0pxRmpZWXdoVHFZcUJqRFYyY0U2ZWUzbHMzUGR3emJ2YlMyREI5ZVg2TjhONC05bkZob2JJT2FpTGJ4eUhxT3pNZ1k3bHBfT3VYTERndVZ6TzdtNjA?oc=5",
-"source": "TelecomTalk",
-"published": "2026-09-29T01:31:41+00:00",
-"first_seen": "2026-09-29T01:45:53+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d44ace07c6e4b300",
-"title": "How To Open A PPF Account In SBI, ICICI, HDFC, & PNB Bank Online?",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVdKd0xkQy1vSFVLbmZJV29DWkZHdE02RUdGZGtKUXl2bDMzVHg2WDRFMjhjYnJNNGNFR1lDczQ4TVRiMktSMEdRMV9pQWIxUlAyVXhnM3dQbFYxRU1hNE9mQlozV3ktWkplSkhXWlU1QjZrdUFwRlMzTWlVREtiNkVFcDRCWm92S3ZTZnBJNkViczhTVGppck1GeGstdm95dDhGVUpZUmhOOERHRmc?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-29T01:28:15+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "21ec183e8afc780e",
-"title": "Infosys Limited (INFY.NS) stock price, news, quote and history",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GOEV1amlGdG5lR3Y1YVgydHJWMTlvWGZqSWlWMlIxLV9JbE5XNV85VXo4bHUxaHZwc2FGUVpvNjV5TGNXQjZ5aTdmSlJkNHhMZVNCZDZn?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-09-29T01:28:01+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2163e1f280e47afe",
-"title": "Stocks to Watch Today: आज Coforge, HCL Tech, NALCO समेत इन 11 शेयरों पर रहेगी नजर, जानें वजह",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJuaDhTQmZlY2taT3NYdTlya3ZqNDJ2TlFfTThFU21QRklmNkxIUDZrVnJydWxXMmNsOWlrdDl5bUdUc01GWVQ1bjBSNWwzNmlQUUFqWmpaZEN3LV9WeUZaVkdiOUY0OGYtYUREQWRZRnpJVk9HcWdSVEdqdzZmbGZDMWpEaldlckxSeklVSUxqa0lsTkNYY0t5a0dFM0ZmMGota1hmeWxlNUh2TDI2Z3NxcjU1LWhDekU2UFJqUEp3OHh6ZGVkUkpmb0tKSklwVUZETHc1YTUzVS10b19LYk5RZkpoWEt1bEZjUWNnOA?oc=5",
-"source": "ET Now Swadesh",
-"published": "2026-09-29T01:12:48+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "945f25c8bf693cdf",
-"title": "TCS Infosys HCLTech cut H-1B registrations 92% for fiscal 2027",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0hEa3dGamloU0NQQnFYNjFaUHhxQ2N5OHd2bkYwWTF4THdSRS1PUkZlRXN4Rzg1Z2FhQ3FyeG9iMWllLUVad2tWVnk0ODFCR1k3ZlNCcmtIdmxCZ2JvbjJ4VGtLOW1tdTh5QklYRG5fdmxNb3VRd0x6enVFSUl4dEJpa2tGSWtxVGJYVWFOTVZFekc3VE1ULWhybVVFYXE2czdIdzJHZmlDUnp5Vmc?oc=5",
-"source": "NewsBytes",
-"published": "2026-09-29T01:00:53+00:00",
-"first_seen": "2026-09-29T05:30:12+00:00",
-"symbols": [
-"HCLTECH",
-"INFY",
-"TCS"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "d56c7130239076c3",
-"title": "Stocks to Watch Today: Honasa Consumer, HCL Tech, Varmora Granito, Ellenbarrie, NCC, Vikram Solar, Prasol...",
-"link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcFBLS3lueUJHQzZNelRid3czYkRWZTB3Rk1lQnQ0WlhJN0EyZTdKanlaOEJnNTRGVWt3ZnlVbmotcmJ3cFl5MElLbHZsVW1FSTkwUEx5T2FwWGpnWG1NLUkxN1dYNENqWmVydkEtdFprZXUxcXRHNTM5cG1GN21leG9UT1JybWw1X241d3ZyOF9nTkwweU1tMGo2SkM2cUJaS0xFaWlUemc0Qy1BdWJ1OFpzNGp4OFU5aHk0UjJhV2pNbFhMdkVuZGRPcGhLRmp0VmVqYmNIVzF1S0YzSXJfMHlTMzZ4bXVIemJQc2I5ZzZiaFRNVmJpdDZQTlc3NnZSYXdLdTFpQXBmZ0lLRl9QaGljMm54aFM3YUFnWGtDSEZUNTlRNTcxblA4YU4tYTFTSjlaOFpiX0XSAb4CQVVfeXFMUElva2JJcDZlN3E0cGpTR1I1X3hLT1Z2UHFtelUxTzVhR1RpRTkySnk4UGN5TkREbV9aM3VxT0htVk41Vk1DQ1ZDRTg3bXdod0lrUUZ2Q3RhOXVqOU0wT0psQV8zdTgzR3pDNkpxbDNNcUFndWFROVZ1dnY1dFRRbzR0YWNUTXhCY3NpWmpERHBZS21zOEthYXNrMVM2YmxQbm5ZOHRDUG02TVVMVUg2OFpBdndBZF9xdjBUUm5xamdVR1hCMENXbGNzWlNwR01NR2RYZnoyeGpkZEpadWptRUJIcXFOX2RvZzdmejBueVdYb3lHb084MVgtbHZuaUVEZVBMVUFpQUZjVlVKZXVkblBHNjNGZk5LLTlnOE15ZjNZR3Jpbm5rQU8zYmdnOHVlczhrLV80Wk4wN2F2MGln?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-29T01:00:19+00:00",
-"first_seen": "2026-09-29T01:18:40+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
