@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T05:28:11+00:00",
+"updated": "2026-10-03T05:51:03+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,84 @@
 ],
 "items": [
 {
+"id": "4b434f50c216f8f6",
+"title": "Who is Anup Bagchi? 5 things to know about HDFC Bank's new CEO, career, salary and experience",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3h1NHF6cTl4cGs1SVJNbkxGNFpnVGhhaWY4ZGZvWWpldml6OVR5Ni0tQ0N4WGlGOGEwZTQtR3VKSU1WRE9FMlBOLUZ6eURTR25tOWF0YW9XWlZLRnFBb0FXUGI1QlZVN2J0QTFZX0tLQ2NOYnkycFYtZVJjTG9TdGpXT2xjc1pyR1VSVXBrR3RYS240MERLcjVUaFhYbGRUMmlsWE9nY0laeW5HUVBLZUZvbw?oc=5",
+"source": "SME Futures",
+"published": "2026-10-03T05:44:47+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8e2989d72e212b27",
+"title": "Bajaj Finance Q2FY27 Results: AUM rises 26.5% YoY to ₹584,750 crore",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTdYZzROWThkcUZZM3lCMDNYWkFpa29qUThTQUZqRTNhNzhxcm05cHBIX01mbFRBNmpJeXdZRHdTSnlLVm5Sd0Vqa3NldVk1VENMeGtLWUkyQVBGVS0wb1ZsNGFHZl9vQXRkWGFWSmNYMkMyaG5ReUQyTFpPRm9jamd6ZHpxX3BiLTkyLXhTYWduN213WldZd3ZmZ1NpSDFpSFY4M29INXNHMVZfY2tWQVFmajdaa0J1OWc?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-03T05:35:07+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "1d9db5b0a4c1e389",
+"title": "NTPC Assigns Additional Charge of ED (DRC) to Naveen Jain",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQzBQOHhMdDJzRlZPOWtMUWRkMXRybVlpaXhtSUxBaFpyRFRJTnNYUHFRNmo2bGx4bkwxZ2lKUkQwclNNT09WT0Y5aER3Nklidk9NcVZSNFRBdWZkZUtnU3pfSzN6MFpNSjJZRXl4YUpyUQ?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-03T05:34:12+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "cc0261f561d1b357",
+"title": "IT Q2 Results Dates: When TCS, Infosys, Wipro, HCLTech, Tech Mahindra Will Report FY27 Earnings",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVZHQWlsajhFMFJPMWdLZ3JST3F1bHowNEw4MHJVTTZKRndyb2hiMmpaMjRxSjZHNXVYeTZrbHdxWG5TOW5UNjVlampVdlNSTHBsaGtYNUdzNVNQMlZJdnJvaXlsSmJaODAtYTN0QW5sVHVmR2dnbk4wb3Q0TDdXbXhmakpIX3ZIWlE4bThLZGlsTGtEOThCQ0lDOGpuc2NydEhodEpKNnBQdkJnelZnN29RVTRQUDY5WllHNkxmZFZXWjg2dmt2STI0U3RIMm_SAdcBQVVfeXFMUFFYSHNJRzN4U1BSWFJJanVPdFpMU2dzX0NCWkcwVE5aMjFOSFUzZlo4aHZLU2dzVzNnR2EtQ3BnYkRidlNsSnNHYm5sTW1Eak5WdE9aT2wtSGprWWl6UnNEX2Y2OXVzOGtUbTdmUlVTMUdjNWlleXFYcHk3ZXFvODVHQ0hsRzhpd2Q0cWxNa2kxWlFtTVVBQV9UY3B4SG9xU2xTTk0tOEQybkpDYWt5MVMxYUxJcE00S0NQMW5qQlJtZFZweS1jNUhXb2JIdk9aM3NFNllfV2s?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-03T05:23:07+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS",
+"TECHM",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Mahindra",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "07d2fab9baee05e5",
 "title": "L&T Wins Two Dubai Road Contracts for Latifa Bint Hamdan Corridor",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzMyR280ZWVJY3BwOGNzTW9KXzdoU3VJT1pFUnF1WW5fLW5wRTc1ZFoxVmNfQ2xWb19BY29uc2hneDJqMkNrdTBLRml1U2o0Ml9RNUVsNGlnbXg0MmxQZHo4SUZkUlpyc0RYMGlwVVRTM2dGYV9DSUdYSUZocGVMTUFWZDZlejk0T1F2cTdST3d3WlRRQmk5RU4tZW02QjA?oc=5",
@@ -477,6 +555,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "bd276b919986e5af",
+"title": "Jio Platforms IPO may open on October 21, issue estimated at $3.8 billion: Report",
+"link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-may-open-on-october-21-issue-estimated-at-3-8-billion-report/articleshow/134652545.cms",
+"source": "ET Markets",
+"published": "2026-10-03T05:16:10+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "5e7f7165b1c18e4f",
 "title": "Cipla Unit's Drug Sale Licence Cancelled By Maharashtra FDA Over Alleged Violations",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkFkWE13TkdkZFZ1dVFiSm4wVmxxbW1ZVGc3bEJJb3NPMEJkUUxqcmhXaC1ER1d1QkltWmNMVTJaN0ZUYVJMc3ZYNkZBNTVKV2dIY0xFWEotMGJOdGJlTExFZ05scGlrTHRQT3BpVlpBbHN4c1dLUldlOHhEUjFpQW1maVBPX19zdm83ckhtYkxjZjBiRTRmd0JFYjIwLTBSZHhxWnRtbDZVbjJfSmc?oc=5",
@@ -490,6 +586,24 @@
 "Pharma"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a35ac473811914df",
+"title": "ICICI Life names Sidharatha Mishra as MD & CEO, Anup Bagchi to join HDFC Bank",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazZxVURJYXN2TzVJalhrT0V6X1ZNNTZMSS14Nmpadk5qaXA4aE9TYjByUmFSTVpKREtCTW1RVUpkS0ZVTHFoeG5HR3dtZmFna1k4ODBRQ0ZKbGpwd29pdlJBMDRhblA2S1h0M2x2Qk9MSUVZOHctMzlDUGVTRk8xOXZ4SEhNRmVSUDl3YUJQVHUwWm11R3FncVlORWFDa3FGZUhvdTl6MFlJeDlXblpmTFp1QVNyUERqb2tDQzJzRDNxR1dMbDRURFozd9IB0AFBVV95cUxQQ1ZfLWg3ZHlrZjNMWWlnUnNhMFdRci00Mk10eERldVdlXy1ibVdFRW9YcWlqNnVCcFVyVUUwc2N2LTdZejl4MnFEY3pxUlNHaVUyOGFWcnBQRUxXOHZlMjFJZFlURGk1bzIzMTd0b1FiSGdSRkFLQ2o2YjFBMXRxYXdhd21aTmtYeDVaa1R2VGVEdzRJbm5mX2VQOXl2am5TLXJfOUtGOWowRVZyX0VzcVB4M3k1eHA5UWtJYVlGVUN0V1BJQzF0UXotWDdXX1pO?oc=5",
+"source": "Telegraph India",
+"published": "2026-10-03T04:51:22+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -705,6 +819,24 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "f994ac63491ade6a",
+"title": "Anup Bagchi choice for HDFC Bank CEO signals regulatory slant for fresh blood | Business News",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdU5CNmZoQUVUYkFpNnVKb1hNZjdqZHdmSjV1N1F1RzNuWEFZYXUzUWxBQWEzUGdBbjZ6NE16T1lxdllsSzZHa0tpNm5hOEVKakRwZFlVMGJjVnpYdWxWWWNYRllZZllIVENtaDNhREVYUlJzek5WZzBFLTBQZzBYRk1kZmtOdFhrNlEwVkFQSF8teU85MWs1dlB6dkRseGZjQlp6YTdaQU1ycW9qdUJiSU40VjJIeU14QXJHal8wYVVMa1JzRlNKcW9LbVhfZ9IBzgFBVV95cUxQdU5CNmZoQUVUYkFpNnVKb1hNZjdqZHdmSjV1N1F1RzNuWEFZYXUzUWxBQWEzUGdBbjZ6NE16T1lxdllsSzZHa0tpNm5hOEVKakRwZFlVMGJjVnpYdWxWWWNYRllZZllIVENtaDNhREVYUlJzek5WZzBFLTBQZzBYRk1kZmtOdFhrNlEwVkFQSF8teU85MWs1dlB6dkRseGZjQlp6YTdaQU1ycW9qdUJiSU40VjJIeU14QXJHal8wYVVMa1JzRlNKcW9LbVhfZw?oc=5",
+"source": "Hindustan Times",
+"published": "2026-10-03T03:48:46+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -2807,6 +2939,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8f0d2730cde3015b",
+"title": "Bajaj Finance to Raise INR 175,000 million Via QIP, Pref Issue",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUktjYmFlbEZ5Y0xSM190djdudzlRUU04ZkljXzc4WW5yYWc4X1pTRTNvU2M4SnoyaFFnM0laekR5eXBNY19SVHJVLTRqOV9aTWk2dTRkNDh1SmU5UUhyVHpvSnJpQ3JZMHRnTjA4M0EwMVgyYTBMZDVxaGUyU0ZNM0tnek82eTF5dVZmLTZ0bl9ENWpOQUxYV3J0eG93c29Ca3VHcW10LXFYbWR1dVBWWjFnbDM?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-02T14:06:00+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -5116,6 +5266,25 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2884d427554e1f1a",
+"title": "Down 10% in a month; Bajaj Finance approves Rs.11,700 cr QIP, Rs.5,800 cr warrants to Bajaj Finserv - Share value impact",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb2ZpMk9rREppMWRTcW9idy04VGhPT29PcThSRzFmbzBFbldYaFJoeVh6V3J3X1NEcFVxM0hHSU1Ka0NzemtlZnFCQ1ZDcmtLcDJuUml3eTNCMUI3Tm1tVklfT3BDR011d2cwTVVFaVdpTUFCcDdRblpiSkNaSXJQREZZUDJFeUx2N1A3azNONDlXYWwzOTZoWkxEX0JtYV9QQ2c2NE42enlJcmJuMFNyaElreUMtd2pGTmdDaVdaQmdXWFpwWUlmR1hYdjE3ZEluRmp6SVRyMWlFQ3hCMHBKS0xOSEVfWllfSVpYNXNKeFIzMk1zeWY3M0cxTU85Rl9IVkE?oc=5",
+"source": "TradingView",
+"published": "2026-10-02T08:33:20+00:00",
+"first_seen": "2026-10-03T05:51:03+00:00",
+"symbols": [
+"BAJAJFINSV",
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Corporate action"
 ],
 "sentiment": "neutral"
 },
@@ -50757,157 +50926,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "86aae83c250c8a42",
-"title": "Exports, rising power demand to support manufacturing growth despite rural weakness: ICICI Bank",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmg0MWRNQWFEMm9FSDUxcFlkSmZmZUhfblBtMzV6cFllZ3YzNVpmRG1UQzJ2M0V1TU50MkZSYXlsQkdvVVFMbEpaYjg1YzhfanVlWDhPYXFscUdQLXhlUWcyLUljTHE0OUlLUFBPeWxERERiNGpiRWRZbFNBcjQ4QUdvaXpONnpPcVNLYTNWRUctekNacXJRbzFFd1RJZ200WGFoa2xCTUZfbF9VdHJVS2Q1cVpsN2c5TUV5V0RNLW1ZbVltUTk1Mm1YR0tmQ2FIek5jZ05aQ3lhbUUt?oc=5",
-"source": "ANI News",
-"published": "2026-09-29T02:40:00+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "821b1de52fafcd81",
-"title": "Adani Power, AEL, Adani Ports, Adani Energy: Adani stocks in focus after SEBI MPS case settlement",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSnlCOG56WW9mNU9iRkpobzFlUlJZOEhQc0xlM1ZUMm1kM1UyQWpFZ3BtYU00bFNLWW80SkpiUG00V3dWR2VsWk40aFpSSG50eWhIUjQycUg0d3Bqa1Bxb1VJYzVsV3JzNGhKd2d0OTY1Skh1QTBHaFV1WmV2LW9yeWNOOU1pbnEySUJrVXROcFhZcGRRVGdFSzJMaEZfUW41cTMxVmJ5c29YeHlHRTk5dHl4UDRmeTNTaGZnU0U0cHRyUEw4d1pWMVdpSUNXSXYxeFRIZzFEZGMxZUI0bE5kT2FpMGU0Skw1b0d3cXUwUDZveEXSAfgBQVVfeXFMT0NFaFlqckxHSzd1SFBrNDJSSTl0Tk9PYmZLX01ZLWcxQmNVS2NhLTRJU3JNdTFYTWxodjFrUkptVVlMdTRHMENHbmlsdm5id1FLV3RnekI0eXdIU2EyX04zcnc0dUpfamJyYzBaSlRTOHI2SWdKRHhjQ0ZDN2hyZWRhb0E5NWcxcndSd0dNYlU4YnMzTzVIekxSX0RnS0R3YlhXVFlvOEoxY2sxamZQSm14YjdfcUxvTjRxUlllTThiS05BQUJIWl90c01leThTLWEwODI2XzZvSmFSX1hmWEpaMTFuOWpqM1lsenllOUpSbFZkN2o5RWw?oc=5",
-"source": "Business Today",
-"published": "2026-09-29T02:39:48+00:00",
-"first_seen": "2026-09-29T03:12:23+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2d6d46db1242bdda",
-"title": "HCLTech's arm to acquire Croatia-based Robotiq.ai for 9 million euro",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWtYVXROb01pYnhIa3V0OHRQb21sdzI5TDlVTlROZjNBME0zc0RvYWVmMkxsNWs1TE1EcS1TT2dzQkIwSUxBNXNheUZmUld4X1hHRW5vdWJXUXJsZXJGUE1oSGtDVjRrZXJmTEZhb0pVZmp3V2lEckh5WE1ONk5lUndHcktGVDJCOFRFVl9SZ3RtTnNuc0lZRzhFQlVka3NveFJZZkNUNFB6d1huLVd6R2U3VF9HWkFLdUhUOVBOeXpfQWo2ODdQVHprdmllN1N3UFBFR25UdWPSAdgBQVVfeXFMUDFrWFV0Tm9NaWJ4SGt1dDh0UG9tbHcyOUw5VU5UTmYzQTBNM3NEb2FlZjJMbDVrNUxNRHEtU09nc0JCMElMQTVzYXlGZlJXeF9YR0Vub3ViV1FybGVyRlBNaEhrQ1Y0a2VyZkxGYW9KVWZqd1dpRHJIeVhNTjZOZVJ3R3JLRlQyQjhURVZfUmd0bU5zbnNJWUc4RUJVZGtzb3hSWWZDVDRQendYbi1XekdlN1RfR1pBS3VIVDlQTnl6X0FqNjg3UFR6a3ZpZTdTd1BQRUduVHVj?oc=5",
-"source": "Business Standard",
-"published": "2026-09-29T02:37:58+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1c0dee5824a1d467",
-"title": "Hindalco Industries - Negative Breakout: These 10 stocks cross below their 200 DMAs",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZUZ4WjBzS1poWWNva0JsaFZIV3M3NjlEVUx1a1J1RGhPaTROR0ZET2FkTW8xWDluazhzT21adExNVDhDbjJlY25HZHQ2LUViaE8wbVZtNVRyakFVMllXM21OYjU1TGJISmJIeTRCSkJPUFA2a1VQbzFfX0lhbjlFMUlmdG0tbXlvVzVfVkVldzFVUTExcHM1Y2N6U2lnR0FlY3FnbS03SjRTRVFyVG9ZQWJ4QXZZMG8tUFhGSTF6aGFOMmF1TEpYSFBheXVNT0hIUldGcWNqSnQtZnQ5ejllVVBkcmhXZ0E?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T02:37:24+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"HINDALCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "90ce3203a2dd0e77",
-"title": "Nestle India - Negative Breakout: These 10 stocks cross below their 200 DMAs",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazRHZjhpZGFLUkNZaXhTRmU0am1hbjRGbkpWemQtTHk0aVdIUE9uWTdmaFQ5T0dPZkZSTFpNaDVWMUxhcU1OWVliOGxSanNkalczTVRZZ2dKbUJJSEUwNzFPdWhPNTNScU96bnAwRUxSaElFM2ZlQVp6OWxTVU5yc1ZnY1ZNNHplMDhyTThmNEpFMTQ1bVRrUVNqUjh1UGlaeENVY1ZmOEJjUHZUc0tOdlctNjRpQUpRYWJRSHh6TnpOLTg3dEV6VDliYnhFZ3AtZlVmSGZjSmZPME4tS2c?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T02:36:28+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "83b1a26b7635cddc",
-"title": "Stocks to watch, Sept 29: Tata Group stocks, NCC, Vikram Solar, Coforge, Ola Electric, ITC, Power Mech, HCLTech",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTZBN1JWXzhDcjlWSXVLSDhIVjB3WTYzNlZXVWhVR05OZWpKc19DMUtYc2RqakdWZWVkaEo5UHJFOEdabjZsTUc3cnRuS2VoLU5pM3lGbkpscEhpalBjcC1nSWR0Z0FLcGJNYkFFUWFKTC1DZEhyWHhnbVZxYUxBcFJiaElPNVVfMzFmYkZMQUJIVXd3NEVzZUVQVXBUdkVtcmo0QjlTb2FMZUE2YnotQ0VVaVVkSFJsNWhtdDBWQjRHVk9qYmZmVVdZcGFTQ3pLa0FvOVFWYXBiUHZuODNCYi16N0FRVm81LWxrRmlRZFVTM0hj?oc=5",
-"source": "upstox.com",
-"published": "2026-09-29T02:34:22+00:00",
-"first_seen": "2026-09-29T02:45:21+00:00",
-"symbols": [
-"HCLTECH",
-"ITC"
-],
-"groups": [
-"FMCG",
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f249562f3d03e4f9",
-"title": "Stocks to watch, Sept 29: Tata Group stocks, NCC, Vikram Solar, Coforge, Ola Electric, IRFC, Power Mech, HCLTech",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTZBN1JWXzhDcjlWSXVLSDhIVjB3WTYzNlZXVWhVR05OZWpKc19DMUtYc2RqakdWZWVkaEo5UHJFOEdabjZsTUc3cnRuS2VoLU5pM3lGbkpscEhpalBjcC1nSWR0Z0FLcGJNYkFFUWFKTC1DZEhyWHhnbVZxYUxBcFJiaElPNVVfMzFmYkZMQUJIVXd3NEVzZUVQVXBUdkVtcmo0QjlTb2FMZUE2YnotQ0VVaVVkSFJsNWhtdDBWQjRHVk9qYmZmVVdZcGFTQ3pLa0FvOVFWYXBiUHZuODNCYi16N0FRVm81LWxrRmlRZFVTM0hj?oc=5",
-"source": "upstox.com",
-"published": "2026-09-29T02:34:22+00:00",
-"first_seen": "2026-09-29T04:46:53+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d4c4e58451e79cad",
-"title": "Stocks to BUY Today, September 29: Zomato, Devyani International, Sagility, Astral and others",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjEtUGdKNUxlZ0VmMk5NV08xNUJKRmVldExIRDF3Qk5wMmhJcmg0bTYzb0paTTY1LXF5eV9pWmprOC04QUZIY0JQWWhRZEE4Z1pLZXdZeFZWRTFMOUJnTHpmc3A5enNZczZzV1d4R2lhMFZNOVUzUFRIV1B0SXBfLW9VZXZFaVZMSE5XeXNsS1o5M1VuWVFnSWNuS3BUV3RfcndVUFpPRG1UdDRIdzRoX2VndkQ4alpCWkFXdmNESzdidVQwN1B0M052a00xTHlEYnlVZlNjd9IB3AFBVV95cUxNYjQwTWJKY3k2SnF4VGZ2b2pWOHdldUc3dzYxSjQyMWdSbnI4UWMwZ1NGQ1FMTlVkb1NUcS1tY21jTTNIMG43bHZtY3ZVMXNTcUh2SEtpRDNtVGdXazZUd2U0UjBqR2RaZTdwbjZKcXlLdW8taHBkUlBFRjNVUTNlUGFUeklrRlJTS3EyZGk4VHkyZHg4bGxnSDJnRUhGVGFTZE9DRHluVzAtRXlmUHRtRk8wV1lBQkphZ3ZYbU9FTzdJbUlDYWNDX3BLajYxbG1Vcy1UT2tGTFZ3d3RZ?oc=5",
-"source": "ET Now",
-"published": "2026-09-29T02:33:16+00:00",
-"first_seen": "2026-09-29T04:46:53+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cc13bca15e479366",
-"title": "NTPC Green Energy Invites Bids for Solar Project Forecasting",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1ROLXVFQjhkOElSMHN5ZWo4eTNYMWdSOWR6eG9WV0N2YlhnSmg0LXA0RnJZaHhKa3ZuTk1RVG11dFg0T0w5MVJfOXdqckc0VVdSdGx4SEtyeHAxc2cxT1BJVlROTzk0N0YxSldxbXlCUmdIbV9pb3VtMDctTVdDMWlWdFc3OEhNUFBkQ3NZdw?oc=5",
-"source": "mvapulse.com",
-"published": "2026-09-29T02:32:16+00:00",
-"first_seen": "2026-09-29T05:45:57+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
