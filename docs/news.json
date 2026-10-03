@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T07:08:05+00:00",
+"updated": "2026-10-03T07:37:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,12 +445,44 @@
 ],
 "items": [
 {
+"id": "064540cfdbb1852c",
+"title": "Sumeet Bagadia's top 5 stocks to buy under ₹100 | Sagility, Ujjivan, NTPC Green, Bajaj HFL, JAYNECO; target, stoploss",
+"link": "https://www.livemint.com/market/stock-market-news/sumeet-bagadias-top-5-stocks-to-buy-under-rs-100-sagility-ujjivan-ntpc-green-bajaj-hfl-jayneco-target-stoploss-11791009764369.html",
+"source": "Mint",
+"published": "2026-10-03T07:26:27+00:00",
+"first_seen": "2026-10-03T07:37:04+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "545e298ffac496f1",
 "title": "Maruti Nexa Cars Get Big Festive Discounts: Benefits Of Up To Rs. 1.36 Lakh",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUdIBngFBVV95cUxOT0gydzhwRHN4Q3N1QmVMUS1lX2IwWkNaZHdkUndpSzdKQURGMnc4ZzdkLU5GV2ZpaTAxc2lLTXFLNTA1aXEwWXIycEp5RWV0dGJaOWZWZ2xieTBYWWQ1UWNtSFFyUlJDR3ZzV0o0OERVdVpvQnNUb1JnVDcxaDFmUFlCVHczSGpQQWY1a2JkeGlJeTFLdzVnLWVSemdBUQ?oc=5",
 "source": "Gaadiwaadi.com",
 "published": "2026-10-03T07:07:15+00:00",
 "first_seen": "2026-10-03T07:08:05+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4d8b46b2d90e18ff",
+"title": "Quality Of Maruti Cars To Improve Dramatically: Here's Why!",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY253M2l3RHF5ZmtrNGh0RWdtVFQtdHAtTUtYbllGLUZYbzVpaHI5a0d1c1kxM1l1NE9EMEJxRDN0S3lKOXZRNVlWaW1zeEktSU9jbnpOMFZEQm1xNjBPaXp1NXAyRk5FZGY0RWZOcmtPSXVaQ2JRajZ5bnlPbkd5ZQ?oc=5",
+"source": "Cartoq",
+"published": "2026-10-03T07:06:51+00:00",
+"first_seen": "2026-10-03T07:37:04+00:00",
 "symbols": [
 "MARUTI"
 ],
@@ -5583,6 +5615,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "6a62d4369bcbaf23",
+"title": "Inflation may surge past 6.5% in Oct-Nov after 5.65% Sept estimate: SBI Research",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVI3UHA0MjlXWEVweEhnV3VmLTZ4ZkZzVThYdFI0bGkwSXZYbEgzUThXcWFVMGs2SXVqcEhKU2E5YzJRamROTXJQYm90UG85a1R0S2JZbV9UN081RjF5Wjk4dXp2RFFRdVl3ZENoVU1fWE9Zd1AyOFNTbnNGN0FZdlFzMVQ1c0ZsSWZTUEt6ajI5RzhYMDZ6SnA4RHFMU0NkLUhZY05yYm5EWFdxa25fdkRLLTNkTkxJVmtXQ1JxUm1Pai13NGV3NDFn0gHKAUFVX3lxTE41UjdQcDQyOVdYRXB4SGdXdWYtNnhmRnNVOFh0UjRsaTBJdlhsSDNROFdxYVUwazZJdWpwSEpTYTljMlFqZE5NclBib3RQbzlrVHRLYlltX1Q3TzVGMXlaOTh1enZEUVF1WXdkQ2hVTV9YT1l3UDI4U1Nuc0Y3QVl2UXMxVDVzRmxJZlNQS3pqMjlHOFgwNnpKcDhEcUxTQ2QtSFljTnJibkRYV3Frbl92REstM2ROTElWa1dDUnFSbU9qLXc0ZXc0MWc?oc=5",
+"source": "Firstpost",
+"published": "2026-10-02T09:04:33+00:00",
+"first_seen": "2026-10-03T07:37:04+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "a61850fc26b81309",
@@ -50885,56 +50933,6 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
-},
-{
-"id": "75e8830e44a3e616",
-"title": "Did SEBI find MPS violations by four Adani Group firms? What the regulator’s probe found",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlJHZ1JrNktxMnJ6eHhQWU03X3NHUlJ6dWhKMmhSTGpCTXI5SXpSbkZKWEF4TU9NaXVTVkN5Nk9ZQmdwcDBvVGhOM2pPeDFxOHRhS0RKeTJ3Y2t0UEM5TFptS0FoSm1XRTFtWE9PMXBmcVpnMmpPZ3RMdFB4QzZhNUtSbVJBSlRmSVAtT0JROURkcW1ER1BJSVRyMjVWWEVzZkRrZDNzMkhyaHhjV3Q40gG0AUFVX3lxTE5XZHFkZjU0RFJ5bFdTV2RLUWVKYzVuS21lYXd2ZGRjYVBZZ1FtdjdyampoR25lWFFQYzFvYWxPLTJwdEZuOEdiMmpJZDEzY1RDUUhTX3k0Tk1WUlNNUEVpQ0drRWZCS1hUTkFKS1haR0RocG9RY1JWRTl1N3B5dFA0WTdZY3UwUnZrUDcwUVVmUlFkV2F1b25mRkxJY3R4NG9zQ2lqcnVNOXhvRXdzTE5fcXVWWQ?oc=5",
-"source": "Mathrubhumi English",
-"published": "2026-09-29T02:59:07+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "7719102336e83daa",
-"title": "Stocks to Watch Today Sept 29: Tata Sons Restructuring, IRFC's ₹4,200 Cr Loan, NCC, ITC and More",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0pVd01ZWjhzazNON0ZLWTdaZy1JcTlLSnlmbnV3UllUWWduTm9PUjJKSVJacjNYa1NBQWg3ZGZCNlUwa1dMYnF6b25sN3o4S08wNHNxX1RfX0t2WkV4N01nTzk2VXFCM0hUUmlxSEQ2TG4yejBmMWo5VUFOX3pCRHdsbmdwX0k?oc=5",
-"source": "NiftyTrader",
-"published": "2026-09-29T02:58:25+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3dac311c102d8903",
-"title": "NTPC Share Price Live Updates: NTPC's recent returns signal a downward trend",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-29-sep-2026/liveblog/134554636.cms",
-"source": "Economic Times",
-"published": "2026-09-29T02:57:51+00:00",
-"first_seen": "2026-09-29T03:58:14+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
