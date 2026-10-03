@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03T09:47:40+00:00",
+"updated": "2026-10-03T09:58:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "c3304fc8330b4ad4",
+"title": "NTPC Floats ₹12.56 Crore Tender for Control & Instrumentation Maintenance",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkhWbnFFM1dHZkJVVUFVYXgxVy1RSGtEMDhtS1YyQzNvY21mNURfMVlVS291dDYzV0lwQlFmeExtNlJlSkJPcUJOQ2k4bjN6a3BhYVNrX0xiRkplVWhnSi00cHhIUVZtcG9ucHZRTmVKbnBCZTJCRnl1TDJ4dkI5N1R2ckUxMFdQOHJVM2xUZklKOHBsLU1NRWMyWjZiU0ZZWjB4U09VX0I?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-03T09:46:00+00:00",
+"first_seen": "2026-10-03T09:58:53+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "719e3a55c082081e",
 "title": "Upto Rs 1.36 Lakh Discount Offered On Maruti Nexa Cars This Festive Season",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzh5TjFtdVkyQjRHTllRZkxwR0FqSUpIenNpZUpSMHNoZ3docUd4blVENUJSZUl5S183TmlDekd5MkNESWRBVXFldlNhRldaZGJkNW5qOFdka2xvMEo1SzVybWV3UXQxeHJ2Y3Q3MWprZ2VDNmlIUTRIcjZORlN3dkswLVBjSzBsZ0FxTVRwa2h6cVhiajJzXzVKOGdhclJa?oc=5",
@@ -459,6 +475,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a08031a83adc296c",
+"title": "Adani Green Energy - 9 large-cap stocks that surged over 50% in the first half of FY27",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUjI0eVVESk5lZzNCTV9UWnlXNzVZS2lWT3FUMFU4a2g2NUFLREJsNXVPOUJHcFl3OW42VGVLc0xyTmRDRkVFUElubDdEQkwtelRfUzdvYUhnVkZtODZDQmFHSlhjXzN2R0hFZEx1UUNkOTVTTExrbTFaSmM4ei1ZZDJrSnRuRl9lMkVtZ3Z6RUptUEVEalpVY1hvSkFpS1VIakp4dnFYQzNFUWxDdXVYdGlWaE15aC1IeE9uZEJUTnl5WEVOLTRyd3FHRDhmd2JHaXNzZXVXLUpOQ1VzN3NXVkdfc2xqWDhCMVJj?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-03T08:42:39+00:00",
+"first_seen": "2026-10-03T09:58:53+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "99051a7ff19e6656",
@@ -594,6 +626,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "e2ccecbf6a57253b",
+"title": "Maharashtra FDA cancels Cipla warehouse licences in Pune's Wadki | 'Disappointed with the FDA's decision' | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2tTQnRmb1V0c1RXc1pNazRscjdOa2QwRFRxeEdidDQ0SU1mdGpVMkgtY29YSGM0cUZocXR0QU1LaVJkUDlLVHNtLUMyaEpUMUFRR2VGZHRId2JDekM5OUFPWnVTbjdfaHcybVNlSnJGM0d3SXdrcWc3SnptVXFtOWp2UUxyZF9xM0VmTXMyRzdzdmJMRnV4cVB6X1pzUm5WSGFwSjRSZzVMMDBKd2ExS9IBsAFBVV95cUxNM2tTQnRmb1V0c1RXc1pNazRscjdOa2QwRFRxeEdidDQ0SU1mdGpVMkgtY29YSGM0cUZocXR0QU1LaVJkUDlLVHNtLUMyaEpUMUFRR2VGZHRId2JDekM5OUFPWnVTbjdfaHcybVNlSnJGM0d3SXdrcWc3SnptVXFtOWp2UUxyZF9xM0VmTXMyRzdzdmJMRnV4cVB6X1pzUm5WSGFwSjRSZzVMMDBKd2ExSw?oc=5",
+"source": "Inshorts",
+"published": "2026-10-03T07:53:07+00:00",
+"first_seen": "2026-10-03T09:58:53+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -755,6 +803,22 @@
 "source": "urbanacres.in",
 "published": "2026-10-03T06:55:30+00:00",
 "first_seen": "2026-10-03T07:53:04+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "964e1e30ea228d35",
+"title": "Cipla Pune Warehouse Loses Drug Licence Over FDA Irregularities",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnZsTGNka2hxTWhZbHZwREFQNWdIS0ozeUlDazZFcDBrbzJSd1BnSGlSVjJodXE5YXhnallKcFAxZUUxM2FrLU1ySzN0a0lud3J3Zi1LZ3dBeGwzbFZwbnZDNEhDb1N2UHNjaTVOQ3Y2V3hQV0l6dUYwMFFYSmxzemVjbEhTUGpjNWNLaUY1VQ?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-03T06:55:30+00:00",
+"first_seen": "2026-10-03T09:58:53+00:00",
 "symbols": [
 "CIPLA"
 ],
@@ -2793,6 +2857,22 @@
 ],
 "groups": [
 "Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0b03dde43edf9db7",
+"title": "Second Hand 2019 Maruti Suzuki Baleno Delta 1.2 AT for sale at Rs. 5,13,613 in Jaipur.",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa3lZc1ktODZxV08zMVV3MVRQUnlLaXVpWlZ3eVNxNkRBX2cxdDllNTFQcHJUZGpUUm9oT2JIMlZ4b1c1WVpZM0o3a09LeEtYU19xVVdvSGdzdzlrbWNvMmQyVXdkZTVMeGV4T1JVekVaTzYtUkJTbFhSUmtRdElqczhadEY1QQ?oc=5",
+"source": "CarTrade",
+"published": "2026-10-02T16:35:32+00:00",
+"first_seen": "2026-10-03T09:58:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50858,89 +50938,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "85c0c5daf43a88ae",
-"title": "Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speci",
-"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmd9IBnAJBVV95cUxOcVcyV1VqTUFWQWV1T3B3NWdfQzJZZTRfNDN1UjllNjQ5YVhVMENvcWRuRTJGbkF0VnpXQUtVUjVJZzlIZExtUFVKaTEwSjQzcDJxOGxxdWR1OUcxbHFpT1dIdVdzRmpocmtaSVg5YTk5bU5jRmUxXzgwUVc1Z25QS1h2ZjNFWERvdFZtakRHa3JRRjhxQndoTlBXQmtsb0Njb1lqQnk2b2tyUlZWRHNuWFN4Y2xRQldFVWJxWWxmeG1peVN3cm5KWTI3UEFtTlcxd01ycjZUU2xaWTdJNGZKTl9PMEZULXY3NXZ6RGlRS1FZczA3XzVzNmlZSlFFeER3QklKTlpGRUhxNnRPcDViXzJVN18wSS1hOWtmdw?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T03:26:00+00:00",
-"first_seen": "2026-09-29T03:46:15+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8d40d193a44cbe3e",
-"title": "Adani Enterprises SEBI Settlement Order: Key Details",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWl6bDI3c0tDZmRVMjBCc3publdrT0VJZUNReWFIdzZYWU1hOXNRTUJGVk5KbFRmbmp6dkVjVzhPX1RmaDk5SUJuOTdDb3RaMDdUNnJRU2h5LTJVNEFibDNEVkRYOWNuSm9odU1HNnFCLVdZbUo3Y1BxMGVuTGhFX0dYRmFoOXNINEhqd2hCaWZlZllJRE9faDBvamZwQkNvUWc2djRVR2R4QnlVWEc4VnlPSU9xMmczZ0VEWC1LWFFvMXprWUc2X25QZzlrNlk?oc=5",
-"source": "Kalkine India",
-"published": "2026-09-29T03:25:00+00:00",
-"first_seen": "2026-09-29T05:30:12+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Order/Deal",
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c6d3bc6a90577aed",
-"title": "BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX3N1R0pRMDZpalJTZUY0SXVURzN5bWtmbHd3OWhDWXRpQWx6Y052YlYwbHJuR29XMTNFczV5WTRmQVU5NnN2M0R6S2o0b2o3NjFBUWFxT1REcUUyTzZPLXZaQnF4TmhmZ0MzRHlYNFRlcGxtNlJOemY1NG4yNFgydmJPOVIxWHFCbXZ1R3JCQ2tSQTl2cUl3OTIyeDRQcHMzWTMtdUhib01Hc2k0a1E1X2JFZjBGMmc5cFU0b1BLbzNMdFQ1NElqOUpnZFVWTGV6S0xwcXcxMmEzWVpiOEQxcGltNUFUSE1icU5tTTdDOTZhX0JlSEhv0gH8AUFVX3lxTE9EZWlNaUhHWGRRM1BDT2ZpRXFHd0hidmc5YWNPRXBOUnNKVzhWWnJTZUk2R2JJME9NN2tIMGZqUDkwbGR4alR3X0RTWTF1cUpYNE1EQkJJMEYwLTk0S1BmUmZldW1PMGZVdnZON0RETHY1SDdJYkJVVUZTSEFKOTZTeHFXS056NE9SZzVxVnN0ckZpSVhlOHNnbXRXekVObWNMbndrNlFidTRhSmhkQ29wUEp3cjBleUxEVm1BbGlGTzJJazh5ZUMwNWcyVnpnbTY3MnBBZEZ2Y3ItblRmdEpsNlVXSHpJdmVueFVHV0VhTzZFTW9wWXBqcDhmRA?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T03:19:16+00:00",
-"first_seen": "2026-09-29T03:29:17+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cf5689051f703502",
-"title": "Adani Ent Share Price Live Updates: Adani Enterprises experiences a slight rise in price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-enterprises-ltd-share-price-today-live-updates-29-sep-2026/liveblog/134555043.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:17:55+00:00",
-"first_seen": "2026-09-29T06:17:09+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "1ce99a76d374de67",
-"title": "Adani Ent Share Price Live Updates: Adani Enterprises Rises Above 100-Day EMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-enterprises-ltd-share-price-today-live-updates-29-sep-2026/liveblog/134555043.cms",
-"source": "Economic Times",
-"published": "2026-09-29T03:17:55+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
