@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T23:18:53+00:00",
+"updated": "2026-10-04T23:34:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "b535a16e42eac321",
+"title": "Orbital Corporation Secures L&T Order for Three 350HFE Propulsion Systems Including First Gen II Power Management System",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTJjU1pvcTdONWVfb3RIQXBXU1N6Z0xKekhJQThOWVVhaURZck8zOUNFLUhHN2NVSzMya1VQWTZYSTJ5ZnlYT0NSQTFXeGQ1b3ZLa2N1SVZrNlRnNkZqLXBRUURBVVl3NGtPWTBJVDA4TjFYZEtOMkhzQXpDMllyYlBHY0hRcHZ1bjhNa2JLakZscWdqWXNoRjlITnZpYUM1NlYwTGZSSGhxNC1xa3U3UkotVXB4Mmo3S0MyX2VDZHViSU5OM0xrLTNreXNFZFhuX2ZOZ1FITFBmbnAtd043aFo4ZGJWNDZxbjlqZG9OOTItYUE?oc=5",
+"source": "Kalkine",
+"published": "2026-10-04T23:15:03+00:00",
+"first_seen": "2026-10-04T23:34:43+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
 "id": "c9e2672e41d93462",
 "title": "HDFC Bank Q2 Updates: Sequential loan growth strong, deposits outpace advances again",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2dtV2RKcGJQYzF1akRuTEdYb0dISWlnYlBkNUpBdVZlMGJlZ1plLVk0aDNwc0FxS2RyUTczYUNkR2F4Wk1DMkxZemNYR0MxTTFDWUdKdlFFTmRxcHd5X0hhS3BLcEdIeTIwUm9aYVNqTDdZUDJ2R0NONzlmNzBKNmVXeExQVUNXblIwWlVNN1BENlhQaHVqVVNlQndfaWdaM2pzbWtpZ1ZWN3I4TVMweFJQTUxTQmZIUVh2NFk5TlR4cUQ5Y0Y5aHZNU2VVQndCX1JzSW41OE1zWFc4TE5sSUlOZ9IB6AFBVV95cUxOOHlEOHl4cTJOQUlfSGQ0OGl2OU8xeTJzN1Z6c0h4YmpfRGMxSENfdTlTalFWZ1p6NmE1ZFI4ODNTMXk1cGNGSm94T1NKd1FlY1B0Rm5DOUFWdVZwQ0x1ZFRZQVU4dVByXzdac2gtRWtpc1pBb1dYQTRsMzc5QTF0MUQ3eV82NVp0bDBNTlhtVUJ0SFdISFVrRWdqY0pMdHNMQW9PeDh1bjhtSWZ6b21kazlDSXdSRHg4dnZxeTQ1ei1RTEhyLWRsQVFXVlhxUllBX2RCNjVXaVVzejdHUWVKWUdqLTRnWWt1?oc=5",
@@ -461,6 +479,22 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "5dd805dfd0fb7d4b",
+"title": "Columbia Engineering Teams Up With Infosys on New AI Research Hub at One World Trade Center",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNThQQ1VBbnN2a0YyM1VlSmRzUVNqRm1jSTIyVzlJQ2hLMGhxT0pHX1JOcm9fQUk1dGVrU2NYMVhWTi1jekFjWHRmXzk4UnFZSVpyVTczaG1EZmt2TzhGMTFSWWlCU2dNVUNsUzdMYmNRVUpPdmNudjVfX2VhYmdWcXh6aXF2ZXVRcHRTbDV6NHBSZm1qMnloektTLU81LXp0TnktbmVVUzdTR3ZLc3FYeExjUU4xRVdFXzVQajlR?oc=5",
+"source": "Hoodline",
+"published": "2026-10-04T23:01:48+00:00",
+"first_seen": "2026-10-04T23:34:43+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "62662d398cf610ca",
@@ -50987,40 +51021,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "962c5961de75e035",
-"title": "Tata Motors Electric Bus Push: 26% Stake in Telangana E-Mobility Firm",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rT2N5ZFNWYlRHSDBTU3dqcnFYZmNzNUx0WXR5anlXbkNmanhhb0RiZ0FBN3dRTVp3ODFUNElud0dmOTdoQ3hOWFJEMEtOT2ppeGxHd3hHdGZnWFE5S01FY3dkWHE2SGp0YmtJcmRpNkEteV9hR3NRaVlhd3ZIdHc?oc=5",
-"source": "NiftyTrader",
-"published": "2026-09-29T09:57:55+00:00",
-"first_seen": "2026-09-29T11:19:10+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7f387fb184284fc4",
-"title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5sSEU5cVdja2xyUXNzcm9VR1kxc3k2bFhsZm4tb3VXR2wwSEZNbU1KcXNBcEotcFVhYUVRZllOY2tOeVg4ZWMycV9mbXV0TEdxLVJleU40bTNTSGtMTUtkaUFneUw1UkV2SXlGX2ZyOFYzUFBtRHB6TXpCbDBKa0pYbTY2NFVtZU81TGxkeWkwVEVwVmt5TG9tU2s3RnUzdkNENHpvQnJmWjg1bzFXMWdBV3NLY3FqZ1ZwS01ZaXgxT29pejlDRHpETWJyTERNNWtQekxkdFk5aHd0THRJ?oc=5",
-"source": "Reuters",
-"published": "2026-09-29T09:57:51+00:00",
-"first_seen": "2026-09-29T10:07:12+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
