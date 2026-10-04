@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T21:51:12+00:00",
+"updated": "2026-10-04T22:03:16+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -2583,6 +2583,24 @@
 "sentiment": "positive"
 },
 {
+"id": "abc95d0a4ec9413d",
+"title": "Cipla reports record Q1FY27 revenue of ₹7,119 crore",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEJJc3BPZ0xXYnVZWXE4RjB4ajZ6WG45RW56WW5MX0IzMXJodklsWjk3ZFFacjFiRWUxNVV6b1NWQXgwaXZ1eHpjam12WmJiOFhoSlducUc3VEwxX0I3ZHc3aU9CNU5KRVk1ZXp6cF9HdE92VWF6RFJDWC1CUzdzU2FNQ20xOG5IY1BJWkdxV0lJQWRoeUVGU3N3bnp5SElucVlPcGd0Tnl0LUVwdURZZUFB?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T00:02:02+00:00",
+"first_seen": "2026-10-04T22:03:16+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0d74fc5091d65fc2",
 "title": "Tech Mahindra’s IMEA head on Saudi AI demand and the plan through 2030",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmo1N3ZCSmtaZVRQSllIQzlTQXN4ZUY0d2xaakZuNEZ1Z292dXN2WUxmQy1vcGtReUJtYTlLRy0xSUEzMFF5dlRkbU5CYWpWUnRHbEszcUEzY1U1RC13X2tTLWU1QUZZWHZyX3EwMEFrMXZNZU1sR0dxNEMtdUVxc0xaOFFIWnYyV2paQWdxSVI1YkUzUlFFV1BUTHZiekt2d1NKZVd3ODlGdDBjVFdz?oc=5",
@@ -2629,6 +2647,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "399a022a65f1aa8d",
+"title": "Sun Pharma to acquire Innovcare Lifesciences for ₹271.2 crore",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThvckRfRFlWMFdkblB2ZFppLVo3R1Bnb2VKNnp2ZERjbWRoR29FNGtweWp3WWticWJHcHhnNnRQbEFLak1zTFI0MkVDZGFrSkJrNmpzWDBxM2pwTU5RQUhnT09TekNvX1Z6Z2ZxdnhBR3d6ZzBvWTlwNHNfUjJZVnVQR2pxNHhDRkFzWU51Y2VIZDBrVFlxODVhU2xFWTdFcXpkaVkza0N2dnZ0SXFSUXYtdkhNUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-03T23:34:18+00:00",
+"first_seen": "2026-10-04T22:03:16+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -50972,38 +51008,6 @@
 "source": "tradingview.com",
 "published": "2026-09-29T09:32:45+00:00",
 "first_seen": "2026-09-29T09:54:42+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "96ed05a183a01161",
-"title": "BT Exclusive: ONGC Videsh to restart operations in Venezuela's San Cristobal oilfield soon",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmh3dF9kblRNOG80dEdyakcwd1dMVmRBS1dWcHgwOEdVa2hHTDdsa1dlSUgtd1N0ZkpHX2ZlczRGV3Z5VU8xM1dITEx4T1c1YmkxbXdUQll0M0toa2hVT1ZQMWpDaWhsYXNSQ0lPSUplQVlnM1VfT0pobzZVLXY1NHY3WS1ZYjdFWUZVSTF2VnRTZklXS0lOZmM1X3VUTVpKd092SEphdzhDeDZiYUppcGVnVlVhTF9sUWtiR2ZUNFNKMmFTLWhHZEhXblA1Mi1vSERIMFV0VlF6Q2t4UGfSAeMBQVVfeXFMTnlhX200MjlRUjE5VmFidU5UWUVDWkc5NnkxZFRGX2VUcEhGUGpZX2t2eTdxdXNQTGVmZXVrN3pCblJzaHJsV0huc2xXclRTcUpJNEhYbHh3ekNNYnc0Tlk1Q3pkamZJdWltZWZWc0dMZGVwV2pPel80OW5OWEJTdzlYRWpEeXRKUzh4aXJGbnBOcHdqTFVTMHpkZW5HRk5FN2dQazRBVUw0bG0zZ3YwR2doQTRrbHBkc2ZTVU8ycmlhZ3R0bjdCdzJrTGRjWC1GMThJWV9nSkNOSlFtSHI2Wi10dDA?oc=5",
-"source": "Business Today",
-"published": "2026-09-29T09:30:01+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "00e98fcbe20383c2",
-"title": "Coal India Signs Non-Binding MoU with HURL for Coal Gasification Urea Plant at Sindri",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUhfelVyempjbm5SRWtrWDNaZnJYc2dqazZHSmd5Wm5vQmhpN2RhRW5uZ0xhVkxPczZCNFQ3SHhZaW00dFpzc2xrUVJHbUx5WnRKWWF3NmZqNzBMdWlfRnJPcE9saVgxVGFrcXdjRjByd2I1VEl6ZERCcmtpODRFQ3ZsYk9Hd0hFWXFoV2FoR0VXZnJiWnU4UXR1dnFQUkFMSllwY3R3NzQ2M1c1QVYzLUFwTnZ1U2FEVU9TejJlZGlCdw?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-29T09:30:00+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
 "symbols": [
 "COALINDIA"
 ],
