@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T21:31:15+00:00",
+"updated": "2026-10-04T21:51:12+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1983,6 +1983,22 @@
 "Regulatory",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7d4ea17fc9d15a2b",
+"title": "48 death notices in Stoke-on-Trent and North Staffordshire this week",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDhBVHpWTWJPem83Y2FMbFVjY2dXcFR5Vy0xMVVWOFBhUF9sMDhadWxMZnVDMkZ1dTZHWlJJZ3RRS3VseEJqV25BVDVlUjQzV2EyM3U5dERPMjIyUDgzNkpMS21kMDM0Nk1UUGVfbnA0SWZCck13bUtxWlhNMVJyNWxLbDk4YWNFZGkxazhLajMzLTkyMktZSEt30gGfAUFVX3lxTFBxWXNGT3pHMHVmVDJaUWhQemx6WERqM2Qwa2lETGJzVHVhdzdFYnBtendGcTROX0F2MnUyNDVMSnVoVFJDWkxTMnpzUk5BMTNOb2pydlV3SXNyWWpYSEVlMGxCUXllTlgzc2N5TTRCMDVpOFFZZEtBMk00WFlqNU5ITTNFNjgzOEVPcHZkYVRXdFNoVnpuR0F2RkdEQUw0OA?oc=5",
+"source": "The Sentinel",
+"published": "2026-10-04T05:00:00+00:00",
+"first_seen": "2026-10-04T21:51:12+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50993,22 +51009,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c6b4a94e3a8d0a0a",
-"title": "L&T TECHNOLOGY SERVICES Share Price Today Down 4%",
-"link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNnlSWXlqczQtOWFwdkczSlBNTEFiUnhlSEd1UjZDdGxnLUFJVXJXbVhhdU5Nb1JzWjlYWXpwMFVjckxfZzF3SUx5WHlPYWFMS1NSMlk4UEhlYm1pNmRoTTc1NHlOMVVFb1J4NlR0dXFUcGt6RDd4VVpXMm55SUJJLUtVZmVzekF6bVI0Y1FHTWI4bFkyM3FITVNiVXFNS2RvOFlXeU80S1NuSTcxUXFyQllyeEdzZW81ZzhVTng4WjBQbUtub2l6VXBGS2ZaVjZnYklTUzYtWkhRc0Rac3NGUVFQeDNmckZjLWJwSzdPd082NW84X1BMa2laTEFoWFlEdkVhOTR3ZmZpbXYzcDhFcER0eUMwbW1FRGxmVVgyLXd6V3BDV2ktOHF3?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-29T09:26:00+00:00",
-"first_seen": "2026-09-29T09:39:15+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
