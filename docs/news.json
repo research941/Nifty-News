@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T22:58:27+00:00",
+"updated": "2026-10-04T23:18:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,40 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "c9e2672e41d93462",
+"title": "HDFC Bank Q2 Updates: Sequential loan growth strong, deposits outpace advances again",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2dtV2RKcGJQYzF1akRuTEdYb0dISWlnYlBkNUpBdVZlMGJlZ1plLVk0aDNwc0FxS2RyUTczYUNkR2F4Wk1DMkxZemNYR0MxTTFDWUdKdlFFTmRxcHd5X0hhS3BLcEdIeTIwUm9aYVNqTDdZUDJ2R0NONzlmNzBKNmVXeExQVUNXblIwWlVNN1BENlhQaHVqVVNlQndfaWdaM2pzbWtpZ1ZWN3I4TVMweFJQTUxTQmZIUVh2NFk5TlR4cUQ5Y0Y5aHZNU2VVQndCX1JzSW41OE1zWFc4TE5sSUlOZ9IB6AFBVV95cUxOOHlEOHl4cTJOQUlfSGQ0OGl2OU8xeTJzN1Z6c0h4YmpfRGMxSENfdTlTalFWZ1p6NmE1ZFI4ODNTMXk1cGNGSm94T1NKd1FlY1B0Rm5DOUFWdVZwQ0x1ZFRZQVU4dVByXzdac2gtRWtpc1pBb1dYQTRsMzc5QTF0MUQ3eV82NVp0bDBNTlhtVUJ0SFdISFVrRWdqY0pMdHNMQW9PeDh1bjhtSWZ6b21kazlDSXdSRHg4dnZxeTQ1ei1RTEhyLWRsQVFXVlhxUllBX2RCNjVXaVVzejdHUWVKWUdqLTRnWWt1?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-04T23:11:43+00:00",
+"first_seen": "2026-10-04T23:18:53+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "62662d398cf610ca",
+"title": "From The Hindu Archives, October 5, 1976: Sri Lanka offers supply base facility to ONGC",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2taZmY2NXoxTEFXVUsxMlVnTWEzVU8wdVZHNG92SzhhZ043QzI3UlB2UERwLWQ0aE16NDYwQUNjSkZKUjk5czA0V0dnTC1iLTVfVWQ2YUdKNHJJd3VKeFRuQlVDWm9EYUNRTHE4dDVMd3B3NTFWZ1MzZDFNNUtzeVByekI5MVlZd2l2c0ZDckdpYkctbTNOeUFRT0JfOUxJVUZJcHlHal9jUGJMWHlvNC00QnRHb2hMYl84bXJnTW16WWFTNy1mY1E4OTlXOWhGLUk0S9IB2wFBVV95cUxOUG95bkVEUGZ2NllYNWlEbnJYQkkzdEM2NE5tWG5UYUNnVkVmVXRlbl8yZ0RQRmNTeE9VUEdJLWtFS1Y4WngwVW5ZOTM5WXhrRE5YdjlCMWhPd1VhUFNMNmdkMXY2a1JDb1VUNE5MY0xCV09TNWpTS2oyYTM5bkdPb25yRS1GV19rLUZ4QnBTWEFFc09sc0ZhU3pmd1BLeWpzSXp2dWEyNHVsenJXWjRuTzByMFJKTDBwcm1WT1dINXhONldraVNkcFZsM2xoMk9BdHF6M0ZmM1NkdDA?oc=5",
+"source": "The Hindu",
+"published": "2026-10-04T22:54:00+00:00",
+"first_seen": "2026-10-04T23:18:53+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "f05e9b371c57f489",
 "title": "HDFC Bank shares in focus after Anup Bagchi's appointment as new MD & CEO - Should you buy or sell?",
@@ -1127,6 +1161,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "f5c002d956f711c7",
+"title": "Maruti Suzuki leads September 2026 wholesales with 181,838 units sold",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUFOcUZjSmNNTzVRSkhRaXJ1SHVadzRUVlQ1LTNzZk5OWHktVTBTd1k2ZkFQQzBCUlR1T1FNNmhaUFU1VnJ4MFZ4c2lfUGd0SEtYckt3eWVwME9tcXBzMVhkcXFZV3p1TVZBZkxEdUk4dWNZclBJa19pYng3UFNOcDlPQjZ0OUZNcFpwOXZyVWVzcUhNMmdvTUNQN3BYZzdZZS1qb1hSeGh3M0FsRUp6MmJ3?oc=5",
+"source": "NewsBytes",
+"published": "2026-10-04T13:29:53+00:00",
+"first_seen": "2026-10-04T23:18:53+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50971,54 +51021,6 @@
 ],
 "groups": [
 "Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5a34c320f1400970",
-"title": "Tata Steel and the Netherlands government agreed to extend the negotia",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXhKZF82OFQ5VjhJNlRvaDlmMTBIVllNOHhmVF8tLW1YZUMwNThpTXlyYko2Zkxnb2FTZnlWQ01mYkJLa2c4elQtZzl6QjlUNHBST1h2TnZmOXlYM2ZBTXZoV1FCRGNNQ3NYMG5BT3QtdnptNE95SDFwRG5xcDNhWnFjUWhyeVMtTHNNS2xGUjJaclRrWW9Rc1E3alZMbk9RRFFNM0FsZU1sajNuRUlBWHRPdW5OaEZwM3dRVkJsMGN4bmh4b1NEbndYekhPVnJsblRV?oc=5",
-"source": "Shanghai Metals Market",
-"published": "2026-09-29T09:57:00+00:00",
-"first_seen": "2026-09-29T16:22:17+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4408981977cfda82",
-"title": "Jio adds 2.4M users, Airtel gains 2.1M in August: TRAI | Tap to know more | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDdGQUxzbUZFTlNpUFYySmRQcnB1UUlpWW1PdC1RcXJvUWI0OEZBVVlrazV5eFR6eW9lTS1oZFh1RnVzT2lteW9BR3BLN1RQa3hVM0FyZ0k2eU44eWlfN3A0SjJNS0EyNzVRalVJbHlzelR1SV9zYVBXUl93OHV5R25TSlJSbXBESkhwMHVTb3Joa1JlY2xWYTk1aFRtZ9IBowFBVV95cUxPclpmUTdfZm1CblR5NldjR2lLajVMM183UEtIRl9jaXJuSklYNDgwMmhzQ250TFUwUjA4d2lnMWVyMUtELXpaNjBrM0xoQnIxdHN1b0lkU2VsRDFaU1Nub3NnTTRQUGE1Wk5XUjJ1SnQzanlzVWs0bHM5bk5lV2gtM0FVclB1VFhUc1cyTjQxYVp2RTViZUh1eFpjazJfUTh6MnRn?oc=5",
-"source": "Inshorts",
-"published": "2026-09-29T09:56:12+00:00",
-"first_seen": "2026-09-29T12:25:25+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "2e17322ddf56fd9b",
-"title": "84 pc wealth management firms need operating model reset for AI, under 10 pc ready: HCLTech study",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHBJV3BWcnBjcXlaSVpHRXBpYkFZOVVqVDBNME5fZE94S015djk1cGpWMkhYWmJOb0x0VEk5bHA4SUFWZVh1bWVsRzJhLXdGZ3l2RUtreE9NRjVOS2RSTWtmeGJhUTRNZTdpSC1wY3dFTkdiWlcyc3Fnc25seWxRUWo1RGxLLXNiVU5JeE16Z2tJTU1QTTFyTXZPcGdBXzJqdmdHWkx5ZEFIeHhfTnhXZHhZOTA1WWNlVlEzYzJ1MS1UVXZDdENMNnhrRm1ZNF83WU1CbVFOenFDcU9URGh4Y1ByUkFsMWdiYk13NDhtd1JwQQ?oc=5",
-"source": "People Matters - HR News",
-"published": "2026-09-29T09:51:07+00:00",
-"first_seen": "2026-09-29T14:37:02+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
