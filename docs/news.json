@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T20:44:57+00:00",
+"updated": "2026-10-04T21:31:15+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -488,6 +488,24 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "37cc80379610f12b",
+"title": "GST 2.0: Faster refunds, wider ITC, no arrests",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHAxeTFpZ3NYT2dmWFRaUTh0cUhyRFVoVzEwYkFUY01TaDB0YlUtQmZxZEh4VlA4Z3p1YTlZQVZHZ0VEbjJBejJpLWptYjdMQ1JCNE1teXh3V0tmeHNXMEVsdUFXSlVPLXdOMU1JVWhHWjRneUl2QmowZ29lQ1pKMklCUlBZd09EcWtIdVNDdllTUGNydHB1WFQ4cWZYZ2FyaHhIU29wSjfSAagBQVVfeXFMUDBwMXkxaWdzWE9nZlhUWlE4dHFIckRVaFcxMGJBVGNNU2gwdGJVLUJmcWRIeFZQOGd6dWE5WUFWR2dFRG4yQXoyaS1qbWI3TENSQjRNbXl4d1dLZnhzVzBFbHVBV0pVTy13TjFNSVVoR1o0Z3lJdkJqMGdvZUNaSjJJQlJQWXdPRHFrSHVTQ3ZZU1BjcnRwdVhUOHFmWGdhcmh4SFNvcEo3?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-04T19:13:24+00:00",
+"first_seen": "2026-10-04T21:31:15+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [
 "Regulatory"
@@ -2253,6 +2271,22 @@
 "Rating",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "93183548be6b8c68",
+"title": "Kotak Mahindra Bank FY2025-26 Annual Report: Consolidated Balance Sheet Crosses ₹10 Lakh Crore",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRU53VzhqUlQ0dThYbW5aWnNKbmNXenI0NkR4UkRwT3FzYjhtaEpITXIxdzhBMTNreUI4QjRjVVhSWTBNNklBaEFvaVFtbjlNYkZici1yMXcxTjlwMDlHaXRlcjZwRGU3Zl9ja29yRG5hU0s1WWgtMndKdE55MDNpTVNyYS15U3FWcmpMQ2ZaSGplSGg2UlFKb19XLUFxZDZiN1dxa0tBckxKNUNVZzRnRjNWbl9MaHdYSE5rcEt2NnN0dw?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T03:23:00+00:00",
+"first_seen": "2026-10-04T21:31:15+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50975,41 +51009,6 @@
 ],
 "groups": [
 "Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "02c5a781f458c530",
-"title": "Tata Motors Rebranded to Tata.Cars | Car India - automotive",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUMxTnZiMkpMR25jb1Q2ODJRWkl2OVFBRHBhMk96elhmQnBVX1oxX2FRTVRmNVlFQTVtVFJwSlJXazFFNlJDVjBaQlRpYjJZckNVOVNyN3BTXzdyd3cxclZwai1FaEtDTG8xdk0yOWlsTVpCNVZTdWU1bjVZbnJKMUZYbHdWRFVCcVQ0cncyYw?oc=5",
-"source": "Magzter",
-"published": "2026-09-29T09:25:38+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ff9db21c6b04c39a",
-"title": "ITC, Swiggy, Eternal, HUL, Dabur, Marico shares: BNP Paribas sees up to 47% upside; target prices",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa0hSNlgtSWR5LTl0ZTY2T185QmMxd1pLc05rMlA2eDhoWmMxNldIc2JnUVljUmlJQ2tjS045cVJFUWtydHFwQUpPeXF1UVpnZmxTU1VHTkdHSUN5MUlOOXoyTU1oSld6ek9ESWM4SXgwR2p6WlBfMzd1YlhVTjJITHRmUUpYRnlEZUF6MU9vMmtJQTNZUUs4UDV3aURBZllJSWpQRmhpdkhLYzlCdm9kdDFNS0NSYXpsektnN19IUHpDajFTbFZiN2lJS3RNUGZDby0yTTZ4cmppVGdNTzFRUWtWU05lRmJ1OU5wUHlQWTBhT1HSAfMBQVVfeXFMUGtIUjZYLUlkeS05dGU2Nk9fOUJjMXdaS3NOazJQNng4aFpjMTZXSHNiZ1FZY1JpSUNrY0tOOXFSRVFrcnRxcEFKT3lxdVFaZ2ZsU1NVR05HR0lDeTFJTjl6Mk1NaEpXenpPREljOEl4MEdqelpQXzM3dWJYVU4ySEx0ZlFKWEZ5RGVBejFPbzJrSUEzWVFLOFA1d2lEQWZZSUlqUEZoaXZIS2M5QnZvZHQxTUtDUmF6bHpLZzdfSFB6Q2oxU2xWYjdpSUt0TVBmQ28tMk02eHJqaVRnTU8xUVFrVlNOZUZidTlOcFB5UFkwYU9R?oc=5",
-"source": "Business Today",
-"published": "2026-09-29T09:24:50+00:00",
-"first_seen": "2026-09-29T10:42:14+00:00",
-"symbols": [
-"ETERNAL",
-"HINDUNILVR",
-"ITC"
-],
-"groups": [
-"Consumer",
-"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
