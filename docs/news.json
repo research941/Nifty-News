@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T22:21:59+00:00",
+"updated": "2026-10-04T22:37:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "d444ae57959401d0",
+"title": "Orbital Wins Larsen & Toubro UAV Propulsion Order, Debuts Gen II Power System",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0tZdjA4TW9tamFtTHdDWktlY3B4UEhtSG91S3Nubmc0VllGbE1FZjNpbGFZQ184aGlrU2ZBc3VJWDFPQkc3Tk9sNmFyUVYzck9jYkxqaER6ZW84WjVfT2NVa09zeEtBeWg0bXFLQzFycnpfXzZFbVNOZG1iN0dVcENmaGxlVVN0Z1hoZ3I5QnJTcTZBUTc0NHNralJiYWhzVVp4eF9JZjh5bEpINVF2Q1FITUdGXzNTTmg1OVVveWFtTUs2?oc=5",
+"source": "TipRanks",
+"published": "2026-10-04T22:35:51+00:00",
+"first_seen": "2026-10-04T22:37:37+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
+{
 "id": "1f02706c54280ea5",
 "title": "Bajaj Finserv to rope in ex-GIC re chief for reinsurance venture",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEF1NGZGcGlFeGVKUzIwcUQ0TFgzdERVS0FPaXJ1S0pndXlsM0NoS1E4Q194RlkwcHdsUnhSTzRQOU9EckhnZVRwaHpWbmJtT0hiVTZvNHg4VFZQbDIyUkVmZ044MUt4RkRtX2VqN05zRDlYUFQ4dFFyUHdUbnJtdFdCQWg1RzRHQzhraXBUS2dQbmF2bjdZU1VScG14Sjk5QjEtRzBlQmFyN0hCeTJ2bjVmLTFfMkQzVFRkRWxvSUZtRU5UX0g4aXNDYVpSN0F4RDNUbWhoRW9wS0VaYjJNWkp5MTDSAeoBQVVfeXFMTlhPeUpJcjMzU200UUYyNVRvZXptMkozcDZUX3JIMC03SDlLSjhKS21ac0ZjLWowYndSQ3lHRzB5Z0VNQW8tekZwMDVpLV9fLU16S0lIY0xHbko3SG9NU1JWWG5iOUQ4cDdnbVBDbVkxbFpscjgxMFQzREVNYXZLNy0xbS1tRndMamg1Mlh4cnZXNlFCN1ItVUtvRFQ5VGRDM0k2TzBKVml1UGQwZ1VnaE94cU1OQm51cGIycDc3MHFxUHNmZlBPN3lEWkZtOFY2MV9aSndSdGtpblJqM1NIMW5kR3A2VjBnTmx3?oc=5",
@@ -771,6 +789,24 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "cef0a96fbdb3ab1b",
+"title": "HDFC Bank Q2: అదరగొట్టిన అడ్వాన్సులు, డిపాజిట్లు.. 19% వరకు వృద్ధి",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaGdxOW90ZW00bGx1Ung4VGFVV3hpb3g1X3RCR2xQZnowWkVZNFZkaUprVlBnZl9OX2ZOQWNnQ2M2Q001NFFqMGhVdmlQOFRGUnJidFFWUEwyTWVrTEg3aFU3aFNHdTRDaWltUzRZUTBTTGgwaG9xRDQtckRvWm1WRzB1MnJ5WWRjVF9TdU5ZYmhYT2pEVFNiTHducFZpRlU0eUI2VkVJQjhsUXB3d3VWZmMwXzcyUHZNdTBPUTdBUGNLYUZnaGgzUzRKYUpHMkoyQkJHYWp5VmxlUjFIeHg3VW9uaFhweXlz?oc=5",
+"source": "Whalesbook",
+"published": "2026-10-04T16:36:23+00:00",
+"first_seen": "2026-10-04T22:37:37+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
 },
 {
 "id": "f2eff97fea7c0991",
@@ -50979,40 +51015,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d167291d515fd8ed",
-"title": "SEBI drops shareholding case against Vinod Adani, finds no proof he controlled offshore funds",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVHNYb1FXaUpKbFRJaEdGS3ctWGpLOF80dDFpUmZqbDVyMjBieFVmRW1WNDJYUmtoUWYzTVFHRjVaTG5uckl3WUF5WjBYa0toUUtnUEJPZElDdS10T2tYUHRPNzFnTVQtS2FSSHBLZWM5UEVnUjB2SUVDQ2VFQ1F5ckx3RlNqSnd6S3A1Um9aTzY5RUlNM0NsQ21XV3FERms4SlkwckxFaDVCVmljREFyVm1KVTBROENZYW5ZSTNkZWRicDUtUnp1QzVZWlJ0c3I1OVF3Z1VvUk96XzF1RDBGVTJybDR4Z9IB5gFBVV95cUxPVHNYb1FXaUpKbFRJaEdGS3ctWGpLOF80dDFpUmZqbDVyMjBieFVmRW1WNDJYUmtoUWYzTVFHRjVaTG5uckl3WUF5WjBYa0toUUtnUEJPZElDdS10T2tYUHRPNzFnTVQtS2FSSHBLZWM5UEVnUjB2SUVDQ2VFQ1F5ckx3RlNqSnd6S3A1Um9aTzY5RUlNM0NsQ21XV3FERms4SlkwckxFaDVCVmljREFyVm1KVTBROENZYW5ZSTNkZWRicDUtUnp1QzVZWlJ0c3I1OVF3Z1VvUk96XzF1RDBGVTJybDR4Zw?oc=5",
-"source": "The Hindu",
-"published": "2026-09-29T09:40:24+00:00",
-"first_seen": "2026-09-30T03:12:08+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "negative"
-},
-{
-"id": "9b4832c10e1e3d38",
-"title": "Coal India Signs Non-Binding Memorandum Of Understanding With Hindustan Urvarak & Rasayan",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ0xTa1lsb1IzZktnMWgtT09KSUlKSnIza1dUNllySHA1XzFVS0MxR25KVGtHSndULVdOa294ZFRlX0VXZXpGREdyWXdkREFKcFM0MDF3Y3FJZmhjbHhfbWItV3g2R29aTlFIZVY1R216OUtJa2pKTHVOTFFxOHAxU3RCS2pHOGVBZW9XN1pHWjFydzNBUnNpanlnMGR5bm9ubk5KaVpTUktqeUpPdXdDZU5vZ0w0bXdvajZxR0VHMnJFQmY3NUlPanJRZG90enZPbE9iT1ppR0lvQW14YUh5RGVXTDVXTzlFSldyQXNR?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-29T09:32:45+00:00",
-"first_seen": "2026-09-29T09:54:42+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
