@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T22:37:37+00:00",
+"updated": "2026-10-04T22:58:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "f05e9b371c57f489",
+"title": "HDFC Bank shares in focus after Anup Bagchi's appointment as new MD & CEO - Should you buy or sell?",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNkllRXlWUFVDMlpORGY3aDBVNms5U1JTMkxOcXdHOUY5M243M1U4NTdvdl9Tc2laUVk3WjVRTTZOY2VMa1dPX2wtYzF3MmktNjFTT0FsZFg0Mkl0eC04dlNiR3FBOFBDclBKdmtzUkZsbXF3eUpHd3VlYzBwSmNUMXIzcU4tV3ljbHA5eUg0Q3NZQWlDY3l6ZHJ6X3VXWmNpTTdlRURrV0VCUGpuVGNIZDJrV1N1TzlidFVETEVUUGVfZjhzZGpkdWV3RG85Nkp3TXpmRVY1TdIB1wFBVV95cUxNNkllRXlWUFVDMlpORGY3aDBVNms5U1JTMkxOcXdHOUY5M243M1U4NTdvdl9Tc2laUVk3WjVRTTZOY2VMa1dPX2wtYzF3MmktNjFTT0FsZFg0Mkl0eC04dlNiR3FBOFBDclBKdmtzUkZsbXF3eUpHd3VlYzBwSmNUMXIzcU4tV3ljbHA5eUg0Q3NZQWlDY3l6ZHJ6X3VXWmNpTTdlRURrV0VCUGpuVGNIZDJrV1N1TzlidFVETEVUUGVfZjhzZGpkdWV3RG85Nkp3TXpmRVY1TQ?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-04T22:49:43+00:00",
+"first_seen": "2026-10-04T22:58:27+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
 {
 "id": "d444ae57959401d0",
 "title": "Orbital Wins Larsen & Toubro UAV Propulsion Order, Debuts Gen II Power System",
@@ -1921,6 +1939,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a57fc6e273e98b0f",
+"title": "RRB NTPC 2026 | RRB NTPC Syllabus & Study Plan | RRB NTPC Preparation 2026 | Complete Roadmap",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jTm5pOHpWbEZyVXRWRkdzUkJGOG5tV3JhbkRLNmdiX0Y5bDFnVHdoemR6bzFOSGI5Z1FRalZtTjFyMDdHcGwxU21mSmFVaVl2dnFKZ21zVW1xTG1m?oc=5",
+"source": "YouTube",
+"published": "2026-10-04T06:15:10+00:00",
+"first_seen": "2026-10-04T22:58:27+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "aad247c3a3a95a45",
 "title": "Ira vs Trent - Boys Varsity Basketball 01/15/2027 | Watch Live & On Demand",
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHc0VjR2M3h1NEh5bG5abG5RSkRnZlU5a3E0Rkx2UVlSYmlQM3piR0tPUXRjdmFlM0NKTFJtaElEc2lMX2xGZHdOekFSaUVScXBNZk4zemZOOF9qOTBVRGpqUkNpajJWVGN3cFRLTFQzSWV3aGMzNk5HRVctQWlXRGE3dE1FQjdEWDYteE45bmI2MUpGMFppOGdRX3VEOTNWbVVLa182VW1wcDdxY3pYX0FTOW81WDk2d003TEpPbG9XUklRNE1ma1ZIQmFCc21mTEpYUFFrMFpXR3ZMRGMxSzhYRQ?oc=5",
@@ -2272,6 +2306,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6feb20e8312120eb",
+"title": "NTPC targets 136 GW renewables by FY37, reports record profit",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa09QSk9XZTBzRXQ3ZnJIMS10a3ZQc2ZORTZ2Z2xkQ1RoR0h1N1E2S0YtR2tUVkwzZV9ZUVpXOFFrcXRzU2NvdHJwNUNoeTZUSzhXOXY2R1lMa0Y0ZkVjSnZJc3ZIRFBKNHhRSEFEejI0aFNNQ3NZWmdQWUY2VXpIeHpKNVV5dXJaSVQ0TU01NUp0V2RCVGo3bG91c1JDUDh3MW1rczlwVktIVWg4X29VbFduSThhM0lhZmluQzN4WUM?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T03:43:39+00:00",
+"first_seen": "2026-10-04T22:58:27+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -50964,54 +51016,6 @@
 "first_seen": "2026-09-29T14:37:02+00:00",
 "symbols": [
 "HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fc7ed6c5e48576fc",
-"title": "NSE Index Rebalancing: BSE, Wipro, Indian Hotels Flow Estimates",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONVgwa0NRVV8ydklkdDFoVUlBZ1k0dTNIRjFPd1ZKcEgzR3N2TUU2N28tZ19mdFVnMTUxMlZEelNmQWxDbFpZVFhTbXR4SnFhdE4yV0VDWG95SGNCaHFUUjZ6N3ZoaWNBVUlKNkROX2s4S09MLXhtWXF6RHc5VFJ0MlV4bzNZWW1xVVBsOXMwTzVXY3A1V25uNEttT0huQ0FWX3l6eWd1dVVZSXpBZElPM25WUU00YnZ3OXFZYloyMDBRSkRzNWlnOW1iYWJ5dDNXaXFhenpoSk5SU1VqMndIQ0tPbXcwQQ?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T09:47:11+00:00",
-"first_seen": "2026-09-29T09:54:42+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a782ee978f87522f",
-"title": "Coal India Signs Urea Gasification MoU With HURL; Shares Rise 0.53%",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0ktYTN6aktpSElYTVAwTWJEU3hYUFEydko0ZGJaODBHbzdQR0tpX2l6UHU0SmItUnhRSWJ6OUJTOWQtNWNPNnlMbnVmNVVvbUFhUkEyY0xtNHZDU21xeG9sUlI5SXpId1FBME1Qek82THc4RFlaeUR6VzBmVnZmMVd2VkFoMkVUbXBkcmxVdEpsMDlBdDB1QnFxc2ZabVU?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-29T09:46:04+00:00",
-"first_seen": "2026-09-29T10:07:12+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "7bef67bf5aa44077",
-"title": "Infosys to Move Third of Staff Into Specialist Roles",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQm9ReUtiVjhvSlVOZUU0VENvTmtEcUxBaHpFR3FtWlhoYlpfVkdnSW1rdFZmZ0pPQjhsVENoUnR3Wmt0dUZyLUpkYktMd01keTlwcHhTZW8yMDdnQzF1TkxoYWdFazRaRTZxSXE4bXZQLWRZSXdGUkpfV0U4LXBya1h2Um9hLS02cjV6Nk1uNA?oc=5",
-"source": "streamlinefeed.co.ke",
-"published": "2026-09-29T09:43:13+00:00",
-"first_seen": "2026-09-29T19:35:10+00:00",
-"symbols": [
-"INFY"
 ],
 "groups": [
 "IT"
