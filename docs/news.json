@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T14:27:42+00:00",
+"updated": "2026-10-05T14:51:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "1f4c90371f8c351e",
+"title": "Axis Bank Reports Strong Growth in Advances and Deposits for Q2 FY27 in Business Update",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSnNUYk9MOXFWVUJRcWE0cktlTGRRU0VjNlBpQTE1cGxUdVRmMTduRFFnZC1iVU1VWlMycUpPNlZnZF90R3VUbnBQQnFldVROVTRyWGVwRlZDVFZ6aXZF?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-05T14:47:32+00:00",
+"first_seen": "2026-10-05T14:51:42+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
 {
 "id": "98db8b4bfabb3fd8",
 "title": "Bajaj Finance Q2 Results: Date, Time, Earnings Schedule, Share Price History And More",
@@ -1294,6 +1312,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "0076aaea69807e64",
+"title": "Coal India clocks robust rise in coal supply to power sector",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObktRVlIwMlBmbWhUT0kzWkJtSGJPcVZjVlQzVGF2YXVRcmduUkt0bFZGN3VMck9hREtQTktfZGdCNWxrcmZyclFOYm5GR0hpZlJmaGRKUlp1T1BhQTRUdW1GbGIwVXd1NlBYanN5UkpqUDFKeGMyZ2NneG11RzluSjNFUnVsa0x2a3pja0hiVU9KRzVlN1p4OXZDVFRIblVQ?oc=5",
+"source": "Social News XYZ",
+"published": "2026-10-05T12:23:58+00:00",
+"first_seen": "2026-10-05T14:51:42+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "7cfcc2ff056b58cf",
@@ -2736,6 +2770,22 @@
 ],
 "groups": [
 "Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d83e49652ee8f892",
+"title": "HDFC Bank Prediction for Tomorrow: 6 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejBOZGh2Q21Wa0pUcTVYX0pDUVVKNFZjZGNqODhuVEJ6TG51V0ZkOXZCWmdqeGlHN0JCdTBYVVVsZGhXRUR3alZiQ1c1YjFlT1hRWDZuSFNNVmxUNHJ6UF9BaWdzZjNWbDdpYUFjSm8xS1JlZkZwNXYzTEh1MDR6Mk9PY29fZ2d6WFl0Ym9R?oc=5",
+"source": "Univest",
+"published": "2026-10-05T10:21:00+00:00",
+"first_seen": "2026-10-05T14:51:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -11858,6 +11908,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "ed7c88ea6ce1b4a6",
+"title": "NTPC sets Aug 27 date for 50th AGM to approve ₹3.50 dividend",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVNxSDMxbW55b1h6RGZ2X0tJQXplZDZjUmFIcHp2NC1sa0YxZWlkNG5WVE1xR3k1Q09lNF90ZWVHSGQxZlBkOWo5OXFkVGdpaFJGSEkzRmNHSFRvNVI3VkplOHZOcm9naUhVU3B1ako2cHdfa1poQXZzUG55TUhETDdGVVVqLUQtdFdwdmdoT2VBcVhYRzUtUkEwM1BydDB3RkxKS3pZeDZZZzlkaFFqNEtzTVRJUUlZX1UzeTVuRGswRWprUGdrdVJXUzlZUQ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T20:05:19+00:00",
+"first_seen": "2026-10-05T14:51:42+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "1f02706c54280ea5",
 "title": "Bajaj Finserv to rope in ex-GIC re chief for reinsurance venture",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEF1NGZGcGlFeGVKUzIwcUQ0TFgzdERVS0FPaXJ1S0pndXlsM0NoS1E4Q194RlkwcHdsUnhSTzRQOU9EckhnZVRwaHpWbmJtT0hiVTZvNHg4VFZQbDIyUkVmZ044MUt4RkRtX2VqN05zRDlYUFQ4dFFyUHdUbnJtdFdCQWg1RzRHQzhraXBUS2dQbmF2bjdZU1VScG14Sjk5QjEtRzBlQmFyN0hCeTJ2bjVmLTFfMkQzVFRkRWxvSUZtRU5UX0g4aXNDYVpSN0F4RDNUbWhoRW9wS0VaYjJNWkp5MTDSAeoBQVVfeXFMTlhPeUpJcjMzU200UUYyNVRvZXptMkozcDZUX3JIMC03SDlLSjhKS21ac0ZjLWowYndSQ3lHRzB5Z0VNQW8tekZwMDVpLV9fLU16S0lIY0xHbko3SG9NU1JWWG5iOUQ4cDdnbVBDbVkxbFpscjgxMFQzREVNYXZLNy0xbS1tRndMamg1Mlh4cnZXNlFCN1ItVUtvRFQ5VGRDM0k2TzBKVml1UGQwZ1VnaE94cU1OQm51cGIycDc3MHFxUHNmZlBPN3lEWkZtOFY2MV9aSndSdGtpblJqM1NIMW5kR3A2VjBnTmx3?oc=5",
@@ -12229,6 +12297,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "02c7b9894a26388c",
+"title": "octreotide sun pharma Canada Guide · 6.6.2",
+"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoQjUzb3BDMFBvNDN5RHdfY3lMalBBbkt1TlRmcWh6Z2Vmbko1WVZGMEdSUjZ6RFdBclN6RjV6Nno3eUdFT0VhOE9naFo4WWFJdmpKTGdnakhvd1FadElZTA?oc=5",
+"source": "polskieradio.pl",
+"published": "2026-10-04T16:41:16+00:00",
+"first_seen": "2026-10-05T14:51:42+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51309,90 +51393,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "a86c354b773247d5",
-"title": "Apple Pay arrives in India with Axis Bank partnership",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbk56dEZwWEtwYzJ5NkYtMWQtdFE4MWtrSmtuYlNiMzI4aEFxU3A3REJPdkVJdFM2QUJZaVoyak05bFhGVVd0UE5QUTc5Wjk5anBkbmJ5Rzh3ckJPSG9ZdzBCRXVOX2h2X3pEODdxS3QxX2lDUmtLTFFOaWU5bUdyc0VYUi1saFZGelE?oc=5",
-"source": "news.lavx.hu",
-"published": "2026-09-30T08:09:57+00:00",
-"first_seen": "2026-09-30T09:30:01+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "da9585d28406ac83",
-"title": "Oil Stocks Today: IOC, HPCL, BPCL, GAIL rise up to 3% as crude oil prices fall; ONGC, Oil India decline",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUp3UmFUR1FLM0ZKWHdMRm9PcnplTU4xZVpxYVpLbUg3WVl3X2d1dzFneGREYkdhZTFabzZ1bHJjX1JPQWN5cVJBSmpBUVo1c2J6MHdRbkRtQlZpb0NxRWp4NHRIVldKT1ZLVE1NbVcwNHFlTHRwT1BhZmFIWkZVbDR3QmhJVzFlSEZ0TG84TkZvWGNNUmRGajR1ckhiUGY0OHhHSE5sNjROaXFoMjNDUmQ4SmRLRmg2WGtDQUdQczN3NkxnT1duN20zTjM3QVcwcE5uVnViX0w5cGs?oc=5",
-"source": "Zee Business",
-"published": "2026-09-30T08:09:49+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "5e09adbdb4353817",
-"title": "Reliance Industries Executive Among Two SP Leaders File Nominations For Rajya Sabha Elections In Uttar Pradesh",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWVh1N1UtQ3Z2VF9LTUIxQWpsaUt1dW9WUVNmQjYteHBhbkwzSGw2TmJCcXpWaEU0ZUtCTzlkU3RyTjh5bmpIUEt2RkNjVHhWMjJDTW4xZ1RvNGYteVVzT2JsOGw0alhrTGs3S1FQVHJlSzBMcXpnMXpBZVU1QVE0bWpJc1pmVzN2MW5kbFdOc2RrVE1pWWxFYkgtVWVBR0tXNjV3VEdqNW14UUw1UGFmeG9jLTV0aVlaTW80TjBoMXVPaEZWb25VNWd6bGI0UUtia0Fld1BnTUsyb2hZbWN1aU1xaFg2U0JaVnlLdTVXd0swaWfSAfgBQVVfeXFMTWlhMnFLNExUNzJvWHdDYWR0LVhZTzAteEhZdkd1anZQNHdTekFaREVXcGFBbWMwYUpnMmNPZmVUZDVwdFVEVnVSaUJQWEtNWGo4RXBqZ3RsYUJMclVfQjJMRlZaVnl3eE1RYm9PbFUtNm1UbkhUWnFtclg0MkZvaTRQRFhwdjBNUHlfQmhRenpabmhHU0pva1owQnNxR21FdWZRUkdFVU1TNndFaWlKUmN5dDcyUld0YUJBb0xOdU8xU2hKRE9UbW5wZE5TaVF0a0ozcjlIZ0tReWZBQkFDWHFGN1lMWnFnRWczV2VJd3c3LUcyTGNaZEg?oc=5",
-"source": "ETV Bharat",
-"published": "2026-09-30T08:07:40+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4b1a03c9c1897750",
-"title": "Delhi HC directs ICICI Bank to reverse Rs 3.89 lakh transferred to wrong beneficiary",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0kxSWVCZHE5cTRfcXFaS0pSQ2dpOExBTFVxSEFOTUwwdUhUTkFqVnV4YU8tb3lZMEU0M1lBZms4Y2VuclloQnhSUGVnZ3VoaDR6c1Nqc0FPTDNSaERpRFM2ckE2QkhiOHozLTl2aUwzeTR3X29aZkNDMUFiSUxTd0hfSHE0alRRZFBKdFgzcGdFRGo5SGtYMnNvRTY2VWZQLXl5emViZlJwcWtsVDU1dzlrcFAxXzNPY3p4VEpJQ0E?oc=5",
-"source": "Social News XYZ",
-"published": "2026-09-30T08:05:39+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a08ba03e9c5cafb2",
-"title": "BSE Share Price Falls 3% After Rs 2,186 Crore BSE Stake Sale",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTFFIbXhkWE5HSEMxQ3BETEl6Y3BRV3p4WWpmeUw3UWQtc0dLRzkyY0JTTENzZHF4NUEtSnFtaGlpa2xFQWFTeHJwRjN5dWV4WXVMY0NnNkJCVnJYUjlUSy1GX3Iyc1RUYVBJb1RvLUJyVm1UaGRva05aWUtIS3lWWDVLcw?oc=5",
-"source": "Univest",
-"published": "2026-09-30T08:03:00+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "negative"
 }
 ]
 }
