@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T02:51:51+00:00",
+"updated": "2026-10-05T03:02:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "44b2065d487f0ee6",
+"title": "Q2 FY27 results this week: TCS on October 8, Poonawalla Fincorp and Can Fin Homes on Friday",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2xyenlnZzltRjVOdWNEYVZuY215UlZnNnVkem1DX1NVZTF4Rk5JYzduMldIMl9UV0ktZVphLVNxTkdRNVJSeDZXWlFBbFN5RjVVdFRXb25JRjg4VWRaem0tNnZDeVZtYk1FZFBleFVFTFQtQWNabFFiOUZ2T0JYSjRLM1NsQXdPTjdsSVN0bTlvaHdON0JEdWowcFlKbDNxbEFxRHpYVE10a0kxbmZZS0pRX0F5OFMtb01xOXFnVk9FOW1wNnVsLVc3YVJwNmNDRjgwZVJiRVVXUXZXS1g0?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:53:12+00:00",
+"first_seen": "2026-10-05T03:02:10+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1a0c501754e4474f",
+"title": "Tata Steel invests USD 340 million and gets INR 220 target for Tata Steel stock",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVJBcGhqeXlHNVBsR0M1Z01ya0NSb1pERTdRc3VOVWlEWW8ya1VBcEJyX1pxRDJNNHVQOWVTYldJckh3cy13VER6MHdKUEhqaTJRd2VFMHZWREZ4ajRzbEVMNXk5Q2hFbWFOR0tGeWVzdnlFU2NxX1NlSng1YVpsU0pIMjZBYmVOLXR1Vl9mX3A2T0t0RlRuamFyS1FxX2JEUWM1aVVGaERDcm1mdll0V0c1QkFGMmRSdlJXMHpOeHdZV0hFOXFxQWZhNjE?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T02:52:32+00:00",
+"first_seen": "2026-10-05T03:02:10+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "81a2babce810d79c",
+"title": "HDFC Bank Q2 update: Advances, deposits jump ahead of Anup Bagchi's Oct 27 joining",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcV9HcDlhQzd6ZEZTWVllLU5qRWczd1NQQnVOMWkwVHlSM3Q3VmdCa29EQ0I1VjhSaUNHYU95MHVEUlVsWFZGOWZIb3QxQ2U2d2NueFlFdzNiMURSZmE3bklhQnBUd3BZaXhLZXBTMTRlLXNxam5SMTk5TFloSnpsMmhrTzRhbml4YUI1S05pdlBMZlU2OVpnWUd5NzhjR19PZF9nQ3BYRHJ4OVpXa1ExZy1DdTlpWFNUXzdRczh6aXUtUUNSYVhTeFZvb29KbUZIUUZHTnVpVGh0WjTSAeABQVVfeXFMUFM4b1htU3RzcXFiWHdjQkttdFhpMUxpbGJjbjFocVlmMkFWVGxIVFVqQjJVSjRFQlpfUTF4NGtJejdqMk5KM25jQU1UbUllTnExUG05cll6aUs1blpGUFNXczgwcU9CdVdZbWxfRFFMbUFpTndPZXJVVGRiOFBSS0pEbHNHUmwzUWFMUlBrNm9ZeW9GSWFkSkxFdXpSNUZzaWlUNnk4MEY3ZkJxV1N1SVlaNGtHTUF3WGUwNHNleWRtZmMyNGtFeVBEVElrMFNkMUREMEJFWEJ6dE53c1A5bWE?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T02:49:54+00:00",
+"first_seen": "2026-10-05T03:02:10+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "1f54b5e7dce0b619",
 "title": "GIFT Nifty down 102 points; HDFC Bank, TCS, YES Bank, Hindalco, RVNL, DLF among top stocks in focus",
 "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMHpxTmlDLTBRUUdOd25ZaXpVYkw1SGJ4cnJhQVp2X203ZTdfdVZPRUFDd3otRTJ3MVI2NEhPSUNlZTRyczNnMG84TmVjVHBLeERzSlg0cG1JUnhtQ25kQlp0RjUyM1UtbkNaYzVaVmhydk1iUGliSXFzWGlqSUdGQVhLMHgxOVBOckhYT3VNMVVodDNvWjFCOUhnV0trZXZueVFId1FzaG9kTndINEM1SHFacWpyeUNmb1NSZ2JJMlFWcks2VFFXWFhURjhXYXFQLWp3eG9yYTdSNC01WUM2RTZ2MG9YQ3B5Y3lMb2xrQ1VPY1V3N1o3SGlYdjBscVHSAYQCQVVfeXFMT1hsZk1idlhJOEFSNVlOV2xhbnd1VjNpMTJIZlh3anpoaDd6alUwTEVmUk5HYmtoUkJ0TXBERkdkNXlqTE9qaGhZQVY2aFVFV2trb2hzYnJUNzA0R215Qkd3Yk9ka0s0QWJnWUM0VHdXbU9xclIybXc4bmVjdHlEWWdjZDlaOC1VY2lfV1oyX1B2R3Nhc19Oc2dGYVdqWkJkMWR0NzVndzEzMmNENDRSVzRvVVJUOVAwYnlxdEdLT3Q5MXRmb1lpc0MwSHhzb2ozVVp6bG5FSHF5N1VCRmtodHFrWnYxakNXT1BVeWJING51dWJsWm84bWpBTTVMeU1RWXJmeDc?oc=5",
@@ -489,6 +541,22 @@
 "source": "Moneycontrol.com",
 "published": "2026-10-05T02:32:18+00:00",
 "first_seen": "2026-10-05T02:51:51+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d70a0f28718bbdbd",
+"title": "Trade Spotlight: How should you trade Capillary Technologies, Cyient, JSW Infrastructure, Infosys, Schneider Electric, and others on October 5?",
+"link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOV0pNcmpQd3hvZmZhT0VVcUQyZjI5Wlo1MnVlQlpvd0FFSlBSdFRNVk1sS0Qwb0xxWTlrVEhUR0xfZThFcHFYd2VuajB2eDlBc21fT0Q0RnZiRkVMUER5TjU1OXJVb3pIb1YwT2I4TW9EOXcteDRUVGpHSHRIVmpWb3JzSGoxeURONkZFQnFtaHJPTDhsd0lZR0c3UmpodHh2emVQbXFJNzgwbnVEZnVMYUo4RXdVRnN4Vm9RSUd0VEVzQ1BrTjZhWW1na2I5eU5xYjJuRUNvYVNzYUFqa3huVnZBQkFmV1Z2QklVSGFWa2tfSVZISUVTY1pwd2VYS1VHOTNIdGZkYWNrVnduMjBXQmRpMU0zVXZ4Vm5FZ2FabVF6U0xmN3c?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T02:32:00+00:00",
+"first_seen": "2026-10-05T03:02:10+00:00",
 "symbols": [
 "INFY"
 ],
@@ -943,6 +1011,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a34a37cfda8a8127",
+"title": "Weekly Recap: Hindalco routing alumina tenders and U.S. expansion",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0tRTVJuQUE0OWkxb2lyZmZvcXJheUNlVzVSTnE2R0N2bjJyVFFOUHJEQUh1ZVVfTXA0b2pRRzlIQmtNQVdiLS1iTTU3OEl3X2NhcnpxczZWQm43SVdpRXdVeWFNN1JYdVVZVDIyVi15VlUwOUZNYzBTeC11UE9GMVZ6Nm9lQjdnYmRJNTZlNXo5Y0t3X3hBdG1TYnFCajBVcVFFcmFVZGVfNTBRekZqb3ptN0RVWTYzWDAxUmtyN2xpamc?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T03:02:10+00:00",
+"symbols": [
+"HINDALCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50992,86 +51076,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "336c34ea4f6fe8a7",
-"title": "Tech Mahindra slips Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkdTc0JLeVZQWHFoTkQwTF84aHNSRWR1SmkwTEFZNEliRVYwdU1lWFB6OW9fQldqTEV4VmEyWVpTU3FuWVg4ZF90c25XUjdYLXphcVVFWVctekstTS1zaVlhSjc3ODEtZXAwTW5FLXh1NVNXczdmOGVCRE01MkpWUXJubWp5a1p6R0haQUt2SFZoU09tNTVKNVVKRlliMzF0MDRGQUhzTVNSREJlUWZUOFpYc0NjWGpzZEgyOFhrOEc4X05M?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-29T20:35:52+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "01162153789dc0bb",
-"title": "Tata Consultancy Services slips Tuesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWhWZi1EUTdYVko5c3ZCUnFGcDBXNURDOEsxNG1BcFRBR09mMHNlclYyNURiN0ZfRDloSk5tSEVBS2NBQ0QyTnhhU1RIcFZaMTFWWEZKNTNiaTl6Nk1Ka0czNjJqejFYLW5RV1pBMmNLZmQzSHlqdWNXRTFaTksweXlWUmZ2LTB2TjdHaU1DbG1yVzRfX0ZzbG4wNFF0a1dSYzhXZlFWTDNsaFBTajZwVXZHenRiYnZuakVF?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-29T20:49:10+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "847e2cb1ed681579",
-"title": "Bharti Airtel climbs Tuesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkdkUkU2YUFzNTBNZTExd1liaVlOcnFBMmltSFBDUUY1M25XaUxXOTZoaXhudDJvNE9CWHBFZVNYbVJXb1FubTEtTzI3UVJzMGozUVducExPdDBNcjRmUHEya3R0UlZkT0dXZjZWeGZnWm4tel8zcDFreUhUN2ZOSk04eGctb0w5LUhib0UwNUFCTVB2eXBPbzRvbDg5Ql9UODVFcFBn?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-29T21:33:05+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "3a13813e6bcfd655",
-"title": "UltraTech Cement slides Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanFJQjNqcFdxaHZON1VyWk01Ny0wMXF2aHo0NGZsRGs0T3VsWThLVWZEaWJaNjJnREcyNlRHRFRtd2lPQ3lMOFBKX3liQTBCZ3VjdTM3cDNyUEQyeGtwTlp5aDlrZVJ6T1ZrVkxmR3I4dUgySkJVN2xKdnNtSnhmSVRudkUxeXNVTFByMmpIMy1qV3NJTjU3VC1IcFc5TGVnVEwwejdNTXRuU1lhd0pLTEtHdTAxc1ZObHNXNkRieGJCUmlY?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "bab9fb682bfb7faa",
-"title": "Maruti Suzuki India slides Tuesday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFZBV1U5VFVnZWo1ZG1kR3FFaG1vMy0yRTBHS2x1YzVkOVh0dS1WY0YtMGJhdGYxUFQzblNyNldsd2NFRkdieDJ0R3Rpa1JJMUFBd2ZTU1hoY2c4Mm83dDdPOE9UdjNaemZkR0J4RkVfWGxXVnFzaXhja09fTEpjRmh2bElMWF9EZE0yRndJSjN5eFRoc3d2Skk3MUpoNnRvTWl3U1FLMWlMSVExMkN6VmlBcmx6NUk?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
