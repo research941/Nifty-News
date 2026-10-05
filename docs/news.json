@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T00:29:14+00:00",
+"updated": "2026-10-05T00:54:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,78 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "9a4707bb7c5023e5",
+"title": "HDFC Bank vs ICICI Bank vs smaller lenders: Where senior citizens get better FD returns",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQzBfcmg5SXB4Nm1JaEplalhsck4wU0N5VXJVVFF2YmJZZTBsN0Nkb0tPZ2Y1Y1lRTmNHaWtCVDJqR3pGSll1MWtKSi1oM3VDVldsR1JFaml6NXdVREFIUGNZS1FlMmRCaHlyOUtQUGI2ZmRJS3RqOG5uWFZDQVNmVkUyWVR0amowdVQtQXhlampQaTgyb2ttZ29iZ2txdnktZERxWnBWX0drdUlhem9BWURSU3F4UFpMUEhoNXViNkNrbWFIdWY3Q0lWNmVmRUpWYTVxOWVEcDNiSXZHQlJRXzlYS05UbnRNQnhWQ9IB8gFBVV95cUxNTGpxUk5DbExEUXRrR1MzNHVFVm83UHFnN19WdzZXSDBwbUxWM2tfUzFPX0VnRkpZNVhvQ2JKNnIzd1RuYXFnSWpYV0l6UFl1TnRha1VVV0d5SWUxRExyUExucEJualh6MHdieHBjOV84cXYyYXkzQk9hVGJwZ2lsdWFnXzNwbm11QnJ2RGVwSFNhYzJQWS1WSXZIWURkdjRBb3E5SUtXWktmN3RmdjdVNnJNLWNsVzZuWGN0alhfX0p2Xy1TN3Q1amJsUV8xUGpvdVJlbGNmbUUxMHkzNXhmLUlaMVY4MzBndU5fcG5RY20zdw?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T00:35:02+00:00",
+"first_seen": "2026-10-05T00:54:37+00:00",
+"symbols": [
+"HDFCBANK",
+"ICICIBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3dd7633751814cfc",
+"title": "Top 5 IT stocks to buy today: TCS, Infosys, Mphasis, Coforge, Persistent Systems | Experts' view; Nifty FPI 150 heatmap",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLW4yMFdvQS1tQ2VUcE9abUxlY3BXRUc4TThyQXpFTFloRmxhOExwM1NaeXNHZmpzTGxyMUU2TFBoekNtWkZPc0Rvb2p1RG1oaVVVQ1VTU1ZzSUdSQlhncE5kZ1ljZm83cmVhNEtJdXk2UGtJRzdzaVYxTmhfMUpTRU1vSE0yS3VlU3Y3aFczdXA4bE5vZnlQTXBfc1pmVkF3X1ZoX3RMZGh5ZXZTaldZUE9XNDVma3kzRV9nWFJUcDBIZmo2YXBFWjh3cG8wUzVKSXN2RUJfVklYWUs1WTRXUlR6T01XRVdXaFptNnFON2xtUGN5YXlxdFgzSkRGQ1phUV9MQUxzdlDSAY4CQVVfeXFMTmhtUnh0TlJ1dlFLQ3g1WGFXdUZHbG0tSDdLSHBYcEQzeTljOGI5ckw2amhiMU9ObXc2V3d5TWhoU3dOamN6X2tVY0tyamt3S05oemxpWGo0ZG11S0JnOGhvYmhJWHB2ZU1NdWgycTNHbGVqU19MVEJRMjk5amVMVkExS2JCUk1oQzNJYVAzYk1tSTVJNXB1eVVoX2Q3WnlmbW5GbWxCaEdiZWdrazA0QmF5Mk5kNFlLR2lsdmtxOGVZcEFBX3FRbFJ2M0MzcGJVWllKTTVWcEtmM2tjbTcyYVpJNmF0N0psNURlQl9EOUctMm9jT2t0S0NkVXJfREp3ek5tOUN1X3hweS1hY2ZR?oc=5",
+"source": "Livemint",
+"published": "2026-10-05T00:30:42+00:00",
+"first_seen": "2026-10-05T00:54:37+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "309dbd91b098333c",
+"title": "Stocks in news: HDFC Bank, Infosys, Yes Bank, Hindustan Zinc and RVNL",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWVuY21ZSFBRNFZZVWpYQmVDbFJRY1Z5M2VnMndiT1NCbmh4US1uYksxRDVRMmdkaGZPLWNBYnAwb2dqMXdNMG9iREsyRjNpenEzVmZrY2x1Vk85VDd3REFUWTJqZ0o0WkhKenlmb3dRUGtiOURyZWtPNjBlanJlYVE1T0g2UTB5SUd2bmVndk4xcVBsMVdGa1VxWlFnbVlfbzd6WHU5Vnk2aFM5OG5BRlc0bDdiWGxjM3FRZV9WVDBNTDdsS1BHNDlVUHNONkVLUmQ0T0Vn0gHbAUFVX3lxTFA1TGxHYzBfeWVsYUxsaEw3SDMxLVVCd1ZsVVBmSGZvb3dGb2h2Y2NxcWdVZlBrN202Z3FEMzZTSW9zTUotRFRONHg2NE50OF9JckxncWtvTGF4bzNUeUtIZFk5UGpDVkFpLUxZOU9TZ2ZUdWtDLWVHLTQ0VnZDQWFiN3lUQVBtX2c0b0o2R0JNbm92YkZLZ3lEOE1yUTA3dmF3VXljWjRtMHZrbkNpS2E2NENOY1hTcHZSWmd5aWtpX0RXd1pycmxfRFpQSmNuVHJvbUt0dWU3SEFHYw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T00:30:00+00:00",
+"first_seen": "2026-10-05T00:54:37+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY"
+],
+"groups": [
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cc59c501e7731789",
+"title": "ideaForge Secures Major Domestic UAV Order | L&T Wins Major Dubai Road Infrastructure Contracts | Top Buzzing Stocks Today",
+"link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQem44ZnFlbEdXRS1KN3FxNW1xTk5PenR6aEdJb21WZ21vRGhqVENDX1FBczhoR1N0SVNOVnpmQVppOTd6R19zRnhNYjNCYlJmMzZ6Q1pHSEcyOHZXanA3UlRKdy1RVVk2ZkZfQ0VncTZ3NEpoSDJTTjFIMGZHWVcxeHB2a0tQVS1lM3J4dmhMeFRFeFJOLTZlOWRha3U5RGNlVWc5V2JUbDZQWHNBT09ROXltbHhIV3YtTnotWnJZU1ljcDYtUXkxUWtKa3N6T09LMU1STm9NMy1CelNjUFlmdEQtOWRhalVNZFBKMHpKNEtFbk1jektnMUY1X2lLMUtMWXp3NEo2OTRtZjM3eGcwTFpDRm45aEMwMWxDWE9GQmFFRndENkFxcHFpSy1kdUQ2cmhkWGNIRGpkTkhhRUJzSEFzTy1UMng1TGFFM0dobW5mVjdIcS1UbzJ5b0dpdXR0Y1BaWUphNkgyeG1teDM2Zw?oc=5",
+"source": "Equitymaster",
+"published": "2026-10-05T00:30:00+00:00",
+"first_seen": "2026-10-05T00:54:37+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "positive"
+},
 {
 "id": "b535a16e42eac321",
 "title": "Orbital Corporation Secures L&T Order for Three 350HFE Propulsion Systems Including First Gen II Power Management System",
@@ -1323,6 +1395,24 @@
 "source": "Livemint",
 "published": "2026-10-04T12:36:09+00:00",
 "first_seen": "2026-10-04T15:23:42+00:00",
+"symbols": [
+"BAJFINANCE",
+"HDFCBANK"
+],
+"groups": [
+"Bajaj",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "46d9e7426bbf48c7",
+"title": "Top stocks to watch today: HDFC Bank, Yes Bank, RVNL, Bajaj Finance shares in focus on Monday, 5 Oct | Full list",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-hdfc-bank-yes-bank-rvnl-bajaj-finance-shares-in-focus-on-monday-5-oct-full-list-11791113905735.html",
+"source": "Mint",
+"published": "2026-10-04T12:36:09+00:00",
+"first_seen": "2026-10-05T00:54:37+00:00",
 "symbols": [
 "BAJFINANCE",
 "HDFCBANK"
@@ -50939,88 +51029,6 @@
 ],
 "groups": [
 "Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "14f23b36cb0d4cd1",
-"title": "Dr. Reddy's Targets 25% EBITDA Margin Long-Term and 20% for FY27",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUFKNWVwNUJ6THhrZnI1QTBJN2lRSmIwU09HY0xNUlV0a2txTDFwS2J0eUtjYnNNNXd4WFNBZUdqbmROdUlJYjRNRnhDa0djU29obm9kSUVQY3lPTGhvZzl5Y1pqb0t4T1NvVkV0TlA4QVltbFZCMUQ1UEhGRnF5SXJ1T2IzdHkzUC1tR1pIRjA?oc=5",
-"source": "sahi.com",
-"published": "2026-09-29T10:03:59+00:00",
-"first_seen": "2026-09-29T10:07:12+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "137046637d3a4a71",
-"title": "Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSDE1cF9aQkZCTkJmMGZBLVlmSUhKTFdkLXVUTGF2Y0NEc0U3TWZjVHM3d19oLV8wazBmRzVRVDhoRFFGVmlIeks5M1owQ0FDVEQzeXBDNTNyQUFBM1ZWaG5NM08tRmdRVGpxQ0h5M0hpeUtuWDlsUDQxMXVCVnBaT1JPazJ4a1AwLThjMG0tb0E3WWt5V2VYSV8xX1RISlN2MUhNVFM1aWU1dXY4N3BjTDBnWFVJU2NFRUpZMUhaOW1YNy1qRHNBbGhzeHpqajhlUFE3ZTdxYzBhbW9aRWVPMkJZLUhzdlBqcW1IVG1kakt5OC1GS0RmY3NNdUdIZ9IBgwJBVV95cUxPc1RDbTdPSVZWaGtLeXo4SmNzNTkyaG41Y1NrWEZ1LTNUYXRmUnd0U2o1a29yZG4zNTFHYXVvVG9ERTg3VnRiaHU5U2JMZEpDUEVwQlNvbk5XcjNHa0tsZmszV2N2SVRlNE5tcUNBdmNuSzNQNFBPR0JYWkMxMnRjeC0wTi1yMF83Q3VqQXhaQnptVXkwRF9aWUtIVVFaUDVPUFNyN3pkZ2JFMmJxemdCWVIzUENXY0ZHR201Y01Qa0p2eTRFSGt1N2I4OXlzR05MR1Z0LXVZRXRtLWg4eXlWcm92aUtMMHpOUDh5LWdkZWlycUQ0dmJRVnJ5MDRFM1hFTHo4?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-29T10:03:54+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d480bad07b2cb02d",
-"title": "Bharti Airtel, Vodafone Idea, MTNL: How did telecom stocks perform on Sept 29 after TRAI's data release?",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb2NrdDh5X1pMbFVKR2dPU0NFcDVLNDdBSGkxckxvd28zR3VGUlNzZkZxN1FCbklDS3EzblRDTm5ZZmhXNWFVdmpfZnNxaFZnQ0M5dmNoeXNldE5Gb3NDcTdiS2lmalpfbEZJT05VWG1fVWZNYW5SUC12WGEtM2x4RjJlZFh4TXQ3OHh6YlhPcmNDYTZjeVNPS18xSktCLUs0ZE5reV9hdUJhVWF1OWI2dnQzMFdOTkM4NGdNSl84X1AwTEJ3eE5obmVBYy1QSy1PMnVyeFZsTXpJNUs2MTNCY01PY1pqZzhHZloza0lFeWo?oc=5",
-"source": "upstox.com",
-"published": "2026-09-29T10:03:25+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "123e2998895ea227",
-"title": "Apollo Hospitals Share Price Fall: Valuation and Sector",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOREFSeF8xbVZkdnVlUjhyTkpvQzJ0Vi1mMU15a0EwSFdlZjdLZHZuWjN2d3VTN2wwNWlpcVJCMkRsRWVVZThfeEhqNDRETW9LdVM2cngySnMwaFlnOFhUamlhVU1QdjhrWXhnZFJ0WndmZHYyQWgwS3VmQWhiYlQ2M2kzMlRpS0ZxNDNpZg?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:03:00+00:00",
-"first_seen": "2026-09-29T18:23:20+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "0f5f648cb66ead6e",
-"title": "NTPC Green Energy Share Price and Sector Analysis Today",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qQWkyWThmLVgxRnI1R3JEbDd4SmpnLS1WY1JPUGNyMEppZDNEYTBITWVzSTFxajc4X3JkaXRYT3BGTXpjUDh3SG91SWFWOVVFeEplVlRQWWNodWp4MXl6bm5Rc0pjR1ZjT3JNa3NYNXFyb2ZmVVB6RkNpTXNsTEU?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:00:00+00:00",
-"first_seen": "2026-09-29T17:59:50+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
