@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T03:12:57+00:00",
+"updated": "2026-10-05T03:33:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,79 @@
 ],
 "items": [
 {
+"id": "3310694676271c78",
+"title": "Stock market today LIVE: Gift Nifty signals relief rally for Sensex, Nifty | RBI MPC, IT, HDFC Bank, OMC stocks in focus",
+"link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-signals-relief-rally-for-sensex-nifty-rbi-mpc-it-hdfc-bank-omc-stocks-in-focus-11791169559540.html",
+"source": "Mint",
+"published": "2026-10-05T03:30:39+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
+"id": "2f70de2b8156693f",
+"title": "Split verdict in JITF-NTPC matter leaves dispute unresolved",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSk5Qd0x2SEpKSC1raTlzekFHNklfMTBBM19xTEtwZGlLdk9fRUJ1ZjdsUndselRyN3pnc2QtU0c1NlFFcUI1OVBDNlZ4UHJIQXVBTFlVYVVBQnlCYzdwUF9WaVppdzgtcU9ZbTZ5NTVmYjZSaEswVnV1bTZESWVZVk5lRXZVbElUczZmZU5CZkc4UDg?oc=5",
+"source": "Pioneer Daily",
+"published": "2026-10-05T03:30:31+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "13fc3b7699b05196",
+"title": "Anup Bagchi's Appointment Removes Key Overhang For HDFC Bank Stock, Supports Re-Rating, Say Brokerages",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1VoR3JKaGZMSmhrWUlFRUg2SkhCV09oSVZ4TWYtTFU4NmhrcVFucl9HWmgzc2NzRW5BeDNfOGR4UDJ3T3hqdmNMSzJ1THg1VlBLR0hhOVN1V21qcUhBampzamFtTHFvbkljdzhqa0FpYzVxTWt6Z0JMWGRRanh4bnYwOGpjNlZFVF9sNXNNLUtNRmppNDkwc2Q5VHprZERLRGNVZS1zY2dHdWt2blFuNy11M1hhcDAwSjh6eXpleDd6ZHpqcENZbUdqVTdXeElrbl9DZ0NCZVUxeDTSAeMBQVVfeXFMTjRQcGVRRDhpNkpBNFFXaFJ3bTJWS2R5RTgxNzNtQml6Zi0zV1ZGZlpsU1poOXdPdlh3M19kMVp0ZFRWMnBMbHZaU1VyR1NTa1pTOVVJblIxTFI0Z1U4OVBNWUxMSDFEeWNUM1lhS3IyVTAtNVpZN202SUZBNFo3QXFzZ0duOFAxbF9CaVJ4VlZtcUFfcGw1QUpWV2x6dGhpUlpPYkdxUHVSdDRzV3hZYVlrLU1KVnJoal9oZ0NGczhMZ1dQZUFPLWl6Yk5DcG9BYzJ3LUQxc2tQeEF1WndSck9VbWs?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T03:18:01+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Rating",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "28c68d1e096c9142",
+"title": "Vedanta, ITC, Infosys: Top stocks to trade — Key levels, target prices & stop loss",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGIxNDctM1QxTEpBcTBRWW80X291R0tQLUFBdlROUHA2VkhjUDRVSUZYRTI2WUNsWTFvZzVPZ0VVUkFRZXlVbW94dlI3ZUx5Ti1fX3ZjYTZ5RkVFMTVkLVNOVEJEWmd5eUZRUEl2aU5NQ0c0cDJsOUFfelJiQzFiMFN4WmhEdjkyN2RnMDctYkpEM3JkZmhmTi1kb3Z3QUZvYXpSck1KMTFjbjdQZHJFV0RhbzRQQVA1MVNGUTYyakZteUpYdmw4MDhRVUJiTENuengxaHE3MnRTZ9IB3wFBVV95cUxPamRfa1ZnWU9NeW5YaWxaUFdHeDBfVVhtSUlMU3diVjJZekl1b2dmOHpTczIzN0Q1dElUR1BvRmExOWpzSVFFVUNRZlc0YkR0Mk00cDVkQmFCVTgxLW1fTjVtRWRwSzRLVnZzbVE4QjFUU19wR1VPLTR2OEJac1VyNzJhYWdCdERfeG5iS1k2QzlEdkxsSGR6NTRlam44OTZKN2FZY09WY2xiT21rNjc0NnVNVW9GNjFIdmRRaHl2ajRBQ2QyXzVBcmhfbnJaUTVLaFVEcWhhSHg0dkM0OHFJ?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T03:13:31+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"INFY",
+"ITC"
+],
+"groups": [
+"FMCG",
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "587fba6c2398b368",
 "title": "Sun Pharmaceutical Industries - Negative Breakout: These 7 stocks cross below their 200 DMAs",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaHRMaWlkS1R6Z09NaU5zVE9WSGk0QWhYZEVvREJlYnZLLUtVdlQzY1l1MVFZcnpPekdPTVRkckZySVppVjVIXy02TV9GcS0xU3p1d0tGOXNwN2V6M0ptYU05aWQ5TlN4a0ZDRWt0c2E2T3M1QjhKNDA5akFqVGl2TXFmUXNfbmZFNkR5bm1RbWdNTHJSUDRSdk5ibHM5cWNiU01NYzFVdklFNEJRYnhWenVYOHJVVFFVX29aMERHbzNxeHRWU29sS3JTdFFjZkh6SlgxMjFieVU3c3FncHV6WGFtN0c1dDQ5M24yd3RJcWxSYWM?oc=5",
@@ -479,6 +552,24 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "aaa1bfb37db58c10",
+"title": "HDFC Bank share price targets: What Jefferies, Nomura, Morgan Stanley say as Anup Bagchi named CEO",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQW04Rm1hWEJFWFB1T0d3c0F5VkdKbkRMeEZrQVJTRVZpT20yUlZuV0V2NGl5S3Q3OG14U2U3clUtMGVYOHdnNlpjNmJObTJiQ3ZkOTQ2amlZTFl0eXlGREx4VEM3aGNXZ0ZhSzNPNF9nQWpPUkVBcEJZbnExMUVodTNYZWVEaS1TUEpqTm5OYzhMUVpnR2k1aExEYkptcFR2Z3gzejUtSUJ3VFlDcTlncXZ4SmV6VGJXNXNldE5tcjc3YjYyMFpWV2R1dXZrYkNFcFY1SE9EckJnLVBuQmVLTkN3QmVGMEJ5LWFta3BaRExaaThZWFdrZ0FJLXdQSjTSAYQCQVVfeXFMTl9qT1NpMjRRTVBGMmlWb1JaclFGajlZcll3UVl5dFlVLUZvQUZvaEpxdnU5cm5GZVFfREtDa0l3X2daR0pwMkhIUUlkNDdlWDhIQ055TTRVRmVVaWlMRUZPdlBERHRveVZ4RnpJN2hVTXF1cEpFVGhyMlFFUVB4elBvcGl3NTBaVXR1NjMzaGhKdG02Sk1uZWsyNVhEN1pKSDVPZzhOZzhrN2laQmgtT1ZkRG9jMEtiV285NmtjNXRMWllFbU5LMkNZRzMzN3F0cjU0Tzg2SEt0aXZ4cFJhNmVZZTF2S0lHRkNleTBSWWdNX1hFWFVvSjNOQ3NQOGdrNlZ4YWE?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T03:04:52+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "77442ea19a737240",
@@ -793,6 +884,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ab8007e7da8c230c",
+"title": "Grasim Industries - Negative Breakout: These 7 stocks cross below their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGF3ZFBaOE9kZGJPODlFODhzM1RrWFFjN0RmRm1ESFFxN2NCOFppdUYzM3lDWE9ud2NPMDlQYU5WYXlOREZYT1h6SWc3S1FBZjNZYVVBRnpGZU1LR3Q4T01FVFhpdF9CQm9XZC1ibTdMdmNtTEZHMkdTbkJlOFU4UzR4RngzVmZRdHdLX3M2UXBWTm5iVHY4a3k0dF9HajZzNk5QbGw1SlVHUllNOFJ4RUkteEFnelQwbWFVR0RGOUxKQWlwTElrSEwxNjRNbXRqei13TXhJN0VlUXJYUDJEQ0lsMXBnM1JLWTVENndsTQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T02:04:43+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2514b80ed466dd3a",
 "title": "Jio Platforms’ global roadshows draw strong investor response ahead of IPO",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjd5UU0xeUhYUF96cGo5V0VJbUhHVVltSVNEb1o0b2QxQ210WEZVVVpGWmFVbGYydUVJcVlqVnpNLTZ4cGdOaDVNcmh1ZnVoTG9yTXV4SkJYZXIzWGNuNlZJTm5kOEhRMlpwWjJvWWxXSjRmNlllNmdQS2VFSjBVQ1NYX1BhMVVHZ2Q5WmtsRjdVVjlvMF9XdzFub2k5d2d1QVNEWXMzbnlVTmNfa3RVNHhR?oc=5",
@@ -968,6 +1075,40 @@
 "HDFC",
 "IT",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "161b62c0eb831ff6",
+"title": "Coal India board to meet on July 27 to review Q1FY27 results",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlh1TWZZOFp1S0xhenZvbENBa3hyVU8ycTM1S0RSUjJvX1BXLXp1UjBMalNrT0ZfYmR0U21NZGlBMGdBNWEtUl9pbDJMa0IxLU9CN2k0dUUzTm80SF9Ed1lzTER5N2tjb1dpZlJGUGZ5a21OdW1YdnR3elk0SldSTjB4dkpabkRGNmtQa1lhQ3N2VFZteTIwbTRMak5tbjlYaDVySHJBSHpKdl9qWlRwVzNERFZSN0tmb21Cd3A5ZGw?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T01:27:43+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3a265400aa981d9f",
+"title": "4 Reasons To Buy Coal India Shares Amid Macro Tailwinds For Rs 500 Target",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjFCWEw1NTI0UkhnRy1yQXZHY1c4cGZJT0tyenk2U2RLT2FKR2o2VlJGbUkyeHBpak54dXYzbzFqTzRPVEgwWXZnVVhIQ0gxMEp2clZ0YXJzR3VOaUREYm9kclEtZ1RpMGlYamxoMnJyaXgyRFdCS0NKYzJOQnQwanJBdVdjZTRIOEZtcHhKOVBqNEdjZUkzYkp4TFpTREZZMWVkeVpvUVNBRk1Jdm5RQTFjcnVHbEJ1bUE?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T01:17:00+00:00",
+"first_seen": "2026-10-05T03:33:00+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50941,140 +51082,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "91095818ca836b03",
-"title": "Top gainers and losers, September 29: Titan, Wipro shares fall 3%, Adani Enterprises surges 5%; check list",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDBSWVZzVmpwT2NMSWRBcWFkTzVxZDA1b1NRSzZNdUNGeUlMRnEwblBvTXFYVkhwdk9Jd3lTbTk2SEVMak1odThqWkwxbEkzYmdyak11ZVRZY05KSlVMMXo0VFJRaUh5ZkFwclMzUWRETVA1Nml6WGpvbFVZSUtPLWtpeEVNWGE4NkxiUV9kVU1yZFJ0dERkQTRjV3UzQVZ3am1DTGJhN25FNjBvWG9CN1VmSWdGV2pUakxQeXFjeWIyOEZBaE5oZzFfSnZqemI2ckRiMkpSVEx2WjdGREF2Q3U2MmRFdG1IektsUE1MRQ?oc=5",
-"source": "Upstox",
-"published": "2026-09-29T10:54:00+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"ADANIENT",
-"TITAN",
-"WIPRO"
-],
-"groups": [
-"Adani",
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "45c7fada36a3fabf",
-"title": "Sun Pharma plans $1 billion rupee debt sale to refinance Organon acquisition loan",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHZ0QUFiYWZ1cGd5dEJCQS03TldOa2ZqVmo4elRrWE5SWTI3VFhHY0NoVjBvbElwOElBYjNiYkV2NWgzLXg5NTB3ZGpDdko4bHBlYlp2MWJRN3pPU0RiLVFRNlFveVdrUUpab20xekZQMGZmR1FaNE5fa2Z0NDBsakxvc2JHeXVRZ3JyeENoN25MZUVxcWNnLUpZbGU4Vkg4N2Ria2RLTUpFRXdmemtrUVFVSlpQa2NEa1N5NUg0NThfV3ZCcmh4T9IBzgFBVV95cUxQeUxWVnUxTmFLUHFsb21naVdBQm9vUTg2b09lM01Hdy1NTExYc3FXS291S25iXzN0bGVtV1ItT1F4cWNMbm8tNi1RNzU4TktXYXZQcVFRNFpxRWlQZ1JCdk96eUxzaEl4WURYdTJjUnFzMGx6QjN6cXUzYUx6VVpoLTRKaHducDJFaFRwRjBMRGk2ZVZkY3RsWGhucjZrSTZCa1YtS1Y1QUVFR2dLUnNvbzF0b29EU1l5VHc4Sy1yMFZCb2pXZGxZRHViZEpmUQ?oc=5",
-"source": "Firstpost",
-"published": "2026-09-29T10:49:00+00:00",
-"first_seen": "2026-09-29T10:55:44+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "56730e32a83bcdd5",
-"title": "Reliance Industries Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdElQRGNxS1BLUllKbDhReXNZZ0pzWjdZS3cwQnRqcUVkX0hQbHprYjJXTElObnQteEo5WkIxSHNZY0VsSXdWSFJhTC0yZlVZVDBfaXA0czBLeG5BMXVuT3ZqMmtBQ3RwU3ktMDQ3bUthaUN5dGNsTEY5TFBQUjFhWDdRMVptNVBnMkE?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:48:00+00:00",
-"first_seen": "2026-09-29T16:22:17+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "06c7b7573696bb98",
-"title": "Infosys Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zQXdudGlYMEVfOUpnc1gtY05PaU5HX2QzRDA2UWE2aFo5T2MxcGxnQXZMaVNUdDluMUFweVFhT0o3b1Y4ZlJoZHJyakNMVXRHX3RoQXJ4aWhialBKT19hSGFJVk9YS0dBak9SSVJhZnB3VlhIbVVPZTR3?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:48:00+00:00",
-"first_seen": "2026-09-29T16:22:17+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9f08c72dd09923f7",
-"title": "Tata Consultancy Services Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXF4M1FyaTI2eU5odExocWJJcFFKMFJJdmdSWlMtanZTRGxyNkRoeDBWZ2xkR3FuX1Y0VEhreUJtUWxJamlFY3FtMkcydERTeTVDazBpTUJpQWRya2tvUWJTdXhVcDJtSHZTLUtTX2RINUZBMU9MU1haakdCWDRnSE0tZGZKQk5zZnJaRFhxY1J3Zw?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:48:00+00:00",
-"first_seen": "2026-09-29T17:19:20+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5e1737fed4e1f863",
-"title": "ICICI Bank Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qMXVjNWd1YmptRUJWVXZJUWlBRnlsWTJjQjdBdVh5M3RBS2ZHbUZxRHRWaGdWWG1RZEI1ZFhwQS1kZG5XT1NIbUR1LVZVVi1ZVy1BUGozcy1jM0lYWWhuRUlhbTlkR3IxWGpfM192dmZjYWhDeTl0aXFGQmUwUQ?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:47:00+00:00",
-"first_seen": "2026-09-29T16:49:26+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0d602f9288bf487a",
-"title": "Bharti Airtel Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGUwNF9fNGNYQzc0X0VWM2UyM3FUdGktWEtxNlozUWRQNjRVN0hBNG9WVmdhdWlsX2oxY1NFZ2NzdElrWUpTZkRqQjRNaW05a3J0ZVJMaU96SzVueUFWMTVJa1RGWXhXZEV3YWNXLWhyUzh0YjVZaEdDd1NBM0ZBZlFR?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:47:00+00:00",
-"first_seen": "2026-09-29T17:00:28+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "555006a9eb1dbb1b",
-"title": "HDFC Bank Prediction for Tomorrow: 30 Sept 2026",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYjV2TUVMQmZaWnVGTGMwVXM0MXBzYklZbEp5cFIwMnVqU2hHM01la29MMnFNLVRCYkNtOS11dDFPUzNFSGw2Ql96S0tDRTAtaEMzM2FDSVdKcE5iMjZlUXh3dGdhVTBnQjgzaFNnUDZneVVSU1ljVllqc1g?oc=5",
-"source": "Univest",
-"published": "2026-09-29T10:46:00+00:00",
-"first_seen": "2026-09-29T17:33:46+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
