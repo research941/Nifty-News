@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T18:24:42+00:00",
+"updated": "2026-10-05T18:53:11+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -495,6 +495,26 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "4ca773801f4c9d64",
+"title": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T17:41:36+00:00",
+"first_seen": "2026-10-05T18:53:11+00:00",
+"symbols": [
+"COALINDIA",
+"HDFCBANK",
+"TATASTEEL"
+],
+"groups": [
+"HDFC",
+"PSU",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "8bdb13cc59e81089",
@@ -1079,6 +1099,25 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9306be42bd524865",
+"title": "SBI Dividend Alert: How To Get Unclaimed Dividend From SBI or IEPF? Check the Steps Ahead of SBI Q1 Results",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeE5PMFZfZUIxZW1rYUVaemdqcm5aS0tKdVd6UTVtTFYyQmtGR2hBRWZmdkowTzF0N09OeHQ3VjYzVko4MXVSdzFKa0pCQ0lrSkp4WDBOYmItQUFWNnlVR0pyM05DNUdvQXJUVHBQRkRTMS1LOHY1OF9zUi0zdkJNeS1qQktaUkRINl9HZDNoRVdSRGo1QU9aTXdpS2tScWJqMW9wb1RDclFSOWdueE1Ha2Zob204ODJTUkk2WXNxWV9jdGl1cE03b1R2ZUJydWRFZG12RUJxVTdPWE1uVDBIWTBn?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T14:48:06+00:00",
+"first_seen": "2026-10-05T18:53:11+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -3472,6 +3511,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "abcd16633cd94ca0",
+"title": "Nestle India slips Monday, outperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNW4wQU9Tb3RwNWVCdjhYLTFBd29ocXYxS3lxUWNCdjJEMm8yV1ZFU3k0Rkh0N3lDYlBmdU9ZamI2a182QUdqQlRwclVlVzNDYTVaQ2hUbnl3TEFlUTVsNEpkNDE5NzNKa29BdVlLMFM3YUlSZ0J5OTFPVUJGYnFPeVBzSHdfV2tkNDF0T2QyS3p3ZGgtN2g1VU5ReFRJTTVaVF9pMm1STl9TY0hjUVBqMUFSQTZHX3R2SlpMaTJUT2k?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-05T10:32:00+00:00",
+"first_seen": "2026-10-05T18:53:11+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "86614b84cd543deb",
 "title": "UltraTech Crosses 2 GW Green Energy Capacity in India",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFBlZ1hkVU9lMmJ6am8weTRJN1EzY29NNWNQamxia1JFb1VfTkhzY0k3QmtKWDNOVjJnUmNZNTdVMDd0SlhqM3hqYlhTVlZQN2Z2cFl5SEw0dVdJaDI2SEdJX1BuTTVMTGNIV2lxQVUyd3phbG1XMERZWl9od2Iwc0NZLXkybmZ0NWdsaDZicmxoWXo3RUZRLTloMFA3eXZC?oc=5",
@@ -3644,6 +3699,22 @@
 ],
 "groups": [
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4123937807d5615a",
+"title": "UltraTech Passes 2 GW of Green Energy, Meeting 48% of Power Needs",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nbWJTaW5wVU5oUWdUSGZLX1htSTYybkNkMGM2QzhqeDl3Zno5UGFxV2hrX3VvcVlyMzZoZjFsbVc4RE4ya2xvVmU1bGkxc0xycDIwZzFoa2dsQWdUN2dlT1BaN3AybEhuajUyRnRFQ2pTMWI1dGZ4andXUFRudw?oc=5",
+"source": "Discovery Alert",
+"published": "2026-10-05T10:26:15+00:00",
+"first_seen": "2026-10-05T18:53:11+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -3844,6 +3915,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "02383703aa5d3b17",
+"title": "Cigarette Stocks Q2 Preview: ITC, Godfrey Phillips, VST",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmZlQlBSRmlHc3FfakI1U0p6d3B4a1BvazZGRkltdUQ2dEZtdUk1UjlZMmNId3F0NHBVNUJ3TkpYMjFGc1pXYk11QV9kMFRPblJ4VVlUMzdIVUp6U09CZVlXcGN3TjlXRzQ2UmZ4UVkwSFBvZkZCVjNsVTYzcE1rdzBVQQ?oc=5",
+"source": "Univest",
+"published": "2026-10-05T10:14:00+00:00",
+"first_seen": "2026-10-05T18:53:11+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -51350,87 +51439,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "2c0c4951869c0e14",
-"title": "Infosys And ABN Amro Extend Strategic Collaboration",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1dONmN3ME1HNVEzYmN3ZnkxLWN3WFV1aHlublFpTWt5NWVINnBZY1BBZmdKeHpJWUgtWDFIb2ZoMzMtV2pCQjBIZDNmMVlZSmpPS0piTF9DM1I1YVFNTmp4V0UwNHptZko1SWhSbWk5WkhBZTl3cHBXOVd3NzJDcy1QVkx6WHhkVnVRQTEwRnFIUjJaWjJDU2R5XzlBUGVETHlWcGt1MzU0MUFjYTVxQUJDUHcxMW44b0RQSEhB?oc=5",
-"source": "TradingView",
-"published": "2026-09-30T10:02:04+00:00",
-"first_seen": "2026-09-30T10:20:28+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7b51a3e1b0f911f7",
-"title": "SBI Life Share Price Today: Valuation and Sector Context",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVFnV2pZZmVDdldWR2t2V1NNODEyVzVsMGxNZkFJVzc1MzNZOGREdzZndzlXUGxmQWhjX1pUUnZUV2V1ZEhKWkppVzU3QWZVdllvTjFXaUNqc2hIUHBfajU2Z3VNMXZubnZBVUFXN1UwbEJmVzFFbzdCT3FJSDdWc3MzRXF3S2dST2xhTkJ3LVFBd0tmWFVIeFZ3enVkSzBr?oc=5",
-"source": "univest.in",
-"published": "2026-09-30T10:02:00+00:00",
-"first_seen": "2026-09-30T18:39:56+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "011d4197ffd182a1",
-"title": "BEL Showcases Military Radar, Missile Systems and Electronic Warfare Capabilities During ‘Tarang Shakti 2026’",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJQLVJWdGhzeE1Oa1h3U3pEY1dyUmJkYlJFajNoQkFidnNHNTRQeXB5dnN0R3VOaHZiczduTzU3dERaYU5jZGNOa3pYX1NUaWI2RDBQQ3hDem05ano2V1hvNDhINjNQR1M2LTBURkM0X1JRUjJWZTBtTk5ZdGlGTlEzMnVaU0RHYzRnYUh5UGRyV1ZZZ05NMmdRbUJ2bHh5V2ZIR3RORmZIaUE?oc=5",
-"source": "Indianmasterminds",
-"published": "2026-09-30T09:53:37+00:00",
-"first_seen": "2026-09-30T10:00:42+00:00",
-"symbols": [
-"BEL"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "05c6d815a1251846",
-"title": "Lloyds Metals promoters create NDU on shares for SBI term loan",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlpYUFVWQ1RocWlEdkpzQ25sdWR0b1dua3FKSDFicFg0YUJxTy1tencxVHA2Q2xvT0czc1BiZmhLb3hiU3UxOUpqb2YzVjJjN0JCZ2ZfTWJ2djlKWkhvTWJWTkFqbXktaHQ1Nmh3QWcxY093M1NIejhmeFRwRklpWTBJR0x3UWJvNE1uOWxMSEVtVGJfdTd3QkEwckx6LTRUQ1J1UHlxMEVpcjg5U3dUTUdR?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T09:53:34+00:00",
-"first_seen": "2026-09-30T10:00:42+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3e6d0785ba1e6b45",
-"title": "Apple Pay Launches in India: Axis Bank Visa, Mastercard Credit Cards Now Supported",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RdzZLb0Jzd2gtbTAtdk1BbTBmc2lDZ1dXSEs0YU9KSEJHYWpvWWV6ZUYwdXBqeG5FSUx4NnRHbzVRQjRuOWRScGYzUU1tY0w2Y25UOUxPTEI5WU4xWmhTLURad0w0MUxPNjltUkluWWprR1kwMFZWdndsZWozdw?oc=5",
-"source": "NiftyTrader",
-"published": "2026-09-30T09:53:28+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
