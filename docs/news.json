@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T08:07:43+00:00",
+"updated": "2026-10-05T08:29:19+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,192 @@
 ],
 "items": [
 {
+"id": "edb2c10c2de02ae1",
+"title": "ITC share price: Stock jumps 3% as Citi upgrades to Buy from Sell, check target price",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXctd1NkVEIzclJELWc4dHk4UlpGV0czYXBMRWowWDJZcjBidlpTVGg1OUpfUjQyamxzc2tVTXU5RnlVamQtbEdJeUxpVThNZENMQVNkN2pzUUljQTB2dlR0ZWF3MGdteHpsZDlGaXFjUmc3c2M0LWFYWU5wcklNaHB5UklBV0E0WDFSVGpHcDk0c09jUFM3a3NXaS1BV0JhM3BuRktwR3pWXzZJWnFXUVhMWlBxOTdTMFMyYzRJUll2VkZLdHZnMw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-05T08:24:36+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
+},
+{
+"id": "37d617d4c4c7bddc",
+"title": "Asian Paints, Kansai Nerolac, Berger Paints slump up to 27% YTD. Is it time to buy paints stocks ahead of Diwali?",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxON05BaWlCSmtoR0tnd3ctRmtsWGQtT1NsV0E2NDEzTWJadkJuaV9lcUlmNDltb2ozZk9RTkFKcl81eHkxaEU2b0NnSWM5LU1wZTRHRDVrRUR1QWJtMDlCNl9vOHlBeUxKYXpFQjh2ODN5dEw5cmtSTTJMU2FKRUxEZEhCX0VwUlNDUS1oV2ZRY1FCYUlXTUhPVjZDV1JKUXVVTm9QQlhGM1JfMmhmM2RjWkJVMWtJd2g0LWxZTDgyblBoOW9icER2YVFuRlBEbmVUSVRsSWRldXhvWWN5SmJoai1feDVnMXV3MkZCWktySC1pNVg2b2hNTndmOVZ4djRDdXhBNksyVHFDQdIBjwJBVV95cUxNcTRieVh0YkxUdGxVdU5RSTVMRUVfUkNYdnZTeDdFTkEyLUthTXE2WjM4MDRwa2lyQmtqSEdkR2FUNEpJM2ZHdXIyN05XZEo0bVpwWVF1VUlGVnZaM2xDNDNQQ2owUmpBTTVNS0FDdG51UV90SGx2V1dTYmhkeEpwZS1aRW1GTUhXTUk0VUliSGZMYWhQRWNORHNFQUh5V2ExM0tacUV6ZUJmSDRvaG9mNW4ya3BBSjVxdW92V2dfVjRJbWZwSzRBT2JWcVREZERKZ0pwYTllbTdtOHhqTjZ4LUw4S0dzdWhETnQ0TTE0SF8xRWlRYW5CenVRdVZoTWdRalR5SXo5M0FjVVZMYUR3?oc=5",
+"source": "Livemint",
+"published": "2026-10-05T08:20:05+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "58a2494c52dd9dee",
+"title": "SBI PO Mains result 2026 expected to be out soon at sbi.co.in: Check details here",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXJKR2QwS0huSWJvTkJzeGdDTUotRGhLelk1R0lVeE16ck4tTUFqQTdsQm5IRkJUMFp0MlVIaHJIOGsxbHFsWnBzaXRrXzVLQXVZMnRpdGVpRF85R1pWXzVJclZVYVFkN2pJVDBTZUhZRk9zX19Xb202bnUtMXlJM25ScTlRYmtnYmpmVm9welN3VGNLd0FxdDQ3OGk4MUw4aUMtLS1ES3kySXBIdW5EeWdGbndCT1NQNFFjbmRMNENWVzdHVVdIUHF1RQ?oc=5",
+"source": "India Today",
+"published": "2026-10-05T08:19:20+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6926bd09bbcb5d59",
+"title": "L&T Bags Mega Orders Worth Rs 10,000-15,000 Crore, Power Projects Span India, Saudi Arabia & UAE",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEVMUnVlUmFaWFlLdlBMUmlySzZQcG5BckQzd3g4SEtHYm9YYjBhUFQ5Wl9nbll2OTdBT1poWnZTY0lBQ1dTQnFCcVZJOVd2QlU4Q3FnTHlqUFcwem9Mb2ZRWnhmWWJRSWk1dF9ITG94eTZ0U3JfTmE0MkcxNHhscjFtdEsyenlhdnhva2xKVW56RzVuWEItaTdVRXNhYklFU2lRSGlJUUxTa0R0U3NOLWRqOVpmY2wzNjdld2VWTXloN2VVWEJUYlB30gHPAUFVX3lxTE9fd2ZROGx0U3Vfb3dIekxYXy1xa2NLUmZxbnRGT2Zhd0lSaGliRVprZ2lETGlHNXBqSzJXN1FVTC1hLTE3OV9pRTRWdGxZY2hFODVqdmFfWnZXaER6dHpQQ2pkUHJVUUdySFpnSDFfZ1hMb0JPOWpTaGV6U2RYREhON216WlBySTBPd3JuU1ZWMERZSHd2NTJtMmhDdURfYkVEd1V0bGZsbU11NjlxdlZOT1dFWWh0VnJ4by1zVUJCbXNkM1B5WGEwWFhBNWtBWQ?oc=5",
+"source": "Free Press Journal",
+"published": "2026-10-05T08:18:48+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "8898ec38c44490ea",
+"title": "Stocks making the biggest moves midday: Bajaj Finance, HCLTech, Nykaa, DMart and more",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGZsYmFOM1UzTWRKbWlid2JjZS1lZjhJWkZIZDBKdG0xQ2lMU3Azd3VoTUdMeVZxQ1FUdWx2aDViMGhNOURUcXQ0aVpTUjZBcVVHa1ZzRVFGemZNM3lWa05WZHVyLWhCUGtRME5sYXllVmN3ODVfVDhxT2psSmh3MVNZclpDRWpocm5pcFZrMDQzVTRtZjJDUkd2NjFlLVlpUVZIQTR6Wm1saFFRZmZvVUZtcmVJUlExNndvQWY0SG5nODhlM29sQ3BteWFJRmtVWmc?oc=5",
+"source": "MSN",
+"published": "2026-10-05T08:16:16+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"BAJFINANCE",
+"HCLTECH"
+],
+"groups": [
+"Bajaj",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9fee9c15a6240c69",
+"title": "L&T secures mega orders worth ₹10,000 crore to ₹15,000 crore for power transmission across India, Saudi Arabia & UAE",
+"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNWs1anRYRkN1cU1zckdwcmE5UnJ2eEllb2VQSU5ITGEyV0VIdnVoaXJmc3dfLXJoV0NJdmJNcHF3NWFnUDdEdXJ0Vk5yX29ZZklhaGxTUklmSVZQY1pmbmdCcXBiMUtWbXVvTDFzRkZzeHhuSFdib2F2amJUbWI1TzNTamZFQ1pVN2RicV9DOVQ3OUotQjg3U0xrM2RuRWw1ay1TeDVDYWdJNFFwRl9VdW9VaWF1UnMwRGEyeFRRY216cDFXV080Nmk1cUNPc3FJdFdZTndzVmtCMEVQTHI2UEx5MENZYkExUWVSTFhrMHRFV3k5MFpxYVBRVG5IWnItY195QjB1eWhsSjZmMlJj0gGUAkFVX3lxTE5IM18wYWNlQjkyaFZZeDlNbV93MTNxNmdQcjBBaWNBYVAtT3E4Mnh4OTFlamgtcEVuSW1leEYwekxQVGJ1SGc1YzhRRFJjX1oxa1dEME04RzNETGVXb25fdTZVcHgxWWJJdFZRdkhzYkZnckVncEh0Qk1valZsOWlVYVFNZ0VLdUFKLVd1SlRKby0wblphXzVURGU1RHRHbVktOVR4TUFiUkdacURiQmZ5TGoyTzRGMXhsb2x5MnVEZUdPaTZ3REdIZ000QTRyN1U5Z21IcTV6bXR6WkJDVG9id29vUXc3M0NBSzVVcXVjcnAzM3NOVmd0cVRBTk5XODNwNWFZaU1ObElNbWtzRFUwbWxqZg?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T08:15:53+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "b5c75e82af2fa652",
+"title": "Bharti Airtel Launches Airtel IQ Gateway for Enterprise Communications",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUkxhVUpiam56eWxaemlFNFE5OVFkOVlTajNZRjFKbEtDb1YwQUlISHJQdkxFZ21CanRZUkpaS0N3UXBfQ1RnMTU2cGJ3Um5lS0VRbmRLVHl6anB1QnFJTHU1dHpoUi0zMXhobDNsSVl3Nm1rcm1CWC1DQlFhd2hzQk5aaXpETEVHYXZLQndWOU1ITFNoLWs2dXBaRnlKZnROVUF5eG0tOHZsaXptczFOYzRRNGtaZDg0b3Y0NTBpcVI?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-05T08:10:39+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4ede16ed7f0d7eac",
+"title": "HDFC Bank Reset: Rajiv Kumar Board Sets Stage For Wider Shake-Up",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnJuUjQ1NWdQbzhxVEl0SGd1NmN5aEVXWnlxWmVxRkdRVGk2cGNhWUNvNnY4U1RfeHR3dGdtamVWNVdzRklVVV82WWtBRWlFYnJSM0hIVDJ2SFl0ekF6amRpNi1JbE9tbDB3MUxleGZzdm94NFIwMzIwanlPSUgyamdvOEpPY3ZfNUxGM1VYUzdEaXhIXzlVYXdLSS01YXJxRElzLThJMTZSTzTSAbMBQVVfeXFMTXVJRXc4em5FOVJPdmlraVBBaGtmM3U4M0NHd05yeXdRWm1vaTZtYzJheVNBcmNfOGdLeEQwbWhFY2tDNTJ1QzF3X3V4WUgtbUtXazdyRDVQZVVtZXpQTkh1eENzLU1PVVhiNkpJLVJXNXN2RGRSdF85V1M3N0tKN1RrY2hZRlV6eWdhMTIzR1pRc3hBODVtZmx2YVRoalJ0X1RhT0NkYVFJY2t1VUVyVk03ZjA?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-05T08:07:01+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b6962039410a23d8",
+"title": "Laser Power & Infra Secures INR 72.77 Crore Transmission Line Contracts from Power Grid",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EZWRSM3lHbExodEpGTjlvRHdldUVBek41aDdTV18yNlZqc1BpQ3k3bWs2WEpBT3pKOHpoV0IwWUdoN2hqQmRJb0drY2RoNUFzWXE3a2NFN3cwT3E0dUN5THVvWQ?oc=5",
+"source": "wirecable.in",
+"published": "2026-10-05T08:06:58+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "2947d1abb7ba2183",
+"title": "CBI Tightens Noose Over Iron and Coal Theft in SAIL, Coal India; Several Officials Under Scanner",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UR2dQaDdtdVlrSkdXczhGYTVOeVRKTTVxUEs0ZV9oVUNUTlNsaklnT2s2SXh1dWcyOUFydGZCT245NFJGeTdMQ3J3THdEWmpWSVAxc1A0Tl9KZTVxcVM1MmVqTmd4cEMweVlHdkFCTEY?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-05T08:06:49+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "c2360b99d666fdc1",
+"title": "IT shares trade mixed post Accenture earnings; HCL Tech, Infy down up to 4%",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcEI3a2o1WlF1eEY4TUQ3WVY5ZTl3UG1Ya0k4dWtwcUZFVkp3akxwQ194djlVOS0xb2VkZnM4ZzBMTWpVbEs1OFczSGxjdU83cUtmVl93MEphTXJqWk9WRDZMNzVHbXUyYTEyMDZwX2Y2TFhPb2pOTU5kRE1DME5YQVBiNmFpMUR2V3dIQlBvV0hicV9aelFiNkJhNm5SR1ltdWtFQ1Rici1SRlh1R3pwNV9PYWlLWU5LQ0kySkFPa0VkWkxYT1RiTjBCSF8tU2tFLTZxMmxR0gHbAUFVX3lxTE9DSkxwXzZidXVaSFFlTGJDcDhaem1wd25GY0ZlWWstN0VXWWVtU0JmVTNCZXRudVhOdDI3NXYyZE13c0FVMFNYOVVpcHUzcEhCZHpIUGg0c0taQ3FGZGRtLVR0MUh4Y29EdTBHZGl5SEZ1QkUxVllYMUJZY19feElFVVVyV2V4ak9WVURxbzhBb1ZfVzVlZktTaHR6c0pEalJIMmxnNXdKQ1I3MTBSZXRXZzV6a0RMLXpFTHJITHVXYnhLRUJmZVctZ1ZoRlpzZExpNVE1ck1GY1BuQQ?oc=5",
+"source": "Business Standard",
+"published": "2026-10-05T08:03:40+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7f3f60c4de43508d",
 "title": "Nestle India defends low fat dairy whitener after FSSAI lab report",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjJLS21PNzFiMlFBQkQ0X2lHVXFZUFBqS3VXRDRJME5HTkR5WnRWdXhjTE53VFpmeTFwSTNuQm9OTUpmYWRkWWJUeUZnS2xOeElYSUdWRzR5bHhVdUtHRWxPRmdIcGtDYUQwaEJ4bHluUEVyb1IxOGpMSTVOMVI1NmNQYmo3WGY0VVhfcDYxZ3VyUEhmUUEzVlZCaXJJMlhDQ1hNQmVlUFhEazA?oc=5",
@@ -495,6 +681,24 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "b9adf9aea7b21400",
+"title": "Nykaa, Bajaj Finance, L&T among buzzing stocks as SENSEX climbs nearly 130 pts; NIFTY50 trades above 22,450",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTG9FbXItQ1ZLQlpCejZ5UXZ5RTExOV84X0E5Zk5fSFRfN0trdGoyMDlUOXJ4NS1RSUJJYURMUEZOSGtlYUJfeGRSVWlpZFVlZkphMjJfUEh5aWNxdW5ucHZPZXJScGF2TWc3eEt3UzhxYk5wdEowUEo5YnZrMlNHSDI0blBKTTlRVnkxVS1TMnpXclBWMHdheHVJX3ZSNHNyZ25lWVhXSWdsN2NzbnYyd0J3NFBvY3NIU2QzT29ub25TOGF4Zm1VeEdYRVg0TVlLUl9yYWNqSnJibk5yUzZ3MjdOdlAwd1NiOUpmM0Q3bnJCdGFId2d2alJoV3I?oc=5",
+"source": "Upstox",
+"published": "2026-10-05T07:53:11+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"BAJFINANCE",
+"LT"
+],
+"groups": [
+"Bajaj",
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "ab8748ed29845ff7",
@@ -636,6 +840,22 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "3791b8f5db191dfa",
+"title": "Larsen & Toubro wins power transmission orders in domestic and international markets",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5GNk9TRFBYMmRYMTlCMkR2UjZ4R3ZMUlpyeUI1Q1ZwTHNhSml3Y3ZlcElQMmczVG9XZjR5SVJxTHgxankxQWJWS0FnNzV5Wmw5eFZ2SnlxaE1ZeDIxZW5BSkhEYVF0b3VZUlRRZW5WRktsUmY0aUVLdjFTMlBHN1JkbExZLVF2UV8zVUxfeUw0WjZLd2x2WVdqbThpNXpSLWROaDZYRkQ0YVpP0gGyAUFVX3lxTE5OWU1sdklOd0xqVk45S3VLdXdGMUE1YVhzUl85OUt5QmVUSURGbGZJdHlpYWZRYkZncG1WRzhVdmNrT1hmQTdnanpSRnBTaE45OWpMcWxpZndSaGQxWWd6TXZXdFdRLVEyaEVSbVBudldKdnUtYmhVUGF4Sm5Ub2FCa21VM3Z6SFlKOW90VFBuWHdHTWx2Z2UyMFU2Y3ZnaFdaRndxUHVuSmJLMzZ2cFBMZkE?oc=5",
+"source": "T&D India",
+"published": "2026-10-05T07:40:12+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "821d51d57a586776",
@@ -1038,6 +1258,22 @@
 "sentiment": "negative"
 },
 {
+"id": "e702a1896d92a090",
+"title": "ITC Shares Jump 2% as Citi Upgrades Stock to ‘Buy’, Sees 17% Upside; Raises Target to ₹300",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0I0R1kwaWl6eFlJMTF5T19tOUJoMWFDWnNfZUtUOUxJM1V0d0d1TjU4a3NjYWk3dkllc3VZQ0pVRnQ2WnlTZ1RrM2lsWkpDZmFJazNqSnk2ZEFYVmtlek5jdENXTThxaFpCZ2JNRWR2dE5pZ3Zoa1UxN3JVeXk1M3Q5YU5PZmVsSnlaMGh4NmdwZVR6dDFkb1ZkWERqeEI0WEFyeVVwTTBvRUVBNzBqT2tUekN5TmNZRmdUZ0FkZkVjR3VZOWx0Y1E4azDSAcwBQVVfeXFMUGNCNEdZMGlpenhZSTExeU9fbTlCaDFhQ1pzX2VLVDlMSTNVdHdHdU41OGtzY2FpN3ZJZXN1WUNKVUZ0Nlp5U2dUazNpbFpKQ2ZhSWszakp5NmRBWFZrZXpOY3RDV004cWhaQmdiTUVkdnROaWd2aGtVMTdyVXl5NTN0OWFOT2ZlbEp5WjBoeDZncGVUenQxZG9WZFhEanhCNFhBcnlVcE0wb0VFQTcwak9rVHpDeU5jWUZnVGdBZGZFY0d1WTlsdGNROGsw?oc=5",
+"source": "lokmattimes.com",
+"published": "2026-10-05T07:13:22+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "90ade8c67a627df8",
 "title": "Bajaj Finance share price target raised by JPMorgan after Q2 update; Stock turns positive YTD - CNBC TV18",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckcxMnY1UUY4RFVQTHpidkNVR091WmF4ZnVvSkRNNlBKX21WUkV4VnVFWG10YjdfdXdoUU5nSTRyajkwR3U3YnB6U2dpVHRsRjRKSlpMM2tidTRYU1Z1bzJvLXVBVVVWenZaWm1HbExxT1FQT3pKM1RTV3lOLUFFdktKLW1NWTJkS0lvdVlBZVBYTmpvWFplOG9NMExhRWN6dXd5ZDhvVE1Cb3NlamFZOHQtc0ZXMExX?oc=5",
@@ -1354,6 +1590,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "413acdfc1ca8c944",
+"title": "India's IndiGo to increase fuel charges as aviation fuel costs rise",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWJab0xHbUpDRDk4cnpxYTF6ZElzWjRKdlRNenNJUmFWcll2amw2S2R3ejBMLW4zTWF5cTlxWUU5eWxUbm9NOW9TVkVWdnFtT0Q3akFkUkFoRnY3SzlqcVNRc25TUm9JeUtzTnhTZUx6bmx0ei1jUHFxeFZPbm5YWV84OUxZT1ZRRk90ZXZSRkJURDVFdVlsS0VJbElXc3VGSVFMbGpocUUtc0FkWGpvbDg2cTVJVmwweFJSSw?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-05T06:52:02+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "03e28320cd22dacf",
 "title": "AkzoNobel has concluded agreements to sell its Southeast Asian paints business to Nippon Paint for an enterprise value of $1.35 billion",
 "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOX2VoNVVxcXdzaG9Sb3hsXzBFZ3ZBTGljS2NqcE1jaUQzOU9rZkh0RFE0b29FWnRVYnpITjJXNm5nOHlRUEthQmZkMTZhX1RDWVBCV2YzTXdKT2JkZDZoaEs1Z3hpWnlMdU8yTzhid3NkV3EyT2NuWFIwU0FiUEwtU1Q4UktRc3NSRk94V1dxOTFoRG1raFFyN1YzUjlycUZJWVNoUXJKZWExTUs2UER6TjBDQjhVNXowMExPWml6WXgycC1nWFEzbUw1QldsRDgxMDZVT0twX0pLRDVEaklXcE9PYVRHWFZ6T3h5T3N4QmJBY05yU0hoYVRZNDJ3WTB0NUZGR2JhVk5lZE9GOVZXVlBmclR3enc4OVc4NE9B?oc=5",
@@ -1400,6 +1652,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f566527c2221e66a",
+"title": "India's IndiGo to hike fuel charges as global jet fuel costs rise",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWtvbUtNZEJsTldzQTkxUEVvN0dHS3BjOWJCRFlHUTQtcnE1STF0eE9iS2V1dlB2ZmxzcGpGVnRFZlN1ZjJpMmFLN1BhYW9SZy1KRjdYbjhQWHo1WndFUnRDbk0yZHVoRmc1UXY0a0xra0o4YnJoYTFIOTE3TVg3VDl0ZEtwTm1IeUFZM1NzZ2ZLVDMyQkxpY1lUNlllRHo1V3A1N2JlZG9kVWpm?oc=5",
+"source": "reuters.com",
+"published": "2026-10-05T06:51:00+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "27a65be840425f53",
@@ -1453,6 +1721,24 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "992d52e69f7327af",
+"title": "ITC shares: Citi raises rating to 'Buy' despite headwinds, sees 17% upside; here's why - BusinessToday",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalA2VTc1Wl9jZzRKSnpfOHQyc21reXJKcjNuR0llalpTSUR6WTd6dzZKZDIxb1M4TXZ0bUhza3pkRHlUSWV4aEg1aTU4V0JuTXAySENCbm5lVzJJb093N3cwSEN5TjgxRl9nd1ByQnBGNzN0SFVkTUl3LTB2ZW9XTFNNai1lREctRGp3VzRpd2hic0dfZlh1T190dUlIZVBncVRGOUdvdTZVVWlVdUFlS0FDUjE4anVrM002ZDFBajBEX21QUnY0Rg?oc=5",
+"source": "IndiaIPO",
+"published": "2026-10-05T06:46:44+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Rating"
+],
 "sentiment": "neutral"
 },
 {
@@ -1640,6 +1926,40 @@
 "sentiment": "positive"
 },
 {
+"id": "399102eeefc3cd13",
+"title": "UltraTech Cement crosses 2 GW green energy capacity for captive use",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX212YTRPZmRmTVV1WFVzcjJjQ1diSE5XRVlXQlY1T2dnRnFWTzY2VGhweDllU1lQU3NJdDNJY0pUc3ZnMTdyODBrODBISnhUQldUNTVtRHZpbkluSUIxc1c4Y3F1bkxtZzZNTFNyNFRGc3Y4T0NsWTI0Z0FsVDBLazNYc0ZEX0o4SU95bG1EZ095QnNvMXZBMG5WaHRRWFVMbTBnN3g3MmgzSml3M0ROcnltbDRGNVlyOGxyZ3hpLWtOZ1drM004WFpTNlhoUVV1cmfSAdcBQVVfeXFMTUZvNXdpVHEtTEdWOU9RUlRJYWZJZWVwZlFHcFk2U2FUbmNfVXJTajROUFBTczk0YkJvSENxYjFjVTNEZTlmNmNYX243Q19UUXgwS0ZmSGlJTE5oN1JDTHlmZXRxU3BHVWhyeHNhZFh0MW5iT0pMWGxnZ3lmSmxMM0pqMjJkeko5WERETjk5d2J1YWNkWWQ4UVlkSVRkUlJxbjl4OW8xSmtGOF9JQXBsWTRJR2NUclloVEtZU2JXd09mRWN5RzRVTzVkSHduandXSl9qX1dUcDQ?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-10-05T06:35:57+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e4d55e51025ca5b6",
+"title": "Bajaj Finance shares surge 4% as AUM growth hits 7-quarter high; brokerages positive",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXZlUTFXNWhvckdMRE5wTVBDWVJ2bnBISU13eEZET0tjLVNVbVE5Q0dBS3lfMEQ3MnI4d1RCVzREYW12eC1yY1hJeHkycGpHTXZhN09MendKaC1ZSk9kV0ZNbkdfSHVOSVo3c05Bc1NhbTZJTy15NVhmQmRrTHg2LTl1RTFCWi1ma1drWU9Kb3RicU9BY0VBZHhmaldzNldoQ1JKdERXOGdRU05pVGtMUVh0eEE3MnpSczNxMUNfSHZaUzFjZkxDall3RdIB0gFBVV95cUxQNTZCbDV0T0R0VDJLa05PdHFQMk1teVAwZXJzazh2MWpJY2xfVy1Bc1VOV2lsQzlwTjN3Wk1pR2kwVmtuU3lFM1FILUlfejQ0LXZqMWc2M044WWZ1RXJTVEdCc1ZzaHVfbXRTajhBdVh4MFI1azZ0ODdQb2Ztald1X09nWFd5dU4wRVE4MnBsbDdVLTlEZngxMGhvVjZPb096cjFaNi1UNHRqVUJ5STc2emxabGJwa01LWHMwVUdHTEN5ZGhPSXZkc3ZHempaS2tZSXc?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-05T06:34:48+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "61cd28fbe70ae6dc",
 "title": "Jio Platforms IPO likely to raise $3.8 billion",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmtMWGsxNUJLclR3VE9qS0djd3UzMndSLTl2VXZmazFfdFVkN3BNNzdtbWtfMi1qWXFLa0hDZzdzU3FDSE5yNHZEX1JFQVNZeDlxRjFxYnUwelB5NzBFMlZWcFlBU1BZa2ktaHpLbVdtbW9kSTgwMUhBWkRDdWhBQU5HeHRjVUp3Tnc?oc=5",
@@ -1693,6 +2013,22 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "2ac1c16ec91ee3f4",
+"title": "HDFC Bank Share Price Falls as Large Cap Bank Trades Lower",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySkZBYURtX1k1b0NYTVgyTG9WbXZlUTM0TVlGRHMxTU9jQjNKNFJ0eWZXcE54UzJKek9XNXh6OGNyd0c5Q0V4dEtCWW9idmc0OUtQa3loVEp6dFhzMzZYOHVqWjIyUkJlcjhLS2ZJMWVlV0VY?oc=5",
+"source": "Univest",
+"published": "2026-10-05T06:32:00+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "7256b81500c394f0",
@@ -2554,6 +2890,22 @@
 "sentiment": "positive"
 },
 {
+"id": "264519e0693a7f0e",
+"title": "Wipro shares surge over 2% on Accenture outlook",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb08xQl9SeldzMXcyTUtrTEdpc0xPSXZZNS16V0k3Umxydy02M21vUnZZUExWak9aTkNSUUk0NHNfMU9VQ19HV2FCUmh6eHpsZWF2UGo1aUxLOHVBVmVTTVA5ek5QSHJ0Y0ZuWmpiLTIwYzhYMnpUVVhwM3BUT2Z5VnZGRzgybEN1M3M3cXZtOVlqUHdhX3o3Um4wMA?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T05:31:17+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "29e6c1fe761a8e6c",
 "title": "L&T wins power transmission orders worth up to ₹15k cr in India, West Asia",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXR1SU9MeUVGbTd6Z0xPVERNLWJWdU5CN2FTcGoxeHlaSU93ZmtvdDNnT3BETmp5NGMwamlRZGgtdl9jQkJnWHlXWk5VNHM4SkhxdEFyS2tYVUtqdVpnTVEzTkpxMGNKbmIwZnRDczJ1SFJQWDExaGFvNUhLSklQblZpRzZpLTE1LXBWV2E2Mnc4TDJ3U1JlTTBEQWxleVBCN1NNSzVuX042U0d3OUZYMWE3R0tnczZmRHg5N1NOckpMbVVOZ21IaXUxUlV6Y0VaVXNadGlyT2F3MnBjS0HSAeMBQVVfeXFMT1FJXzJNTEJQREtvVU85bXZPY2tfNm9KR0VaQVBSaFlkSEU4bUJsX1AtZ2szVjdYZmFndVM1TGxaTjdyaGl4ckFUbVN3MjV1NW1FdklLTm5IajNqVXZXeFA5RHB4a09wN3FxM0dvN29wMWVaYm9NNWg4NVBfZDUzU2ZUS3oxZHA4SktLRkQ5U0EyWXBDdlRsTXJMclhfQ2J0cUlReVhIWXFhVnlmcnR1REg4OS1GWTZyWW1OV1RhYWFhS1dwemxTeDBqaGVKVFFQbWswV2JYNUxXZ0o3NDJiZ3FJOUk?oc=5",
@@ -2653,6 +3005,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "a666a1d1cf5fd2ef",
+"title": "L&T bags ₹10,000-15,000 cr power transmission orders across India and West Asia",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1FYU2JycUdBOENMRVIzTWNiQ0JHc0FjeTZuMzc3MjBrSE5JRFRHYjRFX09rdXJTZ1J1bEFNSnJtYWVJNGVET2hHM1B4Y242eC1oOEZSamdMV3pUb0hXdm15YTZvcTk0WmxMandNQWsybWM3SXpKd3FjNHpMQ0lPSW1zVnBEOHk3aTdSUmVCQ1VrSkxOMV92ajQtOUk3ZnRiYjJ0MUg2STZXSjRsZWU2b1NTU1VTRnVmcE1VRnlJTkJGV0RKajVVaWcyelYzUXVQUkR5enhob9IB3AFBVV95cUxONWF6QVI3OHVrMl9UZ1h3WE9Id25ISE5mbm1Cb21uQnhtN1ZDT0Y3NG8wWXFjYjF0U3pRRUgtWXBGMWtlYmI3X0RNNHhFTnVoM1pKSkttQWhrNmt1a2tZazFDWkJoQzdCQV8zQXBqWlBmVG5lTnc3ejBkaDB1dGJDcmlzNnBaUDc0UDhzUU9LOHVWSWRaYU5IRkwxNzR5dGpYcmtFWkNJRVR2enJIc1FxcFIzeFpPQkdCWHFyN2lYRlQ2WW5SWmhDMDZDWkU1cmtnUkdzVF9POHVPM2ZC?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-10-05T05:24:53+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "a82815f3148b202f",
@@ -5255,6 +5623,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a7e15aa147ec1824",
+"title": "Power Grid Share Price Live Updates: Power Grid's Price Movement Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-live-05-oct-2026/liveblog/134684450.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:48:01+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4973e73700c4c492",
 "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Details",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-05-oct-2026/liveblog/134684441.cms",
@@ -5436,6 +5820,22 @@
 "source": "Economic Times",
 "published": "2026-10-05T02:41:26+00:00",
 "first_seen": "2026-10-05T05:26:13+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cc31bf823b8505c9",
+"title": "Tata Consumer Share Price Live Updates: Tata Consumer's Market Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-05-oct-2026/liveblog/134684348.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:41:26+00:00",
+"first_seen": "2026-10-05T08:29:19+00:00",
 "symbols": [
 "TATACONSUM"
 ],
@@ -50883,392 +51283,6 @@
 ],
 "groups": [
 "Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "db48d0406df0b729",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries Current Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-30-sep-2026/liveblog/134579124.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:10:06+00:00",
-"first_seen": "2026-09-30T07:52:39+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "078fc878dbbf54c9",
-"title": "Grasim Inds Share Price Live Updates: Grasim Industries Experiences Minor Setback",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-30-sep-2026/liveblog/134579124.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:10:06+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "62e96cb9b71c0e4e",
-"title": "NTPC Green Energy. Juniper Green Energy announce capacity additions; stocks in focus",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSlRhMmNJUXBHVFhtWXpTQ2dFSDB6QXQtMGFVVmdMTU5BeU55LXVEaFNKLVlPdkl3X3pTT09aYU1NTkRpNzRKazY5bmw4OUt4blVMMjFpbHY5cmItblpNRFNMZC1wc0Q3cmYwaUEzUm5Uc3RHWUtXU212MlJGN2JfT2Uyb3RuYm52cGlXaE52cUF6dzdZOWJNSjR0a2Zpb05mc3R1NUYwZ3VRMmhPS2NDQ09tWU5lUFkwNzM3MC05YzRZZkhreGV1azZGM3k2ZTQ1ZHF5UlAwdFBaUGhhb3d3emUwc0nSAeoBQVVfeXFMTW9IV2E1UjIzN25vTlVJZ2pYdFlHNmkxY1FPQWM1WlpfMzJhNS16c0gtd1g3Z1I2X3NlZjFETEZCZVh4TmxmSkt4bHgtMHJ6QlJIclE3Y3JiQS1oblJndG9MZkZxbzd4cjRMVGU2dmxOcGxkMzFURXpWRmd0aGl5a1hQaFR5U3RlaEhZbXJCOGlNLXRhcnphUThlVU1fSkhIZ3F0YThJNXdnRF9LcFZDYTlkYlh3ak1lOHJfLVpQelVrbS0tQUFqVWhDa2dlWGxYMzVJcHZHd3lLVmZ5c2pzN3NaaWt6ZzBfdml3?oc=5",
-"source": "Business Today",
-"published": "2026-09-30T03:08:39+00:00",
-"first_seen": "2026-09-30T03:47:00+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f877efda8c8409be",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Surges Above 100-Day EMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-30-sep-2026/liveblog/134579032.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:07:24+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "1f777379f2a7a093",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Stock Price and Volume Insights",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-30-sep-2026/liveblog/134579032.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:07:24+00:00",
-"first_seen": "2026-09-30T08:04:30+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "22ce4cf39bd40066",
-"title": "ITC Share Price Live Updates: ITC's Price Drops Below 20-Day SMA",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:05:23+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "3d640dbca8b4939e",
-"title": "ITC Share Price Live Updates: ITC's Price Movement Today",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:05:23+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5b84171b7967a18",
-"title": "ITC Share Price Live Updates: ITC shares show a slight downturn",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:05:23+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "144246bc77bea4af",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's stock price slips below key moving average",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:00:08+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cbf9adeb2dabfe96",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Slight Decline in Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:00:08+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "1948fe12f9e2a021",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Price and Market Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:00:08+00:00",
-"first_seen": "2026-09-30T10:00:42+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6207ca94e2749569",
-"title": "Power Grid Share Price Live Updates: Power Grid's Current Market Price",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-30-sep-2026/liveblog/134578732.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:00:05+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "13726c2745bf6985",
-"title": "Power Grid Share Price Live Updates: Power Grid's Market Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-30-sep-2026/liveblog/134578732.cms",
-"source": "Economic Times",
-"published": "2026-09-30T03:00:05+00:00",
-"first_seen": "2026-09-30T08:04:30+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "40bcc266a6a677f2",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Financial Overview",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-30-sep-2026/liveblog/134578646.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:57:26+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b915302b0fbca12c",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-30-sep-2026/liveblog/134578646.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:57:26+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3e7765c7990c049e",
-"title": "BSE Shares Enter Nifty 50 As Wipro Exits. What Should Investors Do?",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVkxOWhjWk5lTEhxNGV6M2E1Y25lcjBRdURSdWZPSzRqTnJ3Zi0yQWF3T0poNTlFcTlQMzJEcm1ST2YwY3MzTFNpTUZfaWNPZG05SG5Iei1uMlAzNFBCbTVJbWlMdy1uRnVLN2xxaTJmVE5lNzUySXVGRTJhdUhGZ2sycVNIOGR5SUpXbnJqTTh6TW9xdWlzbkR1elc0cUZQMDhsTWVuemFzUThWQWfSAbYBQVVfeXFMTlFLTVB0YklIRllJQ2N5NXVtVlZKRlR0cTVwc1VQT3VZV0RxREVtN1gwVmUycDZyVVdNdXVYVDhfMXd5cnd4dW5pUEMtX1JYTVhYWlQyY0I5ZHpOWWw5akxLaUMtQkZpWllCNE9GV1ZGYkI3LUF1ajl4MjBrTlo4TTY3b01WYVVlaXlYU2VoQnRCUHZndXlUVHJkQmNJQ1BUUUU2bFIxOWVBcmNnV09XRThDdTJ4U2c?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-30T02:57:20+00:00",
-"first_seen": "2026-09-30T03:47:00+00:00",
-"symbols": [
-"BSE",
-"WIPRO"
-],
-"groups": [
-"Finance",
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6d1e9ba5c4f6dcb9",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Reaches New Low in Market",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-30-sep-2026/liveblog/134578579.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:55:38+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "539dca8e09821b85",
-"title": "Jio Financial Services Share Price Live Updates: Current Price of Jio Financial Services",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-30-sep-2026/liveblog/134578579.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:55:38+00:00",
-"first_seen": "2026-09-30T06:00:24+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "61816315f5f514b8",
-"title": "Maruti Suzuki Victoris On Road Price Peddapuram Sep 2026 - ₹13.29L",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnJRNFBHbldyeUlZcVFLSnZtVVNmLVd2bE1lcm1DTDVBbklTbmdmU3pOUGhXX1hJTjJwMjh3Ry1wanhuNW5NQl8zT3Y1MWZyTF9tTG1aclNrOElxc3RpLTdZZ1Y0TjZ3MHRMZ2VacEZwNDV2SnF0M1lDU1VHMlUwYXBOQWtZUQ?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T02:55:29+00:00",
-"first_seen": "2026-10-01T01:59:10+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "22d3764f5babe079",
-"title": "L&T Share Price Live Updates: L&T's Market Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-live-updates-30-sep-2026/liveblog/134578564.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:55:20+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3320db2a97ae4579",
-"title": "Larsen & Toubro Share Price Live Updates: Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-live-updates-30-sep-2026/liveblog/134578564.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:55:20+00:00",
-"first_seen": "2026-09-30T07:20:45+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "69adc5506a9d194a",
-"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-30-sep-2026/liveblog/134578549.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:55:05+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "669d517fb2300285",
-"title": "Maruti Suzuki Victoris On Road Price Somwarpet Sep 2026 - ₹13.48L",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG9sS3VKUDJ5NWhwUkJkQmlqalVwRF9EM2JyaEZLeWhaZ1JfbTRkTEVmOEdkeGp1R1Z6WWc3bkg3RUlMX3RXX081U3FhMVdidGZualZWd1p0XzQwZHBpN2VfbEJEN2lOSlBEWkl4dW5xV0M1U3VvVEJRdVRQTXVKdXp1VnU?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T02:54:56+00:00",
-"first_seen": "2026-10-01T01:59:10+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "afc77d2366611fe3",
-"title": "Apple Pay comes to India with Axis Bank Visa, Mastercard credit cards",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1MtbDRtSk02Sl9CaTNRQ0hJZWppWklEMjJLVVU0ZGVEdzcxNFdfaWVHeGVya2tyR3VLU0pIVlJXSDRVYWxBTWxVS1IyTW9oai02SXBKLVN1UEY1MV9feUtCZ1lyOVZVNUdRWXlwQ3B3bnRGcEYxMmE5bENuVnBtbDlUeEVWeDgxUGtyVjBmaHBpOHJaRjJjTlhXUkE0VzZkdEZWNWFTODI0S2RfS1EyU3pmb19zRGtUSjE3QzRjUmtPZWl0RUd0RlUyYUc1TklkTFdDLXQtbVE5bEUyZWlfNdIB5gFBVV95cUxPTWpYcEtjSXlDU2ZlVExJMG9xN0ItYzdSRHZRYUp0SG0zUzZxTkdUT1VOUkxmZVJtVlNIM0kzQTZyODV5Mko2ZW9oenhjd3hZcWk0bTZSZFd4OExveE9HMWNLazdGMTBxQTZpMWtpZEhaRlg3V1RtQWNyYXEwT3hDdXhfVF9hQVhWcEFxSWZyS2t0NUJSUTlZaldpaFNxZ19rZFBHUTJqZ2EzVmtJSmFySlcxei1MeEQzb2JtWmJjczVBV0tDMXpDV25wWnlrdGNOeEFWZHFfMFpILWZMQl9sNjJCTDdsZw?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-30T02:54:09+00:00",
-"first_seen": "2026-09-30T03:12:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
