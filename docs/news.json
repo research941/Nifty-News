@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T17:34:55+00:00",
+"updated": "2026-10-05T17:50:17+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "7de851878033b5ad",
+"title": "Sun Pharma Advanced Research Wins Rs 27.51 Crore CENVAT Credit Refund Dispute, Tribunal Dismisses Revenue's Appeal",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObUtGVzlyaGlXeHpHTWlwQ1ZIQnJQdk1wQlU3ZjV6ZGlLWjhLdnN1OXd0ZGNYSTBlQ0NiMzFNVkU3TTBiZ0lKeDBGSlQ4SzRXRzFFS1FRU3ZESzhaQnlHNUVONDJodXlZOUg1MkZDOGNxN2dyWUo2RF9jMWpRR0NlbUpMeUkwbjhfeENibVNjMDZDcWFQdlI1M0RDUWhUdmhqU1pSTi1LeXJwaDA2dXBuOXBEZlNXbi1NbDlWOWNxLWxKZHh2UVF6RElwQzQ5RnRLZHhxcEZIcUt3RC1Xb3NV?oc=5",
+"source": "StudyCafe",
+"published": "2026-10-05T17:42:57+00:00",
+"first_seen": "2026-10-05T17:50:17+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "8bdb13cc59e81089",
 "title": "NTPC Government Nominee Director Cessation: Piyush Singh Resigns 5 Oct 2026",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUNkY0RGYVZob081a0lvNDBabEhnbjVISDBLaTk1d1VPM0p0cVJtbXE4SUhwUzZwWjVDQ2l4cGRCZkJicGNId1JsSnZTd2hIT1NQVERvOE5JX2pMUmtBaDhWWlhJOURNSmF3QU1iYi1yakY3YkJ6VmlOYUtWYU1pUTNSMGY4elowTEVfTkgzZklEUzBxTkZsOThiQjlNYnR3OVVSenRNX2dBRzFSQmc?oc=5",
@@ -510,6 +528,24 @@
 "Telecom"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0a704482e4e360a9",
+"title": "Axis Bank (AXB) Announces 22.7% Annual Growth in Gross Advances to ₹13,846 Billion for Q2 FY2026-27",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbl9JOFlaN0dJNkYxZFF1eEFoc2hPdzFpcktrRElkTWw0WkVUT2FyLXRoaFdtMk51czAtdmZEOHZfX1IxZVFpYm9hcVQ3eWRIdzRvSFRMWk5kNTBubGV6MDNiakdsYkdfdVRqRzYtMnRVM05RVHBBX3oyX2RVbjZhUXJrenk1QnBRMk9XXzlvWlV1Q1lKVTV6ZFdjb29KMDE2alFQTHYyaEs0d1VHaThpWnpTcnlPdDNqLWYyQzlQSkRFUG1faFV0LXQxSEFBR0FMVUNXQUpoT0tPQQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-05T17:18:27+00:00",
+"first_seen": "2026-10-05T17:50:17+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -749,6 +785,23 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "15c63d3b7ad1a337",
+"title": "Adani Ports To Host Analyst And Investor Meetings On November 18 And 19",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUDhlZktrOU9MOG4wTDExc1RTeVlVd2F4WXlLclpNU2F4T09TM2gxS3M2V0MzTU1nWmQ0VERuNG9ub1U5dHktcnRrN1Azb3RBU1pkWVdVVkdrVlE0eFBtWV9DN2dmVlR1NmFMdHozcmNIR2Q0dHUxZ3FuVldBaWF2T0x3WjhlVE1rLXdPZ3ltUjNNVE5qRlE1M0VRLTBPQQ?oc=5",
+"source": "Sahi",
+"published": "2026-10-05T15:34:15+00:00",
+"first_seen": "2026-10-05T17:50:17+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1377,6 +1430,25 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b9bae4c1c10abd7",
+"title": "Stocks to Watch for October 6: Axis Bank, Kotak Mahindra Bank, Vedanta, Trent and more",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEEtZGxEVmc4cUF2NWFZQlcxYmFCUklDRGtuS0V3SlhnZkR2Q2NyQmk0YUR1dVZCaG4wOHp0ZThfc2FXRXdCNDVxellRaDBneXBHZkdMQnZEXzI4Y0dMeU0zUDluMFdzaGMwTUlFaUh4ZEJCTWRrTEVxM2pTYVE1QWZlTEtQMXZvUlZqRC1WTzMtQUtETlctaHJSbEZaOUMydUlBZlFFMG5rMHgydjItb3FfVEJmb2VkYlM2ZVdEdmhveGFUZlNtc2cwUdIB0AFBVV95cUxONGc0elhsZGZhWWhDVU55OTJPRHhJaW5FTFA2MG9hUXRKRUNrbU40STh1blBEajBwdzFqVWxjWDJieWdpNl84eld5UzdVU3MyQ0U0NlBKejlDTXdfNFVndWxrOURCb0N6NmNDYnM0YVdXVllaaFFBMjhldnV2NWp2UjVNVW1fTHZjNkFPa01Xczl1d3BJSV83c3pTelI2ZTZ2SEQzZHJwYTZ3VmI0Mlp4V3BxOWQwOWtXZEh3QlFKTk1pNTdtajVfX3FaUW9BRl96?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-05T13:41:01+00:00",
+"first_seen": "2026-10-05T17:50:17+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51348,72 +51420,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d41db61d18a927a3",
-"title": "Adani Group to deploy AI across businesses, says data centres to be operational soon",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMXBNNzVwbGVUbW5OZjBmSF8xY0ZwdVdfMVVubFl2ODE4X3ZKbjRMNnFQemJpU2VKM2l6UlB5QVBObDA2ZXc2ay1jSjJhRUtTRFVvOVEzV2ZSd3JYQ2tkRmRIazdWaUU4VzlkME5NS3UwVTlrWTlxc3ZsWXlRcmtwLVItb2ZhT043eGxoanBnOVJGZ1ZOTXB5TjFrYWpqRWtJRU9LbVJQOUR6NTFTaWhPbVZhUXAwN2NfTlRna3lyajJXVUQ0d1FvOWd6akIwcktrTWlCUjRQdDNxcHVMUDA0dks4MnMzRGloVGFFcndR0gHzAUFVX3lxTE5vUmJJaVUwYTdoUkN2MlJYeGd2ZVpoYjNDTk5WbWpCQmUwR295c1RBZGM2SDdPaXN5aWhhU0dJT256RS1FVnYwN2RmVTVqS1liaFlKNE8zYlRoYTVYMDhDYTY3d2MtMEJWdEJaTnhheWJZWlVmWFpQNk5YYUU2SVlORUxwOFpFQllzUjJESHZtQ0loOVNOMC12TDFVUjRwSmlLeW9pX3U2NXN1SjdUSzdaZnhQZDZwcTg1X3IyUVJZVEtxRmhxU3RwQnVIUDN3MmZnaXN1SUpPbUZjVWNWa1Vhd0loVTdOT3k3ZDgyYkhvaWItYw?oc=5",
-"source": "ET Manufacturing",
-"published": "2026-09-30T09:45:06+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0574bc97340f6a47",
-"title": "NTPC Green Energy climbs as its arm set to start commercial operation of 153.94 MW of Kalasar Solar Project",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTWp4a2gtS2xzVWFiYnNtbnBiM2l3Ny1SSWktcDVnWDlycEJlNE83dnFVa1M4VkRSUkJUTjFpeS0wYTlBNlFaMTBZaE1MSEZrTlpGUzZKbWJsQUhjaDNnSEZGSXZWR2kwdnFiTGdIY3pyc1ZjMGsxQi1VcHFwdUdJMjRIeVgwc3BLdUczVkpSalRvMk83QzcwVFN1bEpleFRJSnpOOUxwMEphNzByVndMUEx2OUJRcWhxTzdIVTlKY2pzczJiSWx5Z2MwVmNKWDQyVlRDeHFLd1hIOTRNOVM3SFcyaEg0cGVWQ0xKcg?oc=5",
-"source": "Investment Guru India",
-"published": "2026-09-30T09:44:27+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "8446dc76b9e0c841",
-"title": "L&T unit secures a 'significant' and a 'large' contract in Dubai worth up to ₹7,500 crore",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWxyWlRCcWlvUTJQMURjOVdzUUtwalpJaERKZWk5d2ZsV3lDdVFTbk9IdmxSQ0NFbFY1bTJGNFZfdC1QcDNubXUtS3VtNG5oczNHR3JXMkwxWnU5Y3BfaURnQ1R1cXltaVJYRUZTeDJ6amxqbjVvc0p2ZlktbEo0NWhjeVR1TXFoTXhEUnlpbmhrZFhfcFZLcUpJbkt2VTloWHAwdDMxMGZDaVZkWWd0MFY0djQ3ekNSRVFGSF9fQUtPcVFQYmhlRXd6UEpYSjR5eWhvTWlKV3Z4SkM1YnlMNlJn0gHnAUFVX3lxTFBkUS1RbDZ2STRmSmY0a3lJSXRjU09ZdWhUZm03QXhzYUNuZnNUUDZ2YW9KV01sYS1yVDN1ZU5xQ0FqckdqcTdLdV9fZjFxWXVoRHNsanFuaDhsS1Q0QWltSklrenRlTURXNVR5a1RRSDhGbERaS0FwQlZwV0dndHlwc2h0R3Q5WjJPLU9jMEZuSThLdnhEam52MWd5WEZpZzk5Z0trRjM4MDVrNWZHOWNyRlhGUU9qTHBRdjNieHpxeUctODd1cHA4bW1sN0pmYTBpMlNMa3VtYTlMRG11N2Y1Tjc4UEJwNA?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-30T09:39:38+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "c07ecf61696e7729",
-"title": "NTPC Green Energy Expands Solar Capacity by 154 MW in Rajasthan",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRThCTkp3ZDctQ2ZNVDhoa2VhMTJYVkJyTkoyRTYzT0VnbkxfeGx2YnA2bmNqUm93T2t1T0dNZkY4ZTF5eUJBZ2FQY2ZlRmlKUUVuYXBxV0wzSlF4RHdsZXc5MVZZSzEwOEt1NzhUSTZ5cUNBOVVOTjI1bHFIQnZKbnFwbFBGUjZvRGNQUmpwaHEzem9rWnRsLTh2U2FSeWRXS2RrS1Bud3lTQ0xLZW5B?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-30T09:29:39+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
