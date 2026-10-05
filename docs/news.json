@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T01:35:00+00:00",
+"updated": "2026-10-05T01:49:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,64 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "aae3dbc7d4eeac78",
+"title": "Bajaj Finserv picks ex-GIC chairman Ramaswamy Narayanan to lead reinsurance foray: report",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm9tS3dEWlJNQkR1UHBhSVRGaUduNW5QNWZSQUpyMmxPU045R3pZb1M5SldudEsyX08tSHFiNjViYjAzWWhQNlpTVjV2ZW01Q0ZhYUtrLVhVbzhQbUJhc09jdTYxRG1Qd2JvMHcxTS12cDJueWl5YWhRdE5OMng5NExHVUQybFM5X1BYc2hVXy03ZGtQU1lQeEEzaTZ4a3RLdEZ0QWN5U3RFb0xyUVBXVkJhYzVlUEVOenBZ?oc=5",
+"source": "InsuranceAsia News",
+"published": "2026-10-05T01:45:43+00:00",
+"first_seen": "2026-10-05T01:49:04+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5cffb53e90277d98",
+"title": "Stocks to Watch Today, October 5, 2026: Sai Silks (Kalamandir), Redington, Studds Accessories, Cipla and Bajaj Housing Finance",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWpucUVvQ3hlemxwV1N3TGlIMWhSMy1JOWJvQmJJbGk2Tmt0VWdJQzlXckpoQ2ZNVWxTVVU0Ry1TT2FkVmlYNU5SeHUtLUVGNnBxMHdPTTRhRlpDeXhKdkRic0RfODJrR3NlMlVVVkg2MXJzQV8wcWp3M3VwczRlS0FUckpleWlqRkJpekJ0V21aVVcwVUkySkgzdDNha2toRm50VjQzZ2ZiRktXTHhmVkNLeTlFUFJLU0pB?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T01:40:32+00:00",
+"first_seen": "2026-10-05T01:49:04+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1897f1f1ed938bc6",
+"title": "Stocks To Watch Today: HDFC Bank, Wipro, Tata Motors PV, Bajaj Finance, ICICI Bank & More",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjIzdG5GdTZfLUg0a25FQzcwdms2X3QzeGhXcFg3SWMxN3h5dUtMT3JsX3BuMkdyMi12MTN4Z25nMFlreG9HTHAweUduc3ZXN0tjNmZmaHFTelpoT0pLT0lBZk1DTnMyYkNVOVZRZzhJR211VVJWUzBhZ2xQb3JUcVlwazVNanpFdm51V0N6b3I1VzloVW5BeUpaRmJ6cHQ5VVY0X2hPUUdYaDdNMFozWUloOVU1UW83XzhFMjl6MjViWlpv0gHMAUFVX3lxTE81TDdaeWtuQk9YYnJ1RjZkTjVFUUF2LUtYR1NqR1M5X0N6ZkRnZGlZUzZTU25RdWxDTXo5MFNxQ3RDdUdhcnM4aDJmUWd3UWM0dHFqeFlhM0Frbmhaa1BYYWotbWhKZzduOHVvZ2g2QU1uMmFvV2RqVmZFbkJSSlIydk5FYm52QmF2MkgzS2pwVnFHUUxJSmFKMC1KQ1RTem9WM21YODVaRmpVNVJuUDVlWWczdDVxWW1MWGNTTTM5Q3QwWnlHeEFBOVNuYQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T01:30:01+00:00",
+"first_seen": "2026-10-05T01:49:04+00:00",
+"symbols": [
+"BAJFINANCE",
+"HDFCBANK",
+"ICICIBANK",
+"TMPV",
+"WIPRO"
+],
+"groups": [
+"Bajaj",
+"Banks",
+"HDFC",
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "404da43b82a87657",
 "title": "Weekly Recap: Rs 10,000 crore SBI loan approval and Rs 2.35 dividend",
@@ -2150,6 +2208,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "2492a2dc7967e0f9",
+"title": "L&T Technology Services confirms dispatch of postal ballot for director re-appointment",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeHNMVGZETU1RalBhaWd1LUlISmk4bFdkUmZTa3NWd21GTy1MSnhMMGhZVVhLTFZsb0t5Z0VyeWF3M1Ewb3k0X1hEX1ZYLWdfMWR5M0FnYlUzNm9aVHotLS1uaVdiV01yeE5RWTVYMl9paTVvN3hxNXhEMnh3Ui0tYUp5a1R5T2hlYzlWMVVzWVhJejI3WW5LSElGYW1rRDZRSnpKeWlFTEFFYXhrLWstNENRSW1ZY2Iwc1hMajI5R0JZc0FHSHpFbGVQYlVmRFBNYkx4YUN3?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T07:29:20+00:00",
+"first_seen": "2026-10-05T01:49:04+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "e45885960027e273",
 "title": "Sun Pharma Advanced Research Company wins Rs. 2751 lakhs refund in CESTAT ruling",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19jMjhJM1RxNVoxZXdNa3Z2anNZSk5TN1JhSUw5bC1jV1JZQjRLaTFmWklzSDlmMnhzQy1wdEdjeFZnTEptYUF5d2JxbWlXODVRc21pOUQ5YnBuYm8yTzZDVENPVEZ5Y0hWVE1hbW9GTHo1RVBqQS15OXhCMGpEME5fZ1dfVmZaZFdfcXJ4VTFpQVhzdlJDdWd2WUJvM0xZQzAzRnhQQ1Uwek5YQlR3b0NXajRDRUk?oc=5",
@@ -2724,6 +2800,22 @@
 "Rating",
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "ea8f2282e5e548d5",
+"title": "HCL Technologies Files BRSR, Schedules 34th AGM on August 12, 2026",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYXF3bU1DSTNNMlR6VEk5TDIyNVdHYUhxVndQRVNBVVB2ZTBWT3k3bmNKZGQtbVRBOGVKRXdWTWF2aDJRNzZ4R3R2czJaSlZFWU5oMHBOQi13MGJMOVFOWU9rMXk2ZmJISXk3bFJ5bENRamN4WXU5MUlXNTFVMG51cnQxVFRNNEJrNGI2VjNuVkRiazU4V0xTdENfdjk4M1BQRDFnX0NUMmpaS00tWng3SGVrRFZXdktGcXNDYzlWN2tqRnh2X1pxSVhXV0c5X3Y4VUtnbk9DTmY4aWpT?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T03:28:04+00:00",
+"first_seen": "2026-10-05T01:49:04+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50949,95 +51041,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "b6fbbf7e8315f8de",
-"title": "Shalinee Kulshreshtha joins IndiGo as Associate General Counsel",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbklrMFBoUktqWkw0ZGtGdXY0WGJjZkRkN0E5c1ExdVRVZ2RRSVpGaTVVa2tKLS1YQ25WQ0RaWl9HV1ZoNVJndG5UUXYzX0FMSW9Ga2RCWS1feE5lRWhmQ0xsSnFoUmtCcjlYSmJBaEhzNk9nQ00xM1FqeUdrSUpEWXZ5TUZ2Um83Y2ZXaFJpcTNXUGpVM0wtSWNGSmdaZlFHXzZPNFhmV0NrUGIyN2pvR9IBvgFBVV95cUxQZDNxYVJ0aTIxNWJTN2xMVkVCdU5NSU0xeWw2M2l5RndwRG5JVUJiczltd0poczBnUl9fQzdMQk1lcHUzYVNldUhGQVBwTlA1VkJvaGtoMTBReVhiaExFdzhKT0w0cjNHeElZYXUzUWNQdEx2cDFFTXVnbjNGdWtrM09lVkNLeFNjQWVzOUU0SUxBc3d4aGEyb2pKbzl6S19mSlFtMnRGbUJza1FqUmJZN21yRnFrWnpqU210ZlhR?oc=5",
-"source": "Bar and Bench",
-"published": "2026-09-29T10:23:00+00:00",
-"first_seen": "2026-09-29T10:42:14+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6463e5993eb4e4a5",
-"title": "Mangalore Refinery wins Fitch 'BBB-' rating as ONGC support underpins credit profile",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0VJeTNHVGV5Z0p0SS13bW1IM0xTTFNlNUNPaTFDOVV1WHNXVjRqTlc0VlRVY0c5ZWNmcWVGdlV1RVBtTE95RmFIN3lOMllvdlplQlBRRUNpNXNFczNaOHpLX1ZnQlhMU3NqTV9vQUEtbTBWQko5NzloTFB0ZTBHQy05TC1KQU5WZWhxeHNFUHFhal9GMmVPNVM1enlwTHNT?oc=5",
-"source": "Traders Union",
-"published": "2026-09-29T10:21:41+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "positive"
-},
-{
-"id": "2dd6544dc0bc5a57",
-"title": "Markets extended losing streak as Sensex falls 243 points, Nifty ends below 22,750, Titan drops 2.72%",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNal9KU1hRUngzZDJ2RHQzOVd5WEwyWU5JY0NoUlhkUWRJMG1qWXpUb0xsQkdlSXNsajI4MUJoVHBQTE83UDROX0l2YlhTUVVyLXFzRUZaSkE0cUVreVRQLWNyOTlvbEZtYXhhdXQwTkhidTI4WjhGbDNkWXJFNXNlMXNyRVpyM0s4SXB6TkhWTXphTDdMLUt0c25rbDloWnN6TjVZSnMyYzgwLWxLakxTWk5zcTd5eTRSaVFneFBha0cxeEJmeHpKUE11U1BLb2FKRExNT3VzWjVXNk9lSGVwM09sUld3cTVNOExxTXpZaENOUUxHVU9Na9IB_gFBVV95cUxNa0g3MldxYWRxQ1RSSVcwWUFXZl80NkNoNzhiRU1xY1l3NDY2dTM5YWlxYVRtUW9qb25vVm9IcVd5bWYyTDBSOE1jbWNOS2swTF8wdEViV2JkM3B1TjBDQ2tZelJVY3R4bXBQVnlscHBCVU9DY3MwSTFoYTR4eGhja3MzLThzR1NBMC02R2dDQnMtLTdHR3Z1VmtLaHRqbHBZRjI0WlBOQW9Ddlh1ZlBINGZfSmYxcmpyOUlwVEJTWHgzVk5QWG9hd0VDV2VNS0g1UVdXbVBuWXFnaTVCaUFJaTBZcFdQUzh1a21nMnZoYUpJbTl4a0FocEFtSUZrQQ?oc=5",
-"source": "India TV News",
-"published": "2026-09-29T10:20:34+00:00",
-"first_seen": "2026-09-29T19:01:27+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "047088d8d1392f93",
-"title": "NTPC’s Kamal Nath Thakur Gets Key Role on ICMAI Internal Auditing and Assurance Standards Board",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdE00S2otQ1FnWUZQdnZSa1hBTDhLaWNlQm1iekVzWEdzZjdZT19kVGtiQ2pjN3RqUjFubUx3UGJ3bzdhaGZ2OF9XZENyZ2w4eE9oU3lwSE05b01weWc4QUJlSVVERjRaNWtwbWVOX3VhSlFxajBFMzhpUE5HWllHNzZVR2ZlOFpXMllxWXpLb242cjRDTC1j?oc=5",
-"source": "Indianmasterminds",
-"published": "2026-09-29T10:19:05+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a641fe9fea5b02aa",
-"title": "Nifty 50 top losers today, Sep 29: Titan, Wipro, HCL Technologies, Apollo Hospitals,Tech Mahindra lead declines",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMnhsU0t3RE5ETjlqbllTSjY0YWVtekdhV2RxRUdtcXZGTVFubnNhNkFUbS1nWkItSWFpeFR0Y19ISkE4LXRyelhCR2hLSG9jUjViOEk1YTg3X1hRR2NYSVVNUlJnZFlhb1hET0JBS0lma3Z0R2hhLW5tNDZjWHZxVmo4akpRcnQ0RGFUaHJYSklPbVZxMnZ1elV3T1VRNVY1SkVsa2pSSFJ4aFo3WW9sOHpqVXV0SjVCTlpRLVRobVRuYmRxdXB6U21iSmZ2OG53QUJDWDg5bGpZalNmMkxWOFZyZkpRaFBBaG85MGVzLU8?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T10:17:18+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"APOLLOHOSP",
-"HCLTECH",
-"TECHM",
-"TITAN",
-"WIPRO"
-],
-"groups": [
-"Healthcare",
-"IT",
-"Mahindra",
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
