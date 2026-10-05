@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T16:21:59+00:00",
+"updated": "2026-10-05T16:40:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,41 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "2159df21dc57c51d",
+"title": "Top 3 stock picks by Vaishali Parekh: ITC, MRPL, KEI Industries | Target, stop-loss, Nifty, Bank Nifty outlook",
+"link": "https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-itc-mrpl-kei-industries-target-stop-loss-nifty-bank-nifty-outlook-11791213624948.html",
+"source": "Mint",
+"published": "2026-10-05T16:27:53+00:00",
+"first_seen": "2026-10-05T16:40:09+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "07daa50f186e2d03",
+"title": "Indian Stocks In Focus Tomorrow (October 6): Axis Bank, Kotak Mahindra Bank, Vedanta, Trent & More; Check Stocks To Watch & Key Updates",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBub05sbW9nQnJSLVVxUENPRlhyamxZMWRWRjV2NDY5MXBSSFhqOWI4T3JDYzdPM0NtRW5lZ1VGWUFSWUpjSXRXYlR0TFIyNDUzQmdSRGlJcGp2VG1pWWlBTkdGdVNpYUstVkF4QVc0RTRtZ1I2NzkzaTctT2tYY1J1R3Zyd2RqUWtPWlM0X0tqR0pNZWR5WElnWXJMdnVlcEtYRi1WSDNzdmRuQmVuMGlIUzVReGM1NU91WGswWG5CWE4xX3pDYXgxNVRTdWx5RXhEajZXZThiTE42RkhKSWZxMU9UNTN1b19kUDF1QjEyVmktcFFxOTBmZHdSQnB0NXfSAYcCQVVfeXFMUFNWMnFEVFV3VzBOZkZpMFZOWjdrYWtOSDJoWVFNbVltdGZ5UnV6VG1EVnROTlpnOGtaSVNLTmVDeVM2VnktTExteGI2YUFOZnlMc0JTcGp4aGExaXdnS1Q2NzVTdmNDbWpORXBPMkdEOXVkOEpST1lMb0xPYzhJRllESld2WklWaTk4NmUwTVU2NUVSWUtIWG5Oa194MlFhckpEU29HQjFPQjJiQVA2R2xNaHAzd2tLTk16Sllua0JUQWJfaFNfVHY2QzNIZkxvelhQbGdyUkxsQnZ6R05tV0Q5NlZoUWFZM2dIbHRQTzJKRV9xTGRHbFpfakRGN3dmMTR2RHo0M2s?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-10-05T16:22:27+00:00",
+"first_seen": "2026-10-05T16:40:09+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "edd36904591737fd",
 "title": "Tata Motors to Host Global Investor Call on Q2 FY27 Results",
@@ -1516,6 +1551,24 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "cba65279e3046ef7",
+"title": "Wipro Q2 FY27 results schedule out: Check date, Q2 guidance, share price trend and other details",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVlVBaVBfMTZPbUp4RHFRMU14RkZad2ZuTUN4YTR0NXBlaTlhdExEX3FQc2VrNW9GTHpITjI4UXM1VWFCYllFYVJvbmh1R3p3X0c4NTJaaFQyRjRQRXRTbXRNNzEtNDRoNnZmczF2RUsxZHZZSjZLTFY5VzBKcUFzbXk0NVhVRzIwaHcxOEhPZVRxa0k1c2hrWnBzby1GVWVUTklkWWFERUJueDkxZXVodlNjN29LV3lLV0hBLVFtdEo5UVVUUzNvaEp5ZnpXa0x0UG94TFBtcEg2WC1Cc2hKcFBjWVIxbS1KRHpj?oc=5",
+"source": "Upstox",
+"published": "2026-10-05T12:53:47+00:00",
+"first_seen": "2026-10-05T16:40:09+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
 },
 {
 "id": "727162614189c7a2",
@@ -3062,6 +3115,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "da6709735df00ffc",
+"title": "UltraTech Crosses 2 GW of Green Energy Capacity for Captive Use",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFBlZ1hkVU9lMmJ6am8weTRJN1EzY29NNWNQamxia1JFb1VfTkhzY0k3QmtKWDNOVjJnUmNZNTdVMDd0SlhqM3hqYlhTVlZQN2Z2cFl5SEw0dVdJaDI2SEdJX1BuTTVMTGNIV2lxQVUyd3phbG1XMERZWl9od2Iwc0NZLXkybmZ0NWdsaDZicmxoWXo3RUZRLTloMFA3eXZC?oc=5",
+"source": "thecsruniverse.com",
+"published": "2026-10-05T10:30:00+00:00",
+"first_seen": "2026-10-05T16:40:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "24abbdc6c907c468",
@@ -51334,70 +51403,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0903bdcb5e338d23",
-"title": "Adani to use AI strategically, operationalise data centers soon: Executive",
-"link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOSmVvYWt1MGNWc2llQ1FKTkcyTGZMZm1HNDZla0tXTzY1bUhCdVk0MzlFXzJlWEpXUUViN0h5S1hnOEQtbUFpVmVNcnpoOElwNmRTd3dGQVUta2dDMmtDSnNxOU5hVGtOY29LX1RBY3dwRXZZaV9BbmxKbjFPczgta2xja0FBVHRQR09BcDBmR3dYeWsxY09jVnpfNTRVXzlZSjZobFJZdi14R0UzcUViaHlpamtfNTBFSlJ6TVB2LWd4RlhTdzk5QlV2ejZCb0NSc2ZSNVdsOEg3UWU2dDBMQ0JJUGR1MnlFRGVGLWR3bnVfTVpzYVF3eFQ5Q3BKLW1yZ3RVY2dxTmJSSTJjTVFnal8xZExZREkxSGJ5NUxDRTVNeGJ5R2Y2WF95YXZRUdIB_AFBVV95cUxPLXFtekdTbFVSanVYWjZjeDViMjFaeC1HaWNxa1hTenN6MFNyZ0w4NFpETDdyQ2pydGRudGtNWGhFZzNhX0ZYWWlubkpjUWV0YUxZU0JFWGluamNuaGNTV2s1blRIamxRcXFBUlhCQm8xX2JJWWJPYnlWRkxyMFAwVzM3UUN3aDFkNDNjSEg0Y1BMLWlWc0lRTXNtWWhfSVcyQTNsaWZxdHV0ejF6S3VRNFBSc2RVSTdKMmZ6aEpzRUEtYWtXTUFvb2thdUFHcDFzTzg0VGN1R2dRcVdrN3FrNkExX0Q1NDRYdVVfWWJ1Z0RpRlN4b0R2ZmQzam8?oc=5",
-"source": "ET Datacenters",
-"published": "2026-09-30T08:48:17+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "728d3bdb4d96e5eb",
-"title": "NTPC Renewable Energy Ltd commissions 2nd and 3rd part capacity of Kalasar Solar Energy Project",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MeTNNR1lLQ1lfTWpnX21tWkdZbUhtUE9QX2NwOV9KWTNDNW1kNUZPVFlXX1gwOVYyc1JKUUlhQjBaX0xSbndHc2hEeU11R0laNlJ4TExjc09rakZlSVk4?oc=5",
-"source": "EquityBulls",
-"published": "2026-09-30T08:43:01+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f94870cb9a3cf4eb",
-"title": "L&T secures two Dubai road contracts worth up to Rs 7,500 crore; details here",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWdEYnBKYkZVdVY1TWRZMk1tcDU4Tk5xZzZlSDNHZGN2NHRhY2Y2QWx0R1dUVy1hM2VjS08wdkZQdjlPZFE3WTlxQV9ydjRCZm1iTmYxWmcxV05Oa0ZiRHlZYUFGMFZ4LW9wRjRkNkJQcWxyN0QwT1lBNFBHeFhOWWNDTnM3WTZJTVlNQzRSYVJwSXNvQ0pQbFYyaDBuUVhMdkhubXFtRThReXBoLU1ZNnNNUXpwOEdCX0NEemdCcXQ2VERkaXc2eWJWXzRRMV9oTTQ40gHaAUFVX3lxTE9QaWRETDF1MUd2aV9jS3VqT2F2b09mSjZJd2tWZkhQN1gxLWw2UXRzZS1Kanp6OXN5M3hpbUNJMWNTMnlsbU9fLVlIVTRYa244YUR5YW0tTDc0Z0NOY193THlGdE1BRENqZ19pYTV5M0k4QkhaSzRaMTQ3LWdzU3dqaFpzM2lOOVJ4cFVqSDNPSVdFeEdWNC1MUEdyeWpGb1hQNF8tNlVBTjh0cGVwaU03ZTB4dENGMHFwdGZkZzYxb0RMMWNHM0p3N0V4NlQyLXBzNkVBcG51eVJ3?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T08:42:59+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "406bb2de905722df",
-"title": "Airtel Adds Apple TV, Apple Arcade, and iCloud+ to Postpaid Family Plans Starting at Rs 999",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmN3VDlXRjJ2SWxLbW1jOXdCcWlMeFdvaWoyY0lLWFJ6WS1wSkwteGE3MGZ5RTNOSF8ya2xqOEt5UGk1d2ZqUGNjaWRKRl92dUpqN1duazg5UlF0X3o3czRMM201Z2x0TXNkc0NMb3FMY2htUnB0YXdsTHkzRzZwdUFVUXN4X2IyS29FQzZCM3NpOGtRdzZCZUI5bFpLLXp6Rkd6YUxKYWNpNTRaNnFQcWwwWlZLMkNOWEE?oc=5",
-"source": "pc-tablet.com",
-"published": "2026-09-30T08:42:09+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
