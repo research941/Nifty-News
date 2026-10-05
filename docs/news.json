@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T09:43:29+00:00",
+"updated": "2026-10-05T09:59:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,120 @@
 ],
 "items": [
 {
+"id": "95589c6b98326227",
+"title": "UltraTech Surpasses 2 GW Green Energy Capacity",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iaDMwTkFXQlI4YVZtX2tRbnJGU2lNTkZTLVhoOWNWNUN4dm1zbnJyLXFEbVU1czlUaWVGWlRaaTVBZ3J1ZDhGdG82Sm9LZXUtdEdIY1FZREhGWFg0TGpNcl9VYW5BalZHRnpUUEwxNEpHcGsxdTQyUWV3?oc=5",
+"source": "GK Today",
+"published": "2026-10-05T09:56:14+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "14d1abacd059b26c",
+"title": "Honeywell to Deliver Integrated Building Solutions for L&T Realty Projects",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2dNOE12ekhXbVNSWFQ2Y19rZVJUcHVfRE1RLWd3MWdiU3pzclFCdlZ3ODYwTXI3NnlrUkFBaS0wN1lPM19HTFlBUC0zbEFLcktZNWM2V1FEUUxHaWt4ZGJmdVpYbFdxLUtRNGVNTTFsY1N2aVRpMVVNeXlHTkMyT3k2aFNjRDNxMlVGLUZ0VVFKOXpxSk9aUmZ0WQ?oc=5",
+"source": "TimesTech",
+"published": "2026-10-05T09:52:34+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "244c7d1e0d80047c",
+"title": "Nipun Siddhrau Appointed Deputy CISO and Executive Vice President at Kotak Mahindra Bank",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmZlWkUwOFk3VXFYLXVfYUpzV3JuRDBGVllrRmFDNGp2M0FfNWNEQVRJWGJRZnliRUVLRFB3RVJEeHBKVGJiOHNCakdCRGp3X0ZzZ2RHQWZRdlhiYUdSaWIyZGpTNVB2RTdOSmNNRGo0a1hjQjJzeHZkVE02eHdrNEQ2bmVMWXZKRWxtWm91dlphTHJ4T2hucC0yMmN2Q2E1WmVXc2NvYkVnZmpXSUVtN1p6SQ?oc=5",
+"source": "Veloxx media",
+"published": "2026-10-05T09:50:47+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ecfa05c689b4260",
+"title": "L&T को भारत और विदेश में ₹15,000 करोड़ तक के Power Transmission Orders",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmx3RXRURGhjV1NpbzlkQlc3ZTFGb0o0S2Nna3VpeDZwd0dodDlncGh5SGIwTE9jZWVfV1Qyb2RhRmlyXzdEazAtZXAzaFZoYkY5WEFnaEpMUVAwQkZmMFFqcEJ2MGExcTY4T1RqTHRiM1FKZXlLZ204X3VrUDNMWFRZYUZ4YzVRdnZLRUZR?oc=5",
+"source": "Business Remedies",
+"published": "2026-10-05T09:49:44+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "aa401ee320049978",
+"title": "Larsen & Toubro Bags Up To $1.8bn In Grid Contracts Spanning KSA, UAE And India",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1YzNDY3ZzZXUGRHWDY4OUZHc2hlOU9oMkZxTUlIbzFWSEpPZk9qalNjbDNHSFhCZVpFbXJRMy1IYW5ZN3dfZzdLY3pIaVlxQ2tHTHRiaGgwQkhQbnpaaW1ndi0tQUNpMWFvYk9Pay1nYVhYdkxtZHkxcWl1RGRhdWVnQ2xVMEdKNlJMSmkxdnpFY0hOOGY1bUloeWJ1YzVaWml1TVpn?oc=5",
+"source": "Construction Business News Middle East",
+"published": "2026-10-05T09:41:37+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1168d0ac5791e8a8",
+"title": "UltraTech Cement crosses 2 GW green energy milestone",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYUZHcHU1NWhuU05HSkxNSHdqYk44VGNrQVV2UzFESjVGVDJ2OWlMay0wc1hjOFAyM1J2VlJPZlBtNzlpRUJjcHVPMG9BeHVZS0ZRMi1GRjNXYTBvb3Z1Ylg3MnhBd1pyQkJKQUZWWnlIZHI0YWJxMnBVX0I1d2c?oc=5",
+"source": "Manufacturing Today India",
+"published": "2026-10-05T09:41:24+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "89709d63a23468f4",
+"title": "Airtel Business introduces Airtel IQ Gateway to unify enterprise communications and tackle messaging fraud",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDE4UHZ3ZGlkX0dMUVZWb0k1WVc4OXczbEwzb1ItLUZRdy1YY3FxQWlwb3o2Skx1M0FSRm56S1dkcWFlZE91SXg1cHJOQU0wRm9sOTRQVXk3R2pNeE5LRTNzYXM4VndKbHpTdEZURHo5SWpEQUlSSjVTdUZqTTA4bUJ30gGHAUFVX3lxTE4tZks5TUd2bDhoRTRrWFRHRFJDQ3N6UXNLb0RQb3lRNGpmTWw2VkRSckl0M3VheGVoRmZPOGhTRXpHN1dCaXZZRnd0XzBfLWM4c0hlZzI3NmlhS25nbDh1R3dhQlNwUEM2UEdVSk9XWHdfWU83ZEVEWlJYaVRoUnJoQ3g1VU9vZw?oc=5",
+"source": "FoneArena.com",
+"published": "2026-10-05T09:33:46+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "705105e7080608b1",
 "title": "Q2 preview: ITC Hotels, Lemon Tree, Juniper shares; brokerage sees up to 91% upside potential",
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU2ZWeFV4SGVUMlhtZEVqWjQ0TkJrUVBBQzJMdlg5M2FBMjY3eFVVUUd3elI2WXFIeFk4SzJjMGZ5YzdreUs2WDZCNzNueHVvZ0dwaDZ1QkwxUE14MV9HNW9BZ192QUNRNlplNXpJQ0E3MndSeWJ2amZkZnprS1ppdlVncjBadloyYnZxcjNMTm5Rb0QxZU1ITjFJNG5RdW5HdktjeEJSVG1kR2VVR3kzT2RjTnAxbkZ4aG5zSWFiMm02dnVQQkRzcGZ0Z19fUTRRM0ZQLVdXMzYtR1E0MTJFS3JldDJXMFE5TnVEd9IB8gFBVV95cUxORTMzc1lfeEljcWtUUjZ3dEhZN3Fxbzc5YlMyejdpc3hLR2tlQkduSjNoeGdSdEpZRmxYS20xQmNJQWJYTUlWd1lZTW0wcWVObFpobFR1NHpGRWl3YWFtN2x2NHNpOXdIdWdxbjhwNU1Hcl82WWlGRVFUYkFPU0FTdHFFd2xSNGhVSC0wYThYYURPUE9LMTR1UnM3ZjhmZklnMlE0dkl3TER2cktUbTZpQjdnNjVfYkdQZDNfNTROZG1FZ29CUUJZNmZzdE1USUY1UzFLeVRKcE51OGQwSXRCOVh3NW9IU2hnQWtjdU1hRDVoZw?oc=5",
@@ -602,6 +716,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "dfe33bef338feec2",
+"title": "UltraTech Hits 2 GW Green Power, First Indian Cement Co",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0k4bmRwTFBQYjZUdGk2a1RvU2tNa0NXWE1PajNUX2Vvb3NyY3o4aE81c1F2OTQ4X09PclVHOUlwSHM3X2tTSmZEVEJ3TzZ2cWNURDJsN2VtUXFUcUlJUV9rX2dJWU5BZE1JRkg3MUw4XzBwQXduaEZvNlJycXBJb3lSTW5GZXBVYmFzZk55WHR4V0pvX0RaYXYzaW00LXF1VEZEUFQ2alhWUdIBrwFBVV95cUxOVlNmaVlwaWRvS3ZtOTJlM2lqZ2dNS0xUSHpVODlwcExUc2VWYUdEaUZJdFlheEk2bXk2SnRDWGhaaXk0U2dPN3hCaldsMjZueUJDTDhmZW9GaVpPNWhJZnYtQlRacTFhckJ4QlA3SWZWUmIyb29OV1c1aGtfZlZ0WVBzSEJLa3NleTNIOS1JTXZZZ1RPbW1MVkNWY29hM2RNR3ZtZm1YZEt4NE5xOHY4?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-10-05T09:12:35+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "fb9205353ec24482",
 "title": "Pharma Rally Still Has Steam? Kranthi Bathini On Cipla, Sun Pharma & More",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMjBtQU9XenVBRlhpQW90c3NxTzd0ZWNRdHJaTE9vUTJ6LThIYUlxd0JIdHB0T2VVdnBZWExIOS1YZ3otSVp3amhXNnp2bUJZMlQ3a0d0Yi1xeF9YeHhNeXBDYng3WTdpVXI3MHl4azlxbFpHYVpMR2N6c2NLclFyREYxazg0T0VaZzhsWlpMdmM2dFU3WC1sS05NX2Z3eVQxa3I1b2JRQ1lYNlI2VzN6S3hyeVZGZzFMemJwVzM1RXRDZUV3NG9mMEo4N1dNMWc2UFBueGdfMXXSAd4BQVVfeXFMTlNMMll3M0tVTDVPcnUwUU5pc1hWZjVsRFJJQlpFaFhpYzBCNk8zN1NwcTJpYjRtcUZtR2VvV3FFVURHdXFRZGVITy1XMTdjVGd3RzFCNEhVVjBNNzc0aS1ucm1vN3pla3dqemZxQXgteFE1a1ZfMkRqUE9MRTJHV3NtMTE0Zms4azlUck1fYzVJQTdrU1BuSUZ5cFl6WHhieDlGa1l2c1RpZzdlQTEzV1FaQ3FjUDlfMWpKanZTdWJpWFBmd050OFpycG44R1lDc3FMT2tCNkxMQmMyc3RB?oc=5",
@@ -683,6 +813,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "fbf4caf6a8496f49",
+"title": "L&T secures power transmission orders across Saudi Arabia, UAE, India",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNam9RajNkdWc2cHVxbUNJWENsclBoWElOT3hJRzFnUTJRTVl5LU1GUjJ6OTR1WFdMQ2FFeWN5c3gtV3N6RFFodmVYT0E1Nnd1R3VwWTZ6YjNEck1HZ2lKbUQ5cUdiREtlUm9UejRhSVQxSjJQd2xaNHIxTTlJNm9zWXI5VUJlcFl4VGZLbFMzQVFVdW1nMXpQd3I2d0hNYXpEa1QzOHhEaE5iUU5HbTFfSjhrTEM?oc=5",
+"source": "TradeArabia",
+"published": "2026-10-05T08:45:31+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "959996ed76f937d6",
@@ -834,6 +980,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f1c7c89958947db4",
+"title": "India’s steel consumption to grow 7-8%, says Tata Steel CEO",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1dnSkFKT0czdjJSVjFtU2JxLUFLN2psN0dxY1dWZUtzT3BCcldoNnBIRnFoRlFjQzNhYnFYYnJoTkJEWHBpemljZS00WmhWb2JOUnJHc1JWRkJ6emRCNDBhS2Jkc1ZJajdlZ1ZNZDBDWkNSdVZ3OTdiVUlvZ1pPSXd6LWpNeHhBOXdLaHZSQVkwRHhUN0lCTDRmcG5NeWN5aGRrcl9xTTcwR1poLVNVMC04LURwbTdvZ2tpLXVNcmpIQXVWMGZRemgtOEptd2VyQ1c5NFBnMDFyUdIB2gFBVV95cUxNc1dnSkFKT0czdjJSVjFtU2JxLUFLN2psN0dxY1dWZUtzT3BCcldoNnBIRnFoRlFjQzNhYnFYYnJoTkJEWHBpemljZS00WmhWb2JOUnJHc1JWRkJ6emRCNDBhS2Jkc1ZJajdlZ1ZNZDBDWkNSdVZ3OTdiVUlvZ1pPSXd6LWpNeHhBOXdLaHZSQVkwRHhUN0lCTDRmcG5NeWN5aGRrcl9xTTcwR1poLVNVMC04LURwbTdvZ2tpLXVNcmpIQXVWMGZRemgtOEptd2VyQ1c5NFBnMDFyUQ?oc=5",
+"source": "thehindubusinessline.com",
+"published": "2026-10-05T08:31:47+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -5399,6 +5563,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "867fcab31d795f2b",
+"title": "Buy BHEL, Mankind Pharma; sell Asian Paints, PNB, Tata Steel: Experts' trading calls",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzFSR1phQ1lNcTVpTmlBenBJbFU3Y21Fc3JGVTJadXdTLWVfR2VveUI4QW1NaTRvMS1ST1RHbHlLYzVQZjRzdDIzdHRHR0NXNnpxVHlXaTIwcWtxZ1pySzVjc1VnWnF2clN4bHlwTDFJcmtTcHZoQ0I2bGhNbzRYa3lSNG1uNlZwakRBMHhJZ1B0QUg5cmkzSWkyUVdlUGtCZUUxOXFEVXpoem9TMHhmNnN30gG3AUFVX3lxTE5xYVNMYWdSUlBxSzBDM2UwQ1JvSV85bTFMVnZydEN3R3luTWN3TEhXU1pBQzF5cVM1MHBBUUZoWTJybE50WTg4aThnQ254NDMtdjhEb2N1TWoyclRsUEMtcVc1TmtlVzZOTUROcEZ1SXMtbHJETjJLUEFrSG92MnZfczZ0WUdxNjVoc0phVGQwdkZJM0drTy1lamQyWVdPSzNzM2lIbXBDVVVpMXdZOU5ZZjhYQ0cyaw?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-05T03:49:37+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"ASIANPAINT",
+"TATASTEEL"
+],
+"groups": [
+"Consumer",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a1ba5692572d7c79",
 "title": "Sensex opens 400 points higher, Nifty above 22,500; HDFC Bank up 2%",
 "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQU9tcDhlZ3cteU5iNkFTS0xKWEEyeE5idUx0Ql82djE1WDNDaURLbkpNd2wzcFkxM3M1bElsemJnZENmNnN5QlQyRlVZVkhfZDJaMllRV2dUbkEzMmFXZVdUbjhsUGJUZ1dCREdMd1VDNVR2QUI1UzA4eG1zUWFtLVV1N3NEODRWa1kzeDdDM1dkZWxqMk93cmhnb0pTRHBJTEQ2WUl5S1BsRG1XLTlFVFVnZW0xRHM4UWt0TDZDUVpuQUlES0lCVl9RVGppREJqZnlHMjl6TndnM2RBa1ZtcmZJXzdlYnFEWTNnelVjWXNscU3SAfMBQVVfeXFMT0FPbXA4ZWd3LXlOYjZBU0tMSlhBMnhOYnVMdEJfNnYxNVgzQ2lES25KTXdsM3BZMTNzNWxJbHpiZ2RDZjZzeUJUMkZVWVZIX2QyWjJZUVdnVG5BMzJhV2VXVG44bFBiVGdXQkRHTHdVQzVUdkFCNVMwOHhtc1FhbS1VdTdzRDg0VmtZM3g3QzNXZGVsajJPd3JoZ29KU0RwSUxENllJeUtQbERtVy05RVRVZ2VtMURzOFFrdEw2Q1FabkFJREtJQlZfUVRqaURCamZ5RzI5ek53ZzNkQWtWbXJmSV83ZWJxRFkzZ3pVY1lzbHFN?oc=5",
@@ -5580,6 +5762,24 @@
 "SBI"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "20dd13477ea867c4",
+"title": "Jio Platforms IPO: When is the issue likely to open? 3 key things to know",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmZGQzdCLVNqSVl6RTBYNDNiZU9jRmNzTnhqd2plSHgtbE1DYW95S1B6UndGX3p4ZlBTbHBVNTJzci1VQTF3R1BrUFluY1didlJIMThpQTRRSnhFUDJlREpOc0YxUUhIRDBsQU9LTGN1VzBGMVVBLTl0d01WQjBzUklvcm95SHhnckswNWhlcWFlVkdfUE14WF9sbEVESklvNl83MlEwdGwtU1lxM25VVTBrRF9mQmpaZUhfVlFxM3BjV19DakE?oc=5",
+"source": "Upstox",
+"published": "2026-10-05T03:32:35+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -5793,6 +5993,24 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "b84187c11f5fa3e5",
+"title": "GST Council May Allow ITC on Employee Insurance Premiums",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUlac2NhaXE2aUdxZVJfUlRNU0FGMVJENEtHRVU2dnpOendFR3hxX1QySUJiTUxJdERRVUlyMHlIZGVCNFYweHpxcUVmMUZlVy1GdTd1bGVVMjByTUdnbmJ2UkVCdVFjeTJscVRBQ2ttT1R2eXBsa01rZFAycXJqSVBGM1dCSDg0a3VwZWVoN0UxN3RPU1dOYUlHcWlYUjRFNHU2QkY0dGU?oc=5",
+"source": "HDFC Sky",
+"published": "2026-10-05T03:15:08+00:00",
+"first_seen": "2026-10-05T09:59:09+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "28c68d1e096c9142",
@@ -51091,227 +51309,6 @@
 ],
 "groups": [
 "Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6498e2fe1d343a90",
-"title": "Apple Pay launches in India with Axis Bank; Mastercard, Visa credit cardholders eligible",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbjUtLVVqeGJtTWRTdWZnLVYwQ05QXzFiZm4xaWpHUE5GNG0tdUVIcjJXR0I4em4yUFZnUHlJNkhFWEFvb1lvcVItSm85OVA3ZkJVUjI3MW92OUE0Nm9KTjdqMW41Z0hnNTNIdXpjQndwSkdlZV9fQUxoSV96bWVXR0x4LS1ncXhPanZaXzhXQ2hzWDA3Nk9pZ0JSdHBfUkprdXhUU05LWC1uS3diWHFKN09NRWs1QXhwcGNjOVlpaER0MlhIUlFlaHhwUkMza00yU1HSAd8BQVVfeXFMTV9rNjZkVnB0cUlrdXVITTJvY0JfNjBCN05EMWJaMlVMdnBRV19tMmhjVUM0TWFfME5Hb2lMNkltWTQ0NmJGSXhyT2ZjanNCM2oza21FdUhPZ2p6MTNLcVl5SVNvWURIOXROMUNnRU5iYU1IY0J5Sm1QRGRxVmVwb2ZicmNDLUZTaWhWSzBUZFZDWDVrSVVUUVdBOGdFTVpUZVFVM3ZyMkJHaVJHMkVpRHNqd0xENjVLQzI2cEZkTzBhNTRGRThpUWJBczY5VEl3bXlPdGpyZTc1UDhvS0EzVQ?oc=5",
-"source": "Fortune India",
-"published": "2026-09-30T04:12:50+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5761f829fd0410d1",
-"title": "SEAMEC Signs $19.02 Million Contract With G R Infraprojects For ONGC Projects",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0tJT3ROcDBzcVNNUUQydElGTUxGeTNucHR3LU0yWHE0Z3pGWXNHVHVjUWVGTDg2alpoT3VpeGpGVTNFVG5QY1FOby1sVDE1dHliYms4cGVGRF8zdGsyU3V2dWo0MWs1QmppZzZJZGxYVWkxcGdqLWtGSzBkR3dPOG1lQVBhQURFZjR6UGlrdEkwOE9XbUVMSkg0Y0RGZ0pGNlYxdQ?oc=5",
-"source": "Sahi",
-"published": "2026-09-30T04:12:40+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "cf696f95c9d9eaf7",
-"title": "Apple Pay Debuts In India With Axis Bank Partnership",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdExwT1M3bVVVMDVaRmFISk4tRGZndndoVWZNTUZuRkJCVldqV0dPek1YYldkdFNJRXo1UXNXNVFGLUtyWjV3bkJGa093QjZDSWhuMkc2UzFIYnpnd3lEdUFuNEI4VElCQ3VXNUc3S1RFck43Z3plUVdrWU5sV1VXSA?oc=5",
-"source": "Rediff",
-"published": "2026-09-30T04:09:39+00:00",
-"first_seen": "2026-09-30T12:54:09+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3d14601d27cc115d",
-"title": "Accumulate Mahindra & Mahindra Financial Services Ltd For Target 350 by Prabhudas Liladhar Capital Ltd",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjBwY2ZIM1gyVF9Rd3JlSHdqZS1weno2eUl6Z1BTcGwwTjVGOW55VDlacFdrSk1CWjVyaWVZRmJwTlBkM3BURTJ1SkpNcEc3clRSUFhLVDZUSmxXQ1JtRGVsV1ZnTXp3eExOUDQ1X1JzdUpEZWhWVUJKZE5xejZGcTc2Wl9qdHl0ajJ1UXNreU54Z2hXRVFkQWlhSkNUOUluM19yU2hmMHlWLTRWRkE4Q0Z2MV9oRHFFNXNQcTNrbThEeFdmbkJKWC1ZZ1J5bWhMLWxFLTlyRmY0dW1wU3NwejNxNC0?oc=5",
-"source": "Investment Guru India",
-"published": "2026-09-30T04:06:56+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aa71e2c1ff437f3e",
-"title": "Maruti Suzuki Victoris On Road Price Kanigiri Sep 2026 - ₹13.29L",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGtoU2hQSkFJUDMxZkp0cDZuOVBkUjRGay1uZVVKR242dXdNcXIxdlFyX0tXNF9YRHBkV0E2V1BIamR2WlFRSlY1Z1NBWksxOGNDNlV0bDV6b0FCRXpVUDZXT0NMUjRVaGxCT2Y2UmNSUnU1REFFSnlkdjllYVBXc3hzSQ?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T04:04:53+00:00",
-"first_seen": "2026-09-30T05:50:01+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d5ac735195daf23d",
-"title": "SENSEX, NIFTY50 edge higher led by gains in ICICI Bank, Reliance Industries",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1BCVEhYeXlEaVRGQllWRkphU1pKN1doOWxGZHYtNTVfMTJyNGs1MjROWEFTMHlJaEEzamZYNmlhQ21nb1c0UWpyRUhQSGJ4cy1XVmhHdEFiYmZ1ano1em5YZVV4RExpN3pJWHNuTHlGM09EckNyOWRpazFPYnliV0tHajRtRXJyMVJlalBWcFE1cUx6RFRJY0ctVmdiZGlBQ3pOTERjbkVpZTgwQzBXSU0wbVJzcXRzOE5maFhRQldJTUNjZnl2blJNUmZWdw?oc=5",
-"source": "Upstox",
-"published": "2026-09-30T04:02:55+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"ICICIBANK",
-"RELIANCE"
-],
-"groups": [
-"Banks",
-"Reliance"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "dd4923f70da4dc28",
-"title": "RRC NCR RRC North Central Railway GDCE Recruitment 2026 Notification Out - Apply Online for 656 JE, ALP, Clerk, Technicians and More PostsRecruitment 2026 - Apply Online for 656 Assistant Loco Pilot, Technicians, Junior Engineers, NTPC Non-Gradu",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXNhWTZ4TGNENVJpbm94UjY4dTNfVm95dmF4NVZPRE84bldSOWdtUHg1NlFyYUZfU3JabngtdmQwaERhNTF3ZFRrUWhkdnpCYWN6VWtMcUFqRTY3UzJ1aWFmcDlpejBOajhleWZ2Rm56c2pIM3dObzZMMXg2ejJSR0R3N3p2THFkVHAwR2pVYmNBYXkyT3lSSXFtdlFLTTQwbHgtd1UtQVlGaDF1ZDZjR2hrY3RNWEVld29Ydlgtc0FHeXhwR25MYVl2WFB2UTloU0VrZkUwNDhjRnI4NGpCZDBwOVl2eHROcEE?oc=5",
-"source": "FreeJobAlert.Com",
-"published": "2026-09-30T04:02:07+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "62ede3140102c9d9",
-"title": "IT sector Q2 FY27 preview: TCS, Infosys to HCL Tech, Tech M— Kotak sees muted quarter for Indian IT giants",
-"link": "https://www.livemint.com/market/it-sector-q2-fy27-preview-tcs-infosys-to-hcl-tech-tech-m-kotak-sees-muted-quarter-for-indian-it-giants-11790737393757.html",
-"source": "Mint",
-"published": "2026-09-30T04:01:13+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"HCLTECH",
-"INFY",
-"TCS"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "97147d2869827f5a",
-"title": "SBI Research calls for amending Article 21 for fair education rights",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUdHMEZZNWpoNGIwS0RFZXRKa1RkVXp2Tk1mY2ZnZEFiVS1VN2JYREpNSk5hOWhXYWtYYjZ2QTd1dW1nZlViU0ZibUNPQ0tUMDhZYjNJWmdKak5UQ1NjNlpreEFXT1VKLTNpVXNYbVp0cWVXNFgwYzRnUGtteUxBTFFPazIwaUxwVUptQ3ZRVENCQl9ieWNoaElnTkE5YnpXbk12QW1qdm1iaUthOGhmWl8yYVVkOVVHZmNOWk1CaXdQTlBWaEN3QmZn0gHPAUFVX3lxTE5wWm50MDBQaWxvLS1lSUl5MGJjUEswbmt5VXFuQVl1d0Naa3hwU1hRUXRkQWgtSmExT21VTWY4ZnBxVFA5NjdfZFB2elU5Rk1oLWFBemtGX2RZV0QtOG96V2tQMW5NMXlLQVY2a19QaDl0TEtvNk50aVFFM0NzVkd3NE1RZWU3LXJuYldSZ3dsZDdNcGVxX2NRaHljcEJCZUFlVWhtdkxWZ0pHZHotVzYxb09rNUZjT0ladXpNdG5RTmhGZVlRX0VtZkV5bHFsOA?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-30T04:00:59+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "233cae58d74fb03f",
-"title": "Shriram Finance vs L&T Finance: How rising US yields may put NBFC margins under pressure?",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3FLeXFkZW9BSEdOUVI4eGZEQWtsSXBqLV96SFRqNlczMmJTcDF5U3JYRmpsS2JQemxDSm9faWNYckZJMmVHU2lqMEZkZ2dON3V4Tmk1cGxtLVQ3YW54YWhoNFlWbnNvRnFFZ2xxYk1qRktUWlZFQTk0ckNYeDJfOW92QWNSZ0RMMjM4S3hveEw5cVJPSXZ2ZHVZNkVXZ0pPRm9ORUpTSV9SVHdCbXJxd0xQUjRBb2NHN3p2bnVmQ2FFdTViOEJHSERkQ0dsMFM5ZFlmN0Uza0RnbFnSAdsBQVVfeXFMTUdxS3lxZGVvQUhHTlFSOHhmREFrbElwai1fekhUajZXMzJiU3AxeVNyWEZqbEtiUHpsQ0pvX2ljWHJGSTJlR1NpajBGZGdnTjd1eE5pNXBsbS1UN2FueGFoaDRZVm5zb0ZxRWdscWJNakZLVFpWRUE5NHJDWHgyXzlvdkFjUmdETDIzOEt4b3hMOXFST0l2dmR1WTZFV2dKT0ZvTkVKU0lfUlR3Qm1ycXdMUFI0QW9jRzd6dm51ZkNhRXU1YjhCR0hEZENHbDBTOWRZZjdFM2tEZ2xZ?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T04:00:45+00:00",
-"first_seen": "2026-09-30T06:00:24+00:00",
-"symbols": [
-"LT",
-"SHRIRAMFIN"
-],
-"groups": [
-"Finance",
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "3eff62402386c61b",
-"title": "Dr. Reddy's Laboratories Share Price Today: Price Action",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS21FeFR1ZERiTFk3QXJ6WWRsY2syWlp4X1R1cEJ6UVBMUWNLNDYwZ29PeTZfN1lEMzhCWGdQbUs2eG80eVk2TURZbFRWUVdzQ2NlQWNFd2NyTGFjVmw4eEw2SDdkWmQ1ZEs4b2pzRk4wOTRaWW0zSS0zN2daQWNjUi01Wm9mOUE?oc=5",
-"source": "Univest",
-"published": "2026-09-30T04:00:00+00:00",
-"first_seen": "2026-09-30T11:18:40+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "328bc19cf78cab9c",
-"title": "30 September, 2026 Stock Market Updates: Sensex drops 88 points, Nifty near 22,700, TCS top gainer",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMGpnN1VXVHRUNFFQSk56QlI1OXpscmtSRWtJY2EzdEhmS25ZcHgwSWhLSWpaajNUYjFTalRaUlFOTzFQRkszS3g4WExvQmVtUW1jLWFRTTVFRlNXT0xyOURsMFM2bE5BSmZVYjJnc3RFSjJyX240VUZSQmRLeGpYQU1qMmJPcDRiVWpKVWpvcHJndzdxZVlGQXZFS296dXNzaklQSEJpM3gwQWFPRmFweHpXeHp0SU1UYk5vWTBBNXBNQWtpeXpTMktfVmx3SWxJdGR6X2FnMXVaMWdHT05JXzY5UXdjNThlUzBrcnp3c9IB9AFBVV95cUxNb0t4ZDB0WmNoM085M0V3OFhyTG1vVU0wRnR1bHZmT1UyYm5hckItcXIxdGR4SjBoTEswVm9UUFBiWWRjaHNvbmFZWkljb19qTHRkS0F5UUVnVXhWY1VVRGpYb3lxeXZCXzZKb1FTUmFZVnJuUVgxN19zdmtSVkpzbF9ReWdrQ1JjRDh6ZUF2azRTUGJKeEk0RVpTQTBFMVc5cGo4R2RQY25WS0tlc3VMejhyemtwOTFUZHZRRTRndWZpTmd0ZVpzd2FvT1c3UEdyWUlENnV3aUNBamlmZUMwbFVtbjUtb1RvUUhJdGhDSGtMNGNN?oc=5",
-"source": "India TV News",
-"published": "2026-09-30T03:58:58+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e36e962166c62f19",
-"title": "Apple Pay enters India with Axis Bank Visa, Mastercard credit cards; Details here",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTnpHMU9ZUFliV1hJQjItSDlUWWNodk04d1RSNUJDR3pyMmQ1eVJseDhwOXN5SEVJMzBCQ0Y4Q0wzVWhfWTNzZzFXY1VXRkxhdnp0RVRUcHpwbjdPbUJHcExqUzUxOHBkbEM2UWIzS0E0aWtFOUhGcGZBM3cwNzl1Y1RHX21EU3hsUUhyejdVV0EwaGNKWFNGU1dyN0VWczF5ZVdvN0JCTkxscVpBamVZMXZZeDNSUHpOQTVsbks0OUIyREdpb2Y4VklZbU5lSmp0VElQMnI1UUtabUNY0gHcAUFVX3lxTE1OekcxT1lQWWJXWElCMi1IOVRZY2h2TTh3VFI1QkNHenIyZDV5Umx4OHA5c3lIRUkzMEJDRjhDTDNVaF9ZM3NnMVdjVVdGTGF2enRFVFRwenBuN09tQkdwTGpTNTE4cGRsQzZRYjNLQTRpa0U5SEZwZkEzdzA3OXVjVEdfbURTeGxRSHJ6N1VXQTBoY0pYU0ZTV3I3RVZzMXllV283QkJOTGxxWkFqZVkxdll4M1JQek5BNWxuSzQ5QjJER2lvZjhWSVltTmVKanRUSVAycjVRS1ptQ1g?oc=5",
-"source": "Storyboard18",
-"published": "2026-09-30T03:56:36+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
