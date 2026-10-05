@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T01:49:04+00:00",
+"updated": "2026-10-05T01:59:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -461,6 +461,42 @@
 "Management"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "df58f3688f79480f",
+"title": "Jio Platforms IPO: From ₹15 lakh crore valuation to October listing, 10 things to know",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3B1QkNUTzBLcHF0dldTdHZoR3FZdFVVdzE2Y0pTOTVWUnFhNEMyRHlYODlMOW4xV1M0UHJIV1hURzAyTWZCN3VROXNQZkE1dlpPUW44WlFjd0hmeTJwNHB4SU9jby1ZSVJpLWpxRGdfZldrNzYxTVYzMHpLY25RS25JZ0pFY09rU2s0TGdNMDM5YTJHNUVsY3hHRzhyODNQbGFZTVVsZFlzS09SRG9yNDR4OW1uRGdseTBBTVV4R0NyUWJmb1lFYzM1VdIB2AFBVV95cUxPREdudl9VejlaaUhlSjZsR3BfQ3N4WnJZUkU1cWFITVQtNHlUYUoxdHFLTVJaRW51d1lwYlMzbWc2a0VFT1BrUFpFbGdxOWRaNWhnbkdLNzhBRDNTcTlzaXp0amtTZHZUalVOQlRqVmw0OTR1dzV4T0N0b1hKanhTM0hCXzhEODdHZl96LW8xNFNJQmZoMjk3VW5BQlRuX0Q5bzNzb0ZEbUxPYkVxZ2x4X3lCcHRPaU03V0E4TnBfOWZDNWp1X040ek5MZENKSzRGZE9iQko1Ql8?oc=5",
+"source": "fortuneindia.com",
+"published": "2026-10-05T01:45:00+00:00",
+"first_seen": "2026-10-05T01:59:54+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "08b7793709cddcb4",
+"title": "HDFC Bank Q2 Update: Loan Growth At 16.3%, Deposits Rise 18.8% YoY",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1B6clBOREZKVVRUd0dKaDdYV3laczhzQ3VRZml5RG9PMDNpWElNeUsycVQ4Rk8wbHRRMTZ3WFBCY2pVTEMzcTBfdGhaTEhRMXFscXFQZllEWTQ0amg0Qnl0WkM2d1JnUldGNFhwRlRDYkRDYUQ2YjNsZGZVbHFPU3FaVnhNZVRYZjl1T0ZvUnpkb0puV1NwMFVJN0xhckdjNDNudlE4Tjh3QdIBsgFBVV95cUxNcGt1Yno1UVpDS0tOQmhIcTdCVHl5TDJtbUxTU01FT0JsVFJ6S01HRkEtQU9CcEY2UHhMUEhnTFlkXzRNdlg0LXlNY0dPR1p0a0RDVTRWaFl2WHY0UzNPRE81TXNqanZFUmJjcmh3bWRrXzROdXFidVVHTElXalFzS0V1Ulg2aEthaVpYSWNnSnVyV3RjSzl6YXFYQWV5cktqTk9manY5ZTVQX1VQNmhOdnd3?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T01:42:02+00:00",
+"first_seen": "2026-10-05T01:59:54+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "5cffb53e90277d98",
@@ -2603,6 +2639,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7dc2f0a715268b9a",
+"title": "Max Healthcare grants 2.15L stock options under ESOP 2022",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUdXYlo0Zk1DdUhZWWpncTdaOXNyOFVHSjV6b3hGUDRvaFRYY085VW1JWWVCSmJkbkJSS3JROTVzdDFsNWUxR2Y3VjE5cFU2MmhRZHBzXzBmZVZXUnMzX0V4N3pFMGxEUU9SUU54cWgxRS12ZW5YRUxwbE5GTWdreDBNYlh1QUVvaUVDeFZySXVUTVhJOVltNHlfZXc5eUd4anFjVUVNaEtCQVhlc0k1WHBWZHA?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T04:21:30+00:00",
+"first_seen": "2026-10-05T01:59:54+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50987,54 +51039,6 @@
 "symbols": [
 "ADANIENT",
 "ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "97d84a895081c663",
-"title": "Adani Enterprises Ltd Rallies 4.92% and Approaches Key Moving Averages Amid Mixed Market Sentiment",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMU1BQ25nR3dSMHVlZVhxOWo0aDh5bUpmaEpOTk90WUZnWWlMMlRxZ3hlaG5leFlnVUZxdlpRSFRQdk4ybGdvRGk3VVUwWnFJQjhvSnNpSERzOWpQVWpqeGtvdEQxWVprbFlfbWI0MnZWTF9uNlE4MFVyOTFvMlV4cXctY3VpVHplZE45Ri1uTnBDQ3c4R1ozOVp0NC0xN3RfNEwzUks5SWloRTBVOUx6ejRUN1l6bW1ZTWVZYk9tR1ludldwUXYw?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-29T10:27:07+00:00",
-"first_seen": "2026-09-29T12:25:25+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "2433568b799c9173",
-"title": "UltraTech Kukurdih plant achieves 100 per cent green energy",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhQnN2anRSMFRSZ2lFZmczQ2VTN1Q4OUJHNkJ0UUpwQTB1N2FYdjYyX0d0OXF6ZTNaY0czenBCRW96NWFxVldQTnhCVGxVU3NLanlnSEdJdklVeG5qWTVrMXJCZWF4cnNod0lxSEY2UUEzcFZnNkJNenBnOA?oc=5",
-"source": "Manufacturing Today India",
-"published": "2026-09-29T10:26:40+00:00",
-"first_seen": "2026-09-29T13:22:56+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3fb7456adbfb5591",
-"title": "Top Gainers & Losers, September 29, 2026 at 3:30 PM IST: Adani Enterprises Leads Gainers",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYRWE0RS1namY2NkZnSVN6aG5qOERVM0VOc2txNWNNZlpEZ3VzTHlWQkcxU2FsQVFUUVo3c3FVS2RzX1QwLXoyWnZlc28wWGtHaW9Jc1Ruam9fQ3RkM2pmQThVS3BLNFU5UGdaNnRSUUprSWhYOVJJZmwxV2I?oc=5",
-"source": "HDFC Sky",
-"published": "2026-09-29T10:25:18+00:00",
-"first_seen": "2026-09-29T10:55:44+00:00",
-"symbols": [
-"ADANIENT"
 ],
 "groups": [
 "Adani"
