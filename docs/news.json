@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T17:18:42+00:00",
+"updated": "2026-10-05T17:34:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,74 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "8bdb13cc59e81089",
+"title": "NTPC Government Nominee Director Cessation: Piyush Singh Resigns 5 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUNkY0RGYVZob081a0lvNDBabEhnbjVISDBLaTk1d1VPM0p0cVJtbXE4SUhwUzZwWjVDQ2l4cGRCZkJicGNId1JsSnZTd2hIT1NQVERvOE5JX2pMUmtBaDhWWlhJOURNSmF3QU1iYi1yakY3YkJ6VmlOYUtWYU1pUTNSMGY4elowTEVfTkgzZklEUzBxTkZsOThiQjlNYnR3OVVSenRNX2dBRzFSQmc?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-05T17:32:00+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "7cc5294c794c74be",
+"title": "Swiggy clarifies on financing programme for NOICE partners involving SIDBI, Axis Bank, and InCred",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamdhQlYyeGtFeFpLWFR4V04wSFFZa2lYVkN3a3FzSWZLZEdNUW9FQjRISHhZNjhqQmo2MHMtZnJ4RXY3c2N5Y2M1dzFXLW00b1kydTdBZWRPaTd6RVFaS1hRdDdlV3luWEpBWTFjRHR3YXJYMTRCclZKZVhuRnZ5eEZjeU1FV1hXMWk5bVpSdkRrX3ZKZDdYTDl4ODZteHJxYnpnMjF1OXJWN1JMWU5nVW5sTjJkc2k5VDVCNTNYdXZ4bjhRMU1IYlNZeWg0RWYybHc?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T17:29:54+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0f1fcecc0c41e1c4",
+"title": "Gaurav Kaul takes charge as MD & CEO of Cipla Health, eyes next phase of growth",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUdqMDlEaTg3ZXUxRURpQlQtMklFUXVQeEZNTllZUTVqdzB0RjJEUm45eFgzNzloMnJKVE9rOW1xa1NUQnNzUHdZa3o0QnZlRnBPOUdKd1JDdnJwNEtZRzJGcUFLaXM4cXk4d2tlRWhTb1puQ1Y1ZF9LZ2dxZ0xPUlBSTXZKTENYR2ZfczF0WVZwQTRNQnV1REVSNlExa1YtTll6MWNyMUI5NDNYVC0zSVZyMnlDZ05zYXEyOFRCNmp0Vm51SnVSWi1USGV4d9IBzgFBVV95cUxONUdqMDlEaTg3ZXUxRURpQlQtMklFUXVQeEZNTllZUTVqdzB0RjJEUm45eFgzNzloMnJKVE9rOW1xa1NUQnNzUHdZa3o0QnZlRnBPOUdKd1JDdnJwNEtZRzJGcUFLaXM4cXk4d2tlRWhTb1puQ1Y1ZF9LZ2dxZ0xPUlBSTXZKTENYR2ZfczF0WVZwQTRNQnV1REVSNlExa1YtTll6MWNyMUI5NDNYVC0zSVZyMnlDZ05zYXEyOFRCNmp0Vm51SnVSWi1USGV4dw?oc=5",
+"source": "StoryBoard 18",
+"published": "2026-10-05T17:22:09+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "cc2e3b8ce833e19c",
+"title": "Bharti Airtel's Airtel Business launches IQ Gateway",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJ5ampCMkFVV2Y3WFNHUXdFb2lObTF1OWR2UkpYR3p2QjFkUnNkQm5ncktDRzVGV1BGYnBUTmM5NTBkOXF3eW14bFBEQ2Z0Y2FzS3hMNmhOejBIVUxvMkdITFpIM19jaVZ3R3hJTWJKQi0xTVQwTkU2cEhLRkNuWU1RVjl0MlNUdXVKY2ZDRE9aTldTSnNsdnJDeE55b2VrWm8xRHNoRUFvTVRXU3BB?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T17:19:46+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "fe59544b97a03b96",
 "title": "Mukesh Ambani’s Jio Platforms sets October 21 IPO launch",
@@ -2399,6 +2467,24 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "f44d3a6f54192977",
+"title": "JLR Wholesales Climb 25% In Q2 As Tata Motors Arm Recovers From Cyberattack",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHJSYXhqemZRQkdCOTRPWUFDV295eXVpazZvR3BVSlAzbkdPOE5HV1BTRGhnRFFMVUtrUmV2S2EyRE1TQnZVaUpYSmVrWDNlSmFTWllRU3dfR1pZUVJmR1NpeGoxZGx6TkFjWG9YWFladHFnekpKZE1WRFc0Mkk2YnNPb0JmZktsVzBLaUstUnNiNDV1LUNkeld5V2lhNnJDVllBWQ?oc=5",
+"source": "ACKO Drive",
+"published": "2026-10-05T11:40:59+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "22b544dbe235f489",
@@ -8252,6 +8338,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "5ca34fc83e82cdbd",
+"title": "IT Stocks में 11% गिरावट के बाद अब क्या? Infosys, Wipro, HCL Tech पर Expert की राय",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21VVXNhUnRJZEJEcllNNlhTWUI5SnVwTVdOOXc1bzZJa2VvNHdmbFdoc3J0bnMwSWtGZWpWeU9vTFRvN0JGUmNkd0ljcVpJcEVmV0lGeWhaVEhJUDBwcVZjd2xQQ3ZjUDNqbWM0VXJFUjVTTm4wV0Z2OUc5ZG9EbEx5aGJ0cmtzbC1JdWRWUkJueU1hLVVyRjMtT0I4aGVjNjFuemI1V0VuM201SU9EZVFRLUtFOGwtZlhzZ1VDZk9tbHJiWnFDVg?oc=5",
+"source": "goodreturns.in",
+"published": "2026-10-05T04:57:00+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2c669acfbd5ac690",
 "title": "5 Upcoming Hybrid SUVs in India - Maruti Fronx, Kia Sonet and More",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0xULThZdjdGQW16RUZJVl9SRVNnWFpyaG5TUVZWN1RNbm0yZmlhTk5fY1VXaFlBVm1LQ0FhSENSRTdmUk83WXFmaFlKM1lRT1FUeVUzQ2F5TkFhZXo3QkU2WU5ZWTRXMjJZNEg1cXYxNTMwNHRaWHhNanBIMVVCSg?oc=5",
@@ -12476,6 +12580,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "7570ff0c58cc8959",
+"title": "Airtel announces Rs 999 plan with 50GB 4G data and rollover option",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3YzZks3VlNLMlowM3ZEVGtqaXFYSW1fUVpHYTNCSEo5QUVFRFk2R011Njg5SmdBX1VKMnBZaS11elFRZTdEQW1EN3hBV1kyVXl1WjBOLTNySGdYbHJPakQzRmJZamRCaHhlU3k3NHRKTGNFaFpZVTR5R0RpSEVzaVBpel9nVDdfMW00NXdPZUM3SXl3d0hqekJ5LTUtSFIxNm15SVVnUlJHb280cnhFcdIBtwFBVV95cUxQV2xPMlFmVTJ6V3cwbkprOXB3X2NjUk9PN2xYTE9jYjZkejMxT3E3QnFwV1FfdFhqRk5ubHpKcUVOb0s3eUJ6dGF1WWJyNEpRV3QydnpZdTQ4RUVLQUpWRVI3b3ZSVkQ3UzN2ckJLMHNqckNvSmFFWF9JVnNTY3RmLXFsX09tX1Q3Qm0weEljcDJncF9feHZTeXp3dTNUVE4tcGNselZzbjMyVnlFNXoxQjdKUERpa3c?oc=5",
+"source": "digit.in",
+"published": "2026-10-05T00:00:00+00:00",
+"first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "b82f663a85b8c67b",
@@ -51294,124 +51414,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "aca1a6a379e305de",
-"title": "Tata Steel Infuses Rs 3,260 Cr in Singapore Arm",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWV9BQVloa0JSZVdfTThTZGxhTTlSaVVhdmpua2pmdTlHTzRBZDRjXzlDQXlKVXZsM1pXLXZMNmFlZmIyU2dhMU5XYnFFQ0JwaWZQek5TSFJIQ1Y0N1E2UkdETzZpQXNVOGRhUlkwY1ZxZ3NaYWtVNFF1VnI5TnZHc3B3?oc=5",
-"source": "Equitypandit",
-"published": "2026-09-30T09:26:34+00:00",
-"first_seen": "2026-09-30T10:20:28+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "793ce4a7526fe408",
-"title": "M&M vs Maruti Suzuki vs TVS Motor: Motilal Oswal’s top auto picks and key factors to watch",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjZ0QXdicFc4emZFR09RT0MyMWJEakdMRW02T0lyUjBHN1d3d1NpcG9XVWQwR3U0ZXpFTjR3R2tGeDlkZjNzazYzbVpwaXZJdjktWFJaTXZfQW1SZ1BpYUlnZnhzcm9BZzdrUlJDVk43SVk3cUJKRG83UUR6QnVFZ0lSU2VaakRqOFcyMnVoamNoTmd4bXdlaWN0RnJfbFFkcXBxYW93SHYtTEdvYjlMSGZPZUhzMEdlTTNfTHUtRkVLdUkyUmhGRGhqOGJVbmRDTk1DSWp3?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T09:26:31+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"M&M",
-"MARUTI"
-],
-"groups": [
-"Auto",
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c52d00b4167100ff",
-"title": "Mahindra & Mahindra 52 Week Low Streak, peers and sector",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUM3MlRydVNXbFBrX0dvTEkzOXBLdG90WC1NYXlETGRTZG92Xy1XNFZBWThySy1aMThoNTI1SzVNUm5HZG9mSHU3SUdnWVZhYlZBY2w2RDdPR0ZLY2t2Xzc5V2lNc05GcG1iMXB1QkNIZmd1REhabjBTZ2tGUjlOMTh2RndwVWNZRWN6V0FWY3BFRXg4S0hDZHp3?oc=5",
-"source": "Univest",
-"published": "2026-09-30T09:25:00+00:00",
-"first_seen": "2026-09-30T19:20:11+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0874665042c18012",
-"title": "Reliance Industries hits 52-week low: Which mutual funds have the highest exposure to the stock?",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa3RvZjlXLXA3WEdCdTA3VU43UmYwY0JhWXlES3VBdllrZ1VzVU81UGR4WDhvSmo2QzdFUGx3ckpYTTE3dXl6SVRTam15Y2lhVXYwZnpmSDlqZ2FEWmx6bGRmSU1VRWNYNGI0MnNOWkh2LVg3WnN2UGZROVJJT1pDYkNIUThWX1R6ckNjVFc3aGp1d2hTZDhGNnZOV0NLTW96RlBrX0VJd3BSVXU5MlBrS1FvcV93My1CX1VaVVVtV3duU08xbXZWQzdRY3BtN2o4eFVUY2hiN2hTbWtfZFN6T2Z4Q3dhUdIB6wFBVV95cUxNSHlWNXEtWVNoYmJ0V0xSSGxBMUZBSEVabnNjbFA4bzQ3aWdaaTRHbjVpNzltWWZjMFpUeWx4bVllS2Y4bml5Vmh5Qmg1Znk5UTZkYTYyaUdTRlZGRFVWaFBSYnFwa2dfY3FLX01CODk2ZkxFQ2tWRk5vZk91NXB1bm9MazFmVG8waWVGUG84eFlWc0wwVGJ4SklJVlpvWDZHeDByTkJkU3hVTVN6bng0dVl5YlRySm9kbUhPb09SN1laMF85VWc4aUhMNFdISFJfcUhBcGN1d0NtZXpOVV9OcUlhQXZZV1pxMTZJ?oc=5",
-"source": "etnownews.com",
-"published": "2026-09-30T09:20:51+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "69bf536c88f472d8",
-"title": "Apple pay india launch axis bank Archives",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05YmlXV2Z6RjdiQnFTa01TYTh6RU5PeVlQdzlhWVM3YzlPcHFHZnFwZVlHcVN5ZjFSd3lvT0NKamhSckpySWFBNUVLbjFKZ0JXRkpMTWRSNHFwUVJfU0p2c1lOLTVKNGR2LTg2aHY0NA?oc=5",
-"source": "IBC24 News",
-"published": "2026-09-30T09:19:00+00:00",
-"first_seen": "2026-10-01T08:00:41+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b647921f5900db26",
-"title": "Zomato employees once took a 20% salary cut when times were tough. That later became a 30X fortune, recall",
-"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSWlqWTlhckZQSDItV2tIam4xYXlUdFlQN29zcGJkM21GLXhzNTVIbGhYTGhUdDkydDJBTExRUFFUaUZadm1BbmhnTDRKQnY4VlplRGdxQkpQMGNIUjMzSnRNTWtYcldtR2JMUjBQaW9Jejc5bnRna3NndXFadjVjdHUwYW5UZVRSNDNvSVRJdFpMR2lLTGt1UUM0TkpGSWQyLXhpOE41bWFDU1pXaDRzUXVCbGlkLU5US0h3UDZvTUFhUkNNdGUwZ1Rqd3A5UWFDdXBwV1ZMekpGTHFOa1lwX1lDRF9mOGpCS3lUZVNTbGRJU29heUt3YVBSVktTY1FmNVk1WnhXUmQyY1VBODJKeDZnUDVSSWdjRmpz0gGbAkFVX3lxTE1JaWpZOWFyRlBIMi1Xa0hqbjFheVR0WVA3b3NwYmQzbUYteHM1NUhsaFhMaFR0OTJ0MkFMTFFQUVRpRlp2bUFuaGdMNEpCdjhWWmVEZ3FCSlAwY0hSMzNKdE1Na1hyV21HYkxSMFBpb0l6NzludGdrc2d1cVp2NWN0dTBhblRlVFI0M29JVEl0WkxHaUtMa3VRQzROSkZJZDIteGk4TjVtYUNTWldoNHNRdUJsaWQtTlRLSHdQNm9NQWFSQ010ZTBnVGp3cDlRYUN1cHBXVkx6SkZMcU5rWXBfWUNEX2Y4akJLeVRlU1NsZElTb2F5S3dhUFJWS1NjUWY1WTVaeFdSZDJjVUE4Mkp4NmdQNVJJZ2NGanM?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-30T09:17:00+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "dc4445ec7e2c9be3",
-"title": "HDFC Bank, Infosys, ITC shares: FPI favourites hit as 2026 outflows top Rs 2.5L cr mark",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVEFRQW5fdUNrNjYxaEd5dkhwX29TSHVBZEc5MWVoYTZUS3dTbC1PZkVJcFB6b2l4SjlNb3lIU1hBSXBIN0pZR1JWWlJna2l3cnY4X1lzeFBpM09hR2RwdGZyYVoyLXJ5UmJ1bGZxd0ZzaU9TVVJvQmEwQUs5TURXVXVLcFNBTFB4QkFWM1hOM0dRLUVEN3NXR0dxd3V5MkxYcTdGSVAteml4VVNMdlc0TF9XNWdUY2NzQWlBb3VGTUFYOUZ0OVJycUVnQjlyX1hkNnNzM2hYTjZxZHFKUk0yaFdLNGxVREtRbTZz0gHwAUFVX3lxTE1WT3NWeERYS2loMXBzQ21sbTJVaFZpNGxtNUJhRWFuWUY5Mlc3VGpQcGhzMF9wd0lwMkRCSVROTVlIeFM3UHVVSk9fUG5DTktfWnBpdlo4ZEJnaXVDc281MDU5UVZVWHluV2dhWXE5YmFrWnhVLTMwUjRlLUdKS0JQbVU2V1RKMml1ZXg1M1lQOE1hQV8zQlMxcE5KY19zQlNIa3RKOF9QNWZqSVdHczZfZE9kb2ZJeDd5NGxXSW42VENUYkZWY2pTaUJndFQ0N0hhRjhoYUJwRng2QUtITy01a0U0NWgzUG9MTndIZHRpSQ?oc=5",
-"source": "Business Today",
-"published": "2026-09-30T09:15:20+00:00",
-"first_seen": "2026-09-30T09:30:01+00:00",
-"symbols": [
-"HDFCBANK",
-"INFY",
-"ITC"
-],
-"groups": [
-"FMCG",
-"HDFC",
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
