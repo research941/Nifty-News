@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T16:40:09+00:00",
+"updated": "2026-10-05T16:59:54+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "488e689ca412d013",
+"title": "Sun Pharma presents LEQSELVI data and Geojit targets Sun Pharma stock at INR 2,070",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEo4ajNfWW1xSmF2cjNNVzVndzhhWU9jX3JXZXFUcEo4SlFqLUZHM2hWOEtRNTQ5bkxvbUJMaVFLREZfUmRjd2ZiTWJtZ3IwRnN6SnFzS0VVUWVCVWNCSXNGeVdxdXNhMkN6ekZXV2ROU1RDUUxISW9WZDIya3IyTjRMcEtoVHNkbjQ4MTBUV29CdUlENUVkTDlOR2VHQmVZNWJ2WTZEUWs4WlRrRk1YMkFwRTIzUzJSdWd5TjdoQ3BpWEg1NE1Sb05PVQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T16:53:58+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "07af737be91f6f55",
+"title": "Buy, Sell Or Hold: Canara Bank, NTPC, Suzlon Energy, BHEL, HDFC Bank And Godrej Consumer — Ask Profit",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzB4WGJQelFGR3NpVXpFX2JieFBZMGpNUmZnTjY3Y01uWmZncnJfblFWSkFDQ1hZdlpJbDN3N1JmcVRvaF9vSmYyM3F0aWJLQzRnWGdFa09PTWVnbEtvRUkzX0pHYzgyU04tR0VORjlJbjg5XzJpQl9qWkNtd09xU1hCWEhBOXdlbWRQaGtUUkdjc0h4TWpDMDhneDc0MVNiMy1wQnVKY0ZuMmV4OFpSQXM1VVNzb3Rtclpuak1BaklPSmhrcnp0YkNVOEp5UVN5ZTBr0gHbAUFVX3lxTFBEOUNEUXYzc0RzMlRnRWZFc3BIOWNHcElBQWVuVEtFSml6QzA1U01PSGl2dV9CNUJPYzJVNUE3anZkUDJVY2xWSHFUTWhvNTZMTDFuZHZxV2dya1NWNG1iTHhucnRmLTNEbG9CUE0zV0pJN1czcWxlMlJXNTZpUzQ5bHpUSmlDZVdzeXpDd2lZLWRGWkV1RnhmX3AtY04ya3BuNV82S2s5LTFwajRfei04cFF3V1RETXFxWk15T2REZHpFSUM0RWNhSWZqUWNvTHJwWGV5RlBPTlBUcw?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T16:48:33+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"HDFCBANK",
+"NTPC"
+],
+"groups": [
+"HDFC",
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "346e6c2dcfd24961",
+"title": "Coal India’s Power-Plant Supplies Rise 6.1% in First Half of FY27",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDJtQmV5UzhwZVFOclp3Q2FCWjRNME5lU2JqZjhteS1fQ0xsb0NzS3U5RXB1blc3VDFadTBpeGV6Sk1MMUk3MDBSaHg0TDN5MFgwZGxaQVlRdEFFVkY2OGI5RkRkNU1XMDZLQlE4akxZT2dYWmV4cHRYTjlSNDYtU2JPRVMwdTBib0RCWERYMW1OTWFC?oc=5",
+"source": "The Policy Edge",
+"published": "2026-10-05T16:46:37+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d15a5ca1ceac9a5d",
+"title": "Tata Motors Q2FY27 Results: Analyst call scheduled for Oct 23",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMm9URXFOUndSSVBJc3M0TTBNNzZKRWtMWklWRWFqM0FCNVBBeWZ4MGpOQTRFZV82dm1aTm9lUzZvYXVKMGRQUmNtVGtWaWwyMVp1S0pDMGhmdzNoZExHTXF5UzhrLUdoZVdsNld5aU1NY0JveTN1VTFXdlN0c1hkTnVXZEl2a3Z5bGo3NmtnbkhXaXd0QjB2b3VRdHN5ZmN6VndQQ0lCZHktSGlNWXEwQTdXZw?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T16:42:51+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0bb51d46933a72ef",
+"title": "Piyush Singh ceases as NTPC government nominee director from Oct 5",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVlKYWU2Q0hWU25JdVp2SUdSVzVsRmNWaEJiSnNzZE9lLUZCMEFsSXdmc3VQdloyVkd2SVNhdFh2bnpacVdRQ01OUFhqYnl6aWxzQ3gtQ0EzeTlvVnhlRU5iMGxYZVdZTlpZdkk3M2N3VzVNQUx1N19FZW1qZXBTX1JjcGZmOUo4bjFGUnk3NDNERE1sMkxmeVMwajNBMW9qOEE1QnJvM0hoMDF4Y2xBU0FXRzhxS0p4YVJB?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T16:42:26+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2159df21dc57c51d",
 "title": "Top 3 stock picks by Vaishali Parekh: ITC, MRPL, KEI Industries | Target, stop-loss, Nifty, Bank Nifty outlook",
 "link": "https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-itc-mrpl-kei-industries-target-stop-loss-nifty-bank-nifty-outlook-11791213624948.html",
@@ -531,6 +617,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "d187c6c5ad720b67",
+"title": "Tata Consultancy Services stock gains 1.90 percent before Q2 results and dividend decision",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZzVSc3JINUZHQlFCWVhHeHRFMzFMcXZpd0lwS1lDcU0tdFBJZ2ZwR2lqSGxfU3AzSkdYVE91MWJtWHplV0NJUXN2NHdBblpDRkJpdVI0anZnUHI3RlhIV0xiLWlsbV9kOTY0bHM2c2twVnRTY3p1bmxxQ3Rid01raW01aU52cDE5TS05UXhjdzFtcjBuRmZQaFVRQzZ2SGZUblBUVnZrMWxmZG1SSDFmSnBGN1Q5cUZkRWdoTWRER1JCaHlQMnN1RElvcEhpWG0zeTBmNjdfMTBaVVVIbl9oM0Z2aXRYWnBX?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T15:36:03+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
 "id": "0fff8c7e606e7cfb",
 "title": "NTPC announces cessation of Shri Piyush Singh as Government Nominee Director",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3VNNlhNVl9nOXFlT3ZqLU1GZklqMTNQbnNHMnBtS2FNQ195ZTBzejhvT0hwa2UtM3Y5N2pOTExTZnBHNmlHMkp3YVJZbDgzeklVbzlxZndFRVlGMDN1Z2FvSjhmYnlVdkItQnNmT3RWUGZvS2V5LURDeS1MNlIyeExxSGFjYkRST3VyMDFZeDF4U2hPcmFIUUdubnZ5NmEyNU1yVWpfU2g3X3ViSzliSnd3VQ?oc=5",
@@ -545,6 +650,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "e0834ee9892d2cac",
+"title": "India's Bajaj Finance jumps on strong asset growth, capital raise",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFYVTV6dE1KSVhDN0ZXTFQzbjF5eFdDZ0dnNEZpWVpqZEdlMTdGUERMcnc4cmZfaDkyXy1KazdNRWlzMkJqNXBoS1Zlem5HUTJVQWtyMEYxRmlfZW12VWVXQkFHbG4tcHRGUjBESTd5NHBHTjREV19ReWh6dktqZzFMdXQ4NXZKS3B5dmhiOFF4Zk54dDg4bEF3?oc=5",
+"source": "reuters.com",
+"published": "2026-10-05T15:29:28+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "d36b75baddaa2fce",
@@ -1568,6 +1689,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "fc3b3aacb81ea744",
+"title": "Stoke-on-Trent street fight breaks out as riot van scrambled",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFFHVnhUeXpBTXNlRXd1blF4NUlnUS10emRDS2RwUEd0RlBrblBPdjBvZ2h0SVlwMFJ3b1N6aUQ1VjFUUFJHbG9SSmp0X01OTDgwZGkta2I2VGstcmZKZDR0UEs3ZEZhckxZZzU3ZFdmQ1JIeDEybndMQUhucUFFLW1oS19iV0kxWDJVSTRCM1RzV0dQLTQ0UEFtOXdXd9IBowFBVV95cUxQc21Pc2RHOGFtMUFaRXNpRHhJNWQ2NjFIclIxNzdOZjd1d3BDb0dvdmxNRjNSS0ZRSFlJaVJCb3dHOE84X2trb3pYbHFHVmcyNk9nNFBHOGx5TEk3N3dzUXBZei1TNGhWdG0wRHZhUGlNR0dWZGZXQ1RtcEtrNUMtanJZTkZyeGRuTFI0NmVXNE9pYmN3ajdLUDNSQ1Fsek9wc0V3?oc=5",
+"source": "stokesentinel.co.uk",
+"published": "2026-10-05T12:51:00+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -3393,6 +3530,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f1f23fb90c46a523",
+"title": "Reliance Jio targets October 21 IPO launch in landmark market debut",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktuS0VfUU5Sc3B0Zlh4Z2JIUWdZSFViYU1IR2VMSWFpMmduR3NtNzVHdzh3NWRzdlNuTUJTNmduNURua2JVWlNQZ2tMdHRueHRJeHZOQnM4WUpsbDdWeDExOXhBMGc1bC1waDB1aFpYM195aVlUbzFhNW9ZN0FzMzNGYUFzSkxFVE5VY1p1R1R2OUxGcXlQT2JMbnhkYkZMdGxV?oc=5",
+"source": "streamlinefeed.co.ke",
+"published": "2026-10-05T10:13:33+00:00",
+"first_seen": "2026-10-05T16:59:54+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -51255,154 +51410,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fe984af817ea8e0b",
-"title": "NTPC Green Energy Share Price Rise on Capacity Expansion",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORDR2ZWZLNk42c0ZUZUlsNV9jbm4tTW9mdXhEQzZ2S3Mzdi1oQUQyWFF6cTJEOU90Q2l0VU5rSGRzNDJqRHJIejVsQVZqZE9VRExsV2hiSTExMkp5YktIZFp2dUhXX3NfMlhoQjQwaUpxM3lqbVhRTHRKQzYyUDN5YmdwOHo?oc=5",
-"source": "Univest",
-"published": "2026-09-30T08:57:00+00:00",
-"first_seen": "2026-09-30T17:58:52+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "9e4da41ae6d6387a",
-"title": "L&T bags twin Dubai contracts for bridges, tunnels and roads, projects to handle 130,000 trips daily",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeHA3UlUxWUVXVFRhblNWc0xJRjN4cm5hOGVkUDFBRlBGay1DVlFjdkYyRjZDcllRbmJCbnJDSDA3azZtWHRjRl91RmVXMV82ekpjRUExZVdUbmxQTXFPeFZuOWNBUm1FN3E3YmVUb2FORk9CVEhOVkRyT25qS29scFFUcnZvMDdDd045Q2V2QUhTc1FRNTZlWVhiMWdhMlVvSTg3Y3FjVHh5NXhodGJfdFdYLXh4dUpQMml5dkZFRjVJWUE4Ykx1MEdQTkVKVlF1RkJsUTBaM3Z4ZlZ6VDVCS29DZ0dNd3FXR200NFpubGtiUUNpN1pEWlhR0gH_AUFVX3lxTE9vbEkyck1WOUtKM21MOTVoQmp3bmlBWVN3bWNWV0g4WjZJbUpXaVhWamp1YVk0MjI2cjlKU0VwYkdaS3ZqUThwTlRYbUc3eFdzRkdUcUd5bURmWG1Ga0phY2M5UHR2VVFMb2tpUFpBSXpuWXdzLXc2aXhLcTNSVTlpVFhiQ2xyc01HSzRRWDNySzVNeU9zd0U2MmlDZkRXdFdTTk05TWxsdkJxUjZnZS1SY1pmR1d5LXVRRE50dVc2TnN0RWtsQXlOcmJicUJqc1JKaUZuVmpmdjQwN0hTQmliemhSamNBa0lTdEQ0XzdYdVZrdDUxdmt5TUJ4NjNaYw?oc=5",
-"source": "Business Today",
-"published": "2026-09-30T08:55:50+00:00",
-"first_seen": "2026-09-30T09:30:01+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "b8c35f11f47c61c6",
-"title": "L&T Transportation Infra vertical secures ₹3,500 cr contracts in Dubai",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE1mUnM2U3NTUnFDcFVQRHJDMjhDVlRHTFZad21Gcng1NzhtWTZSb1hndGlUdU9zdWtZcDZ6a0VsZG9VOWRvblBYY1hOZXk3bzFhd2F4OW1aQUlRU1hkQlFUbThuaTZacUtGbTVUcUtra1FrejNpeTdaMU5faWZMZnUtZnNsY2VFZDZvY0NycC1GenpKZEZMN20yQUM5NnFlRXZYWlowQVlDcE82RU5xR3A0T2V4ejhXdU9JRElYekPSAcABQVVfeXFMTWhNZlJzNlNzU1JxQ3BVUERyQzI4Q1ZUR0xWWndtRnJ4NTc4bVk2Um9YZ3RpVHVPc3VrWXA2emtFbGRvVTlkb25QWGNYTmV5N28xYXdheDltWkFJUVNYZEJRVG04bmk2WnFLRm01VHFLa2tRa3ozaXk3WjFOX2lmTGZ1LWZzbGNlRWQ2b2NDcnAtRnp6SmRGTDdtMkFDOTZxZUV2WFpaMEFZQ3BPNkVOcUdwNE9leHo4V3VPSURJWHpD?oc=5",
-"source": "Business Standard",
-"published": "2026-09-30T08:55:12+00:00",
-"first_seen": "2026-09-30T11:32:29+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "fc3440944392cae7",
-"title": "Apple Pay launches in India with Axis Bank credit cards and no UPI support",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0dzVnlScl9TWTRYWkVqWHBpbFZVV3g3dVk2bXZYaHNvV3NsWEVEcGxfZnd6MHlwUUV3SW9CcWhIcHI3NmJmeGxoWEFobmlHVWFuRlJkYWNMZnA4MDdFeU5DQWFPM0t4cW9TVTVQdDYyYzZDZzAzRHVtTTIzRkQtQWtnR1VjRDl4UjIybE1SZ2RudVhnc0J1ZW9iczVkRi1mWHJzMzJiemhzUE0?oc=5",
-"source": "tech-ish.com",
-"published": "2026-09-30T08:55:04+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f15400c9dfa154c2",
-"title": "Axis Bank Postal Ballot: Seeks Nod for Re-appointment of Mallikarjunarao & Munish Sharda, Two New Directors",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzlhS0dPdVQtWkpGZEF1UWFYOUJVaFpVUlhwd0RadnpoV3RENHh5VWNhSlFsN0RERzBDQVVTcklsU0dYNlJkek5YXzR4Wk1zWnNLcHBzeG1sZFYtX3BGMHVTYXR1WEdGRHROTlY5UG1MU3FYTXp5dlMyamZScVY5N2JWelUwd1kxT1RWSC1BbzVTX0xZX2xhazlYaThLczFsOFBPcXdhT1hiRHNYX2ZQYU5vZFlTR3NIVWJz?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-30T08:52:00+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4fe61973dc7d40ba",
-"title": "Apple Pay Launches in India in Partnership with Axis Bank",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1hxTks5d21MUVl6SXBuRFllcUhhR1VIX0pCNXlPckNfaFdJUUc0MzkzaXJnSkNsV2w2SVF3dDNXSnRKbHJIV2J4NVVORGxGQmgzeW9VMFY0ZEVUeUhWeHpMektRUy0zYmdaOVZPX1hmeFlVUjJQSThGZFBRQkRfZEhqYkRqSkw3dWJlbUQ1ZDlOZDdVM0FfbTJJbFFFZ3kwQlVKMGZkMFp4T2dNOVZoTk11RTkyUQ?oc=5",
-"source": "The News Agency",
-"published": "2026-09-30T08:49:25+00:00",
-"first_seen": "2026-09-30T10:52:32+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "bb2dd4e3e04e80e2",
-"title": "Larsen & Toubro Wins Twin Road Contracts in Dubai for Latifa Bint Hamdan Corridor",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzVEZjd4bWdwYjJoNHMyOWd6eFZNVFowVmpfUG8xSVk5NFV3elhpMkRVZjBQS0d1N2kwQzVoWEVoOUN0dUtCZjFILVJyQWZwLWsxX1pKbGtxX2hyeFZhQTZKQ2JpdmUzc2E5MWwwejNEeXQ3Um5RTDFhMENCZGZpUVV6R2J5XzFsT2o0UWhsOTUtRUNZWEl0UUlEYlVjbWozNl83LWltVTF1Mks2ZFlj?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-30T08:49:00+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "203da3303104a780",
-"title": "L&T Wins Twin Road Contracts in Dubai for Latifa Bint Hamdan Corridor",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzVEZjd4bWdwYjJoNHMyOWd6eFZNVFowVmpfUG8xSVk5NFV3elhpMkRVZjBQS0d1N2kwQzVoWEVoOUN0dUtCZjFILVJyQWZwLWsxX1pKbGtxX2hyeFZhQTZKQ2JpdmUzc2E5MWwwejNEeXQ3Um5RTDFhMENCZGZpUVV6R2J5XzFsT2o0UWhsOTUtRUNZWEl0UUlEYlVjbWozNl83LWltVTF1Mks2ZFlj?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-30T08:49:00+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "935cb3c41e5b6561",
-"title": "Business News | Axis Bank Brings Apple Pay to Mastercard, Visa Credit Card Customers in India",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckJrUlVRWHZxNnRqcFF5N2xVSnB6U25fRjFIUE9EaU5mbzV2ek55ODNJVXE3clBod3hJbFNWeW1lNXAwMnBCWjNuUDhZTU5ScUR1c1JtTWRzSldQNHZJQl9fdmJ3d2NabmJ2SGVSNXJ0YzM3d0tQdE1QLXRSQnkwdjhoVVBFR1dLNnRDZHlsWTJ3bkVUc2VZQTNiWE5oSkZ5UjBfaExBeXpnZjJhaUZCbzdheUVtcmtQVkxROGZRcERpemFPYXBlY1UwZ1FRZ3h5cmU2QUc1ONIB3AFBVV95cUxPX3ZudnFkd0EwZjg2Tm9xZFpObEdzVHJySHFHa3Rsa0lub09kQXJMMXJuN3dDMXFWMDlLV3k1TjI4elNQNkRFNzRxQnpseERmQmVDbjJaVWFfRll4aGpyY0J1RzNwTVVCUkhRNWJNRS1hWjgtVVZSNEJmcUtGaVhCT1R0c2Y2ODdkQ0UwNnBXdWtRSE9ReldsOWlYX253NDRjV0VJaXN2Z2ZfdDc0ZFppZWVOUWNsTVctZUl1LWlGbDRKeW9kbTRJZkZ4RVZiTDZSWTZKeDdYc0xkWE9t?oc=5",
-"source": "LatestLY",
-"published": "2026-09-30T08:48:23+00:00",
-"first_seen": "2026-10-01T07:48:33+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
