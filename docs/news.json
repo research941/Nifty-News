@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T22:19:04+00:00",
+"updated": "2026-10-05T22:32:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -477,6 +477,25 @@
 ],
 "tags": [],
 "sentiment": "negative"
+},
+{
+"id": "4b3b758d5f72aead",
+"title": "TCS Q2FY27 Preview, Expectations: Profit seen up 3.27% QoQ, revenue flat; Quarterly earnings announcement this week, dividend in focus",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbGFCRmdnZzVkUVVETHVyTEVhQnRwWUJScDFDQ3dJaktHWUViOElqamlFQzA3R21IM25MWndfc3lRUEJOM05iOVdCYzBVdXhJSUpJaGJtVU1YNUhHdURMajQ0aktCX0pUem9adUZ1eV8yVUtMQUg2WHpEUFlLNll6OU4ydVhZS1hiR2ZPa2IxdGxhM2VIbTBHY0MxZlcyUldPTEN2WWFNcEo4TzBCRUlJWlJiOTY3d01SZTV3Qm9iYW01SFh3eUw1VnJiejZnRV94TlA5bjNnNnBFZVlPXzF6Mkt2TWduZ1JxVWRRZVBrN1l4TUVRNHd1bmFmRDRmTHZ2ZmFMSEU5LWs1ZWlv0gGSAkFVX3lxTE1QazBiZW1zeUVkUUdXcmhuSS1VM1FKbzdYbVZwbWdkMndhVVAzOFI0dlFSdWR6TnhFVlBWVEVsNUg2aTRrWkhoV1AxQUdsYjdGSVVULWJZaGZDeGNFcERCVC1wb0JqNnNnVjlpeUhIaFZWQjUwdVlISEFHWExqTUplOW5tQzhTQlpuSHBSZzFEaEVlZmI2bnhUNTRsX0h3aHg1MlNrTkNoeTR6UFI5UHFYcjFmWDVvRmdaMHdfOWZEOEc0Q1BXdzQ4aGMwaW5lRmNudWNuZXN6WkQwQXFDc2FqcnRfemJySFdaSmhsdVhPQVEtNXA5RGVRZkhlbzY2NlVmYnhQc0Y1N0hMS19HRnZSaWc?oc=5",
+"source": "ET Now",
+"published": "2026-10-05T20:56:22+00:00",
+"first_seen": "2026-10-05T22:32:59+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "d1faaae3ff8fe55c",
@@ -51431,24 +51450,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "cb4435aef9a3dce6",
-"title": "Infosys extends IT and AI services deal with ABN Amro",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTY5WXBYMHo1bzdsUVpDXzd3T0k5bEcwajdIWGVveDRRemxtakpIS1pJTmxYRXJMSEpidENKd3RXcG5oUkpKTEpYQi01dFZQZTh5ZUtSS2FwZVJJTDM5YjNpdjVxT3pXSV85ZDBTYnZCZmFqeHlaa2lYWHVCbEpEdGEyY2Q1RHZiLXgxMFVWUmNheE9mVUpZUEVnNkNsX3F2YXltS01vSHRVTFI0aDRpTFdn?oc=5",
-"source": "StreetInsider",
-"published": "2026-09-30T10:32:25+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
 }
 ]
 }
