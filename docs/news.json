@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T11:06:37+00:00",
+"updated": "2026-10-05T11:20:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "29ab3a22e6566053",
+"title": "Wipro Scheduled To Review Q2 Results On October 14-15",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFpfVXVfT2dKSDZZdWRrRTd3Qzg3X3VZa3ZhVmdlU2EwSnBRcWYyX1NkT01CZ001bFMzbGNvSEU1UDBpb1hEYk5QN2llbzl1ZzQtSE16Y1BaZnlMTlhhblJJaXRNTGNDVkU3V3RmWURtSjFWejl6MWtLLVZZTGV3ZnhvLTgwZw?oc=5",
+"source": "Sahi",
+"published": "2026-10-05T11:17:33+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "23f665c903f0b371",
+"title": "Kotak Mahindra Bank Reports Strong Performance in Deposits and Advances for Q2 FY27",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ocEV3VFBWVEpxZEhoQVVFbFFMYTM1aU9RZWNYMUxqT1EtSE1WV2JPQXNiaTBUX05pYUtsZDdUcTRWXzJSeDl5T0xjQmt5M0FZZFdjTThyUE13U3hEMUdj?oc=5",
+"source": "EquityBulls",
+"published": "2026-10-05T11:12:03+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "ce5b0aa9733a4b31",
+"title": "Tata Steel develops fire-resistant structural steel",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0J3QVA5SHQ2dXpZMHduWTFJYzZUT01KTi1LZGhJUlRqQy03U0M2dUtocFZmbkRsZm5YYlJXQjZVdHh1YVhCV2MteUhiQndIbEFNbDRSZ2hsTXJfdW9QeGdpWEdzQm9HTzBQVTRwRjd3RWFhQm9nVC1NSldKOFpiNGVTeXlyWGhkUHB6bVhhUFJlcGdfRWc?oc=5",
+"source": "Manufacturing Today India",
+"published": "2026-10-05T11:09:01+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "6bfd05a1b9d37c4a",
+"title": "Grasim Industries plans Canadian pulp halt: what it means for Grasim stock",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1E5dnFwbTJfSGVnOV9DRlJNaHVYcnhSSVBnT0ZNYk84dzV6OUZQQmlMTE9RWFJ1cnN0Qm1lNlpzOTg0RzhXMjJmczZPb1FHMXVpQ3lrODlOZC1DOWt4cEtyQm5BZmVUVUdTazl2Q0EtWjVnY3M5MHBYXzE4MWJHckZyeG9WVUptNklCM2ZBQXlNUGhsR3hCVkMtT3dxQzliNWF0Wm9pTGJHMFlKMi1ILXhscW43V1RYQ01CQkVuT3pIWU0teVpidjhvS04?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T11:07:23+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f13d50c19fce2518",
+"title": "Kotak Mahindra Bank Q2 update: Advances rise 24.7%, deposits jump 23.2% YoY",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdF9ZMUNlbHZ4VXRxdG5oZmRIc3Vmc2t5U0Rrc3JVTWRnd2k5RXRLbzhnLS0tQTNZaTRfV2dqVzdNWnZfWTVfaUpjWUZ2T09sdXRiQzktaS1sTTVUeHhhN05UcnY5cnVaNy1GVFZhbDRzaU5HTGt4cFJuTTZlQVdFYlRMdEpscDJaTk1fdTdoUzNUOGZBbkt6NnJ2Q1pVajR2UGZ3a0d1QVduLUw3cHNmZkZmTmxyYVRKMEhfOVdKalJnTlF6RnNySk9vZjhYQjjSAdQBQVVfeXFMUHpPUVAxQWtQRUF6c2MwZEUwbk5nTWRrT3Q1TFVJQ0dBVXE5NWNXMThOU0IzSTJUMHgzeVJXZ1cwVW1WZ212WXMzUnBvZkxjVXg2aXRHOENWbzhYdmwyZG5UdkpidS01ZkpoaGVfNWFYZ1F0U29mSldwTTEzOFlTdXY4TnhJQ1BSRy1obWlwT0FsNXRrLXdDa05ZS0l4VDBwclRpYVN3enpsTkotV3dURE40cmRCc1BvRVU4UC1lQ2luQ0xEQVo3NU8zeTVRRXZxanl3S08?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T11:05:42+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "e5b589c4533fbc97",
 "title": "Wipro Q2 FY27 Results: Board to meet on October 14-15 to approve quarter earnings",
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkxDLW5oYk1CNXBWU01tX3JrOFVsSklsbXBCbzJRb21WdTdwOXJ1ZjItTmNwUW84VHpOZFgtaTZ5TklSRDI5bm1mSEtKcWJ3U056MFZsZG5vdXV2ak1EMWVWQkRFd0g3WDJGTTJnRFBhNmxvSFlvYS1NVWxMV2g3RzNrZnEwRUpDRnlqMnNJOHFxQjFFUjVVTk9NQXBOek95QVpJZGxTTjducWlNVVVNZmpjNWdkbzhlMjV0MjBYa1FhaDBCazBWUnNuRm4xd0theHRna3VUakhWWm50YW8zRw?oc=5",
@@ -479,6 +565,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "d2f1b8e32396e1f0",
+"title": "Here's why HDFC Bank shares fell over 2% today despite optimism over appointment of new CEO",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOVFsbldZVnUwWWJYV1NWVlFaRU1HME9IbHFuQ05zY0xkUThtV2FuSkRvcGFCQ1BidGRIRnY5MUhoUUJETUc3bTF0cVA3d3ZaX2h1elhITjhoS1U3d2RncXNSVDlyMUxWbkZCWUdIOGJCNDl5ZEV5bmJBbkhXMkdPa0pGcVhMYjNZNFRoRUUtaWNCam91Q1FHb2hMV00tXzRNb3FlR2JwY0FWLTlSbmxoTTZtdnNFaXQzNWN0MGRzUzk1aDlicG80dlBVanYxMGJNTnZvbDNwdkswWFRkTEh6aTFXOXhld0NOTGZN0gHwAUFVX3lxTE50UlVjZWtYMHRtWFJYbEFPZktnQzN3VThNTFdxaVpGV1IxLVBCaEtWWFdRQ3g2akd5TWlJRjdTc0ljclJSeHNvYVpmX3ZKZlotZ21KN3VnZWp4elJwWkpYQXNLMHNuUDA3dkhianJUY1U2MkVRd2VuX1dPZHRXMHhPNm9RQ1M5Nm56bFpESGpoY3VmV3VMNWppZ29YeVlYUDFCRE1QdW5MRWpHRlozQnViR1NUSUFqS21jWGZvUEQ3d2FsUXlOX0hXM0ktcjZmY2duNmdrZU5xa0JjamxldGhrZVlBNk41MTVsdEU5WlF5Qg?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T11:02:47+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "negative"
 },
 {
 "id": "917f5034f7068fea",
@@ -1250,6 +1354,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "1460971e0d27d26d",
+"title": "HDFC Bank’s battered valuation offers rerating scope under new CEO Anup Bagchi",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0FSajZWMTZ1MGo2ME90cVA1ZElkNlEzMXpURkVuWnRQaHM5OWhSdFNGdU8wNDNxZkJ4UE5RX3Y4Q21OVVVSQXdvdFB3SjZBSUFfNEd5Z2Rzc0xuSUotcDF4d2dzcW5yTXdXdWlOVWhHM3p2OHBBTWpQMno0MmY0V2k2eXZYakw0N3FYZldzWDVTeUdNYkNGUUlmZDBXV3d6eHFhTGplTllzR2NwNkY1bGZWLV95WU1NT3JaZERDa2NIeUZTNlJsdXF1MWg0b0JRbERNbS1lT3h2Z9IB2gFBVV95cUxNZ0FSajZWMTZ1MGo2ME90cVA1ZElkNlEzMXpURkVuWnRQaHM5OWhSdFNGdU8wNDNxZkJ4UE5RX3Y4Q21OVVVSQXdvdFB3SjZBSUFfNEd5Z2Rzc0xuSUotcDF4d2dzcW5yTXdXdWlOVWhHM3p2OHBBTWpQMno0MmY0V2k2eXZYakw0N3FYZldzWDVTeUdNYkNGUUlmZDBXV3d6eHFhTGplTllzR2NwNkY1bGZWLV95WU1NT3JaZERDa2NIeUZTNlJsdXF1MWg0b0JRbERNbS1lT3h2Zw?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-10-05T09:31:16+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
 },
 {
 "id": "705105e7080608b1",
@@ -2411,6 +2533,24 @@
 "Bajaj"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "26b68e6922ede963",
+"title": "Axis Securities Q2 Update: HDFC, Bajaj Finance and SFBs show growth",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVTBzcThSa3JDSm93T0ViaHlrM3hRLTNwZXo5ZDRoRzc1WXNiRlhOUHZHTDNBOVRXVDV2ZzNQS3NBMHBWQnRDOEMxREdQbnh2SVRJbTVqRTBhMlA4cnpqR1lWdUlSbFdZOE5qdk5lWGQ5SGFKX3FSeldpb0hWdTB6X1o0cTVORHBBZDhKTHRWbmJTVmdCSTdNdDdtNkc4QjRpckZKVFdNN3lYYktjZnBZaG9hNE9CREJMajlQUWl3WDBYT2tTYURIekh5S1QzMkxBUWFoYlFrU1lUYUxpOFBkZjB4NlNrUTFpSlB3?oc=5",
+"source": "Whalesbook",
+"published": "2026-10-05T07:42:26+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -7249,6 +7389,22 @@
 "source": "ET Markets",
 "published": "2026-10-05T03:05:22+00:00",
 "first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7a005ae4bf262d33",
+"title": "ICICI Bank Share Price Live Updates: ICICI Bank's Daily Performance",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-05-oct-2026/liveblog/134684661.cms",
+"source": "Economic Times",
+"published": "2026-10-05T03:05:22+00:00",
+"first_seen": "2026-10-05T11:20:42+00:00",
 "symbols": [
 "ICICIBANK"
 ],
@@ -51206,154 +51362,6 @@
 "Order/Deal",
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "ce9e14228eaa623c",
-"title": "Apple Pay rolls out in India with Axis Bank",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WN2trSTg1WWhaOFdyNWRsTmtvZ0xtdFMwYVdncjllTDdPOWhMRFJEOVRKTnQwVjVkSmcyeXpOdm5NLTJVaTlpdkJQOEF5dTRWaElQbXJ4UUoyTHNzNDVZX3lNOTUzMGtnSWc4dTFDTXdZdnNjdW9J?oc=5",
-"source": "techinasia.com",
-"published": "2026-09-30T05:19:00+00:00",
-"first_seen": "2026-09-30T07:00:30+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "633514948400e296",
-"title": "Buy Shriram Finance Ltd for the Target Rs 1,220 by Motilal Oswal Financial Services Ltd",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFFiZG93eGl2cDR0ZXVmUHpwRTJlYWVMcHp2V2prcE9fLVBPRHZrMTNtWVB1ZXVDNFhybkY1X3dIM2xJcy1OekVPU2tZRWtELWN0T21zQWIySWVmSlllNUVrb0Q5ZThUbF9WX3poOWNOTHVHMGpwbThSNDJuTTVKM1hjTzhiTkJMb2pRTW9XTnRVd21tcXcyam5UaWlYcTVCS2ZpNHlxQnlRNDVkd1Y1Ym9QLU9nZnp1Rl83ZkNoMHpGRXpIa2RrV3M1c1JWRnlKUFE?oc=5",
-"source": "Investment Guru India",
-"published": "2026-09-30T05:18:34+00:00",
-"first_seen": "2026-09-30T05:20:00+00:00",
-"symbols": [
-"SHRIRAMFIN"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3f28aa38c81b04d5",
-"title": "Infosys Ltd Sees High-Value Trading Amid Mixed Market Signals",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNk1HXzVLbDBUdVp1Y2xycmRVc3JtSm5PbHVheFEzdUx3cjBBV2loVVJFcTFTYTF1LWxUUVZ5TWNTVGtJdThaNnQwNXE0SXB1MEdfQy1rOVhvTWlQelBVTkcxU1B0SEthRGpoN3UtaUJUdnM2cW1FYUFpdkVfODVlZDZhcmJBZlhjLXotLUpXZmxfT0ZSakVFNEl3WDFMVF80N3BpVVNfREk3cDFOZ1Jha3pwWU5XVHdLQVRJ?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-30T05:18:28+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c29418f968d25ede",
-"title": "Apple Pay enters Indian market through Axis Bank partnership",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjFER0F4TEdRMHBabTJHNmJucGhCczJKSnJfcV8wbzdLelhNdzRPTWRKZjRPUDJUTEJmeTY2TUFlUng3czE5RnpPR0ROcnE5dF90dW5wYzJ4VmlDLXEtNFcyR1p5aGNJeU1pSFFnaUpidHhnN29ZUnVIaU9FcVZHck5FWUxBRmNV?oc=5",
-"source": "Latest news from Azerbaijan",
-"published": "2026-09-30T05:17:26+00:00",
-"first_seen": "2026-09-30T05:20:00+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "28b76f79c526fbd0",
-"title": "Apollo Hospitals, Yatharth, others fall up to 6% on SC's 'corporate hospitals don't spare anyone' remark",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb0tTZ0ZaUGdldFJYQzJ4TzFJSEZUUW83R3hOMnZGbVFqUERjOHdJckJfUVc0MlpCSVB6dWUtVlM3RUhCNWZSLVlMTDM0MklmTEVmMml3amdRMDJKNTc5cXJIT0gwUUJham0yd01nVE9fdEhmVWxXYzZ3VzE5UGZHdC1WNWgxM3lWUnZhdjU3WXJpZkZGbl9XOHN2X1l5ZmFzQ0s4WWxIdjgxZm5HN2ZLRU5OT2ExenR6SEdoZXd3UG55Rjh6ZFJtS2NrLXpoUzVHWkxRRUJtdUgtQVB4OHNKdnlNcjNSenE2TlhsM1BwclpfVU9yNmtn0gH8AUFVX3lxTE9oc1hVYUZBM0dPelFpQzljYk5kSWRPa3l3b2JCUmVZNDlqTHBIVXdGbVotU0g1RG9ycVJjVU8xb2JzRzllTXpUZ0trdVJoYXFJZlhlVUt4ZF8yci14V0VvdHBOZWFhNVZxMnRRdmZ2YmRhZVQ3N0d0WWpFdHBRYzQ0dnBlRmNuYVhoZ2UyX1Vhbm9JX3FXbzBhSjV3UWZkSm1tdXZtTUVtUmZNdVhBdmFiaDVpTlJYYlgxVHdnekR1cUNNaXJtU0ZlczVxaDFsSmdBU19XYi1LbE1DRnhVWmtBa2loVVZYa3BFSDJIaGZPUGcxUzVOMGxLVnRYeA?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-30T05:17:08+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "a2915e4f9438052a",
-"title": "Video | HDFC Bank May See 30% Upside In 12-15 Months: Parag Thakkar",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWY5X2RJankzZlRsWEFvOFNQN3d5aWoteldVNGN5MUNldTVscXhKSnNqRzc0OGYzbWM4dXBWbnJNVldCWldjckdRQ1dFd3loZVNtS3U0UDFHYlZkam5ST09iQk1SNXJ3eWZteE1oZlJXMlpVVHlVRjR2aGppYW1hOFJYLVNiNFdoVWtibWZDdG5mQkl5N29yUmQxbDdIV2pfQjJOVWxHTW1PTnd4?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-30T05:16:13+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "243f01bd00e49d18",
-"title": "Apple Pay Enters Indian Market, Partners With Axis Bank Visa & Mastercard Cards",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHFMU05wRF84dnpRRTlDMmVDRW54TkN0Nzd0X2RWMGZCTVRZYkZJU0xCTG5FeThJcGFtMVhwWU9CV2Z4eEFJM1Zlalo4QVRnMXU0akt5eGZPLXNJOGhkLWFXSEppaWhIdVZuUTlnSUJHQ255ZkFOb2tXcGlLa0RZVlBaQWQ0UHIxbDV4Qm9DYTVWRE44U05qMFFHRHI4NkFxRXBTbC0tNktQNEpkczJEc2JLYkhzTkJE?oc=5",
-"source": "BW Disrupt",
-"published": "2026-09-30T05:16:01+00:00",
-"first_seen": "2026-09-30T05:20:00+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "895084d0692b0284",
-"title": "Can Steel Stocks Extend Their Rally? Tata Steel, JSW Steel and Jindal Steel in Focus as China and HRC Prices Hold the Key",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTldueEgwX2N1Y2ZMVTRDZTNGZ1hObzJfMjh0WXczZk45c0xVeTd0bXQtcC1JOHFJZXZMVmljUXhIRXIycjNEangxUDlyWU50Y1hZcjFBcU5WNF9ZeU5xOGQ3UXNPenJmM2RkcEZFdXhuOVRqUnQyMWJlNDE3c0FvaGNocGUwWDdEajJidXJmdHE3UXR5bWdaTDczc1QxRkRSZDNEYnJBa05JcGFQMEFuNUxXVUdMWW9SajlSV3kyOWg2b09FSzRacDllNnVQSXNiMmZqdV9hSGI2X0lMZGNfREVoTjJyOWx2dzdDWldwUWhpMlFOVkxTV05n?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-30T05:13:53+00:00",
-"first_seen": "2026-09-30T05:20:00+00:00",
-"symbols": [
-"JSWSTEEL",
-"TATASTEEL"
-],
-"groups": [
-"Metals",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "1385097a1a77411e",
-"title": "Apple Pay launches in India: Service launches for Axis Bank Visa and Mastercard credit card users",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmp2OFNDY1hPYnVBT3ZRTkluTFpYNDNsbGZaejJaaDVlQVZEQ0djRVRaUUV3ZXBNalJBUURLSEJ2WWNlTnJLOHd6Y2xSMm1JNklTS3E1MDUySVdrajBXWjczMXFiV1Z1ejdrbm1uU24wWGNMaHVMZkFHU3pIWWV3Q1VXaGZKWFVfVGRTbmJONjFXYTExSS1GazRFM01wTGFfYWUwS1F5NDUwbjBVdGIzbWtzanVYclhUUjBGY1ZBSGVlZ3FmQWlKVmNZR2tyZXNuUWdv0gHYAUFVX3lxTE1rNEtiUnc4cHlvZmJhYkI0eUVISkdvWm5qUmlWRXZOZEdiN3p3WGlVZ2txY1pwZ19JVElEdkJ2V3Z6VndDTndIZWtkbFVXN0FmVmlYNjVyVTF0Z2JMNHc4M09QRWtnRXA5clFQa1U3ZVdIQkRYRkVQS3FCak91NDFMUjhEbVY4SXJTbU1rOXVvaWNuR0xFVmlDeEFLSm00cWE0OFBwLWlxUlNwbk91enVHd2VPZWExQ1Q2eW1kWkItYmxLUjE1ZmtjNF95VTdPVlR0Wm16ZkpqTw?oc=5",
-"source": "Mid-Day",
-"published": "2026-09-30T05:13:00+00:00",
-"first_seen": "2026-09-30T05:50:01+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
