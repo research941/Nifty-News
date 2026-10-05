@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T22:45:58+00:00",
+"updated": "2026-10-05T22:57:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -451,6 +451,24 @@
 "source": "GlobeNewswire",
 "published": "2026-10-05T21:27:29+00:00",
 "first_seen": "2026-10-05T21:50:55+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ff0cb74e57704736",
+"title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Urges HDFC Bank Limited Investors to Contact the Firm Seeking Lead Plaintiff Role Before October 13th",
+"link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUVdBU1JZMkVxWG1rYnNqUDdHWVZNOTZnbVBNMzlWUVAtWmkyQ01KTEstNm1xWFRxdWo5T1lNaEV6OEZQRGpWTUdrRWhvN0Ixcm4yLXlodFNNZnlteHFvUndNa3dxbGtrM2NoUFI5UjFucW1JQ1dUMEY0RUFwWW5aN2Z6eHhJaUpOU3M5Z05TUjgzeWxlZ0NET0RYUnZvbmpaaE1QNmtYYkh5ZE9laDdhSFBoWVNXRFlEYU9tMmhJLXRVb1VURVlrLW1MT2VVRk9EUXBwZTVKOFVWOThMOVltTTJDN3RtaW5DbU5UajZQd0hjbW5NRTdmYXpfV2pkeGpDQ3ZoUmZ2VkF2UFptYUNHNkhhTVIyc1l5ZkQ1VlNWM3U?oc=5",
+"source": "The Daily Tribune News",
+"published": "2026-10-05T21:27:29+00:00",
+"first_seen": "2026-10-05T22:57:24+00:00",
 "symbols": [
 "HDFCBANK"
 ],
@@ -51434,22 +51452,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "4db0efb04f156bcd",
-"title": "UltraTech Cement climbs Wednesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHlKMFA4VE9veVNGY1FpQU9ESVU0QlloTllUd0YtZVJIaWNUMXByVldTajhiQVhpZTFpaGNhcUo5SFF4UUZ1M291MDBzeXAwSUM2VmFYU2RMWTZoR1dxckc3Y3JFOXdEQVJBdEpfVjBLWjE3d2lORXNWUXpWSzh0QXVvaFdFTEhIejBzY09uTzNnVzgyT292UWlwbXpDUzQzWl9sRjQyMGFaNTBDUkxPS2xkbm1WVTI2bkw3Rm03TlNhdkFOMndtd3BqS3MwZDZq?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T22:34:26+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
