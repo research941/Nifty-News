@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T07:54:03+00:00",
+"updated": "2026-10-05T08:07:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,76 @@
 ],
 "items": [
 {
+"id": "7f3f60c4de43508d",
+"title": "Nestle India defends low fat dairy whitener after FSSAI lab report",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjJLS21PNzFiMlFBQkQ0X2lHVXFZUFBqS3VXRDRJME5HTkR5WnRWdXhjTE53VFpmeTFwSTNuQm9OTUpmYWRkWWJUeUZnS2xOeElYSUdWRzR5bHhVdUtHRWxPRmdIcGtDYUQwaEJ4bHluUEVyb1IxOGpMSTVOMVI1NmNQYmo3WGY0VVhfcDYxZ3VyUEhmUUEzVlZCaXJJMlhDQ1hNQmVlUFhEazA?oc=5",
+"source": "dairybusinessmea.com",
+"published": "2026-10-05T08:00:17+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"NESTLEIND"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0358fea095892036",
+"title": "India’s steel consumption to grow 7-8% in coming years; localisation of supply chains “inevitable”: Tata Steel CEO",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMUdPd2xsMzFTZlhLVFM5ME0xdjY3c0xQeFR0VHY4cV9nUnBaZmhyOHhiODRmOUtSR2x0MjRNRlFvdF9vX3hwbHQ3RDhvVDFJa1VJSFgxbmZYQ2U4SGNaVDRPd0xKZF9lNGUwVzV1dUdWOWFTUk84bXBxVWlyOXNIWENMWHl5RUUzWVJDZS1DSUdoUnVJakVQdGtfTU1fSGszT1h0U3Jqa2poTkQwamVSZmhleHhMZXpEWWZ5ZDRDM1NJUlVmMVZWZEFWSFpzYUxlTmsycnJBRXJBMU9rQWtiXzh0SVhLVi16NFFMbkNOdURxaHVQeDVFVlBudngybTFmTmxZTQ?oc=5",
+"source": "aninews.in",
+"published": "2026-10-05T07:58:00+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "824b3bb3b7296d59",
+"title": "Jio Platforms IPO date, size, listing: Check tentative times; all key information you need to know",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeDgtbU9zdHNpWjdVRkRDdUhSczRlNTI5TlE3cXRBSFBXOTFoUWxvX1dLWXU3WEhwOFJZRHF4dDJrTmtoSEVoMjZpbnI4WkthNHBvRlcxQktFNU1VWHNLTTJvUFFWa0Jud2VYeVU0bmc5T3VNVTNiNS00Mi1pemM0cy1XN0RKdnh2c1RKZlVlNjZNUms3RTBDRUZldzdTUlF1SVNsRi1LbjRfZ3FxTnN0RzhmdC1RZ0g1WlFUdU0wNzE3VFJPTldydWctSVMyYVd1WGFuUXVpRXRUUVpaUEttcHktejB4MXIwY0t0TTVOSXZoMHQ0Z1ZOdzdR0gH_AUFVX3lxTE8yRUFBTmJjY0liY215dTF4dVRmVWVQclRmanVjNS1WSWVkSVdWNEhnMUgyMnNPdmhudTVjTGxCVkpVODFvcV9QM2JkLWs3Q3ZRU0VEYzZ4OHZtR1g5aExCeFNZbkl5MUk5blVuZ1llUkdaLTdkck1DS2tBbUhTejVIem9JbGxoaTh6bTJ0NWFGS21td0s3WTFNNkl6MUdVVjd5Z0pNVHFwOG1aRzk1R1dXZjQxQW9xNTcxNVRiVUQ1V25tQXRsQ0ltZXI2VnJaTExYalpLblJVZVpyMEFrNElWQ1UwVGhHaGYxcEdZNnYyNGhyX2haMExmTXRNcnRWZw?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T07:57:24+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "ab8748ed29845ff7",
+"title": "Video | From HDFC Bank To Sun Pharma: Should You Buy Sell Or Hold?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW9jTG96NUp6WUREaGxqdXBSb09zY1BUdTNadzFZaU5RQVRiRUM0X3NEYlJpQVV0LWo0Yy1uUUNWbWxWN3BvalVwTTBJS2pYYkVZZENoVUY0aHFQYW9ScHpvckhvSkZ1T2xSeU9rdkVuYnlIWW5lWWtiUUdXdnNUN1ZoYk9KdENJUDNhdjVTOC1EY3pNakRORWhPZlFkWWk4WjJhUmVBaEkwQnM?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T07:51:31+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"HDFCBANK",
+"SUNPHARMA"
+],
+"groups": [
+"HDFC",
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "541a3c7cd3d1dc8b",
 "title": "Wipro Consumer Care Acquires Dermatouch",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWVA0VEdfUU9tQWRuOFFONGR1ckoxVEV5MnJobzlwWnAyeklGOWlBUXNxVnBCd25zZ2padm03NS1YS051VHYzT09VT2tIbzhVUkNUMW9iZDVsZVRnZ3QwRHZZLUlKbU0xdmsyekRCUzhjMVJFWldERDR3N3VuQQ?oc=5",
@@ -460,6 +530,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "14236fb9f2686db0",
+"title": "Bharti Airtel launches IQ Gateway: what it means for Bharti Airtel stock",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamNXRk0wZTNzcWR1RzNGR01qbmZydmU2WG9EZzJkd2RiTW1NbFdiMFBPUG93NmprLWo0TlI4X0dXZHhHZ3VpMW13UDBvZ0M5bjkwOWpHcENVR3p5bkY5ZTdUS1dlQjRoOXJPU3ctZzJpZ0xIQ0NsR1dmQnVLRG1LMlZjS003Nk1jSmVLWkpocDJ5Z0tNZ0VrWl9UOUY1ajYyc3RvTk9OV1ExTExQMTdMbEpzdElaaFpnbURtWHJEanU0RkRIcUFxaDRnbWlFOVE?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T07:50:21+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -601,6 +687,26 @@
 "Bajaj"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bf2c4264a7b5015e",
+"title": "IT Stocks to Buy Before Q2 Results: TCS, HCL Tech, Mphasis",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQi1Zdk5uTjBXWTVGNlJqZTQ3bmJyYjVMTzRBQnozQnNaVGFVcmNDVjJQZTJwaFZjUTlsOUVuQ01lVm1rR3h6emlvemtRUzFUcUdwNXd5amhuS1l5VDhxOURQRERrSVBBR3k3SFBBOFozTUFyY2ZlSnlyNG1sUlBsT0g0R3JEWDA?oc=5",
+"source": "Univest",
+"published": "2026-10-05T07:35:00+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"HCLTECH",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -1498,6 +1604,24 @@
 "Management"
 ],
 "sentiment": "positive"
+},
+{
+"id": "57d59e9ba57f4cbf",
+"title": "Infosys share price target October 2026 spearheads 6 rebound picks",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwV2tBdWQ2RnNIbE15am1hUWFKeXptTzltYUVOM3Y0blY1TFlSNXlZaEZSQU1TdGVXUWZuSlg2cEd3c0RqT0R2XzduUmVTa3hHZTdPWmdRR0dsM0d3alpJc3hRWldidGJHYkNmcUxTNTgyeVI1M3JMSzBwSQ?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-05T06:36:50+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
 },
 {
 "id": "2eb4eb2121763d24",
@@ -4216,6 +4340,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "33f4dc434524f09a",
+"title": "HDFC Life Share Price Live Updates: HDFC Life Experiences a Drop in Price",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-05-oct-2026/liveblog/134685198.cms",
+"source": "ET Markets",
+"published": "2026-10-05T03:45:25+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "1c6070a8976c4418",
 "title": "Coal India Announces ₹1,10,250 PLR Bonus; 312 Days of Attendance Required for Full Payout",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNE9tMFI4MVZIWENpa1N3ci10aEJqTW1rQlNScjFZWDJWdnZ5R1BUYlhacnZMTjI0WmF4N21OdVk0N0k1d3RWd2RuTkhONWZNY214Z2hmYUt1dFVjalNoTEhtWGZyQ1JQMVVnOGtKcjgwWW5fajVv?oc=5",
@@ -4761,6 +4901,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4a8970a831fded8d",
+"title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-05-oct-2026/liveblog/134684661.cms",
+"source": "ET Markets",
+"published": "2026-10-05T03:05:22+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "93d0cdb6a64e139c",
 "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Price Movement",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-05-oct-2026/liveblog/134684658.cms",
@@ -4861,6 +5017,22 @@
 "source": "ET Markets",
 "published": "2026-10-05T02:57:27+00:00",
 "first_seen": "2026-10-05T04:26:25+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3954a7a543973172",
+"title": "RIL Share Price Live Updates: RIL's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-today-live-05-oct-2026/liveblog/134684581.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:57:27+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
 "symbols": [
 "RELIANCE"
 ],
@@ -5269,6 +5441,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "59fdca19ae9bf7a0",
+"title": "Axis Bank Share Price Live Updates: Axis Bank's Current Market Position",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-05-oct-2026/liveblog/134684342.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:41:10+00:00",
+"first_seen": "2026-10-05T08:07:43+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51081,183 +51269,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8da1479b19acb6fc",
-"title": "Maruti Suzuki Victoris On Road Price Hunsur Sep 2026 - ₹13.48L",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzF2aXV1MnNGemwzNV9fR0VoZE9CWkVaQ2xWWEpTOTBPOFNSMHB6M1lCeFJYaFZnLXVPRXBTdS1sa1lsZzFFSzhjZ0h2STZWcmJza1dtSTE5aml6VVdRYWZJNjdpMVc4dkNnMXZscWlOV0UzclJhNzhLQ2VWeGFPcA?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T02:52:31+00:00",
-"first_seen": "2026-10-01T01:59:10+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0db37ad3f30d0994",
-"title": "Apple Pay launches in India with Axis Bank",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3k0X3ZNVnZ3bXZfNFdBdVZpS0FaNGRkVE00TnU5YllNQjdwVk5BeFVpLVlnY05JUm01ZXVFREs1WGFqUVVRZ1hzNl9nWXJ6N2NNcnNnZFh6V2IxY0lsbG02U0x3Tmgtd3QzRkZTQmNfWEQwNnVRVTJ1UXluVndLZHpSVQ?oc=5",
-"source": "insideflyer.com",
-"published": "2026-09-30T02:49:46+00:00",
-"first_seen": "2026-09-30T03:12:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "32041b9f6fd5c590",
-"title": "Mahindra & Mahindra Ltd Technical Momentum Shifts Amid Market Pressure",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0xDNXVEY0xXVUlpVTRFbjBtT3h3MGx2MFhUZlZsNmt4MnZFNjN5WUgtNVhsakFWY25ORDJDVmNzLTZXTmJHUVQ0MW10VDF5WlByUlJaMzBMUmlEeTIxVlgzOHV1VzVXNGZiR1ZJbUpSeHdJVzFheHlxTG13NE4zUTJXaGxWVDh0dkI5UzJQNGVrbm9kLVlia0FtczhkWV82R1prNGJRTVEtdWZqMWNTTW5OUTZrSmQ2aXNoZ25oQXlVN2Yw?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-30T02:49:20+00:00",
-"first_seen": "2026-09-30T05:50:01+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "495fa721cd8b9ed1",
-"title": "Kotak on AMCs: Buy on SBI Funds Management, HDFC AMC upgraded, ABSL AMC cut",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0ZwbjRzNmtVcVhkcS0yREc0MnZSLUJSSkFWWXZabEhKTXlnZWkwRGN2a01YY1lVaGkwNExpc3hPd3dRMVNiM0I1Wjk1bmM2MzFXV0k0VVZnNGRrbjBGVVBaQWpzSnB1VXgtb3dyV1Vkc2NjaGU4UTRLTC1LUHV2anlXUEhkQUt4U1owOF9YZjV2LW1yOXZIYUNoM2pyTGc0eW5VNGtXeV9Fclk1ZWo4Q1dqMlJ6cHBxRDlZRzVaWGZMV3hvOGZhQjJfU2g?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-30T02:48:25+00:00",
-"first_seen": "2026-09-30T02:58:16+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ddfc49cbbd2b3468",
-"title": "Bharti Airtel shares: Kotak maintains Buy with Rs 2,200 target",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQS1aQlF1NnlNeXZmalNBam5BbmxXbzlIa1htZW1xYkFUaWtyM29QQWt2ZEt1Ung2ZGRnaWMwcGpUbjRET2pxVllUeTl5cUpKZlRFcVBwclBud2JKUlA2cWdnR2tsQ1ltSDBXY3RldE1KSVl0VmNKemVlbXBHYkc3cjFpLTBHZG9uVHVZZ1VPMG5VcnNMQ2drZTVaTFlFRGhwTUJaMlpuMDZ1LXV6QmlqUFRyOEZhOWtDdVFKSU9yVy1jWnhHRWdVbnFSUnVsdw?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-30T02:48:25+00:00",
-"first_seen": "2026-09-30T02:58:16+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3d1fee98f464495a",
-"title": "TCS Share Price Live Updates: TCS Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-today-live-30-sep-2026/liveblog/134578295.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:47:45+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "002806c94ad0aa21",
-"title": "Apple Pay launched in India with Axis Bank Visa, Mastercard support",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3BqTTRyYXFsclN3SDlwN2QtbzFsWi0zWE9aeHEyQkdsbkhIRG11SnZzV2NhSHA1ZUsyYVVmQjZfekxnNjFQUzduR3hEVXVBTGhqY2F5bVhxRk5tUFdOYnR1MWd6SENGSHdhMTN0UVQtZVpvTHBRU3dwbTU4RlVJRnYxYTh5Q0E4WjZkWjRoa1JreVN6TDJvVzhrY0pQNUNZYzBONzlGTm15WmtUQUQ5SUJubENhTEplSnJPTWNTUkJ2V2pJT2hMRXAzSURPYlVrQ2fSAdcBQVVfeXFMTzFiOVNsSzFXWWVuU2dtZHlPSHVZaUcyLXpXbmgzUlVWOWlXanhpZHVDTG93dXdsQ2xfMUZYX0M5VlktU0xtLVg5RjdpMlUzUWl2OS1iUlZEc25ELVNZY1I2cVBsYktGRUpiZHp1Q0RDVjd2ZGhwbm1ZZHBqOENrZmk4YWhNSWdYVWRJR2s0S25BTmRqSEVEY1FZMVBIQzRXZ2h1cUoxMnZRYVVyYTRDY3hyQjlMeU1VYkZheEpqMUh0OGdkckpaVC0yUE1JX2d4a3pCM1k1Tms?oc=5",
-"source": "Business Standard",
-"published": "2026-09-30T02:47:13+00:00",
-"first_seen": "2026-09-30T02:58:16+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "65ccddb725bd6007",
-"title": "Apple Pay comes to India: Axis Bank credit card users can now tap to pay",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3BqTTRyYXFsclN3SDlwN2QtbzFsWi0zWE9aeHEyQkdsbkhIRG11SnZzV2NhSHA1ZUsyYVVmQjZfekxnNjFQUzduR3hEVXVBTGhqY2F5bVhxRk5tUFdOYnR1MWd6SENGSHdhMTN0UVQtZVpvTHBRU3dwbTU4RlVJRnYxYTh5Q0E4WjZkWjRoa1JreVN6TDJvVzhrY0pQNUNZYzBONzlGTm15WmtUQUQ5SUJubENhTEplSnJPTWNTUkJ2V2pJT2hMRXAzSURPYlVrQ2fSAdcBQVVfeXFMTzFiOVNsSzFXWWVuU2dtZHlPSHVZaUcyLXpXbmgzUlVWOWlXanhpZHVDTG93dXdsQ2xfMUZYX0M5VlktU0xtLVg5RjdpMlUzUWl2OS1iUlZEc25ELVNZY1I2cVBsYktGRUpiZHp1Q0RDVjd2ZGhwbm1ZZHBqOENrZmk4YWhNSWdYVWRJR2s0S25BTmRqSEVEY1FZMVBIQzRXZ2h1cUoxMnZRYVVyYTRDY3hyQjlMeU1VYkZheEpqMUh0OGdkckpaVC0yUE1JX2d4a3pCM1k1Tms?oc=5",
-"source": "business-standard.com",
-"published": "2026-09-30T02:47:13+00:00",
-"first_seen": "2026-09-30T03:59:17+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "188d60ece8b10696",
-"title": "Apple Pay Launches in India After 12 Years, With Axis Bank as Its First Partner",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXM2blpVRDRnTDliVWEyajBnWWFscEN5MUM4WkdkTHdYbUhJMUZmY3ZQTFo4dTNFczlKV0c4TjhKbENwRWFySnBtU1MtVU1qaGhIaW5aZ2lEeVZHNkN1MHk2NEpORVFnS3hSLWc0WllhTzEtNUZGNlRYMFhkVHZQTGg0NmVoUDdNdnRYdml6TUtmVWJrTWdEVFUtZG1XV3dPUWFMWWV4OXFQckFCQ0J4MVo0VFVTa25xTlF1ZWhlTUhBRUV50gHKAUFVX3lxTE5OenBQbmd1QTZjbUpJbG5EYlpNZFE4MF8zU05ORjRHeXVzaHZaUzg4MkUxelhHbWYwOWh3Mmhfc2ZNNV84bU90RHE1SHFvOXdaTUZQcmllT3lJcFlzYXFuRWFmVTRhRHpLNENGczZlQ1E2UjVlSW5EemFHMTRXOTJDczY0S0xHd1VFaHN0eW9tMnQ4QXVkZE01T09FVldmaTR6NV92bzJHV2JsQ2dDcEZVYVF3a3BMeWh2X1pCS0dnMGpyN0NkamtoQmc?oc=5",
-"source": "Gadgets 360",
-"published": "2026-09-30T02:47:05+00:00",
-"first_seen": "2026-09-30T02:58:16+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "786f861559b1cfb5",
-"title": "Adani Ports Sees Warehousing Growth Shifting Towards Eastern India and Smaller Cities",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0pydGRIc1Y5aUJsQTJwcFVfR1JpWTdpWXRUbmxSU1BTcjZzSWFuVHFlenJhXzdmT1BXUjhwcTlUUkxxR2xkSHFLMUEwZXNvWWE1MWp5bTNadTJFeXR4djd2TFdXQkFSckVPQUJzVzh5ZllkcmE5VFRjN0kzdFNZMGFkU29zcHJJT0FnZlI1RUd6eTI5Z1A0d0hyaEktYVFfQ0JaMDRGd0ZjTGdOMGdhSk41VHRrZGl3NkE?oc=5",
-"source": "Maritime Gateway",
-"published": "2026-09-30T02:46:33+00:00",
-"first_seen": "2026-09-30T04:17:46+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cbd23f4347eb68f2",
-"title": "Titan Company Share Price Live Updates: Titan Company Faces a Minor Setback in Stock Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-30-sep-2026/liveblog/134578205.cms",
-"source": "Economic Times",
-"published": "2026-09-30T02:45:10+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
