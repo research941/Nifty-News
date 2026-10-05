@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T01:19:05+00:00",
+"updated": "2026-10-05T01:35:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -441,28 +441,134 @@
 }
 ],
 "errors": [
-"Google News [RELIANCE]: HTTP Error 503: Service Unavailable",
-"Google News [JIOFIN]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCBANK]: HTTP Error 503: Service Unavailable",
-"Google News [HDFCLIFE]: HTTP Error 503: Service Unavailable",
-"Google News [ICICIBANK]: HTTP Error 503: Service Unavailable",
-"Google News [SBIN]: HTTP Error 503: Service Unavailable",
-"Google News [SBILIFE]: HTTP Error 503: Service Unavailable",
-"Google News [KOTAKBANK]: HTTP Error 503: Service Unavailable",
-"Google News [AXISBANK]: HTTP Error 503: Service Unavailable",
-"Google News [BAJFINANCE]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJFINSV]: HTTP Error 503: Service Unavailable",
-"Google News [BAJAJ-AUTO]: HTTP Error 503: Service Unavailable",
-"Google News [SHRIRAMFIN]: HTTP Error 503: Service Unavailable",
-"Google News [BSE]: HTTP Error 503: Service Unavailable",
-"Google News [TCS]: HTTP Error 503: Service Unavailable",
-"Google News [TATASTEEL]: HTTP Error 503: Service Unavailable",
-"Google News [TMPV]: HTTP Error 503: Service Unavailable",
-"Google News [TATACONSUM]: HTTP Error 503: Service Unavailable",
-"Google News [TITAN]: HTTP Error 503: Service Unavailable",
-"Google News [TRENT]: HTTP Error 503: Service Unavailable"
+"Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "404da43b82a87657",
+"title": "Weekly Recap: Rs 10,000 crore SBI loan approval and Rs 2.35 dividend",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWlid1NxVDhsSFdDdDZFUDk2MTFKU0JtNHBJVGFsWWNQb0RyT3Z4bFh1cFNRTElzMmMtY2FEM0VOelpFcDc0VlRHTFpGTExlaE5sb0tCQ0hfV2FJUDZxeHA3RnJLemhJaFdMYnRtWS0xaXZHZmd3SjZjZWs5bDlxa2g0c1d0Unp4MnA3ZzJhTm1hR2ZpUXF1bnI4dVJPSllTaWYteWZmb3E0NW9sSURjYVg5TElRY0Z2QndLcUI1SGhIS1Y4OGRKSw?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "975b1bf7acf27971",
+"title": "Weekly Recap: Kotak Mahindra Bank Q1 growth and Anup Kumar Saha MD & CEO",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcERHNktteDdiS0E0XzZ2LUVNUVZPTklhSW5mX29xWWZlYjBsNkxTZU9ldVZzaFQ3cjdSUFUyUU9qNllDam1sd0ZEYmtISUx3aklfa25rRk9lbFpwa3VwUkQza0ZHeTFWNC1walVMSjNUc0FBWXFGeUtVYmM1TFVhVnoyTFdGQnE4UTFKMC0tWXJZSHZ0N2NEeHVIWENyRFA2Q0FaLVNaaW5vQmtyZUdUUzlRZkNUNjBFS1lZd2MtTDdmdWs0MlRBRFlxWQ?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "0ed604cd755f6af0",
+"title": "Weekly Recap: QIP, warrants to Bajaj Finserv and Q1 NII; GNPA/NNPA down",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZnZ6b3RZQmVVd3dPdXU3ckItbnFORDN2VmRTWnhVaUxmalVpRG5QeDhUb2hEb2tTNEN2cWJsbTF3RGVQaGw0UkFLTDZzdzJ4amhpRGdKTjlrMFJ0NjZER3EwYlhQWmdxa3oyMzRFbXJzTWk5cTl5UGU0ZWR3cE1aQnZEUmljTlh0VUNUXzItZXdob2Q0UmhqaF9WSGVkcVZSSWo5bUhfLTY4MDk5bmRGMGxVOS1HTXBQSjVuaElNLU1SajU1SjJVRVpn?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "33dd18c170894181",
+"title": "Weekly Recap: Q1 loss after OFAC and SEBI finds no Vinod Adani control",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFprckhvY0JSZ3JSUUFta2lvcDNzeVBDeFJmWGpELXNNRURFM3RwVkIzZlplQmFTMFFBODZqay1nTDFiUnFzdmFkNnRmeUFmMjhvLWlpNmo0TWNMN2ZSQ2MzNHJVWXBXdlQxS2xFLUhVS0xLdDVHVGhfZkY3V2ZTX056NzZmaFRrZTk3WDVlUUpZX2VkUDl2aGplX2UwTE5EQTdYSGFPbzlFbGFkM3BUNHBxX2szUFFjUldRWXhLNUNNRjdSMENtcEZWNA?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results",
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "3045fad2411f0469",
+"title": "Weekly Recap: Max Healthcare shares plunge and pharmacy margin threat",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWprNlA0MXl0S2I1Q21CZEJjV1ZrRUd5X2FCdUdHektlaVllQnNCX0l4M1RoNmE2VE4wcE5sd0pfb1RMZHVwcUtWakZubDhENkxITjRJUmxLQVdnbDYyb0dhX1k1R2lDSXNETGdVY0lvSDltU25DbVZYZXM4VW5GUXl2amRaRzg1RFN1UDZrSlM3czZrU1ZEeUlFc1RGUzE3MTc1Vmt0RXZpYTRDYzVOYWd1MGpudUFuVVo3V3R1M1hIdTFWUWlaZ0Zn?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"MAXHEALTH"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "7b7aa527988661a0",
+"title": "Weekly Recap: BP deal keeps Western output flat and boosts ONGC value",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnZXaWRxa3JlRS0zU0hncFk2QzFJMHpacWVEYXFhT1lWbEIzaUstWjd5SnZrTF9uUWpGbUFNZGRaRkVEN1hsV0cxTm15NWJxbnZxM3JrRkFiTkU5MHJmR1piWWVOU0Z3MVVrMnB4cTBjbUg4NEQzMmR3TnpNaEIxU2JwZUVnNjJOSVBPMWFMQmk4dU9uTHpVOFJSZ2RhemlJcEUxYU41TXV1UVpnT1dUNFVvbU1iOUZvUUl2elhvVXVwNDQtaFlUQWV3?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T01:00:00+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Order/Deal"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4615a328cb6341c9",
+"title": "Stocks to Watch Today: HDFC Bank, AceVector, Orient Cables, Manipal Payment, Pranav Constructions, DLF,...",
+"link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQemVjQ05mZTZYbVJGdGk0cjFEOThKNDF5S3J3TmRyQlhRRGVJUnBRWWc3b2JGbjBMUnA0SkUxaWNxVHdmd24xZUQ5Y2pobE03dmVTVDk4MVZJTTNXMjdjZjVrQkEtZ1lwRlp0ZnlMbUREejFncXl0S2NIa0NYV3BXUURRcGlNN2NqOWtPQnZndjRUZlQtQjhoNGxvRXVPR0o5TGJhUVFWSXdfY3lvTFhwV25SYTJXWXJBSGhRdU9oQTFmMDdXZVVZSnRCMDJUbV9STmd5Rmo3aU5MU0FlZk1uMnB3ejl4cGpKOHU4S3NzSFktczdIblh0Y1lLWExwWGNFWl9IcF84RkhLdUNhQUlVTE5WSzZ0cVhIdlhfRjNabkxraDd2Z3BLdkVUWUIxMjR5WHVRQXFPV2p2UDV1ODE5bVVTNTRCcnR0SUgyU25FONIB1AJBVV95cUxOM0hNTVNOSWp4UFRpdjJ3akRpejRTN2tEel9iQlBHd19wWEU3Y2NsUE94MUppMmxwMWRhcWh3TmR6czQzRDdOVGxxSWJRa0VoNm5RdmtGLXZzZlNIOU15bGYyaWJBcndiY3V4T2paYldRQTY5andoMWx3YWk1N2taTWd1UjdmRnRjQVF6eUlGUERwV2NlMTR5X0llSTVwTHAyZ0FjMkFMaXVNdm9pWk9KTGdJZE9yOGZlbmpoMmc1QnMtVzFYVlFKR3loSVctUEV4RWpka2htOFBsQm9uLVJ0WDJKeThLU3BsWHI5bl8xd2pTT3pyWkZEUENkT2lkNW9JeXNFWF93clRmZmpWeWpzeDBId19EelYxTkJodUkyeDc0alJ0V3BjaF95cXJxNGc3MDVTM0FoeVhGdFVSb2VDOVlCemxsMWFyeWFHbnVBVlZCV2Zv?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T00:59:55+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "9a4707bb7c5023e5",
 "title": "HDFC Bank vs ICICI Bank vs smaller lenders: Where senior citizens get better FD returns",
@@ -705,6 +811,40 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "06aaa24e53d66c67",
+"title": "Kotak Mahindra Bank shareholders approve all AGM resolutions",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEQ5NFRaUzRmaWNDLTdqV1Z5b2RLVFZoM3FqSkZFYVU1bldMU24yY2tVMFVKYnpWLVoxT0tUUFVxQmRkZkh5c1ZaaVNjVEJzYzhYeFplT08waFE1bjBXY0dQMnVOTkdwd0VzcTVoRTI2VE1YSHA5YUZGM1EtNGc0YjdGaU5OOWUwV2tZaFJoUXNrNlRiN2ZlQUw1NW50ZW84ZkxkakFVRi02YmN4SzFkZDFXSno?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-04T18:57:16+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d5dfd037becda440",
+"title": "Inside the next phase of India's digital economy: How Swiggy, Tata Steel, HDFC Bank and NPCI are putting Agentic AI to work",
+"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0NOU3VwbjBxWWRtMzkyZEdIMGRxbnZ3MVVaRDljREVIUjJ5VkJ3ZE9md2F1SlB5TnktRmdWbTdrSERGWVpZRkJLbHpibFNEUHlINFFrSUQyLUVzei03ZkdoMGhvY01KYlB4VVZldXFZX0wxSndqQjJtM1ZJeGx3OC1xMjNOZFZzNGZ0RHNIYnd1d2h4dFlOVXdtRG5DWTZRdTNDQWlCNUlBQ2J4ZnRPcFY3S011b0MyU2otQU1XY2ZnYUZmUzBscXBEX3JNOEpGbXlabERCVDZFaFlvcE9mM3U5UXY4Wi13R084QzNIa2xlLWxNUzRwSmxrRkRZc2paU2dfejB3dDlQbGQ4RUxNcVYtUQ?oc=5",
+"source": "Express Computer",
+"published": "2026-10-04T18:35:38+00:00",
+"first_seen": "2026-10-05T01:35:00+00:00",
+"symbols": [
+"HDFCBANK",
+"TATASTEEL"
+],
+"groups": [
+"HDFC",
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50898,159 +51038,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "d6b03de6b035b1f4",
-"title": "RRB NTPC Undergraduate Vacancy 2026: 1,688 Posts, Apply Date",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1FXMDE4OEdnbzVabDI3bXR1LXV2b3MzbjBpNzV6U1VRTEo1bUdCQWJ2dUdVNHpZZHloZDA4ZURpeVlHaDdwaDFydHZRSmJXcmd6bEVZNnExQWFjYWxsenVEaXVEendGYmV6dno4ZzVVOG1sTTh0VDlNOHl5SVg2ZHNWM3FZVE1HNlE?oc=5",
-"source": "PW",
-"published": "2026-09-29T10:14:58+00:00",
-"first_seen": "2026-09-29T11:47:48+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5e86e2d50ca4bd85",
-"title": "Nifty 50 top gainers today, Sep 29: Adani Enterprises, Adani Ports, Dr Reddy’s, Sun Pharma and more",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMDlXbDZyX1pjUDZCcnNkUDZFelZKQzNnMVlKX0RMUHhTc3dDcl8yLXVtSW1yZ04wcDh6Rm9hcnhZcngtcDV5WEhZeVU2bW9lVEVhaTZVT2x0NVVraDdKQXlEcXhiM1hocWp1Z3pmV0tNcV9ya1BzcHgzMy1VN1phYXVDbklncGJyWGZqZXRVRTcwdWROUk1MUkh6RkJvbjIxYWRHZlJsZ1ZZbVFpUXpvNUFkbFNmVnN5UGRvcnZ3OWlDc2JxdzhOTnQ4TDN5eUpYOTBBZWdZR3hVTzVDaFRn?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-29T10:13:02+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS",
-"SUNPHARMA"
-],
-"groups": [
-"Adani",
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "372a1975eb99afa8",
-"title": "IT Stock: TCS vs Infosys",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPN3NpaFZTN1hQdlEybE5xZXk1cEpDejNsQkJSbW5IYWRqcEhDODdDYTEwUFBKcUk3X0JBWG1yUUNXdFI3QWNqZ0Rpd1Q4SS1zb0RMLUJFM3ljZW9BSTdvLVdBUndYbHVMMnlqX0VqaW8tdmIwUklQN0pHRlI0dUlQcWlZenZlb002NUVqeEdPUV8wUk85RDlLQlpDaTdUYTRkeW1oajJIYXNHa3dmeFhVRUFxWmdVZF9wM09CWGMydHVadk04Q3JTVmYtWlNZVzliNVNRV0ZITG1FdzFjZjF6QlpNbjBEVUE0VVRJYWpQQlBCa1JhMDdCN2tBM3RtMlFEU19kY2p3?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-29T10:12:40+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"INFY",
-"TCS"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "39f7b1b193b505ca",
-"title": "Better IT Stock: TCS vs Infosys",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Zai1xczdLeURBSUg2M3VfZlh3RU5jekVhTlJSbFlUejAzSG5wOE1sVW03WVNXYjFKWWJHUmNpNy1vRkp5NmxESWFZU2JvM0dBUlZNSFQ3Y3lma0ViaXgxY1A3eEU2WEZZcjhTYmNR?oc=5",
-"source": "Equitymaster",
-"published": "2026-09-29T10:12:40+00:00",
-"first_seen": "2026-09-29T11:59:00+00:00",
-"symbols": [
-"INFY",
-"TCS"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "684cc97b2d7f9888",
-"title": "Sun Pharma plans local debt sale to refinance Organon acquisition bridge loan",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHNHeUpnSWtiQzUzZV9DWWRFbjlRTFM0MS02Y0NMdjZLVVBDZ1hKTXRkeUs4Zkp0QWlrVnVKS0JsSHp3dVNleDl2ZThBaVZlSnF6aHZRMlRqM0hQOVlqU21fanh5M3B5bXJiTG43WEZ2Rmx2WnRzUG1fS0t6UFdXOW0yLTViSGxwb0Z3QWJwTEdfaXlaZzBidUVacjNLRlU?oc=5",
-"source": "Traders Union",
-"published": "2026-09-29T10:10:41+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "03082af1d1fa8357",
-"title": "How Maruti Plans To Remain King Of Petrols With Three New Engines",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01bjVUaklaa2dxVVlvak14OElaNDItaUE2Nm5BU3JvSWhmd1VEdHBwZ2hUZzE0MXlIeEVTSjRXcG4ybndjUWlkRk90dmJoRU9IbmhBTjh6MEl4T2h5RzhPYUd4WDkwV3k0YzNkYmhOT2pYeGlUd0hySU5ydw?oc=5",
-"source": "Cartoq",
-"published": "2026-09-29T10:09:24+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "12f0ec88a18e3eba",
-"title": "Maruti’s Next EV Could Be a 7-Seater With 500km+ Range",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MZy1ISEVpOVV6NkdRTVJRSzE2MzlnRGxPVTdsV1BmMFlBT3BKeDB1WDRpZGo4NFlMU0JWNVlXQTZMdU9JTUNpUEtvZk96ak9sNERoamtSd2cxV3hLaFUtRFlQQ1JCVGszVEtDQTFUenQtSHBlUmhV?oc=5",
-"source": "Car Lelo",
-"published": "2026-09-29T10:06:48+00:00",
-"first_seen": "2026-09-29T10:25:55+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b32b5d16b994da94",
-"title": "Jio, Airtel add millions of users in August: TRAI",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkl0YWlsX3hScXgwSnhLRVZaM1lLVGxzS0FMcFFhbHZQNmF6YS01dFF2cGVCUFJKNXlXVkxaMnNodVBrNnppcDgxcS02cFJXNEEzUk9wYWVEUnE2MzhiVUJCTERUUmhpcEEzSVpMY2d0QVB6U1BqTEJILVZ4aTNjdUpRZDh5VGpGOE5DanlHWE93ZFlISVNV?oc=5",
-"source": "newskarnataka.com",
-"published": "2026-09-29T10:04:40+00:00",
-"first_seen": "2026-09-29T10:07:12+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6c716b1a784bfbd8",
-"title": "BAJAJ FINSERV LTD. Option Chain - Live BAJAJ FINSERV LTD. Option Chain Data, OI & Price",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tMTBIU2xVdmVwTDFYc2dLd1V4R2V5NWpMMWNFNmtwQjFYeVhCR3A1QXk1dGUxOFVlNWtqOVphUzNiendJX3czRU50WjRSNkgwRUNxQVlsUXI5LWI3TWdz?oc=5",
-"source": "Upstox",
-"published": "2026-09-29T10:04:21+00:00",
-"first_seen": "2026-09-29T11:59:00+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
