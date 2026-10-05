@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T23:29:55+00:00",
+"updated": "2026-10-05T23:43:58+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -865,6 +865,24 @@
 "source": "PSU Connect",
 "published": "2026-10-05T17:32:00+00:00",
 "first_seen": "2026-10-05T17:34:55+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "3b17d2d35e763c41",
+"title": "NTPC Government Nominee Director Cessation: Piyush Singh Resigns W.E.F. 5 October 2026",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUNkY0RGYVZob081a0lvNDBabEhnbjVISDBLaTk1d1VPM0p0cVJtbXE4SUhwUzZwWjVDQ2l4cGRCZkJicGNId1JsSnZTd2hIT1NQVERvOE5JX2pMUmtBaDhWWlhJOURNSmF3QU1iYi1yakY3YkJ6VmlOYUtWYU1pUTNSMGY4elowTEVfTkgzZklEUzBxTkZsOThiQjlNYnR3OVVSenRNX2dBRzFSQmc?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-05T17:32:00+00:00",
+"first_seen": "2026-10-05T23:43:58+00:00",
 "symbols": [
 "NTPC"
 ],
@@ -10280,6 +10298,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "4e1d1c7b300b3ef1",
+"title": "Mahindra & Mahindra Financial Services Share Price up 4%",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemRzNExpdGk4OU82OU55ZXp2bVUxeTZxWFE4bFVfb05keGExcmk3SS0zR2U2V19PWUpiazZTeWFEN2NlQXR6eEI5bWEzT0JUM1BKM2JOc2l2NXhwcnVzeVZ1bS1Bdjl4MWl6VXFkSWV5WENvTXNUV3NtWURrSUlUQUZkMEoyUFgycTNBa3JHVWlMcUdmT1FUM0F0OEJfN0Q1NW5B?oc=5",
+"source": "Univest",
+"published": "2026-10-05T04:07:00+00:00",
+"first_seen": "2026-10-05T23:43:58+00:00",
+"symbols": [
+"M&M"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "9c4e59e9f1b31bc5",
@@ -51420,38 +51454,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "584b10f31baeac24",
-"title": "HCL Technologies climbs Wednesday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1A1OTdta3hjVWtYbTJrTEpwZWM0SENsejg2d09qOHJHQV9aZFhIcVJjSXhQZTdnUHROdmNZbnNodXZ3MWg3NWFVU2FvQW8wRHdOUUhBN1M0WmFUQ1BhaEhsaXE5VFpBSk82RFhRcDNfa1ZmMjIyX3ZNWlIyNWN0Y1pDY0pxMHdGLVcyYWo5dTFpSFk1cnFwZXJ4YmliSWxCSlhIQzF1YkR3akVkTEl1d0VNVG4yUQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T17:20:05+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "52e3f6ebc34f5ebe",
-"title": "Bharti Airtel slips Wednesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTJaN251clV0RVBFUl8xMktLdGpxZ3k2NzNIOTBadTd6YllYRHhlOEhXSVhzY2UyRjY4aDlGd09ib0RIdDhVN0xPbkRDNHlnZHdlaGlVVVdyd3J1ZHZkM2FnWGEyRlpHS0VzandPWXhCYTNGNTFCQzRqcGJnbUJKMVh1MVBhTU4xWlN6YkdMbXJYRHdrR0xiOF9NdDZndXhaMUNGUkxPamFkQkRaZ1QxZTE4S3JnV2VnaEpUR2UzY1RQSWc5dkdr?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T18:21:49+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "negative"
 }
 ]
 }
