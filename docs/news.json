@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T15:24:59+00:00",
+"updated": "2026-10-05T15:50:41+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,56 @@
 ],
 "items": [
 {
+"id": "e1b25d0a598673d0",
+"title": "NTPC Announces Cessation of Government Nominee Director Piyush Singh",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFVyRzViOXJRSFFTS3ZFNjloTFZITnM1ZDZMSjZUU0lJaHFndVB6MENmeHRDemZsa3FIbTBfNl94MTJUMXpjSF9vQTFlZ1RaSHd0YWhtUnNWeWlERldYMk5GM2hXNVBrTnUxMFh0bDVoczRqY0NJazV1bGNWbXM4dVhPN3MxT1Fvemw0MEhDU3A3MWNYTy13V21R?oc=5",
+"source": "Sahi",
+"published": "2026-10-05T15:46:47+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0fff8c7e606e7cfb",
+"title": "NTPC announces cessation of Shri Piyush Singh as Government Nominee Director",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3VNNlhNVl9nOXFlT3ZqLU1GZklqMTNQbnNHMnBtS2FNQ195ZTBzejhvT0hwa2UtM3Y5N2pOTExTZnBHNmlHMkp3YVJZbDgzeklVbzlxZndFRVlGMDN1Z2FvSjhmYnlVdkItQnNmT3RWUGZvS2V5LURDeS1MNlIyeExxSGFjYkRST3VyMDFZeDF4U2hPcmFIUUdubnZ5NmEyNU1yVWpfU2g3X3ViSzliSnd3VQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T15:34:50+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d36b75baddaa2fce",
+"title": "Tata Steel expanding NINL capacity to 5 MT per annum: CEO TV Narendran",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2VzNXhQQnVnb0xCSEV2a3lRdnNtWVVDOEstbnlYOFhITDUwTTNVd0VnaGdqS0xQVG1lY0g3UHZsbGxpVGkyemdYX1JCcTJqQmduN25BUGo3ZEdlZWJhbmx0dVJXUnZVaTVSd29Wbm5PblpCWk5aM0dCX0YtRGloQjFEeTdzSE5sZGc2THBVWk9oZ05OeElTSXgxa3N1LU83REdySGozbVQzTUZ4RHowUGtGdmhrak8yWk5FWWlmTUpWZWhlblRWeEF4M1prdzQyX3BjaDA1RmlkYTFjQ2ZJeDRDOXVsQ3pkMWNpamt5OFFubHNC0gHuAUFVX3lxTE9nMF9FLXN5a2FTcFNZYlI3b203a1pWYUxJd0hiWVpndEg4YVlkM19COEVkUjJ1a3VicXJIai1XZlRsc20xMXA0ZzNqVzR4b01YYm84ZnBJaHYwX1VMZENGaHd5SXBXdDdlY0tjc0JvNDZ5SFVGUWNSLVN4bExQWTBGWS1kcXpwbFFhRDBsSDBmRjNxcXZDQ2lNYVg0aXhaSnc2b19QdUpXN1VQaUdoT2Q1SGlXWlo0SnpUbTJkVjE0cHg0c29VaWRfazIzc25vTU1yQll2UFlVdnJQcDdqSDVkZFU0ZE1MeGR3b2xiX2c?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T15:18:56+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "50b1727717484362",
 "title": "Adani Ports & SEZ to host investor meet in Singapore on November 18-19",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1NqYkJsUWVmOGdmcmpUaGtvNk1odkpGc3JxSGxjam04bm9SWkNLTHBuU1kza083RmczTWVuT1ZEc1QxbzdSSjcxdFkzWGF3aWt2MFRKMG81dWk2bzYyT1NjNlJLS2pfd2toZkxrV21lXzliV1h6TENXTUgxdXNSOXNsN3plalpibVNMeUhhYm15QVgza3RITDBLN2l3ZXlla2REY0diLTlpaHVDSUFTZ284MWZoTE0?oc=5",
@@ -473,6 +523,38 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2cc61cee703ed90b",
+"title": "Tata Steel Expands NINL Capacity to 5 MTPA in Kalinganagar",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUFnX212dTVyOUhieFdDZVF0SU1KSjFMN1l4cDJqT3NrQ1pHMW9ya2FkOUxueWZfbDg1TGx6aFdtR0Q1d0lla29FaEZ2UjdzYkw4TDVMdEFkdWFzbmN1NUxEWVV5alBwdV91UVVzRGN6NUdyanpDTllkT1JrWTgzNjExcm1PdDZHSzBSaVgwU2F5bHY3UzJXU0N6MXQtRExidlNSSzA1MVJxckgzZFBr0gG0AUFVX3lxTFBwUFhNMzdjZDlCaThaOWVJQ0JDQ3JnRHFtMFQzdjktUzhJeDBBc2REbUdaU0pNV1lrbWtVYWE3dzF5b2ZOQ0ZUNS12cmQ5MzM3S2JhelJ6TzRrRnFsU2s0eFJld0xKR1lkWUZtcFV3N1hKdHBGQXl4VlFIckFzZFVuemZPa09mRmhNMy1SejlIWUg5V1FfRUxqZlkxWVBTR0paalBfZTc5azg4azFtWWFnTjVQUQ?oc=5",
+"source": "Rediff MoneyWiz",
+"published": "2026-10-05T14:59:43+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "828b1ba8078769bd",
+"title": "What’s up with… Deutsche Telekom, European satellite operators, Airtel Business",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlZKdklzN0did2ZhY1ZPSGZZZThjTTFVOEpBbG5KS2NGUjhrQXQ1eEl1bURXYTRkNmIyWGU2WnR3UXVueGJuRlM0TzlCcDcteWgtNjJyb2tBR09mMnVDelpHalZqY3kwZmdJaTZ5NEl1bzA0LVFmRWN5Y1piTWR2NlliNDd0dU1jRDFUM1ZZQlJDVDl0RzVHMk9jQkhobWd5OGc5ZWpackJULW5iVVBWdGRiR1FfLUROMGhCX3ZlLUNQUdIBwgFBVV95cUxQZlZKdklzN0did2ZhY1ZPSGZZZThjTTFVOEpBbG5KS2NGUjhrQXQ1eEl1bURXYTRkNmIyWGU2WnR3UXVueGJuRlM0TzlCcDcteWgtNjJyb2tBR09mMnVDelpHalZqY3kwZmdJaTZ5NEl1bzA0LVFmRWN5Y1piTWR2NlliNDd0dU1jRDFUM1ZZQlJDVDl0RzVHMk9jQkhobWd5OGc5ZWpackJULW5iVVBWdGRiR1FfLUROMGhCX3ZlLUNQUQ?oc=5",
+"source": "telecomtv.com",
+"published": "2026-10-05T14:56:10+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -766,6 +848,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "93277aac23cc906f",
+"title": "HDFC Bank shares pare early gains, end over 2 pc lower",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1RiNElnYUt0VVA4dk1pQTUzWTJta2k4ZVhvN2ttdWJWeW5oMl8yU01GRGs4QjNZTkdyTmphcVFCSy1MS3hvU0JiRFNnQWVnNUpLWXJVTW5NcmJHQ0t0UERRX3dkVWRERW40OTYyNXp6WkRKVjU1MlRsUVp4Rzg4NEdmdmZHajZWTy16UHlMdGtkU0szVklXZmNIY3VQZXA3enFHUC1jYXQ3bGF2Nm5tY1d5dzdCU1ZzeWc5UVR4QdIBvwFBVV95cUxPT1RiNElnYUt0VVA4dk1pQTUzWTJta2k4ZVhvN2ttdWJWeW5oMl8yU01GRGs4QjNZTkdyTmphcVFCSy1MS3hvU0JiRFNnQWVnNUpLWXJVTW5NcmJHQ0t0UERRX3dkVWRERW40OTYyNXp6WkRKVjU1MlRsUVp4Rzg4NEdmdmZHajZWTy16UHlMdGtkU0szVklXZmNIY3VQZXA3enFHUC1jYXQ3bGF2Nm5tY1d5dzdCU1ZzeWc5UVR4QQ?oc=5",
+"source": "bfsi.economictimes.indiatimes.com",
+"published": "2026-10-05T14:00:09+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1593,6 +1691,22 @@
 "source": "Moneycontrol.com",
 "published": "2026-10-05T12:08:17+00:00",
 "first_seen": "2026-10-05T12:26:30+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9bad4b10cb9f87ca",
+"title": "Bajaj Finance kicks off Rs 17,500-crore fundraise, eyes November launch",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUzRkSXg0TTRaQjlhSUVoNGhTaXZlMnlEWWVheGQxQW93ZlN5OV9CSXNGY21SU3Q1c1cxQTM2TDh0SmVzOHROZGp0cXU2NktwQ05PV0pSMWQ0blA2bl94SHZEN29CVkFPV1JYYWRNOTlfeXc0amwza21INUt1YzVmRUdSR2YyYlVDVU1pZzFOVE0zS19zbGwwQnVLNzBrNUpwTlNzVUFYWGI3V0VXZFRSOG1TdlFrMUhtTmV6cWl3eEkySk9ibV92dEpkcWZ6S2VYSDNBdDBiaFhFVmU2VDNrVEdXaGN3RG9kZUN30gHwAUFVX3lxTE0yQ1ViQTdYZXA4R1FGTTRhbF90MjRzcExDQTJLU2hBZmc2ejVBclB4NEV1T293LTVOMDN1cVhGVG5MNkc5RDdsbk5mQVVzTzhrWl9ydWdTODBEVG1lSG9EVTlrSm10LWhlS2l5NU1CeHd6LVFOY0VQY0RyWjBXQTdRelNFS1Vob1RwNXp0UTBqNi0tZTNGWUNUMnhKYmxocjJLb08tSmdNbzB3alMyMVBFcUQtSEY2c2JKRjcycmxMcEE2QTJSRTRVQmppWHQ5NnRva09kLUtJNll4V3VObHcyMmV5OUlRNzhQb3FnWEFBUA?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T12:08:17+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
 "symbols": [
 "BAJFINANCE"
 ],
@@ -2748,6 +2862,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "3996b4080cf4c5f4",
+"title": "Wipro rallies Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVpMUTY2ZEg2RnlhTTlCamswOWdJcVVmMlY3bU5qY2hVVUR5WlZBSWhLdWk3V2RVZTRacm9qN1dBRlZsY3VOUm9aYXFqTGFyZWpVV01tTThmUnlPTkttLUVVUldwM3BwTy1VbE1kTTB0YXdEWlkyOEdZUC1tM3RwSi1uSVBUeEk3VE5zemRGVmdBaEMyUlRpR1FXWVdNUUNuTWR3enBtMElIeWpSaVF3TXRUQ01PQTMxU0ZydTBLeXY2QQ?oc=5",
+"source": "marketwatch.com",
+"published": "2026-10-05T10:32:00+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "86614b84cd543deb",
@@ -7204,6 +7334,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "31e46be73f15dcb3",
+"title": "SBI Funds Management Ltd. Share Price Today - SBI Funds Management Ltd. Stock Price Live NSE/BSE",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1pkY2dzWENxbjlMaWhnckI3cXR2anJlM1FqRG1WeTYzZXJsUlhvbmdXN3ppclZtNDM4S1hGQVBXQVIyUnY3aXk1U3BiMEVhM1hWc0hMY1JEOENSUUZGZTNpdmt0T1RoSkJaNGZvdmkySGFTM084bDFuLVNfdWFHaGN3aDYtQXR3aGpN?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-05T05:29:00+00:00",
+"first_seen": "2026-10-05T15:50:41+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "b1210eb7de38ab1a",
@@ -51246,159 +51392,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7a030488fb7a5005",
-"title": "Only 20 Nifty 50 stocks gained since Sep 2024; TCS falls 51%, Trent 47%, Infosys 46%, Eicher Motors jumps 50%: Motilal Oswal",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXhXRTRwdXdSdXZaal9SWTJXMDllcTgwTGlfdTVnUzBzMU91R01ZYU1GUzcyTjk1N09CWnBlcmVhckgwbGlMSFlUWUhUVFpVM1ZWc2YtTG01bG1aR3NBUUZkQ3h2UHloc2lMZDdoU3B0R2Rzd2VUNV9JRzd5ZV9HbTZad05wYW9DcEhiZFU1MnNOOVFESkVDT2ppVlF2OWVUcjd4ZUZfYjBoRVo4YzVJbVFwV21UUHc5bnRJRkZUdFVqaGN6UjRZNFJIbTVZWkViMUxXOVczbVJTNHFfbUtPT2xic1FQLXFWbnNibkZsWTNhQ2dEekNiOVhVOA?oc=5",
-"source": "ET Now",
-"published": "2026-09-30T08:36:45+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"EICHERMOT",
-"INFY",
-"TCS",
-"TRENT"
-],
-"groups": [
-"Auto",
-"IT",
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "3d97093e2cc114d7",
-"title": "Stocks making the biggest moves midday: Apollo Hospitals, Max Health, Rail Vikas, and more",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkE2RGxWMzZoa1lqbnRkVlVzc3VORmExbFJhekprQlhnbi0tUlEwTEhZQUJuSktUQmQ4VC1Mand3blJQYXA4R1NoUnFCMVpTbDlTNFU0cDhTbXRpSWRscE5SNFBkakNxOUZYMDBJMlJyWFBEejh3QVRVU1RNdkt2QURNVV9la2x3Tk9lV0s5dU9uMXBCVjBORE9PU3JOeHFjUHp0VTh3Z1BlOE1LMGI3bXpUaGhyaFRtZXRpUm5GbGZBcGlXdUFZbjJZMnduVlJmN3Axc3lyYnJmOEszbWlzQlljSGRUX1FwZlhxbjhjTHBma3hzTTR0SDlsWXQ5LTVuMmlCRFZn0gGMAkFVX3lxTE9vczBPN2QxYlZneWlCNUVoQ1p3bnhlLTdWR0x0RXMwTF92UnBIWHJud0U1Tm8ydEFiZk5salFWR2VVOE1TMUtkVkR1bktSLTlXVTl6SVFJWlQ4SGljT1MxSFM0YjZlRjFLVDhPOXlCMnVxTHoyUUxtcDlLd1h2WWhUdVVBQkg5NTNyMmtVTzc4X01rdldXYTRpa1ZRcUJXYnJkMmFoMTJWVEhGQWVibGJOWG02RUFTbW9fMUthWGJMVmdkX0JpOXFSUDRieDJFNUg1ZzhnNUZUdU1sajltSm11MkpmNXU4WFRwZHlTeWM5ZzFzc2dVcjhFNG5tVm9VR3Z4UVpsVG43RGVLZzg?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T08:31:44+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5c913a7f825704c5",
-"title": "Axis Bank becomes first in India to launch Apple Pay for credit cards",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdU9sOUhMNnJDVTVpdnRtV0FacjZQQWtsekh2NGJSVDhkbU9CVFBiWDR5Q18zLWY1aEVqSDVmSzBhVkZjQ0FMSmFlWmJNQWR0eEQzd05rVUc4aDVHM0JiZHN2Z1prcXJkNWVHLVlLeDRvRkFnUjVZNjdvNjlpY2NkdG10NE5INWFEa2JXcUE2YXBJNXlUWWFPdGIxdVJFdFNLV1FjWGVCR09rcG1LZlB5Q0ZaamlHWGdVUWtuREVDaFdJMEtzOXJuXzBVN2ppWDBa0gHQAUFVX3lxTE91T2w5SEw2ckNVNWl2dG1XQVpyNlBBa2x6SHY0YlJUOGRtT0JUUGJYNHlDXzMtZjVoRWpINWZLMGFWRmNDQUxKYWVaYk1BZHR4RDN3TmtVRzhoNUczQmJkc3ZnWmtxcmQ1ZUctWUt4NG9GQWdSNVk2N282OWljY2R0bXQ0Tkg1YURrYldxQTZhcEk1eVRZYU90YjF1UkV0U0tXUWNYZUJHT2twbUtmUHlDRlpqaUdYZ1VRa25ERUNoV0kwS3M5cm5fMFU3amlYMFo?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-30T08:31:14+00:00",
-"first_seen": "2026-10-01T08:22:10+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f60ce791647ddb04",
-"title": "Apple Pay Debuts in India, Starting with Axis Bank, Visa, and Mastercard Support : 국제 : JKN",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BVkhOa0xPYlBNQ3RYRG11TXFiY0xRYTl4M0I5aUs3b1RkRWhKZTZVdlZqTnkwc0VCNWp5Tmw3NnE1ZnhfaEYxbi1pWQ?oc=5",
-"source": "재경일보",
-"published": "2026-09-30T08:30:00+00:00",
-"first_seen": "2026-10-01T05:39:14+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d324a58f223cb847",
-"title": "Apple Pay is now available in India, letting users pay with their iPhone, iPad & Apple Watch. At launch, the service supports Axis Bank-issued Visa and Mastercard credit cards. Here’s how to set up Apple Pay, make contactless payments, shop online and what",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVhaUDEtai1fVndxdmY2X2l5T0tnejJ0Q2cwZS1tN1NyRHo0ZkY4enF5R3hjWHVxWG9OaXRqLXVrTUlqLVBWT09CQ2FVUFgyXzJBck5qXzN6eXV1NlJzb2djMVd6aHBTSkhUQnlsWjc5ZjRuMkJ2N2JRUTVDNVk5VU5pMzFidGlWOERZTUNuMUpCWWoyWDFucEFzWWhEQU0?oc=5",
-"source": "LinkedIn",
-"published": "2026-09-30T08:29:53+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5f531e55f5e2d803",
-"title": "Cupertino giant brings global payment service to India featuring Axis Bank credit card integration",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUE4tUGpHSnRTOTc4c1BHZ3hXeDlTcWFjMzV5aTd6QjBuaVkxdzRIQXRpM25BS2ZFT0NfU01sckUtc29CWnB5MngxeG1iRDNLdGhYTWY2ZVpMaGFxWkFGQnFoMA?oc=5",
-"source": "prameyanews.com",
-"published": "2026-09-30T08:27:22+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "915c89ca02ef50f1",
-"title": "Reliance Industries shares move up after securing long-term green ammonia offtake agreement with Samsung C&T, details here",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN05ieTI2Wjh5d3dvdVpmdEtiZ3Y5Y0VLcU41V0loa3ZCUWd2el80TXBMOHNKSGRUUVNWR1Ffbkx0LXVKX25ObUs1bEVXN255RHBNRnhiUjdleEprbnNNS2t5a2lkZzB5WnhZSjVaLUtYVGx3WFVpS0o3cWdJUzlXMGxSQl9OWm1RMU1NU0dNbGNUS3Fnd0Vtd1BMY0pzMF84YW5fQmpFdGNTN3JiTE1QRGdRaWx0aURuTm83cF9YN0hsNzdDS1pJT0RLRjl5UUlHUDg5b0M2bmdmZkxkaDlvck5IYXVTTDJtdXU1enFUOA?oc=5",
-"source": "Alice Blue",
-"published": "2026-09-30T08:26:22+00:00",
-"first_seen": "2026-09-30T13:48:20+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3510c67404ec63fe",
-"title": "IT Q2 Preview: AI deflation likely to curb revenues; TCS, Infosys set for subdued quarter",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1JQZzVyNEw5TGhjWVdXSWV6M3k1X0ctTkNqeEZ0RUlnZXZQVC1FcDh6TWxwYUVrZENpcFZVMjZoeTBCem1Tc3cxT2U2T1padjJ0RGQxSm5TNmJQYWZ1SEZRc1BfbnZSOThMMS1VZFluMk81MkVKdlFaTDh4LVpJY09iTHZPSDFEUzBLOGlaX2JKOEtsZGVHckQ1TkxYUGtxWW1sOC1mMzJTSVdKdjZtWFNTLUdaTnREQU5CZmhjZVhsZlFCaUNjYnhrc25LUdIB1AFBVV95cUxQamJZb2J3Q0dZWExuTlRmUWpmd0ZwSmdVM3FCbzVReHFLbU9LX1Z5T1owR183aXN3ZWFYdE1FNVNJTUpfSzNIRVEtTkJCMVpydnZYekJxeWxjbi1IVkRkbUpvbHU1VFlBdVBpSkVGUFE0VGtGaHZRWHYyNV9SOS1XcHh0NV9ycVhZLWdBUHZHR2hMUjFJSW8wVHl1VnRLTjRIN2ozZlNrTHh0d0N1dUtMclNsbzRNbWdKZGxTdkpDSE9iZDRmNnM5dTJaNVFxY1A3MW02dw?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T08:25:31+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"INFY",
-"TCS"
-],
-"groups": [
-"IT",
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "069e4cefe76b1198",
-"title": "Apple Pay in India is official with Axis Bank Credit Cards",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZFpnSTdtQmkwNWZZV090YVNPWWJ4Y3Q2Mmp0bWhrUE4yMEdDVlRJQldLcmRqS3BzUm9IMDlKcVBtb2RUbjRydmprMlBoVjlQWWdVMnBoTWc5dVo1SV9pazg2a1pvUQ?oc=5",
-"source": "true-tech.net",
-"published": "2026-09-30T08:23:54+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
