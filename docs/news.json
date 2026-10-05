@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T21:36:01+00:00",
+"updated": "2026-10-05T21:50:55+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,24 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "ff185a924957b08c",
+"title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Urges",
+"link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS0ptVTY1RFVWUUNZVW04dlNpQzhxRGl3N0ZWNlJRNmlfMzM2YWNONlR4OVRjVE5HX2lNZWk2M0tqMmxtQm5zNXJQaTVWazZCaHZRZWZVUnJYMDhuVDNIV3FZeXFldmtNWWJtckFYTmpxNEtySlR3eHFtUUFFMTBKeTNxMnpQa1E3STR4SmJfSE85NEkwdGhHNjNQSmNwRDBmckE1VkpMM3FhNzlMeVBIMHlWMkdlLTRtUkM1MlY0a2FXQzdDc2RodFdKbGpmOUtad3A3bjZjSW9YNzU4bG9KMjVEWk5jSjlZTXdObGlycXYtNWdfVmllcEwtMGh5RzBzQVZDR0d5alQ1TEd0Nmxrdko3UzhBeExyMnlJUjl1ZENiOTRkZG1zMk1YUVhwUGp6R2ltTVN1cjBtVTBHUEFyX2ppdw?oc=5",
+"source": "GlobeNewswire",
+"published": "2026-10-05T21:27:29+00:00",
+"first_seen": "2026-10-05T21:50:55+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
 {
 "id": "4d2530b9f46bb7d9",
 "title": "Infosys ADR rejected at $11.86, risks drop to $10.30: Live",
@@ -1150,6 +1168,22 @@
 "sentiment": "negative"
 },
 {
+"id": "4fd4732a5f025e76",
+"title": "Tata Steel approved merging NINL with the parent and investing ₹18,488 crore in its Singapore subsidiary T Steel Holdings.",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdURnU09saDFPTHZWRnEtbG9pNm05cEctVTFmUU5wTXZjRDgzb0FzeC1TMF9iUkY1bHloaUt0MC1raEkxUkZBaVp4RlltcVJZdHBKWXQyOWN6SjhScmJ4eTA5cVpsRWwwLVpYMU51S1M3Q1RGSnd2cFdmTTgydTZjLXZxNGlILUpZSWtDSlVDXzJqYzFBWUJ2OGRxQQ?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-05T16:22:38+00:00",
+"first_seen": "2026-10-05T21:50:55+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "07daa50f186e2d03",
 "title": "Indian Stocks In Focus Tomorrow (October 6): Axis Bank, Kotak Mahindra Bank, Vedanta, Trent & More; Check Stocks To Watch & Key Updates",
 "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBub05sbW9nQnJSLVVxUENPRlhyamxZMWRWRjV2NDY5MXBSSFhqOWI4T3JDYzdPM0NtRW5lZ1VGWUFSWUpjSXRXYlR0TFIyNDUzQmdSRGlJcGp2VG1pWWlBTkdGdVNpYUstVkF4QVc0RTRtZ1I2NzkzaTctT2tYY1J1R3Zyd2RqUWtPWlM0X0tqR0pNZWR5WElnWXJMdnVlcEtYRi1WSDNzdmRuQmVuMGlIUzVReGM1NU91WGswWG5CWE4xX3pDYXgxNVRTdWx5RXhEajZXZThiTE42RkhKSWZxMU9UNTN1b19kUDF1QjEyVmktcFFxOTBmZHdSQnB0NXfSAYcCQVVfeXFMUFNWMnFEVFV3VzBOZkZpMFZOWjdrYWtOSDJoWVFNbVltdGZ5UnV6VG1EVnROTlpnOGtaSVNLTmVDeVM2VnktTExteGI2YUFOZnlMc0JTcGp4aGExaXdnS1Q2NzVTdmNDbWpORXBPMkdEOXVkOEpST1lMb0xPYzhJRllESld2WklWaTk4NmUwTVU2NUVSWUtIWG5Oa194MlFhckpEU29HQjFPQjJiQVA2R2xNaHAzd2tLTk16Sllua0JUQWJfaFNfVHY2QzNIZkxvelhQbGdyUkxsQnZ6R05tV0Q5NlZoUWFZM2dIbHRQTzJKRV9xTGRHbFpfakRGN3dmMTR2RHo0M2s?oc=5",
@@ -1544,6 +1578,24 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "e960345f7e6d64b7",
+"title": "IPOs Next Week: GSP Crop Science, Novus Loyalty, Coal India Subsidiary IPOs THIS Week; 3 IPO Listings",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1FrWFpxS09MUjVtUEN3d3B1aTREamstLTJyaWNoUlYtSkNZZ21vckNnZkF1dDgyWlFob1dvVF9qaVR0R0dxcGJBZXRLbW9WWUxhcGNaVHd4WlJkWGhlZUZOaVFxR1VpNktGYzJFUlUzZzN1OVd6WElRajJ0dkgzTElIWF82Y01tb3M1SFc1ZDRya0tGdWVGYVNSNlFJLUNjeXNaVlZ2eHptSEc0djVtUEh1eWpPTzhBRjF3S2tBaGFBNDBxQmZtVXlTaw?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T14:46:38+00:00",
+"first_seen": "2026-10-05T21:50:55+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
 },
 {
 "id": "15dadc35b4e4182c",
@@ -2088,6 +2140,22 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "13c2cd86233629fd",
+"title": "Wipro Brings In Activity Monitor For Employees As Tech Firms Monitor Employees | Vantage | 4K Honduras (JhscklqcdU)",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMW80S3pNYXl1NlBFT2hpSk0ya0tmdFVwQ1Z2ZWtXd3BjQlNMQU8xRWh3dmtsM0VHM3dtMFYtRnh6dUYzcjFpcWVpemZJOUlzbmNMcFJEejBsTFdCRFZUeTlGZHd5LUpsOUMzQVRmR3oydkQ3bmhxTjI2RnloTWJ3a3NydXAxbmM?oc=5",
+"source": "Unisba Media",
+"published": "2026-10-05T13:32:49+00:00",
+"first_seen": "2026-10-05T21:50:55+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "c9213744da38ff7d",
@@ -51376,82 +51444,6 @@
 ],
 "tags": [],
 "sentiment": "positive"
-},
-{
-"id": "b862890f4ef10007",
-"title": "Nestle India slides Wednesday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGFvWkRWaENNNk9xRkM2WXc1bUV2clpERm5YUHpOYzl2NlZHVVVzQmktREo0cGNBeC1VMUZRdlphTTRsSzdwRGIxNjNWaWxhd2JkeFJPMmpldnhpQURCRkdxbk5DRWR0aWdHcWNKVkMzR1RsOE9LLU1laFdhWU1OXzRjLW5pQzFjTGlmdGRrdlgtWFU1NXRST1hraGR2My1qMnlBOXJYYU9XVkEyUk5wMEVtUGVRMkRPbVVVQW9jbjdJX2dNVTdHa1FWakpJZw?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:32:00+00:00",
-"first_seen": "2026-09-30T17:34:31+00:00",
-"symbols": [
-"NESTLEIND"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "6e9c2554166ae4d3",
-"title": "Wipro Extends Completion Of Alpha Net Contracts Acquisition To December 31, 2026",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1pPY05HSGpIdkswU0dEbDdFZWJxTTByVlA0NXpVT2JpQlVDTFhSNTBFN3BEQlRodV95UTJnRkItbldRUlk2WTQ2RU9FS01jQ2d4V2VOUVBFQzAxTmRVa3ctTXhFNlBmMEdkcl9QRm5DLVVQQ203bmoyY1ZCazdZaVBRYU9vTFhhaWFnb1lJeUh4QVgwVHhBcVVmYmkzZ2RKaWhaZk1Va0g?oc=5",
-"source": "Sahi",
-"published": "2026-09-30T10:31:14+00:00",
-"first_seen": "2026-09-30T11:59:14+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a6bb8dddcb1cd039",
-"title": "RIL, Infosys, TCS, HUL, HDFC Bank at multi-year lows | Time to look beyond? Experts suggestion for investors",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3EwN2JUMWlmbUNaMHlIRnZhRXp2M216VS0tRHVhTWpXTk9RNDF2cS02V19najlyVzF5ZFM1MGdUQTFBRGZ2Ym5fTTRJMjFDYm1JT2xnWTdEX2gxUVZ2eFIzZEdPeGJwQ2twVU5LT1lGXzNGMDVVYU82SGhOTVg5VnRSQ3hhS3lqSlVldEZlQkxlbU5NZWtfU0p0LXBwS01ray1XZU53a2FKb2ZmekhzWS1EZnVjTmdTSWpwbzdPR29zU28waHFGd3NfSEFDWjF0M3htRkJWdlRhcGJxb1pvUGJFRUJxRTA20gHuAUFVX3lxTE9jbTVBUTA1RlgwZDJXc0VNNFpDWWlPcUdLSWZNRVFNRTRJMFlScVJ6c2g5d2NYMUFVZ2Rxd3IzSjRSbGdLSi1kLTl4SlgtSmtNTFBqOEtDU1BVa1FQVEpVRE1Rb3plT3dra3RpQjc5aGtpN0hsX002TzFfX0lFVWpkaE1UU21tRlZRcS05ZWFScVJRQ0NRc1MwVEVHREgtZkJNVFBrNVdIZ3ZNcVJSQkxKWHFmVk1oeE1mZWNicGQwUUhGYXB5VzBLbXRSdU5xR2tuaDM3MVUxNjJJUDlJUkc2VWxzMWZISENndWdRREE?oc=5",
-"source": "Livemint",
-"published": "2026-09-30T10:30:19+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"HDFCBANK",
-"HINDUNILVR",
-"INFY",
-"RELIANCE",
-"TCS"
-],
-"groups": [
-"FMCG",
-"HDFC",
-"IT",
-"Reliance",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3b90b49055c361ac",
-"title": "Airtel Announces Bonus 150GB Data for the Rs 3999 Prepaid Plan",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGZMa3p2eDNYeGMwNG13X2l1Ynk0U0s2VkRzSm52YmNxbkQ3SEU1R2VuQll5LU45OG1XT25mc1dOVGJpQnM1Z1c5ZWZmRFN6ZTFicFVxUE9ZaUZUXy1ZQVhjSUFLME9EeTFvLWRJRnBxN0VwdFVqMlYzbTUtcTdoNw?oc=5",
-"source": "TelecomTalk",
-"published": "2026-09-30T10:30:14+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
 }
 ]
 }
