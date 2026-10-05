@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T03:02:10+00:00",
+"updated": "2026-10-05T03:12:57+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "587fba6c2398b368",
+"title": "Sun Pharmaceutical Industries - Negative Breakout: These 7 stocks cross below their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaHRMaWlkS1R6Z09NaU5zVE9WSGk0QWhYZEVvREJlYnZLLUtVdlQzY1l1MVFZcnpPekdPTVRkckZySVppVjVIXy02TV9GcS0xU3p1d0tGOXNwN2V6M0ptYU05aWQ5TlN4a0ZDRWt0c2E2T3M1QjhKNDA5akFqVGl2TXFmUXNfbmZFNkR5bm1RbWdNTHJSUDRSdk5ibHM5cWNiU01NYzFVdklFNEJRYnhWenVYOHJVVFFVX29aMERHbzNxeHRWU29sS3JTdFFjZkh6SlgxMjFieVU3c3FncHV6WGFtN0c1dDQ5M24yd3RJcWxSYWM?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T03:11:42+00:00",
+"first_seen": "2026-10-05T03:12:57+00:00",
+"symbols": [
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a3639aa95ee2450f",
+"title": "TCS, Infosys and other IT stocks in focus after Accenture Q4 revenue, outlook beat estimates",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS3p6LXBFQmdxaUpxWHIya1lmSTRJc2twYUtSSmVEZ2I2ZkNkb3puQldUa1lUeWJfLTZEWFBCTEZpempDeWNVR3NManczQ3JmWWhyOTREUUdUS3ZlcTVCbktXekU5MmRJWURXNzhEc0EzZmV4NkY2ek9hcml3WHNQb01GQzU4NnFaMGw3RW5Hb0c3djFwVmtXeHFiaXNtZERzdWlSZDlraWZTcWdYOFRpbWhCN21zTDQzcFhFckVjOXdxc1pWWVIxb0tfMWRMVjF0ZzhybTdHdUZuUmozVU9TUC1zNXI1NEZjamhkcEVlLTZGWjd6VnZhMGZPSDTSAfwBQVVfeXFMTkt6ei1wRUJncWlKcVhyMmtZZkk0SXNrcGFLUkplRGdiNmZDZG96bkJXVGtZVHliXy02RFhQQkxGaXpqQ3ljVUdzTGp3M0NyZllocjk0RFFHVEt2ZXE1Qm5LV3pFOTJkSVlEVzc4RHNBM2ZleDZGNnpPYXJpd1hzUG9NRkM1ODZxWjBsN0VuR29HN3YxcFZrV3hxYmlzbWREc3VpUmQ5a2lmU3FnWDhUaW1oQjdtc0w0M3BYRXJFYzl3cXNaVllSMW9LXzFkTFYxdGc4cm03R3VGblJqM1VPU1AtczVyNTRGY2poZHBFZS02Rlo3elZ2YTBmT0g0?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T03:09:00+00:00",
+"first_seen": "2026-10-05T03:12:57+00:00",
+"symbols": [
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "77442ea19a737240",
+"title": "From backing Jagdishan to choosing Bagchi: How the search for HDFC Bank’s next leader unfolded",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNVBsalIxMjRnRFptMUhuQmEzQWM2T0NFV0ZTRjRJMGZlM1VWLVREMkd5OW15YnQzbkVpNGlldXcyZ2Y0MWRhT0ZUU1ZzMmtiNG1XYmZ5QXI1ZTgwcTdpUHpvRktJUDRTMkx2SjU5SjNJc3NMV29MaVg5ZVpwdFB3Nk13b0hEZE8yZTcycGVJbS1ybmU3b0psMnJsV2pFdGpSSnc5Rjd4WGM4Nmt1Zy1HNXo3dWlYTENxNnZfYjVzeloxR0lKWVBDUEx1bG1OQ19LenhNUE5xOEx3eURHZndneFJlaHJuQk1zYlBXbVpCdVZxbk42dVlrUHQ3MDNRS1YzdUHSAYcCQVVfeXFMTWRBV2VkcTZpMU9rbDAwNXA4M1dXM0hYUHNlZ3psQlFNZlRhQ0lCX1BzZnMtYVFsZUN1MDZfSktBUmtqYV9jTU9KWnlnSVc2LV9SMkxaUHMtLVkzWnZMUjNGMS04cVdnRVk4SDBSOWVKZnV4UlV5NEVkb0NmLW5XN0d6XzFUdXY2bTB6cGtQLUV5eE9QQ2pzYURFVlNoVDhDZlhpVmFGSmdLNTB5U0RrN282NnFFUUVHU2tXWVEwWkFLZ3pmTldUbUJIdjdmUVJ4WjBpSnoxR1lpQWhuNVdtN0VWamdYQ2NhcDFTUWE0N3NMLWI4djY0NjA4RENRYzFCSWg1bW04WWs?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T02:57:07+00:00",
+"first_seen": "2026-10-05T03:12:57+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "44b2065d487f0ee6",
 "title": "Q2 FY27 results this week: TCS on October 8, Poonawalla Fincorp and Can Fin Homes on Friday",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2xyenlnZzltRjVOdWNEYVZuY215UlZnNnVkem1DX1NVZTF4Rk5JYzduMldIMl9UV0ktZVphLVNxTkdRNVJSeDZXWlFBbFN5RjVVdFRXb25JRjg4VWRaem0tNnZDeVZtYk1FZFBleFVFTFQtQWNabFFiOUZ2T0JYSjRLM1NsQXdPTjdsSVN0bTlvaHdON0JEdWowcFlKbDNxbEFxRHpYVE10a0kxbmZZS0pRX0F5OFMtb01xOXFnVk9FOW1wNnVsLVc3YVJwNmNDRjgwZVJiRVVXUXZXS1g0?oc=5",
@@ -720,6 +772,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "150f518f85a2dd4f",
+"title": "Bajaj Auto - Negative Breakout: These 7 stocks cross below their 200 DMAs",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTc1bHd2T1cwdWhFVFZzSEk0RGJCU3VMRFQ4Tm1McVdEaGhkZE1KZlhscm9uOHRQa0ZFU3hTQ3ByUjdYMGFDT1lMRS1GRmRKMlJLcWVLVXAtYlhucFVrbG5HV2N0UHphWEVTa2Y5TmtpeFJxV25OaG8yMUdFZTJGVVFZREI5Vkd3eDR5TXFGOUhTTGtsZDNKMlQ3VUlQd2xPeFEyQlBvZ3B1SHllS0dVbFVpcjhPLUhNX3U1TGNoTnJVTXh2TzliQThJd1doRkd6ZFlMbTBtZHBwUW9xZ3hIX1E2dWtjdw?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-05T02:05:07+00:00",
+"first_seen": "2026-10-05T03:12:57+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51007,72 +51075,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "172fa901a264b3b6",
-"title": "IndiGo share price: Goldman Sachs sees over 21% upside | Target price, detailed outlook",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOW9yVlhJWGxtMHdqMmR1NjE3RHVISlpZOVh2LWFpRUxvdENfRl9XcVFudzdOQVQ0aGstdVQ3QU0weURBQl8zWG5PQXhZbHlzb1NVZXZMZTJKQWo5Q2s1TjBUWW5NQ3dHWEdxbTgzY0lWQi1fbzF4S2VlZUZUWVg4VHBmZUt4XzlkcHdqQTFWSFdzRGkzMmt1V3JGQjZlcWt1QXhDbkU0SDRiMjFmNW92X0RPWHM2U0F1WVE1ZjNEVjdRMmFKbTgzMmJZQy1iSk5udlJfS0JxeXcwMGpMSDNnaVJTc1YtS1HSAewBQVVfeXFMT09jN2x1SllYTkk1SFc5VGRMQVRLc1JWMmdvU1M4a09LNGR5M29GQ19hSHdyOWVBLVVPRndfVzAwUy13ZVpnZGZiTHktVWhLbHJRWjNsOTlHVEVHbk5NTnRJMXN2Z19aZTRnVjhGSnVXZFItQ0prblVHNE1WcFNWUXRuS3dSMXJyeG1pWENGNUtFNGhvODR2Z3c0ck53SHVNdFhqNl91bnFUNncxUFozVElFTWtsaUc4TTJINklsWFR4ZXdnTllRcS12SHVFWUotODRYbkViWG4wa0dzQUEtZzlETVhXa20tSnBWLUs?oc=5",
-"source": "Livemint",
-"published": "2026-09-29T10:45:17+00:00",
-"first_seen": "2026-09-29T10:55:44+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [
-"Rating"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3ed7500717e58a8f",
-"title": "Business News | 84% Wealth Management Firms See Need to Redesign Operating Models for AI: HCLTech",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWk1MjRERFRQdG41am5GS21KQmM5SkRHdkQtMHBocHgzMVE0cElSNmJpaHZxV2RGR0lUamtzZi0xczRPeV95bDQwaW4tSmpvMnRaZlREanlhd0wyTnFNUlQyUHdNUE0xTEU5bUdyYzFNMVR4Q3h4U0RpVndBM0ZTalVKQmJoZlBJcmVIWGcxUURCaVFWcEh0VFl2MTFJMjQ1YzRIbkxsbEIzWXA4dFJHZk9CcXgySGZMcFh1aFBKTnQ0anBuTkdCZTQ5ZUZiZTUySTI5N3A2Q01XdmvSAeABQVVfeXFMTktsNXdzLXFWaUl2VkJaSklDSlI2c3JjM0NySXVaOWx5M2xMcEF3X1k4SEVQQkpGTVpKbUdmNFdtU2hLX1BjS05Fd2hGeGRKWHpYbldkS19PZU81U01zS2RVWGlnZDFMNlN4OV9YVFlLLUZfbXg1R08xWFhHbDZWMFg1c2JvUnpTT0FoNzMzaXF1R25Hdk1kMEZ0emxMLVM4Y0Y0TXdOMnNicjduN3ctS3g1SXctTG9nMWhya3E5Y1hkODM3dTFVMWpEV3ZHYXRwd0FqWVJvMVVtWnhlRmlTRmI?oc=5",
-"source": "LatestLY",
-"published": "2026-09-29T10:36:23+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "09d0d87d395f19e7",
-"title": "HCL Technologies slides Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenJfWDZUek9TVzNtbzlKcW5ZREktQ3JJYTJ5RWRmYTUyaWl0SnlrS29xTDFQZFA2TUYtc3FQekJsRFk1akdlZEVUZW5fZExZRUpHdXRYWG9zX1ZJLWlZcWJhRWJxZFJoZ3FFcjgybWx4dWVzQkhUR1lhX2ZqM1Y5c21CanVLR2Y3cWR6RGx4TG9jLTZJRHFpUVN0SVZ0aUdHN0VWdVNfcXZRbkRr?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-29T14:52:40+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "6c8232070d2ba3f9",
-"title": "Axis Bank slides Tuesday, still outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEFDbjhMS0tQa01jeXVqeXB0VlZpcE5RRHowMjFDX2ZETzlyN1poWGRseF9mSE9vNlpuanhMOFhwMmEzREd6eExrandkNkQ0ckJIZ25RbkZMMHljZ1NxcGk5dzVLRUN5UkhQS3g4WlNmMWY0RVgwTk43REMwS293M0ExampiQldPaXJodEtHQklOU0luYk1femhLU2FmWldKSFVtTHRkcmQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:33:00+00:00",
-"first_seen": "2026-09-29T16:49:26+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
