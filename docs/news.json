@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T02:19:56+00:00",
+"updated": "2026-10-05T02:36:37+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "57da32b6acd1bc43",
+"title": "Stocks to watch: HDFC Bank, Ola Electric, D-Mart, YES Bank, Bajaj Finance",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkppVUFFU3NtcVhiSlVXbVpCR0lJZ2ZmbEszMVVwaFdwVVlFcmdZeFIwU1pjWkhGYTlvTFhtQVVrdUV4WDU1M2lFa2ZWc0EzR1ZKT3d5dGtMUXRCRHVnU1hrOFVab0RFV1NiU0s1djVVenRNeGhBTmthRlM5ZERBS0k1OVpXbFJsSG5RWkxRUDV6R3M5NHp0VklENnZRQmhpVFZHTnNfaTFIS0NDTTZoM25qT2JwUTBncVVJcFp1Ul9MYjVUckRQVllBX0MwQ2FEakV2b2ZHazdORmVBN2fSAeMBQVVfeXFMT09Cd3FGeThjaWhHU0pCR001Q2xTNXBFdGtCUFJQNDhPZU9KWWwxaVFtZjNpdUhTZ0pIVGFsd1d1OHYwZWFlTXpnZmJpVEhhM0ZwN0dmdEVweFhoZ0NIQkNSNG5KcGtkY05fOTdHU0xOVkU3N0M2elZuUUlDS004MVU4WEVnVDh1RWhPRlNhV21DVXhtUlJNbnpCYVVieGpGN1dwdVFmTHA0NWY4YWI4WWVpb2RjSUVlVzVidzJpX2lkUFZiZzcwdC1wVDgzcWRLSkE0eXpjWG9LclpnTVp5Wm1QWE0?oc=5",
+"source": "Business Standard",
+"published": "2026-10-05T02:26:53+00:00",
+"first_seen": "2026-10-05T02:36:37+00:00",
+"symbols": [
+"BAJFINANCE",
+"HDFCBANK"
+],
+"groups": [
+"Bajaj",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "217de6ae3a21e8ea",
 "title": "Stocks to watch today, October 5: Cipla licence, Sudarshan GST search, Bajaj Housing Finance Q2",
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNlU2TnhfWHBVem1PRlV4TTRtQ1pFUjFtY0VUeUxteTYyNjlYNG5lZHhGaWV1MnNBVzdpQ0dzeU50aUZybjdoRXNlb2JpRjkzbzZsMHRoVU9MSGEtQldTN1JrYTljWkpEODNXYi03b3pWRzM2Qmd1VW90V3FTWkw5X3VsbFdXZmFyTVRYQkRxNnRKTGJaSGVrVlZnZ1JIRzRueHR5QmtMeWgyQUpwLU5wQklnMUVQNVpTYkhRRFBmWTJISHBDdVBmS2RrdWp5eExiSEluR3BRNzQ4eHhyQlNxMEd3?oc=5",
@@ -483,6 +501,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4268b53a83ad0505",
+"title": "Jio Platforms’ global roadshows draw strong investor response",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1lXaHFvYzlNSVVZMTdtTDZOYkVOZzdKUjE2am1yXzV1VGNySFRhc3k5cENiWE1JUDVOYjNKWFZuelNKWi01NVNnd19Sc2lPYWZydzhmbDloQ2tWR3FGYjY0bWNYMWllTU02NE9tei15RnFyWDJwdGVabmpzdmNLd1BBc2daVkRTb1p1TlNpUXI0bzVtQlFFTFFLOHVOQW9v?oc=5",
+"source": "Communications Today",
+"published": "2026-10-05T02:13:07+00:00",
+"first_seen": "2026-10-05T02:36:37+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "af2f9f4f69e5f67d",
 "title": "L&T: Investec raises target price to Rs 4,870 on realty and manufacturing value",
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmVaQTI3bEpsMHZzOF94bUwyTWtYbi16RGlBZU85UUlTVndWTlBWbGk1dTRrb0ZITzNrbzJQdlMzaVMzVTVMLWdsV0lDSFBiVTZUdkh1cVBvOWJjQU9HSUd6dGNnVjBneUpGTlFYVHJhcjBwczFPTjJ0OGFmUEktYS1EaUpqZFRnNWpkRUFqSjBIc0RRQ1hOUlR3LTdJcDRoRmZDN1lYR1hNbllGNXNxbjN6X3h1NmxscTJhNFBnWjFYVDIxb0daYi1ISzJlalQ3V0pzQw?oc=5",
@@ -514,6 +548,26 @@
 "Pharma"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "21068810064f3297",
+"title": "HDFC Bank shares in focus after RBI clears Anup Bagchi as next CEO; Q2 business update out",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmpFdlBMcGZvSkQ1dWRxNGtNTDZuUWFrZWVZRWlUa1ZzRlJ4RHZWUkdyX0ZZaWkzUE11anZhdlhReWxtWFdhbXZoX2xnYVk0SlFzYXg0Qmw1MjFxTlhHXzE1SmpLb2NQMlZHdVJnLS1zeUVPTVBZcFl2YTQ5MERSc1hyeVQzd3MxSDA5VmZQZjBEd25XZ1FhWmp2dXlWa1RvaXpKNmhEM05xNVp1WmQxYWdNQWNxRndNRGhrS1NWNmJaZ0lhWmpocFZRUXA0RHZfaWtrX0pmT0o5Y1p1VXFYblRn?oc=5",
+"source": "Upstox",
+"published": "2026-10-05T02:08:48+00:00",
+"first_seen": "2026-10-05T02:36:37+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results",
+"Regulatory",
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -2670,6 +2724,22 @@
 "Regulatory",
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1e8859a167fbd1a1",
+"title": "Adani Airports to start Mumbai T1 phased redevelopment from Jan 2027",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcENlUVotU2Q3RUJaUmFUbXFqNEtCSmtDS2UwNHBScFU4ZGlxaTRBRmFCeGZHdWdnZkFCTWZrNjBZQ185LXZyNzVEWm1YVWNvcE1Gc25vYk5OVnVObjducVY0eHlMNlA3c3Nha3EzdWJZTmktZjl6MGJseFhqVjFMRTJwb01ISS1rNE1jZzd6X3QtVkVGM2tuektoOGN2RTVfNU4zYmlJUlRETHViNm5XOS1IMEY1a20tR0FLYlhQdkwtSFpzRU9BWWZpeWJsWFVJRzN4OFJnZGVXaGvSAeABQVVfeXFMT05kVUpIMzVpWm9WeTBFdnk3Y0ZFNDVjdlp0Y3hzUVNDRGsta1NSZXJtaDh4RzRWTXdlZ3JsWTVKU2dxRWNhZDNYRVZLMU04NUZweUNvbTRkYWlMVWRrY08wZlZVUVdsXzlGbGtLaE4tdDBMX2ZEZ3AzNmpXX01POU90NHluUHNVZjRkdjdDZEJsMlFMaUFTQjFBT1JfakFnZklSRjFoQXh2NUJHRTVLLXpNSHJCZDU2d1I5QXVzMFBtbDBkRXNiVzZuTzdYMGU3LXQ1bFNHb0xGdTlZd3Mxc08?oc=5",
+"source": "ET Manufacturing",
+"published": "2026-10-04T05:12:13+00:00",
+"first_seen": "2026-10-05T02:36:37+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -50989,70 +51059,6 @@
 ],
 "groups": [
 "FMCG"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "1adf579dc0120f57",
-"title": "ICICI Bank slips Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNZMmdfcHNITmdYajlWZ0pFTG9LRUotUld5NVRydFA4V2pmbWxQczdydm5uclNXOG5LS2YwRkhTUVNPMVNZTU1xOUJQcXd2bUxmaVFRRjF0aWU2ZFVMcm53UTRDandMcXFNSmxrRU1FS2huU0FtUERLM1J0Qm5ZVnhlMEhaLWFaejh6dThWLVhud1NCWTlFN3NMVEpUcjZid2QtcmFhc2Jfc1otOG0tNTJKdHVqWDd0ak9YVUEwOEE?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:32:00+00:00",
-"first_seen": "2026-09-29T19:35:10+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "56725c44cccff4ac",
-"title": "Mahindra & Mahindra falls Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzJGanVYd0hPT2FQWXR3QWpOaDBIcnBjMmUzdjFTWTN6MXFFSV96OFFJcXBEVjNEY3lrclZPNElSR3ZnekxJc193YmM3QlJNaE92LUlHT1o1MEs5cFhEZzJEN3VoeHFfLTJqZ1BVVEcyazZiMU0xcFpkVjhTQTd0OXE3SE5zaGhIc2pYQmZ2RWc0aTFqZHlySmUwN0dlaWVwOW1HVFRmZlFzVjljdVJ1dUlZY3Vra0M2TDllODJPbVk5ZHNv?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:32:00+00:00",
-"first_seen": "2026-09-29T22:56:09+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "537610d9f1ad4a88",
-"title": "Asian Paints (India) slides Tuesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkF5T2RYMzJKbXZ3bXBTWXlOanBndklFUk1SMDNxVGppSGJobG1MNnRVVWxtZ2xMemhrTWNLZDA1TDRPM21vVU9CNWhFZ1hmWUsxcTNaR3BVM3JqRTZ4TWRjRkpYVnNMWG8yNDJsczA5N0prTjk3dXJCVTk4YzJDV2w0LWNSUTJSVXNkandsejRHdjg1N0J3Wkp3eGlPOE8yWEhBMTNvckl5anMyVF9UYTdfVEdWb19NSnNwMHNmb2VVZDlR?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:32:00+00:00",
-"first_seen": "2026-09-30T02:46:56+00:00",
-"symbols": [
-"ASIANPAINT"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5344844eb6b2dbf4",
-"title": "Larsen & Toubro falls Tuesday, underperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTVzTmEtNHYtd1VFQ2dVSUZXUHFKc0NNUXVBQUlrZEllZ1NPR1ZDYUIxRFB5akFpNTQyTmpQQS13cDB4WmZqbklIUV9SMVZkdnBBU3VhQ1hTQ3Y3X2UyMlZJMl9wanJ1anFrOXNFdnFlcTNwNTAxZmk2VVpUaklHVU11eUVRcDY3S2NLZ0xrVFNEVTVVX2lyNkE5U2ZZRlBhN3BuWElxTkc4dmY4bm5PTzYwWTlIbVBWQkU5MjFTYlliWEtkaFE?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:31:00+00:00",
-"first_seen": "2026-09-29T18:50:32+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
 ],
 "tags": [],
 "sentiment": "negative"
