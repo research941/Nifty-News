@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T16:59:54+00:00",
+"updated": "2026-10-05T17:18:42+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "fe59544b97a03b96",
+"title": "Mukesh Ambani’s Jio Platforms sets October 21 IPO launch",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODFMQWw3NWp1ckdXOTdTX01nd25vb0V6VUFoMVVIVXo2elk1RHF2aW83M3FLbGdVZjg4NFRNSWxsRHpxYWxNUi1DTW5uWVdGS3hMZTJGbF9kZ2x3aDJXbGp3Uml5UnBrRGtyNGlNOEJvTTZmaG1oaC0wdkRJdTBwbkVyVDZob0Vkald6WEJYWGFnMk5uTnNvRkstejJWNXpXb0hlemthd0hCOVM1UDlHSWltUEVYMmpZRjZtVm1hLUt6cXBfUmtGd1g2cHR1U1E?oc=5",
+"source": "Billionaires.Africa",
+"published": "2026-10-05T17:11:58+00:00",
+"first_seen": "2026-10-05T17:18:42+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "488e689ca412d013",
 "title": "Sun Pharma presents LEQSELVI data and Geojit targets Sun Pharma stock at INR 2,070",
 "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEo4ajNfWW1xSmF2cjNNVzVndzhhWU9jX3JXZXFUcEo4SlFqLUZHM2hWOEtRNTQ5bkxvbUJMaVFLREZfUmRjd2ZiTWJtZ3IwRnN6SnFzS0VVUWVCVWNCSXNGeVdxdXNhMkN6ekZXV2ROU1RDUUxISW9WZDIya3IyTjRMcEtoVHNkbjQ4MTBUV29CdUlENUVkTDlOR2VHQmVZNWJ2WTZEUWs4WlRrRk1YMkFwRTIzUzJSdWd5TjdoQ3BpWEg1NE1Sb05PVQ?oc=5",
@@ -596,6 +614,22 @@
 ],
 "groups": [
 "Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "81c1a5a5280c6be2",
+"title": "SBI Funds Management Ltd Share Price Today,, SBIFUNDS Share Price NSE, BSE",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTZGNzdGdjdxbTJVa3pwV0VpQlViVG1aWkR6TnExY3Z0NFE1cFlQTWR3Nld5UVJaVThaOUtOcDlXa3JqSUdhWDhtRnNFNEl1X2c5aGN0RHBIQU1idDEzMjVReGl5c2JjQ1FrRHV3OFM4bHMtRlBMTGw2WW05WWFRamxhR2NWQ1U5a2wzdWV6dmJRUQ?oc=5",
+"source": "businesstoday.in",
+"published": "2026-10-05T16:01:17+00:00",
+"first_seen": "2026-10-05T17:18:42+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51378,38 +51412,6 @@
 "FMCG",
 "HDFC",
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "80dc7781b8fb2fb4",
-"title": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzZ3Z082X09KV3hCWTB5SGdLRUt6OWxuenRyOWZ4N1h2WWVHUWxqbUFuOGhMcy1pTjE2VktmUmZ2Qm1QN1JVZzYwTzJzajE1Y1RjU210bElsQ00wUjc0Rk9OOTd1dUVDdkplSzlGb3JtQnBwbE5KZHNpcXIxMGYtUW5YZlhBY0k4RjA4NUxPaXcwVVE2MWdTWHJ6XzM4S21GMWE2WjdmNNIBrwFBVV95cUxNb3JaZVQxamNiY1A2MWtXc2NwN2tFM21GVW5aM3NLSUxqejZ3TVRxZmFnaXZDUUFmS0Z3VlRteTFXWXhhV2w4elpiajRrcUZBVmEyZUxmSndEWG5DQXNJcksxSEVrNEFxMll4NjZRLUhDN2NOdGE1MUlFRmoxbmpsbXJVamZ6T2ZzOEE4dlBHOUVnMTJtdU92RDdSZnNLSTNnemw0WmdaRlBPYTJjdGd3?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-30T09:03:23+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9cedecc3ad2e69ed",
-"title": "Anil Agarwal confidently welcomes Adani, Reliance Into Aluminium as Vedanta targets 10Mt",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenB0Q2I1QW8ycFZqb1BJZmtQOElITTAxRllZdzlETWFHNzBLUDM4NG9BQW9jbkVxZFJnYkU2d1VMNUh0VnhBZ0t0b0FWUW5VZzJ0RGZhc0lCLVUtNGUwNWxkN19LMXViNGNmbU1JTjdhMWpZdkppZGVJMkFoOGtDTDIzU0N1WlY0UHNrcUR2bU9fcGRZTDFUSHUwa1MtMG9uXzc2dzJfdUNNVjhqblpIWUliT3YwZi01amJ3TWw1bDBwQQ?oc=5",
-"source": "AL Circle",
-"published": "2026-09-30T09:01:01+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
