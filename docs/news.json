@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T15:04:25+00:00",
+"updated": "2026-10-05T15:24:59+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,39 @@
 ],
 "items": [
 {
+"id": "50b1727717484362",
+"title": "Adani Ports & SEZ to host investor meet in Singapore on November 18-19",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1NqYkJsUWVmOGdmcmpUaGtvNk1odkpGc3JxSGxjam04bm9SWkNLTHBuU1kza083RmczTWVuT1ZEc1QxbzdSSjcxdFkzWGF3aWt2MFRKMG81dWk2bzYyT1NjNlJLS2pfd2toZkxrV21lXzliV1h6TENXTUgxdXNSOXNsN3plalpibVNMeUhhYm15QVgza3RITDBLN2l3ZXlla2REY0diLTlpaHVDSUFTZ284MWZoTE0?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T15:14:17+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "13d0ca4e987605d6",
+"title": "Tata Steel develops fire-resistant structural steel for safer buildings",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXU3Mk1fdXhPb1NfQXlmY2JwWFBJMUZnTVVHdTRibzgzdXVJUHNkNkVUY2lGOV9YSzBDVE5wUHNHa2FseWJoY3hmSHBxZjg1UWs1Z01rbWg2RmtBN2pGZjg5c3U3cHRGclU5Z0lfQ2JLVHFtcFlaTVhFYnl4UjQwYmlMdzhHbUxNcGotZFlSR2xqeFFMc1dzVjJaUS1qcjBLbkw4YjJtQ3didWczQUNlQ3hreFJ3ZlpxMUdHWTA3aUdMUmxSTDRPejMydElZRDlLazk4b0Voc9IB3AFBVV95cUxPM1NERDluTlEzdWdmdEQyWHZNd3BMY2c3VzZOcHJtRk5jalQzd1FzaFJOMm5kQnZBU1R4NjVVX0JxTjVQbFgtUm9pQTVoSDE5bU5FM0xDcWVJQUdJSzVLZ3hPVmxSX2o4bU42eGVXMjFRbjFjZlNmLVotMWJBYjg2LVhBM1k4NTNuZHJmRUNjOWYtSWk5WHdGM0QtZXcyQTlCRWhuSWNBV3lPRmlPNnR2V3pOZC1iU0VJRkh3MUctRlItdUFnNjRYQURrZ2FmX1Z5SVdDMFlubFdaM25y?oc=5",
+"source": "Business Standard",
+"published": "2026-10-05T15:13:34+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "87b5d018b9fd4bc3",
 "title": "Wipro to declare Q2 results on October 15; here’s what investors should watch",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeTFOM3ZQQ3hkUU9DQnF0eWtnN2VvWGRHdGdRVXZnLVRDR3d6dlZ4eXVZS1ZDU2hzZDRkLUVOYWtpaUVzSlFWR2FCT0dVODY2YXdSbDA3LTJfWnNxZ3ZMRDFQeVFydUtHdzNjUFJWc3hjRnF2bVZoWjZtZ25xOGtUVU5uSzNpbms5OTJuVm9sWi1oa0ZiWHphTG41c2hlWEJ1SU45Q1dPaXNqaXJobW9BUVFLQ2VmRE95RmwtLXNkb29yRmdiUnNUODVYZkpNcmx5Vjh3ejZ2emdGQ29XdVlV0gHkAUFVX3lxTFBwcjBNejdoNzJmamt5SHBfZHpPNXlBNzIta08ydXMxQWhPbG9ZcUZaS3pxTWtCRkxHQV8wdWZrZjVqY3VQYTNZcjZma2lnQTVHdkRack1IaENRNmhRRVpzZE1DbE9BdWxLMVdHWEc1ZmJLeG1ZdGlaOU9SajhYWDIxRFBSTEROUFNONy1PVXBMTjB6Um9YdkRXYW44R2xFN1ZON0xnbi1DaUdpMGhFTnBMR0Y3MHVTdHFoYlZtSHgxUldTRlE2ZGozSzkwMC1RWEh1RXdldEtMT0phanp4aEcwQTc3aw?oc=5",
@@ -477,6 +510,22 @@
 "groups": [
 "Mahindra",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b0fda423f128751b",
+"title": "Coal India increases average supply to 1.78 mt/day so far in Oct",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUjBZVGtOZDlRQ2V2UzBFOXlEZ0dKdFE4RlN4Z0lyNWpVSDcwN3FfWTJSdHh2aTVWVE5rVUxzVEtsQmdsX3dSS3NGV0RuU1pIVGQ0M1daTFNlM2hvQ19QQUwxYzdJanlMOUR6LVgyTlREdEw5WEtobC1HbDkxRm5KdmxNRG1MM1NtajVQOEU2dDNMOENzMTg2WW10aERoOGMxc09BVmhoS2syOTlZbzRmanVPMzUtUG96YUpZa2J0Q0RNbnBUUTQ4ZNIBzwFBVV95cUxNVmFFQXBIcUFIbEVHOFY0QTl6bkJmeDlESjF5QlkweVllU0pTMXQ4Rmg5VGZQVjhMcGNqQ21kUFNsazFVc29tb2kzMngtMFlLYy1ycWR2T3F2T2NKMzZQWkEwSFd4eWxEb2dEcFBhSGRpZGItSlp6ZHRvay0yMUl4bzNlbWVxcnB3TGdtWHJ1a0hEYXowTnl0T21XUlZvRFV5SVFzRncyazlsSEhFbXUzazdtYmU5by13eEhFRl9GdndSVXcxNWhOaE5MUXBaSzA?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-05T14:51:06+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -703,6 +752,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "c06b3921d1b3cc84",
+"title": "Bajaj Finserv to apply for reinsurance licence within 2 months | Tap to know more | Inshorts",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnVIc19oTjJsN3JkeGNPSnlzX01WV3NXMklSS2taZHc1dzdMLXl6R3k5cVVZTzdjdTk5NmxxVkdWTEFkNFY2cFJjejd1Ymt5cldTS21tU2JJNXFtNWNjSzJxR2I5ZWJLYlNSQTZacm1kZHpxbDFmVXpyaGloSFdTd0U1NEpSRnMxdFQ5dzlyUGpoSjBQbzczR1RiYk9HaG1qUW5Jd1hnZG0zWTBMOHfSAa4BQVVfeXFMTUp1SHNfaE4ybDdyZHhjT0p5c19NVldzVzJJUktrWmR3NXc3TC15ekd5OXFVWU83Y3U5OTZscVZHVkxBZDRWNnBSY3o3dWJreXJXU0ttbVNiSTVxbTVjY0sycUdiOWViS2JTUkE2WnJtZGR6cWwxZlV6cmhpaEhXU3dFNTRKUkZzMXRUOXc5clBqaEowUG83M0dUYmJPR2htalFuSXdYZ2RtM1kwTDh3?oc=5",
+"source": "inshorts.com",
+"published": "2026-10-05T14:00:26+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -2513,6 +2578,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "a5e4ec3962d8f235",
+"title": "Kotak Mahindra Bank (NSE:KOTAKBANK): What Do Its Q2 FY27 Deposits and Advances Numbers Show?",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTJUcFRJYWdEUDZWV3M2amtNRkVSWkZ5eDJuTWRIY0F2REFadzlUQW8xWDVad3FLQnAxdGFUblFJa0J3Xzc0UTZQa3NsbzFtWVdaT3oyWjcyY3BfWmlNRkNYQWw4NkRHa3o1ODQ2MzB0cVJvamJnMkxkb2RUQXRyb0YyWjF4eHY2cWd3S1Zaa1B4ZVJpQ3JoX1hKSllKMWRVdUFOdnZja3hXQnNLSFlZaW56ZUdJdlFiOS13ck5mWWg4MThSdElNYVl1SGNrd2hZ?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-05T10:45:00+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0158db794674db66",
 "title": "Coal India Strengthens Power Sector Supply as Coal Offtake Rises 7.6% to 384.2 MT in H1 FY2026-27",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2NPV3BzZm9MQjJWbVl1MGV1a1pWMTAtZHdvUm5EYXhwYk5CLVpRQUQxeC02YWlSSjQ4TlpHV041d0E1ajdlSERZZDlpQU1JQlRzZklOcEhQX3ZFS29CUmVOdFpxMmszWUZsWkJaZ3lHT1Q1V1JITTdxNUN1UlVhb2RneUluckw5cWxFTm9TRjQ5cU5rTGdQVTZrejNmODNnMl9CeE1R?oc=5",
@@ -2878,6 +2961,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "5e2e403b03ece254",
+"title": "Infosys Prediction for Tomorrow: 6 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRk9nR0VnN2Q2SHJFaVlyMkdxc2h0MXgtLW9EWU9LZXdkSGVEZVZMN0xrSXcyd1ZaUWpNdHhCWmxpRjVkaVJvb0RDOGdaZnJzZ1hFcEJDMTdkN1VWLU5JQ1BhSkhWWmtEWVFLcm91ckZILWRpVTRxQzlPcFNiZXlfdVByMDVNWkJqZmFn?oc=5",
+"source": "Univest",
+"published": "2026-10-05T10:23:00+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "55bba24f9a84eb55",
 "title": "ICICI Bank Prediction for Tomorrow: 6 Oct 2026",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVJWZ2N3dVliSWFJZ0VIOF85dG95U2ZiRFAxTjFvMHVOa3hqYkxudkVXZGp2OTVKSEIwVUN6RmhyZUJRVWtuU3NWNnFfNnRQcUhKaFhvakhHSnNBWGhXdGgxaVFWUGlvV25LbXFtRjBfMzhDNVRSU3VNM1FieG1lUXk4Xzh5Y3E4ZjlmS3JHaw?oc=5",
@@ -2889,6 +2988,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b5e267d381845ad6",
+"title": "Bharti Airtel Prediction for Tomorrow: 6 Oct 2026",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRExFcy1XYUZqTkNYUV9oX2EzT28yVjdSeDI4STdsZnJ1WGh3XzNFbzJsN2ZQVjV5VDRzZWxaVDN3VlBzX3B5R0h3bW04aHU5aGxvMzdaXzJOckxrWmh6SGZlS1dyTzNPbFh3OUpGSEk5dlE3SXlneV9wSHhWcUlDS0VySUdkT2JOR0xHUTZzbFB0SHM?oc=5",
+"source": "Univest",
+"published": "2026-10-05T10:22:00+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5609,6 +5724,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "7731b8aee2d19b57",
+"title": "ONGC (NSE:ONGC) in Focus as Deepwater Gas Ceiling Rises to $9.89/MMBtu",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGZVcnFtX2NKWExaWGNBZkZ6cTlldWtOSkQ1LVEyWTAtNksyd3RYX2pJc2JmNWh0MWRuSk9fVnB2UWpNM3lkaUlNY2V6MS00WXBObS1PcUFrUUw4Wkw3aGJLbzNGelhMaEdCRlBoSjljRml4QXotVk90VzMyMk15VGhwYmhCUURiVzRMWGxYMWYyTS1tekhjZkg4MUpFa0NJX09CSnlvbmE?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-05T07:01:00+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "d5203f2f3bfbbac6",
@@ -11028,6 +11159,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "e00882cd8337c075",
+"title": "Axis Bank Advances Rise 23% YoY To Rs 13.85 Lakh Cr In Q2",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd01KN2cwLUdHdExQc3NzSno5aUQ4VVVYemJJdFNMOG1QYjNNdllqQVlfZXlWTl9VREYyQjBRRHhvS2w4aUdVd3RGMmRacHY3QTd0eV9La2d5SWJEdVhGWmtMSElTMjJYM0w4QlRVX1owa0NHWUVmMnh5R1Y2VkJnUWg1WG9RbWpoMG11cDdmeEpaYVZ5VXgtWmtJeGV5OVdOeHc?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-05T02:30:05+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "57da32b6acd1bc43",
 "title": "Stocks to watch: HDFC Bank, Ola Electric, D-Mart, YES Bank, Bajaj Finance",
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkppVUFFU3NtcVhiSlVXbVpCR0lJZ2ZmbEszMVVwaFdwVVlFcmdZeFIwU1pjWkhGYTlvTFhtQVVrdUV4WDU1M2lFa2ZWc0EzR1ZKT3d5dGtMUXRCRHVnU1hrOFVab0RFV1NiU0s1djVVenRNeGhBTmthRlM5ZERBS0k1OVpXbFJsSG5RWkxRUDV6R3M5NHp0VklENnZRQmhpVFZHTnNfaTFIS0NDTTZoM25qT2JwUTBncVVJcFp1Ul9MYjVUckRQVllBX0MwQ2FEakV2b2ZHazdORmVBN2fSAeMBQVVfeXFMT09Cd3FGeThjaWhHU0pCR001Q2xTNXBFdGtCUFJQNDhPZU9KWWwxaVFtZjNpdUhTZ0pIVGFsd1d1OHYwZWFlTXpnZmJpVEhhM0ZwN0dmdEVweFhoZ0NIQkNSNG5KcGtkY05fOTdHU0xOVkU3N0M2elZuUUlDS004MVU4WEVnVDh1RWhPRlNhV21DVXhtUlJNbnpCYVVieGpGN1dwdVFmTHA0NWY4YWI4WWVpb2RjSUVlVzVidzJpX2lkUFZiZzcwdC1wVDgzcWRLSkE0eXpjWG9LclpnTVp5Wm1QWE0?oc=5",
@@ -11731,6 +11880,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "703dc7b8bee85b12",
+"title": "Trent’s Fast-Fashion Sales Jumped 23% In Q2",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHaEVYcWo0RkdrSVF4bVJhYVZZS01WSWZtRWFVcmQ4dGU4WGRZSE1QbDlfR0NQVXZ1d05SVm1qQkstZUVuVGxOOUhpRlRSLW1VX1ZMMXdEdXJlb3d3ZzJGLXVSRkNYOU9pSW5FRWpCbVVlSVdsbXFHWW9n?oc=5",
+"source": "Finimize",
+"published": "2026-10-05T00:30:58+00:00",
+"first_seen": "2026-10-05T15:24:59+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "3dd7633751814cfc",
@@ -51227,166 +51394,6 @@
 "source": "true-tech.net",
 "published": "2026-09-30T08:23:54+00:00",
 "first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "44e96d85e91a66f0",
-"title": "JSW Steel Elevates Satyen Shah to Senior Vice President for Digital Solutions and IT",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDlQekJzWHVfSjdkLTZDeWkwdThnczdqTkpXRFJUZFpqMG5YNjVzbWwzR0pTdndhOEZFT0prNS1fZ0hUOGpha0d6OTJINGJiMmpQajhCT2ZEZjZrYldtZWNIUXdWQ3RDM01HRXBzd3J4ZE1qV2ozLWJZSnZXUTc0aE4tSzB6NjVLSWhfZjhUekNWTGpkWlZfV2czYm5UYlFoNEVVWDJkS3o4M0Q3YXVqb2liVmh6UDZ6ZGhv?oc=5",
-"source": "konsulteer.com",
-"published": "2026-09-30T08:23:40+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "266c0597ab61957d",
-"title": "NTPC reports cessation of four Executive Directors on superannuation",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1MyQjNOSUduOHl2M1RncUsxZEQ0Y25KZTJsMlU2WlN3SEdVMHFTOXdWcWlpZTVfdnQxdUVxV05KU1VtNnh2bm9OUE5jck1JaFFSeC1sZ2dKZWM3NEdoWjdncjhSQ1o5MGlSbFNuWklJOF9yNFhpMlhUZG9QRUhCRnZ4MFFmeEFLbnR2cnJ6R1N1SE9MVTFNWFA3MDNPcUdfTksyT1FfWGluN3Z5RGxNUTU0QW83OXYySTR3?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T08:22:43+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "31e46be73f15dcb3",
-"title": "SBI Funds Management Ltd. Share Price Today - SBI Funds Management Ltd. Stock Price Live NSE/BSE",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1pkY2dzWENxbjlMaWhnckI3cXR2anJlM1FqRG1WeTYzZXJsUlhvbmdXN3ppclZtNDM4S1hGQVBXQVIyUnY3aXk1U3BiMEVhM1hWc0hMY1JEOENSUUZGZTNpdmt0T1RoSkJaNGZvdmkySGFTM084bDFuLVNfdWFHaGN3aDYtQXR3aGpN?oc=5",
-"source": "CNBC TV18",
-"published": "2026-09-30T08:22:00+00:00",
-"first_seen": "2026-09-30T12:54:09+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0f44fe5c6f280c74",
-"title": "Nifty Rejig: BSE Share Price Falls 4% on Nifty 50 Entry",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbTROM0tvaGZUcF9zM0UzRkRTV2lVem92SlhSWnlhWV8wUlNsamFGUktIbGtBTlFYc3FwT0RadEs3czU1S05rUXZRRHpISkJWbWx5b29TbC0xYjRUYXVZSVFTc2ZwRFplMGZNMWVyMA?oc=5",
-"source": "Univest",
-"published": "2026-09-30T08:20:20+00:00",
-"first_seen": "2026-09-30T08:57:24+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "d66fab3fa9bca1ef",
-"title": "TECH MAHINDRA LIMITED Option Chain - Live TECH MAHINDRA LIMITED Option Chain Data, OI & Price",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2MXJIaFZ0c255d0ZLWWNuOTdHdzYxdWFEZHg3YVQ1VzQwODJudmNQTGpJSlRiTjMzdnZGT1dEZk5VTlNPcUlfYWp3aUJ4X25kVGd2c2RMdHJkbHRka3Rfb1hlUzM?oc=5",
-"source": "Upstox",
-"published": "2026-09-30T08:19:41+00:00",
-"first_seen": "2026-09-30T10:36:58+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "55fb5fb95a7bb2a0",
-"title": "October 13, 2026 Deadline Approaching: Join Class Action Against HDFC Bank Limited (HDB) - Contact Levi & Korsinsky",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa05vQlFtNGlQMXZxaTJoc25RcklKTF9SQmRfYUVERFd2QzgydDdFejlVczdlTnA4T0QyS2Vfb3pBTmtBNHgtQ2lDSXhvWVJySWhPUnljNXo4SDE3TzRPVzBtR202NnhkdlRYcTBpLTMyTFpCTlNNMFE5ZVRCZ1RBd3piZWM4SkxhWUxJV0tOVFdpUXBJX1hiSVQ4T0k4aGRKVHd1RmNRYVJmUjhDcEZ0SzRzVWNqTVVuc3htZ2l0T3NERWw5d25xaUFsV044XzJqck05T0M3NDgzemk4Ym1paVdKYUM?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-30T08:16:54+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "05dd37a7e87c3912",
-"title": "InterGlobe Foundation and IndiGoReach Host Heritage Walk in Mysuru",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeF9HQ09WZ3dMenhfSHJORWRseTJhVUlyV0E3R3RNM1dYWmhVQnNyQzJVV1BxaHBvTDdYb3hocjNUcmt2MWRQcnhpOUlMYV9iZDFNYTZwaWdTMVVubktGc1dBRW91Y2NDcjNEWF9ESzg2TjU0bFlKU1FidUQzLW51X0pOZm14OF94SzF4VmpQNi1qRjFwWHZVY3hBYlp0LUd0X2NWMDhB?oc=5",
-"source": "Voyager's World",
-"published": "2026-09-30T08:15:15+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
-"symbols": [
-"INDIGO"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "de65540a7efaa1a3",
-"title": "Apple Pay finally launches in India: How to set up and use it on iPhone with Axis Bank cards",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNGxFM3dVUmdBOUdxVFZfRFhjWlhOWGZLYlFweTNOQXBvY3V3cm9udzF3VG16bzdDYTdNdmZVVGdRTDZmaVViZkxHeF9xWkJNNXZ4OUhHby1pbW5ZLW1NSkREYlc0TDloUHU5eWM4TkJiYlRTamFUaWlWaVhMcENUbTJLRzVuUklYaWJyVkt6QXNLX3o4MjF6QTVEV0NTRHNNNnR0QnJ3My1xQlRBaDFyaU1DNlhjcnpZRVdqb3k2bElwcGhvcWRoeklzSndiZ2RWQlk1bGd3dzlCOWwySmw2N1BaX0Q5Q25PeFHSAe8BQVVfeXFMT0x2Y01fWGhaSkJ4VENXR0NtQXk5MmdyckNxdllMNWFQUmFyMjBmeWlhdW9PcUFFcnVBVC1qQ1BKV2k4M21hVVdPZ3VQUlBlbG9tN3IzSXlPRHNUQlZObW9QUGlLOU9hUEtWNjRDenVaYzJEelhscE4zRWZaVEttbzBQNnloX09Fd3gxdTRCX0UwX1RGcDNZNUgySU0yUE9rdm5DOEd0UWFrbW1vRDd0eTA1emcwRHRmODZIbTA2UlhmS1M4MnR2cnFNRXJ1OU1sU1owR0FNWTlSZVUzMDFySGp4ckZtdnlvQTNUZzNUZm8?oc=5",
-"source": "India TV News",
-"published": "2026-09-30T08:15:00+00:00",
-"first_seen": "2026-10-01T06:35:43+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4f1baff0f58c20dd",
-"title": "NTPC announces cessation of Executive Director due to superannuation",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEFvalFfRWJGLXBFY0lZRDNaX3ZBMkR6dEVrbEpfeXVqVWNMMlozaWpXY2pBWm14MnpCOHlXODJZOXdVVmFTckJldGItbDYxc1gzajExN0EzM3ZwVkZ6blVQVGozd2pnTkI5RGNLVHBwdDhaeHowOGJNQ29HY1NVNkt3S0hQWjAybmIyUjJXLTlCZG4tY2RrcmJLOHY3cHJvUHVHN1I4aGs?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-30T08:13:32+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7d21c3e4d28ecc64",
-"title": "Axis Bank brings Apple Pay to Mastercard, Visa credit card customers in India",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZkRPN01ta3I0SUxTS1dnN3VMV3l3SnYxeHJpc09NX2pDNTRmTFpWc2ZZTXppTldGVTJ5VU5GMTdYanBaazAtZnliXzRPcXY1TlVwUzhiSHdxRDlpWlJqc0Q1OGNIblQtOXVnYTFucXZGbFNBSWtkTnhaUTZNTFVfUm9XWkd6N2cxLXhKWEhXaTVzdGlTazhtMkhxaThORkx1ckxBNVE1TW0ydlRsUEMyUXNhUHdXdVBva2RrWWZNZzdybFJldFk5dzMyWGJBRGU3RVo3U1oxX0I4YU9U0gHcAUFVX3lxTE1mRE83TW1rcjRJTFNLV2c3dUxXeXdKdjF4cmlzT01fakM1NGZMWlZzZllNemlOV0ZVMnlVTkYxN1hqcFprMC1meWJfNE9xdjVOVXBTOGJId3FEOWlaUmpzRDU4Y0huVC05dWdhMW5xdkZsU0FJa2ROeFpRNk1MVV9Sb1daR3o3ZzEteEpYSFdpNXN0aVNrOG0ySHFpOE5GTHVyTEE1UTVNbTJ2VGxQQzJRc2FQd1d1UG9rZGtZZk1nN3JsUmV0WTl3MzJYYkFEZTdFWjdTWjFfQjhhT1Q?oc=5",
-"source": "The Tribune",
-"published": "2026-09-30T08:12:58+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
 "symbols": [
 "AXISBANK"
 ],
