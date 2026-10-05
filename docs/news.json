@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T03:33:00+00:00",
+"updated": "2026-10-05T03:52:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,92 @@
 ],
 "items": [
 {
+"id": "a1ba5692572d7c79",
+"title": "Sensex opens 400 points higher, Nifty above 22,500; HDFC Bank up 2%",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQU9tcDhlZ3cteU5iNkFTS0xKWEEyeE5idUx0Ql82djE1WDNDaURLbkpNd2wzcFkxM3M1bElsemJnZENmNnN5QlQyRlVZVkhfZDJaMllRV2dUbkEzMmFXZVdUbjhsUGJUZ1dCREdMd1VDNVR2QUI1UzA4eG1zUWFtLVV1N3NEODRWa1kzeDdDM1dkZWxqMk93cmhnb0pTRHBJTEQ2WUl5S1BsRG1XLTlFVFVnZW0xRHM4UWt0TDZDUVpuQUlES0lCVl9RVGppREJqZnlHMjl6TndnM2RBa1ZtcmZJXzdlYnFEWTNnelVjWXNscU3SAfMBQVVfeXFMT0FPbXA4ZWd3LXlOYjZBU0tMSlhBMnhOYnVMdEJfNnYxNVgzQ2lES25KTXdsM3BZMTNzNWxJbHpiZ2RDZjZzeUJUMkZVWVZIX2QyWjJZUVdnVG5BMzJhV2VXVG44bFBiVGdXQkRHTHdVQzVUdkFCNVMwOHhtc1FhbS1VdTdzRDg0VmtZM3g3QzNXZGVsajJPd3JoZ29KU0RwSUxENllJeUtQbERtVy05RVRVZ2VtMURzOFFrdEw2Q1FabkFJREtJQlZfUVRqaURCamZ5RzI5ek53ZzNkQWtWbXJmSV83ZWJxRFkzZ3pVY1lzbHFN?oc=5",
+"source": "India Today",
+"published": "2026-10-05T03:47:24+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1c6070a8976c4418",
+"title": "Coal India Announces ₹1,10,250 PLR Bonus; 312 Days of Attendance Required for Full Payout",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNE9tMFI4MVZIWENpa1N3ci10aEJqTW1rQlNScjFZWDJWdnZ5R1BUYlhacnZMTjI0WmF4N21OdVk0N0k1d3RWd2RuTkhONWZNY214Z2hmYUt1dFVjalNoTEhtWGZyQ1JQMVVnOGtKcjgwWW5fajVv?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-05T03:44:51+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "5dc299bec1ed2be0",
+"title": "HDFC Bank: Anup Bagchi at helm lifts overhang; brokerages share outlook",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWNzX3FMYVZ2TldJMng0cHMwU180Sjdra3JJUFJzZDlhNWFOV0R1WWpEQVRDalBYVk9GbFZHekQ1TEZMRHZoQXJ6cHEwNnhtbG1LdWVoVEdIdklKZ3lxZENqb2QtLTNlNGFCZDNaLTNpUUF6ckU0bFdNcnRXU3ViTGx4T2tnX09IYjluemczYndJTXhiQnB0bTRDNnlqc2MxVEViY1pOQmlJZmx6SWFnZmxiMkFQYmNtcERFN3dxWjAxQUFDdGxkcy1JZko4VjNfZGZXaTJzVHlqZ0dpYy03d0JR0gHnAUFVX3lxTE5waXFXMV83eTBwMnM5Uy1mUGthNGZfdXNyT0hfX3dnSkdiUVU0Sl9SUUNDNUV2SVZrX2d6eURaaHQ2X1ZaOFg0VUNVbWVDLUcyV0JuYVFUa01QSHRwVFNnUWU1czRfVmtaN0F4OERKdTFvNTQ0UFJ6OU1reV9NcmxJRFdCWW51aHhybFVCLVZ2RnBWTUxYNzJrYnhyUUtKaXl6Mm5nbVdhMmVuRTl3TDZlUEJlZ2hMVlR0T2JDRDVITG5KdmowV3YtNkRnTzVCTl8zNl95R3R2aDlDOFN0SW12aTV4cExmQQ?oc=5",
+"source": "Business Standard",
+"published": "2026-10-05T03:41:04+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "12b1b3163e42ba80",
+"title": "HUL appoints Yogesh Mulgaonkar as CFO Beauty & Wellbeing",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS01nVEltZUE1YTVHT09ERmExUXJHQW1idXkyUjNKdmJfN21TcXgxR29oYnZhZmNoMlA5Q2gxems5b25RbnRSZHZJekpYLWoweXBzNmJTUXAtOFB6aTJUbkd2MC1WeC1JVFAtcjQ4clVFRGh5RmE4d2x1VjVMd2Uzek94VGZOd1Nob0d0UWxOdFd2b3ZCMW9LczVMR0xiYWw1UVlTaGRrTWdnMzFYT2ptUDJHc0ZJRmI20gG4AUFVX3lxTFBLTWdUSW1lQTVhNUdPT0RGYTFRckdBbWJ1eTJSM0p2Yl83bVNxeDFHb2hidmFmY2gyUDlDaDF6azlvblFudFJkdkl6SlgtajB5cHM2YlNRcC04UHppMlRuR3YwLVZ4LUlUUC1yNDhyVUVEaHlGYTh3bHVWNUx3ZTN6T3hUZk53U2hvR3RRbE50V3ZvdkIxb0tzNUxHTGJhbDVRWVNoZGtNZ2czMVhPam1QMkdzRklGYjY?oc=5",
+"source": "StoryBoard 18",
+"published": "2026-10-05T03:40:23+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "1ad5db27d1f7d577",
+"title": "Jio Platforms Eyes $3.8 Billion IPO by October-End",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaElyZy03ZkttQWdsS2tXcDZKZXd6SEFVZm5ReHZjRDlNOWNKS3JJQlBObHBWanlINlEzMDZidTdBcVpFZkVmXzhINzh6NHRXWHRpdmFreEpMYUNVcmRWZEJMWS1fQW1fYUgyWm4zcUNsdm5Ga08yQXRONnZEb3R1SVRqYXNrVnpDaVdfRS1HdGo1Ty1PV1VfeGJmeFJBMGJDRUdmUQ?oc=5",
+"source": "HDFC Sky",
+"published": "2026-10-05T03:31:30+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "3310694676271c78",
 "title": "Stock market today LIVE: Gift Nifty signals relief rally for Sensex, Nifty | RBI MPC, IT, HDFC Bank, OMC stocks in focus",
 "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-signals-relief-rally-for-sensex-nifty-rbi-mpc-it-hdfc-bank-omc-stocks-in-focus-11791169559540.html",
@@ -660,6 +746,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "0c6035e310792252",
+"title": "HDFC Bank: RBI approves Anup Bagchi as MD and CEO; Kotak, Morgan Stanley and JPMorgan react",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMkotbUxudDlfTjVoQWJacjFlT3pDTFVUMjlDSFpCSHYta3J1b0d6UTZXZE9oVGF3alBwblBaSUphb1h2d2tWUG1nU3VCOENlUHNaaFJ1d0ViUGpRTW5tZHdHY004UTBENnVURDF3Z1VxejZtY0NybU1VX0lYbm9Oc2t6ME5aRkxMVUlzWHNmLVQ3X2pabEdDVWlxbnloUDVzRjBGTWgyWTZjZHRlQlJGZF9hUGFWT3VtZmFOZWxKUi1wb2ZjUHRMOG9lQnhCQmk3MEJ1cw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:46:03+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Regulatory",
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "dfa9610e0d0e4de0",
 "title": "Stocks to watch, October 5: IT stocks, HDFC Bank, SAIL, NMDC, Avenue Supermarts, RIL, financial stocks, DLF",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaU5ZQjJ6aFpKdzctX3NxQWI2djdtREp3VG1mTkdFRlZpbHZCYWpRMnpYV2NKZkdIVWgza0FVZ01oTnJhV2U0Uk5TN3hNT21xYUdpU2JtU1pDelNReEhlU2tQY3hfUXg3Slo4ZTNFaHBpOXkzczZaYWpEejJlTTJQeG11WUhmdEJFS19hMTJ5VFM2SjhNRk5UWEthWnVxUUpoTXBXalRmbEl6UzdXRTlzR3kwUFpldENzVERVQW9zY0xVTVY2NVc1VlF2VXRrUi1vclJFamQyemJpZmtQSnE0c0h0Mm50a1EwTWhNOVlR?oc=5",
@@ -723,6 +828,22 @@
 "groups": [
 "Bajaj",
 "HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d453a17b02124dad",
+"title": "Bought a new Maruti Swift MT after driving an old Chevy Aveo for a year",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnN5U3NoY0FaVGtwajJmeUZ6VHhKd1N2RUN1QmVPR01TSGxreV96UmpIMGJ1SW1WM2U4SmdRMUhET3V6M3J1djlSUDI1NHQ1UlJ6T3V0bzhzZnBGWThYWHNRT05fbTV1akE1Z2w3WEROWU9DcTd1T2EwM3Rtcjd2SG1rcDVPYjhFYjFlX09WZTJWdkxUbFdNMjN30gGaAUFVX3lxTFAyc3lTc2hjQVpUa3BqMmZ5RnpUeEp3U3ZFQ3VCZU9HTVNIbGt5X3pSakgwYnVJbVYzZThKZ1ExSERPdXozcnV2OVJQMjU0dDVSUnpPdXRvOHNmcEZZOFhYc1FPTl9tNXVqQTVnbDdYRE5ZT0NxN3VPYTAzdG1yN3ZIbWtwNU9iOEViMWVfT1ZlMlZ2TFRsV00yM3c?oc=5",
+"source": "Team-BHP",
+"published": "2026-10-05T02:20:46+00:00",
+"first_seen": "2026-10-05T03:52:14+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -50962,126 +51083,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e57def1584dfd61f",
-"title": "SBI PO Mains Result 2026 Out: Check Result PDF, Phase 3 Selection, Cut Off and Final Merit Formula",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjBUMFU4ZW04elVhUWhhbXlQbng2aTVDVjJkM0VhX0U2RmdUYndBT2hXQ3dxVFE2ZXNicG8ycy1zY1Z3U1pBQkNCNEpvTGZfNDF5cVZZcGpvWkgzT0dvU2hENUJRQV9RZ1R5VGJ4bTNjZnR6M20tbTBUTWw5N3FmU3JyVjBBMjI1YmU2V2F0b1A?oc=5",
-"source": "PW",
-"published": "2026-09-29T11:09:19+00:00",
-"first_seen": "2026-09-29T18:23:20+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "39c7fe42fc10ad09",
-"title": "Warehousing growth to expand beyond Grade A cities: Adani Ports’ Pankaj Bhardwaj",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTlnMGdFdENDcGQ3MFpabUljZmVxNVNYcFBHTGh5UXExbnhUdkpTSTlGTzhsWDVPTFJWQW12bUFBcWoyT1JXWTI5ZnU0RkJIb2VfZS00bXJJbDV3dlRPRUJ2WlBEZmxqV1hKenJwSDhKeUlzWjNKLUt5b1pQb19PandUUk5zUUY3TjlXQWd0b2pUVUo5Y3BFVWRIS2hSdHlLdDRBcFJWSnhteGwySnZ6MXlCNU5xZS1jdF9ZbUZ4U2tYZnF2YzNLU0dTQ0k5UFNyMXRn?oc=5",
-"source": "The Hans India",
-"published": "2026-09-29T11:05:18+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f96b2ed1b6cd76c9",
-"title": "IT Q2 Preview: Infosys, Other Large Caps May Cut Guidance As AI Deflation Bites, Mid-Caps To Buck The Trend",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd3g3cWxMTHd3cmZYMFRnSm1iYnMtMHhhbjk5bzFDdThKcXRNRjZPeGJJeE5WSnZ4cGZ0cXFVcFNKUTFjam1pSDBXMlpNRGhBYzVuX0RRTElkbnQ5SXpLaW4tc0dLMHZxbDlWcUgyeUxPZTRPZGhEaDQ4SUpaY0pYeC1uMGJIbG5aQkhTVHNtNnZRb2NldUcycTRaQkxOdnpSQUJmc25zRzhST3lRN1RZMlQxb1hxT2tJOHBwU0lYemg3dkFINmF2VjhvcDdXRGpzRVlxblFzLUttNlJodnRveGxn?oc=5",
-"source": "NDTV Profit",
-"published": "2026-09-29T11:02:12+00:00",
-"first_seen": "2026-09-29T11:19:10+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
-},
-{
-"id": "2f7623b7d7403cbf",
-"title": "HCLTech study: Wealth firms struggle to measure AI's revenue impact",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGhYT014MG9qeTZuTjdmY3czeTRxekVPLWhtVXpYamxYMWlYSDJQSXNYS3hsR3dybklxM1Q4WjBQOE1SZmQzRjh6dmhlMFplWDYwYk9NZ2xONTZwZVV4OFNyYTdCSlJpTk5EdE92RU5fWi1DLTVFOWhMcnRRMjF2aVNNb0FJR3BqV0xiSVBTcUFoeXVtVGRvLUwzNlVzN29SejIwZGZJNXFwUDNSNFpxdEY5VXdjbFlEMjVjTWs4WVBvRzVkWDh30gHMAUFVX3lxTE5QVF92cnNZem1UN0I3VzJ0dE5vQ1NQdFdwa0p0T0x0bndQc3I5WmVZaDRDZW1KbHJ0QjZjUUpKa0ZwVTU3UDhFa2NGdEZncUZESkNrWGlaUS1GYzhJTDJudHh4Qzh0WmlmU2VCb203Z2NORVNsM3lod3R5VVZqR1Q5QkF3WHhkdm1sd0k0TDFMcExkQ3lpTmRHVHFqZTQzeGtyc0szWDBXeTVKUEVnQ3R1elA0LTFYLU5oQ0hvX3VPVElOZ2FYU2dfMmExSA?oc=5",
-"source": "Asianet Newsable",
-"published": "2026-09-29T11:00:41+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3e1c5ce4410ea2cf",
-"title": "Nifty IT slips for 8th day; HCLTech, Infosys lead sector losses - here’s why",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VT2xQaFRCMndVcEw1M3Z0RTR2NzZsMFFqcjN3MnRvRTd4aHo1RTNZZzF0cEk2eDY3RW01bE4zOXRGdVVDS3JGbEpmbWNubEsyTVBzRnhWcW8?oc=5",
-"source": "Motilal Oswal",
-"published": "2026-09-29T11:00:28+00:00",
-"first_seen": "2026-09-30T10:20:28+00:00",
-"symbols": [
-"HCLTECH",
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d25d1c34b979902b",
-"title": "G Kishan Reddy Reviews Coal India; Sets Sight on 1 BT Output by FY30",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0xHVEloRGppNGhhelZodzJ2LUpJVDUwSThfY2pfUF9MdU8taE03LTZnWTNjY05RdjNrWUNrcmgzVXR4X0p2alNjeURTVkZKUHVVUFlCb09sdmFmUG9iQVpSb29VX3pabGF5dGwwVVpvVXNXUndCZFFKOUMzdkw5akZHeEtvUU5uRkxVV0Jqb29hMmJIS1dDRHBzbW00TWkzdmluR3pKVGV4MGo3LS1RZnpLbTZhUVVmQWJtY2JVMU1XOFg2?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-29T10:55:00+00:00",
-"first_seen": "2026-09-29T11:08:50+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a35d7abd81129879",
-"title": "Used 2017 Maruti Suzuki Swift [2014-2018] Lxi ABS [2014-2017] for sale in Noida at Rs.2,57,905",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKQkdGUXhLQ05qbUlNNWd1RV83U0xBQThSRmVtYnRsX2FNaWZyMmRhSm1RRFNBMDgtYlJpYXBJSERQZk1IbnhaZXpuMkdOeXl5ME9QWE1ZcDNabjJ2Zk9UZ2xMTXdveS0tZUY2dWZoTGZiaUNGWVE?oc=5",
-"source": "CarWale",
-"published": "2026-09-29T10:54:26+00:00",
-"first_seen": "2026-09-29T21:18:45+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
