@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T21:50:55+00:00",
+"updated": "2026-10-05T22:01:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1218,6 +1218,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "cbe5abac99449580",
+"title": "Succession uncertainty fuels talk of another extension for ONGC CMD AK Singh",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlZva2Y3LTdCcjdtX2hneGpKZzFhcVFMTS1pNnBJS2JSWlJKZ3ZYZUE0LVY5dTBnNmpHMndKYTdtTmQ4NVN6N1ZmMGJkNGNvQ3d0MWt3dk90WVBYWTFpbDBfV016VFRZMWNieWZXa0ppanYtblExMkdvXy1sNzd4ZF9nRThwTGY5ODBFQ3dHR2ZtTzU2b3U3Zmt1YTdCaThMVHBHRDFpRGpuUEpMNTN1M1VwaUPSAcIBQVVfeXFMTjlTcmhRUm4wRVVXYkhVMWdUZjRUT2xsbVl0RkFlVDhEdl9SYmxWUl9BVjhfcEo3Sm5ac25QNktTOFZLX2tkTzhoTmhLdm5SQmk1bk5CaFMzSGo3VmhPZE0yaXFBQXdiTElncUF2c0FoMjJCRnFtaWtnMU5ySVhXNWZHNFQ4bjNnbllfMVFLRWdkc2VBbEdlTkd2UEJSdWg0TUV3Mk9rNmdPcFFVTmUtZ1RSR3VHQ3RaVG56TWRKU1ZORWc?oc=5",
+"source": "PSU Watch",
+"published": "2026-10-05T16:13:07+00:00",
+"first_seen": "2026-10-05T22:01:22+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -7238,6 +7254,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "212360c4fd267728",
+"title": "Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObHJOVnFVZ21hRUp4Y08tYlE3Y0RFUzY3cjlQSWRZNjRwcGJGd25jTWE2aWV2MVM4MVBYNV8yREVoQ0tNTzJJUHd2VVFXalVIcE1ieXlKeEZMSUh6UjhHMnBJM1hRbkhBV3FJbE82UFJkVmcyM2ctclpDcXdSaFlRR0R1WGhHYWpOQUxRNDkxNmIwM2YyamdVUjdXRndPVHR4SS1US1BqZ3hUMG1qMDZOdXNIbVF2dHphYXNQRFBtSEttaVhObUk0ZDZfVXR1NUlMcDRxMkhROXRoZw?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T07:00:43+00:00",
+"first_seen": "2026-10-05T22:01:22+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results"
+],
+"sentiment": "negative"
 },
 {
 "id": "d5203f2f3bfbbac6",
@@ -51409,38 +51443,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "5345f5c5eacda767",
-"title": "Hindustan Unilever rises Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2dCX1dyR3VHaXBzU1BfYjczQ0M5MmNOYjdIVlpncnJza0ItcllMLXNiakoxejROMU5ZNElMODc3SkttY3hOci1NWXltazk4eEw5NVNKQmk1RW9QUnpRVWpKdnY0clJxUF9hY05IaUlacjdNc2FaMjJXNEhCNE1OaVV4aHpMS3JGTEJXdWF0UG1wQk50NlAwaGpqQS1uZDV2cXJCRHhUaXBzeXhSZDZBTFppd19CSTUtOVZFbTF4eWlWM1pFaU81YkdaVQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:32:00+00:00",
-"first_seen": "2026-09-30T13:48:20+00:00",
-"symbols": [
-"HINDUNILVR"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "23edceb34b1ac35a",
-"title": "ICICI Bank rises Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUlrelFhLVRsYVhhSDhna3hBTUszaWQ2ZWY2NmFLcjJxcXhfU2Y1NEFiclZsZGU4aERJMlBnUS1fMzJxLVFIbGd6aWhtTnBYdzAtVUdrYWZXaG4tTU5ORXNFQ055RVN2QVVkUzF2RFAzSFoxVU1ST2VaZTQycW1PaVQ0SmZfTEl1UUIwZ2pvY2s3cDVnTUNyVi1odWUyYXIwUVVCbHQzUTFLa1pkV2R3UHQ2Mk5mQm1mWHZF?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:32:00+00:00",
-"first_seen": "2026-09-30T15:04:55+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "positive"
