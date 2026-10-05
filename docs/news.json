@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T23:59:20+00:00",
+"updated": "2026-10-05T00:29:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -628,6 +628,22 @@
 ],
 "groups": [
 "HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "449921cc9357998f",
+"title": "Infosys stock gained 4.11 percent after AI collaboration announcement",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWZZcjBNcERsaFZPXzdnZlRxT1AxSUlGSzNzY1F6U0JlZEQtUEplTmFodTFnckl4b1UxYTNEcGNua1FMaW9aVVAwb3NNMl9mNHpQNUpsSDJidWIyRlpqSWhIT1hOcVJmcDlXTk14bHpYWE9yeVoySlZyZVlRWHZSS1BZaWlDOTNyeTNLekk0YXJVcVcwTXhUQk93a3FLTmhuZ3VibFZSY0xBaDFNWUNnMDJlcllJc1lEbnhmXzN1c3J6NWJaM2l5TmxuTmQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-04T18:18:58+00:00",
+"first_seen": "2026-10-05T00:29:14+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
 ],
 "tags": [],
 "sentiment": "positive"
@@ -51005,22 +51021,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "68b73e04187f701e",
-"title": "Adani Arm Gets Nod for INR 1.04 Lakh Cr Odisha Data Centre",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUlJ2NktwY0NNak8tZXlUTkpPS2JmV0JJaTg0OGtCNERCZWNNeVhVWUxxS1BZOGVLc0xldVZldEZnM1NMVmplUXFQcllfbThzQTdaUmlEQ01ERmNNOUpTekl5OHI4QzlwMkwwMnNQRXp6OWdVQWlFYWZsdDVnTjNNeWhtVTFIZWQzMlNPeTVmWlh4QTV4clNjYW5aWFF3QTQ1eGFKbVdWRDl4WTlVd1Zr?oc=5",
-"source": "Entrepreneur India",
-"published": "2026-09-29T09:58:33+00:00",
-"first_seen": "2026-09-30T05:01:02+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
