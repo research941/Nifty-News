@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T22:01:22+00:00",
+"updated": "2026-10-05T22:19:04+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -1113,6 +1113,25 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "41d6081b3196e360",
+"title": "TCS Dividend 2026: Record Date, Q2 Results Date and History",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjQxWjQyR0FLODZhOUtHclIxN215Ml9WVWFYMC1RTTFnU0E0S0xFcm9nUEl1WTQxaC0zbHB1aEFPb3VpZXJQdFh6dGRRbnlqcTRINkZhNnZ5c29qdUE0NmlnNFh6OTRUb3lwMVRma21jVFlLeUZ1bXRlSWlRZUZCZW9iWkRPdWxOaVZ3?oc=5",
+"source": "Univest",
+"published": "2026-10-05T16:38:14+00:00",
+"first_seen": "2026-10-05T22:19:04+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -51430,22 +51449,6 @@
 "Order/Deal"
 ],
 "sentiment": "neutral"
-},
-{
-"id": "84eea5eb93e2035d",
-"title": "Wipro climbs Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWlqYnlOYXlPbUU0dGllZkRnT0loMjdaNGdseEtMd2JrdHZXOHYxTks4cXBiRUt5SGNuNXpHTWNlRnMwRkQ3U0xqY19WRXp6dy0yQ3BqLUVjUVVWUmJsaThVamNzWnY4MGJiZm94R1NZeE1KT2ZXZGVYUVA5cTdMb3JxbHZPYXV6Wjd4MUlFOGJLYm5XcWtSbkpPYk5FdjNEbzQxbUg5RXlCNEVFdjlVWEY1VmZsZXRUSkJr?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:32:00+00:00",
-"first_seen": "2026-09-30T13:48:20+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
