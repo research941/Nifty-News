@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T17:50:17+00:00",
+"updated": "2026-10-05T18:02:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "6ce3b9ef695bacdf",
+"title": "Bharti Airtel stock gained 2.23 percent on October 5",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjBTTm9ENzJLNV9FRHBId25kRVJoa1M2VEFscDIzZU1McXkyMmxNSzNUNm1TVk1TTnljNWthUmIya0F1MVVnb0ZoRWJmSGVZX3lGX3Qyald3RDFkbFpLTG9hcXRhc3Q5VFdzd25kTFAxaFY5Y2IyUURPU2lNQ01rX21Bc1JZaG5wU295eUNmU0FQMlE2bVYzOEVKVWYwRzg3QVQ2bmxZU19LNGlkQlM1cy1nM2Uydw?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T17:53:06+00:00",
+"first_seen": "2026-10-05T18:02:14+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "7de851878033b5ad",
 "title": "Sun Pharma Advanced Research Wins Rs 27.51 Crore CENVAT Credit Refund Dispute, Tribunal Dismisses Revenue's Appeal",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObUtGVzlyaGlXeHpHTWlwQ1ZIQnJQdk1wQlU3ZjV6ZGlLWjhLdnN1OXd0ZGNYSTBlQ0NiMzFNVkU3TTBiZ0lKeDBGSlQ4SzRXRzFFS1FRU3ZESzhaQnlHNUVONDJodXlZOUg1MkZDOGNxN2dyWUo2RF9jMWpRR0NlbUpMeUkwbjhfeENibVNjMDZDcWFQdlI1M0RDUWhUdmhqU1pSTi1LeXJwaDA2dXBuOXBEZlNXbi1NbDlWOWNxLWxKZHh2UVF6RElwQzQ5RnRLZHhxcEZIcUt3RC1Xb3NV?oc=5",
@@ -651,6 +667,26 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "3c62a281f2a5f4b1",
+"title": "Sensex Up 400 Points: ITC, RIL, HDFC Bank Lead the Rally",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGdHR1hCajFkX1NSSHRSSE1wTUZqb0xyNURpOFhfVElFXzdudU9SejdyZ2JhYnk2TWo4WGxyWThmR2VTeGRUMEhtQUxmUDliMVZrWjFZRlBMY1dDYUN2YXg1RlVJanBybGNFOFV4QUhpR3lzWWdiTHJ2eE16XzlQdklPaEZvc3ZB?oc=5",
+"source": "Univest",
+"published": "2026-10-05T16:38:13+00:00",
+"first_seen": "2026-10-05T18:02:14+00:00",
+"symbols": [
+"HDFCBANK",
+"ITC",
+"RELIANCE"
+],
+"groups": [
+"FMCG",
+"HDFC",
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "2159df21dc57c51d",
@@ -51388,38 +51424,6 @@
 ],
 "groups": [
 "PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d8f86fbe314c41db",
-"title": "Apple Pay Launches in India: Hands On | Axis Bank Credit Cards Only, No UPI Yet | TechPulse",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXMtdDdScDlRSm56elotUUMzdVVIazF1TlVLOW0wNldDUjREcE83ajRwY0xOdFlVOEc0Mi14RldrNTRabWhRUE9mQUtCSjJQVnJsWjhrZzJYUnIyWFBQbjhtYk05R0pWTnJGMkFUUnNCRzBuNFZnYkJjQWhWSGRzaU02Ni1BRWdaaW5JOE1DWVZBeFJGWEk2NTMxVWk4ZFdtU3A2eGVXTTZweTlYVFNna05uQmxGOTFMX3JrY29zVVc0RzZYeTJPZ1NZc2FwUVlxMmVodVRmZE5JRHVYeGJHS1VidHRDeHU1QzhN0gHwAUFVX3lxTE1IWnl2Q0d1MGUxLVpmNWRMSmhBOS13c1BSWlJsSnVUdnZxeUdTb0lMVGtPUmlUSklrSVpPQlhOVjhPaTRkZjQySFlLZmVDM2dsNE90LW90bndVSkJIOTBLUlVWTDVpakZTVk5EQm9fMDI3Zm05OFM2WUpjX3VWTDU2TUVZOXFiZG9QR0lGdFBtU2hISXlLSU5IRXBGQnRCbkttUEZmSC1LVGVieGRDcFVjRlFOR3c0WUE5YWUzdEhscGdnelItYjlpTG9NRGwxZEpLcVE5M21la1FSeFliYjBtUDBXWlA4d3E2Zzc4Tlc4VA?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-30T09:46:19+00:00",
-"first_seen": "2026-09-30T09:48:47+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2ac08bcdb9ea838e",
-"title": "Apple Pay in India: Axis Bank cards now supported",
-"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZM3VuX2hON0tBdW9XNDRtV1JHLWVmQ0gwOXRpbHZ4czcxR1hkaW9ONFpMNERPU3hhS1ZtN19uRGdEVkR1UTBPN0dDZk41d2JqVUNwRldsbDdFbnJwMWZSQ1J3?oc=5",
-"source": "tbreak.com",
-"published": "2026-09-30T09:46:00+00:00",
-"first_seen": "2026-09-30T10:00:42+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
