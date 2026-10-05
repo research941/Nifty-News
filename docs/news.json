@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T01:59:54+00:00",
+"updated": "2026-10-05T02:19:56+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,162 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "217de6ae3a21e8ea",
+"title": "Stocks to watch today, October 5: Cipla licence, Sudarshan GST search, Bajaj Housing Finance Q2",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNlU2TnhfWHBVem1PRlV4TTRtQ1pFUjFtY0VUeUxteTYyNjlYNG5lZHhGaWV1MnNBVzdpQ0dzeU50aUZybjdoRXNlb2JpRjkzbzZsMHRoVU9MSGEtQldTN1JrYTljWkpEODNXYi03b3pWRzM2Qmd1VW90V3FTWkw5X3VsbFdXZmFyTVRYQkRxNnRKTGJaSGVrVlZnZ1JIRzRueHR5QmtMeWgyQUpwLU5wQklnMUVQNVpTYkhRRFBmWTJISHBDdVBmS2RrdWp5eExiSEluR3BRNzQ4eHhyQlNxMEd3?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:17:42+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"CIPLA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Results",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "d9e7c3d45af4ed3d",
+"title": "Adani Ports: HSBC maintains Buy with Rs 2,200 target after record Q2 throughput",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUxUQ3o3WFpxcnQyOXVCMHEyN2kzT2dlOFBXN0h6Mm9SNTg3aC1KUHRka2RaYkNwb294VUQzdElPdVBRU1FoM0tXZ2lMR1BRY3Z6ajBiTXdOSXl5Sm4zUEtUQmI2dExYVWpDTjZzYTBFVElyT0VCQWxPanI5UXJ5TU9makJnai1maEFyUzlhb3VGYTc5ZXNhcUxqWDMwc093cjEzVGVxY2tKQzVIVzZXdmtLeFJJN2FWQU0zeDBxZGlIYXZQS3VydmpjNzREWWIy?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:13:07+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "af2f9f4f69e5f67d",
+"title": "L&T: Investec raises target price to Rs 4,870 on realty and manufacturing value",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmVaQTI3bEpsMHZzOF94bUwyTWtYbi16RGlBZU85UUlTVndWTlBWbGk1dTRrb0ZITzNrbzJQdlMzaVMzVTVMLWdsV0lDSFBiVTZUdkh1cVBvOWJjQU9HSUd6dGNnVjBneUpGTlFYVHJhcjBwczFPTjJ0OGFmUEktYS1EaUpqZFRnNWpkRUFqSjBIc0RRQ1hOUlR3LTdJcDRoRmZDN1lYR1hNbllGNXNxbjN6X3h1NmxscTJhNFBnWjFYVDIxb0daYi1ISzJlalQ3V0pzQw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:12:42+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4df0856c9139034e",
+"title": "Dr Reddy's: BofA reiterates Buy with Rs 1,480 target on semaglutide and abatacept",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQkpmdWhuUTd5V2J3MzNHVTlnR2ZOQ1g1TzR1RWVYZUJDWDhpV0xKU3REU3hkNm9idnJvUkExMWNGRHFGdmRGQk9zVVhTbFJ0d01jVkpMeGJHUUFMTDkxamVDaUFkODd3a2pFazVuWjJLd2c2N2hDTDNvRjc4anctanllOXdvelgtN2h0QnEzdzZGSjhWNTF4R0FHUVNTVlhob0tSZ1lCNnFnOGtCMWYtV28wTGZVMlJrVFB6RkFnMTVFUmw3QncxcXBn?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T02:12:42+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d701b6ce4380863c",
+"title": "HDFC Bank new leadership to focus on three-pronged strategy: Exclusive",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnlkNGpmTjNkZ1F0ZjRQMm1Tc2tOa01lcTBrRDZOLXFTV3BveDAxLWxKSXFSdHhaal8xYlYyUHJ0bjk2MFo4aVZHTWRMUUNFVzNsYjFIcmlTR2Y3X0dhNGNGNmszSDRNZ2FZWXJzemNsaVRHY0lNamJPSmptSjd4Z1pySjAydXFXQ3VRM3prREcyZnV2YTQxUzBPaWFUUHY2U1ZqdGYwR0dKNnFyRkFBVVRqVGTSAboBQVVfeXFMTWtyNmxtUVozNi1zckxNTXlEYWVsQ3RzYXhrZ1BId21VQ0s4dFZDbVVDN0h3RDFtNmNpMlE1aXIxZlY0THhGMDk1b1JOS0xvMzBTQmctejg0cFV6VUZpM3FfbWppanpibFJMNTJXZEgtMkNRb3NMZGFsSmVWVnVaMHpoLW9QOVZsdDV0dEdYcnZuWlhMU1hyR1dpNzkyMDJvbGNGMGlmUThGRHRrVEd5d0tnZm9YT0hQV2pn?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-05T02:06:15+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2514b80ed466dd3a",
+"title": "Jio Platforms’ global roadshows draw strong investor response ahead of IPO",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjd5UU0xeUhYUF96cGo5V0VJbUhHVVltSVNEb1o0b2QxQ210WEZVVVpGWmFVbGYydUVJcVlqVnpNLTZ4cGdOaDVNcmh1ZnVoTG9yTXV4SkJYZXIzWGNuNlZJTm5kOEhRMlpwWjJvWWxXSjRmNlllNmdQS2VFSjBVQ1NYX1BhMVVHZ2Q5WmtsRjdVVjlvMF9XdzFub2k5d2d1QVNEWXMzbnlVTmNfa3RVNHhR?oc=5",
+"source": "Communications Today",
+"published": "2026-10-05T02:02:35+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
+"id": "2646d28cfaee96e4",
+"title": "Jio Platforms eyes bigger enterprise, digital services play as capex cycle peaks",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOekJvTUN6ZWdPTVNsZG1xbE16TjlvemVOUjdxZWRackgtWXNuMU9NYXhQMVVuem1qTGk2WnZRelloXzh0azBYZHN5aFJ2NlB4ZVR0LTBhcXBvYmFvNHE0ZjVFbTA4WlNBYmw4OWdId0NnTzd5TGFIQ1RCT0drQ3gwcmJ6a2UyQU9Ud0pqcV9XYUhVM2lJYnVnVENlWWl0WkpRa3k4ak9Xamp4WTdtMHZuYjRaMGVQc2R4Q0pTa0VQRjB3OXdiZmk3akVKQnFmZHJmNk5LV3RBWFRvcUhmQWNv0gHkAUFVX3lxTE12NkpteE5RcERHV3F1UVpzcWdYVGVJU0lGSTVJZ1ZHN3VQS3VxY3VzMl9EYnE3ZElMVEk5ZFcxTmFtaGNZcXFwVmFxelJEcHBxOVEwcEhFcjdFUUNMdVZ1TzNoZzdIbDhqWkJCdzR1NzlPcHVXX2VkVkE2eVFhTDlHUU1pZ2RVZGV3RDZncEIxLWtfUUVObFF5bkZtZ2gxYlVWVWhSa0dydzZ2TmZ2by1EQmFaZEhkMnpEZWhyUlpiSmZqZDhnamdUTlZRN3VBV1ZOelptQVBvZ29ILWI0cjJ1eFhfaQ?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T02:00:40+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "77580c4f67cbb907",
+"title": "Key facts: NSE:MARUTI ~220k bookings; REEV access possible",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNldZVUlHYldQSlpnTVFmTHNVcmlrdkdOaWJYTHhhb3pUb01oVDluMmNVRHE3bjlXanZYRHRRRDc3UVZacU9YNXdaNndDV0h6N2lfd05qdkNOTU9VRnU0U3cyYmFzdXcyaURBRTNXQ01QcmcycjkybDhBNWwzVno0eFJWcEdyLTVjbHBEWjIxNHhtRi1WRzdmTGdmalBzYWo0UW81S21pWVBLaERWWC1SMzJuNEtGTGZK?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T02:00:00+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e592cd6554794944",
+"title": "Top stocks to watch and why today: Ola, HDFC Bank, Nykaa, Infosys shares in focus on Monday, 5 Oct | Full list",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUnVjaTZTc21QN3lSUk5YY3c5NGdPMGhYTnEtUGhCN3NFaFhuMkpBcXlNU0JFaERKVXh5MWtEbkFvQVB6U09GSEZUZEtpbi1WMHdZbjV6UEtaU2wwd0E0UzVCOUdKVl9qYUZxdFZKczVMMzdxRm5sTDVLWDE1SllHRGJYR2tSdFJiOHVyNXBBWmNLTG1PbzFhV29rNEtkUmRLRG11aEY1RENPdVByVDgtTUFqWEhneEJxbHVXMVZ2UnNoQlVLU2FjSzJYdWpVektKcFgwRG5ycHlNM0JhYXVlQzRuTi1IQ0ZtSzVPV0ZvSTd2ZEdBdlB0VlFSTjMzYW8weVRN0gGIAkFVX3lxTE9IWnNXenh4ME9xVXlTUXF4cElGODJ3dDg0V21MZzdmN2lPaW9UbTh6SWZWRHNxc0tiSG9rWHpKTkpxMHpmM1BfS2N5UGRjYzdFdXJnQlhETGQ0X2JDbmpMT25lWDJKRTIyRUdqdXRONWhrZnlGUGdtQWFacUgzRjg2dmFvT1doYjU2c0JBZE5XNkRkRWdfRklnZzJKVHUwbWctTFRsM0VlRnJ2c2VmWENhNTJlV0EyT0t5ZXBUR1h0YlNqVlRkZll5bUF6cTdxYkRFMW1kczI0dEJJNnBURWkyU0x4dy1jYUxMTzRoLUdxMktpN0dJYnpMVHZhNVhXaG1wUm9ZYTJ2MA?oc=5",
+"source": "Livemint",
+"published": "2026-10-05T01:59:40+00:00",
+"first_seen": "2026-10-05T02:19:56+00:00",
+"symbols": [
+"HDFCBANK",
+"INFY"
+],
+"groups": [
+"HDFC",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "aae3dbc7d4eeac78",
 "title": "Bajaj Finserv picks ex-GIC chairman Ramaswamy Narayanan to lead reinsurance foray: report",
@@ -50900,151 +51056,6 @@
 ],
 "tags": [],
 "sentiment": "negative"
-},
-{
-"id": "43826b507b60448c",
-"title": "HDFC Bank rallies Tuesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHkwd3FVLUQ4cXM5ckJCUE5pTXZJbzg1M0JlbTBHbmVDNzg0aFV5WVBVa1FSeU5rUlFpd3JUcTl0S3J3TFg0SENSMjNMSDI0c1E5bWZZUFJIbGNfVlRTQXNOMDlZV3hReFZRdnB4cjFqWkxQTTR5ZzRFdkNvLXZlN010Ui1kWjNSSWpSSF9fVjV5Q2NtMWUwTy1ZMnhCUWpydzh2cTBrSTNaR2FVS2FObDMxMmo4VnFtY1ZQSDNWcw?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-29T14:20:42+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "0a7858be7b0a226d",
-"title": "Reliance Industries slides Tuesday, underperforms market",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWpHWlB1UWkxb1RnNXZSbkVfdm1UNjdKb09vdnN0NHZEQXpSdF9xQnlUak1jVGdMOUdFT0lrTDd4eHBCZ2drSkx6enZybzVEc3pmMWtfQ0NGbm1zMURuOGpSYkEtOFdNVklfb2Q0V1V6RGhmdUJXMjV6NGtxRmtTbFRGaG9RLW1ITmMtQ3REam9CWHNQdzNGQmowbHF2QjZTUGJfVEZXSGNqU1lTMW4yOXFUZGJjTkduUmt4LVdRX2JSQW4xdnY2WW1ZbzRZZw?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-29T16:22:17+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "9424dc39a450fe16",
-"title": "Infosys advances Tuesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTBIeGpMck9JU05sZXQ3UkVpSnlVbGdnLUphaHRmaEphbG5wVUNuVjN0d0syN0hTTFBYeUh6dEhXUURRelBqRXBBOC1iTXpXc1RTSGI5OC10czQxVVlVbkF1cDVxYVR0cnhUenpDWHVuX0lIMFRHWDhOX0Yyekh4Ry1IeGVWaUU0Wk9vbGRQTTI1TlJNN09vRmNzbjFuT1ZyNWJ3QTFrWldGTUVXaEhpZXlyQm5pY0RrYkZ4N1ZHa3RvZlZQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-29T21:18:45+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "a517de6e39a0448a",
-"title": "Kotak Mahindra Bank rallies Tuesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5MaTVla0Y3b3VxbVdqMlZydWF6c3paQjlmTG01b1QwQWhvUGd3eDR6clE2aXh3UHdMMktuVWVybU9uZzhRUTlyRnRvaFZRaG4yR2oxRTVuSEFBemg1U0xST01vTS1JTG9kZllzcjZVUmJwV0FhblhxeHZ3LXdiSjV0UURMU29tY0Y4djQ2bE44ZDhtejFsN3dVZVE0YUxMcnpvMlJpaWZkSWRua0FjeHZpYTNmQnI0YTlGbzVIRWNIdzM1OC1iNFRibjQ2QQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-29T21:33:05+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "30936ba77d6bd797",
-"title": "Dr. Reddy's Laboratories advances Tuesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOThpc1BlRnBCcE1ZVUZ4dm9RLUdjSFBCQXpvaUlpaUxFNVR5Q1dDZk8wRk94bHRSY3M4d3doS0NfVnJJcDBGYk5oWmFEYVNJWEVvenVKNmJTQWYxTEY2d0lXajh1cGVkMGtpOWlOekZOSVcwS2w2bHNrbkNHb291SG5pZjNIdlRoX3VUeE84UjctejF6RGEyTXpZZ0o2cUpHUkZwYk41aEhWa0VucFdSRHlYeFdBdnV3V3VpMV95T0ZZbUE1MXF2dkxSZG5weDR1OHA3MQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-30T07:00:30+00:00",
-"symbols": [
-"DRREDDY"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "69e82bd6dd9ecb2b",
-"title": "Tata Steel climbs Tuesday, outperforms competitors",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEk5cWRzWTJDbVZUQTNJNXdzak12UEROZFJtTGFIYmg4QW11MmFmREd0R01oUVZZU1NhLThlTWk1S0FUZE12LXJhM0lzaGJaNWxZM18wUnRaLUk0Y1pVcEVMdjdfQzUxc3MyR0lVenNTTmxadUZLZzJvRWNwaWM5ZGFtTGpIZXYtOEE0NmZHZUZQV3o5Y2puZVdkYXdwZ1dtRlhYUVFtbms?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-29T10:30:00+00:00",
-"first_seen": "2026-09-30T08:25:43+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "6ce59781b74aed69",
-"title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcnQ1VGREU29jdGRRWGNwaEJ1Xy02d3ZMaVVoaHo1c3o0aS1mTlBlZXo2YlU0UFZzMmV1N2VFcGVYZFBxUWZLdEt2VmJvNzMxbnlHY21JN3NOc3NsZ19aTTZEZW1SVm1vT012Y1NGYXVHdVJDRXZaR01Felc1SHZLRU5IY1dtRnRySWlOQ1FRMlJGa1pHUDI3aE5GQm1ieUlZRTRFM0F4TEYwcGtSUWtodTE5YVBsenkxdlpaT3RFRG1RU1JzUzhoalNkZlJTTWpXTlHSAdcBQVVfeXFMT2xjT1hVaEJOb2JoSWN6Vk83X0tnTkdQWWdJWkVqN3FsMUVYR25yczJyYnhfLVhTZzBxWVZKUGNSTWdWQ1ZuaTh3VkN2cF9MOUloRVhRN0Q2dF84S3RWMDRiSHB4alp0WVBlcVZPNFpRclJKMzNZeWRzS1FHZmMzY0ZldWh6X0lHQk51Z1pzNUhEeU5XWmFuUGFiUzlqNmppUzdSaG1CbnNBM1RiTHREMkg5ZXBQb3VFTDJqLXBCWGJuam1scVdQbDhWeU1sYUNhZXh5YllEdDA?oc=5",
-"source": "Business Standard",
-"published": "2026-09-29T10:28:52+00:00",
-"first_seen": "2026-09-29T10:55:44+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f74e7e7f075d79fd",
-"title": "84% wealth management firms see need to redesign operating models for AI: HCLTech",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmF6ZUExTDhqQlB0RnVCNmJ6LTZVdTRPbkREREJPTWUtX1BhSnFMNW5mX3JseUxqVEh6WHA5WkNyTmpFNllNdWctZjJnSEFHeHQzZkJZQ3RXZEFxX3paNUE4ZVZiQTFyblRaS0xDOHhSRi1qMWI0Mk56UjdyRDBxU2F6T2lSRlkyejlJODQxR2xlVllJTTY5TVBWR0l4VXd3eVo2ZjVEdVk1T0lUTmJWOFRGRVRiNXk0YWFKWjNGZ2HSAcQBQVVfeXFMTUw4Q1lCVDFSeTMweVRocFFZY2M3Z2VzeGJwRS0tUTNjRW5XTkVMbkxLcnpha2pVdnNqdHdWY1ZnaTIzd2RMVXFJbDFnQlZlRHpEWnZ3d2dZS2RPRzlaYll2dU52WUJvaFRna1BVWE11VFI3eFMxQ1NsWG03eUZWRjlCNHpXdEU4OXU3dHVwc2ptcXJleENCN1phWGJfdHZoRXVVQ3hvVFluY20yd3RGUDQyNDdrLUd2UGsxU2VmY2VMaDVKcQ?oc=5",
-"source": "The Tribune",
-"published": "2026-09-29T10:27:52+00:00",
-"first_seen": "2026-09-29T10:42:14+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "03415570b80105d5",
-"title": "Adani Ports & Special Economic Zone Ltd Rallies 4.39% and...",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVRjeW5pY1ZKX0kxd0lWTjczNzBlY0ZOVHd6UjQyWWRrWk1SVENNeGtyc3JpX3k0dmE3VTY4NGpMTzBWcmJqSlZIaWhSRmtqTzdVZWdMOFFaRUNIY1ByWmJ0alFFVGc2MlRrYXJKaGROaC1QTUQ3RDE1WGV4ZHM5eFJUVmNfc3FzdVJ4c2NqNTQzeFdfb1FqN09tLTV2cHdaWmdnX0RPWUM4M1VuVWpWc01Jc1RQMmRxdEtfMzNQSnAyU0VFWDBhQg?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-29T10:27:08+00:00",
-"first_seen": "2026-09-29T11:33:14+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
