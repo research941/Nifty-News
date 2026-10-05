@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T11:20:42+00:00",
+"updated": "2026-10-05T11:39:00+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,109 @@
 ],
 "items": [
 {
+"id": "f0f0cd8350553a61",
+"title": "HDFC Bank Shares Fall After Early Rally",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YN2ZDVFU0M0IyWWlwV0E5bmNmakRBWFhqTDJpQWE5Vk1xbGg5S1NGTXctVmd4RUZsdU1keG8zM0o5YlhfM2s3Vkk4LWFlUm5SMmhsWEpVS2lpcU1QaS0wYXBleUFYeFdQUk1kdTFB?oc=5",
+"source": "INDToday",
+"published": "2026-10-05T11:29:22+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "985f7a8f422b0882",
+"title": "Maruti Suzuki schedules investor meeting for October 8, 2026",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWU4dWFGSVJmazVXOHktZzZIU2xiNnBHdWxreXcxaUo2ODRhd2x5eHU4a3Vqcm51bHZfOHc4Z3BxUGtIWlRiTkVLYWZNZl9lVDdEMmJwSkRvM3FpVkdsUzNTaVcwYUg5N1l6U21VYzhoQWZsMEg4cnZ4ZHhaekVLZjRpZUZsX0FpNi1PWl9vUUpKY2xFc3lJdFE4bkNtSVhwc29mWkR2WFk2SE5KZjNlemJn?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T11:28:57+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8dcdb7efa9e55c5f",
+"title": "UltraTech Takes Green Energy Capacity to 2,024 MW With Wind, WHRS Additions",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYi0yZExRM19idkVJS3lYRjd0bHBYdzlrc3dFSlJCSGY5eTNzVXYtaGJ1MnltVVo5cm01ZGlObFJkVnZPUkpoR2VMNzZlN0RuUnNhMGlsak1Fck1HLXptUWJxYzdYdWJtRWlnWF81WGQ3c3lqeE9vYUpXUEJxdlkzcjNoWldVTHFscVNjd2RqbFR0THpzSTFWSGVYUDdyVTYzQUplTE5wM1FVSzg0cU1JMUE3YVJEc1Z4YXBUTGs3d2VqWE82TlE?oc=5",
+"source": "Saur Energy",
+"published": "2026-10-05T11:21:56+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3122553a6388a316",
+"title": "Jio Platforms IPO: $3.8 Billion Issue Set To Launch October 21, Reuters Reports",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTkJrR1cwNllRREpodFhvdElMOXlXZ2UzOUJBbDFEVXdtWnBKcmg2d0hVbjg4OWV4ZmpNR3htWXRuM2pwRU14NHhldS0ya1piQTVQZTJTSklSWUt4b1hHSVJWNF9ScGRMQ0tKRTNzQU1xUXBqaFFWd0dRRDZwQzBXZ2F5aWNZZmhJc2xUZnZfbGNKQmFyMGtUZ05Bb0tYTzdSMjBpdmtzWTdQd0gyaW9SWUt4VTZzSDVLcnJHZTRUaGtVSHBiVXBLRFQyNjR1UVVLcmJFSUFwQlBwM2NYbUJucmpB0gHnAUFVX3lxTE1LOWNwVHJlQUJfWEhUM0F2SzVZMWpvdkxpaTBRc3VNU0tsVjRoYzR1VVk3VWVZanNEUWRDTjdTY2tBdnA5YUlSZXlMTmpEOHZUR3ZCa2xkS0JKSk5hNEMtSEpJUi1yTGtFaEdpdjYtdnFnVjRNLXNXNjFNdUM0RzcweGd5TDRTckthNVF4QjBwQzJZd0ZxR2VqX19Mc0VTTzUwc3Y0MExYQS1ybHY5NFg2WThtSmJ2VFhJQnVZV2NYR3J4UWtvNGw1MzlCeENpZUpVa3g5SFJ1Q1l1NV9PQ2FOb09PdlNlbw?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T11:20:42+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "4ec291743b77e393",
+"title": "Kotak Mahindra Bank Q2: Net advances jump 25%, deposits rise 23%",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEQ5Z2xNSEZiYTg3RGtlcUtMTXBWblJnQmsxRUxDZjlxOWpFa2FoN0JLUGlDUE15WUdCUHYxbUhpVDBUOE1Sc05HRFI0azFCcmFjVHhZV1B1aFI2eWd0a29Zdk5kU2V1OFRFZ1pqc3ZMNFctS3NDME1tMG5Md1d0TEJpME9MeXZRenlBQUdSdTR6cU1HaDR5eWlTdXBocHAxQVNkUGJGdHRxQ2hzVXh2QU5lRnZZUkVTSG5WaEhjQjNCSkUybnJZWTdNNXphc1Nf0gHWAUFVX3lxTE9fYkVfRk1ub1VqcXU3MkFuVGhtaGlsZ2ZLaTR3a2hjSEgzSVdnZUd2am1CTV9jc0FPT3o2OUVlaktxZTZVZkd6bEJNVFRqWGliMlpHM1M3T1kyMzVkNUY4M1ZvWW9qNFNfNW1zczNXVnMwMUhMaUsycDkyX2N2VjRGYXV5TTByaFBlWThHRW40Y0Jxdm1sajhhdXpsSGNEMFhJWnA1dEkzaWZZYXB1cHBiWE1QaDBSdGVSV2RRZXI5WWJTcnNzYVNZaTdjNk82bmF5a2t3YXc?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-05T11:19:59+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "2b04f97866083b2b",
+"title": "Kotak Mahindra Bank Q2 Updates: Deposits Up 23%, $5.78B Mobilised Via RBI's Strategic Swap Window",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGFscE16TDBFZ2szc0swR0RsbjVYTGpiOWNwOUgxdmNjUmxrUm1sY1g1TlFvbjlnTzZsOWpDM2ROU3Vra1RidXV2M0tuMV9USjh2ODd2RmxOSVhQcWhqVGhJU21tWVlCZUdrdzRGaUZrOWFhQ2dBcUF6akVDN3oxWHEyNWNUWFNnQmM2S1RCVTI0QXdjdkNqS181NzlqbTd6VldlNEhMQ0dhM083Nll1T1IyT3B3eE8wbmkwdkFJMW1WT3FMcjJNWmx2Z05VQlRDNHpJ0gHbAUFVX3lxTFBZSTlRSGUyQnlGNEVNakFENnN3aXdCaW9wTmVvTzlxSlZrZWVTdmJ0dURNU3lFRnREYVFCbXFvZGRPOHZSMDFHQ0t2eVBtR2Jnd21hbVJnbC1QaU54cFk2S2lDMkp1TmRWb0R0WW5FS2Z6UEt1SDZvTFRFZ29CTlZfMUZGRGN1YkVPWlg1MUYya0xDR3ZfUUY2dWZ2SW1pZGI5MlJ5aGh3S0Rhcm1PeDUzN2JPNmxrcFlvS3dTQWU4TG4zM3Fqc0pYbnFNN0hwTHFDTldRSU9iUlVOTQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T11:19:24+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results",
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
 "id": "29ab3a22e6566053",
 "title": "Wipro Scheduled To Review Q2 Results On October 14-15",
 "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFpfVXVfT2dKSDZZdWRrRTd3Qzg3X3VZa3ZhVmdlU2EwSnBRcWYyX1NkT01CZ001bFMzbGNvSEU1UDBpb1hEYk5QN2llbzl1ZzQtSE16Y1BaZnlMTlhhblJJaXRNTGNDVkU3V3RmWURtSjFWejl6MWtLLVZZTGV3ZnhvLTgwZw?oc=5",
@@ -511,6 +614,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "09e9be5b23ca0409",
+"title": "Top gainers and losers, Oct 5: ITC jumps 5%, BSE gains 4%, Tata Motors PV surges over 3%; check full list",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaEJ0YVBoMGVBV19HYzgtc3NvdFZucjRMZ0liN2xUU2NEekJaSWpPdHE2WWpuWkhsN1Q0ekROT1pyODh1VkVNYm52cFVUU3lqMmhkTFNOWk40VE5IcmhsT1pOSXNtVU81SWFEeTV1X3g0X2ZNUF9HTWZEU1FRcEJ5VkdqOG5YWmgweUpMNTdFQ2FELXg3cnNYLUsxUFlORGg2eW5VT0xMUG1IM29yZVdnSlUwMWVGWGh4VjhHRjhIemR6VVFpVEtxOVhxdVZHWU9pX3Raak54MlRCRFd5WDdNcXdDTWZZdFl2NUZHdw?oc=5",
+"source": "Upstox",
+"published": "2026-10-05T11:06:57+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"ITC",
+"TMPV"
+],
+"groups": [
+"FMCG",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "f13d50c19fce2518",
@@ -668,6 +789,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "064cc5e916a7ebf7",
+"title": "Kotak Mahindra Bank Says Net Advances As Of September 30 Up 24.7%",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWmxjb2lXWGs4NllnNWE5bUM0UHAtelFId2hmV3VTa0JmLTBSRGVuVU5idENmZ3MxaDdMQWxMaXhKallWT3ZhVlQ1RFA5S01DUjNWQ2VCLXVoeU9vUkk4dm1uN2pvSXkxb1Vxdmk5ZW5qNUItWER5UW1rNXlzTWZ2Yi1qRUVaWXJjM2NHTS1DWjRRbS1tS2hyTVZOR0NuZmNqSG5VTGc1bTJDRGNROHg1MVQySzFTeXFhOTVQdHRfby1POU5DdjVrNlN5NXBLQVk?oc=5",
+"source": "tradingview.com",
+"published": "2026-10-05T10:53:53+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -998,6 +1135,26 @@
 "sentiment": "neutral"
 },
 {
+"id": "90ec7d23d1b1035f",
+"title": "2:1 & 1:3 Bonus + 1:10 Splits + Dividends Next Week: Titan, Axis, Sun Pharma, Nestle: 49 Stocks In Focus",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmhnWTdZRFNUZVFQU3lvV19kOVV3UWhwT0lkMm1yUlpwbzg2cWUyNW82bUhFdnFyNHRuYWk1UndsdWFXcm9UOE5wTndHbTJZMHdTWV9ZeGY1bnhGQmhmLVpjSnRRdDJDZGFiR2hnUFFDb3hzbXNZOEpVbUg1d0RoR3dqRFlvR1BXbXl6MmF6QS1FVFZJQkdQNDBNTEdxbEhrSVFyOERLUkhkR0dPNlBxYWl4WmlTbnlCcHdHdEhEeElwMGZHVklRVVFYdi12QUNEbGd1NndOaFdLSUZDQ2VHLTlQNjdsYms?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-05T10:12:07+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"SUNPHARMA",
+"TITAN"
+],
+"groups": [
+"Pharma",
+"Tata"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "b1a280b3507ad139",
 "title": "How will the Airtel Money London listing reshape the story for Airtel Africa (LSE:AAF) this month?",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVFQUUMtRUVQQVdiVE5nSDZ1YXNZSUJ4VWpueDJDMVlhbkVZb2haSWJaNzhGZF9ZcVJRQzJUTXp4SkZNN1k3NDJ2bU1PeWdPem1zaHlwTzJzLXdWSGg5WlY0Vm95UncyZjJCM05EdXZYZVhSdWhXWkw3Slk1VEVTb3c5RDFCUzBRUUU2dktkY0QwY1ZhazNvQTNhX1RqcWNaZ2lINlFLejhBN1lYRlhwT2FfMm9tQk5MYTNJcndRN0RtcnNlbVR0YlRDX0Q5ZEpaQ2FvX1o4VWZXTUU?oc=5",
@@ -1322,6 +1479,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "bc5aca7277fafd6f",
+"title": "Adani Ahmedabad Marathon joins World Athletics Global Calendar ahead of its 10th edition",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOakMxb1FYazNrdnNpTEV1cjFFUkRsMWNzRF9JY1NlbDd5RGU5YXNtc2tYT0IzY3pQZGpUaDVVTHBHVGFMV2R3Q0xNYjNBZ19oMEZRZ3NTczhFWDlUNHUzNE9sOWVlU0dMeTdFbEdmODVwdlQ3YmhMZHFDbFRhbF9Sck8wWVkwN2NEbG5NUU9DdkY1UkFKbXFGV0pNZU10Q2xYMnFacERWTDdSNFRldi1mNmxOVmxTaG5XX21MNWhYYTVUc19fOTdRb202YWtWUdIBzgFBVV95cUxOakMxb1FYazNrdnNpTEV1cjFFUkRsMWNzRF9JY1NlbDd5RGU5YXNtc2tYT0IzY3pQZGpUaDVVTHBHVGFMV2R3Q0xNYjNBZ19oMEZRZ3NTczhFWDlUNHUzNE9sOWVlU0dMeTdFbEdmODVwdlQ3YmhMZHFDbFRhbF9Sck8wWVkwN2NEbG5NUU9DdkY1UkFKbXFGV0pNZU10Q2xYMnFacERWTDdSNFRldi1mNmxOVmxTaG5XX21MNWhYYTVUc19fOTdRb202YWtWUQ?oc=5",
+"source": "The Tribune",
+"published": "2026-10-05T09:36:02+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "89709d63a23468f4",
@@ -2381,6 +2554,22 @@
 "Results",
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "2527291708f45d17",
+"title": "Airtel launches IQ Gateway to bring SMS, WhatsApp, RCS and voice on one enterprise platform",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaXJ3R1cwcUZDd05RbjRGVDZGdTRUYTFvc3RjTzk4QXFaSnluVTMxd2VFOXhxTlBDTkdVNjNrYVltcXFJYkhXckVTVmlwRzJKRUhWZTZMUzFVN0xLSlBEVmJqUHVDVmcxMmd2YkRqT2M5NGdwcHEwbTNzS1N4Y3lYYzQxbUN3VlJKTmFvanpRUW1hYzNQbGR3b1ViT3FqV2ZocWRmQWRtUUhuYjhkZjlVUl81SjJHdi1EREgxVGtLQk54WVRfbGdDc29zUEFtRkNOUnJWVmhENEo4MjlLWS05NEhsbjZQcXVZQmZlVm01c25MQTRkLW9PdUZzM3lTa01TRlHSAYcCQVVfeXFMTVl3UlBadkNMVlRhNW16TVczajdFd29LV25ycDhOaXlhRGRtdVRhRGo2RnJpZUJ5TUJfcU9fX0pVMkFvNkMxbnFOakduQUU2MzJ6REc5dFYzcXZleTBEQmtheVNPTU96QXhNSU9vX2x4MjJSSjJKNmhCM19iTnhzeXI0NG96dWRYOUtnRGpIM01GWDZpcVpGek51R3VxRERUZVNnVC1lRHNpUGtsWE12aHVPUFFEU3hveDJWV1ZFMkY3dFhvb3RFRFpXWUVBMkl0cUdCd0xIb2wtcEV1T1hIdWVVS3lKWVVDbEpvR1N1b0c2OVl6eTJybjJSTm9ocmRBN21aRUs4R2c?oc=5",
+"source": "The Times of India",
+"published": "2026-10-05T07:54:00+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -5656,6 +5845,24 @@
 "sentiment": "positive"
 },
 {
+"id": "f454664471cfb4a7",
+"title": "HDFC Bank shares end 2.3% lower after reversing early gains; Anup Bagchi appointment in focus",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRmQ0Z2N2NkZoTGF3b3FiVHJGOHV6cFRFWXIzMDVvZE5FZmFQSDBBSXJYY0JzZVQxWVF0dHhzQjBCTFdBZUNRZ3E0RXJkaWxQQ0kwY0tlMEJiVVQtZFZBT3JXVzFfWm5XTTRkeFpzRlhoc3pjM2JpMkN5S2MwUDZuQjgxSlVHOGVfY1JPaC05M1BlX2VKS01ROUVZRnNtMmxObmxOUFZTQVRPZFlNanlTdzVFTC1FcnMxSmxKSHBoUFZUb0xhNWZ1UVRuT1RoVlNGcHhDRzJoR1hMYVhFS2E1NkhUbHAtNnBUVElyZnlZekFTcEJKUTU00gH8AUFVX3lxTFBXM09WeldlSWQySFlsQ2pfRjF6V3BYVUQ1OEd1ZTFKR2N6NzkzRUVGS0FneEtOMGFNZEItdnFuZFlyY3I0NTZTM1ZLLWF6NXZlQ0p6MkpFR3owUThLeDBnajhwWTBORzdvUFVVUnhiYnk5RjlBeTZwQ3M4dVRNakZ6S3M5VS1YYVBQd1VPX2IzTjlTbTF1ekxfRlJuMUI5eWJPN0ZpUXJfNzh3b2t5SlJRamZBTGt4dmhmT0hYMTJ5d3U2RjNFMTNhUDFIamY2TVl6bWtYN09LRll1djE4SWQ1QURLdXlmVDB3R2diVmVDSWpDN1hGWjk1MlE4Tg?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-05T04:41:52+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0e5f5c081c6bec82",
 "title": "HDFC Bank share price falls 2.2% after reversing early gains; leadership transition in focus",
 "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3ZqWGxUVnU5MGJlQk1NWkJWWXhETVRnMDlrQ1JLNy1vYnZmaF9CLWhCRlUwZy1oYWk3cTMwMU9XVGw4aUpWUlducXVXNGpreXFLYVB0WHRMaWVGcVVmTldkbDZSRndEWV9yYmVXd3o5c2ozT211MVZXTlY5Rk1wbUNJc2J5ZS04SHRXSjN4dzBjWU9ZeXp4QVB5NW1DSm1OaVlOeWJpSlQ2WndUSG01azRDbV9HYm9FU0RjVkdWanRpVGNSSGs5V2VTS0h3Q3NqdDlnSGZ5STJmNjd1WVlhdWNTcHktVUJm?oc=5",
@@ -7765,6 +7972,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "20423b3b82ae26ac",
+"title": "Wipro Share Price Live Updates: Closure of Trading Window",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-05-oct-2026/liveblog/134684532.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:55:04+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"WIPRO"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "44b2065d487f0ee6",
 "title": "Q2 FY27 results this week: TCS on October 8, Poonawalla Fincorp and Can Fin Homes on Friday",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2xyenlnZzltRjVOdWNEYVZuY215UlZnNnVkem1DX1NVZTF4Rk5JYzduMldIMl9UV0ktZVphLVNxTkdRNVJSeDZXWlFBbFN5RjVVdFRXb25JRjg4VWRaem0tNnZDeVZtYk1FZFBleFVFTFQtQWNabFFiOUZ2T0JYSjRLM1NsQXdPTjdsSVN0bTlvaHdON0JEdWowcFlKbDNxbEFxRHpYVE10a0kxbmZZS0pRX0F5OFMtb01xOXFnVk9FOW1wNnVsLVc3YVJwNmNDRjgwZVJiRVVXUXZXS1g0?oc=5",
@@ -9391,6 +9614,22 @@
 "tags": [
 "Order/Deal"
 ],
+"sentiment": "positive"
+},
+{
+"id": "d5f1a39d822288ed",
+"title": "Jefferies Calls Bajaj Finance A Top Pick, Sees Strong Loan Growth Despite Capital Raise",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVy1wTXdzY0hiVjV0cXJCUFlGeUViTW80Q3dzVjdkM0NBSXJpcTZ2UXZORk5NQUxmc01LNlMycncxMy1oS1lXcHNQVktmY2VDXzdqZzhUQ1Q4Sll5M0ZGLVJfOVIwektBdVVlSXRwQlFUbjgyS3JjU1BZLVdab3I4TjFBZEdQWURrcEZIM01YYWRoaDd4SzFXQzlsRm9qZmt0UENIVVRTWjJOV1RHTmEwUmpFNk05b0VQX1VPczRDS2ZNYjc0UmVJcWZR?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-04T22:30:05+00:00",
+"first_seen": "2026-10-05T11:39:00+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "positive"
 },
 {
@@ -51125,243 +51364,6 @@
 "Banks"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0fc273e4b4b02e69",
-"title": "Metal sector stocks today, September 30: Welspun Corp falls 4%; Coal India gains 1.38%, Hindustan Zinc up 1.30%",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTnpLTzJYNkFiYVpBRzhtdllhM0NFbkFhSTkxUDBHTDU2dU13S0g5MURmdF9zdUNYWFE5QmE4dm5tOXR0SWdjMk5wR2NMOGxWLWcyNVNtME1ob3VDVDhGSHdONlM2VHlrdWd4d2pJbk0zQVd2ZkpQMGxucmdEVG1wLXgwaHRrdzRpTU5jZ2EtaXN4Wkg2RGdtSlVCZEJtemhSai1td05yZDdUMFI4VFc1Vmd2eHFEY2pQWlNRS0xvaU5KTnZEOF9PdW1lbHBxU3R1dm9jd0ZwVjcwTmplQkpoSXdCQkhPcHJO?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-30T05:33:51+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2bdf56b951ebb0ba",
-"title": "Apple Pay launches in India: What iPhone users need to know, Axis Bank cards support, how to make payments, apps and stores",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPam9hWVE2QWpCdWlvUWN4MU9lUTdaTzNXeWwxQ0VDZVF0NzhPSzFaR0hqNXpKMWlINGRiOWNqM3FMRVFfdWJkMzF0YWN2NW5aVjJrUkZYOFFORGswTlJMTjJvbHU5NWlzc1R0UjhaSkc0c3NUZkFZQnl4c3dyWlFSVjBkVFBuY1hiM0FpVHhCZERtLUpYa1RlR3FfZnpjRnFhcExvaGJWZEw0SHgwVXE2dUZ2enhFQ0NkNDZobV9ZNDlfY01TZlVlU2hPM2VFbWx6RTNTVGtrS2UtcEFvYlRQc21BcWdhQVJ5TWI4b0M5cjNUSjJ5Q2NhMQ?oc=5",
-"source": "Zee Business",
-"published": "2026-09-30T05:33:29+00:00",
-"first_seen": "2026-09-30T05:50:01+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fdbc22fe5e7895ec",
-"title": "SBI Funds Management appoints Amol Joshi as CFO, to take charge on October 1",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHk4d3pFZWZmWS1LRG9EMjBRVDdLbzZSbTRKWW5RWTNHaXhDVDgxM3FBMXhhVVRzbHR5NldRYldYaU9wY3h2eEVlSVlLSkgwc2FJZG54dml4OFJhNlBjMl8wTVpZbHdJZGt6Wng3eGROdnBkVXJSYWlnQzQ1bmJwS3FGbzFNQXEyaGpYeWlZSHNnUVZtak51MXRNNFA4ZDNNd0lwQVdPU0pvdTdJeTBEVEJfZnYyUEUtS2Y5U0ktWDIxanJvLTU0UXNMSDVUNWEx0gHXAUFVX3lxTE5vZGdyVXRmTmpwY3pzbkFBdWtOdThHSks1UGplZnhWNk5QQjNxWFIxYURQNEg3MW1ndUNxS1o5NnB5ZXZkLWpzQjhBMXJ0Y3pLTDBpbnZfNlN0SzJEdzEzYWcwMi1BX295amRBYjFfdjdNMXA2WHJIRXZfR0dTX3pLMmp4TkhNbnJldlgzZ2dBWGVVSWRsOWQwNUZDWXhiaFNTZERGeXdqTmtyaTRSUEU5WVhOa2JwazZNNElNeFc5Y3VyeVBvWk5oNHp5dzhWLWpobVk3eFBR?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T05:32:33+00:00",
-"first_seen": "2026-09-30T07:20:45+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "37a45f03d5d555ff",
-"title": "Infosys plans to move up to 33% workforce into AI roles | Tap to know more | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1Fpd0kxU2FuZ2VwRWZjbFRUTjhPWHp1eWw1aElUWVRPMS04UWxVTndhNXc3MEg1WlA0bXczNXp0MExYSTdvellCQkVQc0F3X19PRmM4NHRKVjJMQVM3MDJGRGJkMjVNc2d0N1dab3pmWk1uOEVUR1EzZTA2RXdUeGlXUHNWd3VqYnp6aHgtN2g4d1c5QmxRa2J6aXFvSlHSAaQBQVVfeXFMTmhFbUp4SlJyRnRnbzdjZFY1NU4xdUJKRXJYT0kxWUFNU2lRSnIxSGlqcENfakJKSHFLdjEwTUNQSFRlN0gxVVpuXzluVU5zVFUyeW9lNVFIWHlhdW1FNmxCQVJBdVVnQmc2UGJQZHUwVkdrWk54SkxyZk1RMW5QSy0zMlZHVUpqY3FHSVctTXBWa2llRmtpU3doVHVNLTFKRnFzQl8?oc=5",
-"source": "Inshorts",
-"published": "2026-09-30T05:32:05+00:00",
-"first_seen": "2026-09-30T08:42:45+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a7f96c890f2604ad",
-"title": "NTPC Pays ₹3,393.83 Crore Final Dividend For FY26",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tUF9kbVJYZGpIWENtSk9melVlaU8yUFl0bjlkUlI2X3I2Um5RdGR5Ui1RVGdGbGkyNlhocG9FdmdGRVhxZEtkTWZOYjhrYXktNUR6c2QtMG9NZ3NQOVpoMHI4Si0ydU5FZlJGdDZqb2lsS2RNeTVz?oc=5",
-"source": "sarkaritel.com",
-"published": "2026-09-30T05:31:08+00:00",
-"first_seen": "2026-09-30T07:00:30+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "29f31195bac5f6ef",
-"title": "Reliance Jio and Bharti Airtel add AI tools to plans",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmdzRmw3VC1OR3VvOTVadnZmYlhHMWJFamFZSGszdjdQS0k2LWQ1YWpiUWdQYXc0M2NRdnpyQ3pYN0lObjBhWUlYX1dpeG5XR01oSlkyQ3ZEaXZUM0Jqd2FPQ0otazZKMk5Jd1llN2p3S2R1WmNwU041NHAxSGNVblRtQmlwRUdvcE0tbnNSMEpIT19YMTFPdDhTRVdnRjhy?oc=5",
-"source": "NewsBytes",
-"published": "2026-09-30T05:30:56+00:00",
-"first_seen": "2026-09-30T07:00:30+00:00",
-"symbols": [
-"BHARTIARTL",
-"RELIANCE"
-],
-"groups": [
-"Reliance",
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "86df425b06963abc",
-"title": "Coal India and HURL sign MoU to explore coal gasification based urea plant",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakI4dW1uc3R5eDBVVHlBZ2FablI4UzZEdVJySVVpMG1XeXctTlRfSUQzalc1RllNM056ZHlNMFFmZ3RtYXRFNE9TWXR4TGFqNVl4VWI2N3hCRnVObmdtcEp0MUdDZVk2cGNCMnBzUl92NlRIb002T0tEQm9VZkdQZlo4QTJGZFl2d2oxeU9TZXpwMkVCVHd4bmQ2UDJGMDhqX3VjbXJ5OUhyV3dOcGF3UkJlbw?oc=5",
-"source": "Powerline Magazine",
-"published": "2026-09-30T05:28:13+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b05deae4976807f4",
-"title": "Apple Pay arrives in India, Axis Bank named first partner",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGkyZTRwTnpHNTNQX2hKLUxEd1VLekRIcmZTUGJya0pDWWZmUmhRWXJuZzNWSFFTcVJhTGpRd3NGTURfZTJCUFZrOFJGQ3ZKbGxkOVhIVVEwbW4wUnhLMndDSmp4U1c0MUJKREpEb3pWazFIQ1VaT3BNX2lKTUVJMlpjaFhZS25SMllPWkVzN0dYYnlBRjlHQnB1S3hFbXk4Y0ZkUldnMk92MXZXaFRvakVUSE4?oc=5",
-"source": "The Hans India",
-"published": "2026-09-30T05:25:32+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1c5b4c7fda918126",
-"title": "At-the-Money Calls on Infosys Ltd Draw 4,541 Contracts — A Signal of Immediate Directional Conviction",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVUybWZZRUM1NXZ4UHNXWFNTcV8ydUJTSDdoWlJwUGw2TF9QTG5ndnJBVUFTSFpVc2ZpYXRXMmQ2cE44bUFQd0Q3dkt4S0VtaU92MklYTkNSS1BObVhRZWVQcUVQT3RCeUQ4eG5rUXRXVXJfSkdvWFBLLWJ6UjRTaUVDMnZvOEYxM1dVRF9Ka0t6bGRhaFItUmw2LUJEU1dFTm50bHUzLTh2R0VIVmQxUDFlSVo5MjVQd0hZQWp3TnV4NWIy?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-30T05:23:46+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c64e5515993b4fc8",
-"title": "Maruti Suzuki's Kazunari Yamaguchi Steps Down as Production Director; S.P. Nayak Named Head of Production",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGd6QVVFOXFEUU85WVc3Zk02WmJwLXJQSG90R0d2OEFZS0VzcHNKeEVYMnlGeG1IU2VnN2F6Y2NwWU8wTlViZUptZ1dJdFk5ODFWbGE3ZExCLVJhR2tSaGtfd3VjU0ZOWlFyaER5cU1yVnZHcjRCWHk3cW9RZG1MNUR2R0VwLVJ6V1FYRGZSRkwwWVA2VGJ3Q3FzUlpyWEFsU0FENGhfQXV0T1NPZWk3MFdGcW1HSEtJM3g4SzRRdnAzNlBaWV9TSThkSFVhLVJqRWI5bkhySEVjb3J2c0HSAd4BQVVfeXFMTWhnekFVRTlxRFFPOVlXN2ZNNlpicC1yUEhvdEdHdjhBWUtFc3BzSnhFWDJ5RnhtSFNlZzdhemNjcFlPME5VYmVKbWdXSXRZOTgxVmxhN2RMQi1SYUdrUmhrX3d1Y1NGTlpRcmhEeXFNclZ2R3I0Qlh5N3FvUWRtTDVEdkdFcC1SeldRWERmUkZMMFlQNlRid0Nxc1JaclhBbFNBRDRoX0F1dE9TT2VpNzBXRnFtR0hLSTN4OEs0UXZwMzZQWllfU0k4ZEhVYS1SakViOW5IckhFY29ydnNB?oc=5",
-"source": "Autocar Professional",
-"published": "2026-09-30T05:22:19+00:00",
-"first_seen": "2026-09-30T07:52:39+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "78f4fd083e118362",
-"title": "Jamshedpur News :Tata Steel Zoological Park to organise series of programmes as part of Wildlife Week Celebration–2026",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRWVvVTY1RjVzQzhaWC1MMzE1RUxKb3dkUTkzcktyVG5GY2lpN0pNVzhoTWFmXzJKS2U4MzVtaGhpRGtWTHlkc3ByNE1XczdpR1NneC1KMV9YM0lZRFRqQ01RUlZQRXlYTExMODFZZ0VLa2ZVd3cyMHJwX0xsTU03TTJ3YnRTclNKUFVvQVVvc2NLWXR5ZXVXa1BqYkpKc2kzWXUwUDgzQ3ZXUDRQT19KV2pUckpFbXFGVzk1c1g1V0VIeHNxWkdvd2VTUWpLbE4yNnhfUkpOTDAydTJTaG4tR0t6TmItcWRtQlE?oc=5",
-"source": "Bihar Jharkhand News Network",
-"published": "2026-09-30T05:20:42+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "973451eed74fc6a0",
-"title": "Maruti Suzuki's Production Director resigns; new head appointed",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRG1XSWZLTGlsU25YZXBVWFN0S1dPWWpSdHNJcTRGNHhPam1MLUVOeHh2LTV5UTRqX2NjR3JubHVOblhMaUxJZTRfREktdjJWUXhkTDl6eTAzdk12S2hiQ2ZnLTdZZF9VUVFQR3lxa2F5eDZYaFNYWUd0TnRvWDZwU0hFQUVGMTBuUE53SkZUeFlkckN4cXVmek9oMUZDZzJYbFBFMUtLaURITDRfR1FxVUNuRjZNRGdlTkV0VjV2b2RYaTJhc3BiVWxncC10ekk0ZWZyRjUyWdIB3gFBVV95cUxObURZUGMzTzQ1OWw4aGhUd0xmTjdrb3AzSE40Rll5a2liaGlheTRWUlkwM3FfV0pLRG1BYmdqSkRXbjV6YkhMV1dXdHluZUZrMXd6U1FmSHg5OVU1X0R5RlFjRU1Hd2c1Z1ZVb0E2ZU9HYTlsbFliXzVzNTNueVJHdTFUajBCb1VMN1dYd0ZWM00ydG9ZeTdrdnVpaU9EQ0FGc21qa003OExJUmFmcHlIVjJuOTh6NzRTQ0Uxelo3Nlo4N0pvV2FjMHNCMXBiakpxbGdzNUFRVHlkNVFtbWc?oc=5",
-"source": "thehindubusinessline.com",
-"published": "2026-09-30T05:20:40+00:00",
-"first_seen": "2026-09-30T05:35:22+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "2c7e079304aa1a17",
-"title": "Rs 1,000 Puts — 1.25% Below Current Price — Draw 2,392 Contracts on Infosys Ltd",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcl9fLVdFUmpTNnRqOF9rcDNRX2taOWZyTk9ZdUp0eV9GbEtmTkV1Rm9YZm05aENlUTJWRDZFSUdrOG5zWTBxdGtwcnZMTTJYRFlFTVAyd2pZSVRmdXZEdDM1U19GYVVnQjdITlJ6TlQ2M05WZXozNWRiejlOQ0E2cG1maTl3Mzk4VlFBU0dLVTdjc0tIWW1ROFQtanNLbW1lZU53SlBreU1sTDVFWVZkRTBSTzdFODN1RG81Uklpc3A?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-30T05:20:34+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0ad4533f9b3f3327",
-"title": "IFC Eyes $90M Equity Stake in Airtel Money as London IPO Gathers Momentum",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uVXpPU204amhjSVBUazVZWEtPZEtsckNJUmdZQkQ5UkZwUzVNSkF3eDZjNGdkcXRGVXh2am5OVUp0UUJMNDJMSS1fMmNuT081Nnp2Z1MzMlVTdGhxZEhqV1hmdFo2bHVG?oc=5",
-"source": "Launch Base Africa",
-"published": "2026-09-30T05:20:00+00:00",
-"first_seen": "2026-09-30T06:24:11+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Order/Deal",
-"Corporate action"
-],
 "sentiment": "neutral"
 }
 ]
