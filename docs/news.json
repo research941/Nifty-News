@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T09:59:09+00:00",
+"updated": "2026-10-05T10:18:38+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,150 @@
 ],
 "items": [
 {
+"id": "6b66865626ada5b7",
+"title": "Orissa High Court quashes pollution case against Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE0tX0pQaUw0bkhQY0dGQVZlZVA0Umd2TEFMdUVOVkNzcXloN0E5R0lmblB1VHY3ODlfX1YyeUotNWdKMWFLenNEdDVkSHVhZFZDUHdZZjVuZFNVVTM0WGF5TXFwZ3RpMmhRN09HMzNWeU16SHUwcko0OFNBS2wyMXFRbU51b3B5dGtxVGdSVmJKbHJCWTMzWHRKaDZnemMwajh6WGJR0gGzAUFVX3lxTFA5YnNjSjdLZmliZ3pzcHpVSWREOHBRS0x0blJIbkpuYXZPdVhFX0s2VWh5dXhqUzJ4NWVXeGw1UGVGanJBRDlUR0xtUmE0cFF3Y2tWbThzaVhBaHU4bDBWd3Zhc2JRSzQ2VnpNcWROcjFjTlNZTm9GRV9kN0IwMXduM0gyQWxJVlgzYlZNUmRVM1YtNk1vdEpSTXJRQllReWlWNnRrd0J5ZjNMX2o5OWxOaHZR?oc=5",
+"source": "Bar and Bench",
+"published": "2026-10-05T10:12:49+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "02610c5160ec93b7",
+"title": "Nifty 50 top losers today, October 5: HCL Technologies, Max Healthcare, HDFC Bank, Asian Paints and more",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR3MyYUpsY1REOVJqdFJqUGlfNjBKRXRHZ00tYWE2aDdlQXo3SFBkMURtem5PYWhzbnNkSHU2bXJ2T2NzSW5pelR5ajNOWkV5SGl0c1REWm4wUEg4MTZXU0RzNC1ZQ3BlMnE3OGZzaTUwNEZXNnBlZlRJVTFLTXltdl9yVGdKdXpmZWw4bjZMRDFZWWpDTHA3U3IzMy1JU0F5eGh2SzZ1eWRkaURCN3BMRmhadnZ6TC10QXYyRlc1OWdOTFFfNEcxWlBYaGhWSlplYUVLdGVOa3l4cXdSZ1p1UXNB?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T10:09:45+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"ASIANPAINT",
+"HCLTECH",
+"HDFCBANK",
+"MAXHEALTH"
+],
+"groups": [
+"Consumer",
+"HDFC",
+"Healthcare",
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "bc5a2f408d6fb2e9",
+"title": "India: Vedanta, NTPC ramp up power output as demand for thermal generation surges amid weak hydro production",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGpqSVpNTWhxVHV0NVdhMzNUZnNuY29fM0VHQkVCU2FaSWdCd0U3Q3BrNVZXelpWYlpQZkMwSHhZTEVjZDRDdmVyZmpKV2JQYXZhSUV6WVVoZ1JuajdDNkVScE01UV8zUnQ3VEo1cmpjRndUN3VKRE80Tko3VnRwNTJvX0k2SjV4ZFlhRFFqLVUwLWFEU1dQU0FjeC1NSm5fd19pVHRhNWFWSWstUzVVUTZGY2dPandUUlQ1TlNBX3JEZm1UVTB1T0w0ZU12S2plVkJzdnhncjdlMURrS2J2bVhUM2dRNmM?oc=5",
+"source": "BigMint",
+"published": "2026-10-05T10:09:27+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a202b564a2f28817",
+"title": "Nifty 50 top gainers today, October 5: ITC, Tata Motors PV, Bajaj Finance, Shriram Finance and more",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM3ZabjMydDhJOVJETWg4Rkp0b2tvZ2dtZDNfWVJLNHBFeldsdjJENGZJbTZYUHM3MkV0NEFQVm5wbS1SNjFHb0dWRmhkYl95WTd2ejh4bFVPSHpZVzRoaHZWazdoNDRPY3VVWTBCSTFFWnZKdzhhOUhwSGU3dVo5NU5vTGRBUVAwRlFKdndPTTFSSFBKWDJaUmFPaXVEX1QyaS1nSlZ5X2pUQng2b1VZdG40OFlLaGh4bk5mZWQ3WHRDZW9QV29DZDB6NWlxdjJOczI0dVpseWQ1T0U?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-05T10:04:49+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"BAJFINANCE",
+"ITC",
+"SHRIRAMFIN",
+"TMPV"
+],
+"groups": [
+"Bajaj",
+"FMCG",
+"Finance",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "1ab4fc5612fe1e6b",
+"title": "Deposits rose around 18.8% at HDFC Bank (HDB), with time deposits growing around 22.8%.",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2x0X2ZJSGNsVnBLLU8tdm9UbDkzbEZldEttcjhOT1FtdElTdE1vcFBBOTJlQ1BIZ0J1YXFJZE84WWdvanhKN2dHYmVYbnp2bkdNNkViLTNHdDQwdUdzQkROMVdVcG1mS1hpV1Y2Smlhell4VC1EZlZ6SlIxeGhfQ0VSTzJvWUdjVnRUd3FfRU1CVEtuVkd6M09sLW5YcjEyNHJvZHZKOFFBRkI4?oc=5",
+"source": "Stock Titan",
+"published": "2026-10-05T10:04:38+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "030f1496621c2ea9",
+"title": "Bajaj Finance shares jump 3% after a four-day slide, experts see more upside | Target price, stop-loss",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTVMwaWxTalJqOGhsYUVwNDdwU2NUZkIwREdWQ2VhOTNwR2lueXBMbi1ONmFJRVJNd1JCSHhOd0I0a096WlJJQ1YtdENQRHJhMXFJMVBmcmR1WHRtUlRzZC1pejFuTVV6Um01WVNNV1phNFZfSDM5bW9mNmhZTUE5bGRHZjRLRHhhVzFxemVvaGJtRGpUTzU0dHBtamppRnBCcU5xOTFKdnFBZ2EtQ1R4VWlrSklRTGU2cmNoa1hGbGwxbVpDZ0hvWW51YUJpd1FOTHJOUW43ZFE2SGJpM08yQXpiQnhVbnpMcnBFRzV2R0ZQcGdYLXNRc0lB0gH_AUFVX3lxTE1faVlkRVdSUDFaZ2FrOEJiZ1VwbzB3WDJMYXQzYmlKVFNMUURMUDZsU3d5ZldZV19kUXg0blpLNW1BQzQ4eEEySk9zRnN3ckIyVE1GclJXYlZQNEJKOHVyUW5WOWZLenY3N3M0S2lkbXdZbmVnckxTamtjNGwzaW44S0ZubGYybEw2TC1ZRmRvcktsUF93S05zVzRSUUhxZDFtOEFZeXl4NlE0YTJrRzRXSWFYQ3ppbnFRS0RmTnVEVmlCSzFYcGxhem5aTVZZcEVPVm1HaGlOUl9QZHNIckNQSXZQS3lrNTFIdHFSY1N1ZW0ydmJfTVgyMUc2RFN6OA?oc=5",
+"source": "Livemint",
+"published": "2026-10-05T10:04:16+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "negative"
+},
+{
+"id": "935b5fdc37539f15",
+"title": "UltraTech crosses 2 GW captive green energy capacity",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDAyZndmU0xJT2FvV2ZCX3ZGQ1l2LUd1N1puSFNIMGZwTXYxSDRSZHQyeDYzVlZWNm9VYWd4UWtRdjJXNUtxNXAwUUFUMllOTE5NZHlNMWF0UnBxQXg5RXVPVm1sdm5Pd1U5RmNqcU5xX1Y0ZWNYVlVJZWtMTEt3bjlnZTY3Rm9jSGJYOXlHZk1kTWlkaHRHWDdBWWw?oc=5",
+"source": "ProjectsMonitor",
+"published": "2026-10-05T10:02:38+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cf36c24a7370c98c",
+"title": "HCLTech Meltdown: Stock Crashes 3.5% As Investors Turn Nervous",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjhVWk1Ed1Bhc3h0MW4wZGJRTHF5dE16M3otSFMyeEQ2dkxTWF9UNnBIUlNYRllmRll0RDFDQVJSQWdDYVpyOVlRMUNxbkNmR0owT3JLVzBLeFR0eGkwTVBGU1dRR3hIWnNFUW9KalFxN1BfWnhhdjREbEpfUFNFU2czNG9LV0FjeEZDRkpLR2dLM1lNcWk4ZVFkZVJsUjllTkVlNXVMZk9QWDFD?oc=5",
+"source": "Dalal Street Investment Journal",
+"published": "2026-10-05T10:01:00+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "95589c6b98326227",
 "title": "UltraTech Surpasses 2 GW Green Energy Capacity",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iaDMwTkFXQlI4YVZtX2tRbnJGU2lNTkZTLVhoOWNWNUN4dm1zbnJyLXFEbVU1czlUaWVGWlRaaTVBZ3J1ZDhGdG82Sm9LZXUtdEdIY1FZREhGWFg0TGpNcl9VYW5BalZHRnpUUEwxNEpHcGsxdTQyUWV3?oc=5",
@@ -541,6 +685,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "317eaf9fedaee021",
+"title": "September Auto Sales Review: Tractors Falter; TVS & Maruti Beat Estimates — Check Top Picks",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0Y4Ym1VTUFqbGdFLUpSWnRZajZZNGpaYWpPNkthckpOX3hlQndtVk5PaTNLSFlMdnVxR0xsM2EwY2pkWnF5UXVkaENxclNKWV9IT2tkdDZNU3BsbEE2TEM1UWJHeGhDeVVSSGhBdzk2Q0V0NF9PejBQcXN5dDhBN1dXWjk3MVZORW41bW4yR2ljUFIza2JVQ1BLazRPRWRtTzlPNHBNTjlucEZ6TXlmYUtWLVc3X0FscS15VmstTWotdnBQNG1peFZ30gHSAUFVX3lxTE5pb1podkZhaXpTSzVjekMyNEIwLThZR2tlXzFEei02dnBXQlhIZmpnMmZTNFY3S1BhQ2tXRmZBWVYyVnB3NW5fQzdyeEl2bGFSR0oxNmhXR182V2NvVjFtN2dORGxXVmFlVjM3TEQ1SmZlVDdJNUY2czlVQWdyLWdVVEV4dFdlYzJYbkNURVJPbXZfRzlzX0c2NXFuTjRMeVE3TE5pYUg5UWE4RFlnZ2haOVVVUFM3M3lhV3VYWTBGZC1kVElxaXRjNjRhVzE2ZWlRUQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-05T09:36:50+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "89709d63a23468f4",
@@ -781,6 +941,24 @@
 "sentiment": "positive"
 },
 {
+"id": "3c30ae4e45481adf",
+"title": "ITC (NSE:ITC): What Does Its Q2 FY27 Dematerialisation Certificate Mean?",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2FZcTVQQlNRZEc3cTV2d1NEbVJsUGVDR1ZkUFNoUDNLV25FUUU1MkRMbFlNaDBaamZmLXV4WFktLVM3ZTZ2cjFBRS1pVFJ0MGhUYUs0Wmc5QUpTMjl1UUw5SzlTRGZYRTUwSzhVT1Z3cDRjc19VSUxZR2RXYVdEWk1fOGR2a3dmNzZNZjBDM3d1YWFSTzRfQmktdkZpUUJ1Y2tibGtkTWphZW5lUEdSQkRaRnJUZw?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-05T08:51:00+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "7c3b6a80f34c426b",
 "title": "Brokerages yet to revise price targets on HDFC Bank despite CEO appointment",
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHRheFg2UHg5Zy1rVk14Uk5uNm01T2JVYldFSVJabXFqMDBJeVU3WHJKV3RnejlTcGZtQWNtU2JOM3FIOFhEN1l3MTBEMUdNazZrdGx4cGFWQmQ0MFJPY0pqa0NJM2hLVzI0bVFwTjZ4MUI0X2JRY3pjVXNsWFAxWlljNllwNndWQU1ZUXpaelkwdjYxYVJsMjVlel9haVBWZXRyV1RqZmR0Vzh2ZEhVQldVZFZhR2p5Z28xcTBubjQ5QjVEcExJTFNfZ2VnbWVxUEZNV29oMTd6SzFhc2E2U05UazZuUQ?oc=5",
@@ -895,6 +1073,26 @@
 "sentiment": "neutral"
 },
 {
+"id": "ec036363eeecb42f",
+"title": "dmart q2 update vedanta odisha hc order ril share price target",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkdfTTJ6WEpHVXJXQVpzWTBJbUpoU0tZclNBTDIzbDhnajl5YmNtamw3bGNDeVo1Um1RUE1MTG90d0hYdlVuMXBvOExIZmVVMGFuS1JfcFRsSUEtOG9nc292SnZVS2FFN1dGcUdENjV3Ml93TWxFMkpYWGFjcllTR0NucEd1dnJ3YzdwOGYzR211akoxWjYyZFVOaU8zLW94RzRaRloyRjFJYktWbl9QUXppdzh1WWpYQWFDbHpnbw?oc=5",
+"source": "Zee Business",
+"published": "2026-10-05T08:42:00+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Results",
+"Order/Deal",
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "0b597dcf56f4b5bc",
 "title": "Severn Trent PLC (LON:SVT) Stock Now Rated \"Reduce\" by Sell-Side Analysts",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHRWbFNTZTlOb2ppVGZxTnBoTjBIeEdQX1ZJM3JzTlRyU2xlZEJMcWIyUUc0cHBacnJzLS1TVTB2c3V5R252cWV0Q3FsYmxZMThrQmRGeFZZWWRqR0ZraFBucDNBaGJiN3FRYmt2WXAwUFU2eG5WTW5yb2t0SkdFX2lKTnUtM2lWVVljWFluVE5xU2dETzRsMm1neWZpWVozNXNkdkVIMEJyNDJEUTJNb19FeU5BRzl0d2lFOVBtRnRUT2ZldlVFVjFDclNodw?oc=5",
@@ -965,6 +1163,25 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "cc098ea08c1681cd",
+"title": "ITC Share Price: 35% Fall, Q2 Buzz, Target Price and Stop-Loss",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FMDI1OXYzeFNGc1ZXaVZFRjFPb3VsdWFNNzFueE9LRG5UaDdQa1JBUDNqTGVWRXE0Y3NsakxvcVZTdHdBN045UUlGbDVPSFdvSWgwZE1XaTZaSVNhSVVBU2xHaHZXczBMejZHWHFNR2hIZ0FYSHdv?oc=5",
+"source": "Univest",
+"published": "2026-10-05T08:34:30+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Results",
+"Rating"
+],
+"sentiment": "negative"
 },
 {
 "id": "2b7d1239440e0698",
@@ -1117,6 +1334,24 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "60a29d1cbe49aaee",
+"title": "GST Council meeting on October 7: Arrest powers, easier registration, ITC, tax reliefs and automated cancellations among key reforms on agenda",
+"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNaUpKODZUZksyRENNalp1Q1N1ZENNdjNPZ1lGODY0OTFWLTNiRzJYTmMxd1NYZWhyVjRybzlwZTh5M3VsdmluS2JZajNTUlZDQUtwb2JRQzFPUlJua3Mxd3oyMTR2TWxINGM5bjdrZlVSenE0OGd5YjBRS21lcUZEek1pTnozbVVQMUtscy1aMDdHXy13V1E5WmRtZk9nalNyVmtWbkR4eXRRUllCalUybUNxVG5INi1ubkhpWE5VX29tVkh3MkZueC1wLWtYbnRpYW1ocnFQNllJTjVFMFZBWFdncldPRmc5aVFiX1M2Y2wwTU1nQ2RyWUlVc1RLVGZpQWVNMGZtQjRfTFNEd0FiM1VDN294V0JtT0prXzZKONIBnwJBVV95cUxNaUpKODZUZksyRENNalp1Q1N1ZENNdjNPZ1lGODY0OTFWLTNiRzJYTmMxd1NYZWhyVjRybzlwZTh5M3VsdmluS2JZajNTUlZDQUtwb2JRQzFPUlJua3Mxd3oyMTR2TWxINGM5bjdrZlVSenE0OGd5YjBRS21lcUZEek1pTnozbVVQMUtscy1aMDdHXy13V1E5WmRtZk9nalNyVmtWbkR4eXRRUllCalUybUNxVG5INi1ubkhpWE5VX29tVkh3MkZueC1wLWtYbnRpYW1ocnFQNllJTjVFMFZBWFdncldPRmc5aVFiX1M2Y2wwTU1nQ2RyWUlVc1RLVGZpQWVNMGZtQjRfTFNEd0FiM1VDN294V0JtT0prXzZKOA?oc=5",
+"source": "ET Now",
+"published": "2026-10-05T08:22:47+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
 },
 {
 "id": "37d617d4c4c7bddc",
@@ -5904,6 +6139,28 @@
 "sentiment": "positive"
 },
 {
+"id": "a64c3feec6ce14b6",
+"title": "Stock market today: Sensex up 472 points, Nifty Bank up 263 points; HDFC Bank, RIL, ITC, Bajaj Finance shares gain",
+"link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-signals-relief-rally-for-sensex-nifty-rbi-mpc-it-hdfc-bank-omc-stocks-in-focus-11791169559540.html",
+"source": "Mint",
+"published": "2026-10-05T03:30:39+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"BAJFINANCE",
+"HDFCBANK",
+"ITC",
+"RELIANCE"
+],
+"groups": [
+"Bajaj",
+"FMCG",
+"HDFC",
+"Reliance"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "2f70de2b8156693f",
 "title": "Split verdict in JITF-NTPC matter leaves dispute unresolved",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSk5Qd0x2SEpKSC1raTlzekFHNklfMTBBM19xTEtwZGlLdk9fRUJ1ZjdsUndselRyN3pnc2QtU0c1NlFFcUI1OVBDNlZ4UHJIQXVBTFlVYVVBQnlCYzdwUF9WaVppdzgtcU9ZbTZ5NTVmYjZSaEswVnV1bTZESWVZVk5lRXZVbElUczZmZU5CZkc4UDg?oc=5",
@@ -6520,6 +6777,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "9a4ad3a21da4d681",
+"title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Price Update",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-05-oct-2026/liveblog/134684547.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:55:58+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "973a829a9c4b947d",
 "title": "Wipro Share Price Live Updates: Wipro's Price Movement Today",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-05-oct-2026/liveblog/134684532.cms",
@@ -6664,6 +6937,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "5e94841025a26049",
+"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Price Surge",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-today-live-updates-05-oct-2026/liveblog/134684478.cms",
+"source": "Economic Times",
+"published": "2026-10-05T02:50:09+00:00",
+"first_seen": "2026-10-05T10:18:38+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "81a2babce810d79c",
@@ -51040,275 +51329,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8556712b32b54579",
-"title": "Maruti Suzuki accepts Kazunari Yamaguchi resignation as production director",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcURfcGJrWmw4bXgzQmlIWW0yYy1QYW54ZHpkZ21lQUhyVzRWSmFDS1lwQzVtMlpuYlltMjg4VmpkcS1RdWJWYzFkeVZvVXFCTG44ZWtGRzV1RGE0MFZfZDI3bDkxdXpISjh2WHVyMmQ5akNzUGdsS09pcHZzcl93c3BMbGJhQlpPdzhvX1YyNFl0VWRiU0l0eTdMa0ZqUzZYdElIUTlIZ0F3dE1tN0h5bXo2VTVKYl9Jb2FxSw?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T04:33:06+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1895d0f57f2801f1",
-"title": "Tata Motors Denies Negotiation Knowledge After Proposal Triggers Up To 3% Share Drop",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXpWTHdJekRETGZMUjducThORkU4a1dHQW1yc09vaWR2cXE2V2I3WWt6OE8yZ3pvbHRFUmZhdV9vSFR3d2FfT1JvVkdwODBISGNRX0NOUXc0a1pyYTdFWU1uTDlXM0NBZDBHdVQ2Y0IxbWxSSGVoWjFKMjVJeU5td0c4bWxULTlOZUwyNnM2Y0RYVHFzUWVtbzJPYjcwdXQ0WHc5WjdsWjI0LTN0SXc?oc=5",
-"source": "Sahi",
-"published": "2026-09-30T04:32:30+00:00",
-"first_seen": "2026-09-30T05:01:02+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "8b91aadaccc9e771",
-"title": "Apple Pay makes India debut with Axis Bank, enables card payments without PINs or OTPs",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcE05ZTZZT0FEazJvZGdNajVOMGNRV3lva19aRllZRzdJckVTaFlVbHlJcTJWbmpYNTBvNVFESURxY1oybURuY2xzRi11VFp6Y2VhQm5qS3B6bDRVSHl3ZlNsNmlpU0psTzN6Z2VqaUFfN20yM0VRa0VUVGgtTVd0RHRSVFB4bDdlWV9lcC1GRUJBMzBDQ1g0XzA2Rk1vUzhQRGJUOUdvRHNsM2VFTmNzcFNYdW5jZTAzejhCZ0hueV9sclBURzQ5N1RhYXJJTERuS0M2WHdacDdaeHhJaE80M2otSdIB6AFBVV95cUxPMDIzd192RWpySWhFS05ISDB5UlhHT1Z2TlNENnYzbC1tYTgwbUUtOGRfTktXM2lMTERsazlnTWkyeWVYSDV3SGcxUU1PTjh2NDZzMVlfRFplSXFfZjFkVU5GQmNIa2JjOEktZVRpbTE2QTNBV0V3OVlWRW92WGdrQ2NzMkhCbUJDX20xc0x4cFdzTUlfcFl6THY0MFBLdVBHQ1VXVlBnOXJnaXBVYU5FRlVPNDZRSHV4VDZ4UWlLREJ6dUtKLVB4ZkwwUXJkamFYV2RTRWxuejBraFpkaDQxYllKRTBTeVBM?oc=5",
-"source": "Telegraph India",
-"published": "2026-09-30T04:32:25+00:00",
-"first_seen": "2026-09-30T04:50:23+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0af2e765db7871f8",
-"title": "Apple Pay debutta in India grazie alla partnership con Axis Bank",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mXzdDbFc1eGtCczdKdnU4Y0dJVWlhY3JZTnUxdnJFT21xNF8wRTdqMjNVbmNhSXdVRDVtX3RmbGtFSG96a2VSenlJRnFUMmc3Nl9yZDc2MGlHUHgwSk9uWF9sUnExOG1TVTVhNDQybG13UkkzRV93UQ?oc=5",
-"source": "TradingView",
-"published": "2026-09-30T04:31:00+00:00",
-"first_seen": "2026-09-30T11:32:29+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5c0af8054ee75c0c",
-"title": "Mayne Pharma Settles IMVEXXY® US Patent Litigation with Sun Pharma, Sets 2032 Generic Entry Date",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkgwZVl2Sm9Rc0ZLdnQ3VFhFdjdUWW9ZeldNU0NxaEU1MGV2c0NJSmx3NWt3MXE0dUFLZUpiSHBNc3l4NWZ5NTYzb0FudENUWnctWTUtbW43dHZsTTZhXzlYVFkxTWVTZHNVdzl3MHJmblNsdVNUQjZ3TzhwZWJtNnBsM3VZbnBFbnVMUHJHSDlVd0E5ZE9BSjRLMnFKdzJ2TkVSYmZSOFVkeXJidi1KRFpfbmwwSG9adjBtTWlHSnVZdkdCYlR6V01PXzllNzNWdVE?oc=5",
-"source": "Kalkine",
-"published": "2026-09-30T04:27:04+00:00",
-"first_seen": "2026-09-30T05:01:02+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2af003794445a86f",
-"title": "Mayne Pharma and Sun Pharma Settle IMVEXXY® US Patent Dispute, Agree on 2032 Generic Launch",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEV3ejNINUx4QUpQaDdxcjBlOHAwbDZaRHpmN3g3bGdrNkEzMVNidGhOMlJDTi03TTVnc2xrY1hIS1RvZ0VJeVlZYnRoblE3WXp1OUlJRXpuOUcyM2JZdTN1ZG5lMzBHZ1BXWnVZSVdSRWQ1dTBRaXJVNFRDa0JLM3R2bVlMeGhEOG5mbXRaSUJoQlZGbDZVNEpuYklLNUtaWXduSnlrSmJQbkpVV3FtTFgyUTkydndHZXdZVkRkY1RxZFpkbV96Y1RUUVBrUDQ5YWc?oc=5",
-"source": "Kalkine Media",
-"published": "2026-09-30T04:27:04+00:00",
-"first_seen": "2026-09-30T11:59:14+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "203a39455a84b94d",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Market Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms",
-"source": "Economic Times",
-"published": "2026-09-30T04:25:19+00:00",
-"first_seen": "2026-09-30T07:52:39+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a8d0ceb5586318f7",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv ends the trading session at Rs 1727.9",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms",
-"source": "Economic Times",
-"published": "2026-09-30T04:25:19+00:00",
-"first_seen": "2026-09-30T10:20:28+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "46dd3a0f6c7f2793",
-"title": "King of Bonus Shares: Wipro, L&T, Infosys - These 5 companies have given the most bonus issues | Check list",
-"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPazJLYnZodjlub3ZmX3NIRUp3bENQY29jenV2RUZCYUxhNjhFR0pjM0d3UkNnQ2l6RXQxemlBS2lWcWhMVjkxSjV6Zl8wUnVmUlFVVUwzUFJMWnVHOXJaQXRXNEYwMUJySGZRTXNIYmFFMVhlM0c2X3RzZ19jT0pxcW9IMEdvQWNpRkpOX3pFcFA5c25VR2tRQ3VENncweVJNOVNtNVdQNmZHUHZySWtUaTd2NE9qVHdHQUEwMVd5MTVlY0VhY1lSZ3NRTHNlUm1Vam9fV3FORGtmYktsSkxlNTBEcEpEb0hKa280OWdpd05XOXBiWEFzYjFzUjNweHVBU2c3c9IBigJBVV95cUxOWi1ncW1mdS1rdG1NbUxIMkI5bUtXLUR3OHhBOGdEN1RadGFiS0N1YUUwNlVONmpwVUh4bGt3RkxzV2R5Ulo2Z21Ibk00U2lLTFVSVWxibkNJT185TzFXM0lKZV9hVnlsUEhIVlNoTmZldlAxRDZRcDY2LTdwTEdxZHByNXBNcVp5V0tjYnlvd1Npbm5PR2VaQXBHQnA5aWdzdmlDSGJMQXdqMHl5b0R6RU1fNzEwNTdXekRMbEdLYVR3SVlGOWlaa2VaRW1fUC1DSm5sam42dFQ0bVdsNjlfYThTcTBpRTB6Y3J1aFBBR29kTmsyTkZqbC1wQVRycU1YSVpPenA5YnVfQQ?oc=5",
-"source": "Livemint",
-"published": "2026-09-30T04:22:54+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"INFY",
-"LT",
-"WIPRO"
-],
-"groups": [
-"IT",
-"Infra"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "951f7fd95708d4d7",
-"title": "Aurobindo Pharma gets Rs 4.60-crore GST setback as appellate authority upholds ITC demand",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeDVuSldTOFNMeDBqZXh6em9tUkhjVlY0TWJ4bDlZV0hxYjVjdlFpT0l2NUZhcjY0bkdrbUc5ZjAtS1NINU9GcnJERUw5SFU0VC1Dc1B1Nk5qTEoxME5Rc2xwa01WTmF0N2xMQkdad250TTRGbm1FYkotWHhsZUhwYWtDLVlTN3hyTkNmUHVlRElfNkNOdTZ6a1NoaXExbk9JVGlRQnZfUHZYSnNSZlR3c0N0RDViQmhBdS16SHlGdzItaTluTEc5cWhsTmpKbXFRLXJXeGU2ZGpLLUpNb2tJUnlCWFnSAeQBQVVfeXFMUHg1bkpXUzhTTHgwamV4enpvbVJIY1ZWNE1ieGw5WVdIcWI1Y3ZRaU9JdjVGYXI2NG5Ha21HOWYwLUtTSDVPRnJyREVMOUhVNFQtQ3NQdTZOakxKMTBOUXNscGtNVk5hdDdsTEJHWndudE00Rm5tRWJKLVh4bGVIcGFrQy1ZUzd4ck5DZlB1ZURJXzZDTnU2emtTaGlxMW5PSVRpUUJ2X1B2WEpzUmZUd3NDdEQ1YkJoQXUtekh5RncyLWk5bkxHOXFobE5qSm1xUS1yV3hlNmRqSy1KTW9rSVJ5QlhZ?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-09-30T04:22:12+00:00",
-"first_seen": "2026-09-30T07:00:30+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c87687ede357100c",
-"title": "Axis Bank brings Apple Pay to Visa, Mastercard credit card customers",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGJDUUNlaE1ya0lQMi1Ya1NYT3kycm40d3FLWWhaLWE3WV9ZSGxiSjl5bXJBb3hjdjBkMzd4VDBBcm1raXpZLW1USVktYll3X0UwRTBra21TUWJzYTRVbmM1Rm5OWnZwOWlJTFZjblNVckxLUGtCUlBBTjB2MWV2WVluWXlhNFFiZkYzdmtqbDFkRHpZOWo0TG8yQk5Ga04xTV93SXBGTTNnSjA0Y01HLXhWdlFBbmw2Umlfcng0WlhkNFHSAcgBQVVfeXFMTUJwbUh5eGg5b3V4b2EybFRkaW9YSEJaN0x5MmxIY1FYcWhWdDQxa0psRWx4TlFlMWhpSHVsbWpNTXJNZzN2RzZTNC1abHVXSl9GZ05WMUlPbGdKb3dVVUN3UVJnd1piWkFYRl90V2VUYTM3Y0QwTjlhdDN5Z2RST3hRMTJYSGhwbjgyUEh5RGNQN1QzcWRsZ1FYM3ZiSTVudEE2OTR4eWVMZkpBbm4yOVBobHlkb2xPQTlPc2psRmNSNWlzS281V1g?oc=5",
-"source": "Business Standard",
-"published": "2026-09-30T04:20:43+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "006bb559fbc37c12",
-"title": "BSE Share Price Falls 3% On Nifty 50 Debut After Replacing Wipro; Stock Down 5% in 5 Days, Nuvama Cuts TP",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEE3Wi0xZ2I2cjRXYTRZT1BvZm9tSE02eEhhTnAwbjNRUmVvajNwWHdsd0dVMEhOQ3NXbzFaWS1TUk9ZRTZnSHpoYXRBUGZ6S2Y1WURvTjM4cXZ5ZlNOR1JObGJkZnFMWVl4a1Z4eUJNWVFYRlhDMDlmOTNhX19FMW9hdEtSZ3ItYWlNdXZtTXduR3R2OUd5SnllMmtKQUpQWm5ZczhVa2dlR2VIbXphOVp6SkhJSlYtX1JHdmQzNXRQN00?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-30T04:19:34+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"BSE",
-"WIPRO"
-],
-"groups": [
-"Finance",
-"IT"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "ed2234d19a4b1f75",
-"title": "Maruti Suzuki Victoris On Road Price Pileru Sep 2026 - ₹13.29L",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjRyMHRBbU5CZnJnRy1XMVNvcDJPczdERVJuTjZfa2RGOFEtVDZtTWRQNW1BY1prUFdtYmJTRkU2MFNCTHB4Y184Q2FlcWJoNUgxVUhTbG9Rbl84VDNiT3ZCdHRJcVZkekZlaG1rTHJ1aWFVLV9QLVRWeUtzWk1ybw?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T04:18:33+00:00",
-"first_seen": "2026-09-30T09:11:14+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "40ee1f97cb577ee9",
-"title": "RIL Bondraise on Track; Sagarmala Scraps Issue",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5KMFJnU1ZTN3A2czRWSjVkclM2ZVJleUJUaTR3NElqSXJhLVlSY2xoT1hqbWV5LTZXUkkxZjU0eThmNzVJQnluZmxsNXliMnRDbmxOSktfLXJhTzAtX0NkM29RRGJNTVJMQlduOVRMUjNjWlJhZV9vTjd5RWdqdmNNX253NGNubzZPVGZ6X09tMHVuQ2U2RnpVQlhJcGhXeDJRSw?oc=5",
-"source": "TradingView",
-"published": "2026-09-30T04:16:00+00:00",
-"first_seen": "2026-09-30T19:46:50+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "29af13ec832b1962",
-"title": "POWERGRID Board Approves SBI Loan Facility",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZQW5UYkwzRGtHTDE4cEZrVmZUenRTNmx3S3JBMERVVTViXzBqWFF0S0c5V3BUVEpTa0F4RWdWbHFta0ZxOFVsZC1qeUZYYm9tWVZTbkpuNnhiV2tVeXNWM0w5U0Z4eWVqdDBCalNweC1VUjB4ZHI0QjhueE5CZw?oc=5",
-"source": "NewsIP",
-"published": "2026-09-30T04:15:26+00:00",
-"first_seen": "2026-09-30T10:00:42+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01b007fb2343f6e3",
-"title": "BSE shares enter Nifty club, stock tanks 4%; what consensus target suggests",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFppUndfZTFnN3pVUHBjcEFRUlJFcWdDalY3clBjdGE0SVJFUjVmSTlqaW1LR0dfUlBpWjJrS2UtUzJ4WFVDS3BmN1ZXV0pxeGdHcVZKVjJqRnBOdkd2UzhGMks3Z0t5dmdTdG5lQksxNVZqNEZ6cXQxU0dKbzVJb3JGWDR1VEFEX0lscW5xb3o1Z0xHZjQ4eFNzSXRSaVZwOGRKMGwyelRmVVZZMVBwbmZCZEFFUGFPM0Y0NVZ3SU9FOHROclpvSjVRak52dm1ZYlZELTdaa3lDdFg1dFAxSE9DY9IB6AFBVV95cUxNaWlHejgxem42NTNuRDg3bkMxdjBMSHJsWjZwLV9GNWl0aFVkUDRMWDlxVmhaU2hET2xJX1dPSjNEMVZzVnBwZW5KSkZyS0hVb0FCQkR3ZEVfdE1tX2l1Tk1BX2h0bGQzZ0RKektGV3Y4M04zcGlhTjZOVXJmTkRXRDhpeEhDd1dTQXVKdmFBVjVVVVpCc0JlUTFlbkxTVkdLbDlJMWpRTzViTWV3WllCNUpLVi1YaktoX3JtTFQxNkhBQW5OeDBGN3RxQTJrQ2M0eElfMWRORkNVc3YtNFl2WUNwSkthZ0Nm?oc=5",
-"source": "Business Today",
-"published": "2026-09-30T04:12:50+00:00",
-"first_seen": "2026-09-30T04:35:08+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
 ],
 "tags": [],
 "sentiment": "neutral"
