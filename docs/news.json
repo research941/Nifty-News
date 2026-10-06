@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T04:00:31+00:00",
+"updated": "2026-10-06T04:20:10+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,12 +445,96 @@
 ],
 "items": [
 {
+"id": "356491d531ca1721",
+"title": "HUL at 2020 Levels: Can ₹48,500 Cr in Reserves and New Bets on Protein, Healthcare & Skincare Drive a Better FY27?",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0hKamJxYXkxWm5EYmcxMXloMmJmQWRnNVFKdFEzeW1hbGJtbzdDMTdiMFlpNjdRODJ6QTlwZFRiSzBxdFdDeDIxUzRfcl9OSHI3elpla2pIcW1qWWdDSVZjLVRVTW1RNkN1YzU3ekVKcmJGYzhNQ3F1VUlUaGg1V2pDd1ZWRWNlb3hxYXFCVzVJWE9nX2ZRR0xXZzhicF8tWDVCQXZSSENLTlNoNUR1Uk1pU2xDNGJIUDV6MXBpYlo2eExTVzYtaHFTa0NxZUtySDRIVmtLZnFVSl9vQkV3QTMyZjhWZHF3d1E?oc=5",
+"source": "tradebrains.in",
+"published": "2026-10-06T04:05:10+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a265768c84f959c7",
+"title": "Trent Shares Surge 10% To Hit Upper Circuit After Q2 Revenue Growth Beats Expectations",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdkcwZE5ORVJ1NTBlX0t2S1p0ZVlXbjIyV2Zyc09vRVFURm9seWM5YmQzQ2J0Qk9MN0JkdVhZMVYxbElZQVR4dkxwU2pOVF9sZnViQlkydEVQTnVUU1FGbUh3V3prVDBFdTZ0SEV3ZlR0c0VCY0ItY0ZUSzdCVlJWak1BeFAwWnNWc1M3WFVHc3BGS1lldDUzd2JzSkkzeDRIMmwxQUJzRlNyMTAwbnhhREFHOVZJMG9MbUNVU1hjamMwSGJVOGhJYkYxZlFpUUNDRG5FZEZIWjJlTkg4NVE40gHnAUFVX3lxTE0xc0FkSjg3a0xCdFVwbVNsZ0NaSVk3dUx4NXltOGFvcGxnQnZGc3RZVm1sTFE5N2ZYN2JsYWFZYVJRTEpVQUNxcWJwdzhkcEJCX2VhTWxJcHZyR0JiU2RpQllYRVJVcl9OR3ZMQzlOTjh2VkRPWXVQaEdQdFd6ZjB1ZmpBeFM4U1RpNEFQRzkzVlZfa01LX2NSMERzMkVxYkFDSWU5TUJXZV8xdXhBa1FEQ1J6SmFwQ1VGMVhXM21ZU3hGdW1GNTJscFhZSjFKb0dOWmN2UXJmUGk4blI1YXZiSF9YcV9oVQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-06T03:54:47+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "e302efc0182d9e01",
+"title": "6 October, 2026 Stock Market Updates: Sensex, Nifty open in green amid easing crude prices, Trent surges 10%",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWHREMUFTVjJPQ2tjeEUzdWFaRWhuX1U2MjE0TTBPQjBIQkIxbGtfcTZxdW15dGYyczlLTkV4WldtZzNCR2JFSk9PWlBTamZ6Qko5Qk9IMHBsQmQydkdRb3BsN1dZNVFLSEY2anUza3BZRkN2d0hoVms5Q2pLQ2lqT0piSG9kUFFib2cxMnNVUmJXem5TM0xQc2tSeGFzWHNKRllvTVdPZ05yY0NaMWU5b2JoMVc4RENRb1dpTGExZ3FoSXN1X3JtUEpjS21FNm03RlJfbHczRE1RcjI2aUs3UWM3cWp5ay1qYUxvV0VLcVdaSUQ2aXRNSy1Zc1lYLU3SAYQCQVVfeXFMTS1Dd01VQ2NkSkVJbVhVYmlEZGV3UEk1VGhUQTRYRHZMZGc0aTdDZl8tMlNtSEtVM1hDcWxETDZVV1hsV2o5VXFCZ3ZkQWFnUnV3THJXVWhMODBfb25NM3I5X1BrMV9sVE5FbFRyd1VoWU1IeW9hMW1uQVNLR0tQcURpU2VyNXRkQ0Z4UFFnMHN5ZnZONzJoQ3BGRndSWlNDLTRaTHRYNnkwNFVzSWJXaGlKam4xa2ZMUjJ5RHJGY2ktVFAzbFYwakNjRTZ6M0NLbG1yNlJuZy0zeW8wanQ0YXpfajNXUlozZkVvQWdyMGxJdWNZdGRKRHdlNDNQZUs5UUlXYW8?oc=5",
+"source": "India TV News",
+"published": "2026-10-06T03:52:48+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "92a4f1d134984e97",
+"title": "Buy HDFC Bank Ltd For Target 950 by Prabhudas Liladhar Capital Ltd",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHdHbXJNVElXTElONkpad0JWaEJ3bkRGcC11T3lxb0VHb1pxSmw4S0owOU9YcWhzWWg0WUd0VXpja0VzUGp3T1JzZzFSbk5ucFZaMWpWNHZNcGp2QmNlYzFKQWFodm9lLVRNU01wVXpOUEh0dkU4djh5YTM1MXA0UGRjVmp5VUljaU94bXM5bGlvXzIyQTRia2toTkdhUW44TF9leHRTS2JQdHhxdGgwQkx0NS1mUQ?oc=5",
+"source": "Investment Guru India",
+"published": "2026-10-06T03:51:25+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "4dd5503ad93a286e",
 "title": "Kotak Mahindra Bank shares in focus as Q2 net advances rise 25% YoY, deposits up 23%",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-as-q2-net-advances-rise-25-yoy-deposits-up-23/articleshow/134722284.cms",
 "source": "ET Markets",
 "published": "2026-10-06T03:49:47+00:00",
 "first_seen": "2026-10-06T04:00:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "b390f0fdc5b6da78",
+"title": "Kotak Mahindra Bank shares jump 4% as Q2 net advances rise 25% YoY, deposits up 23%",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-as-q2-net-advances-rise-25-yoy-deposits-up-23/articleshow/134722284.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:49:47+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -474,6 +558,125 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "39587e25c0427b9a",
+"title": "Trent's Q2 Business Update Has Morgan Stanley Bullish; But Goldman Sachs, Citi Tread With Caution",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPenFod1pBT1FrVV9rWUFLSzZyN3U1eUYza3NfdV8xNmU5Ym1OR0RHMUFTZ3lKeS16MkRJUy1fOXhIUHZXV0paaTNsdFg3RmhYb0RlZVJZN1l4cFFOWEM1WEdFVTNkZUh4aFg1dmQwNHlVT3dQMmZXN3VjbWVMTHp4UXhPbnpic0lQcHZJZllsTndBR2JzUkliT1YzbGtvRG1sS0c3UFNQQ3lxX2V2cTBVaGJyQ2FmZXNfdHdHNHB2V2d4clFoWVBXcDFndldkZ3dnZ0wxZjRXZkg5a21aV0pEaTc2VWg3RldDcFJFakRPaUZ2ZFV5bXRFMtIBgAJBVV95cUxNY0NFNGRsbUU0OHRZdV9PTXNLSG5iOEhVTGl4bEplNWdVLWxHZVpES2RHb2tlTUlISl9NcXlVa3NhQkw0SGkzVDY1UEFKZ1hKVjJFSEhteGZSZGZDakhqYS00Y1phNUtzVjZURHlEcFFyNzdDN0pBOEt3bElxanBvc1l4WTBQbnE5WHZ4YTVhRk42OVBfYzBuczQ1WXFfVHlWbUpYWDRSWnIyS3Yydkk1T0ExTlRzRkpKckxsNlVfRVdKdkpnSVUyVTM1VU90VW1Qd285ZzZ3Mm9PelQ2akZhOVIzOG80b0RwaDJfTXBsaVJJby1KR0thMU1kRzI4SkIz?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-06T03:37:09+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "47e8a0c29bd7ced6",
+"title": "Fire-Resistant Structural Steel: Tata Steel Gets BIS Nod",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV25OTnVlXzF3SVlPSWFmVm15d05Rdl9ONGVTdDJxQnJLc3FBaHdoT3F0ODBPTkdId0NvcFlMTjZtTzlYQldKNUVjZkZMNkU5bVhmdTZNS1hrdW1hS1ZQWGtjSGFBbkdrWjlVN2Qzc09HY1d2V05ibnRzYXB2RWxBZTFpN2IxZjY2VTJkRlBIRm5TRktDbVkyYkJn?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-06T03:30:29+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "284e3d2d1177c96f",
+"title": "HCLTech elevates Rahuraman Venkatachalam as VP HR for Enterprise Learning and Development",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEhJbVlWZGpSa083RlN3SWVqTVlJUVIxdTdiZzNiTl9NUDFKejR2dTZfS1NsVjNuMElEd1d2TWFUVHdEeDZ1eUs3RldkMlVndldWdDFwdG9wZEJqaVpkXzNrNVdxNXNkdDlrUkh2UFJvMjJqbFFqdnI3bU4xbk5YeGZjc3RfLWFRamFhcFZJSE9TZEV0VGtkaHlCa2Z2Rk5ENjFwdEtKTncwcnFxOFpuZnk0WC1wVWtkcHdjOXNjazNLQ0k1ajNZNmRWc1pzV2I1cXpoM0tQYw?oc=5",
+"source": "People Matters - HR News",
+"published": "2026-10-06T03:28:44+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "62484a5f6c6cf977",
+"title": "Nomura sets INR 6,000 target for InterGlobe Aviation stock",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2tGdWpqMmJCUTV6U1RjUHVXZU1scjJiaVFXRUE5N2ZhT3d0aDg2eVdZRXlmVlZWTGl6SDl1MXpyWExlT0xralkwSUJiMHg5SlVDTHF0UFdlRTlxSzVicFVIY3dIT1dlaVYwbTVVVkR4bHdibWZpNlYzaF9CbGZ2eUVMR0JDTnF3c0xOamhYZktZemhLLWxqdUVieDV2aWxCZjV4dl8wZ3hiZjRoZEhoVEJXWDUzN0g0?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-06T03:26:51+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "832d88a41c2934c5",
+"title": "Axis Bank's Strong Loans, FCNR-B Flows Keep Citi, Goldman Sachs Bullish; See Over 32% Upside",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHRNWXlFcWcyN2d2M3pKOWJpajFzdDVTdEp4X0NqTW1VY0lHalQ3M19hNFVQN05JUnZlTHFGQS1VWDk2VUlnQmREVS1jbi1aVnV2aTA3YzQ2R3FJRnFONG8zZ1E3ZndiRVoweE55RW4tdTU1QWVWQlR4Y3VMZ0NsekZDaG5JZ0gwOXhjem9JbnpwdkdSZGdkMW50cmJfZDZ2VGJ2SEJ3MXlOdVAtb1JGMnNRdGVxeC1MTTJQSThlaG9rdEhIREJnb000SdIB0wFBVV95cUxNNm1nUThXLXJSYkc5VTFUYml3WUpFRjJrSkdDN1V0cEJSMmVSU3IwZHAxYXZ4cnpIdHVNeDl1NWpSMU9Na0cwVy1OaG5CREdxYXhkTVhydXJyd1lMYzBlRFhtNTdPbnVoOTRQMm5qa3Zxa2hHYlJSeWo0VTRhamItWWc3V0lkTGliRXYybmo1RkhveV85aXI4b3NGeFQwWGdWUlRMbEVTY0NPWWNsSUNTUTBvUEVxZURzcUI0MVl0VnJhOWZla2hUeUN5eFlBeTIwbm9V?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-06T03:24:48+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "290bbff45e80c02d",
+"title": "TCS Q2 preview, dividend: Analysts see modest growth; PAT may rise by 13%",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYjM3U1JDZmREbllqXzJ3NFNYV04tSmd6Njk1eF83WDcwR0s5UUQtcXJtTW82TG5JcVlFRExMYTNocVh6WWU2d1puLU1DcjloMms0LTJ6STRFZ3N2T0pnTzhvZkNjVXhaVUNpVEh4YXBVbm10YUI0Q2pMVUQxR2tGV3g3S0VOS0NpR29TOUpjajRxYXNGX3Jub01SdUxfNDhVU3h5NjVhQnhJY205czJRZWxISnFQT2hJNWNvb01Rb2poUkVIR2hsOVByUHNoRXdtTExmOGJERkdsY01iVnJGTXpJbXVxU0V4cW93UzczeE9KRVg2MWpHV20yd1nSAYICQVVfeXFMTXNkeHBEYkxFUS15WldNaU5sQXNKYTljM1VjR3FqbTY1b1ZzbjNwZkVRVVZNV0VLeUpFMVZ4ZC1ockdDWVRnUm9tVE5uOGJRYnlvX3E3akxyQlBQeFl2WmRyWjlucndlRU5QS0FZQWJma1hUWk5EbllCZ29KOUtqZFFSa0xlQzA2Y2xNRjhzWVpfSXNiMW9HTFpFSHNPOWw4RlJ6MXV0YXYtMFJsU3F6UGF1M1Y4ZlIxbnFkTjJlb3RhdWtQTlExM1FFbFBuOVZkeXdkLTYzMEY3MkFFd2ZLY1Babkx3Nk5fNElXVXdqS0pMdkdFSzd6TDVWeVpEc2VfQ0V3?oc=5",
+"source": "Business Standard",
+"published": "2026-10-06T03:19:04+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "positive"
+},
+{
+"id": "b04b31eeffd8522d",
+"title": "Zee Business. . Stock Of The Day 📌 ➡️Buy Eternal Futures: SL 316 Tgt 325, 328, 333 - Expect very strong results this quarter ➡️Buy Paytm Futures: Support Level 1660, Higher Level 1725 - Digital platforms companies would be in first is FIIs buying list whene",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNG5iQ2NOUFNKZS1KUGM5OUFIcm1qZG5PUDg0WTZiQkJuWHRKSVcxM3haV0xYMlNic1N2OVpOZzZMVExIR0syZjhWbnRFMVl5emtrdTZuMzlJSDhFQk1oVXJ2YnJJT04tU21hWS1zdXRMRUpDUjE4aV9BWVM0Q3dHWTEwTGxHWXkzOEUxd0gxZUtLOUN3U2pOazFIZlRtbGw1RXlONU1BNnZrUXNnaDRxRUtrUmpJOXVBVjBhaWNIeHVtVUVoRzRVeUQzY2h2REhadlFuV0hsOXNDbDFjSkk4Tm1WXy1DWkV0c0w4LQ?oc=5",
+"source": "facebook.com",
+"published": "2026-10-06T03:17:14+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [
 "Results"
@@ -505,6 +708,24 @@
 "source": "The Economic Times",
 "published": "2026-10-06T03:16:14+00:00",
 "first_seen": "2026-10-06T04:00:31+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "a5f0347deee66199",
+"title": "Trent shares hit 10% upper circuit after Q2 revenue rises 23% YoY to Rs 4,724 crore. Should you buy, sell or hold?",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-in-focus-after-q2-revenue-rises-23-to-rs-5788-crore-buy-sell-or-hold-the-stock/articleshow/134721903.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:16:14+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
 "symbols": [
 "TRENT"
 ],
@@ -682,6 +903,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "baf63146c54c0b64",
+"title": "Axis Bank Q2: Citi maintains Buy at Rs 1,620, Goldman Sachs at Rs 1,477 after FCNR mobilisation",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHRZYzllV2NxSHpXNWdDWWtGcy04M0pZTmFZUEhrT2dXa214bXRhSkdPLUdORzJ3T1NPREVJNEpxbEFHUWhTX1llOUJHQ1dTZ0FuMXMyNkhheG5MWDVfVUZVcVlpb2gyRk5TTHZmbmxJNTBtQ0VCS0dDZkxnTUN2eFhpNFhidU1qR0p3bUVOWHRJLUF0ckk4TFVMb1NwWTY1cXhoNC1hbVZmOEFPSVp2VUdCUXd4bFNfdXBLVnlkaXBjZHl5WEw0Sm9R?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-06T02:44:25+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "ed053d7ae266bdd3",
 "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Surpasses 100-Day EMA",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-06-oct-2026/liveblog/134721426.cms",
@@ -749,6 +988,56 @@
 "groups": [
 "Banks",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7a01a4bf8a6313b0",
+"title": "Stocks to watch today: Trent, Godrej Consumer products, Vedanta and more in focus",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVduaG9SYmFlUWdYSW9fVTVTYTI3TWJ4c01CUXRtbEJTemlMLU1zT3U1LWpVOWRTQnFnWVd1NFpDUzFER3dxQ0NFY2hlN3g2RFNnRVh0bWZrUlBTMzBqVHpMU3kxMUVTSFBpbWZhRWVNUHVqZk5pQVN1NTZaWmFwdHRQYlNWYzFWUGZidElNR05ZanNJWkNNbjBJdzhOMkNYeWgxQUFhSnpBTENSSVJZNnp4cGNWVmlsQkdrUm9DX3BORG05U0ZoaNIBzgFBVV95cUxNMi16bHJMTkNqU2VKbF85ZlJjaWFCSkVOaXhmaHVLN3k5Uml4QTdvdl9NcDFzYTNOWWZUQzNqbnVaOHlVeFZ1Q1llV3VtYkNYckdoTzBDWWk0Vzh3UlJ6aW9GUWlYUEtRV2xaZEE4YmtiUzB0VlgtOFRtb2lBYlhjSk1BS2hUMTJFREdYT3FKcnBpYWNrSi1SV2IxMkVDUHlSb2pRUmhISE1EdU9wbHRROFF6VV93ZF9kV3FCVFpRRktOZVlfbVppMWxpNlBCQQ?oc=5",
+"source": "News9live",
+"published": "2026-10-06T02:32:10+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4549a0eeb7870846",
+"title": "ICICI Bank Share Price Live Updates: RBI seen starting rate-hike cycle, repo could rise to 6% by FY27-end: Reports",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-06-oct-2026/liveblog/134721283.cms",
+"source": "Economic Times",
+"published": "2026-10-06T02:31:34+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
+"id": "23e488a57cdc5412",
+"title": "HDFC Life Share Price Live Updates: Market Snapshot: HDFC Life's Weekly Returns",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-livestock-price-today-live-updates-06-oct-2026/liveblog/134721265.cms",
+"source": "Economic Times",
+"published": "2026-10-06T02:31:00+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"HDFCLIFE"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -922,6 +1211,23 @@
 "sentiment": "neutral"
 },
 {
+"id": "059c10053e465c61",
+"title": "Adani Ports के शेयर में 5.5% की बढ़त, कंपनी ने 500 मिलियन टन माल संभालने की बड़ी उपलब्धि हासिल की।",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSWJMUlNGaXpRNEpPSGpvbjVPZjVacmVIY1ZFLTNxQnZFT0JSaW5KQk14dC1rQTBWeEo0YUx1X0REb2V6RjFvTzhucEEwcmZfMHZONktJbHI2Mm1wNlpJakpsNXB0QmV5VnRrUjYtX3ExdkdZYVJMYTQyeE8xZVpJS2FBVzdOdnF3VFF6YzRTLUgtTGhzMjV2UnVsYUNrbXZtcHBCeFBnWTFMS1hHdFBGZW5DVllmNEtJMS12WHNLcl9ySkc5Q3FHOTNlaEh2Q09ncFpGaGIwYkdOb01oc1MxZEtjUXBldw?oc=5",
+"source": "Alice Blue",
+"published": "2026-10-06T02:03:45+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "a485a17385b17ecc",
 "title": "Zee Business. . Stock In News LCC Projects, Kotak Bank, Godrej Consumer समेत आज किन शेयरों पर फोकस? खबरों वाले किन स्टॉक्स के दम पर बाजार में रहेगा तगड़ा एक्शन? जानिए #StockInNews में... #LCCProjects #KotakBank #K",
 "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNNjZoei1jaG1yVko2ck5BaHlOdzYzUFY3UVBKcTZoSG0zb21YWC1lTzUyU3RWc3NrbV9BRjFXd0g5QjZMT01xNVpxR21fYnM4QktYdWRaUUxSaXprYXhTWHFNOFpQZTA4dFgzcVowYUlpb1h6cjZQTFIxT3JBcHBEeVJNNDM2M3E1YmdkVGtJajVhMlAzUmhFckp0MTljRTl1Z0o3dGk1SWRUWnZvbU5mN01vX1FYYnRMNlZOSXhmNk1GOHRrcGxJRVlBU2UyVmdfM2VYcGxWSlF3NHZ6XzVxdUExbTlWS2lBNGJTbU16S1JmOEpqMUtvS2dlTWZTVGctWTNiUFdlSlFDWUlBbk5UQWdLUWthLWYzakJvaW1NQjYxbmpGYzQwLVl0WGtBNWhTYS1oRVplRkNnaU53a29ZMXpwUTFUbEFaTTlKOGc4bmYyWFQ2WllkbG1JY2xsc1F0M0JORnhaZmRlQUlMeGU5QUp0NGxFZ3h2dVF4cWZsYTRZM1lDb2F3dWRuTDJhZHkwRWItRUtvZ3U1NkNTN05DOEEyVmVCNnQ0c09oY1hNWERvZkVmV1hJQXZTR3pfSTZ2dmc?oc=5",
@@ -944,6 +1250,22 @@
 "source": "ET Markets",
 "published": "2026-10-06T02:02:16+00:00",
 "first_seen": "2026-10-06T04:00:31+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "d0b6b2179c8067cb",
+"title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 100 pts, Nifty above 22,550; Kotak Bank, BSE rise up to 3%",
+"link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-vedant-kotak-bank-share-price-06-october-2026/liveblog/134720903.cms",
+"source": "Economic Times",
+"published": "2026-10-06T02:02:16+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
 "symbols": [
 "KOTAKBANK"
 ],
@@ -1351,6 +1673,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "0ffa2b5f222dc7f0",
+"title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1jS2tHNDMyYXkwUW1HNWVPbV9CQ3R6ZE9ja1ltTjMtQ2RpT3A0QUZLdUN0WGRoSkZ4T2hIZEQzYkVhTFlWaDdfWW9XeWd6MU5DMGEwd2FwV2R6SEg0TEgwVnV4TzB6SENyRzU3WUwxY2lRMzhQM1U1UmN1am1tVGx3VUhpOVhGYTBSTkdjdkd0ckNZaDVwZTVXbTVoVW4xRGpzWXVCZHA4Vl9kSjdBbTJ0aU0?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T23:26:26+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "cd8d10a7533f521e",
 "title": "Adani Skills & Education, Kachchh University Launch Centre of Excellence to Drive Green Energy Jobs in Kutch",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnA3YklSbng4WWV0bEhXZGc0Q1A1cnMtaG0tc1gtWFdfbzZzLVhZTTZKZnZJWExPdmNaZlZsLVBCSUlFRlM0SXV6TTBOdnJ6NUw2dGtRa3dybXNoSTFlZm0yRkRHUmJLbmx1UFRBN3RxZS1tV0xCQ2lLWFlvcktUTzhVSnREOGNyYlBDc3BPOXpPMHVsYlc3T0JZMXh6Q1EwZ1lwRVNrZ0d3RVM5UkFPMWxUMFdLUQ?oc=5",
@@ -1603,6 +1943,22 @@
 "Order/Deal"
 ],
 "sentiment": "positive"
+},
+{
+"id": "e7fde87f62adc971",
+"title": "Dr. Reddy's Opens Trial Over Diabetes Treatment Patents",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rNHBoWk1QV0pCU3lleVF6UnFMU3BHaklYalRMRDJFX3BZV2o4MENJQkpMSEpSMnI3OXAtSG1xeG1fbFpwREFtNS14RDNqbVRr0gFWQVVfeXFMTlppdDFSYncxS1ZpdW1sWHFyTTlNMFdMajk2SGVnd3VpM0h6MlQtUUVURXI3ZEpCMkJVelVaUHhIaUZodGJKLUNCMDJPYlNuLWtJeVFWakE?oc=5",
+"source": "Law360",
+"published": "2026-10-05T19:11:19+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "bfc312921a88750f",
@@ -10970,6 +11326,25 @@
 ],
 "tags": [
 "Order/Deal"
+],
+"sentiment": "positive"
+},
+{
+"id": "5f9bc905978d6a74",
+"title": "HDFC Bank shares rise 2% after Bagchi appointment, Q2 update",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN1FPUDByNDk4M3FzV0lEMDZqeFdsUnN2c1dlU3ZwQjZkTndGREJZaW1IZGdmNUV4Y0xDOE1fcE1HSjE3SmdsZnBtcUduRC1HR2RHbTBBWml6b3liQ19OV3FSRF81SUJWbnNDbVJpR1lEQi1PenFhS3VMZkpBel82eEdNRGpNZWNJejFLbEkxa2lBd3gwbTVzMnllQlhncFZXN1FaM0tzOHJSb3FTbHNSQmFmQzQxLThtX3BxMWRQeHZYdVJxcVpUdkUxOU1YNkk1QkQ3dEx30gHcAUFVX3lxTE1HLXVHU0Zmajd6eVZqQUtsTUVtU0JrQTFNQU9hd3AxM2dFVC1sUXpsWVR3d2VjU2MyeHpZMWhvRkpxUzhSeFhXNWFBR2ZMRnIxWlUwTWNJQkpCNnVnSmpNRUZCbjdDODZoNHBJRnVlMVdlbWUwRE90b2FPalVSX045bWZEbWlMU3d5N1Vpbl9PdU5VVTJVUTVuRzMtck95a3FJdW5GTmlDMEpuak52dUpicHVWc0V0TnRBNFJtNlVIMmlBaEFTM3FLdnplMXpXQ1ZGZUJPQzdoR2lyU3c?oc=5",
+"source": "BusinessLine",
+"published": "2026-10-05T04:34:37+00:00",
+"first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Results",
+"Management"
 ],
 "sentiment": "positive"
 },
@@ -51090,384 +51465,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "4455a9a188c5f97a",
-"title": "Buy, Sell Or Hold: Fortis Healthcare, Tata Elxsi, Trent, Delhivery, Orient Electric — Ask Profit",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWJIR0M4ZFBNYkpEbWdVV3NNWExTNFNnVzRzeTRlSEhFZVZTdlVicTI3LW1qd3hWNDNHbnZScXdVYTl5OHhpLVNYRVdBX21wOFFlcnFQMXRycXc1Q0Z5RGx0NDlsb25ZdEt6N0U0Vk5JSGhuQ1h4eE1vbWNUV1k5MWZpaWFhTHoxOW1TcmNCb2REaDVIZUtEOExNZk5ZOHJ0dHJOaE9qbzJpT09rd3Zpb3hMdHN1cjZMMUY0c0pENFVNLTRnOFNxNkZ4aVLSAdQBQVVfeXFMUHJUYzcyT1JENFFtWTdMRXFTVXNVMTl4cjU3X3ZxNG1VVjF0UmZOc2R0ZUpScHB1ZU5LeWxIc3VjcURrT1YySmVuY0FIRktLc1QyRUhiN2xxZ0ExOXhpT0VqWnV6czRjZy1NQVU2OGtTYXZEa3NteV9EaGs1VmFpSmU1aGR0cFA3NlZLTVFEODV3UFk4dFk2TFY4bllqSm5lbEFod2VoRXd3NXVDeUF2aTk4WHpFOU1HNjVsWEdrMjYtNnFNNFppalljbC1WeXhDUVNueFU?oc=5",
-"source": "ndtvprofit.com",
-"published": "2026-09-30T12:31:45+00:00",
-"first_seen": "2026-09-30T17:58:52+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "45af01e31a84e352",
-"title": "Infosys extends ABN AMRO tie-up for AI-led overhaul",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkJZRmduY04xQzdZU21CLXVYQS13MndnUTkwOXU3MXl3OUNWT3hsYWhaNEVzZ2JBZjJXeDNRcDNkVjRyRHNkNkxES2ZIaExGYVk0QXVjWjk4M2xNeTNPZnNqWk9hOVRnUGFUWXZCeXpEOVJsbEF6T1FhcVhqR0EtVDMxRkRxYWo0OU5F?oc=5",
-"source": "ChannelLife UK",
-"published": "2026-09-30T12:30:00+00:00",
-"first_seen": "2026-09-30T13:22:27+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1cb5e309b3858bd5",
-"title": "L&T Extends Hyderabad Metro Stake Sale to Dec 31",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkc0dVBMb0NVODRoTHhrSmczazdTZkRYazVHd3V3bk1pSjlYWWpTQlZBNU5OSVY2V2ljenFxbmY3U2MtTmJHM1VJSHdxM3YzVHBMek5KV0ZkMW5NTXFTM1JvYUpPMFR2R3pvejg4M2hvQVdXRld5SnJBOFZjN3hQam04Mnl2STA2NTlyZG9mQThBS2JwYzlHeVhmMUNGU2J3aDg0ZEtUUdIBpwFBVV95cUxQbkc0dVBMb0NVODRoTHhrSmczazdTZkRYazVHd3V3bk1pSjlYWWpTQlZBNU5OSVY2V2ljenFxbmY3U2MtTmJHM1VJSHdxM3YzVHBMek5KV0ZkMW5NTXFTM1JvYUpPMFR2R3pvejg4M2hvQVdXRld5SnJBOFZjN3hQam04Mnl2STA2NTlyZG9mQThBS2JwYzlHeVhmMUNGU2J3aDg0ZEtUUQ?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-30T12:25:25+00:00",
-"first_seen": "2026-09-30T14:23:08+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "5e490a1d41800a57",
-"title": "Second Hand 2017 Maruti Suzuki Baleno Alpha 1.2 for sale at Rs. 5,73,579 in Bangalore.",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWtjbldGNm1jbU96a3REZldXYTZBT2Z4d0JYNEN3aGc2QUZzQnhYWTZOOEtVMFZWR1dEanRGbXQ3WHh6TXBJOUVsU3p4UXo4aVJKc2ZGUng4d0gycXFsOVA1bXFIY29yTF9yN0lidmpYTjlTbVlyMzVXckJxNDhXZU42T1cwN0ltMlE?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T12:23:27+00:00",
-"first_seen": "2026-10-01T07:11:48+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "89188d6cf8ebe03e",
-"title": "Class Action Filed Against HDFC Bank Limited (HDB) Over Securities Violations - Contact Levi & Korsinsky Today",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2ZlWkEtWUpWaGFSWjJKUVBfU1dTbG1nZFdFdkJUMEMwdVFjZ25HeDB0REIyLVhzZkVFUnk3b1RXN0tGTzFyWW1sY1d2VDE3R3A1V3FIdjdxeU9MTzhBcTNfNExjMVVYN0lzUkRfUGpqQVE2LTk4R0tOa3o0b01pN0FobzBTTjZITi1wMDhuVWpNMXllbHhCTy1BbEYtaDVsS21jc1gwaHFtOWJWcjZQX09oV0hlQ29iMG1oYkxSN3k2QTFZaktwMnpSSmp4ZDE5Zk5BOG8tZldFb0pnQTNsVDh1bFM?oc=5",
-"source": "ACCESS Newswire",
-"published": "2026-09-30T12:22:37+00:00",
-"first_seen": "2026-10-01T02:34:32+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4dbe41d9d07d1dd4",
-"title": "CAFE 3 norms: Maruti Suzuki, Hyundai, Tata Motors, M&M, Mercedes-Benz, others welcome new rules; ethanol gets boost",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONk9waExYcVFzZEM3dzdlcmVLSk1KUkJHWGdrTjNwRzlrSFN5Uzg4MTZDRmxESkJCVXM4MnNaVHVnSjN1MWhveGxkQ0RFVUYxRThqTllvWVY1WGNZQm0xMmN5TFVlR0dkOUo3WFJHYU93LWdUNWxlbXNsVVpuUFJ1Vlo3TWRvNHo5WVZhYzgxUHZvVnc4eHRkWlFJb0drVC16LWRiTkdwcVEySGJrVjVZWGFFNlkxejA3RlpRbzNKdk9PQVVxd1dVSnNHVUszRjZiTUlxbS12T0NXR2tZczJ4anFR0gHvAUFVX3lxTE1MTDBzTXQxS1VJWWZqckRWSkdoVnExbVR6aGpIUGhtVzJQeXcwTUN2dFVvalU5SkJnQldBS1lUZzBpNS04UWI1ZDhJTV9TR2ZITkdrQ0o4ZnFDRVlVOFEwNVk1NjdzSm9saHRJcDdyNG5BN3BOeWw3cGNXdERsbkNLNGtXQkdmNFFPV3RxMUpLYWQ1djhiekxZbkpRNC1MbFBQZXY5M1lVUDF4WTFacl9xcFMwbWRTck03cDI5T0UtZWFXajRSNjUxREp6SGp5ckY4bGpaMGtmcWZRTXJMc182Q2pjVXBka2pPb25nQWx3?oc=5",
-"source": "Fortune India",
-"published": "2026-09-30T12:20:31+00:00",
-"first_seen": "2026-09-30T12:54:09+00:00",
-"symbols": [
-"M&M",
-"MARUTI",
-"TMPV"
-],
-"groups": [
-"Auto",
-"Mahindra",
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5841a2c405f3a6f7",
-"title": "Infosys and ABN AMRO Extend Partnership to Scale Agentic AI and Modernize Banking IT",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlhqanBBT0VfSGpZTlFuenp5QmM2WGJFc2tOekV5SHdNZnRsdU4zdDY0eXFBalpoQ2ItaVdiSGp4cXlkNUc3SFhsZ2NUOHFlQ29yWmExclhtR182VzA1Ynd2cV92bHJaZEtKTWdfWHVVT0xrSm94dG44V2NEaXJfdkg3UURhX1pNWEN3ZDFaS0FoNjFXR0ttdVdYbEJ5ZWJYNE92QTZYcHJfb1Z3cVloM29PMA?oc=5",
-"source": "FF News",
-"published": "2026-09-30T12:17:44+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a78db9f45eaad69d",
-"title": "Why BSE stock tanked 3.5% despite Nifty inclusion post index reshuffle - What lies ahead for investors?",
-"link": "https://www.livemint.com/market/stock-market-news/why-bse-stock-tanked-3-5-despite-nifty-inclusion-post-index-reshuffle-what-lies-ahead-for-investors-11790768409332.html",
-"source": "Mint",
-"published": "2026-09-30T12:16:16+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"BSE"
-],
-"groups": [
-"Finance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "00e4299bb48d7cfd",
-"title": "New rules from October 2026: SBI ATM transactions, UPI MDR, bulk FD rates, NPS and LPG subsidy changes",
-"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMlJjMzJLc1hmNC0zUzJrb2dzcnMxamF0OTJUeGRzOS1ia0pPTGJvZFQyVG5NUE9KUGRUeEtlajhtRkVzVUo4M0NjdVh0M2dzNzNtRWl0RGYyaUlBU0s5SmpyUHlXYVo1VTZEeU91eHV4THdGSXpQME5VOGlmSlBqZ3dyVldCQTlEbnhya0lGaTJ5ZU1DMFFNZ0VkTzZsSmM3WnBFZVlhQTVDQkdtaWp1UHN0b0J4THNqN3BZWEdzemhlVVY4S1F2SmtEeDJQY0Y4azlUckdZY3JIR29hWTA1TVdYVVZ3S21RWmhjMnQ1UjNpU2xLNW1xbHo1NkhNVy1PVjRDR3JlY3JpVURjdUpkYXRrRm5XVXZXSVE?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-30T12:14:06+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "00e5194e414484a0",
-"title": "SBI Buys Nearly 40% of Reliance’s $1.35 Billion Debt Sale",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDhIY0taMVJkWG9TcWhBZDZ4MHI0VS14Ui1TbnFRbUlKbHduY1BTdXpTNlpQd2JjcXNkUFIxbFNOUHhxbjF4OWtyMFZLbHlVY1pNaXJLVzdCdjFoUDNyVDdvSmFaNWRiQVJhZEgxelhqVjlEQnNCcmhnbEVmNTlvNEQ3bkE4dw?oc=5",
-"source": "uniquetimes.org",
-"published": "2026-09-30T12:12:58+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a9d68d84da33f46f",
-"title": "Linde India completes acquisition of Tata Steel ASUs, starts gas supply",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaG4tVVdYalRPQnd1NG5mMUdDeXE1SnBtdzJzMTBlNDQ5a1p5eDRMYlRUVVRUbURLMjFqY0pFd2diekx2dHNpU3lDbTEwaFVNRE9IOUQ5cUFzM3lNZXN3OGVDd0tmLUZOTDcySjRpMmVGN1NvNzU0aF9UUVRnakpQSkdNREExbjRvY1ZEOEg0MEgtZjlnYUI0TVN6amlWdWtEN1hmWTUteGVhN1FjbXlvY3RLZkl0U0FUVmdFYl9QMUg2QQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T12:10:40+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"TATASTEEL"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c32fdaf1168ccd0e",
-"title": "SBI buys nearly 40% of Reliance Industries’ ₹13,000 crore bond offering",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTJmcm5EOGwwR2JDQjJHLV9MVnF3QWczZVgtd3UtTW0yTnRkU0VqZm42NFBaTmdMV0VsMmQwRVIwblFpTEpJc3ZELW5zMjhwVmp5alI1ZVZvRjFleG1ZRmtmdnJjSUI0ZmxTVS1aX0VuUHI5X0pXa2N3bTRIOFFERmt4OEpIUktqTG1hWE9IM3BlSDllS0Z3TVg3YXdXNU9wY1J3bDF3Q3UtTS1oRWsyWUttY0E1LUN2U1o5cWlLVlJZdzA?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-30T12:06:29+00:00",
-"first_seen": "2026-10-01T11:50:07+00:00",
-"symbols": [
-"RELIANCE",
-"SBIN"
-],
-"groups": [
-"Reliance",
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "234d9f629e21d4b1",
-"title": "Maruti Suzuki stock reports a production leadership change",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW9GNVdkSENlTmRjWUl3VFRDVVJ0WVRnX0hJcGtTYkNabGdwSVBUX3VCSzZQdlFtMHZTR1pUZkF2SkV6NEQzaEZ4b3h4UnkxUUJoWFFId0RidktzdUVxcjJvRXMyT1J4a19pYkFLaTE4OW9CdzB2dVhRNElocUJ3WWJYQXNYaXVvM0JlNUJBWEJWQXBhQ2tRVGkyRlpjT3N1YlNhWUlOMlIyci03UjJFRFZEREM3eUhv?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-30T12:05:53+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1c4e3488e74170c7",
-"title": "L&T Transportation Infrastructure Vertical secures twin contracts in Dubai. All details here",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFg3Tk9rWFRISENKdHdpcHdHQ3pOOEVKOWZvZ1RGT1kyWVZWbjlrcFpMd1dadTc4cUxOSURpOUh3b1FObzRvcGs0LW9WUnZPblRaQUVrZXdHY29fdzlJUnpDbGdlM1RMX0ItMExfZFpiUmFZWTlpZWNELUJrdUxreFMwaGFLb3hBTDQ0RUJBalQ5VHpVaFlyRC0zeThZbFp2MVVWRnJ0YUhaZzF4YXBNN21zdlJVYUtRZHpETktFS3BrWHh4QmhEZHQwUGZicGc?oc=5",
-"source": "Indiablooms",
-"published": "2026-09-30T12:05:32+00:00",
-"first_seen": "2026-10-01T08:54:41+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "218071ea35c4ac3f",
-"title": "Adani Enterprises Issues Final Reminder for Unpaid Rights Issue Call Money",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWFmeUlFdEROZ19NY25INmVudkFZbmE2N0ZDVWZQNFAxS2tINDhqUTVqNS13aDFXVU9QREhuYmZVdHVqTHBBcjJwa3ZGYi1LeGljQzVodS10cUtISkZvM3Nodnk4MVRqdWVHczRiS0ZUNVdJOWVLVFUyVllhYncwS1NsYzFRQTdmWFR6V0VoMTZvS2tMdXkwQ3hzNE5ieU5aS3huTGRyUlJpcnlubXBCeEhTX29Kdw?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-30T12:05:00+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "9b7b9a48f1760c12",
-"title": "Why Maruti Suzuki’s Rahul Bharti believes it will continue its leadership in CAFE-III",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbG1OeXRKZ0dMb0Z6aU5HZ1hGREpCVGVmT2lIS3dXYmpKaHY1ZUtQSFpOZW9xNHNUZWxMbXc2M01pQ1RLQ0ZrVFduYkVvaDJwWWhJaVJhNGw5Y0R2WXExa2RfSjYyTkkzbnFrMTloTmw1SkR3SFlIaEpKUWhXQ21PbDBmUS04cDJUTGxReURGNFdURXBVaGNHd3NwcnNpOVVwRjFCTmY2a1d0V2tOcEkwT2g5b090NXNlR1lObWJ6V0VMUHFZWmJ3M2NwOEhZVVVWa0M4UjdSbnhRZ9IB3wFBVV95cUxONVRyWHJVVHpSbFNxM0c3RURkWEtTa1BVUnJqZi1XanBkYWNlRnlPcXZ0elZ2OTREaExkSWFoSFVoWWxiT0VNaEYxbmMxQVIyMl9wR0dhNUZDXy00NzBwZG9MaXQ4SmNneE1TcXZjSUQtMVZsdXpWMm1PcTRlNE5ZeW93bDJNc2w1ZVJzQm9uZDVZc2pkSXczQU9EN3E4dzFPcElSQXJVSEdZRkcwZXRlZzBNdkNrU3V6Z01JWWxiR01RZEV6TnlDZmlVaTJzUDZJTEZNS280bm9CWlY1aXA4?oc=5",
-"source": "businesstoday.in",
-"published": "2026-09-30T12:04:31+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d63d2e957dbec326",
-"title": "Markets give up recovery as FII selling persists; Sun Pharma leads losses",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFF4Z0NOUHdCeV9ZdHpRSFNwU3lIbllQOVZfQ0M5YjhlLVZTUXBpTU9VandvQzNWOWVSNkY0aDlITUNGSTJ6eUVZcTJvTk1TWE9qdXhNZi1aV1JKT3lIUmVDaHhNQzhLaDQ1UExQZVVNSHFHVmpQT1FId19kVkVTanhUOGt5a3l5VVFBVWp0QW9ka19JT1pvbXBsRTBQNEJvbld2MmhlWlRqSVBUTDJaQUw0a2bSAbQBQVVfeXFMTnRReGdDTlB3QnlfWXR6UUhTcFN5SG5ZUDlWX0NDOWI4ZS1WU1FwaU1PVWp3b0MzVjllUjZGNGg5SE1DRkkyenlFWXEyb05NU1hPanV4TWYtWldSSk95SFJlQ2h4TUM4S2g0NVBMUGVVTUhxR1ZqUE9RSHdfZFZFU2p4VDhreWt5eVVRQVVqdEFvZGtfSU9ab21wbEUwUDRCb25XdjJoZVpUaklQVEwyWkFMNGtm?oc=5",
-"source": "newsdrum.in",
-"published": "2026-09-30T12:02:19+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"SUNPHARMA"
-],
-"groups": [
-"Pharma"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3c9258c6eed41113",
-"title": "Kaplan Fox Reminds Investors of HDFC Bank Limited (NYSE: HDB) to a Securities Class Action Deadline - Contact the Firm Before October 13, 2026",
-"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQlVMTy1RcTRZdnRpWENKbFNOajQtczAwTVo3YWJTUElDSWdyYTJxVVFjN1JKblhXTFlOLUNIaXc0NWFLTWVLelpKNTJLR1AyU0xyUGtua3RkeUpjc3Y2eUJKOVE0Yi1XMEJhc0lvdm4xRkhXblNSWExCOEhQUTU1Q2FJbXVJb05IbDdXYllFM25zbFpBczZwZEVTUjRPc21YelpIdkE5UTA3XzNFMWM5b2pMMmwyaldfYk03cWRLUkJvVHdFbmFTR0EtSW9ONlpCMVpQSjctbXJ4QzBtelJDNjdmMC1pVkJsM2hlSUFEVXFBek1QZFFobTBuTmFtTWh5U3NNZmlIV0tPaHNEREl1UHBB?oc=5",
-"source": "Barchart.com",
-"published": "2026-09-30T12:00:00+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "085e81763214cdce",
-"title": "Top 2 stocks to buy or sell for short-term: Cyient, Max Healthcare by Nagaraj Shetti - Check stop loss, targets",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeFJaLVdkZ0cwbEhQUi1BWXowWUNneEV5SGcyWjdGNnFOb28xV3NfUFRBSlZLY2pQaVNXMnJvQkZyaEptd2V4YUhWVjJCQ2hDWS12WFlQa01YWEJaRTV0cmpjRk5XT0liUTE1UmxoRVN3UFB2YjVRRm5tc0JGTUd4blZfZF9YTTY5ZklpWDkxYllrQlZnNEJ5M1U5Qm5CQUdlUk56WmZTNzZ0UWw0Vm9ObHJGTjhRM2poa29pMmZoaUdiUVk1TDVHa0RKZDctb2h2LVlUOF9KS3dsUW9kRTVwNUR4YmdNYW9lc0pjVnBmdDVZd2VIbU5PbkFBZWU3VDRYSWJVVlcyc9IBjAJBVV95cUxPTGJLZ3k3cHlIX1hheEVuOWNjZjdxazBSZFdjOGxuNC12MXdNTWZ6MjRrZ0k2MHNXcDl6cnJVRC14S3Fnc2ZVZ1Nhcnp0bnBxcmcwdGNLTTNpNU02ekoydGhfdk5kdEVjNnUyQkEzRjN4djU0VXRQY3hTYk1ZeC1aRFdKemJNN1pJQ3NQd2JJUHFQaGNmcUxHR3NCWXU0N0lHc2NaenBYUEJXOFZrblBEbkotUEpmeDlucHhCRHphc1FDN094cnh3Ti1CbEZjTzc1VThMWjd6aXB0VXNtYUlhcGlXUW5nMUxMbHAtbWl2dm9CSkZ1S0llVjdnZUt1T3VPZ1NYVE40TnZ0UWdK?oc=5",
-"source": "Livemint",
-"published": "2026-09-30T11:56:38+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "b156c6beb696c6e9",
-"title": "India's Tech Mahindra to consider issuing bonus shares",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmRYRzFCSVpYdlgyTU1vUnFTbFQ1Sjl4ZThSU3ZCTUs4M2w1RVAyRl9DQXBTVVVXM04xWHBZMjQ0Yzhzb2l2azRBRk0wYTRRajNGSmRTQllMZDNoZ3VRX2plR2NOVnZlVzNVWk9tNUowWGFBQnVyVk16N0EzWTZYQm9OM2U2c3RzWFNISlZuOGw0OUNtSlQtVEg2SHFwMm5XZjE3ZEVNZ0JxVEZVU19RMjZNdlNoNXA5Y2lnaW15MnFPdw?oc=5",
-"source": "TradingView",
-"published": "2026-09-30T11:56:31+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "375a9a8718b94e73",
-"title": "Market wrap: Kotak Mahindra Bank, InterGlobe, Apollo Hospital, Max Healthcare top gainers and losers on Nifty and Sensex on Wednesday",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-mahindra-bank-interglobe-apollo-hospital-max-healthcare-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134593289.cms",
-"source": "Economic Times",
-"published": "2026-09-30T11:55:25+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"INDIGO",
-"KOTAKBANK",
-"MAXHEALTH"
-],
-"groups": [
-"Banks",
-"Consumer",
-"Healthcare"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "c21b4e109157e6ee",
-"title": "Market wrap: Kotak Mahindra Bank, InterGlobe, Apollo Hospital, Max Healthcare top gainers and losers on Ni",
-"link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNTlhISWNENjJtbnlaWUtBTHJRZGZXUzEtWXEtM0VMV1pvbEVYSUxiMVFLU3c3UWpTcHBTdDJ1Y09NOWZYSUcxeTdlenZrcnBDS0JwdmFWTmkxU0JfYXNQdkRVS1BJYnVoUEgtaGhRQXA5RHZVcjU0VXNuZzRQX2hiN2o1Y1VnUVhVWUFWOXZpcUV1OEFmT2RQSGpoZU1SaEhkb0pKV2h5Z19mVzN2QlpXT0xBVkxWNkg3d2hCejNHajNoaVNKVmZCYzlYOU5SQVZfQ0I3XzJyOWE5ODhYaGFhUnBKNnhlbFlaRHAtQnZWQlJ2RHFndzBQLXJlQ19BbFZTeVJDY2VKeTZSeTZtVUpVakxBUUM5akZ0UkdheVpuYXBHS2FhQnJER1haM3JZdW5v0gGwAkFVX3lxTE1OWEhJY0Q2Mm1ueVpZS0FMclFkZldTMS1ZcS0zRUxXWm9sRVhJTGIxUUtTdzdRalNwcFN0MnVjT005ZlhJRzF5N2V6dmtycENLQnB2YVZOaTFTQl9hc1B2RFVLUElidWhQSC1oaFFBcDlEdlVyNTRVc25nNFBfaGI3ajVjVWdRWFVZQVY5dmlxRXU4QWZPZFBIamhlTVJoSGRvSkpXaHlnX2ZXM3ZCWldPTEFWTFY2SDd3aEJ6M0dqM2hpU0pWZkJjOVg5TlJBVl9DQjdfMnI5YTk4OFhoYWFScEo2eGVsWVpEcC1CdlZCUnZEcWd3MFAtcmVDX0FsVlN5UkNjZUp5NlJ5Nm1VSlVqTEFRQzlqRnRSR2F5Wm5hcEdLYWFCckRHWFozcll1bm8?oc=5",
-"source": "The Economic Times",
-"published": "2026-09-30T11:55:00+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"INDIGO",
-"KOTAKBANK",
-"MAXHEALTH"
-],
-"groups": [
-"Banks",
-"Consumer",
-"Healthcare"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
