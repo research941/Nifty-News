@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T06:51:53+00:00",
+"updated": "2026-10-06T07:05:23+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,86 @@
 ],
 "items": [
 {
+"id": "f998e8e17fdf74c5",
+"title": "ICICI Bank Allots 2.03 Lakh Equity Shares under ESOP Scheme",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHhaNGpZUUVWbldsVE14TEYyWXZoRFlFYzdvdi1nVWtucldKN3RKRXhCWFdWQjRSbFNWZV9FSXV5R05BVFJUdk1ielo0UW9hOU50dU9yWThDUU0tMGo4U2dEQnpqSmRSVm9KWVdOLWRlM1BxZ2llMDRSMjd1bDJxdjh5YThmWHdtYXMyR2VDRGVSZ056TGJrS1Fnaw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T07:00:00+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "57bdf86502257a7a",
+"title": "Adani Power and Druk Green Power seal pact for 770 MW hydropower project in Bhutan",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0dJbU51MzVvZlNrV2FFM3BwV1VQY3dYY1RyMmhLT00yS2gzZFpZSWlTSWpEVnppeFphdXJrcTY1a0w5UjhmZU1SeFROZ2Zodk16eEprOUkwWG1wZnVNNVNqWV9VNlFVekRjUUFRSXlweGhmUmVDaDlMNmFWNHlJcXFFWW5MRzFySFNuZjc3U09LbV9aaUpubUhRc0RJZ29qVW56SVVoQ0dYNXYyMWxMalJwaTljdzg?oc=5",
+"source": "streamlinefeed.co.ke",
+"published": "2026-10-06T06:53:02+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f7f87d828a17de55",
+"title": "Coal India Leadership Joins Employees for Lunch at Newly Renovated Canteen",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDFsdFFXVmtmRUdPbmJVRXY1YU80M0pRM2R3YzBjc3lhU09GWHFCRzdCendFN0tFa1BVY0J3QmVEOTNXZExsRGFaSW9rVFVXbnFOMzc3dDJTeXdIbE55Y0RseWNTZ1ROTk9la1pwamVkM1hELTI5ZDNkZzBDUkhVTTFQOUoyUkVzLXNZ?oc=5",
+"source": "Indian PSU",
+"published": "2026-10-06T06:50:41+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d34dc74ba14db1f8",
+"title": "Domestic steel demand to rise; in talks with the Netherlands government over steel production: Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQLTYwVjdnVmc1T2ZGVWxEeTRKekRmQXc0LUpDZVhjNTRQVTlFemhPT0pyM0hBa2pZZHRNSHZFRDQ1SjhkRDM2aGVtbnpwYjhmLXBCQnNVTDdCREdyUDBTUlBzYUFDUV9PZ3dWNzM4bklRR2VUVTNRWU5iWk1ONmJYZWEzOG82Y2RMMHdTOU1IT3o1Nkp3NXZNdnlOeHRjLVJfOHVZcjV0YXU0MHEyU2dwTEc3SGZubWVuVkotZjVnazEyX3hiRXdfOWQtNUZQUUw0ZDJNM2RHNkhsYzh1OUZfeXJuX1gwQW1MRmlMN1hOMUwtZmNiVUhhQWlkSzRwcEFmcVdGblJKZWJ3MElqWVo4eUxiTDhsLUQxT1VEOGFzTlA3VlJWMlhF0gGgAkFVX3lxTE1YYnp2Y1pWMC0yWVNXRGZ6UGFTQ1RmZ2lMeC1RUl9WcWRnZ3RNZ1BuWk9PaDQ4bTk5VS1DTVRPQkJ2NlVXeFlEcHlTT2NuNEdWcTZGeV9XZGFhT1RqREVoNzhma0xKWFhlR3lqbTlVem9pWE1hREViWXVJRF9yQUJvT1J6LVhZaG9xLUdBbFpIV2F3SjU5UGZLbDE4VTVLTWxJWU00WVE4UUQzX0p3RG01Z0dQNW1ZSENpUmpqQlQzX0lKeU52Xy1BUXB1UE10SGgzZ0xzblhMNzBxS0x6WXAzc09KSWJjWjA1U3Jlc2Q2Ymg1UDVrSzc5eW9keGIxYWU0R0lDM1Fzc1VJWG1XZFJnZ2dCUzdaUk05TTVERGYyNQ?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-06T06:46:59+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "f34eea594545ff14",
+"title": "Asian Paints champions worry-free celebrations with beautiful homes painting services",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1NKWWRrWmRibzg0YldXQlNQRERqcTFPRmRURGlUZEVRSXJhZjRJRUVibzUtUHFrN3FEN2ZWOF9STy0tQmtJWk9xSU9UZ3lHTktZaHZFTWFOdkw2V0NOajN1TmhJb1FhQWhtYmxLUDZRUkxJSXZzOTVDczBJT3p5OGplUndmVFZndExCOWhDbTM0Smh2NEtZaThqd3M3UWJJLTg0Sl82eUxqN1RSUkJlQnN2UHdIRThFUHB2dg?oc=5",
+"source": "Adgully.com",
+"published": "2026-10-06T06:45:00+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"ASIANPAINT"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "32016ec1796afb76",
 "title": "₹32 Lakh Stolen From Axis Bank ATM in Satamrai",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFo0N3NzLXVNX3FYNHE5MmRqM04wQWFadGxtSkJsanhqT3NaT3lZM3lJRW9iRE9UNWtkVVhxQXpWZFNXRG96eEdtcDVlV1dFdUE4aEdJc1pqUTIyc3A0ZDYtRFRaQ3VZS3pKSDhsRHJwWXdZU2doRlBDM2lOZjJkYXF3?oc=5",
@@ -458,6 +538,28 @@
 "Banks"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4b01f4268b0fc24c",
+"title": "IT Sector Q2 Results Preview: TCS, HCL, Infosys, Wipro To See Muted Quarter; Check Dates, Dividends, Bonus",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVWw2NEE0aDVWZ0dNV2VMZDQzcDlKZ29WUXZWQmEtNXJCaU5sSHZxRHQzZnBfQXlWeldRZl90SXBMaUF1MGo2VlpJNjVTcXpkU1djRUN6bTBkTlFGSGJ4SU5USEZCVi1zU2lZeFFLcXpYSVhtM0RjX01ZM0FFSWZlUGI1WXJPcmRlNEZERkJZWnJkUFkxRmZValNTTWZLdXBlNlJaQkNLWDktejVITkhPOTVjRzV6WkNNX3dIM2tPdTEyTGJocllZSlRDRDF0V2JrRmN0MmlxSFJJWTg?oc=5",
+"source": "Goodreturns",
+"published": "2026-10-06T06:36:03+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"WIPRO"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -543,6 +645,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "d9c40cbdcd6ddae6",
+"title": "Emkay Global Financial Services Reaffirms Their Buy Rating on HDFC Bank Limited (HDFCBANK)",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM2lJcW1sa3hvLXdRTnlBMGZkY3JHdDl2dmdvVVBXOEpkeFBmUWJRT18wcnU0bDlCVzlIXzRDajdPZVhkNERFZ3VfOVk4a1diV1Ytdy1LaTJicnFva3FKUFNnN3A3SUljQTdCYk50QUtQSU4wTC15RkZ5ZVNjaklDVWY3LWhXU29DdDF4dnRpNFZsdnE3MHNjdHlCSm9ybTVadFpaZWpVUGxRNTlVLUlnaE9hdG1Da25wRjRsWUZOMzlrc2VpZ1dNdXgyS29IQUVGRWZoczFxV3QtVGFPVXAwSVIwOFp6aFR6LTR6eGpVdllxSlgyQWRDYVpabkpGM0dyT3c?oc=5",
+"source": "The Globe and Mail",
+"published": "2026-10-06T06:16:47+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "neutral"
+},
+{
 "id": "f0ff2424d9064393",
 "title": "Reliance Industries weightage increased in Jefferies model portfolio; Check the two new inclusions - CNBC TV18",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXBPVk03Zjg3cHlLN2oyTlRQRkdlcnpxaGpxVFdsd05Ta3lEREtEQWNtZU9kd3p3TUVTZllXMUkyRkFZRlRPdDYwcmE5clNEc3F0NjhIb1RFbEszQTJtMkZxWmhtZnhXeFVZcUR2YnM2ODF0UkctcUNyUFZPLVZONDMzS2d4VlMtUWdsWjJvaTg0cU5KZmVjQ3E2eHhBTnNUN1pRWXRGdlNkUDU5QUswaHNQN0pxSDNI?oc=5",
@@ -556,6 +676,24 @@
 "Reliance"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dcfaabfecbf4ac6f",
+"title": "Steel demand to grow 8-10% in H2: Tata Steel CEO TV Narendran",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjUzV3N6MlB5VEFmMEowN1JDNFBVb29VVHk4N0lkU2xSTUY0a3IySXdZS3dzZUtMM0NHa2JJaUhHRE9JVWZFRDRlYW5tVFdiUUJQNHBfYTlkYnUwRWFvYWZWZl9PSEpVdDFJdl9SRzl1U3RJQXpiSG8xT1NGVV9iLWFzVXBhT3dIZkhuYzFxNjZhSXk4MUl2aWxVc0xsWV9lY3JOVXZ3YS0xV0M2WlNlcE5hNmN4eDDSAbwBQVVfeXFMTnB4RmlURFdXVW9LSGVlWFZFNVJvZTNEN1RUc2FSRnRUT1JZUFkwU080cGIyY3BHVFVXZUh3WkFqdVB1VmJVRU9RWmxtd1dHNHdvbUdwZllreTNEWUlGSjl3OXl4VnhaTkVFdjhVdXBKZmhIblgyRlJ2VUs3ZHdfZm4zX2hydnptMFVrUGU5U1NhVm1YZ09uS3ZvY1RudkNuTWhhdTllRC1BcVZHclB0YTJ2TFp4TThjYTMzUkI?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-06T06:12:12+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -1343,6 +1481,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "faa2fb4c43606453",
+"title": "NBFC Q2 earnings ahead: Bajaj Finance, Shriram emerge top brokerage picks; strong loan growth, margin risks in focus - Check targets",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNi1feUpoMDRDSTVyU3laVnhzNmp1S0V6UXRLUDQ3MV9IckkzOXozZzJucEdJX0QyWkxmd0llVDk3X2dEU3JLLWhQR1hNbHRQa1R6SThIOUE4Nk9hem1PQWh3LS1RcjRUN1RBMk1GakVTZjNKcWRHQk5xUDl1YUJsX3l2bGZXZlhXMk04YmdfYU1fdWc2WEdvS1VUN0puTnhrVVJZaEtoWDZYU3BVbkNydDZXNlpMWEVVNUdjdnN5ZGdCT1BCTnh1WXdHaXg1NGx2bFRwSGlJSFFpdEVLWDVXRGlFRDVtSjE1WjIxTVFwUF9VRGZScVVaTUh2QXhwMDNHdmJlNkVGSHZXUdIBjwJBVV95cUxNMDlHWExLNmJIUGExcEs2S1g4c21RODdzQ0Fkc2lBeWQ2ZDNxZE1wMzd0MU5LMTZPeXIwZlJFcm56ZmpqR2dscGY5cnBOX3Nna3U3eG1kNlRKM0JqcmNlTFNGNUF4dTFuaU1ZcE5tRU9sYTJNTnNpWW1rR3FMT3pEM3pGN24yRmNhMGltVjEzWmRfOWN2ZHQtM1BaaHB6b0RhTHhRQWFlNTM3dURlNkliTF9IVWtWT2tmbzBFOGs1ckVrblpJU0ppTHJxNXdacTVNbTctZjZkWVZEaGZiM2F2aVhncWNhUUhWTklZN1NrUG80eU9aVVVTRXBaYjB3SXRUVlB2Nmo4OFE3amFKU3RV?oc=5",
+"source": "ET Now",
+"published": "2026-10-06T05:05:05+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"BAJFINANCE"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results",
+"Rating"
+],
+"sentiment": "positive"
+},
+{
 "id": "d9dfda58ce6fe445",
 "title": "Trent shares jump 11% after multi-quarter high revenue growth in Q2, but Citi says 'sell'",
 "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUGQzTFF6TWp4d0JyV3gzckV2U3NXdkNBcHlja2JQVXBwWnJUQkdEREh5VFU3ZmpkVFNqV1pTWXJRakt1TVJncWcwV2NZMXh3aWNYR3A2c2JYcThmWmluS2kzTHgzN2tmMWh6amVjeFNVblhJNmtZTTZ3dEY1NzNreFdvOUtPYXRyVjQ3T0kzb1JYNUZjeGxrTGRyR043WTJaWXVBdTdLazdaSmY4aXZVaVVFQ29kX1RwQVRKNEtRZTBDQVRBSDJOcW9paUZmcnNVdDJQWWo2T2I0TjBJRTQ5NGRVRlPSAeoBQVVfeXFMTmhEMFNlRFRmRk9sZ0tDV3RPNHFXTGd1cXE5WWF5ZF84LTFiWVpjVFRjTkZzT3ZGbGVzSE5hd2YtXzR3R1hsaWdpVEIyVVNScHZDX0R3Q2UxMG1fMnA0YW02NzNjajBfaU9MOFh1aVVWbnhfN0lLWWlxWTBtMHp5ZXpHemVSRzE1eVNwUU9yWEMyVDFfYklZX3FwRzI1Y25jMzlDRGVzT05UTVl2VFR3bnRrUkJOaEVDbU5OMTRhNklCdDRRaXJYUkNISGk0ZnI1dm1odUItbm1LZ1VHZlpkbTk2aWRzWGtfQTRn?oc=5",
@@ -2016,6 +2173,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "c37550d1aa3a3f06",
+"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services News",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-06-oct-2026/liveblog/134722557.cms",
+"source": "ET Markets",
+"published": "2026-10-06T04:07:05+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "ddefebce0ae626cf",
@@ -2851,6 +3024,23 @@
 "source": "Economic Times",
 "published": "2026-10-06T03:00:05+00:00",
 "first_seen": "2026-10-06T05:04:17+00:00",
+"symbols": [
+"SBILIFE",
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "5f93c0c96d43fc80",
+"title": "SBI Life Share Price Live Updates: SBI Life Surpasses Key Resistance Level",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-updates-06-oct-2026/liveblog/134721674.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:00:05+00:00",
+"first_seen": "2026-10-06T07:05:23+00:00",
 "symbols": [
 "SBILIFE",
 "SBIN"
@@ -51308,182 +51498,6 @@
 ],
 "groups": [
 "Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4788e07f2d66e71b",
-"title": "Second Hand 2018 Maruti Suzuki Wagon R 1.0 VXI AMT for sale at Rs. 3,50,000 in Howrah.",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDhNWmt5N1lUU2p3WTREdHo1bWZmQWpQVUlheURxV1NsTWI4elBhdmdYaTJQVV9HamQ0UmhJRXFiRjc5M0s2TTBrMTNTVTRyb3ZQdlRnMU1pYU94bHlGX3R6ODJxT0M1T0hoZElFY2p6RTNtbDZ0T2VveTRWQVRLckI0T1ZtekE?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T22:24:30+00:00",
-"first_seen": "2026-10-01T15:00:17+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0d8435b80bdc8cb3",
-"title": "Second Hand 2022 Maruti Suzuki Ciaz Alpha 1.5 Hybrid for sale at Rs. 7,60,000 in Lucknow.",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVpKOTJ5c21XMjhlNkFqSzZtTDZDZHdpN21UZy16QU04N2xoMWxYQnBhQzZjQXdkRkxxbkhYSnlHMEhaSE1icGJBam4ydE1nUC0tdWx4QnQzd3ViRkk1aHBXTjJMOXpGcUw4dHJfeDN6OGlUalI4NG1YSW12TGVQTGFwQjE?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T22:19:28+00:00",
-"first_seen": "2026-10-01T14:01:59+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "d20b751219fe25a9",
-"title": "Second Hand 2013 Maruti Suzuki Wagon R 1.0 VXI for sale at Rs. 1,51,000 in Kolkata.",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1I1R01tRGh5a3o3RTJ1RW1jMXBNcW9uMENZbXJtVWpqc05CTkd2b3pvRkRpcjNxQmp3VURJclRJUXVpb3BTenhTdzFDVkQyVV8wWkw2VzlKOWFOTUhFV09kVVFFZDVaZ3puempuUll1S09WVkliX0dsNmc5Vlp1U2FtSEN6VVBz?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T21:54:23+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "932f82a108301874",
-"title": "Insurance Stocks Crash: PB Fintech, Max Financial, HDFC Life Tumble After IRDAI Proposes Commission Caps",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZm9JQzBHcVpsMmI2S2t3NFpaZU5FbEdLSDkxYmljdnF6QVNOX0hjUVdPTlJHazlPMzd3cDRNaW9nV0NNMjFBQ19SUFNncS1Hc2hQMm9VZ2JzbndKa2V4Uzh1VnN2Yk5iN1ZaemRzR0RDWmxyeGU4bGRQbXhEaXd2VmhPRVdGYmMtOFloWVQ5Q01HR1Qtd2F1cHZzOFhtaXVCQ3lIMFVqdUdTNnpaTWRfUDBSTHBaWXFHYnJUMTgybnJXOGxiZEQtMV9UbzR6SnJjV1BsYjBZVmY?oc=5",
-"source": "Goodreturns",
-"published": "2026-09-30T21:42:16+00:00",
-"first_seen": "2026-10-01T05:06:01+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "6d97f387119777f1",
-"title": "Entergy receives $13.7M in federal funds for power grid upgrades",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlhNbHRJYnVZeHBsenM5WExSLWNlcW10Z2YwUjdxeUVKNXlHRjYxQ0dnOU9ZNmRTUnlNRmNyX0ZoSWNIQmd5WkdBbF81eEFVQVc0SS1YeV9KdjFFYmVBNU51ZjNLWUNnOXdHa18yMEd2eVpXVm12aW8xaG1iRTdXRkxLekdOZC1zR3RObVdzbjkyV3Jvd1N4MEFOVm05Zw?oc=5",
-"source": "The Arkansas Democrat-Gazette",
-"published": "2026-09-30T21:36:00+00:00",
-"first_seen": "2026-09-30T21:49:40+00:00",
-"symbols": [
-"POWERGRID"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "1b96ef834fb7af4e",
-"title": "Infosys Ltd. ADR rises Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1BWckhKcEJXUTFBbjI5eDRYX0NvSmk2UjdKS1FkUWVHRVNWUUpuMUlROGt4VnlzLXdMTlcwejloZG9XTUlldWJmenFER0JzdFNMLWc3SDEtQ0Q5YXZMMVdRZmRGUWRiUTVzUGZrM2dPMWwyX0hLVnJKREE0QjNVbTVtWjZYMUlBTTVudFFsVDNJaVRVMWxzY2U1VkFWZXhad1VySVZ6a21xTTVDTG9YcTFfdmZRVGFzSGR1OUJIU0pkNFoxUnlz?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T21:26:00+00:00",
-"first_seen": "2026-10-01T00:28:46+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "8c1f1a1c13321f28",
-"title": "Hdfc Bank Limited Announces Management Changes",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlFHeDV0RXFOWmZrdWVNSllKMlZaREtZN2E2VHF4TGF5WkZHd09MMnpkc1NNYWowYjREc1R5ZXlPT2JQUXA1RktNcnI2NVkwM2swazJCX05hNUVZdU9WUXRnZGlxR0R5VFpoVVBGU3B0NEhBSnJmdXJMTi1MWTV6SWo0cndzNXROMXhsd3RWcXVobWpmeEhRa2puc0FIclNO?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-30T21:20:36+00:00",
-"first_seen": "2026-09-30T21:34:58+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "831c0a2a38e46fdf",
-"title": "HCLTech completes FY27 campus drive, will likely hire 11,000 freshers; salaries from Rs 18 lakh",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTU4NVZaMV9ZMmtLQnFVaVpGdjZrc2dHMFdxMHZERWlhaU5KU205R2U3TUE3c2hhRXNrSEhsazJyMDV6bnItMXAwaGZqbTR3M2ZsNkEyU0tsOHJtaDNFaHU4ZENZQ0ZIVEUyNmRMRmx3RzRWcDVrTDcxVzMzbjhJVHY5cTdsN3ZHNkZyNEIybHFCaUVZN3dDT3d0clhGcG9ia1JlVXppdi1OeHVycnBDbUlFOXJmcDBQa2hibkpoaGlZMmdQTDIxMUI0Q0c5bnZjTVZEWHU3RkxKTUdxdGR0czlR?oc=5",
-"source": "Deccan Herald",
-"published": "2026-09-30T21:03:01+00:00",
-"first_seen": "2026-09-30T21:18:45+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c20ffa49ac2e60ac",
-"title": "Second Hand 2015 Maruti Suzuki Swift VXi for sale at Rs. 3,28,829 in Jaipur.",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDJfRi02el9kZVlMWEh2Vk00TEh2ZlNsNUtPeGVYOTlVdWQxdTNkaG9fSVd0aXBFVXFNVF9aaHQzbUJaX0JhVkp3WVFrWW5XVG9ZcldwWUNuaUJZMTIwb1JWTlc5WHpocWdYVFNOUzF2MThQcTU2TEFYRDF2MHFWZXZVRUo?oc=5",
-"source": "cartrade.com",
-"published": "2026-09-30T20:51:34+00:00",
-"first_seen": "2026-10-01T15:21:39+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f28137cca35f685f",
-"title": "Second Hand 2018 Maruti Suzuki Baleno Zeta 1.2 for sale at Rs. 4,15,949 in Ahmedabad.",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdzg0ei1LeU9lNFN6SDQtX0oyWFZhaUJQdDlDcUJIRzY5ZTA4N0NMVldsV19HN0J0UlBheXktdkxkNDNUNVFyaWNiRFJkTUNMNzNGZTl4SjViWUllNXpRcXdSaFZIZFVoYk1WbUk0NUJHLUprM0tVUFhTc21NdHluQ0NPOA?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T20:49:31+00:00",
-"first_seen": "2026-10-01T16:35:11+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fa5a2ecd0ab22d12",
-"title": "NTPC Share Price Analysis: Sector, Peer and Fundamentals",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXNOeWt6WVFVazlaMFhnQ3pqWVhIbmx6cjFHaU9zOTMxTm9nSXk0UzUzc1JMaEh5MGotTE5DMnVtUUUwWkx2T0dBekVlQkJuQy1vOTBLRENQSTg0ZENPMlRVS24yd0JycTkzRHJ0SDhFejUta2MzbTNNWlE2ZkNGNzJiRQ?oc=5",
-"source": "Univest",
-"published": "2026-09-30T20:36:08+00:00",
-"first_seen": "2026-09-30T22:19:43+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
