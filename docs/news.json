@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T10:56:46+00:00",
+"updated": "2026-10-06T11:11:09+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "9428d9aeb14c8f35",
+"title": "NTPC REL Invites Bids For 2,000 MW/12,000 MWh Pumped Hydro Storage Across India",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWNmQVpxOHdQajJ5OEhfVlgxSTZsNF8wOGxoNElxc0dHODljTzUtU1RJWGo0TkJPRUg3ajlnYlYwdjVkN2NCbDY1QUFkLTdLQ1hMbnBEbUFrZUFIVXJCcVE4N2ljS1V3TzdXT2ZIUC03WjJXNnRYb1lZSjgzendDTWNINjZaZlhDOWo4V05EZGdEeC12bnUzdlFkRjdCMDMzMU9FeUgyN2ctX09rQUhQRDdkZTM?oc=5",
+"source": "SolarQuarter",
+"published": "2026-10-06T11:05:16+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b7bb6aa7b5c3dff5",
+"title": "Tata Motors sells 1.97 lakh passenger vehicles in Q2 FY2",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEQ2YVAtbjBESGd1dEozS1F3c0pfX1VOSmwxU21RTFJDV3ZRTnVLeHBFa0Y1YWp0VmJXaFBwbk40b0daUTJWbWpON3JMZ3ppOE00bzlYSENUX2JsdGlrSmZfMXNJdWM1Q2FqNHVZM296TFNXWi1tSXk1V2tBRjJuUlF5bHFOYk5lSjNuS2VpT3BCOXFXZjVDd1gxQmdWVE83YnFjbEZpNGhvS0U4Y2ZsWFVGTmllbC0wazNsaG9DVnJReEFEVkpwWjFGY2ZodUXSAc8BQVVfeXFMT3RENmFQLW4wREhndXRKM0tRd3NKX19VTkpsMVNtUUxSQ1d2UU51S3hwRWtGNWFqdFZiV2hQcG5ONG9HWlEyVm1qTjdyTGd6aThNNG85WEhDVF9ibHRpa0pmXzFzSXVjNUNhajR1WTNvekxTV1otbUl5NVdrQUYyblJReWxxTmJOZUozbktlaU9wQjlxV2Y1Q3dYMUJnVlRPN2JxY2xGaTRob0tFOGNmbFhVRk5pZWwtMGszbGhvQ1ZyUXhBRFZKcFoxRmNmaHVF?oc=5",
+"source": "StoryBoard 18",
+"published": "2026-10-06T10:56:22+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "3a0d73ad2538ba4e",
 "title": "Aarti Yadav moves on from Tata Consumer Products",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2RXeGh5RkMzNDBxekdUTTdhYnBLU084YXpIbm9oNUN6VjRCZHRBVzg2cEhCVnVjbF9zY0d0NGZEcWtOMEZncXdaTUdhZGVKNzR4dVZjeXlpaVdBWHRtYzQ0dnhJMUFJTExwdGR1QkhuQm0wNmtpdnR5VWxDcmxXbDhVRkcxZ0tIbkpUWGZFUm5TMlljWEdzMEdtbw?oc=5",
@@ -492,6 +526,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "35d981ac0eb7a2c4",
+"title": "ICICI Bank Festive Bonanza 2026: Check discounts on iPhones, electronics, flights and fashion",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUJGczNTMndUV1lyb3dKejN2c1dJU3dLM0pQOFR6RzFSdkNRUVlFZnhvR2hVLTB3TW9ZSFVidDRQdVBpXzZMckVWV2tFbHlrWHBHZmNZOWVyYWFqWkVXMDA1TllpdzlZVEhsZ1k2MzhxeG12S0JvdGUtYnBKakhNenBXeHk2eE91Rmg3MHJyT0ZqLVlETzlldTYyR1d2MHlOaUo0SnVNWUVya3VLVWxZcWZac2h0Ti1mZExTUU1RbGk5RWdMbkEtYXRieEl0SmlNRlZUbm9VRWxUVE9BX1VYeTJJY9IB6AFBVV95cUxQa1hxVGhWSzlRWUF1LTd1WGtSX1NZZVhueDVNUDZaVFZlZm11Y25oR21MdTVMRDhMMGZweUs0ZTA4YW1YVzc1YWpsQ3BjZWpWUHY3MklJVURfVzJYVm0xNmp0TmhYNzRUTlhqX0NkcFQ4QUxSRWZTWl9aRFA4RnA1SV9HeVF2NDNMZEdxWUJyTkFoVHV0ZmdRLTFJQUJRbTE5QkU4Q01QVVR3N2hsS3dXY3lsdEF2Vi1JMFRRMGtxaTQ4S2ZmMXNGV2YzVWhXNk5CV0Fmd0M1UWZLX2k0VmdRdEtDRUNXN0gx?oc=5",
+"source": "Business Today",
+"published": "2026-10-06T10:46:51+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1066,6 +1116,24 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6503d960c02d2e5f",
+"title": "Jio Financial, Allianz Invest Rs. 3.2 bn Each in Insurance JV",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTk1MTBUTTVKcE5nUmxpanBleGhfQkdRMDFnbDhXa1BVRF9sZGkwems3QU1hVGswSHNCSHBVR2pURWNTN2F1eTdMa2FQMTJYQTFQWkhKZDllMXNLN3dKdUFjczRSUlh1bnpwdE16bUlEVmZ3Tks1VDJXZmFCU1d2a2tzc280eF9yc21IcDVWYmZNQzZYbVRTY1g2aUNocDd2S2RCTU55R3lCeWNGeGZqQUZlSG5kNVNOYXl4bnBPdm5sUlRucHllLWJPay0?oc=5",
+"source": "Construction World",
+"published": "2026-10-06T09:21:29+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"JIOFIN"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Order/Deal"
 ],
 "sentiment": "neutral"
 },
@@ -1945,6 +2013,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "979fa656695d50af",
+"title": "Tata Motors Reports Sharp Rise in Q2 Commercial Vehicle Production and Exports",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeG0yRFJOX0pRM0dUOC1taVY0a2hybC1GdGd4d2NPUl9fVEVzLXpLYmRHRFZnQzNhaXFSSG1tOWdvdVk4SkVKejJaNmpBUkxoRzlkUGpaTjZIaGFmS25mX3ZvbWswUFViTVI0T2lDTUJxbnZ3ZlpiS0ZkazJjbEZyY0hXOGlJZ0tJWWFLaFJBX2xfQVFmU3haYmxUT2dXcHRlUGFnSFU5ZEdveG9BQ2Uwa25iZzdDekVQaFJ1cWFlMlFjaVBmNDRmOXdpYmsxTFNBOVZHS2c4dHFQUXU3RTZtcTA5d1JyckpaVWU4aHdJMA?oc=5",
+"source": "Whalesbook",
+"published": "2026-10-06T07:53:26+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "866040e383b38abf",
 "title": "RBI Rate Hike Stocks: Why HDFC Bank, TCS, Coal India May Gain",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkowVC1va2lkQkY5ckkwd1BqbV9vYXN2c0VGUXRsY1YyWHhaOU1VQndLLWU1VEZ2cmhZWVZ0aXpObFJnUTN4VFlfUUl1VHhQLUxabHgyWjB3T0hTRXh5NkJGNFZpNFBpeWFFWjdDSWVsMDhKYl9nbzVGT2dtaXpHNTdNT3dhc21QTWp0YmpIUXFabVBEUmRfSnFpRVpFSmxVa3FF?oc=5",
@@ -2236,6 +2322,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8e7965091f4f5b80",
+"title": "HDFC Bank Limited (HDB) Stock Price, News, Quote & History",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OR1M3THRtTERvWDhiSGhfemR6Q0xDSUQwMVFpZlNFMWh6LU1FV1RnZGlONW82UTFHVkw3bGtfVkZDRWMtSHVtYzB3QmdXSzJI?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-10-06T07:14:11+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -4074,6 +4176,22 @@
 "sentiment": "positive"
 },
 {
+"id": "64876059d2ef2f0d",
+"title": "L&T Secures Multiple Power Transmission EPC Orders in India, Saudi Arabia and UAE",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3dwODFkbXZnUFFMR21LcTQ0anI1c3JLZ0cxQVBWT2xwNl9yenB3V2N3bVE2YXZGWHdfazVwTkQ4QnZxWjloblJoZnhBcmE4QzdrNXd5ZVpEQWFIdXRSdlpjY0daV2k2SFhjSWxCRExSTWdQN0hyTFU0aFBEaFh3Uk52b0RSQVFKNHJCZ1VibmFMbWZzSFQ5NWRUZUNFQWljbjIzM3h6dDA0cXFxTGFKWHdDdGp4Q1E?oc=5",
+"source": "SolarQuarter",
+"published": "2026-10-06T04:55:40+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"LT"
+],
+"groups": [
+"Infra"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "47975db69237fc4a",
 "title": "Company Update : Kotak Mahindra Bank by Motilal Oswal Financial Services Ltd",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUEyVmNDUHUxb2FJd1dBTnh4ZjFVMDBaMmRzRlJxeDY1dW4wNzBwWFFlN05qXzhaTlZtelBkNE9PWDlfeUtiUC1MNmdaZTE0Z1NRVG5lTFMtVHdXYlZyYlBHbTc0ZlYwMnQyUVdaQlZhM1FkcFo0SFZEXzMwNS1VSFFZWkhDSHFzRXc4ZnRmVVhaWl9rOVdlQU5zamtvLUIwbmI3MTU3al9RemNhM1NTcHVHSTZraDY0djNOcjVtQU4?oc=5",
@@ -4164,6 +4282,22 @@
 "source": "Reuters",
 "published": "2026-10-06T04:43:00+00:00",
 "first_seen": "2026-10-06T08:12:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "2ee177cfdd403eae",
+"title": "India's Trent gains $1.8 billion in market value as store expansion bet pays off",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQl94eDlHSTNrT1dXRlAxYjkyc3NtZjlWR2FOcktNRkhoaEZPdUtIYVUxdk53eEE4RjUtc1FXWlgzLUFtbGJReDNnUGRnT2FDMWdha2xmWGFhejNjVXBEcHRtemRwNXozTzVKS1JJa1dhYjU1OWVoZ2Fna1RNX2JyWkN0SkMyNTRrZFgyWnlTM0tFVlZndHM3ZnNMRFYwWE1nQXpzQnM4blB0dGhLWXhqUw?oc=5",
+"source": "Reuters",
+"published": "2026-10-06T04:43:00+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
 "symbols": [
 "TRENT"
 ],
@@ -5300,6 +5434,22 @@
 "tags": [
 "Regulatory"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "569da643c3121a92",
+"title": "Tata Motors PV Share Price Live Updates: Tata Motors PV's stock price dips",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-06-oct-2026/liveblog/134721992.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:21:15+00:00",
+"first_seen": "2026-10-06T11:11:09+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -51366,162 +51516,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "e795488a4c1c0441",
-"title": "Who is Anup Kumar Saha, Kotak Mahindra Bank’s new CEO?",
-"link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcVpqbC0zeGtaZnhTeDJjaDhUOHRJOC0wOGFDZS02S0RmYVZlRmxrT2NPZGg2VF9xa2tWTkpjUDQ5Zzc1WGE2T2JZNDA0WHdGNnRhMXpZd1htOV84LVFGUG5ieDdxMGl2X1RCbVF5SHM0dm14Um9ScG1lRXM1d0RDTW43enZyQ1liZjdZbDUtaW9mQ2hveVZja1ZsNEJnNmU1T2lmamtpREFBZkI5WlhpRnpyMEpHRkIyQnJOcjZrZFBfa1kxVG4tWHplbF9LTW5JT1pKV0JMNmw4MVAxWUVpcGxSMmF5VTEtNVdtNzZSUnlialNQc1RuQ3JBM2dNbXFoRWNGcHAwVzg1T29aQ3J0Ni1MNjNMWTROd1BZQi1VRG9lNFZYc2NtdkJyY09wU1po0gG2AkFVX3lxTE1LTlFFa3JWVkg1THlmN09ETU9FSFlIT19JWGk0NGFldWVWWTVTdnAzVzhIZ2t0MU1DVUVDOFdlMHFwdE8zODYyVjNoRVYwZk5CbzhUSHVfTnVlQl96T0Zza2ZqRFhlZExKRzNGd1VsbFpyaXdDLTNQVGtfWlZodGo0UzRpZEthOUVJTkQtdUdnbjVaTE1jWG1Eclg5TDJPRW9MOHFmUnN3UlJvbDBfT1IzRnhOQ1BGVlZPN0pEamdRY1hUdnFJb3JnNHo3MmZhbkZZS1dORUs0Vks2RUxDeC1PWkV3Snc1VDYzemVrMzBOa3Jhd2NIUEZSNG5NUTZKUUFOZlhhb29yV05UV3Zfemd2M0N3RG1sRGZyUDFSVFl6TDJ3Nzd6SVFXX0VGemhQTFphQWNTOWc?oc=5",
-"source": "The Economic Times",
-"published": "2026-10-01T03:45:18+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "1bff6f4efc2e8f52",
-"title": "Bharti Airtel Upgraded to Hold as Valuation and Financials Improve",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3piRzhLazUyZjR2U2dDTThJNmFqZUVTOUtXcm5tV2hLVW1MUUktejQ5WVVYc3pRNFNKTm55bGJXc2drZXhpVEsyWm9lU1YyYmM4YjdLUTV0cTZzdlVkSWVldEVnWFFxSGJqU1VMVnE1ekgtakNWN2VzVUlKR0Y0VE5jblNLTV9rZkktUG9VSWxpVURrY3J6ZlRrTHo2aUV6RkJxa0ZGZG9Fa3czeFdnM2ZnNmF6cmJPbjlDZDlTMkoxRXp4YjFr?oc=5",
-"source": "MarketsMojo",
-"published": "2026-10-01T03:44:02+00:00",
-"first_seen": "2026-10-01T11:02:28+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "80424c470244f469",
-"title": "Kotak Mahindra Bank names Anup Kumar Saha as new CEO | Saha has also spent 14 years at ICICI Bank | Inshorts",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5fYjAyZlJOVWRuaWlTMTl2Ylh0LTRLU2g4R3p4OXBCZi12QzlTM1J4aEhGczRVZmc1UUpqSGNrYVY1ODQ4bDlRaEpickR3bkoyeHZBX0Q4MG5TWTZNU0lET1poTWt1MUN1QXlkdnVCUDQtNXdUcm9semJ3SXB3T0hBOHhCR1RScUVLZkk3bUtSTHhOQ3NyZUdlONIBoAFBVV95cUxOZmVvQ3NkcVpncmdyNm8tektjY0o4OE93MjRHRHRyMm5ZVVVuRDJDNWdNNjNYajVIM3BEMXhfQkJ6WHR4T1FuQ2phVmZMaDdTLS1OVEdUZFhOODByRkFrb05nVENTLTA4RVBwYVVMbEJxdHNMZDNTaFZiM0doMmVSc1paRUVhVWVfdDZzZ0Z2cFR2dmMtWF9CTGEya0t6c2Nm?oc=5",
-"source": "Inshorts",
-"published": "2026-10-01T03:42:09+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"ICICIBANK",
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a097afbcd2dcd978",
-"title": "Mahindra & Mahindra (NSE:M&M) September 2026 Sales Update",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkVkZDBOSXBuMkZXWTk2Zy15c0xNU1Z5eENyZjN4aUZiYy1hdktHcE04OGFvMHRjWUJvUVlYN1VxMmszU3dMVndjZ2hsTFJsTWt4UzhuMGRWZWpEMU5SMFcxM3pYZGZZdkpFNkpHMGt4UGUwb3ExYTBxemdSS0xfb3lBZ3hZdThTalloN2U1YlRpS29iSTNESVNWaTZ5eEtiemdVTTIxcVdvUGJzZ09IVVNiR2tNUQ?oc=5",
-"source": "Kalkine India",
-"published": "2026-10-01T03:41:00+00:00",
-"first_seen": "2026-10-01T19:57:36+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "146f4b9de155617f",
-"title": "Adani Ports invests $750 million to double Colombo West International Terminal capacity",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzRINHNBR3cyMUprN3hydFJlbTBDVmhsc3IxbGFxR0FkODVnRmY3NTN0eFNOaF9rckNSVkk4Smp1X1JlNVlVbjAtTjFfVDV5a3lkSndWekE0dzJGTUEtT0NHWjJSRHd0NXpOSFRZeEUtYmUyV1pqWFRRbnc0NDl4SjBmVWV5SDc4QlBJZFJlY0xEY1dFS1N4SzJRUGpVRXhHVi1EbkVIRTdwWGxUYTY2M3gtdzJEYWE4WHZn?oc=5",
-"source": "Maritime Gateway",
-"published": "2026-10-01T03:38:49+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"ADANIENT",
-"ADANIPORTS"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2342eb6c2f605d2b",
-"title": "Bajaj Auto September 2026 sales rise 5% to 5.38 lakh units",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzhTSW5yaUotNUJWRHdBanE0YVY4QUlGQjlOMmhaVFBYYjd5UWphU3FsbEJGeDgwd0w5ZkQwQkkzb3NYQW50QUFEYkt2eE0wclpEakxXV1JIN0Fjci1YUFZ4WWlnSnpVaFRCa2ZwNkVkdkNhN1hoZ0Y2bWlnWW9ncUh1ZkxqN0ZmMHU4Z003blY3YjlSNFg2cUdB?oc=5",
-"source": "Business Upturn",
-"published": "2026-10-01T03:38:34+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "b61b4b9aadb206fc",
-"title": "Kotak Mahindra Bank Secures RBI Nod to Appoint Anup Kumar Saha as MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGptekZLUVlsOU5BTkVURGRnY1RLNWk5UDdRUU0zcXRvWU80YVQxMFRJZldYRUVDNVJZdU5YMkFMNjZjRktaOXlEQmxzdFJOMkY2S0ZBV0ZxdWJEanFvM1lBM1pNaXhqMll4WkJWY2hqb1VxV25JTUxoaFlZN0dFUlplazJESENxOWl6NHlEcXBaU2ZmMlo3YXA1NzlHdkR6U0dBeVE3TFdrWndmbVlFZDlRVkw5WVc3S2lENWhyQk9WQQ?oc=5",
-"source": "TipRanks",
-"published": "2026-10-01T03:38:21+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "positive"
-},
-{
-"id": "a047d78d588f8045",
-"title": "Sivasagar forum protests at ONGC Assam Asset, seeks jobs and flood assistance",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjRSWFFrNm9TRVVuOTJCT2p0WmZFTktWXzJiNk1VYmQ3RUFRM1o2OEc1dHRyczVZcC1ZZ0ZnOWlDWi15dkpPUlN4X2JMbGViMGE0QTJVbUxOLW9uUUJVYTE5blRoSDNyc05LdEl3aGpMaWt0dU5aN0JQT253YVpvc0VWd0VJOXV6bkpfYURrWUlHYks4ZXBvbThjYi05eE1mSGFKaTR3WDdIeDA?oc=5",
-"source": "Assam Times",
-"published": "2026-10-01T03:37:35+00:00",
-"first_seen": "2026-10-01T18:24:25+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7d86816de7db2818",
-"title": "Kotak Mahindra Bank shares gain 3.6%: RBI approves Anup Kumar Saha as new MD & CEO; key details",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUZ1a3NFWFF2U1IxbXVSQlV5YXlaZEc1YjhSd2NCSGN2dDZFeTlSZG9qNGE3LWM3THUtQUZmOWZaald2VVdfbnJCaHBZQUdoNFlNbzFRa1ljeVNsVzNqNTNyYkRBdFJuYnE5cFRLWHExMVRLbzNYOXJQQ0ZyZ21LZGI1YkZ1TFhqc2FkZXRCRjZoMnJDMFR0c2hnLXhFa3hBd01lQTBpc1JoM2NENGJVcnUzMjZIMk51MkhCQXBuT2h0MVRDZUI1MERqRG5hZWxmZ1JJ?oc=5",
-"source": "Upstox",
-"published": "2026-10-01T03:37:27+00:00",
-"first_seen": "2026-10-01T10:18:58+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "positive"
 }
 ]
 }
