@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T06:05:26+00:00",
+"updated": "2026-10-06T06:29:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,58 @@
 ],
 "items": [
 {
+"id": "583bdb7b0475a814",
+"title": "Trent Share Price: Stock Jumps 11% as Q2 Revenue Rises 23%; Goldman Sachs Raises Target",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHFoVGNobWlSS3BOaWpVTkRhaGVmVklFdGRKV3pFZnpoOXpmZ0hNNHN6cmRSejBQMFI0NGRKZ2h2TnVFeXNOMzZ0WGljdjcyNXVPYVp2YmlCcmxFeWZvcGxaSU45bHBxTTRqTVc5WVQzbmF3MTh5NW1oaGRjc2Y1dlY5X1o3OUp5bHRvY0hvTEVFUWMwZEpGZ3JuVWllYUV1Rjh1Wlo1OHNZd2trOHE1YndIeVp6Ui1sMW1NcXVEZmRaTkpvNGhz?oc=5",
+"source": "India Infoline",
+"published": "2026-10-06T06:10:12+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "e63e65c758eff8a5",
+"title": "3 Jewellery Stocks With a Strong Future Roadmap: Titan Company, Kalyan Jewellers and Senco Gold",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vUTgwNE9RLXlTeDZQeWNhYlE4UFFVZ0wwLThIOXkzc2w3Q1UwczkxUG0xV3N3QlZUODE4VHJZSGFxRTNJUWV5MUxBcHQtcHQ3bzYteTdZVXhZYURRVDROR0ZhWFRkT2M?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:09:03+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "19ebfc2cb681c549",
+"title": "3 Pharma Stocks With a Strong Future Roadmap: Sun Pharmaceutical Industries, Cipla and Dr. Reddy's Laboratories",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqN1lRTjRweGRBY2RJcGlVWXNxV3d3VU5aXzZ0QVBWa1YySnNmclNHVTVHSWZTZ3pGa284RFM3cVRza21xTG1UTklyS2R5Z0g5WFZvRWFMaWFlR0hoSjU3RDZ3MA?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:09:03+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"CIPLA",
+"DRREDDY",
+"SUNPHARMA"
+],
+"groups": [
+"Pharma"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "7a28e6fbb92cfef8",
 "title": "Steel Demand to Grow 8-10% in H2: Tata Steel CEO Narendran",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWVIdmVNZUlYeGVOdG5sMElvWmd4NGtFYjU4WVF1R1YyT1JRX082X3RWVlJacjRIbnEtSWJSVmdEYkFxUWVTZHIzUlRiaU9pcUNIaGhyUU5sQ01LdzF6NDA1a25vZkkwRU1xcEhZMkU2Vk01dElKYVIzNVZaTjRrOVZZYU5fUUF4SVJzZmZZaGdKVzRaOGZYWnlrMC1vaXVmUXE4OUMyZzRSTnhn0gGyAUFVX3lxTFBVM24xeEM1TUJYY0ZPbXZJbGpDUzZrVV9RYzJfQ1NVZnNMNnZHQmRUNEgzZk9vYW80WkpGNVZSR0pKNkVQY3ZrQ3Q2eDdISHJOMGVNbWo0YkMwS2ZQVzdnY0N3eXJSajhMSzMxMDlSWjRHSlZSSjdKT2dHTFNRM0xMZE9aSW1NMDhOa29UMEszSWVQczhjNFFMRERQUXAzck5FMWpmbENDMlJmY2ZYRU1YbFE?oc=5",
@@ -474,6 +526,22 @@
 ],
 "groups": [
 "Consumer"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
+"id": "a7d46ad12e7619ca",
+"title": "Rs 17,540 crore added to Trent mcap, but Citi stays bearish. Why Morgan Stanley disagrees",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmRzVzhkVWpJZHk0R0E4MERvQm9paURiS2pnWFJXTXJkWHlBSUwwbFR4S0Qyb011aWtRMFB1SlR4anV4U1hCb1ZrUTloUlh2V1Vhb2J5VFRtNGRBbHJzSktRc3FzNE9HTDIwSE82VjdIeHpTaklSQVNjazN1UUNZMzA1bVQ3S0o5TDcwNUxBMmFXQ25ZOW5QTkp2d3pUaTRJalNncUxpVThjTzdZaE9mYV9xRC04SnVBc3RoWnhNWE5YaWlsQzdFRWVCUGVNSDMyRG9NMk1mM2RadllGT3g1dkpoSmg3eG4zUGp5LWFaNVZQUdIB9wFBVV95cUxOS2pZU196VjREMVRsVWF4eGVFTmhpWkNoQmxVS09zeFhJQzdNdHJGZS13NWRDVUluWHBKOWVncW1sZjNvY0R0VHVWY1JUTWY3MDZRNjYwOU5FbjJYcWJUOVdETmpLZ2Z1SHd2Tk4xMDFNOFN0VTNwdkdXZjlFbDgwUUhuUmpRRGZGdW94TFVzTHZHQkZsRU9hSXhUa1hXYXRSMkJTSkdjbXNtcmh1NEloMTRoSkdqWjJqNFNHcERwOWlmeDlZTlY1YUM0cEFBMDN3UFZDOHRpejFmbU1ZZEU2bkl3ODBYSldXSVl0Z0h6dDNVMk50b0hn?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-06T05:57:41+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "negative"
@@ -906,6 +974,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "7850fd99b6f8b4d8",
+"title": "Adani Power, Druk ink pact to set up 770 MW hydropower project in Bhutan",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeE85Zk9uRkU3VDFqOThUejFLU1VZZUtNQlRmWllodE9vUTFpOGFXMzdmcUExNzQ1QUdqVnBUcVU4NDlSY1JTa2JBdE1QVUJkSnM2eUxldEN2d3lFTFdEcFV4dThuV0hwYTFRdFZkaW1FMG0zV1d5UEw5NGREWUt5UC1pc0ZsUG4xeDZBeVJveWwxYklqVVdCSWYxa1BROTI1dnhkRkhGRXdid045ZlBaWGNsQlBvM1g1X2ZHakc2SS1NNS10ZjlNZXRZNVhCNkdUS2lTQnA4UERRaV9j0gHcAUFVX3lxTE14TzlmT25GRTdUMWo5OFR6MUtTVVllS01CVGZaWWh0T29RMWk4YVczN2ZxQTE3NDVBR2pWcFRxVTg0OVJjUlNrYkF0TVBVQmRKczZ5TGV0Q3Z3eUVMV0RwVXh1OG5XSHBhMVF0VmRpbUUwbTNXV3lQTDk0ZERZS3lQLWlzRmxQbjF4NkF5Um95bDFiSWpVV0JJZjFrUFE5MjV2eGRGSEZFd2J3TjlmUFpYY2xCUG8zWDVfZkdqRzZJLU01LXRmOU1ldFk1WEI2R1RLaVNCcDhQRFFpX2M?oc=5",
+"source": "Business Standard",
+"published": "2026-10-06T05:16:00+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3033cab9a99c120e",
 "title": "IT Q2 Preview: Weak Growth, Attractive Valuations; Tech Mahindra, LTIMindtree Among Anand Rathi's Top Picks",
 "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XWXkwS05Id2hxMk04Rm84SjJ5RjNHYlZaaGVzUEJydHR6bTItamx3SkhwcjR2NklFTXYycW4zQ2Z2dTNpVlE2b3pNR0JBWWFWakFXeDJDdjNkZXpxSzNrN2lwQnZ4NFVCcXV3SlZKbW52N0U?oc=5",
@@ -922,6 +1006,22 @@
 "Results"
 ],
 "sentiment": "negative"
+},
+{
+"id": "f5bd6913be19c739",
+"title": "Tata Consumer Products Ltd is Rated Sell",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3JiWU9UWW9YSjgxTVRuNjBlN0FpR1p2S3Z5MzlyN01SUXpOUThmdE81OGY3NnVqc05feEM0dHZ5cVJpMVVVaUIxcVRoVmZwMTRwRU0wQlRfTFVSSmhTS0JvWVRES2ItX19qMmVuNDI0cGl3Wk1zcHJycnVNRjZIV3p4SVh3WkhqczI2cmFBbFZrX2RzUmt6YmhDd1ZBbUxIcFVacA?oc=5",
+"source": "MarketsMojo",
+"published": "2026-10-06T05:11:39+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7703488f8b8cd066",
@@ -1025,6 +1125,24 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "d9dfda58ce6fe445",
+"title": "Trent shares jump 11% after multi-quarter high revenue growth in Q2, but Citi says 'sell'",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUGQzTFF6TWp4d0JyV3gzckV2U3NXdkNBcHlja2JQVXBwWnJUQkdEREh5VFU3ZmpkVFNqV1pTWXJRakt1TVJncWcwV2NZMXh3aWNYR3A2c2JYcThmWmluS2kzTHgzN2tmMWh6amVjeFNVblhJNmtZTTZ3dEY1NzNreFdvOUtPYXRyVjQ3T0kzb1JYNUZjeGxrTGRyR043WTJaWXVBdTdLazdaSmY4aXZVaVVFQ29kX1RwQVRKNEtRZTBDQVRBSDJOcW9paUZmcnNVdDJQWWo2T2I0TjBJRTQ5NGRVRlPSAeoBQVVfeXFMTmhEMFNlRFRmRk9sZ0tDV3RPNHFXTGd1cXE5WWF5ZF84LTFiWVpjVFRjTkZzT3ZGbGVzSE5hd2YtXzR3R1hsaWdpVEIyVVNScHZDX0R3Q2UxMG1fMnA0YW02NzNjajBfaU9MOFh1aVVWbnhfN0lLWWlxWTBtMHp5ZXpHemVSRzE1eVNwUU9yWEMyVDFfYklZX3FwRzI1Y25jMzlDRGVzT05UTVl2VFR3bnRrUkJOaEVDbU5OMTRhNklCdDRRaXJYUkNISGk0ZnI1dm1odUItbm1LZ1VHZlpkbTk2aWRzWGtfQTRn?oc=5",
+"source": "cnbctv18.com",
+"published": "2026-10-06T05:03:06+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "b3c78bb4228ffe3e",
@@ -1298,6 +1416,22 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "d3c148bbc9748b69",
+"title": "UltraTech Cement's \"Ghar Ek, Mauka Ek\" Campaign: When A House Becomes The Repository of Life's Dreams",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXd6S2Q4OF9KVzhka2JTS0NfdXhiOTRZWG9vY1FLdDFxM0ZUMVZXN3NCeXZFaElKVVp6YWFaNUxpWTk1YzNpQ0U3NzRUZ2dnNjlBd2EzaXVobEh0Mm1JejhaMFpTVVFnbVpEUEk4RjZHNDNhS1dJNGFmTnVQZWJGSTNHYnAwQm1pbVBWZExwTkZKc1pneTUzVUtZOG9rRHZqbmc3OFhBbjM4OEtIdVNWUWhiZHByZUZkVjZSS1g5UGFRZmZia1E?oc=5",
+"source": "MarkHub24",
+"published": "2026-10-06T04:29:42+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"ULTRACEMCO"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "63aa4a73c48266a7",
@@ -2446,6 +2580,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "ecec65e2a1cb70dd",
+"title": "Axis Bank Share Price Live Updates: Axis Bank Price and SMA Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-06-oct-2026/liveblog/134721678.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:00:21+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "dbe5e3ed148637a2",
 "title": "SBI Life Share Price Live Updates: SBI Life's Current Price and Performance",
 "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-updates-06-oct-2026/liveblog/134721674.cms",
@@ -2461,6 +2611,22 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "f6c525c61efa8de5",
+"title": "Titan Company Share Price Live Updates: Titan Company Experiences Minor Price Drop",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-06-oct-2026/liveblog/134721664.cms",
+"source": "Economic Times",
+"published": "2026-10-06T02:58:40+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "7e2db4951ae5da38",
@@ -11193,6 +11359,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "486c724af5864be2",
+"title": "HDFC Bank shares see sharp reversal from day's high - Should you buy or sell? - CNBC TV18",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekxzLXY3UUhZUDNfR0JKS0x4NlNXRFYtX1FSZnFMRGNlNU5yNmo4STFsOFhKbnV4R3c3MjNSbkNXb2VxMDZmc2VYMTluQUZ5NlI3LXhtejFsNnRITHJpZDc0eVhGeEVqOGU2OGlFckNMdk1BcGwxNy14a0s4c2Zqd0x2dDBaTUtFellmekt2bmFqR1dtVWxNbWUzZEhRUElIcHktN1g2ZTMyZnFyYmt4aFBkTk1KUQ?oc=5",
+"source": "LinkedIn",
+"published": "2026-10-05T06:41:04+00:00",
+"first_seen": "2026-10-06T06:29:07+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51300,184 +51482,6 @@
 "IT"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b5f9eb7c01f309f1",
-"title": "Ex-Wipro employee moves labour dept over unpaid extended bench policy",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdUVKRVotcV9sTXpJWnI5eGFpU0ZMbEFvTzM1ZlRVWjBINU5KWGQ1R0RSNElRNGhnMnR2VE5JRG5EaW81V1U4UkxKNHh5V1ZDZnhTQ21wSGtzeDRRNVpxTl9ON3pmMk5XdTYtclNZYWlKeER2RlFrdlNuaDFfVzdiSXB6b3AtUGxucVZVd29GdkhRclFzM3pVT19vNzJ2bXpzV1JfYk9YVTN5M1plUDNnTkZXdWRNbzk5WW9DR1NteWxiQ1M4MjN4cUhkVHB6VGw1RlNmQXg1UWUySFFHTDU2WlFQSlhWek5FcVBB0gHwAUFVX3lxTE5KNGNhZXFBLXVNWGpYRXpIOVVrSkFnUTEyejNNa3lMWHFFaV96czhmX2pPREZ2MWp2RnlWWm0zTDNnWlNZODIyQk82T2dia1k0a2E3OFJHS0FJa1ZwSGxJNC03dllkNnJ6V1ZmUzQtVFpzSzNRSjdiWHlkZU82dlVKRTEyLUtSLXB6X1VIbnltUEIwOGR2VGp6RGtnbmVtcjJxZFkweVMwbFhzZ25ra2RVbXp6U0Q5dDN2N2E1THR3OGFJTm9qa1NyOUxVZXZ5eHVFSTlZQTUwNmFyN1I4OTJtRU10NXhwNE03bDA5OWJuUQ?oc=5",
-"source": "The Times of India",
-"published": "2026-09-30T18:40:00+00:00",
-"first_seen": "2026-09-30T19:01:50+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b9068fc0b2758e39",
-"title": "Max Healthcare Share Price - Live NSE: MAXHEALTH Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qeXBHSDBqU0g2OGNBT1gxRkxseGJ3dm5DdFZ0eVZ3bHE1WDZwaDhDVG5BMndNTG9WNkRYUUtBa2s4UlFzMTAtOXNEeE13SkYyWmFybjNvWlJpa1VXQnhXWEtvOFFIVERCX1B4S053?oc=5",
-"source": "Upstox",
-"published": "2026-09-30T18:38:22+00:00",
-"first_seen": "2026-10-01T10:36:03+00:00",
-"symbols": [
-"MAXHEALTH"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "27230aecb31a73bd",
-"title": "Is a high P/E justified? What Titan's 22 years actually show",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzRtMnpYQ1NDRUxCR0JmYV93M1NocXRBcVZralRUTWU2TVFzcnlGZElmOWZRX2FGR0Njem9VUFJJMEN4XzlTaDcyTElhM01HWkhPYjZXQTFZTnRMQVhCVjFpMXhKb25pUmRGUjN1a1lIXzFwQTlNZDZaUmk4REhrSU1rUGUwSTlkaXIyVlBseWdfYmh0ckE?oc=5",
-"source": "Value Research",
-"published": "2026-09-30T18:30:29+00:00",
-"first_seen": "2026-09-30T21:49:40+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "248e02b2bc46c360",
-"title": "Second Hand 2014 Maruti Suzuki Swift ZXi Petrol Manual for sale at Rs. 4,70,000 in Mysore.",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlNKN0JsbjdOZ0FNZHoxOVNodlJZT3l0MVZmM1dhdVhDc0M0OU5raXJEOXpVRlZpT0I2Q05lRlprdnAtM1E5MmVKVnFEOHNidXA1TEhURE96ZmlSZWR1T3d3Xy1MUDRZSGtXSXI2cEZia2ZxWVNIV0JVNDFPVExaTTRwc3I?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T18:26:00+00:00",
-"first_seen": "2026-10-01T16:35:11+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "97c6d35d53b4a2d3",
-"title": "Second Hand 2018 Maruti Suzuki Baleno Zeta Automatic for sale at Rs. 4,24,358 in Ahmedabad.",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOEozbzhoMFZGUzNfeVlSNFo1emY2VWFHODhQMWVyVE1zOVd4Nnkwa0huT25IaUNfazJnZlZTS0ZxZWFGQXZQZHlkV1hVSndMdko4MmdIdklXVWstb1dVMHcwX3BQUGptVVhSVU5EdElEa2liZzYzakdIUkQ3UXQ4cHRMUlFaNGVYR2c?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T18:23:52+00:00",
-"first_seen": "2026-10-01T16:35:11+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1246c710328573de",
-"title": "Mahindra & Mahindra transfers equity shares under stock option scheme",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2RyZ29GNmtIU3pxaXhWVTQ4eW1vcm5wS1lrUE1HdjJ5NEw5UEloTEtOamM0dzNZcUtfMlJLbURWZk8wUndZc3dGT19jSWZDdnBJdVpCdFhOaWhOeURaTTM3N2dMQTV3Skg5Y2J2eTN6d2c1SDd2Q3V6Qkh6MWl0eTdlRUFaX2otbmIwN3FhOEZfTXZnSWhibm43MlpUdjV0djVYeTFFcFBOT0xL?oc=5",
-"source": "Business Upturn",
-"published": "2026-09-30T18:20:09+00:00",
-"first_seen": "2026-09-30T18:21:49+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "e44e2b98a20927a2",
-"title": "Second Hand 2019 Maruti Suzuki Baleno Zeta for sale at Rs. 6,11,000 in Mumbai.",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaUhFN3NxR01LX2c2ZHhfUGV1UzVqa2UzZUl4YVprVm9PLWZOa1J3UEl1VVNEZzJ0b1NTMHdtZ1JCa0lESGNlNTZRV1RSWmFCZmtkX1Y3a2tHZlRYRTc1Z2xfdlZlSWtKYnFjOTMzTFlaX1MyUWwydGtEZDUyVVk?oc=5",
-"source": "CarTrade",
-"published": "2026-09-30T18:09:30+00:00",
-"first_seen": "2026-10-01T02:59:54+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c1895407b586d85e",
-"title": "HCLTech raises fresher pay for specialised skills as AI reshapes campus hiring",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlNuS0dBS1FhMHppV1otaTlwRU1Ld3YxVFNELW15WFhreDRySE41WG5MbmRVZFNxRFZLcTM3WGVKMGtGLVgwN1BjRGFqcHpoay1hM0NLU05fVTN3NklzOV9WNGUwdDQxczNjcmhxM01WelpSSzMwSmtkMTFkNW5jV2tpZFJMb0s3SnJmb1EtN0dkMENUY2thV1B3akowMWxPY3dZZlE4UVhJOVJQNUZ1T3BIa0kyVFg4MU42ODdEWi0yMnVWY1hXSjBMV07SAdoBQVVfeXFMUGlrbG9feGdmUnpMS0dDUHB2SGZrcjNrUE45Y09GYlhJMjJXQTc5cmtZaGI0Vk9qMlZPdkVkMGxidndablI3bmJtU0ZkODRmeGVlVzdLWWV6Q0RWUHpJVndmdWJOYTh4WGhiREhRYlktLTFMU2xPbHczTTRjaTFfMVEzZmFyajN0ZEhNV19JMXNXV1dQZTFOOXd1R3kzUVJsS2V1Uk9KYTZNVllEVGV3S3ZpcEFUV3dyQzhsZU85MXZYQkxONFI2QXNOY3doVWg0aGtUUzZFVndBb1E?oc=5",
-"source": "newindianexpress.com",
-"published": "2026-09-30T18:08:19+00:00",
-"first_seen": "2026-09-30T18:21:49+00:00",
-"symbols": [
-"HCLTECH"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "320ce1f9aa8f4afb",
-"title": "Apple Pay Now Available in India to Axis Bank Customers",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2toLTRENW1qQ3R1SkpRNWxmSEdQSlhZcGhIY2lUbWhWbE4tbzhMc1dzamhmbEk3Z0J2T09ISGYtMGthYzZoUjJLYUJ1QnlGamV1bGlkdEtjNjdTeFRObFRtOFdaZk1QUW5xYllQTDM3VzFqZ0NoV1E3SnJjWVJVbGpIX2dFQV9zMFFHS1QyM0RuVjdsZFMwc9IBmAFBVV95cUxPY2toLTRENW1qQ3R1SkpRNWxmSEdQSlhZcGhIY2lUbWhWbE4tbzhMc1dzamhmbEk3Z0J2T09ISGYtMGthYzZoUjJLYUJ1QnlGamV1bGlkdEtjNjdTeFRObFRtOFdaZk1QUW5xYllQTDM3VzFqZ0NoV1E3SnJjWVJVbGpIX2dFQV9zMFFHS1QyM0RuVjdsZFMwcw?oc=5",
-"source": "MacTrast",
-"published": "2026-09-30T18:06:29+00:00",
-"first_seen": "2026-09-30T20:19:52+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "74adae7cc64c19b0",
-"title": "ICICI Bank Limited (ICICIBANK.NS) stock price, news, quote and history",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95MGkwMmVZNUp0YUZEeXlmVkZaeGFZcFhfMHpBVHZydU5ZOXhiQ29OY3Rac0VRWF80ZDNwTDYyTXRzdDF1bDZqNFU3RUdET0Nmd29oSjZ0TExtOUF3?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-09-30T18:03:52+00:00",
-"first_seen": "2026-10-01T10:18:58+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b2cbcb31b4ee1f6f",
-"title": "Apple Pay India Launch Begins With Axis Bank Partnership",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtbElXNEh0RllEVUF1UlhmRlBHNWJHMkI0czg5QzF3NHZlLUtWdmowX2szaG9pUGVLRTQ0QUlNb0JOLXRTZVM4cm1CLUZ6V19xNWROQlRrMGxOcVRyUTJmXzVBdk1GeGUzVlJJekJ1Q1RBSG43TWlvSjY4WFY?oc=5",
-"source": "Sprouts News",
-"published": "2026-09-30T17:46:21+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
