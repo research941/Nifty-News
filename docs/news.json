@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-05T23:55:30+00:00",
+"updated": "2026-10-06T00:29:48+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,38 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "c8ee54995c35832c",
+"title": "Apple Pay arrives in India through Axis Bank for credit card users",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTk0RW00MkxjNVgzbXlINGwzVmRJVTBuenI2S09xeWNKTm9pQy1tV0FjanJyLUJ2OW52S2tiZEVvamxXaThHSVdnZldaV21hZS1URUU4X2hRbG1PamxOZW14cmlVa0VHR0piSW1RVFRMVnBwLXZmSkpOb3d3NGpTSV9JejN0TFlyRWFmTDUwbG5MN3huWTh6RERWRFVhRnptSm1rMEFiZnBOT05wYzNkcFEyWUoydWlZ?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-05T23:28:49+00:00",
+"first_seen": "2026-10-06T00:29:48+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "1c893351f650fd98",
+"title": "Bajaj Finserv BSE Top 10 Banks ETF (BANK10BETF) Share Price",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHJGRmwtVUtndnJxUHU4ZXoyOWNmX24zV1BLeXZzbE80RGxSVU9TX0h2dXpEbUJCVnBBWk1zcDc0Y2xnVG01Mms2aFlmY3FZYmh4YWxRbi03N0s4LUtHYXVNeGMtX3d3N3FhckoyeWlPVUt1Qkl6RXFsZ2xUWW03Wk4yLWFaT3IwdFZnQ3BjSDh4d1NMUUJWbzVqcV96RTJERUE?oc=5",
+"source": "Business Today",
+"published": "2026-10-05T22:01:43+00:00",
+"first_seen": "2026-10-06T00:29:48+00:00",
+"symbols": [
+"BAJAJFINSV"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "ff185a924957b08c",
 "title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Urges",
@@ -51419,38 +51451,6 @@
 ],
 "groups": [
 "Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "5f88afcaafb63512",
-"title": "Axis Bank advances Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGxqS21GVXFZaV9FVjd2NERHekZIS29hemR1VmNZdVYxR0w2cFFQTTgzVERYbWZpUUhpUkctSXRTNkJmWkRXWFloUTFDR0Q0MThxb3FnSFNnQW1Ib2JLck9iTTZGQUFiVWdIZDdRSGJVc2N1LWE3Yk1RUDFwMUVfaHRSam80ODlnRXQ5Vkl2S29Sc1k3WndYZnZGQTJ2UVR5Vk1vX3FB?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T13:22:27+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "6225b74a03b4aa2d",
-"title": "Tata Consultancy Services climbs Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaG42MFJRYzBaWUZfZ08wLXl5bWRQODlndWtuaUJHdi1LcXZna09aemJacE9LcUNvclVhZzBPSXY0QWpvM0ZDV19lN0xoY1lXUjJTTjBzT1NzZDJiNVZtMU4tNUl0TzFacndWbDJiNml1Q1o2Z2tvME9QMkUzMk5DUmYya0VQVHZhdFpIa1ZuaXRYYjB0TDh1b3RFNTNvOXZKSW9Lcmo0ZDJEYlpHcmswRGFNdmFNazlyaEtHem9FTXdadFpoamE4N0lJRXV3Ym0ySmV3SzZB?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T16:23:25+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
 ],
 "tags": [],
 "sentiment": "positive"
