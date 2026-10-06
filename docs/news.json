@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T01:57:43+00:00",
+"updated": "2026-10-06T02:19:02+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,22 @@
 ],
 "items": [
 {
+"id": "19c2c3add61c30df",
+"title": "Top stocks to watch today: Vedanta, Axis Bank, IREDA, Kotak Mahindra shares in focus on Tuesday, 6 Oct | Full list",
+"link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-vedanta-axis-bank-ireda-kotak-mahindra-shares-in-focus-on-tuesday-6-oct-full-list-11791249989151.html",
+"source": "Mint",
+"published": "2026-10-06T02:00:27+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bd18a112c9df12fb",
 "title": "Divi's Labs, TVS Motor could replace Max Healthcare, HDFC Life in Nifty 2027 index review",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-labs-tvs-motor-could-replace-max-healthcare-hdfc-life-in-nifty-2027-index-review/articleshow/134720063.cms",
@@ -481,6 +497,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "e3c0ea4edf581aa5",
+"title": "Stocks To Watch Today: Kotak Mahindra Bank, Trent, Godrej Consumer, Axis Bank, IndusInd Bank, SRIT India & More",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTIyWUVUUFp2RUJ3MUhjS0pHRUhQX2ZndGs1X2ZIM01kSW9aOVhxaXZpUWFkYkxadzFXTE9sMDBLTHBFT1lQeU90VkEwQ09kNzF6elQtQlN4QV9rckxMemZKUHR1ZzZ1eENKUl9TWUJqaU8yZjRVT2RzcnFSZHlsTjEwUDJNTE9SVGU3dHBoUU43aTh6UDZnd0lIX3JxdkZnWE9mTm9OQmVDYk1KSkxvVUJqcThkSkpsVHRsNFZ0NEFBbTBWeGdsV25McWVaQkZtU0VXbzFQZ2ZyLXpJX25sbTdhdVNIRkhG0gHoAUFVX3lxTE4xMjJZRVRQWnZFQncxSGNLSkdFSFBfZmd0azVfZkgzTWRJb1o5WHFpdmlRYWRiTFp3MVdMT2wwMEtMcEVPWVB5T3RWQTBDT2Q3MXp6VC1CU3hBX2tyTEx6ZkpQdHVnNnV4Q0pSX1NZQmppTzJmNFVPZHNycVJkeWxOMTBQMk1MT1JUZTd0cGhRTjdpOHpQNmd3SUhfcnF2RmdYT2ZOb05CZUNiTUpKTG9VQmpxOGRKSmxUdGw0VnQ0QUFtMFZ4Z2xXbkxxZVpCRm1TRVdvMVBnZnIteklfbmxtN2F1U0hGSEY?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-06T01:30:01+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2b63a7213ba7f2e1",
 "title": "Jio Platforms IPO: Rs 37,700 crore issue likely to open on Oct 21",
 "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms",
@@ -512,6 +547,42 @@
 ],
 "groups": [
 "Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "143ac00e231d3f16",
+"title": "Coal India Coal Supply Rises 7.6% In H1 FY27",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CNFZmZlFEeW1ncUFoY0ZtZUtpOWJBTHVRLUxINVZsUVRFWEtkdk1JY3o0VVc2WVZpWHpOV19DX25fTDhZWlpiei1mcnFMX3Y5T1hDczlIZ1RNNlJ3UFMtMENEYVl0d1NNVVRuMUVCdWNWRVlFN3JIaDZVQQ?oc=5",
+"source": "Sarkaritel.com",
+"published": "2026-10-06T00:21:35+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "da10524a55657acf",
+"title": "Stocks to Watch Today, October 6: Axis Bank, Trent, Godrej Consumer, Vedanta Iron, IndiGo and others",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb3BJb3I1OE5qYnAtQXFHUk9jRllXNkNRQUUwWGNSQUZtWmNrcnNXNnJ5TzNmb1g4WWVhT0ppZFRhcDNHMWloVHNwdGdsZV8zWWFORTNNU0wwdHdscmV4cTdJZ0JNSUk2UlFwMG9jYm1QLW1tbFRQWExXWGdSc3FwbERzVTlQY2tKaXBCT2ZFekJkcXA2YzU3M2NkNjQwUk1LZ3ZMa0dsbThDcjVPZVVDSTZxaWh0Z1pWNjRXdnlXRWNQdWNvemR1dlZYUV9jWHBQc0dRS3ctYXdfU2xOTFljLUY1emjSAeQBQVVfeXFMT29wSW9yNThOamJwLUFxR1JPY0ZZVzZDUUFFMFhjUkFGbVpja3JzVzZyeU8zZm9YOFllYU9KaWRUYXAzRzFpaFRzcHRnbGVfM1lhTkUzTVNMMHR3bHJleHE3SWdCTUlJNlJRcDBvY2JtUC1tbWxUUFhMV1hnUnNxcGxEc1U5UGNrSmlwQk9mRXpCZHFwNmM1NzNjZDY0MFJNS2d2TGtHbG04Q3I1T2VVQ0k2cWlodGdaVjY0V3Z5V0VjUHVjb3pkdXZWWFFfY1hwUHNHUUt3LWF3X1NsTkxZYy1GNXpo?oc=5",
+"source": "ET Now",
+"published": "2026-10-06T00:08:26+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"AXISBANK",
+"INDIGO",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Consumer",
 "Tata"
 ],
 "tags": [],
@@ -1856,6 +1927,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1ddbb98fabe778b0",
+"title": "Axis Bank Total Deposits As On Sept 30, 2026, Up 20.7% YoY",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVltV0p0bjB1TXBzZ1FCczk0ZGF3OGhEMkprby1WTUk4NkYxMHpPeDVuR3hUVFFSRTRhaU1xQkFVV1AzY1Fnd2VhcDZkWklHWExuUDZnM1N1RGhJZGdGc1ljN3gzVGpzX01CWk1MWS12ZXlxdm93emNDS2doSDlTYXpoeUg2Q1I3bUtXSW5CbFZlNnVOYUVYUnNxY1dHOEJJMzluMTJEeXdtMlV1dEZwTjVEbmhzaUZvcUN6c0cxeXJWSEk?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T14:33:53+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -10085,6 +10172,25 @@
 "Bajaj"
 ],
 "tags": [],
+"sentiment": "positive"
+},
+{
+"id": "4fd20f5352a1c2ac",
+"title": "Buzzing Stocks: HDFC Bank gains 2% on MD & CEO appointment; D-Mart slips 3% as Citi retains 'sell' rating",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdHFHdmd5dmJLUGZ1TWdFVXF2VE1OdkEzNlpLd0g1VjRTemJBVEJOSThFZ3AwN0h4VkUyM19KR1V2U1NXSmRrRXZydzFaQnRqWDJCZTM5LXhqSjFoNVlPeXFCYVh6UWNSZURTaVhZQUpueWZjUml2RnlTZEVqR2l0aU1iTlhYRHAxREthTkF1bTNTVFdndzlOLVRKUm81UDNjako1R2FVTEJGUDFYdWlCc2lpcFVBcUZSVzZEN2J3TG02NXNaUnFxVUN0bnJIUkt5NkJtbVNCTl9iZGc0SVRSZnp1X0g3Mmx4eDc0ay02NU1Ddw?oc=5",
+"source": "TradingView",
+"published": "2026-10-05T04:37:00+00:00",
+"first_seen": "2026-10-06T02:19:02+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Rating",
+"Management"
+],
 "sentiment": "positive"
 },
 {
@@ -51355,107 +51461,6 @@
 "tags": [
 "Corporate action"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "11fef20de48a6764",
-"title": "Trent University marking Truth and Reconciliation Day with events supporting learning and reflection",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MVlhQ19jY1I4aHpOcHZkTmRNVExDc2hsWDZPcHVLV09DUHR4bnVFWHFoM3BLMEZ0eFVwcE9HQzVUYVNPaTBiZkk1eTNYdHBhSFltWXp3?oc=5",
-"source": "PTBO Today",
-"published": "2026-09-30T10:54:46+00:00",
-"first_seen": "2026-09-30T17:58:52+00:00",
-"symbols": [
-"TRENT"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ce337c3445e48733",
-"title": "Infosys extends ABN Amro deal to accelerate AI-driven transformation",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG1oa1dpeEt0TDRZaWp6ZFR3WkVta2lyd2NDTHRGWWhLZGkwa2h3V0pJek9zWk43MFJfZzllUDJyR0VkV2NtRVdHNkI5a2VWcVVINTctYy11LTMxd3N5aVZUQzc4dm1BNXdrYjFqd3UzeW5SMTl4TDkxMzZxaHZCLW5oYXJKQ0hybUszbzZmY2lzRERKYk5iLVM2c2MzUDFxeFNFaE00XzRoLW9zUVNPQlBIeEQybTQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T10:54:15+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "96a50362f94635a1",
-"title": "Top gainers and losers, Sept 30: Apollo Hospitals falls 6%, Max Healthcare down 3%, Kotak Mahindra Bank rises 3%",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV1ZydXFlQ0p5QlBhXzZfN0J5VWt2NFFSQVkwNkEwV3FIOXltZlltQ2tGUmxicDdvWUMtaEtEdVNjUkhmcVdqcVEwalJFNkVCN2dHNE1jUjVtYXZSc3FHSzI0U0NHWkVUUy01SGwzSV9tOENIVkhSV0FDdzRfalJjd2FyamhJN2VXcmp3S0tMM3FPeDVDTXllalZDT21RcUVGSjNlc1JyS0ppY3hnSC0zSmFnNHZMbHZuVnQ3MDdKN3FFZldkLUxMSC1icWozUVlyZUFTaUpXU2dsdnA5UklmZjh4MzJuVllsT01yWUhvRldWa0t0dENJ?oc=5",
-"source": "upstox.com",
-"published": "2026-09-30T10:54:02+00:00",
-"first_seen": "2026-09-30T16:23:25+00:00",
-"symbols": [
-"APOLLOHOSP",
-"KOTAKBANK",
-"MAXHEALTH"
-],
-"groups": [
-"Banks",
-"Healthcare"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "36b4c472b12ccaf4",
-"title": "Apple Pay begins India rollout with Axis Bank cards",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvQVJsYWVVbDZ5WWhVS215YTJCcFZPV1R5a244YzNmbzdxMFNiZmYtNm5IYUhwUGpnSHRYenBoOG1VRnYxcWpfZzgzR2owSzdCbzdCVURsYzlUWXUtZXVremd3ZkpuQXVST2RVejRWbUdQSjl6XzQ0?oc=5",
-"source": "iNews Zoombangla",
-"published": "2026-09-30T10:52:22+00:00",
-"first_seen": "2026-10-01T06:35:43+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fe0925c779b218d6",
-"title": "Tech Mahindra, Infinite Uptime to Scale Physical AI in Manufacturing",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0FFVVExWF80LTI4UEZkeXF0S1FDY0p3d1V2Z0tqbVcxdHZpNElzZVg3YnpFNkpyOHFoWEc5WGozWHdfNWlrUW50OXF4d3RTM1psdVlVOGt0UjJJc2Q0U3NDOTJZdW1zUEFfSjFtUWw3dC1faDI2c3Q1b25vNFdGZkdsMWJEak5VYTUzRkVoQWo2a1ZRWWlQREpzSEd5NjZOa3N6U0FscDc?oc=5",
-"source": "analyticsindiamag.com",
-"published": "2026-09-30T10:52:13+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "92c1a10967215545",
-"title": "ITC buys Yoga Bar owner Sproutlife outright",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2doaTZzYnlJdzNobkxLOWZqMUxXNFRvLXJSWEdfc19qZ3EwY01QMmVjY05HVkEtSG9qVlJwWWZJYjN4dVdhMzVPdWlGMlZiWUZ3QVJVMFRoMS10bWdoQ2huTXlNRS0zU3VTLWc2V0s1eFcxMzNBTV91RkdtNi1KRQ?oc=5",
-"source": "just-food.com",
-"published": "2026-09-30T10:49:44+00:00",
-"first_seen": "2026-09-30T10:52:32+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
