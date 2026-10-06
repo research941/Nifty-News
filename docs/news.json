@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T01:34:03+00:00",
+"updated": "2026-10-06T01:46:53+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "2b63a7213ba7f2e1",
+"title": "Jio Platforms IPO: Rs 37,700 crore issue likely to open on Oct 21",
+"link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms",
+"source": "ET Markets",
+"published": "2026-10-06T01:07:35+00:00",
+"first_seen": "2026-10-06T01:46:53+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c82a71d8d161c580",
 "title": "Stocks in news: Vedanta, Kotak Mahindra Bank, Marico, Axis Bank, Trent and Zydus Lifesciences",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-kotak-mahindra-bank-marico-axis-bank-trent-and-zydus-lifesciences/articleshow/134712004.cms",
@@ -461,6 +479,24 @@
 "Tata"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "f8e096898aaf114a",
+"title": "Trent shares in focus after multi-quarter high revenue growth in Q2",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaEQwU2VEVGZGT2xnS0NXdE80cVdMZ3VxcTlZYXlkXzgtMWJZWmNUVGNORnNPdkZsZXNITmF3Zi1fNHdHWGxpZ2lUQjJVU1JwdkNfRHdDZTEwbV8ycDRhbTY3M2NqMF9pT0w4WHVpVVZueF83SUtZaXFZMG0wenllekd6ZVJHMTV5U3BRT3JYQzJUMV9iSVlfcXBHMjVjbmMzOUNEZXNPTlRNWXZUVHdudGtSQk5oRUNtTk4xNGE2SUJ0NFFpclhSQ0hIaTRmcjV2bWh1Qi1ubUtnVUdmWmRtOTZpZHNYa19BNGfSAeoBQVVfeXFMTmhEMFNlRFRmRk9sZ0tDV3RPNHFXTGd1cXE5WWF5ZF84LTFiWVpjVFRjTkZzT3ZGbGVzSE5hd2YtXzR3R1hsaWdpVEIyVVNScHZDX0R3Q2UxMG1fMnA0YW02NzNjajBfaU9MOFh1aVVWbnhfN0lLWWlxWTBtMHp5ZXpHemVSRzE1eVNwUU9yWEMyVDFfYklZX3FwRzI1Y25jMzlDRGVzT05UTVl2VFR3bnRrUkJOaEVDbU5OMTRhNklCdDRRaXJYUkNISGk0ZnI1dm1odUItbm1LZ1VHZlpkbTk2aWRzWGtfQTRn?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-06T00:07:05+00:00",
+"first_seen": "2026-10-06T01:46:53+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -562,6 +598,22 @@
 "Regulatory"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "f77cdb2ae2f76ed6",
+"title": "Infosys Ltd. ADR underperforms Monday when compared to competitors",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUFmcVJvRlNfVy1naV9WcHpjS21yaGtyenF0VXNrV3dES1J0R2Y0Y2ZsYl90LWFSX0huN2Y0YXNYTUNXYzdWNFRla3phVGFaM01pTkNvWGRlNy1QWHNBdk1zNmpLakhSWm91eS1NQ2NPQWhoSmx1QkNHVnpLTUJGbi0wUzhYWkRfalNIcElMTU5mZ0NrcFc5eEJNUmh3cTJuU0wzR0hETzRQcU16OGVrTkNTaVduYjV4bWFWSlBoZGlCWjEwRjZXMWQ3YTlkaFZsRVFnNElrdGo3czQ?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-05T21:25:00+00:00",
+"first_seen": "2026-10-06T01:46:53+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "4d2530b9f46bb7d9",
@@ -51402,58 +51454,6 @@
 "PSU"
 ],
 "tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3a63fd252dcc121e",
-"title": "Infosys extends AI partnership with ABN AMRO to boost bank's IT efficiency and innovation",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd211Q0EwMmhvTU15cEJORzFMbVZCVUxidUJrRGlGNGRwRzE4dnJBcHQ2bnUzUDU0czdFMUVoTUJGLXc5TWRMWGx3dTE3N0k5ODl1ZE5IUWxBMTh1MFMzUHV4dkg1bzBxTTREYWxURkhDMTRKOFlPRm1aVmhGYWN3UC05RkJZTENHcUhZeW91VHRqQUxBVzZQZlcyWHUwQ1JhaGc?oc=5",
-"source": "Pluang",
-"published": "2026-09-30T10:43:48+00:00",
-"first_seen": "2026-09-30T10:52:32+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "be87564f6d237a26",
-"title": "Delhi HC directs ICICI Bank to reverse wrong transferred money",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGNFcEhhY18tX0JiV3NzczhPcGFlUk1IREV0TEtxcEE1SlFtSVc4bXBJSkJyTHhaLTk0MjVzbklHODBDSTZIWjI5WExiYjFzcmJsME1pT0dfWjdobWs3ZTJTbXBiX2JZXzVhM2dXWXpqQXJWU1pNLWFVV3pzMWFJVFpDSnljYXZ2UVhyMEI0UEhtN29WWVJjazhWUQ?oc=5",
-"source": "The Statesman",
-"published": "2026-09-30T10:41:20+00:00",
-"first_seen": "2026-09-30T12:54:09+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2f761514d55ee4ee",
-"title": "Wipro extends Alpha Net Consulting contract acquisition to Dec 31, 2026",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHdvNXk2SmtKTnNmSnFsMXM4d0pNa3EzLU1RMVhDSllPSllGWDdnT1BmaG5mblI2YWVhOWM0Y3d0bTBfX1RoektlWTJIYzdoTjFCSTN3QzlGWG9qbDd0OU95UWVQVldGV2F5cGw3NGZEWXk1aFBSNGlIOXRGZjZZOFQyTk9YMUQ0WGtjUWNMWXR0YjVna0ZmLUtSajFJd0ZwWU1lR1RvaUxaWUJtaTBaUXd6YVNGNTJBWGp5M2p2Nl8zUQ?oc=5",
-"source": "scanx.trade",
-"published": "2026-09-30T10:41:13+00:00",
-"first_seen": "2026-09-30T10:52:32+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Order/Deal"
-],
 "sentiment": "neutral"
 }
 ]
