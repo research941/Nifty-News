@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T03:29:30+00:00",
+"updated": "2026-10-06T03:47:44+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "4fb3df271b82c9ed",
+"title": "Trent Shares in focus after Q2 revenue rises 23% to Rs 5,788 crore. Buy, sell or hold the stock?",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-in-focus-after-q2-revenue-rises-23-to-rs-5788-crore-buy-sell-or-hold-the-stock/articleshow/134721903.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:16:14+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "7ddaeda5e128f315",
+"title": "HDFC Bank In Focus: Bernstein Retains Outperform Call, Expects 63% Upside",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNG9UYTk0c3VrWHFUTFkxY2l6amw3YkZJa0xHcU9vNWY0QkhRdFBWREpwb2xzWFJnZTRjODlIaTdfbmlBMXI3R2Q5UzdaOEhycnJUNXROTVNVVDN1TEpJU3RRMHY5OUpIcUxzY2FMcldReW9UbmprU0t2TXFCSndhSmV0S3phVzVBUmxfdk5pNHdHdHRSd1pLMnIwYnp2VDlrbmducVU1Ukc1ZkFUMHVmWWw4UGTSAbwBQVVfeXFMTjVMRGxRSWUzenRuUUw2OVZYSzlaOGszQnoxRzRGbVQtS1J3cnczdEJVV0E0N1cxblRlOXE5b3dWbC1jRE1PUjNodUVldm5iWFlDXzVSZUJzaGhqcE5nUEtEZVNpQUNUa3JEdXExWDRHeHZQenp2N3JZWUhsaHE0MFdxUlRfdnhJcTVyWGdjNUIwQ2VGR3NnWFFtcjY5bXJ0X1VhV2lnSjZzdzJ6TWNuNzRGMk1HZ3lZU19Cbmc?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-06T02:54:15+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "b85c1e719399edc0",
 "title": "Adani leads India’s data centre race with ₹8,379 crore bet",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSkNnQnlPNFR2NmphLU9XRTVlVVBVV3V1QzdDS3dxSFAtVWtlV3F6Ym9sYklZWWdjOGJzWUsydUptOFZuSXpsWWswNWZfZW9ndmdlODc0MloxbklNUGxNaXNWRWNENHRWRUE1bmxkcFNZVFV3ZV9XM2RZWnc5UkdtcUVGUkZDYUNUZUwxNURYc1FKZnhyZ1RQMjhqcnZ2NTViZWxhdnVR?oc=5",
@@ -472,6 +506,58 @@
 ],
 "groups": [
 "Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "ad61af6424b030a1",
+"title": "Dr. Reddy's reports $32,350 IRS penalty: what it means for Dr. Reddy's Laboratories stock",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjdlTnExc0p6Z0RfSkpLTXUyVk15WVFDeWNHTFN0SWUzY3N5M3ZtYXF6Q0VBVkFZVXJFa0d2Y2l5TVNOQ2x6LVNFNDJvdlJSdnVQY3VCNFE1bUVPVWt6YU9LbjZlZTVjdWh2a3NBVHBCSm5QazdnM1plR2tmVjBzR0lzVFczTGVZUFVoV3hDa3hJX2lUZVc1SXMzVGlYRXJVNEJiaHNkdEFSakZXRnlCOFRPWWFjdHBOQXE4cnNMOVFZRk0?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-06T02:46:54+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"DRREDDY"
+],
+"groups": [
+"Pharma"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "negative"
+},
+{
+"id": "6eee50906af26bee",
+"title": "GIFT Nifty up 15 points; Axis Bank, Trent, KMB, Vedanta, Rentomojo, SRIT among stocks in focus",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbFFsc3duOUUwa0dCN3V6QUw3aG1nT21KWHNtZWxpM0ttRllfYlpEbml3YW5DRkNGZGR5YTg5NUVNR0JQRThnTTB1Qk5rMWZIM1BxcmlpZHRKSGJ6dXRXeXlpaWRiSm1YZHlCd28yVnIwUlp1SWo4d1FiWEdrY2MwWHYwY2R0a1J0ZG14Y0UtREhuejFzQ1BLbFktZjdxekFPM1ZPcnhoUzFDWDVaR0hNS05BMHFJN01HZmx3Y3FMSnBMQ0c0cjJ3S3NGTFJHS3JBQ1A4MDFzQnplclQwZzc3R1BYSjJrQWh0ZENnYmwzekZ4dFlaZV9JczZZSlRXQdIB_gFBVV95cUxPbFFsc3duOUUwa0dCN3V6QUw3aG1nT21KWHNtZWxpM0ttRllfYlpEbml3YW5DRkNGZGR5YTg5NUVNR0JQRThnTTB1Qk5rMWZIM1BxcmlpZHRKSGJ6dXRXeXlpaWRiSm1YZHlCd28yVnIwUlp1SWo4d1FiWEdrY2MwWHYwY2R0a1J0ZG14Y0UtREhuejFzQ1BLbFktZjdxekFPM1ZPcnhoUzFDWDVaR0hNS05BMHFJN01HZmx3Y3FMSnBMQ0c0cjJ3S3NGTFJHS3JBQ1A4MDFzQnplclQwZzc3R1BYSjJrQWh0ZENnYmwzekZ4dFlaZV9JczZZSlRXQQ?oc=5",
+"source": "businesstoday.in",
+"published": "2026-10-06T02:45:29+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"AXISBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c16921b2c0cec2c7",
+"title": "BEL: Kotak Securities upgrades to Add from Reduce, cuts target to Rs 410 from Rs 420",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObG4tbHdhLU5JaTVJYWhya0pid3JZRXRMNThMSmtsbGJpN014ZW9GVDNUbmlUYkJZeW4zUmZpdWRndDI2aFBDTURfeVlDcFFvQnRLVWltZXhjUDdpdXFndFZRYW9EVVZxY0UyUU5OVTVfZW96YlFzc1ZzUXZhaFVnbTg0b2ppaWZGOURqX09qSFRTMjFPVDhoNGlaRllwMHA1ZkxoSGlJS1pvaFF5V3A0ZTBJeDZBMEZzc1IyX2EzMFRVVjR6TnZTdTdkME9WWlRkSllGbjFibw?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-06T02:40:32+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -524,6 +610,22 @@
 "Banks",
 "HDFC",
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "e1dae738e2af3a6f",
+"title": "Bharti Airtel’s prepaid readjustment leads to no major churn of semi-urban, rural users: IIFL",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT2FuclpKb3VmUE1IYTFxeFJIV0VxRGZrdWxRZV9TRUM4cUVZSmZHT3E1R19qVlNrd3hzUGZ3cks4VVZnNFp6Q3FFV2JkcGhUUVZNR0RDeFZ3ZjRSeEtETEotYjN6T3JoM0RvX1Q0UzNGLU1vUVZ4cGsteldJMlhwbGhjMVhOeG1kMUhWXzF2ZnBvNG56Nmh5dWFuSTVNbExITVI1ZXBWc3JEVVV3ZS1UWVRVbjNiRmhmZ1NreHdmM3d0eFVEN1lLT214NkI2dXlIWjMxaEF0TW4tNlJlc3d3Q3YySlZXSDgyYkhwcEJ2WDNzTHQ3YXfSAfYBQVVfeXFMT09hbnJaSm91ZlBNSGExcXhSSFdFcURma3VsUWVfU0VDOHFFWUpmR09xNUdfalZTa3d4c1Bmd3JLOFVWZzRaekNxRVdiZHBoVFFWTUdEQ3hWd2Y0UnhLRExKLWIzek9yaDNEb19UNFMzRi1Nb1FWeHBrLXpXSTJYcGxoYzFYTnhtZDFIVl8xdmZwbzRuejZoeXVhbkk1TWxMSE1SNWVwVnNyRFVVd2UtVFlUVW4zYkZoZmdTa3h3ZjN3dHhVRDdZS09teDZCNnV5SFozMWhBdE1uLTZSZXN3d0N2MkpWV0g4MmJIcHBCdlgzc0x0N2F3?oc=5",
+"source": "ET Telecom",
+"published": "2026-10-06T02:13:28+00:00",
+"first_seen": "2026-10-06T03:47:44+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51364,106 +51466,6 @@
 ],
 "groups": [
 "SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fc9ccd4fbfb1bd24",
-"title": "Tata Consumer Products Ltd Falls to 52-Week Low of Rs 953 as Sell-Off Deepens",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2FsY3RjenJoYzdhXzExeDZnMlVaNHV2VmhHZW1qbnJmRlBnRFZhZFBQaWhycHliOGZEaGNOTXNDYm80MDZ4QjdaaGtHU0VMMU10U3ZxT3dTUjEwUXlQUEJPQUh2ZE93NzRCdWc1aGRMNW5Ic0dqZDRXcURlT3IyR2kwYW5GY2RLMFdHekIyTGQtbGV4d2FkTjg2QWNNNDdtZ2E0dVJ4WkdXbm9WcmlVV2xxcy0?oc=5",
-"source": "MarketsMojo",
-"published": "2026-09-30T11:27:59+00:00",
-"first_seen": "2026-09-30T17:20:05+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "48a9d5417aa39f15",
-"title": "Airtel Money Secures $90 Million IFC Cornerstone Investment Ahead of London Stock Exchange Listing",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmdjZE1BR0pYU3hpMjFXeVptU3NHOTZvQS1SSGpyX0Nnemdoc0VpVGFYVm5XNWxqWXJna1ZuUU81TjVRRGc3N0ZGTVpqakhncWlELVBobDBGM2pfY0p0NmhqN1VKWnFZU3Y4Z1NoT1R6RzRoU251bVlGWEt2UV9tQzRra0NKMWRNNWZVQ3BXMWp2c2RnX3c?oc=5",
-"source": "streamlinefeed.co.ke",
-"published": "2026-09-30T11:26:04+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "positive"
-},
-{
-"id": "520da554f8039d61",
-"title": "JLR Adds Range Rover Sport Electric as Delayed EV Push Gathers Pace",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjVVRlNUZ1RKLWUxLWxpMzdmZ254WkZCaTJuYTBLTWt4UU1ZVmxTNGxaRkt0ZFFWbHpqZUN6czAyRVVjbWwySEJCQmRwcU1rWFdPQkEwQ3hlY21vNlJtM1RNRHJNc0FYV2k3NmxsRVk4bEgtM0FVZzhCdUh3WHNnTkhkRTdRbURib3hrOHZ0UExZSjhhTDR4X1BBelhha3lWSGlBWC1hTlNndmJPZ2ZROGdOTHpkRlV3M0hSa3FLRWpMVHdVRkQ0?oc=5",
-"source": "eletric-vehicles.com",
-"published": "2026-09-30T11:25:15+00:00",
-"first_seen": "2026-09-30T11:48:33+00:00",
-"symbols": [
-"TMPV"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "254c051f1b38cb67",
-"title": "From cigarettes to protein bars: ITC's ₹900 cr Yoga Bar bet as FMCG giant taps India's health-food boom",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb2VkUEd4TG5IdllsWkJqcXZzdkNfczNCNHItSmpRb3dha0VJeEhiSmxMdHk4a1BxY05JbHdaUU1abHBiUmMxRWFDZXZJQ3gzY3RXbFZnWEcyNWNGYWQ0czU3T3ItTWg4Zl9DOVBrUWdqWGRHUDRfcVhIQng3ZVExQlBxOFlIeUZodW5vS0pEZUdWMGJHaG05ZGRBSTNjczdaYThiWVpJSU9ySTh4a3NVR0tOR0hWcjJoa21LeGN6SXEyempEdHNFU0dfcVJzcWtXcTl6MFRyS29YNzF4bklsNkMxZHZxZk02bjhHMjQwS0XSAfYBQVVfeXFMT2VscTYyLWlGVnNBTVVoX1h6RGlYQk9mWFFtaWVJc18zSmtwNGprS09RV1FYSklTLTFFdHhyd3U2WEQ5anNDU1FVUmZVeTBGb0JrTmc3NkdQOWNZVjRuYnR5b1l4bGFsd0dBMG5MX0JEYUNSRUdObWFYTGtqTGx0VHgyNmYwaUxrSGh0UzJMWnIxRXlhTlVsaTgyeFZNNDNjQVZWU2h5Y2oyYWJZZjQ5TzdNT3M1QWUzTWhNQWFxLW9RbHJRSjBDUkZscU5mZ1R2RExydjNLc18tRmpRVnlteTRGZGplQU1QdHE3ODFZS3ZXd2FMQm1B?oc=5",
-"source": "Livemint",
-"published": "2026-09-30T11:22:19+00:00",
-"first_seen": "2026-09-30T11:32:29+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "033c66880b1bf7d1",
-"title": "Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tOGU1TFY5eEZXQ0hKeFR0MUNSYkdVX0VGLXhlSHFtNzRZd1UyTHVQNUI5cmI4cjFOdFMtTlNsd2h4WUFEak1BTTRWZ3V5Ymt6d1pqRVlKR212TDJWN2VFWi1rSzE0andENTNsMldmVFU?oc=5",
-"source": "Upstox",
-"published": "2026-09-30T11:21:27+00:00",
-"first_seen": "2026-10-01T01:20:03+00:00",
-"symbols": [
-"APOLLOHOSP"
-],
-"groups": [
-"Healthcare"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9419afb17c12520f",
-"title": "IT stocks like TCS, Wipro rebound, but Jefferies remains cautious",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcHd5MllFOWc4QmhQbmd1Snl1Nk9ET2RBSWl5X21PczFIeGU4RV9mZ1daTjFrTkR2R3QzQXdFWDlzX3VkcThwTHB2X3pOTl9SVFlOY1B6dk16d2c?oc=5",
-"source": "Motilal Oswal",
-"published": "2026-09-30T11:20:41+00:00",
-"first_seen": "2026-09-30T12:54:09+00:00",
-"symbols": [
-"TCS",
-"WIPRO"
-],
-"groups": [
-"IT",
-"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
