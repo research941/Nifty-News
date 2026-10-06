@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T09:38:32+00:00",
+"updated": "2026-10-06T09:54:07+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,40 @@
 ],
 "items": [
 {
+"id": "818b1a926ef6dc61",
+"title": "Tata Motors Passenger Vehicles reveals production and sales report for Q2 2026",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU5EMzVybzhzTkFsNG5VLUlFQlg5QnlYbGdKSGpzVTFOTXE2cEtxM214a0w0eWZDaG02NWIzQUJObUxPY25OdmM0dktuX3dhRGxHQ3JDcDJVeXBXalFhZnZFcTFCWC1wZ0dzOWJpaFNNR0lYV19RQTkzb3JRUnN5RDQ3ZXFBMTllbW1oWkd1dEMtNXFibFdZNm9DZVpvNXVEenRKUXNRMXBudnIweDllRDZrNHViQQ?oc=5",
+"source": "Business Upturn",
+"published": "2026-10-06T09:50:56+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "2a27f2d9fbf1cb87",
+"title": "BEL Invites Retired Scientists as Advisors for Sonar Systems Development",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDdTbTlERDN4TE5DS092NXVvMndJS1E1NVJuTEF6S2RNWUZ0c1ZHbHp5WWVaUHBJQ0RzdGF6R2Ytc1daTGlDc2txblYwY3FlYWtkRVFUSTVaVUhIcnZXWE9FaS00bnlTOUZESnp6X3hZRlYxS0s5RDJXTXluWDA4eUVNNE1DVE5pazBwNGtoTFNfOEx2eFR2Q1VGeVc3ZEY3aC1sTmtn?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T09:43:00+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2dbe00e42cd5efbe",
 "title": "Sameer Sharma Appointed as Head of Project at NTPC Dadri",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTRvNkdCTFhPNTRNbGNjY2VNX0tUaWh1OC15U0NqR2NWRFUwOHV4TlFYNVJPYnZmWVFDOWdxOWQ1RHFQY3g5c29hY0xvZ05TUzFtaGd5V3RyZjVZTC1qNzZwSkNuam8tMlU4ajlQb01vRFJMMG9MclBicm4xbFJMSkp5QjEwWk96?oc=5",
@@ -460,6 +494,22 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "a177fee5562e5762",
+"title": "Defence Stocks To BUY: HAL, BEL, BDL, Solar Industries & others - Jefferies top picks with up to 41% upside",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUxGb1NubWN2NHRoVkREczQ5MHFOck5ibVE2eTc0QmNZUDVBdVU3ZGdVWGY0UVdFSDlwVExNS3l4eFFvSW1sT0t3S2ZLOTNCdWdJWS1PbnBEcV9GaG1TNUlTMGxwLVZKQklkdkRDQ1NfdS05YURLOGR2dVBCV2F6amR3WGJmTV8xQTN5R2NGQXN5OV9GRllXcWJ0cVplemtDd1BuOG5ROXR2QS1SZnlQd25GbU4wVmw4eDNHUFRiRmVzczRWWGI1UVdBSnBDeHNBVUhZdi1QRUpodXpf?oc=5",
+"source": "Zee Business",
+"published": "2026-10-06T09:32:25+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -988,6 +1038,24 @@
 "sentiment": "positive"
 },
 {
+"id": "89c696f0431f4909",
+"title": "HDFC Bank and Kotak Mahindra Bank: Experts forecast what’s next for top banks after boardroom shakeups",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2U1cnZpY1JqQUxDdzJKQUhyVi1VeERDeUQ3dGJOdlFGakFzdUlBWmppYndFaVRDR0xzNFlrQmxMU2ZnY0g5RUxrdy1MRS1kUVdyZkNqeTViTnZVTDNXcXdFbm9XTGU2WlEzdWVQQjFjQ2lNSHUtdl9pc2tQV0ZVWU1TZnB3TGVXXzBXblV6bTJfR1p2RlJ1NFhoejE5eDF3VWhXcW5IV2VJZ0JTdWEtRTJHdUtITHhzTmfSAb8BQVVfeXFMUGFqZ0pyWW80LU5WZUhSVXZ4ZHpEUnl6ZjgtdkU5Y04wMWN3MmQxN2hYWk8zSzNpajJRZUJxcVhabFlfckZoQWpKSFJqdWdyZFRWc05WVmhHWVRLak9NbHQ3Tmh1S2xFZFpqcXV1QnBLYUYyVVhpUDlxOGItNVdLak9vOXpsWWxOaEdSU1lPQ09RbHZFdUM2NzBuLXkwZzNBTWJRdGk2M3hWakZDVDROdjBjYXExckV4ZnVNVzB5WlU?oc=5",
+"source": "ET Now",
+"published": "2026-10-06T08:28:34+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"HDFCBANK",
+"KOTAKBANK"
+],
+"groups": [
+"Banks",
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "37343d611e740d2a",
 "title": "Banking Stocks: Why SBI, HDFC Bank Could See Strong Medium-To-Long-Term Growth",
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemF1azJuNWkycXdNX05DVllHTFVhOUs5U0I2VEpfOU1WVV9yWjRpVWg5TXlyTWs2WkdJemR2SUhHeG5NZ25hcTZUdGUyMGVGUmZXSC1MdDhQSFl4QTlqekpRQVVxRGdobEZaaUYwWkdYcEI2dnlKZ1VQU3FkQlY4Z2JLeUdodV9qZmdJRmRoQmktTnFEbThLTTlCdnNiam9YdWdrelRwTEVWRExGTTNzSDZJaXNoY1VldnVkaDJiSEJVX0VsZEFLUGVzX3Y4ZWYwNXowcjJ3QmdhQVc0ck5QeGRn0gHnAUFVX3lxTFBZMUgzLXJlS1FRdEQ2S25VT0w4WXlUamNha1E5V210WW9LNWxpNjcwTnk4dU9BdzM4V0RYTG1qSjdJTXJDUlpJUGdOc1B2UnkwYWxHTk5VUU9tRUxMNWlsS1pvX0hBVFlCdWxWb3ZvN0tYeWxiaVJ0Q2xwU0F6OXdxR1lmc1RRRFlaSGF2OGxPRWxJY3dTY0dLT25jR1VLckIzaWlsQU1NTFg0VVE4cjVoS1R4LUVhVmlSczA1aHdTT0VVMVJwMDlqNlE3cXBrbEIwUkN2b0c2emtxSW9mWU5FLUhleUhaMA?oc=5",
@@ -1004,6 +1072,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "335e5f68222fa44f",
+"title": "Trent Stock Moves Above Moving Average: TRENT Outlook",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1ZIdnlPQ3ZBdVFEU3FvLVVTS0FCb0MySEtrUDFmZ1JxSkhPLUVtR3ZraEZsLWZEckk0eUs5MS1QTFFfYll2WkE3a1ZhU2VCRGh1em8xNVVWbGkzNXNLak5XVDVTS3dtVTJxcWVxcWdUWW03LWVSb2xIbkY5ZGVFNlFUcm4xQWxfR2lkeF9WbGZULXBqWHBndG5GMlFXRzhWdkJreWFGVXV2VWs5dWxMY0x3VXJqZUQ1UGQ5RjFGWDBYRkJr?oc=5",
+"source": "Kalkine India",
+"published": "2026-10-06T08:20:00+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "7cd3bd2640aed306",
@@ -6637,6 +6721,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "9bc3acaef19c286f",
+"title": "Hindustan Unilever Announces Appointment of Yogesh Mulgaonkar as CFO Beauty & Wellbeing and Head of Investor Relations, Effective October 2026",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXU1Q2t3ZkxCVEQyZFVQU1lHWWhvZTlkOGpOSkJXRlBlbEFyc3VMNzBjY1FER1J0OERXcWVrWEVXV1hsWldZZVRocjFqdUFVY1Z1aC1fcXpKSmJxb2Nvek9iVFNuUWxJa0xqb3RDVjBvODI0LUJLcDF3bmRNcXBZMXkyc0tOVHYyTkVOWWctYVcwWnN0T3h1aFFSRmhRTjloa3UzS1poTGdWb3dmZHByUU4yUmZjenlZaDNFcXlwQjgxRHB2X2ZqUml5YUxyNndpQ3Y0UDZyY0JUZ0FsNmNjVExaQV8?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-05T19:35:00+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "01082f77f36687b6",
 "title": "SBI to pay Rs5L with 9% interest for sitting on cyber fraud plaint",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalI3dzF0ZU52UXVLRDl4RXlnaVhoa0R2MmhHUGZXOURkZ2hOdFJGUDYxenZmY0VYOGFEV1J1NTNMcDVnR2VoZG1GQXRUY2VlVFRSQXZzUUh6T25MN0xnVG5MN2cwbVJSb1NJcThTWk1qVllWQS1GTkdGampJYVR3RFdmZEhyLUpab25sVlRSQVRxMC11Z3pTc0xiRll1Y0VtNlh4LXd4T2YxYUgwNENLVXNtOUJSVUFJVWhYdlM1Sm5qYmU0cFFzVW1rNW5NUURIb0swandic2w0N2fSAdsBQVVfeXFMUGpSN3cxdGVOdlF1S0Q5eEV5Z2lYaGtEdjJoR1BmVzlEZGdoTnRSRlA2MXp2ZmNFWDhhRFdSdTUzTHA1Z0dlaGRtRkF0VGNlZVRUUkF2c1FIek9uTDdMZ1RuTDdnMG1SUm9TSXE4U1pNalZZVkEtRk5HRmpqSWFUd0RXZmRIci1KWm9ubFZUUkFUcTAtdWd6U3NMYkZZdWNFbTZYeC13eE9mMWFIMDRDS1VzbTlCUlVBSVVoWHZTNUpuamJlNHBRc1VtazVuTVFESG9LMGp3YnNsNDdn?oc=5",
@@ -7394,6 +7496,22 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "9e3756124ab6f2c4",
+"title": "IndiGo Raises Domestic and International Fuel Surcharges on Tuesday",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlZmMXJ6SnJPbXJwZmpnVDZBT0lDaXk4akRFd1YzX296a3lVVW8wdTR6Qnc2YzBITDExckxwb0ctbGJxQzVraExVOE1za0dpamdoR2NTbUxUNU91UFpNal9KUUxJNWhwMjF5VVJ4dWJ4TndPZURidGk5aVVIcnNZdGJqZG1DTXhib0VTbWFPS3NGQ0dqb192clpmZmtTZll3cXVNWDFpY1MxUElGSGtYRzZtYzNkTnhINDl0R9IBwgFBVV95cUxNVFlyN010WGN2VmFlVEM5RDV1Y2wwNlZaR3JhMy1PYTNQRE1HXzZ0aGZnUTNIN1VMR21jX0ZyUlVFOHV0bGN5Ylc0SEVaVUpnc19SLTNOX25tNjVWU1p5N2lKVmlIdkMzNFFBOW5vT0FrUG1XcTBtY2ptX1QyRUNGZE9ZbkNYZUd6YVVndHVRVk83UnUzVDdXYkZkM1NLZ1d1Y08yMTZVVzdGd3M4WVkyZWVFTVRqMENzR3Z3RUhNSERFdw?oc=5",
+"source": "illustrateddailynews.com",
+"published": "2026-10-05T16:09:28+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"INDIGO"
+],
+"groups": [
+"Consumer"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -9138,6 +9256,22 @@
 ],
 "groups": [
 "Bajaj"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b539080c5794d48f",
+"title": "ITAT Deletes ₹2,223.91 Cr Mining Addition Against Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1BlX2UxNnc0YVhaY3dVM054RkFmX1FoTjhTUEx5VHNtN2xOOE5Pa2dVU0c0WXc4SjJkaXpQcXNpaEczQ1ExTXJCY0JtVi14UDVaRW9NcC01LU9wc2M3ZG8xeWxFQUt3MURnSC1hNFY4Vmp6Y2pCbERlczNiNEpRTlBjWGhUaVh3N2NfcHB2YnBfUHhfMk83VU5SYUZEWEdZNWlCNEp2VFdQRDJHWi1ucjJFWEFBMmM5eU9wbDhCdXQ5bDFkTDNjT0xtZ1lVLUV1R1JQWHdkYlk2Mk1kQTR6cUZNREYtWjgyMjMySzZQMHN0Z09w?oc=5",
+"source": "Taxscan",
+"published": "2026-10-05T12:07:00+00:00",
+"first_seen": "2026-10-06T09:54:07+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51397,136 +51531,6 @@
 ],
 "groups": [
 "IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "fc6bc110b06a60db",
-"title": "Stock market today LIVE: Nifty, Sensex extend morning losses | HDFC Bank, Lemon Tree, HFCL, MPhasis shares gain",
-"link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-us-bond-yields-gold-crude-oil-rates-hint-at-a-gap-down-start-for-nifty-sensex-11790823214707.html",
-"source": "Mint",
-"published": "2026-10-01T03:16:55+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "37542399f9470d2e",
-"title": "TCS Share Price Live Updates: TCS Current Price Update",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134607160.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:15:20+00:00",
-"first_seen": "2026-10-01T05:23:42+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4656db918d8c6a9a",
-"title": "TCS Share Price Live Updates: TCS stock gains traction in today's trading session",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134607160.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:15:20+00:00",
-"first_seen": "2026-10-01T10:18:58+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "77bf1fd67221c0d8",
-"title": "TCS Share Price Highlights: TCS Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134607160.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:15:20+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b96461d231c958fe",
-"title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Price Trends",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134607156.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:15:03+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "2021635f9fcbfd3b",
-"title": "UltraTech Cem Share Price Live Updates: Market Update: UltraTech Cement's Current Valuation",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134607156.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:15:03+00:00",
-"first_seen": "2026-10-01T08:22:10+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "cb5569637f652496",
-"title": "Kotak Mahindra Bank appoints Anup Kumar Saha as CEO, succeeding Ashok Vaswani",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3ppRkt3eXdQT0wzdDZoNElJX19iTUFQQUtNTnZ5dmtpNnhVYkcwWi0xakxYVGlSTDJwd0F4TTk2bklpcXlBQ19ZWDNhaHBvdE9BNzZvb0Fvbmo1a01mb1g0NUZzdkpsUEZtSDl0VUpyT3lnWXNpY3JRckdUUlBSNzdlQlVITzhxSUI5dm03dkZSLXMxa2djNXMxNEpzYXc2STcyR0tCYXJraUxzdXRIcE82d0lKdklYaF9jV2gzMU13UEtyb3c?oc=5",
-"source": "People Matters - HR News",
-"published": "2026-10-01T03:14:23+00:00",
-"first_seen": "2026-10-01T04:54:00+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "4a02bd2bb2e47036",
-"title": "L&T Share Price Live Updates: L&T's Stock Price and Volume Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-01-oct-2026/liveblog/134607123.cms",
-"source": "ET Markets",
-"published": "2026-10-01T03:12:23+00:00",
-"first_seen": "2026-10-01T04:54:00+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
 ],
 "tags": [],
 "sentiment": "neutral"
