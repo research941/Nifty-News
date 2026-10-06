@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T02:49:59+00:00",
+"updated": "2026-10-06T03:00:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -499,6 +499,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "a19549c187bef5a9",
+"title": "Kotak Mahindra Bank Q2 Advances Rise 24.7% To ₹5.77 Lakh Crore, Deposits Up 23.2%",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTRUdjJKaGFQWThINXg3UWU5NDMxeUNYZlpoY0tucmZnTkxQU0JIQTBOUzNyUVJvZ0FjNGdqZHM5UzFLVVJzOFVfM2xMY3ZLWm0tQlRPdE9lMUdQX3lZeG9fYnN4cUNwRVhnTU9LMDVZM21kUEdoY0hzZTNZZGlZUlQzeFJsYkU5a0xsV3FnSFRxWU9rOUNKUV8xdFNwRUF6M1lnWHFB?oc=5",
+"source": "Sahi",
+"published": "2026-10-06T01:46:52+00:00",
+"first_seen": "2026-10-06T03:00:39+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "ec997cd4da5c474e",
 "title": "Jio Platforms IPO Date Leaks, Earlier Than Expected",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2dGcXpnN0E0Y2hpaTRLa3o4WG5ubWNCRkJMOUFvNDZVT2kyUTB1b0FLclk0cmYySmNQUUhtWFlyaGdyYkwtdEJ0LTVJYW9sUzl4R0ZGM285akxlNlNDdVBVSHhLOEE3dDNvdzdwWTU4UG1DdUlIWHM3QU9kWU1GUmxSWjZnTm1GcWJhUA?oc=5",
@@ -548,6 +566,22 @@
 "groups": [
 "HDFC",
 "Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cb0f931b1cfbeb4e",
+"title": "Stocks to Watch Today, October 6, 2026: AB Infrabuild, Hi-Tech Pipes, KOTAK MAHINDRA BANK, Laser Power & Infra and Narayana Hrudayalaya",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEt0c2hvUGpOUDFtQzd1N0NFM3NVUVlrWFRkUUMtT09BemRIcmVUTl82cHMyaWhwS09ENUtqb3gxTy1kLVB5OTl3N3FTaEtrNnYwRlVMLVZPU2hVc3FDZkhqZDkwTkFWMTFlaWF6Y2VBaHlQc3Y5UHJCQlJoVHFLN2pibUkxRDlFTDdVVWNmd29RMlhBV18tMUlyR2dQdVQwUVVvNXBBOGstbTRlX2JWSXhwOXpwLUhHTTdhT0VDOA?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-06T01:39:11+00:00",
+"first_seen": "2026-10-06T03:00:39+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -604,6 +638,25 @@
 "sentiment": "neutral"
 },
 {
+"id": "793fad3a4813fb91",
+"title": "Stocks to Watch Today (Oct 6): Kotak Mahindra Bank, Axis Bank, Trent, Vedanta, Marico and more",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjVfNV9XUVN2U2g2QmUybFdRMGxKVGlERUg2Z1ZKME91V3Q4MnM1czBOVkFLcE5MZ21rdHlmUFRWMEVDQmpCeWRscUF0dGE2TmZSUEdMYW1wNzVZRDBHRVJFR0o2eXVpbDlOS3I5WkplOFdjeXJsRWxOM0txY1pJZ2dzUGRYeENpa0E0RnpaN2NaWnRPSzQ4cTBEZDM1Yl9jMmkwZEpaZTFLek92bGppM05JdGE5cWs3Zi1jTmU0eEUxMC1hbkN6R2dtaHNVc2cwc29lag?oc=5",
+"source": "Zee Business",
+"published": "2026-10-06T01:23:00+00:00",
+"first_seen": "2026-10-06T03:00:39+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2b63a7213ba7f2e1",
 "title": "Jio Platforms IPO: Rs 37,700 crore issue likely to open on Oct 21",
 "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms",
@@ -637,6 +690,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5efcb3fc8fc52d77",
+"title": "Bajaj Auto Offers Festive Benefits of Up to ₹12,000 on Pulsar Range",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZW1IUnE1LXRtTC1pcDFXU19tWlE0bC1xMWMzQVoxZTczb3FBdUZSNHpwRnQ0YnhjWndZa2pDUVFjWWdQMDBxNTIxWTA3cUFjd01XMDFMdXE2VHppZ1VHNEdpb2hubzVtLWgxS2UwblNYNHBseU1vNkVBakVnc25vVlUxUFh5eHpWX1RNR1Vfa3FsR0FHNzBWVEx3?oc=5",
+"source": "ACKO Drive",
+"published": "2026-10-06T01:04:05+00:00",
+"first_seen": "2026-10-06T03:00:39+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -728,6 +797,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "7e5ad87847b4cc4f",
+"title": "Why Is Tecsys Inc. (TSX:TCS) Drawing Fresh Attention?",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnJ6dDBDaUNoRmVNOVVKNzJHcFNNMjNzR1dqd3VGX0hyLWN5YWVGZVZOcnZkdVdfRmluVWZPUGJib1BhczVuWUkxdUtRSmZVdHhaby1aTDc5RUFUTnRLSXA1WkRtalRyVWxrSlh3bjRFeHQwM24tTlRDc2pqWTBNTzY0MzJjaE91dGc5aU1QbDdLZkZKSE13ZmZB?oc=5",
+"source": "kalkinemedia.com",
+"published": "2026-10-05T23:53:00+00:00",
+"first_seen": "2026-10-06T03:00:39+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -51382,92 +51467,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "728b3d86c9377fa3",
-"title": "UltraTech Is Spending Billions on New Capacity: How Long Before the Capex Shows Up in Earnings?",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUnVGTzFEczkyZWlSVVY2dlJPZmU3VUpLUkt0czVBYW4zSXMxcHhyYXFxWGRTU3JIUU5qamdRLWRISXhyWDcwSDU2SnBUNEprY2VXN25CYzd4ZkExaTFLeThjZGlIVFRucFRQbjlUNF9SYnFXRVB5dHRhd28wQV83WnRrM0VYOV9QUEFscE1NX0V4cEZCZ2NlbGNzRWJxYzNyWlBsTWVtQ2JaaWdmcmJRcWZ0WGhtbmdwWjI0c2ttRFp3eTEzYWZwa21zV2JIUF91Ny1mQ1FaTQ?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-30T11:11:13+00:00",
-"first_seen": "2026-09-30T11:18:40+00:00",
-"symbols": [
-"ULTRACEMCO"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3063aea5652be0ce",
-"title": "HDFC Bank Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmZwV1hrMDNVYzVJS3A3bVRYRXltdUtnTjNLYWtLSHRodFBBa0VjNU1jUzNFcFQyYW43TE5NSXQ3bERLN3FCQzlXZUxqaGJ3U2JuNmdIRDVPVzFWenQ5SWE0Wi1RY2ZLcVZBVTJ3cFdndkJCVFRBU1o4cEN3TnQ5OVlZbF9ybmNfQVFUQVhR?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:11:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "ba7758937c06d783",
-"title": "Bharti Airtel Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnhhcnhPdVJ0NXV5VkVGaXpQYVhyYW1rVGJUbDFxek5ZaWVoRlNIcDgtOW50TkctVjFnalNYQVVIMWxSdDVFMTB4ZEhwNFlSODhaTFNDcTNoTTFvNVVqYVVYX1pVOUtiZUY0eTlWNlFQakwxTl9ZTVNSYmEycGoxWmlOZ25mQ3NiU2dwc00wZ3huZlU?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:11:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0d7c681da1464a9b",
-"title": "Patiala News:SBI Life and LIC Placement Camp at District Employment and Entrepreneurship Bureau, Patiala on 06th October",
-"link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfLTY0b1o3WXQwQTRXNDhURlBxTEgwazJtYVotVERBblNON29ydmVCX0VnN1pmaFVwLVgxUmNoSjhvNENsbUJENUNB?oc=5",
-"source": "Patiala Politics",
-"published": "2026-09-30T11:09:01+00:00",
-"first_seen": "2026-09-30T11:18:40+00:00",
-"symbols": [
-"SBILIFE",
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9aa05a0cace5e73d",
-"title": "Infosys, Wipro shares slump to six year lows; brokerages flag muted Q2 growth outlook - BusinessToday",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdm9ScG45Q28yX0pPbXNWSEhiVXRsaWZxZjlTWUVpTzJrang0cUV5em5HMGd2bmVPUUZPTFhGb0dNNER5bFNQTnJYc3pnem5Lanpuc3Bsa2s5dzNXVnFLNEw5NmVQdTdLLVR6Z3JxWG83NmVLS3dXQXotUWoySzc4a0lXVURYWXBvaC1yOGw3d1p2cE9wVUxVT0l4R0N0cDVxNWpoSzNCNF9zV01maEFnYjR1aThjUUh2ckd5cFpGcXlZVEtPTnlFM1VVdHFvQQ?oc=5",
-"source": "IndiaIPO",
-"published": "2026-09-30T11:07:54+00:00",
-"first_seen": "2026-10-01T07:11:48+00:00",
-"symbols": [
-"INFY",
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [
-"Results"
-],
-"sentiment": "negative"
 }
 ]
 }
