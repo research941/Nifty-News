@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T00:53:50+00:00",
+"updated": "2026-10-06T01:19:22+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -3141,6 +3141,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c1fe0bd880d9c6bb",
+"title": "MARUTI Share Price Near Low: Technical and Fundamentals",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEl4Y0lNb2NoM2RpTGhUZGVOaHRJWnRuZG5JdzVUaDA1LUx2TU1BdlprVnVmVTBFZWtIdFFzMUFLc1hueW1CR1lHaVQ5V0h2TElzMkMzTWNxdzNLemtsRWhsR0VlTXhLcDMwenZ5WllOaUxGRkhYZWoxY2ZrdFRMMXROclR0UjlSakQtUDl1ckFpaGYxWHJv?oc=5",
+"source": "Univest",
+"published": "2026-10-05T12:00:39+00:00",
+"first_seen": "2026-10-06T01:19:22+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "be1b2d3d7f15544c",
 "title": "Airtel commits to curb money laundering in IFC deal",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGZtY0JQNThQNWMyTC1iOExMczVLa0pwVGg0LWttdi0tVV9LeUJvMzZMOWpFb2lQVDhXRjVtVHJvTUx1QjAybm5hbFZXeEkzTDRCWlZYSEFwRzlXMVc3dVRsS0kwQ1k1MzM0SFBnTTZLMjZzcmhzdGJnblAxb2lTak03dDBKVlUwLVZJTjVfclVmNzkwVWw4bERDbGwxY0E0N2NuWWZ1aHpydHhLZTQweGFjM3pPMVZ6SWc?oc=5",
@@ -4205,6 +4221,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "8a41c3a135779ca2",
+"title": "Tata Consultancy Services rallies Monday, underperforms competitors",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVWxmeTBXeGdFa0ViUzFJUWxtbU5JUW5EOXg3amZKSVVCb21tZ29hakdZSDlEcFdZYlhXcER3ZUp4aHB5SWcwazFyZGVOdXlkVVptQmZOZmZGYjVFM3hvWHZlYmp6TkNXRkNUSFpqTTN2VHlFWWg1ajhHYnphcVdhLXBHYnEyWHBLWndLa0RQV3RDYjZHVjFiS3NhX2lsTXBqN1NQN3ZobTViQnpyTEhSMnhkLVc1bl85N1lnX1czYlB2MHpZYWZzVWxOT1VkUlhoMjFxelQwNA?oc=5",
+"source": "MarketWatch",
+"published": "2026-10-05T10:33:00+00:00",
+"first_seen": "2026-10-06T01:19:22+00:00",
+"symbols": [
+"TCS"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "2771b394a18535e2",
@@ -51422,38 +51454,6 @@
 "tags": [
 "Order/Deal"
 ],
-"sentiment": "neutral"
-},
-{
-"id": "68d937bef525e87c",
-"title": "Infosys et ABN AMRO prolongent leur collaboration stratégique pour simplifier l'environnement IT et accélérer la transformation portée par l'IA",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SUlpWdVhRQkdrbDJsQWNDXzBIamZmeklnWEdhODdIQjRiQU5zN0ZkSGozRmtWRVBBTFMxbDdKTmVZRk04Zl92aVp3X1FDMDA1V3ViQUE3TUJFcHYzS0w5NTQ1dGUyWEpuM2FNXw?oc=5",
-"source": "TradingView",
-"published": "2026-09-30T10:40:00+00:00",
-"first_seen": "2026-09-30T14:23:08+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "925cbdeebd932e50",
-"title": "DoorDash, which inspired Swiggy-Zomato, comes to India; looks to create 3,000 jobs",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY211a0NUa25EX1NmVzF6VHVLZFE4Vl9Nc01XTEpFZU5ldlZjb3RiREgxbDVuSFFiSF9QdC1HbUtlZEtrN1BYUUtJRllvaC1FY1F5ajlRU00yYkkxdS0xYlAxVGdfU2RocEZBMGYxUFJ5aWRxaEkybU1MM2dPMS1tX3oyUzRhODl1cWR5eERMNXYzQ3dzUVV4M0dKek1KRjZpRXgxUTlZNmhBVHVjYjR5UTY4QzB5NGpjRUFpanVVV3BXZUJ4dFczMlhXbW1ZRGwwajJKOEtB0gHbAUFVX3lxTE5wcmdBVjJ4UWQ4aS1vS0JBMGlMeGVqamRwZkRjVklmMnpOVWpueGVDQ2swY0hETFRTU1NwQkxTRnRsa0VOTk4tZWRCVFRaSkJjV0RGMlZWODdXNnNXbjNzc19RYmhROEVKQTZweGotSWJnMGc4X1h6U0sxUTdSeVVra29IYldTa0dRbWQ1R3pOYW5hTncyTUhyUTNKRXJqaHd1c1BwU0M2aFFmUEJqY2VRNVRwNTREZGFsUFVTbnVRRkw4c1EwRVhTcTNMTk52bVpTUWl5ZndscTd3OA?oc=5",
-"source": "Livemint",
-"published": "2026-09-30T10:38:19+00:00",
-"first_seen": "2026-09-30T14:51:32+00:00",
-"symbols": [
-"ETERNAL"
-],
-"groups": [
-"Consumer"
-],
-"tags": [],
 "sentiment": "neutral"
 }
 ]
