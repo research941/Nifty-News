@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T11:11:09+00:00",
+"updated": "2026-10-06T11:19:27+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -458,6 +458,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "d38b31217b21ad25",
+"title": "Jio Platforms IPO Likely To Hit Markets by October-End At $143-146 Billion Valuation",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1Jqc3dpXzBTN05NRnJIOTJWb2lpTlpnZWNxaVhTaVM3R3NDcjdsQ2pYR2U5cklIZTlndl9PYmZrTHBLdFQ3djlXWkVCYUJ2YXR0VzZ3dXQtUl9DMzRlcjNWYmsteTNIUDhOOVFXdV9CcGdFVG9jNFM3eS1maS1oUmpDenJCbUN0U0hBMlAzX2ZSdklwdE1NWElPbkQtWUlhT1FLSHR6cVkwbmRKRTVOTXM1eElfa0U0STdaUHU4U05KWXRsVXdRVWNRUmlQVm10cXpr0gHYAUFVX3lxTFBzNndZTEd4QjBTbzFobHVmWS0zbkhPOGxHMHZBU3IwSzNJcVJEaTFqVi15Smhna1A2N3JrYUJYMUNHQ2JaelN3U2xoLWVJN2ZabXk0V25oc3hCakZOZVc5MTFQNmlrdnpoOFhsc20yRGVBUkctalFhbGZISmxZdFFZVThFTXY3X2FDWHFWdTVGNGNWMnhOeG5aN2RnS1g0SVFsbHZWdS0xRkx6ZkZodUhRdzQ1N1lFcmtYUy1CVUtCaU5CYXFhVzZFbW9aUExtVmNmVi13MGExNA?oc=5",
+"source": "ETV Bharat",
+"published": "2026-10-06T11:02:23+00:00",
+"first_seen": "2026-10-06T11:19:27+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -3744,6 +3762,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "4937e59e541baf7b",
+"title": "Tukaram Mundhe Strikes: Country Club Andheri Licence Suspended, Blinkit Vile Parle Unit Licence Cancelled",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzlIUldpVXlMU1ZlSHRISF9xTnpSNE93SDRockRwcEtheDE1Yll3dFpObjg5elZSa09qV0J6QWNULU9ENlBxVFljNVhvdG5BRlhXUzhYNDRQdEJVcXJ6MDBHQjZZTWVvcUlHOENXU3B1eWxzR0Y5OXR4ZTRIRG9oZXpialQwTWtaa1BoNVFxTks2TjZyX05qSkQ1a3pWZ2VhOW1PMGZsUVB1RnN6OGdxN203bTRuS205Qm8yR3lZV3FBbkZhb0tFTmVuTVdXa0o3bklqSUw3U3Y5ZWV2RFHSAeYBQVVfeXFMTkpqRklCN1ZMV09MQ0txTk4tWGVoT2VybWFfY1FuNFV6cVFQY3lrQTlLRGNudVdkUGZQRnRUbzlETC1sRUpXbVRlTVE1R1diaEpnWEFfamdjbldYQUYyc3d0a3RhbXl3bDVMWGJObzNHaDNNZzJJX0N2cWZmNXo1UGc2a2toYko4cUVEV2hhenlHeXJSUldvLXgtY3pleUpTSWZGSXBnRWc0bVhmaEF5RlNWVUY5Uk10eERoblE1YlhvYl91UzFFcXdyZXBGaHduWHBRUHNnQm5VeXlMLU5vZUV4bGxOc0E?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-06T05:28:47+00:00",
+"first_seen": "2026-10-06T11:19:27+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "6ee921fc9f0c1908",
@@ -51476,38 +51510,6 @@
 "source": "Economic Times",
 "published": "2026-10-01T03:45:58+00:00",
 "first_seen": "2026-10-01T06:35:43+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5aca7124aebf7b1b",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services closes at Rs 211.8 with a decline",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-01-oct-2026/liveblog/134607497.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:45:58+00:00",
-"first_seen": "2026-10-01T10:36:03+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "negative"
-},
-{
-"id": "76ff6e5c646f1b2c",
-"title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-01-oct-2026/liveblog/134607497.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:45:58+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
 "symbols": [
 "JIOFIN"
 ],
