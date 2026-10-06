@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T09:21:41+00:00",
+"updated": "2026-10-06T09:38:32+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,94 @@
 ],
 "items": [
 {
+"id": "2dbe00e42cd5efbe",
+"title": "Sameer Sharma Appointed as Head of Project at NTPC Dadri",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTRvNkdCTFhPNTRNbGNjY2VNX0tUaWh1OC15U0NqR2NWRFUwOHV4TlFYNVJPYnZmWVFDOWdxOWQ1RHFQY3g5c29hY0xvZ05TUzFtaGd5V3RyZjVZTC1qNzZwSkNuam8tMlU4ajlQb01vRFJMMG9MclBicm4xbFJMSkp5QjEwWk96?oc=5",
+"source": "Veloxx media",
+"published": "2026-10-06T09:34:23+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
+"id": "27b4d4bf8f7b25ba",
+"title": "Live: Nifty above 22,700 on expiry day; Q2 update cheers Trent, Kotak Bank | Closing Bell",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaEEtbHpZc3NYNWNUMEVNZTZic2tzaXVPa1o1VU5YdGkyQnBJVmxOcEcxVlZCaU9UZTBfcTAydkJEaTRnY0ctamZSRWtWblVhV2pDOThsOXp6RlM4VUZHNTYtam1xSFJZZTNfSnp2X050YzRXdXZHZk1sY0MwQl9rbHgxRlE1b3RGZnJoWEJHcjB0Z19FYWlxbW1BUzJFX3VCTV8yYmNiV21rMVhRckJNdXVhTFR1b0g1ZkMtd1RHWG8tUXVnZzBkVl8xLTVUcGFiRVVWak11MUxJR2lEWXZJa3QyVEdsU0lUcmRpaURfVHFkZ9IB8gFBVV95cUxPaEEtbHpZc3NYNWNUMEVNZTZic2tzaXVPa1o1VU5YdGkyQnBJVmxOcEcxVlZCaU9UZTBfcTAydkJEaTRnY0ctamZSRWtWblVhV2pDOThsOXp6RlM4VUZHNTYtam1xSFJZZTNfSnp2X050YzRXdXZHZk1sY0MwQl9rbHgxRlE1b3RGZnJoWEJHcjB0Z19FYWlxbW1BUzJFX3VCTV8yYmNiV21rMVhRckJNdXVhTFR1b0g1ZkMtd1RHWG8tUXVnZzBkVl8xLTVUcGFiRVVWak11MUxJR2lEWXZJa3QyVEdsU0lUcmRpaURfVHFkZw?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-06T09:31:33+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "6802a8cf9fc7bee4",
+"title": "Apollo Hospitals Puts Bengaluru's Auto Drivers' Heart Health In Focus",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzFFVFhBRmg5SXNSN3Fkd3U1SVdSX2RiTTNWc2dCT2pMUUd5MFFma1pNUmdCU2lMUTBxSThoYVZPWXVsT2VZS2J6VU16MDVqbFItbGxOQVJ1b2dYcVRHZUMzaC1NNUdCMFktcFppYklkbWhnTFR3czBha2RockVRaTNianVhQzI4Ui0wQ2hGd0Y4QTBxTXM1M0JUUjVhdw?oc=5",
+"source": "Menafn",
+"published": "2026-10-06T09:27:12+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"APOLLOHOSP"
+],
+"groups": [
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "7184f083ea7b79ee",
+"title": "NTPC REL Issues Tender For 12 GWh Pump Hydro Storage Project Under Service Mode",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZnVMb1ZpcGw0c3Mza0RlQ0dTOGM1VkZkeDR4cTh1QXlkYkk5cW56Q3dGbm5YS2dJLXNTcUlOcENlNjBYc1U3Z1ItT1NsT29PRk04SkJrLWNKeFk3VkJpTVR5aC1rb2RnVHNpRUs5aVpJN2hqUDlqMjlaQ2RTTEd0T3IzU1l3VVdmTndmWUVSSmsyWXZ4djFULVNwS2lUT3R0TmRMU0ZSYVBEQ0lBNjZma2dQNGM1alNFV180ZTA5VHJVSlBOVXRCVjF4RVNYZw?oc=5",
+"source": "Saur Energy",
+"published": "2026-10-06T09:24:01+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "869c612d8fdebbe6",
+"title": "Jio Platforms IPO Valuation May Come In At $114 Billion; Listing Likely By October 30",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUEo4dkxYam9QV3ZyZ3VNVVZpcFdLZ0NXTmJiNnBmZ01wYXlnaXIzZnRKRG0zU1JaaXBqWkc1dXZHVlBaXzlnWjhCLTRUNmdNX0dZcnZJZTltSnpBaWlQVVBkVVU0TDg3ZUNGOVJGUFVyZmpFMXA4T3JtVW9IRWFNTDZOYXRmaUpQaFJVQTktRWx1VlBhVU9uNkk1cUsxUTQyenI4ZjBWQWM3VVNEdWF3WEE3aUlrcnc4WFJYSWJ3a3RidlFvZE5MWnR1U0xGY1JvazZPZXpPRm9GOUFHSVN0dkpQU195VUlldTU40gHwAUFVX3lxTE5CZzI2RFBDZzQteE9zU0FyaUxOYTRseUFuTkRSWVFJX0VuallvMjdzUXJkX0JYWnRUdGF2NEpWSk90d29BZWVhUzNnZDlLWXJpYUFKWjJkRTVjTmZDd0JIYlZXVVAtRVJhallsUEpZbWhSRWRvbHZScUFxY2NZeWh4SjFPM0t1LVN2VlZTeHlaOVlFcklGMk52dlF0MWhsT1U4UkplVkc2VWt3dDQ0d3NfMnljYlIzTFgtQjFUWWZmQXlZRzdaVmdfUllrZjM5V2dxUkVwVzJhNHpRdWVUUklnVURDNWFKbEo5SG1sWERoTA?oc=5",
+"source": "Times Now",
+"published": "2026-10-06T09:21:41+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "33a0f658e3520c1c",
 "title": "NTPC Green Energy Declares Commercial Operation of 50 MW Solar Capacity in Rajasthan",
 "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOVlhQzdwTndjUUJjajhpbm1NRUdBZlFwWW15RVV5c2Q2QXpfNmNBVG9IMHZDUW13ZHFRdGFUVWlwbGlYMmtaLUF3SGlpYkN2cV9aSm1GbHEyc2VuN2xYNWxHOVUwb3RMa2JfUTBiREZMaGpTbUQ4eVFvQURKMmFYWlJUVzNGWXRGX0pobVNZQ0l3NTdTOWlVMGs0TWc4VjFFeVZlbVBOYjA0enhMUm95UFo3Y3RkWWE3Qld5Z1k3VUlveWtKTGUtclpmTVZnbzNUNnc3Y0huOG8xZ1pvd0RjVG1ScktfRjFJZlF2YVZHMzgwT2c1UjRrZXpRX2JjX0Q0cnc?oc=5",
@@ -511,6 +599,22 @@
 "Results"
 ],
 "sentiment": "positive"
+},
+{
+"id": "39838f3841290f90",
+"title": "Tata Steel Plans INR 40,000 Crore Expansion at NINL",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95RUFtM05TZDRHMml2MVNBZGZHN2RMdDdyckhtU05FVXhfVGdSeEhuMl9TRFhyTzVXYjM2ZTN0R0tPTnllQjE3NVhzOHEzNjFpNFFBNXJn?oc=5",
+"source": "tubepipeindia.com",
+"published": "2026-10-06T09:10:52+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "388d1d58c41fc2b3",
@@ -583,6 +687,24 @@
 "Results"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "a669e6cba397ddff",
+"title": "CSR: Kotak Mahindra Bank, United Way Upgrade 5 Schools for 2,200 Students",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZUUtUlB1S3cyeXpwWUpmRUwyelA0NngwbS1JdjRIUWVCbEEtNVh4cXVFQlFEaTM5d0hQT1lNRU1ZQTJpbEs3S2prcHYzVy1HS2hoRkpidllic0kwVUFpRE1EaXk1cjF2WFZ3Y21XV3NRdw?oc=5",
+"source": "India CSR",
+"published": "2026-10-06T08:59:08+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Rating"
+],
+"sentiment": "positive"
 },
 {
 "id": "32966f413058abf5",
@@ -759,6 +881,22 @@
 "groups": [
 "Banks",
 "SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "89beafd3a53b2291",
+"title": "JP Morgan’s festive picks: Why Titan, Lenskart, LG Electronics, Pidilite top the list",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm9XNkdNbkFEcVBqNGluc0puNU5DWHVXWWFFSV9QRl8tWkZXM09ycS1MUGJmY2VVay15cDZDMkhXd2RnQjlibVBWT1VDR0tPbGQ3SEx3ckgyT29lTlVkYUpRU1NYLWYyakRkaEFDeDNMLUlQV1pPUGh2dmc2UnUtWDVLdWcyUXRKQ05ndUFXTTBaUHBiaFc4bnZUdlBGd0xBSG9PZ1MyVWpYUTRBallEdkVsMkJMTGw3ZUF3cW93R2tMV3pMaUFqddIBzwFBVV95cUxPSFVfN19FamwwTXpvc0ZSbVA0Rnl1ejlvUnI4Unh4ZjluMi1XVlRHbFNoQmdoNjFyN1AxZ2dxMFkyaWNTMXlVNFY2MFhCaE9zdnhpZFBzTDBOeWE1WGVYMGFURlFFTVRlQ1FTZ0FqdEJnMHlqdzZjcmxnT3RSb2ZXODB5RVRDWjJJd3JjNFktYzdIZlFJZ0E4TnJDckJwSjlSTjAyZ0Vja3ptTUZkeDAtbHlXdzh5WVJob3RZd2hUTDVfT0lsWHlvUWtMdWxndkk?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-06T08:45:52+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"TITAN"
+],
+"groups": [
+"Tata"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -1115,6 +1253,28 @@
 "sentiment": "neutral"
 },
 {
+"id": "866040e383b38abf",
+"title": "RBI Rate Hike Stocks: Why HDFC Bank, TCS, Coal India May Gain",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkowVC1va2lkQkY5ckkwd1BqbV9vYXN2c0VGUXRsY1YyWHhaOU1VQndLLWU1VEZ2cmhZWVZ0aXpObFJnUTN4VFlfUUl1VHhQLUxabHgyWjB3T0hTRXh5NkJGNFZpNFBpeWFFWjdDSWVsMDhKYl9nbzVGT2dtaXpHNTdNT3dhc21QTWp0YmpIUXFabVBEUmRfSnFpRVpFSmxVa3FF?oc=5",
+"source": "Univest",
+"published": "2026-10-06T07:53:00+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"COALINDIA",
+"HDFCBANK",
+"TCS"
+],
+"groups": [
+"HDFC",
+"PSU",
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
 "id": "03e7dc626ff87e39",
 "title": "Adani Green Energy, Waaree Energies, NTPC Green, Premier Energies: How renewable energy stocks are performing on October 6",
 "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNczFwWFdZZXYtV0tKcEJMN3dsZ1ZiQ3VhZ3gxbGc1cFhPVzFYYzZ1RGE0ZEVSQ3ZEU2IxZ3FENHFTVWoyMFhXR2NGbmJFMTZMa2otdldQR1AwOUtpUnRsd3ZUcXJTRi1fVFNjQ0ZLbnBQNV8wbmZCeHRUb25xcS02Qm1EU2ZEV2o3NmEyU0ZxdkVOOXdsQWw0UVZWTnFWbExZQjN3MlV6T0NvdHJXSEVLNlFCNThBMGdLNkNMZ3czNjJNd2l0ckY4MEo3R0JBcjBHSEdoaUpodEExeWF0dzJJeGVhY0R2a24zNExYM1lYNTZlMHZnSnQ2YlkzdlE0ZldMT2NoMXcwNGQ?oc=5",
@@ -1439,6 +1599,27 @@
 "Rating"
 ],
 "sentiment": "positive"
+},
+{
+"id": "84c7e4a43de826d2",
+"title": "Q2 IT earnings preview: Key things to watch at TCS, Infosys, HCLTech and other firms",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZE1oTHV5Y1ctMFhZa2psd3YxNUtiNmd2Tzk3UnVmQkRCejhXdHR5aUJHUnRWX01Jai0xOHN2YTNlNV9Jd3poWmZvRVl5RElNSWFKRDM2UTk3aWVXT2pGVEZDUHIxZHZ2cUxId1MtbnUtcWFkcTFuZjJDTDQyYWVfVlVrMHJkZWVxcHVGMWhuWTZSUTN3MFVWSlhaaHdZRDYxb2M2RzEzN3BNWU5XUUxtWnVrV0ZLVFZlSGlMWUtQZDZ0VzlvSjNVVUdiLW45ZmYyQnUzYdIB4gFBVV95cUxPMkpSNWtPWFdSM2pmemlyS2UtZ01tOHVHbDRlUkpLWnRtUVdGMWdkNFI5OFVMZkFKaGRTdHZ0d3FFclk0cUlSSlM4WHpfNkU5WmswMWFwNzVKdk5EMnI3RlYxNnlaRTVNZzY1NmZTbm9tZGkzSXRlSDJoN2ltY3pmamliZnVZZWpBQ3htcVM0bXYtWWZYNFE4TGhOcjFhTndiOXBQcUNKcjhucFFXdVBTUFJmOGpRZHZhM0lvV2tlcnR5QlNEcEhmcFRDWWJiTlZ0YndKcnJoWlRZY0U4QXBFQnVR?oc=5",
+"source": "Fortune India",
+"published": "2026-10-06T07:03:35+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
 },
 {
 "id": "ecc0ad03c7647358",
@@ -4170,12 +4351,44 @@
 "sentiment": "neutral"
 },
 {
+"id": "87d38efd1954193d",
+"title": "Grasim Inds Share Price Live Updates: Grasim Industries Price Analysis",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-06-oct-2026/liveblog/134722118.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:31:20+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"GRASIM"
+],
+"groups": [
+"Aditya Birla"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "47e8a0c29bd7ced6",
 "title": "Fire-Resistant Structural Steel: Tata Steel Gets BIS Nod",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV25OTnVlXzF3SVlPSWFmVm15d05Rdl9ONGVTdDJxQnJLc3FBaHdoT3F0ODBPTkdId0NvcFlMTjZtTzlYQldKNUVjZkZMNkU5bVhmdTZNS1hrdW1hS1ZQWGtjSGFBbkdrWjlVN2Qzc09HY1d2V05ibnRzYXB2RWxBZTFpN2IxZjY2VTJkRlBIRm5TRktDbVkyYkJn?oc=5",
 "source": "urbanacres.in",
 "published": "2026-10-06T03:30:29+00:00",
 "first_seen": "2026-10-06T04:20:10+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "67ccc6893facc027",
+"title": "Tata Steel’s Fire-Resistant Structural Steel Strengthens Building Safety",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV25OTnVlXzF3SVlPSWFmVm15d05Rdl9ONGVTdDJxQnJLc3FBaHdoT3F0ODBPTkdId0NvcFlMTjZtTzlYQldKNUVjZkZMNkU5bVhmdTZNS1hrdW1hS1ZQWGtjSGFBbkdrWjlVN2Qzc09HY1d2V05ibnRzYXB2RWxBZTFpN2IxZjY2VTJkRlBIRm5TRktDbVkyYkJn?oc=5",
+"source": "urbanacres.in",
+"published": "2026-10-06T03:30:29+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
 "symbols": [
 "TATASTEEL"
 ],
@@ -5296,6 +5509,22 @@
 ],
 "groups": [
 "Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "91165e197f60fbf0",
+"title": "Hunting for AI stocks? Goldman Sachs’ 42 Enablers include Power Grid, Paras Defence and Tata Power; why small and midcap AI plays are in focus",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaHZiVDVNdmFlOXV4YzJjLU9JQzlTczdOUDUtMVQ2SGtLUmZGVm5YMHhodUlodkdxR2tpVXFrOWVWb2I5eWNKLUtuSHRsZXlwWVhoMHp3bXhuOEc2aF9INTM1LWpPdHZmbHctREtNWkNSZW52T2R0Wm5hOGdEZ2Raa3Q5MS14eWNQZE9fZ3prc2VwSklQX2d0Z0ExZ1ZIdHUzWjgwb0dmTWdpcEhza3lTVlRqeXRTV0JWZ1duaVFhM29sOG1jR2hCYk1wdnpsS095LU01c1ZWZXdnb0V2a2hLQlp5MU81WXVTcDBqZXZ1RzlNNjVQUG5VQlUxZi1CQ1gwTktrNjBR0gGLAkFVX3lxTE1oaXdBcjI3aTNSM1JSN2swTW10RXZzWVhQZVNXRW9wWkRQTnVxRll3cjNvOUVVLWQzYnQwcWdCVERBYTdJTENvNmNETVRlYkMyd3ByLTNOY1ZSWWF5WElkei02RTU5OWw4RVlORGhObkVTUnBva0V0bF94WlR3NDVNSnVKYnVYVUZrNllXQ285YW1SSll1M1hBdFJtdDQ2VVRUYVRvZnV0VUM2VmdrdVlNU2MwZEdMMkhSby1iUW5YUGM0R2JwRy1GdDY3Nms5Mm5OeVVDMFpMS1JYT0dRT2VBMXlGOHNPZ1loTk5BSUN0dHJ4dnEwRWtRSExhcUFEdDVpRFlPRkgwS25kTQ?oc=5",
+"source": "ET Now",
+"published": "2026-10-06T02:39:51+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"POWERGRID"
+],
+"groups": [
+"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -7779,6 +8008,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "3e66885263a4921a",
+"title": "Micron's $32 Billion Backlog Collides With a Strike Vote, an ITC Complaint, and Two Fresh Price Targ",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQnRpb3I5emliekx1a0FEWThlLUR0MXdCd182MEx1SEhUTE5adVhOUk5DX24wQ0xvTzBwRm0tb3Z2aFFSUm1FSkQySE5Lb3Nxcm51ZG10T3RjMUhvSFhxZW9fckdHVE8wemI4VmxFQ2NvZk55MmVDdDRCTXVsOVEzNnB4SkR1WFRoRjRkczBfSEw5YUlkWWhDRkRPc3JPYTRXMlZBOXU3QnJzb2ZLN1BxRHhETFVxTXl5V0lKanRhdHpJTkJMd1V6TlUzem1OVHM?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-05T14:11:06+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "502d2decdde0b8a7",
 "title": "Jio Financial, Allianz invest $66M in JV",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UU212QmNMWlV1V2FJSzgyQ240dE1QX3llOVJmdTA3SlNBblJHQTVXLTFIVzltcUZQYklBNlBqNzdBSE96empQY0V1Q1dQWFVaNHRuQmcwUDJ4TEhUUzgwenlJTDZGTjJBSURoMV9CaHVMYURLVTc1NUZaYmpuQQ?oc=5",
@@ -8198,6 +8443,22 @@
 ],
 "groups": [
 "IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3842dd6550adb331",
+"title": "ITC Hotels signs Storii Sanjay Dubri, unlocking a new wildlife destination in central India",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb0VNQ3JsTGg5SUpDTi1WblhfbFRRRk5HS0RRVnVZMko4WFoyd1ZKU2JRWG1VaGMzU0czbEZDdUVtTHlVa2EzWjQ2SlVfWU5CSVFlaVM5NjRMWk1vMlZneGJRT3RCR0dnRndldnAwWU81RXVxMzU0eFBwTjNiZjExN2FXRjZHc3hxOFJOaFBLZ0ZFaFRuZHBKaGNVVURISDU5SmZhUTBZZHRzZ3JLMTA5X3RpZ21kM0tTTTZRRFc5ZGE1TlhrSHNFODV4ZkNfeHI5NV9neWw0Z01neXBYTXlLaW40YVRKeVZLY05ETFFsZXZhZ1VnMGlR0gH3AUFVX3lxTFBvRU1DcmxMaDlJSkNOLVZuWF9sVFFGTkdLRFFWdVkySjhYWjJ3VkpTYlFYbVVoYzNTRzNsRkN1RW1MeVVrYTNaNDZKVV9ZTkJJUWVpUzk2NExaTW8yVmd4YlFPdEJHR2dGd2V2cDBZTzVFdXEzNTR4UHBOM2JmMTE3YVdGNkdzeHE4Uk5oUEtnRkVoVG5kcEpoY1VVREhINTlKZmFRMFlkdHNncksxMDlfdGlnbWQzS1NNNlFEVzlkYTVOWGtIc0U4NXhmQ194cjk1X2d5bDRnTWd5cFhNeUtpbjRhVEp5VktjTkRMUWxldmFnVWcwaVE?oc=5",
+"source": "ET HospitalityWorld",
+"published": "2026-10-05T13:30:00+00:00",
+"first_seen": "2026-10-06T09:38:32+00:00",
+"symbols": [
+"ITC"
+],
+"groups": [
+"FMCG"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51266,265 +51527,6 @@
 ],
 "groups": [
 "Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8424caaaba0dfc6f",
-"title": "L&T Share Price Highlights: L&T Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-01-oct-2026/liveblog/134607123.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:12:23+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "37eb5a8ffecd7689",
-"title": "Video | Kotak Mahindra Bank Appoints Anup Kumar Saha As MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjlnWDNQMDFWZkg2MEZEdXVIamtFeWZDeDV4TkQ4YUdCbElsSGZmU1lMc1h0eVRzTy05YUxyaEFrMG51RGFVeU16SXJxdUNFZ3ZlTlV5ck9nUFAwdk90aWlDckZ3NVBseDJWWkw3NXRiV0pjYTlmY0hmczBuRWhnVnM5VXpyblp2SnhqZ2VsVTNxa1dkVXVNY09iOVgyR0lCUU5qaERqTEk?oc=5",
-"source": "NDTV Profit",
-"published": "2026-10-01T03:12:13+00:00",
-"first_seen": "2026-10-01T03:30:43+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "067e564382f4be71",
-"title": "Apple Pay tie-up to make Axis Bank card a preferred payment choice, says CEO Amitabh Chaudhry",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVNtTzVTM0JXU01FR04yTGpkVXRfT25BZjM0a1c2NjBPSTdGeXpwWHJGMWM4V3RkNDVRaUI1NVo5ZjhaTkh1ODhhTEVKdWlpOXFBS1FwRUJhQkM5a3NsTmd2Rk5YNW5CamtBbGJYYVdiQ0dUV19Da1pBY0hEc0locnR2N0xOSlhvcVVzUFA4WXo0ekVaWFBGWWZoaFFNczNXeC1EbENSRkJpTjRlT2xGa3VZZ1RBMUQyTm9WOXdFc3RsdkV3QTZJbWp5YmViazQzN0FndVpWN0JwOWtndm5hYnhGem0yd9IB6wFBVV95cUxOeTFSOXppMTdyNVIzSUFob0FlbFlVbVkxSWVWTzQyQ3NJcmVPYS0xMUUxU0VtcFBQd0lCZGRpU1pOQUZjUHJpbS16X1R4ZXRHUjFxc2RrOXJJc01FaGtCSVIyRnBLaXZ5aVVmdTJTQVo5RXJIOVctYVRjWGppOUVuNHJVOXRrdEI4N0g4ZTB5cnNXbzlneHFfWU8yUWhmbTBJMUY0eUdRQ1BUS1d4bkFleFpseUE3cFZzTHR3TzRJbjk5TGgtelk2SHQ4bmNKaTVCZ2d0LVBBd3BlWkZTQ0REbnlISllBN0Q0Ykww?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-10-01T03:10:26+00:00",
-"first_seen": "2026-10-01T03:30:43+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "0bb7a29daf48bf40",
-"title": "Kotak Mahindra Bank gets RBI nod to appoint Anup Saha as MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHctUmc2ZXcwNXA2ZmV6U0JYWmJEdngwc04zdDQtczhXbk9tM1JPWW91RlhCT1o3S0tQcTh5R2dXRWtTbERHSGZuODJNbHpvemNsWFM2OEFtUTRkWE9YYllmWnFHck9YVEVTOW9FaGRVRFptU2w2Ym9vUzRyN3l6TGliSzRuemM1dElKSTJ0Zjc3RXg3SHlESEtTX0poem9FREgzVU9oOFg2RTU2RFdDVm9vVVdSZ0x4d1FMQTBhdWh6NTJnczlOSVpZZWJENENmeDNvaE5MZHpPZTdQWTk5WlRYOWrSAeoBQVVfeXFMTy1KRm1WNDBwZHNUVW85dUJSTGJ0WXlzbnhiYmxHcG9TdUVSSTBXSndHci1CcXlSTmRPWHdYd09pbGhVTkFBdEhPdUpDYVNvVEduODFzVHJ6bTYwQ2tMVl90d2NaUmw3V1FhcWZlRGN2UDBTeW1TVWVnLU1qM0E0c05yNExKR0xWbXMzX0twMjc4NlM5TFZsd3lWV19IejlyanpYaHVldzlFeHBLMnIwQ1hKUEhnMmgwNGJ4VGw5cWtja0xOZTdQWHZpbVhuTm9CWjg1ZFlpRkZhNlM0UUlZRlMxY0o1UmR2UXdR?oc=5",
-"source": "The Economic Times",
-"published": "2026-10-01T03:09:58+00:00",
-"first_seen": "2026-10-01T03:30:43+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "e50da230439c7056",
-"title": "Kotak Bank gets RBI approval to appoint Anup Kumar Saha as MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHVEYlQ3d3VEa2pqNzhEd0F2QVNxaXJ3a0RzaUpJOUNOVnoxR3RZamxlZV9DdHBadGxTR0E1Vzl2Z0NGbFJMSjd0aXRPNDhodkc0ZHdFTjJFbGFlUnNaRHVVUDFCMTdXU0hra2I4QnlEbEJpUllZMWpCay1CMHFzMFhCWGc1V3lwbVlPbXJqNTN0QThJSWhsUXl4VGZ5a0JTZWt6VnVlcnpKc0NNWDZLYzh5RU5oeDRXWVc1NlJnaGthSlNf0gHKAUFVX3lxTFB2bzJMWDVnNldWUmxQWEZXUHR5TU5QakhjWFljRW9DdE5wVDRnQjhzWnNGa1NaNWx4NWxZcFVQY0RXRW9RM1pVVFlTRTNuN2YycS1iOE5PbUdUb3hpblRRcUVFbUl0NXB4NDVtTHBxUTlrMUJLNnFwZEdTeXNGTG14OGl1S0g4dTdJakNyYk5oRUpKVHRpbW14TUYzcm4taU9CYllNOVVodGdMbFdNYzFheU51RE05cGNIY0tIdS1XS0I1NklVdXFEd1E?oc=5",
-"source": "Business Standard",
-"published": "2026-10-01T03:07:32+00:00",
-"first_seen": "2026-10-01T04:54:00+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "3a09fcc6b3dede21",
-"title": "Anup Kumar Saha appointed as new MD and CEO of Kotak Mahindra Bank",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHVEYlQ3d3VEa2pqNzhEd0F2QVNxaXJ3a0RzaUpJOUNOVnoxR3RZamxlZV9DdHBadGxTR0E1Vzl2Z0NGbFJMSjd0aXRPNDhodkc0ZHdFTjJFbGFlUnNaRHVVUDFCMTdXU0hra2I4QnlEbEJpUllZMWpCay1CMHFzMFhCWGc1V3lwbVlPbXJqNTN0QThJSWhsUXl4VGZ5a0JTZWt6VnVlcnpKc0NNWDZLYzh5RU5oeDRXWVc1NlJnaGthSlNf0gHKAUFVX3lxTFB2bzJMWDVnNldWUmxQWEZXUHR5TU5QakhjWFljRW9DdE5wVDRnQjhzWnNGa1NaNWx4NWxZcFVQY0RXRW9RM1pVVFlTRTNuN2YycS1iOE5PbUdUb3hpblRRcUVFbUl0NXB4NDVtTHBxUTlrMUJLNnFwZEdTeXNGTG14OGl1S0g4dTdJakNyYk5oRUpKVHRpbW14TUYzcm4taU9CYllNOVVodGdMbFdNYzFheU51RE05cGNIY0tIdS1XS0I1NklVdXFEd1E?oc=5",
-"source": "business-standard.com",
-"published": "2026-10-01T03:07:07+00:00",
-"first_seen": "2026-10-01T03:30:43+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "69d8d5aea04ac700",
-"title": "Kotak Mahindra Bank Gets RBI Nod To Appoint Anup Kumar Saha As MD & CEO From January 2027",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWJzYmdNd3NWSjd0VW5nLXFIcjRyWGJYeC1JN25DODN6ejh4aE4zbzctdXdxTjY1a2xTWmtJU2tPWjdRUVFjRDh0TFFmZ2RvYzc0YmM5aHRYSG5KS1BQWmhGa1o5NXo4emNYVXI1a2RPMmhWWWJBOUJjYTR0YVowS3dtS2REakpLd3p4eXVvZnNWVHNWNDNsTlhLY3FOOXJKTWJ0N2RONjJaYjRobEMwanVpT3hOQlZWY2ZTWS0xeXMyTXhBck42a2JSSGhJYlFBSWhaaENBWXA5NlN5cUpMR09Rc9IB6AFBVV95cUxQS1g0RW1DZGRLeTlTWDVnUkFaMFhFWTVqejRXZXVfOVpTeHpOTTVBcF8yZUp4aUdvTlRMVTFwV2J4OEhuRHZCYlZhNUttYmI5cVdtYXQwSHlUN25GVGZ0NlZLellsN3ZjMXNkVW0yTW1fcFRrcG5hM3VOMi1xTWdmV1U4Tll0VHYtRGQ1dDQteDJDZW16dGRyR25GNktXT1pnSnFQY25wa2Vzb0FNVnM5dHBMSDZBQW9weGpUb3dqeWhBdUpCMTRXa19naFZadml5Y1p5ZDdrVlRVYjJYdV9BY1pjX3pMMzBE?oc=5",
-"source": "News18",
-"published": "2026-10-01T03:05:56+00:00",
-"first_seen": "2026-10-01T03:12:36+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Regulatory",
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "ed1f6ff5e970c6cb",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-01-oct-2026/liveblog/134606966.cms",
-"source": "ET Markets",
-"published": "2026-10-01T03:05:04+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "16c894aad8d97792",
-"title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv closes at Rs 1730.0 with minimal change",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-01-oct-2026/liveblog/134606966.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:05:04+00:00",
-"first_seen": "2026-10-01T10:36:03+00:00",
-"symbols": [
-"BAJAJFINSV"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "49837fe7c14c972b",
-"title": "Kotak Mahindra Bank appoints Anup Kumar Saha as new MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDF2b3ZUQVFyWm1ybmk2LWFpNmVxcE1XUFhlMU5mN2YtdWozbldlby1EdmZJS3Z0VFFLYnFfejFOUmNHR0Zta0p6WG5xS0RVSHB6d0JsSmRlRTZoT3dDUjlzRzBCX0VpLVVjUVBpbzVfUkdPWUZPVU1ndDF0alZsZ1hCSDljWUVXbHVIdGNhcFBLc3BJMFlYSmpvaDZpYVUtYnFNRm83YU1mY2I4c2RKQmJhSGpPNVZiS0pwN3VSbGFqcGhpY0HSAcYBQVVfeXFMT2wxdm92VEFRclptcm5pNi1haTZlcXBNV1BYZTFOZjdmLXVqM25XZW8tRHZmSUt2dFRRS2JxX3oxTlJjR0dGbWtKelhucUtEVUhwendCbEpkZUU2aE93Q1I5c0cwQl9FaS1VY1FQaW81X1JHT1lGT1VNZ3QxdGpWbGdYQkg5Y1lFV2x1SHRjYXBQS3NwSTBZWEpqb2g2aWFVLWJxTUZvN2FNZmNiOHNkSkJiYUhqTzVWYktKcDd1UmxhanBoaWNB?oc=5",
-"source": "financialexpress.com",
-"published": "2026-10-01T03:04:37+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "c431a9c22fb168ec",
-"title": "L&T extends completion date for Hyderabad metro project stake sale to December 31",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORWx1QXl4XzdJN3dGTDZ0Z3NrbGVmRnlxWGVybk05RGdzVjFPeEJpOGxCeFdIMExZd3hLOEN1RkpnS3RhX21TZ2xFOFlOV0ZBN2pJZ0VRM256cndXNnBOY2tXTUxsRFFhSEtkTURDM0hYZXNxUjB5eGZQVGs1ZXdUZVJ5SUx5UTM4VUF2M1VCRzE1eHFpeW84VFRGbUVqRGNpRTQ0aVNqcV9la1JhQzYwZi1Oc2x4R1N1bzNCeE9jV0xRY21VcWhhM2dpSTN5eXRaYXB3YW5BUDAyMHFydEx6Tk9nTzQ5OXEyQVHSAe8BQVVfeXFMUDVRcmtReXJ4LVBsVkVXdUdpdDJfS0xJcEdoNE4wZjVaXzBLeWJ6TnFNa3VXQ0VnYl9zeEo5MEZMUTVfc3BRX2VlM3Z5X0UxYm1jOXJWOUdHeDRMTWFFQk9hcjVKRlhRbWUzT3FZc3JRcTUzYnlJQVZCRmI4Wm9SVFh3bWlETExGaGo5cmNDVzRGNkpVNTJMYmpMUlVtOTU2dk9IaGZIQXp6YklCaUFQWlA1eVRxVEprNFZZOVZwYWE4T2M4cmFmSmlDV3VKRG9SREN1NnBpM0x0MlJWb3ByUFI2eGtpSmE2Mld0TjdnLWM?oc=5",
-"source": "ET Realty",
-"published": "2026-10-01T03:04:04+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8dfcbc387d461ca7",
-"title": "SBI Took The Biggest Bite Of Reliance’s Bond Sale",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTVpZHZ4LUtGVmpyc0o2amRaUTdqeHVYRUJqcUU1bkgwTWZRbkJLRlkyanMyRXY1YVhhZVpBa25xcHNPNHhYRkRyNFVoci1nTnVXV2ZUNmgwQTc4QmF6VDZJdzhOa2V2ZU5TNmhzc1VGdk9tZzdramFGcDY2bHFMaVc4dw?oc=5",
-"source": "Finimize",
-"published": "2026-10-01T03:03:07+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"SBIN"
-],
-"groups": [
-"SBI"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "778dd8f05fe85492",
-"title": "ICICI Bank Share Price Live Updates: ICICI Bank News",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-01-oct-2026/liveblog/134606891.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:00:10+00:00",
-"first_seen": "2026-10-01T06:56:16+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5d4980c3712b6b04",
-"title": "ICICI Bank Share Price Live Updates: Newspaper Advertisement - Special Window For Transfer And Dematerialisation Of Physical Securities",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-01-oct-2026/liveblog/134606891.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:00:10+00:00",
-"first_seen": "2026-10-01T08:39:42+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "04bff038653e3d4a",
-"title": "Tech Mahindra - Positive Breakout: These 7 stocks cross above their 200 DMAs",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTdjZDRvMDN0ZmFNTi1CSXZDbDVBSGRSQXNfQ3FYTEVWcHhMQjdJMFpkVTNTZ2drb05KcnZ1anhqeUI1eWY0Y2JsWVNmRWRUOG8yTm9KYi1WMU9sX0NoTlRlMXUzWUJLRlRKbTBNekozQk1iTDNsRUk3YzdzRER0Z08yOGIxZW1HOTNoTUpzbkdpS1VrSnV1b1VLYlFhWXQyT2EzaHJsT1p0UmlxZWtNZjN4NElaMTJDM1BHdkdGQmNRNkJhTFpRUUc3UEYtOU5aNm1iMHB4Wi1BLWxPalE?oc=5",
-"source": "The Economic Times",
-"published": "2026-10-01T02:59:58+00:00",
-"first_seen": "2026-10-01T06:11:05+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
 ],
 "tags": [],
 "sentiment": "neutral"
