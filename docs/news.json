@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T09:54:07+00:00",
+"updated": "2026-10-06T10:06:39+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,75 @@
 ],
 "items": [
 {
+"id": "180c3434acf481f3",
+"title": "Delhi High Court shocked to find one arbitrator handled Axis Bank's 4,155 arbitrations in 5 years",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQXp6WXl5SDlxQWg0eVp0b2ZTZzJnaTRUTk50UThncWVnejFGOEx6N2F5bjUyeDQ5X2VCZUk4VnZGRTM2WTAxWFpEVGZBa01PMlBjbXphZDJzUklIUVBTNDBsZmlUV1J2Y3BzNkdHZ0dpSkZLbHdGazZJYjdUTXNQYWFHNTVEdjltNFFmek5kY00xM01kdURHV0FRaG9vRWoxX2N2UDc3LVdjRms1WnhJNHBBak0yUjhxV0RBNXFzV05jaTV6b0gzWEgySHpWVENPd0hWV3h30gHjAUFVX3lxTE53YmVrWHBLd3ktemJ3MEtTa1ljX1dMZGY5YklNM1VIYnlFY1lkUlJ5SGMyR05lbU4xYXZlTUpDdnlWTjFNSTBSZkxDNmVWWjJEd0lBV04xMzRBNUdZU052MElZTlRrdnlHLV9FTmd2NUxuT0N1WlBVWUtJdkRzLS1hb25zaFIxUWtXdl9ST1Axa2JIbXlUTzFFVzR3ZWtKV3V3NktJcTY0THYzVHgyaG5zUzY4dDJ4Uzh1OGNtUF9nbmdZRFpkZUpJNkMxTGY5dGxOYzJQdnFuY3NtamZSVEhLdzRv?oc=5",
+"source": "Bar and Bench",
+"published": "2026-10-06T09:57:34+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "neutral"
+},
+{
+"id": "9193a3fbd7e97e30",
+"title": "BEL Hands Over Advanced Medical Equipment to NIMHANS Bengaluru to Strengthen Mental Healthcare",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnhZOHdzUGZjbE1QU1VmSGhoMllZYUlKclZ2M1liQklCVjU5OTd3NFI2VDVDUWFPdklLaW5QcUItZmFycVlHZkZCWEFyRU1YbG9ERndTR2ZybFZfcDFYb0o0ZHV5alV0RzMyYTRkSkhNcnZCd3FSQ1BRMG0yZU8xajZUeWV1Z25NcGZzWUl0eGttZzB5Y0kwcTd0dG9HeGhBN3dwVFJZVl81a2h3QjZZ?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-10-06T09:57:19+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"BEL"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "da633cd2d53e6896",
+"title": "Sanctions Meet Logistics: Inside The Dispute Over Russian Airlines' Cargo At Adani-Run Mumbai Airport",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazNJRHhtbXB0N2N3akc1aGdSeVFZaXNCY2k2T3l5YUVZUFl4Vk5xNUh1TEZQRWxnUF8tSEYxLTk4RHpneHZacnhGSGFSRkpUMGd4d1p2OGJudFh1YUxTbFZhckRsckhydksyS25kLTRqcWpVc2hFSWUzUG00RjNGWUJQSlVQcUV0Nl91TENpQWhuQWIta3pSU3E2czdtT3dyMy04WWc0NWtvTm55MjNpYkFuTU9mTm5NcV9HOHBDTDkxWGJkRG1ZMWpCRzNGNFhta2Nj0gHgAUFVX3lxTFBtSGZJQzhnckFjV1dIb1J3U0hBWWRwTHU5MXpGVnVoNTFNdm9kbl85ZnlVendUU1Y0XzJCWms3d0JGMnVoMVd3ZXZpT0ZoSjZMOHdnSWgxakEtQ3VSMEpvNW5OcTRldmpEM1hBSlFQWWZ1ZHpFdWRPSUxoYXgwRE5jbnBVci1LNzZCR01JRS1ydVVYM1JHZlNEalFDLTBCQUN1S0pVUWRNbk1FRjBobE1WYUV3V0NDejI4dWdteVJsWkRrMExoQkswZm1qVE9idnY3YjVBQl9OVVR0LUdfb2dy?oc=5",
+"source": "Outlook India",
+"published": "2026-10-06T09:55:30+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b14163fd6b31aafa",
+"title": "Bajaj Auto Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM1Q0SGpvUnh5Zm5Fb1hLczVoNF9ZNGZmZ2hsZnFoTXl2cUtMNkt3Vm5iMjZsUl9objV5cTQ3dTlDcTY5bUt6aHBvM1VFdS1tczhWUXpuMFFzSExGZHBScVQzQUNOREdGQi11MnRmaVYyZENjUkVyVmRNQjhOOGxEQ3dnVTFlTlZhSExoTjJLLUZDallrNFZ3WkQzUnJSQ1BCWkIwX0JkaW5oclZybThPeTZWNGIzYzhQZHE1bTJR0gHGAUFVX3lxTFBUNVV2dnBHN21NS2FjdmZPcm1lYWIzeXFLSGdrMmx2OUdJNkw0eGJZSXJJQ0lQLU5NTkVVM3E4YmdYX0FpMFRkT3RsZG1tVEMzaDNFSDNKTWlsRjZhcktPMlpTRExmdTlsWVpMXzhJUmpiNTJyOU8tS3JrYVZpRUlYczl6UklNUkVrZzQ2c0t4Nko5cGdmbzAxbDNIeXdxcFMyTHRYcXh5M0JrWmhKeVFRMHRrNE5lZmxTOU93d2t2NXZYY2xPQQ?oc=5",
+"source": "NDTV Profit",
+"published": "2026-10-06T09:55:14+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"BAJAJ-AUTO"
+],
+"groups": [
+"Bajaj"
+],
+"tags": [
+"Results",
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "818b1a926ef6dc61",
 "title": "Tata Motors Passenger Vehicles reveals production and sales report for Q2 2026",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU5EMzVybzhzTkFsNG5VLUlFQlg5QnlYbGdKSGpzVTFOTXE2cEtxM214a0w0eWZDaG02NWIzQUJObUxPY25OdmM0dktuX3dhRGxHQ3JDcDJVeXBXalFhZnZFcTFCWC1wZ0dzOWJpaFNNR0lYV19RQTkzb3JRUnN5RDQ3ZXFBMTllbW1oWkd1dEMtNXFibFdZNm9DZVpvNXVEenRKUXNRMXBudnIweDllRDZrNHViQQ?oc=5",
@@ -718,6 +787,22 @@
 "tags": [
 "Corporate action"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "d229008db5128311",
+"title": "Stocks making the biggest moves midday: Trent, Kotak, sugar stocks and more",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHdYYllmOFk4emp5aUowcGRNSi0tTlRVV05QdEc5RkE2Sy1TSFVqVmZkeElpaGRhS2Uwa19UZVZIMmxlVWp5b2RBUFJmQWxUdklRX1EyMlNuWnlhVllRZHpJVy10VjNMaDhTQkx6ckgycUtaTm8zRXdTMGFGVU5vX2pyUmpQbzZBel9jOVNBYjdaTG5tdWJiOVIyX0RCaVpIOG5GeFdGUDQ3cXJ6ZmRDZGpsblROTExmWU14dzh0dXhfcUlK0gHEAUFVX3lxTFBEd1hiWWY4WTh6anlpSjBwZE1KLS1OVFVXTlB0RzlGQTZLLVNIVWpWZmR4SWloZGFLZTBrX1RlVkgybGVVanlvZEFQUmZBbFR2SVFfUTIyU25aeWFWWVFkeklXLXRWM0xoOFNCTHpySDJxS1pObzNFd1MwYUZVTm9fanJSalBvNkF6X2M5U0FiN1pMbm11YmI5UjJfREJpWkg4bkZ4V0ZQNDdxcnpmZENkamxuVE5MTGZZTXh3OHR1eF9xSUo?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-06T09:05:00+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -1053,6 +1138,24 @@
 "HDFC"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "2333f0aacf0d9d9b",
+"title": "Tata Motors Releases Q2 FY27 Production, Sales & Export Data via SIAM Report",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUZUYk0zOEo0LXdkdDNoX2JaSHM5XzdERndSQWZBb2dUb2NaQWVVSkRwcDROVmR5NjMteXN3VGxJTzlQdmVGX05yX3pvUnJweHhYVndRX1VjU0U5NzVvclM0SnZGX2tTMHB1SV9vTzZCMk5McVJkZGZBTmtZNW1JV3VudVYwWTZjaEhnRlRUYUZ1SUtvWUVLY2MtSmdzMEtISnBkVFpLSUZuaWFMNnc?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T08:28:00+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
 "sentiment": "neutral"
 },
 {
@@ -6067,6 +6170,22 @@
 "Results",
 "Rating"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "1863b428f7024c75",
+"title": "Trent share price skyrockets 10%; MCap crosses Rs 1.5 lakh crore - Should you BUY, SELL or HOLD?",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNWJfX09hMERYN3Y4QklqNUN6UkozbjFvUUhBZFhnblltYTNYdmVPRUdKSnh0ZEZCZXNMZUxfNzlTcWJSTlNrU0o0aXlGTVJOQm43NnZUT2dycTBUUkhTSWF3amM0ZnF5a21yNzVrZk0xb2oxSTU0VHlBbFJVdHhSdFJyMklDTDhKeVlQel96UmMxSVhrVy1tV1drQjNic0JEUU41UDNXMmIxUURtbUtwOEhJMjZPXzh3Y1JYQlJHdkhaMTVWVUlkMndmeC1odWd3UVN4dFlxVTJlSG5HSDgyTlUyTGNHX05WYzlfQ0YtVVY0Z9IB9wFBVV95cUxNNVM0T0N0dERzVk93N3hmdm5kSWQtdGl5VzA5TnV3WUFwS2IwRzB4bVRuMDVzSS1CazV5Sm9CVzJ6MU5oU09jR0xTVzJ3M0d0T2FRNW9tR29uaEtxdEl3MzdZQ0RNSTN4TkdKSWVDY1JBRDFiZjZVNHRDc3VxMmg4dHFaQWJETmQwT0t2V2JJMGtVT0NjX2gtRkJCOVNjclNlX21QREo2Z1lSLWFqSmNOTzdPN1hJUlhlRHhRaW1IQ1F4M210RmU2VXdFNWRvSnhvTWpnZHBzUi1nLURDQ2FxZkF0T2pONWFCeml6NGhnelQtRk96OXJ3?oc=5",
+"source": "ET Now",
+"published": "2026-10-06T02:01:20+00:00",
+"first_seen": "2026-10-06T10:06:39+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -51417,120 +51536,6 @@
 ],
 "groups": [
 "HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "23af66c6289138ca",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Current Price and Performance Metrics",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-01-oct-2026/liveblog/134607232.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:20:53+00:00",
-"first_seen": "2026-10-01T07:11:48+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "70cea7256c49576c",
-"title": "HDFC Life Share Price Live Updates: HDFC Life's Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-01-oct-2026/liveblog/134607232.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:20:53+00:00",
-"first_seen": "2026-10-01T09:08:08+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b1f91b8d8f2776fd",
-"title": "HDFC Life Share Price Highlights: HDFC Life Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-01-oct-2026/liveblog/134607232.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:20:53+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
-"symbols": [
-"HDFCLIFE"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c38b70d988399175",
-"title": "Power Grid, Adani Energy, Exide Industries: What the ₹1.86 lakh crore PM-DHARA scheme means for stocks",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVkljSnJSYS11dlRRRzdlS1BWRkVJMDE2eEJzd2tJaE9IWGNHNlh5TFhjNV8tRnJQMmhUS0p1dG0ySy0tVVFDN2FEcFQwVmJaYnVUWGx4Um1qVTAzZzVRMUJyOUIzSmxJNUtlYVdRanRuNTctaG9FT3huaHdMZlZPRC1nQzE5VnFub3BNNWYyOFFxcnNadWFTTXJBd2NOSnd2ZFkxNmxVelp6dTNvY1JxZDBteWl4ZEdobm9XWmozM2ppZm1IVTJKeklmNTRXMXVSRnNQYUUtNlpVZkZOdlI0LWUyZHM4SDQ5eVhlMzJn?oc=5",
-"source": "Upstox",
-"published": "2026-10-01T03:20:44+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"ADANIENT",
-"POWERGRID"
-],
-"groups": [
-"Adani",
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "88fc1b9e8b10966e",
-"title": "TARIL, Adani Energy, Exide Industries jump up to 10% after PM-DHARA boost: What’s driving the rally",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVkljSnJSYS11dlRRRzdlS1BWRkVJMDE2eEJzd2tJaE9IWGNHNlh5TFhjNV8tRnJQMmhUS0p1dG0ySy0tVVFDN2FEcFQwVmJaYnVUWGx4Um1qVTAzZzVRMUJyOUIzSmxJNUtlYVdRanRuNTctaG9FT3huaHdMZlZPRC1nQzE5VnFub3BNNWYyOFFxcnNadWFTTXJBd2NOSnd2ZFkxNmxVelp6dTNvY1JxZDBteWl4ZEdobm9XWmozM2ppZm1IVTJKeklmNTRXMXVSRnNQYUUtNlpVZkZOdlI0LWUyZHM4SDQ5eVhlMzJn?oc=5",
-"source": "Upstox",
-"published": "2026-10-01T03:20:44+00:00",
-"first_seen": "2026-10-01T07:11:48+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "719646269c734174",
-"title": "Wipro Share Price Live Updates: Wipro's Recent Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-01-oct-2026/liveblog/134607211.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:20:04+00:00",
-"first_seen": "2026-10-01T07:11:48+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "01551388ae862a66",
-"title": "Wipro Share Price Highlights: Wipro Stock Price History",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-01-oct-2026/liveblog/134607211.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:20:04+00:00",
-"first_seen": "2026-10-01T12:53:27+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
