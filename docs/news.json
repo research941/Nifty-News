@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T03:11:47+00:00",
+"updated": "2026-10-06T03:29:30+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,70 @@
 ],
 "items": [
 {
+"id": "b85c1e719399edc0",
+"title": "Adani leads India’s data centre race with ₹8,379 crore bet",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSkNnQnlPNFR2NmphLU9XRTVlVVBVV3V1QzdDS3dxSFAtVWtlV3F6Ym9sYklZWWdjOGJzWUsydUptOFZuSXpsWWswNWZfZW9ndmdlODc0MloxbklNUGxNaXNWRWNENHRWRUE1bmxkcFNZVFV3ZV9XM2RZWnc5UkdtcUVGUkZDYUNUZUwxNURYc1FKZnhyZ1RQMjhqcnZ2NTViZWxhdnVR?oc=5",
+"source": "communicationstoday.co.in",
+"published": "2026-10-06T02:53:57+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "0c466da54b11fee3",
+"title": "5 New Hatchbacks For India: Next-Generation Hyundai i20 To New Maruti WagonR",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zRXpsY2ZyXzRodHpkZXBlS1NLMVdCTGxmT1lMWWhKUWEyN1lISHo0NkpYaHZ4bi1FUmZQWEJsWng3N3QteG1JbDBlci1JQ3VGWE5raDBLN3A4anhSMzBwR3VfZ2VnLXR3V2RnT2RIa0Q4NDJNVlo0TTFR?oc=5",
+"source": "cartoq.com",
+"published": "2026-10-06T02:51:57+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "b99d5a2d6de73595",
+"title": "Tech Mahindra CMO Peeyush Dubey on why chess is becoming a key brand platform outside traditional sports",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNDVKT1dYbE1DWFpjMzJDc0tVeU5RVHp3Y3Nhc184OGQtMzVBcVBCVjNNNXpxcU5pLWN4S1k4SnlqU25rdDN3c0tFSkhHRFB1NF9pWHhpdTBhTFl3Sk56QzFvMnBVVld5SXVRblV1MElMVmxPQlVqMnFhcVIwT1ZtZktiQzdybHctcjlGZTVvMVprOVgxbm1hWERlWGdhekhJNjhyVV9RZWloTjh5ektCTktvVjlHU0hDdW42ejhSaFhLc2kyQ3ptNTZYRDYteWxhd0lBWHpnTlNwdmJ3M1R4eHFRQm5ROVhnYzF3UVBOUlbSAfABQVVfeXFMUDQ1Sk9XWGxNQ1haYzMyQ3NLVXlOUVR6d2NzYXNfODhkLTM1QXFQQlYzTTV6cXFOaS1jeEtZOEp5alNua3Qzd3NLRUpIR0RQdTRfaVh4aXUwYUxZd0pOekMxbzJwVVZXeUl1UW5VdTBJTFZsT0JVajJxYXFSME9WbWZLYkM3cmx3LXI5RmU1bzFaazlYMW5tYVhEZVhnYXpISTY4clVfUWVpaE44eXpLQk5Lb1Y5R1NIQ3VuNno4UmhYS3NpMkN6bTU2WEQ2LXlsYXdJQVh6Z05TcHZidzNUeHhxUUJuUTlYZ2Mxd1FQTlJW?oc=5",
+"source": "Social Samosa",
+"published": "2026-10-06T02:30:37+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"TECHM"
+],
+"groups": [
+"Mahindra"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8edef74986e77892",
+"title": "Yogi Adityanath To Attend HCLTech Programme In Lucknow As Firm Marks 10 Years In UP",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeTg1V3BNbnEyRTBfRHFPbGU5d3ZscVhyaUpvSXVhYjFaaG1BRDJQRWVvM29qMkgyaDhVSF9GalV2V0pNUWsyS1hlNFFpQkgwNkNqSGJRLVFZYUxHQ0tnOURiTzMzUzNHdlppM0pDZnc2Qlg3SXIzMl9QdHBPR1BmZVh4T2tyVWhlN20tSUtycFBrMDI1RkNTc1NHS1g3SEtmcjdsTkN3RXczcWM3aW8wRDk0MEJmdDhxOUZ5aEJ3ZjXSAcYBQVVfeXFMTkk3V2dnb1dNa3NJZEpIZDNDWWU1UW8wS1lZZ3hfTmpOX0UyQlUxOGR2a09uLXZmSlVRY1R2MGtraG9GalpDd0R3WTVJU1JiV3l2Z0gteTVUQkhZQmxKYkFMNWNyVl9pOTVBRFNHUDBFb3RSNFMwSVh4M00tX1E1U1pHTXMxaEdlN0d3UDYxeTNzZWFfLW40Wk93T0V3d05zVnp0emtjZjNMLUNkNXNXVVVCRlZEQ0R0djRMSHVlcHhCMHJDMTNR?oc=5",
+"source": "ABP Live English",
+"published": "2026-10-06T02:25:37+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "3d9b9448b390c9a6",
 "title": "Stock Picks Today: Axis Bank, HDFC Bank, Trent, Marico And More On Brokerages' Radar",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEpoQUdMa3dCV2F4NENFaEhfSl8tNzlPZ3B3a2lHTUtGS2VmVHMweklsLUZlOFFqWWtMcGxFTllUYTVCX3BmbDRnRl9PNnRpNjhBdGV0TXY5V1NwOFA4ZldKR0hUeEJYazlLYkhiNkFVQzBDdnRILWM4djhXN1RiQ3JOREpTa0Z1R1VsdFRNQ3JCcGRBUy16MWJmTFBHT0lGVzdBdEh6bVFvc1QwSlgtLUZEdkpJejR0MDM3Qk5GVXfSAcgBQVVfeXFMTmVlNTB2VnNnWGxpLURJWklmUUZFR1FuUmNIb0lfb1FMZHBiVFRxclZ1cVpDS3NwcWxwaTJib0tocFI3UzZjSVNhUEZONUd2UXA2RmRIWmRPWjA4ZlJZb2l5TlhfWEpJMzJMeEJFemZtcjNvUkVrOTB5S1BZM1d5SDI3bkZORVh3Y0g5ZFRxa0hmS0tLSnVjbnhpeXdtZ0YwUEFDTFlEdjVocFdBVVZKTzE3WUpaM2FuWk5mbkI2WVJSRXBGYVc0ZjM?oc=5",
@@ -465,6 +529,24 @@
 "sentiment": "neutral"
 },
 {
+"id": "0eef52543e514ed2",
+"title": "Trent Q2 Standalone Revenue Up 23% to ₹5,788 Crore, Opens 1,000th Zudio Store",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnZSUWRVOXBWb1hBLVB3RXlGd1VpbUlCMUd6MWJnLWNFNm42Z2VGc1JTRFk1eVFNeFppYTROdW0yWFVtVDVkYm5QN2d3Rm1wbzBYWlpLZzItWHYzR2NIMTZiWmVTQ3FYZlhfVTFybnNQTUlwY0VIV1psWGZMZ2Y3blNXUnhiQ0ZRdUJ2UHNtWUZhUWxaN3BWWkR5dWdJd3UxVEE?oc=5",
+"source": "Sahi",
+"published": "2026-10-06T02:11:13+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
 "id": "c36d06a69445e348",
 "title": "Brokerages see 25-74% upside for HDFC Bank after Anup Bagchi appointment",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-see-25-74-upside-for-hdfc-bank-after-anup-bagchi-appointment/articleshow/134720795.cms",
@@ -480,6 +562,38 @@
 "tags": [
 "Management"
 ],
+"sentiment": "neutral"
+},
+{
+"id": "5867e45d09e1a170",
+"title": "Honda Amaze vs Maruti Suzuki Swift (2026) - Price, Mileage & Features",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGdIS0l6eW5mXzNySkU4S2NuamRxZ0gta1E2UjFpTGxiNVJuNE5KTDJjbjNDMHBmRzRBTXRTN1FaQ1IzLUdybFRRc2V3d1U4WmZ0blJxV19YV2NfdjYyaG5QcnpfVk1HNzhtVkhib1hVT05EYktIcW51dld3MzRLX3Bn?oc=5",
+"source": "Autocar India",
+"published": "2026-10-06T02:04:41+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a485a17385b17ecc",
+"title": "Zee Business. . Stock In News LCC Projects, Kotak Bank, Godrej Consumer समेत आज किन शेयरों पर फोकस? खबरों वाले किन स्टॉक्स के दम पर बाजार में रहेगा तगड़ा एक्शन? जानिए #StockInNews में... #LCCProjects #KotakBank #K",
+"link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNNjZoei1jaG1yVko2ck5BaHlOdzYzUFY3UVBKcTZoSG0zb21YWC1lTzUyU3RWc3NrbV9BRjFXd0g5QjZMT01xNVpxR21fYnM4QktYdWRaUUxSaXprYXhTWHFNOFpQZTA4dFgzcVowYUlpb1h6cjZQTFIxT3JBcHBEeVJNNDM2M3E1YmdkVGtJajVhMlAzUmhFckp0MTljRTl1Z0o3dGk1SWRUWnZvbU5mN01vX1FYYnRMNlZOSXhmNk1GOHRrcGxJRVlBU2UyVmdfM2VYcGxWSlF3NHZ6XzVxdUExbTlWS2lBNGJTbU16S1JmOEpqMUtvS2dlTWZTVGctWTNiUFdlSlFDWUlBbk5UQWdLUWthLWYzakJvaW1NQjYxbmpGYzQwLVl0WGtBNWhTYS1oRVplRkNnaU53a29ZMXpwUTFUbEFaTTlKOGc4bmYyWFQ2WllkbG1JY2xsc1F0M0JORnhaZmRlQUlMeGU5QUp0NGxFZ3h2dVF4cWZsYTRZM1lDb2F3dWRuTDJhZHkwRWItRUtvZ3U1NkNTN05DOEEyVmVCNnQ0c09oY1hNWERvZkVmV1hJQXZTR3pfSTZ2dmc?oc=5",
+"source": "facebook.com",
+"published": "2026-10-06T02:02:30+00:00",
+"first_seen": "2026-10-06T03:29:30+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
 "sentiment": "neutral"
 },
 {
@@ -51350,120 +51464,6 @@
 "groups": [
 "IT",
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8180349342cc5c49",
-"title": "Infosys, Abn Amro Expand IT Services Collaboration",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNThRbEtoblFRVnJTTVNZTnB6RU9aQ0JxeFZQcl9wanE1MVhsREFQVWx4RTVZWHdkR0FSQ0VEOGxYanQ5Z3pxdF9RZUF4UnRuX3c4eUtuUzRsVDZEa184dTBKYW1TT043UExqdkEwZDVBTFVxX0hNR0l2MG8yVEZnRjFmUGRmM1V5U2pKNTRvZ3VUYkNnX1hDbXN2U25rQ0MxM2NicQ?oc=5",
-"source": "marketscreener.com",
-"published": "2026-09-30T11:18:39+00:00",
-"first_seen": "2026-09-30T13:22:27+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6a8362552ce103e1",
-"title": "Ratnaveer Precision: With Copper Clad Laminate Prices Jumping 3X, Can It Stay Ahead of Wipro, Kaynes and Syrma?",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeUJ0a0RIQ0dqRm5zemF3Y2hWMkZ3S3RyVjZVS1c3RkFySl9KUzJNYk4zclJsMVA0cGJIUWVQSG5hTlNRNXhkN3htZUNXQzRLMlhPXzIyRGkwUlA2SFg5MFJXdUVydS1pUDM4RHhja1A4Sm40bWwyWU52SS1tYnRiOUl3NG1VY0ExeTVEUVlZRFFfX2NLTUdPeU9iUlNBc04tYUI5d2JZWU9lUWdzbm5XWTQxN1VOd3NHQmYxUTBORldOLVRZVG45U2MxQ0xiNDlvZFpRQ0QzOUI3bExNM19YWW9WSFRvempfdFE?oc=5",
-"source": "Trade Brains",
-"published": "2026-09-30T11:18:29+00:00",
-"first_seen": "2026-09-30T11:32:29+00:00",
-"symbols": [
-"WIPRO"
-],
-"groups": [
-"IT"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "276cf9dec6c739d3",
-"title": "Apple Pay launches in India, with Axis Bank credit card users among the first to support it.",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV05UcmFja2VoM2prVnpCQ1g3QnluMGwwcEI2RnBpTWNDcmI4amtfNGRISExhMXhkODJfcWRaem4zWnNGaFJ6R3owdVhZd0ZHN3lRZ3I5R3lHT2tsbXoxcmxXWnBGRDIzdUFfODZrOU02bUpMd0xMcmRLRzYyNEZYbUNJLUtPa1lNWUVBdlJGNkFtTDJyelU0R193WTlfd1A0SEg3VmdXaFJqODBLY18yUW9B?oc=5",
-"source": "KuCoin",
-"published": "2026-09-30T11:13:46+00:00",
-"first_seen": "2026-09-30T19:20:11+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a176d19b88b61168",
-"title": "DY. CM T. R. ZELIANG INAUGURATES AXIS BANK JALUKIE BRANCH",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkNWRjNod2hVc3VzSDRGbG9SNmxNLTdwaHlQRUVLR3lkZTVkdHRaemVlQmM4dm1jQlBwa1dYNThwVzRYMTVFaWRHSDgyQUQ2Rkgwb05XMEtCV19GUGwzQkpFMVQ3YTRpX1E3WVFyUXc0MGF0TzNxak9obEdLeE9ZQXFlUXFOelFCV0E?oc=5",
-"source": "DIPR Nagaland",
-"published": "2026-09-30T11:13:12+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"AXISBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b2a2f3a0fc0aec70",
-"title": "DVC-CIL JV Signs LNTP with L&T for 2×800 MW Chandrapura Thermal Power Project",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjhKRjVITk9Ed1VuYjVneGtOOFNZTjNsQmdMQ3RNVjNNMzZ4SFJCNEJ3S0FjM0xmVVR1MXdkaWxYYXEtNVFlTHlXN3NWcVk1dWxpOHVoRXljMlBYdWI1eTNjV3RjTFRBdTRNc1pndTBDSHdJZld2a1FRTTBrbzMwU0k5MUdMeV9neGswNVM1LXRlRk1WcWJaRjM0eHktWDFWY0Z2RkNpbXJZVktHbTVIS3VR?oc=5",
-"source": "PSU Connect",
-"published": "2026-09-30T11:13:00+00:00",
-"first_seen": "2026-09-30T12:28:24+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "88be618be5c0f5d0",
-"title": "Reliance Industries Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXRCYWp4UV84ZlFHeTA0SjU3MkR6VUxpdklYdndYeTRJNkRWeFA2NDhacUREYlNfa2lyNU80Nlc4QkxjTWMxbHVtZzFmdEM2bzE2ODRPcTFsYzBWYmUzMUxiQzM2OHkwVDhOTTQwazdDUEllcjJPRDFOd09qTVliRGlBb1pJelhLNFFVUTZCNHR3ZDhXLTUxa0U4OA?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:13:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"RELIANCE"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "b8f65f5a9fb86972",
-"title": "ICICI Bank Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHEySTNxbTFQRS14Y0hUYXJtbTFpdi10eWYtdlRIQWJzS3c2MGd2Z0F5bVR2RTJmOFNlTXdlamUtQWo0eEV6ck1pc25qVmZoOVB1VzBRNjdmR2VURnk3aXRoNmV6U2FsZ3VINmRBMlNqTy00bjd6LWRxMWpObnJYRktBNzNYR0ZWQVl2UlRndw?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:12:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
 ],
 "tags": [],
 "sentiment": "neutral"
