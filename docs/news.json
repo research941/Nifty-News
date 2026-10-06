@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T02:19:02+00:00",
+"updated": "2026-10-06T02:35:24+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,24 @@
 ],
 "items": [
 {
+"id": "c36d06a69445e348",
+"title": "Brokerages see 25-74% upside for HDFC Bank after Anup Bagchi appointment",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-see-25-74-upside-for-hdfc-bank-after-anup-bagchi-appointment/articleshow/134720795.cms",
+"source": "Economic Times",
+"published": "2026-10-06T02:05:07+00:00",
+"first_seen": "2026-10-06T02:35:24+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [
+"Management"
+],
+"sentiment": "neutral"
+},
+{
 "id": "19c2c3add61c30df",
 "title": "Top stocks to watch today: Vedanta, Axis Bank, IREDA, Kotak Mahindra shares in focus on Tuesday, 6 Oct | Full list",
 "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-vedanta-axis-bank-ireda-kotak-mahindra-shares-in-focus-on-tuesday-6-oct-full-list-11791249989151.html",
@@ -516,6 +534,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "c6e749b40fd50cbc",
+"title": "Kotak Mahindra To Eternal: Five Stocks Defying Gravity Amid Prolonged Nifty Weakness",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXBsMnhtX2Y2QzRuZjdQWldnVnpiUXNBdndvMllMSmhtLVJwTHA5UHN4cUJrXzhfdzMwUUlmaWJ3cEo3cTFIQWN6SVZhbVZKSFZ6Uk5XOXZCeFlKRzNmUHlmaHFNaVQ4eG5ZTG9DQ3ExcE51alpTWVZOVzl2T1hRMDY3eWlUWTNRR3ViSm5lOFdfdURjSU9GS2RSbDVEbnMwcTlmMHpaX2VxTW00ZG9HLWpvd3dCSDBCSERQSVZFSEN5TDRYLWd2Ujk4aGdTZ9IBzgFBVV95cUxObXBsMnhtX2Y2QzRuZjdQWldnVnpiUXNBdndvMllMSmhtLVJwTHA5UHN4cUJrXzhfdzMwUUlmaWJ3cEo3cTFIQWN6SVZhbVZKSFZ6Uk5XOXZCeFlKRzNmUHlmaHFNaVQ4eG5ZTG9DQ3ExcE51alpTWVZOVzl2T1hRMDY3eWlUWTNRR3ViSm5lOFdfdURjSU9GS2RSbDVEbnMwcTlmMHpaX2VxTW00ZG9HLWpvd3dCSDBCSERQSVZFSEN5TDRYLWd2Ujk4aGdTZw?oc=5",
+"source": "ndtvprofit.com",
+"published": "2026-10-06T01:30:01+00:00",
+"first_seen": "2026-10-06T02:35:24+00:00",
+"symbols": [
+"ETERNAL"
+],
+"groups": [
+"Consumer"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "2b63a7213ba7f2e1",
 "title": "Jio Platforms IPO: Rs 37,700 crore issue likely to open on Oct 21",
 "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms",
@@ -530,6 +564,42 @@
 ],
 "tags": [
 "Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "90724ff52568340b",
+"title": "Jio Platforms plans India's largest IPO at Rs 37,700 crore around Dussehra",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1JvLURQaUxLbW9DczdyRWJybTVKYk0zQWVhNVYxQ0tEdzVwaFFKeHVyV0I0NmNCV1c0UHBkMlpFMUN0eFladXNhTENkV3gxWi1KeUVBMFI1OEVvNnJMVzRka2syeGtERDNNUkt2aGxoRHNBRGFSWUZLS3JMdEgtOXlHOGpSWGhHbzl2NG1tV0RBN0JjMG9Od2VtZzFEZTN4OFRKZXYwVHVDREpaMUFTTFZnOGgtYXRKVVFFME5XWG40YzloTG53T094NTluMXhoT1FsMERJbmxiQTVZVkJGZDdn0gHiAUFVX3lxTE1fUm8tRFBpTEttb0NzN3JFYnJtNUpiTTNBZWE1VjFDS0R3NXBoUUp4dXJXQjQ2Y0JXVzRQcGQyWkUxQ3R4WVp1c2FMQ2RXeDFaLUp5RUEwUjU4RW82ckxXNGRrazJ4a0REM01SS3ZobGhEc0FEYVJZRktLckx0SC05eUc4alJYaEdvOXY0bW1XREE3QmMwb053ZW1nMURlM3g4VEpldjBUdUNESloxQVNMVmc4aC1hdEpVUUUwTldYbjRjOWhMbndPT3g1OW4xeGhPUWwwRElubGJBNVlWQkZkN2c?oc=5",
+"source": "The Economic Times",
+"published": "2026-10-06T01:07:00+00:00",
+"first_seen": "2026-10-06T02:35:24+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "43eb368ae78e822c",
+"title": "ICICI Life appoints ICICI Bank veteran Sidharatha Mishra as managing director, CEO",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjBqLUh4UWNUTmlwaWxWR2RkWmpOOXVTUVdxQXRDMHZIQnBEMFU3ZWliSzdhRmRPTnYtbjNaUU5wSXBwVnFvZmxEX1RPRmxfUmc0aWVPUzAxVjNDVFU1NUFKSHNkVGNoelJWTnExSU1FV0NpOVBoYmEtdUVCaUdaNnNlUTEtbXdlWVBub01ad3BNbEM4RGZYU2o1WDVpQ210V3l3cFJR?oc=5",
+"source": "(Re)in Asia",
+"published": "2026-10-06T00:46:05+00:00",
+"first_seen": "2026-10-06T02:35:24+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "neutral"
 },
@@ -51390,76 +51460,6 @@
 ],
 "tags": [
 "Order/Deal"
-],
-"sentiment": "neutral"
-},
-{
-"id": "88a40371e163d556",
-"title": "Grasim stock reports 21.43 percent revenue growth",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJLLVdxOVJhWXBDcVhPczZ3NERldk5zX1hJbEhiMVJvelBaTVJNMTloSzFaeU9JcEc4MkNvNFB1dDY5djJ4MDQ0VTVLMlZMRWxZcnVNQkhGUXpxNHZFQjlRYVdBT3pDcGtERVZnYUpUa1RmVDYtTGpTMmJkTjhITWU1dmREV3FySnBRdnZWMEdtQVNIMkxFdkVkX1FoZHMyRlNwbmRBVXNhRmhz?oc=5",
-"source": "AD HOC NEWS",
-"published": "2026-09-30T10:59:39+00:00",
-"first_seen": "2026-09-30T11:18:40+00:00",
-"symbols": [
-"GRASIM"
-],
-"groups": [
-"Aditya Birla"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "cef0dcb7cef18e6c",
-"title": "Maruti Suzuki Victoris On Road Price Amloh Sep 2026 - ₹12.59L",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRFQwNzNHOEo2cC0xOWNuWDEyWmh5cjhnVGJJOFpkRmF3eUpBbWNwZ09FSGNyYUZSZG8xc3ZwTzNTM2hjMDdIS2FaR05GeDBfbnlUMHYwbUJsSVBnT1R2TjBFVk5EYnJFS1RUTWVDZUVwSklfUm9HZUpLUmJnMWs?oc=5",
-"source": "ZigWheels.com",
-"published": "2026-09-30T10:58:56+00:00",
-"first_seen": "2026-09-30T17:58:52+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "dd89c7a7b8fa4e05",
-"title": "Nestle, Marico and Tata Consumer could surprise in Q2 says Nomura; Here’s why",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ21xdEFVTWFnS1V0TnZxVXZZYnZET0ZEZkdlVlZqU2VUbzdXeEdOOVRMRFV1dW5pZ1poUnpKbkhlR2stZW9xMU84em4wS1IzZElrZnZzUFo3bGNXSEY4bmRrQUcxU1hNZ2hUemhsbi1fN21HR2V5V3NqQlpLOXdXRHpyYTBSb0hWU004S2tmS0V6MHVIdjRPazJxV2ZiczI4Mko0UUtpUlZRWFZQbUpwTzg5YUZycVFtdFJSNVY5VUlqbXQ0T21QRHdTcEVnSThzU0J4cFB30gHWAUFVX3lxTFBnbXF0QVVNYWdLVXROdnFVdllidkRPRkRmR2VWVmpTZVRvN1d4R045VExEVXV1bmlnWmhSekpuSGVHay1lb3ExTzh6bjBLUjNkSWtmdnNQWjdsY1dIRjhuZGtBRzFTWE1naFR6aGxuLV83bUdHZXlXc2pCWks5d1dEenJhMFJvSFZTTThLa2ZLRXowdUh2NE9rMnFXZmJzMjgySjRRS2lSVlFYVlBtSnBPODlhRnJxUW10UlI1VjlVSWptdDRPbVBEd1NwRWdJOHNTQnhwUHc?oc=5",
-"source": "financialexpress.com",
-"published": "2026-09-30T10:55:53+00:00",
-"first_seen": "2026-09-30T11:48:33+00:00",
-"symbols": [
-"TATACONSUM"
-],
-"groups": [
-"Tata"
-],
-"tags": [
-"Results"
-],
-"sentiment": "neutral"
-},
-{
-"id": "e12b4e7dcf1718eb",
-"title": "Airtel Money bets on payment growth as $800M London IPO takes shape",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGQyWDZZZ3Q5RmlCZUp1akptMkxmV3dCdlE1ZVhzU19mZHE2YnpiZHZ1SmpPUW1VYkxOc3VhMVJYRjlQT1BGdFp3MmkzNzNNZEpfeHFoUWRtTTJwODd3ODVQMDJneFdmTzh1OWcydDRnZEdXZFRMc2Jhc2NCS1Uxd2xWMGRjaXF2S1hYeURIVXJzZFFkc2ZBYmw4cmFDODBqTXFMbG83a0N4eC1ud0E?oc=5",
-"source": "Semafor",
-"published": "2026-09-30T10:55:00+00:00",
-"first_seen": "2026-09-30T11:32:29+00:00",
-"symbols": [
-"BHARTIARTL"
-],
-"groups": [
-"Telecom"
-],
-"tags": [
-"Corporate action"
 ],
 "sentiment": "neutral"
 }
