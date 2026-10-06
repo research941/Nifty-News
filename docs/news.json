@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T08:12:07+00:00",
+"updated": "2026-10-06T08:32:02+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,42 @@
 ],
 "items": [
 {
+"id": "6aaad206f518d287",
+"title": "ONGC Submits Regulation 74(5) Compliance Certificate for September 2026 Quarter",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1Vwc1k0aVJFSlB2OVZBNThDbVRFMGFZZEMtQ3QtZHhGLTBSMUZJMVpkd3E0TlI4MVJaekFWNXhIYTUzeWFteGVhdlhTb1NDZDByUEhtYkc1WGZZMHZDY0I2SjNzbUxTeGYwVTlOTDg1dmlRdmVOY25MLW1raUNvMm5SVzRlZDlwT2ZJLS1lSllZeFI2ZEwzTkMtZEllWGpwRFNORVRseHFrbWhiVTJBSmFLdw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T08:17:00+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"ONGC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "neutral"
+},
+{
+"id": "8b3927eef3826a06",
+"title": "Jio Platforms IPO: RIL-led telco targets Rs 11 lakh crore valuation; October listing likely",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUHBrVjJidFFTQWlaMnRnUnJQNDFmVUxPTDk4emhCLVp3dlFETml3cFZMNmNDeEhIWUxjM1N4RjBmMnBmZ1MzY1ByTlRLNi1DMFBzdk5SWVJ1RC1WVGdQY01iMlh2QU5ybTJyeEpEbEFJM3g4UG1NdkF2Z1hEdllXSnFkS0tqY0pkQW1RR1dTY05ZN0cwang4T21GUDFWS3IyWUdYTV9ZT1IzN05Qd0pBOHFKeG9IanhIMkdUUEt0elBfbmluWko0djdZRk1IbVpONjZ1am5KUXdPYm1iU0JMUWNabWw3SkJHSzRQRmt5aEdCMU3SAfgBQVVfeXFMUGhYSnZrT250SDAyc3BKZTNNbFdVQkxBbXB1cUFXenkyWjFEQ09DQnJlSXBRSW9sZkdTaU92MTVIejZ2Yi0td0wxU3p0ckxBd0JIek81dkxpUEtaTDU4UDZIdFc4d0ZUVmFPVGF5NnhtNFl1VC1JWkloeTFZeVZCTnRQLS04UFJNVFZUZFQ3SHFLWjR6ODhIUDJVVHF5bUJBMUdXVWNKel9FS1BKbmJRY1ZtZEpZMGgxN1gzeUZSa25IUlBMb3B4OUNJMVZYTFBwYmJzTzBrRkZJWGZpYVIzZ091MUk3Q3RwRzNvYjdfWGVwRHQ4OFIyRTg?oc=5",
+"source": "Business Today",
+"published": "2026-10-06T08:10:48+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
 "id": "1588f52a9ef22951",
 "title": "Jio Platforms is said to seek about $114 billion valuation in IPO",
 "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-valuation-size-price-details-11791273851903.html",
@@ -461,6 +497,26 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "b41afa9d8f323daf",
+"title": "Why IT stocks are falling today: Nifty IT down 1.3%, TCS, Infosys, Tech Mahindra slide",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0pvd1NMNFY1YXZLaEtTREF6MlZ6YUgwT2ZSc0VfVW0waXVVakl3czViRTlzS2JTVlVDblhrZjZvWlBfSjdwcktwSFJqVFhvMURJcWxDaXpmODJjdnJvZFo4NHMtQzRwQUlKQWlRUnJ3VTRPZmxmYzdqbjU1WVVqOUdTalBSSEM2QlVBcW9GT2pqUDRqM1pISFU0Ymdnc1Q4ZGg4aVNWcXNIdlMxZWRHbmd3U3djbHlhSFBpZ1ZBY0l0WTNzcmc?oc=5",
+"source": "Zee Business",
+"published": "2026-10-06T08:08:50+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"INFY",
+"TCS",
+"TECHM"
+],
+"groups": [
+"IT",
+"Mahindra",
+"Tata"
+],
+"tags": [],
+"sentiment": "negative"
 },
 {
 "id": "26e81849bd804d6f",
@@ -530,6 +586,22 @@
 "Corporate action"
 ],
 "sentiment": "neutral"
+},
+{
+"id": "b6f12d008f671047",
+"title": "Tata Consumer 'cautiously optimistic' as demand stays strong and quick commerce surges",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkhPajdzeFNfd25QTnNVaVdiOU05TFNCU0hRS01DZkVDRk1xQXRKbWxSRFdreS1jaE9LWG1SZE5OeG9mUFNyRzdGTnVhWkxRT3Y4UkozblJqQnl3d2dPLUwzWG5XeWhqQ2ROR0p0eEJKbDhFaUxWanJpTk01MXBCZUJKMExmRGd4bU5YYkRhVElWbzkzN01SSWZRM3V2TmFRWTM3dlRkZzFJLVlsRGtTYWk5UnZlRy1WQUJqX2hDMVVKakNxMkZIUGF0MUVWLUHSAdwBQVVfeXFMTXJBa3hXLUFRaXluaEQ1dGhaeVYtSDFuVGxLS2R2bU94WExjbC1heEltMG9tcm9RbS12T05ENjNBZkFVdXJQY2U4SUV0aGEzNTY3Si1IbjNYSFNUSXAxT0pOVUh1YnNEVlRMcWhxVVhUeGNiYTFnOFBEdGFzeDU4MXVPdkxyeGlaaXBTTVhzMzlya0xLTzZVc25nTHpHb0pkQ1hfTElZeFltOTE1Z2ZJUkR1LWFVeG9UOE4tdDV4MWJtOUdKa01jZ000ZzREQWFqbzlydW40VFdZWi1zUA?oc=5",
+"source": "Fortune India",
+"published": "2026-10-06T07:57:27+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "03085367370e44b4",
@@ -609,6 +681,28 @@
 "source": "Mint",
 "published": "2026-10-06T07:38:57+00:00",
 "first_seen": "2026-10-06T07:41:47+00:00",
+"symbols": [
+"COALINDIA",
+"HDFCBANK",
+"TCS"
+],
+"groups": [
+"HDFC",
+"PSU",
+"Tata"
+],
+"tags": [
+"Regulatory"
+],
+"sentiment": "positive"
+},
+{
+"id": "a7b3ddb4e611a5df",
+"title": "RBI MPC meeting Oct 2026: Why TCS, HDFC Bank, ICICI Lombard, Coal India shares may gain if 25 bps rate hike is announced",
+"link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-why-hdfc-bank-icici-lombard-coal-india-tcs-likely-to-gain-if-bank-announces-rate-hike-11791268517566.html",
+"source": "Mint",
+"published": "2026-10-06T07:38:57+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
 "symbols": [
 "COALINDIA",
 "HDFCBANK",
@@ -773,6 +867,41 @@
 "sentiment": "neutral"
 },
 {
+"id": "ecc0ad03c7647358",
+"title": "Sensex Today: BSE Index Gains as Bank Stocks Rally; Trent, Axis Bank, Kotak Bank in Focus While IT Stocks Lag-Check Top Gainers, Losers and What Investors Should Know",
+"link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbkhmVGItNVJOV1dmZlZCLWloNzZYeTVFekU4My00TC1pWEEwMTNFYkl2WUpPUC1feWlMZjc2Q2NxRDg4RzVIWEJhZ3dQRUY2NHBndjBCck1lU1pzZFRzQVF1ZmlFUnZXNnJQUlRjT094MzZmNmtodmhPNVgwTXN0WVM4bzNKMDRDOVZ6LUJBampXay1FQVpNZFpveFA4V1RQc0xUQTQyMU5zZmZ3UVFhOVkxamxnbFRTSVYyaXFiQ2I4WVZVaDV4OXJvcUFNcFNoVTJDcTFZVFBzQnRkeHNQYUFxZGIwa3JPZGdhTjlpSlh6SXRmOWhPaVFfM0dEODBpU3NBYTZrU3huSnNGZnVxQ2FTajNMRld3bjBrbnRhdk45aXJlSm1XWUNqUFdHeVByUXpPM0l6X0bSAbgCQVVfeXFMT25IZlRiLTVSTldXZmZWQi1paDc2WHk1RXpFODMtNEwtaVhBMDEzRWJJdllKT1AtX3lpTGY3NkNjcUQ4OEc1SFhCYWd3UEVGNjRwZ3YwQnJNZVNac2RUc0FRdWZpRVJ2VzZyUFJUY09PeDM2ZjZraHZoTzVYME1zdFlTOG8zSjA0QzlWei1CQWpqV2stRUFaTWRab3hQOFdUUHNMVEE0MjFOc2Zmd1FRYTlZMWpsZ2xUU0lWMmlxYkNiOFlWVWg1eDlyb3FBTXBTaFUyQ3ExWVRQc0J0ZHhzUGFBcWRiMGtyT2RnYU45aUpYekl0ZjloT2lRXzNHRDgwaVNzQWE2a1N4bkpzRmZ1cUNhU2ozTEZXd24wa250YXZOOWlyZUptV1lDalBXR3lQclF6TzNJel9G?oc=5",
+"source": "The Sunday Guardian",
+"published": "2026-10-06T07:03:07+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "7f2269b8ea6f2d4b",
+"title": "Thieves Cut Open Axis Bank ATM in Rajendranagar, Steal ₹32 Lakh",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU5EMV8tRWQ0cjZDbjlRZkJicXFpejlUMVpVN2RTbG9PZHVac1JyUml4Y0hwd2VKSTZ0VHdGM2JxNGdGdjZfTzVFOE1vVGJfYnFCaFQzbEl4N3pKZ2NTczJPSUR5V0RRbTNPNzNWSE96RWxOTTh4M2F2aG4tUURQVExQT3E3ZDhvWTVLTm5VamswZjBJNzJIVHJ5RWVGYU42V1F5RXktRQ?oc=5",
+"source": "Telangana Tribune",
+"published": "2026-10-06T07:01:22+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"AXISBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "negative"
+},
+{
 "id": "f998e8e17fdf74c5",
 "title": "ICICI Bank Allots 2.03 Lakh Equity Shares under ESOP Scheme",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHhaNGpZUUVWbldsVE14TEYyWXZoRFlFYzdvdi1nVWtucldKN3RKRXhCWFdWQjRSbFNWZV9FSXV5R05BVFJUdk1ielo0UW9hOU50dU9yWThDUU0tMGo4U2dEQnpqSmRSVm9KWVdOLWRlM1BxZ2llMDRSMjd1bDJxdjh5YThmWHdtYXMyR2VDRGVSZ056TGJrS1Fnaw?oc=5",
@@ -871,6 +1000,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "4d4d5b7c556fe543",
+"title": "Car and Commercial Vehicle Stocks: Maruti Suzuki, Hyundai Motor I",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oc08tcFhQU1FkUUt4THh4VU9BMUloOVRYdGc5dl9la3hESUxUZWxWVF9xaWtWby0xOHRXbnJmVjFWekVsTDhNTWxLci01b19PSFZWS0VfdGJDbnJFQTVxVXk1bnE0NENGNWh6bU5fenRtalhldWRRdGlUZlhRZw?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:43:26+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"MARUTI"
+],
+"groups": [
+"Auto"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "435bff12b085c06f",
 "title": "3 Metal and Mining Stocks With a Strong Future Roadmap: Hindalco Industries, Hindustan Zinc and NMDC",
 "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hR1N3ZXlFeXVpUUl2TkNrTVVlSG1NM21xQXpXRWxrX0JwYnk3OGFqUFdFQlYzeEZJOWpPUkNXVXQ5OGg1YTJOZnZiRXJiaThnZkJ3RTV1ZG5GekdFSlJ2dUZiYmpueE8tUGhQM251ckE?oc=5",
@@ -885,6 +1030,41 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "187fd89d173a07f5",
+"title": "3 Telecom Stocks With a Strong Future Roadmap: Bharti Airtel, Indus Towers and Tata Communications",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSzhsMG5tNG1OUG81anhOUjh2Q21xaXBrQ201NWtZZzVYQ0hnS0Z5YUVsdmdnNVdjRFZJd21ueFJTSnRncW11Z2tXMG9TYm4wdEVWRzg0eDVEODd3MFd6M0FnMzA?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:43:25+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"BHARTIARTL"
+],
+"groups": [
+"Telecom"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
+"id": "c675278f3b074822",
+"title": "IT Services Stocks: TCS, HCLTech, Infosys Roadmap",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wYkRCci1Tcnlwa2RkWTlZZGEzZVNXcmxYYWRhUDFNeVZTVmJCejFhZXZDMDdwVS1zOTg5dEl3eWtaN2NnMFJsbFhxTDBVRk15bWdrM0ZrOWRZOUlvT19qYWpjU2JCeXp3WVE?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:43:23+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"HCLTECH",
+"INFY",
+"TCS"
+],
+"groups": [
+"IT",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "32016ec1796afb76",
@@ -1006,6 +1186,22 @@
 "tags": [
 "Results"
 ],
+"sentiment": "positive"
+},
+{
+"id": "60993bc309de15ea",
+"title": "JSW Steel Share Price today: price rise and peer context",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04ckx5aEYzcnNvNFBlMW41NE5DcldBaUJ0czBGTWtYMWFGN0tKR3NjM1JuU3ozLVZ4NVVEVDVJTjNxX1FTN1pGSGNQSFZTNzNxYmRDMnYzc3YzRnlUa0xrT0lXck5FNnBDV1lzcjFKXzF1dHMwcl9vRVdB?oc=5",
+"source": "Univest",
+"published": "2026-10-06T06:29:00+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"JSWSTEEL"
+],
+"groups": [
+"Metals"
+],
+"tags": [],
 "sentiment": "positive"
 },
 {
@@ -2300,6 +2496,24 @@
 "sentiment": "positive"
 },
 {
+"id": "b1382349b9f65274",
+"title": "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORlJGTmdaaUwxek43dXJ4VkhOMEV5a3dBWjhibFM1UGV1UnNaYXl2enlReTNIcldrdDFvM1pFd3JDSGVLZi1RYWx6QXVOZDF3TVBsMjg2Mk43dDNLYnNncWItbHlLc1pTd194OEdlTUk1NUZPY2lldnh2QWxiQzBlWUxoZXJxcll2NFdhRHpDeGFOTUdjampZNTBMMjVocjIwZ3JXb2txdF9fZElSaEtiZUJIR1NITXlMRDFtVVlUYjI5c0FPSlhFNnFVXzRVb0VFczMzSVlmMy1KTmfSAeABQVVfeXFMT0c3ajVPZEpFSVRQai15d1dnQWhDUGdFd0JNYnF2NTluS3NGUXlNTFlURjgzWnNXelU1dW1JamRuUnZCSjNVQWdzVmtGZEZXRzMxV0N6djZmMThGQkd2ZDNxMVJ4MWZwN3NLSEhmQ2FZNEh2LXBtRjZ3LThRLVdUdi1sOGpBNkxrbU8wOVlmckY5X3lXQkVGYTlZTm1CRWJOdE1KNUktVHZqMEdGNXI0bkdQaEVCbHllVEZVWmQ5WkRjUDlBVGEyR3VxblZQZ3pTdmhyWk9CVVhyaEw1V3RZOFo?oc=5",
+"source": "Moneycontrol.com",
+"published": "2026-10-06T04:53:08+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"TRENT"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
+},
+{
 "id": "47e9338a426d9a98",
 "title": "India's Trent jumps as store expansion bet pays off, sales growth improves",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQl94eDlHSTNrT1dXRlAxYjkyc3NtZjlWR2FOcktNRkhoaEZPdUtIYVUxdk53eEE4RjUtc1FXWlgzLUFtbGJReDNnUGRnT2FDMWdha2xmWGFhejNjVXBEcHRtemRwNXozTzVKS1JJa1dhYjU1OWVoZ2Fna1RNX2JyWkN0SkMyNTRrZFgyWnlTM0tFVlZndHM3ZnNMRFYwWE1nQXpzQnM4blB0dGhLWXhqUw?oc=5",
@@ -2466,6 +2680,24 @@
 ],
 "tags": [
 "Results"
+],
+"sentiment": "positive"
+},
+{
+"id": "d2cdef4edc53c121",
+"title": "Steel consumption in India to rise by 7–8% in the coming years –– CEO of Tata Steel",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXV0Q1V2Vmg2UVE4dVdFMDlvYy1udjFwVk40UldpblkwT0R4NmpzVnEyT1g0QmFwYUhtMFFndjZqcmNPTGJiYXR2aTlkcVVMcTBhSl80eUJkZzJoaDY5SXJ0czdUN0o4YnNzaVpCM2lVb2t3WDM4S0dDWHBpYnVHVGFGc1cxaTRuR05tQVRGLTV5XzRvanVXc2pMaklJVGZSdkw2dks2cFBzR0hzTlNQStIBsAFBVV95cUxOdXV0Q1V2Vmg2UVE4dVdFMDlvYy1udjFwVk40UldpblkwT0R4NmpzVnEyT1g0QmFwYUhtMFFndjZqcmNPTGJiYXR2aTlkcVVMcTBhSl80eUJkZzJoaDY5SXJ0czdUN0o4YnNzaVpCM2lVb2t3WDM4S0dDWHBpYnVHVGFGc1cxaTRuR05tQVRGLTV5XzRvanVXc2pMaklJVGZSdkw2dks2cFBzR0hzTlNQSg?oc=5",
+"source": "GMK Center",
+"published": "2026-10-06T04:31:58+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
+"symbols": [
+"TATASTEEL"
+],
+"groups": [
+"Tata"
+],
+"tags": [
+"Management"
 ],
 "sentiment": "positive"
 },
@@ -3674,6 +3906,22 @@
 "source": "Economic Times",
 "published": "2026-10-06T03:06:34+00:00",
 "first_seen": "2026-10-06T05:22:51+00:00",
+"symbols": [
+"HINDUNILVR"
+],
+"groups": [
+"FMCG"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8832a3e524728a0b",
+"title": "HUL Share Price Live Updates: HUL Experiences Positive Price Breakout",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-today-live-updates-06-oct-2026/liveblog/134721746.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:06:34+00:00",
+"first_seen": "2026-10-06T08:32:02+00:00",
 "symbols": [
 "HINDUNILVR"
 ],
@@ -51280,234 +51528,6 @@
 "Auto",
 "Mahindra",
 "Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "0eb5a376ba657885",
-"title": "ONGC Share Price Live Updates: ONGC Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-live-updates-01-oct-2026/liveblog/134606487.cms",
-"source": "ET Markets",
-"published": "2026-10-01T02:32:38+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"ONGC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3d72136d3287e20c",
-"title": "JSW Steel Share Price Live Updates: JSW Steel Price Movement Analysis",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-today-live-01-oct-2026/liveblog/134606481.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:32:21+00:00",
-"first_seen": "2026-10-01T05:06:01+00:00",
-"symbols": [
-"JSWSTEEL"
-],
-"groups": [
-"Metals"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "c22584aace8171a2",
-"title": "Titan Company Share Price Live Updates: Titan Company Price Movement",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-updates-01-oct-2026/liveblog/134606478.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:31:59+00:00",
-"first_seen": "2026-10-01T05:06:01+00:00",
-"symbols": [
-"TITAN"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a4eb6cdc285b44fe",
-"title": "Stocks to watch, Oct 1: Auto stocks, Tech Mahindra, NCC, Aurobindo Pharma, Linde India, power stocks, Transrail Lighting",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlpaTWRlTWFhSERweDFaaFIxRUgyRjZNSWdzWENoU0w5TDhTcmlBUWQtY0M5Y2J6STVLb1dPRTRFWExUTDVKZ0ZwWUItVVBBUk9zWkpmNDhDbEVtVlg3Y2ZVVGhoZDhnVG5PMWZfWC1EbEs0T3M4OHBLelVaY2VhQnRvaGNRR3RQZkFTN0l2NTBZaXhGNzFGN2JOWVloZy12Sy1qb3ZfQV94ZU52ME0tX3lLN2U3WUEtWElZenp1RXhVRTkwc0tfSVpFdXQ0SFdoWjc2ajMwUlZET0RLRjZvdTVrNXZDVjQ4UjBPR0lXTGNjREFjekkyR0RVV253azdC?oc=5",
-"source": "Upstox",
-"published": "2026-10-01T02:31:57+00:00",
-"first_seen": "2026-10-01T02:48:58+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "29121464e936c335",
-"title": "Stocks to watch, Oct 1: Auto stocks, Tech Mahindra, NCC, Aurobindo Pharma, Linde India, Mahindra Lifespace, Transrail Lighting",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlpaTWRlTWFhSERweDFaaFIxRUgyRjZNSWdzWENoU0w5TDhTcmlBUWQtY0M5Y2J6STVLb1dPRTRFWExUTDVKZ0ZwWUItVVBBUk9zWkpmNDhDbEVtVlg3Y2ZVVGhoZDhnVG5PMWZfWC1EbEs0T3M4OHBLelVaY2VhQnRvaGNRR3RQZkFTN0l2NTBZaXhGNzFGN2JOWVloZy12Sy1qb3ZfQV94ZU52ME0tX3lLN2U3WUEtWElZenp1RXhVRTkwc0tfSVpFdXQ0SFdoWjc2ajMwUlZET0RLRjZvdTVrNXZDVjQ4UjBPR0lXTGNjREFjekkyR0RVV253azdC?oc=5",
-"source": "Upstox",
-"published": "2026-10-01T02:31:57+00:00",
-"first_seen": "2026-10-01T02:59:54+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "475aad705ee4c7e4",
-"title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Shows Positive Momentum",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-01-oct-2026/liveblog/134606473.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:31:42+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "7b136cf17c0b0aa3",
-"title": "ITC Share Price Live Updates: ITC's three-month returns highlight market volatility",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-01-oct-2026/liveblog/134606455.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:31:03+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "4f9e396b3173c350",
-"title": "Stocks To Buy or Sell Today, October 1, 2026: Fortis Healthcare, Infosys and HDFC Bank Among Shares Likely",
-"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPb09iWFExTkxGVXVXN050NWtjYVZ0RzNQMHFDbU1PeWMyRGR6RGs5VXlyVzFUWmNBQXBkU1pNQTJrRjdDWEY3anFiNGZRSlcxdUdWM1QxLXdUZTV4cmdWYWdJZ28xTlZnRzJWQldXLUlvdldMYmczeXZ3SURSeWZvN3g0bEltVXdSc2lwYjBPNERlTTVxUmdncEt0SlI5c25wcEtoa214VkZ3dE0zaUp6NjZxeUZ1VUlFZm8xR0EyMEZvcExFWmhDOF9YclVoRlN3c1pYY1dLeXNORnhzeW1HMFlYX1drbXN4ZEk4b1hCSFRoR2lSQmRydWQ1UHQ1M242RTcxUDNyampGR1l4VUcxWDNn0gGSAkFVX3lxTE9vT2JYUTFOTEZVdVc3TnQ1a2NhVnRHM1AwcUNtTU95YzJEZHpEazlVeXJXMVRaY0FBcGRTWk1BMmtGN0NYRjdqcWI0ZlFKVzF1R1YzVDEtd1RlNXhyZ1ZhZ0lnbzFOVmdHMlZCV1ctSW92V0xiZzN5dndJRFJ5Zm83eDRsSW1Vd1JzaXBiME80RGVNNXFSZ2dwS3RKUjlzbnBwS2hrbXhWRnd0TTNpSno2NnF5RnVVSUVmbzFHQTIwRm9wTEVaaEM4X1hyVWhGU3dzWlhjV0t5c05GeHN5bUcwWVhfV2ttc3hkSThvWEJIVGhHaVJCZHJ1ZDVQdDUzbjZFNzFQM3JqakZHWXhVRzFYM2c?oc=5",
-"source": "LatestLY",
-"published": "2026-10-01T02:30:46+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"HDFCBANK",
-"INFY"
-],
-"groups": [
-"HDFC",
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1f319edcb2b99ba5",
-"title": "HDFC Bank Share Price Live Updates: HDFC Bank's 3-Month Performance",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-01-oct-2026/liveblog/134606451.cms",
-"source": "ET Markets",
-"published": "2026-10-01T02:30:45+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a5eba8ea2dd69bbb",
-"title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Movement Signals Weakness",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-livestock-price-today-live-updates-01-oct-2026/liveblog/134606445.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:30:28+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "3f762959ae0f587c",
-"title": "Adani Ent Share Price Live Updates: Adani Enterprises Current Trading Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-01-oct-2026/liveblog/134606431.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:30:07+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"ADANIENT"
-],
-"groups": [
-"Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9db081cb6ee2a242",
-"title": "NTPC Share Price Live Updates: NTPC Stock Details",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-01-oct-2026/liveblog/134606430.cms",
-"source": "Economic Times",
-"published": "2026-10-01T02:30:07+00:00",
-"first_seen": "2026-10-01T05:06:01+00:00",
-"symbols": [
-"NTPC"
-],
-"groups": [
-"PSU"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "38b5001e8f668958",
-"title": "Bonus Alert: 7.1 lakh retail shareholders of Tech Mahindra to be rewarded on October 15 - A look at past trend",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYmgwTTIxb09TVm4yekVfU0ZlM1hZVmNLVkducFZtN2NuY3lfX0ZOb3h5d2FKaUhQTTBudHJEcEN1VGtLemZoSnZsekV1X2czY2NLTUNwWnYzTm14dGJpY2tTRHJWV2FxcG9VOHpOc2cwekRvU0tBcmlYUkVqQzZWZko2OWs3TDEwbTN2VkRobFJIQ3I2cGxMcHVwMzhRNGpaYzZiLUp6cVFqTmlUazBBdWRJcHZqd2dSRHc5b0F6QWJZVGRPQkQzUHFnMUhVYzBlaG1ra2N3dGpabnBmMmxfaVhFTFpmN3VYX1JyRk1n0gHzAUFVX3lxTE1vSDZwUWEzSGRjWHpfQzNsaGVGWFJDc1BhdGs0cHFjS0lVZi1oVTd3QTZYM2FEMHppTzBXRVlvbmRtbzc0NTNqcHdZYTlIVTZhMXA4dEpkdExLS2dxam02NDdScGdqMDBOeF9RSEVPSFkxVzFfbUZlUFhyN3NSbDhOYklid244Tm5VZjRhaWk0ckFRbFlKTkljcDRHbFJaeFZQeGwyU3ltblRjSmFib0RjS0ZCWVVzYXladS1rb1NWRHU0VXliVUZaMDVmRFdXblRjM1EwTENhdDRkaFdwQ3JGak1IbG4wRGZ6eGdvbmVJRUdxRQ?oc=5",
-"source": "CNBC TV18",
-"published": "2026-10-01T02:28:56+00:00",
-"first_seen": "2026-10-01T02:34:32+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [
-"Corporate action"
-],
-"sentiment": "neutral"
-},
-{
-"id": "a5de66893be58c13",
-"title": "Second Hand 2018 Maruti Suzuki Celerio X Vxi for sale at Rs. 3,22,139 in Kanpur.",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTHE4NFNhaUVBQ2lhemdTRU8yY2Fjcm5KV2Y1dUd3WVllLWo0MmF0bkU3VUg2ZVNqS2JEN1AzSVNXcG82OWxWS3h4U3BsaVJibFZieGloZHdqYTZIM3J4ekNjRERCVGxaek9TLXBRX1lhbkRieGt3Nkk0Ry1yY0w1a29Gckdhc0JldEE?oc=5",
-"source": "CarTrade",
-"published": "2026-10-01T02:27:57+00:00",
-"first_seen": "2026-10-02T00:27:32+00:00",
-"symbols": [
-"MARUTI"
-],
-"groups": [
-"Auto"
 ],
 "tags": [],
 "sentiment": "neutral"
