@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T11:50:08+00:00",
+"updated": "2026-10-06T12:01:01+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -631,6 +631,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "a8e3f2e185d13c99",
+"title": "Tata Motors PV Q2FY27: JLR wholesales up 25%, UVC domestic sales surge",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEdyLUE4Qlpic0o0R2VBajBLdE1FUWdiWVZyUWRyQ1lwem5Tay1TRzhuQjUxUVRIN0lHQm1Yd2NlbVM5NEc3TGR1Q0hyY3c5OEExdC1MTS04QnVUUEhpVXJWdE9sQnVBcWphZWN5bkN5SzVBZFhnVHpOM2QxZFRkejFpWjlSVHpOUWRtaUMwaEhJNVNmTHc1ZXQyM0ZqeExpenhKMm52b0ZoaDFSbjZjWHZ4VUJKMWJ6X3pr?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-06T11:01:39+00:00",
+"first_seen": "2026-10-06T12:01:01+00:00",
+"symbols": [
+"TMPV"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "positive"
+},
+{
 "id": "b7bb6aa7b5c3dff5",
 "title": "Tata Motors sells 1.97 lakh passenger vehicles in Q2 FY2",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEQ2YVAtbjBESGd1dEozS1F3c0pfX1VOSmwxU21RTFJDV3ZRTnVLeHBFa0Y1YWp0VmJXaFBwbk40b0daUTJWbWpON3JMZ3ppOE00bzlYSENUX2JsdGlrSmZfMXNJdWM1Q2FqNHVZM296TFNXWi1tSXk1V2tBRjJuUlF5bHFOYk5lSjNuS2VpT3BCOXFXZjVDd1gxQmdWVE83YnFjbEZpNGhvS0U4Y2ZsWFVGTmllbC0wazNsaG9DVnJReEFEVkpwWjFGY2ZodUXSAc8BQVVfeXFMT3RENmFQLW4wREhndXRKM0tRd3NKX19VTkpsMVNtUUxSQ1d2UU51S3hwRWtGNWFqdFZiV2hQcG5ONG9HWlEyVm1qTjdyTGd6aThNNG85WEhDVF9ibHRpa0pmXzFzSXVjNUNhajR1WTNvekxTV1otbUl5NVdrQUYyblJReWxxTmJOZUozbktlaU9wQjlxV2Y1Q3dYMUJnVlRPN2JxY2xGaTRob0tFOGNmbFhVRk5pZWwtMGszbGhvQ1ZyUXhBRFZKcFoxRmNmaHVF?oc=5",
@@ -731,6 +747,22 @@
 "Management"
 ],
 "sentiment": "negative"
+},
+{
+"id": "b0eab877eee74353",
+"title": "Why Kotak Mahindra Bank Shares Beat Nifty 50 and Bank Nifty",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNXSVRJaXBFdWlHN1htd2pHNGlZR2M5cU9hTnhBdnJfZkNtS1NlU29DTFZGMmxISjJxQ0tJakhqOXRsUU5lZXFKN0JBTnhWM2VVdm95TWJhLTB6d0FpeEFrdmxHeld3MmMxOF9aWVlhRFRBRlh0RmZpX2xEWklTUjAwTUdfcXpmb3YtLXd5R3J6ZHl5LUZrdVM0eFRsb19oZU1BOWZBTjg?oc=5",
+"source": "univest.in",
+"published": "2026-10-06T10:45:00+00:00",
+"first_seen": "2026-10-06T12:01:01+00:00",
+"symbols": [
+"KOTAKBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "positive"
 },
 {
 "id": "be83e7d539a963f7",
@@ -897,6 +929,24 @@
 ],
 "tags": [],
 "sentiment": "neutral"
+},
+{
+"id": "99ba0b14673768e2",
+"title": "Power sector Q2 preview: NTPC, Tata Power, others profits seen jumping; likely to stay strong",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYjM4ck42eW1aQU1tajFZTjFteTRTY0cxZnpqTHQ2VDVBdC1pS2trc3NUT3h3aFlwQ0VQRUdMVUFpUEpSQlJhLS1YdkdWVVdfUlowSWdNTUFTZnhNQ0Z6bnFtdFV5VVN4bVBJOXFvVHV6a2duSHpGTU1VTGNPSV80Nko4R251aWFCZzlTYkVpTXRTR3lwd2lfNEhBZF9ZaTZaSERtVG8tei1qR1hQRTkzZ3RwZGhpRFB6MmlkdkdBVHlUd3doUnppTjV4b0dFVzFLYXZ3U2VJY1M5bDFBektsckdsV1ZVNG5Qcm9reW1HVDlucVBONzNpNHhLbTbSAYICQVVfeXFMT2ZNUHpmYldSVlhLclgwMVdHRm9wU2tXSkwzN1RfOGpfTVJCaXAydDViS1Q2N0VLeWtObEp1M3RKSzVkblpmQWg2aWRhb3RXUVYzLVpLdWtBY3BraHB3WGZMVEdGc0NhTEdhVWRKOTlzZnFpQ0RGRmRpYUdRYW9vWWNzT04yTDM5c19jX3VGMDAwcm1lTDM1TjdnZ1JVazJKeExyUWxtSURiS0NnaDdIejFrOGhQZUJNX3VRMHFZSW1UcWVNZHlDcTNQLXFSeTVPZ0tRVUZaUWp5eEUyQkY0bHFGV3BZZUk4ajM3ZVNPVXBKUXJSNmNmYlBBa0FvVU81VlRB?oc=5",
+"source": "ET EnergyWorld",
+"published": "2026-10-06T10:26:01+00:00",
+"first_seen": "2026-10-06T12:01:01+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Results"
+],
+"sentiment": "positive"
 },
 {
 "id": "3ab601b6692fbd5d",
@@ -51464,56 +51514,6 @@
 ],
 "groups": [
 "Adani"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "1a721bb83c8e4c7c",
-"title": "Bajaj Auto September Total Sales At 5,38,443 Units vs 510,504 YoY",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM1akJ0SEpQbDE5aGpsQm8zdGE1SnliU1JMXzVQUFF6ZGVWZElzOUxkdVN0NDBwamxWV1MwNmd4SGVqcmFPdzIwZVA3RHBDVGVwTjhlVHNMRzhjTjM0cDFFNmpZeVpOME1Ra0R3WUNBai1jRHQwU19BTmEySjlVVEpPTlE0eFgwSzF0MUxPSnFQNE5CT2c?oc=5",
-"source": "Sahi",
-"published": "2026-10-01T03:56:43+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "79968c82fe275737",
-"title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors",
-"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTTNRU0Vkd2ZOd0oyWmlNZTNSc05sMmRDMmtEd1JkelN6SHM1ZU5icldqQ3VuNHFrR2xoUzFqM3gzbXJpN3FUR2RLVlNROTU2Z25IOWE4NnpDbURTQVFZTXBqQ3RsSUFxS3VJSEQ0QW1WbU44ZHNaSmt2dVROYUZzcERlSjlVXzAyZzl0OHpvODlPZmt2Y1lPUDhtMDFzY09qRnExNExqTS1ucG54bUd5Sktmb0t4MzMxQXNGd0FzWHIyclU3bkItZXlvY3NlLUdDZWN4aVZWRmlLUmhTRGw5SV9QSkxrNGdfMVNjWU1rV2xIVmdiVEtRQlhFMkZLTTRfOGlrRldVX0swb0NJUGpmdGlhMWpSUG1SNVZkQ3FMRDZnUFdqVFlDZVdWRVkwVk1raUhhc2hwSjVROXFfNnJVQmZNdmtxOVBYbXRjVnJpRmE5NUdLLWQ5MkVNc3dTR2hJLUdYcndR?oc=5",
-"source": "GlobeNewswire",
-"published": "2026-10-01T03:55:00+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"HDFCBANK"
-],
-"groups": [
-"HDFC"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "9643deda0956d90c",
-"title": "Stocks in Focus Oct 1: NCC, Infosys, Jio Financial & More",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ01XN1pUX0lDZHdFSkVuemotN28wZ2xYcHAxQVdpQm5wbzl3OGR1OHdKMWo2Zzc3Sm5KX0NnaXFLZ3U0VFRnVDY1VUV0NVJ4QkRsXzlncFdjQ3ZwNEZvcU51VFJoZFBLU2ZjalI5Z1FmNnQxTUpBNWUxVHlJcFNxcjhWT1VheUJtMWprTGtvYWY4RkxFSzBtNjk5YktDX3RkZHBReUFkM2tUQ0xzMXZuTU1wWkJqZzAxZ2tjSDZ5OXJsZTJqdDY3NEJSbjRFdUlqMjJvd094QXFCYW8?oc=5",
-"source": "HDFC Sky",
-"published": "2026-10-01T03:54:05+00:00",
-"first_seen": "2026-10-01T04:38:01+00:00",
-"symbols": [
-"INFY",
-"JIOFIN"
-],
-"groups": [
-"IT",
-"Reliance"
 ],
 "tags": [],
 "sentiment": "neutral"
