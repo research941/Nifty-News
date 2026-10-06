@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T00:29:48+00:00",
+"updated": "2026-10-06T00:53:50+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,41 @@
 ],
 "items": [
 {
+"id": "c82a71d8d161c580",
+"title": "Stocks in news: Vedanta, Kotak Mahindra Bank, Marico, Axis Bank, Trent and Zydus Lifesciences",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-kotak-mahindra-bank-marico-axis-bank-trent-and-zydus-lifesciences/articleshow/134712004.cms",
+"source": "Economic Times",
+"published": "2026-10-06T00:30:00+00:00",
+"first_seen": "2026-10-06T00:53:50+00:00",
+"symbols": [
+"AXISBANK",
+"KOTAKBANK",
+"TRENT"
+],
+"groups": [
+"Banks",
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "8faab909614d820d",
+"title": "From 7.1% to 15.3%: HDFC Bank’s loan growth comeback is hard to ignore",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTTlMd0I2YU53ZHdWSTRHanRXWk9lRE5SQkZzYy1TRldDbDc3YVdWenA3dmJMcGtDSG12emFHVVB6SVBIMGIya3A3dVpjZ3NYNFRYdHFxNTQ2V3lVM0xrR2NwSWZwSHBua1pFMU9nWDdoX0hnS2xRZXJxc3M2aWNCeGJxNVIwMGxFU2xpU25kQTVtZ2VIbk5XVUNlZzVVYzBsZ2Y0anlqZTFJaTQ3dDBab1NKTkFDbDlTS3VuUDZiSGFldGdFbkFkaE5B0gHQAUFVX3lxTE1SSzlsTUg5SmZxd081WU1xQm5tRjRnU2tYLW0yLUlVY3pQMnFTeTVoX3cyeEVWWUVWNkJzUy1yemdmTVgxeVBFZG5mTXhSREV4ZkNhUzNCa3NTdm5CUDJqeGQzU3FCbkZJc290cVc2M2pnOTJTNGlmbnFBRDR5TFJuTmlNTjBpZzFuZjQxTEZGc1BfVTI2RHBSNFd4TUVndE5Vd1VjVVFqcnFZRXEyLXJwYndqQ05UeXdwVHNpeGUzOUJSblgwcDV5cmxFSDhlWl8?oc=5",
+"source": "financialexpress.com",
+"published": "2026-10-05T23:40:00+00:00",
+"first_seen": "2026-10-06T00:53:50+00:00",
+"symbols": [
+"HDFCBANK"
+],
+"groups": [
+"HDFC"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "c8ee54995c35832c",
 "title": "Apple Pay arrives in India through Axis Bank for credit card users",
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTk0RW00MkxjNVgzbXlINGwzVmRJVTBuenI2S09xeWNKTm9pQy1tV0FjanJyLUJ2OW52S2tiZEVvamxXaThHSVdnZldaV21hZS1URUU4X2hRbG1PamxOZW14cmlVa0VHR0piSW1RVFRMVnBwLXZmSkpOb3d3NGpTSV9JejN0TFlyRWFmTDUwbG5MN3huWTh6RERWRFVhRnptSm1rMEFiZnBOT05wYzNkcFEyWUoydWlZ?oc=5",
@@ -456,6 +491,22 @@
 ],
 "groups": [
 "Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "cd8d10a7533f521e",
+"title": "Adani Skills & Education, Kachchh University Launch Centre of Excellence to Drive Green Energy Jobs in Kutch",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnA3YklSbng4WWV0bEhXZGc0Q1A1cnMtaG0tc1gtWFdfbzZzLVhZTTZKZnZJWExPdmNaZlZsLVBCSUlFRlM0SXV6TTBOdnJ6NUw2dGtRa3dybXNoSTFlZm0yRkRHUmJLbmx1UFRBN3RxZS1tV0xCQ2lLWFlvcktUTzhVSnREOGNyYlBDc3BPOXpPMHVsYlc3T0JZMXh6Q1EwZ1lwRVNrZ0d3RVM5UkFPMWxUMFdLUQ?oc=5",
+"source": "Adani",
+"published": "2026-10-05T22:28:46+00:00",
+"first_seen": "2026-10-06T00:53:50+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -51404,56 +51455,6 @@
 ],
 "tags": [],
 "sentiment": "neutral"
-},
-{
-"id": "a5f37d523c4cfe9a",
-"title": "L&T wins ₹7,500cr Dubai Latifa Bint Hamdan Corridor contract",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREwxbkFzM1h2WmZSSUo5b2J0M2ZoY1psX09PTVJSVVA0LXFSYThMWjF5NnpkNDhaS05SajBUbk9zZVd3VXF4SVhqWjhjSkJQRmFCeEdCMktiZXRGcS1rajUtMjVMWEVuRlZwcjFPSVVTNFZXNExRZmY1RWhpTHZxQzRrdjNidmlwODN2MmQzWXlwRmM1SEdkdXBONlE3NXFjYmd5MjZvWmROUVU?oc=5",
-"source": "NewsBytes",
-"published": "2026-09-30T10:38:15+00:00",
-"first_seen": "2026-09-30T10:52:32+00:00",
-"symbols": [
-"LT"
-],
-"groups": [
-"Infra"
-],
-"tags": [
-"Order/Deal"
-],
-"sentiment": "positive"
-},
-{
-"id": "4b2d9a6c6c554169",
-"title": "ICICI Bank Files Technical Amendment to Japan Annual Securities Report",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXBFUGgyUzh0U2RvVTN5aUxURFJEZ2RNN3RpQ3Q3b0RsUjBGdnVhTGx1VlB3Y3lUb2ZMZWc2Tl9BY2dIOVN1cHg2b1RldVRGQTRqNEo1V2pzLXd4WElLdDVsVkZrT0hwRnVwT2xsbXRXSHd3RkNwaVVyZGFFc1V0Q2xqcFZZMVp4SXhkSGUxaWR3aWU0aDF3QnNuV0dLSGpuY3dkbHpmN2RlQS1sZXBkdGN1aVFULWh2MnlSYjZFOA?oc=5",
-"source": "TipRanks",
-"published": "2026-09-30T10:37:01+00:00",
-"first_seen": "2026-09-30T11:02:46+00:00",
-"symbols": [
-"ICICIBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "18f891c50c74e299",
-"title": "Tech Mahindra advances Wednesday, outperforms market",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUd1ZElSakRCSkZEbEticWZIb3cwUEN0MEw0Sk4zNXNJNjBnTGQtRldBMFpjbjQzX3Vnb3JMNnlfRzZLRHhKaEw5OUNSSWxhUVhHTWhiWm5qaV8xa2hZbEF1Tk8zT21IeVhmRkEycmVZM3Z6MjVhMlpWbVlsSVAtTDh0cy05YTJrWjVFbTJKTkpkSXRYRVlGVC1ReEJLTEU1MXBreEdEdFFMaW9EQld6ZDBPRW8wMmI3ZDB6bnRPeS1JU3dRLU1XZw?oc=5",
-"source": "MarketWatch",
-"published": "2026-09-30T10:33:00+00:00",
-"first_seen": "2026-09-30T11:48:33+00:00",
-"symbols": [
-"TECHM"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
 }
 ]
 }
