@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T11:19:27+00:00",
+"updated": "2026-10-06T11:35:14+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,54 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "16acb5c6649094cb",
+"title": "HCLTech Marks 10 Years of Lucknow Campus; Announces ₹500 Crore Expansion",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNETlp1VjRGdlNVOU9oRkV1MEI4TjNHeXcyYkpsMHJSZ3RpbTVhM1FoQ1RjRjk2eTBrXzhuSVhhUDZOZ0g5ZkRsQUh2N3ZiR093VEJZN0hPR3NveXVxdFQwbWJuRVpDTFZYUDcyLTVSQmNFWUU0VDU5cUJqbEhHT2xMN2R1RWw0bGk3X25KSUt2UkczcmlvMmFfWFM0SVVkS2U3bngwM3p5SG52clBMaw?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T11:21:00+00:00",
+"first_seen": "2026-10-06T11:35:14+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "3ec9ca271730f55b",
+"title": "NTPC REL Floats 2,000 MW Pumped Hydro Storage Tender, Sets 500 MW Minimum Project Capacity",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkpvdExINmpMMG1XNWc4dWJJQXVxS1lhZ3hqeDhxX2EtcDJqR0gwcDQ2OWF5cHVscjlfc1ljR0tDRVNSUzQ5N20tOEtGSUNYTzMwMGg1V1JrdkNEMFFCYThtMEh1UzZaN25rSHNmdlZDYXlDMmhzMkNad0d5OHhhLWc5Z1JQeEFwTHh2S2hPa2w?oc=5",
+"source": "Indianmasterminds",
+"published": "2026-10-06T11:18:21+00:00",
+"first_seen": "2026-10-06T11:35:14+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "750b1dee5b51a219",
+"title": "Festive shopping 2026: ICICI, SBI, Axis credit card offers on Amazon, Flipkart and more",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmRmOGZYWHRGblQtNlJxNnJMR2NjQzc0aFpUcEY0MXRibG9rWWRXb3VNbUJCUU1fYWZpaGhxcXl5cmZqYks4Wk1iLWtwelpIZUw4dHlDWFZkdi1sNFR0WW1ZVVN4dTRnZHU2cFlXSVdMbkdZYTc2YzdMZHV4TnJYOTBPUUtXaUtySUh6RnZhZ3R5MnYyWTZvYXhYTmktT2o0MGdOejl4UHJjbGh3bW0tV3A3aURidEYyTnNzc3Y5ai1oOWxP0gHKAUFVX3lxTE10RmlOUVFFVUl0djdoQngzWTdvb2FDMHJ4SjZWbmFIamFZNHNQTnV2enB0bjNXRU5Fc1hXaHdMUjJBc1ZYc0puVnJkVlYwamVuMmpTa1VsRmNqdW4tNUtKa3E0LUptQWRFbTV3Zk9HMjVacmoyRHBGb0N3UnlUOS0xa3U5bmhDVmlHcTNYcE5aaGJsQy04WU9NMEdWdmREVEd5U1dMYnpYc3FTOWFmZExXa2VBSFJNNEdVNU0tQ21zREpXSTNKOWJFV0E?oc=5",
+"source": "CNBC TV18",
+"published": "2026-10-06T11:10:29+00:00",
+"first_seen": "2026-10-06T11:35:14+00:00",
+"symbols": [
+"SBIN"
+],
+"groups": [
+"SBI"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "9428d9aeb14c8f35",
 "title": "NTPC REL Invites Bids For 2,000 MW/12,000 MWh Pumped Hydro Storage Across India",
@@ -7487,6 +7535,22 @@
 "Corporate action"
 ],
 "sentiment": "positive"
+},
+{
+"id": "913c70db1ffb3702",
+"title": "Reliance Industries Plans Rs 1 Lakh Cr Investment In Andhra Pradesh CBG Projects",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHYzN2NyVkN1SkxOWmRRMzVSTUo3REc3XzUyV1NIYzNKcndvQktkd2hqazJ6cHJOTm95V3NXUWNsTzFVaDJDcGhSclU5SmN1M1hhck5FTTVlNEZjUm53YVM3VnliUHlRdmxwbnVZWDFvVGp1bXVVa2MyTUVSQkZsSkpWcEhiaE1pdHNqVHM2el9zeWgwRGk4YkVQMXpZQ1Vzbm0yaUZHM1N5NGNLSkNWLVg3TkNnaHRKVWFYWXpheExCdw?oc=5",
+"source": "BW Businessworld",
+"published": "2026-10-05T22:30:05+00:00",
+"first_seen": "2026-10-06T11:35:14+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "cd8d10a7533f521e",
@@ -51450,74 +51514,6 @@
 "Management"
 ],
 "sentiment": "positive"
-},
-{
-"id": "3e0b80fde6778af8",
-"title": "Mahindra and Mahindra auto sales rise 15% to 1,14,874 vehicles in September 2026",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0QxTU1HSGlmM1hqSXNZYzJISm41LXJvUlFTRHBRUzB4RzI3YjE3S1duZjQxZExrb3RjVFROendtM2RYWUZMZGpySzhkYlpUUXRfWEYwVkEzWmVJV2U5c2RwcllCSWVzd1NjQ3V3VTVINk5hQ2pqLXp4UVBxY25TamdfdXJTRktYN3FXemZKZnZwN3dEX05seVZBUG9wMFVsWjZtUDR1cVJQX1JVVmlZbnFtOHp1OEE?oc=5",
-"source": "Business Upturn",
-"published": "2026-10-01T03:48:35+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"M&M"
-],
-"groups": [
-"Mahindra"
-],
-"tags": [],
-"sentiment": "positive"
-},
-{
-"id": "24e3d07a097874b0",
-"title": "Kotak Mahindra Bank shares gain over 3% after Anup Kumar Saha named new MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOXd3WWlKNERkNnRZbUlUMGc5OVNXc3A3bmdtVGNrR3dUYnZrMFZrNlBOalpWT2lRaUZOd05DMEdITUNrVWg0a0JfVk1RdGdBa3VDNEU1R3lMdWVULWY3OW16SDZsUzVpWEZZbkN6Ri1pQkdSbTNfLVh6TFJpMmJvY1RsZi1EYmJqVy02Tk12clZmLVRmZzdPdXBqUURUdkF0d1Z4WVVwcy1Way16Q19YOUNLZkxaa3lqS3ZiY21Od0N6N0tLWHFITi1rRElxbHdsVDFDeDVuNUvSAd4BQVVfeXFMTVBjNnlYZFdHT0JmSG1LVklZbGQ2QmNKQnlBb3liZjdIbTBFbFZhT1dNRUlmekotV3hGUU1namxXTUhxcWxoaDNLdnRqXzJPVXZocU11bGRzSl90UFl5QzNQS19JZGZtTEpmNlpoVnNYODhNODZaMHZ1eERZeHAxMzh3N2h0M2VVRFBpVlFjRnhPZEtjWV9zc1FuWGltX2tnczhiRE02RkR2YUhwa0Qwc0cyTXdCejhuNEYzNkpJZVRWemh1QWp5LWQzZTNMRUxmNDhaaUYyTkNxVnNwblBB?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-10-01T03:47:35+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "positive"
-},
-{
-"id": "839c90e188168b88",
-"title": "Kotak Mahindra Bank shares gain nearly 3% after Anup Kumar Saha named new MD & CEO",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGM2eVhkV0dPQmZIbUtWSVlsZDZCY0pCeUFveWJmN0htMEVsVmFPV01FSWZ6Si1XeEZRTWdqbFdNSHFxbGhoM0t2dGpfMk9VdmhxTXVsZHNKX3RQWXlDM1BLX0lkZm1MSmY2WmhWc1g4OE04NlowdnV4RFl4cDEzOHc3aHQzZVVEUGlWUWNGeE9kS2NZX3NzUW5YaW1fa2dzOGJETTZGRHZhSHBrRDBzRzJNd0J6OG40RjM2SkllVFZ6aHVBanktZDNlM0xFTGY0OFppRjJOQ3FWc3BuUEHSAd4BQVVfeXFMTVBjNnlYZFdHT0JmSG1LVklZbGQ2QmNKQnlBb3liZjdIbTBFbFZhT1dNRUlmekotV3hGUU1namxXTUhxcWxoaDNLdnRqXzJPVXZocU11bGRzSl90UFl5QzNQS19JZGZtTEpmNlpoVnNYODhNODZaMHZ1eERZeHAxMzh3N2h0M2VVRFBpVlFjRnhPZEtjWV9zc1FuWGltX2tnczhiRE02RkR2YUhwa0Qwc0cyTXdCejhuNEYzNkpJZVRWemh1QWp5LWQzZTNMRUxmNDhaaUYyTkNxVnNwblBB?oc=5",
-"source": "Moneycontrol.com",
-"published": "2026-10-01T03:47:35+00:00",
-"first_seen": "2026-10-01T04:54:00+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "positive"
-},
-{
-"id": "ab47e11db50d24e9",
-"title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Current Market Status",
-"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-01-oct-2026/liveblog/134607497.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:45:58+00:00",
-"first_seen": "2026-10-01T06:35:43+00:00",
-"symbols": [
-"JIOFIN"
-],
-"groups": [
-"Reliance"
-],
-"tags": [],
-"sentiment": "neutral"
 }
 ]
 }
