@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T01:46:53+00:00",
+"updated": "2026-10-06T01:57:43+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -444,6 +444,42 @@
 "Business Standard: HTTP Error 403: Forbidden"
 ],
 "items": [
+{
+"id": "bd18a112c9df12fb",
+"title": "Divi's Labs, TVS Motor could replace Max Healthcare, HDFC Life in Nifty 2027 index review",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-labs-tvs-motor-could-replace-max-healthcare-hdfc-life-in-nifty-2027-index-review/articleshow/134720063.cms",
+"source": "Economic Times",
+"published": "2026-10-06T01:40:25+00:00",
+"first_seen": "2026-10-06T01:57:43+00:00",
+"symbols": [
+"HDFCLIFE",
+"MAXHEALTH"
+],
+"groups": [
+"HDFC",
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4928f23adceabc2f",
+"title": "Divi's Labs, TVS Motor could replace Max Healthcare, HDFC Life in NSE's March 2027 index review",
+"link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-labs-tvs-motor-could-replace-max-healthcare-hdfc-life-in-nifty-2027-index-review/articleshow/134720063.cms",
+"source": "ET Markets",
+"published": "2026-10-06T01:40:25+00:00",
+"first_seen": "2026-10-06T01:57:43+00:00",
+"symbols": [
+"HDFCLIFE",
+"MAXHEALTH"
+],
+"groups": [
+"HDFC",
+"Healthcare"
+],
+"tags": [],
+"sentiment": "neutral"
+},
 {
 "id": "2b63a7213ba7f2e1",
 "title": "Jio Platforms IPO: Rs 37,700 crore issue likely to open on Oct 21",
@@ -51418,40 +51454,6 @@
 ],
 "groups": [
 "FMCG"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "5b86ff3fc81e812c",
-"title": "RBL Bank Gets Rs 173 Cr GST Demand Notice for ITC",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Zoa29VaEV5OGV3dVM0VkxQWkVST0szVlMyS1ZJbUwxY1NRLWF2YlRmWjBtbXlzdlZTaUplZFlqZzlhcjcxQS16YXFqazdMekhna29vekpVS0MwN2tucmJaRjNUdzJaRksyLW53TmdmU0NGU3BuVU9RVjFKVlhYV21TRE41b1ZMV0hjYVVGNzdRN09iTENYODNvV1FTRGluZGhReVZmQ2_SAagBQVVfeXFMUGtGaGtvVWhFeThld3VTNFZMUFpFUk9LM1ZTMktWSW1MMWNTUS1hdmJUZlowbW15c3ZWU2lKZWRZamc5YXI3MUEtemFxams3THpIZ2tvb3pKVUtDMDdrbnJiWkYzVHcyWkZLMi1ud05nZlNDRlNwblVPUVYxSlZYWFdtU0RONW9WTFdIY2FVRjc3UTdPYkxDWDgzb1dRU0RpbmRoUXlWZkNv?oc=5",
-"source": "Rediff MoneyWiz",
-"published": "2026-09-30T10:48:01+00:00",
-"first_seen": "2026-09-30T11:48:33+00:00",
-"symbols": [
-"ITC"
-],
-"groups": [
-"FMCG"
-],
-"tags": [
-"Regulatory"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7f824f626c1fa879",
-"title": "Union Minister Shri G. Kishan Reddy Reviews Coal India Limited’s Preparations for Special Campaign 6",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZcHhRbktiZURSN2stTXZlSVIyTkt5Ym9LeU96RWVJWG50TDctRWY3REw2VzhGSk9Ta0FzRE5yMjRzT0xDUW1FVnY5V0NxT0JncU5PSEc2QUxLaE1tYjVnVnQ5dDl1X1B4?oc=5",
-"source": "PIB",
-"published": "2026-09-30T10:48:00+00:00",
-"first_seen": "2026-09-30T14:23:08+00:00",
-"symbols": [
-"COALINDIA"
-],
-"groups": [
-"PSU"
 ],
 "tags": [],
 "sentiment": "neutral"
