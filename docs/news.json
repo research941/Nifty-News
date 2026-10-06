@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T10:41:26+00:00",
+"updated": "2026-10-06T10:56:46+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -445,6 +445,106 @@
 ],
 "items": [
 {
+"id": "3a0d73ad2538ba4e",
+"title": "Aarti Yadav moves on from Tata Consumer Products",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2RXeGh5RkMzNDBxekdUTTdhYnBLU084YXpIbm9oNUN6VjRCZHRBVzg2cEhCVnVjbF9zY0d0NGZEcWtOMEZncXdaTUdhZGVKNzR4dVZjeXlpaVdBWHRtYzQ0dnhJMUFJTExwdGR1QkhuQm0wNmtpdnR5VWxDcmxXbDhVRkcxZ0tIbkpUWGZFUm5TMlljWEdzMEdtbw?oc=5",
+"source": "afaqs!",
+"published": "2026-10-06T10:52:39+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "a52751c1aa4a44aa",
+"title": "Tata Consumer Products GB and THG Ingenuity partner to accelerate digital growth",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXhybnhDUFVxNTlrYVpwQzF0RmN0Mi00TmE1Rm5fMkJRb1RueWhIWTkwT3pOUzN3cDZiZVUxWWN5RHlCRVJTX0hVSTZJSjkyTVo2bXQxZUFkRWRHQURYa29tT0x6RVlPcG1oOXdwbFgyYmFPTGN5bU1ZV1BXVm1TYjI3c0FCV3ExLXBkem9yRUFMUFVBVXVFempNQ1BFeWU3Wk5BVktycll6MDViNTZuVFRqOEN0RFk1LWU4?oc=5",
+"source": "Home of Direct Commerce",
+"published": "2026-10-06T10:52:05+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"TATACONSUM"
+],
+"groups": [
+"Tata"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "df38d12b956b4584",
+"title": "Why NTPC Green Energy’s Listing Was Subdued Despite Renewable Buzz",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNElYcmlPUGxBSkExZTgzNTVIVEhPSk1yMjl0Uy1VTjNfSU1EMXJ0cERDZ3RIbUItUDhsOGgzRHBMRVl2X01qR21LVEVyejE3aGgya3RqYWQ3Y1AzeW5QV04ySHhrZ1lpY01OYTFwcldiN05zbFFoYS1QMlAwR2t6VFczNW5jSENVUHJONDBNUHFvTHUyVlVzZ0U4aTR0Q1J3Yll0RGJ5em9pZVRFRXc?oc=5",
+"source": "HDFC Sky",
+"published": "2026-10-06T10:47:19+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [
+"Corporate action"
+],
+"sentiment": "neutral"
+},
+{
+"id": "b116654dcedccf35",
+"title": "Icici Bank Slides as Surprise CEO Exit Jolts Investors",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWRkdkFfR3VSbkszQS1fcklETFJoMFhfWk1NX25xNlAtSW1pNWdWcWFwcTBIWWtDSDI5R005TUE1ZWZJaGFtaVByUTRUUmhGeG1xLWFodzFMcFBuZWd5YWxVSC1IOTB3dU1zNnNZanJxM21TeHN6b3dpUmVHV2htMVB2Ulh2N1pXb1RUSk1FWkVEblB3Q0Rodg?oc=5",
+"source": "TipRanks",
+"published": "2026-10-06T10:45:34+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [
+"Management"
+],
+"sentiment": "negative"
+},
+{
+"id": "be83e7d539a963f7",
+"title": "ICICI Bank Announces Leadership Transition at ICICI Life Insurance",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzhQVW5fNWliWExfbkp6TWVzcHZpNlJETVJkdWxWSU0yNFZUaVR2bVFqM2hHeDB6dkNqclVKaXBQdWVsSTdVZlhqV3hMTkRVNHR1UGMzTzMyb2RoVWxqMXVBYVF0eUZDMm9nT0ZzRTJFR3lqanNhaTEtNGZNTl82WkphX1VRVXZfRUJYNU91THJScEhvTHVPZWlUOEtabDNtV0JaWm5lT2pyMmo0VW5MWVdJWXJ0dkpRcWc?oc=5",
+"source": "TipRanks",
+"published": "2026-10-06T10:43:35+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"ICICIBANK"
+],
+"groups": [
+"Banks"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4d313510e99282f0",
+"title": "NTPC Vindhyachal commences CII Exim Bank BE Assessment 2025-26",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMDQ3Z3I1UDNKSmtFTGxUeXBiaDQzTFI4NE1QUm5Tb2p3b1pUNnJ6aVVsVDlQVm1IYkZQQUNiZWZCMFlIbXNNeWtUT0w2SXNfcHdNazhxU0tCTHUwZU9yb3B1M2puNDVwZDdtc05vc01KUjlqaDBGaURvY01ldmpJWi1TUkhQRnNMN19hbENzbTQ3NFdDNWpwZl9kUm1EUQ?oc=5",
+"source": "PSU Connect",
+"published": "2026-10-06T10:42:00+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"NTPC"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "b19e6ae6fa7cc201",
 "title": "Asian Paints bets on 'worry-free' painting with new Beautiful Homes Services campaign",
 "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOUtmbW1pd0E1a0tnd21Xd3J1MlRjTmZ2M21qOGRPQjlGcUFZU3dBLWVIVEZmWGppUXJFRkJ0ejR4NlZqeEg4TzZFeUZhZjVJSnRhQWxUZ01IWUdmTC1UaUswbnVEYTB4eXlBTmRZN003OHEyQWdRWlpLRGtsNmkzVEQ0dTZxWnRYbkpscDVld2x3NlpZdldsZWJ0QmEzdXJvTFFfWV9NNVlQeVd3Sk1JREZSbml2NGRrMFBuUVpIa2xDUHVJSjdMTW16QVBMaHpiRnNfTVl3?oc=5",
@@ -458,6 +558,24 @@
 "Consumer"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "78e231308fd58d92",
+"title": "'Hurting passengers': Ex-Infosys CFO calls for mandatory aerobridge use where available",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ05jTmZxRWVvMGt6Tk16X1ZKeU1qQ3BXeFU5U3ZhT1dCVFlIY3FPbzhMLV9RTkM5OUxyZzVOa0l2R3RPcmFab0pZMUlrWTYyNUlnV3NrZ2M2bEx1TTgyTWFjRDlVQjBJRldELTd0NnpRSkI5MlJjNktDdE9McHJSSHQ4Q1VSSGVnSVdSM3hZY3hvU0pHTEdkOEs4WTdjU1JWMmZTOUpJSVZNZmNGSGdHcjByWEEwZGgxb0NtRURuWjZ0NWRYQ2I2VHB5RGZWd2EzLUZndlNrT0ZmRXNGdlBtZEotaWhuQ09kdlliblhfN29SYi1H0gHgAUFVX3lxTE1fVVRzUUdsNjRHN1hKeHp5dW80MXk3NzY0Wld3dXVPMXF2TEJmbTk5em5XejlLSnRodDdCVDFRZVdxRkhhY3ZJZzlHbzVnMDdkYlJmNzhoQlpaaDVVQUxqOTY3RGh5VndPR2luX29CbkRVNmxrX3piS0tMa3BjcGgtYXhnWkVTbHFmUkhSQmVVTDNseF9rc1JYVU9lX0taZjZOSHRLcXlQYkpjUi13XzFRcHNWWk1IYURQcVFOWjN1VFh2clo2Wlh5THJVZmc2Y2pDVlREUnREZEFYQ3dIdkNf?oc=5",
+"source": "Business Today",
+"published": "2026-10-06T10:35:54+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"INFY"
+],
+"groups": [
+"IT"
+],
+"tags": [
+"Management"
+],
 "sentiment": "neutral"
 },
 {
@@ -506,6 +624,24 @@
 "PSU"
 ],
 "tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "4755cfca4786119f",
+"title": "Jio Platforms plans IPO. Reliance Industries stock sits 24.42 percent below its high",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGxadEVTUEtVOWtFaDQwNTVaUEpwQUhBR2l1S0s1cHF0Y0hkLXhiWGF3dmFyQjA1YnJCX3VOWkdHOVNWd3ZPb0lZendwa1lkdDR4bGpfX0ZpVE9lakNVRWQyRzh0NnQtOTNxdXRfZXZ2Y2xVSXA3Y2s5b1ByR09EcFJoeFZUeTAwa1ZTRkdQckdJX05UQmNMWXRqamtsVjJjWWJ5ejVFTEhjV05pSzg4ZWNENGxYeV9DM2JuaFBsU01uTG0wVk5qNVlLVQ?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-06T10:32:28+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"RELIANCE"
+],
+"groups": [
+"Reliance"
+],
+"tags": [
+"Corporate action"
+],
 "sentiment": "neutral"
 },
 {
@@ -894,6 +1030,23 @@
 ],
 "groups": [
 "PSU"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "dd98bfcbe1657906",
+"title": "Adani Ports’ Colombo Terminal Doubles Capacity to 3.2 mn TEUs",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcV92eVF1cnBXTkRwVEhwRWRnZWVaaFd6UHItZ183dWl6UmQyVW9yNnlwOV9CVlhoT2UwaDlLUmlpclplZzdxcXlhNzgwZko2N3BRUGV3M3pRTWFmV19JbFFmb25jVlZiTkRCajZxVzc3ZTV1WXlUTVd2S0dlQjhjN05GWmFuTUZoU0x2bGRhUkZlaDhBSnpUUTRjOFV5ZXVBLTZDVWJqVjlyQUhNYzJwd1BobVJ3QVNKNEtuODlvZWxuVTJBTTB5b1FXTUxxdmpnNHNMa2tYdTVBUFE?oc=5",
+"source": "Construction World",
+"published": "2026-10-06T09:22:17+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
+"symbols": [
+"ADANIENT",
+"ADANIPORTS"
+],
+"groups": [
+"Adani"
 ],
 "tags": [],
 "sentiment": "neutral"
@@ -5429,6 +5582,22 @@
 "source": "Economic Times",
 "published": "2026-10-06T03:10:21+00:00",
 "first_seen": "2026-10-06T04:52:57+00:00",
+"symbols": [
+"HCLTECH"
+],
+"groups": [
+"IT"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
+"id": "c2910e97a6e18f50",
+"title": "HCL Tech Share Price Live Updates: HCL Tech's Performance Overview",
+"link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-06-oct-2026/liveblog/134721857.cms",
+"source": "Economic Times",
+"published": "2026-10-06T03:10:21+00:00",
+"first_seen": "2026-10-06T10:56:46+00:00",
 "symbols": [
 "HCLTECH"
 ],
@@ -51350,192 +51519,6 @@
 ],
 "tags": [
 "Regulatory",
-"Management"
-],
-"sentiment": "positive"
-},
-{
-"id": "5af3a2fc285ab9c3",
-"title": "DigiPlus Fest 2026: How Kotak Mahindra Bank is scaling hyper-personalisation from consumer insights to exper..",
-"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWlJCZlQzZGV3b2xyazl2R3pIOTB6WS1nZnRqZWRpcThOZTVybmxGRlIwUnpPQVR6RkZDYkh6eUYyNlY0eWZVVlNNa0pYUDNYdWhQYjZiQ29kVlFsQlNfS1AwdmE0N1lWdzBhbEVPeFBxY3hvekdOSm9CM1pRMEluVHpidWI3eldyZWt6WTZFVkxOZ05wUW11eTRSM0wxQ3Rsc3Z4NmJ2WUxDMjM3ZVk0b2k4cEltTTFRTjRkcmlJS3A1ZHlBQ1dCT3poc2V2ekxwM1dLdW5iUDJsYWRXYVA2djBHQjRYOGx6T3dqVFg1anZNN2hPWVRjdW8xcC15WGp20gGGAkFVX3lxTE1mWi04T2pXTm1va0JUYzhUZXhCaEl5ZlZXdkthUkVpOVB0aTlxUE1RQi1zd3dhajlmMDR2WTFnYVZRcGVRcHptZjRJUmQ0NUZkX09qV3pwYjFyNjJGMnVPakhEMXJ6Y1ZFZzhvR0ZfV3dPVjlxRHBzQjZBNWl3N1ZFYm5VTDc0TWV4SG9LNExTdUFEaVNhZnZEZlk5M09JdVpVaFpKaDc3N1hBNWpKZS1tT0FIdjU4TDBFeXlBZlBPbFBiN1BpbmVXQndJMEJWa0FTc2NSd3pmd0dpN3lfaG13Tm1SWmpGWnpKMlEySmRUNWxYZEgtWXJWZFpwRUZ5TmtEd01sckE?oc=5",
-"source": "ET BrandEquity",
-"published": "2026-10-01T03:35:10+00:00",
-"first_seen": "2026-10-01T07:48:33+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "6fbc2b9f0a5f9f54",
-"title": "Bajaj Auto Ltd (BJAUT) Earnings: September Vehicle Sales Surge by 5.5% with Strong Export Growth",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc3BCaVhtRjNCdGxOeFBIYlJTSHkxbmI0Q1ZrOGxMQmpWUGo3Ty1GQTFZX1Z0RTFVMnpiVUt0Wk5oR1VfOWtvN2c2R0dNNDVxNm9pUWN5cXRvcDJPVUhxdHlJdmVUUFRIUGRFTmNDeHljaUJwWlpHMW9iZ2hWWV9YcUo0TmJUNnJGLWNRTS1GWGNTV3pZTDlwUEpPU0VYMzM5Z2U5TWM3UDJROW00ZGQxdXZZZHR3VDhHb3ltSGVrdFgwajBxdnBFSWZ2UkJINUN0ajJ1dFBkVzBJSm1NOFo2dmVHb0E?oc=5",
-"source": "smartkarma.com",
-"published": "2026-10-01T03:35:04+00:00",
-"first_seen": "2026-10-01T17:01:07+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [
-"Results"
-],
-"sentiment": "positive"
-},
-{
-"id": "4edd8f4a018a71d2",
-"title": "Who is Anup Kumar Saha? From ICICI Bank & Bajaj Finance to Kotak Mahindra Bank MD & CEO - Full details",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmtJVFh1MmhiaV9fWXJ1S1MybkFWWFhBaWJmZndiYXEwTnpaelVCY3FNUHpNdG5MSmdYbXloRDd1c0l3LU1NSUNwSDBud0lhNVJEYVB5MlVXMFJWbEt4OF9PZVBQNHBkMlFGekNaaWY5Z2g4NVRxRW5uMXE2ZFVxc3pvRjNFU3VuLU1DOVRkbnJNbF9CV3ZFaDNWcTlMMEtlRElwaGlGb0pkSmduZ0pWS3hzVXhNWjkzQ2M5d00wZDdnVWhkNi1XcmUzanJMUDNVSmNFLVFPZw?oc=5",
-"source": "Zee Business",
-"published": "2026-10-01T03:33:45+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"BAJFINANCE",
-"ICICIBANK",
-"KOTAKBANK"
-],
-"groups": [
-"Bajaj",
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "8724b94dd3c63d06",
-"title": "Kotak Mahindra Bank’s Next MD & CEO: Who is Anup Kumar Saha? From ICICI Bank & Bajaj Finance to Kotak – Full details",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmtJVFh1MmhiaV9fWXJ1S1MybkFWWFhBaWJmZndiYXEwTnpaelVCY3FNUHpNdG5MSmdYbXloRDd1c0l3LU1NSUNwSDBud0lhNVJEYVB5MlVXMFJWbEt4OF9PZVBQNHBkMlFGekNaaWY5Z2g4NVRxRW5uMXE2ZFVxc3pvRjNFU3VuLU1DOVRkbnJNbF9CV3ZFaDNWcTlMMEtlRElwaGlGb0pkSmduZ0pWS3hzVXhNWjkzQ2M5d00wZDdnVWhkNi1XcmUzanJMUDNVSmNFLVFPZw?oc=5",
-"source": "Zee Business",
-"published": "2026-10-01T03:33:45+00:00",
-"first_seen": "2026-10-01T06:35:43+00:00",
-"symbols": [
-"BAJFINANCE",
-"ICICIBANK",
-"KOTAKBANK"
-],
-"groups": [
-"Bajaj",
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "909b9edc302756cb",
-"title": "NIFTY Index Earning Revision (Sep): Wipro, BSE, HDFC Bank, InterGlobe Aviation, ICICI Bank",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWhDNThudEk4UWpwVFNsN1dmdVZNLVNqR0hrc1RKWTMwalAxOFhjUWswTDVTTW8xRE1yc3dpUFNmbS03eEJaeUJ6aXNzZnF6VF95YWVKS2hkVWRrMGV4cUVJRzktZFhiMUhuSHlGZ2VsWVJ2SS14T2Vhdm9JSnhXLWFkX3lsWUhOX3B6WnFXZ2lzc2ZFTEpnYjNqUUNBRGdwb2RERTRGY2h6ZTRSZHZQMGxhaFQtVlNDVlUw?oc=5",
-"source": "Smartkarma",
-"published": "2026-10-01T03:33:43+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"HDFCBANK",
-"ICICIBANK",
-"INDIGO",
-"WIPRO"
-],
-"groups": [
-"Banks",
-"Consumer",
-"HDFC",
-"IT"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "f9a48a6ee7927a80",
-"title": "Bajaj Auto reports 34% increase in September 2026 exports",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFlmZWJqV01uSG9pWkFXWDRkcVVXa3NlaE50dHdzaGFLWm0yNVhwdGVzSkstbjZjYTlJWlFfenFlRnItV2RFWFZyZkFsYUtQXy1OVVEzOWRNX0FnbUtFek1JQ0JvUjNsOXVWa3lHRVlORHhEYnFyRDk0WWNncnczVHduRktFT1FqOGtGSHA5SHFuMWdUd3FpOA?oc=5",
-"source": "Business Upturn",
-"published": "2026-10-01T03:33:34+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"BAJAJ-AUTO"
-],
-"groups": [
-"Bajaj"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "8985cf5149820b67",
-"title": "Kotak Mahindra Bank shares in focus after lender appoints Anup Kumar Saha as next CEO. Here’s what Nomura",
-"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQ2s3alRnem14U2ppaUlIV3ltc2JGOGhIMmNIa0FWUnFYc1pPdHhhdVJqX3NWcUhLMlVZTkk2YnNQdERuV3F6cHZ3LS13dlBnNm1EcW1vTFBpbkN5SXV5WGgtN2NLS1cyRmtQVzk1TFF2VC1BcE5lR3NIQm9rRTlyQlhUd3BnOHFGRVEtQlQ1bUk5T2d6UndXdWgzZWNJQnE4MlJ6TEwwWWhsdldsQUJtcE9aM2N1MnZYV1p6Vmoxa25KUWdMRUo1NEd0cUljNGkyZmRvakhKWDhJaENGeEp6U1JMU1FJTWpHS1FtV2Yxa21WUTV1b3F0MWItRlRLUWhFRjVabUhGMHBkai1hOGVRc1pkT1dmQVE1UkVIMUJBUjBTQkJh0gGqAkFVX3lxTFBLekRzYmp1cy1XdXRCVDY4WEZfaVpWV3BlbjNEWVpqTXNMM05zemdWRzM3TEhNSGxMSUg3YUxLeTlIdnFjX2psTS1PRktwUmIyUFhmcHlONXpoZFlvNXF1YTZudTRYcGNfSml2UWdKb0NFXzlHeEFVLVFNZjdFTkc3Yy15bmdCcTJ3aE53c1hweGhNMmZ4OVMxNFJCM3ducE8tbEloWEJXeElZQTFlYmxHMk1VcWhpR0h3VU1UUVBzRlJJYnZic0hrZ2pjeTNINFk1cVhXY2I2UzZBSWc1cHd3N1lucEdJam4zc21mZTZBM1FlYWJlRURzaGh0VGF5S3JKUlFyZUZVNmthVXVUVEFPOEw3WXYyM1I3bTJqcDlCOERPLXlkMFU2cnc?oc=5",
-"source": "The Economic Times",
-"published": "2026-10-01T03:33:10+00:00",
-"first_seen": "2026-10-01T03:48:31+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "7326d8ea7dd43d03",
-"title": "Kotak Mahindra Bank shares in focus after lender appoints Anup Kumar Saha as next CEO. Here’s what Nomura and Jefferies expect",
-"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQ2s3alRnem14U2ppaUlIV3ltc2JGOGhIMmNIa0FWUnFYc1pPdHhhdVJqX3NWcUhLMlVZTkk2YnNQdERuV3F6cHZ3LS13dlBnNm1EcW1vTFBpbkN5SXV5WGgtN2NLS1cyRmtQVzk1TFF2VC1BcE5lR3NIQm9rRTlyQlhUd3BnOHFGRVEtQlQ1bUk5T2d6UndXdWgzZWNJQnE4MlJ6TEwwWWhsdldsQUJtcE9aM2N1MnZYV1p6Vmoxa25KUWdMRUo1NEd0cUljNGkyZmRvakhKWDhJaENGeEp6U1JMU1FJTWpHS1FtV2Yxa21WUTV1b3F0MWItRlRLUWhFRjVabUhGMHBkai1hOGVRc1pkT1dmQVE1UkVIMUJBUjBTQkJh?oc=5",
-"source": "The Economic Times",
-"published": "2026-10-01T03:33:10+00:00",
-"first_seen": "2026-10-01T04:00:32+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "neutral"
-},
-{
-"id": "847c44e16a6c2fe1",
-"title": "Kotak Mahindra Bank shares rise over 2% as lender appoints Anup Kumar Saha as new CEO. Here's what Nomura, Jefferies expect",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-after-lender-appoints-anup-kumar-saha-as-next-ceo-heres-what-nomura-and-jefferies-expect/articleshow/134607346.cms",
-"source": "Economic Times",
-"published": "2026-10-01T03:33:10+00:00",
-"first_seen": "2026-10-01T04:20:25+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
-"Management"
-],
-"sentiment": "positive"
-},
-{
-"id": "d7d0d61f2d7de62a",
-"title": "Kotak Mahindra Bank shares jump 4% to 8-month high after Anup Kumar Saha named CEO. What Nomura, Jefferies expect",
-"link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-after-lender-appoints-anup-kumar-saha-as-next-ceo-heres-what-nomura-and-jefferies-expect/articleshow/134607346.cms",
-"source": "ET Markets",
-"published": "2026-10-01T03:33:10+00:00",
-"first_seen": "2026-10-01T04:54:00+00:00",
-"symbols": [
-"KOTAKBANK"
-],
-"groups": [
-"Banks"
-],
-"tags": [
 "Management"
 ],
 "sentiment": "positive"
