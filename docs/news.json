@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T03:00:39+00:00",
+"updated": "2026-10-06T03:11:47+00:00",
 "stocks": [
 {
 "symbol": "RELIANCE",
@@ -535,6 +535,22 @@
 "sentiment": "neutral"
 },
 {
+"id": "d27307c82672ad87",
+"title": "Adani Power signs shareholders agreement for 770 MW Bhutan hydro project",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYVlXQVdXNmdpRGJ2U05qbjV4eTZqM2NWMFVJWUE2dTF1MEk5Slp5bERHbmZzUEk5Zk1EZ0ItZlZEOHFjV0p1UTZqTFBQZ1dHUjYzbndwdWdpQ3liazlWU2ZfdDB6cHFRNVB3RlNnVFlwbEtULWpzRHZETkNBMWpVYXdPakJWdmdrY3VCbWNLRGJpeDBnVzByNEFWZ0Izd1VZaEZ6RlF5akU3Z29JNjgwdTRabk5XUndjdURfOG5aY0NHZlE?oc=5",
+"source": "scanx.trade",
+"published": "2026-10-06T01:41:12+00:00",
+"first_seen": "2026-10-06T03:11:47+00:00",
+"symbols": [
+"ADANIENT"
+],
+"groups": [
+"Adani"
+],
+"tags": [],
+"sentiment": "neutral"
+},
+{
 "id": "bd18a112c9df12fb",
 "title": "Divi's Labs, TVS Motor could replace Max Healthcare, HDFC Life in Nifty 2027 index review",
 "link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-labs-tvs-motor-could-replace-max-healthcare-hdfc-life-in-nifty-2027-index-review/articleshow/134720063.cms",
@@ -760,6 +776,22 @@
 ],
 "tags": [],
 "sentiment": "positive"
+},
+{
+"id": "f3292f86d44d5c99",
+"title": "Coal India Boosts Power Sector Coal Supply 7.6% In H1 FY27",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CNFZmZlFEeW1ncUFoY0ZtZUtpOWJBTHVRLUxINVZsUVRFWEtkdk1JY3o0VVc2WVZpWHpOV19DX25fTDhZWlpiei1mcnFMX3Y5T1hDczlIZ1RNNlJ3UFMtMENEYVl0d1NNVVRuMUVCdWNWRVlFN3JIaDZVQQ?oc=5",
+"source": "sarkaritel.com",
+"published": "2026-10-06T00:21:35+00:00",
+"first_seen": "2026-10-06T03:11:47+00:00",
+"symbols": [
+"COALINDIA"
+],
+"groups": [
+"PSU"
+],
+"tags": [],
+"sentiment": "neutral"
 },
 {
 "id": "da10524a55657acf",
@@ -51432,38 +51464,6 @@
 ],
 "groups": [
 "Banks"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "656e959b380cb60b",
-"title": "Tata Consultancy Services Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0VzWWt4SXBhemllNk9qOGY3bkF4U0FyMjEyNUZUeXR3SEkwMlh0Yzh4SzV2UWpjNVZSQ2JiV3dkVDRMNmo2cHJ5SGlnek5QbjhyZWxiNlRzckduODN1ZkZobWdxUENtLTBVVzFpWC10NnhaQzJYVW45ZXVoc3NDX0RwSlMyeFVLcDFzNE1HY3B2QVIzQ3hQNWZlSnRxM3ZmdkpF?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:12:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"TCS"
-],
-"groups": [
-"Tata"
-],
-"tags": [],
-"sentiment": "neutral"
-},
-{
-"id": "a74978a5044575c7",
-"title": "Infosys Prediction for Tomorrow: 1 Oct 2026",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVi02djhLLUVzZmxranZRdHlwSWY1NE01UFdaOGRkUDhPYzVjQTRfU0dfSmUwbTFpalpHbkxtZGZabHFydHpXRzUzalhrLXhNTWNuMlBlcnAxMFN1YXkzcXJwREl4MXFiZ3hXUXZvMmNVa0Q1WkppaHFhd2p0cDBSMzNHVGpueTJESWF3?oc=5",
-"source": "Univest",
-"published": "2026-09-30T11:12:00+00:00",
-"first_seen": "2026-09-30T14:01:08+00:00",
-"symbols": [
-"INFY"
-],
-"groups": [
-"IT"
 ],
 "tags": [],
 "sentiment": "neutral"
