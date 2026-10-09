@@ -1,4 +1,4 @@
-name: Fetch Nifty 50 & Sensex news
+name: Fetch Nifty 500 news
 
 on:
   schedule:
@@ -31,13 +31,14 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}         # optional: phone push alerts
           ALERT_SYMBOLS: ${{ vars.ALERT_SYMBOLS }}      # optional: e.g. TCS,TATASTEEL,ADANIENT
+          ALERT_INDEX: ${{ vars.ALERT_INDEX }}          # optional: e.g. Nifty 50 (phone alerts only for that index)
         run: python fetch_news.py
 
       - name: Save updated news.json
         run: |
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add docs/news.json
+          git add docs/news.json docs/archive.json docs/latest.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
