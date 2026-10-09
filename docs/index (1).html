@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nifty 500 News</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230f766e'/><path d='M7 21l6-6 4 4 8-9' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<style>
+:root{
+  --bg:#f6f7f9; --panel:#fff; --ink:#15181d; --muted:#626a76; --line:#e3e6ea;
+  --accent:#0f766e; --accent-soft:#e6f4f2; --pos:#15803d; --neg:#b91c1c; --neu:#8a929c;
+  --new:#b45309; --new-soft:#fff4e5; --chip:#eef0f3;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e1116; --panel:#161a21; --ink:#e7eaee; --muted:#98a1ad; --line:#262c35;
+    --accent:#2dd4bf; --accent-soft:#12302d; --pos:#4ade80; --neg:#f87171; --neu:#7c8591;
+    --new:#fbbf24; --new-soft:#2d2410; --chip:#1f252e;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e1116; --panel:#161a21; --ink:#e7eaee; --muted:#98a1ad; --line:#262c35;
+  --accent:#2dd4bf; --accent-soft:#12302d; --pos:#4ade80; --neg:#f87171; --neu:#7c8591;
+  --new:#fbbf24; --new-soft:#2d2410; --chip:#1f252e;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:inherit}
+header{position:sticky;top:0;z-index:5;background:var(--panel);border-bottom:1px solid var(--line)}
+.bar{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+h1{font-size:18px;margin:0;font-weight:650;letter-spacing:-.01em}
+.status{font-size:13px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--pos)}
+.dot.stale{background:var(--new)}
+.spacer{flex:1}
+button,select,input{font:inherit;color:inherit}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 10px;cursor:pointer;font-size:13px}
+.btn:hover{border-color:var(--accent)}
+.btn.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.controls{max-width:1200px;margin:0 auto;padding:0 16px 12px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.search{flex:1 1 220px;min-width:0;border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:7px 10px}
+select{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:7px 8px;font-size:13px;max-width:100%;min-width:0}
+#stockSel{flex:0 1 260px;text-overflow:ellipsis}
+.chips{max-width:1200px;margin:0 auto;padding:0 16px 12px;display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin}
+.chip{flex:none;border:1px solid transparent;background:var(--chip);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
+.chip.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);font-weight:600}
+main{max-width:1200px;margin:0 auto;padding:16px;display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:16px}
+@media (max-width:860px){main{grid-template-columns:1fr}header{position:static}#about{display:none}}
+.feed{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.day{padding:8px 14px;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);background:var(--bg);border-bottom:1px solid var(--line)}
+.item{display:grid;grid-template-columns:56px minmax(0,1fr);gap:10px;padding:11px 14px;border-bottom:1px solid var(--line)}
+.item.new{background:var(--new-soft)}
+.time{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:2px}
+.title{font-weight:520;text-decoration:none}
+.title:hover{text-decoration:underline}
+.meta{margin-top:4px;display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted)}
+.sym{font-weight:650;font-size:11px;padding:1px 6px;border-radius:5px;background:var(--accent-soft);color:var(--accent);cursor:pointer;border:0}
+.tag{font-size:11px;padding:1px 6px;border-radius:5px;background:var(--chip)}
+.sent{display:inline-flex;align-items:center;gap:4px}
+.sent i{width:7px;height:7px;border-radius:50%;display:inline-block}
+.sent.positive i{background:var(--pos)} .sent.negative i{background:var(--neg)} .sent.neutral i{background:var(--neu)}
+.newb{font-size:10px;font-weight:700;color:var(--new);letter-spacing:.05em}
+.star{border:0;background:none;cursor:pointer;color:var(--muted);font-size:15px;padding:0 2px;line-height:1}
+.star.on{color:var(--new)}
+aside .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:16px}
+aside h2{font-size:13px;margin:0 0 8px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.05em}
+.row{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:13px;cursor:pointer}
+.row .n{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--muted)}
+.meter{height:4px;background:var(--chip);border-radius:2px;flex:0 0 60px;overflow:hidden}
+.meter b{display:block;height:100%;background:var(--accent)}
+.empty{padding:40px 16px;text-align:center;color:var(--muted)}
+.toast{position:fixed;right:16px;bottom:16px;max-width:360px;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-size:13px;box-shadow:0 6px 24px rgba(0,0,0,.25);opacity:0;transform:translateY(10px);transition:.25s;pointer-events:none}
+.toast.show{opacity:1;transform:none}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:var(--panel);padding:12px;cursor:pointer;color:var(--accent);font-weight:600}
+.note{font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Nifty 500 News Alerts</h1>
+    <span class="status"><span class="dot" id="dot"></span><span id="updated">Loading…</span></span>
+    <span class="spacer"></span>
+    <button class="btn" id="notifBtn" title="Browser pop-up when new headlines arrive for your starred stocks">🔔 Enable alerts</button>
+    <button class="btn" id="themeBtn" title="Toggle theme">◐</button>
+  </div>
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="Search headlines, e.g. results, SEBI, order win…">
+    <select id="idxSel"><option value="">All Nifty 500</option></select>
+    <select id="stockSel"><option value="">All stocks</option></select>
+    <select id="tagSel"><option value="">All types</option></select>
+    <select id="sentSel">
+      <option value="">Any tone</option><option value="positive">Positive</option>
+      <option value="negative">Negative</option><option value="neutral">Neutral</option>
+    </select>
+    <button class="btn" id="starOnly">★ Starred only</button>
+  </div>
+  <div class="chips" id="groups"></div>
+</header>
+
+<main>
+  <section>
+    <div class="feed" id="feed"><div class="empty">Loading headlines…</div></div>
+  </section>
+  <aside>
+    <div class="card">
+      <h2 id="topTitle">Most in the news · 24h</h2>
+      <div id="top"></div>
+    </div>
+    <div class="card">
+      <h2>Starred stocks</h2>
+      <div id="starred" class="note">Click ☆ next to any stock to get alerts only for it.</div>
+    </div>
+    <div class="card note" id="about">
+      Covers all Nifty 500 stocks (Nifty 50, Next 50, Sensex and the rest). Headlines from Google News (incl. Moneycontrol, CNBC-TV18 and others), Economic Times, Mint, Business Standard and BusinessLine, refreshed every 5 minutes in market hours and every 15 minutes otherwise. Nifty 50 and Sensex stocks are searched every run, the others in rotation (about every 30 minutes). Tone and type tags are keyword-based guesses, not advice.
+    </div>
+  </aside>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+(() => {
+  const DATA_URL = "news.json", PING_URL = "latest.json";
+  const IDX_ORDER = ["Nifty 50", "Sensex", "Nifty Next 50", "Nifty 100", "Nifty 200"];
+  const BIZ = ["Adani", "Tata", "Reliance", "HDFC", "Bajaj", "Mahindra", "Aditya Birla", "SBI", "JSW", "Godrej"];
+  let bySym = {};
+  let archive = null, archiveVer = null, archiveLoading = false;   // older headlines, loaded on request
+  const POLL_MS = 2 * 60 * 1000;
+  const PAGE = 80;
+  const $ = s => document.querySelector(s);
+  const store = {
+    get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+
+  let data = { items: [], stocks: [] };
+  let seen = new Set(store.get("seenIds", []));
+  const lastVisit = store.get("lastVisit", null);
+  let starred = new Set(store.get("starred", []));
+  let limit = PAGE;
+  let firstLoad = true;
+  const state = { q: "", idx: store.get("idx", ""), stock: "", tag: "", sent: "", group: "", starOnly: store.get("starOnly", false) };
+
+  const theme = store.get("theme", null);
+  if (theme) document.documentElement.dataset.theme = theme;
+  $("#themeBtn").onclick = () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next; store.set("theme", next);
+  };
+
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const IST = { timeZone: "Asia/Kolkata" };
+  const fmtTime = d => d.toLocaleTimeString("en-IN", { ...IST, hour: "2-digit", minute: "2-digit", hour12: false });
+  const dayKey = d => d.toLocaleDateString("en-CA", IST);
+  const fmtDay = d => {
+    const k = dayKey(d), today = dayKey(new Date()), yest = dayKey(new Date(Date.now() - 864e5));
+    if (k === today) return "Today"; if (k === yest) return "Yesterday";
+    return d.toLocaleDateString("en-IN", { ...IST, weekday: "short", day: "numeric", month: "short" });
+  };
+  const ago = d => {
+    const m = Math.round((Date.now() - d) / 60000);
+    if (m < 1) return "just now"; if (m < 60) return m + " min ago";
+    const h = Math.round(m / 60); return h < 24 ? h + " h ago" : Math.round(h / 24) + " d ago";
+  };
+  const nameOf = sym => (bySym[sym] || {}).name || sym;
+
+  function toast(msg){
+    const t = $("#toast"); t.textContent = msg; t.classList.add("show");
+    clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), 5000);
+  }
+
+  function buildControls(){
+    const groups = [...new Set(data.stocks.map(s => s.group))].sort();
+    groups.sort((a, b) => (BIZ.indexOf(a) + 1 || 99) - (BIZ.indexOf(b) + 1 || 99) || a.localeCompare(b));
+    $("#groups").innerHTML = ["", ...groups].map(g =>
+      `<button class="chip${state.group === g ? " on" : ""}" data-g="${esc(g)}">${g ? esc(g) + (BIZ.includes(g) && !["HDFC","SBI"].includes(g) ? " Group" : "") : "All"}</button>`).join("");
+    const have = new Set(data.stocks.flatMap(s => s.indices || []));
+    const idxs = [...IDX_ORDER.filter(x => have.has(x)), ...[...have].filter(x => !IDX_ORDER.includes(x) && x !== "Nifty 500")];
+    const isel = $("#idxSel");
+    isel.innerHTML = `<option value="">All Nifty 500</option>` + idxs.map(x => `<option value="${esc(x)}">${esc(x)} only</option>`).join("");
+    isel.value = idxs.includes(state.idx) ? state.idx : (state.idx = "");
+    const sel = $("#stockSel"), cur = sel.value;
+    sel.innerHTML = `<option value="">All stocks</option>` + data.stocks.filter(s => !state.idx || (s.indices || []).includes(state.idx)).sort((a, b) => a.name.localeCompare(b.name))
+      .map(s => `<option value="${esc(s.symbol)}">${esc(s.name)} (${esc(s.symbol)})${(s.indices || []).includes("Sensex") ? " · S" : ""}</option>`).join("");
+    sel.value = [...sel.options].some(o => o.value === cur) ? cur : (state.stock = "");
+    const tags = [...new Set(data.items.flatMap(i => i.tags))].sort();
+    const tsel = $("#tagSel"), tcur = tsel.value;
+    tsel.innerHTML = `<option value="">All types</option>` + tags.map(t => `<option>${esc(t)}</option>`).join("");
+    tsel.value = tcur;
+    $("#starOnly").classList.toggle("on", state.starOnly);
+  }
+
+  function filtered(){
+    const q = state.q.trim().toLowerCase();
+    const inIdx = state.idx ? new Set(data.stocks.filter(s => (s.indices || []).includes(state.idx)).map(s => s.symbol)) : null;
+    const inGroup = state.group ? new Set(data.stocks.filter(s => s.group === state.group).map(s => s.symbol)) : null;
+    return data.items.filter(i =>
+      (!q || i.title.toLowerCase().includes(q) || i.source.toLowerCase().includes(q) || i.symbols.some(s => s.toLowerCase() === q)) &&
+      (!state.stock || i.symbols.includes(state.stock)) &&
+      (!state.tag || i.tags.includes(state.tag)) &&
+      (!state.sent || i.sentiment === state.sent) &&
+      (!inGroup || i.symbols.some(s => inGroup.has(s))) &&
+      (!inIdx || i.symbols.some(s => inIdx.has(s))) &&
+      (!state.starOnly || i.symbols.some(s => starred.has(s))));
+  }
+
+  function renderFeed(){
+    const items = filtered();
+    if (!items.length){
+      $("#feed").innerHTML = `<div class="empty">${data.items.length ? "No headlines in the last 24 hours match these filters." : "No headlines yet — the first scheduled run will fill this in."}</div>` + olderBtn();
+      return;
+    }
+    let html = "", lastDay = "";
+    for (const i of items.slice(0, limit)){
+      const d = new Date(i.published), day = fmtDay(d);
+      if (day !== lastDay){ html += `<div class="day">${day}</div>`; lastDay = day; }
+      const isNew = lastVisit && i.first_seen > lastVisit;
+      html += `<article class="item${isNew ? " new" : ""}">
+        <div class="time">${fmtTime(d)}</div>
+        <div>
+          <a class="title" href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+          <div class="meta">
+            ${isNew ? '<span class="newb">NEW</span>' : ""}
+            ${i.symbols.map(s => `<button class="sym" data-s="${esc(s)}" title="${esc(nameOf(s))}">${esc(s)}</button>`).join("")}
+            <span>${esc(i.source)}</span>
+            ${i.tags.map(t => `<span class="tag">${esc(t)}</span>`).join("")}
+            <span class="sent ${i.sentiment}" title="Keyword-based tone"><i></i>${i.sentiment}</span>
+          </div>
+        </div>
+      </article>`;
+    }
+    if (items.length > limit) html += `<button class="more" id="more">Show more (${items.length - limit} left)</button>`;
+    else html += olderBtn();
+    $("#feed").innerHTML = html;
+  }
+
+  function olderBtn(){
+    if (archive) return "";
+    const n = data.archive_count;
+    if (!n) return "";
+    return `<button class="more" id="older">${archiveLoading ? "Loading older headlines…" : `Load older headlines (${n.toLocaleString("en-IN")} more, up to 7 days)`}</button>`;
+  }
+
+  async function loadArchive(){
+    if (archiveLoading) return;
+    archiveLoading = true; renderFeed();
+    try {
+      const r = await fetch("archive.json?v=" + encodeURIComponent(data.updated));
+      if (!r.ok) throw new Error(r.status);
+      const a = await r.json();
+      archive = a.items; archiveVer = data.updated;
+      mergeArchive();
+    } catch (e){ toast("Couldn't load older headlines. Try again in a minute."); }
+    archiveLoading = false; buildControls(); render(); tick();
+  }
+
+  function mergeArchive(){
+    if (!archive) return;
+    const ids = new Set(data.items.map(i => i.id));
+    data.items = data.items.concat(archive.filter(i => !ids.has(i.id)));
+  }
+
+  function renderSide(){
+    const since = Date.now() - 864e5, count = {};
+    const okIdx = s => !state.idx || ((bySym[s] || {}).indices || []).includes(state.idx);
+    for (const i of data.items) if (new Date(i.published) >= since) for (const s of i.symbols) if (okIdx(s)) count[s] = (count[s] || 0) + 1;
+    const top = Object.entries(count).sort((a, b) => b[1] - a[1]).slice(0, 12);
+    const max = top.length ? top[0][1] : 1;
+    $("#top").innerHTML = top.length ? top.map(([s, n]) => `
+      <div class="row" data-s="${esc(s)}">
+        <button class="star${starred.has(s) ? " on" : ""}" data-star="${esc(s)}" title="Star for alerts">${starred.has(s) ? "★" : "☆"}</button>
+        <span>${esc(nameOf(s))}</span><span class="meter"><b style="width:${(n / max * 100).toFixed(0)}%"></b></span><span class="n">${n}</span>
+      </div>`).join("") : `<div class="note">Nothing in the last 24 hours.</div>`;
+    const st = [...starred];
+    $("#starred").innerHTML = st.length ? st.map(s => `
+      <div class="row" data-s="${esc(s)}"><button class="star on" data-star="${esc(s)}">★</button><span>${esc(nameOf(s))}</span><span class="n">${count[s] || 0}</span></div>`).join("")
+      + `<div class="note" style="margin-top:6px">Pick more from the stock menu, then press ☆ Star.</div>`
+      : `<div class="note">No stars yet. Press ☆ next to a stock (here or after choosing it in the stock menu) to get pop-up alerts only for it. With no stars, alerts cover every stock in the list.</div>`;
+    if (state.stock && !starred.has(state.stock)){
+      $("#starred").insertAdjacentHTML("beforeend", `<button class="btn" style="margin-top:8px" data-star="${esc(state.stock)}">☆ Star ${esc(nameOf(state.stock))}</button>`);
+    }
+  }
+
+  function render(){ renderFeed(); renderSide(); }
+
+  function notifyNew(newItems){
+    const relevant = starred.size ? newItems.filter(i => i.symbols.some(s => starred.has(s))) : newItems;
+    if (!relevant.length) return;
+    const first = relevant[0];
+    const msg = relevant.length === 1 ? `${first.symbols.join(", ")}: ${first.title}` : `${relevant.length} new headlines · ${first.symbols.join(", ")}: ${first.title}`;
+    toast(msg);
+    document.title = `(${relevant.length}) Nifty 500 News`;
+    if ("Notification" in window && Notification.permission === "granted"){
+      relevant.slice(0, 3).forEach(i => {
+        const n = new Notification(i.symbols.join(", ") + (i.sentiment !== "neutral" ? ` · ${i.sentiment}` : ""), { body: i.title, tag: i.id });
+        n.onclick = () => { window.open(i.link, "_blank"); n.close(); };
+      });
+    }
+  }
+
+  async function load(){
+    try {
+      // a tiny file says when news.json last changed, so the big file is only downloaded when there is something new
+      let ver = Date.now();
+      try {
+        const p = await fetch(PING_URL + "?t=" + Date.now(), { cache: "no-store" });
+        if (p.ok){ ver = (await p.json()).updated; if (!firstLoad && ver === data.updated){ tick(); return; } }
+      } catch {}
+      const r = await fetch(DATA_URL + "?v=" + encodeURIComponent(ver));
+      if (!r.ok) throw new Error(r.status);
+      const next = await r.json();
+      const fresh = firstLoad ? [] : next.items.filter(i => !seen.has(i.id));
+      data = next;
+      bySym = Object.fromEntries(data.stocks.map(s => [s.symbol, s]));
+      if (archive){ archive = null; loadArchive(); }   // keep older headlines showing, refreshed
+      data.items.forEach(i => seen.add(i.id));
+      store.set("seenIds", [...seen].slice(-4000));
+      buildControls(); render();
+      if (fresh.length) notifyNew(fresh);
+      tick();
+      firstLoad = false;
+    } catch (e){
+      $("#dot").classList.add("stale");
+      $("#updated").textContent = "Couldn't load news.json — retrying";
+      if (firstLoad) $("#feed").innerHTML = `<div class="empty">No data yet. Once the GitHub Action has run once, headlines will appear here.</div>`;
+    }
+  }
+
+  function tick(){
+    if (!data.updated) return;
+    const upd = new Date(data.updated), stale = Date.now() - upd > 45 * 60000;
+    $("#dot").classList.toggle("stale", stale);
+    $("#updated").textContent = `Updated ${ago(upd)}${stale ? " · waiting for next run" : ""} · ${data.items.length} headlines · ${data.stocks.length} stocks`;
+    $("#updated").title = upd.toLocaleString("en-IN", IST) + " IST" + (data.errors && data.errors.length ? `\n${data.errors.length} source(s) failed last run` : "");
+  }
+
+  // events
+  let qt; $("#q").oninput = e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value; limit = PAGE; renderFeed(); }, 150); };
+  $("#idxSel").onchange = e => { state.idx = e.target.value; store.set("idx", state.idx); limit = PAGE; buildControls(); render(); };
+  $("#stockSel").onchange = e => { state.stock = e.target.value; limit = PAGE; render(); };
+  $("#tagSel").onchange = e => { state.tag = e.target.value; limit = PAGE; renderFeed(); };
+  $("#sentSel").onchange = e => { state.sent = e.target.value; limit = PAGE; renderFeed(); };
+  $("#starOnly").onclick = () => { state.starOnly = !state.starOnly; store.set("starOnly", state.starOnly); $("#starOnly").classList.toggle("on", state.starOnly); limit = PAGE; renderFeed(); };
+  $("#groups").onclick = e => { const b = e.target.closest(".chip"); if (!b) return; state.group = b.dataset.g; limit = PAGE; buildControls(); renderFeed(); };
+  document.addEventListener("click", e => {
+    const star = e.target.closest("[data-star]");
+    if (star){ e.stopPropagation(); const s = star.dataset.star; starred.has(s) ? starred.delete(s) : starred.add(s); store.set("starred", [...starred]); render(); return; }
+    const sym = e.target.closest("[data-s]");
+    if (sym){ state.stock = sym.dataset.s; $("#stockSel").value = state.stock; limit = PAGE; render(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+    if (e.target.id === "more"){ limit += PAGE; renderFeed(); }
+    if (e.target.id === "older"){ loadArchive(); }
+  });
+  const nb = $("#notifBtn");
+  const syncNotif = () => {
+    if (!("Notification" in window)){ nb.textContent = "🔔 Not supported"; nb.disabled = true; return; }
+    const on = Notification.permission === "granted";
+    nb.textContent = on ? "🔔 Alerts on" : "🔔 Enable alerts"; nb.classList.toggle("on", on);
+  };
+  nb.onclick = async () => { if ("Notification" in window){ await Notification.requestPermission(); syncNotif(); if (Notification.permission === "granted") toast("Pop-up alerts on. Keep this tab open (it can be in the background)."); } };
+  syncNotif();
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) document.title = "Nifty 500 News"; });
+  window.addEventListener("beforeunload", () => store.set("lastVisit", new Date().toISOString()));
+
+  load();
+  setInterval(load, POLL_MS);
+  setInterval(tick, 30000);
+})();
+</script>
+</body>
+</html>
