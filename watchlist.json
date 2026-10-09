@@ -1,327 +1,7226 @@
-#!/usr/bin/env python3
-"""
-Nifty 500 (incl. Nifty 50 + Sensex) news collector.
-
-Pulls headlines from Google News (one search per stock: Nifty 50 + Sensex every
-run, the other ~450 stocks in rotation) plus several Indian business RSS feeds, tags each headline with the stocks it mentions, and writes
-docs/news.json for the dashboard. Uses only the Python standard library.
-
-Run locally:  python fetch_news.py
-"""
-import hashlib
-import os
-import html
-import json
-import re
-import sys
-import time
-import urllib.parse
-import urllib.request
-import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
-from pathlib import Path
-
-ROOT = Path(__file__).parent
-WATCHLIST = ROOT / "watchlist.json"
-OUT = ROOT / "docs" / "news.json"          # last 24 hours (what the page loads first)
-ARCHIVE = ROOT / "docs" / "archive.json"   # 1 to KEEP_DAYS days old (loaded only when you ask for older news)
-
-KEEP_DAYS = 7          # how long headlines stay on the dashboard
-MAX_ITEMS = 9000       # hard cap on stored headlines
-RECENT_HOURS = 24      # headlines newer than this go in news.json, older ones in archive.json
-BATCHES = 6            # non-core stocks are split into this many groups; one group is searched per run
-UA = "Mozilla/5.0 (compatible; NiftyNewsBot/1.0)"
-
-# Broad market feeds (every headline is checked against the watchlist)
-MARKET_FEEDS = {
-    "Economic Times": "https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms",
-    "ET Markets": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
-    "Mint": "https://www.livemint.com/rss/markets",
-    "Business Standard": "https://www.business-standard.com/rss/markets-106.rss",
-    "ET Companies": "https://economictimes.indiatimes.com/news/company/corporate-trends/rssfeeds/2143429.cms",
-    "ET Industry": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms",
-    "Mint Companies": "https://www.livemint.com/rss/companies",
-    "BusinessLine Markets": "https://www.thehindubusinessline.com/markets/stock-markets/feeder/default.rss",
-    "BusinessLine Companies": "https://www.thehindubusinessline.com/companies/feeder/default.rss",
+{
+ "_help": "Edit this list to add/remove stocks. 'query' is what we search on Google News. 'aliases' are words that must appear in a headline to tag it (case-insensitive, whole word). Prefix an alias with '=' to make it case-sensitive (useful for short tickers like =ITC). 'group' lets you filter by business group on the dashboard. 'indices' drives the Nifty 50 / Sensex filter; a stock outside both can use [] or your own label like \"Watchlist\". 'core' stocks are searched on Google News every run; the rest are searched in rotation (each one about every 30 minutes in market hours). Regenerate with tools/build_watchlist.py.",
+ "stocks": [
+  {
+   "symbol": "RELIANCE",
+   "name": "Reliance Industries",
+   "group": "Reliance",
+   "query": "Reliance Industries",
+   "aliases": [
+    "Reliance Industries",
+    "RIL",
+    "Reliance Jio",
+    "Jio Platforms",
+    "Reliance Retail",
+    "Mukesh Ambani"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "JIOFIN",
+   "name": "Jio Financial Services",
+   "group": "Reliance",
+   "query": "Jio Financial Services",
+   "aliases": [
+    "Jio Financial",
+    "Jio Finance",
+    "JFSL"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "HDFCBANK",
+   "name": "HDFC Bank",
+   "group": "HDFC",
+   "query": "HDFC Bank",
+   "aliases": [
+    "HDFC Bank"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "HDFCLIFE",
+   "name": "HDFC Life",
+   "group": "HDFC",
+   "query": "HDFC Life",
+   "aliases": [
+    "HDFC Life"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ICICIBANK",
+   "name": "ICICI Bank",
+   "group": "Banks",
+   "query": "ICICI Bank",
+   "aliases": [
+    "ICICI Bank"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "SBIN",
+   "name": "State Bank of India",
+   "group": "SBI",
+   "query": "State Bank of India share",
+   "aliases": [
+    "State Bank of India",
+    "~(?-i:SBI)(?! Life| Card| Cards| Mutual| MF| Funds| General)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "SBILIFE",
+   "name": "SBI Life Insurance",
+   "group": "SBI",
+   "query": "SBI Life Insurance",
+   "aliases": [
+    "SBI Life"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "name": "Kotak Mahindra Bank",
+   "group": "Banks",
+   "query": "Kotak Mahindra Bank",
+   "aliases": [
+    "Kotak Mahindra Bank",
+    "Kotak Bank"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "AXISBANK",
+   "name": "Axis Bank",
+   "group": "Banks",
+   "query": "Axis Bank",
+   "aliases": [
+    "Axis Bank"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BAJFINANCE",
+   "name": "Bajaj Finance",
+   "group": "Bajaj",
+   "query": "Bajaj Finance",
+   "aliases": [
+    "Bajaj Finance"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BAJAJFINSV",
+   "name": "Bajaj Finserv",
+   "group": "Bajaj",
+   "query": "Bajaj Finserv",
+   "aliases": [
+    "Bajaj Finserv"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BAJAJ-AUTO",
+   "name": "Bajaj Auto",
+   "group": "Bajaj",
+   "query": "Bajaj Auto",
+   "aliases": [
+    "Bajaj Auto"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "SHRIRAMFIN",
+   "name": "Shriram Finance",
+   "group": "Finance",
+   "query": "Shriram Finance",
+   "aliases": [
+    "Shriram Finance"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BSE",
+   "name": "BSE Ltd",
+   "group": "Finance",
+   "query": "BSE Ltd share",
+   "aliases": [
+    "BSE Ltd",
+    "BSE shares",
+    "BSE stock",
+    "BSE share price"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TCS",
+   "name": "Tata Consultancy Services",
+   "group": "Tata",
+   "query": "TCS share",
+   "aliases": [
+    "=TCS",
+    "Tata Consultancy"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TATASTEEL",
+   "name": "Tata Steel",
+   "group": "Tata",
+   "query": "Tata Steel",
+   "aliases": [
+    "Tata Steel"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TMPV",
+   "name": "Tata Motors (Passenger Vehicles)",
+   "group": "Tata",
+   "query": "Tata Motors",
+   "aliases": [
+    "Tata Motors Passenger",
+    "=TMPV",
+    "Jaguar Land Rover",
+    "=JLR",
+    "~Tata Motors(?! CV| Commercial)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TATACONSUM",
+   "name": "Tata Consumer Products",
+   "group": "Tata",
+   "query": "Tata Consumer Products",
+   "aliases": [
+    "Tata Consumer"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TITAN",
+   "name": "Titan Company",
+   "group": "Tata",
+   "query": "Titan Company share",
+   "aliases": [
+    "Titan Company",
+    "Titan shares",
+    "Titan share",
+    "=Titan",
+    "Tanishq"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TRENT",
+   "name": "Trent",
+   "group": "Tata",
+   "query": "Trent share",
+   "aliases": [
+    "=Trent",
+    "Zudio"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ADANIENT",
+   "name": "Adani Enterprises",
+   "group": "Adani",
+   "query": "Adani Enterprises",
+   "aliases": [
+    "Adani Enterprises",
+    "Adani Group",
+    "Gautam Adani",
+    "=AEL"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "name": "Adani Ports & SEZ",
+   "group": "Adani",
+   "query": "Adani Ports",
+   "aliases": [
+    "Adani Ports",
+    "APSEZ"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "LT",
+   "name": "Larsen & Toubro",
+   "group": "Infra",
+   "query": "Larsen & Toubro",
+   "aliases": [
+    "Larsen & Toubro",
+    "Larsen and Toubro",
+    "~(?-i:L&T)(?! Finance| Technology| Tech)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ULTRACEMCO",
+   "name": "UltraTech Cement",
+   "group": "Aditya Birla",
+   "query": "UltraTech Cement",
+   "aliases": [
+    "UltraTech"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "GRASIM",
+   "name": "Grasim Industries",
+   "group": "Aditya Birla",
+   "query": "Grasim Industries",
+   "aliases": [
+    "Grasim"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "HINDALCO",
+   "name": "Hindalco Industries",
+   "group": "Aditya Birla",
+   "query": "Hindalco",
+   "aliases": [
+    "Hindalco",
+    "Novelis"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BHARTIARTL",
+   "name": "Bharti Airtel",
+   "group": "Telecom",
+   "query": "Bharti Airtel",
+   "aliases": [
+    "Bharti Airtel",
+    "=Airtel"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "INFY",
+   "name": "Infosys",
+   "group": "IT",
+   "query": "Infosys",
+   "aliases": [
+    "Infosys"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "HCLTECH",
+   "name": "HCLTech",
+   "group": "IT",
+   "query": "HCLTech",
+   "aliases": [
+    "HCLTech",
+    "HCL Tech",
+    "HCL Technologies"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "TECHM",
+   "name": "Tech Mahindra",
+   "group": "Mahindra",
+   "query": "Tech Mahindra",
+   "aliases": [
+    "Tech Mahindra"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "WIPRO",
+   "name": "Wipro",
+   "group": "IT",
+   "query": "Wipro",
+   "aliases": [
+    "Wipro"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "M&M",
+   "name": "Mahindra & Mahindra",
+   "group": "Mahindra",
+   "query": "Mahindra & Mahindra",
+   "aliases": [
+    "~Mahindra (&|and) Mahindra(?! Financial)",
+    "~(?-i:M&M)(?! Financial| Finance)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "MARUTI",
+   "name": "Maruti Suzuki",
+   "group": "Auto",
+   "query": "Maruti Suzuki",
+   "aliases": [
+    "Maruti"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "EICHERMOT",
+   "name": "Eicher Motors",
+   "group": "Auto",
+   "query": "Eicher Motors",
+   "aliases": [
+    "Eicher Motors",
+    "Royal Enfield"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "SUNPHARMA",
+   "name": "Sun Pharma",
+   "group": "Pharma",
+   "query": "Sun Pharma",
+   "aliases": [
+    "Sun Pharma",
+    "Sun Pharmaceutical"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "CIPLA",
+   "name": "Cipla",
+   "group": "Pharma",
+   "query": "Cipla",
+   "aliases": [
+    "Cipla"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "DRREDDY",
+   "name": "Dr Reddy's Laboratories",
+   "group": "Pharma",
+   "query": "Dr Reddy's Laboratories",
+   "aliases": [
+    "Dr Reddy's",
+    "Dr Reddys",
+    "Dr. Reddy's"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "APOLLOHOSP",
+   "name": "Apollo Hospitals",
+   "group": "Healthcare",
+   "query": "Apollo Hospitals",
+   "aliases": [
+    "Apollo Hospitals"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "MAXHEALTH",
+   "name": "Max Healthcare",
+   "group": "Healthcare",
+   "query": "Max Healthcare",
+   "aliases": [
+    "Max Healthcare"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "HINDUNILVR",
+   "name": "Hindustan Unilever",
+   "group": "FMCG",
+   "query": "Hindustan Unilever",
+   "aliases": [
+    "Hindustan Unilever",
+    "=HUL"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ITC",
+   "name": "ITC",
+   "group": "FMCG",
+   "query": "ITC share",
+   "aliases": [
+    "~(?-i:ITC)(?! Hotels)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "NESTLEIND",
+   "name": "Nestle India",
+   "group": "FMCG",
+   "query": "Nestle India",
+   "aliases": [
+    "Nestle India"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "name": "Asian Paints",
+   "group": "Consumer",
+   "query": "Asian Paints",
+   "aliases": [
+    "Asian Paints"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ETERNAL",
+   "name": "Eternal (Zomato)",
+   "group": "Consumer",
+   "query": "Eternal Zomato share",
+   "aliases": [
+    "Eternal Ltd",
+    "Zomato",
+    "Blinkit",
+    "=Eternal"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "INDIGO",
+   "name": "InterGlobe Aviation (IndiGo)",
+   "group": "Consumer",
+   "query": "IndiGo InterGlobe",
+   "aliases": [
+    "InterGlobe",
+    "=IndiGo"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "NTPC",
+   "name": "NTPC",
+   "group": "PSU",
+   "query": "NTPC",
+   "aliases": [
+    "~(?-i:NTPC)(?! Green| REL| Renewable)"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "POWERGRID",
+   "name": "Power Grid Corp",
+   "group": "PSU",
+   "query": "Power Grid Corporation",
+   "aliases": [
+    "Power Grid",
+    "=PowerGrid"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "ONGC",
+   "name": "ONGC",
+   "group": "PSU",
+   "query": "ONGC",
+   "aliases": [
+    "=ONGC"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "COALINDIA",
+   "name": "Coal India",
+   "group": "PSU",
+   "query": "Coal India",
+   "aliases": [
+    "Coal India"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "BEL",
+   "name": "Bharat Electronics",
+   "group": "PSU",
+   "query": "Bharat Electronics",
+   "aliases": [
+    "Bharat Electronics",
+    "=BEL"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500",
+    "Sensex"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "JSWSTEEL",
+   "name": "JSW Steel",
+   "group": "Metals",
+   "query": "JSW Steel",
+   "aliases": [
+    "JSW Steel"
+   ],
+   "indices": [
+    "Nifty 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": true
+  },
+  {
+   "symbol": "360ONE",
+   "name": "360 ONE WAM",
+   "group": "Capital Markets",
+   "query": "\"360 ONE WAM\"",
+   "aliases": [
+    "360 ONE WAM",
+    "360 ONE"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "3MINDIA",
+   "name": "3M India",
+   "group": "Diversified",
+   "query": "\"3M India\"",
+   "aliases": [
+    "3M India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABB",
+   "name": "ABB India",
+   "group": "Capital Goods",
+   "query": "\"ABB India\"",
+   "aliases": [
+    "ABB India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ACC",
+   "name": "ACC",
+   "group": "Adani",
+   "query": "\"ACC cement\"",
+   "aliases": [
+    "ACC cement",
+    "=ACC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "name": "ACME Solar Holdings",
+   "group": "Power",
+   "query": "\"ACME Solar\"",
+   "aliases": [
+    "ACME Solar"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AIAENG",
+   "name": "AIA Engineering",
+   "group": "Capital Goods",
+   "query": "\"AIA Engineering\"",
+   "aliases": [
+    "AIA Engineering"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "name": "APL Apollo Tubes",
+   "group": "Capital Goods",
+   "query": "\"APL Apollo\"",
+   "aliases": [
+    "APL Apollo"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AUBANK",
+   "name": "AU Small Finance Bank",
+   "group": "Banks",
+   "query": "\"AU Small Finance Bank\"",
+   "aliases": [
+    "AU Small Finance Bank",
+    "AU SFB",
+    "AU Bank"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AWL",
+   "name": "AWL Agri Business",
+   "group": "Adani",
+   "query": "\"AWL Agri Business\"",
+   "aliases": [
+    "AWL Agri Business",
+    "Adani Wilmar",
+    "=AWL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AADHARHFC",
+   "name": "Aadhar Housing Finance",
+   "group": "Finance",
+   "query": "\"Aadhar Housing Finance\"",
+   "aliases": [
+    "Aadhar Housing Finance",
+    "Aadhar Housing"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AARTIIND",
+   "name": "Aarti Industries",
+   "group": "Chemicals",
+   "query": "\"Aarti Industries\"",
+   "aliases": [
+    "Aarti Industries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AAVAS",
+   "name": "Aavas Financiers",
+   "group": "Finance",
+   "query": "\"Aavas Financiers\"",
+   "aliases": [
+    "Aavas Financiers",
+    "=Aavas"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABBOTINDIA",
+   "name": "Abbott India",
+   "group": "Pharma",
+   "query": "\"Abbott India\"",
+   "aliases": [
+    "Abbott India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ACE",
+   "name": "Action Construction Equipment",
+   "group": "Capital Goods",
+   "query": "\"Action Construction Equipment\"",
+   "aliases": [
+    "Action Construction Equipment"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ACUTAAS",
+   "name": "Acutaas Chemicals",
+   "group": "Pharma",
+   "query": "\"Acutaas Chemicals\"",
+   "aliases": [
+    "Acutaas Chemicals",
+    "=Acutaas"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ADANIENSOL",
+   "name": "Adani Energy Solutions",
+   "group": "Adani",
+   "query": "\"Adani Energy Solutions\"",
+   "aliases": [
+    "Adani Energy Solutions",
+    "Adani Transmission",
+    "=AESL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ADANIGREEN",
+   "name": "Adani Green Energy",
+   "group": "Adani",
+   "query": "\"Adani Green Energy\"",
+   "aliases": [
+    "Adani Green Energy",
+    "Adani Green",
+    "=AGEL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ADANIPOWER",
+   "name": "Adani Power",
+   "group": "Adani",
+   "query": "\"Adani Power\"",
+   "aliases": [
+    "Adani Power"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ATGL",
+   "name": "Adani Total Gas",
+   "group": "Adani",
+   "query": "\"Adani Total Gas\"",
+   "aliases": [
+    "Adani Total Gas",
+    "=ATGL"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABCAPITAL",
+   "name": "Aditya Birla Capital",
+   "group": "Aditya Birla",
+   "query": "\"Aditya Birla Capital\"",
+   "aliases": [
+    "Aditya Birla Capital"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABFRL",
+   "name": "Aditya Birla Fashion and Retail",
+   "group": "Aditya Birla",
+   "query": "\"Aditya Birla Fashion\"",
+   "aliases": [
+    "Aditya Birla Fashion",
+    "=ABFRL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABLBL",
+   "name": "Aditya Birla Lifestyle Brands",
+   "group": "Aditya Birla",
+   "query": "\"Aditya Birla Lifestyle Brands\"",
+   "aliases": [
+    "Aditya Birla Lifestyle Brands",
+    "Aditya Birla Lifestyle"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABREL",
+   "name": "Aditya Birla Real Estate",
+   "group": "Aditya Birla",
+   "query": "\"Aditya Birla Real Estate\"",
+   "aliases": [
+    "Aditya Birla Real Estate"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABSLAMC",
+   "name": "Aditya Birla Sun Life AMC",
+   "group": "Aditya Birla",
+   "query": "\"Aditya Birla Sun Life AMC\"",
+   "aliases": [
+    "Aditya Birla Sun Life AMC",
+    "ABSL AMC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CPPLUS",
+   "name": "Aditya Infotech",
+   "group": "Capital Goods",
+   "query": "\"Aditya Infotech\"",
+   "aliases": [
+    "Aditya Infotech",
+    "CP Plus"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AEGISLOG",
+   "name": "Aegis Logistics",
+   "group": "Oil & Gas",
+   "query": "\"Aegis Logistics\"",
+   "aliases": [
+    "Aegis Logistics"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AEGISVOPAK",
+   "name": "Aegis Vopak Terminals",
+   "group": "Oil & Gas",
+   "query": "\"Aegis Vopak\"",
+   "aliases": [
+    "Aegis Vopak"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AFCONS",
+   "name": "Afcons Infrastructure",
+   "group": "Infra",
+   "query": "\"Afcons Infrastructure\"",
+   "aliases": [
+    "Afcons Infrastructure",
+    "=Afcons"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AFFLE",
+   "name": "Affle 3i",
+   "group": "IT",
+   "query": "\"Affle 3i\"",
+   "aliases": [
+    "Affle 3i",
+    "Affle India",
+    "=Affle"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "name": "Ajanta Pharmaceuticals",
+   "group": "Pharma",
+   "query": "\"Ajanta Pharma\"",
+   "aliases": [
+    "Ajanta Pharma"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ALKEM",
+   "name": "Alkem Laboratories",
+   "group": "Pharma",
+   "query": "\"Alkem Laboratories\"",
+   "aliases": [
+    "Alkem Laboratories",
+    "Alkem Labs",
+    "=Alkem"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ABDL",
+   "name": "Allied Blenders and Distillers",
+   "group": "FMCG",
+   "query": "\"Allied Blenders\"",
+   "aliases": [
+    "Allied Blenders"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ARE&M",
+   "name": "Amara Raja Energy & Mobility",
+   "group": "Auto",
+   "query": "\"Amara Raja\"",
+   "aliases": [
+    "Amara Raja"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AMBER",
+   "name": "Amber Enterprises India",
+   "group": "Consumer Durables",
+   "query": "\"Amber Enterprises\"",
+   "aliases": [
+    "Amber Enterprises"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AMBUJACEM",
+   "name": "Ambuja Cements",
+   "group": "Adani",
+   "query": "\"Ambuja Cements\"",
+   "aliases": [
+    "Ambuja Cements",
+    "Ambuja Cement"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "name": "Anand Rathi Wealth",
+   "group": "Capital Markets",
+   "query": "\"Anand Rathi Wealth\"",
+   "aliases": [
+    "Anand Rathi Wealth",
+    "=Anand Rathi"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ANANTRAJ",
+   "name": "Anant Raj",
+   "group": "Realty",
+   "query": "\"Anant Raj\"",
+   "aliases": [
+    "Anant Raj"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ANGELONE",
+   "name": "Angel One",
+   "group": "Capital Markets",
+   "query": "\"Angel One\"",
+   "aliases": [
+    "Angel One"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ANTHEM",
+   "name": "Anthem Biosciences",
+   "group": "Pharma",
+   "query": "\"Anthem Biosciences\"",
+   "aliases": [
+    "Anthem Biosciences"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ANURAS",
+   "name": "Anupam Rasayan India",
+   "group": "Chemicals",
+   "query": "\"Anupam Rasayan\"",
+   "aliases": [
+    "Anupam Rasayan"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "APARINDS",
+   "name": "Apar Industries",
+   "group": "Capital Goods",
+   "query": "\"Apar Industries\"",
+   "aliases": [
+    "Apar Industries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "APOLLOTYRE",
+   "name": "Apollo Tyres",
+   "group": "Auto",
+   "query": "\"Apollo Tyres\"",
+   "aliases": [
+    "Apollo Tyres"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "APTUS",
+   "name": "Aptus Value Housing Finance India",
+   "group": "Finance",
+   "query": "\"Aptus Value Housing\"",
+   "aliases": [
+    "Aptus Value Housing",
+    "Aptus Housing"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ASAHIINDIA",
+   "name": "Asahi India Glass",
+   "group": "Auto",
+   "query": "\"Asahi India Glass\"",
+   "aliases": [
+    "Asahi India Glass"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ASHOKLEY",
+   "name": "Ashok Leyland",
+   "group": "Capital Goods",
+   "query": "\"Ashok Leyland\"",
+   "aliases": [
+    "Ashok Leyland"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ASTERDM",
+   "name": "Aster DM Quality Care",
+   "group": "Healthcare",
+   "query": "\"Aster DM Healthcare\"",
+   "aliases": [
+    "Aster DM Healthcare",
+    "Aster DM"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ASTRAL",
+   "name": "Astral",
+   "group": "Capital Goods",
+   "query": "\"Astral Ltd\"",
+   "aliases": [
+    "Astral Ltd",
+    "Astral Pipes",
+    "Astral shares",
+    "Astral share"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ATHERENERG",
+   "name": "Ather Energy",
+   "group": "Auto",
+   "query": "\"Ather Energy\"",
+   "aliases": [
+    "Ather Energy",
+    "=Ather"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ATUL",
+   "name": "Atul",
+   "group": "Chemicals",
+   "query": "\"Atul Ltd\"",
+   "aliases": [
+    "Atul Ltd",
+    "Atul shares"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "name": "Aurobindo Pharma",
+   "group": "Pharma",
+   "query": "\"Aurobindo Pharma\"",
+   "aliases": [
+    "Aurobindo Pharma",
+    "=Aurobindo"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "AIIL",
+   "name": "Authum Investment & Infrastructure",
+   "group": "Finance",
+   "query": "\"Authum Investment\"",
+   "aliases": [
+    "Authum Investment",
+    "=Authum"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DMART",
+   "name": "Avenue Supermarts",
+   "group": "Consumer",
+   "query": "\"Avenue Supermarts\"",
+   "aliases": [
+    "Avenue Supermarts",
+    "=DMart",
+    "=D-Mart"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BEML",
+   "name": "BEML",
+   "group": "PSU",
+   "query": "\"BEML\"",
+   "aliases": [
+    "=BEML"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BLS",
+   "name": "BLS International Services",
+   "group": "Consumer",
+   "query": "\"BLS International\"",
+   "aliases": [
+    "BLS International"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BAJAJHLDNG",
+   "name": "Bajaj Holdings & Investment",
+   "group": "Bajaj",
+   "query": "\"Bajaj Holdings\"",
+   "aliases": [
+    "Bajaj Holdings"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BAJAJHFL",
+   "name": "Bajaj Housing Finance",
+   "group": "Bajaj",
+   "query": "\"Bajaj Housing Finance\"",
+   "aliases": [
+    "Bajaj Housing Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BALKRISIND",
+   "name": "Balkrishna Industries",
+   "group": "Auto",
+   "query": "\"Balkrishna Industries\"",
+   "aliases": [
+    "Balkrishna Industries",
+    "=BKT"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "name": "Balrampur Chini Mills",
+   "group": "FMCG",
+   "query": "\"Balrampur Chini\"",
+   "aliases": [
+    "Balrampur Chini"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BANDHANBNK",
+   "name": "Bandhan Bank",
+   "group": "Banks",
+   "query": "\"Bandhan Bank\"",
+   "aliases": [
+    "Bandhan Bank"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BANKBARODA",
+   "name": "Bank of Baroda",
+   "group": "PSU Banks",
+   "query": "\"Bank of Baroda\"",
+   "aliases": [
+    "Bank of Baroda",
+    "=BoB"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BANKINDIA",
+   "name": "Bank of India",
+   "group": "PSU Banks",
+   "query": "\"Bank of India\"",
+   "aliases": [
+    "?Bank of India",
+    "~(?<!State )(?<!Central )(?<!Union )(?<!Reserve )(?<!Export-Import )Bank of India"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MAHABANK",
+   "name": "Bank of Maharashtra",
+   "group": "PSU Banks",
+   "query": "\"Bank of Maharashtra\"",
+   "aliases": [
+    "Bank of Maharashtra"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BATAINDIA",
+   "name": "Bata India",
+   "group": "Consumer Durables",
+   "query": "\"Bata India\"",
+   "aliases": [
+    "Bata India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BAYERCROP",
+   "name": "Bayer Cropscience",
+   "group": "Chemicals",
+   "query": "\"Bayer CropScience\"",
+   "aliases": [
+    "Bayer CropScience"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BELRISE",
+   "name": "Belrise Industries",
+   "group": "Auto",
+   "query": "\"Belrise Industries\"",
+   "aliases": [
+    "Belrise Industries",
+    "=Belrise"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BERGEPAINT",
+   "name": "Berger Paints India",
+   "group": "Consumer Durables",
+   "query": "\"Berger Paints\"",
+   "aliases": [
+    "Berger Paints"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BDL",
+   "name": "Bharat Dynamics",
+   "group": "PSU",
+   "query": "\"Bharat Dynamics\"",
+   "aliases": [
+    "Bharat Dynamics",
+    "=BDL"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BHARATFORG",
+   "name": "Bharat Forge",
+   "group": "Auto",
+   "query": "\"Bharat Forge\"",
+   "aliases": [
+    "Bharat Forge"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BHEL",
+   "name": "Bharat Heavy Electricals",
+   "group": "PSU",
+   "query": "\"BHEL\"",
+   "aliases": [
+    "BHEL",
+    "Bharat Heavy Electricals"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BPCL",
+   "name": "Bharat Petroleum Corporation",
+   "group": "PSU",
+   "query": "\"BPCL\"",
+   "aliases": [
+    "BPCL",
+    "Bharat Petroleum"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BHARTIHEXA",
+   "name": "Bharti Hexacom",
+   "group": "Telecom",
+   "query": "\"Bharti Hexacom\"",
+   "aliases": [
+    "Bharti Hexacom"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BIKAJI",
+   "name": "Bikaji Foods International",
+   "group": "FMCG",
+   "query": "\"Bikaji Foods\"",
+   "aliases": [
+    "Bikaji Foods",
+    "=Bikaji"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GROWW",
+   "name": "Billionbrains Garage Ventures",
+   "group": "Capital Markets",
+   "query": "\"Groww\"",
+   "aliases": [
+    "Groww",
+    "Billionbrains Garage"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BIOCON",
+   "name": "Biocon",
+   "group": "Pharma",
+   "query": "\"Biocon\"",
+   "aliases": [
+    "Biocon"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BSOFT",
+   "name": "Birlasoft",
+   "group": "IT",
+   "query": "\"Birlasoft\"",
+   "aliases": [
+    "Birlasoft"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BLUEDART",
+   "name": "Blue Dart Express",
+   "group": "Services",
+   "query": "\"Blue Dart\"",
+   "aliases": [
+    "Blue Dart"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BLUEJET",
+   "name": "Blue Jet Healthcare",
+   "group": "Pharma",
+   "query": "\"Blue Jet Healthcare\"",
+   "aliases": [
+    "Blue Jet Healthcare"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BLUESTARCO",
+   "name": "Blue Star",
+   "group": "Consumer Durables",
+   "query": "\"Blue Star\"",
+   "aliases": [
+    "Blue Star"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BBTC",
+   "name": "Bombay Burmah Trading Corporation",
+   "group": "FMCG",
+   "query": "\"Bombay Burmah\"",
+   "aliases": [
+    "Bombay Burmah"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BOSCHLTD",
+   "name": "Bosch",
+   "group": "Auto",
+   "query": "\"Bosch Ltd\"",
+   "aliases": [
+    "Bosch Ltd",
+    "Bosch India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FIRSTCRY",
+   "name": "Brainbees Solutions",
+   "group": "Consumer",
+   "query": "\"FirstCry\"",
+   "aliases": [
+    "FirstCry",
+    "Brainbees Solutions"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BRIGADE",
+   "name": "Brigade Enterprises",
+   "group": "Realty",
+   "query": "\"Brigade Enterprises\"",
+   "aliases": [
+    "Brigade Enterprises",
+    "Brigade Group"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "BRITANNIA",
+   "name": "Britannia Industries",
+   "group": "FMCG",
+   "query": "\"Britannia\"",
+   "aliases": [
+    "Britannia"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MAPMYINDIA",
+   "name": "C.E. Info Systems",
+   "group": "IT",
+   "query": "\"MapmyIndia\"",
+   "aliases": [
+    "MapmyIndia",
+    "C.E. Info Systems",
+    "CE Info Systems"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CCL",
+   "name": "CCL Products (I)",
+   "group": "FMCG",
+   "query": "\"CCL Products\"",
+   "aliases": [
+    "CCL Products"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CESC",
+   "name": "CESC",
+   "group": "Power",
+   "query": "\"CESC\"",
+   "aliases": [
+    "=CESC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CGPOWER",
+   "name": "CG Power and Industrial Solutions",
+   "group": "Capital Goods",
+   "query": "\"CG Power\"",
+   "aliases": [
+    "CG Power"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CIEINDIA",
+   "name": "CIE Automotive India",
+   "group": "Auto",
+   "query": "\"CIE Automotive\"",
+   "aliases": [
+    "CIE Automotive"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CRISIL",
+   "name": "CRISIL",
+   "group": "Capital Markets",
+   "query": "\"CRISIL\"",
+   "aliases": [
+    "=CRISIL",
+    "=Crisil"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CANFINHOME",
+   "name": "Can Fin Homes",
+   "group": "Finance",
+   "query": "\"Can Fin Homes\"",
+   "aliases": [
+    "Can Fin Homes"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CANBK",
+   "name": "Canara Bank",
+   "group": "PSU Banks",
+   "query": "\"Canara Bank\"",
+   "aliases": [
+    "Canara Bank"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CANHLIFE",
+   "name": "Canara HSBC Life Insurance Company",
+   "group": "Insurance",
+   "query": "\"Canara HSBC Life\"",
+   "aliases": [
+    "Canara HSBC Life"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CAPLIPOINT",
+   "name": "Caplin Point Laboratories",
+   "group": "Pharma",
+   "query": "\"Caplin Point\"",
+   "aliases": [
+    "Caplin Point"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CGCL",
+   "name": "Capri Global Capital",
+   "group": "Finance",
+   "query": "\"Capri Global\"",
+   "aliases": [
+    "Capri Global"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CARBORUNIV",
+   "name": "Carborundum Universal",
+   "group": "Capital Goods",
+   "query": "\"Carborundum Universal\"",
+   "aliases": [
+    "Carborundum Universal"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CARTRADE",
+   "name": "Cartrade Tech",
+   "group": "Consumer",
+   "query": "\"CarTrade\"",
+   "aliases": [
+    "CarTrade"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CASTROLIND",
+   "name": "Castrol India",
+   "group": "Oil & Gas",
+   "query": "\"Castrol India\"",
+   "aliases": [
+    "Castrol India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CEATLTD",
+   "name": "Ceat",
+   "group": "Auto",
+   "query": "\"CEAT tyres\"",
+   "aliases": [
+    "CEAT tyres",
+    "=CEAT",
+    "=Ceat Ltd"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CEMPRO",
+   "name": "Cemindia Projects",
+   "group": "Infra",
+   "query": "\"Cemindia Projects\"",
+   "aliases": [
+    "Cemindia Projects",
+    "=Cemindia"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CENTRALBK",
+   "name": "Central Bank of India",
+   "group": "PSU Banks",
+   "query": "\"Central Bank of India\"",
+   "aliases": [
+    "Central Bank of India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CDSL",
+   "name": "Central Depository Services (India)",
+   "group": "Capital Markets",
+   "query": "\"CDSL\"",
+   "aliases": [
+    "=CDSL",
+    "Central Depository Services"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHALET",
+   "name": "Chalet Hotels",
+   "group": "Consumer",
+   "query": "\"Chalet Hotels\"",
+   "aliases": [
+    "Chalet Hotels"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHAMBLFERT",
+   "name": "Chambal Fertilizers & Chemicals",
+   "group": "Chemicals",
+   "query": "\"Chambal Fertilisers\"",
+   "aliases": [
+    "Chambal Fertilisers",
+    "Chambal Fertilizers"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHENNPETRO",
+   "name": "Chennai Petroleum Corporation",
+   "group": "PSU",
+   "query": "\"Chennai Petroleum\"",
+   "aliases": [
+    "Chennai Petroleum",
+    "=CPCL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHOICEIN",
+   "name": "Choice International",
+   "group": "Capital Markets",
+   "query": "\"Choice International\"",
+   "aliases": [
+    "Choice International"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHOLAHLDNG",
+   "name": "Cholamandalam Financial Holdings",
+   "group": "Finance",
+   "query": "\"Cholamandalam Financial Holdings\"",
+   "aliases": [
+    "Cholamandalam Financial Holdings"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CHOLAFIN",
+   "name": "Cholamandalam Investment and Finance Company",
+   "group": "Finance",
+   "query": "\"Cholamandalam Investment\"",
+   "aliases": [
+    "Cholamandalam Investment",
+    "Chola Investment",
+    "Chola Finance",
+    "=Chola"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CUB",
+   "name": "City Union Bank",
+   "group": "Banks",
+   "query": "\"City Union Bank\"",
+   "aliases": [
+    "City Union Bank"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CLEAN",
+   "name": "Clean Science and Technology",
+   "group": "Chemicals",
+   "query": "\"Clean Science\"",
+   "aliases": [
+    "Clean Science"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "COCHINSHIP",
+   "name": "Cochin Shipyard",
+   "group": "PSU",
+   "query": "\"Cochin Shipyard\"",
+   "aliases": [
+    "Cochin Shipyard"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "COFORGE",
+   "name": "Coforge",
+   "group": "IT",
+   "query": "\"Coforge\"",
+   "aliases": [
+    "Coforge"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "COHANCE",
+   "name": "Cohance Lifesciences",
+   "group": "Pharma",
+   "query": "\"Cohance Lifesciences\"",
+   "aliases": [
+    "Cohance Lifesciences",
+    "=Cohance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "COLPAL",
+   "name": "Colgate Palmolive (India)",
+   "group": "FMCG",
+   "query": "\"Colgate-Palmolive India\"",
+   "aliases": [
+    "Colgate-Palmolive India",
+    "Colgate Palmolive",
+    "Colgate India"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CAMS",
+   "name": "Computer Age Management Services",
+   "group": "Capital Markets",
+   "query": "\"Computer Age Management\"",
+   "aliases": [
+    "Computer Age Management",
+    "=CAMS"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CONCORDBIO",
+   "name": "Concord Biotech",
+   "group": "Pharma",
+   "query": "\"Concord Biotech\"",
+   "aliases": [
+    "Concord Biotech"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CONCOR",
+   "name": "Container Corporation of India",
+   "group": "PSU",
+   "query": "\"Container Corporation\"",
+   "aliases": [
+    "Container Corporation",
+    "=CONCOR",
+    "=Concor"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "COROMANDEL",
+   "name": "Coromandel International",
+   "group": "Chemicals",
+   "query": "\"Coromandel International\"",
+   "aliases": [
+    "Coromandel International",
+    "=Coromandel"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CRAFTSMAN",
+   "name": "Craftsman Automation",
+   "group": "Auto",
+   "query": "\"Craftsman Automation\"",
+   "aliases": [
+    "Craftsman Automation"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CREDITACC",
+   "name": "CreditAccess Grameen",
+   "group": "Finance",
+   "query": "\"CreditAccess Grameen\"",
+   "aliases": [
+    "CreditAccess Grameen"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CROMPTON",
+   "name": "Crompton Greaves Consumer Electricals",
+   "group": "Consumer Durables",
+   "query": "\"Crompton Greaves Consumer\"",
+   "aliases": [
+    "Crompton Greaves Consumer",
+    "=Crompton"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CUMMINSIND",
+   "name": "Cummins India",
+   "group": "Capital Goods",
+   "query": "\"Cummins India\"",
+   "aliases": [
+    "Cummins India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "CYIENT",
+   "name": "Cyient",
+   "group": "IT",
+   "query": "\"Cyient\"",
+   "aliases": [
+    "Cyient"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DCMSHRIRAM",
+   "name": "DCM Shriram",
+   "group": "Diversified",
+   "query": "\"DCM Shriram\"",
+   "aliases": [
+    "DCM Shriram"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DLF",
+   "name": "DLF",
+   "group": "Realty",
+   "query": "\"DLF\"",
+   "aliases": [
+    "=DLF"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DOMS",
+   "name": "DOMS Industries",
+   "group": "FMCG",
+   "query": "\"DOMS Industries\"",
+   "aliases": [
+    "DOMS Industries",
+    "=DOMS"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DABUR",
+   "name": "Dabur India",
+   "group": "FMCG",
+   "query": "\"Dabur\"",
+   "aliases": [
+    "Dabur"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DALBHARAT",
+   "name": "Dalmia Bharat",
+   "group": "Cement",
+   "query": "\"Dalmia Bharat\"",
+   "aliases": [
+    "Dalmia Bharat"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DATAPATTNS",
+   "name": "Data Patterns (India)",
+   "group": "Capital Goods",
+   "query": "\"Data Patterns\"",
+   "aliases": [
+    "Data Patterns"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DEEPAKFERT",
+   "name": "Deepak Fertilisers & Petrochemicals Corp.",
+   "group": "Chemicals",
+   "query": "\"Deepak Fertilisers\"",
+   "aliases": [
+    "Deepak Fertilisers"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DEEPAKNTR",
+   "name": "Deepak Nitrite",
+   "group": "Chemicals",
+   "query": "\"Deepak Nitrite\"",
+   "aliases": [
+    "Deepak Nitrite"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DELHIVERY",
+   "name": "Delhivery",
+   "group": "Services",
+   "query": "\"Delhivery\"",
+   "aliases": [
+    "Delhivery"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DEVYANI",
+   "name": "Devyani International",
+   "group": "Consumer",
+   "query": "\"Devyani International\"",
+   "aliases": [
+    "Devyani International",
+    "=Devyani"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DIVISLAB",
+   "name": "Divi's Laboratories",
+   "group": "Pharma",
+   "query": "\"Divi's Laboratories\"",
+   "aliases": [
+    "Divi's Laboratories",
+    "Divis Lab",
+    "Divi's Lab",
+    "=Divi's"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "DIXON",
+   "name": "Dixon Technologies (India)",
+   "group": "Consumer Durables",
+   "query": "\"Dixon Technologies\"",
+   "aliases": [
+    "Dixon Technologies",
+    "Dixon Tech",
+    "=Dixon"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "name": "Dr. Lal Path Labs",
+   "group": "Healthcare",
+   "query": "\"Dr Lal PathLabs\"",
+   "aliases": [
+    "Dr Lal PathLabs",
+    "Dr. Lal PathLabs",
+    "Lal PathLabs",
+    "Lal Path Labs"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EIDPARRY",
+   "name": "E.I.D. Parry (India)",
+   "group": "FMCG",
+   "query": "\"EID Parry\"",
+   "aliases": [
+    "EID Parry",
+    "E.I.D. Parry"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EIHOTEL",
+   "name": "EIH",
+   "group": "Consumer",
+   "query": "\"EIH Ltd\"",
+   "aliases": [
+    "EIH Ltd",
+    "=EIH"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ELECON",
+   "name": "Elecon Engineering Co.",
+   "group": "Capital Goods",
+   "query": "\"Elecon Engineering\"",
+   "aliases": [
+    "Elecon Engineering",
+    "=Elecon"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ELGIEQUIP",
+   "name": "Elgi Equipments",
+   "group": "Capital Goods",
+   "query": "\"Elgi Equipments\"",
+   "aliases": [
+    "Elgi Equipments"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EMAMILTD",
+   "name": "Emami",
+   "group": "FMCG",
+   "query": "\"Emami\"",
+   "aliases": [
+    "Emami"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EMCURE",
+   "name": "Emcure Pharmaceuticals",
+   "group": "Pharma",
+   "query": "\"Emcure Pharma\"",
+   "aliases": [
+    "Emcure Pharma",
+    "=Emcure"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EMMVEE",
+   "name": "Emmvee Photovoltaic Power",
+   "group": "Capital Goods",
+   "query": "\"Emmvee Photovoltaic\"",
+   "aliases": [
+    "Emmvee Photovoltaic",
+    "=Emmvee"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ENDURANCE",
+   "name": "Endurance Technologies",
+   "group": "Auto",
+   "query": "\"Endurance Technologies\"",
+   "aliases": [
+    "Endurance Technologies"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "name": "Engineers India",
+   "group": "PSU",
+   "query": "\"Engineers India\"",
+   "aliases": [
+    "Engineers India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ERIS",
+   "name": "Eris Lifesciences",
+   "group": "Pharma",
+   "query": "\"Eris Lifesciences\"",
+   "aliases": [
+    "Eris Lifesciences"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ESCORTS",
+   "name": "Escorts Kubota",
+   "group": "Capital Goods",
+   "query": "\"Escorts Kubota\"",
+   "aliases": [
+    "Escorts Kubota",
+    "=Escorts"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "EXIDEIND",
+   "name": "Exide Industries",
+   "group": "Auto",
+   "query": "\"Exide Industries\"",
+   "aliases": [
+    "Exide Industries",
+    "=Exide"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NYKAA",
+   "name": "FSN E-Commerce Ventures",
+   "group": "Consumer",
+   "query": "\"Nykaa\"",
+   "aliases": [
+    "Nykaa",
+    "FSN E-Commerce"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "name": "Federal Bank",
+   "group": "Banks",
+   "query": "\"Federal Bank\"",
+   "aliases": [
+    "Federal Bank"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FACT",
+   "name": "Fertilisers and Chemicals Travancore",
+   "group": "PSU",
+   "query": "\"Fertilisers and Chemicals Travancore\"",
+   "aliases": [
+    "Fertilisers and Chemicals Travancore",
+    "=FACT shares"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FINCABLES",
+   "name": "Finolex Cables",
+   "group": "Capital Goods",
+   "query": "\"Finolex Cables\"",
+   "aliases": [
+    "Finolex Cables"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FSL",
+   "name": "Firstsource Solutions",
+   "group": "Services",
+   "query": "\"Firstsource Solutions\"",
+   "aliases": [
+    "Firstsource Solutions",
+    "=Firstsource"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FIVESTAR",
+   "name": "Five-Star Business Finance",
+   "group": "Finance",
+   "query": "\"Five-Star Business Finance\"",
+   "aliases": [
+    "Five-Star Business Finance",
+    "Five Star Business Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FORCEMOT",
+   "name": "Force Motors",
+   "group": "Auto",
+   "query": "\"Force Motors\"",
+   "aliases": [
+    "Force Motors"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FORTIS",
+   "name": "Fortis Healthcare",
+   "group": "Healthcare",
+   "query": "\"Fortis Healthcare\"",
+   "aliases": [
+    "Fortis Healthcare",
+    "=Fortis"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GAIL",
+   "name": "GAIL (India)",
+   "group": "PSU",
+   "query": "\"GAIL\"",
+   "aliases": [
+    "=GAIL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GVT&D",
+   "name": "GE Vernova T&D India",
+   "group": "Capital Goods",
+   "query": "\"GE Vernova T&D\"",
+   "aliases": [
+    "GE Vernova T&D",
+    "GE T&D India"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GMRAIRPORT",
+   "name": "GMR Airports",
+   "group": "Services",
+   "query": "\"GMR Airports\"",
+   "aliases": [
+    "GMR Airports",
+    "=GMR"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GABRIEL",
+   "name": "Gabriel India",
+   "group": "Auto",
+   "query": "\"Gabriel India\"",
+   "aliases": [
+    "Gabriel India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GALLANTT",
+   "name": "Gallantt Ispat",
+   "group": "Capital Goods",
+   "query": "\"Gallantt Ispat\"",
+   "aliases": [
+    "Gallantt Ispat"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GRSE",
+   "name": "Garden Reach Shipbuilders & Engineers",
+   "group": "PSU",
+   "query": "\"Garden Reach Shipbuilders\"",
+   "aliases": [
+    "Garden Reach Shipbuilders",
+    "=GRSE"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GICRE",
+   "name": "General Insurance Corporation of India",
+   "group": "PSU",
+   "query": "\"GIC Re\"",
+   "aliases": [
+    "GIC Re",
+    "General Insurance Corporation"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GILLETTE",
+   "name": "Gillette India",
+   "group": "FMCG",
+   "query": "\"Gillette India\"",
+   "aliases": [
+    "Gillette India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GLAND",
+   "name": "Gland Pharma",
+   "group": "Pharma",
+   "query": "\"Gland Pharma\"",
+   "aliases": [
+    "Gland Pharma"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GLAXO",
+   "name": "Glaxosmithkline Pharmaceuticals",
+   "group": "Pharma",
+   "query": "\"GSK Pharma\"",
+   "aliases": [
+    "GSK Pharma",
+    "GlaxoSmithKline Pharmaceuticals",
+    "GSK India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GLENMARK",
+   "name": "Glenmark Pharmaceuticals",
+   "group": "Pharma",
+   "query": "\"Glenmark\"",
+   "aliases": [
+    "Glenmark"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MEDANTA",
+   "name": "Global Health",
+   "group": "Healthcare",
+   "query": "\"Medanta\"",
+   "aliases": [
+    "Medanta",
+    "Global Health"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GODIGIT",
+   "name": "Go Digit General Insurance",
+   "group": "Insurance",
+   "query": "\"Go Digit\"",
+   "aliases": [
+    "Go Digit"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GPIL",
+   "name": "Godawari Power & Ispat",
+   "group": "Capital Goods",
+   "query": "\"Godawari Power\"",
+   "aliases": [
+    "Godawari Power",
+    "=GPIL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GODFRYPHLP",
+   "name": "Godfrey Phillips India",
+   "group": "FMCG",
+   "query": "\"Godfrey Phillips\"",
+   "aliases": [
+    "Godfrey Phillips"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GODREJCP",
+   "name": "Godrej Consumer Products",
+   "group": "Godrej",
+   "query": "\"Godrej Consumer\"",
+   "aliases": [
+    "Godrej Consumer",
+    "=GCPL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GODREJIND",
+   "name": "Godrej Industries",
+   "group": "Godrej",
+   "query": "\"Godrej Industries\"",
+   "aliases": [
+    "Godrej Industries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GODREJPROP",
+   "name": "Godrej Properties",
+   "group": "Godrej",
+   "query": "\"Godrej Properties\"",
+   "aliases": [
+    "Godrej Properties"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GRANULES",
+   "name": "Granules India",
+   "group": "Pharma",
+   "query": "\"Granules India\"",
+   "aliases": [
+    "Granules India",
+    "=Granules"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GRAPHITE",
+   "name": "Graphite India",
+   "group": "Capital Goods",
+   "query": "\"Graphite India\"",
+   "aliases": [
+    "Graphite India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GRAVITA",
+   "name": "Gravita India",
+   "group": "Metals",
+   "query": "\"Gravita India\"",
+   "aliases": [
+    "Gravita India",
+    "=Gravita"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GESHIP",
+   "name": "Great Eastern Shipping Co.",
+   "group": "Services",
+   "query": "\"Great Eastern Shipping\"",
+   "aliases": [
+    "Great Eastern Shipping"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "FLUOROCHEM",
+   "name": "Gujarat Fluorochemicals",
+   "group": "Chemicals",
+   "query": "\"Gujarat Fluorochemicals\"",
+   "aliases": [
+    "Gujarat Fluorochemicals"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "GMDCLTD",
+   "name": "Gujarat Mineral Development Corporation",
+   "group": "PSU",
+   "query": "\"Gujarat Mineral Development\"",
+   "aliases": [
+    "Gujarat Mineral Development",
+    "=GMDC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HBLENGINE",
+   "name": "HBL Engineering",
+   "group": "Capital Goods",
+   "query": "\"HBL Engineering\"",
+   "aliases": [
+    "HBL Engineering",
+    "=HBL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HDBFS",
+   "name": "HDB Financial Services",
+   "group": "HDFC",
+   "query": "\"HDB Financial\"",
+   "aliases": [
+    "HDB Financial"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HDFCAMC",
+   "name": "HDFC Asset Management Company",
+   "group": "HDFC",
+   "query": "\"HDFC AMC\"",
+   "aliases": [
+    "HDFC AMC",
+    "HDFC Asset Management"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HEGAM",
+   "name": "HEG Advanced Materials",
+   "group": "Capital Goods",
+   "query": "\"HEG Advanced Materials\"",
+   "aliases": [
+    "HEG Advanced Materials",
+    "=HEG"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HFCL",
+   "name": "HFCL",
+   "group": "Telecom",
+   "query": "\"HFCL\"",
+   "aliases": [
+    "=HFCL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HAVELLS",
+   "name": "Havells India",
+   "group": "Consumer Durables",
+   "query": "\"Havells\"",
+   "aliases": [
+    "Havells"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HEROMOTOCO",
+   "name": "Hero MotoCorp",
+   "group": "Auto",
+   "query": "\"Hero MotoCorp\"",
+   "aliases": [
+    "Hero MotoCorp"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HEXT",
+   "name": "Hexaware Technologies",
+   "group": "IT",
+   "query": "\"Hexaware\"",
+   "aliases": [
+    "Hexaware"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HSCL",
+   "name": "Himadri Speciality Chemical",
+   "group": "Chemicals",
+   "query": "\"Himadri Speciality\"",
+   "aliases": [
+    "Himadri Speciality",
+    "=Himadri"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HAL",
+   "name": "Hindustan Aeronautics",
+   "group": "PSU",
+   "query": "\"Hindustan Aeronautics\"",
+   "aliases": [
+    "Hindustan Aeronautics",
+    "=HAL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HINDCOPPER",
+   "name": "Hindustan Copper",
+   "group": "PSU",
+   "query": "\"Hindustan Copper\"",
+   "aliases": [
+    "Hindustan Copper"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HINDPETRO",
+   "name": "Hindustan Petroleum Corporation",
+   "group": "PSU",
+   "query": "\"HPCL\"",
+   "aliases": [
+    "HPCL",
+    "Hindustan Petroleum"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HINDZINC",
+   "name": "Hindustan Zinc",
+   "group": "Metals",
+   "query": "\"Hindustan Zinc\"",
+   "aliases": [
+    "Hindustan Zinc",
+    "=HZL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "POWERINDIA",
+   "name": "Hitachi Energy India",
+   "group": "Capital Goods",
+   "query": "\"Hitachi Energy India\"",
+   "aliases": [
+    "Hitachi Energy India",
+    "Hitachi Energy"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HOMEFIRST",
+   "name": "Home First Finance Company India",
+   "group": "Finance",
+   "query": "\"Home First Finance\"",
+   "aliases": [
+    "Home First Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HONASA",
+   "name": "Honasa Consumer",
+   "group": "FMCG",
+   "query": "\"Honasa Consumer\"",
+   "aliases": [
+    "Honasa Consumer",
+    "=Honasa",
+    "=Mamaearth"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HONAUT",
+   "name": "Honeywell Automation India",
+   "group": "Capital Goods",
+   "query": "\"Honeywell Automation\"",
+   "aliases": [
+    "Honeywell Automation"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HUDCO",
+   "name": "Housing & Urban Development Corporation",
+   "group": "PSU",
+   "query": "\"HUDCO\"",
+   "aliases": [
+    "=HUDCO"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "HYUNDAI",
+   "name": "Hyundai Motor India",
+   "group": "Auto",
+   "query": "\"Hyundai Motor India\"",
+   "aliases": [
+    "Hyundai Motor India",
+    "Hyundai India",
+    "=HMIL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ICICIGI",
+   "name": "ICICI Lombard General Insurance Company",
+   "group": "Insurance",
+   "query": "\"ICICI Lombard\"",
+   "aliases": [
+    "ICICI Lombard"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ICICIAMC",
+   "name": "ICICI Prudential Asset Management Company",
+   "group": "Capital Markets",
+   "query": "\"ICICI Prudential AMC\"",
+   "aliases": [
+    "ICICI Prudential AMC",
+    "ICICI Prudential Asset Management",
+    "ICICI Pru AMC"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ICICIPRULI",
+   "name": "ICICI Prudential Life Insurance Company",
+   "group": "Insurance",
+   "query": "\"ICICI Prudential Life\"",
+   "aliases": [
+    "ICICI Prudential Life",
+    "ICICI Pru Life"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IDBI",
+   "name": "IDBI Bank",
+   "group": "PSU",
+   "query": "\"IDBI Bank\"",
+   "aliases": [
+    "IDBI Bank",
+    "=IDBI"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IDFCFIRSTB",
+   "name": "IDFC First Bank",
+   "group": "Banks",
+   "query": "\"IDFC First Bank\"",
+   "aliases": [
+    "IDFC First Bank",
+    "IDFC First"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IFCI",
+   "name": "IFCI",
+   "group": "PSU",
+   "query": "\"IFCI\"",
+   "aliases": [
+    "=IFCI"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IIFL",
+   "name": "IIFL Finance",
+   "group": "Finance",
+   "query": "\"IIFL Finance\"",
+   "aliases": [
+    "IIFL Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IRB",
+   "name": "IRB Infrastructure Developers",
+   "group": "Infra",
+   "query": "\"IRB Infrastructure\"",
+   "aliases": [
+    "IRB Infrastructure",
+    "IRB Infra"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IRCON",
+   "name": "IRCON International",
+   "group": "PSU",
+   "query": "\"IRCON\"",
+   "aliases": [
+    "=IRCON",
+    "Ircon International"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ITCHOTELS",
+   "name": "ITC Hotels",
+   "group": "Consumer",
+   "query": "\"ITC Hotels\"",
+   "aliases": [
+    "ITC Hotels"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ITI",
+   "name": "ITI",
+   "group": "PSU",
+   "query": "\"ITI Ltd\"",
+   "aliases": [
+    "ITI Ltd",
+    "ITI shares"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDGN",
+   "name": "Indegene",
+   "group": "Pharma",
+   "query": "\"Indegene\"",
+   "aliases": [
+    "Indegene"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDIACEM",
+   "name": "India Cements",
+   "group": "Cement",
+   "query": "\"India Cements\"",
+   "aliases": [
+    "India Cements"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDIAMART",
+   "name": "Indiamart Intermesh",
+   "group": "Consumer",
+   "query": "\"IndiaMART\"",
+   "aliases": [
+    "IndiaMART"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDIANB",
+   "name": "Indian Bank",
+   "group": "PSU Banks",
+   "query": "\"Indian Bank\"",
+   "aliases": [
+    "Indian Bank",
+    "~(?-i:Indian Bank)(?!s?'? Association)"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IEX",
+   "name": "Indian Energy Exchange",
+   "group": "Capital Markets",
+   "query": "\"Indian Energy Exchange\"",
+   "aliases": [
+    "Indian Energy Exchange",
+    "=IEX"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDHOTEL",
+   "name": "Indian Hotels Co.",
+   "group": "Consumer",
+   "query": "\"Indian Hotels\"",
+   "aliases": [
+    "Indian Hotels",
+    "=IHCL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IOC",
+   "name": "Indian Oil Corporation",
+   "group": "PSU",
+   "query": "\"Indian Oil Corporation\"",
+   "aliases": [
+    "Indian Oil Corporation",
+    "=IOC",
+    "=IndianOil",
+    "Indian Oil"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IOB",
+   "name": "Indian Overseas Bank",
+   "group": "PSU Banks",
+   "query": "\"Indian Overseas Bank\"",
+   "aliases": [
+    "Indian Overseas Bank",
+    "=IOB"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IRCTC",
+   "name": "Indian Railway Catering And Tourism Corporation",
+   "group": "PSU",
+   "query": "\"IRCTC\"",
+   "aliases": [
+    "=IRCTC"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IRFC",
+   "name": "Indian Railway Finance Corporation",
+   "group": "PSU",
+   "query": "\"IRFC\"",
+   "aliases": [
+    "=IRFC",
+    "Indian Railway Finance"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IREDA",
+   "name": "Indian Renewable Energy Development Agency",
+   "group": "PSU",
+   "query": "\"IREDA\"",
+   "aliases": [
+    "=IREDA"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IGL",
+   "name": "Indraprastha Gas",
+   "group": "Oil & Gas",
+   "query": "\"Indraprastha Gas\"",
+   "aliases": [
+    "Indraprastha Gas",
+    "=IGL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDUSTOWER",
+   "name": "Indus Towers",
+   "group": "Telecom",
+   "query": "\"Indus Towers\"",
+   "aliases": [
+    "Indus Towers"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INDUSINDBK",
+   "name": "IndusInd Bank",
+   "group": "Banks",
+   "query": "\"IndusInd Bank\"",
+   "aliases": [
+    "IndusInd Bank",
+    "=IndusInd"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NAUKRI",
+   "name": "Info Edge (India)",
+   "group": "Consumer",
+   "query": "\"Info Edge\"",
+   "aliases": [
+    "Info Edge",
+    "=Naukri"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INOXWIND",
+   "name": "Inox Wind",
+   "group": "Capital Goods",
+   "query": "\"Inox Wind\"",
+   "aliases": [
+    "Inox Wind"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "INTELLECT",
+   "name": "Intellect Design Arena",
+   "group": "IT",
+   "query": "\"Intellect Design\"",
+   "aliases": [
+    "Intellect Design"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IGIL",
+   "name": "International Gemological Institute",
+   "group": "Services",
+   "query": "\"International Gemological\"",
+   "aliases": [
+    "International Gemological",
+    "=IGI"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IKS",
+   "name": "Inventurus Knowledge Solutions",
+   "group": "IT",
+   "query": "\"Inventurus Knowledge\"",
+   "aliases": [
+    "Inventurus Knowledge"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IPCALAB",
+   "name": "Ipca Laboratories",
+   "group": "Pharma",
+   "query": "\"Ipca Laboratories\"",
+   "aliases": [
+    "Ipca Laboratories",
+    "Ipca Labs",
+    "=Ipca"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JKCEMENT",
+   "name": "J.K. Cement",
+   "group": "Cement",
+   "query": "\"JK Cement\"",
+   "aliases": [
+    "JK Cement",
+    "J.K. Cement"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JBMA",
+   "name": "JBM Auto",
+   "group": "Auto",
+   "query": "\"JBM Auto\"",
+   "aliases": [
+    "JBM Auto"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JKTYRE",
+   "name": "JK Tyre & Industries",
+   "group": "Auto",
+   "query": "\"JK Tyre\"",
+   "aliases": [
+    "JK Tyre"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JMFINANCIL",
+   "name": "JM Financial",
+   "group": "Capital Markets",
+   "query": "\"JM Financial\"",
+   "aliases": [
+    "JM Financial"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JSWCEMENT",
+   "name": "JSW Cement",
+   "group": "JSW",
+   "query": "\"JSW Cement\"",
+   "aliases": [
+    "JSW Cement"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JSWDULUX",
+   "name": "JSW Dulux",
+   "group": "JSW",
+   "query": "\"JSW Dulux\"",
+   "aliases": [
+    "JSW Dulux",
+    "=Akzo Nobel India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JSWENERGY",
+   "name": "JSW Energy",
+   "group": "JSW",
+   "query": "\"JSW Energy\"",
+   "aliases": [
+    "JSW Energy"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JSWINFRA",
+   "name": "JSW Infrastructure",
+   "group": "JSW",
+   "query": "\"JSW Infrastructure\"",
+   "aliases": [
+    "JSW Infrastructure",
+    "JSW Infra"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JAINREC",
+   "name": "Jain Resource Recycling",
+   "group": "Metals",
+   "query": "\"Jain Resource Recycling\"",
+   "aliases": [
+    "Jain Resource Recycling"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JPPOWER",
+   "name": "Jaiprakash Power Ventures",
+   "group": "Power",
+   "query": "\"Jaiprakash Power\"",
+   "aliases": [
+    "Jaiprakash Power",
+    "JP Power"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "J&KBANK",
+   "name": "Jammu & Kashmir Bank",
+   "group": "Banks",
+   "query": "\"J&K Bank\"",
+   "aliases": [
+    "J&K Bank",
+    "Jammu & Kashmir Bank",
+    "Jammu and Kashmir Bank"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JINDALSAW",
+   "name": "Jindal Saw",
+   "group": "Capital Goods",
+   "query": "\"Jindal Saw\"",
+   "aliases": [
+    "Jindal Saw"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JSL",
+   "name": "Jindal Stainless",
+   "group": "Metals",
+   "query": "\"Jindal Stainless\"",
+   "aliases": [
+    "Jindal Stainless"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JINDALSTEL",
+   "name": "Jindal Steel",
+   "group": "Metals",
+   "query": "\"Jindal Steel\"",
+   "aliases": [
+    "Jindal Steel",
+    "=JSPL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JUBLFOOD",
+   "name": "Jubilant Foodworks",
+   "group": "Consumer",
+   "query": "\"Jubilant FoodWorks\"",
+   "aliases": [
+    "Jubilant FoodWorks",
+    "Jubilant Food"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JUBLINGREA",
+   "name": "Jubilant Ingrevia",
+   "group": "Chemicals",
+   "query": "\"Jubilant Ingrevia\"",
+   "aliases": [
+    "Jubilant Ingrevia"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JUBLPHARMA",
+   "name": "Jubilant Pharmova",
+   "group": "Pharma",
+   "query": "\"Jubilant Pharmova\"",
+   "aliases": [
+    "Jubilant Pharmova"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JWL",
+   "name": "Jupiter Wagons",
+   "group": "Capital Goods",
+   "query": "\"Jupiter Wagons\"",
+   "aliases": [
+    "Jupiter Wagons"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "JYOTICNC",
+   "name": "Jyoti CNC Automation",
+   "group": "Capital Goods",
+   "query": "\"Jyoti CNC\"",
+   "aliases": [
+    "Jyoti CNC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KPRMILL",
+   "name": "K.P.R. Mill",
+   "group": "Textiles",
+   "query": "\"KPR Mill\"",
+   "aliases": [
+    "KPR Mill",
+    "K.P.R. Mill"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KEI",
+   "name": "KEI Industries",
+   "group": "Capital Goods",
+   "query": "\"KEI Industries\"",
+   "aliases": [
+    "KEI Industries",
+    "=KEI"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KPITTECH",
+   "name": "KPIT Technologies",
+   "group": "IT",
+   "query": "\"KPIT Technologies\"",
+   "aliases": [
+    "KPIT Technologies",
+    "=KPIT"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KAJARIACER",
+   "name": "Kajaria Ceramics",
+   "group": "Consumer Durables",
+   "query": "\"Kajaria Ceramics\"",
+   "aliases": [
+    "Kajaria Ceramics",
+    "=Kajaria"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KPIL",
+   "name": "Kalpataru Projects International",
+   "group": "Infra",
+   "query": "\"Kalpataru Projects\"",
+   "aliases": [
+    "Kalpataru Projects",
+    "Kalpataru Power"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KALYANKJIL",
+   "name": "Kalyan Jewellers India",
+   "group": "Consumer Durables",
+   "query": "\"Kalyan Jewellers\"",
+   "aliases": [
+    "Kalyan Jewellers"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "name": "Karur Vysya Bank",
+   "group": "Banks",
+   "query": "\"Karur Vysya Bank\"",
+   "aliases": [
+    "Karur Vysya Bank",
+    "Karur Vysya"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KAYNES",
+   "name": "Kaynes Technology India",
+   "group": "Capital Goods",
+   "query": "\"Kaynes Technology\"",
+   "aliases": [
+    "Kaynes Technology",
+    "=Kaynes"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KEC",
+   "name": "Kec International",
+   "group": "Infra",
+   "query": "\"KEC International\"",
+   "aliases": [
+    "KEC International"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KFINTECH",
+   "name": "Kfin Technologies",
+   "group": "Capital Markets",
+   "query": "\"KFin Technologies\"",
+   "aliases": [
+    "KFin Technologies",
+    "KFintech"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KIRLOSENG",
+   "name": "Kirloskar Oil Eng",
+   "group": "Capital Goods",
+   "query": "\"Kirloskar Oil Engines\"",
+   "aliases": [
+    "Kirloskar Oil Engines"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "KIMS",
+   "name": "Krishna Institute of Medical Sciences",
+   "group": "Healthcare",
+   "query": "\"Krishna Institute of Medical Sciences\"",
+   "aliases": [
+    "Krishna Institute of Medical Sciences",
+    "=KIMS"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LTF",
+   "name": "L&T Finance",
+   "group": "Finance",
+   "query": "\"L&T Finance\"",
+   "aliases": [
+    "L&T Finance"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LTTS",
+   "name": "L&T Technology Services",
+   "group": "IT",
+   "query": "\"L&T Technology Services\"",
+   "aliases": [
+    "L&T Technology Services",
+    "=LTTS"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LGEINDIA",
+   "name": "LG Electronics India",
+   "group": "Consumer Durables",
+   "query": "\"LG Electronics India\"",
+   "aliases": [
+    "LG Electronics India",
+    "LG India"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LICHSGFIN",
+   "name": "LIC Housing Finance",
+   "group": "Finance",
+   "query": "\"LIC Housing Finance\"",
+   "aliases": [
+    "LIC Housing Finance",
+    "LIC Housing",
+    "=LIC HFL"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LTFOODS",
+   "name": "LT Foods",
+   "group": "FMCG",
+   "query": "\"LT Foods\"",
+   "aliases": [
+    "LT Foods"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LTM",
+   "name": "LTM",
+   "group": "IT",
+   "query": "\"LTIMindtree\"",
+   "aliases": [
+    "LTIMindtree",
+    "=LTM"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LATENTVIEW",
+   "name": "Latent View Analytics",
+   "group": "IT",
+   "query": "\"Latent View Analytics\"",
+   "aliases": [
+    "Latent View Analytics",
+    "LatentView"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "name": "Laurus Labs",
+   "group": "Pharma",
+   "query": "\"Laurus Labs\"",
+   "aliases": [
+    "Laurus Labs"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "THELEELA",
+   "name": "Leela Palaces Hotels & Resorts",
+   "group": "Consumer",
+   "query": "\"Leela Palaces\"",
+   "aliases": [
+    "Leela Palaces",
+    "=The Leela"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LEMONTREE",
+   "name": "Lemon Tree Hotels",
+   "group": "Consumer",
+   "query": "\"Lemon Tree Hotels\"",
+   "aliases": [
+    "Lemon Tree Hotels",
+    "=Lemon Tree"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LENSKART",
+   "name": "Lenskart Solutions",
+   "group": "Consumer",
+   "query": "\"Lenskart\"",
+   "aliases": [
+    "Lenskart"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LICI",
+   "name": "Life Insurance Corporation of India",
+   "group": "PSU",
+   "query": "\"Life Insurance Corporation\"",
+   "aliases": [
+    "Life Insurance Corporation",
+    "~(?-i:LIC)(?! Housing| HFL| MF| Mutual)"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LINDEINDIA",
+   "name": "Linde India",
+   "group": "Chemicals",
+   "query": "\"Linde India\"",
+   "aliases": [
+    "Linde India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LLOYDSME",
+   "name": "Lloyds Metals And Energy",
+   "group": "Metals",
+   "query": "\"Lloyds Metals\"",
+   "aliases": [
+    "Lloyds Metals"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LODHA",
+   "name": "Lodha Developers",
+   "group": "Realty",
+   "query": "\"Lodha Developers\"",
+   "aliases": [
+    "Lodha Developers",
+    "Macrotech Developers",
+    "=Lodha"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "LUPIN",
+   "name": "Lupin",
+   "group": "Pharma",
+   "query": "\"Lupin\"",
+   "aliases": [
+    "Lupin"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MMTC",
+   "name": "MMTC",
+   "group": "PSU",
+   "query": "\"MMTC\"",
+   "aliases": [
+    "=MMTC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MRF",
+   "name": "MRF",
+   "group": "Auto",
+   "query": "\"MRF\"",
+   "aliases": [
+    "=MRF"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MGL",
+   "name": "Mahanagar Gas",
+   "group": "Oil & Gas",
+   "query": "\"Mahanagar Gas\"",
+   "aliases": [
+    "Mahanagar Gas",
+    "=MGL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "M&MFIN",
+   "name": "Mahindra & Mahindra Financial Services",
+   "group": "Mahindra",
+   "query": "\"Mahindra Finance\"",
+   "aliases": [
+    "Mahindra Finance",
+    "M&M Financial",
+    "Mahindra & Mahindra Financial"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MANAPPURAM",
+   "name": "Manappuram Finance",
+   "group": "Finance",
+   "query": "\"Manappuram Finance\"",
+   "aliases": [
+    "Manappuram Finance",
+    "=Manappuram"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MRPL",
+   "name": "Mangalore Refinery & Petrochemicals",
+   "group": "PSU",
+   "query": "\"Mangalore Refinery\"",
+   "aliases": [
+    "Mangalore Refinery",
+    "=MRPL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MANKIND",
+   "name": "Mankind Pharma",
+   "group": "Pharma",
+   "query": "\"Mankind Pharma\"",
+   "aliases": [
+    "Mankind Pharma"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MARICO",
+   "name": "Marico",
+   "group": "FMCG",
+   "query": "\"Marico\"",
+   "aliases": [
+    "Marico"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MFSL",
+   "name": "Max Financial Services",
+   "group": "Finance",
+   "query": "\"Max Financial\"",
+   "aliases": [
+    "Max Financial",
+    "Axis Max Life",
+    "Max Life Insurance"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MAZDOCK",
+   "name": "Mazagoan Dock Shipbuilders",
+   "group": "PSU",
+   "query": "\"Mazagon Dock\"",
+   "aliases": [
+    "Mazagon Dock",
+    "Mazagaon Dock",
+    "=MDL"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MEESHO",
+   "name": "Meesho",
+   "group": "Consumer",
+   "query": "\"Meesho\"",
+   "aliases": [
+    "Meesho"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MINDACORP",
+   "name": "Minda Corporation",
+   "group": "Auto",
+   "query": "\"Minda Corporation\"",
+   "aliases": [
+    "Minda Corporation",
+    "Minda Corp"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MSUMI",
+   "name": "Motherson Sumi Wiring India",
+   "group": "Auto",
+   "query": "\"Motherson Sumi Wiring\"",
+   "aliases": [
+    "Motherson Sumi Wiring",
+    "=MSWIL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "name": "Motilal Oswal Financial Services",
+   "group": "Capital Markets",
+   "query": "\"Motilal Oswal Financial\"",
+   "aliases": [
+    "Motilal Oswal Financial",
+    "=Motilal Oswal"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MPHASIS",
+   "name": "MphasiS",
+   "group": "IT",
+   "query": "\"Mphasis\"",
+   "aliases": [
+    "Mphasis"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MCX",
+   "name": "Multi Commodity Exchange of India",
+   "group": "Capital Markets",
+   "query": "\"MCX\"",
+   "aliases": [
+    "=MCX",
+    "Multi Commodity Exchange"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MUTHOOTFIN",
+   "name": "Muthoot Finance",
+   "group": "Finance",
+   "query": "\"Muthoot Finance\"",
+   "aliases": [
+    "Muthoot Finance"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NATCOPHARM",
+   "name": "NATCO Pharma",
+   "group": "Pharma",
+   "query": "\"Natco Pharma\"",
+   "aliases": [
+    "Natco Pharma",
+    "=Natco"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NBCC",
+   "name": "NBCC (India)",
+   "group": "PSU",
+   "query": "\"NBCC\"",
+   "aliases": [
+    "=NBCC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NCC",
+   "name": "NCC",
+   "group": "Infra",
+   "query": "\"NCC Ltd\"",
+   "aliases": [
+    "NCC Ltd",
+    "NCC shares"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NHPC",
+   "name": "NHPC",
+   "group": "PSU",
+   "query": "\"NHPC\"",
+   "aliases": [
+    "=NHPC"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NLCINDIA",
+   "name": "NLC India",
+   "group": "PSU",
+   "query": "\"NLC India\"",
+   "aliases": [
+    "NLC India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NMDC",
+   "name": "NMDC",
+   "group": "PSU",
+   "query": "\"NMDC Ltd\"",
+   "aliases": [
+    "NMDC Ltd",
+    "~(?-i:NMDC)(?! Steel)"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NSLNISP",
+   "name": "NMDC Steel",
+   "group": "PSU",
+   "query": "\"NMDC Steel\"",
+   "aliases": [
+    "NMDC Steel"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NTPCGREEN",
+   "name": "NTPC Green Energy",
+   "group": "PSU",
+   "query": "\"NTPC Green Energy\"",
+   "aliases": [
+    "NTPC Green Energy",
+    "NTPC Green",
+    "NTPC Renewable",
+    "=NGEL",
+    "=NTPC REL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NH",
+   "name": "Narayana Hrudayalaya",
+   "group": "Healthcare",
+   "query": "\"Narayana Hrudayalaya\"",
+   "aliases": [
+    "Narayana Hrudayalaya",
+    "Narayana Health"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NATIONALUM",
+   "name": "National Aluminium Co.",
+   "group": "PSU",
+   "query": "\"National Aluminium\"",
+   "aliases": [
+    "National Aluminium",
+    "=NALCO",
+    "=Nalco"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NAVA",
+   "name": "Nava",
+   "group": "Power",
+   "query": "\"Nava Ltd\"",
+   "aliases": [
+    "Nava Ltd",
+    "Nava Bharat Ventures"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NAVINFLUOR",
+   "name": "Navin Fluorine International",
+   "group": "Chemicals",
+   "query": "\"Navin Fluorine\"",
+   "aliases": [
+    "Navin Fluorine"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NETWEB",
+   "name": "Netweb Technologies India",
+   "group": "IT",
+   "query": "\"Netweb Technologies\"",
+   "aliases": [
+    "Netweb Technologies",
+    "=Netweb"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NEULANDLAB",
+   "name": "Neuland Laboratories",
+   "group": "Pharma",
+   "query": "\"Neuland Laboratories\"",
+   "aliases": [
+    "Neuland Laboratories",
+    "Neuland Labs"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NEWGEN",
+   "name": "Newgen Software Technologies",
+   "group": "IT",
+   "query": "\"Newgen Software\"",
+   "aliases": [
+    "Newgen Software"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NAM-INDIA",
+   "name": "Nippon Life India Asset Management",
+   "group": "Capital Markets",
+   "query": "\"Nippon Life India Asset\"",
+   "aliases": [
+    "Nippon Life India Asset",
+    "Nippon Life India AMC",
+    "Nippon India AMC"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NIVABUPA",
+   "name": "Niva Bupa Health Insurance Company",
+   "group": "Insurance",
+   "query": "\"Niva Bupa\"",
+   "aliases": [
+    "Niva Bupa"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NUVAMA",
+   "name": "Nuvama Wealth Management",
+   "group": "Capital Markets",
+   "query": "\"Nuvama Wealth\"",
+   "aliases": [
+    "Nuvama Wealth",
+    "=Nuvama"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NUVOCO",
+   "name": "Nuvoco Vistas Corporation",
+   "group": "Cement",
+   "query": "\"Nuvoco Vistas\"",
+   "aliases": [
+    "Nuvoco Vistas",
+    "=Nuvoco"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "OBEROIRLTY",
+   "name": "Oberoi Realty",
+   "group": "Realty",
+   "query": "\"Oberoi Realty\"",
+   "aliases": [
+    "Oberoi Realty"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "OIL",
+   "name": "Oil India",
+   "group": "PSU",
+   "query": "\"Oil India\"",
+   "aliases": [
+    "=Oil India"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "OLAELEC",
+   "name": "Ola Electric Mobility",
+   "group": "Auto",
+   "query": "\"Ola Electric\"",
+   "aliases": [
+    "Ola Electric"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "OLECTRA",
+   "name": "Olectra Greentech",
+   "group": "Auto",
+   "query": "\"Olectra Greentech\"",
+   "aliases": [
+    "Olectra Greentech",
+    "=Olectra"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PAYTM",
+   "name": "One 97 Communications",
+   "group": "Finance",
+   "query": "\"Paytm\"",
+   "aliases": [
+    "Paytm",
+    "One 97 Communications"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ONESOURCE",
+   "name": "Onesource Specialty Pharma",
+   "group": "Pharma",
+   "query": "\"Onesource Specialty Pharma\"",
+   "aliases": [
+    "Onesource Specialty Pharma",
+    "=OneSource Pharma"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "OFSS",
+   "name": "Oracle Financial Services Software",
+   "group": "IT",
+   "query": "\"Oracle Financial Services\"",
+   "aliases": [
+    "Oracle Financial Services",
+    "=OFSS"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "POLICYBZR",
+   "name": "PB Fintech",
+   "group": "Finance",
+   "query": "\"PB Fintech\"",
+   "aliases": [
+    "PB Fintech",
+    "Policybazaar"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PCBL",
+   "name": "PCBL Chemical",
+   "group": "Chemicals",
+   "query": "\"PCBL Chemical\"",
+   "aliases": [
+    "PCBL Chemical",
+    "=PCBL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PGEL",
+   "name": "PG Electroplast",
+   "group": "Consumer Durables",
+   "query": "\"PG Electroplast\"",
+   "aliases": [
+    "PG Electroplast"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PIIND",
+   "name": "PI Industries",
+   "group": "Chemicals",
+   "query": "\"PI Industries\"",
+   "aliases": [
+    "PI Industries"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PNBHOUSING",
+   "name": "PNB Housing Finance",
+   "group": "Finance",
+   "query": "\"PNB Housing\"",
+   "aliases": [
+    "PNB Housing"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PTCIL",
+   "name": "PTC Industries",
+   "group": "Capital Goods",
+   "query": "\"PTC Industries\"",
+   "aliases": [
+    "PTC Industries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PVRINOX",
+   "name": "PVR INOX",
+   "group": "Media",
+   "query": "\"PVR INOX\"",
+   "aliases": [
+    "PVR INOX",
+    "=PVR"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PAGEIND",
+   "name": "Page Industries",
+   "group": "Textiles",
+   "query": "\"Page Industries\"",
+   "aliases": [
+    "Page Industries"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PARADEEP",
+   "name": "Paradeep Phosphates",
+   "group": "Chemicals",
+   "query": "\"Paradeep Phosphates\"",
+   "aliases": [
+    "Paradeep Phosphates"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PATANJALI",
+   "name": "Patanjali Foods",
+   "group": "FMCG",
+   "query": "\"Patanjali Foods\"",
+   "aliases": [
+    "Patanjali Foods"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PERSISTENT",
+   "name": "Persistent Systems",
+   "group": "IT",
+   "query": "\"Persistent Systems\"",
+   "aliases": [
+    "Persistent Systems"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PETRONET",
+   "name": "Petronet LNG",
+   "group": "Oil & Gas",
+   "query": "\"Petronet LNG\"",
+   "aliases": [
+    "Petronet LNG",
+    "=Petronet"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PFIZER",
+   "name": "Pfizer",
+   "group": "Pharma",
+   "query": "\"Pfizer India\"",
+   "aliases": [
+    "Pfizer India",
+    "Pfizer Ltd"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PHOENIXLTD",
+   "name": "Phoenix Mills",
+   "group": "Realty",
+   "query": "\"Phoenix Mills\"",
+   "aliases": [
+    "Phoenix Mills"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PWL",
+   "name": "Physicswallah",
+   "group": "Consumer",
+   "query": "\"PhysicsWallah\"",
+   "aliases": [
+    "PhysicsWallah",
+    "Physics Wallah"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PIDILITIND",
+   "name": "Pidilite Industries",
+   "group": "Chemicals",
+   "query": "\"Pidilite\"",
+   "aliases": [
+    "Pidilite"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PINELABS",
+   "name": "Pine Labs",
+   "group": "Finance",
+   "query": "\"Pine Labs\"",
+   "aliases": [
+    "Pine Labs"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PIRAMALFIN",
+   "name": "Piramal Finance",
+   "group": "Finance",
+   "query": "\"Piramal Finance\"",
+   "aliases": [
+    "Piramal Finance",
+    "Piramal Enterprises"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PPLPHARMA",
+   "name": "Piramal Pharma",
+   "group": "Pharma",
+   "query": "\"Piramal Pharma\"",
+   "aliases": [
+    "Piramal Pharma"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "POLYMED",
+   "name": "Poly Medicure",
+   "group": "Healthcare",
+   "query": "\"Poly Medicure\"",
+   "aliases": [
+    "Poly Medicure"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "POLYCAB",
+   "name": "Polycab India",
+   "group": "Capital Goods",
+   "query": "\"Polycab\"",
+   "aliases": [
+    "Polycab"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "POONAWALLA",
+   "name": "Poonawalla Fincorp",
+   "group": "Finance",
+   "query": "\"Poonawalla Fincorp\"",
+   "aliases": [
+    "Poonawalla Fincorp"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PFC",
+   "name": "Power Finance Corporation",
+   "group": "PSU",
+   "query": "\"Power Finance Corporation\"",
+   "aliases": [
+    "Power Finance Corporation",
+    "=PFC"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PREMIERENE",
+   "name": "Premier Energies",
+   "group": "Capital Goods",
+   "query": "\"Premier Energies\"",
+   "aliases": [
+    "Premier Energies"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PRESTIGE",
+   "name": "Prestige Estates Projects",
+   "group": "Realty",
+   "query": "\"Prestige Estates\"",
+   "aliases": [
+    "Prestige Estates",
+    "Prestige Group"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PFOCUS",
+   "name": "Prime Focus",
+   "group": "Media",
+   "query": "\"Prime Focus\"",
+   "aliases": [
+    "Prime Focus"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "PNB",
+   "name": "Punjab National Bank",
+   "group": "PSU Banks",
+   "query": "\"Punjab National Bank\"",
+   "aliases": [
+    "Punjab National Bank",
+    "~(?-i:PNB)(?! Housing| MetLife| Gilts)"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RRKABEL",
+   "name": "R R Kabel",
+   "group": "Capital Goods",
+   "query": "\"RR Kabel\"",
+   "aliases": [
+    "RR Kabel",
+    "R R Kabel"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RBLBANK",
+   "name": "RBL Bank",
+   "group": "Banks",
+   "query": "\"RBL Bank\"",
+   "aliases": [
+    "RBL Bank"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RECLTD",
+   "name": "REC",
+   "group": "PSU",
+   "query": "\"REC Ltd\"",
+   "aliases": [
+    "REC Ltd",
+    "=REC shares",
+    "=REC share"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RHIM",
+   "name": "RHI MAGNESITA INDIA LTD.",
+   "group": "Capital Goods",
+   "query": "\"RHI Magnesita\"",
+   "aliases": [
+    "RHI Magnesita"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RITES",
+   "name": "RITES",
+   "group": "PSU",
+   "query": "\"RITES\"",
+   "aliases": [
+    "=RITES"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RADICO",
+   "name": "Radico Khaitan",
+   "group": "FMCG",
+   "query": "\"Radico Khaitan\"",
+   "aliases": [
+    "Radico Khaitan",
+    "=Radico"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RVNL",
+   "name": "Rail Vikas Nigam",
+   "group": "PSU",
+   "query": "\"RVNL\"",
+   "aliases": [
+    "=RVNL",
+    "Rail Vikas Nigam"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RAILTEL",
+   "name": "Railtel Corporation Of India",
+   "group": "PSU",
+   "query": "\"RailTel\"",
+   "aliases": [
+    "RailTel"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RAINBOW",
+   "name": "Rainbow Childrens Medicare",
+   "group": "Healthcare",
+   "query": "\"Rainbow Children's Medicare\"",
+   "aliases": [
+    "Rainbow Children's Medicare",
+    "Rainbow Childrens Medicare",
+    "Rainbow Hospitals"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RKFORGE",
+   "name": "Ramkrishna Forgings",
+   "group": "Auto",
+   "query": "\"Ramkrishna Forgings\"",
+   "aliases": [
+    "Ramkrishna Forgings"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "REDINGTON",
+   "name": "Redington",
+   "group": "Services",
+   "query": "\"Redington\"",
+   "aliases": [
+    "Redington"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RPOWER",
+   "name": "Reliance Power",
+   "group": "Power",
+   "query": "\"Reliance Power\"",
+   "aliases": [
+    "Reliance Power"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SBFC",
+   "name": "SBFC Finance",
+   "group": "Finance",
+   "query": "\"SBFC Finance\"",
+   "aliases": [
+    "SBFC Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SBICARD",
+   "name": "SBI Cards and Payment Services",
+   "group": "SBI",
+   "query": "\"SBI Card\"",
+   "aliases": [
+    "SBI Card",
+    "SBI Cards"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SJVN",
+   "name": "SJVN",
+   "group": "PSU",
+   "query": "\"SJVN\"",
+   "aliases": [
+    "=SJVN"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SRF",
+   "name": "SRF",
+   "group": "Chemicals",
+   "query": "\"SRF\"",
+   "aliases": [
+    "=SRF"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAGILITY",
+   "name": "Sagility",
+   "group": "IT",
+   "query": "\"Sagility\"",
+   "aliases": [
+    "Sagility"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAILIFE",
+   "name": "Sai Life Sciences",
+   "group": "Pharma",
+   "query": "\"Sai Life Sciences\"",
+   "aliases": [
+    "Sai Life Sciences"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAMMAANCAP",
+   "name": "Sammaan Capital",
+   "group": "Finance",
+   "query": "\"Sammaan Capital\"",
+   "aliases": [
+    "Sammaan Capital"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "MOTHERSON",
+   "name": "Samvardhana Motherson International",
+   "group": "Auto",
+   "query": "\"Samvardhana Motherson\"",
+   "aliases": [
+    "Samvardhana Motherson",
+    "~(?-i:Motherson)(?! Sumi Wiring)"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAPPHIRE",
+   "name": "Sapphire Foods India",
+   "group": "Consumer",
+   "query": "\"Sapphire Foods\"",
+   "aliases": [
+    "Sapphire Foods"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SARDAEN",
+   "name": "Sarda Energy and Minerals",
+   "group": "Metals",
+   "query": "\"Sarda Energy\"",
+   "aliases": [
+    "Sarda Energy"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAREGAMA",
+   "name": "Saregama India",
+   "group": "Media",
+   "query": "\"Saregama\"",
+   "aliases": [
+    "Saregama"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SCHAEFFLER",
+   "name": "Schaeffler India",
+   "group": "Auto",
+   "query": "\"Schaeffler India\"",
+   "aliases": [
+    "Schaeffler India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SCHNEIDER",
+   "name": "Schneider Electric Infrastructure",
+   "group": "Capital Goods",
+   "query": "\"Schneider Electric Infrastructure\"",
+   "aliases": [
+    "Schneider Electric Infrastructure",
+    "Schneider Electric India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SCI",
+   "name": "Shipping Corporation of India",
+   "group": "PSU",
+   "query": "\"Shipping Corporation of India\"",
+   "aliases": [
+    "Shipping Corporation of India",
+    "=SCI"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SHREECEM",
+   "name": "Shree Cement",
+   "group": "Cement",
+   "query": "\"Shree Cement\"",
+   "aliases": [
+    "Shree Cement"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "name": "Shyam Metalics and Energy",
+   "group": "Capital Goods",
+   "query": "\"Shyam Metalics\"",
+   "aliases": [
+    "Shyam Metalics"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ENRIN",
+   "name": "Siemens Energy India",
+   "group": "Capital Goods",
+   "query": "\"Siemens Energy India\"",
+   "aliases": [
+    "Siemens Energy India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SIEMENS",
+   "name": "Siemens",
+   "group": "Capital Goods",
+   "query": "\"Siemens Ltd\"",
+   "aliases": [
+    "Siemens Ltd",
+    "Siemens India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SIGNATURE",
+   "name": "Signatureglobal (India)",
+   "group": "Realty",
+   "query": "\"Signatureglobal\"",
+   "aliases": [
+    "Signatureglobal",
+    "Signature Global"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SOBHA",
+   "name": "Sobha",
+   "group": "Realty",
+   "query": "\"Sobha Ltd\"",
+   "aliases": [
+    "Sobha Ltd",
+    "=Sobha"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SOLARINDS",
+   "name": "Solar Industries India",
+   "group": "Chemicals",
+   "query": "\"Solar Industries\"",
+   "aliases": [
+    "Solar Industries"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SONACOMS",
+   "name": "Sona BLW Precision Forgings",
+   "group": "Auto",
+   "query": "\"Sona BLW\"",
+   "aliases": [
+    "Sona BLW",
+    "Sona Comstar"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SONATSOFTW",
+   "name": "Sonata Software",
+   "group": "IT",
+   "query": "\"Sonata Software\"",
+   "aliases": [
+    "Sonata Software"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "STARHEALTH",
+   "name": "Star Health and Allied Insurance Company",
+   "group": "Insurance",
+   "query": "\"Star Health\"",
+   "aliases": [
+    "Star Health"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SAIL",
+   "name": "Steel Authority of India",
+   "group": "PSU",
+   "query": "\"Steel Authority of India\"",
+   "aliases": [
+    "Steel Authority of India",
+    "=SAIL"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SUMICHEM",
+   "name": "Sumitomo Chemical India",
+   "group": "Chemicals",
+   "query": "\"Sumitomo Chemical India\"",
+   "aliases": [
+    "Sumitomo Chemical India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SUNTV",
+   "name": "Sun TV Network",
+   "group": "Media",
+   "query": "\"Sun TV\"",
+   "aliases": [
+    "Sun TV"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SUNDARMFIN",
+   "name": "Sundaram Finance",
+   "group": "Finance",
+   "query": "\"Sundaram Finance\"",
+   "aliases": [
+    "Sundaram Finance"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SUPREMEIND",
+   "name": "Supreme Industries",
+   "group": "Capital Goods",
+   "query": "\"Supreme Industries\"",
+   "aliases": [
+    "Supreme Industries"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SPLPETRO",
+   "name": "Supreme Petrochem",
+   "group": "Chemicals",
+   "query": "\"Supreme Petrochem\"",
+   "aliases": [
+    "Supreme Petrochem"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SUZLON",
+   "name": "Suzlon Energy",
+   "group": "Capital Goods",
+   "query": "\"Suzlon\"",
+   "aliases": [
+    "Suzlon"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SWANCORP",
+   "name": "Swan Corp",
+   "group": "Chemicals",
+   "query": "\"Swan Corp\"",
+   "aliases": [
+    "Swan Corp",
+    "Swan Energy"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SWIGGY",
+   "name": "Swiggy",
+   "group": "Consumer",
+   "query": "\"Swiggy\"",
+   "aliases": [
+    "Swiggy"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SYNGENE",
+   "name": "Syngene International",
+   "group": "Pharma",
+   "query": "\"Syngene\"",
+   "aliases": [
+    "Syngene"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "SYRMA",
+   "name": "Syrma SGS Technology",
+   "group": "Capital Goods",
+   "query": "\"Syrma SGS\"",
+   "aliases": [
+    "Syrma SGS"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TBOTEK",
+   "name": "TBO Tek",
+   "group": "Consumer",
+   "query": "\"TBO Tek\"",
+   "aliases": [
+    "TBO Tek"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TVSMOTOR",
+   "name": "TVS Motor Company",
+   "group": "Auto",
+   "query": "\"TVS Motor\"",
+   "aliases": [
+    "TVS Motor"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATACAP",
+   "name": "Tata Capital",
+   "group": "Tata",
+   "query": "\"Tata Capital\"",
+   "aliases": [
+    "Tata Capital"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATACHEM",
+   "name": "Tata Chemicals",
+   "group": "Tata",
+   "query": "\"Tata Chemicals\"",
+   "aliases": [
+    "Tata Chemicals"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATACOMM",
+   "name": "Tata Communications",
+   "group": "Tata",
+   "query": "\"Tata Communications\"",
+   "aliases": [
+    "Tata Communications"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATAELXSI",
+   "name": "Tata Elxsi",
+   "group": "Tata",
+   "query": "\"Tata Elxsi\"",
+   "aliases": [
+    "Tata Elxsi"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATAINVEST",
+   "name": "Tata Investment Corporation",
+   "group": "Tata",
+   "query": "\"Tata Investment\"",
+   "aliases": [
+    "Tata Investment"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TMCV",
+   "name": "Tata Motors",
+   "group": "Tata",
+   "query": "\"Tata Motors CV\"",
+   "aliases": [
+    "Tata Motors CV",
+    "Tata Motors Commercial Vehicles",
+    "=TMCV",
+    "=TML CV"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATAPOWER",
+   "name": "Tata Power Co.",
+   "group": "Tata",
+   "query": "\"Tata Power\"",
+   "aliases": [
+    "Tata Power"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TATATECH",
+   "name": "Tata Technologies",
+   "group": "Tata",
+   "query": "\"Tata Technologies\"",
+   "aliases": [
+    "Tata Technologies"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TTML",
+   "name": "Tata Teleservices (Maharashtra)",
+   "group": "Tata",
+   "query": "\"Tata Teleservices\"",
+   "aliases": [
+    "Tata Teleservices",
+    "=TTML"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TECHNOE",
+   "name": "Techno Electric & Engineering Company",
+   "group": "Infra",
+   "query": "\"Techno Electric\"",
+   "aliases": [
+    "Techno Electric"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TEGA",
+   "name": "Tega Industries",
+   "group": "Capital Goods",
+   "query": "\"Tega Industries\"",
+   "aliases": [
+    "Tega Industries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TEJASNET",
+   "name": "Tejas Networks",
+   "group": "Telecom",
+   "query": "\"Tejas Networks\"",
+   "aliases": [
+    "Tejas Networks"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TENNIND",
+   "name": "Tenneco Clean Air India",
+   "group": "Auto",
+   "query": "\"Tenneco Clean Air\"",
+   "aliases": [
+    "Tenneco Clean Air"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "NIACL",
+   "name": "The New India Assurance Company",
+   "group": "PSU",
+   "query": "\"New India Assurance\"",
+   "aliases": [
+    "New India Assurance",
+    "=NIACL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "RAMCOCEM",
+   "name": "The Ramco Cements",
+   "group": "Cement",
+   "query": "\"Ramco Cements\"",
+   "aliases": [
+    "Ramco Cements",
+    "Ramco Cement"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "THERMAX",
+   "name": "Thermax",
+   "group": "Capital Goods",
+   "query": "\"Thermax\"",
+   "aliases": [
+    "Thermax"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TIMKEN",
+   "name": "Timken India",
+   "group": "Capital Goods",
+   "query": "\"Timken India\"",
+   "aliases": [
+    "Timken India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TITAGARH",
+   "name": "Titagarh Rail Systems",
+   "group": "Capital Goods",
+   "query": "\"Titagarh Rail\"",
+   "aliases": [
+    "Titagarh Rail",
+    "=Titagarh"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TORNTPHARM",
+   "name": "Torrent Pharmaceuticals",
+   "group": "Pharma",
+   "query": "\"Torrent Pharma\"",
+   "aliases": [
+    "Torrent Pharma",
+    "Torrent Pharmaceuticals"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TORNTPOWER",
+   "name": "Torrent Power",
+   "group": "Power",
+   "query": "\"Torrent Power\"",
+   "aliases": [
+    "Torrent Power"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TARIL",
+   "name": "Transformers And Rectifiers (India)",
+   "group": "Capital Goods",
+   "query": "\"Transformers and Rectifiers\"",
+   "aliases": [
+    "Transformers and Rectifiers",
+    "Transformers & Rectifiers",
+    "=TARIL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TRAVELFOOD",
+   "name": "Travel Food Services",
+   "group": "Consumer",
+   "query": "\"Travel Food Services\"",
+   "aliases": [
+    "Travel Food Services"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TRIDENT",
+   "name": "Trident",
+   "group": "Textiles",
+   "query": "\"Trident Ltd\"",
+   "aliases": [
+    "Trident Ltd",
+    "Trident shares",
+    "Trident Group"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TRITURBINE",
+   "name": "Triveni Turbine",
+   "group": "Capital Goods",
+   "query": "\"Triveni Turbine\"",
+   "aliases": [
+    "Triveni Turbine"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "TIINDIA",
+   "name": "Tube Investments of India",
+   "group": "Auto",
+   "query": "\"Tube Investments\"",
+   "aliases": [
+    "Tube Investments"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UCOBANK",
+   "name": "UCO Bank",
+   "group": "PSU Banks",
+   "query": "\"UCO Bank\"",
+   "aliases": [
+    "UCO Bank"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UNOMINDA",
+   "name": "UNO Minda",
+   "group": "Auto",
+   "query": "\"Uno Minda\"",
+   "aliases": [
+    "Uno Minda"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UPL",
+   "name": "UPL",
+   "group": "Chemicals",
+   "query": "\"UPL\"",
+   "aliases": [
+    "=UPL"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UTIAMC",
+   "name": "UTI Asset Management Company",
+   "group": "Capital Markets",
+   "query": "\"UTI AMC\"",
+   "aliases": [
+    "UTI AMC",
+    "UTI Asset Management"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UNIONBANK",
+   "name": "Union Bank of India",
+   "group": "PSU Banks",
+   "query": "\"Union Bank of India\"",
+   "aliases": [
+    "?Union Bank of India",
+    "~(?<!City )(?-i:Union Bank)(?! of Switzerland)"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UBL",
+   "name": "United Breweries",
+   "group": "FMCG",
+   "query": "\"United Breweries\"",
+   "aliases": [
+    "United Breweries"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "UNITDSPR",
+   "name": "United Spirits",
+   "group": "FMCG",
+   "query": "\"United Spirits\"",
+   "aliases": [
+    "United Spirits",
+    "Diageo India"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "URBANCO",
+   "name": "Urban Company",
+   "group": "Consumer",
+   "query": "\"Urban Company\"",
+   "aliases": [
+    "Urban Company"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "USHAMART",
+   "name": "Usha Martin",
+   "group": "Capital Goods",
+   "query": "\"Usha Martin\"",
+   "aliases": [
+    "Usha Martin"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VTL",
+   "name": "Vardhman Textiles",
+   "group": "Textiles",
+   "query": "\"Vardhman Textiles\"",
+   "aliases": [
+    "Vardhman Textiles"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VBL",
+   "name": "Varun Beverages",
+   "group": "FMCG",
+   "query": "\"Varun Beverages\"",
+   "aliases": [
+    "Varun Beverages"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VEDL",
+   "name": "Vedanta",
+   "group": "Metals",
+   "query": "\"Vedanta\"",
+   "aliases": [
+    "Vedanta"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VIJAYA",
+   "name": "Vijaya Diagnostic Centre",
+   "group": "Healthcare",
+   "query": "\"Vijaya Diagnostic\"",
+   "aliases": [
+    "Vijaya Diagnostic"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VMM",
+   "name": "Vishal Mega Mart",
+   "group": "Consumer",
+   "query": "\"Vishal Mega Mart\"",
+   "aliases": [
+    "Vishal Mega Mart"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "IDEA",
+   "name": "Vodafone Idea",
+   "group": "Telecom",
+   "query": "\"Vodafone Idea\"",
+   "aliases": [
+    "Vodafone Idea",
+    "=Vi shares"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "VOLTAS",
+   "name": "Voltas",
+   "group": "Consumer Durables",
+   "query": "\"Voltas\"",
+   "aliases": [
+    "Voltas"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "WAAREEENER",
+   "name": "Waaree Energies",
+   "group": "Capital Goods",
+   "query": "\"Waaree Energies\"",
+   "aliases": [
+    "Waaree Energies",
+    "=Waaree"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "WELCORP",
+   "name": "Welspun Corp",
+   "group": "Capital Goods",
+   "query": "\"Welspun Corp\"",
+   "aliases": [
+    "Welspun Corp"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "name": "Welspun Living",
+   "group": "Textiles",
+   "query": "\"Welspun Living\"",
+   "aliases": [
+    "Welspun Living"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "WHIRLPOOL",
+   "name": "Whirlpool of India",
+   "group": "Consumer Durables",
+   "query": "\"Whirlpool of India\"",
+   "aliases": [
+    "Whirlpool of India",
+    "Whirlpool India"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "WOCKPHARMA",
+   "name": "Wockhardt",
+   "group": "Pharma",
+   "query": "\"Wockhardt\"",
+   "aliases": [
+    "Wockhardt"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "YESBANK",
+   "name": "Yes Bank",
+   "group": "Banks",
+   "query": "\"Yes Bank\"",
+   "aliases": [
+    "Yes Bank"
+   ],
+   "indices": [
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZFCVINDIA",
+   "name": "ZF Commercial Vehicle Control Systems India",
+   "group": "Auto",
+   "query": "\"ZF Commercial Vehicle\"",
+   "aliases": [
+    "ZF Commercial Vehicle",
+    "ZF CV Control"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZEEL",
+   "name": "Zee Entertainment Enterprises",
+   "group": "Media",
+   "query": "\"Zee Entertainment\"",
+   "aliases": [
+    "Zee Entertainment",
+    "=ZEEL"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZENTEC",
+   "name": "Zen Technologies",
+   "group": "Capital Goods",
+   "query": "\"Zen Technologies\"",
+   "aliases": [
+    "Zen Technologies",
+    "Zen Tech"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZENSARTECH",
+   "name": "Zensar Technolgies",
+   "group": "IT",
+   "query": "\"Zensar\"",
+   "aliases": [
+    "Zensar"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "name": "Zydus Lifesciences",
+   "group": "Pharma",
+   "query": "\"Zydus Lifesciences\"",
+   "aliases": [
+    "Zydus Lifesciences",
+    "~(?-i:Zydus)(?! Wellness)"
+   ],
+   "indices": [
+    "Nifty Next 50",
+    "Nifty 100",
+    "Nifty 200",
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "name": "Zydus Wellness",
+   "group": "FMCG",
+   "query": "\"Zydus Wellness\"",
+   "aliases": [
+    "Zydus Wellness"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  },
+  {
+   "symbol": "ECLERX",
+   "name": "eClerx Services",
+   "group": "Services",
+   "query": "\"eClerx\"",
+   "aliases": [
+    "eClerx"
+   ],
+   "indices": [
+    "Nifty 500"
+   ],
+   "core": false
+  }
+ ]
 }
-
-# Broad Google News searches run every time; they catch news on any of the 500
-# stocks between their own scheduled searches.
-BROAD_QUERIES = ["NSE shares", "shares surge", "shares fall", "stock jumps", "bags order",
-                 "Q2 results profit", "brokerage target price", "stake sale block deal"]
-
-GOOGLE_NEWS = "https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
-
-# Headline categories (first match wins per category; a headline can have several)
-TAGS = {
-    "Results":    r"\b(Q[1-4]|quarter(ly)?|results?|earnings|profit|net income|revenue|EBITDA|PAT)\b",
-    "Order/Deal": r"\b(order|contract|deal|acqui\w*|merger|stake|JV|joint venture|partnership|buyback)\b",
-    "Rating":     r"\b(upgrade|downgrade|target price|price target|rating|overweight|underweight|brokerage|buy call|sell call)\b",
-    "Regulatory": r"\b(SEBI|RBI|CCI|NCLT|ED|CBI|probe|penalty|fine|notice|court|tax demand|GST|lawsuit|SEC|DoJ)\b",
-    "Corporate action": r"\b(dividend|bonus|split|rights issue|record date|QIP|OFS|block deal|bulk deal|IPO|listing)\b",
-    "Management": r"\b(CEO|CFO|MD|chairman|resign\w*|appoint\w*|steps down)\b",
-}
-TAG_RE = {k: re.compile(v, re.I) for k, v in TAGS.items()}
-
-POS = r"\b(surge[sd]?|soar\w*|jump\w*|rall(y|ies|ied)|gain\w*|rise[sn]?|rising|climb\w*|record high|upgrade\w*|beat[s]?|strong|win[s]?|bags?|secures?|profit (rises|jumps|up)|higher|outperform\w*|bullish|hits? 52-week high)\b"
-NEG = r"\b(plunge[sd]?|crash\w*|slump\w*|tumble[sd]?|fall[s]?|fell|drop\w*|slide[sd]?|decline[sd]?|sink[s]?|downgrade\w*|miss(es|ed)?|weak|loss|probe|penalty|fraud|raid\w*|lower|underperform\w*|bearish|hits? 52-week low|cut[s]?)\b"
-POS_RE, NEG_RE = re.compile(POS, re.I), re.compile(NEG, re.I)
-
-
-def log(*a):
-    print(*a, file=sys.stderr, flush=True)
-
-
-def fetch(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
-
-
-def parse_date(s):
-    if not s:
-        return None
-    try:
-        d = parsedate_to_datetime(s)
-        return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
-    except Exception:
-        pass
-    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ"):
-        try:
-            d = datetime.strptime(s.strip(), fmt)
-            return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
-        except Exception:
-            pass
-    return None
-
-
-def clean(text):
-    text = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def parse_rss(raw, default_source):
-    items = []
-    root = ET.fromstring(raw)
-    for it in root.iter("item"):
-        title = clean(it.findtext("title"))
-        link = (it.findtext("link") or "").strip()
-        src_el = it.find("source")
-        source = clean(src_el.text) if src_el is not None and src_el.text else default_source
-        # Google News appends " - Publisher" to titles
-        if source and title.endswith(" - " + source):
-            title = title[: -len(source) - 3].strip()
-        pub = parse_date(it.findtext("pubDate"))
-        desc = clean(it.findtext("description"))
-        if title and link:
-            items.append({"title": title, "link": link, "source": source, "published": pub, "desc": desc})
-    return items
-
-
-def alias_pattern(a):
-    """'Name' = any case, '=Name' = exact case, '~regex' = advanced pattern, '?Name' = search only."""
-    if a.startswith("~"):
-        body = a[1:]
-    elif a.startswith("="):
-        body = "(?-i:" + re.escape(a[1:]) + ")"
-    else:
-        body = re.escape(a)
-    return r"(?<![\w&])(?:" + body + r")(?![\w&])"
-
-
-def build_matchers(stocks):
-    # one combined pattern per stock keeps matching fast with 500 stocks
-    # aliases starting with "?" are search words only, not used for tagging
-    return [(s, re.compile("|".join(alias_pattern(a) for a in s["aliases"] if not a.startswith("?")), re.I)) for s in stocks]
-
-
-def match_stocks(text, matchers):
-    return [s["symbol"] for s, pat in matchers if pat.search(text)]
-
-
-def tag(title):
-    tags = [k for k, r in TAG_RE.items() if r.search(title)]
-    p, n = len(POS_RE.findall(title)), len(NEG_RE.findall(title))
-    sentiment = "positive" if p > n else "negative" if n > p else "neutral"
-    return tags, sentiment
-
-
-def norm_key(title):
-    return hashlib.sha1(re.sub(r"[^a-z0-9]", "", title.lower())[:120].encode()).hexdigest()[:16]
-
-
-def google_job(stock):
-    q = urllib.parse.quote(f'{stock["query"]} when:1d')
-    for attempt in range(2):
-        try:
-            return stock["symbol"], parse_rss(fetch(GOOGLE_NEWS.format(q=q)), "Google News"), None
-        except Exception as e:
-            err = str(e)
-            time.sleep(2)
-    return stock["symbol"], [], err
-
-
-def feed_job(name_url):
-    name, url = name_url
-    try:
-        return name, parse_rss(fetch(url), name), None
-    except Exception as e:
-        return name, [], str(e)
-
-
-def write_json(path, obj):
-    # one headline per line keeps git history small and readable
-    path.write_text(json.dumps(obj, ensure_ascii=False, separators=(",", ":")).replace(',{"id"', ',\n{"id"'))
-
-
-def push_alerts(new_items, by_sym):
-    """Optional phone push via ntfy.sh (free app, no account).
-    Set the NTFY_TOPIC secret in GitHub to turn it on. ALERT_SYMBOLS (optional,
-    comma-separated, e.g. "TCS,TATASTEEL,ADANIENT") limits pushes to those stocks."""
-    topic = os.environ.get("NTFY_TOPIC", "").strip()
-    if not topic or not new_items:
-        return
-    only = {x.strip().upper() for x in os.environ.get("ALERT_SYMBOLS", "").split(",") if x.strip()}
-    if only:
-        new_items = [i for i in new_items if only & set(i["symbols"])]
-    # ALERT_INDEX (optional), e.g. "Nifty 50" or "Nifty 200": phone alerts only for that index
-    idx = os.environ.get("ALERT_INDEX", "").strip().lower()
-    if idx and not only:
-        in_idx = {s for s, v in by_sym.items() if idx in [x.lower() for x in v.get("indices", [])]}
-        new_items = [i for i in new_items if in_idx & set(i["symbols"])]
-    if not new_items:
-        return
-    new_items.sort(key=lambda i: i["published"], reverse=True)
-    sent = 0
-    for i in new_items[:8]:
-        names = ", ".join(by_sym[s]["name"] for s in i["symbols"] if s in by_sym)
-        tone = {"positive": "chart_with_upwards_trend", "negative": "chart_with_downwards_trend"}.get(i["sentiment"], "newspaper")
-        req = urllib.request.Request(
-            "https://ntfy.sh/" + urllib.parse.quote(topic),
-            data=i["title"].encode("utf-8"),
-            headers={"Title": (names or "Market news").encode("utf-8"), "Click": i["link"], "Tags": tone,
-                     "Priority": "high" if "Management" in i["tags"] or "Regulatory" in i["tags"] else "default"},
-            method="POST")
-        try:
-            urllib.request.urlopen(req, timeout=10).read()
-            sent += 1
-        except Exception as e:
-            log("ntfy push failed:", e)
-    if len(new_items) > 8:
-        try:
-            urllib.request.urlopen(urllib.request.Request("https://ntfy.sh/" + urllib.parse.quote(topic),
-                data=f"+{len(new_items) - 8} more headlines on your dashboard".encode(), method="POST"), timeout=10)
-        except Exception:
-            pass
-    log(f"pushed {sent} alert(s) to phone")
-
-
-def main():
-    cfg = json.loads(WATCHLIST.read_text())
-    stocks = cfg["stocks"]
-    by_sym = {s["symbol"]: s for s in stocks}
-    matchers = build_matchers(stocks)
-    now = datetime.now(timezone.utc)
-
-    # existing data (so first_seen survives between runs)
-    existing = {}
-    for f in (OUT, ARCHIVE):
-        if f.exists():
-            try:
-                for it in json.loads(f.read_text()).get("items", []):
-                    existing[it["id"]] = it
-            except Exception as e:
-                log(f"could not read existing {f.name}:", e)
-
-    # Nifty 50 + Sensex ("core") are searched every run; the rest in rotating batches
-    core = [s for s in stocks if s.get("core", True)]
-    rest = [s for s in stocks if not s.get("core", True)]
-    batch_no = int(now.timestamp() // 300) % BATCHES
-    batch = rest[batch_no::BATCHES]
-    searches = core + batch + [{"symbol": "broad:" + q, "query": q} for q in BROAD_QUERIES]
-    log(f"Google News: {len(core)} core + {len(batch)} rotating (batch {batch_no + 1}/{BATCHES}) + {len(BROAD_QUERIES)} broad")
-
-    raw = []  # (item, forced_symbol or None)
-    errors = []
-    with ThreadPoolExecutor(max_workers=10) as ex:
-        for sym, items, err in ex.map(google_job, searches):
-            if err:
-                errors.append(f"Google News [{sym}]: {err}")
-            raw += [(i, sym) for i in items]
-        for name, items, err in ex.map(feed_job, MARKET_FEEDS.items()):
-            if err:
-                errors.append(f"{name}: {err}")
-            raw += [(i, None) for i in items]
-
-    merged = dict(existing)
-    fresh = 0
-    new_items = []
-    cutoff = now - timedelta(days=KEEP_DAYS)
-    done = set()
-    for item, forced in raw:
-        pub = item["published"] or now
-        if pub < cutoff or pub > now + timedelta(hours=2):
-            continue
-        k0 = norm_key(item["title"])
-        if k0 in done:          # same headline from several searches
-            continue
-        done.add(k0)
-        # Match on the headline only: Google search results and broad feeds both
-        # contain generic market wraps, so a stock is tagged only when the
-        # headline actually names it. This keeps alerts precise.
-        syms = match_stocks(item["title"], matchers)
-        if not syms:
-            continue
-        key = norm_key(item["title"])
-        tags, sentiment = tag(item["title"])
-        if key in merged:
-            old = merged[key]
-            old["symbols"] = sorted(set(old["symbols"]) | set(syms))
-            old.pop("groups", None)
-            continue
-        fresh += 1
-        merged[key] = new_items_append = {
-            "id": key,
-            "title": item["title"],
-            "link": item["link"],
-            "source": item["source"],
-            "published": pub.astimezone(timezone.utc).isoformat(timespec="seconds"),
-            "first_seen": now.isoformat(timespec="seconds"),
-            "symbols": sorted(set(syms)),
-            "tags": tags,
-            "sentiment": sentiment,
-        }
-        new_items.append(new_items_append)
-
-    items = [i for i in merged.values() if parse_date(i["published"]) and parse_date(i["published"]) >= cutoff]
-    for i in items:
-        i.pop("groups", None)   # older format; the page works this out from the stock list
-    items.sort(key=lambda i: i["published"], reverse=True)
-    items = items[:MAX_ITEMS]
-
-    recent = [i for i in items if parse_date(i["published"]) >= now - timedelta(hours=RECENT_HOURS)]
-    older = [i for i in items if parse_date(i["published"]) < now - timedelta(hours=RECENT_HOURS)]
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    stamp = now.isoformat(timespec="seconds")
-    write_json(OUT, {
-        "updated": stamp,
-        "recent_hours": RECENT_HOURS,
-        "archive_count": len(older),
-        "stocks": [{"symbol": s["symbol"], "name": s["name"], "group": s["group"], "indices": s.get("indices", [])} for s in stocks],
-        "errors": errors[:20],
-        "items": recent,
-    })
-    write_json(ARCHIVE, {"updated": stamp, "items": older})
-    (OUT.parent / "latest.json").write_text(json.dumps({"updated": stamp, "count": len(items)}))
-    # Skip pushes on the very first run so you don't get a flood of old headlines
-    if existing:
-        push_alerts([i for i in new_items if parse_date(i["published"]) >= now - timedelta(hours=6)], by_sym)
-    log(f"{fresh} new headlines, {len(items)} total, {len(errors)} source errors")
-    for e in errors[:10]:
-        log("  !", e)
-
-
-if __name__ == "__main__":
-    main()
