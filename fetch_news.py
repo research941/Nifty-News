@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Nifty 50 + Sensex news collector.
+Nifty 500 (incl. Nifty 50 + Sensex) news collector.
 
-Pulls headlines from Google News (one search per stock) plus several Indian
-market RSS feeds, tags each headline with the stocks it mentions, and writes
+Pulls headlines from Google News (one search per stock: Nifty 50 + Sensex every
+run, the other ~450 stocks in rotation) plus several Indian business RSS feeds, tags each headline with the stocks it mentions, and writes
 docs/news.json for the dashboard. Uses only the Python standard library.
 
 Run locally:  python fetch_news.py
@@ -25,10 +25,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 WATCHLIST = ROOT / "watchlist.json"
-OUT = ROOT / "docs" / "news.json"
+OUT = ROOT / "docs" / "news.json"          # last 24 hours (what the page loads first)
+ARCHIVE = ROOT / "docs" / "archive.json"   # 1 to KEEP_DAYS days old (loaded only when you ask for older news)
 
 KEEP_DAYS = 7          # how long headlines stay on the dashboard
-MAX_ITEMS = 3000       # hard cap on stored headlines
+MAX_ITEMS = 9000       # hard cap on stored headlines
+RECENT_HOURS = 24      # headlines newer than this go in news.json, older ones in archive.json
+BATCHES = 6            # non-core stocks are split into this many groups; one group is searched per run
 UA = "Mozilla/5.0 (compatible; NiftyNewsBot/1.0)"
 
 # Broad market feeds (every headline is checked against the watchlist)
@@ -37,7 +40,17 @@ MARKET_FEEDS = {
     "ET Markets": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
     "Mint": "https://www.livemint.com/rss/markets",
     "Business Standard": "https://www.business-standard.com/rss/markets-106.rss",
+    "ET Companies": "https://economictimes.indiatimes.com/news/company/corporate-trends/rssfeeds/2143429.cms",
+    "ET Industry": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms",
+    "Mint Companies": "https://www.livemint.com/rss/companies",
+    "BusinessLine Markets": "https://www.thehindubusinessline.com/markets/stock-markets/feeder/default.rss",
+    "BusinessLine Companies": "https://www.thehindubusinessline.com/companies/feeder/default.rss",
 }
+
+# Broad Google News searches run every time; they catch news on any of the 500
+# stocks between their own scheduled searches.
+BROAD_QUERIES = ["NSE shares", "shares surge", "shares fall", "stock jumps", "bags order",
+                 "Q2 results profit", "brokerage target price", "stake sale block deal"]
 
 GOOGLE_NEWS = "https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
 
@@ -107,23 +120,25 @@ def parse_rss(raw, default_source):
     return items
 
 
+def alias_pattern(a):
+    """'Name' = any case, '=Name' = exact case, '~regex' = advanced pattern, '?Name' = search only."""
+    if a.startswith("~"):
+        body = a[1:]
+    elif a.startswith("="):
+        body = "(?-i:" + re.escape(a[1:]) + ")"
+    else:
+        body = re.escape(a)
+    return r"(?<![\w&])(?:" + body + r")(?![\w&])"
+
+
 def build_matchers(stocks):
-    matchers = []
-    for s in stocks:
-        pats = []
-        for a in s["aliases"]:
-            flags = 0
-            if a.startswith("="):
-                a = a[1:]
-            else:
-                flags = re.I
-            pats.append(re.compile(r"(?<![\w&])" + re.escape(a) + r"(?![\w&])", flags))
-        matchers.append((s, pats))
-    return matchers
+    # one combined pattern per stock keeps matching fast with 500 stocks
+    # aliases starting with "?" are search words only, not used for tagging
+    return [(s, re.compile("|".join(alias_pattern(a) for a in s["aliases"] if not a.startswith("?")), re.I)) for s in stocks]
 
 
 def match_stocks(text, matchers):
-    return [s["symbol"] for s, pats in matchers if any(p.search(text) for p in pats)]
+    return [s["symbol"] for s, pat in matchers if pat.search(text)]
 
 
 def tag(title):
@@ -139,10 +154,13 @@ def norm_key(title):
 
 def google_job(stock):
     q = urllib.parse.quote(f'{stock["query"]} when:1d')
-    try:
-        return stock["symbol"], parse_rss(fetch(GOOGLE_NEWS.format(q=q)), "Google News"), None
-    except Exception as e:
-        return stock["symbol"], [], str(e)
+    for attempt in range(2):
+        try:
+            return stock["symbol"], parse_rss(fetch(GOOGLE_NEWS.format(q=q)), "Google News"), None
+        except Exception as e:
+            err = str(e)
+            time.sleep(2)
+    return stock["symbol"], [], err
 
 
 def feed_job(name_url):
@@ -151,6 +169,11 @@ def feed_job(name_url):
         return name, parse_rss(fetch(url), name), None
     except Exception as e:
         return name, [], str(e)
+
+
+def write_json(path, obj):
+    # one headline per line keeps git history small and readable
+    path.write_text(json.dumps(obj, ensure_ascii=False, separators=(",", ":")).replace(',{"id"', ',\n{"id"'))
 
 
 def push_alerts(new_items, by_sym):
@@ -163,6 +186,13 @@ def push_alerts(new_items, by_sym):
     only = {x.strip().upper() for x in os.environ.get("ALERT_SYMBOLS", "").split(",") if x.strip()}
     if only:
         new_items = [i for i in new_items if only & set(i["symbols"])]
+    # ALERT_INDEX (optional), e.g. "Nifty 50" or "Nifty 200": phone alerts only for that index
+    idx = os.environ.get("ALERT_INDEX", "").strip().lower()
+    if idx and not only:
+        in_idx = {s for s, v in by_sym.items() if idx in [x.lower() for x in v.get("indices", [])]}
+        new_items = [i for i in new_items if in_idx & set(i["symbols"])]
+    if not new_items:
+        return
     new_items.sort(key=lambda i: i["published"], reverse=True)
     sent = 0
     for i in new_items[:8]:
@@ -197,17 +227,26 @@ def main():
 
     # existing data (so first_seen survives between runs)
     existing = {}
-    if OUT.exists():
-        try:
-            for it in json.loads(OUT.read_text()).get("items", []):
-                existing[it["id"]] = it
-        except Exception as e:
-            log("could not read existing news.json:", e)
+    for f in (OUT, ARCHIVE):
+        if f.exists():
+            try:
+                for it in json.loads(f.read_text()).get("items", []):
+                    existing[it["id"]] = it
+            except Exception as e:
+                log(f"could not read existing {f.name}:", e)
+
+    # Nifty 50 + Sensex ("core") are searched every run; the rest in rotating batches
+    core = [s for s in stocks if s.get("core", True)]
+    rest = [s for s in stocks if not s.get("core", True)]
+    batch_no = int(now.timestamp() // 300) % BATCHES
+    batch = rest[batch_no::BATCHES]
+    searches = core + batch + [{"symbol": "broad:" + q, "query": q} for q in BROAD_QUERIES]
+    log(f"Google News: {len(core)} core + {len(batch)} rotating (batch {batch_no + 1}/{BATCHES}) + {len(BROAD_QUERIES)} broad")
 
     raw = []  # (item, forced_symbol or None)
     errors = []
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        for sym, items, err in ex.map(google_job, stocks):
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        for sym, items, err in ex.map(google_job, searches):
             if err:
                 errors.append(f"Google News [{sym}]: {err}")
             raw += [(i, sym) for i in items]
@@ -220,10 +259,15 @@ def main():
     fresh = 0
     new_items = []
     cutoff = now - timedelta(days=KEEP_DAYS)
+    done = set()
     for item, forced in raw:
         pub = item["published"] or now
         if pub < cutoff or pub > now + timedelta(hours=2):
             continue
+        k0 = norm_key(item["title"])
+        if k0 in done:          # same headline from several searches
+            continue
+        done.add(k0)
         # Match on the headline only: Google search results and broad feeds both
         # contain generic market wraps, so a stock is tagged only when the
         # headline actually names it. This keeps alerts precise.
@@ -235,7 +279,7 @@ def main():
         if key in merged:
             old = merged[key]
             old["symbols"] = sorted(set(old["symbols"]) | set(syms))
-            old["groups"] = sorted({by_sym[s]["group"] for s in old["symbols"] if s in by_sym})
+            old.pop("groups", None)
             continue
         fresh += 1
         merged[key] = new_items_append = {
@@ -246,23 +290,31 @@ def main():
             "published": pub.astimezone(timezone.utc).isoformat(timespec="seconds"),
             "first_seen": now.isoformat(timespec="seconds"),
             "symbols": sorted(set(syms)),
-            "groups": sorted({by_sym[s]["group"] for s in syms if s in by_sym}),
             "tags": tags,
             "sentiment": sentiment,
         }
         new_items.append(new_items_append)
 
     items = [i for i in merged.values() if parse_date(i["published"]) and parse_date(i["published"]) >= cutoff]
+    for i in items:
+        i.pop("groups", None)   # older format; the page works this out from the stock list
     items.sort(key=lambda i: i["published"], reverse=True)
     items = items[:MAX_ITEMS]
 
+    recent = [i for i in items if parse_date(i["published"]) >= now - timedelta(hours=RECENT_HOURS)]
+    older = [i for i in items if parse_date(i["published"]) < now - timedelta(hours=RECENT_HOURS)]
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({
-        "updated": now.isoformat(timespec="seconds"),
+    stamp = now.isoformat(timespec="seconds")
+    write_json(OUT, {
+        "updated": stamp,
+        "recent_hours": RECENT_HOURS,
+        "archive_count": len(older),
         "stocks": [{"symbol": s["symbol"], "name": s["name"], "group": s["group"], "indices": s.get("indices", [])} for s in stocks],
         "errors": errors[:20],
-        "items": items,
-    }, ensure_ascii=False, indent=0))
+        "items": recent,
+    })
+    write_json(ARCHIVE, {"updated": stamp, "items": older})
+    (OUT.parent / "latest.json").write_text(json.dumps({"updated": stamp, "count": len(items)}))
     # Skip pushes on the very first run so you don't get a flood of old headlines
     if existing:
         push_alerts([i for i in new_items if parse_date(i["published"]) >= now - timedelta(hours=6)], by_sym)
