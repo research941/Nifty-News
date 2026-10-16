@@ -2,9 +2,9 @@ name: Fetch Nifty 500 news
 
 on:
   schedule:
-    # Market hours (Mon-Fri 9:00-16:00 IST = 03:30-10:30 UTC): every 5 minutes
+    # GitHub often starts scheduled runs late (every 20-35 min instead of 5),
+    # so in market hours each run keeps going for ~30 min and refreshes every 5 min.
     - cron: "2-59/5 3-10 * * 1-5"
-    # Rest of the time: every 15 minutes
     - cron: "7-59/15 0-2,11-23 * * 1-5"
     - cron: "7-59/15 * * * 0,6"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
@@ -19,7 +19,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -27,22 +27,27 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Collect headlines
+      - name: Collect headlines and save (repeats every 5 min in market hours)
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}         # optional: phone push alerts
           ALERT_SYMBOLS: ${{ vars.ALERT_SYMBOLS }}      # optional: e.g. TCS,TATASTEEL,ADANIENT
           ALERT_INDEX: ${{ vars.ALERT_INDEX }}          # optional: e.g. Nifty 50 (phone alerts only for that index)
-        run: python fetch_news.py
-
-      - name: Save updated news.json
         run: |
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add docs/news.json docs/archive.json docs/latest.json
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "news: $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git pull --rebase --autostash || true
-            git push
-          fi
+          # Market hours = Mon-Fri 03:30-10:30 UTC (9:00 AM - 4:00 PM IST): 7 rounds, 5 min apart
+          now=$(date -u +%H%M); day=$(date -u +%u)
+          rounds=1
+          if [ "$day" -le 5 ] && [ "$now" -ge 0330 ] && [ "$now" -lt 1030 ]; then rounds=7; fi
+          for i in $(seq 1 $rounds); do
+            echo "=== round $i of $rounds ==="
+            git pull --rebase --autostash -q || true
+            python fetch_news.py || echo "collector error, will retry next round"
+            git add docs/news.json docs/archive.json docs/latest.json 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "news: $(date -u +'%Y-%m-%d %H:%M') UTC"
+              git pull --rebase --autostash -q || true
+              git push -q || echo "push failed, will retry next round"
+            fi
+            if [ "$i" -lt "$rounds" ]; then sleep 270; fi
+          done
